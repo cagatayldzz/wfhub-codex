@@ -134,7 +134,6 @@ export default [
       "@typescript-eslint/no-namespace": "off",
       "no-constant-binary-expression": "error",
       "@typescript-eslint/ban-types": "off",
-      "react-hooks/exhaustive-deps": "off",
       "no-constant-condition": "error",
       "no-unused-expressions": "error",
       "no-duplicate-imports": "error",
