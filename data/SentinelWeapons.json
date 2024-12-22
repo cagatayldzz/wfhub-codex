@@ -1,0 +1,1874 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponPS",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akaten-92fcdfd7f2.png",
+    "name": "Akaten",
+    "description": "Hound melee attacks eviscerate with <DT_PUNCTURE_COLOR>Puncture and <DT_SLASH_COLOR>Slash Damage.",
+    "languages": [
+      {
+        "description": "Nahkampfangriffe des Jagdhunds weiden Opfer mit <DT_PUNCTURE_COLOR>Durchschlags- und <DT_SLASH_COLOR>Schnittschaden aus.",
+        "name": "Akaten",
+        "code": "de"
+      },
+      {
+        "description": "Les attaques de Mêlée du Molosse éviscèrent les ennemis, infligeant des Dégâts de <DT_PUNCTURE_COLOR>Perforation et <DT_SLASH_COLOR>Tranchants.",
+        "name": "Akaten",
+        "code": "fr"
+      },
+      {
+        "description": "Gli attacchi corpo a corpo del Segugio eviscerano con Danno <DT_PUNCTURE_COLOR>Perforazione e <DT_SLASH_COLOR>Taglio.",
+        "name": "Akaten",
+        "code": "it"
+      },
+      {
+        "description": "<DT_PUNCTURE_COLOR>관통 및 <DT_SLASH_COLOR>베기 피해로 적을 조각내는 하운드의 근접 공격 모듈입니다.",
+        "name": "아카텐",
+        "code": "ko"
+      },
+      {
+        "description": "Los ataques cuerpo a cuerpo de los sabuesos destripan con daño de <DT_PUNCTURE_COLOR>perforación y <DT_SLASH_COLOR>cortante.",
+        "name": "Akaten",
+        "code": "es"
+      },
+      {
+        "description": "（英文：AKATEN）猎犬近战攻击通过 <DT_PUNCTURE_COLOR>穿刺和 <DT_SLASH_COLOR>切割伤害开膛剖腹。",
+        "name": "阿卡腾",
+        "code": "zh"
+      },
+      {
+        "description": "Атаки гончей в ближнем бою потрошат врагов, нанося <DT_PUNCTURE_COLOR>пронзающий и <DT_SLASH_COLOR>режущий урон.",
+        "name": "Акатэн",
+        "code": "ru"
+      },
+      {
+        "description": "ハウンドの近接攻撃で<DT_PUNCTURE_COLOR>貫通と<DT_SLASH_COLOR>切断ダメージを与える。",
+        "name": "Akaten",
+        "code": "ja"
+      },
+      {
+        "description": "Obdzierające Ataki w Walce wręcz w postaci <DT_PUNCTURE_COLOR>Obrażeń Przebijających oraz <DT_SLASH_COLOR>Tnących.",
+        "name": "Akaten",
+        "code": "pl"
+      },
+      {
+        "description": "Os ataques deste Predador evisceram seus inimigos com Dano <DT_PUNCTURE_COLOR>Perfurante e <DT_SLASH_COLOR>Cortante.",
+        "name": "Akaten",
+        "code": "pt"
+      },
+      {
+        "description": "獵犬近戰的攻擊將以<DT_PUNCTURE_COLOR>穿刺和<DT_SLASH_COLOR>切割傷害撕裂敵人。",
+        "name": "阿卡騰",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธโจมตีระยะประชิดของสุนัขฮาวด์ที่จะชำแหละศัตรูด้วยความเสียหายจาก <DT_PUNCTURE_COLOR>การเจาะและ <DT_SLASH_COLOR>การเฉือนฟัน",
+        "name": "Akaten",
+        "code": "th"
+      },
+      {
+        "description": "Tazının parçalayıcı yakın dövüş saldırıları <DT_PUNCTURE_COLOR>Delme ve <DT_SLASH_COLOR>Kesme Hasarı verir.",
+        "name": "Akaten",
+        "code": "tr"
+      },
+      {
+        "description": "Гончак патрає ворогів у ближньому бою й завдає <DT_PUNCTURE_COLOR>пробивної та <DT_SLASH_COLOR>різальної шкоди.",
+        "name": "Акатен",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/artax-40f5c3dbb9.png",
+    "name": "Artax",
+    "description": "Freeze targets in their tracks with this sentinel mounted ice-beam.",
+    "languages": [
+      {
+        "description": "Lasse Gegner in ihren Spuren erfrieren mit diesem Eisstrahl deines Wächters.",
+        "name": "Artax",
+        "code": "de"
+      },
+      {
+        "description": "Congèle les cibles sur place avec ce faisceau glacial pour Sentinelle.",
+        "name": "Artax",
+        "code": "fr"
+      },
+      {
+        "description": "Congela i bersagli sul posto con il raggio congelante di questa sentinella.",
+        "name": "Artax",
+        "code": "it"
+      },
+      {
+        "description": "센티넬에게 장착된 이 아이스 빔으로 경로 상의 적들을 얼려 보세요.",
+        "name": "아르탁스",
+        "code": "ko"
+      },
+      {
+        "description": "Congela en seco a enemigos con el rayo de hielo de este arma de centinela.",
+        "name": "Artax",
+        "code": "es"
+      },
+      {
+        "description": "（英文：ARTAX）使用守护装有的冰冷光束将目标在行动路线上冻结。",
+        "name": "阿塔克斯",
+        "code": "zh"
+      },
+      {
+        "description": "Замораживайте любые движения цели ледяным лучом этого оружия стража.",
+        "name": "Артакс",
+        "code": "ru"
+      },
+      {
+        "description": "センチネル専用の冷気ビームで敵を氷漬けに。",
+        "name": "Artax",
+        "code": "ja"
+      },
+      {
+        "description": "Marzyłeś, aby zostawić kogoś na lodzie? Teraz masz okazję, wystarczy użyć tego lodowego działka Strażnika.",
+        "name": "Artax",
+        "code": "pl"
+      },
+      {
+        "description": "Congele alvos em suas posições com este feixe de gelo acoplado na sentinela.",
+        "name": "Artax",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：ARTAX）使用架置在守護的冰冷光束將目標在行動路線上凍結。",
+        "name": "阿塔克斯",
+        "code": "tc"
+      },
+      {
+        "description": "ตรึงเป้าหมายที่อยู่ตามรายทางด้วยลำแสงน้ำแข็งที่ติดอยู่กับอาวุธเซนติเนลกระบอกนี้",
+        "name": "Artax",
+        "code": "th"
+      },
+      {
+        "description": "Hedeflerinizi Sentinelinizdeki bu buz-lazeri ile dondurun.",
+        "name": "Artax",
+        "code": "tr"
+      },
+      {
+        "description": "Променева зброя для вартового, що здатна заморожувати ворогів.",
+        "name": "Артакс",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponIP",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/batoten-a5990aba68.png",
+    "name": "Batoten",
+    "description": "Hound melee attacks pierce hard with <DT_IMPACT_COLOR>Impact and <DT_PUNCTURE_COLOR>Puncture Damage.",
+    "languages": [
+      {
+        "description": "Nahkampfangriffe des Jagdhunds treffen hart mit <DT_IMPACT_COLOR>Einschlags- und <DT_PUNCTURE_COLOR>Durschlagsschaden.",
+        "name": "Batoten",
+        "code": "de"
+      },
+      {
+        "description": "Les attaques de Mêlée du Molosse perforent violemment, infligeant des Dégâts <DT_IMPACT_COLOR>d'Impact et de <DT_PUNCTURE_COLOR>Perforation.",
+        "name": "Batoten",
+        "code": "fr"
+      },
+      {
+        "description": "Gli attacchi corpo a corpo del Segugio perforano con Danno <DT_IMPACT_COLOR>Impatto e <DT_PUNCTURE_COLOR>Perforazione.",
+        "name": "Batoten",
+        "code": "it"
+      },
+      {
+        "description": "<DT_IMPACT_COLOR>충격 및 <DT_PUNCTURE_COLOR>관통 피해로 강하게 꿰뚫는 하운드의 근접 공격 모듈입니다.",
+        "name": "바토텐",
+        "code": "ko"
+      },
+      {
+        "description": "Los ataques cuerpo a cuerpo de los sabuesos perforan fuertemente con daño de <DT_IMPACT_COLOR>impacto y <DT_PUNCTURE_COLOR>perforación.",
+        "name": "Batoten",
+        "code": "es"
+      },
+      {
+        "description": "（英文：BATOTEN）猎犬近战攻击通过 <DT_IMPACT_COLOR>冲击和 <DT_PUNCTURE_COLOR>穿刺伤害猛烈穿刺。",
+        "name": "巴托腾",
+        "code": "zh"
+      },
+      {
+        "description": "Атаки гончей в ближнем бою пронзают насквозь и наносят <DT_IMPACT_COLOR>ударный и <DT_PUNCTURE_COLOR>пронзающий урон.",
+        "name": "Батотэн",
+        "code": "ru"
+      },
+      {
+        "description": "ハウンドの近接攻撃で<DT_IMPACT_COLOR>衝撃と<DT_PUNCTURE_COLOR>貫通ダメージを与える。",
+        "name": "Batoten",
+        "code": "ja"
+      },
+      {
+        "description": "Przebijające Ataki w Walce wręcz Ogara zadają <DT_IMPACT_COLOR>Obrażenia Miażdżące oraz <DT_PUNCTURE_COLOR>Przebijające.",
+        "name": "Batoten",
+        "code": "pl"
+      },
+      {
+        "description": "Os ataques deste Predador perfuram com força total utilizando o Dano <DT_IMPACT_COLOR>Colisivo e <DT_PUNCTURE_COLOR>Perfurante.",
+        "name": "Batoten",
+        "code": "pt"
+      },
+      {
+        "description": "獵犬近戰的攻擊將以<DT_IMPACT_COLOR>衝擊和<DT_PUNCTURE_COLOR>穿刺傷害擊穿敵人。",
+        "name": "巴托騰",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธโจมตีระยะประชิดของสุนัขฮาวด์ที่จะทะลวงศัตรูอย่างรุนแรงด้วยความเสียหายจาก <DT_IMPACT_COLOR>แรงกระแทกและ <DT_PUNCTURE_COLOR>แรงเจาะ",
+        "name": "Batoten",
+        "code": "th"
+      },
+      {
+        "description": "Tazının delici yakın dövüş saldırıları <DT_IMPACT_COLOR>Darbe ve <DT_PUNCTURE_COLOR>Delme Hasarı verir.",
+        "name": "Batoten",
+        "code": "tr"
+      },
+      {
+        "description": "Гончак пробиває ворогів у ближньому бою й завдає <DT_IMPACT_COLOR>ударної та <DT_PUNCTURE_COLOR>пробивної шкоди.",
+        "name": "Батотен",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/burst-laser-d6fb44fe7d.png",
+    "name": "Burst Laser",
+    "description": "Fires a small burst of lasers.",
+    "languages": [
+      {
+        "description": "Feuert kleine Lasersalven.",
+        "name": "Salvenlaser",
+        "code": "de"
+      },
+      {
+        "description": "Tire une petite rafale de lasers.",
+        "name": "Laser à Rafale",
+        "code": "fr"
+      },
+      {
+        "description": "Spara brevi raffiche di laser.",
+        "name": "Burst Laser",
+        "code": "it"
+      },
+      {
+        "description": "약한 레이저를 3점사로 발사합니다.",
+        "name": "버스트 레이저",
+        "code": "ko"
+      },
+      {
+        "description": "Dispara una pequeña ráfaga de láseres.",
+        "name": "Láser de ráfagas",
+        "code": "es"
+      },
+      {
+        "description": "（英文：BURST LASER）点射一小束激光。",
+        "name": "激光点发",
+        "code": "zh"
+      },
+      {
+        "description": "Стреляет короткой серией лазерных лучей.",
+        "name": "Лазерный пистолет",
+        "code": "ru"
+      },
+      {
+        "description": "レーザーをバースト射撃する。",
+        "name": "Burst Laser",
+        "code": "ja"
+      },
+      {
+        "description": "Strzela krótkimi seriami pocisków laserowych.",
+        "name": "Laser Impulsowy",
+        "code": "pl"
+      },
+      {
+        "description": "Atira pequenas rajadas de lasers.",
+        "name": "Rajada a Laser",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：BURST LASER）點射一小束雷射。",
+        "name": "雷射點發",
+        "code": "tc"
+      },
+      {
+        "description": "ยิงเลเซอร์ออกมาเป็นชุดเล็ก ๆ",
+        "name": "Burst Laser",
+        "code": "th"
+      },
+      {
+        "description": "Küçük bir lazer patlamasını ateşler",
+        "name": "Burst Laser",
+        "code": "tr"
+      },
+      {
+        "description": "Стріляє короткими чергами лазерних променів.",
+        "name": "Шквальний лазер",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeBurstLaserPistol",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/burst-laser-prime-c2b712f0d2.png",
+    "name": "Burst Laser Prime",
+    "description": "Shade Prime’s signature weapon fires laser bursts.",
+    "languages": [
+      {
+        "description": "Die bevorzugte Waffe von Shade Prime, die Lasersalven verschießt.",
+        "name": "Salvenlaser Prime",
+        "code": "de"
+      },
+      {
+        "description": "L'arme emblématique du Shade Prime tire des rafales laser.",
+        "name": "Laser à Rafale Prime",
+        "code": "fr"
+      },
+      {
+        "description": "L'arma distintiva di Shade Prime spara raffiche laser.",
+        "name": "Burst Laser Prime",
+        "code": "it"
+      },
+      {
+        "description": "셰이드 프라임의 대표 무기로, 버스트 레이저를 발사합니다.",
+        "name": "버스트 레이저 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "El arma distintiva de Shade Prime dispara ráfagas de láser.",
+        "name": "Láser de Ráfagas Prime",
+        "code": "es"
+      },
+      {
+        "description": "阴影 Prime 的标志性武器会发射激光束。",
+        "name": "激光点发 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Фирменное оружие Шейда Прайма, стреляет лазерными очередями.",
+        "name": "Лазерный Пистолет Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "レーザーバーストを発射するShade Primeのメイン武器。",
+        "name": "Burst Laser Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Charakterystyczna broń Shade'a Prime strzela seriami laserowymi.",
+        "name": "Laser Impulsowy Prime",
+        "code": "pl"
+      },
+      {
+        "description": "A arma tradicional da Shade Prime dispara rajadas a laser.",
+        "name": "Rajada a Laser Prime",
+        "code": "pt"
+      },
+      {
+        "description": "陰影 Prime 的標誌性武器點放雷射光束。",
+        "name": "雷射點發 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธประจำตัวของ Shade Prime ที่จะยิงแสงเลเซอร์ออกมา",
+        "name": "Burst Laser Prime",
+        "code": "th"
+      },
+      {
+        "description": "Shade Prime'ın özel darbeli lazer silahı.",
+        "name": "Burst Laser Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Визначна зброя Тіні-прайм, що стріляє лазерними чергами.",
+        "name": "Шквальний лазер-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cryotra-3b07124a4b.png",
+    "name": "Cryotra",
+    "description": "Fires volleys of icy grenades that inflict a lingering chill on the blast zone.",
+    "languages": [
+      {
+        "description": "Feuert Salven eisiger Granaten ab, die im Explosionsbereich eine anhaltende Kälte hinterlassen.",
+        "name": "Cryotra",
+        "code": "de"
+      },
+      {
+        "description": "Tire des volées de grenades glacées qui répandent un froid persistant dans la zone d'explosion.",
+        "name": "Cryotra",
+        "code": "fr"
+      },
+      {
+        "description": "Spara raffiche di granate ghiacciate che creano una zona gelata persistente dove si è innascata l'esplosione.",
+        "name": "Cryotra",
+        "code": "it"
+      },
+      {
+        "description": "폭발 지점에 지속되는 냉기 효과를 남기는 얼음 수류탄을 연발로 발사합니다.",
+        "name": "크라이오트라",
+        "code": "ko"
+      },
+      {
+        "description": "Dispara ráfagas de granadas heladas que provocan un frío persistente en la zona de la explosión.",
+        "name": "Cryotra",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CRYOTRA）发射一连串冰冷的手榴弹，在爆炸区域留下持久的寒气。",
+        "name": "急冻喷枪",
+        "code": "zh"
+      },
+      {
+        "description": "Выпускает залпы ледяных гранат, вызывающих продолжительный холод в зоне взрыва.",
+        "name": "Криотра",
+        "code": "ru"
+      },
+      {
+        "description": "爆発範囲に長時間の冷気をもたらす氷の手榴弾を一斉に発射する。",
+        "name": "Cryotra",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwuje serię lodowych granatów, tymczasowo zamrażając obszar ich detonacji.",
+        "name": "Cryotra",
+        "code": "pl"
+      },
+      {
+        "description": "Disparará rajadas de granadas gélidas, que criarão uma zona de lentidão ao explodirem.",
+        "name": "Cryotra",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CRYOTRA）連續發射冰冷的榴彈，在爆炸區域帶來停留的嚴寒。",
+        "name": "急凍噴槍",
+        "code": "tc"
+      },
+      {
+        "description": "ยิงระเบิดน้ำแข็งออกมาเป็นชุดซึ่งจะทำให้ความหนาวเย็นยังตกค้างอยู่ในบริเวณที่เกิดการระเบิด",
+        "name": "Cryotra",
+        "code": "th"
+      },
+      {
+        "description": "Patlama bölgesine soğuk bir alan oluşturan buzlu bombalar ateşler.",
+        "name": "Cryotra",
+        "code": "tr"
+      },
+      {
+        "description": "Випускає залп гранат, які завдають тривалої крижаної шкоди у зоні вибуху.",
+        "name": "Кріотра",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deconstructor-d7559eb017.png",
+    "name": "Deconstructor",
+    "description": "Causes the Helios Sentinel to attack enemy targets using pieces of itself.",
+    "languages": [
+      {
+        "description": "Ermöglicht es Helios, Gegner mit Teilen seiner selbst anzugreifen.",
+        "name": "Dekonstruktor",
+        "code": "de"
+      },
+      {
+        "description": "Entraîne la Sentinelle Helios à attaquer les cibles ennemies en utilisant des pièces d'elle-même.",
+        "name": "Déconstructeur",
+        "code": "fr"
+      },
+      {
+        "description": "Fa si che la Sentinella Helios attacchi i nemici con parti di se stessa.",
+        "name": "Deconstructor",
+        "code": "it"
+      },
+      {
+        "description": "헬리오스가 자기 자신의 부품을 투척해 적을 공격하도록 합니다.",
+        "name": "디컨스트럭터",
+        "code": "ko"
+      },
+      {
+        "description": "Hace que el centinela Helios ataque usando pedazos de sí mismo.",
+        "name": "Desarmador",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DECONSTRUCTOR）赫利俄斯用自己身上的部件攻击目标敌人。",
+        "name": "分离",
+        "code": "zh"
+      },
+      {
+        "description": "Страж Гелиос атакует врага при помощи своих частей.",
+        "name": "Деконструктор",
+        "code": "ru"
+      },
+      {
+        "description": "Heliosセンチネルに自分のパーツを使って敵を攻撃させる。",
+        "name": "Deconstructor",
+        "code": "ja"
+      },
+      {
+        "description": "Sprawia, że Strażnik Helios atakuje wrogów swoimi częściami.",
+        "name": "Dekonstruktor",
+        "code": "pl"
+      },
+      {
+        "description": "Faz com que a Sentinela Helios ataque alvos inimigos usando partes de si próprio.",
+        "name": "Desconstrutora",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DECONSTRUCTOR）赫利俄斯用自己身上的部件攻擊目標敵人。",
+        "name": "分離",
+        "code": "tc"
+      },
+      {
+        "description": "ทำให้เซนติเนล Helios โจมตีศัตรูที่เป็นเป้าหมายด้วยการใช้ชิ้นส่วนของตัวเอง",
+        "name": "Deconstructor",
+        "code": "th"
+      },
+      {
+        "description": "Helios Sentinelinin düşmanlara kendi parçaları ile saldırmasını sağlar",
+        "name": "Deconstructor",
+        "code": "tr"
+      },
+      {
+        "description": "Дозволяє вартовому Геліосу атакувати ворогів власними частинами.",
+        "name": "Розбирач",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deconstructor-prime-d0433f6f37.png",
+    "name": "Deconstructor Prime",
+    "description": "Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.",
+    "languages": [
+      {
+        "description": "Diese Waffe erlaubt es Helios Prime, sich auseinanderzubauen und in tödliche Geschosse zu verwandeln.",
+        "name": "Dekonstruktor Prime",
+        "code": "de"
+      },
+      {
+        "description": "Permet à Helios Prime de se désassembler avec violence et de se transformer en un projectile mortel.",
+        "name": "Déconstructeur Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Permette ad Helios Prime di disassemblarsi violentemente e diventare un proiettile mortale.",
+        "name": "Deconstructor Prime",
+        "code": "it"
+      },
+      {
+        "description": "헬리오스 프라임이 스스로를 해체해 몸의 부속 하나하나를 치명적인 탄환으로 만들 수 있도록 하는 무기입니다.",
+        "name": "디컨스트럭터 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Permite a Helios Prime desarmarse violentamente y convertirse en un proyectil mortal.",
+        "name": "Desarmador Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DECONSTRUCTOR PRIME）使赫利俄斯 Prime 剧烈拆卸，并将自身变化为一颗致命的发射体。",
+        "name": "分离 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Позволяет Гелиосу Прайм превращаться в смертельный снаряд.",
+        "name": "Деконструктор Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "センチネルを強力な射出物へと変える兵器。",
+        "name": "Deconstructor Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Umożliwia Heliosowi Prime gwałtowne rozczłonkowanie, zamieniające go w śmiercionośny pocisk.",
+        "name": "Dekonstruktor Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Permite que Helios Prime se desmonte violentamente e se torne um projétil mortal.",
+        "name": "Desconstrutora Prime",
+        "code": "pt"
+      },
+      {
+        "description": "使赫利俄斯 Prime 劇烈拆卸，並將自身變化為一顆致命的發射體。",
+        "name": "分離 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ช่วยให้ Helios Prime สามารถแยกชิ้นส่วนออกมาอย่างรุนแรงและเปลี่ยนตัวเองให้เป็นกระสุนปืนที่แสนอันตราย",
+        "name": "Deconstructor Prime",
+        "code": "th"
+      },
+      {
+        "description": "Helios Prime'ın kendisini parçalara ayırıp ölümcül bir mermiye dönüşmesini sağlar.",
+        "name": "Deconstructor Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Зброя, яка дозволяє Геліосу-прайм перезібрати себе й перетворитися на смертоносний снаряд.",
+        "name": "Розбирач-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deth-machine-rifle-2353c453b6.png",
+    "name": "Deth Machine Rifle",
+    "description": "Standard issue weaponry signature to Dethcube.",
+    "languages": [
+      {
+        "description": "Einzigartige Standardwaffe des Dethcube.",
+        "name": "Deth-Maschinengewehr",
+        "code": "de"
+      },
+      {
+        "description": "L'arme de prédilection du Dethcube.",
+        "name": "Fusil Machine de Mort",
+        "code": "fr"
+      },
+      {
+        "description": "Questa mitragliatrice standard è l'armamento distintivo del Dethcube.",
+        "name": "Fucile Automatico Deth",
+        "code": "it"
+      },
+      {
+        "description": "데스큐브의 대표 기본 무기입니다.",
+        "name": "데스 머신 라이플",
+        "code": "ko"
+      },
+      {
+        "description": "Armamento estándar propio de Dethcube.",
+        "name": "Rifle Deth Machine",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DETH MACHINE RIFLE）死亡魔方标准武器",
+        "name": "死亡机枪",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартное вооружение Куба Смерти.",
+        "name": "Пулемёт смерти",
+        "code": "ru"
+      },
+      {
+        "description": "DETHCUBEの代名詞とも言える兵器。",
+        "name": "Deth Machine Rifle",
+        "code": "ja"
+      },
+      {
+        "description": "Standardowe uzbrojenie Dethcube.",
+        "name": "Karabin Maszynowy Deth",
+        "code": "pl"
+      },
+      {
+        "description": "Arma padrão exclusiva do Dethcube.",
+        "name": "Rifle Deth",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DETH MACHINE RIFLE）死亡魔方的標準武器。",
+        "name": "死亡機槍",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธมาตรฐานที่เป็นอาวุธประจำตัวของ Dethcube",
+        "name": "Deth Machine Rifle",
+        "code": "th"
+      },
+      {
+        "description": "Dethcube standart silahı.",
+        "name": "Deth Makineli Tüfek",
+        "code": "tr"
+      },
+      {
+        "description": "Неповторний кулемет для вартового Смертокуба.",
+        "name": "Смертомет",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deth-machine-rifle-prime-7b2e679d67.png",
+    "name": "Deth Machine Rifle Prime",
+    "description": "Signature default weapon of Dethcube Prime.",
+    "languages": [
+      {
+        "description": "Bevorzugte Standardwaffe für den Dethcube Prime.",
+        "name": "Deth-Maschinengewehr Prime",
+        "code": "de"
+      },
+      {
+        "description": "Arme favorite originale de Dethcube Prime.",
+        "name": "Fusil Machine de Mort Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Arma di default distintiva del Dethcube Prime.",
+        "name": "Fucile Automatico Deth Prime",
+        "code": "it"
+      },
+      {
+        "description": "데스큐브 프라임의 대표 기본 무기입니다.",
+        "name": "데스 머신 라이플 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Arma tradicional por defecto de Dethcube Prime.",
+        "name": "Rifle Deth Machine Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DETH MACHINE RIFLE PRIME）死亡魔方 Prime 的标志性武器。",
+        "name": "死亡机枪 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартное вооружение Куба Смерти Прайм.",
+        "name": "Пулемёт Смерти Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "Dethcube Primeを象徴するデフォルト武器。",
+        "name": "Deth Machine Rifle Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Domyślna broń charakterystyczna dla Dethcube Prime.",
+        "name": "Karabin Maszynowy Deth Prime",
+        "code": "pl"
+      },
+      {
+        "description": "A arma padrão tradicional da Dethcube Prime.",
+        "name": "Rifle Deth Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DETH MACHINE RIFLE PRIME）死亡魔方 Prime 的標誌性武器。",
+        "name": "死亡機槍 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธเริ่มต้นที่เป็นอาวุธเฉพาะตัวของ Dethcube Prime",
+        "name": "Deth Machine Rifle Prime",
+        "code": "th"
+      },
+      {
+        "description": "Dethcube Prime'a ait özel bir silah.",
+        "name": "Deth Machine Rifle Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Визначна стандартна зброя Смертокуба-прайм.",
+        "name": "Смертомет-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helstrum-a9d9db9a71.png",
+    "name": "Helstrum",
+    "description": "Launches a swarm of micro-missiles.",
+    "languages": [
+      {
+        "description": "Feuert einen Schwarm von Mikro-Raketen ab.",
+        "name": "Helstrum",
+        "code": "de"
+      },
+      {
+        "description": "Lance une nuée de micro-missiles.",
+        "name": "Helstrum",
+        "code": "fr"
+      },
+      {
+        "description": "Lancia uno sciame di micro missili.",
+        "name": "Helstrum",
+        "code": "it"
+      },
+      {
+        "description": "소형 미사일을 무더기로 발사합니다.",
+        "name": "헬스트럼",
+        "code": "ko"
+      },
+      {
+        "description": "Lanza un enjambre de micromisiles.",
+        "name": "Helstrum",
+        "code": "es"
+      },
+      {
+        "description": "（英文：HELSTRUM）发射密集的微型导弹。",
+        "name": "赫尔斯壮",
+        "code": "zh"
+      },
+      {
+        "description": "Выпускает рой микро-ракет.",
+        "name": "Хэлструм",
+        "code": "ru"
+      },
+      {
+        "description": "マイクロミサイルの大群を発射する。",
+        "name": "Helstrum",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwuje rój mikro-rakiet.",
+        "name": "Helstrum",
+        "code": "pl"
+      },
+      {
+        "description": "Dispara um enxame de micro-mísseis.",
+        "name": "Helstrum",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：HELSTRUM）能發射出成簇的微型導彈。",
+        "name": "海爾斯壯",
+        "code": "tc"
+      },
+      {
+        "description": "ปล่อยฝูงไมโครมิสไซล์",
+        "name": "Helstrum",
+        "code": "th"
+      },
+      {
+        "description": "Sürü halinde mikro-füzeler ateşler.",
+        "name": "Helstrum",
+        "code": "tr"
+      },
+      {
+        "description": "Випускає рій мікроракет.",
+        "name": "Гелструм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponIS",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lacerten-9f21176710.png",
+    "name": "Lacerten",
+    "description": "Hound melee attacks devastate with <DT_IMPACT_COLOR>Impact and <DT_SLASH_COLOR>Slash Damage.",
+    "languages": [
+      {
+        "description": "Nahkampfangriffe des Jagdhunds fügen verheerenden <DT_IMPACT_COLOR>Einschlags- und <DT_SLASH_COLOR>Schnittschaden zu.",
+        "name": "Lacerten",
+        "code": "de"
+      },
+      {
+        "description": "Les attaques de Mêlée du Molosse dévastent tout, infligeant des Dégâts <DT_IMPACT_COLOR>d'Impact et <DT_SLASH_COLOR>Tranchants.",
+        "name": "Lacerten",
+        "code": "fr"
+      },
+      {
+        "description": "Gli attacchi corpo a corpo del Segugio devastano con Danno <DT_IMPACT_COLOR>Impatto e <DT_SLASH_COLOR>Taglio.",
+        "name": "Lacerten",
+        "code": "it"
+      },
+      {
+        "description": "<DT_IMPACT_COLOR>충격 및 <DT_SLASH_COLOR>베기 피해로 초토화시키는 하운드의 근접 공격 모듈입니다.",
+        "name": "라세르텐",
+        "code": "ko"
+      },
+      {
+        "description": "Los ataques cuerpo a cuerpo de los sabuesos devastan con daño de <DT_IMPACT_COLOR>impacto y <DT_SLASH_COLOR>cortante.",
+        "name": "Lacerten",
+        "code": "es"
+      },
+      {
+        "description": "（英文：LACERTEN）猎犬近战攻击通过 <DT_IMPACT_COLOR>冲击和 <DT_SLASH_COLOR>切割伤害进行毁灭。",
+        "name": "莱斯腾",
+        "code": "zh"
+      },
+      {
+        "description": "Атаки гончей в ближнем бою разрушительны и наносят <DT_IMPACT_COLOR>ударный и <DT_SLASH_COLOR>режущий урон.",
+        "name": "Лацертэн",
+        "code": "ru"
+      },
+      {
+        "description": "ハウンドの近接攻撃で<DT_IMPACT_COLOR>衝撃と<DT_SLASH_COLOR>切断ダメージを与える。",
+        "name": "Lacerten",
+        "code": "ja"
+      },
+      {
+        "description": "Dewastujące Ataki w Walce wręcz Ogara w postaci <DT_IMPACT_COLOR>Obrażeń Miażdżących oraz <DT_SLASH_COLOR>Tnących.",
+        "name": "Lacerten",
+        "code": "pl"
+      },
+      {
+        "description": "Os ataques deste Predador exterminam seus alvos com Dano <DT_IMPACT_COLOR>Colisivo e <DT_SLASH_COLOR>Cortante.",
+        "name": "Lacerten",
+        "code": "pt"
+      },
+      {
+        "description": "獵犬近戰的攻擊將以<DT_IMPACT_COLOR>衝擊和<DT_SLASH_COLOR>切割傷害摧毀敵人。",
+        "name": "拉瑟騰",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธโจมตีระยะประชิดของสุนัขฮาวด์ที่จะทำลายล้างศัตรูด้วยความเสียหายจาก <DT_IMPACT_COLOR>แรงกระแทกและ <DT_SLASH_COLOR>การเฉือนฟัน",
+        "name": "Lacerten",
+        "code": "th"
+      },
+      {
+        "description": "Tazının yıkıcı yakın dövüş saldırıları <DT_IMPACT_COLOR>Darbe ve <DT_SLASH_COLOR>Kesme Hasarı verir.",
+        "name": "Lacerten",
+        "code": "tr"
+      },
+      {
+        "description": "Гончак розриває ворогів у ближньому бою й завдає <DT_IMPACT_COLOR>ударної та <DT_SLASH_COLOR>різальної шкоди.",
+        "name": "Лацертен",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/laser-rifle-7d7fefefc2.png",
+    "name": "Laser Rifle",
+    "description": "A laser rifle developed by reverse-engineering Corpus technology.",
+    "languages": [
+      {
+        "description": "Ein Lasergewehr, das durch den Nachbau von Corpus Technologie entwickelt wurde.",
+        "name": "Lasergewehr",
+        "code": "de"
+      },
+      {
+        "description": "Un Fusil laser développé par rétro-ingénierie de la technologie Corpus.",
+        "name": "Fusil Laser",
+        "code": "fr"
+      },
+      {
+        "description": "Un fucile laser sviluppato tramite ingegneria inversa della tecnologia Corpus.",
+        "name": "Laser Rifle",
+        "code": "it"
+      },
+      {
+        "description": "코퍼스 기술을 역분석하여 개발된 레이저 소총입니다.",
+        "name": "레이저 라이플",
+        "code": "ko"
+      },
+      {
+        "description": "Un rifle láser desarrollado por ingeniería inversa de tecnología corpus.",
+        "name": "Rifle láser",
+        "code": "es"
+      },
+      {
+        "description": "（英文：LASER RIFLE）通过 Corpus 科技逆向工程开发出来的一种激光步枪。",
+        "name": "激光步枪",
+        "code": "zh"
+      },
+      {
+        "description": "Лазерная винтовка, разработанная путём технического копирования технологий Корпуса.",
+        "name": "Лазерная винтовка",
+        "code": "ru"
+      },
+      {
+        "description": "コーパス製の装備をリバースエンジニアによって再現した武器。",
+        "name": "Laser Rifle",
+        "code": "ja"
+      },
+      {
+        "description": "Karabin laserowy stworzony dzięki inżynierii wstecznej technologii Corpus.",
+        "name": "Karabin Laserowy",
+        "code": "pl"
+      },
+      {
+        "description": "Um Rifle Laser desenvolvido através de engenharia reversa da tecnologia Corpus.",
+        "name": "Rifle a Laser",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：LASER RIFLE）通過 Corpus 科技逆向工程開發出來的一種雷射步槍。",
+        "name": "雷射步槍",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนไรเฟิลเลเซอร์ที่พัฒนามาจากเทคโนโลยีวิศวกรรมย้อนกลับของ Corpus",
+        "name": "Laser Rifle",
+        "code": "th"
+      },
+      {
+        "description": "Tersine mühendislik üzerine çalışan Corpus Teknolojisi tarafından geliştirilmiş bir lazer tüfeği.",
+        "name": "Lazer Tüfeği",
+        "code": "tr"
+      },
+      {
+        "description": "Гвинтівка, створена Корпусом на основі технології зворотної розробки.",
+        "name": "Лазерна гвинтівка",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/multron-d133e0fc4e.png",
+    "name": "Multron",
+    "description": "Launches a volley of bomb darts that embed themselves in targets, exploding a short time later.",
+    "languages": [
+      {
+        "description": "Feuert eine Salve Bombenpfeile ab, die sich in Zielen einbetten und kurze Zeit später explodieren.",
+        "name": "Multron",
+        "code": "de"
+      },
+      {
+        "description": "Lance une volée de fléchettes explosives qui s'enfoncent dans les cibles et explosent peu de temps après.",
+        "name": "Multron",
+        "code": "fr"
+      },
+      {
+        "description": "Lancia una raffica di dardi esplosivi che si conficcano nei bersagli, esplodendo poco dopo.",
+        "name": "Multron",
+        "code": "it"
+      },
+      {
+        "description": "목표물에 박히고 잠시 후 폭발하는 다트 폭탄을 연발로 발사합니다.",
+        "name": "멀트론",
+        "code": "ko"
+      },
+      {
+        "description": "Lanza una ráfaga de dardos bomba que se incrustan en los objetivos y explotan poco tiempo después.",
+        "name": "Multron",
+        "code": "es"
+      },
+      {
+        "description": "（英文：MULTRON）发射一连串炸弹飞镖，嵌入目标中并在短时间后爆炸。",
+        "name": "多连穿甲枪",
+        "code": "zh"
+      },
+      {
+        "description": "Выпускает залп дротиковых бомб, которые вонзаются в цели и взрываются через некоторое время.",
+        "name": "Мультрон",
+        "code": "ru"
+      },
+      {
+        "description": "標的に撃ち込まれ、しばらくして爆発する爆弾ダーツを一斉射撃する。",
+        "name": "Multron",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwuje serię bomb, które wybuchają krótko po wbiciu się w cel.",
+        "name": "Multron",
+        "code": "pl"
+      },
+      {
+        "description": "Lançará uma saraivada de dardos explosivos que se cravam nos inimigos, explodindo logo em seguida.",
+        "name": "Multron",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：MULTRON）連續發射爆炸型飛鏢，嵌入目標身上並於短時間內爆炸。",
+        "name": "多連穿甲槍",
+        "code": "tc"
+      },
+      {
+        "description": "ยิงลูกดอกระเบิดออกมาเป็นชุดที่จะฝังอยู่ในตัวเป้าหมาย ก่อนที่จะระเบิดในเวลาไม่นานหลังจากนั้น",
+        "name": "Multron",
+        "code": "th"
+      },
+      {
+        "description": "Hedeflere saplanan ve kısa bir süre sonra patlayan bir dizi patlayıcı ok fırlatır.",
+        "name": "Multron",
+        "code": "tr"
+      },
+      {
+        "description": "Випускає залп дротиків, які впиваються в ціль і вибухають згодом.",
+        "name": "Мултрон",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prime-laser-rifle-0d21517f99.png",
+    "name": "Prime Laser Rifle",
+    "description": "A Prime Laser Rifle.",
+    "languages": [
+      {
+        "description": "Ein Prime Lasergewehr",
+        "name": "Prime Lasergewehr",
+        "code": "de"
+      },
+      {
+        "description": "Un Fusil laser Prime",
+        "name": "Fusil Laser Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Un fucile laser Prime.",
+        "name": "Laser Rifle Prime",
+        "code": "it"
+      },
+      {
+        "description": "프라임 레이저 라이플입니다.",
+        "name": "프라임 레이저 라이플",
+        "code": "ko"
+      },
+      {
+        "description": "Un rifle láser Prime.",
+        "name": "Rifle láser Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PRIME LASER RIFLE）一把激光步枪 Prime。",
+        "name": "激光步枪 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Прайм версия Лазерной Винтовки.",
+        "name": "Лазерная винтовка Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "Laser Rifleのプライム版。",
+        "name": "Laser Rifle Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Karabin laserowy Prime.",
+        "name": "Karabin Laserowy Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Um Rifle a Laser Prime.",
+        "name": "Rifle a Laser Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：PRIME LASER RIFLE）一把雷射步槍 Prime。",
+        "name": "雷射步槍 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนไรเฟิลเลเซอร์แบบ Prime",
+        "name": "Prime Laser Rifle",
+        "code": "th"
+      },
+      {
+        "description": "Bir Prime Lazer Tüfeği.",
+        "name": "Prime Lazer Tüfeği",
+        "code": "tr"
+      },
+      {
+        "description": "Праймова модифікація Лазерної гвинтівки.",
+        "name": "Лазерна гвинтівка-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-burst-laser-f36d93dc39.png",
+    "name": "Prisma Burst Laser",
+    "description": "Fires a small burst of lasers.",
+    "languages": [
+      {
+        "description": "Feuert kleine Lasersalven.",
+        "name": "Prisma Salvenlaser",
+        "code": "de"
+      },
+      {
+        "description": "Tire une petite rafale de lasers.",
+        "name": "Laser à Rafale Prisma",
+        "code": "fr"
+      },
+      {
+        "description": "Spara brevi raffiche di laser.",
+        "name": "Prisma Burst Laser",
+        "code": "it"
+      },
+      {
+        "description": "약한 레이저를 3점사로 발사합니다.",
+        "name": "프리즈마 버스트 레이저",
+        "code": "ko"
+      },
+      {
+        "description": "Dispara una pequeña ráfaga de láseres.",
+        "name": "Láser de ráfagas Prisma",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PRISMA BURST LASER）点射一小束激光。",
+        "name": "棱晶 激光点发",
+        "code": "zh"
+      },
+      {
+        "description": "Стреляет короткой серией лазерных лучей.",
+        "name": "Лазерный пистолет Призма",
+        "code": "ru"
+      },
+      {
+        "description": "レーザーをバースト射撃する。",
+        "name": "Prisma Burst Laser",
+        "code": "ja"
+      },
+      {
+        "description": "Strzela krótkimi seriami pocisków laserowych.",
+        "name": "Laser Impulsowy Prisma",
+        "code": "pl"
+      },
+      {
+        "description": "Atira pequenas rajadas de lasers.",
+        "name": "Rajada a Laser Prisma",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：BURST LASER）點射一小束雷射。",
+        "name": "棱晶 雷射點發",
+        "code": "tc"
+      },
+      {
+        "description": "ยิงเลเซอร์ออกมาเป็นชุดเล็ก ๆ",
+        "name": "Prisma Burst Laser",
+        "code": "th"
+      },
+      {
+        "description": "Küçük bir lazer patlamasını ateşler",
+        "name": "Prisma Burst Lazer",
+        "code": "tr"
+      },
+      {
+        "description": "Стріляє короткими чергами лазерних променів.",
+        "name": "Шквальний лазер-призма",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stinger-ee12cc66f0.png",
+    "name": "Stinger",
+    "description": "Standard issue weapon for Djinn Sentinel. Fires <DT_POISON_COLOR>Toxin projectiles that embed into enemies and continuously deal damage for 3 seconds.",
+    "languages": [
+      {
+        "description": "Standardwaffe für den Djinn Wächter. Feuert <DT_POISON_COLOR>Gift-Projektile, die sich in Feinde einbetten und 3 s lang Schaden verursachen.",
+        "name": "Stinger",
+        "code": "de"
+      },
+      {
+        "description": "Arme standard pour la Sentinelle Djinn. Tire des projectiles chargés de <DT_POISON_COLOR>Poison qui pénètrent les ennemis et infligent des Dégâts continus pendant 3s.",
+        "name": "Stinger",
+        "code": "fr"
+      },
+      {
+        "description": "Arma d'ordinanza per la Sentinella Djinn. Spara proiettili <DT_POISON_COLOR>Tossici che si conficcano nei nemici e infliggono danni continui per 3 secondi.",
+        "name": "Stinger",
+        "code": "it"
+      },
+      {
+        "description": "진 센티넬의 기본 무기입니다. 적에게 박혀 3초 동안 지속적인 <DT_POISON_COLOR>독성 피해를 입히는 투사체를 발사합니다.",
+        "name": "스팅어",
+        "code": "ko"
+      },
+      {
+        "description": "Arma estándar del centinela Djinn. Dispara <DT_POISON_COLOR>proyectiles de toxina que se incrustan en los enemigos y causan daño de forma continua durante 3 segundos.",
+        "name": "Aguijón",
+        "code": "es"
+      },
+      {
+        "description": "（英文：STINGER）引灵守护的标准武器。发射 <DT_POISON_COLOR>毒素投射物，嵌入敌人体内并持续造成伤害，持续 3 秒。",
+        "name": "毒刺",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартное оружие для стража Джинн. Выстреливает снарядами с <DT_POISON_COLOR>токсином, которые вонзаются во врагов и наносят непрерывный урон в течение 3 секунд.",
+        "name": "Жало",
+        "code": "ru"
+      },
+      {
+        "description": "Djinnセンチネルの標準装備武器。 <DT_POISON_COLOR> 毒素弾を射出し、撃ち込んだ敵に3秒間継続的にダメージを与える。",
+        "name": "Stinger",
+        "code": "ja"
+      },
+      {
+        "description": "Standardowe uzbrojenie Strażnika Djinn. Używa <DT_POISON_COLOR>Toksycznych pocisków, które wbijają się we wrogów i zadają im obrażenia przez 3 sekundy.",
+        "name": "Stinger",
+        "code": "pl"
+      },
+      {
+        "description": "A arma padrão da Sentinela Djinn. Disparará projéteis de Dano <DT_POISON_COLOR>Tóxico, que se agarrarão nos inimigos e causarão dano continuamente por 3s.",
+        "name": "Stinger",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：STINGER）引靈守護的標準武器，開火射出<DT_POISON_COLOR>毒素投射物，嵌入敵人體內並持續造成傷害，持續 3 秒。",
+        "name": "毒刺",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธมาตรฐานสำหรับเซนติเนล Djinn ซึ่งจะยิงกระสุน <DT_POISON_COLOR>พิษที่จะฝังเข้าไปในตัวศัตรูและสร้างความเสียหายอย่างต่อเนื่องเป็นเวลา 3 วินาที",
+        "name": "Stinger",
+        "code": "th"
+      },
+      {
+        "description": "Djinn Sentineli için varsayılan silah. Düşmanlara yerleşen ve 3 saniye boyunca sürekli hasar veren <DT_POISON_COLOR>Toksin mermileri atar.",
+        "name": "Stinger",
+        "code": "tr"
+      },
+      {
+        "description": "Стандартна зброя вартового Джина. Стріляє <DT_POISON_COLOR>токсичними дротиками, які впиваються у ворогів і продовжують завдавати шкоди впродовж 3 секунд.",
+        "name": "Жало",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sweeper-fccd860cbb.png",
+    "name": "Sweeper",
+    "description": "Standard issue weapon for Carrier Sentinel. Fires shotgun rounds.",
+    "languages": [
+      {
+        "description": "Standardwaffe für den Carrier. Feuert Schrotgeschosse.",
+        "name": "Sweeper",
+        "code": "de"
+      },
+      {
+        "description": "Arme standard pour la Sentinelle Carrier. Tire des munitions de Fusil à Pompe",
+        "name": "Sweeper",
+        "code": "fr"
+      },
+      {
+        "description": "L'arma di ordinanza per la sentinella Carrier, spara cartucce per fucile a pompa.",
+        "name": "Sweeper",
+        "code": "it"
+      },
+      {
+        "description": "캐리어 센티넬의 기본 무기 입니다. 산탄총 탄환을 발사합니다.",
+        "name": "스위퍼",
+        "code": "ko"
+      },
+      {
+        "description": "Arma estándar del centinela Carrier. Dispara cartuchos de escopeta.",
+        "name": "Barredora",
+        "code": "es"
+      },
+      {
+        "description": "（英文：SWEEPER）搬运者守护的标准武器，使用霰弹枪子弹。",
+        "name": "扫除者",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартное оружие для стража «Носитель». Стреляет дробью.",
+        "name": "Чистильщик",
+        "code": "ru"
+      },
+      {
+        "description": "CARRIERセンチネルの標準装備。散弾を発射する。",
+        "name": "Sweeper",
+        "code": "ja"
+      },
+      {
+        "description": "Standardowe uzbrojenie Strażnika Carrier. Używa amunicji do strzelb.",
+        "name": "Sweeper",
+        "code": "pl"
+      },
+      {
+        "description": "Arma padrão da Sentinela Carrier. Atira munição de Escopeta.",
+        "name": "Varredora",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：SWEEPER）搬運者守護的標準武器，使用霰彈槍子彈。",
+        "name": "掃除者",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธมาตรฐานสำหรับเซนติเนล Carrier ยิงด้วยกระสุนปืนลูกซอง",
+        "name": "Sweeper",
+        "code": "th"
+      },
+      {
+        "description": "Carrier Sentineli için varsayılan silah. Pompalı tüfek mermisi kullanır.",
+        "name": "Sweeper",
+        "code": "tr"
+      },
+      {
+        "description": "Стандартна зброя вартового Носія. Стріляє набоями рушниці.",
+        "name": "Зачищувач",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sweeper-prime-0456686709.png",
+    "name": "Sweeper Prime",
+    "description": "Standard issue weapon for Carrier Prime Sentinel. Fires shotgun rounds.",
+    "languages": [
+      {
+        "description": "Standardwaffe für den Carrier Prime Wächter. Feuert Schrotflintenmunition.",
+        "name": "Sweeper Prime",
+        "code": "de"
+      },
+      {
+        "description": "L'armement standard pour la Sentinelle Carrier Prime. Tire des munitions de Fusil à Pompe.",
+        "name": "Sweeper Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Arma d'ordinanza in dotazione alla sentinella Carrier Prime. Spara proiettili di fucile.",
+        "name": "Sweeper Prime",
+        "code": "it"
+      },
+      {
+        "description": "캐리어 프라임 센티넬의 기본 무기입니다. 산탄총 탄환을 발사합니다.",
+        "name": "스위퍼 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Arma estándar del centinela Carrier Prime. Dispara cartuchos de escopeta.",
+        "name": "Barredora Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：SWEEPER PRIME）搬运者 PRIME的标准武器，使用霰弹枪子弹。",
+        "name": "扫除者 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартное оружие для стража «Носитель Прайм». Стреляет дробью.",
+        "name": "Чистильщик Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "CARRIER PRIMEセンチネルの標準装備。散弾を発射する。",
+        "name": "Sweeper Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Standardowe uzbrojenie Strażnika Carrier Prime. Używa amunicji do strzelb.",
+        "name": "Sweeper Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Arma padrão para a Sentinela Carrier Prime. Atira Munição de Escopeta.",
+        "name": "Varredora Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：SWEEPER PRIME）搬運者 PRIME的標準武器，使用霰彈槍子彈。",
+        "name": "掃除者 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธมาตรฐานสำหรับเซนติเนล Carrier Prime ยิงด้วยกระสุนปืนลูกซอง",
+        "name": "Sweeper Prime",
+        "code": "th"
+      },
+      {
+        "description": "Carrier Prime Sentineli için standart silah. Pompalı tüfek mermileri atar.",
+        "name": "Sweeper Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Стандартна зброя охоронця Носія-прайм. Стріляє набоями рушниці.",
+        "name": "Зачищувач-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tazicor-07ebe56d23.png",
+    "name": "Tazicor",
+    "description": "Releases a burst of static electricity that can jump between foes, incapacitating them.",
+    "languages": [
+      {
+        "description": "Gibt eine Salve statischer Elektrizität frei, die zwischen Gegnern hin- und herspringt und sie außer Gefecht setzen kann.",
+        "name": "Tazicor",
+        "code": "de"
+      },
+      {
+        "description": "Libère une explosion d'électricité statique qui peut passer entre les ennemis, les neutralisant.",
+        "name": "Tazicor",
+        "code": "fr"
+      },
+      {
+        "description": "Rilascia una scarica di elettricità statica che può colpire i nemici, neutralizzandoli.",
+        "name": "Tazicor",
+        "code": "it"
+      },
+      {
+        "description": "적들 사이를 건너다니며 무력화시키는 정전기의 폭발을 방출합니다.",
+        "name": "타지코어",
+        "code": "ko"
+      },
+      {
+        "description": "Libera una ráfaga de electricidad estática que puede saltar entre los enemigos, incapacitándolos.",
+        "name": "Tazicor",
+        "code": "es"
+      },
+      {
+        "description": "（英文：TAZICOR）释放出一阵静电，该静电可以在敌人之间跳跃，使他们失去战斗能力。",
+        "name": "泰瑟步枪",
+        "code": "zh"
+      },
+      {
+        "description": "Выпускает заряд статического электричества, который может передаваться по цепи от одного противника к другому, выводя их из строя.",
+        "name": "Тазикор",
+        "code": "ru"
+      },
+      {
+        "description": "敵の間を跳ね回って無力化する静電気の奔流を放出する。",
+        "name": "Tazicor",
+        "code": "ja"
+      },
+      {
+        "description": "Tworzy krótkie wyładowania elektryczności, które przeskakują między wrogami i ich obezwładniają.",
+        "name": "Tazicor",
+        "code": "pl"
+      },
+      {
+        "description": "Liberará uma explosão de eletricidade estática que pode saltar entre os inimigos, incapacitando-os.",
+        "name": "Tazicor",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：TAZICOR）釋放一陣靜電，其會在敵人之間傳導，使他們喪失行動能力。",
+        "name": "泰瑟步槍",
+        "code": "tc"
+      },
+      {
+        "description": "ปล่อยพลังไฟฟ้าสถิตย์ที่จะพุ่งกระโดดไปมาระหว่างศัตรู ส่งผลให้พวกมันไม่สามารถเคลื่อนไหวได้",
+        "name": "Tazicor",
+        "code": "th"
+      },
+      {
+        "description": "Düşmanlar arasında sıçrayan ve onları etkisiz hale getiren bir statik elektrik patlaması oluşturur.",
+        "name": "Tazicor",
+        "code": "tr"
+      },
+      {
+        "description": "Вивільняє розряд статичної електрики, який переміщається між ворогами, виводячи їх з ладу.",
+        "name": "Тазікор",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentinelFreezeRayRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/verglas-a85b439e97.png",
+    "name": "Verglas",
+    "description": "Designed as the perfect mate for Nautilus, this Sentinel weapon projects an icy beam at nearby targets.",
+    "languages": [
+      {
+        "description": "Als perfekter Partner für Nautilus entworfen, projiziert diese Wächterwaffe einen eisigen Strahl auf nahe Ziele.",
+        "name": "Verglas",
+        "code": "de"
+      },
+      {
+        "description": "Conçue comme le complément idéal pour Nautilus, cette arme pour Sentinelle projette un rayon de glace sur les cibles proches.",
+        "name": "Verglas",
+        "code": "fr"
+      },
+      {
+        "description": "Progettata per essere la compagna perfetta di Nautilus, quest'arma Sentinella proietta un raggio glaciale sui bersagli vicini.",
+        "name": "Verglas",
+        "code": "it"
+      },
+      {
+        "description": "노틸러스의 완벽한 단짝으로서 설계된 이 센티넬 무기는 근처에 있는 목표물에 얼음 광선을 투사합니다.",
+        "name": "베르글라",
+        "code": "ko"
+      },
+      {
+        "description": "Diseñada para ser la compañera perfecta de Nautilus, esta arma de centinela proyecta un rayo glacial hacia los objetivos cercanos.",
+        "name": "Verglas",
+        "code": "es"
+      },
+      {
+        "description": "作为鹦鹉螺的完美同伴，这件守护武器可向附近的目标投射冰冻光束。",
+        "name": "冰凇",
+        "code": "zh"
+      },
+      {
+        "description": "Созданное как идеальный помощник для Наутилуса, это оружие Стража испускает леденящий луч на ближайшие цели.",
+        "name": "Верглас",
+        "code": "ru"
+      },
+      {
+        "description": "Nautilus専用にデザインされたこのセンチネル武器は周囲の敵へ冷気砲を撃ち放す。",
+        "name": "Verglas",
+        "code": "ja"
+      },
+      {
+        "description": "Zaprojektowana jako idealne wsparcie dla Nautilusa, ta broń Strażnika strzela lodowatym promieniem w pobliskie cele.",
+        "name": "Verglas",
+        "code": "pl"
+      },
+      {
+        "description": "Desenvolvida para ser o par perfeito da Sentinela Nautilus, esta arma de Sentinela dispara um feixe glacial em alvos próximos.",
+        "name": "Verglas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VERGLAS）這個守護武器設計來完美搭配鸚鵡螺，可以對周圍的目標投射一道冰冷的光束。",
+        "name": "雨淞",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธเซนติเนลที่ออกแบบมาเพื่อให้เป็นคู่หู Nautilus ที่สมบูรณ์แบบชิ้นนี้จะฉายลำแสงน้ำแข็งไปยังเป้าหมายที่อยู่ใกล้ ๆ",
+        "name": "Verglas",
+        "code": "th"
+      },
+      {
+        "description": "Nautilus için mükemmel bir eş olarak tasarlanan bu Sentinel silahı, yakındaki hedeflere buzlu ışınlar yansıtır.",
+        "name": "Verglas",
+        "code": "tr"
+      },
+      {
+        "description": "Зброя вартового Наутилуса, стріляє заморожувальним променем у найближчих ворогів.",
+        "name": "Верґлас",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentinelFreezeRayPrimeRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/verglas-prime-624a7bec79.png",
+    "name": "Verglas Prime",
+    "description": "The icy signature weapon of Nautilus Prime.",
+    "languages": [
+      {
+        "description": "Diese eisige bevorzugte Waffe von Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "de"
+      },
+      {
+        "description": "L'arme glacée emblématique de Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "fr"
+      },
+      {
+        "description": "La gelida arma simbolo di Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "it"
+      },
+      {
+        "description": "노틸러스 프라임의 차디찬 대표 무기입니다.",
+        "name": "베르글라 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "El arma glacial distintiva de Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：VERGLAS PRIME）鹦鹉螺 Prime 的标志性冰冻武器。",
+        "name": "冰凇 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Особое холодовое  оружие Наутилуса Прайм.",
+        "name": "Верглас Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "Nautilus Primeの氷のメイン武器。",
+        "name": "Verglas Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Charakterystyczna broń Strażnika Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "pl"
+      },
+      {
+        "description": "A arma glacial tradicional da Nautilus Prime.",
+        "name": "Verglas Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VERGLAS PRIME）鸚鵡螺 Prime 的冰冷標誌性武器。",
+        "name": "雨淞 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธประจำตัวของ Nautilus Prime",
+        "name": "Verglas Prime",
+        "code": "th"
+      },
+      {
+        "description": "Nautilus Prime'ın buzlu özel silahı.",
+        "name": "Verglas Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Крижана визначна зброя вартового Наутилуса-прайм.",
+        "name": "Верґлас-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulcax-69bedd67a5.png",
+    "name": "Vulcax",
+    "description": "Charges up a powerful blast of ultra-heated plasma.",
+    "languages": [
+      {
+        "description": "Lädt einen mächtigen Schuss ultra-heißen Plasmas auf.",
+        "name": "Vulcax",
+        "code": "de"
+      },
+      {
+        "description": "Charge une explosion de plasma de température très élevée.",
+        "name": "Vulcax",
+        "code": "fr"
+      },
+      {
+        "description": "Carica una potente esplosione di plasma ultra-riscaldato.",
+        "name": "Vulcax",
+        "code": "it"
+      },
+      {
+        "description": "강력한 초고온 플라즈마 폭발을 충전합니다.",
+        "name": "불칵스",
+        "code": "ko"
+      },
+      {
+        "description": "Carga un poderoso estallido de plasma ultra caliente.",
+        "name": "Vulcax",
+        "code": "es"
+      },
+      {
+        "description": "（英文：VULCAX）可蓄能发射出强力爆发的极热电浆。",
+        "name": "金工火舌",
+        "code": "zh"
+      },
+      {
+        "description": "Стреляет мощными зарядами высокотемпературной плазмы.",
+        "name": "Вулкакс",
+        "code": "ru"
+      },
+      {
+        "description": "超高温プラズマの強力な爆発を充電する。",
+        "name": "Vulcax",
+        "code": "ja"
+      },
+      {
+        "description": "Ładuje potężny podmuch ultra-rozgrzanej plazmy.",
+        "name": "Vulcax",
+        "code": "pl"
+      },
+      {
+        "description": "Carrega e dispara uma explosão de plasma superaquecida.",
+        "name": "Vulcax",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VULCAX）可蓄能發射出強力爆發的極熱電漿。",
+        "name": "金工火舌",
+        "code": "tc"
+      },
+      {
+        "description": "ชาร์จระเบิดพลาสมาอันทรงพลังที่มีความร้อนสูงเป็นพิเศษ",
+        "name": "Vulcax",
+        "code": "th"
+      },
+      {
+        "description": "Güçlü bir yüksek ısıtmalı plazma patlaması şarj eder.",
+        "name": "Vulcax",
+        "code": "tr"
+      },
+      {
+        "description": "Випускає заряджений потужний снаряд надрозігрітої плазми.",
+        "name": "Вулкакс",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulklok-255184ff90.png",
+    "name": "Vulklok",
+    "description": "Standard issue sniper rifle for Diriga.",
+    "languages": [
+      {
+        "description": "Standard Scharfschützengewehr für Diriga.",
+        "name": "Vulklok",
+        "code": "de"
+      },
+      {
+        "description": "L'arme standard pour la Sentinelle Diriga, un Fusil de Sniper.",
+        "name": "Vulklok",
+        "code": "fr"
+      },
+      {
+        "description": "Il fucile da cecchino d'ordinanza per Diriga.",
+        "name": "Vulklok",
+        "code": "it"
+      },
+      {
+        "description": "디리가가 사용하는 기본 저격총입니다.",
+        "name": "불클락",
+        "code": "ko"
+      },
+      {
+        "description": "Rifle de precisión estándar para Diriga.",
+        "name": "Vulklok",
+        "code": "es"
+      },
+      {
+        "description": "（英文：VULKLOK）电气浮囊的标准狙击枪。",
+        "name": "金工火枪",
+        "code": "zh"
+      },
+      {
+        "description": "Стандартная снайперская винтовка Дириги.",
+        "name": "Вулклок",
+        "code": "ru"
+      },
+      {
+        "description": "DIRIGA標準装備のスナイパーライフル。",
+        "name": "Vulklok",
+        "code": "ja"
+      },
+      {
+        "description": "Standardowy karabin snajperski Diriga.",
+        "name": "Vulklok",
+        "code": "pl"
+      },
+      {
+        "description": "Rifle de precisão padrão para Diriga.",
+        "name": "Vulklok",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VULKLOK）電氣浮囊的標準狙擊槍。",
+        "name": "金工火槍",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนไรเฟิลรุ่นมาตรฐานสำหรับ Diriga",
+        "name": "Vulklok",
+        "code": "th"
+      },
+      {
+        "description": "Diriga için varsayılan keskin nişancı tüfeği.",
+        "name": "Vulklok",
+        "code": "tr"
+      },
+      {
+        "description": "Неповторна снайперська гвинтівка для вартового Дирижи.",
+        "name": "Вулклок",
+        "code": "uk"
+      }
+    ]
+  }
+]

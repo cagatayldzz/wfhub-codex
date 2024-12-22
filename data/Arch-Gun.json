@@ -1,0 +1,1484 @@
+[
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cortege-9af4117990.png",
+    "name": "Cortege",
+    "description": "An ancient weapon designed by the Entrati for use by their Necramechs. Primary fire siphons life essence from the target to fuel a devastating secondary fire. A heavy flamethrower with surprising range. Secondary fire launches three projectiles in a fan pattern that explode, leaving a damaging area of effect for a short duration.",
+    "languages": [
+      {
+        "description": "Eine uralte Waffe, die von den Entrati entworfen wurde und für ihre Necramechs verwendet wird. Das Primärfeuer entzieht ihrem Ziel die Lebensessenz, um das verheerende Sekundärfeuer mit Energie zu versorgen. Ein schwerer Flammenwerfer mit überraschend hoher Reichweite. Sekundärfeuer verschießt drei explodierende Projektile in einer Fächerform, die für kurze Zeit eine schädigende Flächenwirkung hinterlassen.",
+        "name": "Cortege",
+        "code": "de"
+      },
+      {
+        "description": "Une arme ancienne conçue par les Entrati pour être utilisée par leurs Necramechs. Le tir principal draine l'essence vitale de la cible pour alimenter un tir secondaire dévastateur. Comprend un lance-flammes lourd possédant une portée surprenante. Le tir secondaire lance trois projectiles en éventail qui explosent, laissant ainsi derrière une zone qui continue d'infliger des dégâts pendant une courte durée.",
+        "name": "Cortège",
+        "code": "fr"
+      },
+      {
+        "description": "Un'arma antica progettata dagli Entrati per essere utilizzata dai loro Necramech. Il fuoco primario sottrae l'essenza vitale dal bersaglio per alimentare un devastante fuoco secondario. Un lanciafiamme pesante con una portata sorprendente. Il fuoco secondario spara tre proiettili a ventaglio che esplodono lasciando dietro di sé un'area ad effetto che danneggia i nemici per una breve durata.",
+        "name": "Cortege",
+        "code": "it"
+      },
+      {
+        "description": "엔트라티가 자신들의 네크라메크에 사용하기 위해 설계한 고대 병기로, 기본 발사는 목표로부터 생명의 정수를 빨아들여 파괴적인 보조 발사의 연료로 사용합니다. 놀라운 범위를 가진 중량형 화염방사기로, 보조 발사로는 부채꼴로 퍼진 후, 폭발하여 해당 지점에 잠시간 피해를 가하는 영역을 남기는 3개의 투사체를 발사합니다.",
+        "name": "코르테지",
+        "code": "ko"
+      },
+      {
+        "description": "Un arma antigua diseñada por los Entrati para el uso de sus Necramech. El disparo primario desvía la esencia vital del objetivo para alimentar un disparo secundario devastador. Un lanzallamas pesado con un alcance sorprendente. El disparo secundario lanza tres proyectiles en un patrón de abanico que explota, dejando un área de efecto dañino por un corto periodo de tiempo.",
+        "name": "Cortege",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CORTEGE）英择谛为其殁世机甲所设计的古老武器。主要射击模式可从目标身上吸取生命精华，以助燃次要射击模式带来的毁灭性攻击。这把重型火焰喷射器拥有惊人的射程。次要射击模式可扇形投射三枚爆炸弹丸，并在短时间内留下一片破坏性区域。",
+        "name": "送葬者",
+        "code": "zh"
+      },
+      {
+        "description": "Древнее оружие для некрамехов, разработанное Энтрати. Основной режим огня высасывает жизненную энергию противника, накапливая заряд для разрушительного вторичного режима огня. Тяжёлый огнемёт с внушительной дальностью поражения. Вторичный режим огня запускает три снаряда по схеме веер, которые взрываются, нанося урон по области в течение короткого периода времени.",
+        "name": "Кортеж",
+        "code": "ru"
+      },
+      {
+        "description": "エントラティがネクロメカで使うために設計した古の武器。プライマリ射撃は、標的から生命力を吸い上げ、破壊的なセカンダリ射撃を充填する。驚くべき射程を持つ重装火炎放射器。セカンダリ射撃、爆発して短時間持続するダメージ領域を残す弾丸を3発扇状に放つ。",
+        "name": "Cortege",
+        "code": "ja"
+      },
+      {
+        "description": "Starożytna broń zaprojektowana przez Entrati do użytku przez ich Nekramechy. Ogień główny wysysa esencję życiową z celu, aby zasilić niszczycielski ogień alternatywny. Ciężki miotacz ognia o zaskakującym zasięgu. Ogień alternatywny wystrzeliwuje trzy pociski w stożku, które wybuchają, zostawiając na krótki czas zadający obrażenia obszar.",
+        "name": "Cortege",
+        "code": "pl"
+      },
+      {
+        "description": "Uma arma ancestral, criada pelos Entrati. O seu Fogo Primário drena a energia vital do alvo para, assim, alimentar o seu devastador Fogo Alternativo. Este lança-chamas pesado possui um alcance impressionante. O seu Fogo Alternativo lança três projéteis em formato de leques, os quais explodem e aplicam dano em área por um curto período.",
+        "name": "Cortege",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CORTEGE）由源拓氏所設計給亡骸機甲使用的古老兵器。主要射擊可以從目標身上抽取生命精華，以填充具壓倒性破壞力的次要射擊。一把具有驚人射程的重型火焰噴射器，次要射擊以扇形噴射出三個會爆炸的投射物，留下一塊短時間內造成範圍傷害的區域。",
+        "name": "頌葬者",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธโบราณที่ออกแบบโดย Entrati เพื่อให้ Necramech ได้ใช้งาน โหมดยิงหลักจะดูดเอาพลังชีวิตจากเป้าหมายไปเป็นเชื้อเพลิงที่มีอำนาจทำลายล้างให้กับโหมดการยิงสำรอง อาวุธพ่นไฟขนาดใหญ่กระบอกนี้มาพร้อมกับระยะขอบเขตในการใช้งานที่น่าทึ่ง โหมดยิงสำรองจะยิงกระสุนสามนัดในรูปแบบของพัดที่จะระเบิดออก และสร้างความเสียหายที่เกิดผลกระทบเป็นวงกว้างในช่วงเวลาสั้น ๆ",
+        "name": "Cortege",
+        "code": "th"
+      },
+      {
+        "description": "Entrati tarafından Necramech'lerinin kullanımı için tasarlanmış antik bir silah. Birincil atış modu, hedefinin yaşam özünü çekip yıkıcı bir ikincil atış modunu sarj eder. Şaşırtıcı derecede menzile sahip, ağır bir alev makinesi. İkincil atış modu belirli bir düzlemde yol katederek infilak eden üç adet mühimmat ateşleyip geçici bir süreliğine hasar veren bir alan oluşturur.",
+        "name": "Cortege",
+        "code": "tr"
+      },
+      {
+        "description": "Прадавній важкий вогнемет, розроблений Ентраті для їхніх некрамехів. Основний режим стрільби витягує есенцію життя з цілей і заряджає нищівну альтернативну атаку: зброя віялом випускає три вибухові снаряди, які завдають шкоди по області протягом короткого проміжку часу.",
+        "name": "Кортеж",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corvas-13db9b551f.png",
+    "name": "Corvas",
+    "description": "When fully charged, this flak cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.",
+    "languages": [
+      {
+        "description": "Wenn voll geladen, gibt diese Flak-Kanone einen zerstörerischen Schuss ab. Perfekt, um sich schnell bewegende Ziele abzufangen.",
+        "name": "Corvas",
+        "code": "de"
+      },
+      {
+        "description": "Lorsque complètement chargé, ce Canon antiaérien envoie un tir dévastateur. Parfait pour la destruction d'intercepteurs rapides.",
+        "name": "Corvas",
+        "code": "fr"
+      },
+      {
+        "description": "Una volta caricato al massimo, questo cannone antiaereo libera un colpo dalla potenza devastante. Ottimo per eliminare incrociatori ad alta velocità.",
+        "name": "Corvas",
+        "code": "it"
+      },
+      {
+        "description": "이 대공포는 완전 충전될 경우 매우 강력한 한 방을 발사하며, 고속으로 움직이는 요격기를 상대하는 데에 안성맞춤입니다.",
+        "name": "코르바스",
+        "code": "ko"
+      },
+      {
+        "description": "Cuando está totalmente cargado, este cañón antiaéreo desata un disparo devastador. Es perfecto para derribar interceptores veloces.",
+        "name": "Corvas",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CORVAS）充能完毕后，这台高射加农炮能击发出毁灭性的炮击。完美地击落快速移动的拦截机。",
+        "name": "黑鸦",
+        "code": "zh"
+      },
+      {
+        "description": "Полностью заряженная, эта осколочная пушка наносит огромный урон. Идеально подходит для уничтожения быстродвижущихся перехватчиков.",
+        "name": "Корвас",
+        "code": "ru"
+      },
+      {
+        "description": "最大チャージで発射すると凄まじい弾幕を張って、高速で襲いかかる敵機を撃ち落すに最適のフラックキャノン。",
+        "name": "Corvas",
+        "code": "ja"
+      },
+      {
+        "description": "Gdy naładowane w pełni, to działo odłamkowe wyrzuca z siebie zabójczy ładunek. Idealne do niszczenia szybkich jednostek przechwytujących.",
+        "name": "Corvas",
+        "code": "pl"
+      },
+      {
+        "description": "Quando totalmente carregado, este canhão antiaéreo dispara um tiro devastador, perfeito para derrubar interceptadores velozes.",
+        "name": "Corvas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CORVAS）充能完畢後，這台高射加農炮能擊發出毀滅性的炮擊。完美地擊落快速移動的攔截機。",
+        "name": "黑鴉",
+        "code": "tc"
+      },
+      {
+        "description": "เมื่อชาร์จอย่างเต็มที่แล้ว ปืนใหญ่นี้จะยิงกระสุนทำลายล้าง เหมาะอย่างยิ่งสำหรับการกำจัดเครื่องบินสกัดกั้นที่เคลื่อนที่เร็ว",
+        "name": "Corvas",
+        "code": "th"
+      },
+      {
+        "description": "Tam olarak şarj edildiğinde bu uçaksavar güçlü atışlar yapabilir. Hızlı hareket eden düşmanları yok etmek için birebir.",
+        "name": "Corvas",
+        "code": "tr"
+      },
+      {
+        "description": "Ця протиповітряна гармата здатна завдати невиправної шкоди за повного зарядження. Ідеально підходить для збиття надрухливих перехоплювачів.",
+        "name": "Корвас",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corvas-prime-3a5514ae24.png",
+    "name": "Corvas Prime",
+    "description": "Flaunting ceremonial beauty, this arch gun flak cannon is even more devastating than its standard issue counterpart.",
+    "languages": [
+      {
+        "description": "Diese Arch-Gewehr Flak-Kanone, die zeremonielle Schönheit zur Schau stellt, ist noch verheerender als ihr Gegenstück in der Standardausgabe.",
+        "name": "Corvas Prime",
+        "code": "de"
+      },
+      {
+        "description": "Affichant une beauté cérémonielle, ce Canon antiaérien pour Archwing est encore plus dévastateur que son homologue standard.",
+        "name": "Corvas Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Ostentando una bellezza cerimoniale, questo cannone antiaereo arch gun è ancora più devastante della sua controparte standard.",
+        "name": "Corvas Prime",
+        "code": "it"
+      },
+      {
+        "description": "격식 있는 아름다움을 과시하는 이 아크윙 대공포는 본래의 기본 형태보다도 더욱 파괴적인 위력을 갖추고 있습니다.",
+        "name": "코르바스 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Haciendo alarde de una belleza ceremonial, este archcañón antiaéreo es aún más devastador que su contraparte estándar.",
+        "name": "Corvas Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CORVAS PRIME）招摇又考究的美人，这款曲翼枪械版高射炮比其标准版更具破坏性。",
+        "name": "黑鸦 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Выставляя напоказ церемониальное изящество, эта зенитная артиллерийская пушка ещё более разрушительна, чем её обычная версия.",
+        "name": "Корвас Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "見せびらかすような美しさを誇るこのアークウイングガンは通常より強力な一撃を食らわす。",
+        "name": "Corvas Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Obnosząc się ceremonialnym pięknem, to działo Archgun jest bardziej niszczycielskie niż jego standardowy odpowiednik.",
+        "name": "Corvas Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Exibindo sua beleza cerimonial, esta Arch-Arma antiaérea é ainda mais devastadora do que a sua versão padrão.",
+        "name": "Corvas Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CORVAS PRIME）如儀式中的美人般招搖，這一把 Archwing 槍械的高射加農砲比標準版本更具破壞力。",
+        "name": "黑鴉 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนใหญ่ Arch-Gun ที่มีความงดงามตามประเพณีนิยมชิ้นนี้มีพลังทำลายล้างมากกว่าปืนที่เป็นรุ่นมาตรฐาน",
+        "name": "Corvas Prime",
+        "code": "th"
+      },
+      {
+        "description": "Gösterişli tören güzelliğine sahip bu uçaksavar yay silahı, standart sayılan muadilinden daha yıkıcıdır.",
+        "name": "Corvas Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Зенітна арк-гармата, що попри церемонійну красу завдає більших руйнувань, аніж типовий відповідник.",
+        "name": "Корвас-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyngas-842f5f0899.png",
+    "name": "Cyngas",
+    "description": "Unload deadly accurate bursts of mayhem.",
+    "languages": [
+      {
+        "description": "Verteile tödliche zielgenaue Salven an Verstümmlung.",
+        "name": "Cyngas",
+        "code": "de"
+      },
+      {
+        "description": "Libérez des rafales de chaos mortellement précises.",
+        "name": "Cyngas",
+        "code": "fr"
+      },
+      {
+        "description": "Scarica precise e mortali raffiche di caos.",
+        "name": "Cyngas",
+        "code": "it"
+      },
+      {
+        "description": "높은 정확도를 갖춘 집중 사격으로 치명적인 대혼란을 야기합니다.",
+        "name": "싱가스",
+        "code": "ko"
+      },
+      {
+        "description": "Descarga mortales y precisos estallidos de caos.",
+        "name": "Cyngas",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CYNGAS）释放出致命般精准的爆发性混乱。",
+        "name": "合成燃气炮",
+        "code": "zh"
+      },
+      {
+        "description": "Наносите увечья смертельно точными очередями.",
+        "name": "Цингас",
+        "code": "ru"
+      },
+      {
+        "description": "高精度の射撃で狂乱をまき散らす。",
+        "name": "Cyngas",
+        "code": "ja"
+      },
+      {
+        "description": "Wyładuj we wroga śmiertelnie celne serie dewastujących pocisków.",
+        "name": "Cyngas",
+        "code": "pl"
+      },
+      {
+        "description": "Descarregar rajadas de caos precisas e mortais.",
+        "name": "Cyngas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CYNGAS）能發射出精準且致命的混亂爆破。",
+        "name": "合成燃氣砲",
+        "code": "tc"
+      },
+      {
+        "description": "กระหน่ำยิงโจมตีอย่างแม่นยำและรุนแรง",
+        "name": "Cyngas",
+        "code": "th"
+      },
+      {
+        "description": "Düşmanlarınızın üzerine yıkıcı patlamalar gönderin.",
+        "name": "Cyngas",
+        "code": "tr"
+      },
+      {
+        "description": "Арк-гармата, яка вивільнить смертельно точні черги хаосу.",
+        "name": "Цинґаз",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-decurion-2c12e236ac.png",
+    "name": "Dual Decurion",
+    "description": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.",
+    "languages": [
+      {
+        "description": "Zwillingsstrahlen aus äußerst präzisen, schnell feuernden Geschossen liefernd, ist die Decurion speziell für den Kampf im Vakuum des Raums entwickelt worden.",
+        "name": "Dual-Decurion",
+        "code": "de"
+      },
+      {
+        "description": "Délivrant deux torrents extrêmement précis de tirs soutenus, les Décurions sont spécialement conçus pour le combat spatial.",
+        "name": "Doubles Décurions",
+        "code": "fr"
+      },
+      {
+        "description": "Le Decurion sparano una precisa raffica di proiettili in rapida successione, e sono state progettate proprio per il combattimento nello spazio profondo.",
+        "name": "Dual Decurion",
+        "code": "it"
+      },
+      {
+        "description": "높은 정확도와 빠른 탄속을 갖춘 한 쌍의 탄막을 발사하는 데큐리온은 우주의 진공 상태에서 치러지는 전투에 알맞도록 특수하게 설계되었습니다.",
+        "name": "듀얼 데큐리온",
+        "code": "ko"
+      },
+      {
+        "description": "Capaces de descargar corrientes gemelas de un fuego rápido altamente preciso. Las Decuriones son dos pistolas específicamente diseñadas para combatir en el vacío del espacio.",
+        "name": "Decuriones Dobles",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DUAL DECURION）什长双枪是专门为了在真空的太空之下战斗，能急速发射双道高精准弹幕的武器。",
+        "name": "什长双枪",
+        "code": "zh"
+      },
+      {
+        "description": "Использующие два потока высокоточного огня, Декурионы были разработаны специально для ведения боя в безвоздушном пространстве.",
+        "name": "Парные Декурионы",
+        "code": "ru"
+      },
+      {
+        "description": "二本の高精度な連続砲火を放つ、Decurionは真空の宇宙空間で戦闘するため特別に設計された。",
+        "name": "Dual Decurion",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwujące z dużą prędkością dwa bardzo celne strumienie pocisków, pistolety Decurion są specjalnie zaprojektowane do walki w próżni kosmicznej.",
+        "name": "Decurion Podwójny",
+        "code": "pl"
+      },
+      {
+        "description": "Com fluxos duplos de artilharia rápida e altamente precisa, a Decurion é projetada especialmente para o combate no vácuo do espaço.",
+        "name": "Decurions Duplas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DUAL DECURION）什長雙槍是專門為了在真空的太空之下戰鬥，能急速發射雙道高精準彈幕的武器。",
+        "name": "什長雙槍",
+        "code": "tc"
+      },
+      {
+        "description": "Decurion เป็นปืนที่ออกแบบมาเพื่อการต่อสู้ในอวกาศโดยเฉพาะ ซึ่งสามารถยิงได้อย่างรวดเร็วและมีความแม่นยำสูง",
+        "name": "Dual Decurion",
+        "code": "th"
+      },
+      {
+        "description": "Hedefini asla şaşmayan ikili ateş yeteneği sunan bu dual tabanca özellikle uzayın derinliklerinde kullanılmak için tasarlandı.",
+        "name": "Dual Decurion",
+        "code": "tr"
+      },
+      {
+        "description": "Арк-гармати, спеціально розроблені для ведення бою в космосі. Стріляють високоточними, швидкострільними зарядами.",
+        "name": "Парні Декуріони",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fluctus-1e012e3298.png",
+    "name": "Fluctus",
+    "description": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.",
+    "languages": [
+      {
+        "description": "Eine Archwing Energiewaffe, die Wellen tödlichen Plasmas aussendet und in den Gegner einschlagen lässt.",
+        "name": "Fluctus",
+        "code": "de"
+      },
+      {
+        "description": "Une arme énergétique d'Archwing qui envoie des ondes de plasma létales s'écraser sur les ennemis.",
+        "name": "Fluctus",
+        "code": "fr"
+      },
+      {
+        "description": "Un'arma ad energia di classe Archwing che spedisce delle onde di plasma mortale dritti contro i nemici.",
+        "name": "Fluctus",
+        "code": "it"
+      },
+      {
+        "description": "치명적인 플라즈마 파동을 발사하여 적과 충돌시키는 아크윙 에너지 무기입니다.",
+        "name": "플럭투스",
+        "code": "ko"
+      },
+      {
+        "description": "Un arma de energía para el archwing que envía ondas de plasma letal contra los enemigos.",
+        "name": "Fluctus",
+        "code": "es"
+      },
+      {
+        "description": "（英文：FLUCTUS）一把能射出致命等离子波来击溃敌人的曲翼能量武器。",
+        "name": "巨浪",
+        "code": "zh"
+      },
+      {
+        "description": "Энергетическое оружие Арчвинга, стреляющее сгустками плазмы, расщепляющей врагов.",
+        "name": "Флактус",
+        "code": "ru"
+      },
+      {
+        "description": "アークウイング用エネルギー兵器。プラズマ波を浴びせかけて、敵を粉砕する。",
+        "name": "Fluctus",
+        "code": "ja"
+      },
+      {
+        "description": "Broń Archwinga, wysyłająca we wrogów fale zabójczej plazmy.",
+        "name": "Fluctus",
+        "code": "pl"
+      },
+      {
+        "description": "Uma arma de Energia da Archwing que envia ondas de plasma mortais para esmagar os inimigos.",
+        "name": "Fluctus",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：FLUCTUS）一把能射出致命電漿波來擊潰敵人的 Archwing 能量武器。",
+        "name": "巨浪",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธพลังงาน Archwing ที่ส่งคลื่นพลาสมาร้ายแรงพุ่งชนศัตรู",
+        "name": "Fluctus",
+        "code": "th"
+      },
+      {
+        "description": "Bir archwing ürünü olan bu silah düşmanlarına ölümcül plazma dalgaları gönderir.",
+        "name": "Fluctus",
+        "code": "tr"
+      },
+      {
+        "description": "Енергетична гармата арквінґа. Стріляє хвилями смертельної плазми, які зминають ворогів.",
+        "name": "Флукт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grattler-ce089ce28a.png",
+    "name": "Grattler",
+    "description": "Shatter your targets with explosive shells from this devastating Archwing cannon.",
+    "languages": [
+      {
+        "description": "Zertrümmere deine Feinde mit explosiven Geschossen aus dieser Archwing-Kanone.",
+        "name": "Grattler",
+        "code": "de"
+      },
+      {
+        "description": "Faites exploser vos ennemis avec les obus explosifs de ce Canon d'Archwing.",
+        "name": "Grattler",
+        "code": "fr"
+      },
+      {
+        "description": "Fai a pezzi i tuoi bersagli con i proiettili esplosivi di questo devastante cannone Archwing.",
+        "name": "Grattler",
+        "code": "it"
+      },
+      {
+        "description": "이 강력한 아크윙 캐논의 폭발성 탄환을 이용해 목표물을 산산조각 내세요.",
+        "name": "그라틀러",
+        "code": "ko"
+      },
+      {
+        "description": "Destruye tus objetivos a base de proyectiles explosivos con este devastador cañón del archwing.",
+        "name": "Grattler",
+        "code": "es"
+      },
+      {
+        "description": "（英文：GRATTLER）这把毁灭性的曲翼火炮能发射爆裂弹来击碎你的目标。",
+        "name": "葛拉特勒",
+        "code": "zh"
+      },
+      {
+        "description": "Разнесите врагов в клочья с помощью этой разрушительной пушки для арчвинга и её разрывных снарядов.",
+        "name": "Грэттлер",
+        "code": "ru"
+      },
+      {
+        "description": "破壊的なアークウイングキャノンからの榴弾を用いて、敵を粉砕する。",
+        "name": "Grattler",
+        "code": "ja"
+      },
+      {
+        "description": "Rozerwij wroga na strzępy, strzelając wybuchowymi pociskami z tej dewastującej armaty Archwing.",
+        "name": "Grattler",
+        "code": "pl"
+      },
+      {
+        "description": "Estilhace seus alvos com projéteis explosivos deste canhão Archwing devastador.",
+        "name": "Grattler",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：GRATTLER）這把毀滅性的 Archwing 火炮能發射爆裂彈來擊碎你的目標。",
+        "name": "葛拉特勒",
+        "code": "tc"
+      },
+      {
+        "description": "ทำลายเป้าหมายด้วยกระสุนระเบิดจากปืนใหญ่ Archwing ที่มีพลังทำลายล้างที่รุนแรงกระบอกนี้",
+        "name": "Grattler",
+        "code": "th"
+      },
+      {
+        "description": "Büyük Archwing topundan çıkan patlayıcı mermilerle düşmanlarınızı bozguna uğratın",
+        "name": "Grattler",
+        "code": "tr"
+      },
+      {
+        "description": "Руйнівна арк-гармата. Знищує цілі вибуховими снарядами.",
+        "name": "Ґратлер",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/imperator-06651a85cb.png",
+    "name": "Imperator",
+    "description": "A long range rifle capable of firing in space, the Imperator's versatility makes it an ideal weapon for space combat.",
+    "languages": [
+      {
+        "description": "Ein Langstreckengewehr, das im Weltraum abgefeuert werden kann. Die Vielseitigkeit des Imperator macht es zu einer idealen Waffe für den Raumkampf.",
+        "name": "Imperator",
+        "code": "de"
+      },
+      {
+        "description": "Un Fusil avec une portée très longue qui est utilisable dans l'espace; la flexibilité de l'Imperator en fait une arme idéale.",
+        "name": "Imperator",
+        "code": "fr"
+      },
+      {
+        "description": "Un fucile a lungo raggio in grado di sparare nelle spazio, la versatilità dell'Imperator lo rende un'arma ideale per i combattimenti in questo ambiente.",
+        "name": "Imperator",
+        "code": "it"
+      },
+      {
+        "description": "우주에서 장거리 사격이 가능한 소총인 임페라토르는 그 범용성으로 인해 우주전에서 가장 뛰어난 무기로 통합니다.",
+        "name": "임페라토르",
+        "code": "ko"
+      },
+      {
+        "description": "Un rifle de largo alcance capaz de disparar en el espacio, la versatilidad del Imperator lo convierte en un arma ideal para el combate espacial.",
+        "name": "Imperator",
+        "code": "es"
+      },
+      {
+        "description": "（英文：IMPERATOR）能在太空中开火的长射程步枪，凯旋将军的多用性使得它成为在太空作战时理想的武器。",
+        "name": "凯旋将军",
+        "code": "zh"
+      },
+      {
+        "description": "Винтовка дальнего радиуса действия, способная стрелять в космосе, Император, благодаря своей универсальности, является идеальным выбором оружия для космического боя.",
+        "name": "Император",
+        "code": "ru"
+      },
+      {
+        "description": "宇宙空間で使用できる遠距離射撃ライフル。その汎用性によって宇宙の戦闘に向いた武器となっている。",
+        "name": "Imperator",
+        "code": "ja"
+      },
+      {
+        "description": "Karabin dalekiego zasięgu przystosowany do strzelania w przestrzeni, wszechstronność Imperatora czyni go idealną bronią do walki w kosmosie.",
+        "name": "Imperator",
+        "code": "pl"
+      },
+      {
+        "description": "Um rifle de longa distância capaz de atirar no espaço, a versatilidade da Imperator faz dela uma arma ideal para o combate no espaço.",
+        "name": "Imperator",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：IMPERATOR）能在太空中開火的長射程步槍，凱旋將軍的多用性使得它成為在太空作戰時理想的武器。",
+        "name": "凱旋將軍",
+        "code": "tc"
+      },
+      {
+        "description": "ปืน Imperator เป็นปืนไรเฟิลที่สามารถยิงระยะไกลในอวกาศได้ ด้วยความสามารถที่หลากหลายจึงทำให้เป็นอาวุธที่เหมาะจะใช้สำหรับการต่อสู้ในอวกาศ",
+        "name": "Imperator",
+        "code": "th"
+      },
+      {
+        "description": "Uzun mesafeli ve uzayda ateş edebilen bu tüfek uzay savaşları için biçilmiş kaftandır.",
+        "name": "Imperator",
+        "code": "tr"
+      },
+      {
+        "description": "Далекобійна гвинтівка, що здатна вести вогонь у космосі. Універсальність застосування робить її ідеальною зброєю для космічного бою.",
+        "name": "Імператор",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/imperator-vandal-11d120197b.png",
+    "name": "Imperator Vandal",
+    "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
+    "languages": [
+      {
+        "description": "Die Imperator Vandal wurde von den Tenno angepasst und mit einem Blau-Grün Metallischen Lack sowie einem Lotus-Symbol auf dem Lauf verziert.",
+        "name": "Imperator Vandal",
+        "code": "de"
+      },
+      {
+        "description": "L'Imperator Vandal a été personnalisé par les Tennos avec une finition métallique bleu-vert et la marque du Lotus sur le canon.",
+        "name": "Imperator Vandal",
+        "code": "fr"
+      },
+      {
+        "description": "L'Imperator Vandal è stato personalizzato dai Tenno con una rifinitura metallica blu-verde ed il marchio di Lotus sulla canna.",
+        "name": "Imperator Vandal",
+        "code": "it"
+      },
+      {
+        "description": "임페라토르 반달은 배럴 부분에 로터스 문양을 새긴 뒤 청록색의 금속질감으로 마무리한 텐노식 개조 무기입니다.",
+        "name": "임페라토르 반달",
+        "code": "ko"
+      },
+      {
+        "description": "El Imperator Vándalo ha sido personalizado por los tenno con un acabado metálico verdiazul y con la insignia de Lotus en el cañón.",
+        "name": "Imperator Vándalo",
+        "code": "es"
+      },
+      {
+        "description": "（英文：IMPERATOR VANDAL）这款为 Tenno 量身打造的凯旋将军·破坏者带有蓝绿色的金属质感，枪管上还有 Lotus 的铭刻。",
+        "name": "凯旋将军·破坏者",
+        "code": "zh"
+      },
+      {
+        "description": "Император Вандал раскрашен Тэнно в сине-зелёный цвет, с символом Лотос на стволе.",
+        "name": "Император Вандал",
+        "code": "ru"
+      },
+      {
+        "description": "Imperator Vandalはテンノによりエメラルド色に塗装され、バレル部にLotusの刻印が施されている。",
+        "name": "Imperator Vandal",
+        "code": "ja"
+      },
+      {
+        "description": "Imperator Vandal został spersonalizowany przez Tenno przez pokrycie go błękitno-zieloną oksydą i umieszczenie znaku Lotus na lufie.",
+        "name": "Imperator Vandal",
+        "code": "pl"
+      },
+      {
+        "description": "A Imperator Vandalizada foi personalizada pelos Tenno com um acabamento azul esverdeado metálico e a marca da Lótus no barril.",
+        "name": "Imperator Vandalizada",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：IMPERATOR VANDAL）這款為 Tenno 量身打造的凱旋將軍破壞者帶有藍綠色的金屬質感，槍管上還有 Lotus 的銘刻。",
+        "name": "凱旋將軍 破壞者",
+        "code": "tc"
+      },
+      {
+        "description": "ปืน Imperator Vandal ที่ปรับแต่งโดย Tenno ด้วยการเคลือบโลหะสีน้ำเงินอมเขียวและประทับสัญลักษณ์ Lotus ไว้บนลำกล้อง",
+        "name": "Imperator Vandal",
+        "code": "th"
+      },
+      {
+        "description": "Imperator Vandal Tenno'lar tarafından yeşil-mavi kaplamalı olarak dizayn edilmiştir ve Lotus logosu içerir.",
+        "name": "Imperator Vandal",
+        "code": "tr"
+      },
+      {
+        "description": "Особлива версія арк-гармати. Має синьо-зелене металеве покриття та символ Лотос на стволі.",
+        "name": "Імператор-вандал",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Grineer/HeavyWeapons/GrnHeavyGrenadeLauncher",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-ayanga-191784ae00.png",
+    "name": "Kuva Ayanga",
+    "description": "Sweep aside hordes of enemies with flaming fury of this powerful, automatic, grenade launching archgun.",
+    "languages": [
+      {
+        "description": "Überwinde Horden an Gegnern mit der flammenden Wut dieses mächtigen, automatischen und Granaten-werfenden Arch-Gewehrs.",
+        "name": "Kuva Ayanga",
+        "code": "de"
+      },
+      {
+        "description": "Balayez des hordes d'ennemis avec la fureur ardente de ce puissant Arch-Fusil de type lance-grenades automatique.",
+        "name": "Ayanga Kuva",
+        "code": "fr"
+      },
+      {
+        "description": "Spazza via orde di nemici con la furia fiammeggiante di questo potente lanciagranate Archgun automatico.",
+        "name": "Kuva Ayanga",
+        "code": "it"
+      },
+      {
+        "description": "이 강력한 자동 유탄 발사 아크윙 총기의 맹렬한 분노로 적의 무리를 쓸어버리세요.",
+        "name": "쿠바 아얀가",
+        "code": "ko"
+      },
+      {
+        "description": "Haz a un lado a las hordas de enemigos con la furia llameante de este poderoso, automático, archcañón lanzagranadas.",
+        "name": "Ayanga Kuva",
+        "code": "es"
+      },
+      {
+        "description": "（英文：KUVA AYANGA）用这款全自动曲翼榴弹发射器的怒火来扫荡大群敌人。",
+        "name": "赤毒·怒雷",
+        "code": "zh"
+      },
+      {
+        "description": "Разбрасывайте по сторонам орды врагов пылающей яростью этого мощного автоматического гранатомета для арчвинга.",
+        "name": "Аянга Кува",
+        "code": "ru"
+      },
+      {
+        "description": "この強力なフルオートグレネードランチャーの燃えるような怒りで敵の大群を一掃しよう。",
+        "name": "Kuva Ayanga",
+        "code": "ja"
+      },
+      {
+        "description": "Ten potężny automatyczny granatnik archwingowy, zdmuchnie hordy wrogów płonącą furią.",
+        "name": "Ayanga Kuvy",
+        "code": "pl"
+      },
+      {
+        "description": "Acabe com hordas de inimigos com a fúria flamejante deste poderoso lança-granadas automático.",
+        "name": "Ayanga Kuva",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：KUVA AYANGA）用這把威力無比的自動榴彈發射器以熱熾怒火將大批敵人掃蕩一空。",
+        "name": "赤毒 阿陽加",
+        "code": "tc"
+      },
+      {
+        "description": "ปืน Archgun ที่ทรงพลังกระบอกนี้เป็นเครื่องยิงลูกระเบิดอัตโนมัติที่จะกวาดล้างฝูงศัตรูให้มอดไหม้เป็นจุณ",
+        "name": "Kuva Ayanga",
+        "code": "th"
+      },
+      {
+        "description": "Düşman birliklerini bu güçlü ve otomatik bomba fırlatan Archgun'ın ateşli öfkesi ile yok edin.",
+        "name": "Kuva Ayanga",
+        "code": "tr"
+      },
+      {
+        "description": "Потужний автоматичний гранатомет для арквінґа, що не залишить нічого навіть від найчисленнішої ворожої орди.",
+        "name": "Аянга-кува",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/HeavyWeapons/Grattler/KuvaGrattler",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-grattler-57e1150f75.png",
+    "name": "Kuva Grattler",
+    "description": "Reconfigured for maximum lethality, the Kuva Grattler still shatters targets with explosive shells, but now reaches maximum fire-rate instantaneously.",
+    "languages": [
+      {
+        "description": "Neu konfiguriert für maximale Tödlichkeit, zerschmettert das Kuva Grattler Ziele immer noch mit explosiven Geschossen, erreicht aber jetzt sofort die maximale Feuerrate.",
+        "name": "Kuva Grattler",
+        "code": "de"
+      },
+      {
+        "description": "Reconfiguré pour une létalité maximale, le Grattler Kuva réduit toujours en morceaux les cibles avec ses obus explosifs, mais atteint désormais instantanément la cadence de tir maximale.",
+        "name": "Grattler Kuva",
+        "code": "fr"
+      },
+      {
+        "description": "Riconfigurato per la massima letalità, il Kuva Grattler continua a frantumare i bersagli con proiettili esplosivi, ma ora raggiunge la massima cadenza di tiro istantaneamente.",
+        "name": "Kuva Grattler",
+        "code": "it"
+      },
+      {
+        "description": "살상력을 최대로 끌어올리도록 재구성된 쿠바 그래틀러는 이전과 마찬가지로 폭발성 탄환으로 적들을 산산이 조각낼 수 있지만, 이제는 즉각적으로 연사력도 최대치에 도달하게 됩니다.",
+        "name": "쿠바 그라틀러",
+        "code": "ko"
+      },
+      {
+        "description": "Reconfigurado para la máxima letalidad, el Grattler Kuva sigue destrozando objetivos con proyectiles explosivos, pero ahora alcanza la velocidad máxima de disparo instantáneamente.",
+        "name": "Grattler Kuva",
+        "code": "es"
+      },
+      {
+        "description": "（英文：KUVA GRATTLER）重新调配以获得最大杀伤力，赤毒葛拉特勒仍使用爆裂弹来粉碎目标，但现在可以瞬间达到最高射速。",
+        "name": "赤毒·葛拉特勒",
+        "code": "zh"
+      },
+      {
+        "description": "Перенастроенный на максимальную летальность, Грэттлер Кува по-прежнему поражает цели разрывными снарядами, но теперь оружие мгновенно достигает максимальной скорострельности.",
+        "name": "Грэттлер Кува",
+        "code": "ru"
+      },
+      {
+        "description": "殺傷能力が向上されたKuva Grattlerは従来通りの爆破弾薬で敵を粉々にするが、一瞬で最高発射速度に達する。",
+        "name": "Kuva Grattler",
+        "code": "ja"
+      },
+      {
+        "description": "Zmieniony dla maksymalnej śmiertelność, Grattler Kuvy wciąż rozbija cele wybuchowymi pociskami, ale teraz natychmiast osiąga maksymalną szybkostrzelność.",
+        "name": "Grattler Kuvy",
+        "code": "pl"
+      },
+      {
+        "description": "Reconfigurada para máxima letalidade, a Grattler Kuva ainda estilhaça alvos com projéteis explosivos, mas agora atinge a Cadência de Tiro máxima instantaneamente.",
+        "name": "Grattler Kuva",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：KUVA GRATTLER）已經過重新配置來獲得最大殺傷力，赤毒葛拉特勒仍使用爆炸性砲彈來粉碎目標，不過現在可以即時抵達最高射速。",
+        "name": "赤毒 葛拉特勒",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธ Kuva Grattler ได้รับการดัดแปลงเพื่อเพิ่มความรุนแรงให้มากที่สุด ซึ่งยังคงทำลายเป้าหมายด้วยกระสุนระเบิด แต่ปืนรุ่นนี้สามารถเข้าถึงอัตราการยิงสูงสุดได้เลยทันที",
+        "name": "Kuva Grattler",
+        "code": "th"
+      },
+      {
+        "description": "Daha da ölümcül olabilmesi için yeniden yapılandırılan Kuva Grattler, eskisi gibi hedefleri patlayıcı mermilerle paramparça ediyor, ancak artık maksimum atış hızına anında ulaşıyor.",
+        "name": "Kuva Grattler",
+        "code": "tr"
+      },
+      {
+        "description": "Перероблена арк-гармата. Так само знищує цілі вибуховими снарядами, але тепер миттєво досягає максимальної швидкострільності.",
+        "name": "Ґратлер-кува",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/larkspur-75e75160ee.png",
+    "name": "Larkspur",
+    "description": "From death blooms the Larkspur. A unique and menacing Archgun with a wild initial attack that locks onto a target then chains other targets close to the first. It also sports an explosive projectile mode. In Hildryn's grip the Larkspur carries more reserve ammo.",
+    "languages": [
+      {
+        "description": "Aus dem Tode heraus erblüht das Larkspur. Ein einzigartiges und bösartiges Arch-Gewehr mit einem wilden Erstangriff, der sich auf ein Ziel konzentriert und dann auf andere Ziele in dessen Nähe überspringt. Es beinhaltet auch einen Modus für explosive Projektile. In Hildryns Händen, hat es mehr Munition zur Verfügung.",
+        "name": "Larkspur",
+        "code": "de"
+      },
+      {
+        "description": "De la mort s'épanouit le Larkspur, un Arch-Fusil unique et menaçant. Il possède une attaque initiale sauvage qui verrouille sa cible, puis lie d'autres cibles à la première. Comporte également un mode de projectiles explosifs. Entre les mains de Hildryn, le Larkspur emporte plus de munitions.",
+        "name": "Larkspur",
+        "code": "fr"
+      },
+      {
+        "description": "Dalla morte fiorisce il Larkspur. Un Archgun unico e minaccioso con un attacco iniziale selvaggio che blocca la mira su di un bersaglio e ne colpisce altri vicini ad esso. Dotato anche di una modalità con un proiettile esplosivo. Se utilizzato da Hildryn ha più munizioni di riserva.",
+        "name": "Larkspur",
+        "code": "it"
+      },
+      {
+        "description": "라크스퍼는 죽음으로부터 피어납니다. 독특하고 위협적인 이 아크윙 총기의 거친 첫 공격은 목표물에 고정되며, 그 후 첫 목표물과 가까운 다른 목표물에게 옮겨집니다. 폭발 발사체 모드를 지원하며, 힐드린의 손에선 더 많은 예비 탄약을 수용할 수 있습니다.",
+        "name": "라크스퍼",
+        "code": "ko"
+      },
+      {
+        "description": "De la muerte florece el Larkspur. Un único y amenazante archcañón con un salvaje ataque inicial que se fija en un objetivo y se encandena a otros objetivos cercanos al primero. También posee un modo de proyectil explosivo. En las manos de Hildryn el Larkspur porta más munición de reserva.",
+        "name": "Larkspur",
+        "code": "es"
+      },
+      {
+        "description": "（英文：LARKSPUR）从死亡之中生长的翠雀。一把独特且具有威胁性的曲翼枪械，初始攻击会锁定目标并将靠近第一个目标的其他敌人链在一起。它还配有爆炸性投弹模式。在 Hildryn 的握持之下，翠雀会携带更多的预备弹药。",
+        "name": "翠雀",
+        "code": "zh"
+      },
+      {
+        "description": "Из смерти расцветает Ларкспур. Уникальное и грозное оружие арчвинга, имеющее фиксирование на цели и атаку по цепи. Также имеет в наличии режим запуска взрывающегося снаряда. В руках Хильдрин имеет больший боезапас.",
+        "name": "Ларкспур",
+        "code": "ru"
+      },
+      {
+        "description": "死からLarkspurが華咲く。この特殊なアークガンは最初の攻撃で敵をロックオンし、ターゲット付近の敵にも連鎖して攻撃する。更に爆撃射出物を搭載しており、Hildrynが使用する場合所有できる弾薬数が上昇する。",
+        "name": "Larkspur",
+        "code": "ja"
+      },
+      {
+        "description": "Larkspur kwitnie siejąc śmierć. Ten unikatowy i groźny Archgun ze straszliwym początkowym atakiem, który skupia się na celu, a następnie poraża także i inne pobliskie cele. Posiada również alternatywny tryb wybuchowego pocisku. W rękach Hildryn Larkspur posiada więcej amunicji rezerwowej.",
+        "name": "Larkspur",
+        "code": "pl"
+      },
+      {
+        "description": "Do berço da morte, surge a Larkspur. Uma Arch-Arma única e intimidadora, com um ataque inicial que se agarra em seu alvo e se espalha para os alvos próximos. Em conjunto, apresenta suporte para um projétil explosivo. Ao ser empunhada por Hildryn, a Larkspur apresenta uma reserva de munição máxima aumentada.",
+        "name": "Larkspur",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：LARKSPUR）從死亡之中生長的翠雀。一把獨特且具有威脅性的 Archwing 槍械，初始攻擊會鎖定目標並將靠近第一個目標的其他敵人連鎖在一起。它還配有爆炸性投彈模式。在 Hildryn 的握持之下，翠雀會攜帶更多的預備彈藥。",
+        "name": "翠雀",
+        "code": "tc"
+      },
+      {
+        "description": "Larkspur จะกระจายความตายไปสู่เป้าหมาย อาวุธ Archgun ที่ไม่เหมือนใครและมีพลังที่น่ากลัวกระบอกนี้จะเริ่มโจมตีในครั้งแรกอย่างดุเดือดซึ่งจะยิงไปยังเป้าหมายที่เล็งเอาไว้ จากนั้นก็ลามไปยังเป้าหมายตัวอื่น ๆ ที่อยู่ใกล้กับเป้าหมายแรก นอกจากนี้ยังมีโหมดยิงกระสุนระเบิดอีกด้วย หาก Hildryn เป็นผู้ใช้อาวุธ Larkspur ก็จะมีที่เก็บกระสุนสำรองเพิ่มขึ้น",
+        "name": "Larkspur",
+        "code": "th"
+      },
+      {
+        "description": "Ölümden çiçek gibi açar Larkspur. Önce bir hedefe kilitlenip daha sonra onun yakınındaki diğer hedefleri zincirleyen vahşi bir öncül atağa sahip eşsiz ve tehditkar bir Archgun. Ayrıca patlayıcı mermi moduna'da sahiptir. Hildryn'nin elinde Larkspur fazladan yedek cephaneye sahip olur.",
+        "name": "Larkspur",
+        "code": "tr"
+      },
+      {
+        "description": "Грізна зброя для арквінґа, що фіксує свій радіоактивний промінь на одній цілі, а потім поширює його на ворогів біля неї. Під час альтернативної атаки може накопичувати енергію й вистрілювати її вибуховим снарядом. У руках Гільдрини має більший запас набоїв.",
+        "name": "Сокирка",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/larkspur-prime-2320f70a2f.png",
+    "name": "Larkspur Prime",
+    "description": "Embrace pandemonium. Chainfire and explosive potential meet in Larkspur Prime. Hildryn packs more ammo when she wields this mighty weapon.",
+    "languages": [
+      {
+        "description": "Öffne dich dem Chaos. Kettenfeuer und explosives Potenzial treffen in der Larkspur Prime aufeinander. Wenn Hildryn diese Waffe nutzt, trägt sie mehr Munition mit sich.",
+        "name": "Larkspur Prime",
+        "code": "de"
+      },
+      {
+        "description": "Répandez le chaos. Tirs en chaîne et potentiel explosif se rencontrent avec le Larkspur Prime. Hildryn emporte plus de munitions lorsqu'elle utilise cette arme puissante.",
+        "name": "Larkspur Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Accogli il pandemonio. I colpi a catena e il potenziale esplosivo si incontrano nel Larkspur Prime. Hildryn accumula più munizioni quando utilizza questa potente arma.",
+        "name": "Larkspur Prime",
+        "code": "it"
+      },
+      {
+        "description": "대혼란과 일심동체가 되어보세요. 연쇄 타격과 폭발적인 잠재력이 라크스퍼 프라임 안에서 하나가 됩니다. 힐드린이 이 강력한 무기를 다룰 때엔 더 많은 탄약을 예비할 수 있습니다.",
+        "name": "라크스퍼 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Acepta el caos. Los disparos en cadena y el potencial explosivo se combinan en el Larkspur Prime. Hildryn lleva más munición cuando empuña esta poderosa arma.",
+        "name": "Larkspur Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：LARKSPUR PRIME）迎接混乱的到来吧。连锁攻击和爆炸潜能在翠雀 Prime 身上相遇。当 Hildryn 使用这件强大的武器时，她会携带更多的弹药。",
+        "name": "翠雀 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Встречайте кромешный ад. Непрерывный огонь и взрывоопасный потенциал объединяются, чтобы создать Ларкспур Прайм.Когда это мощное оружие находится в руках Хильдрин, боезапас оружия увеличивается.",
+        "name": "Ларкспур Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "阿鼻叫喚を受け入れよ。連鎖攻撃と爆発射撃物の潜在能力がLarkspur Primeで邂逅する。Hildrynがこの強力な武器を使用すると、より多くの弾薬を持てる。",
+        "name": "Larkspur Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Ujarzmij pandemoniom. Ogień ciągły i wybuchowy potencjał łączą się, by stworzyć Larkspur Prime.Kiedy ta potężna broń jest dzierżona przez Hildryn, zwiększa się jej rezerwa amunicji.",
+        "name": "Larkspur Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Incorpore o pandemônio. Disparos contínuos e potencial explosivo se unem na Larkspur Prime. A Hildryn carrega mais munição ao empunhar esta poderosa arma.",
+        "name": "Larkspur Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：LARKSPUR PRIME）感受大混亂的氛圍，將連鎖火力和爆炸的威力結合於翠雀 Prime 之中。由 Hildryn 使用這把強力的武器時可裝載更多彈藥。",
+        "name": "翠雀 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "การยิงที่ลามเป็นห่วงโซ่และศักยภาพที่จะทำให้เกิดการระเบิดได้ที่ติดมากับอาวุธ Larkspur Prime กระบอกนี้จะสร้างความโกลาหลให้กับศัตรู หาก Hildryn เป็นผู้ใช้อาวุธที่ทรงพลังชิ้นนี้ก็จะยิ่งมีที่เก็บกระสุนได้มากกว่าเดิม",
+        "name": "Larkspur Prime",
+        "code": "th"
+      },
+      {
+        "description": "Pandemonium'u keşfet. Zincirleme ateş ve patlama potansiyeli Larkspur Prime'da buluşuyor. Hildryn bu güçlü silahı kullandığında daha fazla cephane toplar.",
+        "name": "Larkspur Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Вітайте сум’яття. Черги пострілів та вибуховий потенціал зустрілися в Сокирці-прайм. Гілдрина може вкласти набагато більше набоїв в цю могутню зброю.",
+        "name": "Сокирка-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mandonel-e7a5f57785.png",
+    "name": "Mandonel",
+    "description": "Mandonel fires <DT_RADIATION_COLOR>Radiation Damage projectiles. Partially charged shots release a spread and fully charged shots release a beam that dissolves into a radiation field. Projectiles that pass through the field are empowered.",
+    "languages": [
+      {
+        "description": "Das Mandonel feuert Projektile mit <DT_RADIATION_COLOR>Strahlungsschaden ab. Teilweise geladene Schüsse streuen und vollständig geladene Schüsse feuern einen Strahl ab, der sich in ein Strahlungsfeld auflöst. Projektile, die das Feld durchqueren, werden gestärkt.",
+        "name": "Mandonel",
+        "code": "de"
+      },
+      {
+        "description": "Le Mandonel tire des projectiles à Dégâts de <DT_RADIATION_COLOR>Radiations. Les tirs partiellement chargés libèrent un faisceau à dispersion et les tirs complètement chargés libèrent un faisceau qui se dissout dans un champ de Radiations. Les projectiles qui traversent le champ sont renforcés.",
+        "name": "Mandonel",
+        "code": "fr"
+      },
+      {
+        "description": "Il Mandonel spara proiettili che provocano Danno <DT_RADIATION_COLOR>Radiazione. I colpi parzialmente carichi rilasciano una diffusione mentre i colpi completamente carichi rilasciano un raggio che si dissolve in un campo di radiazione. I proiettili che attraversano il campo sono potenziati.",
+        "name": "Mandonel",
+        "code": "it"
+      },
+      {
+        "description": "만도넬은 <DT_RADIATION_COLOR>방사능 피해를 입히는 탄을 발사합니다. 일부만 충전 후 발사 시 확산하는 산탄을 방출하며, 완전 충전 후 발사 시 방사능 필드로 용해되는 빔을 방출합니다. 이 필드를 통과하는 탄은 강화 효과를 얻습니다.",
+        "name": "만도넬",
+        "code": "ko"
+      },
+      {
+        "description": "El Mandonel dispara proyectiles con daño de <DT_RADIATION_COLOR>radiación. Los disparos parcialmente cargados se dispersan al lanzarse y los disparos completamente cargados lanzan un rayo que se disuelve en un campo de radiación. Los proyectiles que atraviesan el campo son potenciados.",
+        "name": "Mandonel",
+        "code": "es"
+      },
+      {
+        "description": "（英文：MANDONEL）辐光弩炮发射 <DT_RADIATION_COLOR>辐射伤害投射物。未完全充能的射击会散射，而完全充能的射击则会释放出光束并生成辐射力场。穿过力场的投射物会被增强。",
+        "name": "辐光弩炮",
+        "code": "zh"
+      },
+      {
+        "description": "Мандонель выпускает снаряды, наносящие <DT_RADIATION_COLOR>радиационный урон. Частично заряженные выстрелы испускают рассеянное излучение, а заряженные выстрелы концентрируют его в луч, который создаёт поле <DT_RADIATION>радиационного урона. Снаряды, проходящие через это поле, усиливаются.",
+        "name": "Мандонель",
+        "code": "ru"
+      },
+      {
+        "description": "Mandonelは<DT_RADIATION_COLOR>放射線ダメージ弾を発射する。チャージ中に撃つと散弾を撃ち、完全チャージで撃つと放射線フィールドへ発散するビームを放出する。フィールドを通過する射出物は強化される。",
+        "name": "Mandonel",
+        "code": "ja"
+      },
+      {
+        "description": "Mandonel wystrzeliwuje pociski zadające <DT_RADIATION_COLOR> Obr. Radiacyjne. Częściowo naładowane wystrzały uwalniają rozproszone promieniowanie, a naładowane skupiają je w promień, który kończy się polem promieniowania. Pociski, które przelecą przez to pole, zostają wzmocnione.",
+        "name": "Mandonel",
+        "code": "pl"
+      },
+      {
+        "description": "A Mandonel disparará projéteis com Dano <DT_RADIATION_COLOR>Radioativo. Os disparos parcialmente carregados iniciarão uma propagação, e os disparos totalmente carregados liberarão um feixe que se dissolverá em um campo de radiação. Os projéteis que atravessarem o campo serão fortalecidos.",
+        "name": "Mandonel",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：MANDONEL）曼多重砲發射帶有<DT_RADIATION_COLOR>輻射傷害的投射物。部分充能的射擊會以擴散的方式發射，完整充能會釋放一道會分解成輻射場的光束。穿過場域的投射物會被增強。",
+        "name": "曼多重砲",
+        "code": "tc"
+      },
+      {
+        "description": "Mandonel จะยิงกระสุนที่สร้างความเสียหาย <DT_RADIATION_COLOR>รังสี โดยกระสุนที่ชาร์จไปบางส่วนจะปล่อยแสงกระจายออกไป ส่วนกระสุนที่ชาร์จเต็มจะปล่อยลำแสงที่สลายไปเป็นสนามรังสี และกระสุนที่ผ่านสนามนี้ไปจะได้รับการเสริมพลัง",
+        "name": "Mandonel",
+        "code": "th"
+      },
+      {
+        "description": "Mandonel, <DT_RADIATION_COLOR>Radyasyon Hasarı veren mermileri ateşler. Kısmen şarjlı atışlar yaylım ateşi açar ve tam şarjlı atışlar ise radyasyon alanına dönüşen bir ışın ateşler. Bu alanın içinden geçen mermiler daha da güçlendirilir.",
+        "name": "Mandonel",
+        "code": "tr"
+      },
+      {
+        "description": "Мандонель вистрілює снарядами з <DT_RADIATION_COLOR>радіаційною шкодою. Частково заряджені постріли створюють розкид, а повністю заряджені постріли створюють промінь, який утворює радіаційне поле. Снаряди, які проходять через це поле, посилюються.",
+        "name": "Мандонель",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mausolon-483fb60c57.png",
+    "name": "Mausolon",
+    "description": "An ancient weapon designed by the Entrati for use by their Necramechs. Primary fire siphons life essence from the target to fuel a devastating secondary fire. Punishing automatic primary fire and a secondary mode that charges up to unleash a destructive beam of energy with a large explosion at point of impact.",
+    "languages": [
+      {
+        "description": "Eine uralte Waffe, die von den Entrati entworfen wurde und für ihre Necramechs verwendet wird. Das Primärfeuer entzieht ihrem Ziel die Lebensessenz, um das verheerende Sekundärfeuer mit Energie zu versorgen. Nutzt strafendes auto. Primärfeuer und Sekundärfeuer, das zu einem zerstörenden Strahl auflädt und am Ort des Aufpralls eine große Explosion freisetzt.",
+        "name": "Mausolon",
+        "code": "de"
+      },
+      {
+        "description": "Une arme ancienne conçue par les Entrati pour être utilisée par leurs Necramechs. Le tir principal draine l'essence vitale de la cible pour alimenter un tir secondaire dévastateur. Comprend un tir principal auto sans pitié et un mode secondaire qui se charge pour libérer un faisceau d'énergie destructeur avec une grande explosion au point d'impact.",
+        "name": "Mausolon",
+        "code": "fr"
+      },
+      {
+        "description": "Un'arma antica progettata dagli Entrati per essere utilizzata dai loro Necramech. Il fuoco primario sottrae l'essenza vitale dal bersaglio per alimentare un devastante fuoco secondario. Presenta uno spietato fuoco primario automatico e un fuoco secondario a carica che scatena un raggio di energia distruttiva con una grande esplosione nel punto di impatto.",
+        "name": "Mausolon",
+        "code": "it"
+      },
+      {
+        "description": "엔트라티가 자신들의 네크라메크에 사용하기 위해 설계한 고대 병기로, 기본 발사는 목표로부터 생명의 정수를 빨아들여 파괴적인 보조 발사의 연료로 사용합니다. 살인적인 자동 방식의 기본 발사에 더해 보조 발사는 충전 후 착탄 지점에 큰 폭발을 일으키는 파괴적인 빔을 발사합니다.",
+        "name": "머솔론",
+        "code": "ko"
+      },
+      {
+        "description": "Un arma antigua diseñada por los Entrati para uso de sus Necramech. El disparo primario desvía la esencia vital del objetivo para alimentar un fuego alternativo devastador. Con un disparo primario automático devastador y un modo alternativo que se carga para desatar un haz de energía destructivo con una gran explosión en el punto de impacto.",
+        "name": "Mausolon",
+        "code": "es"
+      },
+      {
+        "description": "（英文：MAUSOLON）英择谛为其殁世机甲所设计的古老武器。主要射击模式可从目标身上吸取生命精华，以助燃次要射击模式带来的毁灭性攻击。拥有惩戒性的全自动主要射击模式。次要模式可在充能后释放一道破坏性能量束，并在作用点造成大范围爆炸。",
+        "name": "惩戒者",
+        "code": "zh"
+      },
+      {
+        "description": "Древнее оружие для Некрамехов, разработанное Энтрати. Основной режим огня высасывает жизненную энергию противника, накапливая заряд для разрушительного вторичного огня. Карающий автоматический первичный режим огня и вторичный режим, который заряжается для выпуска опустошительного луча энергии с массивным взрывом в точке попадания.",
+        "name": "Мосолон",
+        "code": "ru"
+      },
+      {
+        "description": "エントラティがネクロメカ用に設計した古の武器。プライマリ射撃は、標的から生命を吸い上げ、破壊的なセカンダリファイアを充填する。痛めつけるようなプライマリ射撃と、破壊エネルギーのビームを解き放ち、着弾点に爆発を引き起こすセカンダリ射撃を持つ。",
+        "name": "Mausolon",
+        "code": "ja"
+      },
+      {
+        "description": "Starożytna broń zaprojektowana przez Entrati do użytku przez ich Nekramechy. Ogień główny wysysa esencję życiową z celu, aby zasilić niszczycielski ogień alternatywny. Automatyczny ogień podstawowy, który karze przeciwników i tryb alternatywny, który ładuje się, aby uwolnić niszczycielski promień energii z dużą eksplozją w miejscu uderzenia.",
+        "name": "Mausolon",
+        "code": "pl"
+      },
+      {
+        "description": "Uma arma ancestral, criada pelos Entrati, concebida para o uso em Necramechs. O seu Fogo Primário drena a energia vital do alvo para, assim, alimentar o seu devastador Fogo Alternativo. O Fogo Primário e o Fogo Alternativo liberam um feixe de energia destrutivo, o que desencadeia uma explosão no ponto de impacto.",
+        "name": "Mausolon",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：MAUSOLON）由源拓氏所設計給亡骸機甲使用的古老兵器。主要射擊可以從目標身上抽取生命精華，以填充具壓倒性破壞力的次要射擊。沉重的自動主要射擊以及次要模式蓄力釋放一道毀滅性的能量束，在撞擊點造成巨大的爆炸。",
+        "name": "造陵者",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธโบราณที่ออกแบบโดย Entrati เพื่อให้ Necramech ได้ใช้งาน มีโหมดยิงหลักที่จะดูดเอาพลังชีวิตจากเป้าหมายไปเป็นเชื้อเพลิงที่มีอำนาจทำลายล้างให้กับโหมดยิงสำรอง โหมดยิงหลักเป็นการยิงแบบอัตโนมัติ ส่วนโหมดสำรองเมื่อชาร์จพลังเต็มที่แล้วจะปล่อยลำแสงทำลายล้างออกมาทำให้เกิดการระเบิดครั้งใหญ่ที่จุดกระทบ",
+        "name": "Mausolon",
+        "code": "th"
+      },
+      {
+        "description": "Entrati tarafından, Necramech'lerinin kullanımı için tasarlanmış antik bir silah. Birincil atış modu, hedefinden yaşam enerjisi çekip, yıkıcı ikincil saldırısını şarj eder. Acı çektirten otomatik birincil saldırı ve, şarj olup, temas noktasında devasa bir patlama ile infilak eden ikincil atış modu bulundurur.",
+        "name": "Mausolon",
+        "code": "tr"
+      },
+      {
+        "description": "Прадавня важка гвинтівка, розроблена Ентраті для їхніх некрамехів. Основний автоматичний режим стрільби витягує есенцію життя з цілі, щоби зарядити нищівну альтернативну атаку, який випускає руйнівний енергетичний промінь із величезною вибуховою силою.",
+        "name": "Мавзолон",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/morgha-40068b33ff.png",
+    "name": "Morgha",
+    "description": "Blast through enemies with a double-barreled shot of energized slugs. This siphons their life essence which is then used to generate the secondary fire's massive air-burst mortar. The ancient Entrati weapon was built for Necramechs but also functions as an Archgun.",
+    "languages": [
+      {
+        "description": "Mit einem doppelläufigen Schuss und energiegeladenen Kugeln bahnst du dir einen Weg durch Gegner. Dabei wird Lebensessenz aufgesaugt und mit dem Sekundärfeuer zu einer Luftdetonation umgewandelt. Die uralte Entrati-Waffe wurde für Necramechs gebaut, aber sie kann auch als Arch-Gewehr benutzt werden.",
+        "name": "Morgha",
+        "code": "de"
+      },
+      {
+        "description": "Abattez vos ennemis avec un double tir de balles chargées d'énergie. Leur essence vitale est aspirée et ensuite utilisée pour charger le mortier explosif du tir secondaire. Cette ancienne arme Entrati a été construite pour les Necramechs mais elle fonctionne également comme un Arch-Fusil.",
+        "name": "Morgha",
+        "code": "fr"
+      },
+      {
+        "description": "Distruggi i nemici con un doppio colpo di proiettili energizzati. Questo incanala la loro essenza vitale che viene quindi utilizzata per generare l'enorme esplosione aerea del fuoco secondario. Questa antica arma Entrati è stata costruita per i Necramech ma può essere utilizzata anche come Archgun.",
+        "name": "Morgha",
+        "code": "it"
+      },
+      {
+        "description": "더블 배럴에서 뿜어져 나오는 에너지 탄환으로 적들을 폭파시킬 수 있으며, 이를 통해 목표로부터 생명의 정수를 빨아들여 박격포 보조 발사로 거대한 공중 폭발을 발생시키는 데 사용합니다. 고대의 엔트라티 무기는 네크라메크를 위해 제작되었지만 아크윙 총기로도 사용할 수 있습니다.",
+        "name": "모르가",
+        "code": "ko"
+      },
+      {
+        "description": "Atraviesa a los enemigos con un disparo de dos cañones de balas energizadas. Esto extrae su esencia vital que luego se usa para generar el masivo mortero explosivo aéreo del fuego secundario. La antigua arma Entrati fue construida para Necramechs pero también funciona como archcañón.",
+        "name": "Morgha",
+        "code": "es"
+      },
+      {
+        "description": "（英文：MORGHA）通过双管射出的充能弹头来轰击敌人。这会吸取他们的生命精华，然后将其用于生成次要射击模式的大规模空爆迫击炮。这件古老的英择谛武器是为殁世机甲打造的，但也可以作为一把曲翼枪械来使用。",
+        "name": "置灵者",
+        "code": "zh"
+      },
+      {
+        "description": "Прокладывайте путь сквозь толпы врагов с помощью заряженных пуль, выпущенных из двух стволов. Высасывайте из врагов их жизненную сущность, которая затем используется для создания массивного миномётного снаряда в режиме вторичного огня. Это древнее оружие Энтрати было построено для некрамехов, но также функционирует как оружие для Арчвинга.",
+        "name": "Морга",
+        "code": "ru"
+      },
+      {
+        "description": "ダブルバレルから放たれるエネルギースラグ弾で敵をぶち抜け。相手の生命力を吸い上げることで、セカンダリ射撃用の巨大エアバースト迫撃砲を生成できる。古のエントラティの武器はネクロメカ用として造られたものだが、アークウイングガンとしても機能する。",
+        "name": "Morgha",
+        "code": "ja"
+      },
+      {
+        "description": "Przebijaj się przez wrogów przy pomocy elektrycznych pocisków wystrzeliwanych z podwójnej lufy. Wysysaj esencję życiową wrogów, która jest następnie wykorzystywana do stworzenia masywnego pocisku moździerzowego. Starożytna broń Entrati została zbudowana dla Nekramechów, ale działa również jako Archgun.",
+        "name": "Morgha",
+        "code": "pl"
+      },
+      {
+        "description": "Exploda seus inimigos com um disparo de balotes energizados, provenientes de canos duplos. Eles drenam a essência de vida dos inimigos, que então é utilizada para gerar o disparo secundário, massivo e explosivo. Esta arma Entrati ancestral foi construída inicialmente para os Necramechs, mas também pode ser utilizada como uma Arch-Arma.",
+        "name": "Morgha",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：MORGHA）以雙管射出高能量的彈頭轟炸敵人，能從目標身上抽取生命精華來補充次要射擊的空爆巨砲。這項源拓氏武器原為亡骸機甲使用，但也可作為 Archwing 槍械使用。",
+        "name": "葬棺者",
+        "code": "tc"
+      },
+      {
+        "description": "อาวุธกระบอกนี้ระเบิดศัตรูด้วยกระสุนสองลำกล้องที่สูบชีวิตของศัตรู แล้วใช้โหมดการยิงสำรองยิงกระสุนครกที่จะระเบิดกลางอากาศ อาวุธ Entrati โบราณชิ้นนี้สร้างขึ้นเพื่อให้ Necramech ใช้ แต่ก็สามารถใช้เป็น Archgun ได้ด้วยเช่นกัน",
+        "name": "Morgha",
+        "code": "th"
+      },
+      {
+        "description": "Çift namlulu, şarjlı tüfek mermisi ile düşmanlarını paramparça et. Bu atış, düşmanların yaşam özlerini çeker ve bunları ikincil ateş modundaki devasa havada patlamalı havan topunu üretmek için kullanır. Bu antik Entrati silahı Necramech'ler için yapılmıştır, ancak aynı zamanda bir Archgun olarak da işlev görür.",
+        "name": "Morgha",
+        "code": "tr"
+      },
+      {
+        "description": "Важкий гранатомет, розроблений Ентраті для їхніх некрамехів, може використовуватися для арквінґів. Стріляє енергетичними набоями одночасно з двох стволів, які витягують есенцію життя з цілей і заряджають потужну мінометну альтернативну атаку.",
+        "name": "Морґа",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/phaedra-629ac9ffc2.png",
+    "name": "Phaedra",
+    "description": "Devastate free-space enemies with Phaedra, the Soma's big-sister.",
+    "languages": [
+      {
+        "description": "Vernichte Gegner im Weltraum mit der Phaedra, der großen Schwester der Soma.",
+        "name": "Phaedra",
+        "code": "de"
+      },
+      {
+        "description": "Éliminez des ennemis dans l'espace avec la Phaedra, la grande sœur du Soma.",
+        "name": "Phaedra",
+        "code": "fr"
+      },
+      {
+        "description": "Devasta nello spazio i nemici col Phaedra, la sorellona della Soma.",
+        "name": "Phaedra",
+        "code": "it"
+      },
+      {
+        "description": "소마의 자매기, 파이드라로 진공 공간의 적들을 한 순간에 파괴해보세요.",
+        "name": "파이드라",
+        "code": "ko"
+      },
+      {
+        "description": "Devasta enemigos en el espacio con Phaedra, la hermana mayor de la Soma.",
+        "name": "Phaedra",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PHAEDRA）借由这把菲德菈——月神最年长的姊妹——纵横太空尽情毁灭敌人。",
+        "name": "菲德菈",
+        "code": "zh"
+      },
+      {
+        "description": "Уничтожайте врагов в открытом космосе с помощью Федры, старшей сестры Сомы.",
+        "name": "Федра",
+        "code": "ru"
+      },
+      {
+        "description": "Soma の姉妹武器、Phaedra で宇宙空間の敵を蹴散らそう。",
+        "name": "Phaedra",
+        "code": "ja"
+      },
+      {
+        "description": "Zniszcz nieprzyjaciół w przestrzeni przy pomocy Phaedry, większej siostry Somy.",
+        "name": "Phaedra",
+        "code": "pl"
+      },
+      {
+        "description": "Acabe com os inimigos espaciais com a Phaedra, a irmã mais velha da Soma.",
+        "name": "Phaedra",
+        "code": "pt"
+      },
+      {
+        "description": "（原文：PHAEDRA）藉由這把菲德菈——月神最年長的姊妹——縱橫太空盡情毀滅敵人。",
+        "name": "菲德菈",
+        "code": "tc"
+      },
+      {
+        "description": "ทำลายล้างศัตรูในอวกาศด้วย Phaedra อาวุธที่ถือว่าเป็นพี่สาวคนโตของ Soma",
+        "name": "Phaedra",
+        "code": "th"
+      },
+      {
+        "description": "Soma'nın büyük kardeşi Phaedra ile düşmanları birer uzay enkazına dönüştürün.",
+        "name": "Phaedra",
+        "code": "tr"
+      },
+      {
+        "description": "Арк-гармата, старша сестра гвинтівки «Сома». Нищте ворогів у відкритому космосі.",
+        "name": "Федра",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-dual-decurions-e4d5a8cf9e.png",
+    "name": "Prisma Dual Decurions",
+    "description": "Colder than space and less forgiving, Prisma crystals bring elite efficiency to the already sleek Dual Decurion. Requiring the lightest of touches to reload, these twin archguns prove that heavy weaponry can still possess elegance.",
+    "languages": [
+      {
+        "description": "Kälter als der Weltraum und weniger verzeihend, Prisma-Kristalle bringen Elite-Effizienz zu den bereits schnittigen Dual-Decurion. Sie erfordern nur die leichtesten Berührungen zum Nachladen, diese Zwillings-Arch-Gewehre beweisen, dass sie trotz allem Eleganz besitzen.",
+        "name": "Prisma Dual-Decurion",
+        "code": "de"
+      },
+      {
+        "description": "Plus froids que l'espace et moins indulgents, les cristaux Prisma apportent une efficacité d'élite aux Doubles Décurions déjà élégants. Exigeant un toucher délicat pour recharger, ces deux Arch-Fusils prouvent que les armes lourdes peuvent aussi posséder de la finesse.",
+        "name": "Doubles Décurions Prisma",
+        "code": "fr"
+      },
+      {
+        "description": "Più freddi dello spazio e meno indulgenti, i cristalli Prisma apportano un aspetto d'élite ai già raffinati Dual Decurion. Richiedendo solamente un leggerissimo tocco per essere ricaricati, questi doppi Archgun dimostrano che le armi pesanti possono ancora possedere dell'eleganza.",
+        "name": "Prisma Dual Decurion",
+        "code": "it"
+      },
+      {
+        "description": "우주 그 자체보다도 차갑고 자비없는 프리즈마 크리스탈이 그 자체만으로도 매끈한 듀얼 데큐리온에 엘리트적 효율을 선사합니다. 재장전에 아주 가벼운 터치만을 필요로 하는 이 한 쌍의 아크윙 총기는 중무장이라도 우아함을 간직할 수 있다는 것을 증명해 줍니다.",
+        "name": "프리즈마 듀얼 데큐리온",
+        "code": "ko"
+      },
+      {
+        "description": "Más fríos que el espacio y menos indulgentes, los cristales Prisma aportan una eficiencia de élite a la elegancia actual de los Decuriones dobles. Al requerir un toque delicado para recargar, estos dos archcañones gemelos demuestran que las armas pesadas también pueden tener elegancia.",
+        "name": "Decuriones Dobles Prisma",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PRISMA DUAL DECURIONS）比太空更冷酷无情，棱晶为已经很时尚的什长双枪带来了卓越的效率。只需轻轻一碰即可装填弹药，这把双持曲翼枪械证明了重型武器也可以保持优雅。",
+        "name": "棱晶·什长双枪",
+        "code": "zh"
+      },
+      {
+        "description": "Холоднее и беспощаднее космического вакуума, Призматические Кристаллы дополняют Парные Декурионы элитными характеристиками. Это оружие Арчвинга, требующее лёгкого прикосновения для перезарядки, подтверждение того, что тяжёлое оружие всё ещё может быть элегантным.",
+        "name": "Парные Декурионы Призма",
+        "code": "ru"
+      },
+      {
+        "description": "プリズマクリスタルを施したこのDual Decurionは宇宙より冷血に、効率重視で敵を葬る。軽量化されたリロード動作により、2丁のアークウイング武器から優雅ささえ感じられる。",
+        "name": "Prisma Dual Decurions",
+        "code": "ja"
+      },
+      {
+        "description": "Zimniejsze niż sam kosmos i mniej wybaczające, kryształy Prisma zapewniają elitarną wydajność wystarczająco eleganckim Decurionom Podwójnym. Wymagające najdelikatniejszego dotyku, aby przeładować, te podwójne Archguny dowodzą, że Broń ciężka wciąż może posiadać elegancję.",
+        "name": "Decurion Podwójny Prisma",
+        "code": "pl"
+      },
+      {
+        "description": "Mais frios que o espaço e, também, menos tolerantes, os cristais Prisma trazem uma eficiência ainda maior para as elegantes Decurions Duplas. Exigindo o mais leve dos toques para serem recarregadas, estas armas duplas provam que até mesmo os armamentos pesados podem ser elegantes.",
+        "name": "Decurions Duplas Prisma",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：PRISMA DUAL DECURIONS）冷過太空、乏於寬恕，棱之水晶為平滑光亮的什長雙槍帶來精英級的效率。只有最輕盈的碰觸才能裝填這對 Archwing 雙槍，證明了重裝槍械仍能保有高雅之姿。",
+        "name": "棱晶 什長雙槍",
+        "code": "tc"
+      },
+      {
+        "description": "ปืน Arch-Gun ที่ไร้ความเมตตาและเย็นชายิ่งกว่าอวกาศ เมื่อเคลือบคริสตัลพริสมาแล้วก็ยิ่งทำให้ปืน Dual Decurion คู่นี้มีประสิทธิภาพที่ยอดเยี่ยมกว่าเดิม เพียงสัมผัสเบา ๆ ก็สามารถรีโหลดกระสุนได้อย่างรวดเร็ว พิสูจน์ให้เห็นว่าแม้เป็นอาวุธหนักก็ยังคงไว้ซึ่งความสง่างามได้",
+        "name": "Prisma Dual Decurions",
+        "code": "th"
+      },
+      {
+        "description": "Uzaydan daha soğuk ve daha acımasız olan bu Prizma kristalleri, halihazırda şık olan Dual Decurion'lara üstün bir verimlilik sağlıyor. Mermi yenilemek için çok hafif bir dokunuş gerektiren bu çifte Archgun'lar, ağır silahların her şeye rağmen zarafete sahip olabileceğini kanıtlıyor.",
+        "name": "Prisma Dual Decurions",
+        "code": "tr"
+      },
+      {
+        "description": "Неймовірні парні арк-рушниці «Декуріон» із призмовими кристалами, безжальними й холоднішими за космос. Перезаряджаються легким дотиком — доказ того, що навіть важка зброя може бути елегантною.",
+        "name": "Парні Декуріони-призма",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/velocitus-218fe8d40e.png",
+    "name": "Velocitus",
+    "description": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.",
+    "languages": [
+      {
+        "description": "Wenn vollständig geladen, beschleunigt der magnetische Lauf des Velocitus einen Metallrohling auf enorme Geschwindigkeit und durchschlägt so Hüllen und radiert Panzerung aus.",
+        "name": "Velocitus",
+        "code": "de"
+      },
+      {
+        "description": "Lorsque complètement chargé, le Canon magnétisé du Velocitus tire une munition de métal à des vitesses hallucinantes, traversant les coques et anéantissant l'Armure.",
+        "name": "Velocitus",
+        "code": "fr"
+      },
+      {
+        "description": "A carica completa, la canna magnetizzata della Velocitus accelera un proiettile metallico a velocità tremenda, penetrando scafi e distruggendo armature.",
+        "name": "Velocitus",
+        "code": "it"
+      },
+      {
+        "description": "벨로시투스의 총신에 자기력이 완전하게 축적될 경우, 엄청난 속도로 가속된 금속 탄환이 함선의 구조물을 꿰뚫고 아머들을 흔적도 없이 파괴해 버립니다.",
+        "name": "벨로시투스",
+        "code": "ko"
+      },
+      {
+        "description": "Cuando está totalmente cargado, el cañón magnetizado del Velocitus acelera un proyectil metálico a una tremenda velocidad, atravesando cascos y arrasando armaduras.",
+        "name": "Velocitus",
+        "code": "es"
+      },
+      {
+        "description": "（英文：VELOCITUS）当充能完成后，极速电磁步枪的磁化枪管能将金属子弹加速至极限，使其轻易的摧毁装甲，贯穿船身。",
+        "name": "极速电磁步枪",
+        "code": "zh"
+      },
+      {
+        "description": "Магнитный ствол Велоцитуса, будучи полностью заряженным, разгоняет металлическую болванку до невероятных скоростей, позволяя ей пробивать огромные дыры в броне противника.",
+        "name": "Велоцитус",
+        "code": "ru"
+      },
+      {
+        "description": "フルチャージにより磁気を帯びたバレルが金属の弾丸を超高速で射出し、船体や装甲をものともせず破壊することができる。",
+        "name": "Velocitus",
+        "code": "ja"
+      },
+      {
+        "description": "Kiedy jest naładowana, namagnetyzowana lufa Velocitus ogromnie zwiększa prędkość metalowych pocisków, przebijając kadłuby i niszcząc pancerze.",
+        "name": "Velocitus",
+        "code": "pl"
+      },
+      {
+        "description": "Quando está totalmente carregado, o barril magnetizado da Velocitus acelera um projétil de metal a velocidades assustadoras, perfurando cascos e Armaduras.",
+        "name": "Velocitus",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VELOCITUS）當充能完成後，極速電磁步槍的磁化槍管能將金屬子彈加速至極限，使其輕易的摧毀裝甲，貫穿船身。",
+        "name": "極速電磁步槍",
+        "code": "tc"
+      },
+      {
+        "description": "เมื่อชาร์จเต็มที่แล้ว ลำกล้องปืนที่เป็นแม่เหล็กของ Velocitus จะเร่งยิงกระสุนโลหะออกไปด้วยความเร็วมหาศาล เพื่อเจาะตัวถังและทำลายเกราะ",
+        "name": "Velocitus",
+        "code": "th"
+      },
+      {
+        "description": "Tam olarak şarj olduğunda Velocitus'un mermileri inanılmaz bir hıza ulaşarak önüne çıkan her şeyi delip geçer",
+        "name": "Velocitus",
+        "code": "tr"
+      },
+      {
+        "description": "Арк-гармата, намагнічений ствол якої за повного заряду прискорює металеву кулю до приголомшливої швидкості, завдяки чому може пробити корпус зорельотів чи розтрощити броню.",
+        "name": "Велоцит",
+        "code": "uk"
+      }
+    ]
+  }
+]

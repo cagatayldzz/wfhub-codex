@@ -1,0 +1,3278 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/a-man-of-few-words-ce44051d9c.png",
+    "name": "A Man Of Few Words",
+    "description": "Darvo needs your help again. Save one of his best contractors from Grineer execution.",
+    "languages": [
+      {
+        "description": "Darvo braucht wieder deine Hilfe. Rette einen seiner Auftragnehmer vor der Exekution durch die Grineer.",
+        "name": "Ein Mann weniger Worte",
+        "code": "de"
+      },
+      {
+        "description": "Darvo a encore besoin de votre aide. Empêchez l'un de ses meilleurs fournisseurs de se faire exécuter par les Grineers.",
+        "name": "Un Homme Peu Bavard",
+        "code": "fr"
+      },
+      {
+        "description": "Darvo ha bisogno di nuovo del tuo aiuto. Salva uno dei suoi migliori tirapiedi dalla condanna a morte.",
+        "name": "Un Uomo di Poche Parole",
+        "code": "it"
+      },
+      {
+        "description": "다르보가 다시 당신의 도움을 필요로 합니다. 그의 가장 큰 도급업자 중 하나를 그리니어 처형 절차에서 구출하세요.",
+        "name": "말 없는 남자",
+        "code": "ko"
+      },
+      {
+        "description": "Darvo necesita tu ayuda de nuevo. Salva a uno de sus mejores contratistas de la ejecución grineer.",
+        "name": "Un Hombre de Pocas Palabras",
+        "code": "es"
+      },
+      {
+        "description": "Darvo 再次需要你的协助，从 Grineer 的刑罚中拯救出他最好的承包商。",
+        "name": "沉默寡言的男人",
+        "code": "zh"
+      },
+      {
+        "description": "Дарво снова нужна твоя помощь. Спаси одного из его лучших подрядчиков от казни Гринир.",
+        "name": "Немногословный человек",
+        "code": "ru"
+      },
+      {
+        "description": "Darvoが君の助けを必要としている。グリニアの処刑から、Darvoの大事な契約業者を救い出せ。",
+        "name": "寡黙な人物",
+        "code": "ja"
+      },
+      {
+        "description": "Darvo potrzebuje Twojej pomocy. Uratuj jego najlepszych kontraktorów od katów Grineer.",
+        "name": "Człowiek Kilku Słów",
+        "code": "pl"
+      },
+      {
+        "description": "Darvo precisa de sua ajuda de novo. Salve um de seus melhores contratados de ser executado pelos Grineers.",
+        "name": "Um Homem de Poucas Palavras",
+        "code": "pt"
+      },
+      {
+        "description": "Darvo 再次需要你的協助，從 Grineer 的刑罰中拯救出他最好的承包商。",
+        "name": "沉默寡言的男人",
+        "code": "tc"
+      },
+      {
+        "description": "Darvo ต้องการความช่วยเหลืออีกครั้ง ช่วยชีวิตผู้รับเหมาที่ดีที่สุดคนหนึ่งของเขาจากการประหารของ Grineer",
+        "name": "ชายผู้มีคำพูดไม่กี่คำ",
+        "code": "th"
+      },
+      {
+        "description": "Darvo'nun tekrar yardımına ihtiyacı var. Onun iyi müşterilerinden birisini Grineer idamından kurtar.",
+        "name": "A Man Of Few Words",
+        "code": "tr"
+      },
+      {
+        "description": "Дарво знову потребує твоєї допомоги. Урятуй від ґрінерської страти одного з його найліпших підрядників.",
+        "name": "Небагатослівний",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/angels-of-the-zariman-7b3abaedf2.png",
+    "name": "Angels Of The Zariman",
+    "description": "From depths beyond reason a Voice had spoken, and its echoes would not be denied. No longer fully concealed by the ever-shifting Void, the Zariman now rests between worlds. A haunting song resounds across the System. It is time for an overdue confrontation with the past...",
+    "languages": [
+      {
+        "description": "Aus den Tiefen jenseits der Vernunft sprach eine Stimme und ihre Echos würden nicht ignoriert werden. Nicht länger durch den sich ständig ändernden Void verborgen, ruht die Zariman nun zwischen den Welten. Ein eindringliches Lied erklingt im gesamten System. Es steht eine längst überfällige Konfrontation mit der Vergangenheit an ...",
+        "name": "Engel der Zariman",
+        "code": "de"
+      },
+      {
+        "description": "Des profondeurs au-delà de la perception, une Voix s'élève et ses échos ne peuvent être ignorés. N'étant plus entièrement dissimulé par le Néant en constante évolution, le Zariman repose désormais entre les mondes. Une Lamentation obsédante résonne à travers le Système. Une confrontation tardive avec le passé s'impose...",
+        "name": "Les Anges du Zariman",
+        "code": "fr"
+      },
+      {
+        "description": "Dalle profondità oltre ogni ragione si sentì una Voce, e i suoi echi non sarebbero stati ignorati. Non più completamente nascosta dal Void in continua evoluzione, la Zariman ora riposa tra i mondi. Una canzone inquietante risuona in tutto il Sistema. È tempo di un confronto con il passato...",
+        "name": "Angeli della Zariman",
+        "code": "it"
+      },
+      {
+        "description": "이성을 초월한 저 깊은 곳에서 한 목소리가 입을 열었고, 울려오는 그 메아리는 그 누구도 거부할 수 없습니다. 끊임없이 변화하는 보이드에 더 이상 완전히 가려지지 못한 채, 자리만은 이제 세계의 경계선에 걸쳐져 있지요. 서늘하게 뇌리를 울리는 노래가 성계 전체에 울려 퍼집니다. 이제, 오랫동안 청산하지 못한 과거와 마주해야 할 때입니다...",
+        "name": "자리만의 천사들",
+        "code": "ko"
+      },
+      {
+        "description": "Desde profundidades que van más allá de la razón, se escuchó una voz y sus ecos no fueron ignorados. Sin estar completamente oculta por el cambiante Vacío, la Zariman ahora descansa entre los mundos. Una canción inquietante resuena en todo el Sistema. Ha llegado el momento de confrontar al pasado...",
+        "name": "Ángeles de Zariman",
+        "code": "es"
+      },
+      {
+        "description": "一道声音从感知以外的幽深之处响起，其回响不容忽视。不再完全被变幻万千的虚空所掩盖，「扎里曼号」现在停泊于两界之间。荧惑的歌声在星系中回荡，是时候与过去开始一场早该进行的斗争了……",
+        "name": "扎里曼的天使",
+        "code": "zh"
+      },
+      {
+        "description": "Из глубин за пределами восприятия доносится голос, эхо которого нельзя игнорировать. Возникнув из пучин постоянно меняющейся Бездны, «Зариман» теперь покоится между мирами. Навязчивая песнь эхом разносится по всей Системе. Пришло время для разрешения назревшей конфронтации прошлого…",
+        "name": "Ангелы Заримана",
+        "code": "ru"
+      },
+      {
+        "description": "理の外の世界から聞こえる奇妙な声、その反響はもはや背を向ける事さえ許されない。揮発的なVoidから姿を現したZarimanは今二つの世界の狭間にある。太陽系中に響き渡る鳴り止むことのない歌声。過去と向き合う時が来たのです…",
+        "name": "Zarimanの天使",
+        "code": "ja"
+      },
+      {
+        "description": "Z głębin przechodzących pojęcie przemówił Głos, a jego echom nie można odmówić. Zariman, nieskryty już przez wiecznie zmieniającą się Pustkę, spoczywa teraz pomiędzy światami. Koszmarna pieśń rozbrzmiewa w całym Systemie. Nadszedł czas zmierzyć się z przeszłością.",
+        "name": "Anioły Zarimana",
+        "code": "pl"
+      },
+      {
+        "description": "Das profundezas além da compreensão, uma Voz pronunciou-se, sabendo que seus ecos não seriam ignorados. Não mais encoberta pelo manto perpétuo do Void, a Zariman agora transita entre mundos. Uma canção tenebrosa ressoa pelo Sistema. É chegado o momento de confrontar o passado…",
+        "name": "Anjos da Zariman",
+        "code": "pt"
+      },
+      {
+        "description": "來自超乎想像的深淵的一個聲音說話了，而其迴響絕對不會被否定。不再被持續變動的虛空完全遮掩，扎日曼號現在停靠在界域之間。一首陰森的歌曲在整個星系中迴響。是時候與過去展開一場遲來的對峙了……",
+        "name": "扎日曼的天使們",
+        "code": "tc"
+      },
+      {
+        "description": "จากส่วนลึกเกินสติสัมปชัญญะจะหยั่งถึง มีเสียงร้องดังก้องขึ้น ส่งเสียงสะท้อนที่ยากจะปฏิเสธ วอย์ที่ผันเปลี่ยนเวียนวนไม่สามารถซ่อนเสียงนั่นได้อีกต่อไป บัดนี้ Zariman พักสงบนิ่งอยู่ระหว่างโลก มีบทเพลงคอยหลอกหลอนดังก้องไปทั่วทั้งระบบ ถึงเวลาแล้วที่ต้องเผชิญหน้ากับอดีตที่ยังคงค้างคา...",
+        "name": "เทวทูตแห่ง Zariman",
+        "code": "th"
+      },
+      {
+        "description": "Aklın ötesindeki derinliklerden bir Ses yükselmişti, ve yankıları inkar edilemezdi. Sürekli değişen Void tarafından artık tam olarak gizlenemeyen Zariman, iki evrenin arasında çakılı kalmış durumda. Sistemin her yerinde akıldan çıkmayan ağıtlar yankılanıyor. Geç de olsa artık geçmişle yüzleşmenin zamanı geldi...",
+        "name": "Angels of the Zariman",
+        "code": "tr"
+      },
+      {
+        "description": "З недосяжних для розуму глибин мовив Голос, і відлуння його неможливо заглушити. «Заримен», якого більше не приховує непостійна Порожнеча, тепер спочиває в міжсвітті. Системою лунає моторошна пісня. Настав час для відкладеної зустрічі з минулим…",
+        "name": "Янголи «Заримена»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/apostasy-prologue-1e1c77967f.png",
+    "name": "Apostasy Prologue",
+    "description": "Inspect your personal quarters upon finishing the Chains of Harrow quest.",
+    "languages": [
+      {
+        "description": "Besuche deinen Wohnbereich, nachdem du die Quest \"Ketten des Harrow\" abgeschlossen hast.",
+        "name": "Apostasie Prolog",
+        "code": "de"
+      },
+      {
+        "description": "Inspectez vos Quartiers Personnels après avoir terminé la Quête \"Le Fardeau de Harrow\".",
+        "name": "Prologue Apostasie",
+        "code": "fr"
+      },
+      {
+        "description": "Ispeziona il tuo alloggio personale dopo aver completato la quest Catene di Harrow.",
+        "name": "Prologo dell'Apostasia",
+        "code": "it"
+      },
+      {
+        "description": "해로우의 사슬 퀘스트 완료 후에 개인실을 조사해 보세요.",
+        "name": "배교 프롤로그",
+        "code": "ko"
+      },
+      {
+        "description": "Investiga tu cuarto personal al finalizar la aventura Las Cadenas de Harrow.",
+        "name": "Prólogo de la Apostasía",
+        "code": "es"
+      },
+      {
+        "description": "完成 Harrow 系列任务后前去检查你的个人房间。",
+        "name": "变节序言",
+        "code": "zh"
+      },
+      {
+        "description": "Проверьте вашу личную комнату после завершения квеста «Цепи Харроу».",
+        "name": "Начало Отступничества",
+        "code": "ru"
+      },
+      {
+        "description": "個人部屋は「Harrowの鎖」クエストをクリアした後に調査できます。",
+        "name": "背信のプロローグ",
+        "code": "ja"
+      },
+      {
+        "description": "Zbadaj swoje Pomieszczenie Mieszkalne po zakończeniu zadania Okowy Harrowa.",
+        "name": "Apostazja Prolog",
+        "code": "pl"
+      },
+      {
+        "description": "Inspecione seus aposentos pessoais após a conclusão da jornada \"Correntes de Harrow\".",
+        "name": "Prólogo da Apostásia",
+        "code": "pt"
+      },
+      {
+        "description": "完成《Harrow 的枷鎖》系列任務後前去檢查你的個人房間。",
+        "name": "變節序言",
+        "code": "tc"
+      },
+      {
+        "description": "ตรวจสอบที่พักส่วนตัวเมื่อจบเควสต์พันธนาการของ Harrow",
+        "name": "เปิดฉากการละทิ้งความเชื่อ",
+        "code": "th"
+      },
+      {
+        "description": "Chains of Harrow questi ardından kişisel karargahınızı inceleyin.",
+        "name": "Apostasy Prologue",
+        "code": "tr"
+      },
+      {
+        "description": "Огляньте свою каюту після завершення пригоди «Ланцюги Гарроу».",
+        "name": "Зречення: пролог",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewPlayerQuest/NewPlayerQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/awakening-857bd07390.png",
+    "name": "Awakening",
+    "description": "The Tenno: monuments of an ancient warrior caste.For generations you've slept, with no call to wake you.Until now.",
+    "languages": [
+      {
+        "description": "Die Tenno: Monumente einer uralten Kriegerkaste.Über Generationen hast du geschlafen, ohne einen Ruf, der dich weckt.Bis jetzt.",
+        "name": "ERWACHEN",
+        "code": "de"
+      },
+      {
+        "description": "Les Tennos: monuments d'une ancienne caste de guerriers.Pendant des générations, vous avez dormi, sans appel pour vous réveiller.Jusqu'à présent.",
+        "name": "ÉVEIL",
+        "code": "fr"
+      },
+      {
+        "description": "I Tenno: monumenti di un'antica casta di guerrieri.Hai dormito per generazioni, senza alcun modo di risvegliarti.Fino ad ora.",
+        "name": "RISVEGLIO",
+        "code": "it"
+      },
+      {
+        "description": "텐노란, 고대의 전사 계급이 남긴 기념비와 같은 존재.수많은 세월 동안, 당신을 깨울 그 누구의 목소리도 없이 당신은 잠들어 있었습니다.지금 이 순간까지는.",
+        "name": "각성",
+        "code": "ko"
+      },
+      {
+        "description": "Los tenno: monumentos a una casta de antiguos guerreros.Has dormido durante generaciones, sin una llamada que te despierte.Hasta ahora.",
+        "name": "DESPERTAR",
+        "code": "es"
+      },
+      {
+        "description": "Tenno：古代战士地位的遗迹。世世代代你都在沉睡，也没有人唤醒你。直到现在。",
+        "name": "觉醒",
+        "code": "zh"
+      },
+      {
+        "description": "Тэнно. Каста воинов древней эпохи.Столетиями ты пребывал во сне. Без зова, который пробудил бы тебя.Пробудись же, Тэнно.",
+        "name": "ПРОБУЖДЕНИЕ",
+        "code": "ru"
+      },
+      {
+        "description": "テンノ：　古代の戦士の記念碑。永きに渡って眠り続けたテンノ…　目的もなく、あなたを呼ぶ者もおらず。そして再び動き出す。",
+        "name": "目覚め",
+        "code": "ja"
+      },
+      {
+        "description": "Tenno: monumenty starożytnej kasty wojowników.Przespałeś wiele generacji, bez żadnego wezwania, które by Cię obudziło.Do teraz.",
+        "name": "PRZEBUDZENIE",
+        "code": "pl"
+      },
+      {
+        "description": "Os Tenno: monumentos de uma casta guerreira ancestral.Por gerações, você dormiu, sem qualquer chamado para acordá-lo.Até então.",
+        "name": "DESPERTAR",
+        "code": "pt"
+      },
+      {
+        "description": "Tenno──古老戰士階級的遺蹟。你安眠了多少個世代，無人喚醒你。直至現在。",
+        "name": "覺醒",
+        "code": "tc"
+      },
+      {
+        "description": "Tenno: อนุสาวรีย์ของตระกูลนักรบโบราณเจ้าหลับใหลไปนานหลายชั่วอายุคนแล้ว ไม่เคยมีใครปลุกเจ้าให้ตื่นเลยกระทั่งบัดนี้",
+        "name": "เมื่อแรกตื่น",
+        "code": "th"
+      },
+      {
+        "description": "Tenno: Eski bir savaşçı kastının abidesi.Nesillerdir seni uyandıracak bir çağrı olmaksızın uyudun.Şimdiye kadar.",
+        "name": "UYANIŞ",
+        "code": "tr"
+      },
+      {
+        "description": "Тенно — пам’ятники прадавньої касти воїнів.Твій сон тривав поколіннями, бо не було поклику, який розбудив би тебе.Дотепер.",
+        "name": "ПРОБУДЖЕННЯ",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/call-of-the-tempestarii-cfa6a14d26.png",
+    "name": "Call Of The Tempestarii",
+    "description": "Void Storms gather in Corpus lanes... could a mysterious vessel somehow be the cause?",
+    "languages": [
+      {
+        "description": "Void-Stürme sammeln sich in der Spur der Corpus ... könnte ein mysteriöses Schiff der Grund sein?",
+        "name": "Ruf der Tempestarii",
+        "code": "de"
+      },
+      {
+        "description": "Les Tempêtes du Néant se succèdent dans les zones Corpus... Un mystérieux vaisseau pourrait-il en être la cause?",
+        "name": "L'Appel du Tempestarii",
+        "code": "fr"
+      },
+      {
+        "description": "Le Tempeste Void si susseguono nelle zone Corpus... la causa potrebbe forse essere una nave misteriosa?",
+        "name": "Richiamo della Tempestarii",
+        "code": "it"
+      },
+      {
+        "description": "코퍼스의 항로 내에 거센 보이드 폭풍이 다가옵니다... 혹시 그 정체불명의 함선이 원인일까요?",
+        "name": "템페스타리의 부름",
+        "code": "ko"
+      },
+      {
+        "description": "Las tormentas del Vacío se acumulan en los carriles del Corpus... ¿se deberá a una nave misteriosa?",
+        "name": "La Llamada de la Tempestarii",
+        "code": "es"
+      },
+      {
+        "description": "虚空风暴正在 Corpus 航道上聚集……难道是某艘神秘诡舰所造成的？",
+        "name": "风暴的呼唤",
+        "code": "zh"
+      },
+      {
+        "description": "Бури Бездны зверствуют на путях перемещения кораблей Корпуса... Может ли таинственный корабль быть тому причиной?",
+        "name": "Зов Темпестарии",
+        "code": "ru"
+      },
+      {
+        "description": "コーパス宇宙空域で広がるVoid嵐…　奇妙な船を包む謎とは一体？",
+        "name": "嵐を呼ぶ者テンペスタリ",
+        "code": "ja"
+      },
+      {
+        "description": "Na szlakach Corpus pojawiły się Burze Pustki... czy ma to jakiś związek z tajemniczym okrętem?",
+        "name": "Zew Tempestarii",
+        "code": "pl"
+      },
+      {
+        "description": "As Tempestades do Void estão concentradas nos setores dos Corpus… Seria uma nave misteriosa a causadora disto?",
+        "name": "Chamado da Tempestarii",
+        "code": "pt"
+      },
+      {
+        "description": "虛空風暴聚集在 Corpus 航道中……有沒有可能是一艘神秘船艦因不明原因造成的？",
+        "name": "暴風號的召喚",
+        "code": "tc"
+      },
+      {
+        "description": "พายุวอยด์รวมตัวกันในเลนของ Corpus... หรือยานลึกลับจะเป็นเหตุให้เกิดเหตุการณ์นี้ขึ้น?",
+        "name": "เสียงเรียกของ Tempestarii",
+        "code": "th"
+      },
+      {
+        "description": "Corpus saflarında Void Fırtınası büyüyor... Gizemli bir araç bunun sebebi olabilir mi?",
+        "name": "Call of the Tempestarii",
+        "code": "tr"
+      },
+      {
+        "description": "Довкола маршрутів зорельотів Корпусу вирують бурі Порожнечі… Чи має містичний зореліт до цього відношення?",
+        "name": "Поклик «Буревісника»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chains-of-harrow-47aa118dc6.png",
+    "name": "Chains Of Harrow",
+    "description": "A strange transmission leads deep into the dark world of Red Veil mysticism. What evils will be found there and what do they want?",
+    "languages": [
+      {
+        "description": "Eine seltsame Übertragung führt in die dunklen Tiefen des Red Veil Mystizismus. Welche Übel werden erscheinen und was haben sie vor?",
+        "name": "Ketten des Harrow",
+        "code": "de"
+      },
+      {
+        "description": "Une étrange transmission mène dans le monde sombre du mysticisme du Voile Rouge. Quels maux seront trouvés là-bas et que veulent-ils ?",
+        "name": "Le Fardeau de Harrow",
+        "code": "fr"
+      },
+      {
+        "description": "Una strana trasmissione conduce nel mondo oscuro del misticismo del Red Veil. Che mali vi saranno lì e cosa vorranno?",
+        "name": "Catene di Harrow",
+        "code": "it"
+      },
+      {
+        "description": "한 기이한 통신이 여러분을 레드 베일 내 어두운 신비주의의 세계로 이끕니다. 그 곳에서 마주칠 악의의 목적은 무엇일까요?",
+        "name": "해로우의 사슬",
+        "code": "ko"
+      },
+      {
+        "description": "Una extraña transmisión lleva al profundo y oscuro mundo del misticismo del Velo Rojo. ¿Qué males rondarán allí y qué querrán?",
+        "name": "Las Cadenas de Harrow",
+        "code": "es"
+      },
+      {
+        "description": "一条奇怪的通信引向黑暗世界深处血色面纱的神秘。在那里会找到何种邪恶之物，而他们的目的又是什么呢？",
+        "name": "Harrow 的枷锁",
+        "code": "zh"
+      },
+      {
+        "description": "Необычное сообщение ведет прямиком в тёмный мир мистицизма Красной Вуали. Какое зло таится там и чего оно хочет?",
+        "name": "Цепи Харроу",
+        "code": "ru"
+      },
+      {
+        "description": "奇妙な通信がレッド・ベール神秘論の暗い世界の奥底へと誘う。そこでどんな邪悪なモノを見るだろう？ソレは何がしたいのだろうか？",
+        "name": "Harrowの鎖",
+        "code": "ja"
+      },
+      {
+        "description": "Dziwna transmisja prowadzi w głąb ciemnego świata mistycyzmu Czerwonego Woalu. Jakie zło może się tam znajdować i czego może chcieć?",
+        "name": "Okowy Harrowa",
+        "code": "pl"
+      },
+      {
+        "description": "Uma estranha transmissão leva profundamente ao obscuro e místico mundo do Véu Rubro. Que males serão encontrados por lá, e o que querem?",
+        "name": "Correntes de Harrow",
+        "code": "pt"
+      },
+      {
+        "description": "一條奇怪的通信引向黑暗世界深處血色面紗的神秘。在那裡會找到何種邪惡之物，而他們的目的又是什麼呢？",
+        "name": "Harrow 的枷鎖",
+        "code": "tc"
+      },
+      {
+        "description": "การสื่อสารประหลาดที่นำดิ่งไปสู่โลกแห่งความมืดมนที่แสนลึกลับของกลุ่ม Red Veil จะพบความชั่วร้ายชนิดใดที่นั่น และจุดประสงค์ของพวกมันคืออะไร?",
+        "name": "พันธนาการของ Harrow",
+        "code": "th"
+      },
+      {
+        "description": "Red Veil inanışlarının karanlık dünyasının derinliklerini gösteren yabancı bir ileti. Burada ne tür kötülükler var ve ne istiyorlar ?",
+        "name": "Chains of Harrow",
+        "code": "tr"
+      },
+      {
+        "description": "Дивна передача даних веде вглиб темного світу містичних вірувань «Багряної Вуалі». Яке зло там можна знайти й чого воно прагне?",
+        "name": "Ланцюги Гарроу",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chimera-prologue-b2e83b2342.png",
+    "name": "Chimera Prologue",
+    "description": "Investigate your personal quarters upon completion of The Sacrifice.",
+    "languages": [
+      {
+        "description": "Untersuche deinen persönlichen Wohnbereich, nachdem du die Quest \"Das Opfer\" abgeschlossen hast.",
+        "name": "Chimäre Prolog",
+        "code": "de"
+      },
+      {
+        "description": "Examinez vos Quartiers Personnels après avoir complété la Quête \"Le Sacrifice\".",
+        "name": "Prologue Chimère",
+        "code": "fr"
+      },
+      {
+        "description": "Indaga gli alloggi personali dopo aver completato la quest Il Sacrificio.",
+        "name": "Prologo Chimera",
+        "code": "it"
+      },
+      {
+        "description": "희생 퀘스트 완료 후에 개인실을 조사해보세요.",
+        "name": "키메라 프롤로그",
+        "code": "ko"
+      },
+      {
+        "description": "Investiga tu cuartel personal al completar «El Sacrificio».",
+        "name": "Prólogo de Quimera",
+        "code": "es"
+      },
+      {
+        "description": "完成《牺牲》系列任务后调查个人房间",
+        "name": "虚妄嵌合序言",
+        "code": "zh"
+      },
+      {
+        "description": "Осмотрите личную комнату после завершения квеста «Жертва».",
+        "name": "Химера: Пролог",
+        "code": "ru"
+      },
+      {
+        "description": "「サクリファイス」クエストを完了後個人部屋を調査する。",
+        "name": "キメラプロローグ",
+        "code": "ja"
+      },
+      {
+        "description": "Zbadaj swoje Pomieszczenie Mieszkalne po zakończeniu zadania Wyrzeczenie.",
+        "name": "Chimera Prolog",
+        "code": "pl"
+      },
+      {
+        "description": "Verifique os seus aposentos pessoais após a conclusão da jornada \"O Sacrifício\".",
+        "name": "Prólogo da Quimera",
+        "code": "pt"
+      },
+      {
+        "description": "完成《犧牲》系列任務後調查個人房間",
+        "name": "奇美拉序言",
+        "code": "tc"
+      },
+      {
+        "description": "สำรวจที่พักส่วนตัวเมื่อสำเร็จเควสต์การเสียสละ",
+        "name": "เปิดฉากความเพ้อฝัน",
+        "code": "th"
+      },
+      {
+        "description": "The Sacrifice questini tamamladıktan sonra Kişisel Karargahınıza göz atın.",
+        "name": "Chimera Prologue",
+        "code": "tr"
+      },
+      {
+        "description": "Огляньте свою каюту після завершення пригоди «Жертва».",
+        "name": "Химера: пролог",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DojoKey",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clan-key-1065fcf131.png",
+    "name": "Clan Key",
+    "description": "Unlocks access to your Clan's Dojo",
+    "languages": [
+      {
+        "description": "Ermöglicht Zugang zum Dojo deines Clans",
+        "name": "Clan-Schlüssel",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille l'accès au Dojo de votre Clan.",
+        "name": "Clé de Clan",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca l'accesso al Dojo del tuo Clan",
+        "name": "Chiave Clan",
+        "code": "it"
+      },
+      {
+        "description": "클랜 도장에 입장할 수 있습니다.",
+        "name": "클랜 키",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea el acceso a tu dojo del clan",
+        "name": "Llave de clan",
+        "code": "es"
+      },
+      {
+        "description": "解开进入氏族道场的权限",
+        "name": "氏族钥匙",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает доступ к клановому додзё.",
+        "name": "Клановый ключ",
+        "code": "ru"
+      },
+      {
+        "description": "クランDOJOへのアクセスを許可する。",
+        "name": "クランキー",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokowuje dostęp do Dojo Twojego Klanu",
+        "name": "Klucz Klanowy",
+        "code": "pl"
+      },
+      {
+        "description": "Destrava o acesso para o Dojo do Clã.",
+        "name": "Chave do Clã",
+        "code": "pt"
+      },
+      {
+        "description": "解開進入氏族道場的權限",
+        "name": "氏族鑰匙",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกการเข้าถึง Dojo ในแคลนของคุณ",
+        "name": "กุญแจแคลน",
+        "code": "th"
+      },
+      {
+        "description": "Klan Dojo'nuza girişi açın",
+        "name": "Klan Anahtarı",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує доступ до кланового доджьо.",
+        "name": "Клановий ключ",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewWarIntroQuest/NewWarIntroKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/erra-99349bd817.png",
+    "name": "Erra",
+    "description": "",
+    "languages": [
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "de"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "fr"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "it"
+      },
+      {
+        "description": "",
+        "name": "에라",
+        "code": "ko"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "es"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "zh"
+      },
+      {
+        "description": "",
+        "name": "Эрра",
+        "code": "ru"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "ja"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "pl"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "pt"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "tc"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "th"
+      },
+      {
+        "description": "",
+        "name": "Erra",
+        "code": "tr"
+      },
+      {
+        "description": "",
+        "name": "Ерра",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heart-of-deimos-9ed27f2b45.png",
+    "name": "Heart Of Deimos",
+    "description": "Deimos emerges in Martian orbit, completely overrun by the Infestation... yet among the writhing mass, a distress call comes over a most ancient carrier wave...",
+    "languages": [
+      {
+        "description": "Deimos erscheint im Orbit des Mars, vom Befall vollständig überrannt ... doch inmitten der sich windenden Masse ertönt ein Notruf über eine uralte Trägerwelle ...",
+        "name": "Herz von Deimos",
+        "code": "de"
+      },
+      {
+        "description": "Deimos ressort dans l'orbite de Mars, complètement envahie par l'Infestation... Pourtant, de cet univers de souffrance, un appel de détresse arrive sur une onde des plus anciennes...",
+        "name": "Cœur de Deimos",
+        "code": "fr"
+      },
+      {
+        "description": "Deimos emerge nell'orbita Marziana, completamente invasa dall'Infestazione... dalla massa contorcente, tuttavia, una richiesta di soccorso arriva tramite una delle onde trasmittenti più antiche...",
+        "name": "Cuore di Deimos",
+        "code": "it"
+      },
+      {
+        "description": "감염체에 완전히 뒤덮인 상태의 데이모스가 화성 궤도에서 출현했습니다... 그러나 그 꿈틀거리는 살덩어리 안에서, 어째서인지 아주 오래된 고대 운반선의 전파를 타고 구조 신호가 전해져 오는데...",
+        "name": "데이모스의 심장",
+        "code": "ko"
+      },
+      {
+        "description": "Deimos emerge en la órbita marciana, completamente invadida por la infestación... sin embargo, entre la masa retorcida, llega una llamada de socorro por la señal portadora más antigua...",
+        "name": "Corazón de Deimos",
+        "code": "es"
+      },
+      {
+        "description": "火卫二出现在了火星轨道上，被大量感染者占领……然而在这些蠕动的生物体中，伴随着一道极古老的载波，传来了一个求救信号……",
+        "name": "惊惧之心",
+        "code": "zh"
+      },
+      {
+        "description": "Деймос выходит на орбиту Марса, всецело охваченный заражением... Но сквозь кишащую массу доносится зов о помощи, сигнал бедствия на древнейшей из передающих волн...",
+        "name": "Сердце Деймоса",
+        "code": "ru"
+      },
+      {
+        "description": "感染体に埋め尽くされたダイモスが、火星軌道上に姿を現す…　しかしその蠢く巨塊から届いたのは、最古の搬送波に乗った救難信号だった…",
+        "name": "ダイモスの心臓",
+        "code": "ja"
+      },
+      {
+        "description": "Deimos pojawia się na orbicie Marsa, całkowicie opanowany przez Plagę... jednak wśród wijącej masy rozlega się wezwanie o pomoc przez najstarszą falę nośną...",
+        "name": "Serce Deimosa",
+        "code": "pl"
+      },
+      {
+        "description": "Deimos surge na órbita marciana, completamente invadida pela Infestação... ainda assim, entre a massa infestada retorcida, um pedido de socorro ecoa através de uma onda transmissora passada...",
+        "name": "Coração de Deimos",
+        "code": "pt"
+      },
+      {
+        "description": "火衛二在火星軌道上浮現，完全被大量感染者淹沒…然而在蠕動的群體之中，最古老的載波傳來了一個求救訊號。",
+        "name": "戰慄魔心",
+        "code": "tc"
+      },
+      {
+        "description": "เดมอสโผล่ขึ้นมาในวงโคจรของดาวอังคารซึ่งถูกครอบงำโดยพวกติดเชื้อโดยสิ้นเชิง... แต่ท่ามกลางมวลที่กำลังดิ้นพล่าน เสียงเรียกร้องแห่งความทุกข์ระทมก็เกิดขึ้นในคลื่นพาหะที่เก่าแก่ที่สุด...",
+        "name": "หัวใจแห่งเดมอส",
+        "code": "th"
+      },
+      {
+        "description": "Deimos, Mars yörüngesinde belirmektedir ve tamamıyla Infestation istilası altındadır... Sonunda bu çilekeş evrenden çok daha eski bir radyo dalga taşıyıcısı ile bir acil yardım çağrısı ulaştı...",
+        "name": "Heart of Deimos",
+        "code": "tr"
+      },
+      {
+        "description": "З тіні Марса з’явився ще один його супутник — понівечений Зараженням Деймос… З глибин покрученої плоті на давно забутій частоті лине заклик про допомогу.",
+        "name": "Серце Деймоса",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hidden-messages-81beae8ca6.png",
+    "name": "Hidden Messages",
+    "description": "Seek out the Warframe Mirage.",
+    "languages": [
+      {
+        "description": "Finde den Mirage Warframe.",
+        "name": "Versteckte Nachrichten",
+        "code": "de"
+      },
+      {
+        "description": "À la recherche de la Warframe Mirage.",
+        "name": "Messages Cachés",
+        "code": "fr"
+      },
+      {
+        "description": "Trova il Warframe Mirage.",
+        "name": "Messaggi Nascosti",
+        "code": "it"
+      },
+      {
+        "description": "워프레임 미라지를 찾아내세요.",
+        "name": "숨겨진 메시지들",
+        "code": "ko"
+      },
+      {
+        "description": "Busca a la warframe Mirage.",
+        "name": "Mensajes Ocultos",
+        "code": "es"
+      },
+      {
+        "description": "寻找 Mirage 战甲。",
+        "name": "被隐藏的信息",
+        "code": "zh"
+      },
+      {
+        "description": "Найдите варфрейм Мираж.",
+        "name": "Скрытые сообщения",
+        "code": "ru"
+      },
+      {
+        "description": "Mirageを探索。",
+        "name": "隠されたメッセージ",
+        "code": "ja"
+      },
+      {
+        "description": "Odszukaj Warframe Mirage.",
+        "name": "Ukryte Wiadomości",
+        "code": "pl"
+      },
+      {
+        "description": "Encontre o Warframe Mirage.",
+        "name": "Mensagens Ocultas",
+        "code": "pt"
+      },
+      {
+        "description": "尋找 Warframe Mirage。",
+        "name": "被隱藏的訊息",
+        "code": "tc"
+      },
+      {
+        "description": "ค้นหา Warframe Mirage",
+        "name": "ข้อความที่ซ่อนอยู่",
+        "code": "th"
+      },
+      {
+        "description": "Mirage Warframe'i Bul.",
+        "name": "Hidden Messages",
+        "code": "tr"
+      },
+      {
+        "description": "Потрібно знайти ворфрейма Міраж.",
+        "name": "Приховані послання",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/howl-of-the-kubrow-f94310fb7f.png",
+    "name": "Howl Of The Kubrow",
+    "description": "You are Tenno, you deserve a Kubrow by your side.",
+    "languages": [
+      {
+        "description": "Du bist Tenno, du verdienst einen Kubrow an deiner Seite.",
+        "name": "Das Heulen des Kubrow",
+        "code": "de"
+      },
+      {
+        "description": "Vous êtes un Tenno, vous méritez un Kubrow à vos côtés.",
+        "name": "Hurlement du Kubrow",
+        "code": "fr"
+      },
+      {
+        "description": "Sei un Tenno, meriti un Kubrow al tuo fianco.",
+        "name": "Ululato del Kubrow",
+        "code": "it"
+      },
+      {
+        "description": "당신은 텐노입니다. 쿠브로를 곁에 둘 자격이 있어요.",
+        "name": "쿠브로의 울음소리",
+        "code": "ko"
+      },
+      {
+        "description": "Eres un tenno, te mereces un kubrow a tu lado.",
+        "name": "El Aullido del Kubrow",
+        "code": "es"
+      },
+      {
+        "description": "你是 Tenno，你应要有一只库狛伴随。",
+        "name": "库狛取得任务",
+        "code": "zh"
+      },
+      {
+        "description": "Вы - Тэнно. Кубрау станет вашим надёжным союзником в бою.",
+        "name": "Вой кубрау",
+        "code": "ru"
+      },
+      {
+        "description": "あなたはテンノ。クブロウを従えて戦場に赴く価値があります。",
+        "name": "クブロウ獲得",
+        "code": "ja"
+      },
+      {
+        "description": "Jesteś Tenno, zasługujesz na Kubrowa u boku.",
+        "name": "Skowyt Kubrowa",
+        "code": "pl"
+      },
+      {
+        "description": "Você é um Tenno, você merece um Kubrow ao seu lado.",
+        "name": "Uivo do Kubrow",
+        "code": "pt"
+      },
+      {
+        "description": "你是 Tenno，你應要有一隻庫狛伴隨。",
+        "name": "庫狛取得任務",
+        "code": "tc"
+      },
+      {
+        "description": "เจ้าคือ Tenno เจ้าสมควรจะมี Kubrow อยู่เคียงข้างเจ้า",
+        "name": "เสียงเห่าหอนของ Kubrow",
+        "code": "th"
+      },
+      {
+        "description": "Sen Tenno'sun ve yanında bir Kubrow'u hak ediyorsun",
+        "name": "Howl of the Kubrow",
+        "code": "tr"
+      },
+      {
+        "description": "Ви тенно. А тенно заслуговують на куброу поруч.",
+        "name": "Завивання куброу",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-shadows-b977039184.png",
+    "name": "Jade Shadows",
+    "description": "Struggling to understand the oldest and deepest secret from his past, Stalker finds himself allied with sworn enemies on the troubling road toward uncovering the truth… and averting an incalculable loss.",
+    "languages": [
+      {
+        "description": "Der Stalker verbündet sich mit seinen Erzfeinden auf dem beschwerlichen Weg zur Wahrheit, im Versuch, das älteste und tiefste Geheimnis seiner Vergangenheit zu verstehen ... und einen unermesslichen Verlust abzuwenden.",
+        "name": "Jade-Schatten",
+        "code": "de"
+      },
+      {
+        "description": "Luttant pour comprendre le secret le plus ancien et le plus profond de son passé, le Stalker se retrouve allié à ses ennemis jurés sur le chemin difficile qui mène à la découverte de la vérité... et à éviter une perte incalculable.",
+        "name": "Les Ombres de Jade",
+        "code": "fr"
+      },
+      {
+        "description": "Lottando per comprendere il segreto più antico e profondo del suo passato, lo Stalker si ritrova alleato dei suoi nemici giurati nel difficile cammino verso la scoperta della verità… cercando di scongiurare una perdita incalcolabile.",
+        "name": "Ombre di Jade",
+        "code": "it"
+      },
+      {
+        "description": "자신의 과거 속 가장 오래되고도 깊은 곳에 숨겨진 비밀을 이해하려 애쓰던 스토커는, 진실을 파헤치기 위해... 그리고 헤아릴 수 없을 정도의 상실을 피하고자 나선 험난한 길 위에서, 어째선지 불구대천의 원수와 손을 마주 잡게 됩니다...",
+        "name": "옥빛의 그림자",
+        "code": "ko"
+      },
+      {
+        "description": "Luchando por comprender el secreto más antiguo y profundo de su pasado, Stalker se encuentra aliado con sus enemigos jurados en el difícil camino hacia el descubrimiento de la verdad… y tratando de evitar una pérdida incalculable.",
+        "name": "Sombras de Jade",
+        "code": "es"
+      },
+      {
+        "description": "为了了解他过去的陈年秘辛，追猎者发现自己在揭露真相的艰难道路上与死敌结盟……并避免了不可估量的损失。",
+        "name": "Jade 之影",
+        "code": "zh"
+      },
+      {
+        "description": "Пытаясь понять старейшую и глубочайшую тайну своего прошлого, Сталкер оказывается в союзе со своими заклятыми врагами на непростом пути к раскрытию истины… и предотвращению непоправимой потери.",
+        "name": "Нефритовые тени",
+        "code": "ru"
+      },
+      {
+        "description": "深い闇を宿す過去と向き合う時が来た「Stalker」。宿敵を共に戦いを強いられた彼は真実が明らかになる今…　大切のものを失わないよう武器を手に取る。",
+        "name": "翡翠の影",
+        "code": "ja"
+      },
+      {
+        "description": "Próbując zrozumieć swoje najdawniejsze i najmroczniejsze tajemnice swojej przeszłości, Stalker łączy siły ze swoimi wrogami na wyboistej drodze ku prawdzie… i zapobiegnięciu niewyobrażalnej straty.",
+        "name": "Jadeitowe Cienie",
+        "code": "pl"
+      },
+      {
+        "description": "Lutando para entender o segredo mais antigo e profundo de seu passado, Stalker se alia a inimigos mortais em um caminho turbulento para descobrir a verdade e… evitar uma perda inestimável.",
+        "name": "Sombras da Jade",
+        "code": "pt"
+      },
+      {
+        "description": "努力想要解開自己過往最久遠及最深藏的秘密，Stalker 與死敵結盟，踏上這條艱鉅的道路以揭開一切真相……並避免一場重大的損失。",
+        "name": "翠玉遺影",
+        "code": "tc"
+      },
+      {
+        "description": "การพยายามทำความเข้าใจเกี่ยวกับความลับที่เก่าแก่และลึกลับที่สุดจากอดีตของ Stalker เองกลับนำพาเขาให้ต้องจับมือเป็นพันธมิตรกับศัตรูแล้วออกเดินทางไปตามเส้นทางที่มีแต่ความยุ่งยากเพื่อค้นหาความจริง… และหลีกเลี่ยงการสูญเสียที่ประเมินค่าไม่ได้",
+        "name": "Jade Shadows",
+        "code": "th"
+      },
+      {
+        "description": "Geçmişindeki en eski ve en derin sırrı anlamaya çalışan Stalker, gerçeği ortaya çıkarmaya… ve hesaplanamaz bir kaybı önlemeye giden zorlu yolda kendisini ezeli düşmanlarla ittifak halinde bulur.",
+        "name": "Jade Shadows",
+        "code": "tr"
+      },
+      {
+        "description": "Намагаючись розгадати найдавніші та найтаємничіші загадки зі свого минулого, Сталкер змушений об’єднатися зі своїми найзаклятішими ворогами на шляху пізнання істини… та запобігання непомірних утрат.",
+        "name": "Нефритові тіні",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mask-of-the-revenant-adae806f59.png",
+    "name": "Mask Of The Revenant",
+    "description": "The Unum chooses Nakak to receive a strange mask. A mask that leads to even stranger visions. What lost story does the Unum want to tell?",
+    "languages": [
+      {
+        "description": "Die Unum erwählte Nakak, eine seltsame Maske zu erhalten. Eine Maske, die zu noch seltsameren Visionen führt. Welche verlorene Geschichte will die Unum erzählen?",
+        "name": "Die Maske des Revenant",
+        "code": "de"
+      },
+      {
+        "description": "L'Unum choisit Nakak pour recevoir un masque bien étrange, un masque qui confère des visions tout aussi étranges. Quelle légende oubliée l'Unum veut-elle conter?",
+        "name": "Le Masque du Revenant",
+        "code": "fr"
+      },
+      {
+        "description": "L'Unum ha scelto Nakak per ricevere una strana maschera. Una maschera che porta a visioni ancora più strane. Quale storia persa vuole raccontare l'Unum?",
+        "name": "Maschera di Revenant",
+        "code": "it"
+      },
+      {
+        "description": "우눔은 나칵이 이상한 가면을 받게 했습니다. 더욱 낯선 환상을 유도하는 가면 말이지요. 우눔이 알려주고 싶어하는 잃어버린 이야기는 무엇일까요?",
+        "name": "레버넌트의 가면",
+        "code": "ko"
+      },
+      {
+        "description": "La Unum elige a Nakak para recibir una extraña máscara. Una máscara que conduce a visiones aún más extrañas. ¿Que historia perdida quiere transmitirnos la Unum?",
+        "name": "La Máscara de Revenant",
+        "code": "es"
+      },
+      {
+        "description": "娜卡被乌努母神选中收到了一个奇怪的面具。这个面具引她看到了更奇怪的影像。究竟乌努母神想要诉说什么遗失的故事呢？",
+        "name": "Revenant 的面具",
+        "code": "zh"
+      },
+      {
+        "description": "Унум даровала Накак странную маску. Маску, ведущую к ещё более странным видениям. Какую забытую историю хочет поведать Унум?",
+        "name": "Маска Ревенанта",
+        "code": "ru"
+      },
+      {
+        "description": "奇妙な仮面を受け取るようUnumがNakakを選んだ。仮面が奇妙な光景へと導く。Unumが伝えたい失われた物語とはいったい？",
+        "name": "Revenantの仮面",
+        "code": "ja"
+      },
+      {
+        "description": "Unum wybiera Nakak, aby otrzymała dziwną maskę. Maskę, która prowadzi do jeszcze dziwniejszych wizji. Jaką utraconą historię Unum chce opowiedzieć?",
+        "name": "Maska: Revenanta",
+        "code": "pl"
+      },
+      {
+        "description": "A Unum escolheu a Nakak para receber uma máscara estranha. Uma máscara que leva a visões desconhecidas. Qual será a história que a Unum deseja contar?",
+        "name": "A Máscara do Revenant",
+        "code": "pt"
+      },
+      {
+        "description": "Nakak 被 Unum 選中收到了一個奇怪的面具。這個面具引她看到了更奇怪的影像。究竟 Unum 想要訴說什麼遺失的故事呢？",
+        "name": "Revenant 的面具",
+        "code": "tc"
+      },
+      {
+        "description": "Unum เลือกให้ Nakak เป็นผู้รับหน้ากากแปลก ๆ หน้ากากที่นำไปสู่นิมิตจากคนแปลกหน้า มีเรื่องเล่าที่สูญหายไปเรื่องใดกันที่ Unum อยากจะบอกเล่า?",
+        "name": "หน้ากากของ Revenant",
+        "code": "th"
+      },
+      {
+        "description": "Unum, gizemli bir maskeyi alması için Nakak'ı seçiyor. Maske daha da garip görüntülere yol açıyor. Unum'un anlatmak istediği kayıp hikaye nedir?",
+        "name": "Mask of the Revenant",
+        "code": "tr"
+      },
+      {
+        "description": "Унум подарувала Накак дивну маску. Маску, що дарує ще дивніші видіння. Яку ж забуту історію бажає повідати Унум?",
+        "name": "Маска Ревенанта",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mutalist-alad-v-assassinate-fe62191f4c.png",
+    "name": "Mutalist Alad V Assassinate",
+    "description": "Put an end to Alad V and his Mutalist experiments",
+    "languages": [
+      {
+        "description": "Setze Alad V und seinen Mutalisten ein Ende",
+        "name": "Mutalist Alad V (Attentat)",
+        "code": "de"
+      },
+      {
+        "description": "Finissez-en avec Alad V et ses expériences Mutalistes",
+        "name": "Alad V Mutaliste Assassinat",
+        "code": "fr"
+      },
+      {
+        "description": "Poni fine ad Alad V ed ai suoi esperimenti Mutalist",
+        "name": "Assassinio Mutalist Alad V",
+        "code": "it"
+      },
+      {
+        "description": "알라드 V의 연구용 함선을 습격하고 그의 인페스티드 연구를 종결시키세요.",
+        "name": "뮤탈리스트 알라드 V 암살",
+        "code": "ko"
+      },
+      {
+        "description": "Acaba con Alad V y sus experimentos mutalíticos",
+        "name": "Asesinato de Alad V Mutalítico",
+        "code": "es"
+      },
+      {
+        "description": "突袭 Alad V 的研究船，终结他的异融者实验。",
+        "name": "异融 Alad V 刺杀",
+        "code": "zh"
+      },
+      {
+        "description": "Нанесите визит на исследовательский корабль Алада V и положите конец его экспериментам с заражёнными.",
+        "name": "Заражённый Алад V - убийство",
+        "code": "ru"
+      },
+      {
+        "description": "Alad Vとそのミュータリスト実験に終止符を打つ",
+        "name": "Mutalist Alad V 暗殺",
+        "code": "ja"
+      },
+      {
+        "description": "Udaj się na statek badawczy Alada V i połóż kres jego eksperymentom na Pladze.",
+        "name": "Zabójstwo: Zainfekowany Alad V",
+        "code": "pl"
+      },
+      {
+        "description": "Invada a nave de pesquisa de Alad V e destrua seus experimentos Infestados.",
+        "name": "Assassinato do Alad V Mutalista",
+        "code": "pt"
+      },
+      {
+        "description": "突襲 Alad V 的研究船，終結他的感染者實驗。",
+        "name": "異融者 Alad V 刺殺",
+        "code": "tc"
+      },
+      {
+        "description": "ยุติ Alad V และการทดลองเกี่ยวกับผู้กลายพันธุ์ของเขา",
+        "name": "ลอบสังหาร Mutalist Alad V",
+        "code": "th"
+      },
+      {
+        "description": "Alad V'nin araştırma gemisine baskın yaparak deneylerine son ver!",
+        "name": "Mutalist Alad V Suikast",
+        "code": "tr"
+      },
+      {
+        "description": "Покладіть край Аладу В та його асимілянтським експериментам.",
+        "name": "Убивство асимільованого Алада В",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SortieBossKeyInfestedAladV",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mutalist-alad-v-assassinate-730769923c.png",
+    "name": "Mutalist Alad V Assassinate",
+    "description": "Put an end to Alad V and his Mutalist experiments",
+    "languages": [
+      {
+        "description": "Setze Alad V und seinen Mutalisten ein Ende",
+        "name": "Mutalist Alad V (Attentat)",
+        "code": "de"
+      },
+      {
+        "description": "Finissez-en avec Alad V et ses expériences Mutalistes",
+        "name": "Alad V Mutaliste Assassinat",
+        "code": "fr"
+      },
+      {
+        "description": "Poni fine ad Alad V ed ai suoi esperimenti Mutalist",
+        "name": "Assassinio Mutalist Alad V",
+        "code": "it"
+      },
+      {
+        "description": "알라드 V의 연구용 함선을 습격하고 그의 인페스티드 연구를 종결시키세요.",
+        "name": "뮤탈리스트 알라드 V 암살",
+        "code": "ko"
+      },
+      {
+        "description": "Acaba con Alad V y sus experimentos mutalíticos",
+        "name": "Asesinato de Alad V Mutalítico",
+        "code": "es"
+      },
+      {
+        "description": "突袭 Alad V 的研究船，终结他的异融者实验。",
+        "name": "异融 Alad V 刺杀",
+        "code": "zh"
+      },
+      {
+        "description": "Нанесите визит на исследовательский корабль Алада V и положите конец его экспериментам с заражёнными.",
+        "name": "Заражённый Алад V - убийство",
+        "code": "ru"
+      },
+      {
+        "description": "Alad Vとそのミュータリスト実験に終止符を打つ",
+        "name": "Mutalist Alad V 暗殺",
+        "code": "ja"
+      },
+      {
+        "description": "Udaj się na statek badawczy Alada V i połóż kres jego eksperymentom na Pladze.",
+        "name": "Zabójstwo: Zainfekowany Alad V",
+        "code": "pl"
+      },
+      {
+        "description": "Invada a nave de pesquisa de Alad V e destrua seus experimentos Infestados.",
+        "name": "Assassinato do Alad V Mutalista",
+        "code": "pt"
+      },
+      {
+        "description": "突襲 Alad V 的研究船，終結他的感染者實驗。",
+        "name": "異融者 Alad V 刺殺",
+        "code": "tc"
+      },
+      {
+        "description": "ยุติ Alad V และการทดลองเกี่ยวกับผู้กลายพันธุ์ของเขา",
+        "name": "ลอบสังหาร Mutalist Alad V",
+        "code": "th"
+      },
+      {
+        "description": "Alad V'nin araştırma gemisine baskın yaparak deneylerine son ver!",
+        "name": "Mutalist Alad V Suikast",
+        "code": "tr"
+      },
+      {
+        "description": "Покладіть край Аладу В та його асимілянтським експериментам.",
+        "name": "Убивство асимільованого Алада В",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/natah-d2badc6411.png",
+    "name": "Natah",
+    "description": "Strange drones have appeared in the Origin System, help the Lotus find out what they are and who sent them.",
+    "languages": [
+      {
+        "description": "Seltsame Drohnen sind im Ursprungssystem aufgetaucht. Helfe der Lotus dabei, herauszufinden, was sie sind und wer sie gesendet hat.",
+        "name": "Natah",
+        "code": "de"
+      },
+      {
+        "description": "D'étranges drones sont apparus dans le Système Origine, aidez le Lotus à trouver ce qu'ils sont et qui les a envoyés.",
+        "name": "Natah",
+        "code": "fr"
+      },
+      {
+        "description": "Degli strani droni sono apparsi nel Sistema Origin, aiuta Lotus a scoprire chi sono e chi li ha inviati.",
+        "name": "Natah",
+        "code": "it"
+      },
+      {
+        "description": "수상한 드론들이 근원계에 출몰했습니다. 로터스를 도와 이들의 정체와 이들을 보낸 자가 누구인지 찾아내세요.",
+        "name": "나타",
+        "code": "ko"
+      },
+      {
+        "description": "Drones extraños han aparecido en el sistema Origen, ayuda a Lotus a descubrir que son y quién los ha enviado.",
+        "name": "Natah",
+        "code": "es"
+      },
+      {
+        "description": "行迹诡异的无人机出没于始源星系，协助 Lotus 追查出它们究竟是什么，又是谁派它们来的。",
+        "name": "Natah",
+        "code": "zh"
+      },
+      {
+        "description": "Странные дроны появились в Изначальной Системе, помогите Лотос выяснить, что они такое и кто их послал.",
+        "name": "Ната",
+        "code": "ru"
+      },
+      {
+        "description": "Origin太陽系に不審なドローンが現れた。Lotusが彼らが何で、誰から送り込まれたのかを調べるのを手伝おう。",
+        "name": "Natah",
+        "code": "ja"
+      },
+      {
+        "description": "Dziwne drony pojawiły się w Systemie Origin, pomóż Lotus dowiedzieć się czym są i kto je przysłał.",
+        "name": "Natah",
+        "code": "pl"
+      },
+      {
+        "description": "Drones estranhos apareceram no Sistema de origem. Ajude a Lótus a descobrir quem eles são e por quem foram enviados.",
+        "name": "Natah",
+        "code": "pt"
+      },
+      {
+        "description": "行跡詭異的無人機出沒於始源星系，協助 Lotus 追查出它們究竟是什麼，又是誰派他們來的。",
+        "name": "Natah",
+        "code": "tc"
+      },
+      {
+        "description": "โดรนแปลก ๆ ปรากฏตัวในระบบออริจิน ช่วย Lotus ค้นหาว่าพวกมันคืออะไรและใครเป็นคนส่งมา",
+        "name": "Natah",
+        "code": "th"
+      },
+      {
+        "description": "Garip drone robotları Origin Sistemde görülmeye başlandı, Lotus'a onları kimin gönderdiğini bulmasında yardımcı ol.",
+        "name": "Natah",
+        "code": "tr"
+      },
+      {
+        "description": "Дивні дрони з’явилися в Материнській системі. Допоможіть Лотос дізнатися, що вони шукають та звідки вони.",
+        "name": "НАТА",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia's-anthem-d6ead5fd61.png",
+    "name": "Octavia's Anthem",
+    "description": "Build the Mandachord and find the cause of Cephalon Suda’s erratic behavior.",
+    "languages": [
+      {
+        "description": "Baue das Mandachord und finde den Grund für Cephalon Sudas unberechenbares Verhalten.",
+        "name": "Octavias Hymne",
+        "code": "de"
+      },
+      {
+        "description": "Construisez le Mandaccord et trouvez la cause du comportement imprévisible du Céphalon Suda.",
+        "name": "L'Hymne d'Octavia",
+        "code": "fr"
+      },
+      {
+        "description": "Costruisci il Mandachord e trova la causa del comportamento irregolare di Cephalon Suda.",
+        "name": "L'Inno di Octavia",
+        "code": "it"
+      },
+      {
+        "description": "만다코드를 제작하고 세팔론 수다가 이상한 행동을 하는 원인을 찾아내세요.",
+        "name": "옥타비아의 찬가",
+        "code": "ko"
+      },
+      {
+        "description": "Construye el Mandacordio y encuentra la causa del comportamiento errático de céfalon Suda.",
+        "name": "El Himno de Octavia",
+        "code": "es"
+      },
+      {
+        "description": "建造曼达和弦琴并查明中枢苏达异常行为的原因。",
+        "name": "Octavia 的赞歌",
+        "code": "zh"
+      },
+      {
+        "description": "Создайте мендаккорд и найдите причину странного поведения Суды.",
+        "name": "Гимн Октавии",
+        "code": "ru"
+      },
+      {
+        "description": "Mandachordを作成しセファロン・スーダのエラー行動の原因を見つけろ。",
+        "name": "Octaviaの賛美歌",
+        "code": "ja"
+      },
+      {
+        "description": "Zbuduj Mandakordium i odkryj powód nieobliczalnego zachowania Cefalon Sudy.",
+        "name": "Hymn Octavii",
+        "code": "pl"
+      },
+      {
+        "description": "Construa o Mandachord e encontre a causa do comportamento errático da Cephalon Suda.",
+        "name": "Hino de Octavia",
+        "code": "pt"
+      },
+      {
+        "description": "製造曼達和弦琴並查明中樞蘇達異常行為的原因。",
+        "name": "Octavia 的讚歌",
+        "code": "tc"
+      },
+      {
+        "description": "สร้าง Mandachord และค้นหาสาเหตุของพฤติกรรมที่เอาแน่เอานอนไม่ได้ของ Cephalon Suda",
+        "name": "เพลงสรรเสริญของ Octavia",
+        "code": "th"
+      },
+      {
+        "description": "Mandachord'u inşa et Cephalon Suda dengesiz davranışlarının sebebini bul.",
+        "name": "Octavia's Anthem",
+        "code": "tr"
+      },
+      {
+        "description": "Складіть мандакорд і розберіться, чому цефалонка Суда так дивно поводиться.",
+        "name": "Гімн Октавії",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/once-awake-c88d6a585a.png",
+    "name": "Once Awake",
+    "description": "Intercepted Grineer communications reveal that Grineer have been experimenting with some sort of bio weapon. You must investigate.",
+    "languages": [
+      {
+        "description": "Abgefangene Kommuniqués haben enthüllt, dass die Grineer mit einer Art Bio-Waffe experimentieren. Wir benötigen weitere Informationen.",
+        "name": "Einmal Erwacht",
+        "code": "de"
+      },
+      {
+        "description": "Des communications entre Grineers interceptées ont révélé que les Grineers ont fait des expériences avec une sorte d'arme biologique. Vous devez mener une enquête.",
+        "name": "Autrefois Éveillés",
+        "code": "fr"
+      },
+      {
+        "description": "Le intercettazioni radio ai Grineer ci hanno rivelato che stanno armeggiando con qualche sorta di arma biochimica. Devi investigare.",
+        "name": "Una Volta Sveglio",
+        "code": "it"
+      },
+      {
+        "description": "그리니어가 무언가의 생물병기를 실험하고 있다는 내용의 그리니어 통신을 감청했습니다. 이에 대해 조사해야 합니다.",
+        "name": "각성의 순간",
+        "code": "ko"
+      },
+      {
+        "description": "Las comunicaciones grineer interceptadas revelan que los grineer han estado experimentando con algún tipo de arma biológica. Debes investigar.",
+        "name": "Una Vez Despierto",
+        "code": "es"
+      },
+      {
+        "description": "拦截到的 Grineer 通讯显示，Grineer一直在试验某种生化武器，你必须调查清楚。",
+        "name": "悲剧的开端",
+        "code": "zh"
+      },
+      {
+        "description": "Перехваты переговоров Гринир указывают на то, что они продолжают проводить эксперименты с неким биологическим оружием. Вам необходимо провести полноценное расследование.",
+        "name": "После пробуждения",
+        "code": "ru"
+      },
+      {
+        "description": "傍受したグリニアの通信によると、グリニアは新しい生物兵器の実験を行っているようです。これを調査してください。",
+        "name": "博士の計略",
+        "code": "ja"
+      },
+      {
+        "description": "Przechwycone komunikaty Grineer wskazują, że eksperymentują oni z jakimś typem broni biologicznej. Musisz zbadać sytuację.",
+        "name": "Po Przebudzeniu",
+        "code": "pl"
+      },
+      {
+        "description": "Comunicações Grinner interceptadas revelam que os Grineer estiveram experimentando com algum tipo de arma biológica. Você deve investigar.",
+        "name": "Uma Vez Acordado",
+        "code": "pt"
+      },
+      {
+        "description": "攔截到的 Grineer 通訊顯示，Grineer 一直在試驗某種生化武器。你必須調查清楚。",
+        "name": "悲劇的開端",
+        "code": "tc"
+      },
+      {
+        "description": "จากการดักฟังการสื่อสารของ Grineer นั้นเผยให้เห็นว่า Grineer กำลังทดลองอาวุธชีวภาพบางประเภท เจ้าต้องตรวจสอบเรื่องนี้",
+        "name": "เมื่อตื่นจากความหลับใหล",
+        "code": "th"
+      },
+      {
+        "description": "Tarafımızdan algılanan ve engellenen mesajlardan alınan bilgilere göre Grineer'lar biyolojik bir silah üzerinde çalışıyor. Bu konuyu araştırman gerekiyor.",
+        "name": "Once Awake",
+        "code": "tr"
+      },
+      {
+        "description": "Перехоплені перемовини ґрінерів вказують на їхні експерименти з якимось новим видом зброї — біологічної. Потрібно все розвідати.",
+        "name": "Після пробудження",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/patient-zero-03eff4cd99.png",
+    "name": "Patient Zero",
+    "description": "Find Alad V’s laboratory and put a stop to his madness.",
+    "languages": [
+      {
+        "description": "Finde Alad Vs Labor und stoppe seinen Wahnsinn.",
+        "name": "Patient Null",
+        "code": "de"
+      },
+      {
+        "description": "Trouvez le laboratoire d'Alad V et mettez un terme à sa folie.",
+        "name": "Patient Zéro",
+        "code": "fr"
+      },
+      {
+        "description": "Trova il laboratorio di Alad V e metti fine a questa pazzia.",
+        "name": "Paziente Zero",
+        "code": "it"
+      },
+      {
+        "description": "알라드 V의 연구실을 찾아 그의 광기를 저지하세요.",
+        "name": "최초의 감염자",
+        "code": "ko"
+      },
+      {
+        "description": "Encuentra el laboratorio de Alad V y pon fin a su locura.",
+        "name": "Paciente Cero",
+        "code": "es"
+      },
+      {
+        "description": "找到 Alad V 的实验室并制止他的疯狂行径。",
+        "name": "零号病患",
+        "code": "zh"
+      },
+      {
+        "description": "Найдите лабораторию Алада V и положите конец этому безумию.",
+        "name": "Нулевой пациент",
+        "code": "ru"
+      },
+      {
+        "description": "Alad Vの研究所を探し出して、彼の狂気に終止符を打つ。",
+        "name": "感染起源は誰",
+        "code": "ja"
+      },
+      {
+        "description": "Znajdź laboratorium Alada V i połóż kres jego szaleństwu.",
+        "name": "Pacjent Zero",
+        "code": "pl"
+      },
+      {
+        "description": "Encontre o laboratório do Alad V e interrompa sua insanidade.",
+        "name": "Paciente Zero",
+        "code": "pt"
+      },
+      {
+        "description": "找到 Alad V 的實驗室並制止他的瘋狂行徑。",
+        "name": "零號病患",
+        "code": "tc"
+      },
+      {
+        "description": "ค้นหาห้องทดลองของ Alad V และหยุดยั้งความบ้าคลั่งของเขา",
+        "name": "ผู้ติดเชื้อคนแรก",
+        "code": "th"
+      },
+      {
+        "description": "Alad V'nin laboratuvarını yok et ve bu deliliğe bir son ver.",
+        "name": "Patient Zero",
+        "code": "tr"
+      },
+      {
+        "description": "Знайдіть лабораторію Алада В і зупиніть це божевілля.",
+        "name": "Нульовий пацієнт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RailJackBuildQuest/RailjackBuildQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rising-tide-766166b930.png",
+    "name": "Rising Tide",
+    "description": "To face a growing threat, a long dormant Cephalon calls on you to reconstruct an Orokin-era interceptor craft: the Railjack.",
+    "languages": [
+      {
+        "description": "Ein Cephalon, dass lange inaktiv war, wendet sich an dich, um einer wachsenden Gefahr entgegenzutreten und ein Schiff der Abfänger-Klasse aus der Zeit der Orokin zu rekonstruieren: den Railjack.",
+        "name": "Steigende Flut",
+        "code": "de"
+      },
+      {
+        "description": "Pour faire face à une menace grandissante, un Céphalon longtemps inactif fait appel à votre aide afin de reconstruire un vaisseau intercepteur de l'ère Orokin: le Railjack.",
+        "name": "Marée Montante",
+        "code": "fr"
+      },
+      {
+        "description": "Per fronteggiare una minaccia crescente, un Cephalon rimasto dormiente per un lungo periodo ti invita a ricostruire un mezzo intercettore dell'era Orokin: il Railjack.",
+        "name": "Alta Marea",
+        "code": "it"
+      },
+      {
+        "description": "커져만 가는 위협에 맞서기 위해 긴 휴면 상태에 있던 세팔론이 당신에게 오로킨 시대의 요격기, 레일잭의 재건을 청합니다.",
+        "name": "밀려오는 물결",
+        "code": "ko"
+      },
+      {
+        "description": "Para enfrentar una amenaza creciente, un céfalon que había permanecido inactivo por mucho tiempo te llama para reconstruir una nave interceptora de la era Orokin: el Railjack.",
+        "name": "Ola Creciente",
+        "code": "es"
+      },
+      {
+        "description": "为了应对日益增长的威胁，一位长期处于休眠状态的中枢要求你重建一艘 Orokin 时代的拦截战舰：航道星舰。",
+        "name": "澎湃狂潮",
+        "code": "zh"
+      },
+      {
+        "description": "Чтобы противостоять нарастающей угрозе, длительно пребывавший в спячке цефалон призывает Вас восстановить древний космический корабль эпохи Орокин - Рэйлджек.",
+        "name": "Восходящий прилив",
+        "code": "ru"
+      },
+      {
+        "description": "増大する脅威に立ち向かうため、長い休眠状態にあったセファロンが、オロキン時代の迎撃機レールジャックを再建するよう呼びかける。",
+        "name": "流転する形勢",
+        "code": "ja"
+      },
+      {
+        "description": "Aby stawić czoła rosnącemu zagrożeniu, długo uśpiony Cefalon wzywa Cię do zrekonstruowania statku przechwytującego z epoki Orokin: Railjacka.",
+        "name": "Wzbierający Przypływ",
+        "code": "pl"
+      },
+      {
+        "description": "Para enfrentar uma ameaça crescente, um Cephalon adormecido há muito tempo pede que você reconstrua uma nave interceptora da era Orokin: a Railjack.",
+        "name": "Maré Ascendente",
+        "code": "pt"
+      },
+      {
+        "description": "為了面對日益壯大的威脅，一名長期處於休眠狀態的中樞召喚你前來重建一艘 Orokin 紀元的攔截型飛船──銳捷號。",
+        "name": "傲浪狂潮",
+        "code": "tc"
+      },
+      {
+        "description": "เพื่อเผชิญกับภัยคุกคามที่เพิ่มขึ้น เซฟาลอนที่อยู่สงบเงียบมานานได้เรียกร้องให้เจ้าสร้างยานสกัดกั้นในยุค Orokin ขึ้นมาใหม่:  Railjack ",
+        "name": "กระแสน้ำขึ้น",
+        "code": "th"
+      },
+      {
+        "description": "Büyüyen tehditle yüzleşmek için, uzun süre uykuda olan Cephalon seni bir Orokin dönemi avcı gemisini yeniden inşa etmeye çağırıyor: Railjack.",
+        "name": "Rising Tide",
+        "code": "tr"
+      },
+      {
+        "description": "Щоби протистояти неминучій загрозі, цефалон, який довго спав, прокинувся й закликає вас відбудувати рейкоджек — зореліт-перехоплювач ери орокінів.",
+        "name": "Тиша перед бурею",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sands-of-inaros-76a13d5b47.png",
+    "name": "Sands Of Inaros",
+    "description": "Help Baro Ki'Teer raid an ancient Martian tomb for a mysterious treasure.",
+    "languages": [
+      {
+        "description": "Hilf Baro Ki'Teer dabei, eine uralte Gruft auf dem Mars zu plündern um einen mysteriösen Schatz zu bergen.",
+        "name": "Sande des Inaros",
+        "code": "de"
+      },
+      {
+        "description": "Aidez Baro Ki'Teer à explorer un ancien tombeau sur Mars pour trouver un trésor mystérieux.",
+        "name": "Les Sables d'Inaros",
+        "code": "fr"
+      },
+      {
+        "description": "Aiuta Baro Ki'Teer a saccheggiare un'antica tomba Marziana per un misterioso tesoro.",
+        "name": "Sabbie di Inaros",
+        "code": "it"
+      },
+      {
+        "description": "바로 키'티어를 도와 화성의 고대 영묘 안에 있는 수수께끼의 보물을 찾아내세요.",
+        "name": "이나로스의 모래",
+        "code": "ko"
+      },
+      {
+        "description": "Ayuda a Baro Ki'Teer a profanar una ancestral tumba marciana por un tesoro misterioso.",
+        "name": "Las Arenas de Inaros",
+        "code": "es"
+      },
+      {
+        "description": "帮 Baro Ki'Teer 突袭一座古老的火星古墓并偷盗一件神秘的宝物。",
+        "name": "Inaros 之沙",
+        "code": "zh"
+      },
+      {
+        "description": "Помогите Баро Ки'Тииру разграбить древнюю Марсианскую гробницу, чтобы найти таинственное сокровище.",
+        "name": "Пески Инароса",
+        "code": "ru"
+      },
+      {
+        "description": "Baro Ki'Teer を手伝いフォボスの古代墳墓から奇妙なお宝を奪取する。",
+        "name": "Inaros の砂嵐",
+        "code": "ja"
+      },
+      {
+        "description": "Pomóż Baro Ki’Teerowi splądrować pradawny Marsjański grobowiec, aby odnaleźć tajemniczy skarb.",
+        "name": "Pustynny Władca, Inaros",
+        "code": "pl"
+      },
+      {
+        "description": "Ajude Baro Ki'Teer a saquear um tesouro misterioso de uma antiga tumba em Marte.",
+        "name": "Areias de Inaros",
+        "code": "pt"
+      },
+      {
+        "description": "協助 Baro Ki'Teer 突襲一座古老的火星古墓並盜取一件神秘的寶物。",
+        "name": "Inaros 之沙",
+        "code": "tc"
+      },
+      {
+        "description": "ช่วย Baro Ki'Teer บุกสุสานโบราณจากดาวอังคารเพื่อหาสมบัติลึกลับ",
+        "name": "เจ้าแห่งทะเลทราย Inaros",
+        "code": "th"
+      },
+      {
+        "description": "Baro Ki'Teer'e içindeki gizemli hazine için Martian Mezarına yaptığı baskında yardım et.",
+        "name": "Sands Of Inaros",
+        "code": "tr"
+      },
+      {
+        "description": "Допоможіть Баро Кі’Тіру проникнути в прадавню марсіанську усипальницю, щоби знайти таємничі скарби.",
+        "name": "Піски Інара",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saya's-vigil-95ecc5d849.png",
+    "name": "Saya's Vigil",
+    "description": "On the Plains of Eidolon a mystery has lain buried for years: one that will mend or destroy a heart, and open the door to a hidden past.",
+    "languages": [
+      {
+        "description": "Auf den Ebenen von Eidolon liegt seit Jahren ein Mysterium begraben: Eines, das ein Herz heilen oder zerstören und die Tür zu einer verborgenen Vergangenheit öffnen wird.",
+        "name": "Sayas Wache",
+        "code": "de"
+      },
+      {
+        "description": "Dans les Plaines d'Eidolon, un mystère est demeuré enseveli durant des années: un mystère qui peut consoler ou détruire un cœur et ouvrir les portes d'un passé caché.",
+        "name": "La Veillée de Saya",
+        "code": "fr"
+      },
+      {
+        "description": "Nelle Piane di Eidolon un mistero giace sepolto da anni: uno che curerà o distruggerà un cuore, e aprirà la porta a un passato nascosto.",
+        "name": "Veglia di Saya",
+        "code": "it"
+      },
+      {
+        "description": "수많은 세월이 흐르는 동안 아이돌론의 평원에는 한 가지 수수께끼가 깊숙히 묻혀 있었습니다. 누군가의 심장을 치유하거나, 혹은 산산히 부수고, 숨겨진 과거로의 문을 열 그런 비밀 말이지요.",
+        "name": "사야의 기도",
+        "code": "ko"
+      },
+      {
+        "description": "En las Llanuras de Eidolon un misterio ha quedado sepultado por años: uno que puede arreglar o destruir un corazón y abrir la puerta a un pasado escondido.",
+        "name": "La Vigilia de Saya",
+        "code": "es"
+      },
+      {
+        "description": "在夜灵平野中，一个秘密埋藏了许久：这个秘密可以治愈或毁灭人心，并将打开一道通往隐秘过去的大门。",
+        "name": "萨娅的守夜",
+        "code": "zh"
+      },
+      {
+        "description": "Тайна покоилась на Равнинах Эйдолона многие годы: тайна, что исцелит или разобьет сердце и откроет дверь в сокрытое прошлое.",
+        "name": "Дозор Сайи",
+        "code": "ru"
+      },
+      {
+        "description": "エイドロンの草原には謎が何年も埋まったまま眠っている。心を直すも壊すも不明の秘められた過去へのドアを開けるモノが。",
+        "name": "Sayaの眼",
+        "code": "ja"
+      },
+      {
+        "description": "Na Równinach Eidolon, czekała zakopana przez lata tajemnica: taka, która może naprawić lub złamać serce, oraz otworzyć drzwi do ukrytej przeszłości.",
+        "name": "Czuwająca Saya",
+        "code": "pl"
+      },
+      {
+        "description": "Nas planícies de Eidolon, um mistério foi enterrado há anos: um que consertará ou destruirá um coração e abrirá a porta para um passado oculto.",
+        "name": "Vigília de Saya",
+        "code": "pt"
+      },
+      {
+        "description": "在夜靈平野中，一個埋藏了許久的秘密：這個祕密可以治癒或毀滅人心，並接打開一道通往隱密過去的大門。",
+        "name": "Saya 的守夜",
+        "code": "tc"
+      },
+      {
+        "description": "มีความลึกลับถูกฝังไว้ในที่ราบ Eidolon มานานหลายปีแล้ว เป็นความลึกลับที่อาจช่วยซ่อมแซมหรือไม่ก็ทำลายหัวใจ และเปิดประตูสู่อดีตที่ซ่อนเร้น",
+        "name": "การเฝ้ารอของ Saya",
+        "code": "th"
+      },
+      {
+        "description": "Eidolon Ovalarında bir gizem yıllardır gömülüydü: birisi bir kalbi ya onaracak ya da yok edecek, ve gizlenmiş geçmişin kapılarını açacak.",
+        "name": "Saya's Vigil",
+        "code": "tr"
+      },
+      {
+        "description": "На Рівнинах Ейдолонів роки тому похована таємниця — та, що зцілить або розіб’є серце й відчинить двері до прихованого минулого.",
+        "name": "Всенічна Саї",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stolen-dreams-5368159f38.png",
+    "name": "Stolen Dreams",
+    "description": "Find the thief Maroo and uncover the secrets of the Arcane Codices.",
+    "languages": [
+      {
+        "description": "Finde die Diebin Maroo und lüfte die Geheimnisse der Arkanen Codices",
+        "name": "Gestohlene Träume",
+        "code": "de"
+      },
+      {
+        "description": "Retrouvez la voleuse Maroo et découvrez les secrets des Codices d'Arcanes.",
+        "name": "Rêves Volés",
+        "code": "fr"
+      },
+      {
+        "description": "Trova la ladra Maroo, e scopri i segreti dei Codici Arcani.",
+        "name": "Sogni Rubati",
+        "code": "it"
+      },
+      {
+        "description": "도둑 마루를 찾아 아케인 코덱스의 비밀을 밝혀내세요.",
+        "name": "도둑맞은 꿈",
+        "code": "ko"
+      },
+      {
+        "description": "Encuentra a la ladrona Maroo y desvela los secretos de los códices arcanos.",
+        "name": "Sueños Robados",
+        "code": "es"
+      },
+      {
+        "description": "找到小偷 Maroo 揭开那些秘奧法典的秘密",
+        "name": "被偷走的梦",
+        "code": "zh"
+      },
+      {
+        "description": "Отыщите вора Мэру и раскройте секреты Мистических Кодексов.",
+        "name": "Похищенные мечты",
+        "code": "ru"
+      },
+      {
+        "description": "コソ泥のMarooを探しアルケインコーデックスの秘密を突き止めよ。",
+        "name": "奪われた野望",
+        "code": "ja"
+      },
+      {
+        "description": "Odnajdź złodziejkę zwaną Maroo i odkryj sekrety Kodeksów Arkanów.",
+        "name": "Skradzione Marzenia",
+        "code": "pl"
+      },
+      {
+        "description": "Encontre a ladra da Maroo e revele os segredos dos Códices Arcanos.",
+        "name": "Sonhos Roubados",
+        "code": "pt"
+      },
+      {
+        "description": "找到小偷 Maroo 揭開那些秘奧法典的秘密",
+        "name": "被偷走的夢",
+        "code": "tc"
+      },
+      {
+        "description": "ค้นหาจอมโจร Maroo และเปิดเผยความลับของรหัสโคเด็กซ์ Arcane ที่ซ่อนอยู่",
+        "name": "ความฝันที่ถูกขโมย",
+        "code": "th"
+      },
+      {
+        "description": "Hırsız Maroo'yu bularak Arcane Kodekslerinin gizemini çözün",
+        "name": "Stolen Dreams",
+        "code": "tr"
+      },
+      {
+        "description": "Знайдіть злодійку Мару та розкрийте загадки містичних збірників знань.",
+        "name": "Несправджені сподівання",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-archwing-0b471555d2.png",
+    "name": "The Archwing",
+    "description": "The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts.",
+    "languages": [
+      {
+        "description": "Die Balor Fomorianer kommen, doch wir sind bereit. Durch deine Mühen haben wir endlich einen funktionierenden Archwing-Prototypen und ich sende dir die Blaupause. Deine Aufgabe ist jedoch noch nicht komplett. Du musst noch immer die Blaupausen für die Bauteile finden.",
+        "name": "Der Archwing",
+        "code": "de"
+      },
+      {
+        "description": "Les Fomoriens Balors vont bientôt arriver, mais nous sommes prêts. Grâce à votre aide, nous avons finalement un prototype fonctionnel d'Archwing, je vais vous envoyer son Schéma. Toutefois, votre tâche n'est pas encore terminée. Il vous reste encore à trouver les différentes parties.",
+        "name": "L'Archwing",
+        "code": "fr"
+      },
+      {
+        "description": "Le Balor Fomorian stanno arrivando ma noi siamo pronti. Grazie ai tuoi sforzi ora possediamo un prototipo funzionante di Archwing, di cui ti sto mandando lo schema. Tuttavia, il tuo dovere non è ancora finito. Devi ancora scoprirne i componenti.",
+        "name": "Archwing",
+        "code": "it"
+      },
+      {
+        "description": "발러 포모리안이 쇄도하고 있지만, 이제 우리는 준비를 마쳤습니다. 당신의 노력 덕에 드디어 우리는 쓸만한 아크윙 프로토타입을 얻었고, 이제 그 설계도를 보내드리도록 하겠습니다. 허나, 임무는 아직 끝나지 않았습니다. 이제 당신은 부속품을 찾아내야만 합니다.",
+        "name": "아크윙",
+        "code": "ko"
+      },
+      {
+        "description": "Las Fomoré Balor están llegando, pero estamos listos.Gracias a tus esfuerzos, tenemos finalmente un prototipo funcional del archwing y te envío el plano. Sin embargo, tu tarea aún no ha terminado. Todavía tienes que descubrir las partes de los componentes.",
+        "name": "El Archwing",
+        "code": "es"
+      },
+      {
+        "description": "巴罗尔巨人战舰即将来袭，但我们已做好准备。通过你努力的成果，我们总算有了能实际运作的曲翼原型机，我将蓝图寄给你了。不过你的任务并未结束，你仍得搜索其他的组成部件。",
+        "name": "曲翼",
+        "code": "zh"
+      },
+      {
+        "description": "Форморианцы «Балор» на подходе, но мы готовы к встрече с ними. Благодаря вашим усилиям мы смогли заполучить рабочий прототип арчвинга, высылаю вам чертежи. Однако ваше задание не заканчивается на этом. Вы должны найти ключевые компоненты арчвинга.",
+        "name": "Арчвинг",
+        "code": "ru"
+      },
+      {
+        "description": "バロール・フォーモリアン戦艦は迫り続けています。でも、それに対抗する準備も進んでいます。あなたのお陰でアークウイングのプロトタイプは完成しました。その設計図もすぐあなたのもとに届けます。しかし、やるべきことはまだ残っています。ほかのパーツを探し、回収してください。",
+        "name": "アークウイング",
+        "code": "ja"
+      },
+      {
+        "description": "Fomorianie Balor nadchodzą, ale jesteśmy gotowi. Twoje wysiłki pozwoliły nam na stworzenie działającego prototypu Archwinga, a ja wysyłam Ci jego schemat. Mimo to, Twoja misja jeszcze nie jest ukończona. Wciąż musisz znaleźć części składowe.",
+        "name": "Archwing",
+        "code": "pl"
+      },
+      {
+        "description": "As naves Balor Fomorianas estão chegando, mas nós estamos prontos. Através de seus esforços, finalmente temos um protótipo funcional da Archwing e estou lhe enviando o diagrama. Porém, sua tarefa ainda não está completa. Você ainda precisa descobrir as partes componentes.",
+        "name": "A Archwing",
+        "code": "pt"
+      },
+      {
+        "description": "巴羅爾巨人戰艦即將來襲，但我們已做好準備。透過你努力的成果，我們總算有了能實際運作的 Archwing 原型機，我將藍圖寄給你了。不過你的任務並未結束，你仍得搜索其他的組成部件。",
+        "name": "Archwing",
+        "code": "tc"
+      },
+      {
+        "description": "Balor Fomorian กำลังจะมาแต่เราพร้อมแล้ว ด้วยความพยายามของเจ้าในที่สุดเราก็มีต้นแบบ Archwing ที่ใช้งานได้และข้ากำลังส่งพิมพ์เขียวให้เจ้า อย่างไรก็ตามงานของเจ้ายังไม่เสร็จสมบูรณ์ เจ้ายังต้องค้นหาส่วนประกอบต่าง ๆ ต่อไปอีก",
+        "name": "Archwing",
+        "code": "th"
+      },
+      {
+        "description": "Balor Fomorian'lar geliyor fakat biz hazırlıklıyız. Senin çabaların sayesinde sonunda çalışan bir Archwing prototipi yapmayı başardık. Atölyende yapman için sana prototipin kalıbını gönderiyorum. Fakat senin görevin henüz tamamlanmadı. Halen yapım için gerekli parçaları bulman gerekiyor.",
+        "name": "The Archwing",
+        "code": "tr"
+      },
+      {
+        "description": "Наближаються фомори класу «Балор», але ми готові. Завдяки твоїм зусиллям ми нарешті маємо робочий прототип арквінґа. Я надсилаю тобі кресленик. Та твоє завдання ще не завершено. Складники тобі доведеться знайти самотужки.",
+        "name": "Проєкт «Арквінґ»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-deadlock-protocol-4b711b30b2.png",
+    "name": "The Deadlock Protocol",
+    "description": "A power struggle within the Corpus elite has erupted. Seeking control, Nef Anyo looks to the past... to the very origins of the Corpus itself.",
+    "languages": [
+      {
+        "description": "Ein Machtkampf ist innerhalb der Ränge der Corpus ausgebrochen. Um die Kontrolle zu erhalten, blickt Nef Anyo in die Vergangenheit ... zu den Anfängen der Corpus selbst.",
+        "name": "Das Deadlock-Protokoll",
+        "code": "de"
+      },
+      {
+        "description": "Une lutte interne déchire l'élite du Corpus. Avide de pouvoir, Nef Anyo se tourne vers le passé... et remonte jusqu'aux origines du Corpus lui-même.",
+        "name": "Le Protocole: Exclusion",
+        "code": "fr"
+      },
+      {
+        "description": "È scoppiata una lotta di potere all'interno dell'élite Corpus. Cercando il controllo, Nef Anyo guarda al passato... alle origini degli stessi Corpus.",
+        "name": "Il Protocollo Deadlock",
+        "code": "it"
+      },
+      {
+        "description": "코퍼스 엘리트층 내의 권력 투쟁이 시작되었습니다. 통제권을 노리는 네프 엔요는 과거를 되돌아보지요... 코퍼스 그 자체의 기원이 있는 시점까지 말입니다.",
+        "name": "교착 프로토콜",
+        "code": "ko"
+      },
+      {
+        "description": "Ha surgido una lucha de poder dentro del Corpus. En su deseo por obtener el control, Nef Anyo decide mirar al pasado... a los orígenes del propio corpus.",
+        "name": "Protocolo Punto muerto",
+        "code": "es"
+      },
+      {
+        "description": "Corpus 内部爆发了一场始于 Corpus 精英之间的权力斗争。为了夺取控制权的奈富·安尤着眼于过去……追溯到了 Corpus 自身的起源。",
+        "name": "僵局协议",
+        "code": "zh"
+      },
+      {
+        "description": "Борьба за власть внутри элиты Корпуса в самом разгаре. Желая взять руководство под свой контроль, Неф Эньо обратился к прошлому... к истинному происхождению Корпуса.",
+        "name": "Протокол «Мёртвая Точка»",
+        "code": "ru"
+      },
+      {
+        "description": "エリートコーパスたちの間で権力闘争が勃発した。Nef Anyoは主導権を握るため、過去に目を向ける…　コーパスの起源そのものに。",
+        "name": "デッドロック・プロトコル",
+        "code": "ja"
+      },
+      {
+        "description": "Wśród elit Corpus wybucha walka o władzę. Dążąc do przejęcia kontroli, Nef Anyo spogląda ku przeszłości... ku samym początkom Corpus.",
+        "name": "Protokół: Martwy Punkt",
+        "code": "pl"
+      },
+      {
+        "description": "Iniciou-se uma batalha pelo poder no interior da elite Corpus. Em busca do controle absoluto, Nef Anyo olha para o passado… para as próprias origens dos Corpus.",
+        "name": "O Protocolo Deadlock",
+        "code": "pt"
+      },
+      {
+        "description": "Corpus 精英內部的權力鬥爭一觸即發。企圖掌權，Nef Anyo 回首過去……一探 Corpus 最初起源。",
+        "name": "死鎖協定",
+        "code": "tc"
+      },
+      {
+        "description": "เกิดการแย่งชิงอำนาจภายในชนชั้นสูงของ Corpus ขึ้นแล้ว เมื่อมองหาวิธีที่จะยึดอำนาจ Nef Anyo ได้มองย้อนกลับไปในอดีต... ถึงต้นกำเนิดที่เป็นจุดเริ่มต้นของ Corpus",
+        "name": "เดดล็อกโพรโทคอล",
+        "code": "th"
+      },
+      {
+        "description": "Corpus seçkinleri arasında bir güç mücadelesi patlak verdi. Nef Anyo, kontrolü sağlamak için geçmişe... yani Corpus'un kendi kökenine başvuruyor.",
+        "name": "The Deadlock Protocol",
+        "code": "tr"
+      },
+      {
+        "description": "Керівна верхівка Корпусу потопає в політичних суперечках. Щоби загарбати владу, Неф Аньйо звертає свій погляд до минулого… до самого коріння Корпусу.",
+        "name": "Протокол «Мертва точка»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DuviriQuest/DuviriQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-duviri-paradox-4201035873.png",
+    "name": "The Duviri Paradox",
+    "description": "Enter the Kingdom of Duviri",
+    "languages": [
+      {
+        "description": "Betritt das Königreich von Duviri",
+        "name": "Das Duviri-Paradox",
+        "code": "de"
+      },
+      {
+        "description": "Entrez dans le Royaume de Duviri",
+        "name": "Le Paradoxe Duviri",
+        "code": "fr"
+      },
+      {
+        "description": "Entra nel Regno di Duviri",
+        "name": "Il Paradosso Duviri",
+        "code": "it"
+      },
+      {
+        "description": "두비리 왕국으로 들어갑니다",
+        "name": "두비리의 역설",
+        "code": "ko"
+      },
+      {
+        "description": "Entra al Reino de Duviri",
+        "name": "La Paradoja de Duviri",
+        "code": "es"
+      },
+      {
+        "description": "进入双衍王境",
+        "name": "双衍悖论",
+        "code": "zh"
+      },
+      {
+        "description": "Войдите в Королевство Дувири",
+        "name": "Парадокс Дувири",
+        "code": "ru"
+      },
+      {
+        "description": "デュヴィリ王国に入る",
+        "name": "デュヴィリ・パラドックス",
+        "code": "ja"
+      },
+      {
+        "description": "Wejdź do Królestwa Duviri",
+        "name": "Paradoks Duviri",
+        "code": "pl"
+      },
+      {
+        "description": "Entrar no Reino de Duviri",
+        "name": "O Paradoxo de Duviri",
+        "code": "pt"
+      },
+      {
+        "description": "進入渡域王國",
+        "name": "渡域悖論",
+        "code": "tc"
+      },
+      {
+        "description": "เข้าสู่อาณาจักร Duviri",
+        "name": "ปฏิทรรศน์ของ Duviri",
+        "code": "th"
+      },
+      {
+        "description": "Duviri Krallığına Gir",
+        "name": "The Duviri Paradox",
+        "code": "tr"
+      },
+      {
+        "description": "Увійдіть у королівство Дувірі.",
+        "name": "Парадокс Дувірі",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-glast-gambit-24c121ac20.png",
+    "name": "The Glast Gambit",
+    "description": "Nef Anyo has stolen the children of the Mycona Colony and it is up to you to get them back. You must challenge Nef on The Index and beat him at his own game. But Tenno, beware, not all is as it seems.",
+    "languages": [
+      {
+        "description": "Nef Anyo hat die Kinder einer Myconier-Kolonie gestohlen und es liegt an dir, sie zurückzuholen. Du musst Nef auf dem Index herausfordern und ihn in seinem eigenen Spiel schlagen. Aber Tenno, hüte dich, nicht alles ist, wie es scheint.",
+        "name": "Das Glast-Gambit",
+        "code": "de"
+      },
+      {
+        "description": "Nef Anyo a enlevé les enfants de la Colonie de Mycona et c'est à vous de les récupérer. Vous devez lancer un défi à Nef dans l'Index et le vaincre à son propre jeu. Mais prenez garde, Tenno, tout n'est pas ce qui semble être.",
+        "name": "Le Stratagème de Glast",
+        "code": "fr"
+      },
+      {
+        "description": "Nef Anyo ha rapito i bambini delle Colonia Mycona ed è compito tuo recuperarli. Devi affrontare Nef nell'Index e sconfiggerlo al suo stesso gioco. Ma Tenno, attento, non tutto è come sembra.",
+        "name": "Lo Stratagemma di Glast",
+        "code": "it"
+      },
+      {
+        "description": "네프 엔요가 마이코나 콜로니에 살던 아이들을 납치했으며, 그들의 구출은 오직 당신의 손에 달려 있습니다. 이들을 돌려받기 위해서는 인덱스에서 네프에게 도전해 그 자신이 고안한 게임을 이겨내야만 합니다. 하지만 텐노, 조심하세요. 눈에 보이는 것은 전부가 아닙니다.",
+        "name": "글래스트의 한 수",
+        "code": "ko"
+      },
+      {
+        "description": "Nef Anyo ha raptado a los niños de la colonia Micona y depende de ti el recuperarlos. Debes desafiar a Nef en el Índice y derrotarlo en su propio juego. Pero ten cuidado tenno, no todo es lo que parece.",
+        "name": "El Gambito de Glast",
+        "code": "es"
+      },
+      {
+        "description": "奈富·安尤偷走了 Mycona 殖民地的孩子们，全靠你去解救他们了。你需要在指数之场中挑战 奈富，在他自己的游戏中击败他。但是注意了，Tenno，并不是一切都如看起来那么单纯。",
+        "name": "Glast 的千钧一策",
+        "code": "zh"
+      },
+      {
+        "description": "Неф Эньо выкрал дитя из колонии Микон, и твоя задача вернуть его. Ты должен бросить вызов Нефу на Индексе и победить его в собственной игре. Но помни, Тэнно, не всё так, как оно видится.",
+        "name": "Гамбит Гласта",
+        "code": "ru"
+      },
+      {
+        "description": "Nef Anyoがマイコーナコロニーの子供たちを攫いました。取り戻すにはあなたの力が必要です。Nefを彼自身のグラウンドであるインデックスで打ち負かさねばなりません。しかしテンノ、気を付けて。見た目通りには行かない物もあるのです。",
+        "name": "グラスト・ギャンビット",
+        "code": "ja"
+      },
+      {
+        "description": "Nef Anyo porwał dzieci Kolonii Myconów. Teraz na Twoich barkach spoczywa ciężar ich uratowania. Musisz rzucić wyzwanie Nefowi podczas Indeksu i pokonać go w jego własnej grze. Lecz strzeż się Tenno, nie wszystko jest takie, jak się wydaje.",
+        "name": "Gambit Glasta",
+        "code": "pl"
+      },
+      {
+        "description": "Nef Anyo roubou as crianças da colônia de Mycona e cabe a você trazê-las de volta. Você deve desafiar Nef no Index e vencê-lo em em seu próprio jogo. Mas tenha cuidado, Tenno, pois nem tudo é o que parece.",
+        "name": "A Jogada de Glast",
+        "code": "pt"
+      },
+      {
+        "description": "Nef Anyo 偷走了 Mycona 殖民地的孩子們，全靠你去解救他們了。你需要在指數之場中挑戰 Nef，在他自己的遊戲中擊敗他。但是注意了，Tenno，並不是一切都如看起來那麼單純。",
+        "name": "Glast 的千鈞一策",
+        "code": "tc"
+      },
+      {
+        "description": "Nef Anyo ขโมยเด็ก ๆ ในอาณานิคม Mycona ไป ขึ้นอยู่กับเจ้าแล้วที่จะนำพวกเด็ก ๆ กลับคืนมา เจ้าต้องท้าทาย Nef ในอินเด็กซ์และเอาชนะเขาในเกมของเขาเองให้ได้ แต่ Tenno จงระวังตัวให้ดี เพราะไม่ใช่ทุกสิ่งจะเป็นอย่างที่ตาเห็น",
+        "name": "สุดยอดกลยุทธ์ของ Glast",
+        "code": "th"
+      },
+      {
+        "description": "Nef Anyo Mycona Kolonisi'nin evlatlarını kaçırdı ve onları geri getirme görevi sana düştü. İndeks'de Nef'e kafa tutarak onu kendi oyununda yenmelisin. Fakat Tenno, dikkatli ol, hiçbir şey göründüğü gibi değildir.",
+        "name": "The Glast Gambit",
+        "code": "tr"
+      },
+      {
+        "description": "Неф Аньйо викрав дітей із колонії міконців. Лише ви в змозі повернути їх. Вам потрібно змагатися з Нефом в Індексі та перемогти його на його ж полі. Однак, тенно, зауважте, що не все є таким, як здається.",
+        "name": "Гамбіт Ґласта",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-jordas-precept-ed2a83d059.png",
+    "name": "The Jordas Precept",
+    "description": "Ordis is determined to help a fellow Cephalon overcome a ship wide infestation.",
+    "languages": [
+      {
+        "description": "Ordis ist entschlossen, einem anderen Cephalon bei der Bewältigung eines schiffsweiten Befalls zu helfen.",
+        "name": "Die Jordas-Regel",
+        "code": "de"
+      },
+      {
+        "description": "Ordis est déterminé à aider un camarade Céphalon à arrêter l'Infestation d'un vaisseau entier.",
+        "name": "Le Précepte de Jordas",
+        "code": "fr"
+      },
+      {
+        "description": "Ordis è determinato a voler aiutare un compagno Cephalon a sconfiggere l'infestazione dell'intera nave..",
+        "name": "Il Precetto di Jordas",
+        "code": "it"
+      },
+      {
+        "description": "오디스는 함선 전체에 퍼진 인페스티드들에 붙잡힌 동료 세팔론을 도와주기로 결심한 모양입니다.",
+        "name": "조르다스 수칙",
+        "code": "ko"
+      },
+      {
+        "description": "Ordis está decidido a ayudar a un compañero Céfalon superar una gran infestación en la nave.",
+        "name": "El Precepto de Jordas",
+        "code": "es"
+      },
+      {
+        "description": "Ordis 决意帮助一具中枢同伴压制一艘遭到广域性感染的船舰。",
+        "name": "Jordas 枢律",
+        "code": "zh"
+      },
+      {
+        "description": "Ордису предписано помочь бедному цефалону справиться с заражением на корабле.",
+        "name": "Протокол Джордаса",
+        "code": "ru"
+      },
+      {
+        "description": "Ordisは戦艦全体に感染が広がっている仲間のセファロンを救うことを決心した。",
+        "name": "Jordas の教訓",
+        "code": "ja"
+      },
+      {
+        "description": "Ordis jest zdeterminowany, by pomóc bratniemu Cefalonowi w pozbyciu się zmasowanego wybuchu Plagi ze statku.",
+        "name": "Instrukcja Jordasa",
+        "code": "pl"
+      },
+      {
+        "description": "Ordis está determinado a ajudar outro Cephalon a conter uma Infestação que dominou sua nave.",
+        "name": "O Preceito de Jordas",
+        "code": "pt"
+      },
+      {
+        "description": "Ordis 決意幫助一具中樞同伴壓制一艘遭到廣域性感染的船艦。",
+        "name": "Jordas 樞律",
+        "code": "tc"
+      },
+      {
+        "description": "Ordis มุ่งมั่นที่จะช่วยเพื่อนเซฟาลอนในการเอาชนะยานที่มีการติดเชื้อเป็นวงกว้าง",
+        "name": "กฎของ Jordas",
+        "code": "th"
+      },
+      {
+        "description": "Ordis arkadaşı Cephalon'a gemi boyunca yayılan istilada yardımcı olmak istiyor",
+        "name": "The Jordas Precept",
+        "code": "tr"
+      },
+      {
+        "description": "Ордіс сповнений рішучості допомогти своєму колезі-цефалону подолати поширення зараження.",
+        "name": "Настанова Джордеса",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-limbo-theorem-9a76f3f0ec.png",
+    "name": "The Limbo Theorem",
+    "description": "The Limbo Theorem quest cannot be completed without an ArchwingPiece together the Limbo Theorem to uncover its source",
+    "languages": [
+      {
+        "description": "Die Quest “Limbo-Theorem” kann nicht ohne einen Archwing abgeschlossen werden.Setze das Puzzle des Limbo-Theorems zusammen, um seine Herkunft offen zu legen",
+        "name": "Das Limbo-Theorem",
+        "code": "de"
+      },
+      {
+        "description": "Vous avez besoin d'une Archwing pour compléter le Théorème de Limbo.Résolvez le THÉORÈME DE LIMBO afin de révéler sa solution.",
+        "name": "Le Théorème de Limbo",
+        "code": "fr"
+      },
+      {
+        "description": "La quest Teorema di Limbo non può essere completata senza un Archwing.Costruisci il Teorema di Limbo nella Posta in Arrivo per scoprirne la fonte",
+        "name": "Il Teorema di Limbo",
+        "code": "it"
+      },
+      {
+        "description": "완료하시려면 아크윙이 있어야 합니다. 림보의 정리 조각을 모아 그 출처를 파악하세요.",
+        "name": "림보의 정리",
+        "code": "ko"
+      },
+      {
+        "description": "La aventura del Teorema de Limbo no puede completarse sin un archwingReconstruye el teorema de Limbo para descubrir su origen.",
+        "name": "El Teorema de Limbo",
+        "code": "es"
+      },
+      {
+        "description": "Limbo 定理任务必须具备曲翼才能完成通过拼凑 Limbo 定理来揭露其起源",
+        "name": "Limbo 定理",
+        "code": "zh"
+      },
+      {
+        "description": "Теорема Лимбо не может быть пройдена без АрчвингаСоберите Теорему Лимбо по кусочкам, чтобы найти её источник",
+        "name": "Теорема Лимбо",
+        "code": "ru"
+      },
+      {
+        "description": "Limbo セオリムクエストをクリアするにはアークウイングが必要です。根源を辿ってLimboセオリムをつなぎ合わせる",
+        "name": "Limbo セオリム",
+        "code": "ja"
+      },
+      {
+        "description": "Zadanie Twierdzenie Limbo nie może zostać ukończony bez Archwinga.Połącz wszystkie kawałki Twierdzenia Limbo, by znaleźć jego źródło.",
+        "name": "Twierdzenie Limbo",
+        "code": "pl"
+      },
+      {
+        "description": "A jornada \"O Teorema Limbo\" não pode ser concluída sem uma ArchwingJunte os pedaços do Teorema do Limbo para descobrir sua origem",
+        "name": "O Teorema do Limbo",
+        "code": "pt"
+      },
+      {
+        "description": "無法在沒有 Archwing 的情況下執行《Limbo 定理》系列任務透過拼湊 Limbo 定理來揭露其起源",
+        "name": "Limbo 定理",
+        "code": "tc"
+      },
+      {
+        "description": "ไม่สามารถทำเควสต์ทฤษฎีบท Limbo สำเร็จได้หากไม่มี Archwingปะติดปะต่อทฤษฎีบท Limbo เข้าด้วยกันเพื่อค้นหาแหล่งที่มา",
+        "name": "ทฤษฎีบท Limbo",
+        "code": "th"
+      },
+      {
+        "description": "Limbo Theorem quest'i Archwing olmadan tamamlanamazKaynağını ortaya çıkarmak için Limbo Teoremini bir araya getirin",
+        "name": "The Limbo Theorem",
+        "code": "tr"
+      },
+      {
+        "description": "Пригоду «Теорема Лімбо» неможливо завершити без арквінґа.Складіть докупи «Теорему Лімбо», щоби взнати її походження.",
+        "name": "«Теорема Лімбо»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/1999PrologueQuest/1999PrologueQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-lotus-eaters-1442179666.png",
+    "name": "The Lotus Eaters",
+    "description": "A strange call comes from beyond and must not go unanswered.",
+    "languages": [
+      {
+        "description": "Ein seltsamer Ruf ertönt von jenseits des Schleiers und darf nicht unbeantwortet bleiben.",
+        "name": "Die Lotus-Phagen",
+        "code": "de"
+      },
+      {
+        "description": "Un étrange appel vient de l’au-delà et ne doit pas rester sans réponse.",
+        "name": "Les Dévoreurs de Lotus",
+        "code": "fr"
+      },
+      {
+        "description": "Una strana chiamata risuona dall'aldilà e non deve rimanere senza risposta.",
+        "name": "I Divoratori di Lotus",
+        "code": "it"
+      },
+      {
+        "description": "저 너머로부터 들려오는 기이한 부름. 이에 답하지 않을 수는 없습니다.",
+        "name": "연꽃을 먹는 자",
+        "code": "ko"
+      },
+      {
+        "description": "Una extraña llamada llega desde el más allá y no debe ser ignorada.",
+        "name": "Devoradores de Lotus",
+        "code": "es"
+      },
+      {
+        "description": "奇异的呼唤从远方传来，不能置之不理。",
+        "name": "食莲者",
+        "code": "zh"
+      },
+      {
+        "description": "Странный зов раздаётся извне, который не стоит оставлять без ответа.",
+        "name": "Пожиратели Лотос",
+        "code": "ru"
+      },
+      {
+        "description": "果てからの問いかけに応えるのです。",
+        "name": "ロートパゴス",
+        "code": "ja"
+      },
+      {
+        "description": "Z otchłani rozbrzmiewa zew nieznanego, który nie może zostać zignorowany.",
+        "name": "Pożeracze Lotus",
+        "code": "pl"
+      },
+      {
+        "description": "Um chamado estranho ecoa do além, e não deve ser ignorado.",
+        "name": "Os Lotófagos",
+        "code": "pt"
+      },
+      {
+        "description": "來自遠方的奇怪召喚，必作回應。",
+        "name": "食蓮者",
+        "code": "tc"
+      },
+      {
+        "description": "มีเสียงเรียกแปลก ๆ มาจากแดนไกลและจำเป็นต้องตอบรับเสียงนี้",
+        "name": "Lotus Eaters",
+        "code": "th"
+      },
+      {
+        "description": "Diğer taraftan yankılanan bu tuhaf çağrının yanıtlanması gerekiyor.",
+        "name": "Lotus Eaters",
+        "code": "tr"
+      },
+      {
+        "description": "Дивний поклик лунає з позамежжя — його не варто лишати без відповіді.",
+        "name": "Пожирачі лотоса",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-new-strange-cd971e692a.png",
+    "name": "The New Strange",
+    "description": "Work with Cephalon Simaris to find the source of a mysterious voice.",
+    "languages": [
+      {
+        "description": "Arbeite zusammen mit Cephalon Simaris, um die Quelle einer mysteriösen Stimme zu finden.",
+        "name": "Das Neue Fremde",
+        "code": "de"
+      },
+      {
+        "description": "Travaillez avec le Céphalon Simaris afin de retrouver l'origine de la voix mystérieuse.",
+        "name": "La Nouvelle Étrange",
+        "code": "fr"
+      },
+      {
+        "description": "Lavora con Cephalon Simaris per trovare la fonte di una voce misteriosa.",
+        "name": "Il Nuovo Estraneo",
+        "code": "it"
+      },
+      {
+        "description": "세팔론 시마리스와 신비로운 목소리의 근원을 찾으세요.",
+        "name": "낯선 신비",
+        "code": "ko"
+      },
+      {
+        "description": "Trabaja con el céfalon Simaris para encontrar el origen de una voz misteriosa.",
+        "name": "El Nuevo Extraño",
+        "code": "es"
+      },
+      {
+        "description": "和中枢 Simaris 合作找出一个神秘声音的源头。",
+        "name": "新疑谜团",
+        "code": "zh"
+      },
+      {
+        "description": "При содействии цефалона Симэриса найдите источник таинственного сигнала.",
+        "name": "Новые загадки",
+        "code": "ru"
+      },
+      {
+        "description": "Cephalon Simaris に協力し、不可思議な「声」の発生源を見つけよう。",
+        "name": "新たな怪奇",
+        "code": "ja"
+      },
+      {
+        "description": "Współpracuj z Cefalonem Simarisem, aby odnaleźć źródło tajemniczego głosu.",
+        "name": "Nowy, Obcy",
+        "code": "pl"
+      },
+      {
+        "description": "Trabalhe junto ao Cephalon Simaris para que possa encontrar a origem de uma misteriosa voz .",
+        "name": "O Novo Estranho",
+        "code": "pt"
+      },
+      {
+        "description": "和中樞 Simaris 合作找出一個神秘聲音的源頭。",
+        "name": "新疑謎團",
+        "code": "tc"
+      },
+      {
+        "description": "ทำงานร่วมกับเซฟาลอน Simaris เพื่อค้นหาที่มาของเสียงลึกลับ",
+        "name": "ความแปลกใหม่",
+        "code": "th"
+      },
+      {
+        "description": "Cephalon Simaris ile beraber çalışarak gizemli sesin kaynağını bulun",
+        "name": "The New Strange",
+        "code": "tr"
+      },
+      {
+        "description": "Співпрацюйте з цефалоном Симарісом, щоби знайти джерело таємничого голосу.",
+        "name": "Незнайомець",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewWarQuest/NewWarQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-new-war-7fd0adc1e6.png",
+    "name": "The New War",
+    "description": "The Sentient armada has emerged from the Veil Proxima in shocking numbers.At their head, Natah, once the trusted guide 'Lotus', now seemingly in thrall to Ballas and her brother Erra.Across worlds and space, the Tenno and their unlikely alliance launch a final assault to take the Sentient mothership... where Natah awaits.",
+    "languages": [
+      {
+        "description": "Die Sentient Armada ist in beängstigender Stärke in den Veil Proxima Regionen aufgetaucht.An ihrer Spitze, Natah, einst die vertraute Führerin 'Lotus', jetzt scheinbar von Ballas und ihrem Bruder, Erra, unterworfen.Die Tenno und ihre unerwartete Allianz leiten über das gesamte System hinweg ihren letzten Angriff gegen das Sentient Mutterschiff ein ... wo Natah sie erwartet.",
+        "name": "Der Neue Krieg",
+        "code": "de"
+      },
+      {
+        "description": "La puissante armada Sentient est sortie de la Proxima du Voile.À leur tête, Natah, autrefois guide de confiance appelé \"Lotus\", semble maintenant esclave de Ballas et de son frère Erra.À travers les mondes et l'espace, les Tennos et leur alliance improbable lancent un assaut final pour prendre le vaisseau amiral Sentient... où Natah les attend.",
+        "name": "La Nouvelle Guerre",
+        "code": "fr"
+      },
+      {
+        "description": "La numerosa armata Sentient è emersa da Veil Proxima.A comandarla, Natah, una volta la fidata guida 'Lotus', ora apparentemente in balia di Ballas e suo fratello Erra.Attraverso i mondi e lo spazio, i Tenno e la loro improbabile alleanza lanciano un assalto finale per prendere la nave madre Sentient... dove Natah li aspetta.",
+        "name": "La Nuova Guerra",
+        "code": "it"
+      },
+      {
+        "description": "센티언트의 함대가 충격적인 규모의 수로 베일 프록시마에서 모습을 드러냈습니다.그들의 선두에는, 나타 - 한때 우리의 믿음직한 안내자였던 '로터스'였으나, 발라스와 그녀의 남동생, 에라에게 속박된 듯한 그녀가 서 있지요.세계와 우주를 넘어, 텐노는 예상치 못한 동맹과 함께 센티언트의 모함... 나타가 기다리는 그곳을 향한 마지막 공격을 단행하려 합니다.",
+        "name": "새로운 전쟁",
+        "code": "ko"
+      },
+      {
+        "description": "El ejército consciente ha surgido de Próxima Velo en grandes cantidades.A la cabeza va Natah, quien fue una vez la fiel guía \"Lotus\", pero que ahora parece ser esclava de Ballas y de su hermano Erra.A través de los mundos y del espacio, los tenno y su inesperada alianza preparan un ataque final para tomar la nave nodriza consciente... donde les espera Natah.",
+        "name": "La Nueva Guerra",
+        "code": "es"
+      },
+      {
+        "description": "Sentient 舰队正以惊人的数量从面纱比邻星域中涌现。领军的 Natah，曾是我们倍受信赖的向导 “Lotus”。而她现在似乎已被其亲弟 Erra，以及 Ballas 奴役。横跨整个星系，Tenno 与他们意想不到的盟友，发动了最终强袭以攻占 Sentient 母舰。而 Natah……亦在舰中严阵以待。",
+        "name": "新纪之战",
+        "code": "zh"
+      },
+      {
+        "description": "Бесчисленная армада Владеющих Разумом появилась из проксимы Вуали.Их возглавляет Ната, известная когда-то как надёжная проводница по имени Лотос, которая теперь, кажется, порабощена Балласом и собственным братом Эррой.Тэнно из разных миров и уголков Системы и их неожиданные союзники начинают решающий штурм материнского корабля Владеющих Разумом… где их ждёт Ната.",
+        "name": "Новая Война",
+        "code": "ru"
+      },
+      {
+        "description": "膨大な数のセンティエントがベール・プロキシマから現れ、本格的な侵略が遂に始まりました。センティエントの先頭に立つのはNatah、かつてテンノを導いたLotusであり、今はBallasと弟Erraの配下としてあなたの前に立ちはだかります。今やOrigin太陽系の各地が戦場となり、テンノを含む様々な勢力がセンティエントとの最終局面に向かっています。この大戦の先にあるのは勝利か、破滅か。",
+        "name": "新たな大戦",
+        "code": "ja"
+      },
+      {
+        "description": "Armada Świadomych przybywa z Proximy Woalu w zastraszających ilościach.Na ich czele, Natah, kiedyś zaufana przewodniczka \"Lotus\", teraz wydaje się być sługą Ballasa oraz jej brata, Erry.Mimo różnic i dystansu, Tenno i ich nieoczekiwani sojusznicy rozpoczynają ostatni atak na statek-matkę Świadomych... w którym oczekuje Natah.",
+        "name": "Nowa Wojna",
+        "code": "pl"
+      },
+      {
+        "description": "A armada Sentient emergiu da Próxima do Véu em números alarmantes.À frente dela, Natah, anteriormente conhecida como a guia de confiança \"Lótus\", agora parece ter sido escravizada por Ballas e seu irmão, Erra.Por entre os mundos e espaço, os Tennos e sua improvável aliança lançam um ataque final para tomar a Nave-mãe Sentient… onde Natah os aguarda.",
+        "name": "A Nova Guerra",
+        "code": "pt"
+      },
+      {
+        "description": "Sentient 艦隊以驚人數量在面紗毗鄰星區浮現。由 Natah 領銜帶隊，她曾經是可信賴的指導者──「Lotus」，現已似乎被 Ballas 及其弟──Erra 所奴役。在世界與太空各處，Tenno 與他們的異外結盟發動了最後一場突襲來攻佔 Sentient 母艦……而在艦內的 Natah 正在靜候等待。",
+        "name": "新世戰紀",
+        "code": "tc"
+      },
+      {
+        "description": "กองเรือรบ Sentient ได้โผล่ออกมาจากพร็อกซิมาเวลด้วยจำนวนที่น่าตกใจหัวเรือใหญ่ของพวกมันคือ Natah ผู้เคยเป็น 'Lotus' ผู้นำทางที่เชื่อถือได้ ตอนนี้ดูเหมือนจะกลายทาสรับใช้ให้กับ Ballas และ Erra พี่ชายของนางข้ามผ่านโลกและอวกาศไปกับ Tenno และพันธมิตรที่ไม่น่าจะเกิดขึ้นได้ เปิดการโจมตีครั้งสุดท้ายเพื่อยึดยานแม่ Sentient... ที่ที่ Natah รอคอยอยู่",
+        "name": "สงครามใหม่",
+        "code": "th"
+      },
+      {
+        "description": "Veil Proxima'da endişe verici sayıda Sentient donanması ortaya çıktı.Komutalarında, eskiden \"Lotus\"un güvenilir rehberi olarak bilinen Natah, şimdi Ballas ve kardeşi Erra tarafından köleleştirilmiş gibi görünüyor.Tenno ve olası ittifakları, uzayın derinliklerindeki Sentient ana gemisini Natah'ın onları beklediği yere götürmek için son bir saldırı başlattı.",
+        "name": "The New War",
+        "code": "tr"
+      },
+      {
+        "description": "Потужна армада свідомих з’явилася з Проксими Вуалі.Їх очолює Ната, відома колись як надійна провідниця «Лотос», а тепер, схоже, поневолена Балласом і власним братом Еррою.З різних світів і куточків космосу тенно та їхній несподіваний альянс починають останній штурм зорельота-носія свідомих… де на них чекає Ната.",
+        "name": "Нова війна",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-sacrifice-0461e4559b.png",
+    "name": "The Sacrifice",
+    "description": "A tortured vision sends the Operator on the hunt for a Warframe unlike any other.",
+    "languages": [
+      {
+        "description": "Eine gequälte Vision schickt den Operator auf die Jagd nach einem Warframe wie keinem anderen.",
+        "name": "Das Opfer",
+        "code": "de"
+      },
+      {
+        "description": "Une vision torturée envoie l'Opérateur à la poursuite d'une Warframe à nulle autre pareille.",
+        "name": "Le Sacrifice",
+        "code": "fr"
+      },
+      {
+        "description": "Una visione straziante fa sì che l'Operatore parta a caccia di un Warframe diverso dagli altri.",
+        "name": "Il Sacrificio",
+        "code": "it"
+      },
+      {
+        "description": "끔찍하도록 고통스러운 환상을 목도한 오퍼레이터는 그 어떤 워프레임과도 다른 한 워프레임을 추적하는 길에 오릅니다.",
+        "name": "희생",
+        "code": "ko"
+      },
+      {
+        "description": "Una visión atormentada envía al operador a la caza de un warframe como ningún otro.",
+        "name": "El Sacrificio",
+        "code": "es"
+      },
+      {
+        "description": "一个受折磨的景像使得指挥官开始寻找着一架不同于其他的战甲。",
+        "name": "牺牲",
+        "code": "zh"
+      },
+      {
+        "description": "Мучительное видение заставляет оператора отправиться на поиски варфрейма, который не похож на других.",
+        "name": "Жертва",
+        "code": "ru"
+      },
+      {
+        "description": "他とは異なるWarframeを追う内にオペレーターは苦悶の回想を垣間見る。",
+        "name": "サクリファイス",
+        "code": "ja"
+      },
+      {
+        "description": "Wizja ponurej przeszłości, powoduje że Operator wyrusza na poszukiwanie Warframe'a innego od pozostałych.",
+        "name": "Wyrzeczenie",
+        "code": "pl"
+      },
+      {
+        "description": "Uma visão torturada envia o Operador numa caçada por um Warframe diferente de tudo que já foi visto.",
+        "name": "O Sacrifício",
+        "code": "pt"
+      },
+      {
+        "description": "一個受折磨的景像使得指揮官開始尋找著一架不同於其他的 Warframe。",
+        "name": "犧牲",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพนิมิตอันแสนทรมานทำให้โอเปอเรเตอร์ออกตามล่าหา Warframe ที่ไม่เหมือนใคร",
+        "name": "การเสียสละ",
+        "code": "th"
+      },
+      {
+        "description": "Belli belirsiz bir görüntü Operatör'ün sıradışı bir Warframe'in peşinden gitmesine neden oluyor.",
+        "name": "The Sacrifice",
+        "code": "tr"
+      },
+      {
+        "description": "Моторошне видіння відправляє оператора на пошуки ворфрейма, що не схожий на жодного з інших.",
+        "name": "Жертва",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-second-dream-e5778fa253.png",
+    "name": "The Second Dream",
+    "description": "The Sentient Hunhow seeks to destroy the Tenno by exploiting long forgotten secrets.",
+    "languages": [
+      {
+        "description": "Der Sentient Hunhow strebt danach, die Tenno durch das Ausnutzen lang vergessener Geheimnisse zu zerstören.",
+        "name": "Der Zweite Traum",
+        "code": "de"
+      },
+      {
+        "description": "Le Sentient Hunhow cherche à détruire les Tennos avec l'aide de secrets oubliés.",
+        "name": "Le Second Rêve",
+        "code": "fr"
+      },
+      {
+        "description": "Il Sentient Hunhow cerca di distruggere i Tenno sfruttando i segreti da lungo dimenticati.",
+        "name": "Il Secondo Sogno",
+        "code": "it"
+      },
+      {
+        "description": "센티언트 헌하우가 오랫동안 잊혀져온 비밀을 캐내어 텐노를 멸절시킬 방법을 찾고 있습니다.",
+        "name": "두 번째 꿈",
+        "code": "ko"
+      },
+      {
+        "description": "El consciente Hunhow busca destruir a los tenno al aprovecharse de secretos olvidados.",
+        "name": "El Segundo Sueño",
+        "code": "es"
+      },
+      {
+        "description": "Sentient Hunhow 企图发掘一些被长久遗忘的秘密来毁灭 Tenno。",
+        "name": "第二场梦",
+        "code": "zh"
+      },
+      {
+        "description": "Владеющий Разумом Хунхау хочет уничтожить Тэнно с помощью давно забытых секретов.",
+        "name": "Второй сон",
+        "code": "ru"
+      },
+      {
+        "description": "センティエントHunhow が長い間忘れ去られていた秘密を利用して、テンノを壊滅しようとする。",
+        "name": "二番目の夢",
+        "code": "ja"
+      },
+      {
+        "description": "Świadomy ‘Hunhow’ pragnie zniszczyć Tenno, eksploatując ich zapomniane sekrety.",
+        "name": "Drugi Sen",
+        "code": "pl"
+      },
+      {
+        "description": "O Sentient Hunhow quer destruir os Tennos explorando antigos segredos esquecidos.",
+        "name": "O Segundo Sonho",
+        "code": "pt"
+      },
+      {
+        "description": "Sentient Hunhow 企圖發掘一些被長久遺忘的秘密來毀滅 Tenno。",
+        "name": "第二場夢",
+        "code": "tc"
+      },
+      {
+        "description": "Sentient Hunhow พยายามที่จะทำลาย Tenno โดยใช้ประโยชน์จากความลับที่ลืมมานาน",
+        "name": "ความฝันครั้งที่สอง",
+        "code": "th"
+      },
+      {
+        "description": "Sentient Hunhow eski zamandan kalma sırları kullanarak Tenno'ları yok etmeye çalışıyor.",
+        "name": "The Second Dream",
+        "code": "tr"
+      },
+      {
+        "description": "Свідомий Ганго хоче знищити тенно, використовуючи давно забуті таємниці.",
+        "name": "Сон наяву",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-silver-grove-6cadfdf6fe.png",
+    "name": "The Silver Grove",
+    "description": "New Loka seeks help protecting a sacred forest from Grineer incursions, but are they ready to face the forest’s true nature?",
+    "languages": [
+      {
+        "description": "New Loka benötigt Hilfe dabei, den heiligen Wald vor den Grineer Übergriffen zu schützen. Sind sie jedoch bereit, der wahren Natur des Waldes zu begegnen?",
+        "name": "Der Silberne Hain",
+        "code": "de"
+      },
+      {
+        "description": "Le Nouveau Loka cherche à protéger une forêt sacrée des incursions Grineers, mais est-il prêt à faire face à la véritable nature de la forêt?",
+        "name": "Le Bosquet d'Argent",
+        "code": "fr"
+      },
+      {
+        "description": "New Loka cerca aiuto per proteggere una foresta sacra dalle incursioni Grineer, ma sono pronti ad affrontare la vera natura della foresta?",
+        "name": "Il Bosco d'Argento",
+        "code": "it"
+      },
+      {
+        "description": "뉴 로카가 그리니어의 침입으로부터 성스러운 숲을 보호하기 위해 도움을 요청하고 있습니다. 하지만, 눈앞에 나타날 숲의 진정한 모습을 그들은 마주할 준비가 되어 있는 걸까요?",
+        "name": "백은의 숲",
+        "code": "ko"
+      },
+      {
+        "description": "El Nuevo Loka busca ayuda para proteger un bosque sagrado de las incursiones de los grineer, pero ¿están listos para enfrentar la verdadera fuerza de la naturaleza?",
+        "name": "La Arboleda Plateada",
+        "code": "es"
+      },
+      {
+        "description": "新世间为保护一片神圣的森林不被 Grineer 入侵正寻求帮助，但是他们准备好面对这片森林真正的本性了吗？",
+        "name": "落银树庭",
+        "code": "zh"
+      },
+      {
+        "description": "Новая Лока ищет помощи, чтобы защитить священный лес от вторжения Гринир, но готовы ли они узреть истинную природу леса?",
+        "name": "Серебряная роща",
+        "code": "ru"
+      },
+      {
+        "description": "ニュー・ロカは神聖なる森をグリニア兵から守るため、テンノに助太刀を要求しています。しかし彼らは森の真実を知らない。",
+        "name": "銀の果樹園",
+        "code": "ja"
+      },
+      {
+        "description": "Nowa Loka usiłuje znaleźć pomoc w obronie świętego lasu przed najazdem Grineer, ale czy są gotowi stawić czoło prawdziwej naturze tego lasu?",
+        "name": "Srebrzysty Gaj",
+        "code": "pl"
+      },
+      {
+        "description": "O Neoloka está procurando ajuda para proteger a floresta sagrada das incursões dos Grineers, mas será que o Neoloka está pronto para enfrentar a real natureza da floresta?",
+        "name": "O Bosque Prateado",
+        "code": "pt"
+      },
+      {
+        "description": "新世間為保護一片神聖的森林不被 Grineer 入侵正尋求幫助，但是他們準備好面對這片森林真正的本性了嗎？",
+        "name": "落銀樹庭",
+        "code": "tc"
+      },
+      {
+        "description": "New Loka พยายามช่วยปกป้องป่าศักดิ์สิทธิ์จากการรุกรานของ Grineer แต่พวกเขาพร้อมที่จะเผชิญหน้ากับธรรมชาติที่แท้จริงของป่าดงพงไพรหรือยัง?",
+        "name": "ซิลเวอร์โกรฟ",
+        "code": "th"
+      },
+      {
+        "description": "New Loka'nın Grineer'ların yok etmek istediği kutsal ormanları korumak için yardıma ihtiyacı var, fakat ormanın gerçek doğası ile yüzleşmeye gerçekten hazırlarmı?",
+        "name": "The Silver Grove",
+        "code": "tr"
+      },
+      {
+        "description": "«Нова Лока» розшукує помічників, які б допомогли захистити священний ліс від ґрінерських нечем. Але чи готові ви зустрітися з істинним походженням лісу?",
+        "name": "Срібний Гай",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-war-within-e0af2c92d6.png",
+    "name": "The War Within",
+    "description": "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir.",
+    "languages": [
+      {
+        "description": "Eine Störung in der somatischen Verbindung hat die Lotus dazu veranlasst, erneut Agenten zum Tenno Reservoir zu schicken.",
+        "name": "Der Innere Krieg",
+        "code": "de"
+      },
+      {
+        "description": "Une perturbation du Lien Somatique pousse le Lotus à renvoyer des agents au Réservoir Tenno.",
+        "name": "La Guerre Intérieure",
+        "code": "fr"
+      },
+      {
+        "description": "Un disturbo nel Collegamento Somatico induce Lotus ad inviare nuovamente agenti operativi nel Reservoir Tenno.",
+        "name": "La Guerra Interna",
+        "code": "it"
+      },
+      {
+        "description": "소매틱 링크의 방해를 조사하기 위해 로터스는 텐노의 요람으로 요원을 보내기로 하였습니다.",
+        "name": "내면의 전쟁",
+        "code": "ko"
+      },
+      {
+        "description": "Una perturbación en el enlace somático insta a Lotus a enviar operativos de vuelta al embalse de los tenno.",
+        "name": "La Guerra Interna",
+        "code": "es"
+      },
+      {
+        "description": "活体连接的干扰迫使 Lotus 派遣特工回到 Tenno 储梦池。",
+        "name": "内战",
+        "code": "zh"
+      },
+      {
+        "description": "Помехи в Соматической Связи вынуждают Лотос снова выслать оперативников к Резервуару Тэнно.",
+        "name": "Война внутри",
+        "code": "ru"
+      },
+      {
+        "description": "ソマティックリンクのノイズを探知し、Lotusはオペレーターをリザーバへと再度向かわせる。",
+        "name": "内なる紛争",
+        "code": "ja"
+      },
+      {
+        "description": "Zakłócenie w Połączeniu Somatycznym zmusiło Lotus, aby ponownie wysłać agentów do Rezerwuaru Tenno.",
+        "name": "Wewnętrzna Wojna",
+        "code": "pl"
+      },
+      {
+        "description": "Uma interferência na Conexão Somática impede a Lótus de enviar agentes de volta para o Reservatório Tenno.",
+        "name": "A Guerra Interior",
+        "code": "pt"
+      },
+      {
+        "description": "活體連接的干擾迫使 Lotus 派遣特工回到 Tenno 儲夢池。",
+        "name": "內戰",
+        "code": "tc"
+      },
+      {
+        "description": "ความวุ่นวายในโซมาติกลิงก์ทำให้ Lotus ส่งผู้ปฏิบัติการกลับไปยังอ่างเก็บน้ำ Tenno",
+        "name": "สงครามภายใน",
+        "code": "th"
+      },
+      {
+        "description": "Somatik Link'teki kargaşa Lotusu operatörlerini Tenno Haznelerine geri göndermeye zorluyor.",
+        "name": "The War Within",
+        "code": "tr"
+      },
+      {
+        "description": "Завади в соматичному зв’язку змушують Лотос відправити оперативників до резервуара тенно.",
+        "name": "Внутрішній конфлікт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/YareliQuest/YareliQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-waverider-a48273c5d2.png",
+    "name": "The Waverider",
+    "description": "When tragedy strikes, the Ventkids search for hope in a long-lost story.",
+    "languages": [
+      {
+        "description": "Ereignet sich eine Tragödie, suchen die Schachtkinder in einer längst verlorenen Geschichte nach Hoffnung.",
+        "name": "Der Wellenreiter",
+        "code": "de"
+      },
+      {
+        "description": "Lorsque le sort les accable, les Orphelins des Conduits puisent de l'espoir dans une histoire perdue depuis longtemps.",
+        "name": "Waverider",
+        "code": "fr"
+      },
+      {
+        "description": "Quando la tragedia colpisce, i Ventkid cercano speranza in una storia perduta da tempo.",
+        "name": "Waverider",
+        "code": "it"
+      },
+      {
+        "description": "비극이 닥쳐오는 때, 벤트키드들은 오래전 잃어버린 이야기에서 희망을 찾습니다.",
+        "name": "파도의 기수",
+        "code": "ko"
+      },
+      {
+        "description": "Ante la tragedia, los Ventkids buscan esperanza en una historia que se mantuvo perdida durante mucho tiempo.",
+        "name": "La Surfista",
+        "code": "es"
+      },
+      {
+        "description": "当悲剧突然降临时，通风小子在一个失传已久的故事中寻找希望。",
+        "name": "驭浪者",
+        "code": "zh"
+      },
+      {
+        "description": "Когда случается несчастье, Дети Труб ищут надежду в давно забытой истории.",
+        "name": "Укротительница волн",
+        "code": "ru"
+      },
+      {
+        "description": "悲劇が襲う時、ベントキッドは過去の物語から救いを求める。",
+        "name": "ウェーブライダー",
+        "code": "ja"
+      },
+      {
+        "description": "Kiedy dochodzi do tragedii, Nawiewniaki szukają nadziei w dawno zapomnianej historii.",
+        "name": "Surferka",
+        "code": "pl"
+      },
+      {
+        "description": "Quando uma tragédia acontece, os Órfãos dos Dutos buscam esperança em uma história há muito tempo perdida.",
+        "name": "A Surfista",
+        "code": "pt"
+      },
+      {
+        "description": "當悲劇發生時，通風小子在一篇遺失久遠的故事中尋找希望。",
+        "name": "乘浪者",
+        "code": "tc"
+      },
+      {
+        "description": "เมื่อเกิดโศกนาฏกรรม พวก Ventkid ก็ค้นหาความหวังในเรื่องเล่าที่สูญหายไปนาน",
+        "name": "เวฟไรเดอร์",
+        "code": "th"
+      },
+      {
+        "description": "Trajedi baş gösterdiğinde, Ventkid'ler çok uzun zamandır unutulmuş bir hikayede umut ararlar.",
+        "name": "The Waverider",
+        "code": "tr"
+      },
+      {
+        "description": "У скрутні часи вентижевжики шукають надію в давно загубленій історії.",
+        "name": "Підкорювачка Хвиль",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/KahlQuest/KahlQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veilbreaker-71d2e7a9a7.png",
+    "name": "Veilbreaker",
+    "description": "Daughter Entrati gets more than she bargained for when she enlists the Tenno to investigate a call for reinforcements aboard a Narmer Murex.",
+    "languages": [
+      {
+        "description": "Tochter Entrati bekommt es mit mehr zu tun, als sie erwartet hat, als sie den Tenno darum bittet, den Ruf nach Verstärkung an Bord eines Narmer Murex zu untersuchen.",
+        "name": "Schleierschnitter",
+        "code": "de"
+      },
+      {
+        "description": "La fille Entrati obtient plus que ce qu'elle voulait lorsqu'elle engage le Tenno pour enquêter sur un appel de renforts à bord d'un Murex Narmer.",
+        "name": "Brise-Voile",
+        "code": "fr"
+      },
+      {
+        "description": "Figlia Entrati ottiene più di quanto si aspettasse quando arruola i Tenno per indagare su una richiesta di rinforzi a bordo di una Murex Narmer.",
+        "name": "Veilbreaker",
+        "code": "it"
+      },
+      {
+        "description": "나르메르 뮤렉스 내에서 들려오는 지원군 요청 신호를 조사하기 위해 텐노의 도움을 요청했을 때, 엔트라티의 딸은 자신이 기대했던 것보다도 더 많은 것을 얻게 됩니다.",
+        "name": "베일 파괴자",
+        "code": "ko"
+      },
+      {
+        "description": "La hija Entrati obtiene más de lo que esperaba cuando recluta a los tenno para investigar una llamada de refuerzos a bordo de una Murex Narmer.",
+        "name": "Rompevelos",
+        "code": "es"
+      },
+      {
+        "description": "当英择谛“女儿”号召 Tenno 去调查合一众骨螺战舰上的一个增援请求时，她所收获的要比预想中的更多。",
+        "name": "破障者",
+        "code": "zh"
+      },
+      {
+        "description": "Дочь Энтрати получает гораздо больше, чем ожидала, когда попросила Тэнно найти источник сигнала о помощи с борта мюрекса Нармера.",
+        "name": "Срывающий вуаль",
+        "code": "ru"
+      },
+      {
+        "description": "エントラティのDaughterは、ナルメル・ミュレックス内から届いた救援信号をテンノの力を借りて調査した。吉と出るか凶と出るか、この時のDaughterはまだ知らない。",
+        "name": "ベールブレイカー",
+        "code": "ja"
+      },
+      {
+        "description": "Córka Entrati dostała więcej niż się spodziewała, kiedy zwerbowała Tenno do sprawdzenia wezwania o wsparcie z pokładu Mureksu Narmer.",
+        "name": "Veilbreaker",
+        "code": "pl"
+      },
+      {
+        "description": "A Filha da família Entrati conseguiu mais do que o esperado ao enviar o Tenno para investigar um pedido de reforços proveniente de uma Murex Narmeriana.",
+        "name": "Destrutor de Véus",
+        "code": "pt"
+      },
+      {
+        "description": "源拓氏女兒徵召 Tenno 前往調查一艘那爾邁骨螺母艦發出的增援請求時，結果超出她的預想。",
+        "name": "破冪者",
+        "code": "tc"
+      },
+      {
+        "description": "ดูเหมือน Daughter แห่ง Entrati จะเจออะไรมากกว่าที่คาดไว้ เมื่อนางขอให้ Tenno ช่วยตรวจสอบสัญญาณขอกำลังเสริมบนยาน Narmer Murex",
+        "name": "Veilbreaker",
+        "code": "th"
+      },
+      {
+        "description": "Entrati'nin Kızı, bir Narmer Murex'inin destek çağrısını araştırması için Tenno'yu görevlendirdiğinde umduğundan fazlasını alıyor.",
+        "name": "Veilbreaker",
+        "code": "tr"
+      },
+      {
+        "description": "Донька Ентраті отримує значно більше ніж розраховувала, коли попросила тенно знайти джерело сигналу запиту на підкріплення з борту мюрекса Нармера.",
+        "name": "Вуалелам",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vor's-prize-29aa4f89b0.png",
+    "name": "Vor's Prize",
+    "description": "MY QUEENS -You were right, the Tenno threat is real. We found one drifting near Earth but the Lotus knew we were coming. She purged the Cryo moments before we had them and sent a squad of Tenno to break our assault.They escaped. We are working on tracing them. Separate this Tenno from the flock and it should be easy to kill. We shattered its Warframe and expect such an abrupt Cryo purge will have damaged its memories.We anxiously await punishment for failing this task.- VOR",
+    "languages": [
+      {
+        "description": "MEINE KÖNIGINNEN -Ihr hattet recht, die Bedrohung durch die Tenno ist real. Wir fanden einen in der Nähe der Erde, doch Lotus wusste, dass wir kamen. Sie öffnete die Kryo-Kammer, bevor wir Hand anlegen konnten und schickte eine Truppe anderer Tenno, die unseren Angriff abwendeten.Sie entkamen. Wir arbeiten daran, sie zu orten. Diesen Tenno von der Gruppe zu trennen, sollte ihn zu einem einfachen Ziel machen. Wir haben den Warframe schwer beschädigt und gehen davon aus, dass die rasche Öffnung der Kryo-Kammer seine Erinnerungen beschädigt hat.Wir warten unruhig auf die Bestrafung, die auf unser Versagen folgt.- VOR",
+        "name": "Vors Preis",
+        "code": "de"
+      },
+      {
+        "description": "MES REINES –Vous aviez raison, la menace Tenno est bien réelle. Nous en avons trouvé un dérivant près de la Terre, mais le Lotus savait que nous arrivions. Elle a purgé la chambre de cryostase juste avant notre arrivée et a envoyé une escouade Tenno arrêter notre attaque.Ils se sont échappés. Nous essayons de suivre leurs traces. En séparant ce Tenno du troupeau, il sera facile à tuer. Nous avons endommagé sa Warframe et nous pensons que sa sortie abrupte de cryostase a pu endommager sa mémoire.Nous attendons avec inquiétude votre punition pour notre échec dans cette tâche.- VOR",
+        "name": "Le Trophée de Vor",
+        "code": "fr"
+      },
+      {
+        "description": "MIE REGINE - Avevate ragione, la minaccia dei Tenno è reale. Ne abbiamo rinvenuto uno alla deriva vicino alla Terra, ma Lotus sapeva del nostro arrivo. Ha interrotto la Criostasi un istante prima che lo catturassimo e ha inviato una squadra di Tenno a stroncare il nostro attacco.Sono fuggiti e stiamo cercando di rintracciarli. Separare questo Tenno dal gruppo dovrebbe renderlo un bersaglio facile; abbiamo danneggiato il suo Warframe e l'uscita improvvisa dalla criostasi deve aver danneggiato la sua memoria.Attendiamo con ansia la punizione per il fallimento della missione.- VOR",
+        "name": "Il Premio di Vor",
+        "code": "it"
+      },
+      {
+        "description": "여왕 폐하 -두 여왕 폐하의 말씀대로 텐노의 위협은 실존하였습니다. 지구 주변에서 유적을 발견하였지만 로터스가 이미 우리의 접근을 눈치챈 뒤였습니다. 로터스는 우리가 손에 넣기도 전에 긴급히 동면을 해제시켰고, 우리의 전투부대로부터 그 텐노를 구하기 위해 한 무리의 텐노를 보내왔습니다.그들은 탈출했습니다만 현재 추적 중입니다. 이 무리에서 깨어난 텐노를 따로 떼어놓아야 처치하기 쉬울 것입니다. 저희는 이 워프레임에 다량의 피해를 입혔으며 갑작스럽게 일어난 동면 해제가 텐노의 기억에 장애를 가져왔을 거라고 예상하고 있습니다.걱정스런 마음으로 이 임무를 실패한 벌을 기다리겠습니다.- 보어",
+        "name": "보어의 전리품",
+        "code": "ko"
+      },
+      {
+        "description": "MIS REINAS -Tenían razón, la amenaza tenno es real. Encontramos uno a la deriva cerca de la Tierra, pero Lotus sabía que veníamos. Purgó la criocápsula poco antes de que llegáramos y envió un escuadrón de tenno para detener nuestro asalto.Escaparon. Estamos tratando de localizarlos. Si separamos a este tenno de su grupo, debería ser fácil matarlo. Dañaremos su warframe con la esperanza de que una purga criogénica abrupta dañe sus recuerdos.Esperamos ansiosamente un castigo por fallar en esta tarea.- VOR",
+        "name": "La Presa de Vor",
+        "code": "es"
+      },
+      {
+        "description": "我尊敬的女皇们 -你们是正确的，Tenno 的威胁千真万确。我们找到一个 Tenno 漂浮在地球附近，但 Lotus 事先料到了我们的行动。就在我们要抓住 Tenno 之前，Lotus 解除了冷冻催眠，并派来一支 Tenno 小队破坏了我们的攻势。他们逃跑了。我们正在追踪。只要将这个 Tenno 与大部队分开，就应该很容易干掉。我们已经击碎了其战甲外甲，并且如此突然地解除冷冻将对其记忆力造成损伤。由于未能完成任务，我们不胜惶恐地等待应得的惩罚。－沃尔",
+        "name": "沃尔的战利品",
+        "code": "zh"
+      },
+      {
+        "description": "МОИ КОРОЛЕВЫ,Вы были правы, угроза, исходящая от Тэнно реальна. Мы нашли одного из них, дрейфующим неподалёку от Земли, но Лотос узнала о нашем приближении. Она открыла криокамеру прежде, чем мы его захватили и отправила отряд Тэнно, чтобы пробить брешь в нашей осаде.Они сбежали. Мы делаем всё возможное, чтобы выйти на их след. Отделите этого Тэнно от его группы — и он станет лёгкой добычей. Мы разрушили его варфрейм и думаем, что такой резкий выход из криосна повредит его память.Мы с нетерпением ожидаем наказания за провал этого задания.КАПИТАН ВОР",
+        "name": "Приз вора",
+        "code": "ru"
+      },
+      {
+        "description": "我が女帝両陛下、あなた様の仰る通りでした、テンノの脅威は本物です。我々は地球付近に漂流しているものを発見したのですが、Lotusに一枚上手を取られてしまったようです。ヤツめ、我々が到達する直前にコールドスリープの封印を解除し、別のテンノの迎撃部隊を派遣していたのです。現在、逃亡したテンノらを追跡中でございます。群れから孤立させればテンノと言えど難なく殺せはしましょう。必ずやあのWARFRAMEを粉砕してご覧に入れます。加えて、コールドスリープの緊急解除により、記憶障害を起こしていることも期待できそうです。我々は今回の失態への罰を覚悟しております。- VOR",
+        "name": "Vorの秘宝",
+        "code": "ja"
+      },
+      {
+        "description": "MOJE KRÓLOWE -Miałyście rację, zagrożenie ze strony Tenno jest prawdziwe. Znaleźliśmy jednego dryfującego blisko Ziemi, ale Lotus wiedziała, że nadchodzimy. Otworzyła kapsułę zanim udało nam się ją przejąć i wysłała drużynę Tenno, aby odeprzeć nasz atak.Uciekli. Próbujemy ich namierzyć. Oddzielenie tego Tenno od reszty powinno znacznie ułatwić nam zabicie go. Roztrzaskaliśmy jego Warframe i oczekujemy, że nagłe przebudzenie z kriosnu uszkodziło jego wspomnienia.Z trwogą oczekujemy kary za niewykonanie tego zadania.- VOR",
+        "name": "Nagroda Vora",
+        "code": "pl"
+      },
+      {
+        "description": "MINHAS RAINHAS -Vocês estavam certas, a ameaça Tenno é real. Encontramos um deles à deriva perto da Terra, mas a Lótus sabia que estávamos a caminho. Ela ativou a Câmara Criogênica momentos antes de chegarmos lá e enviou um esquadrão de Tennos para impedir nosso ataque.Eles escaparam. Estamos tentando rastreá-los. Se separarmos esse Tenno dos demais, será fácil matá-lo. Estilhaçamos o Warframe dele e acreditamos que a ativação brusca da Câmara Criogênica danificará suas memórias.Esperamos ansiosamente pela punição por falhar nesta tarefa.- VOR",
+        "name": "Recompensa de Vor",
+        "code": "pt"
+      },
+      {
+        "description": "我尊敬的女皇們，你們是正確的，Tenno 的威脅真實存在。我們找到一名在地球附近漂流的 Tenno，但 Lotus 事先料到了我們的行動。就在我們要抓住 Tenno 之前，Lotus 解除了冷凍催眠，並派來一支 Tenno 小隊破壞了我們的行動。他們成功逃跑了，我們正在追蹤。只要將這名 Tenno 與大部隊分開，要擊殺就容易多了。我們已經擊碎了其戰甲外甲，由於突然解除冷凍也使對方的記憶力造成損傷。由於未能完成任務，我們不勝惶恐地等待應得的懲罰。－VOR",
+        "name": "Vor 的戰利品",
+        "code": "tc"
+      },
+      {
+        "description": "ราชินีพระองค์พูดถูก ภัยคุกคาม Tenno เกิดขึ้นจริง ๆ เราพบบางสิ่งที่ลอยอยู่ใกล้โลก แต่ Lotus รู้ว่าเรากำลังจะมา จึงได้ถ่ายความเย็นออกก่อนที่เราจะได้ตัวพวกมัน แล้วส่งทีม Tenno มายับยั้งการการจู่โจมของเราพวกมันหลบหนีไปได้ แต่เรากำลังติดตามพวกมันอยู่ หากแยก Tenno ผู้นี้ออกจากกลุ่มได้ ก็น่าจะทำให้ง่ายต่อการกำจัด เราทำลาย Warframe ของมันได้และคาดว่าการละลายล้างการแช่แข็งอย่างกะทันหันเช่นนั้นคงจะทำให้ความทรงจำของมันเสียหายเรารอรับบทลงโทษอย่างว้าวุ่นใจเนื่องจากได้ทำภารกิจนี้ล้มเหลว- VOR",
+        "name": "รางวัลของ Vor",
+        "code": "th"
+      },
+      {
+        "description": "KRALİÇELERİM -Haklıydınız, Tenno tehdidi gerçek. Dünya dolaylarında savrulan bir tane bulduk, ancak Lotus peşinde olduğumuzu biliyordu. Biz ele geçirmeden onu uyku kapsülünden tasfiye etti ve saldırımızı püskürtmek için bir Tenno bölüğü gönderdi.Kaçtılar, fakat izlerini sürüyoruz. Bu Tenno'yu grubundan ayırırsak öldürmesi daha kolay olacaktır. Warframe'e olabildiğince zarar verdik ve uyku kapsülüne yapılan ani müdahalenin hafızasına zarar verdiğini düşünüyoruz. Bu görevdeki başarısızlığımızdan dolayı vereceğiniz cezaya hazırız.- VOR",
+        "name": "Vor's Prize",
+        "code": "tr"
+      },
+      {
+        "description": "МОЇ КОРОЛЕВИ,Ви мали рацію, загроза тенно — не вигадка. Ми знайшли одного їхнього воїна поблизу Землі. Але Лотос знала про нас: вона відчинила кріокапсулу за мить до нашого прибуття й кинула загін тенно на придушення нашої атаки.Їм вдалося втекти, і ми зараз намагаємося вистежити їх. Якщо зможемо відрізати цього бійця від інших, убити його буде значно легше. Ми серйозно пошкодили його ворфрейма, а раптове пробудження від кріогенного сну мало спричинити втрату памʼяті.Смиренно очікуємо кари за нашу невдачу.ВОР",
+        "name": "Ворів трофей",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SolarisQuest/SolarisQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vox-solaris-8eceaf1013.png",
+    "name": "Vox Solaris",
+    "description": "Eudico would do anything to keep her people safe, but will she stand up to Nef Anyo?",
+    "languages": [
+      {
+        "description": "Eudico würde alles für die Sicherheit ihrer Leute tun, aber ob sie sich mit Nef Anyo anlegt?",
+        "name": "Vox Solaris",
+        "code": "de"
+      },
+      {
+        "description": "Eudico ferait tout pour protéger les siens, mais se dressera-t-elle face à Nef Anyo?",
+        "name": "Vox Solaris",
+        "code": "fr"
+      },
+      {
+        "description": "Eudico farebbe qualsiasi cosa per tenere al sicuro la sua gente, ma si opporrà a Nef Anyo?",
+        "name": "Vox Solaris",
+        "code": "it"
+      },
+      {
+        "description": "유디코는 동포들을 안전하게 지키기 위해서라면 무엇이든 할 것입니다. 하지만 네프 엔요에게 직접 맞설까요?",
+        "name": "복스 솔라리스",
+        "code": "ko"
+      },
+      {
+        "description": "Eudico haría lo que fuera por mantener a su gente a salvo, ¿pero se enfrentará a Nef Anyo?",
+        "name": "Vox Solaris",
+        "code": "es"
+      },
+      {
+        "description": "Eudico 为了她的人民的安全可以做出任何事情，但她会起身对抗奈富·安尤吗？",
+        "name": "索拉里斯之声",
+        "code": "zh"
+      },
+      {
+        "description": "Юдико готова на всё ради защиты своих людей, но бросит ли она вызов Нефу Эньо?",
+        "name": "Глас Солярис",
+        "code": "ru"
+      },
+      {
+        "description": "Eudico には仲間を守る覚悟があるが、果たしてNef Anyo に立ち向かうことはできるのだろうか？",
+        "name": "Vox Solaris",
+        "code": "ja"
+      },
+      {
+        "description": "Eudico zrobi wszystko, aby jej ludzie byli bezpieczni, ale czy będzie w stanie przeciwstawić się Nefowi Anyo?",
+        "name": "Vox Solaris",
+        "code": "pl"
+      },
+      {
+        "description": "Eudico faria qualquer coisa para proteger seu povo, mas será que ela se voltará contra Nef Anyo?",
+        "name": "Vox Solaris",
+        "code": "pt"
+      },
+      {
+        "description": "Eudico 為了她的人民的安全可以做出任何事情，但她會起身對抗 Nef Anyo 嗎？",
+        "name": "索拉里斯之聲",
+        "code": "tc"
+      },
+      {
+        "description": "Eudico จะทำทุกอย่างเพื่อให้คนของนางปลอดภัย แต่นางจะแข็งขืนต่อ Nef Anyo ได้หรือไม่?",
+        "name": "Vox Solaris",
+        "code": "th"
+      },
+      {
+        "description": "Eudico halkını güvende tutmak için her şeyi yapar, ama Nef Anyo'ya karşı koyabilecek mi?",
+        "name": "Vox Solaris",
+        "code": "tr"
+      },
+      {
+        "description": "Юдико зробить що завгодно, щоби вберегти своїх, та чи виступить вона проти Нефа Аньйо?",
+        "name": "Глас солярійців",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/EntratiLab/EntratiQuestKeyChain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/whispers-in-the-walls-7574522adc.png",
+    "name": "Whispers In The Walls",
+    "description": "Loid has had strange dreams and desperately needs to show you something.",
+    "languages": [
+      {
+        "description": "Loid hatte seltsame Träume und muss dir dringend etwas zeigen.",
+        "name": "Flüstern in den Wänden",
+        "code": "de"
+      },
+      {
+        "description": "Loid est hanté par des rêves étranges et il veut désespérément vous montrer quelque chose.",
+        "name": "Murmures dans les murs",
+        "code": "fr"
+      },
+      {
+        "description": "Loid ha fatto degli strani sogni e ha un disperato bisogno di mostrarti qualcosa.",
+        "name": "Sussurri nelle Mura",
+        "code": "it"
+      },
+      {
+        "description": "기이한 꿈을 꾸게 된 로이드가 당신에게 다급하게 무언가를 보여주고자 합니다.",
+        "name": "벽 속의 속삭임",
+        "code": "ko"
+      },
+      {
+        "description": "Loid ha tenido sueños extraños y está desesperado por mostrarte algo.",
+        "name": "Susurros en las Paredes",
+        "code": "es"
+      },
+      {
+        "description": "洛德做了一些奇怪的梦，急需给你看一些东西。",
+        "name": "墙中低语",
+        "code": "zh"
+      },
+      {
+        "description": "Лойду приснился странный сон и он отчаянно хочет тебе что-то показать.",
+        "name": "Шёпот в стенах",
+        "code": "ru"
+      },
+      {
+        "description": "Loidは奇妙な夢に悩まされており、あなたに何か見せようとしている。",
+        "name": "壁の中の囁き",
+        "code": "ja"
+      },
+      {
+        "description": "Loidowi przyśniły się dziwne rzeczy i koniecznie musi Ci coś pokazać.",
+        "name": "Szepty w Ścianach",
+        "code": "pl"
+      },
+      {
+        "description": "O Loid teve sonhos estranhos e precisa desesperadamente mostrar algo a você.",
+        "name": "Sussurros nas Paredes",
+        "code": "pt"
+      },
+      {
+        "description": "Loid 做了奇怪的夢並且迫切想給你看一些東西。",
+        "name": "牆中低語",
+        "code": "tc"
+      },
+      {
+        "description": "Loid ฝันแปลก ๆ และอยากให้คุณเห็นอะไรบางอย่างเหลือเกิน",
+        "name": "เสียงกระซิบในกำแพง",
+        "code": "th"
+      },
+      {
+        "description": "Loid tuhaf rüyalar gördü ve sana acilen bir şeyi göstermesi gerekiyor.",
+        "name": "Whispers in the Walls",
+        "code": "tr"
+      },
+      {
+        "description": "Лойду наснився дивний сон, і він відчайдушно потребує вам дещо показати.",
+        "name": "Шепіт у стінах",
+        "code": "uk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/agkuza-ad630f8d41.png",
+    "name": "Agkuza",
+    "description": "Tear apart incoming enemies with this massive hooked blade.",
+    "languages": [
+      {
+        "description": "Zerteile deine Gegner mit dieser massiven Hakenklinge.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "de"
+      },
+      {
+        "description": "Mettez en pièces les ennemis en approche avec sa massive lame crochue.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "fr"
+      },
+      {
+        "description": "Fai a pezzi i nemici in arrivo con quest'enorme lama uncinata.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "it"
+      },
+      {
+        "description": "이 거대한 갈고리형 검으로 다가오는 적들을 조각내버리세요.",
+        "name": "<ARCHWING> 악쿠자",
+        "code": "ko"
+      },
+      {
+        "description": "Destroza a tus enemigos con este enorme garfio afilado.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "es"
+      },
+      {
+        "description": "（英文：AGKUZA）用这柄强大的钩状刀刃撕裂来袭的敌人。",
+        "name": "<ARCHWING> 驯象钩刃",
+        "code": "zh"
+      },
+      {
+        "description": "Разрывайте врагов на части с этим массивным клинком с крюком.",
+        "name": "<ARCHWING> Агкуза",
+        "code": "ru"
+      },
+      {
+        "description": "この巨大なフックブレードは迫りくる敵を一度に引き裂くことができる。",
+        "name": "<ARCHWING> Agkuza",
+        "code": "ja"
+      },
+      {
+        "description": "Rozedrzyj na strzępy zbliżających się wrogów, tym masywnym, harpunowym ostrzem.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "pl"
+      },
+      {
+        "description": "Rasgue os inimigos que se aproximam com esta enorme lâmina curvada.",
+        "name": "<ARCHWING> Agkuza",
+        "code": "pt"
+      },
+      {
+        "description": "（原文：AGKUZA）用這柄強大的鉤狀刀刃撕裂來襲的敵人。",
+        "name": "<ARCHWING> 馴象鉤刃",
+        "code": "tc"
+      },
+      {
+        "description": "ทำลายล้างศัตรูที่เข้ามาด้วยดาบตะขอขนาดใหญ่เล่มนี้",
+        "name": "<ARCHWING> Agkuza",
+        "code": "th"
+      },
+      {
+        "description": "Bu devasa kancalı bıçak ile gelen düşmanları parçalara ayırın",
+        "name": "<ARCHWING> Agkuza",
+        "code": "tr"
+      },
+      {
+        "description": "Гакоподібна холодна зброя для арквінґа, з допомогою якої ви рватимете ворогів на шмаття.",
+        "name": "<ARCHWING> Аґкуза",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/centaur-a00c7e4fd8.png",
+    "name": "Centaur",
+    "description": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
+    "languages": [
+      {
+        "description": "Teil Schwert, Teil Schild, das Centaur eignet sich bestens für einen Sturm in feindliches Feuer.",
+        "name": "<ARCHWING> Centaur",
+        "code": "de"
+      },
+      {
+        "description": "Mi-bouclier, mi-épée, le Centaure est l'arme d'excellence pour plonger tête baissée dans les rangs ennemis.",
+        "name": "<ARCHWING> CENTAURE",
+        "code": "fr"
+      },
+      {
+        "description": "In parte una spada, in parte uno scudo, il Centaur è l'arma ideale per buttarsi a capofitto tra i proiettili nemici.",
+        "name": "<ARCHWING> Centaur",
+        "code": "it"
+      },
+      {
+        "description": "반은 검, 반은 방패로 구성된 센타우르는 적군의 사격 속을 뚫는 저돌적인 돌격에 탁월한 성능을 보입니다.",
+        "name": "<ARCHWING> 센타우르",
+        "code": "ko"
+      },
+      {
+        "description": "Mitad espada, mitad escudo, el Centauro destaca en cargar precipitadamente hacia el fuego enemigo.",
+        "name": "<ARCHWING> Centauro",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CENTAUR）部分为剑，部分为盾，半人马剑盾专擅于突进敌军炮火之中。",
+        "name": "<ARCHWING> 半人马",
+        "code": "zh"
+      },
+      {
+        "description": "Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем.",
+        "name": "<ARCHWING> Кентавр",
+        "code": "ru"
+      },
+      {
+        "description": "剣でもあり、盾でもあり、Centaurは先陣に立つための優秀な武器。",
+        "name": "<ARCHWING> Centaur",
+        "code": "ja"
+      },
+      {
+        "description": "Broń Archwinga. Częściowo miecz, częściowo tarcza, Centaur jest doskonałą bronią w czasie ataku prosto w ogień nieprzyjaciela.",
+        "name": "<ARCHWING> Centaur",
+        "code": "pl"
+      },
+      {
+        "description": "Parte espada, parte escudo, a Centaur é excelente para entrar de cabeça no fogo inimigo.",
+        "name": "<ARCHWING> Centaur",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CENTAUR）部分為劍，部分為盾，半人馬劍盾專擅於突進敵軍炮火之中。",
+        "name": "<ARCHWING> 半人馬",
+        "code": "tc"
+      },
+      {
+        "description": "Centaur มีส่วนที่เป็นทั้งดาบและโล่ เด่นในด้วยการพุ่งเข้าโจมตีศัตรูแบบไม่ยั้งคิด",
+        "name": "<archwing> Centaur",
+        "code": "th"
+      },
+      {
+        "description": "Yarı kılıç yarı kalkan olan Centaur düşmanı keserken ustasınıda korur.",
+        "name": "<ARCHWING> Centaur",
+        "code": "tr"
+      },
+      {
+        "description": "Частково меч, частково щит. На відмінно впорається з нападом під шквалом ворожого вогню.",
+        "name": "<ARCHWING> Кентавр",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kaszas-fa004e9997.png",
+    "name": "Kaszas",
+    "description": "Become an angel of death, with this Archwing scythe.",
+    "languages": [
+      {
+        "description": "Werde zum Engel des Todes, mit dieser Archwing-Sense.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "de"
+      },
+      {
+        "description": "Devenez un ange de la mort avec cette Faux Archwing.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "fr"
+      },
+      {
+        "description": "Diventa un Angelo della morte con questa falce Archwing.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "it"
+      },
+      {
+        "description": "이 아크윙 전용 낫으로 죽음의 천사가 되어보세요.",
+        "name": "<ARCHWING> 카스자스",
+        "code": "ko"
+      },
+      {
+        "description": "Conviértete en un ángel de la muerte, con esta guadaña del archwing.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "es"
+      },
+      {
+        "description": "（英文：KASZAS）拿起这把曲翼镰刀，化身为死亡天使。",
+        "name": "<ARCHWING> 死亡使徒",
+        "code": "zh"
+      },
+      {
+        "description": "Станьте ангелом смерти с этой косой для арчвинга.",
+        "name": "<ARCHWING> Косаш",
+        "code": "ru"
+      },
+      {
+        "description": "このアークウイングサイスで死の天使となるのだ。",
+        "name": "<ARCHWING> Kaszas",
+        "code": "ja"
+      },
+      {
+        "description": "Dzięki tej przeznaczonej dla Archwinga Kosy, staniesz się aniołem śmierci.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "pl"
+      },
+      {
+        "description": "Transforme-se em um anjo da morte com esta foice de Archwing.",
+        "name": "<ARCHWING> Kaszas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：KASZAS）拿起這把 Archwing 鐮刀，化身為死亡天使。",
+        "name": "<ARCHWING> 死亡使徒",
+        "code": "tc"
+      },
+      {
+        "description": "กลายเป็นยมทูตแห่งความตายด้วยเคียว Archwing นี้",
+        "name": "<archwing> Kaszas",
+        "code": "th"
+      },
+      {
+        "description": "Bu Archwing tırpanı ile bir ölüm meleğine dönüşün",
+        "name": "<ARCHWING> Kaszas",
+        "code": "tr"
+      },
+      {
+        "description": "Коса для арквінґа. Станьте ангелом смерті.",
+        "name": "<ARCHWING> Косаш",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/knux-939cea4c86.png",
+    "name": "Knux",
+    "description": "Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.",
+    "languages": [
+      {
+        "description": "Galliumlegierten Kampfhandschuhe für den Archwing-Nahkampf. Entworfen von dem berüchtigten Tyl Regor.",
+        "name": "<ARCHWING> Knux",
+        "code": "de"
+      },
+      {
+        "description": "Des gantelets en alliage de Gallium pour le combat en mêlée avec votre Archwing. Conçu par le renommé Tyl Regor.",
+        "name": "<ARCHWING> Knux",
+        "code": "fr"
+      },
+      {
+        "description": "Guanti Titanio-Gallium per combattimento Archwing a distanza ravvicinata. Progettati dal famigerato Tyl Regor.",
+        "name": "<ARCHWING> Knux",
+        "code": "it"
+      },
+      {
+        "description": "아크윙 근접전 시 사용되는 갈륨과 얼로이제 건틀렛으로, 그 유명한 틸 레거에 의해 설계된 무기입니다.",
+        "name": "<ARCHWING> 넉스",
+        "code": "ko"
+      },
+      {
+        "description": "Guantes de aleación de Galio para combates de corto alcance en archwing. Diseñado por el infame Tyl Regor.",
+        "name": "<ARCHWING> Knux",
+        "code": "es"
+      },
+      {
+        "description": "（英文：KNUX）为曲翼近距离作战所制的镓合金动力拳套。由恶名昭彰的泰尔·雷工设计。",
+        "name": "<ARCHWING> 克纳克斯",
+        "code": "zh"
+      },
+      {
+        "description": "Рукавицы, сделанные из галлиевого сплава для ближнего боя арчвинга. Разработаны бесславным Тилом Регором.",
+        "name": "<ARCHWING> Накс",
+        "code": "ru"
+      },
+      {
+        "description": "アークウイング近接戦闘用のガリウム合金製ガントレット。悪名高いTyl Regor によって設計された。",
+        "name": "<ARCHWING> Knux",
+        "code": "ja"
+      },
+      {
+        "description": "Zmiażdż swoich wrogów Archwing’owymi Rękawicami bojowymi Knux, zaprojektowanymi przez haniebnego Tyl Regor’a.",
+        "name": "<ARCHWING> Knux",
+        "code": "pl"
+      },
+      {
+        "description": "Manoplas feitas em Gálio e Liga Metálica para combate em curta distância com Archwing. Projetada para o infame Tyl Regor.",
+        "name": "<ARCHWING> Knux",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：KNUX）為 Archwing 近距離作戰所制的鎵合金動力拳套。由惡名昭彰的 Tyl Regor 設計。",
+        "name": "<ARCHWING> 克納克斯",
+        "code": "tc"
+      },
+      {
+        "description": "ถุงมือโลหะผสมแกลเลียมสำหรับการต่อสู้ Archwing ในระยะใกล้ ออกแบบโดย Tyl Regor ที่มีชื่ออื้อฉาว",
+        "name": "<ARCHWING> Knux",
+        "code": "th"
+      },
+      {
+        "description": "Tyl Regor.tarafından dizayn edilmiş bu Galyum alaşımlı bu eldivenler yakın mesafeli Archwing dövüşleri için idealdir.",
+        "name": "<ARCHWING> Knux",
+        "code": "tr"
+      },
+      {
+        "description": "Бойові рукавиці арквінґа з галієвого сплаву. Створені горезвісним Тило Реґором.",
+        "name": "<ARCHWING> Накс",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/onorix-cec1553bd5.png",
+    "name": "Onorix",
+    "description": "This laser bladed battle-axe easily hacks through a ship's defenses and the forces protecting it.",
+    "languages": [
+      {
+        "description": "Diese Streitaxt mit Laserklingen hackt durch die Verteidigung eines Schiffes und alle Streitkräfte, die es beschützen.",
+        "name": "<ARCHWING> Onorix",
+        "code": "de"
+      },
+      {
+        "description": "Cette Hache équipée de lames faites de lasers fend facilement les défenses des vaisseaux ainsi que les forces qui les protègent.",
+        "name": "<ARCHWING> Onorix",
+        "code": "fr"
+      },
+      {
+        "description": "Questa ascia da guerra con lama laser taglia con facilità le difese di una nave e le forze che la proteggono.",
+        "name": "<ARCHWING> Onorix",
+        "code": "it"
+      },
+      {
+        "description": "함선의 방어와 보호 병력들을 손쉽게 베어버릴 수 있는 레이저 블레이드를 가진 전투용 도끼입니다.",
+        "name": "<ARCHWING> 오노릭스",
+        "code": "ko"
+      },
+      {
+        "description": "Esta hacha de batalla con filo láser atraviesa fácilmente las defensas de una nave y a las fuerzas que la protegen.",
+        "name": "<ARCHWING> Onorix",
+        "code": "es"
+      },
+      {
+        "description": "（英文：ONORIX）这把激光刀刃的战斧能轻易突破船只的防御和保卫船只的武装力量。",
+        "name": "<ARCHWING> 奥努里克斯",
+        "code": "zh"
+      },
+      {
+        "description": "Эта секира с лазерной кромкой лезвий легко пронзает защиту корабля и сил, его обороняющих.",
+        "name": "<ARCHWING> Онорикс",
+        "code": "ru"
+      },
+      {
+        "description": "レーザー研磨の刃が付いたこの斧は、敵の戦艦の横っ腹に穴を開けることすらできる。",
+        "name": "<ARCHWING> Onorix",
+        "code": "ja"
+      },
+      {
+        "description": "Ten topór o laserowych ostrzach z łatwością przebije się przez systemy obronne statku",
+        "name": "<ARCHWING> Onorix",
+        "code": "pl"
+      },
+      {
+        "description": "Este machado de batalha com lâminas a laser atravessa as defesas de naves e de forças protetoras com facilidade.",
+        "name": "<ARCHWING> Onorix",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：ONORIX）這把雷射刀刃的戰斧能輕易突破船隻的防禦和保衛船隻的武裝力量。",
+        "name": "<ARCHWING> 奧努里克斯",
+        "code": "tc"
+      },
+      {
+        "description": "ขวานรบที่มีใบมีดเลเซอร์ด้ามนี้สามารถฟันผ่านการป้องกันและกองกำลังป้องกันของยานได้อย่างง่ายดาย",
+        "name": "<ARCHWING> Onorix",
+        "code": "th"
+      },
+      {
+        "description": "Lazer bıçaklı bu savaş baltası kolayca düşman defanslarını ve korumalarını yarar.",
+        "name": "<ARCHWING> Onorix",
+        "code": "tr"
+      },
+      {
+        "description": "Бойова сокира з лазерними лезами, що здатна з легкістю розбити не лише захист судна, а й сили, що його захищають.",
+        "name": "<ARCHWING> Онорікс",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-veritux-b7348241ce.png",
+    "name": "Prisma Veritux",
+    "description": "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void’s energy.",
+    "languages": [
+      {
+        "description": "Ein seltenes Objekt der Schönheit, dieses Archwing Schwert wurde mit Prismakristallen überzogen und in Voidenergie getaucht.",
+        "name": "<ARCHWING> Prisma Veritux",
+        "code": "de"
+      },
+      {
+        "description": "D'une rare splendeur, cette Épée d'Archwing a été taillée dans du pur cristal Prisma et immergée dans de l'Énergie du Néant.",
+        "name": "<ARCHWING> Veritux Prisma",
+        "code": "fr"
+      },
+      {
+        "description": "Oggetto di rara bellezza, questa spada Archwing è stata ricoperta di cristalli prismatici e battezzata nell'energia del void.",
+        "name": "<ARCHWING> Prisma Veritux",
+        "code": "it"
+      },
+      {
+        "description": "이 희귀하고 아름다운 아크윙 소드는 프리즈마 크리스탈을 보이드 에너지에 담금질한 물건입니다.",
+        "name": "<ARCHWING> 프리즈마 베리턱스",
+        "code": "ko"
+      },
+      {
+        "description": "Un extraño objeto de belleza, esta espada para el archwing ha sido revestida con cristal prismático y bautizada en la energía del vacío.",
+        "name": "<ARCHWING> Veritux Prisma",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PRISMA VERITUX）这把曲翼之剑包覆在棱晶之中且沐浴着虚空的能量，成为了稀有而美丽的存在。",
+        "name": "<ARCHWING> 棱晶·真理巨剑",
+        "code": "zh"
+      },
+      {
+        "description": "Редчайший образец изящества, этот меч для арчвинга был покрыт призматическими кристаллами и подвергнут воздействию энергии Бездны.",
+        "name": "<ARCHWING> Веритакс Призма",
+        "code": "ru"
+      },
+      {
+        "description": "このアークウイングソードはプリズマクリスタルに包まれ、VOIDエネルギーの洗礼を受けた美しく貴重な一品。",
+        "name": "<ARCHWING> Prisma Veritux",
+        "code": "ja"
+      },
+      {
+        "description": "Rzadki, przepiękny przedmiot - ten miecz używany z Archwingiem został pokryty kryształami Prisma i ochrzczony w energii Pustki.",
+        "name": "<ARCHWING> Veritux Prisma",
+        "code": "pl"
+      },
+      {
+        "description": "Um raro objeto de beleza, esta espada Archwing foi revestida de cristal prisma e batizada na Energia do void.",
+        "name": "<ARCHWING> Veritux Prisma",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：PRISMA VERITUX）這把 Archwing 之劍包覆在棱型水晶之中且沐浴著虛空的能量，成為了稀有而美麗的存在。",
+        "name": "<ARCHWING> 棱晶 真理巨劍",
+        "code": "tc"
+      },
+      {
+        "description": "ดาบ Archwing เล่มนี้เป็นดาบหายากที่แสนงดงาม ซึ่งถูกเคลือบด้วยคริสตัลพริสมาและถูกพลังงานวอยด์ชำระล้างให้บริสุทธิ์",
+        "name": "<archwing> Prisma Veritux",
+        "code": "th"
+      },
+      {
+        "description": "Nadir bir parça, bu Archwing kılıcı prizma kristallerinden dövülerek void enerjisi ile vaftiz edildi.",
+        "name": "<ARCHWING> Prisma Veritux",
+        "code": "tr"
+      },
+      {
+        "description": "Арквінґовий меч, рідкісний представник краси. Інкрустований призмовим кристалом та оповитий енергією Порожнечі.",
+        "name": "<ARCHWING> Верітукс-призма",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rathbone-918424e099.png",
+    "name": "Rathbone",
+    "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
+    "languages": [
+      {
+        "description": "Mithilfe der Schubkraft der Archwing Jets vernichtet dieser massive Hammer alles in seinem Weg.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "de"
+      },
+      {
+        "description": "En utilisant les propulseurs de l'Archwing pour la poussée, ce Marteau énorme détruit tout sur son chemin.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "fr"
+      },
+      {
+        "description": "Usando i getti di Archwing per la spinta, questo enorme martello schiaccia qualsiasi cosa sul suo percorso.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "it"
+      },
+      {
+        "description": "이 거대한 해머는 아크윙의 제트를 추진력으로 이용하여 나아가는 앞길에 있는 모든 것을 부수어나갑니다.",
+        "name": "<ARCHWING> 래스본",
+        "code": "ko"
+      },
+      {
+        "description": "Usando la propulsión del archwing para ganar empuje, este enorme martillo aplasta todo a su paso.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "es"
+      },
+      {
+        "description": "（英文：RATHBONE）利用了曲翼的喷射推动力，这把巨大的铁锤能击碎其挥舞路径中的任何物体。",
+        "name": "<ARCHWING> 拉斯波恩",
+        "code": "zh"
+      },
+      {
+        "description": "Используя реактивную силу Арчвинга, этот массивный молот разрушает все на своём пути.",
+        "name": "<ARCHWING> Рэтбон",
+        "code": "ru"
+      },
+      {
+        "description": "アークウイングのジェット推進力を利用するこの巨大なハンマーは、待ち受けるものすべてを破壊する。",
+        "name": "<ARCHWING> Rathbone",
+        "code": "ja"
+      },
+      {
+        "description": "Używając dysze Archwingu do dźgnięcia, ten masywny młot miażdży wszystko stojące na jego drodze.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "pl"
+      },
+      {
+        "description": "Usando o impulso dos jatos da Archwing, este martelo massivo esmaga qualquer coisa em seu caminho.",
+        "name": "<ARCHWING> Rathbone",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：RATHBONE）利用了 Archwing 的噴射推動力，這把巨大的鐵鎚能擊碎其揮舞路徑中的任何物體。",
+        "name": "<ARCHWING> 拉斯波恩",
+        "code": "tc"
+      },
+      {
+        "description": "ค้อนขนาดใหญ่อันนี้ใช้พลังไอพ่นของ Archwing เป็นแรงขับเคลื่อนที่จะทำลายทุกสิ่งที่ขวางทาง",
+        "name": "<ARCHWING> Rathbone",
+        "code": "th"
+      },
+      {
+        "description": "Archwing’lerinizin jet motorlarını çalıştır, bu büyük çekiç yoluna çıkan her şeyi yok etmeye hazır!",
+        "name": "<ARCHWING> Rathbone",
+        "code": "tr"
+      },
+      {
+        "description": "Цей важкий бойовий молот завдяки реактивній тязі арквінґа здатний розтрощити все на своєму шляху.",
+        "name": "<ARCHWING> Ретбон",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veritux-a2d86d183e.png",
+    "name": "Veritux",
+    "description": "Weightless space turns this impossibly massive sword into an agile instrument of destruction.",
+    "languages": [
+      {
+        "description": "Die Schwerelosigkeit macht aus diesem unmöglich massiven Schwert ein agiles Instrument der Zerstörung.",
+        "name": "<ARCHWING> Veritux",
+        "code": "de"
+      },
+      {
+        "description": "L'apesanteur de l'espace transforme cette énorme Épée en un instrument agile et mortel.",
+        "name": "<ARCHWING> Veritux",
+        "code": "fr"
+      },
+      {
+        "description": "L'assenza di peso nello spazio rendono questa pesantissima spada altrimenti inutilizzabile un'agile strumento di distruzione.",
+        "name": "<ARCHWING> Veritux",
+        "code": "it"
+      },
+      {
+        "description": " 상식을 벗어난 질량을 가진 검이 무중력의 우주 환경으로 인해 민첩하게 파괴를 연주하는 도구로 탈바꿈하였습니다.",
+        "name": "<ARCHWING> 베리턱스",
+        "code": "ko"
+      },
+      {
+        "description": "La ingravidez del espacio convierte esta enorme espada en un ágil instrumento de destrucción.",
+        "name": "<ARCHWING> Veritux",
+        "code": "es"
+      },
+      {
+        "description": " （英文：VERITUX）零重力的太空将这把大到难以想象的巨剑变成了敏捷的毁灭工具。",
+        "name": "<ARCHWING> 真理巨剑",
+        "code": "zh"
+      },
+      {
+        "description": "Невесомость космоса превращает этот невероятно тяжелый меч в гибкий инструмент разрушений.",
+        "name": "<ARCHWING> Веритакс",
+        "code": "ru"
+      },
+      {
+        "description": "重力のない宇宙空間であるからこそ、この巨大なソードを赤子の手をひねるがごとく扱える。",
+        "name": "<ARCHWING> Veritux",
+        "code": "ja"
+      },
+      {
+        "description": "Nieważkość zamienia ten niesamowicie wielki miecz w zwinny instrument zniszczenia.",
+        "name": "<ARCHWING> Veritux",
+        "code": "pl"
+      },
+      {
+        "description": "A ausência de peso do espaço transforma esta espada massiva em um instrumento ágil de destruição.",
+        "name": "<ARCHWING> Veritux",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：VERITUX）零重力的太空將這把大到難以想像的巨劍變成了敏捷的毀滅工具。",
+        "name": "<ARCHWING> 真理巨劍",
+        "code": "tc"
+      },
+      {
+        "description": "พื้นที่ไร้น้ำหนักเปลี่ยนดาบขนาดใหญ่จนไม่น่าเชื่อนี้ให้กลายเป็นเครื่องมือทำลายล้างที่ว่องไว",
+        "name": "<ARCHWING> Veritux",
+        "code": "th"
+      },
+      {
+        "description": "Yerçekimsiz uzay bu iri yapılı ağır kılıcı hafif ve etkili bir ölüm makinesine dönüştürür.",
+        "name": "<ARCHWING> Veritux",
+        "code": "tr"
+      },
+      {
+        "description": "Космічна невагомість дозволяє перетворити цей неймовірно важкий клинок на жвавий інструмент руйнування.",
+        "name": "<ARCHWING> Верітукс",
+        "code": "uk"
+      }
+    ]
+  }
+]
