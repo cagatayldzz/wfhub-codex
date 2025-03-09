@@ -1163,7 +1163,7 @@
         "code": "tr"
       },
       {
-        "description": "Класичний орокінський посох, що привносить на поле бою елегантну лють.",
+        "description": "Класичний орокінський посох, що вносить на поле бою елегантну лють.",
         "name": "Бо-прайм",
         "code": "uk"
       }
@@ -2625,7 +2625,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma lâmina forjada usando metais negros, capaz de causar Dano <DT_RADIATION_COLOR>Radioativo inato em seus ataques.",
+        "description": "Uma lâmina forjada usando metais obscuros, capaz de causar Dano <DT_RADIATION_COLOR>Radioativo por padrão em seus ataques.",
         "name": "Espada Soturna",
         "code": "pt"
       },
@@ -3327,8 +3327,8 @@
         "code": "pl"
       },
       {
-        "description": "A Dragon Nikana é forjada de um antigo aço Tenno. Essa é uma arma de mestre, apenas os Tennos mais dignos podem empunhá-la.",
-        "name": "Dragon Nikana",
+        "description": "A Nikana Dracônica é forjada a partir de um antigo aço Tenno. Esta é uma arma de mestre; apenas os Tennos mais dignos podem empunhá-la.",
+        "name": "Nikana Dracônica",
         "code": "pt"
       },
       {
@@ -4207,6 +4207,84 @@
       {
         "description": "Парні короткі сокири, здатні вражати кількох ворогів одночасно швидкими ударами та з високою ймовірністю критичної шкоди.",
         "name": "Парні Зорени",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeZoren/PrimeZorenAxeWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-zoren-prime-e2bddd9954.png",
+    "name": "Dual Zoren Prime",
+    "description": "Axes worthy of an executioner, refined to Orokin perfection.",
+    "languages": [
+      {
+        "description": "Äxte, die eines Henkers würdig sind und bis zur Orokin Perfektion verfeinert wurden.",
+        "name": "Dual-Zoren Prime",
+        "code": "de"
+      },
+      {
+        "description": "Des haches dignes d'un bourreau, raffinées selon la perfection Orokin.",
+        "name": "Doubles Zorens Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Asce degne di un esecutore, raffinate secondo la perfezione Orokin.",
+        "name": "Dual Zoren Prime",
+        "code": "it"
+      },
+      {
+        "description": "처형인에게 어울리는 한 쌍의 도끼가 제련되어, 오로킨의 완전성을 깃들였습니다.",
+        "name": "듀얼 조런 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Hachas dignas de un verdugo, refinadas a la perfección orokin.",
+        "name": "Zoren Dobles Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DUAL ZOREN PRIME）这是两把配得上行刑者的斧头，是 Orokin 工艺登峰造极的体现。",
+        "name": "佐伦双斧 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Топоры, достойные палача, отточенные до совершенства Орокин.",
+        "name": "Парные Зорены Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "オロキンの完璧性が実現した、執行官に相応しい双斧。",
+        "name": "Dual Zoren Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Topory godne kata, dopracowane do perfekcji przez Orokinów.",
+        "name": "Zoren Podwójny Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Machados dignos de um carrasco, refinados à perfeição Orokin.",
+        "name": "Zorens Duplas Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DUAL ZOREN PRIME）與行刑者配稱的雙斧，按照 Orokin 標準至臻完美。",
+        "name": "佐倫雙斧 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ขวานที่คู่ควรกับเพชฌฆาต ที่ได้รับการขัดเกลาให้สมบูรณ์แบบตามแบบของ Orokin",
+        "name": "Dual Zoren Prime",
+        "code": "th"
+      },
+      {
+        "description": "Bir cellada layık, Orokin mükemmelliğinde işlenmiş baltalar.",
+        "name": "Dual Zoren Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Гідні сокирки для ката поліпшено до орокінського ідеалу.",
+        "name": "Парні Зорени-прайм",
         "code": "uk"
       }
     ]
@@ -7426,7 +7504,7 @@
         "code": "fr"
       },
       {
-        "description": "Agli albori dell'Impero Orokin, l'élite indossava l'Innodem come promemoria simbolico di difendere gli indifesi. La tradizione è caduta in disuso, ma l'élite nostalgica riportava alla luce questo sentimento sottoforma di regalo. Il Void amplifica questo ideale. L'energia Void rafforza gli attacchi aerei in planata dell'Innodem e chi lo impugna è progressivamente più resistente mentre vengono eseguiti attacchi esecuzione nella Forma Incarnon.",
+        "description": "Agli albori dell'Impero Orokin, l'élite indossava l'Innodem come promemoria simbolico di difendere gli indifesi. La tradizione è caduta in disuso, ma l'élite nostalgica riportava alla luce questo sentimento sotto forma di regalo. Il Void amplifica questo ideale. L'energia Void rafforza gli attacchi aerei in planata dell'Innodem e chi lo impugna è progressivamente più resistente mentre vengono eseguiti attacchi esecuzione nella Forma Incarnon.",
         "name": "Innodem",
         "code": "it"
       },
@@ -10503,7 +10581,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma relíquia da Peste Negra, a Espada Infestada Mire é uma arma brutal. Ela não apenas corta o inimigo, ela infecta os ferimentos de sua vítima com um veneno nervoso tóxico. Causa Dano <DT_POISON_COLOR>Tóxico em pancadas fortes no chão.",
+        "description": "Uma relíquia da Peste Negra, a Espada Infestada Mire é uma arma brutal. Ela não apenas corta o inimigo, mas infecta os ferimentos de sua vítima com um veneno tóxico. Causará Dano <DT_POISON_COLOR>Tóxico em Ataques ao Solo.",
         "name": "Mire",
         "code": "pt"
       },
@@ -14423,7 +14501,7 @@
         "code": "tr"
       },
       {
-        "description": "Моторизовані ручні пилки на кастетах.",
+        "description": "Моторизовані наручні пилкокігті.",
         "name": "Рвачі",
         "code": "uk"
       }
@@ -15261,7 +15339,7 @@
         "code": "pl"
       },
       {
-        "description": "O Chicote Scoliac é um tumor parasitário desagradável de ossos e tendão que pode causar Dano <DT_POISON_COLOR>Tóxico que leva a parada cardíaca com seus ataques.",
+        "description": "O Chicote Scoliac é um tumor parasitário desagradável de ossos e tendão, que causará Dano <DT_POISON_COLOR>Tóxico extremamente letal.",
         "name": "Scoliac",
         "code": "pt"
       },
@@ -18537,7 +18615,7 @@
         "code": "pl"
       },
       {
-        "description": "Justiça cega. Bloqueie ataques para carregar um Radial Blind, quando totalmente carregado pressione o botão de Bloqueio+Ataque Pesado para liberar seu efeito.",
+        "description": "A justiça é cega. Bloquear ataques carregará uma ofuscação em área. Em carga total, pressione o botão de Bloqueio + Ataque Pesado para liberar seu efeito.",
         "name": "Sydon Vaykor",
         "code": "pt"
       },
@@ -18713,7 +18791,7 @@
         "code": "tr"
       },
       {
-        "description": "Металеві кігті для тенно. Реалізують потенціал нового рукопашного стилю й перетворюють кулаки на січкарні, щоби нарізати ворогів на криваві шматки або купу брухту.",
+        "description": "Металеві кігті для тенно. Реалізують потенціал нового рукопашного стилю й перетворюють руки на січкарні, щоби нарізати ворогів на криваві шматки або купу брухту.",
         "name": "Венка",
         "code": "uk"
       }

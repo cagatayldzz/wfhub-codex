@@ -1,5 +1,83 @@
 [
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/35mm-film-7cb8212ec3.png",
+    "name": "35mm Film",
+    "description": "For the documentarian who sees the world through a unique lens, extra film is always a win. Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Für den Dokumentaristen, der die Welt durch eine einzigartige Linse betrachtet, ist zusätzlicher Film immer ein Gewinn. Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "35 mm Filmrolle",
+        "code": "de"
+      },
+      {
+        "description": "Pour le documentariste qui voit le monde à travers un objectif unique, un film supplémentaire est toujours une victoire. Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Film 35 mm",
+        "code": "fr"
+      },
+      {
+        "description": "Per il documentarista che vede il mondo attraverso una lente unica, una pellicola extra è sempre una vittoria. Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con L'Hex.Posizione: 1999 (Höllvania)",
+        "name": "Pellicola da 35mm",
+        "code": "it"
+      },
+      {
+        "description": "독특한 렌즈를 통해 세상을 보는 다큐멘터리 작가에게, 여분의 필름은 항상 있을수록 좋죠. 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "35mm 필름",
+        "code": "ko"
+      },
+      {
+        "description": "Para el documentalista que ve el mundo a través de una lente única, una película adicional siempre es una ganancia. Intercambia este tesoro del Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Película de 35 mm",
+        "code": "es"
+      },
+      {
+        "description": "对于对世界有独特视角的纪录片制作人来说，影片越多越好。用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "35 毫米胶片",
+        "code": "zh"
+      },
+      {
+        "description": "Для документалиста, который видит мир через уникальную линзу, дополнительная плёнка — всегда удача. Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "35-мм плёнка",
+        "code": "ru"
+      },
+      {
+        "description": "独特な眼を通して世界を見るドキュメンタリー作家にとって、フィルムはいくらあっても足りません。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "35㎜ フィルム",
+        "code": "ja"
+      },
+      {
+        "description": "Dla zagorzałego obserwatora, który patrzy na świat w niepowtarzalny sposób, kolejna rolka taśmy filmowej jest niezastąpiona. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Taśma filmowa 35 mm",
+        "code": "pl"
+      },
+      {
+        "description": "Para quem enxerga o mundo por trás de uma lente, ter filme extra é sempre bom. Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Filme de 35mm",
+        "code": "pt"
+      },
+      {
+        "description": "致那些透過獨特鏡頭來看世界的紀工，額外的膠卷總是不嫌多。與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "35㎜ 膠卷",
+        "code": "tc"
+      },
+      {
+        "description": "สำหรับนักทำสารคดีที่มองโลกผ่านเลนส์ที่ไม่เหมือนใคร การได้ชมภาพยนตร์พิเศษถือเป็นเรื่องดีเสมอ แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "ฟิล์ม 35 มม.",
+        "code": "th"
+      },
+      {
+        "description": "Dünyayı benzersiz bir mercekten gören belgeselciler için ekstra film her zaman bir kazançtır. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "35mm Film",
+        "code": "tr"
+      },
+      {
+        "description": "Для документалістів, які бачать світ крізь унікальні лінзи, додаткова плівка завжди стане в пригоді. Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "35-мм плівка",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/adramal-alloy-8b552026ef.png",
     "name": "Adramal Alloy",
@@ -207,7 +285,7 @@
         "code": "pl"
       },
       {
-        "description": "Eventualmente, o trabalhador precisa de uma ajuda, então, consegue um financiamento. Contudo, as taxas de juros abusivas fazem com que praticamente passe a vida toda pagando esta dívida.Localização: Contratos de Recompensa no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+        "description": "Eventualmente, o trabalhador precisa de uma ajuda, então, consegue um financiamento. Contudo, as taxas de juros abusivas fazem com que praticamente passe a vida toda pagando esta dívida.Localização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
         "name": "TÍTULO-DÍVIDA: EMPRESTIMO",
         "code": "pt"
       },
@@ -463,6 +541,84 @@
       {
         "description": "Необхідний для визначення місця виробництва амбулас.Випадає з амбулас.",
         "name": "Радіомаяк «Анімо»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/argon-burger-meal-a893f54e2c.png",
+    "name": "Argon Burger Meal",
+    "description": "Burgers so tasty they always disappear!Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Burger, die so lecker sind, dass sie immer verschwinden!Fundort: 1999 (Höllvania)",
+        "name": "Argon-Burger-Mahlzeit",
+        "code": "de"
+      },
+      {
+        "description": "Des hamburgers si savoureux qu'ils disparaissent tout le temps!Lieu : 1999 (Höllvanie)",
+        "name": "Burger à l'Argon",
+        "code": "fr"
+      },
+      {
+        "description": "Hamburger così gustosi che spariscono sempre!Posizione: 1999 (Höllvania)",
+        "name": "Menù Hamburger Argon",
+        "code": "it"
+      },
+      {
+        "description": "버거란 먹거리는 너무 맛난 나머지 항상 빨리 사라지기 마련이죠!획득 가능 장소: 1999 (홀바니아)",
+        "name": "아르곤 버거 세트",
+        "code": "ko"
+      },
+      {
+        "description": "¡Hamburguesas tan ricas que siempre desaparecen!Ubicación: 1999 (Höllvania)",
+        "name": "Combo de hamburguesa al argón",
+        "code": "es"
+      },
+      {
+        "description": "汉堡美味可口，总是一扫而光！获取地点：霍瓦尼亚（1999 年）",
+        "name": "氩汉堡套餐",
+        "code": "zh"
+      },
+      {
+        "description": "Бургеры такие вкусные, что они всегда исчезают!Местонахождение: 1999 (Хёльвания)",
+        "name": "Аргоновый бургер",
+        "code": "ru"
+      },
+      {
+        "description": "美味しいハンバーガーはすぐ消えてしまう！場所：1999（ホルバニア）",
+        "name": "アルゴンバーガーセット",
+        "code": "ja"
+      },
+      {
+        "description": "Burgery są tak pyszne, że zawsze znikają!Lokalizacja: 1999 (Höllvania)",
+        "name": "Posiłek Argon Burger",
+        "code": "pl"
+      },
+      {
+        "description": "Hambúrgueres tão saborosos que sempre desaparecem do nada!Localização: 1999 (Holvânia).",
+        "name": "Hambúrguer do Aragônio",
+        "code": "pt"
+      },
+      {
+        "description": "漢堡超美味，總是從缺！地點：霍爾瓦尼亞（1999 年）",
+        "name": "氬晶漢堡套餐",
+        "code": "tc"
+      },
+      {
+        "description": "เบอร์เกอร์แสนอร่อยที่มักจะหายไปเสมอ!แหล่งที่พบ: 1999 (Höllvania)",
+        "name": "เบอร์เกอร์อาร์กอน",
+        "code": "th"
+      },
+      {
+        "description": "Hamburgerler o kadar lezzetli ki hemen ortadan kayboluyorlar!Konum: 1999 (Höllvania)",
+        "name": "Argon Hamburger Yemeği",
+        "code": "tr"
+      },
+      {
+        "description": "Бургери такі смачні, що завжди зникають!Можна здобути в 1999 році (Голвенія).",
+        "name": "Аргоновий бургер",
         "code": "uk"
       }
     ]
@@ -1065,7 +1221,7 @@
         "code": "pl"
       },
       {
-        "description": "Um elemento maleável, gerado nas veias proteicas internas da Infestação.Localização: em Lesões de Mineração Amarelas, nos Cistos Infestados Rolizor e nas Câmaras Extras dos Contratos de Recompensa das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+        "description": "Um elemento maleável, gerado nas veias proteicas internas da Infestação.Localização: em Lesões de Mineração Amarelas, nos Cistos Infestados Rolizor e nas Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
         "name": "Bafolite",
         "code": "pt"
       },
@@ -1165,6 +1321,84 @@
       {
         "description": "Найглибший стогін мовою Порожнечі, вкарбований у камінь. Малоймовірний ресурс у будівництві суден Альбрехта.Можна здобути в лабораторії Альбрехта на Деймосі.",
         "name": "Вока беллов",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/big-bytes-pizza-32de39e6bf.png",
+    "name": "Big Bytes Pizza",
+    "description": "Who doesn't like pizza? Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Wer mag schon keine Pizza? Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "Big Bytes Pizza",
+        "code": "de"
+      },
+      {
+        "description": "Qui n'aime pas la pizza? Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Big Bytes Pizza",
+        "code": "fr"
+      },
+      {
+        "description": "A chi non piace la pizza? Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con gli Hex.Posizione: 1999 (Höllvania)",
+        "name": "Pizza Big Bytes",
+        "code": "it"
+      },
+      {
+        "description": "피자를 싫어하는 사람이 어디 있어요? 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "빅 바이트 피자",
+        "code": "ko"
+      },
+      {
+        "description": "¿A quién no le gusta la pizza? Intercambia este tesoro Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Pizza Big Bytes",
+        "code": "es"
+      },
+      {
+        "description": "谁不喜欢披萨？用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "超级比特披萨",
+        "code": "zh"
+      },
+      {
+        "description": "Кто не любит пиццу?Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "Пицца «Биг байтс»",
+        "code": "ru"
+      },
+      {
+        "description": "ピザが嫌いな人なんていますか？　このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "Big Bytes Pizza",
+        "code": "ja"
+      },
+      {
+        "description": "Kto nie lubi pizzy? Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Big Bytes Pizza",
+        "code": "pl"
+      },
+      {
+        "description": "Afinal, quem não gosta de pizza? Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Pizza da Big Bytes",
+        "code": "pt"
+      },
+      {
+        "description": "誰不喜歡披薩？與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "巨無派披薩",
+        "code": "tc"
+      },
+      {
+        "description": "ใครบ้างที่ไม่ชอบพิซซ่า? แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "Big Bytes Pizza",
+        "code": "th"
+      },
+      {
+        "description": "Pizzayı kim sevmez ki? Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "Big Bytes Pizza",
+        "code": "tr"
+      },
+      {
+        "description": "Хто ж не любить піцу? Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Піца «Великий Кусь»",
         "code": "uk"
       }
     ]
@@ -2023,6 +2257,162 @@
       {
         "description": "Ці кам’яні життєві форми здебільшого з’являються вночі й притягуються до берегів, якими пройшов ейдолон. Їх можна побачити довкола озер на Рівнині Ейдолонів. Походження невідоме.Можна здобути на Рівнинах Ейдолонів (Земля).",
         "name": "Вогник Цетусу",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cheddar-crowns-cereal-849b33b9bd.png",
+    "name": "Cheddar Crowns Cereal",
+    "description": "A nostalgic treat for the ultimate ‘90s kid! Remember those commercials with the cheerful mouse quartet? Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Ein nostalgischer Leckerbissen für das ultimative Kind der 90er! Erinnerst du dich an die Werbesendungen mit dem fröhlichen Mäusequartett? Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "Käsekronen-Cornflakes",
+        "code": "de"
+      },
+      {
+        "description": "Un cadeau nostalgique par excellence pour tout enfant des années 90! Vous vous souvenez de ces publicités avec le joyeux quatuor de souris? Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Céréales Cheddar Crowns",
+        "code": "fr"
+      },
+      {
+        "description": "Una delizia nostalgica per eccellenza per il bambino degli anni '90! Ti ricordi quelle pubblicità con l'allegro quartetto di topi? Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con L'Hex.Posizione: 1999 (Höllvania)",
+        "name": "Cereali Cheddar Crowns",
+        "code": "it"
+      },
+      {
+        "description": "궁극의 90년대생들을 위한 그리운 선물입니다! 명랑한 생쥐 4총사가 나오는 그 광고를 기억하세요? 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "체다 크라운 시리얼",
+        "code": "ko"
+      },
+      {
+        "description": "¡Un regalo nostálgico para el niño de los 90 por excelencia! ¿Recuerdas esos comerciales con el alegre cuarteto de ratones? Intercambia este tesoro del Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Cereal Cheddar Crowns",
+        "code": "es"
+      },
+      {
+        "description": "这是送给 90 年代孩子的怀旧礼物！还记得那些有欢快的老鼠四重奏的广告吗？用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "切达芝士皇冠麦片",
+        "code": "zh"
+      },
+      {
+        "description": "Помните те рекламные ролики с весёлым мышиным квартетом? Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "Хлопья «Сырные короны»",
+        "code": "ru"
+      },
+      {
+        "description": "90年代っ子に懐かしいお菓子！　陽気なネズミのカルテットが歌うCMを誰もが覚えています。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "チェダークラウンシリアル",
+        "code": "ja"
+      },
+      {
+        "description": "Nostalgiczna przekąska każdego dziecka lat 90.! To idealny prezent dla każdego, kto pamięta reklamy z radosnym kwartetem myszy. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Płatki Cheddar Crowns",
+        "code": "pl"
+      },
+      {
+        "description": "Um presente nostálgico para as crianças dos anos 90! Lembra daqueles comerciais com os ratinhos? Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Cereal Matinal de Requeijão",
+        "code": "pt"
+      },
+      {
+        "description": "90 年代健康小孩的懷舊點心！還記得那個有四隻歡樂小老鼠的廣告嗎？與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "切達起司冠穀物",
+        "code": "tc"
+      },
+      {
+        "description": "ไอเทมที่ชวนให้ระลึกถึงความหลังสำหรับเด็กยุค 90 จำโฆษณาที่มีหนูสี่ตัวร่าเริงเหล่านี้ได้ไหม แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "ซีเรียล Cheddar Crowns",
+        "code": "th"
+      },
+      {
+        "description": "90'ların en iyi çocuğu için nostaljik bir hediye! Neşeli fare dörtlüsünün olduğu o reklamları hatırlıyor musunuz? Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "Cheddar Crowns Mısır Gevreği",
+        "code": "tr"
+      },
+      {
+        "description": "Ностальгічний смаколик для дітлахів 90-х! Пам’ятаєте ті реклами з веселим мишачим квартетом? Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Сніданок «Сирні корони»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chuggin'-along-sixpack-32b2a216aa.png",
+    "name": "Chuggin' Along Sixpack",
+    "description": "A set of liquid comfort perfect for anyone who deserves a moment to unwind. Ideal for someone carrying the weight of the world on their shoulders. Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Ein Satz flüssigen Trostes, perfekt für alle, die einen Moment zum Entspannen verdienen. Ideal für jemanden, der die Last der Welt auf seinen Schultern trägt. Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "Zockel-Sechserpack",
+        "code": "de"
+      },
+      {
+        "description": "Un coffret de réconfort liquide parfait pour tous ceux qui méritent un moment de détente. Le cadeau idéal pour celui qui porte le poids du monde sur ses épaules. Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Pack de six bières Jupilos",
+        "code": "fr"
+      },
+      {
+        "description": "Un set di comfort liquido perfetto per chiunque meriti un momento per rilassarsi. Ideale per chi porta il peso del mondo sulle spalle. Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con L'Hex.Posizione: 1999 (Höllvania)",
+        "name": "Confezione da Sei Birre Chuggin' Along",
+        "code": "it"
+      },
+      {
+        "description": "잠깐의 휴식이 필요한 사람에게 누구나 완벽한 위안이 되어줄 음료 세트입니다. 온 세상의 무게를 어깨에 짊어진 사람에게 이상적인 선물이죠. 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요. 획득 가능 장소: 1999 (홀바니아)",
+        "name": "느린 넘김 맥주 식스팩",
+        "code": "ko"
+      },
+      {
+        "description": "Una caja de confort líquido, perfecta para cualquiera que se merezca un momento de relajación. Ideal para alguien que lleva el peso del mundo sobre sus hombros. Intercambia este tesoro del Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Un six para disfrutar",
+        "code": "es"
+      },
+      {
+        "description": "一套液体放松饮品，非常适合那些肩负世界重担、需要片刻喘息的人。用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "酌趣六瓶装啤酒",
+        "code": "zh"
+      },
+      {
+        "description": "Набор жидкого комфорта, идеальный для тех, кто заслужил момент покоя. Идеально подходит для тех, кто несёт на себе груз всего мира. Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "Шестёрка банок",
+        "code": "ru"
+      },
+      {
+        "description": "リラックスする時間が必要な方にピッタリのお酒セット。世界の重荷を背負っている人へ一時の安楽を。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "チャギン・アロング - 6本入り",
+        "code": "ja"
+      },
+      {
+        "description": "Paczka płynnego szczęścia jest idealnym prezentem dla każdego, kto potrzebuje chwili relaksu. Idealny prezent dla osoby, na której barkach spoczywa cały świat. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Dobrze Jest: Sześciopak",
+        "code": "pl"
+      },
+      {
+        "description": "Conforto líquido puro, perfeito para qualquer um que precisa de um momento para relaxar. Ideal para alguém que carrega o mundo nas costas. Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Cerveja Ártica",
+        "code": "pt"
+      },
+      {
+        "description": "一套六瓶裝的舒心液體，對那些需要片刻放鬆的人最適合不過了。送給那些肩負世界重擔的人會是最理想的禮物。與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "一口乾了",
+        "code": "tc"
+      },
+      {
+        "description": "ชุดเครื่องดื่มที่เหมาะสำหรับผู้ที่ต้องการผ่อนคลายสักครู่ เหมาะสำหรับคนที่แบกภาระของโลกทั้งใบไว้บนบ่า แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่มา: 1999 (Höllvania)",
+        "name": "ดื่ม 6 แพ็กไปชิล ๆ",
+        "code": "th"
+      },
+      {
+        "description": "Rahatlamak ve kendine ayırmak istediğin o özel an için mükemmel bir konfor seti. Dünyanın yükünü omuzlarında taşıyan biri için ideal. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "Altılı Paket İçecek",
+        "code": "tr"
+      },
+      {
+        "description": "Упаковка з рідиною, що підійде для будь-кого з потребою розвіятися. Ідеально для тих, хто тримає всю вагу світу на своїх плечах. Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Пайка напоїв",
         "code": "uk"
       }
     ]
@@ -3405,7 +3795,7 @@
         "code": "pl"
       },
       {
-        "description": "Arroios de fluido exócrino, endurecidos ao longo de séculos.Localização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos de Recompensa das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+        "description": "Arroios de fluido exócrino, endurecidos ao longo de séculos.Localização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
         "name": "Dagônica",
         "code": "pt"
       },
@@ -3873,7 +4263,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma estrutura danificada, que poderá ser utilizada na construção da arma de um Necramech.Localização: em Contratos de Recompensa das Câmaras de Isolamento (Comum e Arcana), na Deriva de Cambion, ou junto ao Loid, no Necralisk, ambos em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
+        "description": "Uma estrutura danificada, que poderá ser utilizada na construção da arma de um Necramech.Localização: em Contratos das Câmaras de Isolamento (Comum e Arcana), na Deriva de Cambion, ou junto ao Loid, no Necralisk, ambos em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
         "name": "Necramech: Receptor de Arma Danificado",
         "code": "pt"
       },
@@ -3951,7 +4341,7 @@
         "code": "pl"
       },
       {
-        "description": "A parte traseira danificada de uma grande arma de um Necramech.Localização: em Contratos de Recompensa das Câmaras de Isolamento (Comum e Arcana), na Deriva de Cambion, ou junto ao Loid, no Necralisk, ambos em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
+        "description": "A parte traseira danificada de uma grande arma de um Necramech.Localização: em Contratos das Câmaras de Isolamento (Comum e Arcana), na Deriva de Cambion, ou junto ao Loid, no Necralisk, ambos em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
         "name": "Necramech: Coronha de Arma Danificada",
         "code": "pt"
       },
@@ -4675,6 +5065,84 @@
       {
         "description": "Дувірці розтирають листя івані в пасту, яка втамовує неприємні відчуття від свіжих поранень.Можна здобути в Дувірі.",
         "name": "Івані",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/efervon-sample-fcaab6b303.png",
+    "name": "Efervon Sample",
+    "description": "A sample of the corrosive substance that Scaldra use to purge Techrot. Handle with care.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Eine Probe der ätzenden Substanz, welche die Scaldra verwenden, um Techrot zu reinigen. Mit Vorsicht handhaben.Fundort: 1999 (Höllvania)",
+        "name": "Efervon-Probe",
+        "code": "de"
+      },
+      {
+        "description": "Fluide corrosif concentré, utilisé par la Scaldra pour éliminer le Techrot. Utiliser avec prudence.Lieu: 1999 (Höllvanie)",
+        "name": "Échantillon d'Efervon",
+        "code": "fr"
+      },
+      {
+        "description": "Un campione della sostanza corrosiva utilizzata dagli Scaldra per purificare il Techrot. Maneggiare con cura.Posizione: 1999 (Höllvania)",
+        "name": "Campione di Efervon",
+        "code": "it"
+      },
+      {
+        "description": "스칼드라가 테크병을 정화할 때 사용하는 부식성 물질의 샘플입니다. 취급 시 주의하세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "에퍼본 샘플",
+        "code": "ko"
+      },
+      {
+        "description": "Una muestra de la sustancia corrosiva que la Scaldra usa para purgar el Techrot. Manipular con cuidado.Ubicación: 1999 (Höllvania)",
+        "name": "Muestra de Efervon",
+        "code": "es"
+      },
+      {
+        "description": "炽蛇军用来净化科腐者的腐蚀性物质样本。需小心处理。获取地点：霍瓦尼亚（1999 年）",
+        "name": "艾弗旺样本",
+        "code": "zh"
+      },
+      {
+        "description": "Образец коррозийного вещества, которое Скальдра использует для очищения Техрота. Обращаться с осторожностью.Местонахождение: 1999 (Хёльвания)",
+        "name": "Образец Эфервона",
+        "code": "ru"
+      },
+      {
+        "description": "スカルドラがテックロットを浄化するために使う腐食性物質のサンプル。取り扱い注意。場所：1999（ホルバニア）",
+        "name": "エフェルボン サンプル",
+        "code": "ja"
+      },
+      {
+        "description": "Próbka żrącej substancji używanej przez Scaldra do wytępienia Techrotu. Zachowaj ostrożność.Położenie: 1999 (Höllvania)",
+        "name": "Próbka Eferwonu",
+        "code": "pl"
+      },
+      {
+        "description": "Uma amostra da substância corrosiva que a Scaldra utiliza para eliminar o Tecnovírus. Manuseie com cuidado.Localização: 1999 (Holvânia).",
+        "name": "Amostra de Efervão",
+        "code": "pt"
+      },
+      {
+        "description": "清剿隊用於淨化科腐者的腐蝕性物質樣本。小心輕放。地點：霍爾瓦尼亞（1999 年）",
+        "name": "惡沸患樣本",
+        "code": "tc"
+      },
+      {
+        "description": "ตัวอย่างสารกัดกร่อนที่ Scaldra ใช้ในการขับไล่ Techrot โปรดจัดการด้วยความระมัดระวังแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "ตัวอย่าง Efervon",
+        "code": "th"
+      },
+      {
+        "description": "Scaldra'nın Techrot'u temizlemek için kullandığı aşındırıcı maddenin bir örneği. Dikkatli kullan.Konum: 1999 (Höllvania)",
+        "name": "Efervon Örneği",
+        "code": "tr"
+      },
+      {
+        "description": "Зразок їдкої речовини, яка використовується «Скальдрою» для винищення техногнилі. Поводьтеся обережно.Можна здобути в 1999 році (Голвенія).",
+        "name": "Зразок ефервону",
         "code": "uk"
       }
     ]
@@ -5460,6 +5928,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/experimental-arc-relay-1bc84db2c8.png",
+    "name": "Experimental Arc-Relay",
+    "description": "Höllvanian ingenuity knows no bounds, and this unregulated marvel is proof! A cutting-edge device brimming with untamed innovation.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Der höllvanische Einfallsreichtum kennt keine Grenzen und dieses unregulierte Wunder ist der Beweis! Ein hochmodernes Gerät voller ungezähmter Innovation.Fundort: 1999 (Höllvania)",
+        "name": "Experimentelles Lichtbogen-Relais",
+        "code": "de"
+      },
+      {
+        "description": "L'ingéniosité des habitants de Höllvanie ne connaît pas de limites, et cette merveille non réglementée en est la preuve! Un appareil de pointe débordant d'innovations sauvages.Lieu: 1999 (Höllvanie)",
+        "name": "Segment de Relais Expérimental",
+        "code": "fr"
+      },
+      {
+        "description": "L'ingegno di Höllvania non conosce limiti, e questa meraviglia non regolamentata ne è la prova! Un dispositivo all'avanguardia che trabocca di innovazione selvaggia.Posizione: 1999 (Höllvania)",
+        "name": "Arc-Relay Sperimentale",
+        "code": "it"
+      },
+      {
+        "description": "홀바니아의 독창성은 그 끝을 모르지요. 그리고 이 규제되지 않은 경이야말로 그 증거입니다! 길들여지지 않은 혁신으로 가득 찬 최첨단 장치입니다.획득 가능 장소: 1999 (홀바니아)",
+        "name": "실험용 아크-릴레이",
+        "code": "ko"
+      },
+      {
+        "description": "El ingenio de Höllvania no tiene límites, y esta maravilla sin regulación es prueba de ello. Un dispositivo de vanguardia rebosante de innovación desenfrenada.Ubicación: 1999 (Höllvania)",
+        "name": "Arco-Repetidor experimental",
+        "code": "es"
+      },
+      {
+        "description": "霍瓦尼亚人的创造力是无穷的，这个不受管制的奇迹就是证明！一款充满狂野创新的尖端设备。获取地点：霍瓦尼亚（1999 年）",
+        "name": "实验性电弧继电器",
+        "code": "zh"
+      },
+      {
+        "description": "Изобретательность жителей Хёльвании не знает границ, и это нерегулируемое чудо — тому доказательство! Передовое устройство, переполненное необузданными инновациями.Местонахождение: 1999 (Хёльвания)",
+        "name": "Экспериментальное арк-реле",
+        "code": "ru"
+      },
+      {
+        "description": "ホルバニア人の創意工夫には限りがない。この未規制驚異がその証拠である。制御されていない革新に満ちた最先端のデバイス。場所：1999（ホルバニア）",
+        "name": "実験用アークリレー",
+        "code": "ja"
+      },
+      {
+        "description": "Höllvańska pomysłowość nie zna granic, a ten nieuregulowany cud jest tego dowodem! To urządzenie aż kipi potencjałem.Położenie: 1999 (Höllvania)",
+        "name": "Eksperymentalny Przekaźnik",
+        "code": "pl"
+      },
+      {
+        "description": "A engenhosidade da cidade de Holvânia não tem limites, e esta maravilha não-regulamentada é a prova disso! Um dispositivo de última geração, repleto de inovações incríveis.Localização: 1999 (Holvânia).",
+        "name": "Arco-Relé Experimental",
+        "code": "pt"
+      },
+      {
+        "description": "霍爾瓦尼亞獨創能力無可限量 ，而這個未受管制的奇蹟就是最佳證明！一款充滿無限創新的尖端裝置。地點：霍爾瓦尼亞（1999 年）",
+        "name": "實驗性弧電驛",
+        "code": "tc"
+      },
+      {
+        "description": "ความฉลาดของ Höllvanian ไม่มีขอบเขต และสิ่งมหัศจรรย์ที่ไร้การควบคุมนี้คือเครื่องพิสูจน์ นี่คืออุปกรณ์ล้ำสมัยที่เต็มไปด้วยนวัตกรรมที่ไม่เคยถูกควบคุมแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "อาร์กรีเลย์ในการทดลอง",
+        "code": "th"
+      },
+      {
+        "description": "Höllvania yaratıcılığının sınırı yoktur ve bu ürün bunun kanıtıdır! Çılgın yeniliklerle dolu, son teknoloji bir cihaz.Konum: 1999 (Höllvania)",
+        "name": "Deneysel Arc-Relay",
+        "code": "tr"
+      },
+      {
+        "description": "Винахідливості голвенійців не існує меж, і це вчергове підтверджено неконтрольованим дивом! Новітній пристрій, ущент наповнений передовими інноваціями.Можна здобути в 1999 році (Голвенія).",
+        "name": "Експериментальне арк-реле",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenE",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/familial-debt-bond-f53f9a836c.png",
     "name": "Familial Debt-Bond",
@@ -5511,7 +6057,7 @@
         "code": "pl"
       },
       {
-        "description": "Dívidas que não pagas por uma geração são automaticamente repassadas para a próxima. Trabalhar para pagá-las é visto como algo para se orgulhar. Afinal, que escolhas têm?Localização: Contratos de Recompensa no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+        "description": "Dívidas que não pagas por uma geração são automaticamente repassadas para a próxima. Trabalhar para pagá-las é visto como algo para se orgulhar. Afinal, que escolhas têm?Localização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
         "name": "TÍTULO-DÍVIDA: FAMÍLIA",
         "code": "pt"
       },
@@ -7332,6 +7878,162 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hexsyndicatedogtag-5aaf4022c4.png",
+    "name": "Hexsyndicatedogtag",
+    "description": "",
+    "languages": [
+      {
+        "description": "",
+        "name": "",
+        "code": "de"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "fr"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "it"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "ko"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "es"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "zh"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "ru"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "ja"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "pl"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "pt"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "tc"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "th"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "tr"
+      },
+      {
+        "description": "",
+        "name": "",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/höllvanian-pitchweave-fragment-4ba496b3bd.png",
+    "name": "HöLlvanian Pitchweave Fragment",
+    "description": "An Efervon-resistant material used to craft Scaldra uniforms.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Ein Efervon-resistentes Material, das zur Herstellung von Scaldra Uniformen verwendet wird.Fundort: 1999 (Höllvania)",
+        "name": "Höllvanisches Pechgewebe-Fragment",
+        "code": "de"
+      },
+      {
+        "description": "Un matériau résistant à l'Efervon utilisé pour fabriquer les uniformes Scaldra.Lieu: 1999 (Höllvanie)",
+        "name": "Bâche Höllvanienne",
+        "code": "fr"
+      },
+      {
+        "description": "Un materiale resistente all'Efervon usato per creare le uniformi Scaldra.Posizione: 1999 (Höllvania)",
+        "name": "Frammento Pitchweave Höllvaniano",
+        "code": "it"
+      },
+      {
+        "description": "스칼드라 제복을 제작할 때 사용되는 에퍼본 저항성 소재입니다.획득 가능 장소: 1999 (홀바니아)",
+        "name": "홀바니안 피치웨이브 조각",
+        "code": "ko"
+      },
+      {
+        "description": "Un material resistente al Efervon usado para fabricar uniformes Scaldra.Ubicación: 1999 (Höllvania)",
+        "name": "Fragmento de lona de Höllvania",
+        "code": "es"
+      },
+      {
+        "description": "一种耐艾弗旺的材料，用于制作炽蛇军制服。获取地点：霍瓦尼亚（1999 年）",
+        "name": "霍瓦尼亚沥青布碎片",
+        "code": "zh"
+      },
+      {
+        "description": "Материал, устойчивый к Эфервону, используемый для создания униформы Скальдры.Местонахождение: 1999 (Хёльвания)",
+        "name": "Брезент из Хёльвании",
+        "code": "ru"
+      },
+      {
+        "description": "スカルドラの制服に使われる、エフェルボンに耐性のある素材。場所：1999（ホルバニア）",
+        "name": "ホルバニア ピッチウィーブ フラグメント",
+        "code": "ja"
+      },
+      {
+        "description": "Odporny na Eferwon materiał wykorzystywany do tworzenia uniformów Scaldry.Położenie: 1999 (Höllvania)",
+        "name": "Bela materiału Höllvanii",
+        "code": "pl"
+      },
+      {
+        "description": "Um material resistente ao Efervão, utilizado na fabricação dos uniformes da Scaldra.Localização: 1999 (Holvânia).",
+        "name": "Pedaço de Lona de Holvânia",
+        "code": "pt"
+      },
+      {
+        "description": "對惡沸患有抵抗能力的材料，用於製作清剿隊制服。地點：霍爾瓦尼亞（1999 年）",
+        "name": "霍爾瓦尼亞紕織碎片",
+        "code": "tc"
+      },
+      {
+        "description": "วัสดุที่ทนทานต่อ Efervon ที่ใช้ในการสร้างเครื่องแบบ Scaldraแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "ชิ้นส่วนของ Höllvanian Pitchweave",
+        "code": "th"
+      },
+      {
+        "description": "Scaldra üniformalarını üretmek için kullanılan ve Efervon'a dayanıklı bir malzeme.Konum: 1999 (Höllvania)",
+        "name": "Höllvanian Pitchweave Parçası",
+        "code": "tr"
+      },
+      {
+        "description": "Матерія, стійка до впливу ефервону. Використовується для виготовлення форми «Скальдри».Можна здобути в 1999 році (Голвенія).",
+        "name": "Голвенійський спальник",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/intact-sentient-core-a57cc563b9.png",
     "name": "Intact Sentient Core",
@@ -8709,7 +9411,7 @@
         "code": "pl"
       },
       {
-        "description": "Para conseguir trabalho, é necessário ter modificações. Então, é preciso mais trabalho para pagar pelas modificações, para assim obter ainda mais modificações. Um ciclo sem fim.Localização: Contratos de Recompensa no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+        "description": "Para conseguir trabalho, é necessário ter modificações. Então, é preciso mais trabalho para pagar pelas modificações, para assim obter ainda mais modificações. Um ciclo sem fim.Localização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
         "name": "TÍTULO-DÍVIDA: VIDA",
         "code": "pt"
       },
@@ -8731,6 +9433,84 @@
       {
         "description": "Щоби працювати, потрібно вдосконалюватися модифікаціями. Тоді можна працювати більше й заробити на ліпші модифікації. Щоби працювати більше й заробити ще ліпші модифікації.Можна здобути за контракти в Долині Куль (Венера) або придбати у Тікер у Фортуні (Венера).",
         "name": "БОРГОВЕ ЗОБОВ’ЯЗАННЯ НА МЕДИЦИНУ",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mood-crystal-8af3037b4a.png",
+    "name": "Mood Crystal",
+    "description": "Sleek, stylish, and soothing, mood crystals are the perfect gift for anyone in need of a little calm. Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Glatt, stilvoll und beruhigend: Stimmungskristalle sind das perfekte Geschenk für alle, die ein wenig Ruhe brauchen. Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "Stimmungskristall",
+        "code": "de"
+      },
+      {
+        "description": "Élégants, stylés et apaisants, les cristaux d'humeur sont le cadeau idéal pour toute personne ayant besoin d'un peu de calme. Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Cristal d'Humeur",
+        "code": "fr"
+      },
+      {
+        "description": "Eleganti, alla moda e rilassanti, i cristalli dell'umore sono il regalo perfetto per chiunque abbia bisogno di un po' di calma. Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con L'Hex.Posizione: 1999 (Höllvania)",
+        "name": "Cristallo dell'Umore",
+        "code": "it"
+      },
+      {
+        "description": "매끈하고 스타일리시하며, 마음을 안정시켜 주는 무드 크리스탈은 조금이나마 안정감이 필요한 사람에게 완벽한 선물입니다. 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "무드 크리스탈",
+        "code": "ko"
+      },
+      {
+        "description": "Elegantes, modernos y relajantes, los cristales de humor son el regalo perfecto para cualquier persona que necesite un poco de calma. Intercambia este tesoro del Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Cristal de humor",
+        "code": "es"
+      },
+      {
+        "description": "心情水晶造型时尚、美观且令人放松，是送给需要冷静一点的人的完美礼物。用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "心情水晶",
+        "code": "zh"
+      },
+      {
+        "description": "Элегантные, стильные и успокаивающие, кристаллы настроения — идеальный подарок для тех, кому нужно немного спокойствия. Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "Кристалл Настроения",
+        "code": "ru"
+      },
+      {
+        "description": "なめらかでスタイリッシュ、そして心を落ち着かせるムードクリスタルは、平穏を求めている人へのプレゼントに最適です。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "ムードクリスタル",
+        "code": "ja"
+      },
+      {
+        "description": "Eleganckie, stylowe i kojące formy kryształów to idealny prezent dla osoby, która poszukuje wewnętrznego spokoju. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Kryształ Nastroju",
+        "code": "pl"
+      },
+      {
+        "description": "Elegantes, estilosos e relaxantes. Os cristais do humor são o presente perfeito para quem precisa se acalmar. Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Cristal do Humor",
+        "code": "pt"
+      },
+      {
+        "description": "優美、時髦、和療癒。心靈水晶送給內心需要平靜的人會是最完美的禮物。與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "心靈水晶",
+        "code": "tc"
+      },
+      {
+        "description": "คริสตัลอารมณ์ที่สวยเก๋ มีสไตล์ และให้ความรู้สึกผ่อนคลาย เป็นของขวัญที่เหมาะสำหรับใครก็ตามที่ต้องการความสงบ แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "คริสตัลอารมณ์",
+        "code": "th"
+      },
+      {
+        "description": "Şık, zarif ve rahatlatıcı ruh hali kristalleri, biraz sakinliğe ihtiyaç duyan herkes için mükemmel bir hediyedir. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "Ruh Hali Kristali",
+        "code": "tr"
+      },
+      {
+        "description": "Витончені, стильні та приємні кристали настрою стануть ідеальним подарунком для будь-кого з потребою спокою. Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Кристал настрою",
         "code": "uk"
       }
     ]
@@ -9255,7 +10035,7 @@
         "code": "pl"
       },
       {
-        "description": "Um sinal de apreço da Mãe.Localização: obtido em Contratos de Recompensa, na Deriva de Cambion, em Deimos. ",
+        "description": "Um sinal de apreço da Mãe.Localização: obtido em Contratos, na Deriva de Cambion, em Deimos. ",
         "name": "SÍMBOLO: MÃE",
         "code": "pt"
       },
@@ -9567,7 +10347,7 @@
         "code": "pl"
       },
       {
-        "description": "Depósitos minerais infestados, parecidos com órgãos vivos.Localização: em Lesões de Mineração Amarelas e nas Câmaras Extras dos Contratos de Recompensa das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+        "description": "Depósitos minerais infestados, parecidos com órgãos vivos.Localização: em Lesões de Mineração Amarelas e nas Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
         "name": "Námalo",
         "code": "pt"
       },
@@ -10062,6 +10842,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/on-lyne-cd-baa62507ce.png",
+    "name": "On-Lyne Cd",
+    "description": "The ultimate gift for fans of On-lyne! Show your love and support with this must-have merch for any music lover’s collection. Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Das ultimative Geschenk für Fans von On-lyne! Zeige deine Liebe und Unterstützung mit diesem unverzichtbaren Merchandise für die Sammlung jedes Musikliebhabers. Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "On-lyne CD",
+        "code": "de"
+      },
+      {
+        "description": "Le cadeau ultime pour les fans d'On-lyne! Montrez votre amour et votre soutien avec ce produit indispensable pour la collection de tout amateur de musique. Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "CD On-lyne",
+        "code": "fr"
+      },
+      {
+        "description": "Il regalo definitivo per i fan degli On-lyne! Mostra il tuo amore e il tuo supporto con questa imperdibile collezione di oggetti per qualsiasi amante della musica. Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con gli Hex.Posizione: 1999 (Höllvania)",
+        "name": "CD On-lyne",
+        "code": "it"
+      },
+      {
+        "description": "On-lyne 팬들을 위한 궁극의 선물입니다! 음악 애호가의 컬렉션에 꼭 하나씩은 있어야 할 이 상품으로 여러분의 사랑과 지지를 보여주세요. 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "On-lyne CD",
+        "code": "ko"
+      },
+      {
+        "description": "¡El regalo definitivo para los fans de On-lyne! Muestra tu amor y apoyo con este artículo imprescindible para la colección de cualquier amante de la música. Intercambia este tesoro del Hex con Lettie para obtener reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "CD de On-lyne",
+        "code": "es"
+      },
+      {
+        "description": "这是送给线上时代粉丝的终极礼物！用这款必备商品来表达你的热爱和支持，它是任何音乐爱好者的收藏品。用这个六人组珍品与莱蒂交易，换取六人组的声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "线上时代 CD",
+        "code": "zh"
+      },
+      {
+        "description": "Лучший подарок для фанатов On-lyne! Выражайте свою любовь и поддержку с этим обязательным товаром для коллекции любого любителя музыки. Обменивайте это сокровище у Лэтти, чтобы заработать репутацию «Гекса».Местонахождение: 1999 (Хёльвания)",
+        "name": "Компакт-диск On-lyne",
+        "code": "ru"
+      },
+      {
+        "description": "On-lyneファンへの最高プレゼント！　この必須グッズで音楽好きな人の心を掴もう。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "On-lyne CD",
+        "code": "ja"
+      },
+      {
+        "description": "Najdoskonalszy podarunek dla fana On-lyne! Okaż swoją miłość i wsparcie dzięki temu niezbędnemu gadżetowi miłośnika muzyki. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Położenie: 1999 (Höllvania)",
+        "name": "Płyta On-lyne",
+        "code": "pl"
+      },
+      {
+        "description": "O presente supremo para os fãs da On-lyne! Demonstre seu amor e apoio com este produto essencial para a coleção de qualquer amante da música. Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "CD da On-lyne",
+        "code": "pt"
+      },
+      {
+        "description": "致「線上男孩」熱情粉絲們的終極禮物！透過任何音樂愛好者都必會收集珍藏的周邊商品來展現你的愛與支持。與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "線上男孩光碟",
+        "code": "tc"
+      },
+      {
+        "description": "ของขวัญสุดพิเศษสำหรับแฟน ๆ วง On-lyne! แสดงความรักและการสนับสนุนของคุณด้วยสินค้าที่ต้องมีสะสมไว้ในคอลเลกชันของคนรักดนตรีทุกคน แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "On-lyne CD",
+        "code": "th"
+      },
+      {
+        "description": "On-lyne hayranları için en iyi hediye! Her müzikseverin koleksiyonunda bulunması gereken bu olmazsa olmaz ürünle sevginizi ve desteğinizi gösterin. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "On-lyne CD",
+        "code": "tr"
+      },
+      {
+        "description": "Найліпший з подарунків для шанувальників On-lyne! Проявіть свою любов та підтримку, придбавши цей обов’язковий товар для меломанів. Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Диск On-lyne",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingRareItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-animus-matrix-474d36a377.png",
     "name": "Orokin Animus Matrix",
@@ -10113,7 +10971,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma matriz de cognição, que permite que os Necramechs sejam adaptáveis e eficientes em campo.Localização: em Contratos de Recompensa das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 3, na Deriva de Cambion, em Deimos.",
+        "description": "Uma matriz de cognição, que permite que os Necramechs sejam adaptáveis e eficientes em campo.Localização: em Contratos das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 3, na Deriva de Cambion, em Deimos.",
         "name": "MATRIZ DE ANIMOSIDADE OROKIN",
         "code": "pt"
       },
@@ -10191,7 +11049,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma matriz mecânica, que auxilia na precisão e controle do armamento de um Necramech.Localização: em Contratos de Recompensa das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 2, na Deriva de Cambion, em Deimos.",
+        "description": "Uma matriz mecânica, que auxilia na precisão e controle do armamento de um Necramech.Localização: em Contratos das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 2, na Deriva de Cambion, em Deimos.",
         "name": "MATRIZ DE BALÍSTICA OROKIN",
         "code": "pt"
       },
@@ -10347,7 +11205,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma matriz de orientação espacial, que auxilia na orientação, equilíbrio e movimento de um Necramech.Localização: em Contratos de Recompensa das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 1, na Deriva de Cambion, em Deimos.",
+        "description": "Uma matriz de orientação espacial, que auxilia na orientação, equilíbrio e movimento de um Necramech.Localização: em Contratos das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 1, na Deriva de Cambion, em Deimos.",
         "name": "MATRIZ DE ORIENTAÇÃO OROKIN",
         "code": "pt"
       },
@@ -11829,7 +12687,7 @@
         "code": "pl"
       },
       {
-        "description": "Cobertura total, como aluguel de habitação, seguro, licenças de atracação e pagamento ferroviário.Localização: Contratos de Recompensa no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+        "description": "Cobertura total, como aluguel de habitação, seguro, licenças de atracação e pagamento ferroviário.Localização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
         "name": "TÍTULO-DÍVIDA: MORADIA",
         "code": "pt"
       },
@@ -13104,6 +13962,162 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/techrot-chitin-369d38a5d1.png",
+    "name": "Techrot Chitin",
+    "description": "This twisted husk barely resembles the electronic device it once was, consumed and reshaped by the Techrot’s relentless spread.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Diese verdrehte Hülle ähnelt kaum noch dem elektronischen Gerät, das sie einmal war, verschlungen und umgestaltet durch die unaufhaltsame Ausbreitung des Techrot.Fundort: 1999 (Höllvania)",
+        "name": "Techrot-Chitin",
+        "code": "de"
+      },
+      {
+        "description": "Cette enveloppe tordue ressemble à peine à l'appareil électronique qu'elle était autrefois, consumée et remodelée par la propagation incessante du Techrot.Lieu: 1999 (Höllvanie)",
+        "name": "Chitine Techrot",
+        "code": "fr"
+      },
+      {
+        "description": "Questo involucro distorto assomiglia a malapena al dispositivo elettronico che era una volta, consumato e rimodellato dall'implacabile diffusione del Techrot.Posizione: 1999 (Höllvania)",
+        "name": "Chitina Techrot",
+        "code": "it"
+      },
+      {
+        "description": "테크병의 끊임없는 확산에 의해 마모되고 변형된 이 뒤틀린 껍질에, 한 때 원본이었던 전자기기의 흔적은 희박합니다.획득 가능 장소: 1999 (홀바니아)",
+        "name": "테크병 키틴",
+        "code": "ko"
+      },
+      {
+        "description": "Este caparazón retorcido apenas se parece al dispositivo que era antes de que el Techrot lo cambiara.Ubicación: 1999 (Höllvania)",
+        "name": "Quitina Techrot",
+        "code": "es"
+      },
+      {
+        "description": "这个扭曲的外壳已经不再像曾经的电子设备，它被科腐者的无情蔓延所吞噬并重塑。获取地点：霍瓦尼亚（1999 年）",
+        "name": "科腐者几丁质",
+        "code": "zh"
+      },
+      {
+        "description": "Эта искажённая оболочка едва напоминает электронное устройство, каким она была раньше, уничтоженное и переформированное неумолимым распространением Техрота.Местонахождение: 1999 (Хёльвания)",
+        "name": "Техротный Хитин",
+        "code": "ru"
+      },
+      {
+        "description": "このねじれた殻は、テックロットの容赦ない拡大に呑み込まれて変形し、もともとの電子機器とは似ても似つかない。場所：1999（ホルバニア）",
+        "name": "テックロット キチン",
+        "code": "ja"
+      },
+      {
+        "description": "Ta pokręcona skorupa ledwo przypomina urządzenie, którym kiedyś była, zanim została zmieniona przez Techrot.Położenie: 1999 (Höllvania)",
+        "name": "Chityna Techrotu",
+        "code": "pl"
+      },
+      {
+        "description": "Esta casca retorcida mal se parece com o dispositivo eletrônico que era antes de ser consumido e remodelado pela disseminação implacável do Tecnovírus.Localização: 1999 (Holvânia).",
+        "name": "Quitina do Tecnovírus",
+        "code": "pt"
+      },
+      {
+        "description": "這個扭曲的外殼幾乎不像原本的電子設備，經過無限蔓生的科腐者吞噬和改造。地點：霍爾瓦尼亞（1999 年）",
+        "name": "科腐幾丁質",
+        "code": "tc"
+      },
+      {
+        "description": "เปลือกที่มีรูปร่างบิดเบี้ยวนี้แทบจะไม่เหมือนอุปกรณ์อิเล็กทรอนิกส์อย่างที่เคยเป็นมาก่อน เพราะถูกการระบาดของ Techrot กัดกินและทำให้เปลี่ยนรูปร่างใหม่แหล่งที่พบ: 1999 (Höllvania)",
+        "name": "ไคทินของ Techrot",
+        "code": "th"
+      },
+      {
+        "description": "Bu bükülmüş kabuk, bir zamanlar olduğu elektronik cihaza neredeyse hiç benzemiyor, Techrot'un amansız yayılımıyla tüketiliyor ve yeniden şekilleniyor.Konum: 1999 (Höllvania)",
+        "name": "Techrot Chitin",
+        "code": "tr"
+      },
+      {
+        "description": "Химерно перекручена оболонка слабко нагадує електронний пристрій, яким вона колись була до поглинання невтомною техногниллю.Можна здобути в 1999 році (Голвенія).",
+        "name": "Техногнилий хітин",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/techrot-motherboard-849b636c51.png",
+    "name": "Techrot Motherboard",
+    "description": "This motherboard likely served as a nerve center, facilitating the Techrot’s communication network.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Dieses Motherboard diente wahrscheinlich als Nervenzentrum und ermöglichte das Kommunikationsnetzwerk des Techrot.Fundort: 1999 (Höllvania)",
+        "name": "Techrot-Motherboard",
+        "code": "de"
+      },
+      {
+        "description": "Cette carte mère servait probablement de centre névralgique, facilitant le réseau de communication du Techrot.Lieu: 1999 (Höllvanie)",
+        "name": "Carte mère Techrot",
+        "code": "fr"
+      },
+      {
+        "description": "Questa scheda madre probabilmente fungeva da centro nevralgico, facilitando la rete di comunicazione Techrot.Posizione: 1999 (Höllvania)",
+        "name": "Scheda Madre Techrot",
+        "code": "it"
+      },
+      {
+        "description": "이 마더보드는 아마도 테크병의 통신 네트워크를 구축하는 신경 중추의 역할을 했을 겁니다.획득 가능 장소: 1999 (홀바니아)",
+        "name": "테크병 마더보드",
+        "code": "ko"
+      },
+      {
+        "description": "Esta placa base probablemente sirvió como centro neurálgico, facilitando la red de comunicación del Techrot.Ubicación: 1999 (Höllvania)",
+        "name": "Placa base Techrot",
+        "code": "es"
+      },
+      {
+        "description": "该主板很可能起到了神经中枢的作用，促进科腐者的通讯网络。获取地点：霍瓦尼亚（1999 年）",
+        "name": "科腐者主板",
+        "code": "zh"
+      },
+      {
+        "description": "Эта материнская плата, вероятно, служила центральным узлом, обеспечивая работу коммуникационной сети Техрота.Местонахождение: 1999 (Хёльвания)",
+        "name": "Материнская плата Техрота",
+        "code": "ru"
+      },
+      {
+        "description": "この基板は、テックロットの通信ネットワークをつなぐ神経中枢だったと考えられる。場所：1999（テックロット）",
+        "name": "テックロット マザーボード",
+        "code": "ja"
+      },
+      {
+        "description": "Ta płyta główna mogła pełnić funkcje ośrodka nerwowego, służącego komunikacji Techrotu z siecią.Położenie: 1999 (Höllvania)",
+        "name": "Płyta Główna Techrotu",
+        "code": "pl"
+      },
+      {
+        "description": "Esta placa-mãe provavelmente servia como um sistema nervoso, facilitando a rede de comunicação do Tecnovírus.Localização: 1999 (Holvânia).",
+        "name": "Placa-Mãe do Tecnovírus",
+        "code": "pt"
+      },
+      {
+        "description": "這塊主機板大概充當神經核心，撮合科腐者的通訊網路。地點：霍爾瓦尼亞（1999 年）",
+        "name": "科腐主機板",
+        "code": "tc"
+      },
+      {
+        "description": "เมนบอร์ดนี้ทำหน้าที่เหมือนเป็นศูนย์กลางประสาทที่ช่วยอำนวยความสะดวกให้กับเครือข่ายการสื่อสารของ Techrotแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "เมนบอร์ด Techrot",
+        "code": "th"
+      },
+      {
+        "description": "Bu anakart muhtemelen bir sinir merkezi olarak hizmet veriyordu ve Techrot'un iletişim ağını kolaylaştırıyordu.Konum: 1999 (Höllvania)",
+        "name": "Techrot Anakart",
+        "code": "tr"
+      },
+      {
+        "description": "Скоріше за все ця материнська плата служила нервовим центром мережі зв’язку техногнилі.Можна здобути в 1999 році (Голвенія).",
+        "name": "Техногнила материнська плата",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tempered-bapholite-f058935e24.png",
     "name": "Tempered Bapholite",
@@ -13494,6 +14508,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-countessa-comic-41d846c0a1.png",
+    "name": "The Countessa Comic",
+    "description": "The Countessa isn’t just an icon—she’s a hero! Issues from this cult classic comic series are sought after by subculture enthusiasts who know the value of a strong and stylish protagonist. Trade this Hex Treasure with Lettie to earn standing with The Hex.Location: 1999 (Höllvania)",
+    "languages": [
+      {
+        "description": "Die Countessa ist nicht nur eine Ikone – sie ist eine Heldin! Die Ausgaben dieser Kult-Comicserie sind bei jedem Subkultur-Enthusiasten hoch beliebt, der den Wert einer starken und stilvollen Protagonistin kennt. Tausche diesen Hex-Schatz bei Lettie ein, um Ansehen bei den Hex zu erhalten.Fundort: 1999 (Höllvania)",
+        "name": "Der Countessa-Comic",
+        "code": "de"
+      },
+      {
+        "description": "La Countessa n'est pas seulement une icône, c'est une héroïne! Les numéros de cette série culte de bandes dessinées sont recherchés par les amateurs de pop-culture qui connaissent la valeur d'une protagoniste forte et élégante. Échangez ce Trésor de l'Hexagone auprès de Lettie pour gagner de la Réputation auprès de l'Hexagone.Lieu: 1999 (Höllvanie)",
+        "name": "Comic La Countessa",
+        "code": "fr"
+      },
+      {
+        "description": "La Countessa non è solo un'icona, è un'eroina! I numeri di questi fumetti classici di culto sono ricercati dagli appassionati che conoscono il valore di una protagonista forte ed elegante. Scambia questo Tesoro Hex con Lettie per guadagnare reputazione con gli Hex.Posizione: 1999 (Höllvania)",
+        "name": "Fumetto The Countessa",
+        "code": "it"
+      },
+      {
+        "description": "카운테사는 단순한 우상이 아닙니다—영웅이기도 하죠! 이 컬트 클래식 만화 시리즈의 에피소드는, 강하고 스타일리시한 주인공의 가치를 아는 서브컬쳐 애호가라면 누구에게나 인기가 많습니다. 이 헥스 팀원의 보물을 레티와 교환하여 헥스 평판을 얻어 보세요.획득 가능 장소: 1999 (홀바니아)",
+        "name": "카운테사 만화책",
+        "code": "ko"
+      },
+      {
+        "description": "La Condesa no es solo un icono, ¡es una heroína! Los números de estos cómics clásicos de culto son buscados por todo entusiasta que conoce el valor de una protagonista fuerte y elegante. Intercambia este tesoro del Hex con Lettie para ganar reputación con el Hex.Ubicación: 1999 (Höllvania)",
+        "name": "Cómic La Condesa",
+        "code": "es"
+      },
+      {
+        "description": "伯爵夫人不仅仅是一个偶像——她还是一个英雄！这个经典邪典漫画系列的期刊，深受亚文化爱好者的追捧，他们知道强大而时尚的主角的价值。与莱蒂交换这个六人组宝物，以获取六人组声望。获取地点：霍瓦尼亚（1999 年）",
+        "name": "女伯爵漫画",
+        "code": "zh"
+      },
+      {
+        "description": "«Графиня» — это не просто икона, она герой! Выпуски этого культового комикса высоко ценятся любителями субкультуры, знающими цену сильным и стильным протагонистам. Обменивайте это сокровище «Гекса» у Лэтти, чтобы заработать репутацию «Гекса»Местонахождение: 1999 (Хёльвания)",
+        "name": "Комикс «Графиня»",
+        "code": "ru"
+      },
+      {
+        "description": "「The Countessa」はただのキャラクターではなく、皆に愛されるヒーローです！　この長寿コミックシリーズは強くスタイリッシュな主人公に憧れるサブカルファンに人気です。このヘックストレジャーはLettieと交換することでヘックス地位を得られます。場所：1999（ホルバニア）",
+        "name": "「The Countessa」コミック",
+        "code": "ja"
+      },
+      {
+        "description": "Hrabina to nie tylko ikona, to bohaterka! Wydania z tej kultowej serii komiksów są poszukiwane przez entuzjastów popkultury, którzy znają wartość silnej i stylowej bohaterki. Ten przedmiot może zostać wymieniony u Lettie za Reputację Hex.Lokalizacja: 1999 (Höllvania)",
+        "name": "Komiks Hrabiny",
+        "code": "pl"
+      },
+      {
+        "description": "A Condessa não é só um ícone, ela é uma heroína! As edições destes quadrinhos clássicos seriam um ótimo presente para qualquer entusiasta que conhece o valor de uma protagonista forte e estilosa. Troque este Tesouro do Hexa com a Lê para adquirir reputação com o Hexa.Localização: 1999 (Holvânia).",
+        "name": "Quadrinhos da Condessa",
+        "code": "pt"
+      },
+      {
+        "description": "女伯爵不只是偶像，她還是英雄！次文化鑒賞家高度索求這部經典漫畫的單行本，他們清楚知道強大和時髦的主角背後的價值。與莉蒂交換這件六煞寶物以換取六煞聲望。地點：霍爾瓦尼亞（1999 年）",
+        "name": "女伯爵漫畫",
+        "code": "tc"
+      },
+      {
+        "description": "Countessa ไม่ใช่แค่สัญลักษณ์ แต่เธอเป็นฮีโร่! เรื่องราวจากซีรีส์หนังสือการ์ตูนสุดคลาสสิกเรื่องนี้เป็นที่ต้องการของผู้ที่ชื่นชอบวัฒนธรรมย่อยที่รู้ถึงคุณค่าของตัวเอกที่แข็งแกร่งและมีสไตล์ แลกเปลี่ยนสมบัติของ Hex ชิ้นนี้กับ Lettie เพื่อรับคะแนนชื่อเสียงของ Hexแหล่งที่พบ: 1999 (Höllvania)",
+        "name": "การ์ตูน \"The Countessa\"",
+        "code": "th"
+      },
+      {
+        "description": "Kontes sadece bir ikon değil, aynı zamanda bir kahraman! Bu kült klasik çizgi roman serisinin sayıları, güçlü ve şık bir kahramanın değerini bilen hayranları tarafından arzulanır. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.Konum: 1999 (Höllvania)",
+        "name": "Countessa Çizgi Romanı",
+        "code": "tr"
+      },
+      {
+        "description": "«Графиня» — не просто ікона, а справжня героїня! Випуски цієї чудової серії ґрафіки шукають усі субкультурні поціновувачі, які знають ціну могутньої й сильної протагоністки. Обмінюйте цей скарб «Прокльону» в Летті, щоб заробити репутацію.Можна здобути в 1999 році (Голвенія).",
+        "name": "Ґрафіка «Графиня»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thermal-sludge-b861a393ca.png",
     "name": "Thermal Sludge",
@@ -13779,7 +14871,7 @@
         "code": "pl"
       },
       {
-        "description": "Neurotransmissores infestados, condensados sob pressão.Localização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos de Recompensa das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+        "description": "Neurotransmissores infestados, condensados sob pressão.Localização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
         "name": "Tiametrita",
         "code": "pt"
       },
@@ -14091,7 +15183,7 @@
         "code": "pl"
       },
       {
-        "description": "Os Corpus chamam de 'investimento para o futuro', porém, o financiamento para cobrir um treinamento de capacitação sempre custará mais do que o retorno obtido, sobretudo em razão dos juros.Localização: Contratos de Recompensa no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+        "description": "Os Corpus chamam de 'investimento para o futuro', porém, o financiamento para cobrir um treinamento de capacitação sempre custará mais do que o retorno obtido, sobretudo em razão dos juros.Localização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
         "name": "TÍTULO-DÍVIDA: TREINAMENTO",
         "code": "pt"
       },
@@ -14423,7 +15515,7 @@
         "code": "tr"
       },
       {
-        "description": "Подейкують, що м'якуш юмаґи дуже смачний. Але стережіться шипів.Можна здобути в Дувірі.",
+        "description": "Подейкують, що м’якуш юмаґи дуже смачний. Але стережіться шипів.Можна здобути в Дувірі.",
         "name": "Юмаґа",
         "code": "uk"
       }

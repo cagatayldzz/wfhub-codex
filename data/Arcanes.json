@@ -1008,6 +1008,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttackSub",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
+    "name": "Arcane",
+    "languages": [
+      {
+        "name": "Arkana",
+        "code": "de"
+      },
+      {
+        "name": "Arcane",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane",
+        "code": "it"
+      },
+      {
+        "name": "아케인",
+        "code": "ko"
+      },
+      {
+        "name": "Arcano",
+        "code": "es"
+      },
+      {
+        "name": "赋能",
+        "code": "zh"
+      },
+      {
+        "name": "Мистификатор",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum",
+        "code": "pl"
+      },
+      {
+        "name": "Arcano",
+        "code": "pt"
+      },
+      {
+        "name": "賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane",
+        "code": "th"
+      },
+      {
+        "name": "Arcane",
+        "code": "tr"
+      },
+      {
+        "name": "Містифікатор",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-acceleration-55ddddd57b.png",
     "name": "Arcane Acceleration",
@@ -1512,6 +1575,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-bellicose-525115aed7.png",
+    "name": "Arcane Bellicose",
+    "languages": [
+      {
+        "name": "Arkana: Streitsucht",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Belliqueux",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Bellicose",
+        "code": "it"
+      },
+      {
+        "name": "아케인 벨리코스",
+        "code": "ko"
+      },
+      {
+        "name": "Beligerancia Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·黩武",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический воитель",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ベリコーズ",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Osiłka",
+        "code": "pl"
+      },
+      {
+        "name": "Belicosidade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "尋釁賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Bellicose",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Bellicose",
+        "code": "tr"
+      },
+      {
+        "name": "Містична войовничість",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-blade-charger-1473f63483.png",
     "name": "Arcane Blade Charger",
@@ -1701,6 +1827,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-camisado-9a22b4b62e.png",
+    "name": "Arcane Camisado",
+    "languages": [
+      {
+        "name": "Arkana: Nachtüberfall",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Camisado",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Camisado",
+        "code": "it"
+      },
+      {
+        "name": "아케인 카미사도",
+        "code": "ko"
+      },
+      {
+        "name": "Camisado Arcano",
+        "code": "es"
+      },
+      {
+        "name": "赋能·奇袭",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический набег",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン カミサド",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Wściekłego Tłumu",
+        "code": "pl"
+      },
+      {
+        "name": "Regência Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "驟襲賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Camisado",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Camisado",
+        "code": "tr"
+      },
+      {
+        "name": "Містичні помічники",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-consequence-9198d9410b.png",
     "name": "Arcane Consequence",
@@ -1759,6 +1948,69 @@
       },
       {
         "name": "Містичний наслідок",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-crepuscular-f326181403.png",
+    "name": "Arcane Crepuscular",
+    "languages": [
+      {
+        "name": "Arkana: Dämmerung",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Crépusculaire",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Crepuscular",
+        "code": "it"
+      },
+      {
+        "name": "아케인 크리퍼스큘러",
+        "code": "ko"
+      },
+      {
+        "name": "Arcano Crepuscular",
+        "code": "es"
+      },
+      {
+        "name": "赋能·影袭",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический сумрак",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン クレプスキュラー",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Zmierzchu",
+        "code": "pl"
+      },
+      {
+        "name": "Crepúsculo Arcano",
+        "code": "pt"
+      },
+      {
+        "name": "暮隱賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Crepuscular",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Crepuscular",
+        "code": "tr"
+      },
+      {
+        "name": "Містичний присмерк",
         "code": "uk"
       }
     ]
@@ -2578,6 +2830,69 @@
       },
       {
         "name": "Містична хурделиця",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-impetus-0262299394.png",
+    "name": "Arcane Impetus",
+    "languages": [
+      {
+        "name": "Arkana: Impuls",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Impetus",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Impetus",
+        "code": "it"
+      },
+      {
+        "name": "아케인 임페터스",
+        "code": "ko"
+      },
+      {
+        "name": "Ímpetu Arcano",
+        "code": "es"
+      },
+      {
+        "name": "赋能·激励",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический толчок",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン インペタス ",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Przekierowania Żywiołu",
+        "code": "pl"
+      },
+      {
+        "name": "Ímpeto Arcano",
+        "code": "pt"
+      },
+      {
+        "name": "動力賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Impetus",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Impetus",
+        "code": "tr"
+      },
+      {
+        "name": "Містичний штурхіт",
         "code": "uk"
       }
     ]
@@ -4027,6 +4342,69 @@
       },
       {
         "name": "Містичне ошуканство",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-truculence-6a619c18f4.png",
+    "name": "Arcane Truculence",
+    "languages": [
+      {
+        "name": "Arkana: Trotz",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Truculence",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Truculence",
+        "code": "it"
+      },
+      {
+        "name": "아케인 트러큘런스",
+        "code": "ko"
+      },
+      {
+        "name": "Truculencia Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·暴虐",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая Жестокость",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン トゥルキュレンス",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Przesilenia",
+        "code": "pl"
+      },
+      {
+        "name": "Truculência Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "霸道賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Truculence",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Truculence",
+        "code": "tr"
+      },
+      {
+        "name": "Містична грубість",
         "code": "uk"
       }
     ]
@@ -6993,6 +7371,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/melee-doughty-188a6c9c38.png",
+    "name": "Melee Doughty",
+    "languages": [
+      {
+        "name": "Kühner Nahkampf",
+        "code": "de"
+      },
+      {
+        "name": "Mêlée Téméraire",
+        "code": "fr"
+      },
+      {
+        "name": "Melee Doughty",
+        "code": "it"
+      },
+      {
+        "name": "밀리 다우티",
+        "code": "ko"
+      },
+      {
+        "name": "Cuerpo a cuerpo Intrépido",
+        "code": "es"
+      },
+      {
+        "name": "近战·无畏",
+        "code": "zh"
+      },
+      {
+        "name": "Отвага ближнего боя",
+        "code": "ru"
+      },
+      {
+        "name": "メレー ダウティ",
+        "code": "ja"
+      },
+      {
+        "name": "Przebicie Broni białej",
+        "code": "pl"
+      },
+      {
+        "name": "Persistência (Armas Brancas)",
+        "code": "pt"
+      },
+      {
+        "name": "近戰剽悍",
+        "code": "tc"
+      },
+      {
+        "name": "Melee Doughty",
+        "code": "th"
+      },
+      {
+        "name": "Melee Doughty",
+        "code": "tr"
+      },
+      {
+        "name": "Рукопашна доблесть",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ReplayLightCritHits",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/melee-duplicate-219c55980e.png",
     "name": "Melee Duplicate",
@@ -7938,6 +8379,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primary-crux-a66207fdfd.png",
+    "name": "Primary Crux",
+    "languages": [
+      {
+        "name": "Primäre Crux",
+        "code": "de"
+      },
+      {
+        "name": "Croix Primaire",
+        "code": "fr"
+      },
+      {
+        "name": "Primary Crux",
+        "code": "it"
+      },
+      {
+        "name": "프라이머리 크럭스",
+        "code": "ko"
+      },
+      {
+        "name": "Cruz primaria",
+        "code": "es"
+      },
+      {
+        "name": "主要·准星",
+        "code": "zh"
+      },
+      {
+        "name": "Основная точка",
+        "code": "ru"
+      },
+      {
+        "name": "プライマリ クラックス",
+        "code": "ja"
+      },
+      {
+        "name": "Migrena Broni głównej",
+        "code": "pl"
+      },
+      {
+        "name": "Ponto Crucial (Armas Primárias)",
+        "code": "pt"
+      },
+      {
+        "name": "主要要害",
+        "code": "tc"
+      },
+      {
+        "name": "Primary Crux",
+        "code": "th"
+      },
+      {
+        "name": "Primary Crux",
+        "code": "tr"
+      },
+      {
+        "name": "Основна суть",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnNoMelee",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primary-deadhead-5993a40301.png",
     "name": "Primary Deadhead",
@@ -8815,6 +9319,69 @@
       },
       {
         "name": "Допоміжний заступник",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/secondary-enervate-4355e3b990.png",
+    "name": "Secondary Enervate",
+    "languages": [
+      {
+        "name": "Sekundäres Schwächen",
+        "code": "de"
+      },
+      {
+        "name": "Énervement Secondaire",
+        "code": "fr"
+      },
+      {
+        "name": "Secondary Enervate",
+        "code": "it"
+      },
+      {
+        "name": "세컨더리 에너베이트",
+        "code": "ko"
+      },
+      {
+        "name": "Enervación secundaria",
+        "code": "es"
+      },
+      {
+        "name": "次要·失活",
+        "code": "zh"
+      },
+      {
+        "name": "Вторичное Истощение",
+        "code": "ru"
+      },
+      {
+        "name": "セカンダリ エナベート",
+        "code": "ja"
+      },
+      {
+        "name": "Kumulacja Broni bocznej",
+        "code": "pl"
+      },
+      {
+        "name": "Enervação (Armas Secundárias)",
+        "code": "pt"
+      },
+      {
+        "name": "次要削弱",
+        "code": "tc"
+      },
+      {
+        "name": "Secondary Enervate",
+        "code": "th"
+      },
+      {
+        "name": "Secondary Enervate",
+        "code": "tr"
+      },
+      {
+        "name": "Допоміжне послаблення",
         "code": "uk"
       }
     ]

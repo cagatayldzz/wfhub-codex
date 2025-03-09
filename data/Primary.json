@@ -109,7 +109,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：Acceltra Prime）以致命的速度与敌人交战。当持用者冲刺时，该武器的装填速度加快，当与 Gauss 搭配使用时，装填速度还会再快。",
+        "description": "（英文：ACCELTRA PRIME）以致命的速度与敌人交战。当使用者冲刺时，会有更快的装填速度，搭配 Gauss 使用时，速度还会更快。",
         "name": "迅发电浆炮 Prime",
         "code": "zh"
       },
@@ -1704,7 +1704,7 @@
         "code": "th"
       },
       {
-        "description": "Braton'un yüksek ateş ve isabet oranı onu Tenno'lar arasında özel haline getirir.",
+        "description": "Braton'un yüksek atış ve isabet oranı onu Tenno'lar arasında özel haline getirir.",
         "name": "Braton",
         "code": "tr"
       },
@@ -2167,7 +2167,7 @@
         "code": "tc"
       },
       {
-        "description": "ทำเครื่องหมายไปที่ตัวเป้าหมายแล้วระดมยิงกระสุนใส่ ซึ่งกระสุนนำวิถีของ Buzlok จะตามหาศัตรูเจอเสมอ และเป้าหมายที่ถูกทำเครื่องหมายไว้มีโอกาสที่จะได้รับความเสียหายแบบคริติคอล",
+        "description": "Buzlok จะทำเครื่องหมายไปที่ตัวเป้าหมายแล้วระดมยิงกระสุนใส่ ซึ่งกระสุนนำวิถีของ Buzlok จะตามหาศัตรูเจอเสมอ และเป้าหมายที่ถูกทำเครื่องหมายไว้มีโอกาสที่จะได้รับความเสียหายแบบคริติคอล",
         "name": "Buzlok",
         "code": "th"
       },
@@ -2250,7 +2250,7 @@
         "code": "th"
       },
       {
-        "description": "Koyu kırmızı enamel bileşenli bu Penta, yüksek ateş etme oranı ve büyük şarjör gibi farklı özellikleri kapsar.",
+        "description": "Koyu kırmızı emaye bileşenli bu Penta, yüksek atış oranına ve büyük şarjör kapasitesi gibi farklı özellikleri kapsar.",
         "name": "Carmine Penta",
         "code": "tr"
       },
@@ -2335,6 +2335,84 @@
       {
         "description": "Рушниця, яка може випустити глефу, що рикошетитиме від поверхні зі сплесками стихійної шкоди. Основний режим стрільби продірявить ворогів точними пострілами. Шкода зростає з кожним накладеним на ціль ефектом стану. Якщо Цедо в руках у Лавоса, то невелика кількість будь-яких підібраних набоїв перетворюється на набої для основної зброї.",
         "name": "Цедо",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/PrimeCedoWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cedo-prime-348235f853.png",
+    "name": "Cedo Prime",
+    "description": "A golden shotgun, forged for those who deliver judgment.",
+    "languages": [
+      {
+        "description": "Eine goldene Schrotflinte, für diejenigen geschmiedet, die Urteile fällen.",
+        "name": "Cedo Prime",
+        "code": "de"
+      },
+      {
+        "description": "Un Fusil à Pompe en or, forgé pour ceux qui rendent le jugement.",
+        "name": "Cedo Prime",
+        "code": "fr"
+      },
+      {
+        "description": "Un fucile a pompa dorato, forgiato per coloro che rendono giustizia.",
+        "name": "Cedo Prime",
+        "code": "it"
+      },
+      {
+        "description": "심판을 내리는 이들을 위해 주조된, 황금빛 산탄총입니다.",
+        "name": "세도 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "Una escopeta de oro, forjada para quienes dictan sentencia.",
+        "name": "Cedo Prime",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CEDO PRIME）一把金色的霰弹枪，为那些执裁者而打造。",
+        "name": "塞多 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "Золотой дробовик, выкованный для тех, кто вершит правосудие.",
+        "name": "Седо Прайм",
+        "code": "ru"
+      },
+      {
+        "description": "裁きを下す者のために鍛造された黄金のショットガン。",
+        "name": "Cedo Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Złota strzelba, stworzona dla tych, którzy wykonują wyroki.",
+        "name": "Cedo Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Uma escopeta áurea forjada para aqueles que executam sentenças.",
+        "name": "Cedo Prime",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CEDO PRIME）為那些祭出判決之人而鑄造的金色霰彈槍。",
+        "name": "席多 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนลูกซองสีทองที่สร้างขึ้นมาเพื่อให้ผู้ที่ตัดสินโทษใช้งาน",
+        "name": "Cedo Prime",
+        "code": "th"
+      },
+      {
+        "description": "Hüküm verenler için dövülmüş altın bir av tüfeği.",
+        "name": "Cedo Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Золотиста рушниця, створена для тих, хто несе правосуддя.",
+        "name": "Цедо-прайм",
         "code": "uk"
       }
     ]
@@ -4195,7 +4273,7 @@
         "code": "tc"
       },
       {
-        "description": "ก่อนที่จะเกิดโรคโคลนเน่า ผู้บัญชาการชั้นสูงของ Grineer ได้ใช้ปืนไรเฟิล Gotva Prime ปกป้อง Orokin ที่รอดตายจากพวก Warframe ที่ก่อการจลาจล หากปืนกระบอกนี้ติดเอฟเฟกต์สถานะ ในครั้งต่อไปที่ยิงก็มีโอกาสที่จะสร้างความเสียหายคริติคอลขั้นสูง",
+        "description": "ก่อนที่จะเกิดโรคโคลนเน่า ผู้บัญชาการชั้นสูงของ Grineer ได้ใช้ปืนไรเฟิล Gotva Prime ปกป้อง Orokin ที่รอดตายจากพวก Warframe ที่ก่อการจลาจล หากปืนกระบอกนี้ติดเอฟเฟกต์สถานะ ในครั้งต่อไปที่ยิงก็มีโอกาสที่จะโจมตีแบบซูเปอร์คริติคอล",
         "name": "Gotva Prime",
         "code": "th"
       },
@@ -4673,7 +4751,7 @@
         "code": "tr"
       },
       {
-        "description": "Коли вас поливають дощем із куль, Хіґаса допоможе. Прицілювання створює щит, який блокує ворожі постріли. Убивства та заблоковані влучання заряджають промінь, який можна випустити за допомогою альтернативного режиму вогню.",
+        "description": "Коли вас поливають дощем із куль, Хіґаса допоможе. Прицілювання створює щит, який блокує ворожі постріли. Убивства та заблоковані влучання заряджають промінь, який можна випустити за допомогою альтернативної атаки.",
         "name": "Хіґаса",
         "code": "uk"
       }
@@ -8651,7 +8729,7 @@
         "code": "tr"
       },
       {
-        "description": "Престижний на вигляд легкий ракетомет, що може розірвати ворога на шматки з неймовірної відстані одним натисканням свого майстерно виточеного гачка.",
+        "description": "Кришталеві призматичні оздоблення додають престижності вбивчому знаряддю, котре з неймовірної відстані може розірвати ворога на шматки одним натисканням виточеного гачка.",
         "name": "Ґрінлок-призма",
         "code": "uk"
       }
@@ -8963,7 +9041,7 @@
         "code": "tr"
       },
       {
-        "description": "Гвинтівка, виготовлена для поліпшення видобування мінеральних покладів у великих астероїдах. Згодом модернізована для військових потреб.",
+        "description": "Гвинтівка, виготовлена для поліпшення видобутку мінеральних покладів у великих астероїдах. Згодом модернізована для військових потреб.",
         "name": "Кванта",
         "code": "uk"
       }
@@ -9355,6 +9433,84 @@
       {
         "description": "Визначна зброя Куллерво, що посилює синергію з холодною зброєю. Кожен влучний постріл збільшує лічильник серії ударів холодної зброї. Коли Куллерво тримає Рауту, то вона також збільшує тривалість серії.",
         "name": "Раута",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reconifex-ad08aef093.png",
+    "name": "Reconifex",
+    "description": "Cyte-09's signature rifle is an ideal match for forceful gunners. A precisely timed reload increases reload speed and infuses the new magazine with Heat Damage.",
+    "languages": [
+      {
+        "description": "Das bevorzugte Gewehr von Cyte-09 ist ideal für energische Schützen. Ein präzise getimtes Nachladen erhöht die Nachladegeschwindigkeit und verleiht dem neuen Magazin Hitzeschaden.",
+        "name": "Reconifex",
+        "code": "de"
+      },
+      {
+        "description": "Le Fusil emblématique de Cyte-09 est idéal pour les tireurs énergiques. Un rechargement minuté avec précision augmente la Vitesse de rechargement et confère au nouveau Chargeur des Dégâts de Feu.",
+        "name": "Reconifex",
+        "code": "fr"
+      },
+      {
+        "description": "Il fucile distintivo di Cyte-09 è la scelta ideale per i tiratori più energici. Una precisa ricarica a tempo aumenta la Velocità di Ricarica e infonde il nuovo caricatore con Danno Fuoco.",
+        "name": "Reconifex",
+        "code": "it"
+      },
+      {
+        "description": "이 Cyte-09의 대표 소총은 강력한 사수와 이상적인 조합을 이룹니다. 정확한 타이밍에 재장전할 시 재장전 속도를 높이고 새로 장전한 탄창에 화염 피해가 주입됩니다.",
+        "name": "리코니펙스",
+        "code": "ko"
+      },
+      {
+        "description": "El rifle distintivo de Cyte-09 es la opción ideal para los tiradores más enérgicos. Una recarga en el momento preciso aumenta la velocidad de recarga e infunde daño de calor al nuevo cargador.",
+        "name": "Reconifex",
+        "code": "es"
+      },
+      {
+        "description": "（英文：THERMIAN RPG）Cyte-09 的标志性步枪是强力枪手的理想搭档。精确的装填可提高装填速度，并为下一个弹匣注入火焰伤害。",
+        "name": "侦查者步枪",
+        "code": "zh"
+      },
+      {
+        "description": "Фирменная винтовка Цита-09, которая идеально подходит для сильных стрелков. Точно рассчитанная перезарядка происходит в ускоренном режиме и наполняет новый магазин огненным уроном.",
+        "name": "Реконифекс",
+        "code": "ru"
+      },
+      {
+        "description": "Cyte-09を象徴するライフルは、力強いガンナーに最適の組み合わせだ。正確なタイミングでリロードするとリロード速度が上がり、次のマガジンに火炎ダメージが付与される。",
+        "name": "Reconifex",
+        "code": "ja"
+      },
+      {
+        "description": "Charakterystyczny karabin Cyte-09 idealnie pasuje do strzelców o silnym charakterze. Precyzyjnie dopracowanie Przeładowanie zwiększa Prędkość Przeładowania i nakłada na nowy magazynek Obr. od Ognia.",
+        "name": "Reconifex",
+        "code": "pl"
+      },
+      {
+        "description": "O rifle tradicional do Cyte-09 é uma combinação ideal para atiradores precisos. Realizar uma recarga no momento correto aumentará a velocidade de recarga e infundirá o novo carregador com Dano Ígneo adicional.",
+        "name": "Reconifex",
+        "code": "pt"
+      },
+      {
+        "description": "Cyte-09 的標誌性步槍是猛攻槍手的最佳夥伴。抓準時機裝填可提升裝填速度並對新彈匣注入火焰傷害。",
+        "name": "偵察佐",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนไรเฟิลประจำตัวของ Cyte-09 เหมาะอย่างยิ่งสำหรับมือปืนที่เน้นความแม่นยำ การรีโหลดกระสุนในเวลาที่เหมาะสมจะช่วยเพิ่มความเร็วในการรีโหลดกระสุน และยังเพิ่มพลังการสร้างความเสียหายด้วยไฟให้กับแม็กกาซีนชุดใหม่อีกด้วย",
+        "name": "Reconifex",
+        "code": "th"
+      },
+      {
+        "description": "Cyte-09'un özel tüfeği, güçlü nişancılar için ideal bir eştir. Yeniden doldurma hassas bir şekilde zamanlandığında, yeniden doldurma hızını artırır ve yeni şarjöre Ateş Hasarı verir.",
+        "name": "Reconifex",
+        "code": "tr"
+      },
+      {
+        "description": "Визначна гвинтівка Клітини-09 ідеально пасує потужним стрільцям. Точно розрахований момент перезаряджання пришвидшує саме перезаряджання й насичує термічною шкодою набої з нового магазину.",
+        "name": "Розвідниця",
         "code": "uk"
       }
     ]
@@ -11439,7 +11595,7 @@
         "code": "pl"
       },
       {
-        "description": "Energizado por uma reação bioquímica, o rifle Infestado Synapse eletrifica os seus alvos com um feixe contínuo de energia <DT_CORROSIVE_COLOR>Corrosiva.",
+        "description": "Energizado por uma reação bioquímica, o rifle Infestado Synapse eletrificará seus alvos com um feixe contínuo de energia de Dano <DT_CORROSIVE_COLOR>Corrosivo.",
         "name": "Synapse",
         "code": "pt"
       },
@@ -13087,7 +13243,7 @@
         "code": "tc"
       },
       {
-        "description": "ปืนไรเฟิลสไนเปอร์ของ Tenno สุดคลาสสิก Vectis เป็นปืนที่เหมาะกับการซุ่มยิงระยะไกล",
+        "description": "Vectis เป็นปืนไรเฟิลซุ่มยิงแบบคลาสสิกของ Tenno ที่เหมาะสำหรับการโจมตีระยะไกล",
         "name": "Vectis",
         "code": "th"
       },
@@ -13296,7 +13452,7 @@
         "code": "zh"
       },
       {
-        "description": "Созданная для элитных подразделений Гринир, снайперская винтовка «Вулкар» — разрушительное оружие дальнего боя. В умелых руках она способна уничтожить противника задолго до того, как он подойдет достаточно близко для ответной атаки.",
+        "description": "Созданная для элитных подразделений Гринир, снайперская винтовка «Вулкар» — разрушительное оружие дальнего боя. В умелых руках она способна уничтожить противника задолго до того, как он подойдёт достаточно близко для ответной атаки.",
         "name": "Вулкар",
         "code": "ru"
       },

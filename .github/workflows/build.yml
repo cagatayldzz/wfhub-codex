@@ -10,22 +10,20 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install Dependencies
-        run: npm install
+        run: bun install --frozen-lockfile
 
       - name: Build Project
-        run: npm run build
+        run: bun run build
 
       - name: Commit and Push Build Outputs
         run: |

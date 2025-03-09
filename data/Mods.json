@@ -41,7 +41,7 @@
         "code": "pl"
       },
       {
-        "name": "Abating Link",
+        "name": "Elo Redutivo",
         "code": "pt"
       },
       {
@@ -6127,7 +6127,7 @@
         "code": "pl"
       },
       {
-        "name": "Assimilate",
+        "name": "Assimilação",
         "code": "pt"
       },
       {
@@ -9598,6 +9598,69 @@
       },
       {
         "name": "Бізай-Бал",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Nightwave/NightwaveTC2024AK47AugmentMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/biotic-rounds-2aa18f4cb2.jpg",
+    "name": "Biotic Rounds",
+    "languages": [
+      {
+        "name": "Biotische Kugeln",
+        "code": "de"
+      },
+      {
+        "name": "Munitions Biotiques",
+        "code": "fr"
+      },
+      {
+        "name": "Biotic Rounds",
+        "code": "it"
+      },
+      {
+        "name": "바이오틱 라운즈",
+        "code": "ko"
+      },
+      {
+        "name": "Municiones bióticas",
+        "code": "es"
+      },
+      {
+        "name": "生化弹药",
+        "code": "zh"
+      },
+      {
+        "name": "Биотические патроны",
+        "code": "ru"
+      },
+      {
+        "name": "Biotic Rounds",
+        "code": "ja"
+      },
+      {
+        "name": "Biotyczne Pociski",
+        "code": "pl"
+      },
+      {
+        "name": "Biotic Rounds",
+        "code": "pt"
+      },
+      {
+        "name": "生化彈頭",
+        "code": "tc"
+      },
+      {
+        "name": "Biotic Rounds",
+        "code": "th"
+      },
+      {
+        "name": "Biotic Rounds",
+        "code": "tr"
+      },
+      {
+        "name": "Біотичні набої",
         "code": "uk"
       }
     ]
@@ -13657,7 +13720,7 @@
         "code": "pl"
       },
       {
-        "name": "Capacitance",
+        "name": "Capacitância",
         "code": "pt"
       },
       {
@@ -14751,7 +14814,7 @@
         "code": "pl"
       },
       {
-        "name": "Champion's Blessing",
+        "name": "Benção dos Campeões",
         "code": "pt"
       },
       {
@@ -14814,7 +14877,7 @@
         "code": "pl"
       },
       {
-        "name": "Chaos Sphere",
+        "name": "Esfera Caótica",
         "code": "pt"
       },
       {
@@ -15570,7 +15633,7 @@
         "code": "pl"
       },
       {
-        "name": "Chromatic Blade",
+        "name": "Lâmina Cromática",
         "code": "pt"
       },
       {
@@ -18136,7 +18199,7 @@
         "code": "pl"
       },
       {
-        "name": "Contagion Cloud",
+        "name": "Nuvem Contagiosa",
         "code": "pt"
       },
       {
@@ -19333,7 +19396,7 @@
         "code": "pl"
       },
       {
-        "name": "Counter Pulse",
+        "name": "Contra-Pulso",
         "code": "pt"
       },
       {
@@ -20911,7 +20974,7 @@
         "code": "pl"
       },
       {
-        "name": "Critical Surge",
+        "name": "Surto Crítico",
         "code": "pt"
       },
       {
@@ -21033,7 +21096,7 @@
         "description": [
           "Множинні скісні атаки зі смертоносними підсиленими ударами."
         ],
-        "name": "Схрещенні змії",
+        "name": "Схрещені змії",
         "code": "uk"
       }
     ]
@@ -26042,7 +26105,7 @@
         "code": "it"
       },
       {
-        "name": "엘레멘탈 샌드스톰",
+        "name": "엘리멘탈 샌드스톰",
         "code": "ko"
       },
       {
@@ -29365,7 +29428,7 @@
         "code": "pl"
       },
       {
-        "name": "Exothermic",
+        "name": "Reação Exotérmica",
         "code": "pt"
       },
       {
@@ -32063,7 +32126,7 @@
         "code": "pl"
       },
       {
-        "name": "Fireball Frenzy",
+        "name": "Frenesi de Fogo",
         "code": "pt"
       },
       {
@@ -34357,7 +34420,7 @@
         "code": "pl"
       },
       {
-        "name": "Fracturing Crush",
+        "name": "Compressão Fragmentadora",
         "code": "pt"
       },
       {
@@ -35199,7 +35262,7 @@
         "code": "pl"
       },
       {
-        "name": "Furious Javelin",
+        "name": "Empalação Furiosa",
         "code": "pt"
       },
       {
@@ -35451,7 +35514,7 @@
         "code": "pl"
       },
       {
-        "name": "Fused Reservoir",
+        "name": "Reservatórios Fundidos",
         "code": "pt"
       },
       {
@@ -37983,7 +38046,7 @@
         "code": "pl"
       },
       {
-        "name": "Greedy Pull",
+        "name": "Atração Gananciosa",
         "code": "pt"
       },
       {
@@ -40280,7 +40343,7 @@
         "code": "pl"
       },
       {
-        "name": "Healing Flame",
+        "name": "Chama Vital",
         "code": "pt"
       },
       {
@@ -44218,7 +44281,7 @@
         "code": "pl"
       },
       {
-        "name": "Immolated Radiance",
+        "name": "Imolação Radiante",
         "code": "pt"
       },
       {
@@ -46403,7 +46466,7 @@
         "code": "pl"
       },
       {
-        "name": "Iron Shrapnel",
+        "name": "Estilhaços Blindados",
         "code": "pt"
       },
       {
@@ -46466,7 +46529,7 @@
         "code": "pl"
       },
       {
-        "name": "Ironclad Charge",
+        "name": "Investida Blindada",
         "code": "pt"
       },
       {
@@ -47938,7 +48001,7 @@
         "code": "pl"
       },
       {
-        "name": "Kinetic Collision",
+        "name": "Colisão Cinética",
         "code": "pt"
       },
       {
@@ -48717,7 +48780,7 @@
         "code": "pl"
       },
       {
-        "name": "Lasting Covenant",
+        "name": "Pacto Eterno",
         "code": "pt"
       },
       {
@@ -48860,6 +48923,69 @@
       },
       {
         "name": "Незупинне краяння",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Nightwave/NightwaveLasSilencedPistolAugmentMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/leaded-gas-df448565fb.jpg",
+    "name": "Leaded Gas",
+    "languages": [
+      {
+        "name": "Bleihaltiges Gas",
+        "code": "de"
+      },
+      {
+        "name": "Gaz au Plomb",
+        "code": "fr"
+      },
+      {
+        "name": "Leaded Gas",
+        "code": "it"
+      },
+      {
+        "name": "레디드 가스",
+        "code": "ko"
+      },
+      {
+        "name": "Gas con plomo",
+        "code": "es"
+      },
+      {
+        "name": "毒气铅弹",
+        "code": "zh"
+      },
+      {
+        "name": "Свинцовый газ",
+        "code": "ru"
+      },
+      {
+        "name": "Leaded Gas",
+        "code": "ja"
+      },
+      {
+        "name": "Zatrucie Ołowiem",
+        "code": "pl"
+      },
+      {
+        "name": "Leaded Gas",
+        "code": "pt"
+      },
+      {
+        "name": "毒氣彈頭",
+        "code": "tc"
+      },
+      {
+        "name": "Leaded Gas",
+        "code": "th"
+      },
+      {
+        "name": "Leaded Gas",
+        "code": "tr"
+      },
+      {
+        "name": "Свинцевий газ",
         "code": "uk"
       }
     ]
@@ -51620,6 +51746,132 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/MagneticClipRifleMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-capacity-f511569dbe.jpg",
+    "name": "Magnetic Capacity",
+    "languages": [
+      {
+        "name": "Magnetische Kapazität",
+        "code": "de"
+      },
+      {
+        "name": "Capacité Magnétique",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Capacity",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 캐퍼시티",
+        "code": "ko"
+      },
+      {
+        "name": "Capacidad magnética",
+        "code": "es"
+      },
+      {
+        "name": "磁性弹容",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитная вместимость",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Capacity",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczna Pojemność",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Capacity",
+        "code": "pt"
+      },
+      {
+        "name": "磁性載量",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Capacity",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Capacity",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетична місткість",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowMagneticEventMeleeMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-claws-b35effe51e.jpg",
+    "name": "Magnetic Claws",
+    "languages": [
+      {
+        "name": "Magnetische Klauen",
+        "code": "de"
+      },
+      {
+        "name": "Griffes Magnétiques",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Claws",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 클로",
+        "code": "ko"
+      },
+      {
+        "name": "Garras magnéticas",
+        "code": "es"
+      },
+      {
+        "name": "磁化利爪",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитные когти",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Claws",
+        "code": "ja"
+      },
+      {
+        "name": "Szpony Magnetyczne",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Claws",
+        "code": "pt"
+      },
+      {
+        "name": "磁力爪子",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Claws",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Claws",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичні пазурі",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Focus/Ward/Active/MagneticFieldFocusUpgrade",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-flare-6177967fcd.jpg",
     "name": "Magnetic Flare",
@@ -51678,6 +51930,195 @@
       },
       {
         "name": "Magnetic Flare",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/MagneticCritDamagePistolMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-might-82280830b9.jpg",
+    "name": "Magnetic Might",
+    "languages": [
+      {
+        "name": "Magnetische Macht",
+        "code": "de"
+      },
+      {
+        "name": "Puissance Magnétique",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Might",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 마이트",
+        "code": "ko"
+      },
+      {
+        "name": "Poder magnético",
+        "code": "es"
+      },
+      {
+        "name": "磁吸巨力",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитная мощь",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Might",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczna Moc",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Might",
+        "code": "pt"
+      },
+      {
+        "name": "磁極暴力",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Might",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Might",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетична міць",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/MagneticAttackSpeedMeleeMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-rush-5df06f5460.jpg",
+    "name": "Magnetic Rush",
+    "languages": [
+      {
+        "name": "Magnetischer Rausch",
+        "code": "de"
+      },
+      {
+        "name": "Ruée Magnétique",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Rush",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 러쉬",
+        "code": "ko"
+      },
+      {
+        "name": "Ráfaga magnética",
+        "code": "es"
+      },
+      {
+        "name": "励磁加速",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитное ускорение",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Rush",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczny Szturm",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Rush",
+        "code": "pt"
+      },
+      {
+        "name": "磁氣猛攻",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Rush",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Rush",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичний наступ",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/MagneticFireRateShotgunMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-strafe-d6202040c9.jpg",
+    "name": "Magnetic Strafe",
+    "languages": [
+      {
+        "name": "Magnetisches Beharren",
+        "code": "de"
+      },
+      {
+        "name": "Mitraillage Magnétique",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Strafe",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 스트레이프",
+        "code": "ko"
+      },
+      {
+        "name": "Ametralladora magnética",
+        "code": "es"
+      },
+      {
+        "name": "磁暴洗礼",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитный обстрел",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Strafe",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczny Ostrzał",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Strafe",
+        "code": "pt"
+      },
+      {
+        "name": "磁力掃射",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Strafe",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Strafe",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичне ковзання",
         "code": "uk"
       }
     ]
@@ -51746,6 +52187,195 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponMagneticOnImpactShotgunMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-welt-cb25ea0848.jpg",
+    "name": "Magnetic Welt",
+    "languages": [
+      {
+        "name": "Magnetische Fassung",
+        "code": "de"
+      },
+      {
+        "name": "Bordure Magnétique",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetic Welt",
+        "code": "it"
+      },
+      {
+        "name": "마그네틱 웰트",
+        "code": "ko"
+      },
+      {
+        "name": "Cinta magnética",
+        "code": "es"
+      },
+      {
+        "name": "磁化冲击",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитная лента",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetic Welt",
+        "code": "ja"
+      },
+      {
+        "name": "Taśma magnetyczna",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetic Welt",
+        "code": "pt"
+      },
+      {
+        "name": "磁擊瘀疤",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetic Welt",
+        "code": "th"
+      },
+      {
+        "name": "Magnetic Welt",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичні пухирці",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventMagneticCritDamageMeleeMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetized-core-586dffa0dd.jpg",
+    "name": "Magnetized Core",
+    "languages": [
+      {
+        "name": "Magnetischer Kern",
+        "code": "de"
+      },
+      {
+        "name": "Noyau Magnétisé",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetized Core",
+        "code": "it"
+      },
+      {
+        "name": "마그네타이즈드 코어",
+        "code": "ko"
+      },
+      {
+        "name": "Núcleo magnetizado",
+        "code": "es"
+      },
+      {
+        "name": "磁性核心",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитное ядро",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetized Core",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczny Rdzeń",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetized Core",
+        "code": "pt"
+      },
+      {
+        "name": "磁化核心",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetized Core",
+        "code": "th"
+      },
+      {
+        "name": "Magnetized Core",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичне ядро",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventMagneticFireRateRifleMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetized-cycle-a5bc0e43ef.jpg",
+    "name": "Magnetized Cycle",
+    "languages": [
+      {
+        "name": "Magnetischer Zyklus",
+        "code": "de"
+      },
+      {
+        "name": "Cycle Magnétisé",
+        "code": "fr"
+      },
+      {
+        "name": "Magnetized Cycle",
+        "code": "it"
+      },
+      {
+        "name": "마그네타이즈드 사이클",
+        "code": "ko"
+      },
+      {
+        "name": "Ciclo magnetizado",
+        "code": "es"
+      },
+      {
+        "name": "磁场循环",
+        "code": "zh"
+      },
+      {
+        "name": "Магнитный цикл",
+        "code": "ru"
+      },
+      {
+        "name": "Magnetized Cycle",
+        "code": "ja"
+      },
+      {
+        "name": "Magnetyczny Cykl",
+        "code": "pl"
+      },
+      {
+        "name": "Magnetized Cycle",
+        "code": "pt"
+      },
+      {
+        "name": "磁轉循環",
+        "code": "tc"
+      },
+      {
+        "name": "Magnetized Cycle",
+        "code": "th"
+      },
+      {
+        "name": "Magnetized Cycle",
+        "code": "tr"
+      },
+      {
+        "name": "Магнетичний цикл",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Mag/BulletAttractorAugmentCard",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetized-discharge-5e3b4a398c.jpg",
     "name": "Magnetized Discharge",
@@ -51787,7 +52417,7 @@
         "code": "pl"
       },
       {
-        "name": "Magnetized Discharge",
+        "name": "Descarga Magnetizada",
         "code": "pt"
       },
       {
@@ -53977,7 +54607,7 @@
         "code": "ja"
       },
       {
-        "name": "Mod Riven Broni Białej",
+        "name": "Mod Riven Broni białej",
         "code": "pl"
       },
       {
@@ -54040,7 +54670,7 @@
         "code": "ja"
       },
       {
-        "name": "Mod Riven Broni Białej",
+        "name": "Mod Riven Broni białej",
         "code": "pl"
       },
       {
@@ -54419,6 +55049,69 @@
           "Робить доступним теннокай."
         ],
         "name": "Спадок наставників",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CriticalDamagePunchThroughMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/merciless-gunfight-d79e94fcfd.jpg",
+    "name": "Merciless Gunfight",
+    "languages": [
+      {
+        "name": "Gnadenloses Feuergefecht",
+        "code": "de"
+      },
+      {
+        "name": "Fusillade Impitoyable",
+        "code": "fr"
+      },
+      {
+        "name": "Merciless Gunfight",
+        "code": "it"
+      },
+      {
+        "name": "머시리스 건파이트",
+        "code": "ko"
+      },
+      {
+        "name": "Tiroteo despiadado",
+        "code": "es"
+      },
+      {
+        "name": "无情枪斗",
+        "code": "zh"
+      },
+      {
+        "name": "Беспощадная перестрелка",
+        "code": "ru"
+      },
+      {
+        "name": "Merciless Gunfight",
+        "code": "ja"
+      },
+      {
+        "name": "Bezlitosna strzelanina",
+        "code": "pl"
+      },
+      {
+        "name": "Merciless Gunfight",
+        "code": "pt"
+      },
+      {
+        "name": "冷酷交火",
+        "code": "tc"
+      },
+      {
+        "name": "Merciless Gunfight",
+        "code": "th"
+      },
+      {
+        "name": "Merciless Gunfight",
+        "code": "tr"
+      },
+      {
+        "name": "Безжальна стрілянина",
         "code": "uk"
       }
     ]
@@ -55221,7 +55914,7 @@
         "code": "pl"
       },
       {
-        "name": "Mind Freak",
+        "name": "Confusão Mental",
         "code": "pt"
       },
       {
@@ -56749,7 +57442,7 @@
       },
       {
         "description": [
-          "手榴彈在撞擊後會留下一處燃燒的區塊。"
+          "榴彈撞擊後會留下一片燃燒的區塊。"
         ],
         "name": "凝固汽油榴彈",
         "code": "tc"
@@ -61831,7 +62524,7 @@
         "code": "pl"
       },
       {
-        "name": "Pacifying Bolts",
+        "name": "Dardos Pacificadores",
         "code": "pt"
       },
       {
@@ -64354,7 +65047,7 @@
         "code": "pl"
       },
       {
-        "name": "Piercing Roar",
+        "name": "Rugido Perfurante",
         "code": "pt"
       },
       {
@@ -64560,6 +65253,69 @@
       },
       {
         "name": "Хапальний рій",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponWeakpointCriticalChanceMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pistol-acuity-ec8de33fab.jpg",
+    "name": "Pistol Acuity",
+    "languages": [
+      {
+        "name": "Pistolen-Scharfsinn",
+        "code": "de"
+      },
+      {
+        "name": "Précision de Pistolet",
+        "code": "fr"
+      },
+      {
+        "name": "Pistol Acuity",
+        "code": "it"
+      },
+      {
+        "name": "피스톨 어큐이티",
+        "code": "ko"
+      },
+      {
+        "name": "Agudeza de pistola",
+        "code": "es"
+      },
+      {
+        "name": "敏锐手枪",
+        "code": "zh"
+      },
+      {
+        "name": "Пистолетная точность",
+        "code": "ru"
+      },
+      {
+        "name": "Pistol Acuity",
+        "code": "ja"
+      },
+      {
+        "name": "Precyzja Pistoletu",
+        "code": "pl"
+      },
+      {
+        "name": "Pistol Acuity",
+        "code": "pt"
+      },
+      {
+        "name": "手槍敏銳",
+        "code": "tc"
+      },
+      {
+        "name": "Pistol Acuity",
+        "code": "th"
+      },
+      {
+        "name": "Pistol Acuity",
+        "code": "tr"
+      },
+      {
+        "name": "Пістолетна гострозорість",
         "code": "uk"
       }
     ]
@@ -65909,7 +66665,7 @@
         "code": "pl"
       },
       {
-        "name": "Pool of Life",
+        "name": "Poço Universal",
         "code": "pt"
       },
       {
@@ -67438,6 +68194,69 @@
       },
       {
         "name": "Первісне шаленство",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponWeakpointCriticalChanceMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primary-acuity-659c097a95.jpg",
+    "name": "Primary Acuity",
+    "languages": [
+      {
+        "name": "Primärer Scharfsinn",
+        "code": "de"
+      },
+      {
+        "name": "Précision Primaire",
+        "code": "fr"
+      },
+      {
+        "name": "Primary Acuity",
+        "code": "it"
+      },
+      {
+        "name": "프라이머리 어큐이티",
+        "code": "ko"
+      },
+      {
+        "name": "Agudeza primaria",
+        "code": "es"
+      },
+      {
+        "name": "敏锐主武",
+        "code": "zh"
+      },
+      {
+        "name": "Основная точность",
+        "code": "ru"
+      },
+      {
+        "name": "Primary Acuity",
+        "code": "ja"
+      },
+      {
+        "name": "Precyzja Karabinu",
+        "code": "pl"
+      },
+      {
+        "name": "Primary Acuity",
+        "code": "pt"
+      },
+      {
+        "name": "主要敏銳",
+        "code": "tc"
+      },
+      {
+        "name": "Primary Acuity",
+        "code": "th"
+      },
+      {
+        "name": "Primary Acuity",
+        "code": "tr"
+      },
+      {
+        "name": "Основна гострозорість",
         "code": "uk"
       }
     ]
@@ -72464,7 +73283,7 @@
         "code": "pl"
       },
       {
-        "name": "Purging Slash",
+        "name": "Investida Purificante",
         "code": "pt"
       },
       {
@@ -72527,7 +73346,7 @@
         "code": "pl"
       },
       {
-        "name": "Purifying Flames",
+        "name": "Chama Purificadora",
         "code": "pt"
       },
       {
@@ -73515,7 +74334,7 @@
         "code": "pl"
       },
       {
-        "name": "Radiant Finish",
+        "name": "Finalização Radiante",
         "code": "pt"
       },
       {
@@ -73595,6 +74414,69 @@
       },
       {
         "name": "Радіоактивне перезаряджання",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowRadiationEventMeleeMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/radon-claws-2ee881a559.jpg",
+    "name": "Radon Claws",
+    "languages": [
+      {
+        "name": "Radon-Klauen",
+        "code": "de"
+      },
+      {
+        "name": "Griffes Radon",
+        "code": "fr"
+      },
+      {
+        "name": "Radon Claws",
+        "code": "it"
+      },
+      {
+        "name": "라돈 클로",
+        "code": "ko"
+      },
+      {
+        "name": "Garras de radón",
+        "code": "es"
+      },
+      {
+        "name": "辐能利爪",
+        "code": "zh"
+      },
+      {
+        "name": "Радоновые Когти",
+        "code": "ru"
+      },
+      {
+        "name": "Radon Claws",
+        "code": "ja"
+      },
+      {
+        "name": "Szpony Radonu",
+        "code": "pl"
+      },
+      {
+        "name": "Radon Claws",
+        "code": "pt"
+      },
+      {
+        "name": "氡氣爪子",
+        "code": "tc"
+      },
+      {
+        "name": "Radon Claws",
+        "code": "th"
+      },
+      {
+        "name": "Radon Claws",
+        "code": "tr"
+      },
+      {
+        "name": "Радонові пазурі",
         "code": "uk"
       }
     ]
@@ -75072,7 +75954,7 @@
         "code": "tr"
       },
       {
-        "name": "Рикошет",
+        "name": "Відскок",
         "code": "uk"
       }
     ]
@@ -75119,7 +76001,7 @@
         "code": "pl"
       },
       {
-        "name": "Recharge Barrier",
+        "name": "Barreira de Recarga",
         "code": "pt"
       },
       {
@@ -76316,7 +77198,7 @@
         "code": "pl"
       },
       {
-        "name": "Regenerative Molt",
+        "name": "Exúvia Regenerativa",
         "code": "pt"
       },
       {
@@ -76505,7 +77387,7 @@
         "code": "pl"
       },
       {
-        "name": "Reinforcing Stomp",
+        "name": "Pisão Vigoroso",
         "code": "pt"
       },
       {
@@ -77158,7 +78040,7 @@
         "code": "pl"
       },
       {
-        "name": "Repair Dispensary",
+        "name": "Dispensário Reparador",
         "code": "pt"
       },
       {
@@ -78103,7 +78985,7 @@
         "code": "pl"
       },
       {
-        "name": "Revealing Spores",
+        "name": "Esporos Rastreadores",
         "code": "pt"
       },
       {
@@ -81242,7 +82124,7 @@
         "code": "pl"
       },
       {
-        "name": "Sapping Reach",
+        "name": "Atração Energizante",
         "code": "pt"
       },
       {
@@ -85933,7 +86815,7 @@
         "code": "pl"
       },
       {
-        "name": "Shield Overload",
+        "name": "Sobrecarga de Escudos",
         "code": "pt"
       },
       {
@@ -86354,7 +87236,7 @@
         "code": "pl"
       },
       {
-        "name": "Shock Trooper",
+        "name": "Eletrocussão Aliada",
         "code": "pt"
       },
       {
@@ -86480,7 +87362,7 @@
         "code": "pl"
       },
       {
-        "name": "Shocking Speed",
+        "name": "Velocidade Relâmpago",
         "code": "pt"
       },
       {
@@ -88055,7 +88937,7 @@
         "code": "pl"
       },
       {
-        "name": "Signal Flare",
+        "name": "Sinalizador",
         "code": "pt"
       },
       {
@@ -88181,7 +89063,7 @@
         "code": "pl"
       },
       {
-        "name": "Singularity",
+        "name": "Singularidade",
         "code": "pt"
       },
       {
@@ -90449,6 +91331,69 @@
       },
       {
         "name": "Запасні частини",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountInvisibleMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spectral-serration-75b2df6a80.jpg",
+    "name": "Spectral Serration",
+    "languages": [
+      {
+        "name": "Spektrale Einkerbung",
+        "code": "de"
+      },
+      {
+        "name": "Dentelure Spectrale",
+        "code": "fr"
+      },
+      {
+        "name": "Spectral Serration",
+        "code": "it"
+      },
+      {
+        "name": "스펙트럴 서레이션",
+        "code": "ko"
+      },
+      {
+        "name": "Sierra espectral",
+        "code": "es"
+      },
+      {
+        "name": "幽灵 膛线",
+        "code": "zh"
+      },
+      {
+        "name": "Спектральные зазубрины",
+        "code": "ru"
+      },
+      {
+        "name": "Spectral Serration",
+        "code": "ja"
+      },
+      {
+        "name": "Widmowe Gwintowanie",
+        "code": "pl"
+      },
+      {
+        "name": "Spectral Serration",
+        "code": "pt"
+      },
+      {
+        "name": "幽魅 膛線",
+        "code": "tc"
+      },
+      {
+        "name": "Spectral Serration",
+        "code": "th"
+      },
+      {
+        "name": "Spectral Serration",
+        "code": "tr"
+      },
+      {
+        "name": "Примарні зубці",
         "code": "uk"
       }
     ]
@@ -94630,6 +95575,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerCompanionSummonDamageAuraMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/summoner’s-wrath-e3b6c21d70.jpg",
+    "name": "Summoner’S Wrath",
+    "languages": [
+      {
+        "name": "Zorn des Herbeirufens",
+        "code": "de"
+      },
+      {
+        "name": "Colère de l'Invocateur",
+        "code": "fr"
+      },
+      {
+        "name": "Summoner’s Wrath",
+        "code": "it"
+      },
+      {
+        "name": "서머너스 래스",
+        "code": "ko"
+      },
+      {
+        "name": "Ira del invocador",
+        "code": "es"
+      },
+      {
+        "name": "召唤师之怒",
+        "code": "zh"
+      },
+      {
+        "name": "Гнев призывателя",
+        "code": "ru"
+      },
+      {
+        "name": "Summoner’s Wrath",
+        "code": "ja"
+      },
+      {
+        "name": "Gniew Przywoływacza",
+        "code": "pl"
+      },
+      {
+        "name": "Summoner’s Wrath",
+        "code": "pt"
+      },
+      {
+        "name": "召喚師盛怒",
+        "code": "tc"
+      },
+      {
+        "name": "Summoner’s Wrath",
+        "code": "th"
+      },
+      {
+        "name": "Summoner’s Wrath",
+        "code": "tr"
+      },
+      {
+        "name": "Гнів господарів",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Focus/Ward/Active/DashReduceArmourFocusUpgrade",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sundering-dash-749631b628.jpg",
     "name": "Sundering Dash",
@@ -95596,7 +96604,7 @@
         "code": "pl"
       },
       {
-        "name": "Surging Dash",
+        "name": "Investida Crescente",
         "code": "pt"
       },
       {
@@ -95911,7 +96919,7 @@
         "code": "pl"
       },
       {
-        "name": "Swift Bite",
+        "name": "Mordida Célere",
         "code": "pt"
       },
       {
@@ -98787,7 +99795,7 @@
         "code": "pl"
       },
       {
-        "name": "Temporal Artillery",
+        "name": "Artilharia Temporal",
         "code": "pt"
       },
       {
@@ -98913,7 +99921,7 @@
         "code": "pl"
       },
       {
-        "name": "Temporal Erosion",
+        "name": "Erosão Temporal",
         "code": "pt"
       },
       {
@@ -99417,7 +100425,7 @@
         "code": "pl"
       },
       {
-        "name": "The Relentless Lost",
+        "name": "Elos Implacáveis",
         "code": "pt"
       },
       {
@@ -101353,7 +102361,7 @@
         "code": "pl"
       },
       {
-        "name": "Transistor Shield",
+        "name": "Escudo Transistor",
         "code": "pt"
       },
       {
@@ -105772,7 +106780,7 @@
         "code": "pl"
       },
       {
-        "name": "Valence Formation",
+        "name": "Formação de Valência",
         "code": "pt"
       },
       {
@@ -105835,7 +106843,7 @@
         "code": "pl"
       },
       {
-        "name": "Vampire Leech",
+        "name": "Vampirismo Parasitário",
         "code": "pt"
       },
       {
@@ -105898,7 +106906,7 @@
         "code": "pl"
       },
       {
-        "name": "Vampiric Grasp",
+        "name": "Entrelaço Vampírico",
         "code": "pt"
       },
       {
@@ -106551,7 +107559,7 @@
         "code": "pl"
       },
       {
-        "name": "Venom Dose",
+        "name": "Toque Venenoso",
         "code": "pt"
       },
       {
@@ -109895,7 +110903,7 @@
         "code": "tr"
       },
       {
-        "name": "Летюче швидке повернення",
+        "name": "Вибухове швидке повернення",
         "code": "uk"
       }
     ]
@@ -109958,7 +110966,7 @@
         "code": "tr"
       },
       {
-        "name": "Летюче підбирання",
+        "name": "Вибуховий відскок",
         "code": "uk"
       }
     ]
@@ -110933,7 +111941,7 @@
         "code": "pl"
       },
       {
-        "name": "Warding Thurible",
+        "name": "Turíbulo Protetor",
         "code": "pt"
       },
       {
@@ -111055,7 +112063,7 @@
         "code": "ja"
       },
       {
-        "name": "Płaszcz Ciepła",
+        "name": "Ciepły Płaszcz",
         "code": "pl"
       },
       {
@@ -111118,7 +112126,7 @@
         "code": "ja"
       },
       {
-        "name": "Płaszcz Ciepła",
+        "name": "Ciepły Płaszcz",
         "code": "pl"
       },
       {
@@ -111181,7 +112189,7 @@
         "code": "ja"
       },
       {
-        "name": "Płaszcz Ciepła",
+        "name": "Ciepły Płaszcz",
         "code": "pl"
       },
       {
@@ -112064,6 +113072,69 @@
       },
       {
         "name": "Катування хробака",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerWeakpointCriticalChanceAuraMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/worthy-comradery-f0aaff8741.jpg",
+    "name": "Worthy Comradery",
+    "languages": [
+      {
+        "name": "Würdige Kameradschaft",
+        "code": "de"
+      },
+      {
+        "name": "Camaraderie Digne",
+        "code": "fr"
+      },
+      {
+        "name": "Worthy Comradery",
+        "code": "it"
+      },
+      {
+        "name": "워디 콤래더리",
+        "code": "ko"
+      },
+      {
+        "name": "Camaradería digna",
+        "code": "es"
+      },
+      {
+        "name": "可靠战友",
+        "code": "zh"
+      },
+      {
+        "name": "Достойное товарищество",
+        "code": "ru"
+      },
+      {
+        "name": "Worthy Comradery",
+        "code": "ja"
+      },
+      {
+        "name": "Godna współpraca",
+        "code": "pl"
+      },
+      {
+        "name": "Worthy Comradery",
+        "code": "pt"
+      },
+      {
+        "name": "信賴情誼",
+        "code": "tc"
+      },
+      {
+        "name": "Worthy Comradery",
+        "code": "th"
+      },
+      {
+        "name": "Worthy Comradery",
+        "code": "tr"
+      },
+      {
+        "name": "Гідне товариство",
         "code": "uk"
       }
     ]

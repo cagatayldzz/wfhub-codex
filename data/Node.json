@@ -1240,6 +1240,68 @@
     ]
   },
   {
+    "uniqueName": "SolNode856",
+    "name": "Assassinate: H-09 Tank",
+    "languages": [
+      {
+        "name": "Attentat: H-09 Panzer",
+        "code": "de"
+      },
+      {
+        "name": "Assassinat: Char H-09",
+        "code": "fr"
+      },
+      {
+        "name": "Assassinio: Carro Armato H-09",
+        "code": "it"
+      },
+      {
+        "name": "암살: H-09 탱크",
+        "code": "ko"
+      },
+      {
+        "name": "Asesinato: Tanque H-09",
+        "code": "es"
+      },
+      {
+        "name": "刺杀：H-09 坦克",
+        "code": "zh"
+      },
+      {
+        "name": "Убийство: Танк Н-09",
+        "code": "ru"
+      },
+      {
+        "name": "抹殺：H-09 戦車",
+        "code": "ja"
+      },
+      {
+        "name": "Zabójstwo: Czołg H-09",
+        "code": "pl"
+      },
+      {
+        "name": "Assassinato (Tanque H-09)",
+        "code": "pt"
+      },
+      {
+        "name": "刺殺：H-09 戰車",
+        "code": "tc"
+      },
+      {
+        "name": "ลอบสังหาร: รถถัง H-09",
+        "code": "th"
+      },
+      {
+        "name": "Suikast: H-09 Tankı",
+        "code": "tr"
+      },
+      {
+        "name": "Убивство: Танк H-09",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "ClanNode17",
     "name": "Assur",
     "languages": [
@@ -4464,6 +4526,254 @@
     ]
   },
   {
+    "uniqueName": "SolNode853",
+    "name": "Exterminate: Scaldra",
+    "languages": [
+      {
+        "name": "Auslöschung: Scaldra",
+        "code": "de"
+      },
+      {
+        "name": "Extermination: Scaldra",
+        "code": "fr"
+      },
+      {
+        "name": "Sterminio: Scaldra",
+        "code": "it"
+      },
+      {
+        "name": "섬멸: 스칼드라",
+        "code": "ko"
+      },
+      {
+        "name": "Exterminio: Scaldra",
+        "code": "es"
+      },
+      {
+        "name": "歼灭：炽蛇军",
+        "code": "zh"
+      },
+      {
+        "name": "Зачистка: Скальдра",
+        "code": "ru"
+      },
+      {
+        "name": "掃滅：スカルドラ",
+        "code": "ja"
+      },
+      {
+        "name": "Eksterminacja: Scaldra",
+        "code": "pl"
+      },
+      {
+        "name": "Extermínio (Scaldra)",
+        "code": "pt"
+      },
+      {
+        "name": "殲滅：清剿隊",
+        "code": "tc"
+      },
+      {
+        "name": "กำจัด: Scaldra",
+        "code": "th"
+      },
+      {
+        "name": "Yok Etme: Scaldra",
+        "code": "tr"
+      },
+      {
+        "name": "Винищення: «Скальдра»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode854",
+    "name": "Exterminate: Techrot",
+    "languages": [
+      {
+        "name": "Auslöschung: Techrot",
+        "code": "de"
+      },
+      {
+        "name": "Extermination: Techrot",
+        "code": "fr"
+      },
+      {
+        "name": "Sterminio: Techrot",
+        "code": "it"
+      },
+      {
+        "name": "섬멸: 테크병",
+        "code": "ko"
+      },
+      {
+        "name": "Exterminio: Techrot",
+        "code": "es"
+      },
+      {
+        "name": "歼灭：科腐者",
+        "code": "zh"
+      },
+      {
+        "name": "Зачистка: Техрот",
+        "code": "ru"
+      },
+      {
+        "name": "掃滅：テックロット",
+        "code": "ja"
+      },
+      {
+        "name": "Eksterminacja: Techrot",
+        "code": "pl"
+      },
+      {
+        "name": "Extermínio (Tecnovírus)",
+        "code": "pt"
+      },
+      {
+        "name": "殲滅：科腐者",
+        "code": "tc"
+      },
+      {
+        "name": "กำจัด: Techrot",
+        "code": "th"
+      },
+      {
+        "name": "Yok Etme: Techrot",
+        "code": "tr"
+      },
+      {
+        "name": "Винищення: техногниль",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode857",
+    "name": "Faceoff: Single Squad",
+    "languages": [
+      {
+        "name": "Konfrontation: Solo-Team",
+        "code": "de"
+      },
+      {
+        "name": "Affrontement: Escouade seule",
+        "code": "fr"
+      },
+      {
+        "name": "Confronto: Squadra Singola",
+        "code": "it"
+      },
+      {
+        "name": "경합: 단독 분대",
+        "code": "ko"
+      },
+      {
+        "name": "Confrontación: escuadrón único",
+        "code": "es"
+      },
+      {
+        "name": "对战：小队独战",
+        "code": "zh"
+      },
+      {
+        "name": "Конфронтация: Соло-отряд",
+        "code": "ru"
+      },
+      {
+        "name": "フェイスオフ：シングル分隊",
+        "code": "ja"
+      },
+      {
+        "name": "Konfrontacja: Pojedyncza drużyna",
+        "code": "pl"
+      },
+      {
+        "name": "Confronto: Esquadrão Único",
+        "code": "pt"
+      },
+      {
+        "name": "對峙：小隊獨戰",
+        "code": "tc"
+      },
+      {
+        "name": "การเผชิญหน้า: ทีมเดี่ยว",
+        "code": "th"
+      },
+      {
+        "name": "Yüzleşme: Tek Takım",
+        "code": "tr"
+      },
+      {
+        "name": "Протистояння: один загін",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode855",
+    "name": "Faceoff: Squad Vs Squad",
+    "languages": [
+      {
+        "name": "Konfrontation: Team VS Team",
+        "code": "de"
+      },
+      {
+        "name": "Affrontement: Escouade VS Escouade",
+        "code": "fr"
+      },
+      {
+        "name": "Confronto: Squadra VS Squadra",
+        "code": "it"
+      },
+      {
+        "name": "경합: 분대 VS 분대",
+        "code": "ko"
+      },
+      {
+        "name": "Confrontación: escuadrón contra escuadrón",
+        "code": "es"
+      },
+      {
+        "name": "对战：小队 VS 小队",
+        "code": "zh"
+      },
+      {
+        "name": "Конфронтация: Отряд против отряда",
+        "code": "ru"
+      },
+      {
+        "name": "フェイスオフ：分隊 vs 分隊",
+        "code": "ja"
+      },
+      {
+        "name": "Konfrontacja: Drużyna kontra Drużyna",
+        "code": "pl"
+      },
+      {
+        "name": "Confronto: Esquadrão X Esquadrão",
+        "code": "pt"
+      },
+      {
+        "name": "對峙：小隊對戰",
+        "code": "tc"
+      },
+      {
+        "name": "การเผชิญหน้า: ทีม vs ทีม",
+        "code": "th"
+      },
+      {
+        "name": "Yüzleşme: Takım VS Takım",
+        "code": "tr"
+      },
+      {
+        "name": "Протистояння: загін супроти загону",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "SolNode710",
     "name": "Formido",
     "languages": [
@@ -5327,6 +5637,130 @@
       },
       {
         "name": "Гелена",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode851",
+    "name": "Hell-Scrub: Scaldra",
+    "languages": [
+      {
+        "name": "Höllen-Schrubber: Scaldra",
+        "code": "de"
+      },
+      {
+        "name": "Désporisation: Scaldra",
+        "code": "fr"
+      },
+      {
+        "name": "Desporatizzazione: Scaldra",
+        "code": "it"
+      },
+      {
+        "name": "헬스크럽: 스칼드라",
+        "code": "ko"
+      },
+      {
+        "name": "Purga infernal: Scaldra",
+        "code": "es"
+      },
+      {
+        "name": "地狱净化：炽蛇军",
+        "code": "zh"
+      },
+      {
+        "name": "Чистилище: Скальдра",
+        "code": "ru"
+      },
+      {
+        "name": "ヘルスクラバー：スカルドラ",
+        "code": "ja"
+      },
+      {
+        "name": "Czyściec: Scaldra",
+        "code": "pl"
+      },
+      {
+        "name": "Purificação (Scaldra)",
+        "code": "pt"
+      },
+      {
+        "name": "地獄洗滌：清剿隊",
+        "code": "tc"
+      },
+      {
+        "name": "ฟอกนรก: Scaldra",
+        "code": "th"
+      },
+      {
+        "name": "Cehennem-Temizliği: Scaldra",
+        "code": "tr"
+      },
+      {
+        "name": "Пеклоочисник: «Скальдра»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode852",
+    "name": "Hell-Scrub: Techrot",
+    "languages": [
+      {
+        "name": "Höllen-Schrubber: Techrot",
+        "code": "de"
+      },
+      {
+        "name": "Désporisation: Techrot",
+        "code": "fr"
+      },
+      {
+        "name": "Desporatizzazione: Techrot",
+        "code": "it"
+      },
+      {
+        "name": "헬스크럽: 테크병",
+        "code": "ko"
+      },
+      {
+        "name": "Purga infernal: Techrot",
+        "code": "es"
+      },
+      {
+        "name": "地狱净化：科腐者",
+        "code": "zh"
+      },
+      {
+        "name": "Чистилище: Техрот",
+        "code": "ru"
+      },
+      {
+        "name": "ヘルスクラバー：テックロット",
+        "code": "ja"
+      },
+      {
+        "name": "Czyściec: Techrot",
+        "code": "pl"
+      },
+      {
+        "name": "Purificação (Tecnovírus)",
+        "code": "pt"
+      },
+      {
+        "name": "地獄洗滌：科腐者",
+        "code": "tc"
+      },
+      {
+        "name": "ฟอกนรก: Techrot",
+        "code": "th"
+      },
+      {
+        "name": "Cehennem-Temizliği: Techrot",
+        "code": "tr"
+      },
+      {
+        "name": "Пеклоочисник: техногниль",
         "code": "uk"
       }
     ]
@@ -7001,6 +7435,68 @@
       },
       {
         "name": "Ларзак",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "SolNode850",
+    "name": "Legacyte Harvest",
+    "languages": [
+      {
+        "name": "Legacyte-Ernte",
+        "code": "de"
+      },
+      {
+        "name": "Récolte de Legacytes",
+        "code": "fr"
+      },
+      {
+        "name": "Raccolta del Legacyte",
+        "code": "it"
+      },
+      {
+        "name": "레가사이트 수확",
+        "code": "ko"
+      },
+      {
+        "name": "Cosecha de legacito",
+        "code": "es"
+      },
+      {
+        "name": "传承种收割",
+        "code": "zh"
+      },
+      {
+        "name": "Легацитная жатва",
+        "code": "ru"
+      },
+      {
+        "name": "レガサイト収穫",
+        "code": "ja"
+      },
+      {
+        "name": "Żniwa Legacytu",
+        "code": "pl"
+      },
+      {
+        "name": "Captura de Legácito",
+        "code": "pt"
+      },
+      {
+        "name": "傳承細胞收割",
+        "code": "tc"
+      },
+      {
+        "name": "เก็บเกี่ยว Legacyte",
+        "code": "th"
+      },
+      {
+        "name": "Legacyte Hasadı",
+        "code": "tr"
+      },
+      {
+        "name": "Легацитні жнива",
         "code": "uk"
       }
     ]

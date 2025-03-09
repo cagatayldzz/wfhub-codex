@@ -35,7 +35,7 @@ const CATEGORY = [
   "Warframes",
 ];
 
-const DATA_CONFIG2: { outputFile: string; category: string }[] = CATEGORY.map(
+const DATA_CONFIG: { outputFile: string; category: string }[] = CATEGORY.map(
   (category) => ({
     outputFile: `./data/${category}.json`,
     category,
@@ -75,7 +75,8 @@ async function filterData<T extends Translatable>(
 
     const outputDir = path.dirname(outputFile);
     if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
+      console.log(`Creating directory: ${outputDir}`);
+      await fs.promises.mkdir(outputDir, { recursive: true });
     }
 
     fs.writeFileSync(
@@ -93,7 +94,7 @@ async function main(): Promise<void> {
   const i18nMap = loadI18nData(I18N_FILE);
 
   await Promise.all(
-    DATA_CONFIG2.map(async ({ outputFile, category }) => {
+    DATA_CONFIG.map(async ({ outputFile, category }) => {
       const inputFile = `./node_modules/warframe-items/data/json/${category}.json`;
 
       await filterData<Translatable>(

@@ -7,7 +7,7 @@
     "languages": [
       {
         "description": "Ein Siegel, dass 10 Jahre Warframe feiert, erstellt von kedemel.",
-        "name": "10. Jubiläum Community Siegel",
+        "name": "Siegel: 10. Jubiläum (Community)",
         "code": "de"
       },
       {
@@ -73,6 +73,84 @@
       {
         "description": "Сиґіл на честь святкування 10 років Warframe, створений Kedemel.",
         "name": "Сиґіл спільноти «10-та річниця»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/2-for-1-sigil-538f02ce05.png",
+    "name": "2-For-1 Sigil",
+    "description": "A sigil representing prestige gained with The Hex.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+        "name": "Siegel: 2 für 1",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+        "name": "Sceau 2 pour 1",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+        "name": "Sigillo Prendi 2 Paghi 1",
+        "code": "it"
+      },
+      {
+        "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+        "name": "한 번에 두 판 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que representa el prestigio ganado con el Hex.",
+        "name": "Sello 2 x 1",
+        "code": "es"
+      },
+      {
+        "description": "这枚纹章代表着得到了六人组的威望。",
+        "name": "双份惊喜纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+        "name": "Сигил: 2-за-1",
+        "code": "ru"
+      },
+      {
+        "description": "ヘックスから得た声望を表すシジル。",
+        "name": "1つで2個 シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+        "name": "Znak 2 za 1",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+        "name": "Brasão: Leve 2 Pague 1",
+        "code": "pt"
+      },
+      {
+        "description": "這枚紋章代表著得到了六煞幫的威望。",
+        "name": "買一送一紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+        "name": "เครื่องหมาย: สั่ง 2 จ่าย 1",
+        "code": "th"
+      },
+      {
+        "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+        "name": "2'si 1 Arada Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+        "name": "Сиґіл «2 в 1»",
         "code": "uk"
       }
     ]
@@ -1555,6 +1633,84 @@
       {
         "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Арбітри Гексису».",
         "name": "Сиґіл «Гнучка воля»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NightwavePizzaSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/big-bytes-pizza-sigil-43b895efe0.png",
+    "name": "Big Bytes Pizza Sigil",
+    "description": "Give your fellow Tenno a case of the munchies with Slice-Z from Big Bytes Pizza.",
+    "languages": [
+      {
+        "description": "Verpasse anderen Tenno einen Heißhunger mit einem Stück von Big Bytes Pizza.",
+        "name": "Siegel: Big Bytes Pizza",
+        "code": "de"
+      },
+      {
+        "description": "Offrez à vos camarades Tennos un véritable festin avec Slice-Z de Big Bytes Pizza.",
+        "name": "Sceau Big Bytes Pizza",
+        "code": "fr"
+      },
+      {
+        "description": "Stuzzica l'appetito dei tuoi compagni Tenno con Slice-Z di Big Bytes Pizza.",
+        "name": "Sigillo Pizza Big Bytes",
+        "code": "it"
+      },
+      {
+        "description": "빅 바이트 피자의 슬라이스-Z와 함께 동료 텐노들의 배를 출출하게 만들어 보세요.",
+        "name": "빅 바이트 피자 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Dale a tus compañeros tenno un antojo con rebanada-z de Pizza Big Bytes.",
+        "name": "Sello de Pizza Big Bytes",
+        "code": "es"
+      },
+      {
+        "description": "用超级比特披萨的 Z 味切片给你的 Tenno 同伴一份零食。",
+        "name": "超级比特披萨纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Подарите своим друзьям-Тэнно вкусняшку от «Биг байтс».",
+        "name": "Сигил: Биг байтс пицца",
+        "code": "ru"
+      },
+      {
+        "description": "仲間のテンノに箱買いのおやつとBig Bytes Pizza の Slice-Zを配ろう。",
+        "name": "Big Bytes Pizza シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Zafunduj swoim kolegom Tenno prawdziwą ucztę dzięki Slice-Z od Big Bytes Pizza.",
+        "name": "Znak Big Bytes Pizza",
+        "code": "pl"
+      },
+      {
+        "description": "Deixe seus companheiros Tennos com água na boca com as fatias da Pizza Big Bytes.",
+        "name": "Brasão: Pizza Big Bytes",
+        "code": "pt"
+      },
+      {
+        "description": "給你的 Tenno 夥伴來一盒巨無派披薩的 Slice-Z 當作點心。",
+        "name": "巨無派披薩紋章",
+        "code": "tc"
+      },
+      {
+        "description": "ทำให้กับเพื่อน Tenno ของคุณรู้สึกหิวด้วย Slice-Z จาก Big Bytes Pizza",
+        "name": "เครื่องหมาย: Big Bytes Pizza",
+        "code": "th"
+      },
+      {
+        "description": "Tenno arkadaşlarına Big Bytes Pizza'dan bir dilim ikram et.",
+        "name": "Big Bytes Pizza Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Запропонуйте дружнім тенно коробку смаколиків від піцерії «Великий Кусь».",
+        "name": "Сиґіл «Піцерія „Великий Кусь”»",
         "code": "uk"
       }
     ]
@@ -4524,6 +4680,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyte-09-target-sigil-18d1e2e046.png",
+    "name": "Cyte-09 Target Sigil",
+    "description": "Lock onto your target with this Sigil that honors Cyte-09.",
+    "languages": [
+      {
+        "description": "Fixiere dein Ziel mit diesem Siegel zu Ehren von Cyte-09 an.",
+        "name": "Siegel: Cyte-09 Ziel",
+        "code": "de"
+      },
+      {
+        "description": "Verrouillez votre cible avec ce Sceau qui honore Cyte-09.",
+        "name": "Sceau Cyte-09 Target",
+        "code": "fr"
+      },
+      {
+        "description": "Aggancia il tuo bersaglio con questo Sigillo che onora Cyte-09.",
+        "name": "Sigillo Bersaglio Cyte-09",
+        "code": "it"
+      },
+      {
+        "description": "Cyte-09를 기리는 이 시질로 목표물을 추적하세요.",
+        "name": "Cyte-09 타겟 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Fija tu objetivo con este sello que rinde homenaje a Cyte-09.",
+        "name": "Sello de Cyte-09 Target",
+        "code": "es"
+      },
+      {
+        "description": "使用这款向 Cyte-09 致敬的纹章锁定目标。",
+        "name": "Cyte-09 靶心纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Наведите на цель с помощью этого сигила, посвящённого Циту-09.",
+        "name": "Сигил: Цель Цит-09",
+        "code": "ru"
+      },
+      {
+        "description": "Cyte-09を称えるシジルでターゲットにロックオンしよう。",
+        "name": "Cyte-09 Target シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Namierz swój cel używając Znaku, który honoruje Cyte-09.",
+        "name": "Znak Cyte-09 Cel",
+        "code": "pl"
+      },
+      {
+        "description": "Mire em seu alvo com este brasão que homenageia o Cyte-09.",
+        "name": "Brasão: Alvo do Cyte-09",
+        "code": "pt"
+      },
+      {
+        "description": "鎖定你的目標。裝備這個紋章來向 Cyte-09 致敬。",
+        "name": "Cyte-09 目標紋章",
+        "code": "tc"
+      },
+      {
+        "description": "ล็อกเป้าหมายของคุณด้วยเครื่องหมายอันทรงเกียรติของ Cyte-09",
+        "name": "เครื่องหมาย: Cyte-09 Target",
+        "code": "th"
+      },
+      {
+        "description": "Cyte-09'u onurlandıran bu Mühür ile hedefine kilitlen.",
+        "name": "Cyte-09 Hedef Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Прицілюйтеся й вшановуйте Клітину-09 за допомогою цього сиґілу.",
+        "name": "Сиґіл «Клітина-09 „Ціль”»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante's-noctua-sigil-cab247da92.png",
     "name": "Dante's Noctua Sigil",
@@ -5063,8 +5297,8 @@
         "code": "tr"
       },
       {
-        "description": "Цей сиґіл належить одному з учнів тенно-засновників.",
-        "name": "Сиґіл «Учень»",
+        "description": "Цей сиґіл належить одному з послідовників тенно-засновників.",
+        "name": "Сиґіл «Послідовник»",
         "code": "uk"
       }
     ]
@@ -5382,6 +5616,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/1999DrippySigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drippy-sigil-89f3f3b909.png",
+    "name": "Drippy Sigil",
+    "description": "Party like it’s 1999 with this Drippy Sigil!",
+    "languages": [
+      {
+        "description": "Feiert, als wäre es 1999, mit diesem Siegel: Drippy!",
+        "name": "Siegel: Drippy",
+        "code": "de"
+      },
+      {
+        "description": "Faites la fête comme en 1999 avec ce Sceau Drippy!",
+        "name": "Sceau Drippy",
+        "code": "fr"
+      },
+      {
+        "description": "Festeggia come se fosse il 1999 con questo Sigillo Drippy!",
+        "name": "Sigillo Drippy",
+        "code": "it"
+      },
+      {
+        "description": "이 드리피 시질과 함께 1999년도에 할 법한 파티를 즐겨 보세요!",
+        "name": "드리피 시질",
+        "code": "ko"
+      },
+      {
+        "description": "¡Festeja como si fuera 1999 con este sello de Drippy!",
+        "name": "Sello de Drippy",
+        "code": "es"
+      },
+      {
+        "description": "通过这个滴答纹章，狂欢就像回到了 1999 年！",
+        "name": "滴答纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Веселитесь, как в 1999 году, с этим сигилом Дриппи!",
+        "name": "Сигил: Дриппи",
+        "code": "ru"
+      },
+      {
+        "description": "Drippyシジルで1999のようなパーティを楽しもう！",
+        "name": "Drippy シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Imprezuj jak w 1999 z tym Znakiem Drippy!",
+        "name": "Znak Drippy",
+        "code": "pl"
+      },
+      {
+        "description": "Festeje como se fosse 1999 com este Brasão do Seu Gotinha!",
+        "name": "Brasão: Seu Gotinha",
+        "code": "pt"
+      },
+      {
+        "description": "戴上滴嗶紋章彷彿置身在 1999 的派對裡！",
+        "name": "滴嗶紋章",
+        "code": "tc"
+      },
+      {
+        "description": "ปาร์ตี้เหมือนเป็นปี 1999 ด้วยการติดเครื่องหมาย Drippy ชิ้นนี้!",
+        "name": "เครื่องหมาย: Drippy",
+        "code": "th"
+      },
+      {
+        "description": "Bu Drippy Mührü ile 1999 yılındaymış gibi parti yap!",
+        "name": "Drippy Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Розважайтеся, наче це 1999, разом із прекрасним сиґілом!",
+        "name": "Сиґіл «Дріппі»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysKubrowSigil",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dropkick-drahk-sigil-fc607093d9.png",
     "name": "Dropkick Drahk Sigil",
@@ -5521,7 +5833,7 @@
         "code": "tc"
       },
       {
-        "description": "เครื่องหมายแสดงความยกย่องมรดกที่สืบสานต่อของ Ember",
+        "description": "เครื่องหมายฉลองตำนานที่สืบสานต่อของ Ember",
         "name": "เครื่องหมาย: Ember Heirloom",
         "code": "th"
       },
@@ -6374,7 +6686,7 @@
         "code": "pt"
       },
       {
-        "description": "一枚帶有了冬幕設計元素的紋章。",
+        "description": "一枚帶有冬幕設計元素的紋章。",
         "name": "萬年青紋章",
         "code": "tc"
       },
@@ -7093,6 +7405,84 @@
       {
         "description": "Цей сиґіл показує ваше положення в Конклаві.",
         "name": "Сиґіл «Свобода»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fresh-slice-sigil-6bc81fb782.png",
+    "name": "Fresh Slice Sigil",
+    "description": "A sigil representing prestige gained with The Hex.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+        "name": "Siegel: Frisches Stück",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+        "name": "Sceau Tranche Fraîche",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+        "name": "Sigillo Trancio Fresco",
+        "code": "it"
+      },
+      {
+        "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+        "name": "새로 자른 조각 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que representa el prestigio ganado con el Hex.",
+        "name": "Sello Rebanada fresca",
+        "code": "es"
+      },
+      {
+        "description": "这枚纹章代表着得到了六人组的威望。",
+        "name": "现烤披萨片纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+        "name": "Сигил: Свежий ломтик",
+        "code": "ru"
+      },
+      {
+        "description": "ヘックスから得た声望を表すシジル。",
+        "name": "新鮮なスライス シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+        "name": "Znak Świeżego kawałka",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+        "name": "Brasão: Fatia Quentinha",
+        "code": "pt"
+      },
+      {
+        "description": "這枚紋章代表著得到了六煞幫的威望。",
+        "name": "新鮮切片紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+        "name": "เครื่องหมาย: ชิ้นใหม่",
+        "code": "th"
+      },
+      {
+        "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+        "name": "Taze Dilim Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+        "name": "Сиґіл «Свіжий шмат»",
         "code": "uk"
       }
     ]
@@ -8736,6 +9126,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hot-&-fresh-sigil-4715ddde46.png",
+    "name": "Hot & Fresh Sigil",
+    "description": "A sigil representing prestige gained with The Hex.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+        "name": "Siegel: Heiß & Frisch",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+        "name": "Sceau Tout Chaud, Tout Frais",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+        "name": "Sigillo Appena Uscita dal Forno",
+        "code": "it"
+      },
+      {
+        "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+        "name": "갓 구워 따끈따끈 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que representa el prestigio ganado con el Hex.",
+        "name": "Sello Recién salida del horno",
+        "code": "es"
+      },
+      {
+        "description": "这枚纹章代表着得到了六人组的威望。",
+        "name": "新鲜出炉纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+        "name": "Сигил: Горячий и свежий",
+        "code": "ru"
+      },
+      {
+        "description": "ヘックスから得た声望を表すシジル。",
+        "name": "アツアツ シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+        "name": "Znak Prosto z pieca",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+        "name": "Brasão: Direto do Forno",
+        "code": "pt"
+      },
+      {
+        "description": "這枚紋章代表著得到了六煞幫的威望。",
+        "name": "新鮮出爐紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+        "name": "เครื่องหมาย: อบใหม่ ๆ ร้อน ๆ",
+        "code": "th"
+      },
+      {
+        "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+        "name": "Sıcak ve Taze Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+        "name": "Сиґіл «Свіжоспечене»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HoundingKubrowSigil",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hounding-kubrow-sigil-c5ecf1b748.png",
     "name": "Hounding Kubrow Sigil",
@@ -10062,6 +10530,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/leftovers-sigil-71b383489e.png",
+    "name": "Leftovers Sigil",
+    "description": "A sigil representing prestige gained with The Hex.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+        "name": "Siegel: Reste",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+        "name": "Sceau Restes",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+        "name": "Sigillo Avanzi",
+        "code": "it"
+      },
+      {
+        "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+        "name": "먹다 남은 것 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que representa el prestigio ganado con el Hex.",
+        "name": "Sello Sobras",
+        "code": "es"
+      },
+      {
+        "description": "这枚纹章代表着得到了六人组的威望。",
+        "name": "吃剩的披萨纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+        "name": "Сигил «Остатки»",
+        "code": "ru"
+      },
+      {
+        "description": "ヘックスから得た声望を表すシジル。",
+        "name": "余りもの シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+        "name": "Znak Resztek",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+        "name": "Brasão: Pizza de Ontem",
+        "code": "pt"
+      },
+      {
+        "description": "這枚紋章代表著得到了六煞幫的威望。",
+        "name": "吃剩冷片紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+        "name": "เครื่องหมาย: ของเหลือ",
+        "code": "th"
+      },
+      {
+        "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+        "name": "Geriye Kalanlar Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+        "name": "Сиґіл «Крихти»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasterySigil",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/legacy-mastery-sigil-a528786f54.png",
     "name": "Legacy Mastery Sigil",
@@ -10421,7 +10967,7 @@
       },
       {
         "description": "Reprezentuje przebudzonych.",
-        "name": "Znak Wyzwolenia",
+        "name": "Znak Wyzwolenia Lotus",
         "code": "pl"
       },
       {
@@ -10603,6 +11149,84 @@
       {
         "description": "Вітайте прийдешній рік сміливістю легендарного тигра.",
         "name": "Сиґіл «Місячний скрадник»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lunar-renewal-snake-sigil-41436e2984.png",
+    "name": "Lunar Renewal Snake Sigil",
+    "description": "Transform in the coming year with the intuition of the elegant snake.",
+    "languages": [
+      {
+        "description": "Wandel dich im neue Mondjahr mit der Intuition der eleganten Schlange.",
+        "name": "Siegel: Neues Mondjahr der Schlange",
+        "code": "de"
+      },
+      {
+        "description": "Entrez dans l'année à venir avec l'intuition du serpent élégant.",
+        "name": "Sceau du Serpent du Renouveau Lunaire",
+        "code": "fr"
+      },
+      {
+        "description": "Entra nell'anno a venire con l'intuizione dell'elegante serpente.",
+        "name": "Sigillo Serpente Rinnovo Lunare",
+        "code": "it"
+      },
+      {
+        "description": "우아한 뱀의 직감으로 다가오는 해에 변화를 가져오세요.",
+        "name": "루나 리뉴얼 스네이크 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Transfórmate en el próximo año con la intuición de la elegante serpiente.",
+        "name": "Sello de Serpiente de Renovación Lunar",
+        "code": "es"
+      },
+      {
+        "description": "凭借灵蛇的直觉，在新的一年转变成功。",
+        "name": "新春腾蛇纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Изменитесь в наступающем году с помощью интуиции элегантной змеи.",
+        "name": "Сигил: Обновление Луны - Змея",
+        "code": "ru"
+      },
+      {
+        "description": "優雅な蛇の直感で、来る年に変革をもたらそう。",
+        "name": "ルナーリニューアル「巳」シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Wejdź w nadchodzący rok z intuicją eleganckiego węża.",
+        "name": "Znak Nowiu: Wąż",
+        "code": "pl"
+      },
+      {
+        "description": "Transforme-se no próximo ano com a intuição da serpente elegante.",
+        "name": "Brasão: Renovação Lunar da Serpente",
+        "code": "pt"
+      },
+      {
+        "description": "以靈敏的洞察力在新的一年做出全新改變。",
+        "name": "新春煥發蛇靈紋章",
+        "code": "tc"
+      },
+      {
+        "description": "การเปลี่ยนแปลงในปีหน้ามาพร้อมสัญชาตญาณของงูที่สง่างาม",
+        "name": "เครื่องหมาย: วันตรุษจีนปีมะเส็ง",
+        "code": "th"
+      },
+      {
+        "description": "Gelecek yıl zarif yılanın sezgisiyle dönüşüm geçir.",
+        "name": "Yeni Ay Yılı Yılan Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Змініть себе в прийдешньому році завдяки інтуїції елегантної змії.",
+        "name": "Сиґіл «Місячний Новий рік. Змія»",
         "code": "uk"
       }
     ]
@@ -12224,7 +12848,7 @@
         "code": "pt"
       },
       {
-        "description": "一枚帶有了冬幕設計元素的紋章。",
+        "description": "一枚帶有冬幕設計元素的紋章。",
         "name": "尼搜叢紋章",
         "code": "tc"
       },
@@ -12955,7 +13579,7 @@
     "languages": [
       {
         "description": "Ein Symbol der Dankbarkeit der Ostron.",
-        "name": "Siegel: Ostron Community",
+        "name": "Siegel: Ostron (Community)",
         "code": "de"
       },
       {
@@ -13962,6 +14586,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pizza-party-sigil-404a5d46d9.png",
+    "name": "Pizza Party Sigil",
+    "description": "A sigil representing prestige gained with The Hex.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+        "name": "Siegel: Pizza Party",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+        "name": "Sceau Soirée Pizza",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+        "name": "Sigillo Pizza Party",
+        "code": "it"
+      },
+      {
+        "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+        "name": "피자 파티 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que representa el prestigio ganado con el Hex.",
+        "name": "Sello Fiesta de pizza",
+        "code": "es"
+      },
+      {
+        "description": "这枚纹章代表着得到了六人组的威望。",
+        "name": "披萨派对纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+        "name": "Сигил: Пицца-вечеринка",
+        "code": "ru"
+      },
+      {
+        "description": "ヘックスから得た声望を表すシジル。",
+        "name": "ピザパーティー シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+        "name": "Znak Pizza Party",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+        "name": "Brasão: Rolê da Pizza",
+        "code": "pt"
+      },
+      {
+        "description": "這枚紋章代表著得到了六煞幫的威望。",
+        "name": "披薩派對紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+        "name": "เครื่องหมาย: ปาร์ตี้พิซซ่า",
+        "code": "th"
+      },
+      {
+        "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+        "name": "Pizza Partisi Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+        "name": "Сиґіл «Піцова вечірка»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisH",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/potential-sigil-649247d055.png",
     "name": "Potential Sigil",
@@ -14452,7 +15154,7 @@
       },
       {
         "description": "바로 키'티어의 손으로 새롭게 재해석된 전설 속 왕, 도미누스 트락스의 모습입니다.",
-        "name": "프리즈마 트락스 시길",
+        "name": "프리즈마 트락스 시질",
         "code": "ko"
       },
       {
@@ -15985,6 +16687,84 @@
       {
         "description": "Цей сиґіл показує ваше положення в Конклаві.",
         "name": "Сиґіл «Одкровення»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomRhinoSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-heirloom-sigil-da5153178e.png",
+    "name": "Rhino Heirloom Sigil",
+    "description": "A sigil that celebrates Rhino's legacy.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das Rhinos Vermächtnis feiert.",
+        "name": "Siegel: Rhino Heirloom",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui célèbre l'héritage de Rhino.",
+        "name": "Sceau Rhino Héritage",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che celebra l'eredità di Rhino.",
+        "name": "Sigillo Rhino Heirloom",
+        "code": "it"
+      },
+      {
+        "description": "라이노의 유산을 기념하는 시질입니다.",
+        "name": "라이노 에어룸 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que celebra el legado de Rhino.",
+        "name": "Sello de Rhino Legado",
+        "code": "es"
+      },
+      {
+        "description": "庆祝 Rhino 的传承的纹章。",
+        "name": "Rhino 传家宝纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, прославляющий наследие Рино.",
+        "name": "Сигил Рино: Наследие",
+        "code": "ru"
+      },
+      {
+        "description": "Rhinoの武勇伝を称えるシジル。",
+        "name": "Rhino Heirloom シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak upamiętniający dziedzictwo Rhino.",
+        "name": "Znak: Pamiątkowy Rhino",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que celebra o legado do Rhino.",
+        "name": "Brasão: Legado do Rhino",
+        "code": "pt"
+      },
+      {
+        "description": "慶祝 Rhino 的傳承的紋章。",
+        "name": "Rhino 祖傳紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายฉลองตำนานที่สืบสานต่อของ Rhino",
+        "name": "เครื่องหมาย: Rhino Heirloom",
+        "code": "th"
+      },
+      {
+        "description": "Rhino'nun mirasını kutlayan bir mühür.",
+        "name": "Rhino Heirloom Mühür",
+        "code": "tr"
+      },
+      {
+        "description": "Сиґіл для вшанування спадщини Райно.",
+        "name": "Сиґіл «Райно „Спадок”»",
         "code": "uk"
       }
     ]
@@ -20570,7 +21350,7 @@
         "code": "pt"
       },
       {
-        "description": "一枚帶有了冬幕設計元素的紋章。",
+        "description": "一枚帶有冬幕設計元素的紋章。",
         "name": "鳴鐘紋章",
         "code": "tc"
       },
@@ -22598,7 +23378,7 @@
         "code": "pt"
       },
       {
-        "description": "一枚帶有了冬幕設計元素的紋章。",
+        "description": "一枚帶有冬幕設計元素的紋章。",
         "name": "花環紋章",
         "code": "tc"
       },
