@@ -383,8 +383,8 @@
         "code": "tr"
       },
       {
-        "description": "Сиґіл із зображенням Алада В.",
-        "name": "Сиґіл «Алад В»",
+        "description": "Сиґіл із зображенням Алада В.",
+        "name": "Сиґіл «Алад В»",
         "code": "uk"
       }
     ]
@@ -3971,7 +3971,7 @@
         "code": "tr"
       },
       {
-        "description": "Це сиґіл став символом підтримки ініціативи Quest to Conquer Cancer.",
+        "description": "Цей сиґіл став символом підтримки ініціативи Quest to Conquer Cancer.",
         "name": "Сиґіл «Подолання»",
         "code": "uk"
       }
@@ -4051,6 +4051,84 @@
       {
         "description": "Носіть цей сиґіл, щоби показати свою єдність у підтримці ініціативи Quest to Conquer Cancer.",
         "name": "Сиґіл «Єдність у подоланні»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichConvertedSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/converted-coda-sigil-f1fb9566c7.png",
+    "name": "Converted Coda Sigil",
+    "description": "The show must go on. This sigil marks the conversion of a hostile Technocyte Coda into a Techrot friend.",
+    "languages": [
+      {
+        "description": "Die Show muss weitergehen. Dieses Siegel symbolisiert die Verwandlung eines feindseligen Technocyte Coda zu einem Techrot-Freund.",
+        "name": "Siegel: Konvertierter Coda",
+        "code": "de"
+      },
+      {
+        "description": "Le spectacle continue. Ce Sceau marque la conversion d'un Technocyte Coda hostile en un allié Techrot.",
+        "name": "Sceau Coda Converti",
+        "code": "fr"
+      },
+      {
+        "description": "Lo spettacolo deve continuare. Questo sigillo simboleggia la conversione di un Technocyte Coda da nemico ostile ad amico Techrot.",
+        "name": "Sigillo Coda Convertito",
+        "code": "it"
+      },
+      {
+        "description": "쇼는 계속되어야 합니다. 이 시질은 적대적인 테크노사이트 코다가 테크병 친구로서 전향된 것을 나타냅니다.",
+        "name": "전향된 코다 시질",
+        "code": "ko"
+      },
+      {
+        "description": "El espectáculo debe continuar. Este sello marca la conversión de un Tecnocito Coda hostil en un Techrot amigo.",
+        "name": "Sello de Coda convertido",
+        "code": "es"
+      },
+      {
+        "description": "演出必须继续。这个纹章标志着敌对的科技细胞终幕者转变为科腐者朋友。",
+        "name": "感化的终幕者纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Шоу должно продолжаться. Этот сигил знаменует обращение враждебного Техноцита Кода в техрота-друга.",
+        "name": "Сигил: Обращённый Кода",
+        "code": "ru"
+      },
+      {
+        "description": "ショーは続けなければなりません。このシジルは敵対的なテクノサイト・コーダがテックロットの友人に転向したことを表す。",
+        "name": "転向コーダ シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Przedstawienie musi trwać. Ten znak symbolizuje skonwertowanie wrogiej Cody Technocytu w sojusznika.",
+        "name": "Znak Konwertowanej Cody",
+        "code": "pl"
+      },
+      {
+        "description": "O show deve continuar. Este brasão marca a conversão de um Tecnócito Coda hostil em um Tecnovírus aliado.",
+        "name": "Brasão: Coda Convertido",
+        "code": "pt"
+      },
+      {
+        "description": "表演必須繼續。這個紋章象徵敵對的技改細胞勾瘩體已皈依為科腐朋友。",
+        "name": "皈依勾瘩紋章",
+        "code": "tc"
+      },
+      {
+        "description": "การแสดงต้องดำเนินต่อไป เครื่องหมายนี้แสดงถึงการเปลี่ยนแปลงของ Technocyte Coda ที่เคยเป็นศัตรูแต่ได้กลายมาเป็นเพื่อน Techrot แล้ว",
+        "name": "เครื่องหมาย: Converted Coda",
+        "code": "th"
+      },
+      {
+        "description": "Gösteri devam etmeli. Bu mühür, düşman bir Technocyte Coda'nın bir Techrot dostuna dönüşümünü işaret ediyor.",
+        "name": "Dönüştürülmüş Coda Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Шоу триває. Цей сиґіл позначає обернення ворожого представника «Техноцитної Коди» на техногнилого друга.",
+        "name": "Сиґіл «Обернена кода»",
         "code": "uk"
       }
     ]
@@ -4668,7 +4746,7 @@
         "code": "th"
       },
       {
-        "description": "Bu eski glif Tenno meditasyon ritüellerinin odak noktası idi.",
+        "description": "Bu eski glif Tenno meditasyon ritüellerinin odak noktasıydı.",
         "name": "Cycuta Prime Mührü",
         "code": "tr"
       },
@@ -9119,7 +9197,7 @@
         "code": "tr"
       },
       {
-        "description": "Нагадування про перемогу тенно над махінаціями Алада В та його проєктом «Амальгама».",
+        "description": "Нагадування про перемогу тенно над махінаціями Алада В та його проєктом «Амальгама».",
         "name": "Сиґіл «Агресивне поглинення»",
         "code": "uk"
       }
@@ -19734,6 +19812,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TempleSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-sigil-4ea7c2e446.png",
+    "name": "Temple Sigil",
+    "description": "A sigil celebrating Temple and their music.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das Temple und seine Musik feiert.",
+        "name": "Siegel: Temple",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau célébrant Temple et sa musique.",
+        "name": "Sceau Temple",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che celebra Temple e la sua musica.",
+        "name": "Sigillo Temple",
+        "code": "it"
+      },
+      {
+        "description": "템플과 템플의 음악을 기념하는 글리프입니다.",
+        "name": "템플 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que celebra a Temple y su música.",
+        "name": "Sello de Temple",
+        "code": "es"
+      },
+      {
+        "description": "庆祝 Temple 及其音乐的纹章。",
+        "name": "Temple 纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Символ, прославляющий Темпла и его музыку.",
+        "name": "Сигил: Темпл",
+        "code": "ru"
+      },
+      {
+        "description": "TempleとTempleの音楽を讃えるシジル。",
+        "name": "Temple シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak celebrujący Temple'a i jego muzykę.",
+        "name": "Znak Temple'a",
+        "code": "pl"
+      },
+      {
+        "description": "Um Brasão exaltando o Temple e o seu som.",
+        "name": "Brasão: Temple",
+        "code": "pt"
+      },
+      {
+        "description": "慶祝 Temple 及他們音樂的紋章。",
+        "name": "Temple 紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายแสดงการยกย่อง Temple และดนตรีของพวกเขา",
+        "name": "เครื่องหมาย: Temple",
+        "code": "th"
+      },
+      {
+        "description": "Temple ve müziklerini kutlayan bir mühür.",
+        "name": "Temple Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Сиґіл для вшанування музики Храма.",
+        "name": "Сиґіл «Храм»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WikiaSigil",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-chronicler-sigil-6969960207.png",
     "name": "Tenno Chronicler Sigil",
@@ -20052,7 +20208,7 @@
     "description": "A sigil for VIP Tenno",
     "languages": [
       {
-        "description": "Ein Sigel für VIP-Tenno",
+        "description": "Ein Sigel für VIP Tenno",
         "name": "Siegel: Tenno VIP East",
         "code": "de"
       },
@@ -20107,7 +20263,7 @@
         "code": "tc"
       },
       {
-        "description": "เครื่องหมายสำหรับ VIP Tenno",
+        "description": "เครื่องหมายสำหรับ Tenno ระดับ VIP",
         "name": "เครื่องหมาย: Tenno VIP East",
         "code": "th"
       },
@@ -20118,7 +20274,7 @@
       },
       {
         "description": "Сиґіл для VIP-тенно.",
-        "name": "Сиґіл «Тенно VIP East»",
+        "name": "Сиґіл «ТенноVIP East»",
         "code": "uk"
       }
     ]
@@ -20585,7 +20741,7 @@
         "code": "tr"
       },
       {
-        "description": "Видають тим, хто святкував Теннокон 2021 року разом із нами.",
+        "description": "Дарунок тим, хто приєднався до події «Теннокон 2021».",
         "name": "Сиґіл «Теннокон 2021»",
         "code": "uk"
       }
@@ -20663,7 +20819,7 @@
         "code": "tr"
       },
       {
-        "description": "Видають тим, хто святкував Теннокон 2022 року разом із нами.",
+        "description": "Дарунок тим, хто приєднався до події «Теннокон 2022».",
         "name": "Сиґіл «Теннокон 2022»",
         "code": "uk"
       }
@@ -20819,8 +20975,86 @@
         "code": "tr"
       },
       {
-        "description": "Видають тим, хто святкував Теннокон 2024 року разом із нами.",
+        "description": "Дарунок тим, хто приєднався до події «Теннокон 2024».",
         "name": "Сиґіл «Теннокон 2024»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2025Sigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2025-sigil-597e7c9492.png",
+    "name": "Tennocon 2025 Sigil",
+    "description": "Celebrate ten years of TennoCon with this Lotus inspired Sigil.",
+    "languages": [
+      {
+        "description": "Feiert zehn Jahre TennoCon mit diesem von der Lotus inspirierten Siegel.",
+        "name": "Siegel: TennoCon 2025",
+        "code": "de"
+      },
+      {
+        "description": "Célébrez les dix ans de la TennoCon avec ce Sceau inspiré du Lotus.",
+        "name": "Sceau TennoCon 2025",
+        "code": "fr"
+      },
+      {
+        "description": "Festeggia i dieci anni del TennoCon con questo sigillo ispirato a Lotus.",
+        "name": "Sigillo TennoCon 2025",
+        "code": "it"
+      },
+      {
+        "description": "로터스에게서 영감을 받은 시질로 텐노콘의 10주년을 기념해보세요.",
+        "name": "텐노콘 2025 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Celebra diez años de TennoCon con este sello inspirado en Lotus.",
+        "name": "Sello de TennoCon 2025",
+        "code": "es"
+      },
+      {
+        "description": "用这个受 Lotus 启发的纹章来庆祝 TennoCon 的十周年。",
+        "name": "TennoCon 2025 纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Отпразднуйте десятилетие TennoCon с этим сигилом, дизайн которого, вдохновлён символом Лотос.",
+        "name": "Сигил: TennoCon-2025",
+        "code": "ru"
+      },
+      {
+        "description": "このLotusに着想を得たシジルで2025年のTennoConの10周年を記念しよう。",
+        "name": "TennoCon 2025 シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Upamiętnij 10 lat TennoConu dzięki temu Znakowi wzorowanemu na Lotus.",
+        "name": "Znak TennoCon 2025",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre o 10º aniversário da TennoCon com este brasão inspirado na Lótus.",
+        "name": "Brasão: TennoCon 2025",
+        "code": "pt"
+      },
+      {
+        "description": "透過這個以 Lotus 為靈感的紋章來慶祝 TennoCon 十週年。",
+        "name": "TennoCon 2025 紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายที่ได้รับแรงบันดาลใจมาจาก Lotus เพื่อฉลองงาน TennoCon ครบรอบสิบปี",
+        "name": "เครื่องหมาย: TennoCon 2025",
+        "code": "th"
+      },
+      {
+        "description": "TennoCon'un onuncu yılını Lotus'tan ilham alan bu Mühürle kutla.",
+        "name": "TennoCon 2025 Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Сиґіл, образ якого натхненний самою Лотос, створено для святкування 10-річчя Теннокону у 2025.",
+        "name": "Сиґіл «Теннокон 2025»",
         "code": "uk"
       }
     ]
@@ -20899,6 +21133,84 @@
       {
         "description": "Особливий сиґіл, який видається лише вибраним тенно.",
         "name": "Сиґіл «ТенноҐен»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennovip-2025-sigil-9f46f27128.png",
+    "name": "Tennovip 2025 Sigil",
+    "description": "A sigil for VIP Tenno.",
+    "languages": [
+      {
+        "description": "Ein Siegel für VIP Tenno.",
+        "name": "Siegel: TennoVIP 2025",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau pour les Tennos VIP.",
+        "name": "Sceau TennoVIP 2025",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo per i Tenno VIP.",
+        "name": "Sigillo TennoVIP 2025",
+        "code": "it"
+      },
+      {
+        "description": "VIP 텐노분들을 위한 시질입니다.",
+        "name": "TennoVIP 2025 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello para los tenno VIP.",
+        "name": "Sello TennoVIP 2025",
+        "code": "es"
+      },
+      {
+        "description": "VIP Tenno 的纹章。",
+        "name": "TennoVIP 2025 纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил для VIP Тэнно.",
+        "name": "Сигил: ТенноVIP-2025",
+        "code": "ru"
+      },
+      {
+        "description": "VIP テンノ専用シジル。",
+        "name": "TennoVIP 2025 シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak dla bardzo ważnego Tenno.",
+        "name": "Znak TennoVIP 2025",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão da Tenno VIP.",
+        "name": "Brasão: TennoVIP 2025",
+        "code": "pt"
+      },
+      {
+        "description": "VIP Tenno 的紋章。",
+        "name": "TennoVIP 2025 紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายสำหรับ Tenno ระดับ VIP",
+        "name": "เครื่องหมาย: TennoVIP 2025",
+        "code": "th"
+      },
+      {
+        "description": "VIP Tenno için bir mühür.",
+        "name": "TennoVIP 2025 Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Сиґіл для VIP-тенно.",
+        "name": "Сиґіл «ТенноVIP 2025»",
         "code": "uk"
       }
     ]
@@ -21835,6 +22147,84 @@
       {
         "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Сталевий Меридіан».",
         "name": "Сиґіл «Піднесення»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InfLichVanquishedSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vanquished-coda-sigil-441419d26b.png",
+    "name": "Vanquished Coda Sigil",
+    "description": "The show’s over. This sigil marks the end of a Technocyte Coda’s career of music and mayhem.",
+    "languages": [
+      {
+        "description": "Die Show ist vorbei. Dieses Siegel symbolisiert das Ende der Musik- und Chaos-Karriere eines Technocyte Coda.",
+        "name": "Siegel: Vernichteter Coda",
+        "code": "de"
+      },
+      {
+        "description": "Le spectacle est terminé. Ce Sceau marque la fin de la carrière musicale chaotique d'un Technocyte Coda.",
+        "name": "Sceau Coda Vaincu",
+        "code": "fr"
+      },
+      {
+        "description": "Lo spettacolo è finito. Questo sigillo segna la fine della carriera musicale e di distruzione di un Technocyte Coda.",
+        "name": "Sigillo Coda Sconfitto",
+        "code": "it"
+      },
+      {
+        "description": "쇼는 끝났습니다. 이 시질은 테크노사이트 코다의 음악과 혼란이 섞인 경력의 끝을 알립니다.",
+        "name": "격파된 코다 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Se acabó el espectáculo. Este sello marca el fin de la carrera musical y caótica de un Tecnocito Coda.",
+        "name": "Sello de Coda eliminado",
+        "code": "es"
+      },
+      {
+        "description": "演出结束了。这个纹章标志着科技细胞终幕者的音乐和混乱生涯的结束。",
+        "name": "被消灭的终幕者纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Шоу окончено. Этот сигил знаменует конец громкой и разрушительной карьеры Техноцита Кода.",
+        "name": "Сигил: Уничтоженный Кода",
+        "code": "ru"
+      },
+      {
+        "description": "ショーは終わりました。このシジルはテクノサイト・コーダの音楽・殺戮活動の終了を示す。",
+        "name": "抹殺コーダ シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Spektakl się zakończył. Ten znak symbolizuje koniec kariery Cody Technocytu w muzyce i rozróbie.",
+        "name": "Znak Pokonanej Cody",
+        "code": "pl"
+      },
+      {
+        "description": "O show acabou. Este brasão marca o fim da carreira musical caótica de um Tecnócito Coda.",
+        "name": "Brasão: Coda Eliminado",
+        "code": "pt"
+      },
+      {
+        "description": "表演結束。這個紋章象徵技改細胞勾瘩體的音樂生涯及其鬧劇已遭到全面封殺。",
+        "name": "戰敗勾瘩紋章",
+        "code": "tc"
+      },
+      {
+        "description": "การแสดงจบลงแล้ว เครื่องหมายนี้เป็นสัญลักษณ์ที่แสดงถึงจุดสิ้นสุดของความโกลาหลและอาชีพนักดนตรีของ Technocyte Coda",
+        "name": "เครื่องหมาย: Vanquished Coda",
+        "code": "th"
+      },
+      {
+        "description": "Gösteri sona erdi. Bu mühür, Technocyte Coda'nın müzik ve kargaşa kariyerinin sonunu işaret ediyor.",
+        "name": "Öldürülmüş Coda Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Шоу завершено. Цей сиґіл позначає завершення музичної хаотичної кар’єри однієї з версій «Техноцитної Коди».",
+        "name": "Сиґіл «Убита кода»",
         "code": "uk"
       }
     ]

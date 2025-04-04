@@ -356,7 +356,7 @@
         "code": "pl"
       },
       {
-        "name": "Accumulating Whipclaw",
+        "name": "Chicote Cumulativo",
         "code": "pt"
       },
       {
@@ -1427,7 +1427,7 @@
         "code": "pl"
       },
       {
-        "name": "Afterburn",
+        "name": "Pós-Combustão",
         "code": "pt"
       },
       {
@@ -1490,7 +1490,7 @@
         "code": "pl"
       },
       {
-        "name": "Afterburner",
+        "name": "Pós-Combustão",
         "code": "pt"
       },
       {
@@ -3930,6 +3930,112 @@
       },
       {
         "name": "Антигравітаційна граната",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusSevenMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/anti-v-e131427a79.png",
+    "name": "Anti-V",
+    "description": "Digital extremists stand no chance when you have Anti-V on your side",
+    "languages": [
+      {
+        "description": [
+          "Digitale Extremisten haben keine Chance, wenn Anti-V auf deiner Seite ist"
+        ],
+        "name": "Anti-V",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Les extrémistes numériques n'ont aucune chance lorsque vous avez Anti-V à vos côtés"
+        ],
+        "name": "Anti-V",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Gli estremisti digitali non hanno scampo quando hai Anti-V dalla tua parte"
+        ],
+        "name": "Anti-V",
+        "code": "it"
+      },
+      {
+        "description": [
+          "안티 V와 함께라면 디지털 극단주의자들이 나설 기회조차도 없죠!"
+        ],
+        "name": "안티 V",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Los extremistas digitales no tienen ninguna oportunidad cuando Anti-V está de tu lado"
+        ],
+        "name": "Anti-V",
+        "code": "es"
+      },
+      {
+        "description": [
+          "有了防毒先锋的保护，数字极端分子就没有机会"
+        ],
+        "name": "防毒先锋",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "У цифровых экстремистов нет шансов, когда на вашей стороне Анти-В"
+        ],
+        "name": "Анти-В",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "Anti-Vでデジタルでエクストリームなウィルスに対抗"
+        ],
+        "name": "Anti-V",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Cyfrowi ekstremiści nie mają szans, gdy masz po swojej stronie Anty-W"
+        ],
+        "name": "Anty-W",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Extremistas digitais não terão a menor chance com o Anti-V ao seu lado!"
+        ],
+        "name": "Anti-V",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "有防毒俠客鼎力相助，數位極端病毒不堪一擊"
+        ],
+        "name": "防毒俠客",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "พวกหัวรุนแรงแบบดิจิทัลไม่มีทางสู้คุณได้เมื่อมี Anti-V อยู่เคียงข้าง"
+        ],
+        "name": "Anti-V",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Anti-V yanınızdayken dijital aşırılıkçıların hiçbir şansı yok"
+        ],
+        "name": "Anti-V",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Цифрові екстремісти не здолають вас із Анти-В"
+        ],
+        "name": "Анти-В",
         "code": "uk"
       }
     ]
@@ -8006,7 +8112,7 @@
         "code": "pl"
       },
       {
-        "name": "Ballistic Bullseye",
+        "name": "Mira Balística",
         "code": "pt"
       },
       {
@@ -9770,7 +9876,7 @@
         "code": "pl"
       },
       {
-        "name": "Biting Frost",
+        "name": "Geada Lacerante",
         "code": "pt"
       },
       {
@@ -10907,7 +11013,7 @@
         "code": "pl"
       },
       {
-        "name": "Blinding Reave",
+        "name": "Assolação Ofuscante",
         "code": "pt"
       },
       {
@@ -13301,6 +13407,112 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusOneMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/byteryte-7c446a8a01.png",
+    "name": "Byteryte",
+    "description": "Keeps your bytes tight and your bits fit",
+    "languages": [
+      {
+        "description": [
+          "Halte deine Bytes stramm und deine Bits fit"
+        ],
+        "name": "ByteRyte",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Gardez vos octets en bon ordre et vous actez la sécurité"
+        ],
+        "name": "Sécuroctet",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Mantiene i tuoi byte compatti e i tuoi bit sincronizzati"
+        ],
+        "name": "ByteRyte",
+        "code": "it"
+      },
+      {
+        "description": [
+          "당신의 바이트를 안전하게, 그리고 비트를 딱 맞게!"
+        ],
+        "name": "바이트라이트",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Mantiene tus bytes compactos y tus bits ajustados"
+        ],
+        "name": "ByteRyte",
+        "code": "es"
+      },
+      {
+        "description": [
+          "保持字节紧凑，确保比特精准"
+        ],
+        "name": "字节卫士",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Держит ваши байты в порядке, а биты — в тонусе"
+        ],
+        "name": "БайтЩит",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "ウイルスバイトからデータバイトを守る"
+        ],
+        "name": "ByteRyte",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Trzyma Twoje bajty w ryzach, a bity w formie"
+        ],
+        "name": "ByteRyte",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Mantenha seus bytes compactos e seus bits sincronizados!"
+        ],
+        "name": "ByteRyte",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "保護你的資料完整，位元完好"
+        ],
+        "name": "資料正確",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "ปรับไบต์ให้แน่นหนาและปรับบิตให้พอเหมาะ"
+        ],
+        "name": "ByteRyte",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Baytlarınızı sıkı ve bitlerinizi uyumlu tutar"
+        ],
+        "name": "ByteRyte",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Маленький біт формує великий байт"
+        ],
+        "name": "Точний біт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelShieldMaxMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/calculated-redirection-7346adebf5.jpg",
     "name": "Calculated Redirection",
@@ -14137,11 +14349,11 @@
         "code": "ja"
       },
       {
-        "name": "Kataklistyczne Kontinuum",
+        "name": "Kataklizmiczne Kontinuum",
         "code": "pl"
       },
       {
-        "name": "Cataclysmic Continuum",
+        "name": "Cataclismo Perpétuo",
         "code": "pt"
       },
       {
@@ -14158,6 +14370,69 @@
       },
       {
         "name": "Тривалий катаклізм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Wisp/WispSunAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cataclysmic-gate-8fac57bf55.jpg",
+    "name": "Cataclysmic Gate",
+    "languages": [
+      {
+        "name": "Kataklysmus-Portal",
+        "code": "de"
+      },
+      {
+        "name": "Porte Cataclysmique",
+        "code": "fr"
+      },
+      {
+        "name": "Cataclysmic Gate",
+        "code": "it"
+      },
+      {
+        "name": "카타클리즈믹 게이트",
+        "code": "ko"
+      },
+      {
+        "name": "Portal cataclísmico",
+        "code": "es"
+      },
+      {
+        "name": "灾变之门",
+        "code": "zh"
+      },
+      {
+        "name": "Врата Катаклизма",
+        "code": "ru"
+      },
+      {
+        "name": "Cataclysmic Gate",
+        "code": "ja"
+      },
+      {
+        "name": "Kataklizmiczna Brama",
+        "code": "pl"
+      },
+      {
+        "name": "Portal Cataclísmico",
+        "code": "pt"
+      },
+      {
+        "name": "災變之門",
+        "code": "tc"
+      },
+      {
+        "name": "Cataclysmic Gate",
+        "code": "th"
+      },
+      {
+        "name": "Cataclysmic Gate",
+        "code": "tr"
+      },
+      {
+        "name": "Катаклізмова брама",
         "code": "uk"
       }
     ]
@@ -14393,7 +14668,7 @@
         "code": "pl"
       },
       {
-        "name": "Cathode Current",
+        "name": "Corrente Catódica",
         "code": "pt"
       },
       {
@@ -14688,7 +14963,7 @@
         "code": "pl"
       },
       {
-        "name": "Celestial Stomp",
+        "name": "Pisão Celestial",
         "code": "pt"
       },
       {
@@ -15381,7 +15656,7 @@
         "code": "pl"
       },
       {
-        "name": "Chilling Globe",
+        "name": "Globo Congelante",
         "code": "pt"
       },
       {
@@ -16538,7 +16813,7 @@
         "code": "pl"
       },
       {
-        "name": "Coil Recharge",
+        "name": "Bobina de Recarga",
         "code": "pt"
       },
       {
@@ -16799,9 +17074,9 @@
       },
       {
         "description": [
-          "Ampliação Cosmic Crush: o buraco negro absorverá o calor da área, aplicando o efeito Glacial aos inimigos no alcance. Inimigos que estiverem próximos ao buraco negro serão completamente congelados por |val|s."
+          "Ampliação - Compressão Cósmica: o buraco negro absorverá o calor da área, aplicando o efeito Glacial aos inimigos no alcance. Inimigos que estiverem próximos ao buraco negro serão completamente congelados por |val|s."
         ],
-        "name": "Cold Snap",
+        "name": "Compressão Glacial",
         "code": "pt"
       },
       {
@@ -17465,6 +17740,112 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusEightMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/computer-cop-0e473c9739.png",
+    "name": "Computer Cop",
+    "description": "Stopping cyber-crime in its tracks",
+    "languages": [
+      {
+        "description": [
+          "Bringt Cyber-Verbrechen zum Stillstand"
+        ],
+        "name": "Computer-Streife",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Mettez un terme à la cybercriminalité"
+        ],
+        "name": "Police Informatique",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Ferma sul nascere la criminalità informatica"
+        ],
+        "name": "Computer Cop",
+        "code": "it"
+      },
+      {
+        "description": [
+          "사이버 범죄를 흔적에서부터 근절합니다"
+        ],
+        "name": "컴퓨터 캅",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Deteniendo el cibercrimen en el acto"
+        ],
+        "name": "Policía informática",
+        "code": "es"
+      },
+      {
+        "description": [
+          "制止网络犯罪"
+        ],
+        "name": "电脑巡警",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Пресекает киберпреступность на корню"
+        ],
+        "name": "Кибер Коп",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "サイバー犯罪対策"
+        ],
+        "name": "Computer Cop",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Powstrzymywanie cyberprzestępczości w zarodku"
+        ],
+        "name": "Glina Komputerowy",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Matando o crime cibernético pela raiz!"
+        ],
+        "name": "Computer Cop",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "制止網路犯罪"
+        ],
+        "name": "資安警官",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "หยุดยั้งอาชญากรรมทางไซเบอร์"
+        ],
+        "name": "Computer Cop",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Siber suçun önünü kesiyoruz"
+        ],
+        "name": "Computer Cop",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Запобігає кіберзлочинам скрізь і одразу"
+        ],
+        "name": "Комп’ютерний поліцай",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Pistol/ThrowingExplosionChanceMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/concealed-explosives-c72d5b3251.jpg",
     "name": "Concealed Explosives",
@@ -17569,7 +17950,7 @@
         "code": "pl"
       },
       {
-        "name": "Concentrated Arrow",
+        "name": "Flecha Concentrada",
         "code": "pt"
       },
       {
@@ -17964,6 +18345,69 @@
       },
       {
         "name": "Кондукційне лезо",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Gyre/GyrePulseAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/conductive-sphere-ddadec1774.jpg",
+    "name": "Conductive Sphere",
+    "languages": [
+      {
+        "name": "Konduktsphäre",
+        "code": "de"
+      },
+      {
+        "name": "Sphère Conductrice",
+        "code": "fr"
+      },
+      {
+        "name": "Conductive Sphere",
+        "code": "it"
+      },
+      {
+        "name": "컨덕티브 스피어",
+        "code": "ko"
+      },
+      {
+        "name": "Esfera conductiva",
+        "code": "es"
+      },
+      {
+        "name": "导电球",
+        "code": "zh"
+      },
+      {
+        "name": "Проводящая сфера",
+        "code": "ru"
+      },
+      {
+        "name": "Conductive Sphere",
+        "code": "ja"
+      },
+      {
+        "name": "Sfera Przewodząca",
+        "code": "pl"
+      },
+      {
+        "name": "Esfera Condutora",
+        "code": "pt"
+      },
+      {
+        "name": "電導旋球",
+        "code": "tc"
+      },
+      {
+        "name": "Conductive Sphere",
+        "code": "th"
+      },
+      {
+        "name": "Conductive Sphere",
+        "code": "tr"
+      },
+      {
+        "name": "Сферична провідність",
         "code": "uk"
       }
     ]
@@ -19439,7 +19883,7 @@
         "code": "ko"
       },
       {
-        "name": "Compensación",
+        "name": "Contrapeso",
         "code": "es"
       },
       {
@@ -25289,6 +25733,112 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusFiveMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drive-duster-0d1b0aefa5.png",
+    "name": "Drive-Duster",
+    "description": "Your digital virus buster",
+    "languages": [
+      {
+        "description": [
+          "Dein digitaler Virus-Staubwedel"
+        ],
+        "name": "Laufwerk-Staubwedel",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Votre anti-virus numérique"
+        ],
+        "name": "Le Nettoyeur",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Il tuo distruttore di virus digitali"
+        ],
+        "name": "Drive-Duster",
+        "code": "it"
+      },
+      {
+        "description": [
+          "당신만의 디지털 바이러스 퇴치제입니다!"
+        ],
+        "name": "드라이브 더스터",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Tu destructor de virus digitales"
+        ],
+        "name": "Limpiadiscos",
+        "code": "es"
+      },
+      {
+        "description": [
+          "你的数字病毒克星"
+        ],
+        "name": "驱动除尘",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Ваш цифровой истребитель вирусов"
+        ],
+        "name": "Очиститель Диска",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "デジタルウィルスバスター"
+        ],
+        "name": "Drive-Duster",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Twój cyfrowy pogromca wirusów"
+        ],
+        "name": "Zmiotka Dysku",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Seu destruidor digital de vírus!"
+        ],
+        "name": "Drive-Duster",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "你的數位病毒剋星"
+        ],
+        "name": "掃碟者",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "กำจัดไวรัสดิจิทัลของคุณ"
+        ],
+        "name": "Drive-Duster",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Dijital virüs yok ediciniz"
+        ],
+        "name": "Drive-Duster",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Ваш цифровий вірусознищувач"
+        ],
+        "name": "Дискочист",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireIterationsMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-rounds-0809889f27.jpg",
     "name": "Dual Rounds",
@@ -26361,7 +26911,7 @@
         "code": "pl"
       },
       {
-        "name": "Elusive Retribution",
+        "name": "Retribuição Elusiva",
         "code": "pt"
       },
       {
@@ -26676,7 +27226,7 @@
         "code": "pl"
       },
       {
-        "name": "Empowered Quiver",
+        "name": "Aljava Fortalecida",
         "code": "pt"
       },
       {
@@ -26739,7 +27289,7 @@
         "code": "pl"
       },
       {
-        "name": "Endless Lullaby",
+        "name": "Cantiga Perpétua",
         "code": "pt"
       },
       {
@@ -27790,7 +28340,7 @@
         "code": "pl"
       },
       {
-        "name": "Energy Field",
+        "name": "Campo Energético",
         "code": "pt"
       },
       {
@@ -28672,7 +29222,7 @@
         "code": "pl"
       },
       {
-        "name": "Enveloping Cloud",
+        "name": "Nuvem Envolvente",
         "code": "pt"
       },
       {
@@ -29239,7 +29789,7 @@
         "code": "pl"
       },
       {
-        "name": "Everlasting Ward",
+        "name": "Sentinela Eterna",
         "code": "pt"
       },
       {
@@ -30461,102 +31011,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalSixMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fass-e9ec9cca20.png",
     "name": "Fass",
-    "description": "Roiling, moaning, this realm of oursIn madness lost shall die",
+    "description": "Roiling, moaning, this realm of ours\n\nIn madness lost shall die",
     "languages": [
       {
         "description": [
-          "Aufgewühlt und ächzend ist unser Erbe,Sterbend und übergeben sich dem Wahn"
+          "Aufgewühlt und ächzend ist unser Erbe,\\n\\nSterbend und übergeben sich dem Wahn"
         ],
         "name": "Fass",
         "code": "de"
       },
       {
         "description": [
-          "Parmi les pleurs et cris, l'univers tourmentéMiné par la folie, va vite péricliter"
+          "Parmi les pleurs et cris, l'univers tourmenté\\n\\nMiné par la folie, va vite péricliter"
         ],
         "name": "Fass",
         "code": "fr"
       },
       {
         "description": [
-          "Questo nostro regno, con smania e lamentoMorirà perduto in follia e tormento"
+          "Questo nostro regno, con smania e lamento\\n\\nMorirà perduto in follia e tormento"
         ],
         "name": "Fass",
         "code": "it"
       },
       {
         "description": [
-          "휘저으며 신음하는 우리들의 이 세상광기 속에 길 잃은 자 죽음을 맞이하고"
+          "휘저으며 신음하는 우리들의 이 세상\\n\\n광기 속에 길 잃은 자 죽음을 맞이하고"
         ],
         "name": "파스",
         "code": "ko"
       },
       {
         "description": [
-          "Entre revuelcos y lamentos, nuestro reino estáPerdido en la locura morirá"
+          "Entre revuelcos y lamentos, nuestro reino está\\n\\nPerdido en la locura morirá"
         ],
         "name": "Fass",
         "code": "es"
       },
       {
         "description": [
-          "我们的世界，沸腾着，呻吟着在癫狂之中，等待迷失者的只有死亡"
+          "我们的世界，沸腾着，呻吟着\\n\\n在癫狂之中，等待迷失者的只有死亡"
         ],
         "name": "Fass",
         "code": "zh"
       },
       {
         "description": [
-          "В обители своей мы мечемся, стенаемВ безумстве заблудившись да умрем"
+          "В обители своей мы мечемся, стенаем\\n\\nВ безумстве заблудившись да умрем"
         ],
         "name": "Фэз",
         "code": "ru"
       },
       {
         "description": [
-          "転べ、もがけ、この世界を狂気の中失くすものなどないのだから"
+          "転べ、もがけ、この世界を\\n\\n狂気の中失くすものなどないのだから"
         ],
         "name": "Fass",
         "code": "ja"
       },
       {
         "description": [
-          "Ryczące, jęczące, to królestwo naszeW szaleństwie straceni umierają"
+          "Ryczące, jęczące, to królestwo nasze\\n\\nW szaleństwie straceni umierają"
         ],
         "name": "Fass",
         "code": "pl"
       },
       {
         "description": [
-          "Perambulando, lamentando, este nosso reinoNa loucura perdida morrerá"
+          "Perambulando, lamentando, este nosso reino\\n\\nNa loucura perdida morrerá"
         ],
         "name": "Fass",
         "code": "pt"
       },
       {
         "description": [
-          "在我們的國度中，翻騰、呻吟迷失於瘋狂之中，終將滅亡"
+          "在我們的國度中，翻騰、呻吟\\n\\n迷失於瘋狂之中，終將滅亡"
         ],
         "name": "Fass",
         "code": "tc"
       },
       {
         "description": [
-          "ความปั่นป่วนและเสียงครวญดังไปทั่วแผ่นดินผู้สูญสิ้นให้ความคลั่งจะต้องตาย"
+          "ความปั่นป่วนและเสียงครวญดังไปทั่วแผ่นดิน\\n\\nผู้สูญสิ้นให้ความคลั่งจะต้องตาย"
         ],
         "name": "Fass",
         "code": "th"
       },
       {
         "description": [
-          "Kükreyen, inleyen, bizim krallığımızDelilikte kaybolanlar ölecekler"
+          "Kükreyen, inleyen, bizim krallığımız\\n\\nDelilikte kaybolanlar ölecekler"
         ],
         "name": "Fass",
         "code": "tr"
       },
       {
         "description": [
-          "Гуркочучи й стенаючи, реальність,піддавшись божевіллю, йде вмирать."
+          "Гуркочучи й стенаючи, реальність,\\nпіддавшись божевіллю, йде вмирать."
         ],
         "name": "Фасс",
         "code": "uk"
@@ -31000,69 +31550,6 @@
       },
       {
         "name": "Фатальний потяг",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Powersuits/Ninja/TeleportToAugmentCard",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fatal-teleport-6aea3d2c3a.jpg",
-    "name": "Fatal Teleport",
-    "languages": [
-      {
-        "name": "Fataler Teleport",
-        "code": "de"
-      },
-      {
-        "name": "Téléportation Fatale",
-        "code": "fr"
-      },
-      {
-        "name": "Fatal Teleport",
-        "code": "it"
-      },
-      {
-        "name": "페이탈 텔레포트",
-        "code": "ko"
-      },
-      {
-        "name": "Teletransporte fatal",
-        "code": "es"
-      },
-      {
-        "name": "致命传送",
-        "code": "zh"
-      },
-      {
-        "name": "Смертельный Телепорт",
-        "code": "ru"
-      },
-      {
-        "name": "Fatal Teleport",
-        "code": "ja"
-      },
-      {
-        "name": "Śmiertelny Teleport",
-        "code": "pl"
-      },
-      {
-        "name": "Fatal Teleport",
-        "code": "pt"
-      },
-      {
-        "name": "致命傳送",
-        "code": "tc"
-      },
-      {
-        "name": "Fatal Teleport",
-        "code": "th"
-      },
-      {
-        "name": "Fatal Teleport",
-        "code": "tr"
-      },
-      {
-        "name": "Смертоносне переміщення",
         "code": "uk"
       }
     ]
@@ -34652,7 +35139,7 @@
         "code": "pl"
       },
       {
-        "name": "Freeze Force",
+        "name": "Força Congelante",
         "code": "pt"
       },
       {
@@ -35468,6 +35955,69 @@
       },
       {
         "name": "Лють",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/ConcreteFrame/ConcreteLaserAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fused-crucible-3735cc7a99.jpg",
+    "name": "Fused Crucible",
+    "languages": [
+      {
+        "name": "Fusions-Kernschmelze",
+        "code": "de"
+      },
+      {
+        "name": "Fusion du Creuset",
+        "code": "fr"
+      },
+      {
+        "name": "Fused Crucible",
+        "code": "it"
+      },
+      {
+        "name": "퓨즈드 크루시블",
+        "code": "ko"
+      },
+      {
+        "name": "Crisol fusionado",
+        "code": "es"
+      },
+      {
+        "name": "熔融堆芯",
+        "code": "zh"
+      },
+      {
+        "name": "Сплавленное горнило",
+        "code": "ru"
+      },
+      {
+        "name": "Fused Crucible",
+        "code": "ja"
+      },
+      {
+        "name": "Skupienie Rdzenia",
+        "code": "pl"
+      },
+      {
+        "name": "Crisol Fundido",
+        "code": "pt"
+      },
+      {
+        "name": "融合核堝",
+        "code": "tc"
+      },
+      {
+        "name": "Fused Crucible",
+        "code": "th"
+      },
+      {
+        "name": "Fused Crucible",
+        "code": "tr"
+      },
+      {
+        "name": "Тигельне злиття",
         "code": "uk"
       }
     ]
@@ -38404,7 +38954,7 @@
         "code": "pl"
       },
       {
-        "name": "Guardian Armor",
+        "name": "Armadura Guardiã",
         "code": "pt"
       },
       {
@@ -38782,7 +39332,7 @@
         "code": "pl"
       },
       {
-        "name": "Guided Effigy",
+        "name": "Efígie Guiada",
         "code": "pt"
       },
       {
@@ -44155,7 +44705,7 @@
         "code": "pl"
       },
       {
-        "name": "Ice Wave Impedance",
+        "name": "Impedância Glacial",
         "code": "pt"
       },
       {
@@ -44218,7 +44768,7 @@
         "code": "pl"
       },
       {
-        "name": "Icy Avalanche",
+        "name": "Avalanche Gélida",
         "code": "pt"
       },
       {
@@ -44235,69 +44785,6 @@
       },
       {
         "name": "Крижана лавина",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Powersuits/Ember/FireSkinAugmentCard",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/immolated-radiance-bb3fca99f5.jpg",
-    "name": "Immolated Radiance",
-    "languages": [
-      {
-        "name": "Glänzendes Feueropfer",
-        "code": "de"
-      },
-      {
-        "name": "Radiance Immolante",
-        "code": "fr"
-      },
-      {
-        "name": "Immolated Radiance",
-        "code": "it"
-      },
-      {
-        "name": "이몰레이티드 레이디언스",
-        "code": "ko"
-      },
-      {
-        "name": "Resplandor inmolado",
-        "code": "es"
-      },
-      {
-        "name": "献祭之辉",
-        "code": "zh"
-      },
-      {
-        "name": "Сияние Самосожжения",
-        "code": "ru"
-      },
-      {
-        "name": "Immolated Radiance",
-        "code": "ja"
-      },
-      {
-        "name": "Blask Samospalenia",
-        "code": "pl"
-      },
-      {
-        "name": "Imolação Radiante",
-        "code": "pt"
-      },
-      {
-        "name": "獻祭光環",
-        "code": "tc"
-      },
-      {
-        "name": "Immolated Radiance",
-        "code": "th"
-      },
-      {
-        "name": "Immolated Radiance",
-        "code": "tr"
-      },
-      {
-        "name": "Сяйво самоспалення",
         "code": "uk"
       }
     ]
@@ -44361,6 +44848,69 @@
       },
       {
         "name": "Опір невразливості",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusOnUseMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/immuno-shield-6113db44f9.jpg",
+    "name": "Immuno Shield",
+    "languages": [
+      {
+        "name": "Immuno-Schild",
+        "code": "de"
+      },
+      {
+        "name": "Bouclier Immunitaire",
+        "code": "fr"
+      },
+      {
+        "name": "Immuno Shield",
+        "code": "it"
+      },
+      {
+        "name": "이뮤노 실드",
+        "code": "ko"
+      },
+      {
+        "name": "Escudo inmunológico",
+        "code": "es"
+      },
+      {
+        "name": "免疫护盾",
+        "code": "zh"
+      },
+      {
+        "name": "Иммунный Щит",
+        "code": "ru"
+      },
+      {
+        "name": "Immuno Shield",
+        "code": "ja"
+      },
+      {
+        "name": "Osłona Immunologiczna",
+        "code": "pl"
+      },
+      {
+        "name": "Immuno Shield",
+        "code": "pt"
+      },
+      {
+        "name": "免疫護罩",
+        "code": "tc"
+      },
+      {
+        "name": "Immuno Shield",
+        "code": "th"
+      },
+      {
+        "name": "Immuno Shield",
+        "code": "tr"
+      },
+      {
+        "name": "Імунний щит",
         "code": "uk"
       }
     ]
@@ -45226,7 +45776,7 @@
         "code": "pl"
       },
       {
-        "name": "Infiltrate",
+        "name": "Infiltração",
         "code": "pt"
       },
       {
@@ -45432,6 +45982,69 @@
       },
       {
         "name": "Ненажерливість",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusLargeOnSingleUseMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/instant-secure-ecb506d853.jpg",
+    "name": "Instant Secure",
+    "languages": [
+      {
+        "name": "Sofort sicher",
+        "code": "de"
+      },
+      {
+        "name": "Sécurité Instantanée",
+        "code": "fr"
+      },
+      {
+        "name": "Instant Secure",
+        "code": "it"
+      },
+      {
+        "name": "인스턴트 시큐어",
+        "code": "ko"
+      },
+      {
+        "name": "Seguridad instantánea",
+        "code": "es"
+      },
+      {
+        "name": "即刻安保",
+        "code": "zh"
+      },
+      {
+        "name": "Мгновенная защита",
+        "code": "ru"
+      },
+      {
+        "name": "Instant Secure",
+        "code": "ja"
+      },
+      {
+        "name": "Błyskawiczna Ochrona",
+        "code": "pl"
+      },
+      {
+        "name": "Instant Secure",
+        "code": "pt"
+      },
+      {
+        "name": "即時保護",
+        "code": "tc"
+      },
+      {
+        "name": "Instant Secure",
+        "code": "th"
+      },
+      {
+        "name": "Instant Secure",
+        "code": "tr"
+      },
+      {
+        "name": "Миттєвий захист",
         "code": "uk"
       }
     ]
@@ -46932,102 +47545,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalThreeMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jahu-7794d1c88c.png",
     "name": "Jahu",
-    "description": "Corporeal laws are unwritAs suns and love retreat",
+    "description": "Corporeal laws are unwrit\n\nAs suns and love retreat",
     "languages": [
       {
         "description": [
-          "Wahre Gesetze wurden umgeschriebenAls die Sonne und Liebe verschwanden"
+          "Wahre Gesetze wurden umgeschrieben\\n\\nAls die Sonne und Liebe verschwanden"
         ],
         "name": "Jahu",
         "code": "de"
       },
       {
         "description": [
-          "L'ordre retiré, ne reste que le doute,Le Soleil oublié, l'Amour en déroute."
+          "L'ordre retiré, ne reste que le doute,\\n\\nLe Soleil oublié, l'Amour en déroute."
         ],
         "name": "Jahu",
         "code": "fr"
       },
       {
         "description": [
-          "Ogni legge corporea va cancellandoMentre i soli e l'amore si stanno eclissando"
+          "Ogni legge corporea va cancellando\\n\\nMentre i soli e l'amore si stanno eclissando"
         ],
         "name": "Jahu",
         "code": "it"
       },
       {
         "description": [
-          "물질계가 내거는 불문의 법칙에는태양도 사랑도 물러날지언대"
+          "물질계가 내거는 불문의 법칙에는\\n\\n태양도 사랑도 물러날지언대"
         ],
         "name": "자후",
         "code": "ko"
       },
       {
         "description": [
-          "Las leyes físicas no están escritasMientras los soles y el amor dan marcha atrás"
+          "Las leyes físicas no están escritas\\n\\nMientras los soles y el amor dan marcha atrás"
         ],
         "name": "Jahu",
         "code": "es"
       },
       {
         "description": [
-          "定律归零太阳和爱退缩"
+          "定律归零\\n\\n太阳和爱退缩"
         ],
         "name": "Jahu",
         "code": "zh"
       },
       {
         "description": [
-          "Законы материи попраныКогда солнца и любовь утрачены"
+          "Законы материи попраны\\n\\nКогда солнца и любовь утрачены"
         ],
         "name": "Джаху",
         "code": "ru"
       },
       {
         "description": [
-          "体を仕切る法などない陽と愛が引くなら"
+          "体を仕切る法などない\\n\\n陽と愛が引くなら"
         ],
         "name": "Jahu",
         "code": "ja"
       },
       {
         "description": [
-          "Prawa cielesne nie są pisaneGdy słońca i miłość przygasają"
+          "Prawa cielesne nie są pisane\\n\\nGdy słońca i miłość przygasają"
         ],
         "name": "Jahu",
         "code": "pl"
       },
       {
         "description": [
-          "As leis materiais se apagamEnquanto os sóis e o amor recuam"
+          "As leis materiais se apagam\\n\\nEnquanto os sóis e o amor recuam"
         ],
         "name": "Jahu",
         "code": "pt"
       },
       {
         "description": [
-          "重塑不成文的物質法則正如烈日消散與愛意褪去"
+          "重塑不成文的物質法則\\n\\n正如烈日消散與愛意褪去"
         ],
         "name": "Jahu",
         "code": "tc"
       },
       {
         "description": [
-          "กฎหมายที่ไม่ได้ประทับเป็นลายลักษณ์ดุจดั่งความรักและดวงตะวันที่ถอยหนี"
+          "กฎหมายที่ไม่ได้ประทับเป็นลายลักษณ์\\n\\nดุจดั่งความรักและดวงตะวันที่ถอยหนี"
         ],
         "name": "Jahu",
         "code": "th"
       },
       {
         "description": [
-          "Güneşler ve aşk geri çekilirkenFiziksel kanunlar geçerli değildir"
+          "Güneşler ve aşk geri çekilirken\\n\\nFiziksel kanunlar geçerli değildir"
         ],
         "name": "Jahu",
         "code": "tr"
       },
       {
         "description": [
-          "Неписані тілеснії закони,як сонце і любов зника."
+          "Неписані тілеснії закони,\\nяк сонце і любов зника."
         ],
         "name": "Джаху",
         "code": "uk"
@@ -47602,105 +48215,211 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalEightMod",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khra-86773a6cfd.png",
-    "name": "Khra",
-    "description": "To cosmic forms from tangent planesWe end as we began",
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusFourMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/keep-clean-05f8d296e1.png",
+    "name": "Keep-Clean",
+    "description": "There's no Clean like Keep-Clean",
     "languages": [
       {
         "description": [
-          "Von körperlichen zurück zu kosmischen Formen,Wir enden, wie wir begannen"
+          "Es gibt keinen Reiniger, wie Keep-Clean"
+        ],
+        "name": "Keep-Clean",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Il n'y a pas plus propre que C du Propre"
+        ],
+        "name": "C du Propre",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Pulizia profonda con Keep-Clean"
+        ],
+        "name": "Keep-Clean",
+        "code": "it"
+      },
+      {
+        "description": [
+          "킵-클린만큼 바이러스를 클린하게 박멸할 방법은 없죠"
+        ],
+        "name": "킵-클린",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Nada limpia mejor que Keep-Clean"
+        ],
+        "name": "Keep-Clean",
+        "code": "es"
+      },
+      {
+        "description": [
+          "没有任何清理能比得上持续清理。"
+        ],
+        "name": "持续清理",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Ничто не чистит вирусы лучше Кибер-Гигиены"
+        ],
+        "name": "Кибер-Гигиена",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "Keep-CleanでクリーンなPCを"
+        ],
+        "name": "Keep-Clean",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Nie ma lepszego czyszczenia niż Czyścioszek"
+        ],
+        "name": "Czyścioszek",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Nada limpa melhor que Keep-Clean!"
+        ],
+        "name": "Keep-Clean",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "想要整潔就只有保潔"
+        ],
+        "name": "保潔",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "ไม่มีอะไรสะอาดเท่ากับ Keep-Clean อีกแล้ว"
+        ],
+        "name": "Keep-Clean",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Keep-Clean kadar temiz tutan bir şey yok"
+        ],
+        "name": "Keep-Clean",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Ніщо не чистить ліпше за Чистюню"
+        ],
+        "name": "Чистюня",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalEightMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khra-86773a6cfd.png",
+    "name": "Khra",
+    "description": "To cosmic forms from tangent planes\n\nWe end as we began",
+    "languages": [
+      {
+        "description": [
+          "Von körperlichen zurück zu kosmischen Formen,\\n\\nWir enden, wie wir begannen"
         ],
         "name": "Khra",
         "code": "de"
       },
       {
         "description": [
-          "Des plans tangents jusqu'aux formations éthérées,Nous finissons mal, comme nous avions commencé."
+          "Des plans tangents jusqu'aux formations éthérées,\\n\\nNous finissons mal, comme nous avions commencé."
         ],
         "name": "Khra",
         "code": "fr"
       },
       {
         "description": [
-          "Dai piani tangenti a ogni forma del creatoFiniamo come abbiamo iniziato"
+          "Dai piani tangenti a ogni forma del creato\\n\\nFiniamo come abbiamo iniziato"
         ],
         "name": "Khra",
         "code": "it"
       },
       {
         "description": [
-          "접평면의 차원에서 온 우주의 형태로우리는 시작과 같이 끝을 맞이한다"
+          "접평면의 차원에서 온 우주의 형태로\\n\\n우리는 시작과 같이 끝을 맞이한다"
         ],
         "name": "크라",
         "code": "ko"
       },
       {
         "description": [
-          "A formas cósmicas desde planos tangentesTerminamos como comenzamos"
+          "A formas cósmicas desde planos tangentes\\n\\nTerminamos como comenzamos"
         ],
         "name": "Khra",
         "code": "es"
       },
       {
         "description": [
-          "对于从相切位面演化出的宇宙来说我们的结局又回到了开始"
+          "对于从相切位面演化出的宇宙来说\\n\\n我们的结局又回到了开始"
         ],
         "name": "Khra",
         "code": "zh"
       },
       {
         "description": [
-          "К космическим формам плоскостей касательныхМы вернёмся туда, откуда мы начинали"
+          "К космическим формам плоскостей касательных\\n\\nМы вернёмся туда, откуда мы начинали"
         ],
         "name": "Кхра",
         "code": "ru"
       },
       {
         "description": [
-          "宇宙から地平へ始まりと終末は同じである"
+          "宇宙から地平へ\\n\\n始まりと終末は同じである"
         ],
         "name": "Khra",
         "code": "ja"
       },
       {
         "description": [
-          "Do form kosmicznych z płaszczyzn stycznychKończymy tak, jak zaczęliśmy"
+          "Do form kosmicznych z płaszczyzn stycznych\\n\\nKończymy tak, jak zaczęliśmy"
         ],
         "name": "Khra",
         "code": "pl"
       },
       {
         "description": [
-          "E como formas cósmicas de planos tangenciaisÀs origens, retornaremos"
+          "E como formas cósmicas de planos tangenciais\\n\\nÀs origens, retornaremos"
         ],
         "name": "Khra",
         "code": "pt"
       },
       {
         "description": [
-          "從宇宙塵埃演變至地平線的平切面我們是萬物的開端，亦是萬物之終結"
+          "從宇宙塵埃演變至地平線的平切面\\n\\n我們是萬物的開端，亦是萬物之終結"
         ],
         "name": "Khra",
         "code": "tc"
       },
       {
         "description": [
-          "กลายไปสู่รูปแบบจักรวาลจากระนาบที่สัมผัสกันเราจะพลันสิ้นสุดลงอย่างที่เคยเริ่มกันมา"
+          "กลายไปสู่รูปแบบจักรวาลจากระนาบที่สัมผัสกัน\\n\\nเราจะพลันสิ้นสุดลงอย่างที่เคยเริ่มกันมา"
         ],
         "name": "Khra",
         "code": "th"
       },
       {
         "description": [
-          "Teğet düzlemlerden kozmik formlaraBaşladığımız gibi bitiriyoruz"
+          "Teğet düzlemlerden kozmik formlara\\n\\nBaşladığımız gibi bitiriyoruz"
         ],
         "name": "Khra",
         "code": "tr"
       },
       {
         "description": [
-          "В космічні форми, попри різнії світи,повернемось, бо звідти і прийшли."
+          "В космічні форми, попри різнії світи,\\nповернемось. Ми закінчимо так, як почали."
         ],
         "name": "Кра",
         "code": "uk"
@@ -50065,102 +50784,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalOneMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lohk-62bbe616fd.png",
     "name": "Lohk",
-    "description": "From brooding gulfs are we beheldBy that which bears no name",
+    "description": "From brooding gulfs are we beheld\n\nBy that which bears no name",
     "languages": [
       {
         "description": [
-          "Angeblickt aus dunklen KluftenVon jenem Ding ohne Namen"
+          "Angeblickt aus dunklen Kluften\\n\\nVon jenem Ding ohne Namen"
         ],
         "name": "Lohk",
         "code": "de"
       },
       {
         "description": [
-          "Son nom jamais nul n'ose prononcer; il se Replie et nous épie, depuis les abysses."
+          "Son nom jamais nul n'ose prononcer; il se \\n\\nReplie et nous épie, depuis les abysses."
         ],
         "name": "Lohk",
         "code": "fr"
       },
       {
         "description": [
-          "Da colui senza nome siamo contemplatiDagli abissi incombenti e spietati"
+          "Da colui senza nome siamo contemplati\\n\\nDagli abissi incombenti e spietati"
         ],
         "name": "Lohk",
         "code": "it"
       },
       {
         "description": [
-          "음울한 심연 속 이름 없는 자들은그 눈으로 우리들을 바라본다"
+          "음울한 심연 속 이름 없는 자들은\\n\\n그 눈으로 우리들을 바라본다"
         ],
         "name": "로크",
         "code": "ko"
       },
       {
         "description": [
-          "Desde los profundos abismos hemos sido observadosPor aquel a quien un nombre no ha sido otorgado"
+          "Desde los profundos abismos hemos sido observados\\n\\nPor aquel a quien un nombre no ha sido otorgado"
         ],
         "name": "Lohk",
         "code": "es"
       },
       {
         "description": [
-          "来自沉思之渊的视线，落在了我们身上其源头为无名之物"
+          "来自沉思之渊的视线，落在了我们身上\\n\\n其源头为无名之物"
         ],
         "name": "Lohk",
         "code": "zh"
       },
       {
         "description": [
-          "За нами наблюдает из заливов унынияТо, что не имеет имени"
+          "За нами наблюдает из заливов уныния\\n\\nТо, что не имеет имени"
         ],
         "name": "Лок",
         "code": "ru"
       },
       {
         "description": [
-          "大いなるものから我らは生まれるそのものに名前はない"
+          "大いなるものから我らは生まれる\\n\\nそのものに名前はない"
         ],
         "name": "Lohk",
         "code": "ja"
       },
       {
         "description": [
-          "Z tajemniczej przepaści jesteśmy widzianiPrzez to, co nie nosi imienia"
+          "Z tajemniczej przepaści jesteśmy widziani\\n\\nPrzez to, co nie nosi imienia"
         ],
         "name": "Lohk",
         "code": "pl"
       },
       {
         "description": [
-          "Das profundezas do abismo, somos vigiadosPor aquele que não deve ser nomeado"
+          "Das profundezas do abismo, somos vigiados\\n\\nPor aquele que não deve ser nomeado"
         ],
         "name": "Lohk",
         "code": "pt"
       },
       {
         "description": [
-          "深陷兇險鴻溝的我們，被暗中注視著那不具名之物"
+          "深陷兇險鴻溝的我們，被暗中注視著\\n\\n那不具名之物"
         ],
         "name": "Lohk",
         "code": "tc"
       },
       {
         "description": [
-          "หุบเหวลึกสุดเวิ้งว้างที่มองเห็นล้วนเป็นสิ่งไร้ชื่อให้เรียกขาน"
+          "หุบเหวลึกสุดเวิ้งว้างที่มองเห็น\\n\\nล้วนเป็นสิ่งไร้ชื่อให้เรียกขาน"
         ],
         "name": "Lohk",
         "code": "th"
       },
       {
         "description": [
-          "İsimsiz olanlar tarafındanDerin uçurumlardan görüldük"
+          "İsimsiz olanlar tarafından\\n\\nDerin uçurumlardan görüldük"
         ],
         "name": "Lohk",
         "code": "tr"
       },
       {
         "description": [
-          "Скорботним поглядом за намищось безіменне спогляда."
+          "Скорботним поглядом за нами\\nщось безіменне спогляда."
         ],
         "name": "Лоук",
         "code": "uk"
@@ -50693,7 +51412,7 @@
         "code": "pl"
       },
       {
-        "name": "Loyal Merulina",
+        "name": "Merulina Leal",
         "code": "pt"
       },
       {
@@ -50882,7 +51601,7 @@
         "code": "pl"
       },
       {
-        "name": "Mach Crash",
+        "name": "Colisão Supersônica",
         "code": "pt"
       },
       {
@@ -51809,69 +52528,6 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowMagneticEventMeleeMod",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-claws-b35effe51e.jpg",
-    "name": "Magnetic Claws",
-    "languages": [
-      {
-        "name": "Magnetische Klauen",
-        "code": "de"
-      },
-      {
-        "name": "Griffes Magnétiques",
-        "code": "fr"
-      },
-      {
-        "name": "Magnetic Claws",
-        "code": "it"
-      },
-      {
-        "name": "마그네틱 클로",
-        "code": "ko"
-      },
-      {
-        "name": "Garras magnéticas",
-        "code": "es"
-      },
-      {
-        "name": "磁化利爪",
-        "code": "zh"
-      },
-      {
-        "name": "Магнитные когти",
-        "code": "ru"
-      },
-      {
-        "name": "Magnetic Claws",
-        "code": "ja"
-      },
-      {
-        "name": "Szpony Magnetyczne",
-        "code": "pl"
-      },
-      {
-        "name": "Magnetic Claws",
-        "code": "pt"
-      },
-      {
-        "name": "磁力爪子",
-        "code": "tc"
-      },
-      {
-        "name": "Magnetic Claws",
-        "code": "th"
-      },
-      {
-        "name": "Magnetic Claws",
-        "code": "tr"
-      },
-      {
-        "name": "Магнетичні пазурі",
-        "code": "uk"
-      }
-    ]
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Focus/Ward/Active/MagneticFieldFocusUpgrade",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-flare-6177967fcd.jpg",
     "name": "Magnetic Flare",
@@ -51993,69 +52649,6 @@
       },
       {
         "name": "Магнетична міць",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/MagneticAttackSpeedMeleeMod",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnetic-rush-5df06f5460.jpg",
-    "name": "Magnetic Rush",
-    "languages": [
-      {
-        "name": "Magnetischer Rausch",
-        "code": "de"
-      },
-      {
-        "name": "Ruée Magnétique",
-        "code": "fr"
-      },
-      {
-        "name": "Magnetic Rush",
-        "code": "it"
-      },
-      {
-        "name": "마그네틱 러쉬",
-        "code": "ko"
-      },
-      {
-        "name": "Ráfaga magnética",
-        "code": "es"
-      },
-      {
-        "name": "励磁加速",
-        "code": "zh"
-      },
-      {
-        "name": "Магнитное ускорение",
-        "code": "ru"
-      },
-      {
-        "name": "Magnetic Rush",
-        "code": "ja"
-      },
-      {
-        "name": "Magnetyczny Szturm",
-        "code": "pl"
-      },
-      {
-        "name": "Magnetic Rush",
-        "code": "pt"
-      },
-      {
-        "name": "磁氣猛攻",
-        "code": "tc"
-      },
-      {
-        "name": "Magnetic Rush",
-        "code": "th"
-      },
-      {
-        "name": "Magnetic Rush",
-        "code": "tr"
-      },
-      {
-        "name": "Магнетичний наступ",
         "code": "uk"
       }
     ]
@@ -54863,7 +55456,7 @@
         "code": "pl"
       },
       {
-        "name": "Mending Splinters",
+        "name": "Estilhaços Reparadores",
         "code": "pt"
       },
       {
@@ -55158,7 +55751,7 @@
         "code": "pl"
       },
       {
-        "name": "Merulina Guardian",
+        "name": "Merulina Guardiã",
         "code": "pt"
       },
       {
@@ -55221,7 +55814,7 @@
         "code": "pl"
       },
       {
-        "name": "Mesa's Waltz",
+        "name": "Valsa da Mesa",
         "code": "pt"
       },
       {
@@ -55284,7 +55877,7 @@
         "code": "pl"
       },
       {
-        "name": "Mesmer Shield",
+        "name": "Escudo Hipnotizante",
         "code": "pt"
       },
       {
@@ -57217,7 +57810,7 @@
         "code": "pl"
       },
       {
-        "name": "Muzzle Flash",
+        "name": "Supressão",
         "code": "pt"
       },
       {
@@ -59765,102 +60358,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalSevenMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/netra-60c488c194.png",
     "name": "Netra",
-    "description": "Carrion hordes trill their profaneAccord with eldritch plans",
+    "description": "Carrion hordes trill their profane\n\nAccord with eldritch plans",
     "languages": [
       {
         "description": [
-          "Lobgesang von verdorbene HordenIn Harmonie mit ihrem schrecklichen Plan"
+          "Lobgesang von verdorbene Horden\\n\\nIn Harmonie mit ihrem schrecklichen Plan"
         ],
         "name": "Netra",
         "code": "de"
       },
       {
         "description": [
-          "Les hordes viles, des obscénités scandentLouant les maléfices, desseins qu'elles défendent."
+          "Les hordes viles, des obscénités scandent\\n\\nLouant les maléfices, desseins qu'elles défendent."
         ],
         "name": "Netra",
         "code": "fr"
       },
       {
         "description": [
-          "Orde di carogne intonano i loro canti profaniAccettando i loro malvagi piani"
+          "Orde di carogne intonano i loro canti profani\\n\\nAccettando i loro malvagi piani"
         ],
         "name": "Netra",
         "code": "it"
       },
       {
         "description": [
-          "두려운 계획이 이끄는 대로썩은 육신의 무리는 모독의 말을 지저귄다"
+          "두려운 계획이 이끄는 대로\\n\\n썩은 육신의 무리는 모독의 말을 지저귄다"
         ],
         "name": "네트라",
         "code": "ko"
       },
       {
         "description": [
-          "Hordas carroñeras trinan los profanos cantosAceptando sus planes malvados"
+          "Hordas carroñeras trinan los profanos cantos\\n\\nAceptando sus planes malvados"
         ],
         "name": "Netra",
         "code": "es"
       },
       {
         "description": [
-          "腐朽的大军以亵渎的口吻吟唱着古老的计划"
+          "腐朽的大军以亵渎的口吻\\n\\n吟唱着古老的计划"
         ],
         "name": "Netra",
         "code": "zh"
       },
       {
         "description": [
-          "Полчища падших дрожат от кощунстваПланам зловещим своим созвучно"
+          "Полчища падших дрожат от кощунства\\n\\nПланам зловещим своим созвучно"
         ],
         "name": "Нетра",
         "code": "ru"
       },
       {
         "description": [
-          "死の群れは汚れを歌う大きな存在の仰せのままに"
+          "死の群れは汚れを歌う\\n\\n大きな存在の仰せのままに"
         ],
         "name": "Netra",
         "code": "ja"
       },
       {
         "description": [
-          "Zgniłe hordy bluzgi wyśpiewująZgodnie z planami złowrogimi"
+          "Zgniłe hordy bluzgi wyśpiewują\\n\\nZgodnie z planami złowrogimi"
         ],
         "name": "Netra",
         "code": "pl"
       },
       {
         "description": [
-          "As hordas carniçais cumprem o seu profanoTudo de acordo com o plano maligno"
+          "As hordas carniçais cumprem o seu profano\\n\\nTudo de acordo com o plano maligno"
         ],
         "name": "Netra",
         "code": "pt"
       },
       {
         "description": [
-          "食腐成軍散播褻瀆之言執行駭人的計畫"
+          "食腐成軍散播褻瀆之言\\n\\n執行駭人的計畫"
         ],
         "name": "Netra",
         "code": "tc"
       },
       {
         "description": [
-          "ฝูงซากศพหลั่งไหลเข้ามาทำลายสอดคล้องกับแผนประหลาดอันชั่วร้าย"
+          "ฝูงซากศพหลั่งไหลเข้ามาทำลาย\\n\\nสอดคล้องกับแผนประหลาดอันชั่วร้าย"
         ],
         "name": "Netra",
         "code": "th"
       },
       {
         "description": [
-          "Carrion sürüleri ihanet şarkıları söylüyorKorkunç planlarına akort yapıyorlar"
+          "Carrion sürüleri ihanet şarkıları söylüyor\\n\\nKorkunç planlarına akort yapıyorlar"
         ],
         "name": "Netra",
         "code": "tr"
       },
       {
         "description": [
-          "Вже орди трупоїдів нечестивихготують плани лиховіснії свої."
+          "Вже орди трупоїдів нечестивих\\nготують плани лиховіснії свої."
         ],
         "name": "Нетра",
         "code": "uk"
@@ -61326,6 +61919,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Koumei/KoumeiFortuneAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/omikuji's-fortune-7d586ecd4c.jpg",
+    "name": "Omikuji's Fortune",
+    "languages": [
+      {
+        "name": "Omikujis Glück",
+        "code": "de"
+      },
+      {
+        "name": "Fortune d'Omikuji",
+        "code": "fr"
+      },
+      {
+        "name": "Omikuji's Fortune",
+        "code": "it"
+      },
+      {
+        "name": "오미쿠지 포츈",
+        "code": "ko"
+      },
+      {
+        "name": "Fortuna de Omikuji",
+        "code": "es"
+      },
+      {
+        "name": "御神签运势",
+        "code": "zh"
+      },
+      {
+        "name": "Удача Омикудзи",
+        "code": "ru"
+      },
+      {
+        "name": "Omikuji's Fortune",
+        "code": "ja"
+      },
+      {
+        "name": "Fortuna Omikuji",
+        "code": "pl"
+      },
+      {
+        "name": "Fortuna de Omikuji",
+        "code": "pt"
+      },
+      {
+        "name": "御神籤運",
+        "code": "tc"
+      },
+      {
+        "name": "Omikuji's Fortune",
+        "code": "th"
+      },
+      {
+        "name": "Omikuji's Fortune",
+        "code": "tr"
+      },
+      {
+        "name": "Удача омікуджі",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarOffensiveMatrix",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/onslaught-matrix-c1103fe461.png",
     "name": "Onslaught Matrix",
@@ -61682,7 +62338,7 @@
         "code": "pl"
       },
       {
-        "name": "Ore Gaze",
+        "name": "Olhar da Riqueza",
         "code": "pt"
       },
       {
@@ -61959,102 +62615,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalWildcardMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oull-42a22fc791.png",
     "name": "Oull",
-    "description": "Through endless faces, countless forms, a multitude unfolds.(Mimics any Requiem Mod)",
+    "description": "Through endless faces, countless forms, a multitude unfolds.\n\n(Mimics any Requiem Mod)",
     "languages": [
       {
         "description": [
-          "Durch endlose Gesichter, unzählige Formen entfaltet sich eine Vielheit.(Imitiert jede Requiem-Mod)"
+          "Durch endlose Gesichter, unzählige Formen entfaltet sich eine Vielheit.\\n\\n(Imitiert jede Requiem-Mod)"
         ],
         "name": "Oull",
         "code": "de"
       },
       {
         "description": [
-          "À travers des visages infinis, des formes innombrables, une multitude se déploie.(remplace tout Mod Requiem)"
+          "À travers des visages infinis, des formes innombrables, une multitude se déploie.\\n\\n(remplace tout Mod Requiem)"
         ],
         "name": "Oull",
         "code": "fr"
       },
       {
         "description": [
-          "Attraverso infinite facce, innumerevoli forme, si dispiega una moltitudine.(Imita qualsiasi Mod Requiem)"
+          "Attraverso infinite facce, innumerevoli forme, si dispiega una moltitudine.\\n\\n(Imita qualsiasi Mod Requiem)"
         ],
         "name": "Oull",
         "code": "it"
       },
       {
         "description": [
-          "끝없는 면모, 셀 수 없는 형태를 통해, 무한의 수가 펼쳐진다.(레퀴엠 모드를 무엇이든 모방합니다.)"
+          "끝없는 면모, 셀 수 없는 형태를 통해, 무한의 수가 펼쳐진다.\\n\\n(레퀴엠 모드를 무엇이든 모방합니다.)"
         ],
         "name": "오울",
         "code": "ko"
       },
       {
         "description": [
-          "A través de infinitos rostros, de innumerables formas, una multitud se despliega.(Imita cualquier mod Réquiem)"
+          "A través de infinitos rostros, de innumerables formas, una multitud se despliega.\\n\\n(Imita cualquier mod Réquiem)"
         ],
         "name": "Oull",
         "code": "es"
       },
       {
         "description": [
-          "通过无尽的面孔、无数的形态，呈现出千姿百态。（可模拟任意安魂 Mod）"
+          "通过无尽的面孔、无数的形态，呈现出千姿百态。\\n\\n（可模拟任意安魂 Mod）"
         ],
         "name": "Oull",
         "code": "zh"
       },
       {
         "description": [
-          "Через бесконечность лиц, бесчисленность форм раскрывается множество.(Имитирует любой мод Реквиема)"
+          "Через бесконечность лиц, бесчисленность форм раскрывается множество.\\n\\n(Имитирует любой мод Реквиема)"
         ],
         "name": "Аул",
         "code": "ru"
       },
       {
         "description": [
-          "無限の顔、無限の姿、無限の可能性。（Requiem MODのオールマイティとして使用できる）"
+          "無限の顔、無限の姿、無限の可能性。\\n\\n（Requiem MODのオールマイティとして使用できる）"
         ],
         "name": "Oull",
         "code": "ja"
       },
       {
         "description": [
-          "Przez nieskończone twarze, niezliczone formy, rozwija się mnogość.(Zastępuje dowolny Mod Requiem)"
+          "Przez nieskończone twarze, niezliczone formy, rozwija się mnogość.\\n\\n(Zastępuje dowolny Mod Requiem)"
         ],
         "name": "Oull",
         "code": "pl"
       },
       {
         "description": [
-          "Por meio de rostos infinitos, formas incontáveis, uma multidão se desdobra.(Imita qualquer Mod Réquiem)"
+          "Por meio de rostos infinitos, formas incontáveis, uma multidão se desdobra.\\n\\n(Imita qualquer Mod Réquiem)"
         ],
         "name": "Oull",
         "code": "pt"
       },
       {
         "description": [
-          "透過無盡的容顏、無數的形態，呈現無限種可能。（模擬任何鎮魂 MOD）"
+          "透過無盡的容顏、無數的形態，呈現無限種可能。\\n\\n（模擬任何鎮魂 MOD）"
         ],
         "name": "Oull",
         "code": "tc"
       },
       {
         "description": [
-          "ผ่านใบหน้าที่เปลี่ยนไปไม่สิ้นสุด ในรูปแบบที่สุดจะนับได้ ให้แผ่ขยายออกไปอย่างมากมาย(สามารถเลียนแบบ Requiem Mod ใดก็ได้)"
+          "ผ่านใบหน้าที่เปลี่ยนไปไม่สิ้นสุด ในรูปแบบที่สุดจะนับได้ ให้แผ่ขยายออกไปอย่างมากมาย\\n\\n(สามารถเลียนแบบ Requiem Mod ใดก็ได้)"
         ],
         "name": "Oull",
         "code": "th"
       },
       {
         "description": [
-          "Sonsuz yüz, sonsuz figür, sonsuz olasılıklar.(Herhangi bir Requiem Modunu taklit eder)"
+          "Sonsuz yüz, sonsuz figür, sonsuz olasılıklar.\\n\\n(Herhangi bir Requiem Modunu taklit eder)"
         ],
         "name": "Oull",
         "code": "tr"
       },
       {
         "description": [
-          "Крізь нескінченність форм, імен, обличформується кінечна множина.(Імітує будь-який модифікатор реквієму)"
+          "Крізь нескінченність форм, імен, облич\\nформується кінечна множина.\\n(Імітує будь-який модифікатор реквієму)"
         ],
         "name": "Оул",
         "code": "uk"
@@ -63449,7 +64105,7 @@
         "code": "pl"
       },
       {
-        "name": "Path of Statues",
+        "name": "Percurso Petrificante",
         "code": "pt"
       },
       {
@@ -64984,7 +65640,7 @@
         "code": "pl"
       },
       {
-        "name": "Piercing Navigator",
+        "name": "Navegação Perfurante",
         "code": "pt"
       },
       {
@@ -65173,7 +65829,7 @@
         "code": "pl"
       },
       {
-        "name": "Pilfering Strangledome",
+        "name": "Domo Saqueador",
         "code": "pt"
       },
       {
@@ -67106,7 +67762,7 @@
         "code": "pl"
       },
       {
-        "name": "Power of Three",
+        "name": "Poder Triplo",
         "code": "pt"
       },
       {
@@ -68114,7 +68770,7 @@
         "code": "pl"
       },
       {
-        "name": "Prey of Dynar",
+        "name": "Presa de Dynar",
         "code": "pt"
       },
       {
@@ -68177,7 +68833,7 @@
         "code": "pl"
       },
       {
-        "name": "Primal Rage",
+        "name": "Cólera Primordial",
         "code": "pt"
       },
       {
@@ -69328,6 +69984,69 @@
       },
       {
         "name": "Праймована конвульсія",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponRecoilReductionModExpert",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-counterbalance-45defae53a.jpg",
+    "name": "Primed Counterbalance",
+    "languages": [
+      {
+        "name": "Primed Counterbalance",
+        "code": "de"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "fr"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "it"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "ko"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "es"
+      },
+      {
+        "name": "制衡 Prime",
+        "code": "zh"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "ru"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "ja"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "pl"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "pt"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "tc"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "th"
+      },
+      {
+        "name": "Primed Counterbalance",
+        "code": "tr"
+      },
+      {
+        "name": "Primed Counterbalance",
         "code": "uk"
       }
     ]
@@ -71856,6 +72575,132 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-stabilizer-e6a5c531bd.jpg",
+    "name": "Primed Stabilizer",
+    "languages": [
+      {
+        "name": "Primed Stabilizer",
+        "code": "de"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "fr"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "it"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "ko"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "es"
+      },
+      {
+        "name": "稳定 Prime",
+        "code": "zh"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "ru"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "ja"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "pl"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "pt"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "tc"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "th"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "tr"
+      },
+      {
+        "name": "Primed Stabilizer",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponRecoilReductionModExpert",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-steady-hands-30ce98cdff.jpg",
+    "name": "Primed Steady Hands",
+    "languages": [
+      {
+        "name": "Primed Steady Hands",
+        "code": "de"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "fr"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "it"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "ko"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "es"
+      },
+      {
+        "name": "稳定枪手 Prime",
+        "code": "zh"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "ru"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "ja"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "pl"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "pt"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "tc"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "th"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "tr"
+      },
+      {
+        "name": "Primed Steady Hands",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityEfficiencyModExpert",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-streamline-a81429c932.jpg",
     "name": "Primed Streamline",
@@ -73726,6 +74571,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusSmallOnSingleUseMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quick-correct-3e82150f31.jpg",
+    "name": "Quick Correct",
+    "languages": [
+      {
+        "name": "Schnell-Korrektur",
+        "code": "de"
+      },
+      {
+        "name": "Correction Rapide",
+        "code": "fr"
+      },
+      {
+        "name": "Quick Correct",
+        "code": "it"
+      },
+      {
+        "name": "퀵 코렉트",
+        "code": "ko"
+      },
+      {
+        "name": "Corrección rápida",
+        "code": "es"
+      },
+      {
+        "name": "快速修正",
+        "code": "zh"
+      },
+      {
+        "name": "Оперативная коррекция",
+        "code": "ru"
+      },
+      {
+        "name": "Quick Correct",
+        "code": "ja"
+      },
+      {
+        "name": "Szybka Korekta",
+        "code": "pl"
+      },
+      {
+        "name": "Quick Correct",
+        "code": "pt"
+      },
+      {
+        "name": "快速糾正",
+        "code": "tc"
+      },
+      {
+        "name": "Quick Correct",
+        "code": "th"
+      },
+      {
+        "name": "Quick Correct",
+        "code": "tr"
+      },
+      {
+        "name": "Швидке виправлення",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBEscapePlanMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quick-escape-1ee4f9b192.jpg",
     "name": "Quick Escape",
@@ -75580,7 +76488,7 @@
         "code": "pl"
       },
       {
-        "name": "Reactive Storm",
+        "name": "Tempestade Reativa",
         "code": "pt"
       },
       {
@@ -76127,7 +77035,7 @@
         "code": "pl"
       },
       {
-        "name": "Recrystalize",
+        "name": "Recristalização",
         "code": "pt"
       },
       {
@@ -79867,7 +80775,7 @@
         "code": "pl"
       },
       {
-        "name": "Rift Haven",
+        "name": "Refúgio Dimensional",
         "code": "pt"
       },
       {
@@ -79993,7 +80901,7 @@
         "code": "pl"
       },
       {
-        "name": "Rift Torrent",
+        "name": "Torrente Dimensional",
         "code": "pt"
       },
       {
@@ -80313,102 +81221,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalFiveMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ris-2c72d50f48.png",
     "name": "Ris",
-    "description": "In luminous space blackened starsThey gaze, accuse, deny",
+    "description": "In luminous space blackened stars\n\nThey gaze, accuse, deny",
     "languages": [
       {
         "description": [
-          "Im leuchtenden All, geschwärzte Sterne Sie klagen, leugnen und starren uns an"
+          "Im leuchtenden All, geschwärzte Sterne\\n \\nSie klagen, leugnen und starren uns an"
         ],
         "name": "Ris",
         "code": "de"
       },
       {
         "description": [
-          "Dans l'espace éclairé, les étoiles éteintesDe leur jugement, nous imposent l'astreinte."
+          "Dans l'espace éclairé, les étoiles éteintes\\n\\nDe leur jugement, nous imposent l'astreinte."
         ],
         "name": "Ris",
         "code": "fr"
       },
       {
         "description": [
-          "Stelle macchiate nell'universo illuminatoCi hanno guardato, accusato, negato"
+          "Stelle macchiate nell'universo illuminato\\n\\nCi hanno guardato, accusato, negato"
         ],
         "name": "Ris",
         "code": "it"
       },
       {
         "description": [
-          "빛나는 공간에 검게 탄 별들이 떠올라응시하고, 매도하고, 부정하매"
+          "빛나는 공간에 검게 탄 별들이 떠올라\\n\\n응시하고, 매도하고, 부정하매"
         ],
         "name": "리즈",
         "code": "ko"
       },
       {
         "description": [
-          "En el espacio luminoso estrellas ennegrecidasMiran, acusan, niegan"
+          "En el espacio luminoso estrellas ennegrecidas\\n\\nMiran, acusan, niegan"
         ],
         "name": "Ris",
         "code": "es"
       },
       {
         "description": [
-          "光明的太空之中，飘荡着焦黑的星辰它们凝视、指责、否认"
+          "光明的太空之中，飘荡着焦黑的星辰\\n\\n它们凝视、指责、否认"
         ],
         "name": "Ris",
         "code": "zh"
       },
       {
         "description": [
-          "В сияющем космосе звезды темныСмотрят, корят, отвергают они"
+          "В сияющем космосе звезды темны\\n\\nСмотрят, корят, отвергают они"
         ],
         "name": "Риз",
         "code": "ru"
       },
       {
         "description": [
-          "輝く空間にある黒い星眺め、訴え、拒否する"
+          "輝く空間にある黒い星\\n\\n眺め、訴え、拒否する"
         ],
         "name": "Ris",
         "code": "ja"
       },
       {
         "description": [
-          "W świetlistej przestrzeni gwiazdy poczerniałePatrzą, oskarżają, przeczą"
+          "W świetlistej przestrzeni gwiazdy poczerniałe\\n\\nPatrzą, oskarżają, przeczą"
         ],
         "name": "Ris",
         "code": "pl"
       },
       {
         "description": [
-          "No espaço luminoso, estrelas se apagamObservam, acusam, negam"
+          "No espaço luminoso, estrelas se apagam\\n\\nObservam, acusam, negam"
         ],
         "name": "Ris",
         "code": "pt"
       },
       {
         "description": [
-          "耀眼星空中，黯淡無光的星辰注視、譴責、拒絕"
+          "耀眼星空中，黯淡無光的星辰\\n\\n注視、譴責、拒絕"
         ],
         "name": "Ris",
         "code": "tc"
       },
       {
         "description": [
-          "ในอวกาศสะท้อนส่องแสงพราว มีดวงดาวมืดมิดที่พากันเพ่งพิศ กล่าวร้าย ไม่ยอมรับ"
+          "ในอวกาศสะท้อนส่องแสงพราว มีดวงดาวมืดมิด\\n\\nที่พากันเพ่งพิศ กล่าวร้าย ไม่ยอมรับ"
         ],
         "name": "Ris",
         "code": "th"
       },
       {
         "description": [
-          "Aydınlık uzayda kararmış yıldızlarOnlar dik dik bakarlar, suçlarlar, inkar ederler"
+          "Aydınlık uzayda kararmış yıldızlar\\n\\nOnlar dik dik bakarlar, suçlarlar, inkar ederler"
         ],
         "name": "Ris",
         "code": "tr"
       },
       {
         "description": [
-          "У світлі космосу чорніють ясні зорі.І заперечують, і дивляться, винять."
+          "У світлі космосу чорніють ясні зорі.\\nІ заперечують, і дивляться, винять."
         ],
         "name": "Різ",
         "code": "uk"
@@ -80752,7 +81660,7 @@
         "code": "pl"
       },
       {
-        "name": "Rising Storm",
+        "name": "Tempestade Crescente",
         "code": "pt"
       },
       {
@@ -80768,7 +81676,7 @@
         "code": "tr"
       },
       {
-        "name": "Висхідна гроза",
+        "name": "Висхідна буря",
         "code": "uk"
       }
     ]
@@ -80941,7 +81849,7 @@
         "code": "pl"
       },
       {
-        "name": "Rubble Heap",
+        "name": "Pilha de Entulho",
         "code": "pt"
       },
       {
@@ -81130,7 +82038,7 @@
         "code": "pl"
       },
       {
-        "name": "Rumbled",
+        "name": "Golemificação",
         "code": "pt"
       },
       {
@@ -83497,7 +84405,7 @@
     "name": "Security Override",
     "languages": [
       {
-        "name": "Sicherheits-überbrückung",
+        "name": "Sicherheit überbrücken",
         "code": "de"
       },
       {
@@ -84100,7 +85008,7 @@
         "code": "pl"
       },
       {
-        "name": "Seeking Shuriken",
+        "name": "Shuriken Perseguidora",
         "code": "pt"
       },
       {
@@ -85890,7 +86798,7 @@
         "code": "pl"
       },
       {
-        "name": "Shattered Storm",
+        "name": "Vendaval Estilhaçado",
         "code": "pt"
       },
       {
@@ -90452,7 +91360,7 @@
         "code": "pl"
       },
       {
-        "name": "Smoke Shadow",
+        "name": "Sombra de Fumaça",
         "code": "pt"
       },
       {
@@ -90910,6 +91818,112 @@
       },
       {
         "name": "Ніжні руки",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusSixMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soft-safe-48a35b4626.png",
+    "name": "Soft Safe",
+    "description": "Keeping software safe by ALWAYS WATCHING",
+    "languages": [
+      {
+        "description": [
+          "Sichert Software, durch STÄNDIGE ÜBERWACHUNG"
+        ],
+        "name": "Soft Safe",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Assure la sécurité de vos logiciels en SURVEILLANT, TOUJOURS"
+        ],
+        "name": "Sécurité Souple",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Mantiene al sicuro i tuoi software OSSERVANDO SEMPRE TUTTO"
+        ],
+        "name": "Soft Safe",
+        "code": "it"
+      },
+      {
+        "description": [
+          "언제나 지켜보며 소프트웨어의 안전을 확보합니다"
+        ],
+        "name": "소프트 세이프",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Mantenemos el software seguro porque SIEMPRE ESTAMOS VIGILANDO"
+        ],
+        "name": "Software seguro",
+        "code": "es"
+      },
+      {
+        "description": [
+          "时刻监控，保障软件的安全"
+        ],
+        "name": "软件安全",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Защита программного обеспечения через ПОСТОЯННОЕ НАБЛЮДЕНИЕ"
+        ],
+        "name": "Лёгкая Защита",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "常時監視で安全確保"
+        ],
+        "name": "Soft Safe",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Dbanie o bezpieczeństwo oprogramowania poprzez CIĄGŁĄ OBSERWACJĘ"
+        ],
+        "name": "Soft Safe",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Garantindo a segurança do programa ao estar SEMPRE DE VIGIA!"
+        ],
+        "name": "Soft Safe",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "時時監控，讓你安全"
+        ],
+        "name": "軟全",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "คอยดูแลรักษาซอฟต์แวร์ให้ปลอดภัยโดยการตรวจสอบอยู่เสมอ"
+        ],
+        "name": "Soft Safe",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Yazılımı HER ZAMAN İZLEYEREK güvende tut"
+        ],
+        "name": "Soft Safe",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Охороняє ПЗ завдяки ПОСТІЙНОМУ НАГЛЯДУ"
+        ],
+        "name": "Убезпечене ПЗ",
         "code": "uk"
       }
     ]
@@ -91503,7 +92517,7 @@
         "code": "pl"
       },
       {
-        "name": "Spectrosiphon",
+        "name": "Sifão Espectral",
         "code": "pt"
       },
       {
@@ -92751,69 +93765,6 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stabilizer-e6a5c531bd.jpg",
-    "name": "Stabilizer",
-    "languages": [
-      {
-        "name": "Stabilisator",
-        "code": "de"
-      },
-      {
-        "name": "Stabilisateur",
-        "code": "fr"
-      },
-      {
-        "name": "Stabilizer",
-        "code": "it"
-      },
-      {
-        "name": "스테빌라이저",
-        "code": "ko"
-      },
-      {
-        "name": "Estabilizador",
-        "code": "es"
-      },
-      {
-        "name": "稳定",
-        "code": "zh"
-      },
-      {
-        "name": "Стабилизатор",
-        "code": "ru"
-      },
-      {
-        "name": "Stabilizer",
-        "code": "ja"
-      },
-      {
-        "name": "Stabilizator",
-        "code": "pl"
-      },
-      {
-        "name": "Stabilizer",
-        "code": "pt"
-      },
-      {
-        "name": "穩定",
-        "code": "tc"
-      },
-      {
-        "name": "Stabilizer",
-        "code": "th"
-      },
-      {
-        "name": "Stabilizer",
-        "code": "tr"
-      },
-      {
-        "name": "Стабілізатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Intermediate/WeaponRecoilReductionModIntermediate",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stabilizer-a87cdb2ed0.jpg",
     "name": "Stabilizer",
@@ -92981,7 +93932,7 @@
         "code": "pl"
       },
       {
-        "name": "Staggering Shield",
+        "name": "Escudo Atordoante",
         "code": "pt"
       },
       {
@@ -93651,69 +94602,6 @@
       },
       {
         "name": "Static Purge",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponRecoilReductionModExpert",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steady-hands-30ce98cdff.jpg",
-    "name": "Steady Hands",
-    "languages": [
-      {
-        "name": "Ruhige Hand",
-        "code": "de"
-      },
-      {
-        "name": "Mains Stables",
-        "code": "fr"
-      },
-      {
-        "name": "Steady Hands",
-        "code": "it"
-      },
-      {
-        "name": "스테디 핸즈",
-        "code": "ko"
-      },
-      {
-        "name": "Manos firmes",
-        "code": "es"
-      },
-      {
-        "name": "稳定枪手",
-        "code": "zh"
-      },
-      {
-        "name": "Устойчивые руки",
-        "code": "ru"
-      },
-      {
-        "name": "Steady Hands",
-        "code": "ja"
-      },
-      {
-        "name": "Pewne Ręce",
-        "code": "pl"
-      },
-      {
-        "name": "Steady Hands",
-        "code": "pt"
-      },
-      {
-        "name": "穩定槍手",
-        "code": "tc"
-      },
-      {
-        "name": "Steady Hands",
-        "code": "th"
-      },
-      {
-        "name": "Steady Hands",
-        "code": "tr"
-      },
-      {
-        "name": "Тверді руки",
         "code": "uk"
       }
     ]
@@ -96541,7 +97429,7 @@
         "code": "pl"
       },
       {
-        "name": "Surging Blades",
+        "name": "Lâminas Emergentes",
         "code": "pt"
       },
       {
@@ -99030,7 +99918,7 @@
         "code": "pl"
       },
       {
-        "name": "Tear Gas",
+        "name": "Gás Lacrimogêneo",
         "code": "pt"
       },
       {
@@ -99093,7 +99981,7 @@
         "code": "pl"
       },
       {
-        "name": "Tectonic Fracture",
+        "name": "Fraturas Tectônicas",
         "code": "pt"
       },
       {
@@ -99517,6 +100405,69 @@
         "code": "tr"
       },
       {
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ninja/TeleportToAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/teleport-rush-6aea3d2c3a.jpg",
+    "name": "Teleport Rush",
+    "languages": [
+      {
+        "name": "Teleport-Rausch",
+        "code": "de"
+      },
+      {
+        "name": "Téléportation Rapide",
+        "code": "fr"
+      },
+      {
+        "name": "Teleport Rush",
+        "code": "it"
+      },
+      {
+        "name": "텔레포트 러쉬",
+        "code": "ko"
+      },
+      {
+        "name": "Teletransportación rápida",
+        "code": "es"
+      },
+      {
+        "name": "闪现急袭",
+        "code": "zh"
+      },
+      {
+        "name": "Телепортационный рывок",
+        "code": "ru"
+      },
+      {
+        "name": "Teleport Rush",
+        "code": "ja"
+      },
+      {
+        "name": "Pęd Teleportacji",
+        "code": "pl"
+      },
+      {
+        "name": "Teleporte Célere",
+        "code": "pt"
+      },
+      {
+        "name": "瞬移斬殺",
+        "code": "tc"
+      },
+      {
+        "name": "Teleport Rush",
+        "code": "th"
+      },
+      {
+        "name": "Teleport Rush",
+        "code": "tr"
+      },
+      {
+        "name": "Квапливе переміщення",
         "code": "uk"
       }
     ]
@@ -100551,7 +101502,7 @@
         "code": "pl"
       },
       {
-        "name": "Thermal Transfer",
+        "name": "Transferência Térmica",
         "code": "pt"
       },
       {
@@ -100995,7 +101946,7 @@
         "code": "pl"
       },
       {
-        "name": "Thrall Pact",
+        "name": "Pacto Enfeitiçado",
         "code": "pt"
       },
       {
@@ -101075,6 +102026,69 @@
       },
       {
         "name": "Вибухове приземлення",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndWeaponDamageOnUseMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/threat-blocker-9017656fb6.jpg",
+    "name": "Threat Blocker",
+    "languages": [
+      {
+        "name": "Gefahren-Blocker",
+        "code": "de"
+      },
+      {
+        "name": "Bloqueur de Menaces",
+        "code": "fr"
+      },
+      {
+        "name": "Threat Blocker",
+        "code": "it"
+      },
+      {
+        "name": "트리트 블로커",
+        "code": "ko"
+      },
+      {
+        "name": "Bloqueador de amenazas",
+        "code": "es"
+      },
+      {
+        "name": "威胁壁垒",
+        "code": "zh"
+      },
+      {
+        "name": "Блокировщик угроз",
+        "code": "ru"
+      },
+      {
+        "name": "Threat Blocker",
+        "code": "ja"
+      },
+      {
+        "name": "Blokada Zagrożeń",
+        "code": "pl"
+      },
+      {
+        "name": "Threat Blocker",
+        "code": "pt"
+      },
+      {
+        "name": "威脅攔截",
+        "code": "tc"
+      },
+      {
+        "name": "Threat Blocker",
+        "code": "th"
+      },
+      {
+        "name": "Threat Blocker",
+        "code": "tr"
+      },
+      {
+        "name": "Блокувальник загроз",
         "code": "uk"
       }
     ]
@@ -101499,7 +102513,7 @@
         "code": "pl"
       },
       {
-        "name": "Titanic Rumbler",
+        "name": "Golem Titânico",
         "code": "pt"
       },
       {
@@ -102804,6 +103818,112 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusThreeMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trojan-tracker-c04fa917d3.png",
+    "name": "Trojan Tracker",
+    "description": "Eliminating sneaky viruses since 1989",
+    "languages": [
+      {
+        "description": [
+          "Beseitigt hinterhältige Viren seit 1989"
+        ],
+        "name": "Trojaner-Aufspürer",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Élimine les virus sournois depuis 1989"
+        ],
+        "name": "Trojan Tracker",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Elimina i virus subdoli dal 1989"
+        ],
+        "name": "Trojan Tracker",
+        "code": "it"
+      },
+      {
+        "description": [
+          "1989년 이래로 몰래 숨어드는 음험한 바이러스들을 제거해 왔습니다"
+        ],
+        "name": "트로잔 트래커",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Eliminando virus furtivos desde 1989"
+        ],
+        "name": "Trojan Tracker",
+        "code": "es"
+      },
+      {
+        "description": [
+          "自 1989 年以来一直在消灭潜伏病毒"
+        ],
+        "name": "木马追缉",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Устраняет скрытные вирусы с 1989 года"
+        ],
+        "name": "Охотник за Троянами",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "1989年から信頼のアンチウィルス"
+        ],
+        "name": "Trojan Tracker",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Eliminowanie podstępnych wirusów od 1989"
+        ],
+        "name": "Tropiciel Trojanów",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Eliminando vírus furtivos desde 1989!"
+        ],
+        "name": "Trojan Tracker",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "自 1989 年，致力消滅棘手病毒"
+        ],
+        "name": "木馬追蹤者",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "กำจัดไวรัสร้ายที่มีมาตั้งแต่ปี 1989"
+        ],
+        "name": "Trojan Tracker",
+        "code": "th"
+      },
+      {
+        "description": [
+          "1989'dan beri sinsi virüsleri ortadan kaldırıyoruz"
+        ],
+        "name": "Trojan Tracker",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Знищуємо підступні віруси з 1989-го"
+        ],
+        "name": "Відстежувач троянів",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/true-punishment-acc647c82f.jpg",
     "name": "True Punishment",
@@ -103051,6 +104171,69 @@
       },
       {
         "name": "Справжня сталь",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndSpeedOnUseMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/turbo-protect-daf0c9dc16.jpg",
+    "name": "Turbo Protect",
+    "languages": [
+      {
+        "name": "Turbo-Schutz",
+        "code": "de"
+      },
+      {
+        "name": "Protection Turbo",
+        "code": "fr"
+      },
+      {
+        "name": "Turbo Protect",
+        "code": "it"
+      },
+      {
+        "name": "터보 프로텍트",
+        "code": "ko"
+      },
+      {
+        "name": "Turboprotección",
+        "code": "es"
+      },
+      {
+        "name": "极速防护",
+        "code": "zh"
+      },
+      {
+        "name": "Турбо Защита",
+        "code": "ru"
+      },
+      {
+        "name": "Turbo Protect",
+        "code": "ja"
+      },
+      {
+        "name": "Turbo Ochrona",
+        "code": "pl"
+      },
+      {
+        "name": "Turbo Protect",
+        "code": "pt"
+      },
+      {
+        "name": "極限保護",
+        "code": "tc"
+      },
+      {
+        "name": "Turbo Protect",
+        "code": "th"
+      },
+      {
+        "name": "Turbo Protect",
+        "code": "tr"
+      },
+      {
+        "name": "Турбозахист",
         "code": "uk"
       }
     ]
@@ -103329,7 +104512,7 @@
         "code": "pl"
       },
       {
-        "name": "Ulfrun's Endurance",
+        "name": "Resistência de Ulfrun",
         "code": "pt"
       },
       {
@@ -107960,7 +109143,7 @@
         "code": "pl"
       },
       {
-        "name": "Vexing Retaliation",
+        "name": "Retaliação Exasperante",
         "code": "pt"
       },
       {
@@ -111396,102 +112579,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalFourMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vome-a8182c59a6.png",
     "name": "Vome",
-    "description": "To cosmic madness laws submitThough stalwart minds entreat",
+    "description": "To cosmic madness laws submit\n\nThough stalwart minds entreat",
     "languages": [
       {
         "description": [
-          "Dem kosmischen Wahn sich zugeschriebenTrotz dem Aufschrei vom treuen Verstand."
+          "Dem kosmischen Wahn sich zugeschrieben\\n\\nTrotz dem Aufschrei vom treuen Verstand."
         ],
         "name": "Vome",
         "code": "de"
       },
       {
         "description": [
-          "Fureur cosmique s'oppose aux lois physiquesDont les partisans sont réduits en suppliques."
+          "Fureur cosmique s'oppose aux lois physiques\\n\\nDont les partisans sont réduits en suppliques."
         ],
         "name": "Vome",
         "code": "fr"
       },
       {
         "description": [
-          "Sottomette alle leggi della follia cosmicaLe menti vigorose in supplica"
+          "Sottomette alle leggi della follia cosmica\\n\\nLe menti vigorose in supplica"
         ],
         "name": "Vome",
         "code": "it"
       },
       {
         "description": [
-          "강건한 정신조차 간원함에도우주의 광기에는 법칙조차 굴복하니"
+          "강건한 정신조차 간원함에도\\n\\n우주의 광기에는 법칙조차 굴복하니"
         ],
         "name": "봄",
         "code": "ko"
       },
       {
         "description": [
-          "A la ley de la locura cósmica someteAunque las mentes firmes ruegan"
+          "A la ley de la locura cósmica somete\\n\\nAunque las mentes firmes ruegan"
         ],
         "name": "Vome",
         "code": "es"
       },
       {
         "description": [
-          "面对疯狂的宇宙，法则选择了屈服但那些坚定之人却前去乞求"
+          "面对疯狂的宇宙，法则选择了屈服\\n\\n但那些坚定之人却前去乞求"
         ],
         "name": "Vome",
         "code": "zh"
       },
       {
         "description": [
-          "Безумству Космоса законы подчиняютсяХоть храбрые умы в том сомневаются"
+          "Безумству Космоса законы подчиняются\\n\\nХоть храбрые умы в том сомневаются"
         ],
         "name": "Воум",
         "code": "ru"
       },
       {
         "description": [
-          "宇宙という狂気に法は服従するだが強い精神は懇願する"
+          "宇宙という狂気に法は服従する\\n\\nだが強い精神は懇願する"
         ],
         "name": "Vome",
         "code": "ja"
       },
       {
         "description": [
-          "Kosmicznemu szaleństwu prawa poddaneChociaż umysły krzepkie błagają"
+          "Kosmicznemu szaleństwu prawa poddane\\n\\nChociaż umysły krzepkie błagają"
         ],
         "name": "Vome",
         "code": "pl"
       },
       {
         "description": [
-          "E então, as leis se submetem às loucuras cósmicas Mesmo perante o implorar de mentes obstinadas"
+          "E então, as leis se submetem às loucuras cósmicas \\n\\nMesmo perante o implorar de mentes obstinadas"
         ],
         "name": "Vome",
         "code": "pt"
       },
       {
         "description": [
-          "發狂的宇宙中，萬物法則都將屈服然而堅定之心仍懇求著救贖"
+          "發狂的宇宙中，萬物法則都將屈服\\n\\n然而堅定之心仍懇求著救贖"
         ],
         "name": "Vome",
         "code": "tc"
       },
       {
         "description": [
-          "ยอมจำนนต่อกฎวิกลที่จักรวาลมีที่แม้มีจิตห้าวหาญยังขอวอน"
+          "ยอมจำนนต่อกฎวิกลที่จักรวาลมี\\n\\nที่แม้มีจิตห้าวหาญยังขอวอน"
         ],
         "name": "Vome",
         "code": "th"
       },
       {
         "description": [
-          "Korkusuz ruhların yalvarışlarına rağmenKozmik öfke, fizik kurallarına karşı koyar"
+          "Korkusuz ruhların yalvarışlarına rağmen\\n\\nKozmik öfke, fizik kurallarına karşı koyar"
         ],
         "name": "Vome",
         "code": "tr"
       },
       {
         "description": [
-          "Хоча свідомість буде проти,та божевілля все з’їда."
+          "Хоча свідомість буде проти,\\nта божевілля все з’їда."
         ],
         "name": "Вом",
         "code": "uk"
@@ -113014,6 +114197,112 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusTwoMod",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/worm-away-6fb03533c9.png",
+    "name": "Worm Away",
+    "description": "Get rid of malware, spyware, wetware and worms",
+    "languages": [
+      {
+        "description": [
+          "Befreie dich von Malware, Spyware, Wetware und Würmern"
+        ],
+        "name": "Loswürmeln",
+        "code": "de"
+      },
+      {
+        "description": [
+          "Débarrassez-vous des logiciels malveillants, des logiciels espions, des vers et autres"
+        ],
+        "name": "Vermifuge",
+        "code": "fr"
+      },
+      {
+        "description": [
+          "Sbarazzati di malware, spyware, wetware e worm"
+        ],
+        "name": "Worm Away",
+        "code": "it"
+      },
+      {
+        "description": [
+          "멀웨어, 스파이웨어, 웻웨어, 웜을 모조리 제거해 보세요"
+        ],
+        "name": "웜 어웨이",
+        "code": "ko"
+      },
+      {
+        "description": [
+          "Elimina malware, spyware, wetware y gusanos"
+        ],
+        "name": "Fuera bichos",
+        "code": "es"
+      },
+      {
+        "description": [
+          "清除恶意软件、间谍软件、植入软件和蠕虫"
+        ],
+        "name": "蠕虫驱逐",
+        "code": "zh"
+      },
+      {
+        "description": [
+          "Избавьтесь от вредоносных программ, шпионского ПО, вредоносного ПО и червей"
+        ],
+        "name": "Червегон",
+        "code": "ru"
+      },
+      {
+        "description": [
+          "マルウェア、スパイウェア、ウェットウェア、ワームを駆除する"
+        ],
+        "name": "Worm Away",
+        "code": "ja"
+      },
+      {
+        "description": [
+          "Pozbądź się złośliwego oprogramowania, oprogramowania szpiegującego, oprogramowania typu wetware i robaków"
+        ],
+        "name": "Odpluskwiacz",
+        "code": "pl"
+      },
+      {
+        "description": [
+          "Elimine malware, spyware, wetware ou qualquer outro vírus!"
+        ],
+        "name": "Worm Away",
+        "code": "pt"
+      },
+      {
+        "description": [
+          "驅除惡意軟體、間諜軟體、濕體軟體和蠕蟲"
+        ],
+        "name": "蠕蟲退散",
+        "code": "tc"
+      },
+      {
+        "description": [
+          "กำจัดมัลแวร์ สปายแวร์ เว็ตแวร์ (สมอง) และเวิร์ม"
+        ],
+        "name": "Worm Away",
+        "code": "th"
+      },
+      {
+        "description": [
+          "Kötü amaçlı yazılımlardan, casus yazılımlardan, iğrenç yazılımlardan ve solucanlardan kurtulun"
+        ],
+        "name": "Worm Away",
+        "code": "tr"
+      },
+      {
+        "description": [
+          "Позбудьтеся шкідливого й шпигунського ПЗ та хробаків"
+        ],
+        "name": "Хробакогін",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGrineerKiller",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/worm's-torment-c37162fdea.png",
     "name": "Worm's Torment",
@@ -113181,7 +114470,7 @@
         "code": "pl"
       },
       {
-        "name": "Wrath of Ukko",
+        "name": "Cólera de Ukko",
         "code": "pt"
       },
       {
@@ -113244,7 +114533,7 @@
         "code": "pl"
       },
       {
-        "name": "Wrecking Wall",
+        "name": "Muro de Demolição",
         "code": "pt"
       },
       {
@@ -113269,102 +114558,102 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalTwoMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xata-7f80dcccc7.png",
     "name": "Xata",
-    "description": "Its heralds are the stars it fellsThe sky and Earth aflame",
+    "description": "Its heralds are the stars it fells\n\nThe sky and Earth aflame",
     "languages": [
       {
         "description": [
-          "Erloschene Sterne sind seine BotenHimmel und Erde gehüllt in Flammen"
+          "Erloschene Sterne sind seine Boten\\n\\nHimmel und Erde gehüllt in Flammen"
         ],
         "name": "Xata",
         "code": "de"
       },
       {
         "description": [
-          "Ses hérauts ne sont que les astres qui churent,Terres et cieux incendiés soignent leur brûlure."
+          "Ses hérauts ne sont que les astres qui churent,\\n\\nTerres et cieux incendiés soignent leur brûlure."
         ],
         "name": "Xata",
         "code": "fr"
       },
       {
         "description": [
-          "Come araldi ha stelle cadentiCielo e Terra avvolti in fiamme ardenti"
+          "Come araldi ha stelle cadenti\\n\\nCielo e Terra avvolti in fiamme ardenti"
         ],
         "name": "Xata",
         "code": "it"
       },
       {
         "description": [
-          "그 손으로 스러지는 별들은 전령 되어하늘과 지구를 불사르고"
+          "그 손으로 스러지는 별들은 전령 되어\\n\\n하늘과 지구를 불사르고"
         ],
         "name": "자타",
         "code": "ko"
       },
       {
         "description": [
-          "Sus heraldos son las estrellas que caenSobre la Tierra y atmósfera que hacen arder"
+          "Sus heraldos son las estrellas que caen\\n\\nSobre la Tierra y atmósfera que hacen arder"
         ],
         "name": "Xata",
         "code": "es"
       },
       {
         "description": [
-          "掉落的星辰是它到来的先兆天地燃烧"
+          "掉落的星辰是它到来的先兆\\n\\n天地燃烧"
         ],
         "name": "Xata",
         "code": "zh"
       },
       {
         "description": [
-          "Его вестники - звезды, стертые в прахИ небо, и земля пылают в огнях"
+          "Его вестники - звезды, стертые в прах\\n\\nИ небо, и земля пылают в огнях"
         ],
         "name": "Ксета",
         "code": "ru"
       },
       {
         "description": [
-          "その使者はそれらが落とした星達空と大地が燃え上がる"
+          "その使者はそれらが落とした星達\\n\\n空と大地が燃え上がる"
         ],
         "name": "Xata",
         "code": "ja"
       },
       {
         "description": [
-          "Zwiastunami jego są spadające gwiazdyW płomieniach niebo i Ziemia"
+          "Zwiastunami jego są spadające gwiazdy\\n\\nW płomieniach niebo i Ziemia"
         ],
         "name": "Xata",
         "code": "pl"
       },
       {
         "description": [
-          "Seus arautos, as estrelas cadentes que observamosO céu e a terra, incendiados"
+          "Seus arautos, as estrelas cadentes que observamos\\n\\nO céu e a terra, incendiados"
         ],
         "name": "Xata",
         "code": "pt"
       },
       {
         "description": [
-          "使者們如隕星墜落灼焚於地球和天際"
+          "使者們如隕星墜落\\n\\n灼焚於地球和天際"
         ],
         "name": "Xata",
         "code": "tc"
       },
       {
         "description": [
-          "ดาวร่วงหล่นคือสาส์นที่ส่งมาทั่วนภาและโลกาต่างต้องลุกเป็นไฟ"
+          "ดาวร่วงหล่นคือสาส์นที่ส่งมา\\n\\nทั่วนภาและโลกาต่างต้องลุกเป็นไฟ"
         ],
         "name": "Xata",
         "code": "th"
       },
       {
         "description": [
-          "Onun habercisi düşen yıldızlardırGökyüzü ve Dünya alevler içinde"
+          "Onun habercisi düşen yıldızlardır\\n\\nGökyüzü ve Dünya alevler içinde"
         ],
         "name": "Xata",
         "code": "tr"
       },
       {
         "description": [
-          "І вісники його — зірок падіннята небо й землі, що горять."
+          "І вісники його — зірок падіння\\nта небо й землі, що горять."
         ],
         "name": "Зата",
         "code": "uk"

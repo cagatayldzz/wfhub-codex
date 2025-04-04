@@ -46,7 +46,7 @@
         "code": "ja"
       },
       {
-        "description": "Zmodyfikowana tarcza i siekiera Tyl Regora są jego sposobem na pozbycie się 'frustracji’.",
+        "description": "Zmodyfikowana tarcza i siekiera Tyl Regora są jego sposobem na pozbycie się 'frustracji'.",
         "name": "Ack i Brunt",
         "code": "pl"
       },
@@ -217,7 +217,7 @@
         "code": "tc"
       },
       {
-        "description": "ออกแบบด้วยวัสดุ Grineer และลงตัวต่อการใช้งานกับทหารราบทางทะเล Amphis เป็นอาวุธกระบองแบบดั้งเดิมที่ได้รับการปรับเปลี่ยนครั้งใหญ่ซึ่งทำให้สามารถสร้างความเสียหายด้วยการช็อกเมื่อกระโดดโจมตี จัดการศัตรูหลายตัวอย่างต่อเนื่องได้ในการโจมตีแต่ละครั้ง",
+        "description": "ออกแบบด้วยวัสดุ Grineer และลงตัวต่อการใช้งานกับทหารราบทางทะเล Amphis เป็นอาวุธกระบองแบบดั้งเดิมที่ได้รับการปรับเปลี่ยนครั้งใหญ่\nซึ่งทำให้สามารถสร้างความเสียหายด้วยการช็อกเมื่อกระโดดโจมตี จัดการศัตรูหลายตัวอย่างต่อเนื่องได้ในการโจมตีแต่ละครั้ง",
         "name": "Amphis",
         "code": "th"
       },
@@ -1475,7 +1475,7 @@
         "code": "tr"
       },
       {
-        "description": "Посох, який використовували самітні тенно, щоби дати відсіч орді зараження.",
+        "description": "Посох, який використовували самітні тенно, щоб дати відсіч орді зараження.",
         "name": "Кад",
         "code": "uk"
       }
@@ -2023,6 +2023,396 @@
       {
         "description": "Покарайте тих, хто вирішив випробувати ваше терпіння. У руках Баруука перший удар серії Коброю й Журавлем-прайм приголомшує ворогів.",
         "name": "Кобра й Журавель-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaCaustacyst/CodaCaustacyst",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-caustacyst-171c39f067.png",
+    "name": "Coda Caustacyst",
+    "description": "The Coda Caustacyst scythe is a force to be reckoned with, the Technocyte virus honing it with improved Damage, Status Chance, and Critical Damage, as well as acid pools with longer duration.",
+    "languages": [
+      {
+        "description": "Die Coda Caustacyst Sense ist eine mächtige Waffe, die durch den Technocyte-Virus erhöhten Schaden, Statuschance, Krit. Schaden und länger anhaltende Säurepfützen erhalten hat.",
+        "name": "Coda Caustacyst",
+        "code": "de"
+      },
+      {
+        "description": "La Faux Caustacyste Coda est une force avec laquelle il faut compter, le virus Technocyte l'affutant avec des Dégâts, une Chance de Statut et des Dégâts Critiques améliorés, ainsi que des réserves d'acide avec une durée accrue.",
+        "name": "Caustacyste Coda",
+        "code": "fr"
+      },
+      {
+        "description": "La falce Coda Caustacyst è una forza che è meglio non sottovalutare, e il virus Technocyte l'ha affinata migliorandone il Danno, Probabilità Effetto e Danno Critico, oltre alla possibilità di creare pozze acide di maggiore durata.",
+        "name": "Coda Caustacyst",
+        "code": "it"
+      },
+      {
+        "description": "코다 커스타시스트 낫은 무시무시한 위력을 지녔으며, 이를 개량하는 테크노사이트 바이러스는 이 무기를 일반형에 비해 피해, 상태 이상 확률, 치명타 피해 및 더 오래 남는 부식성 웅덩이로 향상시켰습니다.",
+        "name": "코다 커스타시스트",
+        "code": "ko"
+      },
+      {
+        "description": "La guadaña Caustacyst Coda es una fuerza a tener en cuenta, ya que el virus tecnocito la ha perfeccionado con daño, probabilidad de estado y daño crítico mejorados, así como depósitos de ácido de mayor duración.",
+        "name": "Caustacyst Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA CAUSTACYST）终幕·灼蚀变体镰是一股不容小觑的力量，科技细胞病毒对其进行了改良，提高了伤害、触发几率和暴击伤害，并且具有持续时间更长的酸液池。",
+        "name": "终幕·灼蚀变体镰",
+        "code": "zh"
+      },
+      {
+        "description": "Коса Костацист Кода это сила, с которой нужно считаться, вирус Техноцит улучшает её, увеличивая урон, шанс статуса и критический урон, а также создавая кислотные лужи с увеличенной продолжительностью.",
+        "name": "Костацист Кода",
+        "code": "ru"
+      },
+      {
+        "description": "Coda Caustacystサイスはテクノサイトウイルスによって強化された。通常版に比べ高めのダメージ、状態異常率、クリティカルダメージを誇り、酸プールの持続時間が長くなっている。",
+        "name": "Coda Caustacyst",
+        "code": "ja"
+      },
+      {
+        "description": "Kosa Caustacyst stanowi potężną broń. Wariant Cody zyskuje poprawione statystyki Obrażeń, Szansy Statusu i Obr. Krytycznych, a wyrzucone przez nią kwasowe pociski tworzą kałuże kwasu, które pozostają przez dłuższy czas.",
+        "name": "Caustacyst Cody",
+        "code": "pl"
+      },
+      {
+        "description": "A foice Caustacista Coda representa uma força respeitável, com o vírus Tecnócito aprimorando-a com um aumento de Dano, Chance de Status e Dano Crítico, além de um ácido de maior duração.",
+        "name": "Caustacista Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA CAUSTACYST）勾瘩灼蝕變體鐮是一股不可忽視的力量，技改細胞病毒對它進行了改良，提升了傷害、狀態效果，及暴擊傷害，並產生的酸液池持續時間更長。",
+        "name": "勾瘩 灼蝕變體鐮",
+        "code": "tc"
+      },
+      {
+        "description": "เคียว Coda Caustacyst คืออาวุธทรงพลังที่ยากจะเอาชนะ โดยมีไวรัส Technocyte มาช่วยเสริมพร้อมกับความเสียหาย โอกาสสถานะ และความเสียหายคริติคอลที่ได้รับการปรับปรุง รวมถึงกรดที่มีระยะเวลาใช้งานที่นานขึ้น",
+        "name": "Coda Caustacyst",
+        "code": "th"
+      },
+      {
+        "description": "Coda Caustacyst tırpanı, hesaba katılması gereken bir güçtür. Technocyte virüsü tarafından geliştirilmiş Hasar, Statü Şansı, Kritik Hasar ve daha uzun süreli asit havuzları sunar.",
+        "name": "Coda Caustacyst",
+        "code": "tr"
+      },
+      {
+        "description": "Косу не варто недооцінювати, а завдяки техноцитному вірусу й поготів. Зброя має поліпшені показники звичайної та критичної шкоди, імовірності накладання ефектів стану, а також утворює кислотні калюжі з подовженою тривалістю існування.",
+        "name": "Каустацист-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaHirudo",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-hirudo-73fbceca3a.png",
+    "name": "Coda Hirudo",
+    "description": "Rip and shred your enemies to pieces with the Coda Hirudo. With improved Damage, Status Chance, Critical Chance, and Critical Multiplier.",
+    "languages": [
+      {
+        "description": "Mit der Coda Hirudo, kannst du deine Feinde in Stücke reißen, dank erhöhtem Schaden, Statuschance, Krit. Chance und Krit. Multiplikator.",
+        "name": "Coda Hirudo",
+        "code": "de"
+      },
+      {
+        "description": "Déchirez vos ennemis avec le Hirudo Coda. Dégâts, Chances de Statut, Chances de Critique et Multip. Critique améliorés.",
+        "name": "Hirudo Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Fai a pezzi i tuoi nemici con l'arma Coda Hirudo. Presenta Danno, Probabilità Effetto, Probabilità Critico e Danno Critico aumentati.",
+        "name": "Coda Hirudo",
+        "code": "it"
+      },
+      {
+        "description": "코다 히루도를 이용해 당신의 적을 조각조각 찢어발기세요. 일반형에 비해 개선된 피해, 상태 이상 확률, 치명타 확률 및 치명타 배수를 갖추고 있습니다.",
+        "name": "코다 히루도",
+        "code": "ko"
+      },
+      {
+        "description": "Destroza a tus enemigos con las Hirudo Coda. Con daño, probabilidad de estado, probabilidad crítica y multiplicador crítico mejorados.",
+        "name": "Hirudo Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA HIRUDO）使用终幕·蚂蟥将敌人撕成碎片。具有更高的伤害、触发几率、暴击几率和暴击倍率。",
+        "name": "终幕·蚂蟥",
+        "code": "zh"
+      },
+      {
+        "description": "Разрывайте и крошите своих врагов на куски с Хирудо Кода. С улучшенным уроном, шансом статуса, шансом критического урона и множителем критического урона.",
+        "name": "Хирудо Кода",
+        "code": "ru"
+      },
+      {
+        "description": "変異したCoda Hirudoで敵をバラバラにしよう。通常版に比べ高めのダメージ、状態異常、クリティカル率、クリティカル倍率を誇る。",
+        "name": "Coda Hirudo",
+        "code": "ja"
+      },
+      {
+        "description": "Rozedrzyj wrogów na strzępy dzięki Hirudo Cody. Zyskuje poprawione statystyki Obrażeń, Szansy Statusu, Szansy Obr. Krytycznych i Mnożnika Obr. Krytycznych.",
+        "name": "Hirudo Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Rasgue e destrua seus inimigos com a Hirudo Coda. Apresenta um aumento no Dano, Chance de Status, Chance Crítica e Multiplicador de Crítico.",
+        "name": "Hirudo Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA HIRUDO）使用勾瘩螞蟥來撕裂並粉碎敵人。具有改善過的傷害、狀態觸發機率、暴擊機率，及暴擊倍率。",
+        "name": "勾瘩 螞蟥",
+        "code": "tc"
+      },
+      {
+        "description": "ฉีกและทำลายศัตรูให้เป็นชิ้นเล็กชิ้นน้อยด้วย Coda Hirudo ที่ได้ปรับปรุงความเสียหาย โอกาสสถานะ โอกาสคริติคอล และตัวคูณคริติคอลให้ดีขึ้น",
+        "name": "Coda Hirudo",
+        "code": "th"
+      },
+      {
+        "description": "Düşmanlarını Coda Hirudo ile parçalara ayır. Artırılmış Hasar, Statü Şansı, Kritik Şans ve Kritik Çarpan sunar.",
+        "name": "Coda Hirudo",
+        "code": "tr"
+      },
+      {
+        "description": "Рвіть та шматуйте ворогів рукавицями, зміненими техноцитним вірусом. Зброя має поліпшені показники звичайної та критичної шкоди, множника критичної шкоди, імовірності накладання ефектів стану.",
+        "name": "Гірудо-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaMire",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-mire-f96b19fd27.png",
+    "name": "Coda Mire",
+    "description": "The Plague Year of 1999 will never be the same. With improved Critical Multipler, Critical Chance, and Status Chance, the Technocyte virus has turned the Coda Mire into a truly horrifying blade.",
+    "languages": [
+      {
+        "description": "Das Seuchenjahr 1999 wird nie wieder das gleiche sein. Durch den Technocyte-Virus wurde das Coda Mire in eine wahrlich schreckliche Klinge verwandelt, mit erhöhtem Krit. Multiplikator, Krit. Chance und Statuschance.",
+        "name": "Coda Mire",
+        "code": "de"
+      },
+      {
+        "description": "L'année maudite de 1999 ne sera plus jamais la même. Grâce à un Multip. Critiques, des Chances de Critique et des Chances de Statut améliorés, le virus Technocyte a transformé le Mire Coda en une lame véritablement terrifiante.",
+        "name": "Mire Coda",
+        "code": "fr"
+      },
+      {
+        "description": "L'anno della peste 1999 non sarà più lo stesso. Il virus Technocyte ha trasformato la Coda Mire in una lama davvero terrificante, che presenta un maggiore Danno Critico, Probabilità Critico e Probabilità Effetto.",
+        "name": "Coda Mire",
+        "code": "it"
+      },
+      {
+        "description": "역병의 해 1999년은 두 번 다시 예전과 같지 않을 겁니다. 일반형에 비해 개선된 치명타 배수, 치명타 확률, 상태 이상 확률로, 테크노사이트 바이러스는 코다 마이어를 진실로 공포스러운 검으로 벼려냈습니다.",
+        "name": "코다 마이어",
+        "code": "ko"
+      },
+      {
+        "description": "El año de la plaga de 1999 nunca volverá a ser el mismo. Con multiplicador crítico, probabilidad crítica y probabilidad de estado mejorados, el virus tecnocito ha convertido a la Mire Coda en una espada verdaderamente aterradora.",
+        "name": "Mire Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA MIRE）1999 年的瘟疫年将不再一样。科技细胞病毒通过增加暴击倍率、暴击几率和触发几率，将终幕·米尔变成了一把真正可怕的利刃。",
+        "name": "终幕·米尔",
+        "code": "zh"
+      },
+      {
+        "description": "Чумной Год 1999 никогда уже не будет прежним. С улучшенными множителем критического урона, шансом критического урона и шансом статуса, вирус Техноцита сделал Майр Кода по-настоящему жутким лезвием.",
+        "name": "Майр Кода",
+        "code": "ru"
+      },
+      {
+        "description": "疫病の年1999は元に戻ることはなく、テクノサイトウイルスはCoda Mireをより恐ろしいブレードへと変えた。通常版に比べ高めのクリティカル倍率、クリティカル率、状態異常率を誇る。",
+        "name": "Coda Mire",
+        "code": "ja"
+      },
+      {
+        "description": "Rok Plagi 1999 nigdy nie będzie taki sam. Technocyt uczynił miecz Mire jeszcze bardziej przerażającą bronią; Wariant Cody zyskuje poprawione statystyki Mnożnika Obr. Krytycznych, Szansy Obr. Krytycznych i Szansy Statusu.",
+        "name": "Mire Cody",
+        "code": "pl"
+      },
+      {
+        "description": "O Ano da Praga de 1999 nunca mais será o mesmo. Com um aumento no Multiplicador de Crítico, Chance Crítica e Chance de Status, o vírus Tecnócito transformou a Mire Coda em uma lâmina verdadeiramente horripilante.",
+        "name": "Mire Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA MIRE）1999 年的瘟疫之年將永遠不同。具有改善過的暴擊倍率、暴擊機率，及狀態觸發機率，技改細胞病毒已將勾瘩米爾轉變成一把真正恐怖的刀刃。",
+        "name": "勾瘩 米爾",
+        "code": "tc"
+      },
+      {
+        "description": "ปีแห่งโรคระบาดในปี 1999 จะไม่เหมือนเดิมอีกต่อไป เพราะไวรัส Technocyte ได้เปลี่ยน Coda Mire ให้กลายเป็นดาบที่น่ากลัว รวมทั้งมีตัวคูณคริติคอล โอกาสคริติคอล และโอกาสสถานะได้รับการปรับปรุงให้ดีขึ้น",
+        "name": "Coda Mire",
+        "code": "th"
+      },
+      {
+        "description": "1999 Veba Yılı bir daha asla aynı olmayacak. Technocyte virüsü, Coda Mire'ı gerçekten korkunç bir bıçağa dönüştürdü. Artırılmış Kritik Çarpanı, Kritik Şansı ve Statü Şansı sunar.",
+        "name": "Coda Mire",
+        "code": "tr"
+      },
+      {
+        "description": "Завдяки техноцитній пошесті ніщо вже не буде таким самим, навіть смертоносна Трясовина. Зброя має поліпшені показники множника критичної шкоди, імовірності критичної шкоди та накладання ефектів стану.",
+        "name": "Трясовина-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/InfestedHammer/InfLichHammerWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-motovore-d83db3cb18.png",
+    "name": "Coda Motovore",
+    "description": "Drive home the pain with this hammer evolved from a scooter assembly. The wheel shapeshifts and gains a unique buff to match whatever type of physical damage it has been modded for.",
+    "languages": [
+      {
+        "description": "Verursache Schmerzen mit diesem Hammer, der aus einem Roller zusammengebaut wurde. Das Rad verwandelt sich und erhält einen einzigartigen Buff, der sich dem physischen Schaden anpasst, den du durch Mods bestimmt hast.",
+        "name": "Coda Motovore",
+        "code": "de"
+      },
+      {
+        "description": "Faites disparaître la douleur avec ce marteau issu d'un assemblage de scooter. La forme de la roue change et gagne un bonus unique pour s'adapter au type de Dégâts physiques pour lequel elle a été Moddée.",
+        "name": "Motovore Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Diffondi il dolore a tutta velocità con questo martello ricavato a partire da uno scooter. La forma della ruota cambia e ottiene un potenziamento unico per adattarsi a qualsiasi tipo di Mod da danno fisico installato sull'arma.",
+        "name": "Coda Motovore",
+        "code": "it"
+      },
+      {
+        "description": "스쿠터 부품이 뭉쳐져 변이된 이 둔기를 휘둘러 몸을 달리는 고통을 전달해보세요. 바퀴 부위는 무기에 장착된 물리 피해 모드의 영향을 받아 모양이 변형됨과 동시에 고유 버프를 얻습니다.",
+        "name": "코다 모토보어",
+        "code": "ko"
+      },
+      {
+        "description": "Inflige dolor con este martillo fabricado a partir de un scooter. La forma de la rueda cambia y obtiene una bonificación única para adaptarse a cualquier tipo de modificación de daño físico instalado en el arma.",
+        "name": "Motovore Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA MOTOVORE）挥舞这把从摩托车组件变异而来的战锤，将苦痛根植在你的敌人心中。其上的车轮将随着武器所配置的主要物理伤害类型而改变形状并获得独特增益。",
+        "name": "终幕·噬轮",
+        "code": "zh"
+      },
+      {
+        "description": "Наносите разрушительные удары этим молотом, созданным на основе сборки скутера. Колесо изменяет форму и получает уникальный эффект усиления адаптируясь к любому типу физического урона, в зависимости от модов.",
+        "name": "Мотовор Кода",
+        "code": "ru"
+      },
+      {
+        "description": "スクーターパーツを寄せ集め造られたハンマーで激痛を与えよう。ホイール部分は設定した物理ダメージタイプによって形を変え特有のバフを受ける。",
+        "name": "Coda Motovore",
+        "code": "ja"
+      },
+      {
+        "description": "Pozbądź się bólu dzięki temu młotkowi z zestawu skutera. Kształt koła zmienia się i zyskuje unikalne wzmocnienie w zależności od rodzaju uszkodzenia fizycznego, do którego zostało zmodyfikowane.",
+        "name": "Motovore Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Imponha a dor com este martelo desenvolvido a partir de uma moto. A roda se transformará e receberá uma bonificação exclusiva conforme o tipo de dano físico predominante na arma.",
+        "name": "Motovore Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA MOTOVORE）透過這把由機車零組件進化而來的戰鎚讓敵人痛不欲生。其齒輪會依照所配置的物理傷害類型而變形並獲得獨特增益。",
+        "name": "勾瘩 鋸獸",
+        "code": "tc"
+      },
+      {
+        "description": "ตอกย้ำความเจ็บปวดด้วยค้อนที่พัฒนามาจากชิ้นส่วนของสกู๊ตเตอร์ ซึ่งสามารถปรับเปลี่ยนรูปร่างของล้อและได้รับบัฟพิเศษตาม Mod ความเสียหายทางกายภาพที่ติดตั้งไว้",
+        "name": "Coda Motovore",
+        "code": "th"
+      },
+      {
+        "description": "Bir scooter aksamından evrilen bu çekiçle gerçek acıyı düşmanlarına göster. Tekerlek, modlanan fiziksel hasar türüne uyacak şekilde şekil değiştirerek eşsiz bir güçlendirme kazanır.",
+        "name": "Coda Motovore",
+        "code": "tr"
+      },
+      {
+        "description": "Доправте біль у потрібне місце за допомогою цього молота, сформованого зі скутера. Колесо змінюватиме форму й матиме неповторне підсилення відповідно до використовуваного типу шкоди.",
+        "name": "Мотоверть-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaPathocyst/CodaPathocyst",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-pathocyst-44d3400c0d.png",
+    "name": "Coda Pathocyst",
+    "description": "Enhanced by Technocyte mutations, the Coda Pathocyst comes with increased Damage, Critical Chance, Critical Multiplier and Status Chance. While in-flight or on contact with the enemy, it will occasionally spawn enhanced, enemy-seeking miasmites.",
+    "languages": [
+      {
+        "description": "Die durch Technocyte-Mutationen verbesserte Coda Pathocyst verfügt über erhöhten Schaden, Krit. Chance, Krit. Multiplikator und Statuschance. Während des Flugs oder bei Kontakt mit dem Feind erzeugt sie gelegentlich verbessert, zielsuchende Miasmite.",
+        "name": "Coda Pathocyst",
+        "code": "de"
+      },
+      {
+        "description": "Amélioré par les mutations des Technocytes, le Pathocyste Coda bénéficie de Dégâts, de Chances de Critique, de Multip. Critique et de Chances de Statut accrus. En vol ou en contact avec l'ennemi, il fera occasionnellement apparaître des Miasmites améliorées qui recherchent les ennemis.",
+        "name": "Pathocyste Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Potenziato dalle mutazioni Technocyte, il Coda Pathocyst presenta maggiori Danni, Probabilità Critico, Moltiplicatore Critico e Probabilità Effetto. Mentre sei a mezz'aria o a contatto con il nemico, genererà occasionalmente dei miasmiti che ricercano il nemico.",
+        "name": "Coda Pathocyst",
+        "code": "it"
+      },
+      {
+        "description": "테크노사이트 변이로 강화된 코다 패소시스트는 일반형에 비해 향상된 피해, 치명타 확률, 치명타 배수 및 상태 이상 확률을 가지고 있습니다. 비행 중, 혹은 적과 접촉했을 시, 적을 찾으며 더욱 강화된 미아즈마이트들을 간혹 생성합니다.",
+        "name": "코다 패소시스트",
+        "code": "ko"
+      },
+      {
+        "description": "Mejorado por mutaciones de tecnocitos, la Pathocyst Coda ofrece mayor daño, probabilidad crítica, multiplicador crítico y probabilidad de estado. En vuelo o al contacto con el enemigo, ocasionalmente genera miasmitas mejoradas que buscan enemigos.",
+        "name": "Pathocyst Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA PATHOCYST）终幕·病囊飞刃通过科技细胞突变的强化，具有更高的伤害、暴击几率、暴击倍率和触发几率。在飞行中或与敌人接触时，它偶尔会生成增强的、自动搜寻敌人的自爆虫。",
+        "name": "终幕·病囊飞刃",
+        "code": "zh"
+      },
+      {
+        "description": "Улучшенный мутациями Техноцита, Кода Патоцист приходит с увеличенным уроном, шансом критического урона, множителем критического урона и шансом статуса. Во время полёта или при контакте с врагом, он будет время от времени порождать усиленные точки, ищущие врагов миазмитов.",
+        "name": "Патоцист Кода",
+        "code": "ru"
+      },
+      {
+        "description": "テクノサイトによって変異したCoda Pathocystは、通常版に比べ高めのダメージ、クリティカル率、クリティカル倍率、状態異常率を誇る。戦闘中か敵に触れると、確率で強化された追跡型のミアズマイトを出現させる。",
+        "name": "Coda Pathocyst",
+        "code": "ja"
+      },
+      {
+        "description": "Rozwinięty przez mutacje Technocytu, Pathocyst Cody zyskuje poprawione statystyki Obrażeń, Szansy i Mnożnika Obr. Krytycznych, oraz Szansy Statusu. Rzucona broń może także stworzyć także Miazmity w trakcie lotu, lub przy trafieniu wroga.",
+        "name": "Pathocyst Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Aprimorada pelas mutações do Tecnócito, a Pathocista Coda apresenta um aumento no Dano, Chance Crítica, Multiplicador Crítico e Chance de Status. Enquanto estiver no ar ou em contato com o inimigo, ela ocasionalmente gerará unidades especializadas em perseguir os inimigos.",
+        "name": "Pathocista Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA PATHOCYST）勾瘩病囊飛刃透過技改細胞變異而強大，具有更高的傷害、暴擊機率、暴擊倍率，及狀態觸發機率。飛行過程中或接觸敵人時，偶爾會生成強化的尋敵瘴蟎。",
+        "name": "勾瘩 病囊飛刃",
+        "code": "tc"
+      },
+      {
+        "description": "Coda Pathocyst ได้รับการปรับปรุงเพิ่มขึ้นจาก Technocyte กลายพันธุ์ที่มาพร้อมกับความเสียหาย โอกาสคริติคอล ตัวคูณคริติคอล และโอกาสสถานะที่เพิ่มขึ้น ในระหว่างที่บินหรือสัมผัสกับศัตรู บางครั้งก็จะสร้าง Miasmite ตัวใหม่ออกมาตามหาศัตรู",
+        "name": "Coda Pathocyst",
+        "code": "th"
+      },
+      {
+        "description": "Technocyte mutasyonları tarafından güçlendirilen Coda Pathocyst, artırılmış Hasar, Kritik Şans, Kritik Çarpanı ve Statü Şansı ile birlikte gelir. Uçuş halindeyken veya düşmanla temas halindeyken, güçlendirilmiş ve düşmanın peşinden giden miasmite'ları belirli aralıklarla ortaya çıkarır.",
+        "name": "Coda Pathocyst",
+        "code": "tr"
+      },
+      {
+        "description": "Техноцитний вірус змінив звичний Патоцист. Зброя має поліпшені показники шкоди, множника критичної шкоди, імовірності критичної шкоди та накладання ефекту стану. У польоті або у разі влучання у ворога іноді створюватиме поліпшених личинок, які шукатимуть ворогів.",
+        "name": "Патоцист-кода",
         "code": "uk"
       }
     ]
@@ -4134,6 +4524,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Lasria/LasGooSickle/LasGooSicklePlayerWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-viciss-f3876a2528.png",
+    "name": "Dual Viciss",
+    "description": "Reap what the Techrot have sown with this vicious pair of Scaldra hand-scythes.",
+    "languages": [
+      {
+        "description": "Ernte, was der Techrot gesät hat, mit diesem tödlichen Paar Handsensen der Scaldra.",
+        "name": "Dual-Viciss",
+        "code": "de"
+      },
+      {
+        "description": "Récoltez ce que le Techrot a semé avec cette vicieuse paire de Faux à main Scaldra.",
+        "name": "Doubles Viciss",
+        "code": "fr"
+      },
+      {
+        "description": "Raccogli ciò che il Techrot ha seminato con questa feroce coppia di falci Scaldra.",
+        "name": "Dual Viciss",
+        "code": "it"
+      },
+      {
+        "description": "이 악랄한 스칼드라 쌍수 낫으로 테크병이 흩뿌린 것을 거두세요.",
+        "name": "듀얼 비시스",
+        "code": "ko"
+      },
+      {
+        "description": "Cosecha lo que el Techrot ha sembrado con este feroz par de guadañas de mano Scaldra.",
+        "name": "Viciss Dobles",
+        "code": "es"
+      },
+      {
+        "description": "（英文：DUAL VICISS）用这对凶恶的炽蛇军镰刀来收获科腐者所播种的恶果。",
+        "name": "双子恶行",
+        "code": "zh"
+      },
+      {
+        "description": "Пожинайте то, что посеял Техрот, с помощью этой зловещей пары ручных кос Скальдры.",
+        "name": "Парные клинки: Викисс",
+        "code": "ru"
+      },
+      {
+        "description": "このスカルドラ製のハンドサイス2丁でテックロットを刈り取ろう。",
+        "name": "Dual Viciss",
+        "code": "ja"
+      },
+      {
+        "description": "Zbierz to, co zasiał Techrot dzięki tej złośliwej parze ręcznych kos Scaldry.",
+        "name": "Podwójny Viciss",
+        "code": "pl"
+      },
+      {
+        "description": "Colha o que o Tecnovírus plantou com este par implacável de foices da Scaldra.",
+        "name": "Viciss Duplas",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：DUAL VICISS）使用這對兇殘的清剿隊手持雙鐮來收割科腐者種下的果。",
+        "name": "危邪雙鐮",
+        "code": "tc"
+      },
+      {
+        "description": "เก็บเกี่ยวสิ่งที่ Techrot หว่านลงไปด้วยเคียวมือ Scaldra ที่โหดร้ายคู่นี้",
+        "name": "Dual Viciss",
+        "code": "th"
+      },
+      {
+        "description": "Bu acımasız Scaldra el tırpanlarıyla Techrot'ların ektiğini biç.",
+        "name": "Dual Viciss",
+        "code": "tr"
+      },
+      {
+        "description": "Пожинайте врожаї, посіяні техногниллю, за допомогою пари лиховісних скальдрівських серпів.",
+        "name": "Парні Гнойовики",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/DualAxeWeapon",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-zoren-bcbd4a2836.png",
     "name": "Dual Zoren",
@@ -4985,7 +5453,7 @@
         "code": "tr"
       },
       {
-        "description": "Попри витончену форму, ця рапіра Тенно здатна завдавати ударів лютої сили.",
+        "description": "Попри витончену форму, ця рапіра тенно здатна завдавати ударів лютої сили.",
         "name": "Ендура",
         "code": "uk"
       }
@@ -6945,75 +7413,75 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Scythe/TnChoirScythe/TnChoirScythe",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/harmony-b5d6864210.png",
     "name": "Harmony",
-    "description": "Harmony triumphs over hate. Heavy Attacks condense Status Effect damage into a single instance. Heavy Attack kills empower allies with increased Status Duration.Experience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
+    "description": "Harmony triumphs over hate. Heavy Attacks condense Status Effect damage into a single instance. Heavy Attack kills empower allies with increased Status Duration.\n\nExperience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
     "languages": [
       {
-        "description": "Harmonie triumphiert über Hass. Schwere Angriffe komprimieren den Schaden von Statuseffekten zu einer einzelnen Instanz. Schwere Angriffe verstärken Verbündete mit verbesserter Statusdauer.Erlebe die wahre Macht von Jades Ensemble, wenn Evensong, Cantare und Harmony zusammen singen.",
+        "description": "Harmonie triumphiert über Hass. Schwere Angriffe komprimieren den Schaden von Statuseffekten zu einer einzelnen Instanz. Schwere Angriffe verstärken Verbündete mit verbesserter Statusdauer.\n\nErlebe die wahre Macht von Jades Ensemble, wenn Evensong, Cantare und Harmony zusammen singen.",
         "name": "Harmony",
         "code": "de"
       },
       {
-        "description": "L'Harmonie triomphe de la haine. Les Attaques Lourdes condensent les Dégâts des Effets de Statut en une seule instance. Les éliminations par Attaque Lourde renforcent les alliés avec une Durée de Statut accrue.Découvrez la véritable puissance de l'Ensemble de Jade lorsque Vêpres, Cantare et Harmonie chantent ensemble.",
+        "description": "L'Harmonie triomphe de la haine. Les Attaques Lourdes condensent les Dégâts des Effets de Statut en une seule instance. Les éliminations par Attaque Lourde renforcent les alliés avec une Durée de Statut accrue.\n\nDécouvrez la véritable puissance de l'Ensemble de Jade lorsque Vêpres, Cantare et Harmonie chantent ensemble.",
         "name": "Harmonie",
         "code": "fr"
       },
       {
-        "description": "L’Armonia trionfa sull’odio. Gli Attacchi Pesanti condensano i danni degli Effetti in una singola istanza. Le uccisioni con gli Attacchi Pesanti potenziano gli alleati con una Durata Effetto aumentata.Sperimenta il vero potere del Coro di Jade quando Evensong, Cantare e Harmony cantano in coro.",
+        "description": "L’Armonia trionfa sull’odio. Gli Attacchi Pesanti condensano i danni degli Effetti in una singola istanza. Le uccisioni con gli Attacchi Pesanti potenziano gli alleati con una Durata Effetto aumentata.\n\nSperimenta il vero potere del Coro di Jade quando Evensong, Cantare e Harmony cantano in coro.",
         "name": "Harmony",
         "code": "it"
       },
       {
-        "description": "조화는 증오를 이겨냅니다. 강 공격 시 상태 이상 피해를 한꺼번에 집중하여 적용시킵니다. 강 공격으로 적을 처치할 시 아군의 상태 이상 지속 시간을 증가시킬 수 있습니다.이븐송, 칸타레, 하모니가 다함께 노래할 때 우러나오는 제이드의 앙상블이 가진 힘을 경험해 보세요.",
+        "description": "조화는 증오를 이겨냅니다. 강 공격 시 상태 이상 피해를 한꺼번에 집중하여 적용시킵니다. 강 공격으로 적을 처치할 시 아군의 상태 이상 지속 시간을 증가시킬 수 있습니다.\n\n이븐송, 칸타레, 하모니가 다함께 노래할 때 우러나오는 제이드의 앙상블이 가진 힘을 경험해 보세요.",
         "name": "하모니",
         "code": "ko"
       },
       {
-        "description": "La armonía triunfa sobre el odio. Los ataques pesados condensan el daño del efecto de estado en una sola instancia. Las muertes por ataques pesados otorgan a los aliados una mayor duración del estado.Experimenta el verdadero poder del Conjunto de Jade cuando Evensong, Cantare y Harmony cantan juntos.",
+        "description": "La armonía triunfa sobre el odio. Los ataques pesados condensan el daño del efecto de estado en una sola instancia. Las muertes por ataques pesados otorgan a los aliados una mayor duración del estado.\n\nExperimenta el verdadero poder del Conjunto de Jade cuando Evensong, Cantare y Harmony cantan juntos.",
         "name": "Harmony",
         "code": "es"
       },
       {
-        "description": "（英文：HARMONY）和谐战胜憎恨。重击会立刻结算所有的异常状态效果伤害。使用重击击杀敌人可增强友军的触发时间。当晚祷、歌颂与和谐一同奏响时，体验 Jade 之合奏真正的力量。",
+        "description": "（英文：HARMONY）和谐战胜憎恨。重击会立刻结算所有的异常状态效果伤害。使用重击击杀敌人可增强友军的触发时间。\n\n当晚祷、歌颂与和谐一同奏响时，体验 Jade 之合奏真正的力量。",
         "name": "和谐",
         "code": "zh"
       },
       {
-        "description": "Гармония побеждает ненависть. Тяжёлые атаки концентрируют урон от статусного эффекта в одну атаку. Убийства тяжёлой атакой усиливают союзников, увеличивая длительность их статуса.Ощутите истинную силу ансамбля Джейд, когда Вечерня, Кантаре и Гармония поют вместе.",
+        "description": "Гармония побеждает ненависть. Тяжёлые атаки концентрируют урон от статусного эффекта в одну атаку. Убийства тяжёлой атакой усиливают союзников, увеличивая длительность их статуса.\n\nОщутите истинную силу ансамбля Джейд, когда Вечерня, Кантаре и Гармония поют вместе.",
         "name": "Гармония",
         "code": "ru"
       },
       {
-        "description": "調和は憎悪に打ち勝つ。ヘビー攻撃は状態異常を1つにまとめ付与する。ヘビー攻撃でのキルは仲間の状態異常効果時間を延長させる。Eversong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
+        "description": "調和は憎悪に打ち勝つ。ヘビー攻撃は状態異常を1つにまとめ付与する。ヘビー攻撃でのキルは仲間の状態異常効果時間を延長させる。\n\nEvensong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
         "name": "Harmony",
         "code": "ja"
       },
       {
-        "description": "Harmonia zwycięża nienawiść. Ciężkie Ataki kondensują obrażenia od Efektów Statusu w pojedynczej instancji. Zabicia Ciężkim Atakiem przyznają sojusznikom premię Czasu Trwania Statusu.Poznaj prawdziwą moc Zespołu Jade, gdy Wieczorna pieśń, Cantare i Harmonia śpiewają wspólnie.",
+        "description": "Harmonia zwycięża nienawiść. Ciężkie Ataki kondensują obrażenia od Efektów Statusu w pojedynczej instancji. Zabicia Ciężkim Atakiem przyznają sojusznikom premię Czasu Trwania Statusu.\n\nPoznaj prawdziwą moc Zespołu Jade, gdy Wieczorna pieśń, Cantare i Harmonia śpiewają wspólnie.",
         "name": "Harmonia",
         "code": "pl"
       },
       {
-        "description": "A harmonia triunfa sobre o ódio. Os Ataques Pesados condensarão o dano do Efeito de Status em uma única instância. As eliminações com Ataques Pesados fortalecerão os aliados com uma maior Duração do Efeito de Status.Experiencie o verdadeiro poder do Coro da Jade quando a Liturgia, a Cantiga e a Harmonia cantarem juntas.",
+        "description": "A harmonia triunfa sobre o ódio. Os Ataques Pesados condensarão o dano do Efeito de Status em uma única instância. As eliminações com Ataques Pesados fortalecerão os aliados com uma maior Duração do Efeito de Status.\n\nExperiencie o verdadeiro poder do Coro da Jade quando a Liturgia, a Cantiga e a Harmonia cantarem juntas.",
         "name": "Harmonia",
         "code": "pt"
       },
       {
-        "description": "（英文：HARMONY）和睦勝過仇恨。重擊將觸發狀態效果濃縮成單一傷害。使用重擊進行擊殺時，和睦提升狀態持續時間來加強友方。同時裝備使用晚禱、高歌，以及和睦武器來體驗 Jade 合奏的真正威力。",
+        "description": "（英文：HARMONY）和睦勝過仇恨。重擊將觸發狀態效果濃縮成單一傷害。使用重擊進行擊殺時，和睦提升狀態持續時間來加強友方。\n\n同時裝備使用晚禱、高歌，以及和睦武器來體驗 Jade 合奏的真正威力。",
         "name": "和睦",
         "code": "tc"
       },
       {
-        "description": "ทำให้ความสามัคคีมีชัยเหนือความเกลียดชัง เมื่อทำการโจมตีหนักจะรวมเอฟเฟกต์สถานะเพื่อสร้างความเสียหายได้ในคราวเดียว และการฆ่าศัตรูด้วยการโจมตีหนักยังช่วยเพิ่มระยะเวลาของสถานะให้เพื่อนร่วมทีมด้วยเมื่อประสานการใช้ Evensong, Cantare และ Harmony เข้าด้วยกันจะสัมผัสได้ถึงพลังที่แท้จริงของ Jade’s Ensemble",
+        "description": "ทำให้ความสามัคคีมีชัยเหนือความเกลียดชัง เมื่อทำการโจมตีหนักจะรวมเอฟเฟกต์สถานะเพื่อสร้างความเสียหายได้ในคราวเดียว และการฆ่าศัตรูด้วยการโจมตีหนักยังช่วยเพิ่มระยะเวลาของสถานะให้เพื่อนร่วมทีมด้วย\n\nเมื่อประสานการใช้ Evensong, Cantare และ Harmony เข้าด้วยกันจะสัมผัสได้ถึงพลังที่แท้จริงของ Jade’s Ensemble",
         "name": "Harmony",
         "code": "th"
       },
       {
-        "description": "Uyum nefrete galip gelir. Ağır Saldırılar, Statü Etkisi hasarını tek seferde yoğunlaştırır. Ağır Saldırı öldürmeleri, artan Statü Süresi ile müttefikleri güçlendirir.Evensong, Cantare ve Harmony birlikte şarkı söylerken Jade'in Topluluğu'nun gerçek gücünü deneyimle.",
+        "description": "Uyum nefrete galip gelir. Ağır Saldırılar, Statü Etkisi hasarını tek seferde yoğunlaştırır. Ağır Saldırı öldürmeleri, artan Statü Süresi ile müttefikleri güçlendirir.\n\nEvensong, Cantare ve Harmony birlikte şarkı söylerken Jade'in Topluluğu'nun gerçek gücünü deneyimle.",
         "name": "Harmony",
         "code": "tr"
       },
       {
-        "description": "Гармонія долає ненависть. Потужні удари зводять шкоду від ефектів стану докупи. Убивства потужними ударами підсилюють союзників збільшеною тривалістю ефектів стану.Пізнайте істинну силу Ансамблю Джейд, спорядивши Усеспів, Співаники та Гармонію водночас.",
+        "description": "Гармонія долає ненависть. Потужні удари зводять шкоду від ефектів стану докупи. Убивства потужними ударами підсилюють союзників збільшеною тривалістю ефектів стану.\n\nПізнайте істинну силу Ансамблю Джейд, спорядивши Усеспів, Співаники та Гармонію водночас.",
         "name": "Гармонія",
         "code": "uk"
       }
@@ -13067,7 +13535,7 @@
         "code": "ru"
       },
       {
-        "description": "強力なチャージ攻撃を繰り出す最新鋭の剣。高いクリティカル発生率を持つ。",
+        "description": "強力なチャージ攻撃を繰り出す最新鋭の剣。\n高いクリティカル発生率を持つ。",
         "name": "Plasma Sword",
         "code": "ja"
       },
@@ -13175,7 +13643,7 @@
         "code": "tr"
       },
       {
-        "description": "Тонфа — сільськогосподарське знаряддя, з яким билися фермери підкорених орокінами регіонів, оскільки мали заборону володіти зброєю. Це захоплювало орокінську шляхту, тому для успішної колонізації серед вантажу «Заримена» були й тонфи «Пред», щоби відзначити заповзятість екіпажу. Порожнеча зміцнила силу духу кожної особистості, посиливши тонфи «Пред».",
+        "description": "Тонфа — сільськогосподарське знаряддя, з яким билися фермери підкорених орокінами регіонів, оскільки мали заборону володіти зброєю. Це захоплювало орокінську шляхту, тому для успішної колонізації серед вантажу «Заримена» були й тонфи «Пред», щоб відзначити заповзятість екіпажу. Порожнеча зміцнила силу духу кожної особистості, посиливши тонфи «Пред».",
         "name": "Пред",
         "code": "uk"
       }
@@ -13384,7 +13852,7 @@
         "code": "ja"
       },
       {
-        "description": "Olśnij, rozprosz i niszcz pięściami wzmocnionymi niesamowicie twardymi kryształami prisma.",
+        "description": "Olśnij, rozprosz i niszcz pięściami wzmocnionymi niesamowicie twardymi kryształami prisma.\t",
         "name": "Obex Prisma",
         "code": "pl"
       },
@@ -14813,7 +15281,7 @@
         "code": "tr"
       },
       {
-        "description": "Експерименти Альбрехта з Порожнечею виявили істинний руйнівний потенціал цих кастетів. В інкарнонській формі завдавайте потужні удари по землі, щоби нанизати ворогів поблизу на шпичаки.",
+        "description": "Експерименти Альбрехта з Порожнечею виявили істинний руйнівний потенціал цих кастетів. В інкарнонській формі завдавайте потужні удари по землі, щоб нанизати ворогів поблизу на шпичаки.",
         "name": "Рувокс",
         "code": "uk"
       }
@@ -18492,7 +18960,7 @@
     "description": "Slash and blast with this heavy Gunblade of brutal Grineer design. High slash damage paired with a heavy shotgun attack.",
     "languages": [
       {
-        "description": "Mache mit dieser schweren Gunblade im brutalen Grineer-Design alles nieder. Hoher Schnittschaden gepaart mit einem schweren Schrotflintenangriff.",
+        "description": "Mache mit dieser schweren Gunblade im brutalen Grineer Design alles nieder. Hoher Schnittschaden gepaart mit einem schweren Schrotflintenangriff.",
         "name": "Vastilok",
         "code": "de"
       },
@@ -18635,7 +19103,7 @@
         "code": "tr"
       },
       {
-        "description": "Тризуб, що уособлює сліпе правосуддя. Блокуйте влучання, щоби зарядити здібність «Променевий спалах» та застосуйте «Блок»+«Потужний удар», щоби застосувати її.",
+        "description": "Тризуб, що уособлює сліпе правосуддя. Блокуйте влучання, щоб зарядити здібність «Променевий спалах» та застосуйте «Блок»+«Потужний удар», щоб застосувати її.",
         "name": "Сейдон-вейкор",
         "code": "uk"
       }
@@ -18791,7 +19259,7 @@
         "code": "tr"
       },
       {
-        "description": "Металеві кігті для тенно. Реалізують потенціал нового рукопашного стилю й перетворюють руки на січкарні, щоби нарізати ворогів на криваві шматки або купу брухту.",
+        "description": "Металеві кігті для тенно. Реалізують потенціал нового рукопашного стилю й перетворюють руки на січкарні, щоб нарізати ворогів на криваві шматки або купу брухту.",
         "name": "Венка",
         "code": "uk"
       }
@@ -18947,7 +19415,7 @@
         "code": "tr"
       },
       {
-        "description": "Хребетоламний батіг архонта Найри. Має неповторну тактичну серію ударів, яка з кожним ударом вивільнює енергетичну хвилю.",
+        "description": "Хребетоламний батіг архонтки Найри. Має неповторну тактичну серію ударів, яка з кожним ударом вивільнює енергетичну хвилю.",
         "name": "Вердилак",
         "code": "uk"
       }
@@ -19103,7 +19571,7 @@
         "code": "tr"
       },
       {
-        "description": "Меч Нігіла — легендарного ката орокінів, який перетворює засуджених на скло. Для цього потрібно вдарити ворога під час прицілювання в повітрі. Удар по землі завдасть шкоди скляним ворогам поруч і запустить ударну хвилю, щоби зачепити тих, хто далі. Потужний удар по землі спричинить ширшу й потужнішу ударну хвилю.",
+        "description": "Меч Нігіла — легендарного ката орокінів, який перетворює засуджених на скло. Для цього потрібно вдарити ворога під час прицілювання в повітрі. Удар по землі завдасть шкоди скляним ворогам поруч і запустить ударну хвилю, щоб зачепити тих, хто далі. Потужний удар по землі спричинить ширшу й потужнішу ударну хвилю.",
         "name": "Вітріка",
         "code": "uk"
       }

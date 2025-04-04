@@ -872,7 +872,7 @@
         "code": "tr"
       },
       {
-        "description": "Нестримний дракон. Хрома використовує тепло, електрику, токсини та холод, щоби завдавати великої шкоди ворогам і забезпечувати виживання союзникам. Ширяйте на крилах люті.",
+        "description": "Нестримний дракон. Хрома використовує тепло, електрику, токсини та холод, щоб завдавати великої шкоди ворогам і забезпечувати виживання союзникам. Ширяйте на крилах люті.",
         "name": "Хрома",
         "code": "uk"
       }
@@ -1124,7 +1124,6 @@
     "name": "Dagath",
     "description": "Never underestimate the power and wrath of sullen sadness. Dagath's malice deals high damage.",
     "armor": 125,
-    "aura": "zenurik",
     "languages": [
       {
         "description": "Unterschätze nie die Macht und den Zorn mürrischer Trauer. Dagaths Bosheit verursacht hohen Schaden.",
@@ -1204,7 +1203,6 @@
     "name": "Dante",
     "description": "Seeker of knowledge. Keeper of history. Daring researcher of Leverian lore. Dante composes arcane tales to support allies and devastate enemies.",
     "armor": 145,
-    "aura": "aura",
     "languages": [
       {
         "description": "Wissenssuchender. Bewahrer der Geschichte. Wagemutiger Forscher der Leverian-Überlieferungen. Dante verfasst geheimnisvolle Geschichten, um Verbündete zu unterstützen und Feinde zu vernichten.",
@@ -2231,7 +2229,7 @@
         "code": "tr"
       },
       {
-        "description": "Діва смерті з гострими пазурами. Ґаруда перетворює кров ворогів на зброю, щоби завдавати великої шкоди. Закривавлений вигляд доповнює її смертоносну силу.",
+        "description": "Діва смерті з гострими пазурами. Ґаруда перетворює кров ворогів на зброю, щоб завдавати великої шкоди. Закривавлений вигляд доповнює її смертоносну силу.",
         "name": "Ґаруда",
         "code": "uk"
       }
@@ -2803,7 +2801,6 @@
     "name": "Harrow Prime",
     "description": "The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.",
     "armor": 185,
-    "aura": "naramon",
     "languages": [
       {
         "description": "Der ewige Inquisitor erhebt sich, geheiligt vom Void, und predigt ein Evangelium des Eisens und der Flammen.",
@@ -3026,7 +3023,6 @@
     "name": "Hildryn Prime",
     "description": "Hildryn Prime proves that power is discipline’s reward.",
     "armor": 315,
-    "aura": "naramon",
     "languages": [
       {
         "description": "Hildryn Prime beweist, dass Macht die Belohnung für Disziplin ist.",
@@ -3894,7 +3890,7 @@
         "code": "tr"
       },
       {
-        "description": "Випробуйте свою удачу завдяки діві з кісточками. Кумей сплітає долю, щоби завдати шкоди та вціліти. Вона провидиця для праведних. Для грішних — небезпечна азартна гравчиня.",
+        "description": "Випробуйте свою удачу завдяки діві з кісточками. Кумей сплітає долю, щоб завдати шкоди та вціліти. Вона провидиця для праведних. Для грішних — небезпечна азартна гравчиня.",
         "name": "Кумей",
         "code": "uk"
       }
@@ -4374,7 +4370,7 @@
         "code": "tr"
       },
       {
-        "description": "Повелитель обману. Локі скрадається, щоби завдавати шкоди ворогам. Посійте плутанину у ворожих рядах.",
+        "description": "Повелитель обману. Локі скрадається, щоб завдавати шкоди ворогам. Посійте плутанину у ворожих рядах.",
         "name": "Локі",
         "code": "uk"
       }
@@ -4534,7 +4530,7 @@
         "code": "tr"
       },
       {
-        "description": "Повелителька сил магнетизму. Меґ змінює магнітні поля, щоби керувати натовпом та нищити захист ворогів. Мало хто може протистояти її притягувальній чи відштовхувальній силі.",
+        "description": "Повелителька сил магнетизму. Меґ змінює магнітні поля, щоб керувати натовпом та нищити захист ворогів. Мало хто може протистояти її притягувальній чи відштовхувальній силі.",
         "name": "Меґ",
         "code": "uk"
       }
@@ -5492,7 +5488,7 @@
         "code": "tr"
       },
       {
-        "description": "Володарка антиматерії. Нова використовує античастинки, щоби керувати натовпом та збільшувати завдавану шкоду. Вона нищить ворогів за допомогою руйнування самої матерії.",
+        "description": "Володарка антиматерії. Нова використовує античастинки, щоб керувати натовпом та збільшувати завдавану шкоду. Вона нищить ворогів за допомогою руйнування самої матерії.",
         "name": "Нова",
         "code": "uk"
       }
@@ -5652,7 +5648,7 @@
         "code": "tr"
       },
       {
-        "description": "Володарка психокінетичних здібностей, що роблять її небезпечним ворогом. Нікс проникає у свідомість ворогів, щоби керувати натовпом та обернути їхні атаки проти них самих. Такі дії можуть змінити хід бою.",
+        "description": "Володарка психокінетичних здібностей, що роблять її небезпечним ворогом. Нікс проникає у свідомість ворогів, щоб керувати натовпом та обернути їхні атаки проти них самих. Такі дії можуть змінити хід бою.",
         "name": "Нікс",
         "code": "uk"
       }
@@ -6224,7 +6220,6 @@
     "name": "Qorvex",
     "description": "Albrecht Entrati designed Qorvex to protect a Chosen Operator from the unique hazards of his lab. A Crucible Core gives Qorvex high survivability as he provides crowd control.",
     "armor": 875,
-    "aura": "vazarin",
     "languages": [
       {
         "description": "Albrecht Entrati hat Qorvex entworfen, um einen erwählten Operator vor den einzigartigen Gefahren seines Labors zu schützen. Eine Kernschmelze verleiht Qorvex eine hohe Überlebensfähigkeit, während er Gruppenkontrolle ausübt.",
@@ -6292,7 +6287,7 @@
         "code": "tr"
       },
       {
-        "description": "Альбрехт Ентраті розробив Корвекса, щоби захистити обраного оператора від небезпек його лабораторії. Ядро тигля надає Корвексу потужну живучість завдяки керуванню натовпом.",
+        "description": "Альбрехт Ентраті розробив Корвекса, щоб захистити обраного оператора від небезпек його лабораторії. Ядро тигля надає Корвексу потужну живучість завдяки керуванню натовпом.",
         "name": "Корвекс",
         "code": "uk"
       }
@@ -7017,6 +7012,85 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Temple/Temple",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-c3d2feb7ae.png",
+    "name": "Temple",
+    "description": "Blazing with glamor and armed with an Infested guitar, Lizzie, Temple’s power chords light the flames of revolution.",
+    "armor": 325,
+    "languages": [
+      {
+        "description": "Voller Glamour und bewaffnet mit deren Gitarre Lizzie, entzünden die mächtigen Akkorde von Temple die Flammen der Revolution.",
+        "name": "Temple",
+        "code": "de"
+      },
+      {
+        "description": "Brûlant de glamour et armé d'une guitare Infestée, Lizzie, Temple et ses accords puissants allument les flammes de la révolution.",
+        "name": "Temple",
+        "code": "fr"
+      },
+      {
+        "description": "Con un'eleganza risplendente e una chitarra Infested di nome Lizzie, gli accordi potenti di Temple accendono le fiamme della rivoluzione.",
+        "name": "Temple",
+        "code": "it"
+      },
+      {
+        "description": "화려함으로 불타오르는 인페스티드 기타인 리지로 무장한 템플의 강력한 화음은 혁명의 불꽃을 밝힙니다.",
+        "name": "템플",
+        "code": "ko"
+      },
+      {
+        "description": "Resplandeciente de glamour y con una guitarra infestada en mano, Lizzie, los acordes potentes de Temple encienden las llamas de la revolución.",
+        "name": "Temple",
+        "code": "es"
+      },
+      {
+        "description": "魅力四射的 Temple，手持他的感染吉他：丽兹，用强力的和弦点燃了革命的火焰。",
+        "name": "Temple",
+        "code": "zh"
+      },
+      {
+        "description": "Ослепительная и вооружённая заражённой гитарой Лиззи, Темпл зажигает пламя революции своими мощными аккордами.",
+        "name": "Темпл",
+        "code": "ru"
+      },
+      {
+        "description": "グラマラスな外見と感染されたギターLizzieと共に、Templeのパワーコードは革命の炎を焚き上げる。",
+        "name": "Temple",
+        "code": "ja"
+      },
+      {
+        "description": "Pełen blasku i uzbrojony w zainfekowaną gitarę, Lizzie, Temple rozpala płomienie rewolucji swoimi mocnymi akordami.",
+        "name": "Temple",
+        "code": "pl"
+      },
+      {
+        "description": "Com uma elegância resplandecente e em companhia de sua guitarra infestada, Lizzie, Temple toca poderosos acordes que acendem as chamas da revolução.",
+        "name": "Temple",
+        "code": "pt"
+      },
+      {
+        "description": "Temple 的魅力值爆表，手中握著一把感染吉他──莉慈，而他彈奏的强力和弦點燃革命之火。",
+        "name": "Temple",
+        "code": "tc"
+      },
+      {
+        "description": "เปล่งประกายด้วยเสน่ห์ร้อนแรงที่น่าดึงดูดและมีกีตาร์ติดเชื้อ Lizzie เป็นอาวุธติดตัวที่ Temple จะตีคอร์ดให้กระหึ่มเพื่อจุดไฟแห่งการปฏิวัติให้ลุกโชน",
+        "name": "Temple",
+        "code": "th"
+      },
+      {
+        "description": "Göz kamaştırıcı ışıltısı ve infested gitarı Lizzie ile kuşanan Temple'ın güçlü akorları devrimin ateşini yakıyor.",
+        "name": "Temple",
+        "code": "tr"
+      },
+      {
+        "description": "Храм запалює вогні революції в гламурному вбранні та з найвідданішою зараженою подругою — гітарою Ліззі.",
+        "name": "Храм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Fairy/Fairy",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/titania-dd20b18d5b.png",
     "name": "Titania",
@@ -7065,7 +7139,7 @@
         "code": "ja"
       },
       {
-        "description": "Baśniowy wygląd Titanii skrywa jej niszczycielską moc. Ta wróżka zadaje wysokie obrażenia i panuje nad tłumami. Jej wrogowie mogą wybrać hołd, lub śmierć.",
+        "description": "Baśniowy wygląd Titani skrywa jej niszczycielską moc. Ta wróżka zadaje wysokie obrażenia i panuje nad tłumami. Jej wrogowie mogą wybrać hołd, lub śmierć.",
         "name": "Titania",
         "code": "pl"
       },
@@ -7901,7 +7975,6 @@
     "name": "Voruna",
     "description": "Four beasts, one heart. Voruna's loyal wolf pack makes for a deadly combination of strength and stealth. Beware the monstrous howl that heralds fangs of vengeance.",
     "armor": 200,
-    "aura": "vazarin",
     "languages": [
       {
         "description": "Vier Bestien, ein Herz. Vorunas loyales Wolfsrudel ist eine tödliche Kombination aus Stärke und Heimlichkeit. Hüte dich vor dem monströsen Heulen, das die Reißzähne der Rache ankündigt.",

@@ -2394,6 +2394,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-escapist-c82d67eff9.png",
+    "name": "Arcane Escapist",
+    "languages": [
+      {
+        "name": "Arkana: Ausreißer",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Retour",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Escapist",
+        "code": "it"
+      },
+      {
+        "name": "아케인 이스케이피스트",
+        "code": "ko"
+      },
+      {
+        "name": "Escapista Arcano",
+        "code": "es"
+      },
+      {
+        "name": "赋能·脱逃",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический уворот",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン エスケーピスト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Oszusta",
+        "code": "pl"
+      },
+      {
+        "name": "Escapista Arcano",
+        "code": "pt"
+      },
+      {
+        "name": "避劫賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Escapist",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Escapist",
+        "code": "tr"
+      },
+      {
+        "name": "Містична втеча",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneMeleeDamageOnCrit",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-fury-96782e15fe.png",
     "name": "Arcane Fury",
@@ -2704,6 +2767,69 @@
       },
       {
         "name": "Містичне зцілення",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityHeatProcsGiveCritChance",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-hot-shot-b41b75d96e.png",
+    "name": "Arcane Hot Shot",
+    "languages": [
+      {
+        "name": "Arkana: Heißer Schuss",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Tonnerre de Feu",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Hot Shot",
+        "code": "it"
+      },
+      {
+        "name": "아케인 핫 샷",
+        "code": "ko"
+      },
+      {
+        "name": "Ignición Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·热火",
+        "code": "zh"
+      },
+      {
+        "name": "Мистический выстрел",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ホットショット",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Przegrzania",
+        "code": "pl"
+      },
+      {
+        "name": "Ignição Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "暴炎賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Hot Shot",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Hot Shot",
+        "code": "tr"
+      },
+      {
+        "name": "Містичний постріл",
         "code": "uk"
       }
     ]
@@ -4468,6 +4594,69 @@
       },
       {
         "name": "Містичний ультиматум",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityRadiationProcsCreateUniversalOrbsOnKill",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-universal-fallout-5414315aab.png",
+    "name": "Arcane Universal Fallout",
+    "languages": [
+      {
+        "name": "Arkana: Universeller Fallout",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Retombées Universelles",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Universal Fallout",
+        "code": "it"
+      },
+      {
+        "name": "아케인 유니버셜 폴아웃",
+        "code": "ko"
+      },
+      {
+        "name": "Radiación Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·辐照",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая радиация",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ユニバーサルフォールアウト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Uniwersalnego Opadu",
+        "code": "pl"
+      },
+      {
+        "name": "Radioatividade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "擴散輻塵賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Universal Fallout",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Universal Fallout",
+        "code": "tr"
+      },
+      {
+        "name": "Містичні універсальні опади",
         "code": "uk"
       }
     ]

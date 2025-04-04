@@ -1163,8 +1163,8 @@
         "code": "tr"
       },
       {
-        "description": "Гліф із зображенням Алада В.",
-        "name": "Гліф «Алад В»",
+        "description": "Гліф із зображенням Алада В.",
+        "name": "Гліф «Алад В»",
         "code": "uk"
       }
     ]
@@ -1242,7 +1242,7 @@
       },
       {
         "description": "Гліф для вашого профілю.",
-        "name": "Гліф Mashed «Алад В»",
+        "name": "Гліф Mashed «Алад В»",
         "code": "uk"
       }
     ]
@@ -1789,6 +1789,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Alyekk",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionAmalgam",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amalgam-glyph-6b4af31e25.png",
+    "name": "Amalgam Glyph",
+    "description": "A glyph to represent the Amalgam faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表并合派系的浮印。",
+        "name": "并合浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Amalgam faction.",
+        "name": "Amalgam Glyph",
         "code": "uk"
       }
     ]
@@ -11986,7 +12064,7 @@
       },
       {
         "description": "Um Glifo para o seu perfil.",
-        "name": "Glifo: Moderador do Canal de Bate-Papo",
+        "name": "Glifo: Moderador de Bate-Papo",
         "code": "pt"
       },
       {
@@ -14430,6 +14508,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityDante",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dante-glyph-da4c1e6011.png",
+    "name": "Community Dante Glyph",
+    "description": "A community glyph depicting Dante in the style of community artist VoliOsnowong.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Dante im Stil des Community-Künstlers VoliOsnowong darstellt.",
+        "name": "Glyphe: Dante (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe Communautaire représentant Dante dans le style de l'artiste communautaire VoliOsnowong.",
+        "name": "Glyphe Communautaire de Dante",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante Dante nello stile dell'artista della comunità VoliOsnowong.",
+        "name": "Glifo Dante Comunità",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 VoliOsnowong의 스타일로 단테를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 단테 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad que representa a Dante, creado al estilo del artista de la comunidad, VoliOsnowong.",
+        "name": "Glifo de Dante de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "由社区艺术家 VoliOsnowong 创作的 Dante 社区浮印。",
+        "name": "社区 Dante 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества, изображающий Данте в стиле художника сообщества VoliOsnowong.",
+        "name": "Глиф сообщества: Данте",
+        "code": "ru"
+      },
+      {
+        "description": "Danteのコミュニティグリフ。VoliOsnowong作。",
+        "name": "Dante コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Dantego, wykonany w stylu artysty społeczności VoliOsnowong.",
+        "name": "Glify Społeczności: Dante",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando o Dante, desenvolvido por VoliOsnowong.",
+        "name": "Glifo: Dante (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Dante 的社群浮印，以社群藝術家──VoliOsnowong 的風格創作。",
+        "name": "社群 Dante 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Dante ในสไตล์การออกแบบของศิลปินชุมชน VoliOsnowong",
+        "name": "ภาพสัญลักษณ์ Community Dante",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı VoliOsnowong tarafından Dante'yi tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Dante Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Данте, створений VoliOsnowong.",
+        "name": "Гліф спільноти «Данте»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysGrendel",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dog-days-grendel-glyph-9baf963c93.png",
     "name": "Community Dog Days Grendel Glyph",
@@ -15210,6 +15366,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGyre",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-gyre-glyph-82e7631cf2.png",
+    "name": "Community Gyre Glyph",
+    "description": "A community glyph depicting Gyre in the style of community artist SpaceWaifu.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Gyre im Stil des Community-Künstlers SpaceWaifu darstellt.",
+        "name": "Glyphe: Gyre (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe Communautaire représentant Gyre dans le style de l'artiste communautaire SpaceWaifu.",
+        "name": "Glyphe Communautaire de Gyre",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante Gyre nello stile dell'artista della comunità SpaceWaifu.",
+        "name": "Glifo Gyre Comunità",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 SpaceWaifu의 스타일로 자이어를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 자이어 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad que representa a Gyre, creado al estilo de la artista de la comunidad, SpaceWaifu.",
+        "name": "Glifo de Gyre de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "由社区艺术家 SpaceWaifu 创作的 Gyre 社区浮印。",
+        "name": "社区 Gyre 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества, изображающий Джайру в стиле художника сообщества SpaceWaifu.",
+        "name": "Глиф сообщества: Джайра",
+        "code": "ru"
+      },
+      {
+        "description": "Gyreのコミュニティグリフ。SpaceWaifu作。",
+        "name": "Gyre コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Gyre, wykonany w stylu artysty społeczności SpaceWaifu.",
+        "name": "Glif Społeczności: Gyre",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando a Gyre, desenvolvido por SpaceWaifu.",
+        "name": "Glifo: Gyre (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Gyre 的社群浮印，以社群藝術家──SpaceWaifu 的風格創作。",
+        "name": "社群 Gyre 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Gyre ในสไตล์การออกแบบของศิลปินชุมชน SpaceWaifu",
+        "name": "ภาพสัญลักษณ์ Community Gyre",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı SpaceWaifu tarafından Gyre'ı tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Gyre Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Джайри, створений SpaceWaifu.",
+        "name": "Гліф спільноти «Джайра»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHarrow",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-harrow-glyph-aafd03759c.png",
     "name": "Community Harrow Glyph",
@@ -15282,7 +15516,7 @@
       },
       {
         "description": "Гліф із зображенням Гарроу, створений Endquar.",
-        "name": "Гліфи спільноти «Гарроу»",
+        "name": "Гліф спільноти «Гарроу»",
         "code": "uk"
       }
     ]
@@ -15360,7 +15594,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого логотипа гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений логотип On-lyne»",
+        "name": "Гліф спільноти «Заражений логотип On-lyne»",
         "code": "uk"
       }
     ]
@@ -15672,7 +15906,7 @@
       },
       {
         "description": "Гліф із зображенням Діджея РоМа з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Діджей РоМ з On-lyne»",
+        "name": "Гліф спільноти «Діджей РоМ з On-lyne»",
         "code": "uk"
       }
     ]
@@ -15750,7 +15984,7 @@
       },
       {
         "description": "Гліф із зображенням Бурритма з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Бурритм з On-lyne»",
+        "name": "Гліф спільноти «Бурритм з On-lyne»",
         "code": "uk"
       }
     ]
@@ -15828,7 +16062,7 @@
       },
       {
         "description": "Гліф із зображенням Жорсткодиска з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Жорсткодиск з On-lyne»",
+        "name": "Гліф спільноти «Жорсткодиск з On-lyne»",
         "code": "uk"
       }
     ]
@@ -15906,7 +16140,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого Діджея РоМа з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений Діджей РоМ з On-lyne»",
+        "name": "Гліф спільноти «Заражений Діджей РоМ з On-lyne»",
         "code": "uk"
       }
     ]
@@ -15984,7 +16218,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого Бурритма з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений Бурритм з On-lyne»",
+        "name": "Гліф спільноти «Заражений Бурритм з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16062,7 +16296,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого Жорсткодиска з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений Жорсткодиск з On-lyne»",
+        "name": "Гліф спільноти «Заражений Жорсткодиск з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16140,7 +16374,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого Клунка з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений Клунок з On-lyne»",
+        "name": "Гліф спільноти «Заражений Клунок з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16218,7 +16452,7 @@
       },
       {
         "description": "Гліф із зображенням зараженого Зіка з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Заражений Зік з On-lyne»",
+        "name": "Гліф спільноти «Заражений Зік з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16296,7 +16530,7 @@
       },
       {
         "description": "Гліф із зображенням Клунка з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Клунок з On-lyne»",
+        "name": "Гліф спільноти «Клунок з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16374,7 +16608,7 @@
       },
       {
         "description": "Гліф із зображенням Зіка з гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Зік з On-lyne»",
+        "name": "Гліф спільноти «Зік з On-lyne»",
         "code": "uk"
       }
     ]
@@ -16530,7 +16764,7 @@
       },
       {
         "description": "Гліф із зображенням сяйнистого логотипа гурту On-lyne, створений death_ma666ots.",
-        "name": "Гліфи спільноти «Сяйнистий логотип On-lyne»",
+        "name": "Гліф спільноти «Сяйнистий логотип On-lyne»",
         "code": "uk"
       }
     ]
@@ -16609,6 +16843,162 @@
       {
         "description": "Гліф із зображенням Ревенанта, створений Kirdy.",
         "name": "Гліф спільноти «Ревенант»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunitySaryn",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-saryn-glyph-78c3dcefc3.png",
+    "name": "Community Saryn Glyph",
+    "description": "A community glyph depicting Saryn in the style of community artist MuraCasardis.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Saryn im Stil des Community-Künstlers MuraCasardis darstellt.",
+        "name": "Glyphe: Saryn (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe Communautaire représentant Saryn dans le style de l'artiste communautaire MuraCasardis.",
+        "name": "Glyphe Communautaire de Saryn",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante Saryn nello stile dell'artista della comunità MuraCasardis.",
+        "name": "Glifo Saryn Comunità",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 MuraCasardis의 스타일로 새린을 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 새린 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad que representa a Saryn, creado al estilo del artista de la comunidad, MuraCasardis.",
+        "name": "Glifo de Saryn de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "由社区艺术家 MuraCasardis 创作的 Saryn 社区浮印。",
+        "name": "社区 Saryn 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества, изображающий Сарину в стиле художника сообщества MuraCasardis.",
+        "name": "Глиф сообщества: Сарина",
+        "code": "ru"
+      },
+      {
+        "description": "Sarynのコミュニティグリフ。MuraCasardis作。",
+        "name": "Saryn コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Saryn, wykonany w stylu artysty społeczności MuraCasardis.",
+        "name": "Glif Społeczności: Saryn",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando a Saryn, desenvolvido por MuraCasardis.",
+        "name": "Glifo: Saryn (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Saryn 的社群浮印，以社群藝術家──MuraCasardis 的風格創作。",
+        "name": "社群 Saryn 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Saryn ในสไตล์การออกแบบของศิลปินชุมชน MuraCasardis",
+        "name": "ภาพสัญลักษณ์ Community Saryn",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı MuraCasardis tarafından Saryn'i tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Saryn Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Зарини, створений MuraCasardis.",
+        "name": "Гліф спільноти «Зарина»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityStyanax",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-styanax-glyph-3fbc5de257.png",
+    "name": "Community Styanax Glyph",
+    "description": "A community glyph depicting Styanax in the style of community artist CleoNaturin.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Styanax im Stil des Community-Künstlers CleoNaturin darstellt.",
+        "name": "Glyphe: Styanax (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe Communautaire représentant Styanax dans le style de l'artiste communautaire CleoNaturin.",
+        "name": "Glyphe Communautaire de Styanax",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante Styanax nello stile dell'artista della comunità CleoNaturin.",
+        "name": "Glifo Styanax Comunità",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 CleoNaturin의 스타일로 스티아낙스를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 스티아낙스 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad que representa a Styanax, creado al estilo del artista de la comunidad, CleoNaturin.",
+        "name": "Glifo de Styanax de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "由社区艺术家 CleoNaturin 创作的 Styanax 社区浮印。",
+        "name": "社区 Styanax 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества, изображающий Стинакса в стиле художника сообщества CleoNaturin.",
+        "name": "Глиф сообщества: Стинакс",
+        "code": "ru"
+      },
+      {
+        "description": "Styanaxのコミュニティグリフ。CleoNaturin作。",
+        "name": "Styanax コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Styanaxa, wykonany w stylu artysty społeczności CleoNaturin.",
+        "name": "Glif Społeczności: Styanax",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando o Styanax, desenvolvido por CleoNaturin.",
+        "name": "Glifo: Styanax (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Styanax 的社群浮印，以社群藝術家──CleoNaturin 的風格創作。",
+        "name": "社群 Styanax 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Styanax ในสไตล์การออกแบบของศิลปินชุมชน CleoNaturin",
+        "name": "ภาพสัญลักษณ์ Community Styanax",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı CleoNaturin tarafından Styanax'ı tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Styanax Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Стейнекса, створений CleoNaturin.",
+        "name": "Гліф спільноти «Стейнекс»",
         "code": "uk"
       }
     ]
@@ -17623,6 +18013,84 @@
       {
         "description": "Гліф із зображенням Титанії, створений Ritens.",
         "name": "Гліф спільноти «Титанія»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityWisp",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-wisp-glyph-8332809a26.png",
+    "name": "Community Wisp Glyph",
+    "description": "A community glyph depicting Wisp in the style of community artist Finlaena.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Wisp im Stil des Community-Künstlers Finlaena darstellt.",
+        "name": "Glyphe: Wisp (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe Communautaire représentant Wisp dans le style de l'artiste communautaire Finlaena.",
+        "name": "Glyphe Communautaire de Wisp",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante Wisp nello stile dell'artista della comunità Finlaena.",
+        "name": "Glifo Wisp Comunità",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Finlaena의 스타일로 위습을 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 위습 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad que representa a Wisp, creado al estilo del artista de la comunidad, Finlaena.",
+        "name": "Glifo de Wisp de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "由社区艺术家 Finlaena 创作的 Wisp 社区浮印。",
+        "name": "社区 Wisp 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества, изображающий Висп в стиле художника сообщества Finlaena.",
+        "name": "Глиф сообщества: Висп",
+        "code": "ru"
+      },
+      {
+        "description": "Wispのコミュニティグリフ。Finlaena作。",
+        "name": "Wisp コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Wisp, wykonany w stylu artysty społeczności Finlaena.",
+        "name": "Glif Społeczności: Wisp",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando a Wisp, desenvolvido por Finlaena.",
+        "name": "Glifo: Wisp (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Wisp 的社群浮印，以社群藝術家──Finlaena 的風格創作。",
+        "name": "社群 Wisp 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Wisp ในสไตล์การออกแบบของศิลปินชุมชน Finlaena",
+        "name": "ภาพสัญลักษณ์ Community Wisp",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Finlaena tarafından Wisp'i tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Wisp Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Вісп, створений Finlaena.",
+        "name": "Гліф спільноти «Вісп»",
         "code": "uk"
       }
     ]
@@ -19807,6 +20275,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф CopyKavat",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionCorpus",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corpus-glyph-b06a192ad6.png",
+    "name": "Corpus Glyph",
+    "description": "A glyph to represent the Corpus faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表 Corpus 派系的浮印。",
+        "name": "Corpus 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Corpus faction.",
+        "name": "Corpus Glyph",
         "code": "uk"
       }
     ]
@@ -28236,6 +28782,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionEntrati",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-eye-glyph-512b377e10.png",
+    "name": "Entrati Eye Glyph",
+    "description": "A glyph to represent the Eye of Entrati.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表英择谛之眼的浮印。",
+        "name": "英择谛之眼浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Eye of Entrati.",
+        "name": "Entrati Eye Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Mech",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-mech-glyph-75a59fe7dc.png",
     "name": "Entrati Mech Glyph",
@@ -33847,6 +34471,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Finlaena",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelFlare",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flare-pixel-glyph-174d869107.png",
+    "name": "Flare Pixel Glyph",
+    "description": "Celebrate 1999's distinctive screen style with this glyph portraying Flare, the Temple protoframe!",
+    "languages": [
+      {
+        "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Flare, den Temple-Protoframe, darstellt!",
+        "name": "Glyphe: Flare Pixel",
+        "code": "de"
+      },
+      {
+        "description": "Célébrez le style distinctif de 1999 avec ce Glyphe représentant Flare, la Protoframe de Temple!",
+        "name": "Glyphe Pixel Flare",
+        "code": "fr"
+      },
+      {
+        "description": "Celebra lo stile dello schermo tipico del 1999 con questo glifo che raffigura Flare, il protoframe di Temple!",
+        "name": "Glifo Flare Pixel",
+        "code": "it"
+      },
+      {
+        "description": "템플의 프로토프레임인 플레어를 묘사한 이 글리프로 1999의 독특한 스타일을 축하해 보세요!",
+        "name": "플레어 픽셀 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "¡Celebra el estilo característico de 1999 con este glifo que representa a Flare, el protoframe de Temple!",
+        "name": "Glifo de Flare Pixelado",
+        "code": "es"
+      },
+      {
+        "description": "通过描绘着 Temple 的原型战甲——弗莱尔的浮印来庆祝 1999 年独特的银幕风格！",
+        "name": "弗莱尔像素浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Отпразднуйте характерный стиль 1999 года с этим глифом, изображающим Флэр, протофрейма Темпл!",
+        "name": "Глиф: Пиксельн. Флэр",
+        "code": "ru"
+      },
+      {
+        "description": "1999の独特なスタイルをTemple PROTOFRAMEのFlareを描いたグリフで祝おう！",
+        "name": "Flare ピクセル グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiającym Flare'a, Protoframe'a Temple'a!",
+        "name": "Glif Pikselowy Flare",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre o estilo característico de 1999 com este glifo retratando o Flare, o Protoframe do Temple!",
+        "name": "Glifo: Flare Pixelado",
+        "code": "pt"
+      },
+      {
+        "description": "透過 Temple 的原型 Warframe──弗烈爾來懷念 1999 年的獨特螢幕風格！",
+        "name": "弗烈爾畫素浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ระลึกถึงรูปแบบหน้าจอที่ดูโดดเด่นในปี 1999 ด้วยภาพของ Flare Protoframe ของ Temple",
+        "name": "ภาพสัญลักษณ์ Flare Pixel",
+        "code": "th"
+      },
+      {
+        "description": "Flare, yani Temple protoframe'i tasvir eden bu glif ile 1999'un kendine özgü ekran stilini kutla!",
+        "name": "Flare Piksel Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Вшануйте характерні екрани 1999 року за допомогою гліфа із зображенням Флер — протофрейма для Храма!",
+        "name": "Гліф «Піксельна Флер»",
         "code": "uk"
       }
     ]
@@ -40404,6 +41106,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionGrineer",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grineer-glyph-0232a16adc.png",
+    "name": "Grineer Glyph",
+    "description": "A glyph to represent the Grineer faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表 Grineer 派系的浮印。",
+        "name": "Grineer 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Grineer faction.",
+        "name": "Grineer Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerLancer",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grineer-lancer-glyph-79766f934c.png",
     "name": "Grineer Lancer Glyph",
@@ -41335,6 +42115,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф «Джайра в дії»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGyreDeluxe",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gyre-vortengeist-glyph-dcf88faeb2.png",
+    "name": "Gyre Vortengeist Glyph",
+    "description": "A glyph depicting Gyre Vortengeist.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Gyre Vortengeist darstellt.",
+        "name": "Glyphe: Gyre Vortengeist",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Gyre Vortengeist.",
+        "name": "Glyphe Gyre Vortengeist",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Gyre Vortengeist.",
+        "name": "Glifo Gyre Vortengeist",
+        "code": "it"
+      },
+      {
+        "description": "자이어 볼텐가이스트를 묘사한 글리프입니다.",
+        "name": "자이어 볼텐가이스트 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Gyre Vortengeist.",
+        "name": "Glifo de Gyre Vortengeist",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Gara 电涡幽灵的浮印。",
+        "name": "Gyre 电涡幽灵浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Джайры Вортенгейст.",
+        "name": "Глиф Джайры: Вортенгейст",
+        "code": "ru"
+      },
+      {
+        "description": "Gyre Vortengeistが描かれたグリフ。",
+        "name": "Gyre Vortengeist グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Gyre Vortengeist.",
+        "name": "Glif Gyre Vortengeist",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Gyre Vortengeist.",
+        "name": "Glifo: Gyre Vortengeist",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Gyre 渦靈的浮印。",
+        "name": "Gyre 渦靈浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Gyre Vortengeist",
+        "name": "ภาพสัญลักษณ์ Gyre Vortengeist",
+        "code": "th"
+      },
+      {
+        "description": "Gyre Vortengeist'i temsil eden bir glif.",
+        "name": "Gyre Vortengeist Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Джайри зі спорядженим виглядом «Вортенґейст».",
+        "name": "Гліф «Джайра „Вортенґейст”»",
         "code": "uk"
       }
     ]
@@ -45474,6 +46332,162 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionInfested",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infestation-glyph-73b7bcff9f.png",
+    "name": "Infestation Glyph",
+    "description": "A glyph to represent the Infestation faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表 Infestation 派系的浮印。",
+        "name": "Infestation 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Infestation faction.",
+        "name": "Infestation Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionDeimos",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infested-deimos-glyph-3479ee333b.png",
+    "name": "Infested Deimos Glyph",
+    "description": "A glyph to represent the Infested Deimos faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表 Infested 火卫二派系的浮印。",
+        "name": "Infested 火卫二浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Infested Deimos faction.",
+        "name": "Infested Deimos Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Monster",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infested-sun-glyph-77c21e3e9f.png",
     "name": "Infested Sun Glyph",
@@ -49211,7 +50225,7 @@
         "code": "tr"
       },
       {
-        "description": "Гліф «Кал-175» від спільноти шанувальників для «Вуалелама». Створений MissMagicka.",
+        "description": "Гліф спільноти із зображенням Кала-175, створений MissMagicka.",
         "name": "Гліф спільноти «Кал-175»",
         "code": "uk"
       }
@@ -49603,6 +50617,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф «Шредінґер кавата»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelKaya",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kaya-pixel-glyph-d28dc2ac27.png",
+    "name": "Kaya Pixel Glyph",
+    "description": "Celebrate 1999's distinctive screen style with this glyph portraying Kaya, the Nova protoframe!",
+    "languages": [
+      {
+        "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Kaya, den Nova-Protoframe, darstellt!",
+        "name": "Glyphe: Kaya Pixel",
+        "code": "de"
+      },
+      {
+        "description": "Célébrez le style distinctif de 1999 avec ce Glyphe représentant Kaya, la Protoframe de Nova!",
+        "name": "Glyphe Pixel Kaya",
+        "code": "fr"
+      },
+      {
+        "description": "Celebra lo stile dello schermo tipico del 1999 con questo glifo che raffigura Kaya, il protoframe di Nova!",
+        "name": "Glifo Kaya Pixel",
+        "code": "it"
+      },
+      {
+        "description": "노바의 프로토프레임인 카야를 묘사한 이 글리프로 1999의 독특한 스타일을 축하해 보세요!",
+        "name": "카야 픽셀 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "¡Celebra el estilo característico de 1999 con este glifo que representa a Kaya, el protoframe de Nova!",
+        "name": "Glifo de Kaya Pixelada",
+        "code": "es"
+      },
+      {
+        "description": "通过描绘着 Nova 的原型战甲——卡娅的浮印来庆祝 1999 年独特的银幕风格！",
+        "name": "卡娅像素浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Отпразднуйте характерный стиль 1999 года с этим глифом, изображающим Кайи, протофрейма Новы!",
+        "name": "Глиф: Пиксельная Кайя",
+        "code": "ru"
+      },
+      {
+        "description": "1999の独特なスタイルをNova PROTOFRAMEのKayaを描いたグリフで祝おう！",
+        "name": "Kaya ピクセル グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiającym Kayę, Protoframe Novy!",
+        "name": "Glif Pikselowa Kaya",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre o estilo característico de 1999 com este glifo retratando a Kaya, o Protoframe da Nova!",
+        "name": "Glifo: Kaya Pixelada",
+        "code": "pt"
+      },
+      {
+        "description": "透過 Nova 的原型 Warframe──卡婭來懷念 1999 年的獨特螢幕風格！",
+        "name": "卡婭畫素浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ระลึกถึงรูปแบบหน้าจอที่ดูโดดเด่นในปี 1999 ด้วยภาพของ Kaya Protoframe ของ Nova",
+        "name": "ภาพสัญลักษณ์ Kaya Pixel",
+        "code": "th"
+      },
+      {
+        "description": "Kaya, yani Nova protoframe'i tasvir eden bu glif ile 1999'un kendine özgü ekran stilini kutla!",
+        "name": "Kaya Piksel Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Вшануйте характерні екрани 1999 року за допомогою гліфа із зображенням Каї — протофрейма для Нови!",
+        "name": "Гліф «Піксельна Кая»",
         "code": "uk"
       }
     ]
@@ -51168,84 +52260,6 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKnightmareFrame",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/knightmare-frame-glyph-2f3c882148.png",
-    "name": "Knightmare Frame Glyph",
-    "description": "A Glyph for your profile.",
-    "languages": [
-      {
-        "description": "Eine Glyphe für dein Profil.",
-        "name": "Glyphe: Knightmare Frame",
-        "code": "de"
-      },
-      {
-        "description": "Un Glyphe pour votre profil.",
-        "name": "Glyphe Knightmare Frame",
-        "code": "fr"
-      },
-      {
-        "description": "Un Glifo per il tuo profilo.",
-        "name": "Glifo Knightmare Frame",
-        "code": "it"
-      },
-      {
-        "description": "프로필을 위한 글리프입니다.",
-        "name": "Knightmare Frame 글리프",
-        "code": "ko"
-      },
-      {
-        "description": "Un glifo para tu perfil.",
-        "name": "Glifo de Knightmare Frame",
-        "code": "es"
-      },
-      {
-        "description": "个人档案的浮印。",
-        "name": "Knightmare Frame 浮印",
-        "code": "zh"
-      },
-      {
-        "description": "Глиф для вашего профиля.",
-        "name": "Глиф: Knightmare Frame",
-        "code": "ru"
-      },
-      {
-        "description": "プロフィール用のグリフ。",
-        "name": "Knightmare Frame グリフ",
-        "code": "ja"
-      },
-      {
-        "description": "Glif dla Twojego profilu.",
-        "name": "Glif Knightmare Frame",
-        "code": "pl"
-      },
-      {
-        "description": "Um Glifo para o seu perfil.",
-        "name": "Glifo: Knightmare Frame",
-        "code": "pt"
-      },
-      {
-        "description": "用於個人檔案的浮印。",
-        "name": "Knightmare Frame 浮印",
-        "code": "tc"
-      },
-      {
-        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
-        "name": "ภาพสัญลักษณ์ Knightmare Frame",
-        "code": "th"
-      },
-      {
-        "description": "Profilin için bir Glif.",
-        "name": "Knightmare Frame Glif",
-        "code": "tr"
-      },
-      {
-        "description": "Гліф для вашого профілю.",
-        "name": "Гліф Knightmare Frame",
-        "code": "uk"
-      }
-    ]
-  },
-  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKoreanCommunityDiscord",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/korean-community-discord-glyph-f7f315205a.png",
     "name": "Korean Community Discord Glyph",
@@ -52645,6 +53659,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф «Курія-ідол»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionKuva",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-glyph-45551657e2.png",
+    "name": "Kuva Glyph",
+    "description": "A glyph to represent the Kuva faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表赤毒派系的浮印。",
+        "name": "赤毒浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Kuva faction.",
+        "name": "Kuva Glyph",
         "code": "uk"
       }
     ]
@@ -62400,6 +63492,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelMinerva",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/minerva-pixel-glyph-f7273e7e2e.png",
+    "name": "Minerva Pixel Glyph",
+    "description": "Celebrate 1999's distinctive screen style with this glyph portraying Minerva, the Saryn protoframe!",
+    "languages": [
+      {
+        "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Minerva, den Saryn-Protoframe, darstellt!",
+        "name": "Glyphe: Minerva Pixel",
+        "code": "de"
+      },
+      {
+        "description": "Célébrez le style distinctif de 1999 avec ce Glyphe représentant Minerva, la Protoframe de Saryn!",
+        "name": "Glyphe Pixel Minerva",
+        "code": "fr"
+      },
+      {
+        "description": "Celebra lo stile dello schermo tipico del 1999 con questo glifo che raffigura Minerva, il protoframe di Saryn!",
+        "name": "Glifo Minerva Pixel",
+        "code": "it"
+      },
+      {
+        "description": "새린의 프로토프레임인 미네르바를 묘사한 이 글리프로 1999의 독특한 스타일을 축하해 보세요!",
+        "name": "미네르바 픽셀 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "¡Celebra el estilo característico de 1999 con este glifo que representa a Minerva, el protoframe de Saryn!",
+        "name": "Glifo de Minerva Pixelada",
+        "code": "es"
+      },
+      {
+        "description": "通过描绘着 Saryn 的原型战甲——米尼娃的浮印来庆祝 1999 年独特的银幕风格！",
+        "name": "米尼娃像素浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Отпразднуйте характерный стиль 1999 года с этим глифом, изображающим Минерву, протофрейма Сарины!",
+        "name": "Глиф: Пиксельная Минерва",
+        "code": "ru"
+      },
+      {
+        "description": "1999の独特なスタイルをSaryn PROTOFRAMEのMinervaを描いたグリフで祝おう！",
+        "name": "Minerva ピクセル グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiającym Minerwę, Protoframe Saryn!",
+        "name": "Glif Pikselowa Minerwa",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre o estilo característico de 1999 com este glifo retratando a Minerva, o Protoframe da Saryn!",
+        "name": "Glifo: Minerva Pixelada",
+        "code": "pt"
+      },
+      {
+        "description": "透過 Saryn 的原型 Warframe──米娜瓦來懷念 1999 年的獨特螢幕風格！",
+        "name": "米娜瓦畫素浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ระลึกถึงรูปแบบหน้าจอที่ดูโดดเด่นในปี 1999 ด้วยภาพของ Minerva Protoframe ของ Saryn",
+        "name": "ภาพสัญลักษณ์ Minerva Pixel",
+        "code": "th"
+      },
+      {
+        "description": "Minerva, yani Saryn protoframe'i tasvir eden bu glif ile 1999'un kendine özgü ekran stilini kutla!",
+        "name": "Minerva Piksel Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Вшануйте характерні екрани 1999 року за допомогою гліфа із зображенням Мінерви — протофрейма для Зарини!",
+        "name": "Гліф «Піксельна Мінерва»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-accolade-glyph-4a380739d3.png",
     "name": "Mirage Accolade Glyph",
@@ -65359,6 +66529,84 @@
       {
         "description": "Цього року Донька перетворила відданого слугу Матері на мумію.",
         "name": "Гліф «Мумілойд»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionMurmur",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/murmur-glyph-1f38d5ee0b.png",
+    "name": "Murmur Glyph",
+    "description": "A glyph to represent the Murmur faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表低语者派系的浮印。",
+        "name": "低语者浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Murmur faction.",
+        "name": "Murmur Glyph",
         "code": "uk"
       }
     ]
@@ -73632,6 +74880,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionOrokin",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-glyph-7450d4cdd6.png",
+    "name": "Orokin Glyph",
+    "description": "A glyph to represent the Orokin faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表 Orokin 派系的浮印。",
+        "name": "Orokin 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Orokin faction.",
+        "name": "Orokin Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageOrpheusDeluxe",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orpheus-deluxe-glyph-79b241a615.png",
     "name": "Orpheus Deluxe Glyph",
@@ -75811,6 +77137,84 @@
       {
         "description": "Гліф на підтримку Прайду, створений NimkeArts.",
         "name": "Гліф «Прайд» III",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePride2025Glyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pride-glyph-iv-c7441f65b5.png",
+    "name": "Pride Glyph Iv",
+    "description": "This Glyph celebrates Pride. Designed by TadaCharly.",
+    "languages": [
+      {
+        "description": "Diese Glyphe zelebriert Pride. Entworfen von TadaCharly.",
+        "name": "Glyphe: Pride IV",
+        "code": "de"
+      },
+      {
+        "description": "Ce Glyphe célèbre la Fierté. Créé par TadaCharly.",
+        "name": "Glyphe de la Fierté IV",
+        "code": "fr"
+      },
+      {
+        "description": "Questo Glifo celebra il Pride. Ideato da TadaCharly.",
+        "name": "Glifo Pride IV",
+        "code": "it"
+      },
+      {
+        "description": "프라이드를 기념하는 글리프입니다. TadaCharly에 의해 디자인되었습니다.",
+        "name": "프라이드 글리프 IV",
+        "code": "ko"
+      },
+      {
+        "description": "Este glifo celebra el Orgullo. Diseñado por TadaCharly.",
+        "name": "Glifo del Orgullo IV",
+        "code": "es"
+      },
+      {
+        "description": "庆祝骄傲月的浮印。由 TadaCharly 创作。",
+        "name": "骄傲浮印 IV",
+        "code": "zh"
+      },
+      {
+        "description": "Этот глиф демонстрирует поддержку Прайда. Создан TadaCharly.",
+        "name": "Глиф: Прайд IV",
+        "code": "ru"
+      },
+      {
+        "description": "Prideを祝うグリフ。TadaCharly作。",
+        "name": "Pride グリフ IV",
+        "code": "ja"
+      },
+      {
+        "description": "Glif na cześć Dumy. Zaprojektowany przez TadaCharly.",
+        "name": "Glif Dumy IV",
+        "code": "pl"
+      },
+      {
+        "description": "Este Glifo, criado por TadaCharly, celebra o Orgulho LGBTQIA+.",
+        "name": "Glifo: Orgulho LGBTQIA+ IV",
+        "code": "pt"
+      },
+      {
+        "description": "以這個浮印來慶祝同志驕傲。由 TadaCharly 設計。",
+        "name": "同志驕傲浮印 IV",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่ใช้ฉลองเทศกาล Pride ออกแบบโดย TadaCharly",
+        "name": "ภาพสัญลักษณ์ Pride IV",
+        "code": "th"
+      },
+      {
+        "description": "Bu Glif, Pride'ı kutlar. TadaCharly tarafından dizayn edilmiştir.",
+        "name": "Pride Glif IV",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф на підтримку Прайду, створений TadaCharly.",
+        "name": "Гліф «Прайд» IV",
         "code": "uk"
       }
     ]
@@ -84006,6 +85410,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionScaldra",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scaldra-glyph-576f39c5a3.png",
+    "name": "Scaldra Glyph",
+    "description": "A glyph to represent the Scaldra faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表炽蛇军派系的浮印。",
+        "name": "炽蛇军浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Scaldra faction.",
+        "name": "Scaldra Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageScallion",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scallion-glyph-5bb7687f38.png",
     "name": "Scallion Glyph",
@@ -85846,7 +87328,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Sevagoth na jasnym tle.",
+        "description": "Glif przedstawiający Warframe'a Sevagoth na jasnym tle.",
         "name": "Glif Sevagoth — Jasny",
         "code": "pl"
       },
@@ -85924,7 +87406,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Sevagoth na ciemnym tle.",
+        "description": "Glif przedstawiający Warframe'a Sevagoth na ciemnym tle.",
         "name": "Glif Sevagoth — Ciemny",
         "code": "pl"
       },
@@ -86080,7 +87562,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Sevagoth Lucifuge na jasnym tle.",
+        "description": "Glif przedstawiający Warframe'a Sevagoth Lucifuge na jasnym tle.",
         "name": "Glif Sevagotha Lucifuge — Jasny",
         "code": "pl"
       },
@@ -86158,7 +87640,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Sevagoth Lucifuge na ciemnym tle.",
+        "description": "Glif przedstawiający Warframe'a Sevagoth Lucifuge na ciemnym tle.",
         "name": "Glif Sevagotha Lucifuge — Ciemny",
         "code": "pl"
       },
@@ -88993,6 +90475,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Spandy",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSpecialEffectGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/specialeffect-glyph-786a573f0c.png",
+    "name": "Specialeffect Glyph",
+    "description": "A glyph representing the SpecialEffect charity.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, welche die Wohltätigkeitsorganisation SpecialEffect darstellt.",
+        "name": "Glyphe: SpecialEffect",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant l'association caritative SpecialEffect.",
+        "name": "Glyphe SpecialEffect",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che rappresenta l'ente di beneficenza SpecialEffect.",
+        "name": "Glifo SpecialEffect",
+        "code": "it"
+      },
+      {
+        "description": "SpecialEffect 자선 단체를 상징하는 글리프입니다.",
+        "name": "SpecialEffect 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa la organización benéfica SpecialEffect.",
+        "name": "Glifo de SpecialEffect",
+        "code": "es"
+      },
+      {
+        "description": "代表 SpecialEffect 慈善机构的浮印。",
+        "name": "SpecialEffect 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, представляющий благотворительную организацию SpecialEffect.",
+        "name": "Глиф: SpecialEffect",
+        "code": "ru"
+      },
+      {
+        "description": "SpecialEffect チャリティ支援を表すグリフ。",
+        "name": "SpecialEffect グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający organizację charytatywną SpecialEffect.",
+        "name": "Glif SpecialEffect",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a instituição de caridade SpecialEffect.",
+        "name": "Glifo: SpecialEffect",
+        "code": "pt"
+      },
+      {
+        "description": "代表 SpecialEffect 慈善組織的浮印。",
+        "name": "SpecialEffect 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงองค์กรการกุศล SpecialEffect",
+        "name": "ภาพสัญลักษณ์ SpecialEffect",
+        "code": "th"
+      },
+      {
+        "description": "SpecialEffect yardım kuruluşunu temsil eden bir glif.",
+        "name": "SpecialEffect Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням благодійної організації SpecialEffect.",
+        "name": "Гліф SpecialEffect",
         "code": "uk"
       }
     ]
@@ -93210,6 +94770,474 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionTechrot",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/techrot-glyph-217caea674.png",
+    "name": "Techrot Glyph",
+    "description": "A glyph to represent the Techrot faction.",
+    "languages": [
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "de"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "fr"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "it"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "ko"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "es"
+      },
+      {
+        "description": "代表科腐者派系的浮印。",
+        "name": "科腐者浮印",
+        "code": "zh"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "ru"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "ja"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "pl"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "pt"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "tc"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "th"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "tr"
+      },
+      {
+        "description": "A glyph to represent the Techrot faction.",
+        "name": "Techrot Glyph",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleBright",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-glyph---bright-4afc1a2777.png",
+    "name": "Temple Glyph - Bright",
+    "description": "A glyph depicting Temple on a bright background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Temple vor einem hellen Hintergrund darstellt.",
+        "name": "Glyphe: Temple (Hell)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Temple sur un fond lumineux.",
+        "name": "Glyphe Temple - Lumineux",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Temple su uno sfondo chiaro.",
+        "name": "Glifo Temple - Chiaro",
+        "code": "it"
+      },
+      {
+        "description": "밝은 배경을 등지고 있는 템플을 묘사한 글리프입니다.",
+        "name": "템플 글리프 - 밝음",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Temple sobre un fondo brillante.",
+        "name": "Glifo de Temple - Brillante",
+        "code": "es"
+      },
+      {
+        "description": "Temple 在明亮背景下的浮印。",
+        "name": "Temple 浮印 - 明亮",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Темпл на светлом фоне.",
+        "name": "Глиф: Темпл — светлый",
+        "code": "ru"
+      },
+      {
+        "description": "明るい背景に描かれたTempleのグリフ。",
+        "name": "Temple グリフ （明）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe'a Temple na jasnym tle.",
+        "name": "Glif Temple — Jasny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando o Temple em um fundo claro.",
+        "name": "Glifo: Temple (Claro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Temple 在明亮背景下的浮印。",
+        "name": "Temple 浮印 - 明亮",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple บนพื้นหลังที่สว่างสดใส",
+        "name": "ภาพสัญลักษณ์ Temple - สว่าง",
+        "code": "th"
+      },
+      {
+        "description": "Temple açık fonlu glif.",
+        "name": "Temple Glif - Açık",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Храма на світлому тлі.",
+        "name": "Яскравий гліф «Храм»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleDark",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-glyph---dark-afed239484.png",
+    "name": "Temple Glyph - Dark",
+    "description": "A glyph depicting Temple on a dark background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Temple vor einem dunklen Hintergrund darstellt.",
+        "name": "Glyphe: Temple (Dunkel)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Temple sur un fond sombre.",
+        "name": "Glyphe Temple - Sombre",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Temple su uno sfondo scuro.",
+        "name": "Glifo Temple - Scuro",
+        "code": "it"
+      },
+      {
+        "description": "어두운 배경을 등지고 있는 템플을 묘사한 글리프입니다.",
+        "name": "템플 글리프 - 어두움",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Temple sobre un fondo oscuro.",
+        "name": "Glifo de Temple - Oscuro",
+        "code": "es"
+      },
+      {
+        "description": "Temple 在黑暗背景下的浮印。",
+        "name": "Temple 浮印 - 黑暗",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Темпл на тёмном фоне.",
+        "name": "Глиф: Темпл — тёмный",
+        "code": "ru"
+      },
+      {
+        "description": "暗い背景に描かれたTempleのグリフ。",
+        "name": "Temple グリフ （暗）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe'a Temple na ciemnym tle.",
+        "name": "Glif Temple — Ciemny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando o Temple em um fundo escuro.",
+        "name": "Glifo: Temple (Escuro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Temple 在黑暗背景下的浮印。",
+        "name": "Temple 浮印 - 黑暗",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple บนพื้นหลังสีเข้ม",
+        "name": "ภาพสัญลักษณ์ Temple - มืด",
+        "code": "th"
+      },
+      {
+        "description": "Temple koyu fonlu glif.",
+        "name": "Temple Glif - Koyu",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Храма на темному тлі.",
+        "name": "Темний гліф «Храм»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/TempleSupporterGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-horns-glyph-a73b57c3da.png",
+    "name": "Temple Horns Glyph",
+    "description": "A rocking Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine fetzige Glyphe für dein Profil.",
+        "name": "Glyphe: Temple Hörner",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe rock pour votre profil.",
+        "name": "Glyphe Cornes de Temple",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo rock per il tuo profilo.",
+        "name": "Glifo Temple Horns",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 멋있는 글리프입니다.",
+        "name": "템플 혼즈 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo roquero para tu perfil.",
+        "name": "Glifo Cuernos de Temple",
+        "code": "es"
+      },
+      {
+        "description": "用于个人档案的摇滚风格浮印。",
+        "name": "Temple 摇滚号角浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Крутой  глиф для вашего профиля.",
+        "name": "Глиф: Рога Темпл",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のロックンロールグリフ。",
+        "name": "Temple Horns グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Rockowy Glif dla Twojego profilu.",
+        "name": "Temple: Glif Rogów",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo de arrasar para o seu perfil.",
+        "name": "Glifo: Chifres do Temple",
+        "code": "pt"
+      },
+      {
+        "description": "一個搖滾風格的浮印，可用於你的個人檔案。",
+        "name": "Temple 搖滾之角浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์แนว Rock สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Temple Horns",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için muhteşem bir Glif.",
+        "name": "Temple Boynuzları Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для рокового профілю.",
+        "name": "Гліф «Храмова коза»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleAltBright",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-rockett-glyph---bright-a2ff35a231.png",
+    "name": "Temple Rockett Glyph - Bright",
+    "description": "A glyph depicting Temple Rockett on a bright background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Temple Rockett vor einem hellen Hintergrund darstellt.",
+        "name": "Glyphe: Temple Rockett (Hell)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Temple Rockett sur un fond lumineux.",
+        "name": "Glyphe Temple Rockett - Lumineux",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Temple Rockett su uno sfondo chiaro.",
+        "name": "Glifo Temple Rockett - Chiaro",
+        "code": "it"
+      },
+      {
+        "description": "밝은 배경을 등지고 있는 템플 로켓을 묘사한 글리프입니다.",
+        "name": "템플 로켓 글리프 - 밝음",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Temple Rockett sobre un fondo brillante.",
+        "name": "Glifo de Temple Rockett - Brillante",
+        "code": "es"
+      },
+      {
+        "description": "Temple 火箭在明亮背景下的浮印。",
+        "name": "Temple 火箭浮印 - 明亮",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Темпл Рокер на светлом фоне.",
+        "name": "Глиф: Темпл Рокер — светлый",
+        "code": "ru"
+      },
+      {
+        "description": "明るい背景に描かれたTemple Rockettのグリフ。",
+        "name": "Temple Rockett グリフ （明）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Temple Rockett na jasnym tle.",
+        "name": "Glif Temple Rockett — Jasny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando o Temple Rockett em um fundo claro.",
+        "name": "Glifo: Temple Rockett (Claro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Temple 搖滾在明亮背景下的浮印。",
+        "name": "Temple 搖滾浮印 - 明亮",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple Rockett บนพื้นหลังที่สว่างสดใส",
+        "name": "ภาพสัญลักษณ์ Temple Rockett - สว่าง",
+        "code": "th"
+      },
+      {
+        "description": "Temple Rockett açık fonlu glif.",
+        "name": "Temple Rockett Glif - Açık",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Храма «Роккер» на світлому тлі.",
+        "name": "Яскравий гліф «Храм „Роккер”»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleAltDark",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-rockett-glyph---dark-86c3bd1b25.png",
+    "name": "Temple Rockett Glyph - Dark",
+    "description": "A glyph depicting Temple Rockett on a dark background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Temple Rockett vor einem dunklen Hintergrund darstellt.",
+        "name": "Glyphe: Temple Rockett (Dunkel)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Temple Rockett sur un fond sombre.",
+        "name": "Glyphe Temple Rockett - Sombre",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Temple Rockett su uno sfondo scuro.",
+        "name": "Glifo Temple Rockett - Scuro",
+        "code": "it"
+      },
+      {
+        "description": "어두운 배경을 등지고 있는 템플 로켓을 묘사한 글리프입니다.",
+        "name": "템플 로켓 글리프 - 어두움",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Temple Rockett sobre un fondo oscuro.",
+        "name": "Glifo de Temple Rockett - Oscuro",
+        "code": "es"
+      },
+      {
+        "description": "Temple 火箭在黑暗背景下的浮印。",
+        "name": "Temple 火箭浮印 - 黑暗",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Темпл Рокер на тёмном фоне.",
+        "name": "Глиф: Темпл Рокер — тёмный",
+        "code": "ru"
+      },
+      {
+        "description": "暗い背景に描かれたTemple Rockettのグリフ。",
+        "name": "Temple Rockett グリフ （暗）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Temple Rockett na ciemnym tle.",
+        "name": "Glif Temple Rockett — Ciemny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando o Temple Rockett em um fundo escuro.",
+        "name": "Glifo: Temple Rockett (Escuro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Temple 搖滾在黑暗背景下的浮印。",
+        "name": "Temple 搖滾浮印 - 黑暗",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple Rockett บนพื้นหลังสีเข้ม",
+        "name": "ภาพสัญลักษณ์ Temple Rockett - มืด",
+        "code": "th"
+      },
+      {
+        "description": "Temple Rockett koyu fonlu glif.",
+        "name": "Temple Rockett Glif - Koyu",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Храма «Роккер» на темному тлі.",
+        "name": "Темний гліф «Храм „Роккер”»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023MerchGlyph",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ten-year-glyph-760fb98295.png",
     "name": "Ten Year Glyph",
@@ -93281,7 +95309,7 @@
         "code": "tr"
       },
       {
-        "description": "Виставте цей гліф, щоби вшанувати десяту річницю Warframe.",
+        "description": "Виставте цей гліф, щоб вшанувати десяту річницю Warframe.",
         "name": "Гліф «Десятиріччя»",
         "code": "uk"
       }
@@ -93606,7 +95634,7 @@
     "description": "A glyph for VIP Tenno.",
     "languages": [
       {
-        "description": "Eine Glyphe für VIP-Tenno.",
+        "description": "Eine Glyphe für VIP Tenno.",
         "name": "Glyphe: Tenno VIP East",
         "code": "de"
       },
@@ -93661,7 +95689,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์สำหรับ Tenno VIP",
+        "description": "ภาพสัญลักษณ์สำหรับ Tenno ระดับ VIP",
         "name": "ภาพสัญลักษณ์ Tenno VIP East",
         "code": "th"
       },
@@ -93671,8 +95699,8 @@
         "code": "tr"
       },
       {
-        "description": "Гліф для Тенно-VIP.",
-        "name": "Гліф «Тенно VIP East»",
+        "description": "Гліф для VIP-тенно.",
+        "name": "Гліф «ТенноVIP East»",
         "code": "uk"
       }
     ]
@@ -94614,6 +96642,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2025Glyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2025-glyph-737b455d92.png",
+    "name": "Tennocon 2025 Glyph",
+    "description": "A glyph created to celebrate ten years of TennoCon in 2025.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, kreiert, um das zehnjährige Jubiläum von TennoCon in 2025 zu feiern.",
+        "name": "Glyphe: TennoCon 2025",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe créé pour célébrer les dix ans de la TennoCon en 2025.",
+        "name": "Glyphe TennoCon 2025",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo creato per celebrare i dieci anni del TennoCon nel 2025.",
+        "name": "Glifo TennoCon 2025",
+        "code": "it"
+      },
+      {
+        "description": "2025년 텐노콘의 10주년을 기념하기 위해 제작된 글리프입니다.",
+        "name": "텐노콘 2025 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo creado para celebrar diez años de TennoCon en 2025.",
+        "name": "Glifo de TennoCon 2025",
+        "code": "es"
+      },
+      {
+        "description": "为庆祝 2025 TennoCon 十周年而创作的浮印。",
+        "name": "TennoCon 2025 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, созданный в честь десятилетия TennoCon в 2025 году.",
+        "name": "Глиф: TennoCon-2025",
+        "code": "ru"
+      },
+      {
+        "description": "2025年のTennoConの10周年を記念して作られたグリフ。",
+        "name": "TennoCon 2025 グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif stworzony, aby uczcić dziesięciolecie TennoCon w 2025 roku.",
+        "name": "Glif TennoCon 2025",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo criado para celebrar o 10º aniversário da TennoCon em 2025.",
+        "name": "Glifo: TennoCon 2025",
+        "code": "pt"
+      },
+      {
+        "description": "為慶祝 2025 年 TennoCon 十週年而創作的浮印。",
+        "name": "TennoCon 2025 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่จัดทำขึ้นเพื่อฉลองงาน TennoCon ครบรอบสิบปีในปี 2025",
+        "name": "ภาพสัญลักษณ์ TennoCon 2025",
+        "code": "th"
+      },
+      {
+        "description": "Bu glif, 2025 yılında TennoCon'un onuncu yılını kutlamak amacıyla tasarlandı.",
+        "name": "TennoCon 2025 Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф, образ якого натхненний самою Лотос, створено для святкування 10-річчя Теннокону у 2025.",
+        "name": "Гліф «Теннокон 2025»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024GlyphAlt",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-crt-glyph-b38ba68401.png",
     "name": "Tennocon Crt Glyph",
@@ -94843,6 +96949,84 @@
       {
         "description": "Видається тим, хто відвідав Тенновікторину під час Теннокону 2020 року.",
         "name": "Гліф «Тенновікторина 2020»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP2Glyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennovip-2025-glyph-d69dc5b9a1.png",
+    "name": "Tennovip 2025 Glyph",
+    "description": "A glyph for VIP Tenno.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für VIP Tenno.",
+        "name": "Glyphe: TennoVIP 2025",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour les Tennos VIP.",
+        "name": "Glyphe TennoVIP 2025",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo per i Tenno VIP.",
+        "name": "Glifo TennoVIP 2025",
+        "code": "it"
+      },
+      {
+        "description": "VIP 텐노분들을 위한 글리프입니다.",
+        "name": "TennoVIP 2025 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para los tenno VIP.",
+        "name": "Glifo TennoVIP 2025",
+        "code": "es"
+      },
+      {
+        "description": "VIP Tenno 的浮印。",
+        "name": "TennoVIP 2025 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для VIP Тэнно.",
+        "name": "Глиф: TennoVIP-2025",
+        "code": "ru"
+      },
+      {
+        "description": "VIP テンノ専用グリフ。",
+        "name": "TennoVIP 2025 グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla bardzo ważnego Tenno.",
+        "name": "Glif TennoVIP 2025",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo para o Tenno VIP.",
+        "name": "Glifo: TennoVIP 2025",
+        "code": "pt"
+      },
+      {
+        "description": "VIP Tenno 的浮印。",
+        "name": "TennoVIP 2025 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับ Tenno ระดับ VIP",
+        "name": "ภาพสัญลักษณ์ TennoVIP 2025",
+        "code": "th"
+      },
+      {
+        "description": "VIP Tenno için bir glif.",
+        "name": "TennoVIP 2025 Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для VIP-тенно.",
+        "name": "Гліф «ТенноVIP 2025»",
         "code": "uk"
       }
     ]
@@ -101473,6 +103657,84 @@
       {
         "description": "Гліф із зображенням Вобана-прайм на темному тлі.",
         "name": "Темний гліф «Вобан-прайм»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelVelimir",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/velimir-pixel-glyph-26efeaa014.png",
+    "name": "Velimir Pixel Glyph",
+    "description": "Celebrate 1999's distinctive screen style with this glyph portraying Velimir, the Frost protoframe!",
+    "languages": [
+      {
+        "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Velimir, den Frost-Protoframe, darstellt!",
+        "name": "Glyphe: Velimir Pixel",
+        "code": "de"
+      },
+      {
+        "description": "Célébrez le style distinctif de 1999 avec ce Glyphe représentant Velimir, la Protoframe de Frost!",
+        "name": "Glyphe Pixel Velimir",
+        "code": "fr"
+      },
+      {
+        "description": "Celebra lo stile dello schermo tipico del 1999 con questo glifo che raffigura Velimir, il protoframe di Frost!",
+        "name": "Glifo Velimir Pixel",
+        "code": "it"
+      },
+      {
+        "description": "프로스트의 프로토프레임인 벨리미르를 묘사한 이 글리프로 1999의 독특한 스타일을 축하해 보세요!",
+        "name": "벨리미르 픽셀 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "¡Celebra el estilo característico de 1999 con este glifo que representa a Velimir, el protoframe de Frost!",
+        "name": "Glifo de Velimir Pixelado",
+        "code": "es"
+      },
+      {
+        "description": "通过描绘着 Frost 的原型战甲——维利米尔的浮印来庆祝 1999 年独特的银幕风格！",
+        "name": "维利米尔像素浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Отпразднуйте характерный стиль 1999 года с этим глифом, изображающим Велимира, протофрейма Фроста!",
+        "name": "Глиф: Пиксельный Велимир",
+        "code": "ru"
+      },
+      {
+        "description": "1999の独特なスタイルをFrost PROTOFRAMEのVelimirを描いたグリフで祝おう！",
+        "name": "Velimir ピクセル グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiającym Velimira, Protoframe'a Frosta!",
+        "name": "Glif Pikselowy Velimir",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre o estilo característico de 1999 com este glifo retratando o Velimir, o Protoframe do Frost!",
+        "name": "Glifo: Velimir Pixelado",
+        "code": "pt"
+      },
+      {
+        "description": "透過 Frost 的原型 Warframe──韋利米爾來懷念 1999 年的獨特螢幕風格！",
+        "name": "韋利米爾畫素浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ระลึกถึงรูปแบบหน้าจอที่ดูโดดเด่นในปี 1999 ด้วยภาพของ Velimir Protoframe ของ Frost",
+        "name": "ภาพสัญลักษณ์ Velimir Pixel",
+        "code": "th"
+      },
+      {
+        "description": "Velimir, yani Frost protoframe'i tasvir eden bu glif ile 1999'un kendine özgü ekran stilini kutla!",
+        "name": "Velimir Piksel Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Вшануйте характерні екрани 1999 року за допомогою гліфа із зображенням Велимира — протофрейма для Фроста!",
+        "name": "Гліф «Піксельний Велимир»",
         "code": "uk"
       }
     ]
@@ -109090,7 +111352,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Wukong Prime na jasnym tle.",
+        "description": "Glif przedstawiający Warframe'a Wukong Prime na jasnym tle.",
         "name": "Glif Wukong Prime — Jasny",
         "code": "pl"
       },
@@ -109168,7 +111430,7 @@
         "code": "ja"
       },
       {
-        "description": "Glif przedstawiający Warframe’a Wukong Prime na ciemnym tle.",
+        "description": "Glif przedstawiający Warframe'a Wukong Prime na ciemnym tle.",
         "name": "Glif Wukong Prime — Ciemny",
         "code": "pl"
       },

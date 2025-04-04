@@ -2652,6 +2652,318 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/1999InfShotgun/1999InfShotgunWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-bassocyst-90c0e70718.png",
+    "name": "Coda Bassocyst",
+    "description": "Amplify shockwaves of devastating sound with this Technocyte virus infested shotgun that hungers for blood, and desires nothing more than to feed upon its enemies. Alternative fire at enemies not vulnerable to Mercy Kills to swarm them with infested mites, while firing at vulnerable ones will perform a ranged execution. ",
+    "languages": [
+      {
+        "description": "Verstärke Schockwellen verheerenden Schalls mit dieser vom Technocyte-Virus befallenen Schrotflinte, die nach Blut giert und nichts sehnlicher will, als sich an ihren Feinden zu nähren. Nutze Alt. Feuer bei Feinden, die nicht anfällig für Gnadenstöße sind, um sie mit befallenen Milben zu überschwemmen. Bei allen anderen Feinde führt der Beschuss zu einer Fernkampf-Hinrichtung. ",
+        "name": "Coda Bassocyst",
+        "code": "de"
+      },
+      {
+        "description": "Amplifiez les ondes de choc dévastatrices de ce Fusil à Pompe Infesté du virus Technocyte, assoiffé de sang et désireux de se repaître de ses ennemis. Utiliser le tir Alternatif sur les ennemis non vulnérables aux Miséricordes les inondera de Mites Infestées, tandis qu'il effectuera une exécution à distance sur ceux qui y sont vulnérables. ",
+        "name": "Bassocyste Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Amplifica le onde d'urto devastanti di questo Fucile a Pompa infestato dal virus Technocyte, assetato di sangue e desideroso di nutrirsi dei suoi nemici. Utilizzare il Fuoco Secondario sui nemici non vulnerabili alle Uccisioni Mercy li inonderà di vermi Infested, sparare a quelli vulnerabili ti permetterà di eseguire un'esecuzione a distanza. ",
+        "name": "Coda Bassocyst",
+        "code": "it"
+      },
+      {
+        "description": "테크노사이트 바이러스에 감염되어 피에 굶주린 채, 오직 적을 포식하겠다는 욕망밖에 없는 이 산탄총으로 파괴적인 소리의 충격파를 증폭시키세요. 자비의 일격에 아직 노출되지 않은 적에게 보조 발사를 사용할 시 대상을 인페스티드 진드기 떼로 에워싸며, 자비의 일격에 이미 노출된 적에게 사용할 시 원거리에서 처형을 수행할 수 있습니다. ",
+        "name": "코다 바소시스트",
+        "code": "ko"
+      },
+      {
+        "description": "Amplifica las ondas de choque de un sonido devastador con esta escopeta infestada del virus tecnocito, sedienta de sangre y con el único deseo de alimentarse de sus enemigos. Usa el disparo alternativo en enemigos no vulnerables a las muertes por misericordia para cubrirlos de ácaros infestados, mientras que disparar a los enemigos vulnerables realizará una ejecución a distancia. ",
+        "name": "Bassocyst Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA BASSOCYST）通过这把渴求饮血食肉的科技细胞病毒感染霰弹枪来放大毁灭性声音的冲击波。次要射击无法被怜悯之击攻击的敌人，用感染螨虫将他们包围，而射击能被怜悯之击攻击的敌人则可远程处决。 ",
+        "name": "终幕·低音爆囊",
+        "code": "zh"
+      },
+      {
+        "description": "Усиливайте ударные волны разрушительного звука с этим заражённым вирусом Техноцита дробовиком, который жаждет крови и не желает ничего, кроме как питаться своими врагами. Альтернативный огонь по врагам, неуязвимым для добивания Милосердием, насылает на них рой инфицированных паразитов, а стрельба по уязвимым целям выполняет дистанционную казнь.",
+        "name": "Бассоцист Кода",
+        "code": "ru"
+      },
+      {
+        "description": "血に飢え、敵の捕食を切望するこのテクノサイトウイルス感染ショットガンは破壊的な音の衝撃波を増幅させる。Mercyキルができない敵へセカンダリ射撃を行うと感染体マイトが群がる。Mercyキルが可能な敵へ射撃すると遠距離からのキルを行う。",
+        "name": "Coda Bassocyst",
+        "code": "ja"
+      },
+      {
+        "description": "Ta zainfekowana wirusem Technocytu strzelba łaknie krwi, zyskując silniejsze, niszczycielskie fale dźwiękowe i nie pragnie niczego innego niż żywić się swoimi wrogami. Wystrzel we wrogów niepodatnych na Miłosierdzie Ogieniem alternatywnym, aby razić ich chmarą roztoczy Plagi. Zaatakowanie wrogów podatnych na Miłosierdzie spowoduje wykonanie egzekucji na dystans.",
+        "name": "Bassocyst Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Amplifique e dispare ondas de choque sonoras devastadoras com esta escopeta infestada de um Tecnócito Coda, que deseja somente saciar sua sede de sangue nos inimigos. Atire em inimigos não-vulneráveis para Eliminações de Misericórdia com o disparo alternativo para cobri-los com ácaros infestados. Realizar este mesmo processo em inimigos vulneráveis para Eliminações de Misericórdia finalizará o alvo à distância. ",
+        "name": "Bassocisto Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA BASSOCYST）用這把嗜血嗜肉，技改細胞病毒感染的霰彈槍來放大毀滅性音浪的衝擊波。次要射擊使不易受到慈悲擊殺的敵人被感染蟎蟲蜂擁而上，而射擊易受到慈悲擊殺的敵人則可執行遠程處決。",
+        "name": "勾瘩 孢索肢囊",
+        "code": "tc"
+      },
+      {
+        "description": "ขยายคลื่นช็อกเวฟของเสียงที่น่ากลัวด้วยปืนลูกซองติดเชื้อไวรัส Technocyte ที่เต็มไปด้วยความกระหายเลือดและปรารถนาเพียงจะดูดเลือดจากศัตรู การยิงโหมดยิงสำรองไปที่ศัตรูที่ไม่เสี่ยงต่อการถูกฆ่าแบบ Mercy จะถูกพวก Mite ติดเชื้อรุมโจมตี ในขณะเดียกัน ศัตรูที่มีความเสี่ยงจะถูกฆ่าจากระยะไกล ",
+        "name": "Coda Bassocyst",
+        "code": "th"
+      },
+      {
+        "description": "Kana susamış ve düşmanlarıyla beslenmekten başka bir şey istemeyen bu Technocyte virüslü infested pompalı tüfek ile yıkıcı sesin şok dalgalarını güçlendir. Merhamet Öldürmelerine karşı savunmasız olmayan düşmanlara alternatif atış ile vurmak, onları infested parazitleriyle doldurur, Merhamet Öldürmelerine karşı savunmasız olanlara ateş etmek ise menzilli infaz imkanı sağlar. ",
+        "name": "Coda Bassocyst",
+        "code": "tr"
+      },
+      {
+        "description": "Заражена техноцитним вірусом рушниця створює потужні звукові хвилі, прагнучи сповна насититися кров’ю ворогів. Альтернативна стрільба у ворогів, невразливих для добивання паразоном, укриє їх зараженими кліщами. Альтернативна стрільба у ворогів, відкритих для добивання паразоном, стратить їх на відстані. ",
+        "name": "Басоцист-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaHema",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-hema-eda9bfa56a.png",
+    "name": "Coda Hema",
+    "description": "The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Multiplier, Status Chance, and Damage.",
+    "languages": [
+      {
+        "description": "Der Technocyte-Virus hat nichts an dem Blutdurst der Hema geändert, außer ihn zu steigern. Hat erhöhte Feuerrate, Magazingröße, Krit. Chance, Krit. Multiplikator, Statuschance und Schaden.",
+        "name": "Coda Hema",
+        "code": "de"
+      },
+      {
+        "description": "Le virus Technocyte n'a fait qu'augmenter la soif de sang de l'Hema. Avec une augmentation de la Cadence de Tir, de la Taille du Chargeur, des Chances de Critique, du Multip. Critique, des Chances de Statut et des Dégâts.",
+        "name": "Hema Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Il virus Technocyte non ha fatto altro che aumentare la sete di sangue dell'arma Hema. Presenta una maggiore Cadenza di Tiro, Capienza Caricatore, Probabilità Critico, Moltiplicatore Critico, Probabilità Effetto e Danno.",
+        "name": "Coda Hema",
+        "code": "it"
+      },
+      {
+        "description": "테크노사이트 바이러스는 피를 향한 헤마의 갈망을 더욱 강화시켰을 뿐입니다. 일반형에 비해 연사력, 탄창 용량, 치명타 확률, 치명타 배수, 상태 이상 확률 및 피해가 증가합니다.",
+        "name": "코다 헤마",
+        "code": "ko"
+      },
+      {
+        "description": "El virus tecnocito no hizo más que aumentar la sed de sangre del Hema. Con mayor cadencia de fuego, tamaño del cargador, probabilidad crítica, multiplicador crítico, probabilidad de estado y daño.",
+        "name": "Hema Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA HEMA）科技细胞病毒没有起到什么作用，只是增加了血肢的嗜血性。具有更高的射速、弹匣容量、暴击几率、暴击倍率、触发几率和伤害。",
+        "name": "终幕·血肢",
+        "code": "zh"
+      },
+      {
+        "description": "Вирус Техноцита не сделал ничего, лишь увеличил кровожадность Гемы. С увеличением скорострельности, ёмкости магазина, шанса критического урона, множителя критического урона, шанса статуса и урона.",
+        "name": "Гема Кода",
+        "code": "ru"
+      },
+      {
+        "description": "テクノサイトウイルスは、Hemaの血への渇望を増大させた。通常版に比べ高めの発射速度、マガジン容量、クリティカル率、クリティカル倍率、状態異常率、ダメージを誇る。",
+        "name": "Coda Hema",
+        "code": "ja"
+      },
+      {
+        "description": "Wirus Technocytu tylko zwiększył pragnienie krwi broni Hema. Wariant Cody zyskuje poprawione statystyki Szybkostrzelności, Pojemności Magazynka, Szansy i Mnożnika Obr. Krytycznych, Szansy Statusu i Obrażeń.",
+        "name": "Hema Cody",
+        "code": "pl"
+      },
+      {
+        "description": "O vírus Tecnócito não fez nada além de aumentar a sede de sangue da Hema. Apresenta um aumento na Cadência de Tiro, Tamanho do Carregador, Chance Crítica, Multiplicador Crítico, Chance de Status e Dano.",
+        "name": "Hema Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA HEMA）技改細胞病毒只增強了血肢嗜血的渴望。具有更高的射速、彈匣容量、暴擊機率、暴擊倍率、狀態觸發機率，及傷害。",
+        "name": "勾瘩 血肢",
+        "code": "tc"
+      },
+      {
+        "description": "ไวรัส Technocyte ทำให้ความกระหายเลือดของ Hema เพิ่มขึ้นพร้อมทั้งมีอัตราการยิง ขนาดแม็กกาซีน โอกาสคริติคอล ตัวคูณคริติคอล โอกาสสถานะ และความเสียหายเพิ่มขึ้น",
+        "name": "Coda Hema",
+        "code": "th"
+      },
+      {
+        "description": "Technocyte virüsü Hema'nın kana olan susuzluğunu artırdı. Artırılmış Atış Oranı, Şarjör Boyutu, Kritik Şansı, Kritik Çarpanı, Statü Şansı ve Hasar sunar.",
+        "name": "Coda Hema",
+        "code": "tr"
+      },
+      {
+        "description": "Техноцитний вірус посилив кровожерливість Геми. Зброя має поліпшені показники шкоди, швидкострільності, місткості магазину, імовірності критичної шкоди та накладання ефекту стану, множника критичної шкоди.",
+        "name": "Гема-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSporothrix",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-sporothrix-b0976a87f9.png",
+    "name": "Coda Sporothrix",
+    "description": "Delivers a virus-laden barb to its victim that continues to damage it before exploding. With increased Damage, Reload Speed, Magazine Size, Status Chance, and explosion radius.",
+    "languages": [
+      {
+        "description": "Verpasst dem Opfer einen virusverseuchten Stachel, der weiterhin Schaden verursacht, bevor er explodiert. Hat erhöhten Schaden, Nachladegeschwindigkeit, Magazingröße, Statuschance und Explosionsradius.",
+        "name": "Coda Sporothrix",
+        "code": "de"
+      },
+      {
+        "description": "Envoie à sa victime une pointe imprégnée de virus qui continue de lui infliger des Dégâts avant d'exploser. Avec des statistiques de Dégâts, de Vitesse de Rechargement, de Taille de Chargeur et Explosives augmentées.",
+        "name": "Sporothrix Coda",
+        "code": "fr"
+      },
+      {
+        "description": "Scocca una freccia carica di virus che continua a danneggiare la sua vittima prima di esplodere. Presenta un maggiore Danno, Velocità di Ricarica, Capienza Caricatore, Probabilità Effetto e portata dell'esplosione.",
+        "name": "Coda Sporothrix",
+        "code": "it"
+      },
+      {
+        "description": "희생자에게 바이러스가 가득한 가시를 날려 계속 피해를 입힌 뒤 폭발시킵니다. 일반형에 비해 피해, 재장전 속도, 탄창 용량, 상태 이상 확률 및 폭발 범위가 증가합니다.",
+        "name": "코다 스포로트릭스",
+        "code": "ko"
+      },
+      {
+        "description": "Lanza una púa cargada de virus a su víctima, que continúa dañándola antes de explotar. Con mayor daño, velocidad de recarga, tamaño del cargador, probabilidad de estado y radio de explosión.",
+        "name": "Sporothrix Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：CODA SPOROTHRIX）向受害者投掷一个携带病毒的倒钩，持续造成伤害直至爆炸。具有更高的伤害、装填速度、弹匣容量、触发几率和爆炸半径。",
+        "name": "终幕·孢丝感染枪",
+        "code": "zh"
+      },
+      {
+        "description": "Доставляет к жертвам заражённые вирусами шипы, которые наносят урон и взрываются. Оружие имеет улучшенные показатели урона, время перезарядки, вместимость магазина, шанс статуса и радиус взрыва.",
+        "name": "Споротрикс Кода",
+        "code": "ru"
+      },
+      {
+        "description": "ウイルスを含んだ棘を標的に発射し、爆発する前にダメージを与え続ける。通常版に比べ高めのダメージ、リロード速度、マガジン容量、状態異常率、爆破範囲を誇る。",
+        "name": "Coda Sporothrix",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwuje żądła, które ranią wrogów po trafieniu i wybuchają po krótkim czasie. Zyskuje poprawione statystyki Obrażeń, Prędkości Przeładowania, Pojemności Magazynka, Szansy Statusu i zasięgu eksplozji.",
+        "name": "Sporothrix Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Lançará uma farpa carregada de vírus em sua vítima, que continuará a causar dano antes de explodir. Apresenta um aumento de Dano, Velocidade de Recarga, Tamanho do Carregador, Chance de Status e Raio de Explosão.",
+        "name": "Sporothrix Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA SPOROTHRIX）對受害者發射帶有病毒的倒刺，持續造成傷害直到爆炸。具有更高的傷害、裝填速度、彈匣容量、狀態觸發機率，及爆炸範圍。",
+        "name": "勾瘩 毒孢步槍",
+        "code": "tc"
+      },
+      {
+        "description": "ยิงหนามที่เต็มไปด้วยไวรัสไปที่เหยื่อซึ่งจะโจมตีอย่างต่อเนื่องก่อนจะระเบิด พร้อมความเสียหาย ความเร็วในการรีโหลด ขนาดของแม็กกาซีน โอกาสสถานะ และรัศมีการระเบิดที่เพิ่มขึ้น",
+        "name": "Coda Sporothrix",
+        "code": "th"
+      },
+      {
+        "description": "Kurbanına, patlamadan önce ona zarar vermeye devam eden virüs yüklü bir diken gönderir. Artırılmış Hasar, Yeniden Yükleme Hızı, Şarjör Kapasitesi, Statü Şansı ve patlama çapı sunar.",
+        "name": "Coda Sporothrix",
+        "code": "tr"
+      },
+      {
+        "description": "Доправляє до жертв заражені шипи, які завдають шкоди й вибухають. Зброя має поліпшені показники шкоди, імовірності накладання ефекту стану, швидкості перезаряджання, місткості магазину та досяжності вибухів.",
+        "name": "Споротрикс-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSynapse",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-synapse-72028210ad.png",
+    "name": "Coda Synapse",
+    "description": "Firing a nonstop stream of vile corrosive gastric juice, the Coda Synapse comes with increased Magazine size, Beam Length, Status Chance, Punch Through, and Damage.",
+    "languages": [
+      {
+        "description": "Die Coda Synapse feuert einen ununterbrochenen Strom ekelhafter, ätzenden Magensäure ab. Hat erhöhte Magazingröße, Strahllänge, Statuschance, Durchdringung und Schaden.",
+        "name": "Coda Synapse",
+        "code": "de"
+      },
+      {
+        "description": "Tirant un rayon continu de suc gastrique corrosif, le Synapse Coda est doté d'une Taille de Chargeur, d'une Longueur de Rayon, de Chances de Statut, de Pénétration et de Dégâts accrus.",
+        "name": "Synapse Coda",
+        "code": "fr"
+      },
+      {
+        "description": "L'arma Coda Synapse spara un flusso ininterrotto di disgustoso succo gastrico corrosivo e presenta una maggiore Capienza Caricatore, Portata del Raggio, Probabilità Effetto, Attraversamento e Danno.",
+        "name": "Coda Synapse",
+        "code": "it"
+      },
+      {
+        "description": "역겨운 부식성 위액의 흐름을 끊임없이 발사하는 코다 시냅스는 일반형에 비해 탄창 용량, 빔 길이, 상태 이상 확률, 두께 꿰뚫기 및 피해가 향상되어 있습니다.",
+        "name": "코다 시냅스",
+        "code": "ko"
+      },
+      {
+        "description": "Synapse Coda dispara un flujo ininterrumpido de vil jugo gástrico corrosivo, viene con un cargador más grande, longitud de rayo, probabilidad de estado, atravesar y daño.",
+        "name": "Synapse Coda",
+        "code": "es"
+      },
+      {
+        "description": "（英文：Coda Synapse）终幕·突触生化枪可以持续发射恶臭腐蚀性胃液。具有更高的弹匣容量、光束长度、触发几率、穿透和伤害。",
+        "name": "终幕·突触生化枪",
+        "code": "zh"
+      },
+      {
+        "description": "Выпуская непрерывный поток едкого желудочного сока, Синапс Кода имеет увеличенный размер магазина, дальность луча, шанс статуса, пронзание навылет и урон.",
+        "name": "Синапс Кода",
+        "code": "ru"
+      },
+      {
+        "description": "Coda Synapseは腐食性の高い胃液を続けて噴射する。通常版に比べ高めのマガジン容量、ビームの長さ、状態異常率、貫通距離、ダメージを誇る。",
+        "name": "Coda Synapse",
+        "code": "ja"
+      },
+      {
+        "description": "Wystrzeliwuje strumień stężonego kwasu żołądkowego. Wariant Cody zyskuje poprawione statystyki Pojemności Magazynka, Zasięgu Promienia, Szansy Statusu, Przeb. na wylot i Obrażeń.",
+        "name": "Synapsa Cody",
+        "code": "pl"
+      },
+      {
+        "description": "Disparando um fluxo ininterrupto de suco gástrico corrosivo, a Synapse Coda apresenta um aumento no Tamanho do Carregador, Comprimento do Feixe, Chance de Status, Penetração e Dano.",
+        "name": "Synapse Coda",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：CODA SYNAPSE）勾瘩突觸生化槍發射連續不斷的惡毒腐蝕性胃液，具有更大的彈匣容量、光束長度、狀態觸發機率、穿透，及傷害。",
+        "name": "勾瘩 突觸生化槍",
+        "code": "tc"
+      },
+      {
+        "description": "Coda Synapse จะยิงน้ำย่อยที่กัดกร่อนไม่หยุด มาพร้อมกับขนาดแม็กกาซีน ความยาวลำแสง โอกาสสถานะ การเจาะทะลุ และความเสียหายที่เพิ่มขึ้น",
+        "name": "Coda Synapse",
+        "code": "th"
+      },
+      {
+        "description": "Durmaksızın iğrenç, aşındırıcı mide sıvısı fışkırtan Coda Synapse, artırılmış Şarjör Boyutu, Işın Uzunluğu, Statü Şansı, Delip Geçme, ve Hasar sunar.",
+        "name": "Coda Synapse",
+        "code": "tr"
+      },
+      {
+        "description": "Вірус посилив нескінченне виверження бридкого їдкого шлункового соку. Зброя має поліпшені показники місткості магазину, довжини потоку, імовірності накладання ефекту стану, пробивання, шкоди.",
+        "name": "Синапс-кода",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/convectrix-32577a6926.png",
     "name": "Convectrix",
@@ -3354,78 +3666,156 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Lasria/LasGooAK/LasGooAKPlayerWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/efv-5-jupiter-e993642339.png",
+    "name": "Efv-5 Jupiter",
+    "description": "Perforate Techrot, and anyone else who stands in your way, with this Scaldra machine gun. Alternative fire pummels targets with Efervon laced buckshot.",
+    "languages": [
+      {
+        "description": "Durchlöchere Techrot und alle anderen, die dir im Weg steht, mit diesem Maschinengewehr der Scaldra. Alt. Feuer trifft Ziele mit Efervon-Schrot.",
+        "name": "EFV-5 Jupiter",
+        "code": "de"
+      },
+      {
+        "description": "Perforez le Techrot et tous ceux qui se dressent sur votre chemin avec cette mitrailleuse Scaldra. Le tir Alternatif frappe les cibles avec des chevrotines imprégnées d'Efervon.",
+        "name": "EFV-5 Jupiter",
+        "code": "fr"
+      },
+      {
+        "description": "Perfora il Techrot e chiunque altro ti ostacoli con questa mitragliatrice Scaldra. Il fuoco secondario colpisce i bersagli con pallettoni di Efervon.",
+        "name": "EFV-5 Jupiter",
+        "code": "it"
+      },
+      {
+        "description": "이 스칼드라 기관총으로 테크병, 그리고 당신의 길을 가로막는 모든 이들에게 구멍을 내 버리세요. 보조 사격을 사용할 시 에퍼본이 함유된 산탄으로 표적을 강타합니다.",
+        "name": "EFV-5 주피터",
+        "code": "ko"
+      },
+      {
+        "description": "Atraviesa al Techrot y a cualquiera que se interponga en tu camino con esta ametralladora Scaldra. El disparo alternativo alcanza a los objetivos con perdigones infundidos con Efervon.",
+        "name": "EFV-5 Júpiter",
+        "code": "es"
+      },
+      {
+        "description": "（英文：EFV-5 JUPITER）使用这把炽蛇军机枪扫射科腐者和任何胆敢阻挡你的人。次要开火模式使用涂有艾弗旺的霰弹重击目标。",
+        "name": "艾弗旺-5 木星",
+        "code": "zh"
+      },
+      {
+        "description": "Пронзайте Техротов и всех, кто встанет у вас на пути, с помощью этого пулемёта Скальдры. Альтернативный огонь бьёт по целям эфервонской картечью.",
+        "name": "ЕФВ-5 Юпитер",
+        "code": "ru"
+      },
+      {
+        "description": "このスカルドラ製マシンガンでテックロットや対抗組織を打ち破ろう。セカンダリ射撃は敵をエフェルボンをコーティングしたバックショットで攻撃する。",
+        "name": "EFV-5 Jupiter",
+        "code": "ja"
+      },
+      {
+        "description": "Zniszcz Techrot i każdego, kto stanie Ci na drodze, za pomocą tego karabinu maszynowego Scaldry. Ogień alternatywny razi cele śrutem z domieszką Eferwonu.",
+        "name": "EFV-5 Jowisz",
+        "code": "pl"
+      },
+      {
+        "description": "Perfure o Tecnovírus e qualquer um que estiver em seu caminho, com esta metralhadora da Scaldra. O Disparo Alternativo atingirá alvos com projéteis infundidos com Efervão.",
+        "name": "EFV-5 Júpiter",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：EFV-5 JUPITER）用這把清剿隊機關槍貫穿科腐者及任何擋路人。次要射擊發射浸泡過惡沸患的鹿彈轟擊目標。",
+        "name": "惡沸患－5 木星",
+        "code": "tc"
+      },
+      {
+        "description": "เจาะ Techrot และใครก็ตามที่ขวางทางให้เป็นรูพรุนด้วยปืนกล Scaldra ที่สามารถใช้โหมดยิงสำรองเพื่อโจมตีเป้าหมายด้วยกระสุนลูกปรายเคลือบ Efervon",
+        "name": "EFV-5 Jupiter",
+        "code": "th"
+      },
+      {
+        "description": "Bu Scaldra makineli tüfeği ile Techrot'u ve yoluna çıkan herkesi alt et. Alternatif atışı, hedefleri Efervon'la karıştırılmış saçmalarla vurur.",
+        "name": "EFV-5 Jupiter",
+        "code": "tr"
+      },
+      {
+        "description": "Пробивайте наскрізь техногниль і будь-кого перед собою за допомогою кулемета «Скальдри». Альтернативна атака завдає шкоди ефервонською картеччю.",
+        "name": "ЕФВ-5 «Юпітер»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Tenno/Bows/TnChoirBow/TnChoirBow",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/evensong-d10f6a1e78.png",
     "name": "Evensong",
-    "description": "Counter the dread of battle with a song of praise. Enemies cannot hurt your allies while wounded by Evensong's arrows. Kills with Evensong empower ally weapons with Multishot.Experience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
+    "description": "Counter the dread of battle with a song of praise. Enemies cannot hurt your allies while wounded by Evensong's arrows. Kills with Evensong empower ally weapons with Multishot.\n\nExperience the true power of Jade’s Ensemble when Evensong, Cantare, and Harmony sing together.",
     "languages": [
       {
-        "description": "Begegne der Angst vor der Schlacht mit einem Lobgesang. Feinde können deinen Verbündeten nicht schaden, solange sie von Evensongs Pfeilen verwundet sind. Kills mit Evensong stärken die Waffen der Verbündeten mit Mehrfachschuss.Erlebe die wahre Macht von Jades Ensemble, wenn Evensong, Cantare und Harmony zusammen singen.",
+        "description": "Begegne der Angst vor der Schlacht mit einem Lobgesang. Feinde können deinen Verbündeten nicht schaden, solange sie von Evensongs Pfeilen verwundet sind. Kills mit Evensong stärken die Waffen der Verbündeten mit Mehrfachschuss.\n\nErlebe die wahre Macht von Jades Ensemble, wenn Evensong, Cantare und Harmony zusammen singen.",
         "name": "Evensong",
         "code": "de"
       },
       {
-        "description": "Contrez la peur de la bataille avec un chant de louange. Les ennemis ne peuvent pas blesser vos alliés s'ils sont touchés par les flèches de Vêpres. Les éliminations avec Vêpres renforcent les armes alliées avec Tir Multiple.Découvrez la véritable puissance de l'Ensemble de Jade lorsque Vêpres, Cantare et Harmonie chantent ensemble.",
+        "description": "Contrez la peur de la bataille avec un chant de louange. Les ennemis ne peuvent pas blesser vos alliés s'ils sont touchés par les flèches de Vêpres. Les éliminations avec Vêpres renforcent les armes alliées avec Tir Multiple.\n\nDécouvrez la véritable puissance de l'Ensemble de Jade lorsque Vêpres, Cantare et Harmonie chantent ensemble.",
         "name": "Vêpres",
         "code": "fr"
       },
       {
-        "description": "Contrasta il terrore della battaglia con un canto di lode. I nemici non possono danneggiare i tuoi alleati se vengono feriti dalle frecce di Evensong. Le uccisioni con Evensong potenziano le armi degli alleati con Sparo Multiplo aggiuntivo.Sperimenta il vero potere del Coro di Jade quando Evensong, Cantare e Harmony cantano in coro.",
+        "description": "Contrasta il terrore della battaglia con un canto di lode. I nemici non possono danneggiare i tuoi alleati se vengono feriti dalle frecce di Evensong. Le uccisioni con Evensong potenziano le armi degli alleati con Sparo Multiplo aggiuntivo.\n\nSperimenta il vero potere del Coro di Jade quando Evensong, Cantare e Harmony cantano in coro.",
         "name": "Evensong",
         "code": "it"
       },
       {
-        "description": "전투의 공포를 찬미의 노래로 이겨내세요. 이븐송의 화살에 상처를 입은 동안 적들은 아군에게 피해를 줄 수 없습니다. 이븐송으로 적을 처치할 시 증가된 멀티샷으로 아군의 무기에 힘을 실어줍니다.이븐송, 칸타레, 하모니가 다 함께 노래할 때 우러나오는 제이드의 앙상블이 가진 힘을 경험해 보세요.",
+        "description": "전투의 공포를 찬미의 노래로 이겨내세요. 이븐송의 화살에 상처를 입은 동안 적들은 아군에게 피해를 줄 수 없습니다. 이븐송으로 적을 처치할 시 증가된 멀티샷으로 아군의 무기에 힘을 실어줍니다.\n\n이븐송, 칸타레, 하모니가 다 함께 노래할 때 우러나오는 제이드의 앙상블이 가진 힘을 경험해 보세요.",
         "name": "이븐송",
         "code": "ko"
       },
       {
-        "description": "Contrarresta el miedo en la batalla con un canto de alabanza. Los enemigos no pueden herir a tus aliados mientras estén heridos por las flechas de Evensong. Los asesinatos con Evensong potencian las armas de los aliados con multidisparo.Experimenta el verdadero poder del Conjunto de Jade cuando Evensong, Cantare y Harmony cantan juntos.",
+        "description": "Contrarresta el miedo en la batalla con un canto de alabanza. Los enemigos no pueden herir a tus aliados mientras estén heridos por las flechas de Evensong. Los asesinatos con Evensong potencian las armas de los aliados con multidisparo.\n\nExperimenta el verdadero poder del Conjunto de Jade cuando Evensong, Cantare y Harmony cantan juntos.",
         "name": "Evensong",
         "code": "es"
       },
       {
-        "description": "（英文：EVENSONG）用赞美之歌来对抗战斗中的恐惧。被晚祷之箭所伤的敌人将无法伤害你的友军。使用晚祷击杀敌人将增强友军的武器的多重射击。当晚祷、歌颂与和谐一同奏响时，体验 Jade 之合奏真正的力量。",
+        "description": "（英文：EVENSONG）用赞美之歌来对抗战斗中的恐惧。被晚祷之箭所伤的敌人将无法伤害你的友军。使用晚祷击杀敌人将增强友军的武器的多重射击。\n\n当晚祷、歌颂与和谐一同奏响时，体验 Jade 之合奏真正的力量。",
         "name": "晚祷",
         "code": "zh"
       },
       {
-        "description": "Противостойте ужасу битвы песнопением хвалы. Враги не могут ранить ваших союзников, пока их ранят стрелы Вечерни. Убийства с помощью Вечерни усиливают оружие союзников мультивыстрелом.Ощутите истинную мощь ансамбля Джейд, когда Вечерня, Кантаре и Гармония звучат вместе.",
+        "description": "Противостойте ужасу битвы песнопением хвалы. Враги не могут ранить ваших союзников, пока их ранят стрелы Вечерни. Убийства с помощью Вечерни усиливают оружие союзников мультивыстрелом.\n\nОщутите истинную мощь ансамбля Джейд, когда Вечерня, Кантаре и Гармония звучат вместе.",
         "name": "Вечерня",
         "code": "ru"
       },
       {
-        "description": "賛美の歌で戦いの恐怖に打ち勝とう。Eversongの矢を喰らった敵は仲間にダメージを与えられない。Eversongによるキルは仲間の武器のマルチショットを上昇させる。Eversong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
+        "description": "賛美の歌で戦いの恐怖に打ち勝とう。Eversongの矢を喰らった敵は仲間にダメージを与えられない。Eversongによるキルは仲間の武器のマルチショットを上昇させる。\n\nEversong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
         "name": "Evensong",
         "code": "ja"
       },
       {
-        "description": "Odpowiedz rozpaczy wzniosłą pieśnią. Wrogowie ranieni przez strzały Wieczornej Pieśni nie mogą zranić sojuszników. Zabicia Wieczorną Pieśnią wzmacniają broń sojuszników premią Wielosotrzału.Doświadcz pełnej potęgi Zespołu Jade, pozwalając Wieczornej Pieśni, Cantare i Harmonii zaśpiewać razem.",
+        "description": "Odpowiedz rozpaczy wzniosłą pieśnią. Wrogowie ranieni przez strzały Wieczornej Pieśni nie mogą zranić sojuszników. Zabicia Wieczorną Pieśnią wzmacniają broń sojuszników premią Wielosotrzału.\n\nDoświadcz pełnej potęgi Zespołu Jade, pozwalając Wieczornej Pieśni, Cantare i Harmonii zaśpiewać razem.",
         "name": "Wieczorna pieśń",
         "code": "pl"
       },
       {
-        "description": "Combata o pavor da batalha com uma canção de louvor. Os inimigos não poderão atingir seus aliados enquanto estiverem feridos pelas flechas da Liturgia. As eliminações com a Liturgia fortalecerão as armas dos aliados com Tiro Múltiplo.Experiencie o verdadeiro poder do Coro da Jade quando a Liturgia, a Cantiga e a Harmonia cantarem juntas.",
+        "description": "Combata o pavor da batalha com uma canção de louvor. Os inimigos não poderão atingir seus aliados enquanto estiverem feridos pelas flechas da Liturgia. As eliminações com a Liturgia fortalecerão as armas dos aliados com Tiro Múltiplo.\n\nExperiencie o verdadeiro poder do Coro da Jade quando a Liturgia, a Cantiga e a Harmonia cantarem juntas.",
         "name": "Liturgia",
         "code": "pt"
       },
       {
-        "description": "（英文：EVENSONG）以讚美之歌消除戰爭之懼。晚禱弓的箭矢射傷的敵人無法傷害友方。使用晚禱進行擊殺時，以多重射擊加強友方武器。同時裝備使用晚禱、高歌，以及和睦武器來體驗 Jade 合奏的真正威力。",
+        "description": "（英文：EVENSONG）以讚美之歌消除戰爭之懼。晚禱弓的箭矢射傷的敵人無法傷害友方。使用晚禱進行擊殺時，以多重射擊加強友方武器。\n\n同時裝備使用晚禱、高歌，以及和睦武器來體驗 Jade 合奏的真正威力。",
         "name": "晚禱",
         "code": "tc"
       },
       {
-        "description": "ใช้บทเพลงแห่งการสรรเสริญตอบโต้ต่อความหวาดกลัวในสมรภูมิรบ ศัตรูที่บาดเจ็บจากการโดนลูกธนูของ Evensong จะไม่สามารถทำร้ายเพื่อนร่วมทีมของคุณได้ และหากใช้ Evensong ฆ่าศัตรูจะเพิ่มมัลติช็อตเพื่อเสริมพลังให้อาวุธของเพื่อนร่วมทีมเมื่อประสานการใช้ Evensong, Cantare และ Harmony เข้าด้วยกันจะสัมผัสได้ถึงพลังที่แท้จริงของ Jade’s Ensemble",
+        "description": "ใช้บทเพลงแห่งการสรรเสริญตอบโต้ต่อความหวาดกลัวในสมรภูมิรบ ศัตรูที่บาดเจ็บจากการโดนลูกธนูของ Evensong จะไม่สามารถทำร้ายเพื่อนร่วมทีมของคุณได้ และหากใช้ Evensong ฆ่าศัตรูจะเพิ่มมัลติช็อตเพื่อเสริมพลังให้อาวุธของเพื่อนร่วมทีม\n\nเมื่อประสานการใช้ Evensong, Cantare และ Harmony เข้าด้วยกันจะสัมผัสได้ถึงพลังที่แท้จริงของ Jade’s Ensemble",
         "name": "Evensong",
         "code": "th"
       },
       {
-        "description": "Savaşın dehşetine karşı kutsayıcı bir şarkıyla karşılık ver. Düşmanlar Evensong'un oklarıyla yaralanan düşmanlar müttefiklerinize zarar veremez. Evensong ile yapılan öldürmeler, müttefik silahlarını Çoklu Atış ile güçlendirir.Evensong, Cantare ve Harmony'nin birlikte kullanılmasıyla oluşan şarkı, Jade'in Topluluğu'nun gerçek gücünü ortaya çıkarır.",
+        "description": "Savaşın dehşetine karşı kutsayıcı bir şarkıyla karşılık ver. Düşmanlar Evensong'un oklarıyla yaralanan düşmanlar müttefiklerinize zarar veremez. Evensong ile yapılan öldürmeler, müttefik silahlarını Çoklu Atış ile güçlendirir.\n\nEvensong, Cantare ve Harmony'nin birlikte kullanılmasıyla oluşan şarkı, Jade'in Topluluğu'nun gerçek gücünü ortaya çıkarır.",
         "name": "Evensong",
         "code": "tr"
       },
       {
-        "description": "Протиставте похвальну пісню жахам кривавої битви. Вороги, поранені стрілами з Усеспіва, не можуть завдавати шкоди вашим союзникам. Убивства ворогів стрілами з Усеспіву підсилюють зброю союзників мультипострілом.Пізнайте істинну силу Ансамблю Джейд, спорядивши Усеспів, Співаники та Гармонію водночас.",
+        "description": "Протиставте похвальну пісню жахам кривавої битви. Вороги, поранені стрілами з Усеспіва, не можуть завдавати шкоди вашим союзникам. Убивства ворогів стрілами з Усеспіву підсилюють зброю союзників мультипострілом.\n\nПізнайте істинну силу Ансамблю Джейд, спорядивши Усеспів, Співаники та Гармонію водночас.",
         "name": "Усеспів",
         "code": "uk"
       }
@@ -3972,7 +4362,7 @@
       },
       {
         "description": "Гвинтівка стріляє фотонним променем, що зупиняє молекулярний рух, через що ціль миттєво та болісно замерзає.",
-        "name": "Ґлаксіон",
+        "name": "Ґлаксіо",
         "code": "uk"
       }
     ]
@@ -4050,7 +4440,7 @@
       },
       {
         "description": "Найсучасніший прискорювач електронів з галогенним охолодженням. Здатен миттєво заморожувати.",
-        "name": "Ґлаксіон-вандал",
+        "name": "Ґлаксіо-вандал",
         "code": "uk"
       }
     ]
@@ -4268,7 +4658,7 @@
         "code": "pt"
       },
       {
-        "description": "（英文： GOTVA PRIME）早在複製基因腐爛開始前，精英 Grineer 指揮官就曾使用這把威力巨大的步槍在 Warframe 反叛時保護倖存的 Orokin。當戈伐 Prime 造成一個觸發狀態效果時，它的下一次射擊將有機會造成超級暴擊。",
+        "description": "（英文： GOTVA PRIME）早在複製基因腐爛開始前，精英 Grineer 指揮官就曾使用這把威力巨大的步槍在 Warframe 反叛時保護倖存的 Orokin。當戈伐 Prime 造成一個觸發狀態效果時，它的下一次射擊將有機會造成超暴擊。",
         "name": "戈伐 Prime",
         "code": "tc"
       },
@@ -6633,75 +7023,75 @@
     "uniqueName": "/Lotus/Weapons/Corpus/Bow/Longbow/CrpBow",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lenz-3ae618622a.png",
     "name": "Lenz",
-    "description": "Bolts from this Corpus bow deliver a one-two punch of an icy pulse, followed by a conventional explosion. Excess ammo picked up for other weapons will be converted into charges for the Lenz. Warning: Safety-protocols do not exist on this prototype.",
+    "description": "Bolts from this Corpus bow deliver a one-two punch of an icy pulse, followed by a conventional explosion. Excess ammo picked up for other weapons will be converted into charges for the Lenz. \n\nWarning: Safety-protocols do not exist on this prototype.",
     "languages": [
       {
-        "description": "Die Pfeile dieses Corpus Bogens setzen einen eisigen Doppelpuls frei, gefolgt von einer normalen Explosion. Überschüssige Munition für andere Waffen wird zu Ladungen für den Lenz umgewandelt. Warnung: Dieser Prototyp besitzt keine Sicherheitsprotokolle!",
+        "description": "Die Pfeile dieses Corpus Bogens setzen einen eisigen Doppelpuls frei, gefolgt von einer normalen Explosion. Überschüssige Munition für andere Waffen wird zu Ladungen für den Lenz umgewandelt. \n\nWarnung: Dieser Prototyp besitzt keine Sicherheitsprotokolle!",
         "name": "Lenz",
         "code": "de"
       },
       {
-        "description": "Les carreaux tirés par cet arc Corpus infligent une pulsation glaciale suivie d'une explosion un peu plus conventionnelle. Les munitions ramassées en surplus pour d'autres armes seront converties en charges pour le Lenz. Attention: ll n'existe pas de protocole de sécurité pour ce prototype.",
+        "description": "Les carreaux tirés par cet arc Corpus infligent une pulsation glaciale suivie d'une explosion un peu plus conventionnelle. Les munitions ramassées en surplus pour d'autres armes seront converties en charges pour le Lenz. \n\nAttention: ll n'existe pas de protocole de sécurité pour ce prototype.",
         "name": "Lenz",
         "code": "fr"
       },
       {
-        "description": "I dardi a due tempi di questo arco Corpus rilasciano dapprima un impulso ghiacciato e poi deflagrano in una devastante esplosione. Le munizioni in eccesso raccolte per altre armi saranno convertite in cariche per il Lenz. Attenzione: I protocolli di sicurezza non esistono su questo prototipo.",
+        "description": "I dardi a due tempi di questo arco Corpus rilasciano dapprima un impulso ghiacciato e poi deflagrano in una devastante esplosione. Le munizioni in eccesso raccolte per altre armi saranno convertite in cariche per il Lenz. \n\nAttenzione: I protocolli di sicurezza non esistono su questo prototipo.",
         "name": "Lenz",
         "code": "it"
       },
       {
-        "description": "이 코퍼스제 전자 활에서 발사되는 화살은 냉기 펄스 후 재래식 폭발로 이어지는 2연속 피해를 가합니다. 다른 무기들의 초과된 탄약은 렌즈를 위한 전하로 변환될 것입니다.주의, 이 시제품에는 안전 보호 규약이 존재하지 않습니다.",
+        "description": "이 코퍼스제 전자 활에서 발사되는 화살은 냉기 펄스 후 재래식 폭발로 이어지는 2연속 피해를 가합니다. 다른 무기들의 초과된 탄약은 렌즈를 위한 전하로 변환될 것입니다.\n\n주의, 이 시제품에는 안전 보호 규약이 존재하지 않습니다.",
         "name": "렌즈",
         "code": "ko"
       },
       {
-        "description": "Los pernos de este arco otorgan un doble golpe, el primero de hielo seguido por una explosión convencional. Los hallazgos de municiones sobrantes para otras armas serán convertidas en cargas para el arco Lenz.Advertencia: No existen medidas de seguridad para este prototipo.",
+        "description": "Los pernos de este arco otorgan un doble golpe, el primero de hielo seguido por una explosión convencional. Los hallazgos de municiones sobrantes para otras armas serán convertidas en cargas para el arco Lenz.\n\nAdvertencia: No existen medidas de seguridad para este prototipo.",
         "name": "Lenz",
         "code": "es"
       },
       {
-        "description": "（英文：LENZ）从这把 Corpus 弓箭中射出的箭矢将会放出极寒脉冲，紧接产生常规爆炸。额外拾取的其他武器弹药将会转化为楞次弓的电荷。警告：此原型机未使用安全协议。",
+        "description": "（英文：LENZ）从这把 Corpus 弓箭中射出的箭矢将会放出极寒脉冲，紧接产生常规爆炸。额外拾取的其他武器弹药将会转化为楞次弓的电荷。\n\n警告：此原型机未使用安全协议。",
         "name": "楞次弓",
         "code": "zh"
       },
       {
-        "description": "Болты этого лука Корпуса наносят сдвоенный удар леденящим импульсом, после чего взрываются. Подбираемые излишки боеприпасов автоматически конвертируются в заряды для Ленца.Внимание: защитные протоколы на этом прототипе отсутствуют.",
+        "description": "Болты этого лука Корпуса наносят сдвоенный удар леденящим импульсом, после чего взрываются. Подбираемые излишки боеприпасов автоматически конвертируются в заряды для Ленца.\n\nВнимание: защитные протоколы на этом прототипе отсутствуют.",
         "name": "Ленц",
         "code": "ru"
       },
       {
-        "description": "このコーパス製弓から放たれる矢は冷気パルスと爆発を引き起こす。他の武器用の余剰弾薬はLenzの弾薬に変換される。警告：このプロトタイプには安全プロトコルが存在していない。",
+        "description": "このコーパス製弓から放たれる矢は冷気パルスと爆発を引き起こす。他の武器用の余剰弾薬はLenzの弾薬に変換される。\n\n警告：このプロトタイプには安全プロトコルが存在していない。",
         "name": "Lenz",
         "code": "ja"
       },
       {
-        "description": "Bełty z tego łuku Corpus wywołują uderzenie lodowego impulsu, po którym następuje konwencjonalna eksplozja. Nadmiarowa amunicja innych typów, zostanie zamieniona na ładunki dla Lenza.Ostrzeżenie: Ten prototyp nie posiada protokołów bezpieczeństwa.",
+        "description": "Bełty z tego łuku Corpus wywołują uderzenie lodowego impulsu, po którym następuje konwencjonalna eksplozja. Nadmiarowa amunicja innych typów, zostanie zamieniona na ładunki dla Lenza.\n\nOstrzeżenie: Ten prototyp nie posiada protokołów bezpieczeństwa.",
         "name": "Lenz",
         "code": "pl"
       },
       {
-        "description": "As flechas deste arco eletrônico Corpus geram um pulso glacial no impacto, seguido de uma explosão convencional. Munição que for adquirida em excesso de outras armas será convertida em cargas para a Lenz.Cuidado: protocolos de segurança inexistentes neste protótipo.",
+        "description": "As flechas deste arco eletrônico Corpus geram um pulso glacial no impacto, seguido de uma explosão convencional. Munição que for adquirida em excesso de outras armas será convertida em cargas para a Lenz.\n\nCuidado: protocolos de segurança inexistentes neste protótipo.",
         "name": "Lenz",
         "code": "pt"
       },
       {
-        "description": "（英文：LENZ）從這把 Corpus 弓箭中射出的箭矢將會放出極寒脈衝，緊接產生常規爆炸。額外拾取的其它武器彈藥將會轉化為冷次弓的電荷。警告：此原型機未使用安全協定。",
+        "description": "（英文：LENZ）從這把 Corpus 弓箭中射出的箭矢將會放出極寒脈衝，緊接產生常規爆炸。額外拾取的其它武器彈藥將會轉化為冷次弓的電荷。\n\n警告：此原型機未使用安全協定。",
         "name": "冷次弓",
         "code": "tc"
       },
       {
-        "description": "ธนูของ Corpus คันนี้จะยิงลูกดอกที่มีธาตุน้ำแข็งลูกสองลูก ตามด้วยการระเบิดตามปกติ กระสุนส่วนเกินสำหรับใช้กับอาวุธอื่นที่เก็บได้จะถูกแปลงไปเป็นการชาร์จลูกดอกสำหรับ Lenz คำเตือน: อาวุธต้นแบบชิ้นนี้ไม่มีโพรโทคอลด้านความปลอดภัย",
+        "description": "ธนูของ Corpus คันนี้จะยิงลูกดอกที่มีธาตุน้ำแข็งลูกสองลูก ตามด้วยการระเบิดตามปกติ กระสุนส่วนเกินสำหรับใช้กับอาวุธอื่นที่เก็บได้จะถูกแปลงไปเป็นการชาร์จลูกดอกสำหรับ Lenz \n\nคำเตือน: อาวุธต้นแบบชิ้นนี้ไม่มีโพรโทคอลด้านความปลอดภัย",
         "name": "Lenz",
         "code": "th"
       },
       {
-        "description": "Bu Corpus yayı, buzul etki oluşturan ve ardından bir patlama tetikleyen bir mühimmat fırlatır. Diğer silahlar için yere düşen mermiler Lenz için manyetik şarjlara dönüşürler. Uyarı: Güvenlik protokolleri bu prototipte geçerli değildir.",
+        "description": "Bu Corpus yayı, buzul etki oluşturan ve ardından bir patlama tetikleyen bir mühimmat fırlatır. Diğer silahlar için yere düşen mermiler Lenz için manyetik şarjlara dönüşürler. \n\nUyarı: Güvenlik protokolleri bu prototipte geçerli değildir.",
         "name": "Lenz",
         "code": "tr"
       },
       {
-        "description": "Стріли, випущені з Ленца, завдають шкоди одразу двома способами: спершу — крижаним імпульсом, а потім — потужним вибухом. Цей лук перетворює надлишок набоїв для іншої зброї на стріли.УВАГА! У цьому прототипі не передбачені протоколи безпеки.",
+        "description": "Стріли, випущені з Ленца, завдають шкоди одразу двома способами: спершу — крижаним імпульсом, а потім — потужним вибухом. Цей лук перетворює надлишок набоїв для іншої зброї на стріли.\n\nУВАГА! У цьому прототипі не передбачені протоколи безпеки.",
         "name": "Ленц",
         "code": "uk"
       }
@@ -8970,6 +9360,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Lasria/LasGrenadeLauncher/LasrianNoxPlayerWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/purgator-1-75a267df15.png",
+    "name": "Purgator 1",
+    "description": "Put them down so that they stay down, with this Scaldra slug launcher.",
+    "languages": [
+      {
+        "description": "Fege alles zu Boden mit diesem Geschosswerfer der Scaldra, damit es am Boden bleibt.",
+        "name": "Purgator 1",
+        "code": "de"
+      },
+      {
+        "description": "Faites en sorte qu'ils restent à terre, avec cette arme Scaldra.",
+        "name": "Purgator 1",
+        "code": "fr"
+      },
+      {
+        "description": "Abbattili in modo che non si rialzino mai con questo lanciagranate Scaldra.",
+        "name": "Purgator 1",
+        "code": "it"
+      },
+      {
+        "description": "이 스칼드라 슬러그 런처를 사용해 적들이 발 아래에 머물 수 있도록 쓰러뜨려 주세요.",
+        "name": "퍼게이터 1",
+        "code": "ko"
+      },
+      {
+        "description": "Déjalos tumbados después de haberlos derribado con esta arma de la Scaldra.",
+        "name": "Purgator 1",
+        "code": "es"
+      },
+      {
+        "description": "（英文：PURGATOR 1）用这把炽蛇军武器让敌人再起不能。",
+        "name": "净化者 1",
+        "code": "zh"
+      },
+      {
+        "description": "Уроните их так, чтобы они не смогли подняться, с помощью этой пушки Скальдры.",
+        "name": "Чистильщик-1",
+        "code": "ru"
+      },
+      {
+        "description": "このスカルドラ製スラグランチャーで敵を完璧に制圧しよう。",
+        "name": "Purgator 1",
+        "code": "ja"
+      },
+      {
+        "description": "Ta wyrzutnia Scaldry oferuje siłę obalającą, której nie oprze się żaden wróg.",
+        "name": "Purgator 1",
+        "code": "pl"
+      },
+      {
+        "description": "Derrube-os para que nunca se levantem com este lançador da Scaldra.",
+        "name": "Purgator 1",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：PURGATOR 1）用這把清剿隊的彈丸發射器來讓敵人倒地不起。",
+        "name": "淨罪者－1",
+        "code": "tc"
+      },
+      {
+        "description": "กำจัดเป้าหมายเพื่อควบคุมจำนวนพวกมันด้วยเครื่องยิงกระสุน Scaldra",
+        "name": "Purgator 1",
+        "code": "th"
+      },
+      {
+        "description": "Bu Scaldra tek kurşun fırlatıcısıyla hedefini indir ve yerde kalmasını sağla.",
+        "name": "Purgator 1",
+        "code": "tr"
+      },
+      {
+        "description": "Цей скальдрівський гранатомет покладе всіх, хто має лежати.",
+        "name": "Чистильник-1",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quanta-be0abe2f6a.png",
     "name": "Quanta",
@@ -9469,8 +9937,8 @@
         "code": "es"
       },
       {
-        "description": "（英文：THERMIAN RPG）Cyte-09 的标志性步枪是强力枪手的理想搭档。精确的装填可提高装填速度，并为下一个弹匣注入火焰伤害。",
-        "name": "侦查者步枪",
+        "description": "（英文：RECONIFEX）Cyte-09 的标志性步枪是强力枪手的理想搭档。精确的装填可提高装填速度，并为下一个弹匣注入火焰伤害。",
+        "name": "侦察者",
         "code": "zh"
       },
       {
@@ -9494,7 +9962,7 @@
         "code": "pt"
       },
       {
-        "description": "Cyte-09 的標誌性步槍是猛攻槍手的最佳夥伴。抓準時機裝填可提升裝填速度並對新彈匣注入火焰傷害。",
+        "description": "（英文：RECONIFEX）Cyte-09 的標誌性步槍是猛攻槍手的最佳夥伴。抓準時機裝填可提升裝填速度並對新彈匣注入火焰傷害。",
         "name": "偵察佐",
         "code": "tc"
       },
@@ -9718,7 +10186,7 @@
         "code": "ja"
       },
       {
-        "description": "Ujawnij krwiożercze pręgi natury, zaspokajając głód tego specjalnego Tigris’a.",
+        "description": "Ujawnij krwiożercze pręgi natury, zaspokajając głód tego specjalnego Tigris'a.",
         "name": "Tigris Sancti",
         "code": "pl"
       },
@@ -10800,7 +11268,7 @@
         "code": "zh"
       },
       {
-        "description": "Энергетический заряд, выпущенный Стефлосом, становится больше по мере того, как он устремляется к врагам. Дальность поражения снарядом увеличивается с каждым попаданием в противника.В руках Цитрины скорость снаряда Стефлоса увеличивается.",
+        "description": "Энергетический заряд, выпущенный Стефлосом, становится больше по мере того, как он устремляется к врагам. Дальность поражения снарядом увеличивается с каждым попаданием в противника.\nВ руках Цитрины скорость снаряда Стефлоса увеличивается.",
         "name": "Стефлос",
         "code": "ru"
       },
@@ -10810,7 +11278,7 @@
         "code": "ja"
       },
       {
-        "description": "Pocisk energetyczny wystrzelony ze Steflosa rośnie, gdy pędzi w kierunku wrogów. Zasięg pocisku wzrasta wraz z każdym trafionym wrogiem.W rękach Citrine prędkość pocisków Steflosa zostaje zwiększona.",
+        "description": "Pocisk energetyczny wystrzelony ze Steflosa rośnie, gdy pędzi w kierunku wrogów. Zasięg pocisku wzrasta wraz z każdym trafionym wrogiem.\nW rękach Citrine prędkość pocisków Steflosa zostaje zwiększona.",
         "name": "Steflos",
         "code": "pl"
       },
@@ -11872,7 +12340,7 @@
         "code": "fr"
       },
       {
-        "description": "Questo discreto lanciarazzi si sente come a casa sia in una riunione che in una gita. I razzi sono guidati da un filo per una maggiore precisione, ma viaggiano più lentamente. Il Sistema brevettato Granum Attaché ricarica l'arma quando viene riposta nella fondina.",
+        "description": "Questo discreto lanciarazzi funziona bene sia in una riunione del consiglio di amministrazione che in una gita informale. I razzi sono filoguidati per una maggiore precisione, ma viaggiano più lentamente. Il Sistema brevettato Granum Attaché ricarica l'arma quando viene riposta nella fondina.",
         "name": "Tenet Envoy",
         "code": "it"
       },
@@ -12083,7 +12551,7 @@
         "code": "tr"
       },
       {
-        "description": "Модифікована під Сестер гвинтівка. Має збільшену швидкострільність і дальність. Заряджання замінене обоймами з боєприпасами, щоби відповідати вимогам підвищеної потужності.",
+        "description": "Модифікована під Сестер гвинтівка. Має збільшену швидкострільність і дальність. Заряджання замінене обоймами з боєприпасами, щоб відповідати вимогам підвищеної потужності.",
         "name": "Потокова гвинтівка-догмат",
         "code": "uk"
       }
@@ -12161,8 +12629,8 @@
         "code": "tr"
       },
       {
-        "description": "Класична зброя Корпусу з поліпшеною мікроелектронною складовою. Фотонові промені Ґлаксіона-догмата уражають до чотирьох ворогів одразу. Також наявні підвищена шкода, імовірність критичної шкоди та накладання ефекту стану.",
-        "name": "Ґлаксіон-догмат",
+        "description": "Класична зброя Корпусу з поліпшеною мікроелектронною частиною. Фотонові промені Ґлаксіо-догмат уражають до чотирьох ворогів одразу. Також наявні підвищена шкода, імовірність критичної шкоди та накладання ефекту стану.",
+        "name": "Ґлаксіо-догмат",
         "code": "uk"
       }
     ]
@@ -13019,7 +13487,7 @@
         "code": "tr"
       },
       {
-        "description": "Прадавня важка гвинтівка, розроблена Ентраті. Убивчі постріли витягують есенцію життя з цілі, щоби зарядити нищівний постріл альтернативного режиму: дуговий снаряд, який рикошетить від поверхні й ворогів та вибухає під час кожного зіткнення.",
+        "description": "Прадавня важка гвинтівка, розроблена Ентраті. Убивчі постріли витягують есенцію життя з цілі, щоб зарядити нищівний постріл альтернативного режиму: дуговий снаряд, який рикошетить від поверхні й ворогів та вибухає під час кожного зіткнення.",
         "name": "Трунарка",
         "code": "uk"
       }

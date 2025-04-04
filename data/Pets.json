@@ -1869,7 +1869,7 @@
         "code": "tr"
       },
       {
-        "description": "Експериментальна порода заражених куброу. Використовує личинок та інші заражені здібності, щоби завдавати шкоди й контролювати бойовище.",
+        "description": "Експериментальна порода заражених куброу. Використовує личинок та інші заражені здібності, щоб завдавати шкоди й контролювати бойовище.",
         "name": "Гельмінтовий гінчак",
         "code": "uk"
       }
@@ -4540,11 +4540,11 @@
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vasca-kavat-ea0afbf0ec.png",
     "name": "Vasca Kavat",
-    "description": "Now free of the Vasca virus, these Kavats can transfuse life to extend not only health own life but that of its master.",
+    "description": "Now free of the Vasca virus, these Kavats can transfuse life to extend not only their own health but that of their master.",
     "armor": 300,
     "languages": [
       {
-        "description": "Da diese Kavats nun vom Vasca-Virus befreit sind, können sie Leben übertragen und so nicht nur ihr eigenes Leben, sondern auch das ihres Besitzers verlängern.",
+        "description": "Diese Kavats, nun vom Vasca-Virus befreit, können Leben übertragen und nun mehr nicht nur ihr eigenes, sondern auch das ihres Besitzers verlängern.",
         "name": "Vasca Kavat",
         "code": "de"
       },
@@ -4554,7 +4554,7 @@
         "code": "fr"
       },
       {
-        "description": "Ora liberi dal virus Vasca, questi Kavat possono fare una trasfusione di salute per prolungare non solo la propria vita, ma anche quella del loro padrone.",
+        "description": "Ora liberi dal virus Vasca, questi Kavat possono fare una trasfusione di salute per prolungare non solo la propria salute, ma anche quella del loro padrone.",
         "name": "Vasca Kavat",
         "code": "it"
       },
@@ -4564,17 +4564,17 @@
         "code": "ko"
       },
       {
-        "description": "Libres del virus Vasca, estos kavats pueden recibir una transfusión de salud para prolongar no sólo sus propias vidas, sino también la de su amo.",
+        "description": "Libres del virus Vasca, estos kavats pueden recibir una transfusión de salud para prolongar no sólo su propia salud, sino también la de su amo.",
         "name": "Kavat Vasca",
         "code": "es"
       },
       {
-        "description": "现在，这些库娃已经摆脱了噬血病毒，它们可以通过输送生命来延长自己的寿命，同时也可以延长主人的寿命。",
+        "description": "现在，这些库娃已经摆脱了噬血病毒，它们可以通过输送生命来延长自己的生命值，同时也可以延长主人的生命值。",
         "name": "噬血型库娃",
         "code": "zh"
       },
       {
-        "description": "Теперь, освободившись от вируса Васка, эти Каваты могут переливать жизнь, чтобы продлить не только свою собственную жизнь, но и жизнь своего хозяина.",
+        "description": "Теперь, избавленные от вируса Васка, эти каваты способны переливать жизненную энергию, продлевая не только своё здоровье, но и жизнь своему хозяину.",
         "name": "Васка Кават",
         "code": "ru"
       },
@@ -4589,7 +4589,7 @@
         "code": "pl"
       },
       {
-        "description": "Livres do vírus Vasca, estes Kavats conseguem transfundir energia vital para estender não apenas a vida deles, mas também a de seu mestre.",
+        "description": "Livres do vírus Vasca, estes Kavats conseguem transfundir energia vital para estender não apenas sua própria vida, mas também a de seu mestre.",
         "name": "Kavat Vasca",
         "code": "pt"
       },
@@ -4599,12 +4599,12 @@
         "code": "tc"
       },
       {
-        "description": "ตอนนี้ Kavat ไม่มีไวรัส Vasca และสามารถถ่ายเลือดเพื่อช่วยชีวิตได้แล้ว ซึ่งไม่เพียงแต่เพื่อยืดอายุของตัวเองเท่านั้น แต่ยังรวมถึงชีวิตของผู้ที่เป็นเจ้านายด้วย",
+        "description": "ตอนนี้ Kavat ไม่มีไวรัส Vasca แล้ว และสามารถถ่ายเลือดที่ไม่เพียงช่วยชีวิตของตัวเองเท่านั้น แต่ยังรวมถึงพลังชีวิตของผู้ที่เป็นเจ้านายอีกด้วย",
         "name": "Vasca Kavat",
         "code": "th"
       },
       {
-        "description": "Artık Vasca virüsünden kurtulmuş olan bu Kavatlar, yalnızca kendi sağlıklarını değil, efendilerinin sağlığını da artırmak için sağlık nakli yapabilirler.",
+        "description": "Artık Vasca virüsünden kurtulmuş olan bu Kavat, yalnızca kendi sağlıklarını değil, efendilerinin sağlığını da artırmak için sağlık nakli yapabilirler.",
         "name": "Vasca Kavat",
         "code": "tr"
       },
