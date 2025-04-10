@@ -15,7 +15,7 @@
     "warframe-items": "^1.1269.35"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.8",
+    "@types/bun": "^1.2.9",
     "@typescript-eslint/eslint-plugin": "^8.29.0",
     "@typescript-eslint/parser": "^8.29.0",
     "eslint": "^9.23.0",
