@@ -17,21 +17,27 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Wait for status checks to pass
+      - name: Wait for check-runs to pass
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const pr = context.payload.pull_request;
-            const { data: combinedStatus } = await github.rest.repos.getCombinedStatusForRef({
+            const ref = pr.head.sha;
+
+            const { data } = await github.rest.checks.listForRef({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              ref: pr.head.sha
+              ref,
             });
 
-            const failed = combinedStatus.status !== 'success';
+            const failed = data.check_runs.some(run => run.conclusion !== 'success');
+            const pending = data.check_runs.some(run => run.status !== 'completed');
+
             if (failed) {
-              core.setFailed("CI checks did not pass.");
+              core.setFailed('Some check runs failed.');
+            } else if (pending) {
+              core.setFailed('Some check runs are still pending.');
             }
 
       - name: Merge the PR
