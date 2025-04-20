@@ -10585,7 +10585,7 @@
       },
       {
         "description": [
-          "Des coups puissants et rapides avec finale vrillée."
+          "Des coups puissants et rapides avec des combos bondissants."
         ],
         "name": "Saule Saignant",
         "code": "fr"
@@ -16486,7 +16486,7 @@
         "code": "de"
       },
       {
-        "name": "Purifie-Murmure",
+        "name": "Purifie-Murmures",
         "code": "fr"
       },
       {
@@ -23728,7 +23728,7 @@
       },
       {
         "description": [
-          "Une fois la recherche sur un ennemi terminée, les scans supplémentaires révèleront ses points faibles."
+          "Une fois la recherche sur un ennemi terminée, les scans supplémentaires révéleront ses points faibles."
         ],
         "name": "Détection de Vulnérabilité",
         "code": "fr"
@@ -44790,6 +44790,69 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Ember/FireSkinAugmentCard",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/immolated-radiance-bb3fca99f5.jpg",
+    "name": "Immolated Radiance",
+    "languages": [
+      {
+        "name": "Glänzendes Feueropfer",
+        "code": "de"
+      },
+      {
+        "name": "Radiance Immolante",
+        "code": "fr"
+      },
+      {
+        "name": "Immolated Radiance",
+        "code": "it"
+      },
+      {
+        "name": "이몰레이티드 레이디언스",
+        "code": "ko"
+      },
+      {
+        "name": "Resplandor inmolado",
+        "code": "es"
+      },
+      {
+        "name": "献祭之辉",
+        "code": "zh"
+      },
+      {
+        "name": "Сияние Самосожжения",
+        "code": "ru"
+      },
+      {
+        "name": "Immolated Radiance",
+        "code": "ja"
+      },
+      {
+        "name": "Blask Samospalenia",
+        "code": "pl"
+      },
+      {
+        "name": "Imolação Radiante",
+        "code": "pt"
+      },
+      {
+        "name": "獻祭光環",
+        "code": "tc"
+      },
+      {
+        "name": "Immolated Radiance",
+        "code": "th"
+      },
+      {
+        "name": "Immolated Radiance",
+        "code": "tr"
+      },
+      {
+        "name": "Сяйво самоспалення",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastWeakenedImmunityMod",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/immunity-resistance-cc8424668b.jpg",
     "name": "Immunity Resistance",
@@ -45992,7 +46055,7 @@
     "name": "Instant Secure",
     "languages": [
       {
-        "name": "Sofort sicher",
+        "name": "Sofort-Sicherung",
         "code": "de"
       },
       {
@@ -91832,7 +91895,7 @@
         "description": [
           "Sichert Software, durch STÄNDIGE ÜBERWACHUNG"
         ],
-        "name": "Soft Safe",
+        "name": "Soft-Safe",
         "code": "de"
       },
       {
@@ -102048,7 +102111,7 @@
         "code": "it"
       },
       {
-        "name": "트리트 블로커",
+        "name": "쓰렛 블로커",
         "code": "ko"
       },
       {
@@ -114206,7 +114269,7 @@
         "description": [
           "Befreie dich von Malware, Spyware, Wetware und Würmern"
         ],
-        "name": "Loswürmeln",
+        "name": "Wurm-Weg",
         "code": "de"
       },
       {
