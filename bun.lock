@@ -4,7 +4,7 @@
     "": {
       "name": "wfhub-codex",
       "dependencies": {
-        "@wfcd/items": "^1.1269.87",
+        "@wfcd/items": "^1.1270.74",
       },
       "devDependencies": {
         "@types/bun": "^1.2.10",
