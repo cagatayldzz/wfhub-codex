@@ -11,7 +11,7 @@ const perfectionistList = {
       customGroups: {
         value: {
           node: ["path", "fs"],
-          wfcd: ["warframe-items"],
+          wfcd: ["@wfcd/items"],
           utils: ["./utils/.*"],
         },
       },

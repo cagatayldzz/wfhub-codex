@@ -1,6 +1,6 @@
 import * as fs from "fs";
 
-import { Locale } from "warframe-items";
+import { Locale } from "@wfcd/items";
 
 export function loadI18nData(
   i18nFile: string,

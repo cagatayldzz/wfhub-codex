@@ -4,7 +4,7 @@
     "": {
       "name": "wfhub-codex",
       "dependencies": {
-        "warframe-items": "^1.1269.87",
+        "@wfcd/items": "^1.1269.87",
       },
       "devDependencies": {
         "@types/bun": "^1.2.10",
@@ -82,6 +82,8 @@
     "@typescript-eslint/utils": ["@typescript-eslint/utils@8.30.1", "", { "dependencies": { "@eslint-community/eslint-utils": "^4.4.0", "@typescript-eslint/scope-manager": "8.30.1", "@typescript-eslint/types": "8.30.1", "@typescript-eslint/typescript-estree": "8.30.1" }, "peerDependencies": { "eslint": "^8.57.0 || ^9.0.0", "typescript": ">=4.8.4 <5.9.0" } }, "sha512-T/8q4R9En2tcEsWPQgB5BQ0XJVOtfARcUvOa8yJP3fh9M/mXraLxZrkCfGb6ChrO/V3W+Xbd04RacUEqk1CFEQ=="],
 
     "@typescript-eslint/visitor-keys": ["@typescript-eslint/visitor-keys@8.30.1", "", { "dependencies": { "@typescript-eslint/types": "8.30.1", "eslint-visitor-keys": "^4.2.0" } }, "sha512-aEhgas7aJ6vZnNFC7K4/vMGDGyOiqWcYZPpIWrTKuTAlsvDNKy2GFDqh9smL+iq069ZvR0YzEeq0B8NJlLzjFA=="],
+
+    "@wfcd/items": ["@wfcd/items@1.1270.74", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-UwQNR9In1ZGIno6I+acRpwpl0IU3UFZ4S6VWY3YfwJ3Sra/KKr2DGRHdokmtbvylWVD1rdVgXq5YRDers7i1JQ=="],
 
     "acorn": ["acorn@8.14.0", "", { "bin": "bin/acorn" }, "sha512-cl669nCJTZBsL97OF4kUQm5g5hC2uihk0NxY3WENAC0TYdILVkAyHymAntgxGkl7K+t0cXIrH5siy5S4XkFycA=="],
 
@@ -320,8 +322,6 @@
     "undici-types": ["undici-types@6.20.0", "", {}, "sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg=="],
 
     "uri-js": ["uri-js@4.4.1", "", { "dependencies": { "punycode": "^2.1.0" } }, "sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg=="],
-
-    "warframe-items": ["warframe-items@1.1269.87", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-FBHlgLGWxgVFJY2SgGC6afj6xzi6apl+kXm3NLbSg5knYRKpmYqSX6/uv3O3mJniIwMoBajJ9TW7NCEVkxQmXQ=="],
 
     "warframe-worldstate-data": ["warframe-worldstate-data@2.17.0", "", {}, "sha512-F7xNk4iSQfjjT/QPiNoKO3ELWA3Fm6v4m+rhUPw8wmgziMgIutLmOpiLVwi4tqltE0k+ANt2vomPJdAUzcRvxQ=="],
 

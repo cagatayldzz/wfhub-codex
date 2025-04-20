@@ -1,4 +1,4 @@
-import { Locale } from "warframe-items";
+import { Locale } from "@wfcd/items";
 
 type Languages = { description?: string; name: string; code: Locale }[];
 

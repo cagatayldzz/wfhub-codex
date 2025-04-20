@@ -1,12 +1,12 @@
 import * as path from "path";
 import * as fs from "fs";
 
-import type { Locale } from "warframe-items";
+import type { Locale } from "@wfcd/items";
 
 import { loadI18nData } from "./utils/i18n";
 import { Translatable } from "./utils/type";
 
-const I18N_FILE = "./node_modules/warframe-items/data/json/i18n.json";
+const I18N_FILE = "./node_modules/@wfcd/items/data/json/i18n.json";
 
 const CATEGORY = [
   "Arcanes",
@@ -39,14 +39,17 @@ const DATA_CONFIG: { outputFile: string; category: string }[] = CATEGORY.map(
   (category) => ({
     outputFile: `./data/${category}.json`,
     category,
-  })
+  }),
 );
 
 async function filterData<T extends Translatable>(
   inputFile: string,
   outputFile: string,
   fields: (keyof T)[],
-  i18nMap: Record<string, Record<Locale, { description: string; name: string }>>
+  i18nMap: Record<
+    string,
+    Record<Locale, { description: string; name: string }>
+  >,
 ): Promise<void> {
   try {
     const data: T[] = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
@@ -82,7 +85,7 @@ async function filterData<T extends Translatable>(
     fs.writeFileSync(
       outputFile,
       JSON.stringify(filteredData, null, 2),
-      "utf-8"
+      "utf-8",
     );
     console.log(`Filtered data written to "${outputFile}"`);
   } catch (error) {
@@ -95,15 +98,15 @@ async function main(): Promise<void> {
 
   await Promise.all(
     DATA_CONFIG.map(async ({ outputFile, category }) => {
-      const inputFile = `./node_modules/warframe-items/data/json/${category}.json`;
+      const inputFile = `./node_modules/@wfcd/items/data/json/${category}.json`;
 
       await filterData<Translatable>(
         inputFile,
         outputFile,
         ["uniqueName", "imageName", "name", "description", "armor", "aura"],
-        i18nMap
+        i18nMap,
       );
-    })
+    }),
   );
 }
 

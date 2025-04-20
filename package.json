@@ -12,7 +12,7 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "warframe-items": "^1.1269.87"
+    "@wfcd/items": "^1.1269.87"
   },
   "devDependencies": {
     "@types/bun": "^1.2.10",
