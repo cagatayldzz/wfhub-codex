@@ -19,8 +19,14 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
 
-      - name: Force Reinstall Latest Compatible Dependencies
-        run: bun install --force --no-save
+      - name: Install npm-check-updates temporarily
+        run: bun add -d npm-check-updates
+
+      - name: Run npm-check-updates to upgrade package.json
+        run: bunx ncu -u
+
+      - name: Install updated dependencies
+        run: bun install --force
 
       - name: Commit and Push Updates
         run: |
@@ -28,7 +34,7 @@ jobs:
           git config --global user.email "actions@github.com"
           git add package.json bun.lock
           if ! git diff-index --quiet HEAD; then
-            git commit -m "[WF]: Force updated dependencies via Bun"
+            git commit -m "[WF]: Updated dependencies via ncu"
             git pull --rebase origin main
             git push
           else
