@@ -4,7 +4,7 @@
     "": {
       "name": "wfhub-codex",
       "dependencies": {
-        "@wfcd/items": "^1.1270.99",
+        "@wfcd/items": "^1.1270.103",
       },
       "devDependencies": {
         "@types/bun": "^1.2.10",
@@ -14,7 +14,7 @@
         "eslint-config-prettier": "^10.1.2",
         "eslint-plugin-perfectionist": "^4.12.2",
         "eslint-plugin-prettier": "^5.2.6",
-        "npm-check-updates": "^18.0.0",
+        "npm-check-updates": "^18.0.1",
         "rimraf": "^6.0.1",
         "turbo": "^2.5.1",
         "typescript": "^5.8.3",
@@ -83,7 +83,7 @@
 
     "@typescript-eslint/visitor-keys": ["@typescript-eslint/visitor-keys@8.31.0", "", { "dependencies": { "@typescript-eslint/types": "8.31.0", "eslint-visitor-keys": "^4.2.0" } }, "sha512-QcGHmlRHWOl93o64ZUMNewCdwKGU6WItOU52H0djgNmn1EOrhVudrDzXz4OycCRSCPwFCDrE2iIt5vmuUdHxuQ=="],
 
-    "@wfcd/items": ["@wfcd/items@1.1270.99", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-e1K2mbjBw2VmJIb0U72hVxgQxk13/FZjBDcupt2AIdsRBPgW6XkFJmGQWp2GWEG21JUlg3UtvxULpi+hIjTvWQ=="],
+    "@wfcd/items": ["@wfcd/items@1.1270.103", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-tiYJ4o2wgSrBpPu1H+AIpU5xmfrSMGf2+mUlYVtwsoo1pFOaNMf1SzprF4SohAvxdU2ijcsWgKFZqhmwXAbapA=="],
 
     "acorn": ["acorn@8.14.0", "", { "bin": "bin/acorn" }, "sha512-cl669nCJTZBsL97OF4kUQm5g5hC2uihk0NxY3WENAC0TYdILVkAyHymAntgxGkl7K+t0cXIrH5siy5S4XkFycA=="],
 
@@ -233,7 +233,7 @@
 
     "natural-orderby": ["natural-orderby@5.0.0", "", {}, "sha512-kKHJhxwpR/Okycz4HhQKKlhWe4ASEfPgkSWNmKFHd7+ezuQlxkA5cM3+XkBPvm1gmHen3w53qsYAv+8GwRrBlg=="],
 
-    "npm-check-updates": ["npm-check-updates@18.0.0", "", { "bin": { "npm-check-updates": "build/cli.js", "ncu": "build/cli.js" } }, "sha512-ymh9KF/xcGypQuCr5NQw1pAMRh5mHnQQDgHwM8gQBG8siG9XAKvcP9OtoARxFRgOjzEfjD6YtU/7KB2jJqGGlQ=="],
+    "npm-check-updates": ["npm-check-updates@18.0.1", "", { "bin": { "npm-check-updates": "build/cli.js", "ncu": "build/cli.js" } }, "sha512-MO7mLp/8nm6kZNLLyPgz4gHmr9tLoU+pWPLdXuGAx+oZydBHkHWN0ibTonsrfwC2WEQNIQxuZagYwB67JQpAuw=="],
 
     "optionator": ["optionator@0.9.4", "", { "dependencies": { "deep-is": "^0.1.3", "fast-levenshtein": "^2.0.6", "levn": "^0.4.1", "prelude-ls": "^1.2.1", "type-check": "^0.4.0", "word-wrap": "^1.2.5" } }, "sha512-6IpQ7mKUxRcZNLIObR0hz7lxsapSSIYNZJwXPGeF0mTVqGKFIXj1DQcMoT22S3ROcLyY/rz0PWaWZ9ayWmad9g=="],
 
