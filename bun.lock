@@ -4,7 +4,7 @@
     "": {
       "name": "wfhub-codex",
       "dependencies": {
-        "@wfcd/items": "^1.1270.103",
+        "@wfcd/items": "^1.1270.107",
       },
       "devDependencies": {
         "@types/bun": "^1.2.10",
@@ -12,7 +12,7 @@
         "@typescript-eslint/parser": "^8.31.0",
         "eslint": "^9.25.1",
         "eslint-config-prettier": "^10.1.2",
-        "eslint-plugin-perfectionist": "^4.12.2",
+        "eslint-plugin-perfectionist": "^4.12.3",
         "eslint-plugin-prettier": "^5.2.6",
         "npm-check-updates": "^18.0.1",
         "rimraf": "^6.0.1",
@@ -83,7 +83,7 @@
 
     "@typescript-eslint/visitor-keys": ["@typescript-eslint/visitor-keys@8.31.0", "", { "dependencies": { "@typescript-eslint/types": "8.31.0", "eslint-visitor-keys": "^4.2.0" } }, "sha512-QcGHmlRHWOl93o64ZUMNewCdwKGU6WItOU52H0djgNmn1EOrhVudrDzXz4OycCRSCPwFCDrE2iIt5vmuUdHxuQ=="],
 
-    "@wfcd/items": ["@wfcd/items@1.1270.103", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-tiYJ4o2wgSrBpPu1H+AIpU5xmfrSMGf2+mUlYVtwsoo1pFOaNMf1SzprF4SohAvxdU2ijcsWgKFZqhmwXAbapA=="],
+    "@wfcd/items": ["@wfcd/items@1.1270.107", "", { "peerDependencies": { "warframe-worldstate-data": "^2.24" } }, "sha512-GXS16VOtZ8niOZmh6dqLZmCZ9K18IGX6CPmgES6SvphiN5bTF4azmy/N7GYDAvJ6aHetQtYwKgu3rPk2Ll47MA=="],
 
     "acorn": ["acorn@8.14.0", "", { "bin": "bin/acorn" }, "sha512-cl669nCJTZBsL97OF4kUQm5g5hC2uihk0NxY3WENAC0TYdILVkAyHymAntgxGkl7K+t0cXIrH5siy5S4XkFycA=="],
 
@@ -131,7 +131,7 @@
 
     "eslint-config-prettier": ["eslint-config-prettier@10.1.2", "", { "peerDependencies": { "eslint": ">=7.0.0" }, "bin": { "eslint-config-prettier": "bin/cli.js" } }, "sha512-Epgp/EofAUeEpIdZkW60MHKvPyru1ruQJxPL+WIycnaPApuseK0Zpkrh/FwL9oIpQvIhJwV7ptOy0DWUjTlCiA=="],
 
-    "eslint-plugin-perfectionist": ["eslint-plugin-perfectionist@4.12.2", "", { "dependencies": { "@typescript-eslint/types": "^8.31.0", "@typescript-eslint/utils": "^8.31.0", "natural-orderby": "^5.0.0" }, "peerDependencies": { "eslint": ">=8.45.0" } }, "sha512-OWh3y2c7oMNEbyk8BmcQgMil13FAMViQbycV04TNztf6YSheOtbagcpwJkc3aZt6lYDyL0zpY/aPjwi7fxT+5A=="],
+    "eslint-plugin-perfectionist": ["eslint-plugin-perfectionist@4.12.3", "", { "dependencies": { "@typescript-eslint/types": "^8.31.0", "@typescript-eslint/utils": "^8.31.0", "natural-orderby": "^5.0.0" }, "peerDependencies": { "eslint": ">=8.45.0" } }, "sha512-V0dmpq6fBbn0BYofHsiRuuY9wgkKMDkdruM0mIRBIJ8XZ8vEaTAZqFsywm40RuWNVnduWBt5HO1ZZ+flE2yqjg=="],
 
     "eslint-plugin-prettier": ["eslint-plugin-prettier@5.2.6", "", { "dependencies": { "prettier-linter-helpers": "^1.0.0", "synckit": "^0.11.0" }, "peerDependencies": { "@types/eslint": ">=8.0.0", "eslint": ">=8.0.0", "eslint-config-prettier": ">= 7.0.0 <10.0.0 || >=10.1.0", "prettier": ">=3.0.0" }, "optionalPeers": ["@types/eslint", "eslint-config-prettier"] }, "sha512-mUcf7QG2Tjk7H055Jk0lGBjbgDnfrvqjhXh9t2xLMSCjZVcw9Rb1V6sVNXO0th3jgeO7zllWPTNRil3JW94TnQ=="],
 
