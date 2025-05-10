@@ -12,14 +12,14 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1270.171"
+    "@wfcd/items": "^1.1270.178"
   },
   "devDependencies": {
     "@types/bun": "^1.2.12",
     "@typescript-eslint/eslint-plugin": "^8.32.0",
     "@typescript-eslint/parser": "^8.32.0",
     "eslint": "^9.26.0",
-    "eslint-config-prettier": "^10.1.3",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-perfectionist": "^4.12.3",
     "eslint-plugin-prettier": "^5.4.0",
     "npm-check-updates": "^18.0.1",
