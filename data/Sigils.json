@@ -16458,6 +16458,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CosmosSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/raya-orbitus-sigil-52c3de5eaa.png",
+    "name": "Raya Orbitus Sigil",
+    "description": "Display the elegant lines of the cosmos with this Raya series sigil.",
+    "languages": [
+      {
+        "description": "Affichez les lignes élégantes du cosmos avec ce Sceau de la série Raya.",
+        "name": "Sceau Orbitus Raya",
+        "code": "fr"
+      },
+      {
+        "description": "이 라야 시리즈 시질로 우주의 우아한 선들을 표현해 보세요.",
+        "name": "라야 오비투스 시질",
+        "code": "ko"
+      },
+      {
+        "description": "这款拉雅系列纹章展示了宇宙的优雅线条。",
+        "name": "拉雅天轨纹章",
+        "code": "zh"
+      },
+      {
+        "description": "この Raya シリーズのシジルで宇宙の優雅な曲線を飾ろう。",
+        "name": "Raya Orbitus シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Exiba as linhas elegantes do cosmos com este brasão da série Raya.",
+        "name": "Brasão: Raya Orbitus",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rebellion-sigil-fcca64f283.png",
     "name": "Rebellion Sigil",

@@ -89,7 +89,7 @@
         "code": "de"
       },
       {
-        "description": "Élève les niveaux d'adrénaline pour initier une augmentation de vitesse de mouvement ainsi qu'une augmentation de sensibilité aux dégâts.",
+        "description": "Élève les niveaux d'adrénaline pour amorcer une augmentation de vitesse de mouvement ainsi qu'une augmentation de sensibilité aux dégâts.",
         "name": "Stimulant Surrénal",
         "code": "fr"
       },
@@ -3599,7 +3599,7 @@
         "code": "de"
       },
       {
-        "description": "Laisser 10 000 Crédits dans le Néant.",
+        "description": "Accordez au Néant 10 000 Crédits.",
         "name": "Offrande Fidèle au Néant",
         "code": "fr"
       },
@@ -3833,7 +3833,7 @@
         "code": "de"
       },
       {
-        "description": "Lorsque activé, il perturbe le champ d'Énergie Omega d'un noyau Fomorien, le rendant vulnérable. Protège également les Tennos des radiations Omega.",
+        "description": "Lorsqu'il est activé, il perturbe le champ d'Énergie Omega d'un noyau Fomorien, le rendant vulnérable. Protège également les Tennos des radiations Omega.",
         "name": "Disrupteur de Fomorien",
         "code": "fr"
       },
@@ -5081,7 +5081,7 @@
         "code": "de"
       },
       {
-        "description": "Laisser 1 000 Crédits dans le Néant.",
+        "description": "Accordez au Néant 1 000 Crédits.",
         "name": "Offrande Modeste au Néant",
         "code": "fr"
       },
@@ -7889,7 +7889,7 @@
         "code": "de"
       },
       {
-        "description": "Laisser 100 000 Crédits dans le Néant.",
+        "description": "Accordez au Néant une généreuse offrande de 100 000 Crédits.",
         "name": "Offrande Généreuse au Néant",
         "code": "fr"
       },
@@ -13936,7 +13936,7 @@
       },
       {
         "description": "Cria uma massa de Energia que atrai violentamente inimigos próximos, esmagando seus átomos em um pequeno fragmento de matéria.",
-        "name": "Vortex",
+        "name": "Vórtex",
         "code": "pt"
       },
       {

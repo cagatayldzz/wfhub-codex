@@ -187,7 +187,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：AEOLAK）这把非同寻常的自动步枪给人一种奇异的熟悉感，并且拥有两种开火模式。主要开火模式附带辐射伤害，次要射击模式充能后可发射一枚爆炸投射物。",
+        "description": "（英文：AEOLAK）这把非同寻常的自动步枪给人一种奇异的熟悉感，并且拥有两种开火模式。主要射击附带辐射伤害，次要射击充能后可发射一枚爆炸投射物。",
         "name": "风鸣",
         "code": "zh"
       },
@@ -343,7 +343,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：ALTERNOX）Gyre 的标志性武器有两种射击模式。主要射击模式可通过带电球体攻击敌人。次要射击模式可产生一个大型带电球体，该球体可附着在任何表面并在爆炸之前产生 <DT_ELECTRICITY_COLOR>带电脉冲。被 Gyre 使用时，该武器可产生少量的多重射击。",
+        "description": "（英文：ALTERNOX）Gyre 的标志性武器有两种射击模式。主要射击可通过带电球体攻击敌人。次要射击可产生一个大型带电球体，该球体可附着在任何表面并在爆炸之前产生 <DT_ELECTRICITY_COLOR>带电脉冲。被 Gyre 使用时，该武器可产生少量的多重射击。",
         "name": "电幻步枪",
         "code": "zh"
       },
@@ -393,7 +393,7 @@
     "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ambassador-0ff82bef8f.png",
     "name": "Ambassador",
-    "description": "Bring negotiations to an instant conclusion with this Corpus assault rifle. Switch effortlessly between charged explosive sniper shots and rapid-fire electrical assault mode.",
+    "description": "Bring negotiations to an instant conclusion with this Corpus assault rifle. Switch effortlessly between charged explosive shots and rapid-fire electrical assault mode.",
     "languages": [
       {
         "description": "Bringe Verhandlungen mit diesem Corpus Sturmgewehr zu einem sofortigen Abschluss. Wechsel mühelos zwischen aufgeladenen, explosiven Scharfschützenschüssen und elektrischem Schnellfeuer-Sturmangriffsmodus.",
@@ -401,7 +401,7 @@
         "code": "de"
       },
       {
-        "description": "Les réceptions de l'Ambassadeur sont toujours un succès grâce à ce fusil d'assaut Corpus. Passez sans efforts de tirs chargés explosifs de sniper à un mode d'assaut électrique à cadence rapide.",
+        "description": "Les réceptions de l'Ambassadeur sont toujours un succès grâce à ce fusil d'assaut Corpus. Passez sans efforts de tirs chargés explosifs à un mode d'assaut électrique à cadence rapide.",
         "name": "Ambassadeur",
         "code": "fr"
       },
@@ -411,7 +411,7 @@
         "code": "it"
       },
       {
-        "description": "이 코퍼스 돌격 소총으로 눈 깜짝할 새에 협상을 마무리 지어 보세요. 폭발하는 충전형 저격 모드와 빠른 속도로 연사하는 전기탄 돌격 모드 사이를 손쉽게 전환할 수 있습니다.",
+        "description": "이 코퍼스 돌격 소총으로 눈 깜짝할 새에 협상을 마무리 지어 보세요. 폭발하는 충전형 폭발 발사 모드와 빠른 속도로 연사하는 전기탄 돌격 모드 사이를 손쉽게 전환할 수 있습니다.",
         "name": "앰배서더",
         "code": "ko"
       },
@@ -431,7 +431,7 @@
         "code": "ru"
       },
       {
-        "description": "どんな交渉でもこのコーパス製アサルトライフルで決着をつけよう。高速連射モードからチャージ型スナイパーモードに難なく切り替えられる。",
+        "description": "どんな交渉でもこのコーパス製アサルトライフルで決着をつけよう。高速連射モードからチャージモードに難なく切り替えられる。",
         "name": "Ambassador",
         "code": "ja"
       },
@@ -441,7 +441,7 @@
         "code": "pl"
       },
       {
-        "description": "Faça com que as ações logo caiam com este rifle de assalto Corpus. Alterne livremente entre ambos os modos de disparo, projéteis explosivos de longo alcance ou o modo de ataque com disparos elétricos de alta cadência de tiro.",
+        "description": "Faça as ações despencarem com este rifle de assalto Corpus. Alterne livremente entre disparos carregados explosivos ou disparos elétricos de alta cadência de tiro.",
         "name": "Ambassador",
         "code": "pt"
       },
@@ -1903,7 +1903,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：BUBONICO）可远距离投下三连爆炸性病毒囊腔，随后可通过主要射击模式一次性释放出多重毒螫来消灭敌人。",
+        "description": "（英文：BUBONICO）可远距离投下三连爆炸性病毒囊腔，随后可通过主要射击一次性释放出多重毒螫来消灭敌人。",
         "name": "横痃重炮",
         "code": "zh"
       },
@@ -2293,7 +2293,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：CEDO）发射能在表面弹跳并爆发出元素伤害的战刃，然后通过主要射击模式的精准鹿弹来击穿敌人。伤害会随着目标所受到的每个异常状态而增加。当 Lavos 持有他标志性的塞多时，他会将一小部分拾取到的任意弹药转化为主要武器弹药。",
+        "description": "（英文：CEDO）发射能在表面弹跳并爆发出元素伤害的战刃，然后通过主要射击的精准鹿弹来击穿敌人。伤害会随着目标所受到的每个异常状态而增加。当 Lavos 持有他标志性的塞多时，他会将一小部分拾取到的任意弹药转化为主要武器弹药。",
         "name": "塞多",
         "code": "zh"
       },
@@ -2733,7 +2733,7 @@
     "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaHema",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-hema-eda9bfa56a.png",
     "name": "Coda Hema",
-    "description": "The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Multiplier, Status Chance, and Damage.",
+    "description": "The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.",
     "languages": [
       {
         "description": "Der Technocyte-Virus hat nichts an dem Blutdurst der Hema geändert, außer ihn zu steigern. Hat erhöhte Feuerrate, Magazingröße, Krit. Chance, Krit. Multiplikator, Statuschance und Schaden.",
@@ -2741,7 +2741,7 @@
         "code": "de"
       },
       {
-        "description": "Le virus Technocyte n'a fait qu'augmenter la soif de sang de l'Hema. Avec une augmentation de la Cadence de Tir, de la Taille du Chargeur, des Chances de Critique, du Multip. Critique, des Chances de Statut et des Dégâts.",
+        "description": "Le virus Technocyte n'a fait qu'augmenter la soif de sang de l'Hema. Avec une augmentation de la Cadence de Tir, de la Taille du Chargeur, des Chances de Critique, des Dégâts Critiques, des Chances de Statut et des Dégâts.",
         "name": "Hema Coda",
         "code": "fr"
       },
@@ -2751,7 +2751,7 @@
         "code": "it"
       },
       {
-        "description": "테크노사이트 바이러스는 피를 향한 헤마의 갈망을 더욱 강화시켰을 뿐입니다. 일반형에 비해 연사력, 탄창 용량, 치명타 확률, 치명타 배수, 상태 이상 확률 및 피해가 증가합니다.",
+        "description": "테크노사이트 바이러스는 피를 향한 헤마의 갈망을 더욱 강화시켰을 뿐입니다. 일반형에 비해 연사력, 탄창 용량, 치명타 확률, 치명타 피해, 상태 이상 확률 및 피해가 증가합니다.",
         "name": "코다 헤마",
         "code": "ko"
       },
@@ -2761,7 +2761,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：CODA HEMA）科技细胞病毒没有起到什么作用，只是增加了血肢的嗜血性。具有更高的射速、弹匣容量、暴击几率、暴击倍率、触发几率和伤害。",
+        "description": "（英文：CODA HEMA）科技细胞病毒没有起到什么作用，只是增加了血肢的嗜血性。具有更高的射速、弹匣容量、暴击几率、暴击伤害、触发几率和伤害。",
         "name": "终幕·血肢",
         "code": "zh"
       },
@@ -2771,7 +2771,7 @@
         "code": "ru"
       },
       {
-        "description": "テクノサイトウイルスは、Hemaの血への渇望を増大させた。通常版に比べ高めの発射速度、マガジン容量、クリティカル率、クリティカル倍率、状態異常率、ダメージを誇る。",
+        "description": "テクノサイトウイルスは、Hemaの血への渇望を増大させた。通常版に比べ高めの発射速度、マガジン容量、クリティカル率、クリティカルダメージ、状態異常率、ダメージを誇る。",
         "name": "Coda Hema",
         "code": "ja"
       },
@@ -2781,7 +2781,7 @@
         "code": "pl"
       },
       {
-        "description": "O vírus Tecnócito não fez nada além de aumentar a sede de sangue da Hema. Apresenta um aumento na Cadência de Tiro, Tamanho do Carregador, Chance Crítica, Multiplicador Crítico, Chance de Status e Dano.",
+        "description": "O vírus Tecnócito não fez nada além de aumentar a sede de sangue da Hema. Apresenta um aumento na Cadência de Tiro, Tamanho do Carregador, Chance Crítica, Dano Crítico, Chance de Status e Dano.",
         "name": "Hema Coda",
         "code": "pt"
       },
@@ -3276,6 +3276,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeDaikyu/PrimeDaikyuBow",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/daikyu-prime-f768625a93.png",
+    "name": "Daikyu Prime",
+    "description": "Long believed lost, the mighty Daikyu Prime was the pride of many a Tenno dojo. Designed to strike the foe where they are weakest, its powerful shots repay careful marksmanship.",
+    "languages": [
+      {
+        "description": "Longtemps considéré comme perdu, le puissant Daikyu Prime faisait la fierté de nombreux Dojos Tennos. Conçu pour cibler les points faibles des ennemis, ses tirs puissants récompensent un tir précis.",
+        "name": "Daikyu Prime",
+        "code": "fr"
+      },
+      {
+        "description": "강력한 힘을 가졌지만, 오랫동안 사라졌다고 믿어진 다이큐 프라임은 수많은 텐노 도장의 자랑이기도 했습니다. 적의 가장 약한 부분을 노려 타격하도록 설계된 이 활의 강한 화살은 정교한 조준과 함께라면 더욱 그에 걸맞는 위력을 냅니다.",
+        "name": "다이큐 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "（英文：DAIKYU PRIME）长久以来，人们一直认为强大的大久和弓 Prime 早已失传，它是许多 Tenno 道场的骄傲。它旨在直击敌人的弱点，其强大的射击威力与精湛的射击技术相得益彰。",
+        "name": "大久和弓 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "長らく失われたとされていた強力のDaikyu Primeは、テンノの多くのDojoで誇られていた。敵の弱点を付くための力強い射撃は、周到な射手の匠に報いる。",
+        "name": "Daikyu Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Por muito tempo considerado perdido, o poderoso Daikyu Prime era o orgulho de muitos Dojos dos Tennos. Projetado para atingir os pontos fracos do inimigo, seus golpes poderosos recompensam a precisão na pontaria.",
+        "name": "Daikyu Prime",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/ClanTech/Energy/EnergyRifle",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dera-64d79d44e1.png",
     "name": "Dera",
@@ -3697,7 +3730,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：EFV-5 JUPITER）使用这把炽蛇军机枪扫射科腐者和任何胆敢阻挡你的人。次要开火模式使用涂有艾弗旺的霰弹重击目标。",
+        "description": "（英文：EFV-5 JUPITER）使用这把炽蛇军机枪扫射科腐者和任何胆敢阻挡你的人。次要射击使用涂有艾弗旺的霰弹重击目标。",
         "name": "艾弗旺-5 木星",
         "code": "zh"
       },
@@ -8279,7 +8312,7 @@
         "code": "de"
       },
       {
-        "description": "S’appuyant sur l'un des designs les plus anciens du monde, cette arme Tenno peut être utilisée à la fois en toute discrétion et en plein combat. Le Paris utilise un champ magnétique rechargeable pour tirer des flèches capables de clouer les ennemis aux murs.",
+        "description": "S’appuyant sur l'un des modèles les plus anciens du monde, cette arme Tenno peut être utilisée à la fois en toute discrétion et en plein combat. Le Paris utilise un champ magnétique rechargeable pour tirer des flèches capables de clouer les ennemis aux murs.",
         "name": "Paris",
         "code": "fr"
       },
@@ -8357,7 +8390,7 @@
         "code": "de"
       },
       {
-        "description": "Découvert au fin fond d'un antique temple Orokin en ruines, le Paris Prime augmente l'énergie cinétique de chaque flèche qu'il tire, infligeant plus de Dégâts que son homologue plus commun.",
+        "description": "Découvert au fin fond d'un antique temple Orokin en ruine, le Paris Prime augmente l'énergie cinétique de chaque flèche qu'il tire, infligeant plus de Dégâts que son homologue plus commun.",
         "name": "Paris Prime",
         "code": "fr"
       },
@@ -9215,7 +9248,7 @@
         "code": "de"
       },
       {
-        "description": "Lorsque baigné dans de l'Énergie du Néant et imprégné de cristal prisma, le simple Tetra devient un signe ostentatoire de style et de puissance.",
+        "description": "Lorsqu'il est baigné dans de l'Énergie du Néant et imprégné de cristal prisma, le simple Tetra devient un signe ostentatoire de style et de puissance.",
         "name": "Tetra Prisma",
         "code": "fr"
       },
@@ -12745,7 +12778,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：TENORA）释放出强大冲击力的机枪炮火，或者用单发充能射击进行重和弦攻击。当 Octavia 使用她的标志性步枪时，由次要射击模式所造成的爆头击杀有几率立即装填弹匣。",
+        "description": "（英文：TENORA）释放出强大冲击力的机枪炮火，或者用单发充能射击进行重和弦攻击。当 Octavia 使用她的标志性步枪时，由次要射击所造成的爆头击杀有几率立即装填弹匣。",
         "name": "双簧管",
         "code": "zh"
       },
@@ -13447,7 +13480,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：TRUMNA）一把由英择谛所设计的古老武器。主要射击模式可从目标身上吸取生命精华，以助燃次要射击模式带来的毁灭性攻击。这把具有毁灭级火力的重型超大号自动步枪可迅速造成火焰伤害。次要射击模式可呈弧线抛射出一枚跳射弹丸，每次撞击到物体表面和敌人都会造成爆炸伤害。",
+        "description": "（英文：TRUMNA）一把由英择谛所设计的古老武器。主要射击可从目标身上吸取生命精华，以助燃次要射击带来的毁灭性攻击。这把具有毁灭级火力的重型超大号自动步枪可迅速造成火焰伤害。次要射击可呈弧线抛射出一枚跳射弹丸，每次撞击到物体表面和敌人都会造成爆炸伤害。",
         "name": "灭杀者",
         "code": "zh"
       },

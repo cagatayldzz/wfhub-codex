@@ -4830,7 +4830,7 @@
         "code": "pl"
       },
       {
-        "description": "O ilusionismo da Mirage complementa sua força. Seus inimigos ofuscados recebem alto dano. Cópias, lasers, e armadilhas são elementos de sua encenação.",
+        "description": "O ilusionismo da Mirage complementa sua força. Seus inimigos ofuscados recebem alto dano. Cópias, lasers e armadilhas são elementos de sua encenação.",
         "name": "Mirage",
         "code": "pt"
       },
@@ -8605,6 +8605,41 @@
         "description": "Підкорювачка хвиль. Ярелі може викликати потоп і знищити все на бойовищі. Водяні атаки завдають великої шкоди. Верхи на хвилях топіть ворогів.",
         "name": "Ярелі",
         "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Yareli/YareliPrime",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-prime-c4dbed6caa.png",
+    "name": "Yareli Prime",
+    "description": "The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth.",
+    "armor": 105,
+    "aura": "madurai",
+    "languages": [
+      {
+        "description": "Waverider surgit, renaissant de l'écume de l'océan. Dans sa splendeur originelle de l'ère Orokin, elle incarne la vigueur éternelle de la jeunesse.",
+        "name": "Yareli Prime",
+        "code": "fr"
+      },
+      {
+        "description": "바다의 거품에서 다시 태어난 파도의 기수가 일어섭니다. 오로킨 시절 본래 지녔던 화려함 속에, 그녀는 불멸하는 젊음의 활력을 체현하고 있습니다.",
+        "name": "야렐리 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "驭浪者从海浪中重生。她以 Orokin 时代的风采，体现出青春不朽的活力。",
+        "name": "Yareli Prime",
+        "code": "zh"
+      },
+      {
+        "description": "ウェーブライダーが海の泡から甦る。オロキン時代の彼女の姿は若さ故の不滅の活力を表す。",
+        "name": "Yareli Prime",
+        "code": "ja"
+      },
+      {
+        "description": "A Surfista emerge, renascida da espuma do mar. Em seu esplendor original da era Orokin, incorpora o vigor imortal da juventude.",
+        "name": "Yareli Prime",
+        "code": "pt"
       }
     ]
   },

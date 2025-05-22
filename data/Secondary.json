@@ -2031,7 +2031,7 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/athodai-88e24e43f3.png",
     "name": "Athodai",
-    "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Headshots kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
+    "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Weak Point kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
     "languages": [
       {
         "description": "Rückentwickelt aus Antriebs-Tech hat diese Handkanone einen harten Stoß. Kopfschuss-Kills lösen eine Übersteuerung aus, die Sekundärfunktionen ausschaltet, um Feuerrate und Munitionseffizienz für kurze Zeit zu maximieren.",
@@ -2039,7 +2039,7 @@
         "code": "de"
       },
       {
-        "description": "Produit de la rétro-ingénierie de la technologie de propulsion, ce Canon portatif promet un recul mémorable. Les Tirs à la Tête mortels déclenchent une Surcharge qui désactive ses fonctions secondaires tout en maximisant pendant une courte durée sa Cadence de tir et l'Efficacité des Munitions.",
+        "description": "Produit de la rétro-ingénierie de la technologie de propulsion, ce Canon portatif promet un recul mémorable. Les éliminations via Points Faibles déclenchent une Surcharge qui désactive les fonctions secondaires tout en maximisant pendant une courte durée sa Cadence de tir et l'Efficacité des Munitions.",
         "name": "Athodai",
         "code": "fr"
       },
@@ -2049,7 +2049,7 @@
         "code": "it"
       },
       {
-        "description": "로켓 분사 기술에서 역설계된 이 핸드 캐논은 강력한 한방을 선사합니다. 헤드샷 처치 시 오버드라이브 상태를 발동시키며, 잠시간 보조 기능을 잠그는 대신 연사력과 탄약 효율을 최대화할 수 있게 됩니다.",
+        "description": "로켓 분사 기술에서 역설계된 이 핸드 캐논은 강력한 한방을 선사합니다. 약점 처치 시 오버드라이브 상태를 발동시키며, 잠시간 보조 기능을 잠그는 대신 연사력과 탄약 효율을 최대화할 수 있게 됩니다.",
         "name": "아쏘다이",
         "code": "ko"
       },
@@ -2059,7 +2059,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：ATHODAI）这款强力手枪由喷射推进器技术逆向设计而成。爆头击杀会触发超载状态，该状态将关闭次要射击功能，以在短时间内最大化你的射速和弹药效率。",
+        "description": "（英文：ATHODAI）这款强力手枪由喷射推进器技术逆向设计而成。弱点击杀会触发超载状态，该状态将禁用次要射击，并在短时间内最大化你的射速和弹药效率。",
         "name": "阿索代",
         "code": "zh"
       },
@@ -2069,7 +2069,7 @@
         "code": "ru"
       },
       {
-        "description": "ロケット技術から逆行分析されたこのハンド・キャノンはかなりパンチが効く。ヘッドショットキルでオーバードライブを作動し、セカンダリ機能を無効化する代わりに発射速度と弾薬効率を短時間向上させる。",
+        "description": "ロケット技術から逆行分析されたこのハンド・キャノンはかなりパンチが効く。弱点キルでオーバードライブを作動し、セカンダリ機能を無効化する代わりに発射速度と弾薬効率を短時間向上させる。",
         "name": "Athodai",
         "code": "ja"
       },
@@ -2079,7 +2079,7 @@
         "code": "pl"
       },
       {
-        "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Eliminações com Acertos de Precisão provocam uma Sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
+        "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Eliminações com Acertos de Precisão provocam uma sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
         "name": "Athodai",
         "code": "pt"
       },
@@ -2273,7 +2273,7 @@
         "code": "de"
       },
       {
-        "description": "L'Arbalète Ballistica dispose d'un mécanisme unique de double mise à feu, choisissez entre une volée de quatre carreaux ou d'un tir chargé d'une précision mortelle.",
+        "description": "L'Arbalète Ballistica dispose d'un mécanisme unique de double mise à feu, choisissez entre une volée de quatre carreaux ou un tir chargé d'une précision mortelle.",
         "name": "Ballistica",
         "code": "fr"
       },
@@ -3123,7 +3123,7 @@
     "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaPox",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-pox-9603c6b1e9.png",
     "name": "Coda Pox",
-    "description": "These festering, writhing, throwable projectiles of pus and gas have been improved with a greater Magazine Size, Critical Chance, Critical Multiplier, Status Chance, and Damage.",
+    "description": "These festering, writhing, throwable projectiles of pus and gas have been improved with a greater Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.",
     "languages": [
       {
         "description": "Diese schwärenden, sich windenden Wurfprojektile aus Eiter und Gas wurden verbessert. Magazingröße, Krit. Chance, Krit. Multiplikator, Statuschance und Giftschaden sind erhöht.",
@@ -3131,7 +3131,7 @@
         "code": "de"
       },
       {
-        "description": "Ces projectiles de gaz purulents et ondulants ont été améliorés avec une meilleure Taille de Chargeur, des Chances de Critique, un Multip. Critique, des Chances de Statut et des Dégâts.",
+        "description": "Ces projectiles de gaz purulents et ondulants ont été améliorés avec une meilleure Taille de Chargeur, des Chances de Critique, des Dégâts Critiques, des Chances de Statut et des Dégâts.",
         "name": "Pox Coda",
         "code": "fr"
       },
@@ -3141,7 +3141,7 @@
         "code": "it"
       },
       {
-        "description": "이 곪아들어 꿈틀거리는 고름과 가스의 투척용 발사체는 일반형에 비해 더욱 큰 탄창 용량, 치명타 확률, 치명타 배수, 상태 이상 확률 및 피해로 향상되었습니다.",
+        "description": "이 곪아들어 꿈틀거리는 고름과 가스의 투척용 발사체는 일반형에 비해 더욱 큰 탄창 용량, 치명타 확률, 치명타 피해, 상태 이상 확률 및 피해로 향상되었습니다.",
         "name": "코다 폭스",
         "code": "ko"
       },
@@ -3151,7 +3151,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：CODA POX）这些溃烂、扭动、可投掷的脓气投射物已得到改进，具有更高的弹匣容量、暴击几率、暴击倍率、触发几率和伤害。",
+        "description": "（英文：CODA POX）这些溃烂、扭动、可投掷的脓气投射物已得到改进，具有更高的弹匣容量、暴击几率、暴击伤害、触发几率和伤害。",
         "name": "终幕·脓痘",
         "code": "zh"
       },
@@ -3161,7 +3161,7 @@
         "code": "ru"
       },
       {
-        "description": "うごめく膿とガスを濃縮した投擲物。通常版に比べ高めのマガジン容量、クリティカル率、クリティカル倍率、状態異常率、ダメージを誇る。",
+        "description": "うごめく膿とガスを濃縮した投てき物。通常版に比べ高めのマガジン容量、クリティカル率、クリティカルダメージ、状態異常率、ダメージを誇る。",
         "name": "Coda Pox",
         "code": "ja"
       },
@@ -3171,7 +3171,7 @@
         "code": "pl"
       },
       {
-        "description": "Estes projéteis de pus e gás purulentos, retorcidos e arremessáveis, foram aprimorados com um aumento na Capacidade do Carregador, Chance Crítica, Multiplicador Crítico, Chance de Status e Dano.",
+        "description": "Estes projéteis de pus e gás purulentos, retorcidos e arremessáveis, foram aprimorados com um aumento na Capacidade do Carregador, Chance Crítica, Dano Crítico, Chance de Status e Dano.",
         "name": "Pox Coda",
         "code": "pt"
       },
@@ -3201,7 +3201,7 @@
     "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaTysis",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-tysis-674ee70828.png",
     "name": "Coda Tysis",
-    "description": "The Technocyte virus has contorted this Tysis into a more lethal weapon. With increased Damage, Critical Chance, Critical Multiplier and Magazine Capacity.",
+    "description": "The Technocyte virus has contorted this Tysis into a more lethal weapon. With increased Damage, Critical Chance, Critical Damage and Magazine Capacity.",
     "languages": [
       {
         "description": "Das Technocyte-Virus hat diese Tysis in eine noch tödlichere Waffe deformiert. Mit erhöhtem Schaden, Krit. Chance, Krit. Multiplikator und Magazinkapazität.",
@@ -3209,7 +3209,7 @@
         "code": "de"
       },
       {
-        "description": "Le virus Technocyte a transformé ce Tysis en une arme encore plus mortelle. Avec des Dégâts, des Chances de Critique, un Multiplicateur de Critique et une Capacité de Chargeur accrus.",
+        "description": "Le virus Technocyte a transformé ce Tysis en une arme encore plus mortelle. Avec des Dégâts, des Chances de Critique, des Dégâts Critiques et une Capacité de Chargeur accrus.",
         "name": "Tysis Coda",
         "code": "fr"
       },
@@ -3219,7 +3219,7 @@
         "code": "it"
       },
       {
-        "description": "테크노사이트 바이러스는 이 타이시스를 더욱 치명적인 무기로 변형시켰습니다. 피해, 치명타 확률, 치명타 배수 및 탄창 용량이 증가했습니다.",
+        "description": "테크노사이트 바이러스는 이 타이시스를 더욱 치명적인 무기로 변형시켰습니다. 피해, 치명타 확률, 치명타 피해 및 탄창 용량이 증가했습니다.",
         "name": "코다 타이시스",
         "code": "ko"
       },
@@ -3229,7 +3229,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：CODA TYSIS）科技细胞病毒将啐沫者扭曲成更致命的武器。伤害、暴击几率、暴击倍率和弹匣容量均有所提升。",
+        "description": "（英文：CODA TYSIS）科技细胞病毒将啐沫者扭曲成更致命的武器。伤害、暴击几率、暴击伤害和弹匣容量均有所提升。",
         "name": "终幕·啐沫者",
         "code": "zh"
       },
@@ -3239,7 +3239,7 @@
         "code": "ru"
       },
       {
-        "description": "このTysisはテクノサイトウイルスによってより致死的になり、通常より高いダメージ、クリティカル率、クリティカル倍率、マガジン容量を誇る。",
+        "description": "このTysisはテクノサイトウイルスによってより致死的になり、通常より高いダメージ、クリティカル率、クリティカルダメージ、マガジン容量を誇る。",
         "name": "Coda Tysis",
         "code": "ja"
       },
@@ -3249,7 +3249,7 @@
         "code": "pl"
       },
       {
-        "description": "O vírus Tecnócito transformou esta Tysis em uma arma ainda mais letal, aumentando seu Dano, Chance Crítica, Multiplicador de Crítico e Capacidade do Carregador.",
+        "description": "O vírus Tecnócito transformou esta Tysis em uma arma ainda mais letal, aumentando seu Dano, Chance Crítica, Dano Crítico e Capacidade do Carregador.",
         "name": "Tysis Coda",
         "code": "pt"
       },
@@ -3307,7 +3307,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：CYANEX）Sentient 科技与 Corpus 设计的结合，发展出这款致命的次要武器。该武器为全自动，可射出跳飞式、自动导引的弹幕，子弹在撞击时会释放出小一股 <DT_GAS_COLOR>毒气。次要射击模式为可在单次射击中释放剩余的弹药。",
+        "description": "（英文：CYANEX）Sentient 科技与 Corpus 设计的结合，发展出这款致命的次要武器。该武器为全自动，可射出跳飞式、自动导引的弹幕，子弹在撞击时会释放出小一股 <DT_GAS_COLOR>毒气。次要射击为可在单次射击中释放剩余的弹药。",
         "name": "氰毒",
         "code": "zh"
       },
@@ -4555,7 +4555,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：GRIMOIRE）获取阿尔布雷希特·英择谛的全知之力。使用典籍 Mod 增强战甲技能并获得战术优势。次要射击模式发射一颗必定造成 <DT_ELECTRICITY_COLOR>电击异常状态的电弧球。",
+        "description": "（英文：GRIMOIRE）获取阿尔布雷希特·英择谛的全知之力。使用典籍 Mod 增强战甲技能并获得战术优势。次要射击发射一颗必定造成 <DT_ELECTRICITY_COLOR>电击异常状态的电弧球。",
         "name": "魔典",
         "code": "zh"
       },
@@ -4633,7 +4633,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：GRIMOIRE）获取阿尔布雷希特·英择谛的全知之力。使用典籍 Mod 增强战甲技能并获得战术优势。次要射击模式发射一颗必定造成 <DT_ELECTRICITY_COLOR>电击异常状态的电弧球。",
+        "description": "（英文：GRIMOIRE）获取阿尔布雷希特·英择谛的全知之力。使用典籍 Mod 增强战甲技能并获得战术优势。次要射击发射一颗必定造成 <DT_ELECTRICITY_COLOR>电击异常状态的电弧球。",
         "name": "魔典",
         "code": "zh"
       },
@@ -5300,6 +5300,39 @@
         "description": "Визначний пістолет Ярелі, що випускає залп водяних куль, які огортають ціль і вибухають із вражальною силою.",
         "name": "Компресса",
         "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kompressa-prime-2facb539ea.png",
+    "name": "Kompressa Prime",
+    "description": "Glinting like a golden dawn, Yareli Prime’s signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.",
+    "languages": [
+      {
+        "description": "Scintillant comme une aurore dorée, le pistolet emblématique de Yareli Prime engloutit ses ennemis dans une cascade de gouttes d'eau virulentes et explosives. Nul ne peut échapper à la mer.",
+        "name": "Kompressa Prime",
+        "code": "fr"
+      },
+      {
+        "description": "황금빛 새벽처럼 반짝이는 이 야렐리 프라임의 대표 권총은 매섭고도 폭발적인 물방울의 급류로 적을 휩쓸어버립니다. 그 누구도 바다를 벗어날 수는 없습니다.",
+        "name": "콤프렛사 프라임",
+        "code": "ko"
+      },
+      {
+        "description": "（英文：KOMPRESSA PRIME）Yareli Prime 的标志性手枪闪耀着金色黎明般的光芒，将敌人吞噬在一连串的剧毒、爆炸性水弹中。没有人能逃出这片水域。",
+        "name": "卡帕压力枪 Prime",
+        "code": "zh"
+      },
+      {
+        "description": "黄金の夜明けのようにきらめく、Yareli Primeの代名詞とも言えるピストルは、猛毒の爆発性水玉の滝で敵を飲み込む。海の怒りから逃れることはできない。",
+        "name": "Kompressa Prime",
+        "code": "ja"
+      },
+      {
+        "description": "Brilhando como uma aurora dourada, a pistola tradicional da Yareli Prime envolve os inimigos em uma cascata de gotas de água virulentas e explosivas. Ninguém escapa do mar.",
+        "name": "Kompressa Prime",
+        "code": "pt"
       }
     ]
   },
@@ -7129,7 +7162,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：PANDERO）Octavia 的手枪以单发或迅速齐发的方式将子弹打入敌人体内。在被 Octavia 使用时，由次要射击模式所造成的爆头击杀会提升装填速度。",
+        "description": "（英文：PANDERO）Octavia 的手枪以单发或迅速齐发的方式将子弹打入敌人体内。在被 Octavia 使用时，由次要射击所造成的爆头击杀会提升装填速度。",
         "name": "手鼓",
         "code": "zh"
       },
@@ -8221,7 +8254,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：SEPULCRUM）一把由英择谛所设计的古老武器。主要射击模式可从目标身上吸取生命精华，以助燃次要射击模式带来的毁灭性攻击。这把大且沉的双管手枪可发出双股投射弹药，并在撞击时产生强力爆炸。次要射击模式会将手枪置于锁定状态，可追踪多个目标，并释放制导弹药。",
+        "description": "（英文：SEPULCRUM）一把由英择谛所设计的古老武器。主要射击可从目标身上吸取生命精华，以助燃次要射击带来的毁灭性攻击。这把大且沉的双管手枪可发出双股投射弹药，并在撞击时产生强力爆炸。次要射击会将手枪置于锁定状态，可追踪多个目标，并释放制导弹药。",
         "name": "追击者",
         "code": "zh"
       },
@@ -8825,7 +8858,7 @@
         "code": "de"
       },
       {
-        "description": "Envoyez une charge massive d'énergie sur vos cibles",
+        "description": "Envoyez une charge massive d'énergie sur vos cibles.",
         "name": "Staticor",
         "code": "fr"
       },
@@ -9547,7 +9580,7 @@
         "code": "es"
       },
       {
-        "description": "（英文：TENET PLINX）这把重新设计的漫射者可以使用次要射击模式发射一枚投射物将敌人拉近然后爆炸。爆炸后冷却时间会增加以满足电池的电量需求。",
+        "description": "（英文：TENET PLINX）这把重新设计的漫射者可以使用次要射击发射一枚投射物将敌人拉近然后爆炸。爆炸后冷却时间会增加以满足电池的电量需求。",
         "name": "信条·漫射者",
         "code": "zh"
       },

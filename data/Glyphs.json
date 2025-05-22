@@ -38766,6 +38766,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImage2025GCX",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gcx-2025-glyph-e5eac45abd.png",
+    "name": "Gcx 2025 Glyph",
+    "description": "Celebrate GCX with this Glyph.",
+    "languages": [
+      {
+        "description": "Célébrez la GCX avec ce Glyphe.",
+        "name": "Glyphe GCX 2025",
+        "code": "fr"
+      },
+      {
+        "description": "이 글리프와 함께 GCX를 기념해 보세요.",
+        "name": "GCX 2025 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "用这个浮印来庆祝 GCX（游戏社区博览会）。",
+        "name": "GCX 2025 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "このグリフでGCX を祝福しよう。",
+        "name": "GCX 2025 グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Celebre a GCX com este Glifo.",
+        "name": "Glifo: GCX 2025",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGengzi",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gengzi-glyph-e610ca40e9.png",
     "name": "Gengzi Glyph",
@@ -52338,6 +52371,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/KoumeiDiceGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koumei-dice-glyph-68c50bb2f3.png",
+    "name": "Koumei Dice Glyph",
+    "description": "Risk it all with this Koumei Dice Glyph.",
+    "languages": [
+      {
+        "description": "Risquez tout avec ce Glyphe des dés de Koumei.",
+        "name": "Glyphe Dés de Koumei",
+        "code": "fr"
+      },
+      {
+        "description": "이 코우메이 다이스 글리프로 모든 것을 걸고 도전하세요.",
+        "name": "코우메이 다이스 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "利用这个 Koumei 掷骰浮印来孤注一掷吧。",
+        "name": "Koumei 掷骰浮印",
+        "code": "zh"
+      },
+      {
+        "description": "このKoumei Diceグリフに全てを賭けよう。",
+        "name": "Koumei Dice グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Arrisque tudo com este Glifo dos Dados da Koumei.",
+        "name": "Glifo: Dados da Koumei",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageKoumeiBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koumei-glyph---bright-d8256374fc.png",
     "name": "Koumei Glyph - Bright",
@@ -53118,6 +53184,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageKullervoDeluxe",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-apostate-glyph-2c92e33c47.png",
+    "name": "Kullervo Apostate Glyph",
+    "description": "A glyph depicting Kullervo Apostate.",
+    "languages": [
+      {
+        "description": "Un Glyphe représentant Kullervo Apostat.",
+        "name": "Glyphe Kullervo Apostat",
+        "code": "fr"
+      },
+      {
+        "description": "쿨레르보 아포스테이트를 묘사한 글리프입니다.",
+        "name": "쿨레르보 아포스테이트 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "描绘着 Kullervo 叛徒的浮印。",
+        "name": "Kullervo 叛徒浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Khora Apostateを表したグリフ。",
+        "name": "Kullervo Apostate グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Um glifo retratando o Kullervo Apóstata.",
+        "name": "Glifo: Kullervo Apóstata",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImagePaxDuviricusBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-glyph---bright-6cc1a6e88d.png",
     "name": "Kullervo Glyph - Bright",
@@ -53270,6 +53369,39 @@
         "description": "Гліф із зображенням Куллерво на темному тлі.",
         "name": "Темний гліф «Куллерво»",
         "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/KullervoActionGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-in-action-glyph-92e50cd5a8.png",
+    "name": "Kullervo In Action Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Kullervo en Action",
+        "code": "fr"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "쿨레르보 인 액션 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Kullervo 战斗姿态浮印",
+        "code": "zh"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Kullervo アクション グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Kullervo em Ação",
+        "code": "pt"
       }
     ]
   },
@@ -112398,6 +112530,39 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageNightaveCosmos",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xaku-raya-glyph-a5e8746fd7.png",
+    "name": "Xaku Raya Glyph",
+    "description": "A glyph for your profile, showing the Xaku Raya Helmet.",
+    "languages": [
+      {
+        "description": "Un Glyphe pour votre profil, montrant le Casque Xaku Raya.",
+        "name": "Glyphe Xaku Raya",
+        "code": "fr"
+      },
+      {
+        "description": "자쿠 라야 헬멧을 나타내는 프로필을 위한 글리프입니다.",
+        "name": "자쿠 라야 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "个人档案的浮印，显示 Xaku 拉雅头盔。",
+        "name": "Xaku 拉雅浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Xaku Raya ヘルメットが描かれたプロフィール用のグリフ。",
+        "name": "Xaku Raya グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Um glifo para o seu perfil, exibindo o capacete dos Xaku Raya.",
+        "name": "Glifo: Xaku Raya",
+        "code": "pt"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2024XakuGlyph",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xaku-spellcast-glyph-3e187974d9.png",
     "name": "Xaku Spellcast Glyph",
@@ -113564,6 +113729,72 @@
         "description": "Гліф із зображенням Ярелі в шоломі «Фізалія» на темному тлі.",
         "name": "Темний гліф «Ярелі „Фізалія“»",
         "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeBright",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-prime-glyph---bright-eaf5204032.png",
+    "name": "Yareli Prime Glyph - Bright",
+    "description": "A glyph depicting Yareli Prime on a bright background.",
+    "languages": [
+      {
+        "description": "Un Glyphe représentant Yareli Prime sur un fond lumineux.",
+        "name": "Glyphe Yareli Prime - Lumineux",
+        "code": "fr"
+      },
+      {
+        "description": "밝은 배경을 등지고 있는 야렐리 프라임을 묘사한 글리프입니다.",
+        "name": "야렐리 프라임 글리프 - 밝음",
+        "code": "ko"
+      },
+      {
+        "description": "Yareli Prime 在明亮背景下的浮印。",
+        "name": "Yareli Prime 浮印 - 明亮",
+        "code": "zh"
+      },
+      {
+        "description": "明るい背景に描かれたYareli Prime のグリフ。",
+        "name": "Yareli Prime グリフ （明）",
+        "code": "ja"
+      },
+      {
+        "description": "Um glifo retratando a Yareli Prime em um fundo claro.",
+        "name": "Glifo: Yareli Prime (Claro)",
+        "code": "pt"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeDark",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-prime-glyph---dark-c321884946.png",
+    "name": "Yareli Prime Glyph - Dark",
+    "description": "A glyph depicting Yareli Prime on a dark background.",
+    "languages": [
+      {
+        "description": "Un Glyphe représentant Yareli Prime sur un fond sombre.",
+        "name": "Glyphe Yareli Prime - Sombre",
+        "code": "fr"
+      },
+      {
+        "description": "어두운 배경을 등지고 있는 야렐리 프라임을 묘사한 글리프입니다.",
+        "name": "야렐리 프라임 글리프 - 어두움",
+        "code": "ko"
+      },
+      {
+        "description": "Yareli Prime 在黑暗背景下的浮印。",
+        "name": "Yareli Prime 浮印 - 黑暗",
+        "code": "zh"
+      },
+      {
+        "description": "暗い背景に描かれたYareli Primeのグリフ。",
+        "name": "Yareli Prime グリフ （暗）",
+        "code": "ja"
+      },
+      {
+        "description": "Um glifo retratando a Yareli Prime em um fundo escuro.",
+        "name": "Glifo: Yareli Prime (Escuro)",
+        "code": "pt"
       }
     ]
   },
