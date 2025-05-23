@@ -16464,9 +16464,19 @@
     "description": "Display the elegant lines of the cosmos with this Raya series sigil.",
     "languages": [
       {
+        "description": "Zeige die eleganten Linien des Kosmos mit diesem Siegel der Raya-Serie.",
+        "name": "Siegel: Raya Orbitus",
+        "code": "de"
+      },
+      {
         "description": "Affichez les lignes élégantes du cosmos avec ce Sceau de la série Raya.",
         "name": "Sceau Orbitus Raya",
         "code": "fr"
+      },
+      {
+        "description": "Metti in mostra le linee eleganti del cosmo con questo sigillo della serie Raya.",
+        "name": "Sigillo Raya Orbitus",
+        "code": "it"
       },
       {
         "description": "이 라야 시리즈 시질로 우주의 우아한 선들을 표현해 보세요.",
@@ -16474,9 +16484,19 @@
         "code": "ko"
       },
       {
+        "description": "Muestra las elegantes líneas del cosmos con este sello de la serie Raya.",
+        "name": "Sello de Raya Orbitus",
+        "code": "es"
+      },
+      {
         "description": "这款拉雅系列纹章展示了宇宙的优雅线条。",
         "name": "拉雅天轨纹章",
         "code": "zh"
+      },
+      {
+        "description": "Проявите изящные линии космоса с помощью этого сигила из серии «Райя».",
+        "name": "Сигил: Орбитус Райя",
+        "code": "ru"
       },
       {
         "description": "この Raya シリーズのシジルで宇宙の優雅な曲線を飾ろう。",
@@ -16484,9 +16504,34 @@
         "code": "ja"
       },
       {
+        "description": "Reprezentuj delikatne krzywizny kosmosu dzięki Znakowi serii Raya.",
+        "name": "Znak Orbitus Raya",
+        "code": "pl"
+      },
+      {
         "description": "Exiba as linhas elegantes do cosmos com este brasão da série Raya.",
         "name": "Brasão: Raya Orbitus",
         "code": "pt"
+      },
+      {
+        "description": "透過這款拉雅系列的紋章來展現宇宙的優雅線條。",
+        "name": "拉雅天軌紋章",
+        "code": "tc"
+      },
+      {
+        "description": "แสดงความงามแห่งจักรวาลด้วยเครื่องหมายของซีรีส์ Raya ชิ้นนี้",
+        "name": "เครื่องหมาย: Raya Orbitus",
+        "code": "th"
+      },
+      {
+        "description": "Bu Raya serisi mühür ile kozmosun zarif çizgilerini sergile.",
+        "name": "Raya Orbitus Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Покажіть елегантні лінії космосу за допомогою сиґіла серії «Рая».",
+        "name": "Сиґіл «Рая Орбітус»",
+        "code": "uk"
       }
     ]
   },

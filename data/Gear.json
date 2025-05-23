@@ -670,7 +670,7 @@
         "code": "ja"
       },
       {
-        "description": "Używaj wybranego Archgun w każdych warunkach atmosferycznych przy użyciu tego przedmiotu.",
+        "description": "Użycie tego przedmiotu umożliwia użycie wybranego Archguna w warunkach atmosferycznych.",
         "name": "Aktywator Archgun",
         "code": "pl"
       },
@@ -749,7 +749,7 @@
       },
       {
         "description": "Wzywa Archwing do użycia w czasie misji na otwartych mapach.",
-        "name": "Wyrzutnia Archwing",
+        "name": "Przyzwanie Archwinga",
         "code": "pl"
       },
       {

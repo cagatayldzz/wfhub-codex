@@ -396,7 +396,7 @@
     "description": "Bring negotiations to an instant conclusion with this Corpus assault rifle. Switch effortlessly between charged explosive shots and rapid-fire electrical assault mode.",
     "languages": [
       {
-        "description": "Bringe Verhandlungen mit diesem Corpus Sturmgewehr zu einem sofortigen Abschluss. Wechsel mühelos zwischen aufgeladenen, explosiven Scharfschützenschüssen und elektrischem Schnellfeuer-Sturmangriffsmodus.",
+        "description": "Bringe Verhandlungen mit diesem Corpus Sturmgewehr zu einem sofortigen Abschluss. Wechsel mühelos zwischen aufgeladenen, explosiven Schüssen und elektrischem Schnellfeuer-Sturmangriffsmodus.",
         "name": "Ambassador",
         "code": "de"
       },
@@ -416,7 +416,7 @@
         "code": "ko"
       },
       {
-        "description": "Concluye las negociaciones al instante con este rifle de asalto corpus. Cambia fácilmente entre disparos de francotirador cargados y explosivos y el modo de asalto eléctrico de disparo rápido.",
+        "description": "Concluye las negociaciones al instante con este rifle de asalto corpus. Cambia fácilmente entre disparos cargados explosivos y el modo de asalto eléctrico de disparo rápido.",
         "name": "Ambassador",
         "code": "es"
       },
@@ -426,7 +426,7 @@
         "code": "zh"
       },
       {
-        "description": "Эффективно завершайте переговоры с врагами с помощью этой штурмовой винтовки Корпуса. Легко переключайтесь между снайперскими режимом и скорострельным электрическим штурмовым режимом.",
+        "description": "Эффективно завершайте переговоры с врагами с помощью этой штурмовой винтовки Корпуса. Легко переключайтесь между взрывным режимом и скорострельным электрическим штурмовым режимом.",
         "name": "Амбассадор",
         "code": "ru"
       },
@@ -436,7 +436,7 @@
         "code": "ja"
       },
       {
-        "description": "Natychmiast doprowadź negocjacje do końca dzięki temu karabinowi szturmowemu Corpus. Dowolnie przełączaj się między wybuchowymi strzałami snajperskimi, a szybkostrzelnym, elektrycznym trybem szturmowym.",
+        "description": "Natychmiast doprowadź negocjacje do końca dzięki temu karabinowi szturmowemu Corpus. Dowolnie przełączaj się między wybuchowymi strzałami a szybkostrzelnym, elektrycznym trybem szturmowym.",
         "name": "Ambassador",
         "code": "pl"
       },
@@ -446,22 +446,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：AMBASSADOR）透過這個 Corpus 突擊步槍來讓談判立即終結。可以在充能爆炸狙擊及速射帶電突擊模式之間輕鬆切換。",
+        "description": "（英文：AMBASSADOR）透過這個 Corpus 突擊步槍來讓談判立即終結。可以在充能爆炸及速射帶電突擊模式之間輕鬆切換。",
         "name": "大使",
         "code": "tc"
       },
       {
-        "description": "ปืนไรเฟิลจู่โจมของ Corpus กระบอกนี้จะทำให้การเจรจาได้ข้อสรุปในทันที สามารถสลับโหมดยิงได้ง่าย ๆ ระหว่างการยิงปืนสไนเปอร์แบบชาร์จกระสุนระเบิดกับโหมดจู่โจมด้วยไฟฟ้าอย่างรวดเร็ว",
+        "description": "ปืนไรเฟิลจู่โจมของ Corpus กระบอกนี้จะทำให้การเจรจาได้ข้อสรุปในทันที คุณสามารถสลับโหมดยิงได้ง่าย ๆ ระหว่างการยิงกระสุนระเบิดแบบชาร์จกับโหมดยิงจู่โจมด้วยไฟฟ้าอย่างรวดเร็ว",
         "name": "Ambassador",
         "code": "th"
       },
       {
-        "description": "Bu Corpus saldırı tüfeğiyle müzakereleri anında sonuca bağla. Patlayıcı yüklü keskin nişancı atışları ve elektrikli seri-ateş saldırı modu arasında rahatça geçiş yap.",
+        "description": "Bu Corpus saldırı tüfeğiyle müzakereleri anında sonuca bağla. Patlayıcı yüklü atışları ve elektrikli seri-ateş saldırı modu arasında rahatça geçiş yap.",
         "name": "Ambassador",
         "code": "tr"
       },
       {
-        "description": "Автоматична гвинтівка Корпусу, з якою будь-які перемовини завершуються дуже швидко. Має два режими атаки: снайперські постріли й швидкострільні електричні черги.",
+        "description": "Автоматична гвинтівка Корпусу, з якою будь-які перемовини завершуються дуже швидко. Має два режими атаки: вибухові постріли й швидкострільні електричні черги.",
         "name": "Посол",
         "code": "uk"
       }
@@ -2736,7 +2736,7 @@
     "description": "The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.",
     "languages": [
       {
-        "description": "Der Technocyte-Virus hat nichts an dem Blutdurst der Hema geändert, außer ihn zu steigern. Hat erhöhte Feuerrate, Magazingröße, Krit. Chance, Krit. Multiplikator, Statuschance und Schaden.",
+        "description": "Der Technocyte-Virus hat nichts an dem Blutdurst der Hema geändert, außer ihn zu steigern. Hat erhöhte Feuerrate, Magazingröße, Krit. Chance, Krit. Schaden, Statuschance und Schaden.",
         "name": "Coda Hema",
         "code": "de"
       },
@@ -2746,7 +2746,7 @@
         "code": "fr"
       },
       {
-        "description": "Il virus Technocyte non ha fatto altro che aumentare la sete di sangue dell'arma Hema. Presenta una maggiore Cadenza di Tiro, Capienza Caricatore, Probabilità Critico, Moltiplicatore Critico, Probabilità Effetto e Danno.",
+        "description": "Il virus Technocyte non ha fatto altro che aumentare la sete di sangue dell'arma Hema. Presenta una maggiore Cadenza di Tiro, Capienza Caricatore, Probabilità Critico, Danno Critico, Probabilità Effetto e Danno.",
         "name": "Coda Hema",
         "code": "it"
       },
@@ -2756,7 +2756,7 @@
         "code": "ko"
       },
       {
-        "description": "El virus tecnocito no hizo más que aumentar la sed de sangre del Hema. Con mayor cadencia de fuego, tamaño del cargador, probabilidad crítica, multiplicador crítico, probabilidad de estado y daño.",
+        "description": "El virus tecnocito no hizo más que aumentar la sed de sangre del Hema. Con mayor cadencia de fuego, tamaño del cargador, probabilidad crítica, daño crítico, probabilidad de estado y daño.",
         "name": "Hema Coda",
         "code": "es"
       },
@@ -2766,7 +2766,7 @@
         "code": "zh"
       },
       {
-        "description": "Вирус Техноцита не сделал ничего, лишь увеличил кровожадность Гемы. С увеличением скорострельности, ёмкости магазина, шанса критического урона, множителя критического урона, шанса статуса и урона.",
+        "description": "Вирус Техноцита не сделал ничего, лишь увеличил кровожадность Гемы. С увеличением скорострельности, ёмкости магазина, шанса критического урона, критическим уроном, шанса статуса и урона.",
         "name": "Гема Кода",
         "code": "ru"
       },
@@ -2776,7 +2776,7 @@
         "code": "ja"
       },
       {
-        "description": "Wirus Technocytu tylko zwiększył pragnienie krwi broni Hema. Wariant Cody zyskuje poprawione statystyki Szybkostrzelności, Pojemności Magazynka, Szansy i Mnożnika Obr. Krytycznych, Szansy Statusu i Obrażeń.",
+        "description": "Wirus Technocytu tylko zwiększył pragnienie krwi broni Hema. Wariant Cody zyskuje poprawione statystyki Szybkostrzelności, Pojemności Magazynka, Szansy Obr. Krytycznych, Obr. Krytycznych, Szansy Statusu i Obrażeń.",
         "name": "Hema Cody",
         "code": "pl"
       },
@@ -2786,22 +2786,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：CODA HEMA）技改細胞病毒只增強了血肢嗜血的渴望。具有更高的射速、彈匣容量、暴擊機率、暴擊倍率、狀態觸發機率，及傷害。",
+        "description": "（英文：CODA HEMA）技改細胞病毒只增強了血肢嗜血的渴望。具有更高的射速、彈匣容量、暴擊機率、暴擊傷害、狀態觸發機率，及傷害。",
         "name": "勾瘩 血肢",
         "code": "tc"
       },
       {
-        "description": "ไวรัส Technocyte ทำให้ความกระหายเลือดของ Hema เพิ่มขึ้นพร้อมทั้งมีอัตราการยิง ขนาดแม็กกาซีน โอกาสคริติคอล ตัวคูณคริติคอล โอกาสสถานะ และความเสียหายเพิ่มขึ้น",
+        "description": "ไวรัส Technocyte ทำให้ความกระหายเลือดของ Hema เพิ่มขึ้นพร้อมทั้งมีอัตราการยิง ขนาดแม็กกาซีน โอกาสคริติคอล ความเสียหายคริติคอล โอกาสสถานะ และความเสียหายเพิ่มขึ้น",
         "name": "Coda Hema",
         "code": "th"
       },
       {
-        "description": "Technocyte virüsü Hema'nın kana olan susuzluğunu artırdı. Artırılmış Atış Oranı, Şarjör Boyutu, Kritik Şansı, Kritik Çarpanı, Statü Şansı ve Hasar sunar.",
+        "description": "Technocyte virüsü Hema'nın kana olan susuzluğunu artırdı. Artırılmış Atış Oranı, Şarjör Boyutu, Kritik Şansı, Kritik Hasar, Statü Şansı ve Hasar sunar.",
         "name": "Coda Hema",
         "code": "tr"
       },
       {
-        "description": "Техноцитний вірус посилив кровожерливість Геми. Зброя має поліпшені показники шкоди, швидкострільності, місткості магазину, імовірності критичної шкоди та накладання ефекту стану, множника критичної шкоди.",
+        "description": "Техноцитний вірус посилив кровожерливість Геми. Зброя має поліпшені показники шкоди, швидкострільності, місткості магазину, імовірності та величини критичної шкоди, імовірності накладання ефекту стану.",
         "name": "Гема-кода",
         "code": "uk"
       }
@@ -3282,9 +3282,19 @@
     "description": "Long believed lost, the mighty Daikyu Prime was the pride of many a Tenno dojo. Designed to strike the foe where they are weakest, its powerful shots repay careful marksmanship.",
     "languages": [
       {
+        "description": "Der mächtige Daikyu Prime galt lange als verloren, und war der Stolz vieler Tenno Dojos. Er wurde entwickelt, um Gegner dort zu treffen, wo sie am schwächsten sind und seine mächtigen Schüsse sorgfältiges Schießen belohnen.",
+        "name": "Daikyu Prime",
+        "code": "de"
+      },
+      {
         "description": "Longtemps considéré comme perdu, le puissant Daikyu Prime faisait la fierté de nombreux Dojos Tennos. Conçu pour cibler les points faibles des ennemis, ses tirs puissants récompensent un tir précis.",
         "name": "Daikyu Prime",
         "code": "fr"
+      },
+      {
+        "description": "A lungo creduto perduto, il potente Daikyu Prime è stato l'orgoglio di molti dojo Tenno. Progettato per colpire il nemico dove è più debole, i suoi colpi potenti richiedono un'attenta mira.",
+        "name": "Daikyu Prime",
+        "code": "it"
       },
       {
         "description": "강력한 힘을 가졌지만, 오랫동안 사라졌다고 믿어진 다이큐 프라임은 수많은 텐노 도장의 자랑이기도 했습니다. 적의 가장 약한 부분을 노려 타격하도록 설계된 이 활의 강한 화살은 정교한 조준과 함께라면 더욱 그에 걸맞는 위력을 냅니다.",
@@ -3292,9 +3302,19 @@
         "code": "ko"
       },
       {
+        "description": "Considerado perdido durante mucho tiempo, el poderoso Daikyu Prime fue el orgullo de muchos dojos tenno. Diseñado para golpear al enemigo en sus puntos más débiles, sus potentes flechazos recompensan la precisión de la puntería.",
+        "name": "Daikyu Prime",
+        "code": "es"
+      },
+      {
         "description": "（英文：DAIKYU PRIME）长久以来，人们一直认为强大的大久和弓 Prime 早已失传，它是许多 Tenno 道场的骄傲。它旨在直击敌人的弱点，其强大的射击威力与精湛的射击技术相得益彰。",
         "name": "大久和弓 Prime",
         "code": "zh"
+      },
+      {
+        "description": "Долго считавшийся утерянным, могучий Дайкю Прайм был гордостью многих додзё Тэнно. Сила, требуемая для его использования, вознаграждается дополнительной дальностью и мощью.",
+        "name": "Дайкю Прайм",
+        "code": "ru"
       },
       {
         "description": "長らく失われたとされていた強力のDaikyu Primeは、テンノの多くのDojoで誇られていた。敵の弱点を付くための力強い射撃は、周到な射手の匠に報いる。",
@@ -3302,9 +3322,34 @@
         "code": "ja"
       },
       {
+        "description": "Od dawna uważany za zaginiony, potężny Daikyu Prime był dumą wielu Dojo Tenno. Zaprojektowany, by trafiać wroga tam, gdzie jest najsłabszy, jego potężne strzały nagradzają precyzję.",
+        "name": "Daikyu Prime",
+        "code": "pl"
+      },
+      {
         "description": "Por muito tempo considerado perdido, o poderoso Daikyu Prime era o orgulho de muitos Dojos dos Tennos. Projetado para atingir os pontos fracos do inimigo, seus golpes poderosos recompensam a precisão na pontaria.",
         "name": "Daikyu Prime",
         "code": "pt"
+      },
+      {
+        "description": "（英文：DAIKYU PRIME）長久以來被認為早已遺失的強力大久弓 Prime，曾是無數 Tenno 道場的驕傲。專攻敵方要害的設計，使強而有力的射擊呼應百發百中的箭術。",
+        "name": "大久和弓 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "เชื่อกันมานานแล้วว่า Daikyu Prime ที่ทรงอานุภาพที่เคยสูญหายไปนั้นเป็นความภาคภูมิใจของ Dojo ของ Tenno หลายแห่ง เป็นอาวุธที่ถูกออกแบบมาเพื่อโจมตีศัตรูในจุดที่อ่อนแอที่สุด การยิงอย่างแม่นยำจะให้ผลตอบแทนด้วยการโจมตีที่ทรงพลัง",
+        "name": "Daikyu Prime",
+        "code": "th"
+      },
+      {
+        "description": "Uzun zamandır kayıp olduğuna inanılan kudretli Daikyu Prime, birçok Tenno dojosunun gururuydu. Düşmanı en zayıf olduğu yerden vurmak için tasarlanmış bu silah, güçlü atışlarıyla dikkatli nişancıları ödüllendirir.",
+        "name": "Daikyu Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Могутній Дайк’ю-прайм, що вважається зниклим, був колись гордістю доджьо тенно. Створений для ураження в слабкі місця він винагороджує вправне прицілювання потужними пострілами.",
+        "name": "Дайк’ю-прайм",
+        "code": "uk"
       }
     ]
   },

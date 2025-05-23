@@ -2112,7 +2112,7 @@
     "description": "Rip and shred your enemies to pieces with the Coda Hirudo. With improved Damage, Status Chance, Critical Chance, and Critical Damage.",
     "languages": [
       {
-        "description": "Mit der Coda Hirudo, kannst du deine Feinde in Stücke reißen, dank erhöhtem Schaden, Statuschance, Krit. Chance und Krit. Multiplikator.",
+        "description": "Mit der Coda Hirudo, kannst du deine Feinde in Stücke reißen, dank erhöhtem Schaden, Statuschance, Krit. Chance und Krit. Schaden.",
         "name": "Coda Hirudo",
         "code": "de"
       },
@@ -2132,7 +2132,7 @@
         "code": "ko"
       },
       {
-        "description": "Destroza a tus enemigos con las Hirudo Coda. Con daño, probabilidad de estado, probabilidad crítica y multiplicador crítico mejorados.",
+        "description": "Destroza a tus enemigos con las Hirudo Coda. Con daño, probabilidad de estado, probabilidad crítica y daño crítico mejorados.",
         "name": "Hirudo Coda",
         "code": "es"
       },
@@ -2142,7 +2142,7 @@
         "code": "zh"
       },
       {
-        "description": "Разрывайте и крошите своих врагов на куски с Хирудо Кода. С улучшенным уроном, шансом статуса, шансом критического урона и множителем критического урона.",
+        "description": "Разрывайте и крошите своих врагов на куски с Хирудо Кода. С улучшенным уроном, шансом статуса, шансом критического урона и критическим уроном.",
         "name": "Хирудо Кода",
         "code": "ru"
       },
@@ -2152,7 +2152,7 @@
         "code": "ja"
       },
       {
-        "description": "Rozedrzyj wrogów na strzępy dzięki Hirudo Cody. Zyskuje poprawione statystyki Obrażeń, Szansy Statusu, Szansy Obr. Krytycznych i Mnożnika Obr. Krytycznych.",
+        "description": "Rozedrzyj wrogów na strzępy dzięki Hirudo Cody. Zyskuje poprawione statystyki Obrażeń, Szansy Statusu, Szansy Obr. Krytycznych i Obr. Krytycznych.",
         "name": "Hirudo Cody",
         "code": "pl"
       },
@@ -2162,22 +2162,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：CODA HIRUDO）使用勾瘩螞蟥來撕裂並粉碎敵人。具有改善過的傷害、狀態觸發機率、暴擊機率，及暴擊倍率。",
+        "description": "（英文：CODA HIRUDO）使用勾瘩螞蟥來撕裂並粉碎敵人。具有改善過的傷害、狀態觸發機率、暴擊機率，及暴擊傷害。",
         "name": "勾瘩 螞蟥",
         "code": "tc"
       },
       {
-        "description": "ฉีกและทำลายศัตรูให้เป็นชิ้นเล็กชิ้นน้อยด้วย Coda Hirudo ที่ได้ปรับปรุงความเสียหาย โอกาสสถานะ โอกาสคริติคอล และตัวคูณคริติคอลให้ดีขึ้น",
+        "description": "ฉีกและทำลายศัตรูให้เป็นชิ้นเล็กชิ้นน้อยด้วย Coda Hirudo ที่ได้ปรับปรุงความเสียหาย โอกาสสถานะ โอกาสคริติคอล และความเสียหายคริติคอลให้ดีขึ้น",
         "name": "Coda Hirudo",
         "code": "th"
       },
       {
-        "description": "Düşmanlarını Coda Hirudo ile parçalara ayır. Artırılmış Hasar, Statü Şansı, Kritik Şans ve Kritik Çarpan sunar.",
+        "description": "Düşmanlarını Coda Hirudo ile parçalara ayır. Artırılmış Hasar, Statü Şansı, Kritik Şans ve Kritik Hasar sunar.",
         "name": "Coda Hirudo",
         "code": "tr"
       },
       {
-        "description": "Рвіть та шматуйте ворогів рукавицями, зміненими техноцитним вірусом. Зброя має поліпшені показники звичайної та критичної шкоди, множника критичної шкоди, імовірності накладання ефектів стану.",
+        "description": "Рвіть та шматуйте ворогів рукавицями, зміненими техноцитним вірусом. Зброя має поліпшені показники звичайної шкоди, імовірності та величини критичної шкоди, імовірності накладання ефектів стану.",
         "name": "Гірудо-кода",
         "code": "uk"
       }
@@ -2346,7 +2346,7 @@
     "description": "Enhanced by Technocyte mutations, the Coda Pathocyst comes with increased Damage, Critical Chance, Critical Damage and Status Chance. While in-flight or on contact with the enemy, it will occasionally spawn enhanced, enemy-seeking miasmites.",
     "languages": [
       {
-        "description": "Die durch Technocyte-Mutationen verbesserte Coda Pathocyst verfügt über erhöhten Schaden, Krit. Chance, Krit. Multiplikator und Statuschance. Während des Flugs oder bei Kontakt mit dem Feind erzeugt sie gelegentlich verbessert, zielsuchende Miasmite.",
+        "description": "Die durch Technocyte-Mutationen verbesserte Coda Pathocyst verfügt über erhöhten Schaden, Krit. Chance, Krit. Schaden und Statuschance. Während des Flugs oder bei Kontakt mit dem Feind erzeugt sie gelegentlich verbessert, zielsuchende Miasmite.",
         "name": "Coda Pathocyst",
         "code": "de"
       },
@@ -2356,7 +2356,7 @@
         "code": "fr"
       },
       {
-        "description": "Potenziato dalle mutazioni Technocyte, il Coda Pathocyst presenta maggiori Danni, Probabilità Critico, Moltiplicatore Critico e Probabilità Effetto. Mentre sei a mezz'aria o a contatto con il nemico, genererà occasionalmente dei miasmiti che ricercano il nemico.",
+        "description": "Potenziato dalle mutazioni Technocyte, il Coda Pathocyst presenta maggiori Danni, Probabilità Critico, Danno Critico e Probabilità Effetto. Mentre sei a mezz'aria o a contatto con il nemico, genererà occasionalmente dei miasmiti che ricercano il nemico.",
         "name": "Coda Pathocyst",
         "code": "it"
       },
@@ -2366,7 +2366,7 @@
         "code": "ko"
       },
       {
-        "description": "Mejorado por mutaciones de tecnocitos, la Pathocyst Coda ofrece mayor daño, probabilidad crítica, multiplicador crítico y probabilidad de estado. En vuelo o al contacto con el enemigo, ocasionalmente genera miasmitas mejoradas que buscan enemigos.",
+        "description": "Mejorado por mutaciones de tecnocitos, la Pathocyst Coda ofrece mayor daño, probabilidad crítica, daño crítico y probabilidad de estado. En vuelo o al contacto con el enemigo, ocasionalmente genera miasmitas mejoradas que buscan enemigos.",
         "name": "Pathocyst Coda",
         "code": "es"
       },
@@ -2376,7 +2376,7 @@
         "code": "zh"
       },
       {
-        "description": "Улучшенный мутациями Техноцита, Кода Патоцист приходит с увеличенным уроном, шансом критического урона, множителем критического урона и шансом статуса. Во время полёта или при контакте с врагом, он будет время от времени порождать усиленные точки, ищущие врагов миазмитов.",
+        "description": "Улучшенный мутациями Техноцита, Кода Патоцист приходит с увеличенным уроном, шансом критического урона, критическим уроном и шансом статуса. Во время полёта или при контакте с врагом, он будет время от времени порождать усиленные точки, ищущие врагов миазмитов.",
         "name": "Патоцист Кода",
         "code": "ru"
       },
@@ -2386,7 +2386,7 @@
         "code": "ja"
       },
       {
-        "description": "Rozwinięty przez mutacje Technocytu, Pathocyst Cody zyskuje poprawione statystyki Obrażeń, Szansy i Mnożnika Obr. Krytycznych, oraz Szansy Statusu. Rzucona broń może także stworzyć także Miazmity w trakcie lotu, lub przy trafieniu wroga.",
+        "description": "Rozwinięty przez mutacje Technocytu, Pathocyst Cody zyskuje poprawione statystyki Obrażeń, Szansy Obr. Krytycznych, Obr. Krytycznych oraz Szansy Statusu. Rzucona broń może także stworzyć Miazmity w trakcie lotu lub przy trafieniu wroga.",
         "name": "Pathocyst Cody",
         "code": "pl"
       },
@@ -2396,22 +2396,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：CODA PATHOCYST）勾瘩病囊飛刃透過技改細胞變異而強大，具有更高的傷害、暴擊機率、暴擊倍率，及狀態觸發機率。飛行過程中或接觸敵人時，偶爾會生成強化的尋敵瘴蟎。",
+        "description": "（英文：CODA PATHOCYST）勾瘩病囊飛刃透過技改細胞變異而強大，具有更高的傷害、暴擊機率、暴擊傷害，及狀態觸發機率。飛行過程中或接觸敵人時，偶爾會生成強化的尋敵瘴蟎。",
         "name": "勾瘩 病囊飛刃",
         "code": "tc"
       },
       {
-        "description": "Coda Pathocyst ได้รับการปรับปรุงเพิ่มขึ้นจาก Technocyte กลายพันธุ์ที่มาพร้อมกับความเสียหาย โอกาสคริติคอล ตัวคูณคริติคอล และโอกาสสถานะที่เพิ่มขึ้น ในระหว่างที่บินหรือสัมผัสกับศัตรู บางครั้งก็จะสร้าง Miasmite ตัวใหม่ออกมาตามหาศัตรู",
+        "description": "Coda Pathocyst ได้รับการปรับปรุงเพิ่มขึ้นมาจาก Technocyte กลายพันธุ์ที่มาพร้อมกับความเสียหาย โอกาสคริติคอล ความเสียหายคริติคอล และโอกาสสถานะที่เพิ่มขึ้น ในระหว่างที่บินหรือสัมผัสกับศัตรู บางครั้งก็จะสร้าง Miasmite ตัวใหม่ออกมาเพื่อติดตามหาศัตรู",
         "name": "Coda Pathocyst",
         "code": "th"
       },
       {
-        "description": "Technocyte mutasyonları tarafından güçlendirilen Coda Pathocyst, artırılmış Hasar, Kritik Şans, Kritik Çarpanı ve Statü Şansı ile birlikte gelir. Uçuş halindeyken veya düşmanla temas halindeyken, güçlendirilmiş ve düşmanın peşinden giden miasmite'ları belirli aralıklarla ortaya çıkarır.",
+        "description": "Technocyte mutasyonları tarafından güçlendirilen Coda Pathocyst, artırılmış Hasar, Kritik Şans, Kritik Hasar ve Statü Şansı ile birlikte gelir. Uçuş halindeyken veya düşmanla temas halindeyken, güçlendirilmiş ve düşmanın peşinden giden miasmite'ları belirli aralıklarla ortaya çıkarır.",
         "name": "Coda Pathocyst",
         "code": "tr"
       },
       {
-        "description": "Техноцитний вірус змінив звичний Патоцист. Зброя має поліпшені показники шкоди, множника критичної шкоди, імовірності критичної шкоди та накладання ефекту стану. У польоті або у разі влучання у ворога іноді створюватиме поліпшених личинок, які шукатимуть ворогів.",
+        "description": "Техноцитний вірус змінив звичний Патоцист. Зброя має поліпшені показники шкоди, імовірності та величини критичної шкоди, імовірності накладання ефекту стану. У польоті або у разі влучання у ворога іноді створюватиме поліпшених личинок, які шукатимуть ворогів.",
         "name": "Патоцист-кода",
         "code": "uk"
       }
@@ -2479,7 +2479,7 @@
         "code": "tc"
       },
       {
-        "description": "การโจมตีหนักจะเปลี่ยน Corufell ให้เป็นใบมีดปืนชั่วคราว หลังจากยิงด้วยใบมีดปืนแล้ว Corufell ก็จะกลับไปเป็นเคียวหนักอีกครั้ง หาก Citrine เป็นผู้ใช้อาวุธชิ้นนี้ก็จะยิ่งทำให้เปลี่ยนสภาพได้เร็วที่สุดอีกด้วย",
+        "description": "การโจมตีหนักจะเปลี่ยน Corufell ให้เป็นดาบปืนชั่วคราว หลังจากยิงด้วยดาบปืนแล้ว Corufell ก็จะกลับไปเป็นเคียวหนักอีกครั้ง หาก Citrine เป็นผู้ใช้อาวุธชิ้นนี้ก็จะยิ่งทำให้เปลี่ยนสภาพได้เร็วที่สุดอีกด้วย",
         "name": "Corufell",
         "code": "th"
       },
@@ -4201,7 +4201,7 @@
       },
       {
         "description": "Bu altın Kamaların his dolu çizgileri Tenno silah üretimi sanatının üstün bir parçası olarak uzun süreler boyunca saygı görmüştür.",
-        "name": "Dual Kama Prime",
+        "name": "Dual Kamas Prime",
         "code": "tr"
       },
       {
@@ -11771,7 +11771,7 @@
         "code": "tr"
       },
       {
-        "description": "Нунчаки — шана прадавній бойовій майстерності. Завдає блискавичні удари.",
+        "description": "Нунчаки — шана прадавній бойовій майстерності. Зброя завдає блискавичних ударів.",
         "name": "Нінконді",
         "code": "uk"
       }
@@ -14803,12 +14803,12 @@
         "code": "tc"
       },
       {
-        "description": "Redeemer สามารถโจมตีด้วยมีดคู่ใหญ่ และยิงด้วยปืนลูกซองที่ติดตั้งในตัวเพื่อถล่มศัตรู",
+        "description": "Redeemer สามารถโจมตีด้วยดาบคู่ใหญ่ และยิงด้วยปืนลูกซองที่ติดตั้งในตัวเพื่อถล่มศัตรู",
         "name": "Redeemer",
         "code": "th"
       },
       {
-        "description": "Çiftli saldırı bıçağı ve dahili shotgun ile Redeemer tam bir suikast silahıdır.",
+        "description": "İkili saldırı bıçağı ve dahili pompalı tüfeği ile Redeemer, hedefin işini hızla bitirir.",
         "name": "Redeemer",
         "code": "tr"
       },
@@ -14881,7 +14881,7 @@
         "code": "tc"
       },
       {
-        "description": "จัดการกับศัตรูด้วยสองคมดาบและสองลำกล้องด้วยอาวุธใบมีดปืนระดับ Prime ที่แสนอันตรายชิ้นนี้",
+        "description": "จัดการกับศัตรูด้วยสองคมดาบและสองลำกล้องด้วยอาวุธดาบปืนระดับ Prime ที่แสนอันตรายชิ้นนี้",
         "name": "Redeemer Prime",
         "code": "th"
       },
@@ -19171,7 +19171,7 @@
         "code": "tc"
       },
       {
-        "description": "ฟาดฟันและระเบิดไปพร้อมกันด้วยใบมีดปืนหนักที่ออกแบบโดย Grineer ที่โหดเหี้ยม ความเสียหายจากการฟันจะยิ่งสูงขึ้นหากจับคู่กับการโจมตีด้วยปืนลูกซองหนัก",
+        "description": "ฟาดฟันและระเบิดไปพร้อมกันด้วยดาบปืนหนักที่ออกแบบโดย Grineer ที่โหดเหี้ยม ความเสียหายจากการฟันจะยิ่งสูงขึ้นหากจับคู่กับการโจมตีด้วยปืนลูกซองหนัก",
         "name": "Vastilok",
         "code": "th"
       },

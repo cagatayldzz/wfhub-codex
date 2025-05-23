@@ -2034,7 +2034,7 @@
     "description": "Reverse-engineered from propulsion tech this hand-cannon packs a kick. Weak Point kills trigger Overdrive, locking off secondary functions while maximizing your fire rate and ammo efficiency for a short time.",
     "languages": [
       {
-        "description": "Rückentwickelt aus Antriebs-Tech hat diese Handkanone einen harten Stoß. Kopfschuss-Kills lösen eine Übersteuerung aus, die Sekundärfunktionen ausschaltet, um Feuerrate und Munitionseffizienz für kurze Zeit zu maximieren.",
+        "description": "Rückentwickelt aus Antriebs-Tech hat diese Handkanone einen harten Stoß. Schwachstellen-Kills lösen eine Übersteuerung aus, die Sekundärfunktionen ausschaltet, um Feuerrate und Munitionseffizienz für kurze Zeit zu maximieren.",
         "name": "Athodai",
         "code": "de"
       },
@@ -2044,7 +2044,7 @@
         "code": "fr"
       },
       {
-        "description": "Prodotto reingegnerizzato dalla tecnologia di propulsione, questo cannone racchiude una grande forza. Le uccisioni con i Colpi alla Testa attivano l'Overdrive bloccando le funzioni secondarie, mentre viene massimizzata la tua Cadenza di Tiro e l'efficienza munizioni per un breve periodo di tempo.",
+        "description": "Prodotto reingegnerizzato dalla tecnologia di propulsione, questo cannone racchiude una grande forza. Le uccisioni sui Punti Deboli attivano l'Overdrive bloccando le funzioni secondarie, mentre viene massimizzata la tua Cadenza di Tiro e l'efficienza munizioni per un breve periodo di tempo.",
         "name": "Athodai",
         "code": "it"
       },
@@ -2054,7 +2054,7 @@
         "code": "ko"
       },
       {
-        "description": "Por ingeniería inversa de tecnología de propulsión, este cañón de mano contiene una fuerza tremenda. Los asesinatos por disparos a la cabeza activan la sobrecarga, bloqueando las funciones secundarias mientras maximizan tu cadencia de fuego y eficiencia de munición por un corto periodo de tiempo.",
+        "description": "Por ingeniería inversa de tecnología de propulsión, este cañón de mano tiene un gran impacto. Los asesinatos por puntos débiles activan la sobrecarga, bloqueando las funciones secundarias mientras maximizan tu cadencia de fuego y eficiencia de munición por un corto periodo de tiempo.",
         "name": "Athodai",
         "code": "es"
       },
@@ -2064,7 +2064,7 @@
         "code": "zh"
       },
       {
-        "description": "Эта ручная пушка, созданная с применением реактивных технологий, обладает большой отдачей. Выстрелы в голову вызывают Перегрузку, кратковременно выключая вторичные функции и одновременно доводя до максимума скорострельность и эффективность боеприпасов.",
+        "description": "Эта ручная пушка, созданная с применением реактивных технологий, обладает большой отдачей. Выстрелы по уязвимым местам вызывают Перегрузку, кратковременно выключая вторичные функции и одновременно доводя до максимума скорострельность и эффективность боеприпасов.",
         "name": "Атодай",
         "code": "ru"
       },
@@ -2074,7 +2074,7 @@
         "code": "ja"
       },
       {
-        "description": "Ciężki pistolet o znacznej sile obalającej. Został wytworzony poprzez inżynierię wsteczną silnika odrzutowego. Zabójstwa strzałem w głowę przyznają premię Przeciążenia,. która przez krótki czas zwiększa szybkostrzelność i wydajność amunicji kosztem zablokowania ognia alternatywnego.",
+        "description": "Ciężki pistolet o znacznej sile obalającej. Został wytworzony poprzez inżynierię wsteczną silnika odrzutowego. Zabójstwa trafieniem w słaby punkt przyznają premię Przeciążenia, która przez krótki czas zwiększa Szybkostrzelność i Wydajność Amunicji kosztem zablokowania Ognia alternatywnego.",
         "name": "Athodai",
         "code": "pl"
       },
@@ -2084,22 +2084,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：ATHODAI）這把手銃是由噴射推進科技逆向工程設計而成，後座力極強。爆頭擊殺會觸發超載並關閉輔助功能，短暫地將射速及彈藥效率最大化。",
+        "description": "（英文：ATHODAI）這把手銃是由噴射推進科技逆向工程設計而成，後座力極強。弱點擊殺會觸發超載並關閉輔助功能，短暫地將射速及彈藥效率最大化。",
         "name": "厄索戴",
         "code": "tc"
       },
       {
-        "description": "ปืนใหญ่มือที่ออกแบบวิศวกรรมแบบย้อนกลับจากเทคโนโลยีขับเคลื่อนกระบอกนี้มีพลังโจมตีที่รุนแรง หากฆ่าโดยยิงเฮดช็อตจะทำให้เกิดโอเวอร์ไดรฟ์ ซึ่งจะล็อกฟังก์ชันโหมดยิงสำรองแต่ในขณะเดียวกันก็จะเพิ่มอัตราการยิงและประสิทธิภาพของกระสุนให้มีค่าสูงสุดในช่วงเวลาสั้น ๆ",
+        "description": "ปืนใหญ่ถือด้วยมือที่ออกแบบโดยใช้วิศวกรรมแบบย้อนกลับจากเทคโนโลยีขับเคลื่อนกระบอกนี้มีพลังโจมตีที่รุนแรง หากฆ่าโดยยิงที่จุดอ่อนจะทำให้เกิดโอเวอร์ไดรฟ์ ซึ่งจะล็อกฟังก์ชันโหมดยิงสำรองแต่ในขณะเดียวกันก็จะเพิ่มอัตราการยิงและประสิทธิภาพของกระสุนให้มีค่าสูงสุดในช่วงเวลาสั้น ๆ",
         "name": "Athodai",
         "code": "th"
       },
       {
-        "description": "İtici güç teknolojisinden ters mühendislik ile dizayn edilen bu patlar silahın etkisi çok keskin. Kafa Vuruşları ile öldürme Aşırı Yüklenmeyi tetikler; ateş hızı ve cephane verimliliğini kısa süreliğine maksimum seviyeye çıkarırken ikincil özelliklerin kullanımına engel olur.",
+        "description": "İtici güç teknolojisinden ters mühendislik ile dizayn edilen bu patlar silahın etkisi çok keskin. Zayıf Nokta ile öldürme Aşırı Yüklenmeyi tetikler; ateş hızı ve cephane verimliliğini kısa süreliğine maksimum seviyeye çıkarırken ikincil özelliklerin kullanımına engel olur.",
         "name": "Athodai",
         "code": "tr"
       },
       {
-        "description": "Ручна гармата, потужність і віддачу якої забезпечують технології зорелітних рушіїв. Влучання в голову з Атодая забезпечать вас станом «Надзусилля», яке тимчасово блокує можливість ведення вогню під час альтернативної атаки, але збільшує швидкострільність та дієвість набоїв.",
+        "description": "Ручна гармата, потужність і віддачу якої забезпечують технології зорелітних рушіїв. Убивства влучанням у слабкі місця з Атодая забезпечать вас станом «Надзусилля», яке тимчасово блокує можливість ведення вогню під час альтернативної атаки, але збільшує швидкострільність та дієвість набоїв.",
         "name": "Атодай",
         "code": "uk"
       }
@@ -3126,7 +3126,7 @@
     "description": "These festering, writhing, throwable projectiles of pus and gas have been improved with a greater Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.",
     "languages": [
       {
-        "description": "Diese schwärenden, sich windenden Wurfprojektile aus Eiter und Gas wurden verbessert. Magazingröße, Krit. Chance, Krit. Multiplikator, Statuschance und Giftschaden sind erhöht.",
+        "description": "Diese schwärenden, sich windenden Wurfprojektile aus Eiter und Gas wurden verbessert. Magazingröße, Krit. Chance, Krit. Schaden, Statuschance und Giftschaden sind erhöht.",
         "name": "Coda Pox",
         "code": "de"
       },
@@ -3136,7 +3136,7 @@
         "code": "fr"
       },
       {
-        "description": "Questi proiettili contorti e purulenti di pus e gas presentano un Caricatore più grande, una maggiore Probabilità Critico, Moltiplicatore Critico, Probabilità Effetto e Danno.",
+        "description": "Questi proiettili contorti e purulenti di pus e gas presentano un Caricatore più grande, una maggiore Probabilità Critico, Danno Critico, Probabilità Effetto e Danno.",
         "name": "Coda Pox",
         "code": "it"
       },
@@ -3146,7 +3146,7 @@
         "code": "ko"
       },
       {
-        "description": "Estos proyectiles de pus y gas, supurantes, retorcidos y arrojadizos, se han mejorado con un mayor tamaño de cargador, probabilidad crítica, multiplicador crítico, probabilidad de estado y daño.",
+        "description": "Estos proyectiles de pus y gas, supurantes, retorcidos y arrojadizos, se han mejorado con un mayor tamaño de cargador, probabilidad crítica, daño crítico, probabilidad de estado y daño.",
         "name": "Pox Coda",
         "code": "es"
       },
@@ -3156,7 +3156,7 @@
         "code": "zh"
       },
       {
-        "description": "Эти разлагающееся, извивающиеся, метательные снаряды гноя и газа были улучшены за счет увеличения размера магазина, шанса критического урона, множителя критического урона, шансу статуса и урона.",
+        "description": "Эти разлагающееся, извивающиеся, метательные снаряды гноя и газа были улучшены за счет увеличения размера магазина, шанса критического урона, критического урона, шансу статуса и урона.",
         "name": "Покс Кода",
         "code": "ru"
       },
@@ -3166,7 +3166,7 @@
         "code": "ja"
       },
       {
-        "description": "Te wijące się pęcherze gnijącej ropy i gazu zostały ulepszone o poprawione statystki Pojemności Magazynka, Szansy i Mnożnika Obr. Krytycznych, Szansy Statusu i Obrażeń.",
+        "description": "Te wijące się pęcherze gnijącej ropy i gazu zostały ulepszone o poprawione statystki Pojemności Magazynka, Szansy Obr. Krytycznych, Obr. Krytyczne, Szansy Statusu i Obrażeń.",
         "name": "Pox Cody",
         "code": "pl"
       },
@@ -3176,22 +3176,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：CODA POX）這些潰爛、蠕動、可投擲的膿汁和毒氣投射物經過改良，具有更大的彈匣容量、暴擊機率、暴擊倍率、狀態觸發機率，及傷害。",
+        "description": "（英文：CODA POX）這些潰爛、蠕動、可投擲的膿汁和毒氣投射物經過改良，具有更大的彈匣容量、暴擊機率、暴擊傷害、狀態觸發機率，及傷害。",
         "name": "勾瘩 膿痘",
         "code": "tc"
       },
       {
-        "description": "อาวุธขว้างติดเชื้อที่เต็มไปด้วยหนองและแก๊สที่เน่าเปื่อยได้รับการปรับปรุงให้มีขนาดแม็กกาซีน โอกาสคริติคอล ตัวคูณคริติคอล โอกาสสถานะ และความเสียหายเพิ่มมากขึ้น",
+        "description": "อาวุธขว้างติดเชื้อที่เต็มไปด้วยหนองและแก๊สที่เน่าเปื่อยได้รับการปรับปรุงให้มีขนาดแม็กกาซีน โอกาสคริติคอล ความเสียหายคริติคอล โอกาสสถานะ และความเสียหายเพิ่มมากขึ้น",
         "name": "Coda Pox",
         "code": "th"
       },
       {
-        "description": "Bu iltihaplı, kıvranan, fırlatılabilir irin ve gaz mühimmatları daha fazla Şarjör Boyutu, Kritik Şansı, Kritik Çarpanı, Statü Şansı ve Hasar sunar.",
+        "description": "Bu iltihaplı, kıvranan, fırlatılabilir irin ve gaz mühimmatları daha fazla Şarjör Boyutu, Kritik Şansı, Kritik Hasar, Statü Şansı ve Hasar sunar.",
         "name": "Coda Pox",
         "code": "tr"
       },
       {
-        "description": "Бридкі утворення з гноєм та газом, що вибухають у разі влучання, стали ще гидкішими завдяки вірусу. Зброя має поліпшені показники шкоди, місткості магазину, імовірності критичної шкоди та накладання ефекту стану, множника критичної шкоди.",
+        "description": "Бридкі утворення з гноєм та газом, що вибухають у разі влучання, стали ще гидкішими завдяки вірусу. Зброя має поліпшені показники шкоди, місткості магазину, імовірності та величини критичної шкоди, імовірності накладання ефекту стану.",
         "name": "Покс-кода",
         "code": "uk"
       }
@@ -3204,7 +3204,7 @@
     "description": "The Technocyte virus has contorted this Tysis into a more lethal weapon. With increased Damage, Critical Chance, Critical Damage and Magazine Capacity.",
     "languages": [
       {
-        "description": "Das Technocyte-Virus hat diese Tysis in eine noch tödlichere Waffe deformiert. Mit erhöhtem Schaden, Krit. Chance, Krit. Multiplikator und Magazinkapazität.",
+        "description": "Das Technocyte-Virus hat diese Tysis in eine noch tödlichere Waffe deformiert. Mit erhöhtem Schaden, Krit. Chance, Krit. Schaden und Magazinkapazität.",
         "name": "Coda Tysis",
         "code": "de"
       },
@@ -3214,7 +3214,7 @@
         "code": "fr"
       },
       {
-        "description": "Il virus Technocyte ha trasformato questo Tysis in un'arma più letale, aumentandone Danno, Probabilità Critico, Moltiplicatore Critico e Capacità Caricatore.",
+        "description": "Il virus Technocyte ha trasformato questo Tysis in un'arma più letale, aumentandone Danno, Probabilità Critico, Danno Critico e Capacità Caricatore.",
         "name": "Coda Tysis",
         "code": "it"
       },
@@ -3224,7 +3224,7 @@
         "code": "ko"
       },
       {
-        "description": "El virus Tecnocito ha transformado a esta Tysis en un arma más letal, aumentando su daño, probabilidad crítica, multiplicador crítico y capacidad del cargador.",
+        "description": "El virus tecnocito ha transformado a esta Tysis en un arma más letal, aumentando su daño, probabilidad crítica, daño crítico y capacidad del cargador.",
         "name": "Tysis Coda",
         "code": "es"
       },
@@ -3234,7 +3234,7 @@
         "code": "zh"
       },
       {
-        "description": "Вирус Техноцита превратил этот Тайсис в более смертоносное оружие. С увеличенным уроном, ёмкостью магазина, шансом крит. урона и множителем крит. урона.",
+        "description": "Вирус Техноцита превратил этот Тайсис в более смертоносное оружие. С увеличенным уроном, ёмкостью магазина, шансом крит. урона и крит. урона.",
         "name": "Тайсис Кода",
         "code": "ru"
       },
@@ -3244,7 +3244,7 @@
         "code": "ja"
       },
       {
-        "description": "Wirus Technocytu przekształcił Tysis w bardziej śmiercionośną broń. Ze zwiększonymi Obrażeniami, Szansą Obrażeń Krytycznych, Mnożnikiem Obr. Krytycznych i Pojemnością Magazynka.",
+        "description": "Wirus Technocytu przekształcił Tysis w bardziej śmiercionośną broń, ze zwiększonymi Obrażeniami, Szansą Obrażeń Krytycznych, Obr. Krytycznymi i Pojemnością Magazynka.",
         "name": "Tysis Cody",
         "code": "pl"
       },
@@ -3254,22 +3254,22 @@
         "code": "pt"
       },
       {
-        "description": "（英文：CODA TYSIS）技改細胞病毒已將啐沫者扭曲成更為致命的武器，其傷害、暴擊率、暴擊傷害倍率以及彈匣容量均獲得強化。",
+        "description": "（英文：CODA TYSIS）技改細胞病毒已將啐沫者扭曲成更為致命的武器，其傷害、暴擊率、暴擊傷害以及彈匣容量均獲得強化。",
         "name": "勾瘩 啐沫者",
         "code": "tc"
       },
       {
-        "description": "ไวรัส Technocyte ทำให้ Tysis กลายเป็นอาวุธที่ร้ายแรงยิ่งขึ้น และมีความเสียหาย โอกาสคริติคอล ตัวคูณคริติคอล และความจุของแม็กกาซีนเพิ่มขึ้น",
+        "description": "ไวรัส Technocyte ทำให้ Tysis กลายเป็นอาวุธที่ร้ายแรงยิ่งขึ้น และมีความเสียหาย โอกาสคริติคอล ความเสียหายคริติคอล และความจุของแม็กกาซีนเพิ่มขึ้น",
         "name": "Coda Tysis",
         "code": "th"
       },
       {
-        "description": "Technocyte virüsü bu Tysis'i daha ölümcül bir silaha dönüştürdü. Hasarı, Kritik Şansı, Kritik Çoğaltıcı ve Şarjör Kapasitesi daha yüksektir.",
+        "description": "Technocyte virüsü bu Tysis'i daha ölümcül bir silaha dönüştürdü. Hasarı, Kritik Şansı, Kritik Hasar ve Şarjör Kapasitesi daha yüksektir.",
         "name": "Coda Tysis",
         "code": "tr"
       },
       {
-        "description": "Техноцитний вірус посилив смертоносність Тайзиса завдяки збільшенню шкоди, ймовірності критичної шкоди, множника критичної шкоди та місткості магазину.",
+        "description": "Техноцитний вірус посилив смертоносність Тайзиса завдяки збільшенню шкоди, імовірності та величини критичної шкоди, місткості магазину.",
         "name": "Тайзис-кода",
         "code": "uk"
       }
@@ -3811,7 +3811,7 @@
       },
       {
         "description": "Bir çift spor fırlatan terör aletiyle işi çabucak bitir. Ölüm anında yakındaki düşmanlara yayılan bir spor oluşturarak <DT_FREEZE_COLOR>Buz Statü Etkisi uygular ve aynı zamanda dirençli hedeflere karşı Torxica'nın hasar etkisini artırır.",
-        "name": "İkili Coda Torxica",
+        "name": "Dual Coda Torxica",
         "code": "tr"
       },
       {
@@ -5287,7 +5287,7 @@
         "code": "tc"
       },
       {
-        "description": "ปืนพกที่เป็นอาวุธประจำตัวของ Yareli กระบอกนี้จะยิงลูกบอลน้ำที่มีแรงดันสูงและรุนแรง ซึ่งจะห่อหุ้มเป้าหมายไว้แล้วระเบิดออกมาด้วยแรงมหาศาล",
+        "description": "ปืนพกที่เป็นอาวุธประจำตัวของ Yareli กระบอกนี้จะยิงลูกบอลน้ำแรงดันสูงที่มีพิษร้ายแรง ซึ่งจะล้อมรอบเป้าหมายและระเบิดออกมาด้วยพลังที่รุนแรง",
         "name": "Kompressa",
         "code": "th"
       },
@@ -5310,9 +5310,19 @@
     "description": "Glinting like a golden dawn, Yareli Prime’s signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.",
     "languages": [
       {
+        "description": "Glänzend, wie eine goldene Morgendämmerung, verschlingt Yarelis bevorzugte Pistole Feinde mit einer Kaskade virulenter, explosiver Wassertropfen. Niemand entkommt der See.",
+        "name": "Kompressa Prime",
+        "code": "de"
+      },
+      {
         "description": "Scintillant comme une aurore dorée, le pistolet emblématique de Yareli Prime engloutit ses ennemis dans une cascade de gouttes d'eau virulentes et explosives. Nul ne peut échapper à la mer.",
         "name": "Kompressa Prime",
         "code": "fr"
+      },
+      {
+        "description": "Scintillante come un'alba dorata, la pistola simbolo di Yareli Prime avvolge i nemici in una cascata di globuli d'acqua virulenti ed esplosivi. Nessuno può sfuggire al mare.",
+        "name": "Kompressa Prime",
+        "code": "it"
       },
       {
         "description": "황금빛 새벽처럼 반짝이는 이 야렐리 프라임의 대표 권총은 매섭고도 폭발적인 물방울의 급류로 적을 휩쓸어버립니다. 그 누구도 바다를 벗어날 수는 없습니다.",
@@ -5320,9 +5330,19 @@
         "code": "ko"
       },
       {
+        "description": "Brillando cual aurora dorada, la pistola distintiva de Yareli Prime envuelve a los enemigos en una cascada de gotas de agua virulentas y explosivas. Nadie puede escapar del mar.",
+        "name": "Kompressa Prime",
+        "code": "es"
+      },
+      {
         "description": "（英文：KOMPRESSA PRIME）Yareli Prime 的标志性手枪闪耀着金色黎明般的光芒，将敌人吞噬在一连串的剧毒、爆炸性水弹中。没有人能逃出这片水域。",
         "name": "卡帕压力枪 Prime",
         "code": "zh"
+      },
+      {
+        "description": "Сверкающий, как золотой рассвет, особый пистолет Ярели Прайм поглощает врагов каскадом ядовитых, взрывоопасных водяных шариков. Никто не может убежать от волны.",
+        "name": "Компресса Прайм",
+        "code": "ru"
       },
       {
         "description": "黄金の夜明けのようにきらめく、Yareli Primeの代名詞とも言えるピストルは、猛毒の爆発性水玉の滝で敵を飲み込む。海の怒りから逃れることはできない。",
@@ -5330,9 +5350,34 @@
         "code": "ja"
       },
       {
+        "description": "Mieniący się niczym złoty świt, charakterystyczny pistolet Yareli Prime pokrywa wrogów kaskadą wybuchowych, wodnych kulek. Nikt nie ucieknie przed gniewem morza.",
+        "name": "Kompressa Prime",
+        "code": "pl"
+      },
+      {
         "description": "Brilhando como uma aurora dourada, a pistola tradicional da Yareli Prime envolve os inimigos em uma cascata de gotas de água virulentas e explosivas. Ninguém escapa do mar.",
         "name": "Kompressa Prime",
         "code": "pt"
+      },
+      {
+        "description": "（英文：KOMPRESSA PRIME）Yareli Prime 的標誌性手槍金如黎明，將敵人淹沒在一連串爆炸性的病毒水珠之中。汪洋大海無人能逃。",
+        "name": "漮浦薩 Prime",
+        "code": "tc"
+      },
+      {
+        "description": "ปืนพกประจำตัวของ Yareli Prime ที่ส่องประกายราวกับรุ่งอรุณสีทองจะโจมตีศัตรูด้วยลูกบอลน้ำที่จะระเบิดพิษร้ายอย่างรุนแรง และไม่มีใครที่จะหนีรอดจากทะเลได้",
+        "name": "Kompressa Prime",
+        "code": "th"
+      },
+      {
+        "description": "Altın bir şafak gibi parlayan Yareli Prime'ın özel tabancası, düşmanlarını öldürücü, patlayıcı, su küreciklerinden oluşan bir çağlayanla yutar. Hiçbiri denizden kaçamaz.",
+        "name": "Kompressa Prime",
+        "code": "tr"
+      },
+      {
+        "description": "Визначний пістолет Ярелі-прайм виблискує золотим світанком і покриває ворогів вибухонебезпечними водяними кульками. Нікому не втекти від моря.",
+        "name": "Компресса-прайм",
+        "code": "uk"
       }
     ]
   },
