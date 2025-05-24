@@ -26279,7 +26279,7 @@
         "code": "tr"
       },
       {
-        "description": "Пропан від «Зелена горила«<RETRO_TM> більше аніж просто пропан. Це пропан у балоні.",
+        "description": "Пропан від «Зелена горила»<RETRO_TM> більше аніж просто пропан. Це пропан у балоні.",
         "name": "Балон із пропаном «Зелена горила»<RETRO_TM>",
         "code": "uk"
       }
@@ -32910,7 +32910,7 @@
       },
       {
         "description": "Для будь-яких ваших великих бензинозберігальних потреб!",
-        "name": "Каністра для бензину (велика) «Кінебейзік»<RETRO_TM>",
+        "name": "Каністра з бензином (велика) «Кінебейзік»<RETRO_TM>",
         "code": "uk"
       }
     ]
@@ -32988,7 +32988,7 @@
       },
       {
         "description": "Для будь-яких ваших малих бензинозберігальних потреб!",
-        "name": "Каністра для бензину (мала) «Кінебейзік»<RETRO_TM>",
+        "name": "Каністра з бензином (мала) «Кінебейзік»<RETRO_TM>",
         "code": "uk"
       }
     ]
@@ -34243,8 +34243,8 @@
   },
   {
     "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinemantikretro_tm-av-reciever-f3d8005d68.png",
-    "name": "Kinemantik<Retro_tm> A/V Reciever",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinemantikretro_tm-av-receiver-f3d8005d68.png",
+    "name": "Kinemantik<Retro_tm> A/V Receiver",
     "description": "UPGRADED with TWO Video Inputs and THREE Audio Inputs!",
     "languages": [
       {
