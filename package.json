@@ -12,7 +12,7 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1270.366"
+    "@wfcd/items": "^1.1270.374"
   },
   "devDependencies": {
     "@types/bun": "^1.2.15",
@@ -20,7 +20,7 @@
     "@typescript-eslint/parser": "^8.33.1",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
-    "eslint-plugin-perfectionist": "^4.13.0",
+    "eslint-plugin-perfectionist": "^4.14.0",
     "eslint-plugin-prettier": "^5.4.1",
     "npm-check-updates": "^18.0.1",
     "rimraf": "^6.0.1",
