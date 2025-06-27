@@ -227,8 +227,86 @@
         "code": "tr"
       },
       {
-        "description": "Схоже, що ви налаштовуєте свій профіль! Додайте краплинку ретростилістики 1999 року, використавши зображення Drippy з K.O.L.",
-        "name": "Гліф 1999 Краплик",
+        "description": "Схоже, ви налаштовуєте свій профіль! Додайте краплинку ретростилістики 1999 року, використавши зображення Краплика з KOL.",
+        "name": "Гліф «1999 Краплик»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage2020ZerO",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/2020zero-glyph-ba65fd17eb.png",
+    "name": "2020zero Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: 2020ZerO",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe 2020ZerO",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo 2020ZerO",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "2020ZerO 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de 2020ZerO",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "2020ZerO 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: 2020ZerO",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "2020ZerO グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif 2020ZerO",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: 2020ZerO",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "2020ZerO 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ 2020ZerO",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "2020ZerO Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф 2020ZerO",
         "code": "uk"
       }
     ]
@@ -853,6 +931,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф AeonKnight86",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAesopYOLIAN",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aesopyolian-glyph-d571f63c65.png",
+    "name": "Aesopyolian Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: AesopYOLIAN",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe AesopYOLIAN",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo AesopYOLIAN",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "AesopYOLIAN 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de AesopYOLIAN",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "AesopYOLIAN 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: AesopYOLIAN",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "AesopYOLIAN グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif AesopYOLIAN",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: AesopYOLIAN",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "AesopYOLIAN 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ AesopYOLIAN",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "AesopYOLIAN Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф AesopYOLIAN",
         "code": "uk"
       }
     ]
@@ -2718,7 +2874,7 @@
         "code": "th"
       },
       {
-        "description": "Arbiters of Hexis'i temsil eden glif",
+        "description": "Arbiters of Hexis'i tasvir eden bir glif",
         "name": "Arbiters Of Hexis Glif",
         "code": "tr"
       },
@@ -4290,6 +4446,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAtlasAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-accolade-glyph-d68710017e.png",
+    "name": "Atlas Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Atlas Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne d'Atlas",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Atlas",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "아틀라스 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Atlas",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Atlas 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Атласа",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Atlas Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Atlasa",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia do Atlas",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Atlas 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Atlas Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Atlas Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Атласа»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrawlerBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-glyph---bright-3412491d7c.png",
     "name": "Atlas Glyph - Bright",
@@ -5377,6 +5611,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Aurorastarr",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAvaClemCommunityGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ava-clem-community-glyph-e8b2906377.png",
+    "name": "Ava-Clem Community Glyph",
+    "description": "An otherworldly sproutfolk of many words dons the mask of a man of few. Where, if e'er, their frames have crossed, none can guess. A glyph designed by community artist DasterCreations.",
+    "languages": [
+      {
+        "description": "Ein außerweltliches Spross-Volk mit vielen Worten trägt die Maske eines Mannes mit wenigen Worten. Wo sich ihre Gestalten jemals gekreuzt haben, lässt sich nicht erahnen. Eine Glyphe des Community-Künstlers DasterCreations.",
+        "name": "Glyphe: Ava-Clem (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un peuple contadin d'un autre monde, volubile, revêt le masque d'un homme qui parle peu. Personne ne sait où leurs chemins se sont croisés. Glyphe conçu par l'artiste communautaire DasterCreations.",
+        "name": "Glyphe Communautaire Ava-Clem",
+        "code": "fr"
+      },
+      {
+        "description": "Un germoglio ultraterreno chiacchierone indossa la maschera di un uomo di poche parole. Dove e se si siano mai incontrati, nessuno lo sa. Un glifo ideato dall'artista della comunità DasterCreations.",
+        "name": "Glifo Comunità - Ava-Clem",
+        "code": "it"
+      },
+      {
+        "description": "다른 세계의 말 많은 새싹 친구가 말 없는 남자의 가면을 쓰고 있습니다. 혹 언젠가 그들의 '프레임'이 교차했을까요, 알 수 없는 일이지요. 커뮤니티 아티스트 DasterCreations에 의해 제작된 글리프입니다.",
+        "name": "아바-클렘 커뮤니티 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un retoño hablador y sobrenatural que lleva la máscara de un hombre de pocas palabras. Nadie sabe dónde se conocieron ni si llegó a pasar. Un glifo diseñado por DasterCreations, artista de la comunidad.",
+        "name": "Glifo de Ava-Clem de la Comunidad",
+        "code": "es"
+      },
+      {
+        "description": "一个异界的话痨芽灵，却戴上了一个寡言少语之人的面具。他们的身影是否曾经交汇，无人知晓。由社区艺术家 DasterCreations 创作的浮印。",
+        "name": "阿瓦 Clem 社区浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Разговорчивый человек надевает маску немногословного. Никто не знает, где пересеклись их пути. Глиф разработан художником сообщества DasterCreations.",
+        "name": "Глиф Сообщества: Ава-Клем",
+        "code": "ru"
+      },
+      {
+        "description": "異界の多弁な芽生えの民が、寡黙な男の仮面を被る。彼らの言葉がどこで交わったのか、たとえ交わったとしても、誰にも推測できない。コミュニティアーティストDasterCreationsによるグリフ。",
+        "name": "Ava-Clem コミュニティグリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Nieziemski kiełkoludź wielu słów przywdziewa maskę człowieka powściągliwego. Gdzie ich ścieżki się przecięły, nikt nie zgadnie. Glif zaprojektowany przez artystę społeczności DasterCreations.",
+        "name": "Glif Społeczności: Ava-Clem",
+        "code": "pl"
+      },
+      {
+        "description": "Um Brotonato de outro universo, moldado por mil palavras, toma agora a máscara de um homem silencioso. Onde, e se, seus caminhos um dia se tocaram, não há quem ouse afirmar. Um glifo desenvolvido pela artista da comunidade, DasterCreations.",
+        "name": "Glifo: Ava-Clem (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "話多的異世界萌苗戴上沉默寡言的男人的面具。他們是否有相遇，沒人知道。由社群藝術家──DasterCreations 創作的浮印。",
+        "name": "Ava-Clem 社群浮印",
+        "code": "tc"
+      },
+      {
+        "description": "เพื่อนต่างโลกที่พูดมากสวมหน้ากากของชายผู้พูดไม่กี่คำ เมื่อติดภาพนี้แล้วไม่ว่าจะไปที่ไหนก็ไม่มีใครเดาได้ ภาพสัญลักษณ์ที่ออกแบบโดยศิลปินชุมชน DasterCreations",
+        "name": "ภาพสัญลักษณ์ Ava-Clem Community",
+        "code": "th"
+      },
+      {
+        "description": "Birçok kelimeden oluşan filizhalkı, birkaç kelimeden oluşan bir adamın maskesini takar. Onunla yollarının nerede kesişeceğini kimse tahmin edemez. Topluluk sanatçısı DasterCreations tarafından tasarlanmış bir glif.",
+        "name": "Ava-Clem Topluluk Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Нетутешній багатослівний паростянин одягає маску маломовного місцевого героя. Де і як перетнулися шляхи їхні — ніхто не зна. Гліф створений DasterCreations.",
+        "name": "Гліф спільноти «Ава-Клем»",
         "code": "uk"
       }
     ]
@@ -6545,8 +6857,8 @@
         "code": "tr"
       },
       {
-        "description": "Гліф із зображенням Банші в шоломі «Відлуння» на світлому тлі.",
-        "name": "Яскравий гліф «Банші „Відлуння“»",
+        "description": "Гліф із зображенням Банші в шоломі «Післязвуччя» на світлому тлі.",
+        "name": "Яскравий гліф «Банші „Післязвуччя“»",
         "code": "uk"
       }
     ]
@@ -6623,8 +6935,8 @@
         "code": "tr"
       },
       {
-        "description": "Гліф із зображенням Банші в шоломі «Відлуння» на темному тлі.",
-        "name": "Темний гліф «Банші „Відлуння“»",
+        "description": "Гліф із зображенням Банші в шоломі «Післязвуччя» на темному тлі.",
+        "name": "Темний гліф «Банші „Післязвуччя“»",
         "code": "uk"
       }
     ]
@@ -7956,6 +8268,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBlackNato",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/blacknato974-glyph-bd2e9c1794.png",
+    "name": "Blacknato974 Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: BlackNato974",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe BlackNato974",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo BlackNato974",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "BlackNato974 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de BlackNato974",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "BlackNato974 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: BlackNato974",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "BlackNato974 グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif BlackNato974",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: BlackNato974",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "BlackNato974 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Danker",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "BlackNato974 Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф BlackNato974",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBlackOni",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/blackoni-glyph-00ff05453e.png",
     "name": "Blackoni Glyph",
@@ -8736,6 +9126,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBoppBippGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bopp-bipp-glyph-e8fd57d135.png",
+    "name": "Bopp Bipp Glyph",
+    "description": "A glyph of the infamous Bopp Bipp. Legend says the Lotus knew him by name. Created by Community artist Searyn.",
+    "languages": [
+      {
+        "description": "Eine Glyphe des berüchtigten Bopp Bipp. Der Legende nach kannte Lotus ihn beim Namen. Erstellt vom Community-Künstler Searyn.",
+        "name": "Glyphe: Bopp Bipp",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe du tristement célèbre Bopp Bipp. Selon la légende, le Lotus le connaissait par son nom. Créé par l'artiste communautaire Searyn.",
+        "name": "Glyphe Bopp Bipp",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo del famigerato Bopp Bipp. La leggenda narra che Lotus lo conoscesse per nome. Creato dall'artista della Comunità Searyn.",
+        "name": "Glifo Bopp Bipp",
+        "code": "it"
+      },
+      {
+        "description": "그 악명 높은 Bopp Bipp의 글리프입니다. 전설에 따르면 로터스마저도 그의 이름을 알았다고 하죠. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+        "name": "Bopp Bipp 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo del infame Bopp Bipp. La leyenda dice que Lotus lo conocía por su nombre. Creado por la artista de la comunidad Searyn.",
+        "name": "Glifo Bopp Bipp",
+        "code": "es"
+      },
+      {
+        "description": "臭名昭著的 Bopp Bipp 浮印。据说连 Lotus 都知道他的名字。由社区艺术家 Searyn 创作。",
+        "name": "Bopp Bipp 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф печально известного Bopp Bipp. Легенда гласит, что Лотос знала его по имени. Создан художником сообщества Searyn.",
+        "name": "Глиф: Bopp Bipp",
+        "code": "ru"
+      },
+      {
+        "description": "悪名高きBopp Bippのグリフ。伝説によれば、Lotusはは彼の実名を知るという。コミュニティアーティストSearynによる作品。",
+        "name": "Bopp Bipp グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający niesławnego Boppa Bippa. Legenda głosi, że Lotus znała go z imienia. Stworzony przez artystę społeczności Searyn.",
+        "name": "Glif Bopp Bippa",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo do infame Bopp Bipp. Reza a lenda que a Lótus o conhecia pelo nome. Desenvolvido pela artista da comunidade, Searyn.",
+        "name": "Glifo: Bopp Bipp",
+        "code": "pt"
+      },
+      {
+        "description": "聲名狼藉的 Bopp Bipp 浮印。傳說 Lotus 知道他的名字，由社群藝術家──Searyn 創作。",
+        "name": "Bopp Bipp 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ของ Bopp Bipp ผู้มีชื่อเสียงอื้อฉาว ตำนานเล่าว่า Lotus รู้จักเขาจากชื่อ ออกแบบโดยศิลปินชุมชน Searyn",
+        "name": "ภาพสัญลักษณ์ Bopp Bipp",
+        "code": "th"
+      },
+      {
+        "description": "Kötü şöhretli Bopp Bipp'in bir glifi. Efsaneye göre Lotus onu ismiyle tanıyormuş. Topluluk sanatçısı Searyn tarafından tasarlandı.",
+        "name": "Bopp Bipp Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням сумнозвісного Біп Бопа. Ходять легенди, що Лотос знає його справжнє ім’я. Створений Searyn.",
+        "name": "Гліф «Боп Біп»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBRCommunityDiscord",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/brazilian-community-discord-glyph-c75ea13f5b.png",
     "name": "Brazilian Community Discord Glyph",
@@ -8748,7 +9216,7 @@
       },
       {
         "description": "Un Glyphe pour votre profil.",
-        "name": "Glyphe Discord de la communauté Brésilienne",
+        "name": "Glyphe Discord de la communauté brésilienne",
         "code": "fr"
       },
       {
@@ -11688,7 +12156,7 @@
         "code": "th"
       },
       {
-        "description": "Cephalon Suda'yı temsil eden glif",
+        "description": "Cephalon Suda'yı tasvir eden bir glif",
         "name": "Cephalon Suda Glif",
         "code": "tr"
       },
@@ -12257,7 +12725,7 @@
         "code": "de"
       },
       {
-        "description": "Un arbre solitaire en fleurs.",
+        "description": "Un arbre solitaire en fleur.",
         "name": "Glyphe Cerisier",
         "code": "fr"
       },
@@ -12319,6 +12787,84 @@
       {
         "description": "Гліф із зображенням цвітіння самотнього дерева.",
         "name": "Гліф «Сакура»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chroma-accolade-glyph-939421369d.png",
+    "name": "Chroma Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Chroma Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne de Chroma",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Chroma",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "크로마 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Chroma",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Chroma 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Хромы",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Chroma Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Chromy",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia do Chroma",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Chroma 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Chroma Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Chroma Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Хроми»",
         "code": "uk"
       }
     ]
@@ -13021,6 +13567,162 @@
       {
         "description": "Гліф із зображенням Хроми-прайм на темному тлі.",
         "name": "Темний гліф «Хрома-прайм»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCitrineAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-accolade-glyph-821057a05e.png",
+    "name": "Citrine Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Citrine Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne de Citrine",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Citrine",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "시트린 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Citrine",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Citrine 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Цитрины",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Citrine Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Citrine",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia da Citrine",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Citrine 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Citrine Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Citrine Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Цитрини»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineDeluxe",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-aphrodita-glyph-f7df9a146d.png",
+    "name": "Citrine Aphrodita Glyph",
+    "description": "A glyph depicting Citrine Aphrodita.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Citrine Aphrodita darstellt.",
+        "name": "Glyphe: Citrine Aphrodita",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Citrine Aphrodita.",
+        "name": "Glyphe Citrine Aphrodita",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Citrine Aphrodita.",
+        "name": "Glifo Citrine Aphrodita",
+        "code": "it"
+      },
+      {
+        "description": "시트린 아프로디타 스킨을 묘사한 글리프입니다.",
+        "name": "시트린 아프로디타 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Citrine Afrodita.",
+        "name": "Glifo de Citrine Afrodita",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Citrine 美神的浮印。",
+        "name": "Citrine 美神浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Цитрины «Афродита»",
+        "name": "Глиф: Цитрина Афродита",
+        "code": "ru"
+      },
+      {
+        "description": "Citrine Aphroditaが描かれたグリフ。",
+        "name": "Citrine Aphrodita グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe Citrine Afrodyta.",
+        "name": "Glif Citrine Afrodyta",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Citrine Afrodite.",
+        "name": "Glifo: Citrine Afrodite",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Citrine 玫艷的浮印。",
+        "name": "Citrine 玫艷浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Citrine Aphrodita",
+        "name": "ภาพสัญลักษณ์ Citrine Aphrodita",
+        "code": "th"
+      },
+      {
+        "description": "Citrine Aphrodit'i temsil eden bir glif.",
+        "name": "Citrine Aphrodita Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Цитрини зі спорядженим виглядом «Афродіта».",
+        "name": "Гліф «Цитрина Афродіта»",
         "code": "uk"
       }
     ]
@@ -14647,7 +15349,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Grendel ที่กำลังสนุกกับงานเลี้ยง",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Grendel ที่กำลังสนุกกับงานเลี้ยง",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Grendel",
         "code": "th"
       },
@@ -14725,7 +15427,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Grendel ที่กำลังสนุกกับงานเลี้ยง",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Grendel ที่กำลังสนุกกับงานเลี้ยง",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Grendel",
         "code": "th"
       },
@@ -14737,6 +15439,84 @@
       {
         "description": "Гліф спільноти із зображенням Ґренделя, що насолоджується бенкетом, створений CheruuAx.",
         "name": "Гліф спільноти «Ґрендель „Спекотні дні“»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysHydroidGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dog-days-hydroid-glyph-8717b02e4e.png",
+    "name": "Community Dog Days Hydroid Glyph",
+    "description": "A community glyph by ChickenDrawsDogs depicting Hydroid diving for the win.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Hydroid darstellt beim Hechtsprung zum Sieg. Erstellt von ChickenDrawsDogs.",
+        "name": "Glyphe: Hydroid Hitzefrei (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe communautaire de ChickenDrawsDogs représentant Hydroid plongeant pour obtenir la victoire.",
+        "name": "Glyphe communautaire Hydroid Bataille d'Eau",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo della comunità raffigurante Hydroid che si tuffa per la vittoria di ChickenDrawsDogs.",
+        "name": "Glifo Hydroid Dog Days della Comunità",
+        "code": "it"
+      },
+      {
+        "description": "ChickenDrawsDogs에 의해 제작된, 승리를 위해 다이빙하는 하이드로이드를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 도그 데이즈 하이드로이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad, creado por ChickenDrawsDogs, que muestra a Hydroid buceando para obtener la victoria.",
+        "name": "Glifo Canícula de Hydroid de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Hydroid 为胜利跳水的社区浮印，由 ChickenDrawsDogs 创作。",
+        "name": "社区三伏天 Hydroid 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества от ChickenDrawsDogs, изображающий Гидроида, ныряющего за победой.",
+        "name": "Глиф сообщества: Гидроид - Знойные дни",
+        "code": "ru"
+      },
+      {
+        "description": "Hydroidが誇らしげにダイブするシーンを描いた、ChickenDrawsDogsによるコミュニティグリフ。",
+        "name": "コミュニティ ドッグ・デイズ Hydroid グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif Społeczności autorstwa ChickenDrawsDogs przedstawiający Hydroida nurkującego po wygraną.",
+        "name": "Glif Społeczności: Kanikuły — Hydroid",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando o Hydroid mergulhando para vitória, desenvolvido por ChickenDrawsDogs.",
+        "name": "Glifo: Hydroid nos Dias de Cão (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Hydroid 跳水必勝的社群浮印，由 ChickenDrawsDogs 創作。",
+        "name": "Hydroid 社群三伏天浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย ChickenDrawsDogs เป็นภาพ Hydroid กำลังดำน้ำเพื่อคว้าชัย",
+        "name": "ภาพสัญลักษณ์ Community Dog Days - Hydroid",
+        "code": "th"
+      },
+      {
+        "description": "ChickenDrawsDogs tarafından çizilen ve Hydroid'in zafer için dalışını tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Dog Days Hydroid Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Гідроїда, що пірнає для перемоги, створений ChickenDrawsDogs.",
+        "name": "Гліф спільноти «Гідроїд „Спекотні дні“»",
         "code": "uk"
       }
     ]
@@ -14803,7 +15583,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Lavos พร้อมด้วยเครื่องดื่มที่สร้างความสดชื่น",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Lavos พร้อมด้วยเครื่องดื่มที่สร้างความสดชื่น",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Lavos",
         "code": "th"
       },
@@ -14881,7 +15661,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Lavos พร้อมด้วยเครื่องดื่มที่สร้างความสดชื่น",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Lavos พร้อมด้วยเครื่องดื่มที่สร้างความสดชื่น",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Lavos",
         "code": "th"
       },
@@ -14893,6 +15673,240 @@
       {
         "description": "Гліф спільноти із зображенням Лавоса з прохолодним напоєм, створений CheruuAx.",
         "name": "Гліф спільноти «Лавос „Спекотні дні“»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysLokiGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dog-days-loki-glyph-3037884698.png",
+    "name": "Community Dog Days Loki Glyph",
+    "description": "A community glyph by ChickenDrawsDogs depicting Loki enjoying a summer drink without distraction.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, das Loki darstellt, wie er ohne Ablenkung ein Sommergetränk genießt. Erstellt von ChickenDrawsDogs.",
+        "name": "Glyphe: Loki Hitzefrei (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe communautaire de ChickenDrawsDogs représentant Loki profitant d'une boisson d'été sans distraction.",
+        "name": "Glyphe communautaire Loki Bataille d'Eau",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo della comunità raffigurante Loki mentre si gusta una bevanda estiva senza distrazioni di ChickenDrawsDogs.",
+        "name": "Glifo Loki Dog Days della Comunità",
+        "code": "it"
+      },
+      {
+        "description": "ChickenDrawsDogs에 의해 제작된, 방해받지 않고 여름 음료를 즐기는 로키를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 도그 데이즈 로키 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad, creado por ChickenDrawsDogs, que muestra a Loki disfrutando de una bebida de verano sin distracciones.",
+        "name": "Glifo Canícula de Loki de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Loki 沉浸享受夏日特饮的社区浮印，由 ChickenDrawsDogs 创作。",
+        "name": "社区三伏天 Loki 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества от ChickenDrawsDogs, изображающий Локи, увлечённо наслаждающегося летним напитком.",
+        "name": "Глиф сообщества: Локи - Знойные дни",
+        "code": "ru"
+      },
+      {
+        "description": "邪魔されることなく夏のドリンクを楽しむLokiを描いた、ChickenDrawsDogsによるコミュニティグリフ。",
+        "name": "コミュニティ ドッグ・デイズ Loki グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif Społeczności autorstwa ChickenDrawsDogs przedstawiający Lokiego spokojnie napawającego się napojem.",
+        "name": "Glif Społeczności: Kanikuły — Loki",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando o Loki desfrutando de uma bebida refrescante no verão, desenvolvido por ChickenDrawsDogs.",
+        "name": "Glifo: Loki nos Dias de Cão (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Loki 悠哉飲用夏日飲品的社群浮印，由 ChickenDrawsDogs 創作。",
+        "name": "Loki 社群三伏天浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย ChickenDrawsDogs เป็นภาพ Loki ที่กำลังเพลิดเพลินกับเครื่องดื่มในช่วงหน้าร้อนโดยไม่มีสิ่งรบกวน",
+        "name": "ภาพสัญลักษณ์ Community Dog Days - Loki",
+        "code": "th"
+      },
+      {
+        "description": "ChickenDrawsDogs tarafından çizilen ve Loki'yi rahat bir halde içeceğinin tadını çıkarırken tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Dog Days Loki Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Локі, що насолоджується літнім напоєм і ні нащо не звертає уваги, створений ChickenDrawsDogs.",
+        "name": "Гліф спільноти «Локі „Спекотні дні“»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysNovaGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dog-days-nova-glyph-fd630b1de2.png",
+    "name": "Community Dog Days Nova Glyph",
+    "description": "A community glyph by ChickenDrawsDogs depicting Nova utilizing her abilities to win a Lob Blob fight.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Nova darstellt, während sie ihre Fähigkeiten nutzt, um einen Lob-Blob-Kampf zu gewinnen. Erstellt von ChickenDrawsDogs.",
+        "name": "Glyphe: Nova Hitzefrei (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe communautaire de ChickenDrawsDogs représentant Nova utilisant ses Pouvoirs pour gagner un combat de Glob' d'ô.",
+        "name": "Glyphe communautaire Nova Bataille d'Eau",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo della comunità raffigurante Nova che utilizza le sue abilità per vincere una battaglia a gavettoni di ChickenDrawsDogs.",
+        "name": "Glifo Nova Dog Days della Comunità",
+        "code": "it"
+      },
+      {
+        "description": "ChickenDrawsDogs에 의해 제작된, 자신의 어빌리티를 사용하여 롭 블롭 전투에서 승리하는 노바를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 도그 데이즈 노바 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad, creado por ChickenDrawsDogs, que muestra a Nova usando sus habilidades para ganar una pelea de globos de agua.",
+        "name": "Glifo Canícula de Nova de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Nova 使用她的技能赢得高射水弹大战的社区浮印，由 ChickenDrawsDogs 创作。",
+        "name": "社区三伏天 Nova 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества от ChickenDrawsDogs, изображающий Нову, использующую свои способности, чтобы победить в битве с помощью водяных бомб.",
+        "name": "Глиф сообщества: Нова - Знойные дни",
+        "code": "ru"
+      },
+      {
+        "description": "Novaがアビリティを駆使してLob Blob戦を圧倒するシーンを描いた、ChickenDrawsDogsによるコミュニティグリフ。",
+        "name": "コミュニティ ドッグ・デイズ Nova グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif Społeczności autorstwa ChickenDrawsDogs przedstawiający Novę wykorzystującą swoje umiejętności w wojnie na balony.",
+        "name": "Glif Społeczności Kanikuły — Nova",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando a Nova utilizando suas habilidades para vencer uma batalha de Balões de Água, desenvolvido por ChickenDrawsDogs.",
+        "name": "Glifo: Nova nos Dias de Cão (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Nova 利用技能贏得高拋水球戰的社群浮印，由 ChickenDrawsDogs 創作。",
+        "name": "Nova 社群三伏天浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย ChickenDrawsDogs เป็นภาพ Nova ที่กำลังใช้ความสามารถเพื่อเอาชนะการต่อสู้ Lob Blob",
+        "name": "ภาพสัญลักษณ์ Community Dog Days - Nova",
+        "code": "th"
+      },
+      {
+        "description": "ChickenDrawsDogs tarafından çizilen ve Nova'nın Lob Blob dövüşünü kazanmak için yeteneklerini kullandığı bir anı tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Dog Days Nova Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Нови, що використовує здібності для перемоги в битві кульками з водою, створений ChickenDrawsDogs.",
+        "name": "Гліф спільноти «Нова „Спекотні дні“»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysValkyrGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-dog-days-valkyr-glyph-a0f1996155.png",
+    "name": "Community Dog Days Valkyr Glyph",
+    "description": "A community glyph by ChickenDrawsDogs depicting Valkyr's inability to play with beach balls.",
+    "languages": [
+      {
+        "description": "Eine Community-Glyphe, die Valkyrs Unfähigkeit darstellt, mit Wasserbällen zu spielen. Erstellt von ChickenDrawsDogs.",
+        "name": "Glyphe: Valkyr Hitzefrei (Community)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe communautaire de ChickenDrawsDogs représentant l'incapacité de Valkyr à jouer avec des ballons de plage.",
+        "name": "Glyphe communautaire Valkyr Bataille d'Eau",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo della comunità che raffigura l'incapacità di Valkyr di giocare con i palloni da spiaggia di ChickenDrawsDogs.",
+        "name": "Glifo Valkyr Dog Days della Comunità",
+        "code": "it"
+      },
+      {
+        "description": "ChickenDrawsDogs에 의해 제작된, 비치 볼을 못 하는 발키르를 묘사한 커뮤니티 글리프입니다.",
+        "name": "커뮤니티 도그 데이즈 발키르 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de la comunidad, creado por ChickenDrawsDogs, que muestra la incapacidad de Valkyr para jugar con pelotas de playa.",
+        "name": "Glifo Canícula de Valkyr de la comunidad",
+        "code": "es"
+      },
+      {
+        "description": "描绘着 Valkyr 无法玩沙滩球的浮印，由 ChickenDrawsDogs 创作。",
+        "name": "社区三伏天 Valkyr 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф сообщества от ChickenDrawsDogs, изображающий неспособность Валькирии играть с пляжными мячами.",
+        "name": "Глиф сообщества: Валькирия - Знойные дни",
+        "code": "ru"
+      },
+      {
+        "description": "ビーチボール遊びに苦しむValkyrを描いた、ChickenDrawsDogsによるコミュニティグリフ。",
+        "name": "コミュニティ ドッグ・デイズ Valkyr グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif Społeczności autorstwa ChickenDrawsDogs przedstawiający niezdolność Valkyr do zabawy piłkami plażowymi.",
+        "name": "Glif Społeczności: Kanikuły — Valkyr",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Comunidade retratando a Valkyr fracassando ao brincar com bolas de praia, desenvolvido por ChickenDrawsDogs.",
+        "name": "Glifo: Valkyr nos Dias de Cão (Comunidade)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Valkyr 玩不了沙灘球的社群浮印，由 ChickenDrawsDogs 創作。",
+        "name": "Valkyr 社群三伏天浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย ChickenDrawsDogs เป็นภาพ Valkyr ที่ไม่สามารถเล่นลูกบอลชายหาดได้",
+        "name": "ภาพสัญลักษณ์ Community Dog Days - Valkyr",
+        "code": "th"
+      },
+      {
+        "description": "ChickenDrawsDogs tarafından çizilen ve Valkyr'in plaj toplarıyla oynayamadığını tasvir eden bir topluluk glifi.",
+        "name": "Topluluk Dog Days Valkyr Glifi",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф спільноти із зображенням Валькірії, що не може гратися з пляжними м’ячиками, створений ChickenDrawsDogs.",
+        "name": "Гліф спільноти «Валькірія „Спекотні дні“»",
         "code": "uk"
       }
     ]
@@ -14959,7 +15973,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Voruna และฝูงหมาป่า",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Voruna และฝูงหมาป่า",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Voruna",
         "code": "th"
       },
@@ -15037,7 +16051,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Voruna และฝูงหมาป่า",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Voruna และฝูงหมาป่า",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Voruna",
         "code": "th"
       },
@@ -15115,7 +16129,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Yareli ที่กำลังหาวิธีคลายร้อน",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Yareli ที่กำลังหาวิธีคลายร้อน",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Yareli",
         "code": "th"
       },
@@ -15193,7 +16207,7 @@
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx ซึ่งเป็นภาพ Yareli ที่กำลังหาวิธีคลายร้อน",
+        "description": "ภาพสัญลักษณ์ชุมชนที่ออกแบบโดย CheruuAx เป็นภาพ Yareli ที่กำลังหาวิธีคลายร้อน",
         "name": "ภาพสัญลักษณ์ Community Dog Days - Yareli",
         "code": "th"
       },
@@ -21450,84 +22464,6 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/d4nk3r-glyph-bf07ce81f4.png",
-    "name": "D4nk3r Glyph",
-    "description": "A Glyph for your profile.",
-    "languages": [
-      {
-        "description": "Eine Glyphe für dein Profil.",
-        "name": "Glyphe: D4nk3r",
-        "code": "de"
-      },
-      {
-        "description": "Un Glyphe pour votre profil.",
-        "name": "Glyphe D4nk3r",
-        "code": "fr"
-      },
-      {
-        "description": "Un Glifo per il tuo profilo.",
-        "name": "Glifo D4nk3r",
-        "code": "it"
-      },
-      {
-        "description": "프로필을 위한 글리프입니다.",
-        "name": "D4nk3r 글리프",
-        "code": "ko"
-      },
-      {
-        "description": "Un glifo para tu perfil.",
-        "name": "Glifo de D4nk3r",
-        "code": "es"
-      },
-      {
-        "description": "个人档案的浮印。",
-        "name": "D4nk3r 浮印",
-        "code": "zh"
-      },
-      {
-        "description": "Глиф для вашего профиля.",
-        "name": "Глиф: D4nk3r",
-        "code": "ru"
-      },
-      {
-        "description": "プロフィール用のグリフ。",
-        "name": "D4nk3r グリフ",
-        "code": "ja"
-      },
-      {
-        "description": "Glif dla Twojego profilu.",
-        "name": "Glif D4nk3r",
-        "code": "pl"
-      },
-      {
-        "description": "Um Glifo para o seu perfil.",
-        "name": "Glifo: D4nk3r",
-        "code": "pt"
-      },
-      {
-        "description": "用於個人檔案的浮印。",
-        "name": "D4nk3r 浮印",
-        "code": "tc"
-      },
-      {
-        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
-        "name": "ภาพสัญลักษณ์ D4nk3r",
-        "code": "th"
-      },
-      {
-        "description": "Profilin için bir Glif.",
-        "name": "D4nk3r Glif",
-        "code": "tr"
-      },
-      {
-        "description": "Гліф для вашого профілю.",
-        "name": "Гліф D4nk3r",
-        "code": "uk"
-      }
-    ]
-  },
-  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDadefuye",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dadefuye-glyph-85ea666fcd.png",
     "name": "Dadefuye Glyph",
@@ -22381,6 +23317,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Danily",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/danker-glyph-bf07ce81f4.png",
+    "name": "Danker Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: Danker",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Danker",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo Danker",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "Danker 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de Danker",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Danker 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: Danker",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Danker グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif Danker",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Danker",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "Danker 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Danker",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "Danker Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф Danker",
         "code": "uk"
       }
     ]
@@ -25189,6 +26203,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф DeuceTheGamer",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDEUS",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deus-glyph-32e58af3a1.png",
+    "name": "Deus Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: DEUS",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe DEUS",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo DEUS",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "DEUS 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de DEUS",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "DEUS 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: DEUS",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "DEUS グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif DEUS",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: DEUS",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "DEUS 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ DEUS",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "DEUS Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф DEUS",
         "code": "uk"
       }
     ]
@@ -28536,7 +29628,7 @@
         "code": "th"
       },
       {
-        "description": "Ember Vermillion Skin'i temsil eden glif.",
+        "description": "Ember Vermillion Skin'i tasvir eden bir glif.",
         "name": "Ember Vermillion Glif",
         "code": "tr"
       },
@@ -30727,6 +31819,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Eterion",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEveCaptura",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/evecaptura-glyph-c6a932882b.png",
+    "name": "Evecaptura Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: EveCaptura",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe EveCaptura",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo EveCaptura",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "EveCaptura 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de EveCaptura",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "EveCaptura 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: EveCaptura",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "EveCaptura グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif EveCaptura",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: EveCaptura",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "EveCaptura 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ EveCaptura",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "EveCaptura Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф EveCaptura",
         "code": "uk"
       }
     ]
@@ -37139,7 +38309,7 @@
         "code": "de"
       },
       {
-        "description": "Un Glyphe représentant Gara Vigaro sur un fond lumineux.",
+        "description": "Un Glyphe représentant Gara Virago sur un fond lumineux.",
         "name": "Glyphe Gara Virago - Lumineux",
         "code": "fr"
       },
@@ -37217,7 +38387,7 @@
         "code": "de"
       },
       {
-        "description": "Un Glyphe représentant Gara Vigaro sur un fond sombre.",
+        "description": "Un Glyphe représentant Gara Virago sur un fond sombre.",
         "name": "Glyphe Gara Virago - Sombre",
         "code": "fr"
       },
@@ -38934,7 +40104,7 @@
       },
       {
         "description": "Un Glyphe pour votre profil.",
-        "name": "Glyphe Discord de la communauté Allemande",
+        "name": "Glyphe Discord de la communauté allemande",
         "code": "fr"
       },
       {
@@ -43290,6 +44460,162 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHenchAndScrapGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hench-&-scrap-glyph-25c9c10f18.png",
+    "name": "Hench & Scrap Glyph",
+    "description": "Hench and Scrap - Official TennoCon Cosplayer Glyph",
+    "languages": [
+      {
+        "description": "Die Glyphe von Hench and Scrap - Offizielles Cosplay der TennoCon.",
+        "name": "Glyphe: Hench & Scrap",
+        "code": "de"
+      },
+      {
+        "description": "Hench & Scrap – Glyphe officiel des cosplayers de la TennoCon",
+        "name": "Glyphe Hench & Scrap",
+        "code": "fr"
+      },
+      {
+        "description": "Hench and Scrap - Glifo Cosplayer Ufficiale TennoCon",
+        "name": "Glifo Hench & Scrap",
+        "code": "it"
+      },
+      {
+        "description": "Hench and Scrap - 공식 텐노콘 코스플레이어 글리프",
+        "name": "Hench & Scrap 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Glifo de Hench and Scrap - Cosplayer oficial de la TennoCon",
+        "name": "Glifo de Hench & Scrap",
+        "code": "es"
+      },
+      {
+        "description": "Hench & Scrap - TennoCon 官方角色扮演玩家浮印",
+        "name": "Hench & Scrap 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф: Hench and Scrap - Официальный глиф TennoCon",
+        "name": "Глиф: Hench & Scrap",
+        "code": "ru"
+      },
+      {
+        "description": "Hench and Scrap - 公式 TennoCon コスプレイヤーグリフ",
+        "name": "Hench & Scrap グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Hench & Scrap - Oficjalny Glif Cosplayera TennoCon",
+        "name": "Glif Hench & Scrap",
+        "code": "pl"
+      },
+      {
+        "description": "Glifo: Hench & Scrap (Cosplayer Oficial da TennoCon)",
+        "name": "Glifo: Hench & Scrap",
+        "code": "pt"
+      },
+      {
+        "description": "Hench and Scrap - 官方 TennoCon 扮裝者浮印",
+        "name": "Hench & Scrap 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "Hench & Scrap - ภาพสัญลักษณ์ของ Cosplayer อย่างเป็นทางการของงาน TennoCon",
+        "name": "ภาพสัญลักษณ์ Hench & Scrap",
+        "code": "th"
+      },
+      {
+        "description": "Hench and Scrap - Resmi TennoCon Cosplay Glifi",
+        "name": "Hench & Scrap Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф офіційних косплеєрів Теннокону — Hench & Scrap.",
+        "name": "Гліф «Hench & Scrap»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHildrynAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-accolade-glyph-e1356b7f9b.png",
+    "name": "Hildryn Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Hildryn Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne de Hildryn",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Hildryn",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "힐드린 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Hildryn",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Hildryn 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Хильдрин",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Hildryn Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Hildryn",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia da Hildryn",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Hildryn 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Hildryn Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Hildryn Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Гільдрини»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageIronFrameAltBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-asuron-glyph---bright-77598e3141.png",
     "name": "Hildryn Asuron Glyph - Bright",
@@ -43512,7 +44838,7 @@
         "code": "th"
       },
       {
-        "description": "Hildryn Einheri'ni tasvir eden glif.",
+        "description": "Hildryn Einheri'ni tasvir eden bir glif.",
         "name": "Hildryn Einheri Glif",
         "code": "tr"
       },
@@ -43917,75 +45243,75 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHokuProps",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hoku-props-glyph-478c9dc575.png",
     "name": "Hoku Props Glyph",
-    "description": "A Glyph for your profile.",
+    "description": "Hoku Props - Official TennoCon Cosplayer Glyph",
     "languages": [
       {
-        "description": "Eine Glyphe für dein Profil.",
+        "description": "Die Glyphe von Hoku Props - Offizielles Cosplay der TennoCon.",
         "name": "Glyphe: Hoku Props",
         "code": "de"
       },
       {
-        "description": "Un Glyphe pour votre profil.",
+        "description": "Hoku Props – Glyphe officiel des cosplayers de la TennoCon",
         "name": "Glyphe Hoku Props",
         "code": "fr"
       },
       {
-        "description": "Un Glifo per il tuo profilo.",
+        "description": "Hoku Props - Glifo Cosplayer Ufficiale TennoCon",
         "name": "Glifo Hoku Props",
         "code": "it"
       },
       {
-        "description": "프로필을 위한 글리프입니다.",
+        "description": "Hoku Props - 공식 텐노콘 코스플레이어 글리프",
         "name": "Hoku Props 글리프",
         "code": "ko"
       },
       {
-        "description": "Un glifo para tu perfil.",
+        "description": "Glifo de Hoku Props - Cosplayer oficial de la TennoCon",
         "name": "Glifo Hoku Props",
         "code": "es"
       },
       {
-        "description": "个人档案的浮印。",
+        "description": "Hoku Props - TennoCon 官方角色扮演玩家浮印",
         "name": "Hoku Props 浮印",
         "code": "zh"
       },
       {
-        "description": "Глиф для вашего профиля.",
+        "description": "Глиф: Hoku Props - Официальный глиф TennoCon",
         "name": "Глиф: Hoku Props",
         "code": "ru"
       },
       {
-        "description": "プロフィール用のグリフ。",
+        "description": "Hoku Props - 公式 TennoCon コスプレイヤーグリフ",
         "name": "Hoku Props グリフ",
         "code": "ja"
       },
       {
-        "description": "Glif dla Twojego profilu.",
+        "description": "Hoku Props - Oficjalny Glif Cosplayera TennoCon",
         "name": "Glif Hoku Props",
         "code": "pl"
       },
       {
-        "description": "Um Glifo para o seu perfil.",
+        "description": "Glifo: Hoku Props (Cosplayer Oficial da TennoCon)",
         "name": "Glifo: Hoku Props",
         "code": "pt"
       },
       {
-        "description": "用於個人檔案的浮印。",
+        "description": "Hoku Props - 官方 TennoCon 扮裝者浮印",
         "name": "Hoku Props 浮印",
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "description": "Hoku Props - ภาพสัญลักษณ์ของ Cosplayer อย่างเป็นทางการของงาน TennoCon",
         "name": "ภาพสัญลักษณ์ Hoku Props",
         "code": "th"
       },
       {
-        "description": "Profilin için bir Glif.",
+        "description": "Hoku Props - Resmi TennoCon Cosplay Glifi",
         "name": "Hoku Props Glif",
         "code": "tr"
       },
       {
-        "description": "Гліф для вашого профілю.",
+        "description": "Гліф офіційних косплеєрів Теннокону — Hoku Props.",
         "name": "Гліф «Hoku Props»",
         "code": "uk"
       }
@@ -51012,6 +52338,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageKhoraAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khora-accolade-glyph-1b8f9598f6.png",
+    "name": "Khora Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Khora Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne de Khora",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Khora",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "코라 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Khora",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Khora 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Коры",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Khora Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Khory",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia da Khora",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Khora 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Khora Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Khora Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Хори»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageKhoraAltHelmBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khora-delphi-glyph---bright-ee3e7fe622.png",
     "name": "Khora Delphi Glyph - Bright",
@@ -54294,7 +55698,7 @@
     "description": "Commemoration of our 2017 Steam award.",
     "languages": [
       {
-        "description": "Zum Gedenken an unseren 2017 Steam-Award.",
+        "description": "Zum Gedenken an unseren 2017 Steam Award.",
         "name": "Glyphe: Labor Of Love",
         "code": "de"
       },
@@ -54517,6 +55921,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф LadyTheLaddy",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLaurieeeLG",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/laurieeelg-glyph-28c69d09e0.png",
+    "name": "Laurieeelg Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: LaurieeeLG",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe LaurieeeLG",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo LaurieeeLG",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "LaurieeeLG 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de LaurieeeLG",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "LaurieeeLG 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: LaurieeeLG",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "LaurieeeLG グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif LaurieeeLG",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: LaurieeeLG",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "LaurieeeLG 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ LaurieeeLG",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "LaurieeeLG Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф LaurieeeLG",
         "code": "uk"
       }
     ]
@@ -56628,6 +58110,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAccoladeGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-accolade-glyph-291c412c9a.png",
+    "name": "Limbo Accolade Glyph",
+    "description": "A glyph representing a feat of strength by community artist Kedemel.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+        "name": "Glyphe: Limbo Auszeichnung",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+        "name": "Glyphe Insigne de Limbo",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+        "name": "Glifo Riconoscimento Limbo",
+        "code": "it"
+      },
+      {
+        "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+        "name": "림보 어콜레이드 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+        "name": "Glifo Reconocimiento de Limbo",
+        "code": "es"
+      },
+      {
+        "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+        "name": "Limbo 荣誉浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+        "name": "Глиф: Посвящение Лимбо",
+        "code": "ru"
+      },
+      {
+        "description": "偉業を表すグリフ。Kedemel作。",
+        "name": "Limbo Accolade グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+        "name": "Glif Odznaczenia Limbo",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+        "name": "Glifo: Insígnia do Limbo",
+        "code": "pt"
+      },
+      {
+        "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+        "name": "Limbo 讚譽浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+        "name": "ภาพสัญลักษณ์ Limbo Accolade",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+        "name": "Limbo Nişanı Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+        "name": "Гліф «Схвалення Лімбо»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAristeasBright",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-aristeas-glyph---bright-a457e5a924.png",
     "name": "Limbo Aristeas Glyph - Bright",
@@ -58410,7 +59970,7 @@
         "code": "th"
       },
       {
-        "description": "Loki Knave'i temsil eden glif",
+        "description": "Loki Knave'i tasvir eden bir glif",
         "name": "Loki Knave Glif",
         "code": "tr"
       },
@@ -64127,7 +65687,7 @@
         "code": "de"
       },
       {
-        "description": "Un Glyphe représentant Mesa Ovis sur un fond lumineux.",
+        "description": "Un Glyphe représentant Mirage Harlequin sur un fond lumineux.",
         "name": "Glyphe Mirage Harlequin - Lumineux",
         "code": "fr"
       },
@@ -64205,7 +65765,7 @@
         "code": "de"
       },
       {
-        "description": "Un Glyphe représentant Mesa Ovis sur un fond sombre.",
+        "description": "Un Glyphe représentant Mirage Harlequin sur un fond sombre.",
         "name": "Glyphe Mirage Harlequin - Sombre",
         "code": "fr"
       },
@@ -64439,7 +65999,7 @@
         "code": "de"
       },
       {
-        "description": "Un Glyphe représentant Mag Oneiro.",
+        "description": "Un Glyphe représentant Mirage Oneiro.",
         "name": "Glyphe Mirage Oneiro",
         "code": "fr"
       },
@@ -66924,6 +68484,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMylah",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mylah-glyph-93fb86d06e.png",
+    "name": "Mylah Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: Mylah",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Mylah",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo Mylah",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "Mylah 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de Mylah",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Mylah 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: Mylah",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Mylah グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif Mylah",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Mylah",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "Mylah 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Mylah",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "Mylah Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф Mylah",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyG",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mythic-balance-glyph-b25952ae0f.png",
     "name": "Mythic Balance Glyph",
@@ -68082,7 +69720,7 @@
         "code": "th"
       },
       {
-        "description": "Nekros Irkalla Skin'i temsil eden glif.",
+        "description": "Nekros Irkalla Skin'i tasvir eden bir glif.",
         "name": "Nekros Irkalla Glif",
         "code": "tr"
       },
@@ -70812,7 +72450,7 @@
         "code": "th"
       },
       {
-        "description": "Nova Asuri'yi temsil eden glif",
+        "description": "Nova Asuri'yi tasvir eden bir glif",
         "name": "Nova Asuri Glif",
         "code": "tr"
       },
@@ -74958,6 +76596,318 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltBright",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-chelicera-glyph---bright-7c50417002.png",
+    "name": "Oraxia Chelicera Glyph - Bright",
+    "description": "A glyph depicting Oraxia Chelicera on a bright background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Oraxia Chelicera vor einem hellen Hintergrund darstellt.",
+        "name": "Glyphe: Oraxia Chelicera (Hell)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Oraxia Chelicera sur fond lumineux.",
+        "name": "Glyphe Oraxia Chelicera - Lumineux",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Oraxia Chelicera su uno sfondo chiaro.",
+        "name": "Glifo Oraxia Chelicera - Chiaro",
+        "code": "it"
+      },
+      {
+        "description": "밝은 배경을 등지고 있는 오락시아 첼리세라를 묘사한 글리프입니다.",
+        "name": "오락시아 첼리세라 글리프 - 밝음",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Oraxia Chelicera sobre un fondo brillante.",
+        "name": "Glifo de Oraxia Chelicera - Brillante",
+        "code": "es"
+      },
+      {
+        "description": "Oraxia 螯肢在明亮背景下的浮印。",
+        "name": "Oraxia 螯肢浮印 - 明亮",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Ораксии Хелицера на светлом фоне.",
+        "name": "Глиф: Ораксия Хелицера - светлый",
+        "code": "ru"
+      },
+      {
+        "description": "明るい背景に描かれたOraxia Cheliceraのグリフ。",
+        "name": "Oraxia Chelicera グリフ（明）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe Oraxia Chelicera na jasnym tle.",
+        "name": "Glif Oraxia Chelicera — Jasny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Oraxia Chelicera em um fundo claro.",
+        "name": "Glifo: Oraxia Chelicera (Claro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Oraxia 顱螯在明亮背景下的浮印。",
+        "name": "Oraxia 顱螯浮印 - 明亮",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia Chelicera บนพื้นหลังที่สว่างสดใส",
+        "name": "ภาพสัญลักษณ์ Oraxia Chelicera - สว่าง",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia Chelicera açık fonlu glif.",
+        "name": "Oraxia Chelicera Glif - Açık",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Ораксії в шоломі «Хеліцера» на світлому тлі.",
+        "name": "Яскравий гліф «Ораксія Хеліцера»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltDark",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-chelicera-glyph---dark-2c62f61031.png",
+    "name": "Oraxia Chelicera Glyph - Dark",
+    "description": "A glyph depicting Oraxia Chelicera on a dark background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Oraxia Chelicera vor einem dunklen Hintergrund darstellt.",
+        "name": "Glyphe: Oraxia Chelicera (Dunkel)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Oraxia Chelicera sur fond sombre.",
+        "name": "Glyphe Oraxia Chelicera - Sombre",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Oraxia Chelicera su uno sfondo scuro.",
+        "name": "Glifo Oraxia Chelicera - Scuro",
+        "code": "it"
+      },
+      {
+        "description": "어두운 배경을 등지고 있는 오락시아 첼리세라를 묘사한 글리프입니다.",
+        "name": "오락시아 첼리세라 글리프 - 어두움",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Oraxia Chelicera sobre un fondo oscuro.",
+        "name": "Glifo de Oraxia Chelicera - Oscuro",
+        "code": "es"
+      },
+      {
+        "description": "Oraxia 螯肢在黑暗背景下的浮印。",
+        "name": "Oraxia 螯肢浮印 - 黑暗",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Ораксии Хелицера на тёмном фоне.",
+        "name": "Глиф: Ораксия Хелицера - тёмный",
+        "code": "ru"
+      },
+      {
+        "description": "暗い背景に描かれたOraxia Cheliceraのグリフ。",
+        "name": "Oraxia Chelicera グリフ（暗）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe Oraxia Chelicera na ciemnym tle.",
+        "name": "Glif Oraxia Chelicera — Ciemny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Oraxia Chelicera em um fundo escuro.",
+        "name": "Glifo: Oraxia Chelicera (Escuro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Oraxia 顱螯在黑暗背景下的浮印。",
+        "name": "Oraxia 顱螯浮印 - 黑暗",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia Chelicera บนพื้นหลังสีเข้ม",
+        "name": "ภาพสัญลักษณ์ Oraxia Chelicera - มืด",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia Chelicera koyu fonlu glif.",
+        "name": "Oraxia Chelicera Glif - Koyu",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Ораксії в шоломі «Хеліцера» на темномц тлі.",
+        "name": "Темний гліф «Ораксія Хеліцера»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaBright",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-glyph---bright-158315d570.png",
+    "name": "Oraxia Glyph - Bright",
+    "description": "A glyph depicting Oraxia on a bright background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Oraxia vor einem hellen Hintergrund darstellt.",
+        "name": "Glyphe: Oraxia (Hell)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Oraxia sur fond lumineux.",
+        "name": "Glyphe Oraxia - Lumineux",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Oraxia su uno sfondo chiaro.",
+        "name": "Glifo Oraxia - Chiaro",
+        "code": "it"
+      },
+      {
+        "description": "밝은 배경을 등지고 있는 오락시아를 묘사한 글리프입니다.",
+        "name": "오락시아 글리프 - 밝음",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Oraxia sobre un fondo brillante.",
+        "name": "Glifo de Oraxia - Brillante",
+        "code": "es"
+      },
+      {
+        "description": "Oraxia 在明亮背景下的浮印。",
+        "name": "Oraxia 浮印 - 明亮",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Ораксии на светлом фоне.",
+        "name": "Глиф: Ораксия - светлый",
+        "code": "ru"
+      },
+      {
+        "description": "明るい背景に描かれたOraxiaのグリフ。",
+        "name": "Oraxia グリフ（明）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe Oraxia na jasnym tle.",
+        "name": "Glif Oraxia — Jasny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Oraxia em um fundo claro.",
+        "name": "Glifo: Oraxia (Claro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Oraxia 在明亮背景下的浮印。",
+        "name": "Oraxia 浮印 - 明亮",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia บนพื้นหลังที่สว่างสดใส",
+        "name": "ภาพสัญลักษณ์ Oraxia - สว่าง",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia açık fonlu glif.",
+        "name": "Oraxia Glif - Açık",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Ораксії на світлому тлі.",
+        "name": "Яскравий гліф «Ораксія»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaDark",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-glyph---dark-ec8bb57cac.png",
+    "name": "Oraxia Glyph - Dark",
+    "description": "A glyph depicting Oraxia on a dark background.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Oraxia vor einem dunklen Hintergrund darstellt.",
+        "name": "Glyphe: Oraxia (Dunkel)",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe représentant Oraxia sur fond sombre.",
+        "name": "Glyphe Oraxia - Sombre",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che mostra Oraxia su uno sfondo scuro.",
+        "name": "Glifo Oraxia - Scuro",
+        "code": "it"
+      },
+      {
+        "description": "어두운 배경을 등지고 있는 오락시아를 묘사한 글리프입니다.",
+        "name": "오락시아 글리프 - 어두움",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que representa a Oraxia sobre un fondo oscuro.",
+        "name": "Glifo de Oraxia - Oscuro",
+        "code": "es"
+      },
+      {
+        "description": "Oraxia 在黑暗背景下的浮印。",
+        "name": "Oraxia 浮印 - 黑暗",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф с изображением Ораксию на тёмном фоне.",
+        "name": "Глиф: Ораксия - тёмный",
+        "code": "ru"
+      },
+      {
+        "description": "暗い背景に描かれたOraxiaのグリフ。",
+        "name": "Oraxia グリフ（暗）",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Warframe Oraxia na ciemnym tle.",
+        "name": "Glif Oraxia — Ciemny",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo retratando a Oraxia em um fundo escuro.",
+        "name": "Glifo: Oraxia (Escuro)",
+        "code": "pt"
+      },
+      {
+        "description": "一枚描繪 Oraxia 在黑暗背景下的浮印。",
+        "name": "Oraxia 浮印 - 黑暗",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia บนพื้นหลังสีเข้ม",
+        "name": "ภาพสัญลักษณ์ Oraxia - มืด",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia koyu fonlu glif.",
+        "name": "Oraxia Glif - Koyu",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Ораксії на темному тлі.",
+        "name": "Темний гліф «Ораксія»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyC",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orbital-cathode-glyph-191cf6ba31.png",
     "name": "Orbital Cathode Glyph",
@@ -76677,75 +78627,75 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePlexiCosplay",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plexi-cosplay-glyph-20304d59f1.png",
     "name": "Plexi Cosplay Glyph",
-    "description": "A Glyph for your profile.",
+    "description": "Plexi Cosplay - Official TennoCon Cosplayer Glyph",
     "languages": [
       {
-        "description": "Eine Glyphe für dein Profil.",
+        "description": "Die Glyphe von Plexi Cosplay - Offizielles Cosplay der TennoCon.",
         "name": "Glyphe: Plexi Cosplay",
         "code": "de"
       },
       {
-        "description": "Un Glyphe pour votre profil.",
+        "description": "Plexi Cosplay – Glyphe officiel des cosplayers de la TennoCon",
         "name": "Glyphe Plexi Cosplay",
         "code": "fr"
       },
       {
-        "description": "Un Glifo per il tuo profilo.",
+        "description": "Plexi Cosplay - Glifo Cosplayer Ufficiale TennoCon",
         "name": "Glifo Plexi Cosplay",
         "code": "it"
       },
       {
-        "description": "프로필을 위한 글리프입니다.",
+        "description": "Plexi Cosplay - 공식 텐노콘 코스플레이어 글리프",
         "name": "Plexi Cosplay 글리프",
         "code": "ko"
       },
       {
-        "description": "Un glifo para tu perfil.",
+        "description": "Glifo de Plexi Cosplay - Cosplayer oficial de la TennoCon",
         "name": "Glifo Plexi Cosplay",
         "code": "es"
       },
       {
-        "description": "个人档案的浮印。",
+        "description": "Plexi Cosplay - TennoCon 官方角色扮演玩家浮印",
         "name": "Plexi Cosplay 浮印",
         "code": "zh"
       },
       {
-        "description": "Глиф для вашего профиля.",
+        "description": "Глиф: Plexi Cosplay - Официальный глиф TennoCon",
         "name": "Глиф: Plexi Cosplay",
         "code": "ru"
       },
       {
-        "description": "プロフィール用のグリフ。",
+        "description": "Plexi Cosplay - 公式 TennoCon コスプレイヤーグリフ",
         "name": "Plexi Cosplay グリフ",
         "code": "ja"
       },
       {
-        "description": "Glif dla Twojego profilu.",
+        "description": "Plexi Cosplay - Oficjalny Glif Cosplayera TennoCon",
         "name": "Glif Plexi Cosplay",
         "code": "pl"
       },
       {
-        "description": "Um Glifo para o seu perfil.",
+        "description": "Glifo: Plexi Cosplay (Cosplayer Oficial da TennoCon)",
         "name": "Glifo: Plexi Cosplay",
         "code": "pt"
       },
       {
-        "description": "用於個人檔案的浮印。",
+        "description": "Plexi Cosplay - 官方 TennoCon 扮裝者浮印",
         "name": "Plexi Cosplay 浮印",
         "code": "tc"
       },
       {
-        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "description": "Plexi Cosplay - ภาพสัญลักษณ์ของ Cosplayer อย่างเป็นทางการของงาน TennoCon",
         "name": "ภาพสัญลักษณ์ Plexi Cosplay",
         "code": "th"
       },
       {
-        "description": "Profilin için bir Glif.",
+        "description": "Plexi Cosplay - Resmi TennoCon Cosplay Glifi",
         "name": "Plexi Cosplay Glif",
         "code": "tr"
       },
       {
-        "description": "Гліф для вашого профілю.",
+        "description": "Гліф офіційних косплеєрів Теннокону — Plexi Cosplay.",
         "name": "Гліфі «Plexi Cosplay»",
         "code": "uk"
       }
@@ -77527,6 +79477,84 @@
       {
         "description": "Гліф на підтримку Прайду, створений TadaCharly.",
         "name": "Гліф «Прайд» IV",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrimedSoonGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-soon-glyph-182a2dc668.png",
+    "name": "Primed Soon Glyph",
+    "description": "A glyph releasing Soon (TM), created by Community artist Searyn.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die demnächst erscheint (TM), erstellt vom Community-Künstler Searyn.",
+        "name": "Glyphe: Bald Primed",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe bientôt disponible (TM), créé par l'artiste communautaire Searyn.",
+        "name": "Glyphe Bientôt Prêt",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che verrà rilasciato presto (TM), creato dall'artista della Comunità Searyn.",
+        "name": "Glifo Primed Soon",
+        "code": "it"
+      },
+      {
+        "description": "근시일 내에 곧 (TM) 출시되는 글리프입니다. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+        "name": "프라임드 순 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que estará disponible próximamente (TM), creado por la artista de la comunidad Searyn.",
+        "name": "Glifo Próximamente Prime",
+        "code": "es"
+      },
+      {
+        "description": "即将上线的浮印™，由社区艺术家 Searyn 创作。",
+        "name": "即将到来 Prime 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, который выйдет в ближайшее время (TM). Создан художником сообщества Searyn.",
+        "name": "Глиф: В ожидании Прайма",
+        "code": "ru"
+      },
+      {
+        "description": "コミュニティ アーティストSearyn によって作られた、近日実装予定(TM)のグリフ。",
+        "name": "Primed Soon グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif, który zostanie Wkrótce (TM) dodany do gry, stworzony przez artystę społeczności Searyn.",
+        "name": "Glif Wkrótce Prime",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo que será lançado em breve (TM), desenvolvido pela artista da comunidade, Searyn.",
+        "name": "Glifo: Em Breve",
+        "code": "pt"
+      },
+      {
+        "description": "即將推出的浮印，由社群藝術家──Searyn 創作。",
+        "name": "快了 Prime 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่เล่นมุก 'Soon (TM)' ว่าจะปล่อยออกมาเร็ว ๆ นี้ ออกแบบโดยศิลปินชุมชน Searyn",
+        "name": "ภาพสัญลักษณ์ Primed Soon",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Searyn tarafından tasarlanan ve Yakında (TM) şakasını benimseyen bir glif.",
+        "name": "Primed Yakında Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для позначення випуску будь-чого «Незабаром» (ТМ), створений Searyn.",
+        "name": "Гліф «Незабаром-прайм»",
         "code": "uk"
       }
     ]
@@ -80808,6 +82836,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRebeccaWeress",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rebecca-weress-glyph-8b40b812a2.png",
+    "name": "Rebecca Weress Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: Rebecca Weress",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Rebecca Weress",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo Rebecca Weress",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "Rebecca Weress 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de Rebecca Weress",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Rebecca Weress 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: Rebecca Weress",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Rebecca Weress グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif Rebecca Weress",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Rebecca Weress",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "Rebecca Weress 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Rebecca Weress",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "Rebecca Weress Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф Rebecca Weress",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageReclaimJoey",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reclaimjoey-glyph-bcde2edd43.png",
     "name": "Reclaimjoey Glyph",
@@ -81115,6 +83221,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Redx",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRegisteredLoserGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/registered-loser-glyph\n-6b464ea2a6.png",
+    "name": "Registered Loser Glyph\n",
+    "description": "A glyph to signify your status, created by Community artist Searyn.",
+    "languages": [
+      {
+        "description": "Eine Glyphe zur Anzeige deines Status, erstellt vom Community-Künstler Searyn.",
+        "name": "Glyphe: Registrierter Verlierer",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour représenter votre statut, créé par l'artiste communautaire Searyn.",
+        "name": "Glyphe de Perdant Enregistré\n",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo per indicare il tuo stato, creato dall'artista della Comunità Searyn.",
+        "name": "Glifo Registered Loser",
+        "code": "it"
+      },
+      {
+        "description": "여러분의 지위를 보여주는 글리프입니다. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+        "name": "회원가입한 루저 글리프\n",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para indicar tu estado, creado por la artista de la comunidad Searyn.",
+        "name": "Glifo de Perdedor registrado",
+        "code": "es"
+      },
+      {
+        "description": "表示你的状态的浮印，由社区艺术家 Searyn 创作。",
+        "name": "认证渣渣浮印\n",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, символизирующий ваш статус, создан художником сообщества Searyn.",
+        "name": "Глиф: Сертифицированный неудачник",
+        "code": "ru"
+      },
+      {
+        "description": "コミュニティ アーティストSearyn によって作られた、立場を表すグリフ。",
+        "name": "Registered Loser グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif oznaczający Twój status, stworzony przez artystę społeczności Searyn.",
+        "name": "Glif Zarejestrowanego Przegrywa\n",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo para representar seu status, desenvolvido pela artista da comunidade, Searyn.",
+        "name": "Glifo: Perdedor Registrado",
+        "code": "pt"
+      },
+      {
+        "description": "展示你的地位的浮印，由社群藝術家──Searyn 創作。",
+        "name": "登記的魯蛇浮印\n",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ที่แสดงถึงสถานะของคุณ ออกแบบโดยศิลปินชุมชน Searyn",
+        "name": "ภาพสัญลักษณ์ Registered Loser\n",
+        "code": "th"
+      },
+      {
+        "description": "Topluluk sanatçısı Searyn tarafından tasarlanan ve statü belirten bir glif.",
+        "name": "Kayıtlı Ezik Glif\n",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для позначення офіційного статусу, створений Searyn.",
+        "name": "Гліф «Засвідчений невдаха»",
         "code": "uk"
       }
     ]
@@ -83299,6 +85483,84 @@
       {
         "description": "Гліф із зображенням Райно в шоломі «Авангард» на темному тлі.",
         "name": "Темний гліф «Райно „Авангард“»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRickunPrime",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rickunprime-glyph-5afd70bee1.png",
+    "name": "Rickunprime Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: RickunPrime",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe RickunPrime",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo RickunPrime",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "RickunPrime 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de RickunPrime",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "RickunPrime 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: RickunPrime",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "RickunPrime グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif RickunPrime",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: RickunPrime",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "RickunPrime 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ RickunPrime",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "RickunPrime Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф RickunPrime",
         "code": "uk"
       }
     ]
@@ -85566,6 +87828,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSassyLotusGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sassy-lotus-glyph-8527d2c32a.png",
+    "name": "Sassy Lotus Glyph",
+    "description": "A glyph of the Lotus. Ignore your original objective, Tenno. Created by Community artist Searyn.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Lotus darstellt. Ignoriere dein ursprüngliches Ziel, Tenno. Erstellt vom Community-Künstler Searyn.",
+        "name": "Glyphe: Freche Lotus",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe du Lotus. Ignorez votre objectif initial, Tenno. Créé par l'artiste communautaire Searyn.",
+        "name": "Glyphe Lotus Insolent",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo di Lotus. Ignora il tuo obiettivo originale, Tenno. Creato dall'artista della Communità Searyn.",
+        "name": "Glifo Sassy Lotus",
+        "code": "it"
+      },
+      {
+        "description": "로터스의 모습을 그린 글리프입니다. 원래 목표는 무시하세요, 텐노. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+        "name": "건방진 로터스 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de Lotus. Ignora tu objetivo original, tenno. Creado por la artista de la comunidad Searyn.",
+        "name": "Glifo de Lotus atrevida",
+        "code": "es"
+      },
+      {
+        "description": "Lotus 的浮印。Tenno，请忽略你最初的目标。由社区艺术家 Searyn 创作。",
+        "name": "活泼 Lotus 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф Лотос. Забудьте о своей изначальной цели, Тэнно. Создан художником сообщества Searyn.",
+        "name": "Глиф: Дерзкая Лотос",
+        "code": "ru"
+      },
+      {
+        "description": "Lotusのグリフ。任務を変更します、テンノ。コミュニティアーティストSearynによる作品。",
+        "name": "Sassy Lotus グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif Lotus. Zignoruj swój pierwotny cel, Tenno. Stworzony przez artystę społeczności Searyn.",
+        "name": "Glif Zadziornej Lotus",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo da Lótus. Ignore seu objetivo original, Tenno. Desenvolvido pela artista da comunidade, Searyn.",
+        "name": "Glifo: Lótus Insolente",
+        "code": "pt"
+      },
+      {
+        "description": "Lotus 的浮印。Tenno，別管什麼原本的目標了。由社群藝術家──Searyn 創作。",
+        "name": "瀟灑 Lotus 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ของ Lotus แสดงออกทำนองว่าไม่ต้องสนใจเป้าหมายเดิมหรอก Tenno ออกแบบโดยศิลปินชุมชน Searyn",
+        "name": "ภาพสัญลักษณ์ Sassy Lotus",
+        "code": "th"
+      },
+      {
+        "description": "Lotus'un bir glifi. Asıl amacını görmezden gel, Tenno. Topluluk sanatçısı Searyn tarafından tasarlandı.",
+        "name": "Alaycı Lotus Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Лотос. Тенно, ігноруй свої початкові цілі. Створений Searyn.",
+        "name": "Гліф «Зухвала Лотос»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSaturnSixBarDiscord",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saturn-six-bar-discord-glyph-d482c3f13b.png",
     "name": "Saturn Six Bar Discord Glyph",
@@ -86965,6 +89305,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Searyn",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSecriotMcFly",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/secriot_mcfly-glyph-f934469503.png",
+    "name": "Secriot_mcfly Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: Secriot_McFly",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Secriot_McFly",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo Secriot_McFly",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "Secriot_McFly 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de Secriot_McFly",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Secriot_McFly 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: Secriot_McFly",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Secriot_McFly グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif Secriot_McFly",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Secriot_McFly",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "Secriot_McFly 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Secriot_McFly",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "Secriot_McFly Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф Secriot_McFly",
         "code": "uk"
       }
     ]
@@ -88603,6 +91021,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф SherpaRage",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShinobiFufu",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shinobifufu-glyph-47548029cd.png",
+    "name": "Shinobifufu Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: ShinobiFufu",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe ShinobiFufu",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo ShinobiFufu",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "ShinobiFufu 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de ShinobiFufu",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "ShinobiFufu 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: ShinobiFufu",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "ShinobiFufu グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif ShinobiFufu",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: ShinobiFufu",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "ShinobiFufu 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ ShinobiFufu",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "ShinobiFufu Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф ShinobiFufu",
         "code": "uk"
       }
     ]
@@ -98892,7 +101388,7 @@
         "code": "th"
       },
       {
-        "description": "Titania Empress'i tasvir eden glif.",
+        "description": "Titania Empress'i tasvir eden bir glif.",
         "name": "Titania Empress Glif",
         "code": "tr"
       },
@@ -100842,7 +103338,7 @@
         "code": "th"
       },
       {
-        "description": "Trinity Strega Skin'i tasvir eden glif.",
+        "description": "Trinity Strega Skin'i tasvir eden bir glif.",
         "name": "Trinity Strega Glif",
         "code": "tr"
       },
@@ -101161,6 +103657,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Tygastripe",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTylRegorGenesGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tyl-regor-genes-glyph-699e248513.png",
+    "name": "Tyl Regor Genes Glyph",
+    "description": "A glyph of Tyl Regor sporting a new look. He finally got his jeans. Created by Community artist Searyn.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Tyl Regor in neuem Look darstellt. Er hat endlich seine Jeans bekommen. Erstellt vom Community-Künstler Searyn.",
+        "name": "Glyphe: Tyl Regors Gene",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe de Tyl Regor arborant un nouveau look. Il a enfin son jean. Créé par l'artiste communautaire Searyn.",
+        "name": "Glyphe Gènes de Tyl Regor",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo di Tyl Regor con un nuovo look. Finalmente ha i suoi jeans. Creato dall'artista della Comunità Searyn.",
+        "name": "Glifo Tyl Regor Genes",
+        "code": "it"
+      },
+      {
+        "description": "틸 레거가 새로운 의상을 자랑하고 있는 모습의 글리프입니다. 드디어 진 바지를 입었군요. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+        "name": "틸 레거 진 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo de Tyl Regor con un nuevo look. Por fin tiene sus jeans. Creado por la artista de la comunidad Searyn.",
+        "name": "Glifo Genes de Tyl Regor",
+        "code": "es"
+      },
+      {
+        "description": "泰尔·雷工的全新造型浮印。他终于穿上了牛仔裤。由社区艺术家 Searyn 创作。",
+        "name": "泰尔·雷工基因浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф Тил Регор в новом облике. Он наконец-то получил свои джинсы. Создан художником сообщества Searyn.",
+        "name": "Глиф: Генетика Тила Регора",
+        "code": "ru"
+      },
+      {
+        "description": "ついにジーンズを手に入れた、Tyl Regorの新装グリフ。コミュニティアーティストのSearynによる作品。",
+        "name": "Tyl Regor Genes グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif przedstawiający Tyl Regora w nowej stylizacji. W końcu dostał swoje dżinsy. Stworzony przez artystę społeczności Searyn.",
+        "name": "Glif Genów Tyl Regora",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo do Tyl Regor com um novo visual. Ele finalmente conseguiu sua calça jeans. Desenvolvido pela artista da comunidade, Searyn.",
+        "name": "Glifo: Genes do Tyl Regor",
+        "code": "pt"
+      },
+      {
+        "description": "Tyl Regor 炫耀全新造型的浮印。他終於得到了他的基因褲。由社群藝術家──Searyn 創作。",
+        "name": "Tyl Regor 基因浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ของ Tyl Regor ที่มีรูปลักษณ์ใหม่ ในที่สุดเขาก็ได้ใส่กางเกงยีนส์แล้ว ออกแบบโดยศิลปินชุมชน Searyn",
+        "name": "ภาพสัญลักษณ์ Tyl Regor Genes",
+        "code": "th"
+      },
+      {
+        "description": "Tyl Regor'un yeni görünümünü gösteren bir glif. Sonunda kot pantolonuna kavuştu. Topluluk sanatçısı Searyn tarafından tasarlandı.",
+        "name": "Tyl Regor Genleri Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф із зображенням Тила Реґора у новому образі. Нарешті він здобув свої джинси. Створений Searyn.",
+        "name": "Гліф «Ґенеза Тила Реґора»",
         "code": "uk"
       }
     ]
@@ -101934,7 +104508,7 @@
         "code": "th"
       },
       {
-        "description": "Gersemi Valkyr'i tasvir eden glif.",
+        "description": "Gersemi Valkyr'i tasvir eden bir glif.",
         "name": "Valkyr Gersemi Glif",
         "code": "tr"
       },
@@ -102097,6 +104671,84 @@
       {
         "description": "Гліф із зображенням Валькірії на темному тлі.",
         "name": "Темний гліф «Валькірія»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomValkyrGlyph",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-heirloom-glyph-caa3103612.png",
+    "name": "Valkyr Heirloom Glyph",
+    "description": "A glyph that celebrates Valkyr's legacy.",
+    "languages": [
+      {
+        "description": "Eine Glyphe, die Valkyrs Vermächtnis feiert.",
+        "name": "Glyphe: Valkyr Heirloom",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe qui célèbre l'héritage de Valkyr.",
+        "name": "Glyphe Valkyr Héritage",
+        "code": "fr"
+      },
+      {
+        "description": "Un glifo che celebra l'eredità di Valkyr.",
+        "name": "Glifo Valkyr Heirloom",
+        "code": "it"
+      },
+      {
+        "description": "발키르의 유산을 기념하는 글리프입니다.",
+        "name": "발키르 에어룸 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo que celebra el legado de Valkyr.",
+        "name": "Glifo de Valkyr Legado",
+        "code": "es"
+      },
+      {
+        "description": "庆祝 Valkyr 的传承的浮印。",
+        "name": "Valkyr 传家宝浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф, прославляющий наследие Валькирии.",
+        "name": "Глиф Валькирии «Наследие»",
+        "code": "ru"
+      },
+      {
+        "description": "Valkyrの武勇伝を称えるシグリフ。",
+        "name": "Valkyr Heirloom グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif upamiętniający dziedzictwo Valkyr.",
+        "name": "Glif: Pamiątkowa Valkyr",
+        "code": "pl"
+      },
+      {
+        "description": "Um glifo que celebra o legado da Valkyr.",
+        "name": "Glifo: Legado da Valkyr",
+        "code": "pt"
+      },
+      {
+        "description": "慶祝 Valkyr 的傳承的浮印。",
+        "name": "Valkyr 祖傳浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์ฉลองตำนานที่สืบสานต่อของ Valkyr",
+        "name": "ภาพสัญลักษณ์ Valkyr Heirloom",
+        "code": "th"
+      },
+      {
+        "description": "Valkyr'in mirasını kutlayan bir glif.",
+        "name": "Valkyr Heirloom Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вшанування спадщини Валькірії.",
+        "name": "Гліф «Спадок» для Валькірії",
         "code": "uk"
       }
     ]
@@ -103974,6 +106626,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVecToR",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vector-glyph-5e5b9bd204.png",
+    "name": "Vector Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: VecToR",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe VecToR",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo VecToR",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "VecToR 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de VecToR",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "VecToR 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: VecToR",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "VecToR グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif VecToR",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: VecToR",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "VecToR 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ VecToR",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "VecToR Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф VecToR",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelVelimir",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/velimir-pixel-glyph-26efeaa014.png",
     "name": "Velimir Pixel Glyph",
@@ -104671,6 +107401,84 @@
       {
         "description": "Гліф для вашого профілю.",
         "name": "Гліф Vernoc",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVeroz",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veroz73-glyph-f688ca5611.png",
+    "name": "Veroz73 Glyph",
+    "description": "A Glyph for your profile.",
+    "languages": [
+      {
+        "description": "Eine Glyphe für dein Profil.",
+        "name": "Glyphe: Veroz73",
+        "code": "de"
+      },
+      {
+        "description": "Un Glyphe pour votre profil.",
+        "name": "Glyphe Veroz73",
+        "code": "fr"
+      },
+      {
+        "description": "Un Glifo per il tuo profilo.",
+        "name": "Glifo Veroz73",
+        "code": "it"
+      },
+      {
+        "description": "프로필을 위한 글리프입니다.",
+        "name": "Veroz73 글리프",
+        "code": "ko"
+      },
+      {
+        "description": "Un glifo para tu perfil.",
+        "name": "Glifo de Veroz73",
+        "code": "es"
+      },
+      {
+        "description": "个人档案的浮印。",
+        "name": "Veroz73 浮印",
+        "code": "zh"
+      },
+      {
+        "description": "Глиф для вашего профиля.",
+        "name": "Глиф: Veroz73",
+        "code": "ru"
+      },
+      {
+        "description": "プロフィール用のグリフ。",
+        "name": "Veroz73 グリフ",
+        "code": "ja"
+      },
+      {
+        "description": "Glif dla Twojego profilu.",
+        "name": "Glif Veroz73",
+        "code": "pl"
+      },
+      {
+        "description": "Um Glifo para o seu perfil.",
+        "name": "Glifo: Veroz73",
+        "code": "pt"
+      },
+      {
+        "description": "用於個人檔案的浮印。",
+        "name": "Veroz73 浮印",
+        "code": "tc"
+      },
+      {
+        "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+        "name": "ภาพสัญลักษณ์ Veroz73",
+        "code": "th"
+      },
+      {
+        "description": "Profilin için bir Glif.",
+        "name": "Veroz73 Glif",
+        "code": "tr"
+      },
+      {
+        "description": "Гліф для вашого профілю.",
+        "name": "Гліф Veroz73",
         "code": "uk"
       }
     ]
@@ -114575,7 +117383,7 @@
         "code": "tr"
       },
       {
-        "description": "A Glyph for your profile.",
+        "description": "Гліф для вашого профілю.",
         "name": "Гліф «Ідея»",
         "code": "uk"
       }
@@ -115428,7 +118236,7 @@
         "code": "th"
       },
       {
-        "description": "Zephyr Harrier'ı tasvir eden glif.",
+        "description": "Zephyr Harrier'ı tasvir eden bir glif.",
         "name": "Zephyr Harrier Glif",
         "code": "tr"
       },

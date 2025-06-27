@@ -1684,7 +1684,7 @@
         "code": "ja"
       },
       {
-        "description": "Krótka broń biała zbudowana z materiałów ceramicznych. Posiada ograniczony zasięg, ale rekompensuje to możliwością szybkiego dobycia.",
+        "description": "Broń biała krótka zbudowana z materiałów ceramicznych. Posiada ograniczony zasięg, ale rekompensuje to możliwością szybkiego dobycia.",
         "name": "Ceramiczny Sztylet",
         "code": "pl"
       },
@@ -2854,7 +2854,7 @@
         "code": "ja"
       },
       {
-        "description": "Ta krótka broń biała została wykonana z ciemnych metali. Ma ograniczony zasięg, ale błyskawicznie się ją dobywa.",
+        "description": "Ta Broń biała krótka została wykonana z ciemnych metali. Ma ograniczony zasięg, ale błyskawicznie się ją dobywa.",
         "name": "Mroczny Sztylet",
         "code": "pl"
       },
@@ -6286,7 +6286,7 @@
         "code": "ja"
       },
       {
-        "description": "Potężny ciężki atak i zdolność trafiania do pięciu celów jednym cięciem czyni miecz Galatine prawdziwą ciężką artylerią wśród broni białej.",
+        "description": "Potężny ciężki atak i zdolność trafiania do pięciu celów jednym cięciem czyni miecz Galatine prawdziwą ciężką artylerią wśród Broni białej.",
         "name": "Galatine",
         "code": "pl"
       },
@@ -12093,10 +12093,10 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeOkina/PrimeOkina",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/okina-prime-e65052d7fd.png",
     "name": "Okina Prime",
-    "description": "Enforce authority with these fine-edged blades.",
+    "description": "Enforce authority with these fine-edged sai blades.",
     "languages": [
       {
-        "description": "Setze deine Autorität durch, mit diesen feinschnittigen Klingen.",
+        "description": "Setze deine Autorität durch, mit diesen feinschnittigen Sai-Klingen.",
         "name": "Okina Prime",
         "code": "de"
       },
@@ -12106,62 +12106,62 @@
         "code": "fr"
       },
       {
-        "description": "Imponi la tua autorità con queste lame affilate.",
+        "description": "Imponi la tua autorità con queste lame sai affilate.",
         "name": "Okina Prime",
         "code": "it"
       },
       {
-        "description": "섬세함을 띤 이 예리한 칼날로 당신의 권한을 집행하세요.",
+        "description": "섬세함을 띤 이 예리한 사이 칼날로 당신의 권한을 집행하세요.",
         "name": "오키나 프라임",
         "code": "ko"
       },
       {
-        "description": "Impón autoridad con estas hojas afiladas.",
+        "description": "Impón autoridad con estas hojas afiladas sai.",
         "name": "Okina Prime",
         "code": "es"
       },
       {
-        "description": "（英文：OKINA PRIME）通过这些精细的锋刃彰显权力。",
+        "description": "（英文：OKINA PRIME）通过这些精细的双叉锋刃彰显权力。",
         "name": "翁 Prime",
         "code": "zh"
       },
       {
-        "description": "Укрепите своё доминирование с помощью этих острых клинков.",
+        "description": "Укрепите своё доминирование с помощью этих острых саев.",
         "name": "Окина Прайм",
         "code": "ru"
       },
       {
-        "description": "研ぎ澄まされた刃で権威を示そう。",
+        "description": "研ぎ澄まされた釵の刃で権威を示そう。",
         "name": "Okina Prime",
         "code": "ja"
       },
       {
-        "description": "Egzekwuj władzę za pomocą ostrzy tych starannie wykonanych sztyletów.",
+        "description": "Egzekwuj władzę za pomocą ostrzy tych starannie wykonanych sztyletów sai.",
         "name": "Okina Prime",
         "code": "pl"
       },
       {
-        "description": "Imponha a autoridade com estas elegantes lâminas afiadas.",
+        "description": "Imponha a autoridade com estas elegantes lâminas afiadas sai.",
         "name": "Okina Prime",
         "code": "pt"
       },
       {
-        "description": "（英文：OKINA PRIME）利用這些尖細的刀刃來建立威信。",
+        "description": "（英文：OKINA PRIME）利用這些尖細的鐵尺來建立威信。",
         "name": "翁 Prime",
         "code": "tc"
       },
       {
-        "description": "มีดคมกริบคู่นี้จะช่วยให้ปฏิบัติหน้าที่ได้อย่างเต็มที่",
+        "description": "ดาบไซที่คมกริบคู่นี้จะช่วยทำให้ใช้กำลังได้อย่างเต็มที่",
         "name": "Okina Prime",
         "code": "th"
       },
       {
-        "description": "Keskin uçlu bu bıçaklarla adaleti sağla.",
+        "description": "Keskin uçlu bu sai bıçaklarla adaleti sağla.",
         "name": "Okina Prime",
         "code": "tr"
       },
       {
-        "description": "Посильте владний вигляд за допомогою цих вишуканих клинків.",
+        "description": "Посильте владний вигляд за допомогою цих вишуканих саїв.",
         "name": "Окіни-прайм",
         "code": "uk"
       }
@@ -17004,6 +17004,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Whips/SpiderWhip/SpiderWhipWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spinnerex-cbb8de4920.png",
+    "name": "Spinnerex",
+    "description": "Each lash of Oraxia's whip injects its victim with a dose of deadly toxin. Upon death, afflicted enemies have a chance to burst, damaging nearby enemies and spreading the poison.",
+    "languages": [
+      {
+        "description": "Jeder Schlag mit Oraxias Peitsche injiziert die Opfer mit einer Dosis tödlichen Giftes. Beim Tod haben betroffene Feinde eine Chance zu platzen, wodurch Gegner in der Nähe Schaden nehmen und das Gift weiter verbreiten.",
+        "name": "Spinnerex",
+        "code": "de"
+      },
+      {
+        "description": "Chaque coup de fouet d'Oraxia injecte à sa victime une dose de toxine mortelle. À leur mort, les ennemis affectés ont une chance d'exploser, infligeant des Dégâts aux ennemis proches et répandant le poison.",
+        "name": "Spinnerex",
+        "code": "fr"
+      },
+      {
+        "description": "Ogni colpo di frusta di Oraxia inietta nella vittima una dose di tossina mortale. Alla morte, i nemici colpiti hanno la possibilità di esplodere, danneggiando i nemici nelle vicinanze e diffondendo il veleno.",
+        "name": "Spinnerex",
+        "code": "it"
+      },
+      {
+        "description": "오락시아의 채찍은 한 번 휘둘러질 때마다 피격당하는 적에게 치명적인 독을 주입합니다. 영향을 받은 적이 사망할 시, 일정 확률로 폭발하여 주변 적에게 피해를 입히고 독을 퍼뜨립니다.",
+        "name": "스피너렉스",
+        "code": "ko"
+      },
+      {
+        "description": "Cada latigazo de Oraxia inyecta a su víctima una dosis de toxina mortal. Al morir, los enemigos afectados pueden explotar, dañando a los enemigos cercanos y propagando el veneno.",
+        "name": "Spinnerex",
+        "code": "es"
+      },
+      {
+        "description": "（英文：SPINNEREX）Oraxia 的每一次鞭打都会将致命毒素注入敌人体内，受影响的敌人死亡时爆发毒素，对附近的敌人造成伤害并扩散毒素。",
+        "name": "丝蛛皇",
+        "code": "zh"
+      },
+      {
+        "description": "Каждый удар кнута Ораксии вводит в жертву дозу смертельного токсина. После смерти поражённые враги имеют шанс взорваться, нанося урон ближайшим врагам и распространяя яд.",
+        "name": "Спиннерекс",
+        "code": "ru"
+      },
+      {
+        "description": "Oraxiaのムチの一撃ごとに敵に猛毒が注入される。毒に侵された敵が倒れると確率で爆破し、付近の敵にダメージを与え毒を拡散させる。",
+        "name": "Spinnerex",
+        "code": "ja"
+      },
+      {
+        "description": "Każde uderzenie biczem Oraxii nasyca ofiarę dawką toksyny. Po śmierci dotknięci wrogowie mają szansę wybuchnąć, zadając obrażenia pobliskim wrogom i rozprzestrzeniając truciznę.",
+        "name": "Spinnerex",
+        "code": "pl"
+      },
+      {
+        "description": "Cada chicotada da Oraxia injeta em sua vítima uma dose letal de toxina. Ao morrer, os inimigos atingidos têm chance de explodir, espalhando o veneno, e causando dano aos demais inimigos próximos.",
+        "name": "Spinnerex",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：SPINNEREX）Oraxia 的每次鞭擊都會對獵物注入致命毒劑。中毒的敵人死亡時，有機率爆開，進而傷害並毒害附近敵人。",
+        "name": "旋織者",
+        "code": "tc"
+      },
+      {
+        "description": "แส้ของ Oraxia ที่หวดไปแต่ละครั้งจะฉีดพิษร้ายแรงเข้าไปในตัวเหยื่อ เมื่อเหยื่อตาย ศัตรูที่ได้รับเอฟเฟกต์มีโอกาสที่จะระเบิด ทำให้ศัตรูที่อยู่ใกล้ได้รับความเสียหายและพิษจะแพร่กระจายออกไป",
+        "name": "Spinnerex",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia'nın kırbacının her darbesi, kurbanına ölümcül dozda toksin enjekte eder. Etki altında ölen düşmanlar, belirli bir şans ile patlayarak yakındaki düşmanlara zarar verir ve zehri yayar.",
+        "name": "Spinnerex",
+        "code": "tr"
+      },
+      {
+        "description": "Кожен удар батогом Ораксії впорскує смертельну отруту в тіло жертви. Після смерті заражені вороги можуть вибухнути, завдаючи шкоди ворогам поблизу й поширюючи отруту далі.",
+        "name": "Спіннерекс",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Corpus/Melee/Gunblade/CrpGunBlade/CrpGunbladeWeapon",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stropha-7e14214568.png",
     "name": "Stropha",
@@ -18174,6 +18252,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Tenno/Zariman/Melee/HeavyScythe/ZarimanHeavyScythe/ZarimanHeavyScytheWeapon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thalys-046b42a5ff.png",
+    "name": "Thalys",
+    "description": "The Thalys played a ceremonial role in the Zariman harvest festival, and was intended to reap the first fruits of Tau. Now twisted from this purpose, it plants Void shards in enemy flesh instead. Each new shard planted causes existing shards to inflict damage on their hosts.",
+    "languages": [
+      {
+        "description": "Die Thalys spielte beim Erntefest auf der Zariman eine zeremonielle Rolle und sollte die ersten Früchte von Tau ernten. Dieser Zweck wurde jedoch missbraucht und sie sät stattdessen Void-Scherben in das Fleisch ihrer Feinde. Jede neu gepflanzte Scherbe führt dazu, dass vorhandene Scherben ihren Wirten Schaden zufügen.",
+        "name": "Thalys",
+        "code": "de"
+      },
+      {
+        "description": "Le Thalys jouait un rôle cérémoniel lors de la fête des récoltes du Zariman et était censé récolter les premiers fruits de Tau. Désormais détourné de cette fonction, il plante des éclats du Néant dans la chair ennemie. Chaque nouvelle graine plantée inflige des Dégâts aux hôtes via les éclats existants.",
+        "name": "Thalys",
+        "code": "fr"
+      },
+      {
+        "description": "La Thalys svolgeva un ruolo cerimoniale nella festa del raccolto della Zariman, e aveva lo scopo di raccogliere i primi frutti di Tau. Ora, distolta da questo scopo, pianta schegge Void nella carne del nemico. Ogni nuova scheggia piantata fa sì che quelle esistenti infliggano danni ai loro ospiti.",
+        "name": "Thalys",
+        "code": "it"
+      },
+      {
+        "description": "탈리스는 자리만 수확 축제에서 의식적인 역할을 했으며, 타우의 첫 열매를 수확하는 데 사용되었습니다. 하지만 이제 그 사용처에서 뒤틀려버린 탈리스는 적들의 살 속에 보이드를 심습니다. 새로 심어진 씨앗은 기존의 샤드가 숙주에게 피해를 입히도록 합니다.",
+        "name": "탈리스",
+        "code": "ko"
+      },
+      {
+        "description": "La Thalys desempeñaba un papel ceremonial en el festival de la cosecha de la Zariman, y su objetivo era recoger los primeros frutos de Tau. Ahora, desviado de este propósito, siembra fragmentos del Vacío en la carne del enemigo. Cada nuevo fragmento sembrado provoca que los fragmentos existentes inflijan daño a sus anfitriones.",
+        "name": "Thalys",
+        "code": "es"
+      },
+      {
+        "description": "（英文：THALYS）大力士曾在扎里曼收获节中扮演仪式性的角色，原本用来收获 Tau 星系的最初成果。而如今，它的用途已被扭曲，转而在敌人的肉体中播种虚空碎片。每种下一块新碎片，现有的碎片便会对宿主造成伤害。",
+        "name": "大力士",
+        "code": "zh"
+      },
+      {
+        "description": "Талис была отведена церемониальная роль в празднике урожая Заримана, при сборе первых плодов Тау. Теперь, утратив эту роль, она вместо этого засаживает осколки Бездны во вражескую плоть. Каждый новый посажёный осколок заставляет существующие осколки наносить урон своим хозяевам.",
+        "name": "Талис",
+        "code": "ru"
+      },
+      {
+        "description": "ThalysはZarimanの収穫祭において儀式的な役割を果たし、Tauで栽培した初の果実を収穫することを目的としていた。しかし、今ではその目的から逸脱し、敵の肉体にVoidｍの破片を植える武器と化した。新たな破片が埋め込められるたびに、既存の破片が宿主にダメージを与える。",
+        "name": "Thalys",
+        "code": "ja"
+      },
+      {
+        "description": "Thalys odgrywał rolę ceremonialną podczas festiwalu żniw na Zarimanie i miał zebrać pierwsze owoce Tau. Teraz, wypaczony z tego celu, zasiewa odłamki Pustki w ciele wroga. Każdy nowy odłamek powoduje, że istniejące odłamki zadają obrażenia już zranionym wrogom.",
+        "name": "Thalys",
+        "code": "pl"
+      },
+      {
+        "description": "A Thalys desempenhava um papel cerimonial no festival de colheita da Zariman, visando colher os primeiros frutos de Tau. Agora, desviada deste propósito, ela planta fragmentos do Void nos inimigos. Cada fragmento plantado fará com que os existentes causem dano aos seus hospedeiros.",
+        "name": "Thalys",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：THALYS）泰力在扎日曼豐收祭中扮演儀式性的角色，原意為收成 Tau 的初果。現卻偏離了本意，轉而於敵人血肉中植入虛空碎片。每植入新碎片，就會讓現有的碎片對其宿主造成傷害。",
+        "name": "泰力",
+        "code": "tc"
+      },
+      {
+        "description": "Thalys มีบทบาทในพิธีกรรมในเทศกาลเก็บเกี่ยวของ Zariman และตั้งใจที่จะใช้สิ่งนี้เก็บเกี่ยวผลผลิตแรกของ Tau แต่บัดนี้จุดประสงค์นี้ได้เปลี่ยนไปแล้ว จึงได้ฝังเศษชิ้นส่วนวอยด์ลงในเนื้อของศัตรูแทน และทุกครั้งที่ฝังเศษชิ้นส่วนใหม่เข้าไปจะทำให้เศษชิ้นส่วนที่มีอยู่เดิมสร้างความเสียหายต่อสิ่งมีชีวิตที่เป็นโฮสต์",
+        "name": "Thalys",
+        "code": "th"
+      },
+      {
+        "description": "Thalys, Zariman hasat festivalinde törensel bir rol oynuyordu ve Tau'nun ilk meyvelerini toplamayı amaçlıyordu. Şimdi bu amacından saptırılarak, bunun yerine düşman etine Void parçaları ekiyor. Ekilen her yeni parça, mevcut parçaların konaklarına hasar vermesine neden olur.",
+        "name": "Thalys",
+        "code": "tr"
+      },
+      {
+        "description": "Талис відігравала церемоніальну роль на зарименському святі врожаю й мала скосити перші плоди Тау. Змінивши призначення, вона насичує Порожнечею плоть ворогів. Кожен новий посаджений уламок змушує інші завдавати шкоди носіям.",
+        "name": "Талис",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tipedo-939711dac4.png",
     "name": "Tipedo",
@@ -19254,7 +19410,7 @@
         "code": "th"
       },
       {
-        "description": "Adalet kör edicidir. Radial Blind yeteneğini şarj etmek için saldırıları blokla, yetenek tamamen şarj olduğunda ise Blok+Ağır Saldırı yaparak onu düşmanlarını kör et.",
+        "description": "Adalet kör edicidir. Radial Blind yeteneğini şarj etmek için saldırıları engelle, yetenek tamamen şarj olduğunda ise Engelleme + Ağır Saldırı tuşlarına basarak düşmanlarını kör et.",
         "name": "Vaykor Sydon",
         "code": "tr"
       },

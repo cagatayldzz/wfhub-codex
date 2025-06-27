@@ -63,952 +63,70 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Types/Game/ModularWeaponCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/OperatorAmpCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/OperatorCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeAbilitiesCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeArmorCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeCompanionCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeEnergyCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeHealthCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeMovementCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeResistanceCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeShieldsCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeSpecialCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeWeapDmgCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Game/WarframeWeapStatsCosmeticEnhancer",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
-    "name": "Arcane",
-    "languages": [
-      {
-        "name": "Arkana",
-        "code": "de"
-      },
-      {
-        "name": "Arcane",
-        "code": "fr"
-      },
-      {
-        "name": "Arcane",
-        "code": "it"
-      },
-      {
-        "name": "아케인",
-        "code": "ko"
-      },
-      {
-        "name": "Arcano",
-        "code": "es"
-      },
-      {
-        "name": "赋能",
-        "code": "zh"
-      },
-      {
-        "name": "Мистификатор",
-        "code": "ru"
-      },
-      {
-        "name": "アルケイン",
-        "code": "ja"
-      },
-      {
-        "name": "Arkanum",
-        "code": "pl"
-      },
-      {
-        "name": "Arcano",
-        "code": "pt"
-      },
-      {
-        "name": "賦能",
-        "code": "tc"
-      },
-      {
-        "name": "Arcane",
-        "code": "th"
-      },
-      {
-        "name": "Arcane",
-        "code": "tr"
-      },
-      {
-        "name": "Містифікатор",
-        "code": "uk"
-      }
-    ]
-  },
-  {
     "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttackSub",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
+    "name": "Arcane",
+    "languages": [
+      {
+        "name": "Arkana",
+        "code": "de"
+      },
+      {
+        "name": "Arcane",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane",
+        "code": "it"
+      },
+      {
+        "name": "아케인",
+        "code": "ko"
+      },
+      {
+        "name": "Arcano",
+        "code": "es"
+      },
+      {
+        "name": "赋能",
+        "code": "zh"
+      },
+      {
+        "name": "Мистификатор",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum",
+        "code": "pl"
+      },
+      {
+        "name": "Arcano",
+        "code": "pt"
+      },
+      {
+        "name": "賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane",
+        "code": "th"
+      },
+      {
+        "name": "Arcane",
+        "code": "tr"
+      },
+      {
+        "name": "Містифікатор",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PermaComboOnFinisherSub",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane.png",
     "name": "Arcane",
     "languages": [
@@ -4027,6 +3145,258 @@
       },
       {
         "name": "Містичний щит",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility1Listener",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-steadfast-c83e3e9605.png",
+    "name": "Arcane Steadfast",
+    "languages": [
+      {
+        "name": "Arkana: Standhaftigkeit",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Inébranlable",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "it"
+      },
+      {
+        "name": "아케인 스테드패스트",
+        "code": "ko"
+      },
+      {
+        "name": "Firmeza Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·坚定",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая стойкость",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ステッドファスト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Zwinnych Rąk",
+        "code": "pl"
+      },
+      {
+        "name": "Inabalabilidade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "堅決賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "tr"
+      },
+      {
+        "name": "Містична непохитність",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility2Listener",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-steadfast-5e1f282a3b.png",
+    "name": "Arcane Steadfast",
+    "languages": [
+      {
+        "name": "Arkana: Standhaftigkeit",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Inébranlable",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "it"
+      },
+      {
+        "name": "아케인 스테드패스트",
+        "code": "ko"
+      },
+      {
+        "name": "Firmeza Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·坚定",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая стойкость",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ステッドファスト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Zwinnych Rąk",
+        "code": "pl"
+      },
+      {
+        "name": "Inabalabilidade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "堅決賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "tr"
+      },
+      {
+        "name": "Містична непохитність",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility3Listener",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-steadfast-672c0271fc.png",
+    "name": "Arcane Steadfast",
+    "languages": [
+      {
+        "name": "Arkana: Standhaftigkeit",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Inébranlable",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "it"
+      },
+      {
+        "name": "아케인 스테드패스트",
+        "code": "ko"
+      },
+      {
+        "name": "Firmeza Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·坚定",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая стойкость",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ステッドファスト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Zwinnych Rąk",
+        "code": "pl"
+      },
+      {
+        "name": "Inabalabilidade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "堅決賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "tr"
+      },
+      {
+        "name": "Містична непохитність",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceAbility4Listener",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-steadfast-a2bc8e6caf.png",
+    "name": "Arcane Steadfast",
+    "languages": [
+      {
+        "name": "Arkana: Standhaftigkeit",
+        "code": "de"
+      },
+      {
+        "name": "Arcane Inébranlable",
+        "code": "fr"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "it"
+      },
+      {
+        "name": "아케인 스테드패스트",
+        "code": "ko"
+      },
+      {
+        "name": "Firmeza Arcana",
+        "code": "es"
+      },
+      {
+        "name": "赋能·坚定",
+        "code": "zh"
+      },
+      {
+        "name": "Мистическая стойкость",
+        "code": "ru"
+      },
+      {
+        "name": "アルケイン ステッドファスト",
+        "code": "ja"
+      },
+      {
+        "name": "Arkanum Zwinnych Rąk",
+        "code": "pl"
+      },
+      {
+        "name": "Inabalabilidade Arcana",
+        "code": "pt"
+      },
+      {
+        "name": "堅決賦能",
+        "code": "tc"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "th"
+      },
+      {
+        "name": "Arcane Steadfast",
+        "code": "tr"
+      },
+      {
+        "name": "Містична непохитність",
         "code": "uk"
       }
     ]
@@ -8668,7 +8038,7 @@
         "code": "ja"
       },
       {
-        "name": "Ogławianie Broni Głównej",
+        "name": "Ogławianie Broni głównej",
         "code": "pl"
       },
       {
@@ -8731,7 +8101,7 @@
         "code": "ja"
       },
       {
-        "name": "Zwinność Broni Głównej",
+        "name": "Zwinność Broni głównej",
         "code": "pl"
       },
       {
@@ -8920,7 +8290,7 @@
         "code": "ja"
       },
       {
-        "name": "Bezwzględność Broni Głównej",
+        "name": "Bezwzględność Broni głównej",
         "code": "pl"
       },
       {

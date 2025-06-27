@@ -826,8 +826,8 @@
         "code": "ja"
       },
       {
-        "description": "Przywołuje Atomicykl do użytku w 1999 roku i podczas misji w trybie swobodnej eksploracji.",
-        "name": "Przywołanie Atomicykla",
+        "description": "Przyzywa Atomicykl do użytku w 1999 roku i podczas misji w trybie swobodnej eksploracji.",
+        "name": "Przyzwanie Atomicykla",
         "code": "pl"
       },
       {
@@ -2230,7 +2230,7 @@
         "code": "ja"
       },
       {
-        "description": "Pobiera próbkę celu dla dalszej analizy w Twoim Kodeksie (25 ładunków).",
+        "description": "Analizuje wskazany obiekt i zachowuje go w Kodeksie (25 ładunków).",
         "name": "Skaner Kodeksu",
         "code": "pl"
       },
@@ -3659,7 +3659,7 @@
         "code": "tr"
       },
       {
-        "description": "Віддає в «Порожнечу» 10 000 кредитів.",
+        "description": "Віддає в «Порожнечу» 10 000 кредитів.",
         "name": "Щедра пропозиція Порожнечі",
         "code": "uk"
       }
@@ -4414,7 +4414,7 @@
         "code": "ja"
       },
       {
-        "description": "Uruchamia magnetyczny pryzmat, który wyświetla wybrany Glif. Tylko jeden może być uruchomiony w tym samym czasie, ładunki są zużywane w trakcie użycia.",
+        "description": "Tworzy pryzmat, który wyświetla wybrany Glif. W danym czasie aktywny może być tylko jeden Pryzmatyczny Glif. Każde użycie zużywa jeden ładunek.",
         "name": "Glif Pryzmatyczny",
         "code": "pl"
       },
@@ -4492,7 +4492,7 @@
         "code": "ja"
       },
       {
-        "description": "Uruchamia magnetyczny pryzmat, który wyświetla wybrany Glif. Tylko jeden może być uruchomiony w tym samym czasie, ładunki są nieograniczone.",
+        "description": "Tworzy pryzmat, który wyświetla wybrany Glif. W danym czasie aktywny może być tylko jeden Pryzmatyczny Glif. Nie zużywa ładunków.",
         "name": "Glif Pryzmatyczny",
         "code": "pl"
       },
@@ -5507,7 +5507,7 @@
       },
       {
         "description": "Wyspecjalizowana pułapka służąca do zwabiania i spowalniania ruchów celu Syntezy.",
-        "name": "Kinetyczna Pułapka Syfonowa",
+        "name": "Pułapka Syfonu Kinetycznego",
         "code": "pl"
       },
       {
@@ -6988,8 +6988,8 @@
         "code": "ja"
       },
       {
-        "description": "Wezwij Nekramecha na pole bitwy.",
-        "name": "Wezwanie Nekramecha",
+        "description": "Przyzywa Nekramecha na pole bitwy.",
+        "name": "Przyzwanie Nekramecha",
         "code": "pl"
       },
       {
@@ -7949,7 +7949,7 @@
         "code": "tr"
       },
       {
-        "description": "Віддає в «Порожнечу» 100 000 кредитів.",
+        "description": "Віддає в «Порожнечу» 100 000 кредитів.",
         "name": "Промовиста пропозиція Порожнечі",
         "code": "uk"
       }
@@ -9328,7 +9328,7 @@
         "code": "ja"
       },
       {
-        "description": "Aktywuje zdalnie sterowaną kamerę, która będzie Twoimi oczami, na krótki czas.",
+        "description": "Rozmieszcza zdalnie sterowaną kamerę, która przez krótki czas będzie Twoimi oczami.",
         "name": "Zdalny Obserwator",
         "code": "pl"
       },
@@ -10576,7 +10576,7 @@
         "code": "ja"
       },
       {
-        "description": "Przywraca równowartość 3 skrzynek amunicji Głównej i Bocznej co 15 sekund przez 60 sekund.",
+        "description": "Przywraca równowartość 3 skrzynek amunicji do Broni głównej i bocznej co 15 sekund przez 60 sekund.",
         "name": "Odnowa Amunicji Zespołu (duża)",
         "code": "pl"
       },
@@ -10654,7 +10654,7 @@
         "code": "ja"
       },
       {
-        "description": "Przywraca równowartość 2 skrzynek Amunicji Głównej i Bocznej co 15 sekund przez 60 sekund.",
+        "description": "Przywraca równowartość 2 skrzynek amunicji do Broni głównej i bocznej co 15 sekund przez 60 sekund.",
         "name": "Odnowa Amunicji Zespołu (średnia)",
         "code": "pl"
       },
@@ -10732,7 +10732,7 @@
         "code": "ja"
       },
       {
-        "description": "Przywraca równowartość 2 skrzynek Amunicji Głównej i Bocznej co 15 sekund przez 60 sekund.",
+        "description": "Przywraca równowartość 2 skrzynek amunicji do Broni głównej i bocznej co 15 sekund przez 60 sekund.",
         "name": "Odnowa Amunicji Zespołu (średnia)",
         "code": "pl"
       },
@@ -10810,7 +10810,7 @@
         "code": "ja"
       },
       {
-        "description": "Przywraca równowartość pojedynczej skrzynki amunicji Głównej i Bocznej co 15 sekund przez 60 sekund.",
+        "description": "Przywraca równowartość pojedynczej skrzynki amunicji do Broni głównej i bocznej co 15 sekund przez 60 sekund.",
         "name": "Odnowa Amunicji Zespołu (mała)",
         "code": "pl"
       },

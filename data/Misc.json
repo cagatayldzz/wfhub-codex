@@ -769,7 +769,7 @@
       },
       {
         "description": "Başta Archon'lar ve Warframe'ler olmak üzere sentetik yaşam formlarını güçlendirmek için kullanılabilen ideal bir anti-entropik radyasyon kaynağı.",
-        "name": "<SHARD_VIOLET_SIMPLE> Tauforged Mor Archon Parçası",
+        "name": "<SHARD_VIOLET_SIMPLE> Tauforged Menekşe Archon Parçası",
         "code": "tr"
       },
       {
@@ -847,7 +847,7 @@
       },
       {
         "description": "Başta Archon'lar ve Warframe'ler olmak üzere sentetik yaşam formlarını güçlendirmek için kullanılabilen ideal bir anti-entropik radyasyon kaynağı.",
-        "name": "<SHARD_VIOLET_SIMPLE> Mor Archon Parçası",
+        "name": "<SHARD_VIOLET_SIMPLE> Menekşe Archon Parçası",
         "code": "tr"
       },
       {
@@ -1065,7 +1065,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora do Aniversário de 10 Anos do Warframe para ouvir no Somachord, na sua Orbital.",
+        "description": "A trilha sonora do Aniversário de 10 Anos do Warframe para ouvir no Somacorde, na sua Orbital.",
         "name": "Trilha Sonora do Aniversário de 10 Anos",
         "code": "pt"
       },
@@ -1143,7 +1143,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "16-Bit Girls with Machine Guns (Garotas 16-Bits com Metralhadoras)",
         "code": "pt"
       },
@@ -1221,7 +1221,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Abismo da Dagath' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Abismo da Dagath' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Abismo da Dagath",
         "code": "pt"
       },
@@ -2808,7 +2808,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Anjos da Zariman' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Anjos da Zariman' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora dos Anjos da Zariman",
         "code": "pt"
       },
@@ -3042,7 +3042,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Anna Ki in the G.O.B. (Anna Ki no G.O.B.)",
         "code": "pt"
       },
@@ -3120,7 +3120,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Anna Ki is a Punk Rocker (Anna Ki é Punk)",
         "code": "pt"
       },
@@ -4000,84 +4000,6 @@
       {
         "description": "Джерело протиентропічної радіації, що чудово підсилює синтетичні життєві форми, особливо архонтів і ворфреймів.",
         "name": "АРХОНТОВИЙ УЛАМОК",
-        "code": "uk"
-      }
-    ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/EidolonArchwingFoundryUpgradeFeatureItem",
-    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/archwing-launcher-segment-8091d083d2.png",
-    "name": "Archwing Launcher Segment",
-    "description": "Adds the Archwing Launcher to the foundry.",
-    "languages": [
-      {
-        "description": "Fügt die Archwing-Startrampe zu deiner Schmiede hinzu.",
-        "name": "Archwing-Starter-Segment",
-        "code": "de"
-      },
-      {
-        "description": "Ajoute le Déploiement d'Archwing à la Fonderie.",
-        "name": "Segment Déploiement d'Archwing",
-        "code": "fr"
-      },
-      {
-        "description": "Aggiunge l'Archwing Launcher alla fucina.",
-        "name": "Segmento Dispiegamento Archwing",
-        "code": "it"
-      },
-      {
-        "description": "아크윙 발사 장치를 주조소에 추가합니다.",
-        "name": "아크윙 발사 장치",
-        "code": "ko"
-      },
-      {
-        "description": "Agrega el lanzador del archwing a la fundición.",
-        "name": "Segmento del lanzador de archwing",
-        "code": "es"
-      },
-      {
-        "description": "将曲翼发射器加入铸造厂。",
-        "name": "曲翼发射模块",
-        "code": "zh"
-      },
-      {
-        "description": "Добавляет в кузницу сегмент запуска арчвинга.",
-        "name": "Сегмент Запуска Арчвинга",
-        "code": "ru"
-      },
-      {
-        "description": "アークウイングランチャーをファウンドリに加える。",
-        "name": "アークウイングランチャーモジュール",
-        "code": "ja"
-      },
-      {
-        "description": "Dodaje Wyrzutnię Archwing do Warsztatu.",
-        "name": "Segment Wyrzutni Archwing",
-        "code": "pl"
-      },
-      {
-        "description": "Adiciona o Invocador de Archwing à Forja.",
-        "name": "Segmento do Invocador de Archwing",
-        "code": "pt"
-      },
-      {
-        "description": "將 Archwing 啟動器加入鑄造廠。",
-        "name": "Archwing 啟動器模組",
-        "code": "tc"
-      },
-      {
-        "description": "เพิ่มตัวปล่อย Archwing ในเตาหลอม",
-        "name": "เซกเมนต์ตัวปล่อย Archwing",
-        "code": "th"
-      },
-      {
-        "description": "Archwing Çağırıcısını atölyeye ekler.",
-        "name": "Archwing Çağırıcı Segmenti",
-        "code": "tr"
-      },
-      {
-        "description": "Додає до кузні кресленик запускача арквінґа.",
-        "name": "Модуль запускача арквінґа",
         "code": "uk"
       }
     ]
@@ -7410,7 +7332,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Biz-Marque Bop (Batida da Biz-Marque)",
         "code": "pt"
       },
@@ -13106,7 +13028,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Libertação de Dante' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Libertação de Dante' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Libertação de Dante",
         "code": "pt"
       },
@@ -16057,7 +15979,7 @@
         "code": "th"
       },
       {
-        "description": "Ayrıştırıcı Madencisinin ender ve nadir kaynakları bulma şansı yüksektir.\n\nAyrıştırıcı Madencisini kaynak toplaması için görevlendirebilirsin. Sürekli deposu boşaltılmalı ve olası hasarlara karşı durumu takip edilmelidir.",
+        "description": "Ayrıştırıcı Madencisinin nadir ve ender kaynakları bulma şansı yüksektir.\n\nAyrıştırıcı Madencisini kaynak toplaması için görevlendirebilirsin. Sürekli deposu boşaltılmalı ve olası hasarlara karşı durumu takip edilmelidir.",
         "name": "Ayrıştırıcı Madencisi",
         "code": "tr"
       },
@@ -16135,7 +16057,7 @@
         "code": "th"
       },
       {
-        "description": "Ayrıştırıcı Madencisi Prime'ın ender ve nadir kaynakları bulma şansı yüksektir.\n\nAyrıştırıcı Prime Madencisini yüklü miktarda kaynak toplaması için görevlendirebilirsin. Sürekli deposu boşaltılmalı ve olası hasarlara karşı durumu takip edilmelidir.",
+        "description": "Ayrıştırıcı Madencisi Prime'ın nadir ve ender kaynakları bulma şansı yüksektir.\n\nAyrıştırıcı Prime Madencisini yüklü miktarda kaynak toplaması için görevlendirebilirsin. Sürekli deposu boşaltılmalı ve olası hasarlara karşı durumu takip edilmelidir.",
         "name": "Ayrıştırıcı Madencisi Prime",
         "code": "tr"
       },
@@ -16922,6 +16844,84 @@
       {
         "description": "За порятунок істоти цього підвиду.",
         "name": "Жетон сивочолого вірмінка",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriThroneRoom",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-throne-room-scene-6160188789.png",
+    "name": "Duviri Throne Room Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Duviri-Thronsaal",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène de la salle du trône de Duviri",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Sala del Trono Duviri",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "두비리 알현실 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena de la Sala del trono de Duviri",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "双衍王境王座圣殿场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Тронный зал Дувири",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "デュヴィリ玉座の間 シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Sala Tronowa Duviri",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Sala do Trono de Duviri",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "渡域覲見室場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉากห้องท้องพระโรง Duviri",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Duviri Taht Odası Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: тронна зала Дувірі",
         "code": "uk"
       }
     ]
@@ -18546,7 +18546,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Empíreo' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Empíreo' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Empíreo",
         "code": "pt"
       },
@@ -18568,6 +18568,70 @@
       {
         "description": "Мелодія з екрана входу оновлення «Емпірей» для прослуховування за допомогою сомакорда на орбітрі.",
         "name": "Мелодія «Емпірей»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EndoJackpotBundle",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/endojackpotbundle-e0bcfdb77b.png",
+    "name": "Endojackpotbundle",
+    "description": "Consumed in the fusion process to power up existing Mods.",
+    "languages": [
+      {
+        "description": "Wird im Fusionsprozess verbraucht, um vorhandene Mods zu verbessern.",
+        "code": "de"
+      },
+      {
+        "description": "Utilisé pendant le processus de fusion afin de charger un Mod cible.",
+        "code": "fr"
+      },
+      {
+        "description": "Consumato nel processo di fusione per potenziare Mod esistenti.",
+        "code": "it"
+      },
+      {
+        "description": "보유하고 있는 모드를 강화하는 모드 합성 과정에서 재료로 사용됩니다.",
+        "code": "ko"
+      },
+      {
+        "description": "Consumido en el proceso de fusión para aumentar el poder de mods existentes.",
+        "code": "es"
+      },
+      {
+        "description": "在融铸时使用以增强你的 Mod。",
+        "code": "zh"
+      },
+      {
+        "description": "Используется в процессе улучшения существующих модов.",
+        "code": "ru"
+      },
+      {
+        "description": "合成時にMODに吸収させることで、その効果を増幅させる。",
+        "code": "ja"
+      },
+      {
+        "description": "Zużywany w procesie fuzji. Zwiększa poziom ulepszanego Modu.",
+        "code": "pl"
+      },
+      {
+        "description": "Consumido no processo de fusão para aprimorar mods existentes.",
+        "code": "pt"
+      },
+      {
+        "description": "在融合時使用以增強你的 MOD。",
+        "code": "tc"
+      },
+      {
+        "description": "ใช้ในกระบวนการฟิวชันเพื่อเพิ่มพลังให้กับ Mod ที่มีอยู่",
+        "code": "th"
+      },
+      {
+        "description": "Var olan Modları güçlendirirken füzyon sürecinde harcanır.",
+        "code": "tr"
+      },
+      {
+        "description": "Поглинається в процесі злиття. Поліпшує характеристики модифікатора.",
         "code": "uk"
       }
     ]
@@ -18859,7 +18923,7 @@
       },
       {
         "description": "",
-        "name": "SEGMENTO DE NAVEGAÇÃO: ERIS",
+        "name": "SEGMENTO DE NAVEGAÇÃO: ÉRIS",
         "code": "pt"
       },
       {
@@ -22125,7 +22189,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Fortuna' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Fortuna' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora de Fortuna",
         "code": "pt"
       },
@@ -22335,7 +22399,7 @@
       },
       {
         "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-        "name": "Escena del desfiladero fragmentado",
+        "name": "Escena del Desfiladero Fragmentado",
         "code": "es"
       },
       {
@@ -23295,7 +23359,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Gara Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Gara Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Gara Prime",
         "code": "pt"
       },
@@ -24621,7 +24685,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Gauss Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Gauss Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Gauss Prime\n\"Redline\"",
         "code": "pt"
       },
@@ -26415,7 +26479,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Grendel Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Grendel Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Grendel Prime",
         "code": "pt"
       },
@@ -27663,7 +27727,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Coração de Deimos' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Coração de Deimos' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Coração de Deimos",
         "code": "pt"
       },
@@ -28365,7 +28429,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Hildryn Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Hildryn Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Hildryn Prime",
         "code": "pt"
       },
@@ -29613,7 +29677,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Hydroid Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Hydroid Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Hydroid Prime",
         "code": "pt"
       },
@@ -29769,7 +29833,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "I Wanna Be Your G.O.B. (Quero ser seu G.O.B.)",
         "code": "pt"
       },
@@ -31122,6 +31186,162 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapJ",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/isleweaver-cloud-islet-scene-11e9bb4df1.png",
+    "name": "Isleweaver Cloud Islet Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Inselweber Wolkeninselchen",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène Îlot Nuageux Toile Insulaire",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Isolotto Nebuloso Tessitrice di Isole",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "섬을 엮는 자 구름 섬 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena del islote nebuloso de Tejedora de Islas",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "织屿人云岛场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Плетельщица островов — Облачный островок",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "島々を織りしもの 雲小島 シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Wysepka w chmurze Tkaczki Światów",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Tecelã Insular Nebulosa",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "織島者雲嶼場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉาก Isleweaver Cloud Islet",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Isleweaver Bulut Adacığı Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: Ткаля островів «Хмарний острівець»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapK",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/isleweaver-drift-atoll-scene-21ca4d70bf.png",
+    "name": "Isleweaver Drift Atoll Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Inselweber Driftatoll",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène Atoll Toile Insulaire",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Atollo Tessitrice di Isole",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "섬을 엮는 자 떠다니는 산호섬 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena del atolón a la deriva de Tejedora de Islas",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "织屿人漂流环礁场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Плетельщица островов — Дрейфовый атолл",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "島々を織りしもの 漂流環礁 シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Dryfujący Atol Tkaczki Światów",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Tecelã Insular Flutuante",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "織島者漂礁場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉาก Isleweaver Drift Atoll",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Isleweaver Süzülen Ada Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: Ткаля островів «Мандрівний атол»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-shadows-login-music-d7e425e396.png",
     "name": "Jade Shadows Login Music",
@@ -31173,7 +31393,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Sombras da Jade' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Sombras da Jade' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora das Sombras da Jade",
         "code": "pt"
       },
@@ -31351,6 +31571,134 @@
       {
         "description": "Бали, отримані за перемогу в Ратумі.\n\nМожна здобути на завданнях «Арена „Ратум”» на вузлах Няккі, Ям та Водяник (Седна).",
         "name": "Бали правосуддя",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/JunctionRewardNPFusionBundleA",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/junctionrewardnpfusionbundlea-b1991cf7f8.png",
+    "name": "Junctionrewardnpfusionbundlea",
+    "description": "Consumed in the fusion process to power up existing Mods.",
+    "languages": [
+      {
+        "description": "Wird im Fusionsprozess verbraucht, um vorhandene Mods zu verbessern.",
+        "code": "de"
+      },
+      {
+        "description": "Utilisé pendant le processus de fusion afin de charger un Mod cible.",
+        "code": "fr"
+      },
+      {
+        "description": "Consumato nel processo di fusione per potenziare Mod esistenti.",
+        "code": "it"
+      },
+      {
+        "description": "보유하고 있는 모드를 강화하는 모드 합성 과정에서 재료로 사용됩니다.",
+        "code": "ko"
+      },
+      {
+        "description": "Consumido en el proceso de fusión para aumentar el poder de mods existentes.",
+        "code": "es"
+      },
+      {
+        "description": "在融铸时使用以增强你的 Mod。",
+        "code": "zh"
+      },
+      {
+        "description": "Используется в процессе улучшения существующих модов.",
+        "code": "ru"
+      },
+      {
+        "description": "合成時にMODに吸収させることで、その効果を増幅させる。",
+        "code": "ja"
+      },
+      {
+        "description": "Zużywany w procesie fuzji. Zwiększa poziom ulepszanego Modu.",
+        "code": "pl"
+      },
+      {
+        "description": "Consumido no processo de fusão para aprimorar mods existentes.",
+        "code": "pt"
+      },
+      {
+        "description": "在融合時使用以增強你的 MOD。",
+        "code": "tc"
+      },
+      {
+        "description": "ใช้ในกระบวนการฟิวชันเพื่อเพิ่มพลังให้กับ Mod ที่มีอยู่",
+        "code": "th"
+      },
+      {
+        "description": "Var olan Modları güçlendirirken füzyon sürecinde harcanır.",
+        "code": "tr"
+      },
+      {
+        "description": "Поглинається в процесі злиття. Поліпшує характеристики модифікатора.",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/JunctionRewardNPFusionBundleB",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/junctionrewardnpfusionbundleb-e605daa82c.png",
+    "name": "Junctionrewardnpfusionbundleb",
+    "description": "Consumed in the fusion process to power up existing Mods.",
+    "languages": [
+      {
+        "description": "Wird im Fusionsprozess verbraucht, um vorhandene Mods zu verbessern.",
+        "code": "de"
+      },
+      {
+        "description": "Utilisé pendant le processus de fusion afin de charger un Mod cible.",
+        "code": "fr"
+      },
+      {
+        "description": "Consumato nel processo di fusione per potenziare Mod esistenti.",
+        "code": "it"
+      },
+      {
+        "description": "보유하고 있는 모드를 강화하는 모드 합성 과정에서 재료로 사용됩니다.",
+        "code": "ko"
+      },
+      {
+        "description": "Consumido en el proceso de fusión para aumentar el poder de mods existentes.",
+        "code": "es"
+      },
+      {
+        "description": "在融铸时使用以增强你的 Mod。",
+        "code": "zh"
+      },
+      {
+        "description": "Используется в процессе улучшения существующих модов.",
+        "code": "ru"
+      },
+      {
+        "description": "合成時にMODに吸収させることで、その効果を増幅させる。",
+        "code": "ja"
+      },
+      {
+        "description": "Zużywany w procesie fuzji. Zwiększa poziom ulepszanego Modu.",
+        "code": "pl"
+      },
+      {
+        "description": "Consumido no processo de fusão para aprimorar mods existentes.",
+        "code": "pt"
+      },
+      {
+        "description": "在融合時使用以增強你的 MOD。",
+        "code": "tc"
+      },
+      {
+        "description": "ใช้ในกระบวนการฟิวชันเพื่อเพิ่มพลังให้กับ Mod ที่มีอยู่",
+        "code": "th"
+      },
+      {
+        "description": "Var olan Modları güçlendirirken füzyon sürecinde harcanır.",
+        "code": "tr"
+      },
+      {
+        "description": "Поглинається в процесі злиття. Поліпшує характеристики модифікатора.",
         "code": "uk"
       }
     ]
@@ -32109,7 +32457,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Khora Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Khora Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Khora Prime",
         "code": "pt"
       },
@@ -32265,7 +32613,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Kick Out the Guns (Hora das Armas)",
         "code": "pt"
       },
@@ -35256,6 +35604,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureDungeon",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo's-hold-scene-afe8d6061b.png",
+    "name": "Kullervo's Hold Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Kullervos Festung",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène Pénitencier de Kullervo",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Fortezza di Kullervo",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "쿨레르보의 요새 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena de la Prisión de Kullervo",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "Kullervo 的牢房场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Темница Куллерво",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "Kullervoの牢獄 シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Więzienie Kullervo",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Prisão do Kullervo",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "Kullervo 的拘禁處場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉากที่คุมขัง Kullervo",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Kullervo'nun Hücresi Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: В’язниця Куллерво",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/KunaiIncarnonUnlocker",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kunai-incarnon-genesis-4d96c8fa08.png",
     "name": "Kunai Incarnon Genesis",
@@ -38111,7 +38537,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Presa da Lua' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Presa da Lua' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Presa da Lua",
         "code": "pt"
       },
@@ -38267,7 +38693,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Lundora Calling (Chamado de Lundora)",
         "code": "pt"
       },
@@ -38814,7 +39240,7 @@
       },
       {
         "description": "Um instrumento raro Orokin.",
-        "name": "Mandachord",
+        "name": "Mandacorde",
         "code": "pt"
       },
       {
@@ -38891,8 +39317,8 @@
         "code": "pl"
       },
       {
-        "description": "Um componente crucial para o instrumento Mandachord.",
-        "name": "Mandachord: Corpo",
+        "description": "Um componente crucial para o instrumento Mandacorde.",
+        "name": "Mandacorde: Corpo",
         "code": "pt"
       },
       {
@@ -38969,8 +39395,8 @@
         "code": "pl"
       },
       {
-        "description": "Um componente crucial para o instrumento Mandachord.",
-        "name": "Mandachord: Ponte",
+        "description": "Um componente crucial para o instrumento Mandacorde.",
+        "name": "Mandacorde: Ponte",
         "code": "pt"
       },
       {
@@ -39047,8 +39473,8 @@
         "code": "pl"
       },
       {
-        "description": "Um componente crucial para o instrumento Mandachord.",
-        "name": "Mandachord: Traste",
+        "description": "Um componente crucial para o instrumento Mandacorde.",
+        "name": "Mandacorde: Traste",
         "code": "pt"
       },
       {
@@ -40939,7 +41365,7 @@
       },
       {
         "description": "",
-        "name": "МОДУЛЬ МОДИФІКАТОРІВ",
+        "name": "МОДУЛЬ МОДИФІКАТОРНОЇ",
         "code": "uk"
       }
     ]
@@ -42684,7 +43110,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Nekros Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Nekros Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Nekros Prime",
         "code": "pt"
       },
@@ -43152,7 +43578,7 @@
         "code": "pl"
       },
       {
-        "description": "O Rifle de Precisão exaltado do Cyte-09. Os projéteis ricochetearão em Acertos de Precisão e tentarão realizar outros Acertos de Precisão nas proximidades do alvo. O Disparo Alternativo lançará uma granada que congelará completamente os inimigos com um Efeito de Status <DT_FREEZE_COLOR>Glacial, criando uma zona de congelamento que continuará a aplicar o Efeito de Status <DT_FREEZE_COLOR>Glacial por um período.",
+        "description": "O Rifle de Precisão exaltado do Cyte-09. Os projéteis ricochetearão em Acertos em Pontos Fracos e tentarão realizar outros Acertos de Precisão nas proximidades do alvo. O Disparo Alternativo lançará uma granada que congelará completamente os inimigos com um Efeito de Status <DT_FREEZE_COLOR>Glacial, criando uma zona de congelamento que continuará a aplicar o Efeito de Status <DT_FREEZE_COLOR>Glacial por um período.",
         "name": "Neutralizador",
         "code": "pt"
       },
@@ -43230,7 +43656,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Nidus Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Nidus Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Nidus Prime",
         "code": "pt"
       },
@@ -44854,7 +45280,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Oberon Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Oberon Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Oberon Prime",
         "code": "pt"
       },
@@ -44932,7 +45358,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Octavia Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Octavia Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Octavia Prime",
         "code": "pt"
       },
@@ -44954,6 +45380,84 @@
       {
         "description": "Визначна мелодія Октавії-прайм для прослуховування за допомогою сомакорда на орбітрі.",
         "name": "Тема Октавії-прайм",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriDragonArenaMITW",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octopede-arena-scene-0dbc789f97.png",
+    "name": "Octopede Arena Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Achtfüßler Arena",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène Arène Octopède",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Arena dell'Octopede",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "조각난 자 아레나 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena de la arena Octópoda",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "八爪角斗场场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Арена Октопеда",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "オクトピード アリーナ シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Arena Trójcy Kulasów",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Arena Araneídea",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "八爪競技場場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉากสังเวียนประลอง Octopede",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Octopede Arena Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: арена восьминогих",
         "code": "uk"
       }
     ]
@@ -46483,7 +46987,7 @@
       },
       {
         "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
-        "name": "Escena de la arena orowyrm",
+        "name": "Escena de la arena Orowyrm",
         "code": "es"
       },
       {
@@ -46561,7 +47065,7 @@
       },
       {
         "description": "Simula una batalla sacada de los Cuentos de Duviri. Este simulacro permite establecer la dificultad del enemigo 25 niveles por encima del estándar máximo.",
-        "name": "Simulacro de la arena orowyrm",
+        "name": "Simulacro de la arena Orowyrm",
         "code": "es"
       },
       {
@@ -49939,7 +50443,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Protea Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Protea Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Protea Prime",
         "code": "pt"
       },
@@ -50017,7 +50521,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
         "name": "Psycho Killian (Killian Psicopata)",
         "code": "pt"
       },
@@ -51223,7 +51727,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Reformulação da Railjack' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Reformulação da Railjack' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Reformulação da Railjack",
         "code": "pt"
       },
@@ -52853,7 +53357,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Revenant Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Revenant Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Revenant Prime",
         "code": "pt"
       },
@@ -54568,6 +55072,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriScholarsLandingMITW",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scholar's-landing-scene-afa5f30c42.png",
+    "name": "Scholar's Landing Scene",
+    "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+    "languages": [
+      {
+        "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+        "name": "Photora-Szene: Gelehrten Landung",
+        "code": "de"
+      },
+      {
+        "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+        "name": "Scène Débarcadère de l'Érudit",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+        "name": "Scenario Approdo dell'Erudito",
+        "code": "it"
+      },
+      {
+        "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+        "name": "학자의 도래지 배경",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+        "name": "Escena del Desembarco del Erudito",
+        "code": "es"
+      },
+      {
+        "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+        "name": "儒临地场景",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+        "name": "Сцена: Лагерь учёного",
+        "code": "ru"
+      },
+      {
+        "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+        "name": "学者の土場 シーン",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+        "name": "Scena: Przystań Uczonego",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+        "name": "Cena: Pouso do Erudito",
+        "code": "pt"
+      },
+      {
+        "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+        "name": "學者臨地場景",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+        "name": "ฉากท่าน้ำพหูสูต",
+        "code": "th"
+      },
+      {
+        "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+        "name": "Bilgin'in Şehri Sahnesi",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+        "name": "Панорама: Землі Вченого",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/Ships/BlueSkyShip",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scimitar-4a67907286.png",
     "name": "Scimitar",
@@ -55759,7 +56341,7 @@
         "code": "it"
       },
       {
-        "description": "이 두꺼운 껍질은 오스트론에서 도구나 무기를 제조할 때 사용됩니다.\n\n시터스 (지구) 의 어부 하일루크를 통해 글랍피드 물고기를 해체하기. 밤 동안 아이돌론의 평원 바다에서 글랍피드 미끼를 사용하면 머크레이를 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+        "description": "이 두꺼운 껍질은 오스트론에서 도구나 무기를 제조할 때 사용됩니다.\n\n시터스 (지구) 의 어부 하일루크를 통해 글랍피드 물고기를 해체하기. 밤 동안 아이돌론의 평원 바다에서 글랍피드 미끼를 사용하면 글랍피드를 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
         "name": "세람 딱정벌레 껍질",
         "code": "ko"
       },
@@ -55867,7 +56449,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma música personalizada para o Sevagoth Glaukus, que será reproduzida para sua Sombra em combate. Também poderá ser tocada no Somachord de sua Orbital.",
+        "description": "Uma música personalizada para o Sevagoth Glaukus, que será reproduzida para sua Sombra em combate. Também poderá ser tocada no Somacorde de sua Orbital.",
         "name": "Cantiga do Sevagoth",
         "code": "pt"
       },
@@ -57271,7 +57853,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Irmãs de Parvos' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Irmãs de Parvos' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora das Irmãs de Parvos",
         "code": "pt"
       },
@@ -59216,7 +59798,7 @@
         "code": "ja"
       },
       {
-        "description": "Modyfikuje gniazdo na Postawę broni białej w taki sposób, aby była kompatybilna z dowolną polaryzacją Modów.",
+        "description": "Modyfikuje gniazdo na Postawę Broni białej w taki sposób, aby była kompatybilna z dowolną polaryzacją Modów.",
         "name": "Forma Postawy",
         "code": "pl"
       },
@@ -62653,7 +63235,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'O Protocolo Deadlock' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'O Protocolo Deadlock' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Protocolo Deadlock",
         "code": "pt"
       },
@@ -62809,7 +63391,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'O Paradoxo de Duviri' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'O Paradoxo de Duviri' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Paradoxo de Duviri",
         "code": "pt"
       },
@@ -63043,7 +63625,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Os Lotófagos' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Os Lotófagos' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora dos Lotófagos",
         "code": "pt"
       },
@@ -63121,7 +63703,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'A Nova Guerra' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'A Nova Guerra' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Nova Guerra",
         "code": "pt"
       },
@@ -63199,7 +63781,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'O Sangue Ancestral' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'O Sangue Ancestral' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Sangue Ancestral",
         "code": "pt"
       },
@@ -63277,7 +63859,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'O Sacrifício' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'O Sacrifício' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Sacrifício",
         "code": "pt"
       },
@@ -63433,7 +64015,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Os Sete Crimes de Kullervo' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Os Sete Crimes de Kullervo' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora dos Sete Crimes de Kullervo",
         "code": "pt"
       },
@@ -66098,6 +66680,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Items/UnlockArbitrationKeyItem",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/unlock-arbitrations-6146599210.png",
+    "name": "Unlock Arbitrations",
+    "description": "Unlocks Arbitration Missions in the Alerts tab of the navigation menu.\nArbitrations are challenging endless missions variants with greater rewards.",
+    "languages": [
+      {
+        "description": "Schaltet Schiedsgericht-Missionen im Reiter 'Alarmierungen' des Navigationsmenüs frei.\nSchiedsgerichte sind herausfordernde Varianten von Endlosmissionen mit größeren Belohnungen.",
+        "name": "Schalte Schiedsgericht frei.",
+        "code": "de"
+      },
+      {
+        "description": "Débloque les missions d'Arbitrage dans l'onglet Alertes du menu de Navigation.\nLes Arbitrages sont des variantes de missions sans fin difficiles avec de meilleures récompenses.",
+        "name": "Débloquer les Arbitrages",
+        "code": "fr"
+      },
+      {
+        "description": "Sblocca le Missioni Arbitrato nella scheda Allerte del menu navigazione.\nGli Arbitrati sono varianti impegnative di missioni infinite con ricompense migliori.",
+        "name": "Sblocca gli Arbitrati",
+        "code": "it"
+      },
+      {
+        "description": "내비게이션 메뉴의 얼럿 탭에서 중재 미션을 해금합니다.\n중재 미션은 더욱 어려운 만큼 더 큰 보상을 제공하는 무한 미션 유형입니다.",
+        "name": "중재 해금",
+        "code": "ko"
+      },
+      {
+        "description": "Desbloquea misiones de arbitraje en la pestaña de alertas en el menú de navegación.\nLos arbitrajes son variantes más difíciles de misiones sin fin con mayores recompensas.",
+        "name": "Desbloquea los Arbitramentos",
+        "code": "es"
+      },
+      {
+        "description": "在导航菜单的“警报”标签中解锁仲裁任务。\n仲裁是充满挑战的无尽任务变体，奖励更为丰厚。",
+        "name": "解锁仲裁",
+        "code": "zh"
+      },
+      {
+        "description": "Открывает миссии Арбитража во вкладке «Сигналы тревог» в меню навигации.\nАрбитражи это усложнённые варианты бесконечных миссий с большими наградами.",
+        "name": "Доступ к Арбитражам",
+        "code": "ru"
+      },
+      {
+        "description": "ナビゲーション画面のアラートタブで仲裁ミッションを解放する。\n仲裁ミッションは大きな報酬が得られる高難易度のエンドレスミッションです。",
+        "name": "仲裁ミッションを解放する",
+        "code": "ja"
+      },
+      {
+        "description": "Odblokowuje misje Arbitrażu w zakładce Alarmów w ekranie Nawigacji.\nMisje Arbitrażu to wymagające, niekończące się warianty misji z cennymi nagrodami.",
+        "name": "Dostęp do misji Arbitrażu",
+        "code": "pl"
+      },
+      {
+        "description": "Desbloqueará as missões de Arbitragem na aba de Alertas, no menu de navegação.\nAs Arbitragens são variantes desafiadoras de missões infinitas, com melhores recompensas.",
+        "name": "Desbloqueio das Arbitragens",
+        "code": "pt"
+      },
+      {
+        "description": "導航選單的警報分頁中可解鎖仲裁任務。\n仲裁是具有挑戰性的無盡任務變體，獎勵也更豐厚。",
+        "name": "解鎖仲裁",
+        "code": "tc"
+      },
+      {
+        "description": "ปลดล็อกภารกิจการตัดสินชี้ชะตาในแท็บการแจ้งเตืองของเมนูแผนที่นำทาง\nภารกิจการตัดสินชี้ชะตาเป็นโหมดภารกิจท้าทายแบบไม่สิ้นสุดที่จะมอบรางวัลตอบแทนมากยิ่งขึ้น",
+        "name": "ปลดล็อกการตัดสินชี้ชะตา",
+        "code": "th"
+      },
+      {
+        "description": "Navigasyon menüsünün Alert Görevleri sekmesindeki Arbitrasyon Görevlerinin kilidini açar.\nArbitrasyonlar, daha büyük ödüller sunan zorlu, sonsuz görev çeşitleridir.",
+        "name": "Arbitrasyon Kilidini Aç",
+        "code": "tr"
+      },
+      {
+        "description": "Розблоковує завдання Арбітражу на вкладці «Виклики» на зоряній мапі.\nАрбітражі — складні нескінченні варіанти завдань з ліпшими нагородами.",
+        "name": "Розблокування Арбітражу",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriMainlandAWest",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/upperhaven-scene-514c0f824d.png",
     "name": "Upperhaven Scene",
@@ -67012,7 +67672,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional do Vauban Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional do Vauban Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Vauban Prime",
         "code": "pt"
       },
@@ -67636,7 +68296,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Destrutor de Véus' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Destrutor de Véus' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora do Destrutor de Véus",
         "code": "pt"
       },
@@ -68446,75 +69106,75 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/VoidProjectionFeatureItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/void-relic-segment-c6a9ab3fbd.png",
     "name": "VOID RELIC SEGMENT",
-    "description": "",
+    "description": "Install this Void Relic Segment in your Orbiter to begin opening Void Relics. Void Relics contain valuables that are only determined when opened in Void Fissure missions. Void Relics can be obtained as mission rewards.",
     "languages": [
       {
-        "description": "",
+        "description": "Installiere dieses Void-Relikt-Segment in deinem Orbiter, um Void-Relikte öffnen zu können. Void-Relikte enthalten wertvolle Gegenstände, die erst beim Öffnen in Void-Riss-Missionen bestimmt werden. Void-Relikte können als Missionsbelohnungen erhalten werden.",
         "name": "VOID-RELIKT-SEGMENT",
         "code": "de"
       },
       {
-        "description": "",
+        "description": "Installez ce Segment des Reliques du Néant dans votre Orbiteur pour commencer à ouvrir des Reliques du Néant. Les Reliques du Néant contiennent des objets précieux qui ne sont dévoilés qu'à leur ouverture lors des missions de Fissure du Néant. Les Reliques du Néant peuvent être obtenues en récompense de mission.",
         "name": "SEGMENT RELIQUE DU NÉANT",
         "code": "fr"
       },
       {
-        "description": "",
+        "description": "Installa questo Segmento Reliquie Void nel tuo Orbiter per iniziare ad aprire le Reliquie Void. Le Reliquie Void contengono oggetti di valore che vengono svelati solo quando vengono aperte nelle missioni Frattura Void. Le Reliquie Void possono essere ottenute come ricompense missione.",
         "name": "SEGMENTO RELIQUIA VOID",
         "code": "it"
       },
       {
-        "description": "",
+        "description": "이 보이드 성유물 장치를 오비터에 설치하면 보이드 성유물을 개방을 시작할 수 있게 됩니다. 보이드 성유물은 귀중품을 담고 있지만, 오직 보이드 균열 미션에서 개방할 때에만 그 내용물이 결정됩니다. 보이드 성유물은 미션 보상으로 획득할 수 있습니다.",
         "name": "보이드 성유물 장치",
         "code": "ko"
       },
       {
-        "description": "",
+        "description": "Instala este segmento de Reliquia del Vacío en tu orbitador para empezar a abrir Reliquias del Vacío. Estas contienen objetos valiosos que solo se determinan al abrirlas en misiones de fisuras del Vacío. Se pueden obtener como recompensas de misión.",
         "name": "SEGMENTO DE RELIQUIA DEL VACÍO",
         "code": "es"
       },
       {
-        "description": "",
+        "description": "将此虚空遗物模块安装到你的轨道飞行器上，即可开启虚空遗物。虚空遗物内含的宝物只有在虚空裂缝任务中开启后才能确定。虚空遗物可以作为任务奖励获得。",
         "name": "虚空遗物模块",
         "code": "zh"
       },
       {
-        "description": "",
+        "description": "Установите этот сегмент реликвий Бездны в свой Орбитер, чтобы начать открывать реликвии Бездны. Реликвии Бездны содержат ценности, которые определяются только при открытии в миссиях Разрыва Бездны. Реликвии Бездны можно получить в качестве награды за выполнение миссий.",
         "name": "СЕГМЕНТ РЕЛИКВИИ БЕЗДНЫ",
         "code": "ru"
       },
       {
-        "description": "",
+        "description": "このVoidレリックモジュールをオービターにインストールすることでVoidレリックの解放が可能です。Voidレリックには貴重な報酬が含まれており、Void亀裂ミッションで解放することで内容が明かされます。Voidレリックはミッション報酬として入手できます。",
         "name": "VOID レリックモジュール",
         "code": "ja"
       },
       {
-        "description": "",
+        "description": "Zainstaluj ten Segment Reliktu Pustki w swoim Orbiterze, aby móc otwierać Relikty Pustki. Relikty Pustki zawierają cenne przedmioty, które są odkrywane dopiero po otwarciu ich podczas misji Szczelin Pustki. Relikty Pustki można zdobyć jako nagrody w misjach.",
         "name": "SEGMENT RELIKTÓW PUSTKI",
         "code": "pl"
       },
       {
-        "description": "",
+        "description": "Instale este Segmento de Relíquias do Void em sua Orbital para começar a abrir Relíquias do Void. As Relíquias do Void contêm itens valiosos que só são determinados após a abertura das Relíquias em missões de Fendas do Void. As Relíquias do Void podem ser obtidas como recompensas de missão.",
         "name": "SEGMENTO DE RELÍQUIAS DO VOID",
         "code": "pt"
       },
       {
-        "description": "",
+        "description": "在軌道飛行器安裝虛空遺物模組來開始打開虛空遺物。虛空遺物內含寶貴物品，只有在虛空裂隙任務中打開時才會判定。虛空遺物可以作為任務獎勵獲得。",
         "name": "虛空遺物模組",
         "code": "tc"
       },
       {
-        "description": "",
+        "description": "ติดตั้งเซกเมนต์วอยด์เรลิกส่วนนี้ในออร์บิเตอร์ของคุณเพื่อเริ่มเปิดวอยด์เรลิก ซึ่งจะรู้ว่าของมีค่าที่อยู่ในวอยด์เรลิกเป็นอะไรก็ต่อเมื่อนำไปเปิดในภารกิจรอยแยกของวอยด์เท่านั้น คุณสามารถรับวอยด์เรลิกได้จากรางวัลในภารกิจ",
         "name": "เซกเมนต์วอยด์เรลิก",
         "code": "th"
       },
       {
-        "description": "",
+        "description": "Void Relic'leri açmaya başlamak için Void Relic Segmentinin Orbiter'a kurulması gerekir. Void Relic'ler yalnızca Void Çatlağı görevlerinde açıldığında belirlenen değerli eşyaları içerir. Void Relic'ler görev ödülleri olarak elde edilebilir.",
         "name": "VOID RELIC SEGMENTİ",
         "code": "tr"
       },
       {
-        "description": "",
+        "description": "Установіть модуль реліквій Порожнечі на орбітрі, щоб мати змогу розкривати реліквії. Реліквії Порожнечі містять цінності, які проявляються лише після розкриття в завданнях «Прориви Порожнечі». Реліквії Порожнечі можна отримати в нагороду за виконання завдань.",
         "name": "МОДУЛЬ РЕЛІКВІЙ ПОРОЖНЕЧІ",
         "code": "uk"
       }
@@ -68670,7 +69330,7 @@
         "code": "tr"
       },
       {
-        "description": "Лойд використовує пристрої в лабораторії Альбрехта, щоби перетворити містифікатори на восфор — потужну суміш для алхімічних процесів. Поговоріть із Лойдом у святилищі Анатоміки (Деймос), щоб обміняти восфор на містифікатори, які він зберіг у лабораторії.",
+        "description": "Лойд використовує пристрої в лабораторіях Альбрехта, щоби перетворити містифікатори на восфор — потужну суміш для алхімічних процесів. Поговоріть із Лойдом у святилищі Анатоміки (Деймос), щоб обміняти восфор на містифікатори, які він зберіг у лабораторіях.",
         "name": "Восфор",
         "code": "uk"
       }
@@ -68962,7 +69622,7 @@
         "code": "pl"
       },
       {
-        "description": "A trilha sonora da atualização 'Sussurros nas Paredes' para ouvir no Somachord em sua Orbital.",
+        "description": "A trilha sonora da atualização 'Sussurros nas Paredes' para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora dos Sussurros nas Paredes",
         "code": "pt"
       },
@@ -69352,7 +70012,7 @@
         "code": "pl"
       },
       {
-        "description": "O tema musical tradicional da Wisp Prime para ouvir no Somachord em sua Orbital.",
+        "description": "O tema musical tradicional da Wisp Prime para ouvir no Somacorde em sua Orbital.",
         "name": "Trilha Sonora da Wisp Prime",
         "code": "pt"
       },

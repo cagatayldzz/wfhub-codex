@@ -1392,7 +1392,7 @@
         "code": "th"
       },
       {
-        "description": "Düşük isabete ve güçlü geri tepmeye sahiptir. Ancak taşıdığı yükü iki tam otomatikte boşaltabiliyor. Boar en iyi kısa mesafede kullanılabilir.",
+        "description": "Düşük isabet oranı ve güçlü geri tepmeye sahiptir. Ancak cephanesini tam otomatik bir şekilde ateşleyebilir. Boar yakın mesafede etkilidir.",
         "name": "Boar",
         "code": "tr"
       },
@@ -2016,7 +2016,7 @@
         "code": "th"
       },
       {
-        "description": "Burston Üç defa patlama ile ateşler, bu otomatik tüfeklerin ölümcüllüğü ile yarı otomatik tüfeklerin isabeti arasında bir denge sağlar.",
+        "description": "Burston Üç defa patlama ile ateşlenir. Bu, otomatik tüfeklerin ölümcüllüğü ile yarı otomatik tüfeklerin isabet oranı arasında bir denge sağlar.",
         "name": "Burston",
         "code": "tr"
       },
@@ -3312,7 +3312,7 @@
         "code": "zh"
       },
       {
-        "description": "Долго считавшийся утерянным, могучий Дайкю Прайм был гордостью многих додзё Тэнно. Сила, требуемая для его использования, вознаграждается дополнительной дальностью и мощью.",
+        "description": "Долгое время считавшийся утерянным, могущественный Дайкю Прайм был гордостью многих Тэнно в Додзе. Созданный для того, чтобы бить врага в самое уязвимое место, его мощные выстрелы вознаграждают меткую стрельбу.",
         "name": "Дайкю Прайм",
         "code": "ru"
       },
@@ -3863,7 +3863,7 @@
         "code": "ru"
       },
       {
-        "description": "賛美の歌で戦いの恐怖に打ち勝とう。Eversongの矢を喰らった敵は仲間にダメージを与えられない。Eversongによるキルは仲間の武器のマルチショットを上昇させる。\n\nEversong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
+        "description": "賛美の歌で戦いの恐怖に打ち勝とう。Evensongの矢を喰らった敵は仲間にダメージを与えられない。Evensongによるキルは仲間の武器のマルチショットを上昇させる。\n\nEvensong、Cantare、Harmonyを同時に装備しJadeの真の力を発揮しよう。",
         "name": "Evensong",
         "code": "ja"
       },

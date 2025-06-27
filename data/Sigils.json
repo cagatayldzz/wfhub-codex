@@ -5766,7 +5766,7 @@
       },
       {
         "description": "Розважайтеся, наче це 1999, разом із прекрасним сиґілом!",
-        "name": "Сиґіл «Дріппі»",
+        "name": "Сиґіл «Краплик»",
         "code": "uk"
       }
     ]
@@ -5845,6 +5845,84 @@
       {
         "description": "Драк вистежує здобич.",
         "name": "Сиґіл «Драк атакує»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilEightClaw",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eight-claw-sigil-0ba6ce550d.png",
+    "name": "Eight Claw Sigil",
+    "description": "Commemorate the fight against Neci Rusalka for the throne of Duviri during Operation: Eight Claw with this sigil.",
+    "languages": [
+      {
+        "description": "Gedenke mit diesem Siegel des Kampfes um den Thron von Duviri gegen Neci Rusalka, während der Operation: Acht Klauen.",
+        "name": "Siegel: Acht Klauen",
+        "code": "de"
+      },
+      {
+        "description": "Commémorez le combat contre Neci Rusalka pour le trône de Duviri lors de l'Opération: Huitième Griffe avec ce Sceau.",
+        "name": "Sceau Huitième Griffe",
+        "code": "fr"
+      },
+      {
+        "description": "Commemora con questo sigillo la battaglia contro Neci Rusalka per il trono di Duviri durante l'Operazione: Eight Claw.",
+        "name": "Sigillo Eight Claw",
+        "code": "it"
+      },
+      {
+        "description": "이 시질로 작전명: 여덟 개의 발톱 당시 두비리의 왕좌를 놓고 네시 루살카와 벌인 싸움을 기념하세요.",
+        "name": "여덟 개의 발톱 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Conmemora con este sello la batalla contra Neci Rusalka por el trono de Duviri durante la Operación: Octava Garra.",
+        "name": "Sello Octava Garra",
+        "code": "es"
+      },
+      {
+        "description": "用这个纹章来纪念在《行动代号：八爪》期间与内奇·鲁莎卡争夺双衍王境王位的战斗。",
+        "name": "八爪纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Увековечьте память о битве с Нэси Русалкой за трон Дувири во время операции «Восемь когтей» с помощью этого символа.",
+        "name": "Сигил: Восемь Когтей",
+        "code": "ru"
+      },
+      {
+        "description": "「八つの爪」作戦イベントでデュヴィリの王位をめぐってNeci Rusalkaと戦ったことを称えよう。",
+        "name": "八つの爪 シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Załóż ten Znak, aby upamiętnić walkę z Neci Rusałką o tron Duviri w Operacji: Ósmy Pazur.",
+        "name": "Znak Ósmy Pazur",
+        "code": "pl"
+      },
+      {
+        "description": "Celebre a luta contra a Neci Rusalka pelo trono de Duviri durante a Operação Araneídea com este brasão.",
+        "name": "Brasão: Araneídea",
+        "code": "pt"
+      },
+      {
+        "description": "透過這個紋章來紀念八爪行動期間為搶奪渡域寶座與妮熙・露莎卡一戰。",
+        "name": "八爪紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายนี้เป็นสัญลักษณ์เพื่อรำลึกถึงการต่อสู้กับ Neci Rusalka เพื่อชิงบัลลังก์ของ Duviri ในระหว่างปฏิบัติการ: Eight Claw",
+        "name": "เครื่องหมาย Eight Claw",
+        "code": "th"
+      },
+      {
+        "description": "Bu mühürle, Operasyon: Sekiz Pençe sırasında Duviri tahtı için Neci Rusalka'ya karşı verilen mücadeleyi an.",
+        "name": "Sekiz Pençe Mührü",
+        "code": "tr"
+      },
+      {
+        "description": "Вшануйте битву проти Несі Русалки за дувірський трон під час операції «Вісім кігтів».",
+        "name": "Сиґіл «Вісім кігтів»",
         "code": "uk"
       }
     ]
@@ -22225,6 +22303,84 @@
       {
         "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Сталевий Меридіан».",
         "name": "Сиґіл «Піднесення»",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomValkyrSigil",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-heirloom-sigil-81d15f436b.png",
+    "name": "Valkyr Heirloom Sigil",
+    "description": "A sigil that celebrates Valkyr's legacy.",
+    "languages": [
+      {
+        "description": "Ein Siegel, das Valkyrs Vermächtnis feiert.",
+        "name": "Siegel: Valkyr Heirloom",
+        "code": "de"
+      },
+      {
+        "description": "Un Sceau qui célèbre l'héritage de Valkyr.",
+        "name": "Sceau Valkyr Héritage",
+        "code": "fr"
+      },
+      {
+        "description": "Un sigillo che celebra l'eredità di Valkyr.",
+        "name": "Sigillo Valkyr Heirloom",
+        "code": "it"
+      },
+      {
+        "description": "발키르의 유산을 기념하는 시질입니다.",
+        "name": "엠버 에어룸 시질",
+        "code": "ko"
+      },
+      {
+        "description": "Un sello que celebra el legado de Valkyr.",
+        "name": "Sello de Valkyr Legado",
+        "code": "es"
+      },
+      {
+        "description": "庆祝 Valkyr 的传承的纹章。",
+        "name": "Valkyr 传家宝纹章",
+        "code": "zh"
+      },
+      {
+        "description": "Сигил, прославляющий наследие Валькирии.",
+        "name": "Сигил Валькирии «Наследие»",
+        "code": "ru"
+      },
+      {
+        "description": "Valkyrの武勇伝を称えるシジル。",
+        "name": "Valkyr Heirloom シジル",
+        "code": "ja"
+      },
+      {
+        "description": "Znak upamiętniający dziedzictwo Valkyr.",
+        "name": "Znak: Pamiątkowa Valkyr",
+        "code": "pl"
+      },
+      {
+        "description": "Um brasão que celebra o legado da Valkyr.",
+        "name": "Brasão: Legado da Valkyr",
+        "code": "pt"
+      },
+      {
+        "description": "慶祝 Valkyr 的傳承的紋章。",
+        "name": "Valkyr 祖傳紋章",
+        "code": "tc"
+      },
+      {
+        "description": "เครื่องหมายฉลองตำนานที่สืบสานต่อของ Valkyr",
+        "name": "เครื่องหมาย: Valkyr Heirloom",
+        "code": "th"
+      },
+      {
+        "description": "Valkyr'in mirasını kutlayan bir mühür.",
+        "name": "Valkyr Heirloom Mühür",
+        "code": "tr"
+      },
+      {
+        "description": "Сиґіл для вшанування спадщини Валькірії.",
+        "name": "Сиґіл «Спадок» для Валькірії",
         "code": "uk"
       }
     ]

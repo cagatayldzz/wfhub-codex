@@ -222,7 +222,7 @@
         "code": "th"
       },
       {
-        "description": "Çift el kullanımı için iki adet Furis. Şarjör kapasitesi ve, atış oranı iki katına çıkartıldı fakat isabet oranı ve şarjör doldurma hızı düşürüldü.",
+        "description": "Çift el kullanımı için iki adet Furis. Şarjör kapasitesi ve, Atış Oranı iki katına çıkartıldı fakat İsabet Oranı ve Yeniden Doldurma hızı düşürüldü.",
         "name": "Afuris",
         "code": "tr"
       },
@@ -534,7 +534,7 @@
         "code": "th"
       },
       {
-        "description": "Her elde bir Bolto.İki kat daha fazla şarjör kapasitesi ve biraz daha yüksek atış hızı, fakat iki kat yeniden doldurma süresi ve daha düşük isabet oranı.",
+        "description": "Her elde bir Bolto bulunur. İki kat daha fazla Şarjör Kapasitesi ve daha yüksek Atış Hızı sunar, fakat iki kat Yeniden Doldurma süresi ve daha düşük İsabet Oranı vardır.",
         "name": "Akbolto",
         "code": "tr"
       },
@@ -1002,7 +1002,7 @@
         "code": "th"
       },
       {
-        "description": "Her iki elde bir Lato bulunur. Şarjör boyutunu ve atış hızını iki katına çıkarır, ancak şarjör doldurma zamanı ikiye katlanır ve isabet azalır.",
+        "description": "Her iki elde bir Lato bulunur. Şarjör Kapasitesini ve Atış Hızını iki katına çıkarır, ancak Yeniden Doldurma zamanı ikiye katlanır ve İsabet Oranı azalır.",
         "name": "Aklato",
         "code": "tr"
       },
@@ -1080,7 +1080,7 @@
         "code": "th"
       },
       {
-        "description": "Dual Lex silahları yüksek hasar özelliğini ikiye katlayarak düşmana verilen hasarı arttırır fakat yeniden doldurma hızını ve hassasiyeti düşürür.",
+        "description": "Dual Lex tabancaları düşmana atabileceğin yüksek kalibreli kurşun miktarını iki katına çıkarır, ancak isabet oranı ve yeniden doldurma süresi olumsuz etkilenir.",
         "name": "Aklex",
         "code": "tr"
       },
@@ -1548,7 +1548,7 @@
         "code": "th"
       },
       {
-        "description": "Bu ufacık ve hızlı Stiletto makineli tabancaları hassasiyetten ödün vermeden akimbo stilinde çalışır.",
+        "description": "Bu küçük, hızlı ateş eden Stiletto makineli tabancalar, isabet oranından ödün vermeden çift el kullanımı için tam doğru boyuttadır.",
         "name": "Akstiletto",
         "code": "tr"
       },
@@ -2079,7 +2079,7 @@
         "code": "pl"
       },
       {
-        "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Eliminações com Acertos de Precisão provocam uma sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
+        "description": "Elaborado com base na engenharia reversa, a partir da tecnologia de propulsão, este canhão de mão possui um impulso memorável, praticamente um coice bélico. Eliminações com Acertos em Pontos Fracos provocam uma sobrecarga, a qual bloqueia funções secundárias, enquanto maximiza a sua cadência de tiro e a sua eficiência de munição por um curto período.",
         "name": "Athodai",
         "code": "pt"
       },
@@ -8112,6 +8112,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scyotid-367bd62ed6.png",
+    "name": "Scyotid",
+    "description": "Go on the hunt with Oraxia’s signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.",
+    "languages": [
+      {
+        "description": "Gehe auf die Jagd mit Oraxias bevorzugter Sekundärwaffe. Feuere eine Salve giftiger Widerhaken oder lass ein Bündel Schlingen fallen, die beim Aufprall zerbrechen, Feinde in der Nähe erfassen und zueinander ziehen.",
+        "name": "Scyotid",
+        "code": "de"
+      },
+      {
+        "description": "Partez en chasse avec l'arme Secondaire emblématique d'Oraxia. Lancez une volée de piques toxiques ou déposez un piège à grappes qui se disperse à l'impact, saisissant les ennemis proches et les rassemblant.",
+        "name": "Scyotide",
+        "code": "fr"
+      },
+      {
+        "description": "Vai a caccia con l'arma secondaria distintiva di Oraxia. Scaglia una raffica di aculei tossici o rilascia una trappola a grappolo che si disperde all'impatto, catturando i nemici nelle vicinanze e ragruppandoli.",
+        "name": "Scyotid",
+        "code": "it"
+      },
+      {
+        "description": "오락시아의 대표 보조 무기와 함께 사냥에 나서 보세요. 독 묻은 가시의 탄창을 일제히 연발하거나, 착탄 시 흩어지는 집속 덫을 발사해 주변의 적을 붙잡아 끌어당길 수 있습니다.",
+        "name": "사이오티드",
+        "code": "ko"
+      },
+      {
+        "description": "Lánzate a la caza con el arma secundaria distintiva de Oraxia. Lanza una descarga de púas tóxicas o suelta una trampa de fragmentación que se dispersa al impactar, atrapando a los enemigos cercanos y agrupándolos.",
+        "name": "Scyotid",
+        "code": "es"
+      },
+      {
+        "description": "（英文：SCYOTID）使用 Oraxia 的标志性次要武器进行狩猎。你可以射出一连串充满毒素的倒钩，或者投放一个在撞击时散开的团状陷阱，抓住附近的敌人并将其拖到一起。",
+        "name": "镰刃刺",
+        "code": "zh"
+      },
+      {
+        "description": "Отправляйтесь на охоту с особым дополнительным оружием Ораксии. Выпустите залп токсичных шипов или установите кластерную ловушку, которая разлетается при ударе, захватывая ближайших врагов и притягивая их друг к другу.",
+        "name": "Сайотид",
+        "code": "ru"
+      },
+      {
+        "description": "Oraxiaを象徴するセカンダリ武器で狩りに出よう。毒針をまき散らしたり、着弾時に飛び散るクラスタースネアを射出し付近の敵を絡ませ捕縛しよう。",
+        "name": "Scyotid",
+        "code": "ja"
+      },
+      {
+        "description": "Wyrusz na łowy wraz z charakterystyczną Bronią boczną Oraxii. Miotaj seriami zatrutych kolców albo pułapką, która wybucha przy kontakcie i ściąga pobliskich wrogów do siebie.",
+        "name": "Scyotid",
+        "code": "pl"
+      },
+      {
+        "description": "Vá à caça com a habilidade secundária da Oraxia. Lance uma descarga de farpas carregadas de toxinas ou solte uma armadilha de fragmentação que se espalha com o impacto, capturando inimigos próximos e arrastando-os juntos.",
+        "name": "Scyotid",
+        "code": "pt"
+      },
+      {
+        "description": "（英文：SCYOTID）帶著 Oraxia 的標誌性次要武器前去狩獵。射出毒鏢彈幕，或投放撞擊時會散開的羅網來將附近的敵人束縛並拖拽到一起。",
+        "name": "螯鏢",
+        "code": "tc"
+      },
+      {
+        "description": "ออกล่าศัตรูด้วยอาวุธประจำตัวของ Oraxia ที่จะยิงหนามที่ผสมพิษเป็นชุด หรือปล่อยกับดักที่จะกระจายออกไปเมื่อกระทบเพื่อจับศัตรูที่อยู่ใกล้แล้วลากเข้าหากัน",
+        "name": "Scyotid",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia'nın özel ikincil silahıyla ava çık. Zehirli dikenlerden oluşan bir yaylım ateşi aç veya çarpma anında dağılan, yakındaki düşmanları yakalayıp bir arada sürükleyen bir tuzak bırak.",
+        "name": "Scyotid",
+        "code": "tr"
+      },
+      {
+        "description": "Вирушайте на полювання з визначною допоміжною зброєю Ораксії. Випускайте залп отруйних колючок або киньте кластерну пастку, яка розлетиться від удару й захопить та стягне разом ворогів поблизу.",
+        "name": "Сайотид",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/secura-dual-cestra-810e479b60.png",
     "name": "Secura Dual Cestra",
@@ -8412,7 +8490,7 @@
         "code": "th"
       },
       {
-        "description": "Sicarus üç defa patlama ile ateş eder, bu otomatik tabancaların ölümcüllüğü ile yarı otomatik tabancaların isabeti arasında bir denge sağlar.",
+        "description": "Sicarus üç defa patlama ile ateş eder, bu otomatik tabancaların ölümcüllüğü ile yarı otomatik tabancaların isabet oranı arasında bir denge sağlar.",
         "name": "Sicarus",
         "code": "tr"
       },
@@ -8490,7 +8568,7 @@
         "code": "th"
       },
       {
-        "description": "Sicarus Prime, otomatik silahların öldürücü özelliği ile yarı otomatik silahların hassasiyetini birarada kullanarak seri patlamalar şeklinde atış yapabilen ölümcül bir silahtır.",
+        "description": "Sicarus Prime, otomatik silahların öldürücülüğü ile yarı otomatik silahların isabet oranını birleştirerek seri patlamalar şeklinde atış yapabilen ölümcül bir silahtır.",
         "name": "Sicarus Prime",
         "code": "tr"
       },
@@ -9142,7 +9220,7 @@
         "code": "fr"
       },
       {
-        "description": "Schierato dal Cephalon Suda, questo strumento i dati-analisi distruttiva, vaporizza il suo soggetto, al fine di estrarre i dati cruciali.",
+        "description": "Dispiegato da Cephalon Suda, il Gammacor un tempo era uno strumento di analisi dei dati, mentre ora ha come obiettivo principale la difesa.",
         "name": "Synoid Gammacor",
         "code": "it"
       },
@@ -9894,7 +9972,7 @@
         "code": "th"
       },
       {
-        "description": "Çift olarak tasarlanmış bu Grineer silahları daha yavaş hızda ancak daha güçlü ve keskin mermiler ateşler.",
+        "description": "Çift olarak tasarlanmış bu Grineer silahları daha düşük atış oranına sahiptir, ancak daha güçlü mermiler ateşler ve isabet oranı daha yüksektir.",
         "name": "Twin Gremlins",
         "code": "tr"
       },
@@ -10737,7 +10815,7 @@
         "code": "pl"
       },
       {
-        "description": "Uma verdadeira obra-prima da engenharia Holvaniana. A mira laser avançada da Vesper 77 destacará os pontos de Acertos de Precisão dos inimigos. Mirar aumentará seu Multiplicador de Dano Crítico.",
+        "description": "Uma verdadeira obra-prima da engenharia Holvaniana. A mira laser avançada da Vesper 77 destacará os Pontos Fracos dos inimigos. Mirar aumentará seu Multiplicador de Dano Crítico.",
         "name": "Vesper 77",
         "code": "pt"
       },

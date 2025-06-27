@@ -520,7 +520,7 @@
       },
       {
         "description": "Utilizado para localizar a instalação de produção de Âmbulas.\n\nEste recurso pode ser adquirido de Unidades Âmbulas abatidas.",
-        "name": "Sinalizador de Navegação do Animo",
+        "name": "Sinalizador do Ânimo",
         "code": "pt"
       },
       {
@@ -1397,7 +1397,7 @@
         "code": "tr"
       },
       {
-        "description": "Найглибший стогін мовою Порожнечі, вкарбований у камінь. Малоймовірний ресурс у будівництві суден Альбрехта.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "Найглибший стогін мовою Порожнечі, вкарбований у камінь. Малоймовірний ресурс у будівництві суден Альбрехта.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Вока беллов",
         "code": "uk"
       }
@@ -4836,6 +4836,84 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemEvent",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dominus-aureus-d16ed0f6af.png",
+    "name": "Dominus Aureus",
+    "description": "Stolen golden seals emblematic of royal authority in Duviri. Return them to restore Dominus Thrax to the throne.\n\nObtained by completing Isleweaver missions in Duviri during Operation: Eight Claw",
+    "languages": [
+      {
+        "description": "Gestohlene goldene Siegel, Symbol der königlichen Autorität in Duviri. Bringe sie zurück, um Dominus Thrax wieder auf den Thron zu bringen.\n\nZu erhalten durch den Abschluss von Inselweber-Missionen in Duviri während der Operation: Acht Klauen",
+        "name": "Dominus Aureus",
+        "code": "de"
+      },
+      {
+        "description": "Sceaux d'or volés, symboles de l'autorité royale à Duviri. Restituez-les pour ramener Dominus Thrax sur le trône.\n\nObtenus en accomplissant des missions de Toile Insulaire à Duviri pendant l'Opération: Huitième Griffe.",
+        "name": "Sesterce",
+        "code": "fr"
+      },
+      {
+        "description": "Sigilli d'oro rubati, simbolo dell'autorità reale a Duviri. Restituiscili per riportare Dominus Thrax sul trono.\n\nOttenuti completando le missioni Tessitrice di Isole a Duviri durante l'Operazione: Eight Claw",
+        "name": "Dominus Aureus",
+        "code": "it"
+      },
+      {
+        "description": "두비리의 왕권을 상징하는 도둑맞은 황금의 인장입니다. 이 인장들을 되찾으면 도미누스 트락스는 다시 한 번 왕위에 복권할 수 있습니다.\n\n작전명: 여덟 개의 발톱 도중 두비리 내에서 섬을 엮는 자 미션을 완료하면 획득할 수 있습니다.",
+        "name": "도미누스 아우레우스",
+        "code": "ko"
+      },
+      {
+        "description": "Sellos de oro robados que simbolizan el poder real en Duviri. Devuélvelos para que Dominus Thrax regrese al trono.\n\nSe obtienen al completar misiones de «Tejedora de Islas» en Duviri durante la Operación: Octava Garra.",
+        "name": "Dominus Aureus",
+        "code": "es"
+      },
+      {
+        "description": "被盗的金印，象征双衍王境的王权。归还它们，让士魂大帝重回王位。\n\n可通过在《行动代号：八爪》期间完成双衍王境的《织屿人》任务获得",
+        "name": "大帝金币",
+        "code": "zh"
+      },
+      {
+        "description": "Украдены золотые печати, символизирующие королевскую власть в Дувири. Верните их, чтобы восстановить Доминуса Тракса на троне.\n\nПолучается за выполнение миссий в локации «Плетельщица островов» в Дувири во время «Операции: Восемь Когтей».",
+        "name": "Ауреус Доминуса",
+        "code": "ru"
+      },
+      {
+        "description": "盗まれたデュヴィリの王権を象徴する黄金の印章。Dominus Thraxを王位に復帰させるためこれらを返還せよ。\n\n「八つの爪」作戦でデュヴィリの島々を織りしものミッションをクリアすることで入手。",
+        "name": "ドミヌス・アウレウス",
+        "code": "ja"
+      },
+      {
+        "description": "Skradzione złote pieczęcie, symbolizujące władzę królewską w Duviri. Zwróć je, aby przywrócić Dominusa Thraxa z powrotem na tron.\n\nMogą zostać zdobyte przez wykonywanie misji Tkaczki Światów w Duviri podczas Operacji: Ósmy Pazur",
+        "name": "Dominus Aureus",
+        "code": "pl"
+      },
+      {
+        "description": "Selos áureos roubados, emblemáticos da autoridade real em Duviri. Devolva-os para restaurar Dominus Thrax ao seu trono.\n\nLocalização: obtidos ao concluir missões da Tecelã Insular, em Duviri, durante a Operação Araneídea.",
+        "name": "Dominus Aureus",
+        "code": "pt"
+      },
+      {
+        "description": "遭竊的金璽，象徵渡域皇室的權威。歸還它們，好助至尊戰魁重登寶座。\n\n八爪行動期間完成渡域的織島者任務取得",
+        "name": "至尊金幣",
+        "code": "tc"
+      },
+      {
+        "description": "เหรียญทองคำที่ถูกขโมยเป็นสัญลักษณ์ของอำนาจแห่งราชวงศ์ใน Duviri ส่งมันกลับคืนไปเพื่อคืนบัลลังก์ให้กับ Dominus Thrax\n\nรับไอเทมนี้ได้จากการทำภารกิจ Isleweaver ให้สำเร็จใน Duviri ระหว่างปฏิบัติการ: Eight Claw",
+        "name": "เหรียญ Dominus Aureus",
+        "code": "th"
+      },
+      {
+        "description": "Duviri'deki kraliyet otoritesinin simgesi olan altın mühürler çalındı. Dominus Thrax'ı tahta geri getirmek için onları ait olduğu yere geri götür.\n\nOperasyon: Sekiz Pençe sırasında Duviri'deki Isleweaver görevleri tamamlanarak elde edilir.",
+        "name": "Dominus Aureus",
+        "code": "tr"
+      },
+      {
+        "description": "Викрадені золоті печатки, які символізують королівську владу в Дувірі. Поверніть їх, щоб відновити Доміна Тракса на троні.\n\nМожна здобути за виконання завдань «Ткалі островів» у Дувірі під час операції «Вісім кігтів».",
+        "name": "Аврей Доміна",
+        "code": "uk"
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dracroot-f10a963d7e.png",
     "name": "Dracroot",
@@ -4917,75 +4995,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dusklight-sarracenia-6a698a114a.png",
     "name": "Dusklight Sarracenia",
-    "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by using a Codex Scanner on Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
+    "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
     "languages": [
       {
-        "description": "Diese robuste, fleischfressende Pflanze hat sich an ein Leben in verschmutzten Gewässer gewöhnt.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Sarracenia der Dämmerung nutzt, die im Levelset: Grineer Schiffswerft auf Ceres wachsen.",
+        "description": "Diese robuste, fleischfressende Pflanze hat sich an ein Leben in verschmutzten Gewässer gewöhnt.\n\nQuelle: Erhältlich durch das Sammeln von Sarracenia der Dämmerung, die im Levelset: Grineer Schiffswerft auf Ceres wachsen.",
         "name": "Sarracenia der Dämmerung",
         "code": "de"
       },
       {
-        "description": "Cette plante robuste et carnivore s'est adaptée aux conditions des eaux polluées. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur des plantes Sarracénies Crépusculaires poussant dans les Chantiers Spatiaux Grineers et que l'on trouve couramment sur Cérès",
+        "description": "Cette plante robuste et carnivore s'est adaptée aux conditions des eaux polluées. \n\nLieu: obtenue en récoltant des Sarracénies Crépusculaires poussant dans les Chantiers Spatiaux Grineers et que l'on trouve couramment sur Cérès",
         "name": "Sarracénie Crépusculaire",
         "code": "fr"
       },
       {
-        "description": "Questa robusta pianta carnivora si è adattata a vivere in condizioni di acque inquinate.\n\nPosizione: Ottenuta utilizzando un Codex Scanner sulle Piante Sarracenia Crepuscolare che crescono nei Cantieri Navali Grineer che si trovano comunemente su Cerere",
+        "description": "Questa robusta pianta carnivora si è adattata a vivere in condizioni di acque inquinate.\n\nPosizione: Ottenuta raccogliendo le Piante Sarracenia Crepuscolare che crescono nei Cantieri Navali Grineer che si trovano comunemente su Cerere",
         "name": "Sarracenia Crepuscolare",
         "code": "it"
       },
       {
-        "description": "이 강건한 식육 식물은 오염된 수질에 적응한 종입니다. \n\n획득 가능 장소: 세레스에서 흔히 발견되는 그리니어 조선소에서 자라는 더스크라이트 사라세니아 식물에 코덱스 스캐너를 사용해 획득할 수 있습니다",
+        "description": "This robust, carnivorous plant has adapted to conditions in polluted waters. \n\nLocation: Obtained by gathering Dusklight Sarracenia plants growing in Grineer Shipyards found commonly on Ceres",
         "name": "더스크라이트 사라세니아",
         "code": "ko"
       },
       {
-        "description": "Esta planta robusta y carnívora se ha adaptado a las condiciones de las aguas contaminadas. \n\nUbicación: Se obtiene usando un escáner de códice en las plantas sarracenia del ocaso que crecen en los astilleros grineer que se encuentran comúnmente en Ceres",
+        "description": "Esta planta robusta y carnívora se ha adaptado a las condiciones de las aguas contaminadas. \n\nUbicación: Se obtiene recolectando las plantas sarracenia del ocaso que crecen en los astilleros grineer que se encuentran comúnmente en Ceres",
         "name": "Sarracenia del ocaso",
         "code": "es"
       },
       {
-        "description": "这种强壮的食虫植物已经适应了在污染水域下生存。 \n\n获取地点：通过扫描器扫描常见于谷神星，生长在 Grineer 造船厂的尘光瓶子草以获取",
+        "description": "这种强壮的食虫植物已经适应了在污染水域下生存。 \n\n获取地点：通过采集常见于谷神星，生长在 Grineer 造船厂的尘光瓶子草植物获取",
         "name": "尘光瓶子草",
         "code": "zh"
       },
       {
-        "description": "Это мощное хищное растение приспособилось к условиям загрязненных вод.\n\nМестонахождение: Можно получить с помощью сканера Кодекса на растениях «Сумеречная саррацения», растущих на судостроительных заводах Гринир, которые обычно встречаются на Церере.",
+        "description": "Это мощное хищное растение приспособилось к условиям загрязненных вод.\n\nМестонахождение: Сумеречная саррацения растёт на Церере, в судостроительных заводах Гринир.",
         "name": "Сумеречная саррацения",
         "code": "ru"
       },
       {
-        "description": "この頑健な肉食植物は、汚染された水の環境に適応している。\n\n場所：ケレス（グリニア造船所のダスクライト・サラシーニャをコーデックス スキャナーでスキャンし入手する）",
+        "description": "この頑健な肉食植物は、汚染された水の環境に適応している。\n\n場所：ケレスのグリニア造船所のダスクライト・サラシーニャを採取",
         "name": "ダスクライト・サラシーニャ",
         "code": "ja"
       },
       {
-        "description": "Ta wytrzymała roślina, będąca mięsożercą zaadoptowała się do warunków panujących w zanieczyszczonych wodach. \n\nPołożenie: Może zostać zdobyta przez użycie Skanera Kodeksu na roślinach Sarracenia Zmierzchoświatła w Stoczniach Grineer na Ceres",
-        "name": "Sarracenia Zmierzchoświatła",
+        "description": "Ta wytrzymała roślina, będąca mięsożercą zaadoptowała się do warunków panujących w zanieczyszczonych wodach. \n\nPołożenie: Zdobywana przez podniesienie Saracenia Szarówki w Stoczniach Grineer na Ceres.",
+        "name": "Saracenia Szarówka",
         "code": "pl"
       },
       {
-        "description": "Esta planta robusta e carnívora adaptou-se ao crescer em águas poluídas. \n\nLocalização: obtida ao utilizar um Escâner do Codex na planta Sarracenia Crepuscular, que cresce nos estaleiros Grineer, comumente encontrados em Ceres.",
+        "description": "Esta planta robusta e carnívora adaptou-se ao crescer em águas poluídas. \n\nLocalização: obtida ao coletar Sarracenias Crepusculares, que crescem nos estaleiros Grineer, comumente encontrados em Ceres.",
         "name": "Sarracenia Crepuscular",
         "code": "pt"
       },
       {
-        "description": "這種強壯的食蟲植物已經適應了在污染水域的環境下生存。\n\n地點：透過對生長在 Grineer 造船廠裡的塵光瓶子草植物使用資料庫掃描器來取得",
+        "description": "這種強壯的食蟲植物已經適應了在污染水域的環境下生存。\n\n地點：透過採集生長在 Grineer 造船廠裡的塵光瓶子草植物取得",
         "name": "塵光瓶子草",
         "code": "tc"
       },
       {
-        "description": "พืชกินเนื้อที่มีความทนทานชนิดนี้ปรับตัวให้เข้ากับสภาวะในน้ำที่ปนเปื้อน \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นดัสก์ไลต์ซาร์ราซีเนียที่ขึ้นในอู่ต่อเรือ Grineer ซึ่งพบได้ทั่วไปบนดาวซีรีส",
+        "description": "พืชกินเนื้อที่มีความทนทานชนิดนี้ปรับตัวให้เข้ากับสภาวะในน้ำที่ปนเปื้อน \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นดัสก์ไลต์ซาร์ราซีเนียที่ขึ้นในอู่ต่อเรือ Grineer ซึ่งพบได้ทั่วไปบนดาวซีรีส",
         "name": "ดัสก์ไลต์ซาราซีเนีย",
         "code": "th"
       },
       {
-        "description": "Bu güçlü etçil bitki kirli sulardaki zor koşullara kolayca uyum sağlar. \n\nKonum: Ceres'te yaygın olarak bulunan Grineer Tersanelerinde yetişen Dusklight Sarracenia bitkileri üzerinde Kodeks Tarayıcısı kullanılarak elde edilebilir",
+        "description": "Bu güçlü etçil bitki kirli sulardaki zor koşullara kolayca uyum sağlar. \n\nKonum: Ceres'te yaygın olarak bulunan Grineer Tersanelerinde yetişen Dusklight Sarracenia bitkileri toplanarak elde edilebilir",
         "name": "Dusklight Sarracenia",
         "code": "tr"
       },
       {
-        "description": "Ця стійка хижа рослина пристосувалася до життя в забруднених водоймах.\n\nМожна здобути за допомогою використання зчитувача збірника знань на присмерковій сараценії, яка росте переважно на Церері в ґрінерських зорелітнях.",
+        "description": "Ця стійка хижа рослина пристосувалася до життя в забруднених водоймах.\n\nМожна здобути збиранням присмеркової сараценії, яка росте переважно на Церері в ґрінерських зорелітнях.",
         "name": "Присмеркова сарраценія",
         "code": "uk"
       }
@@ -5063,7 +5141,7 @@
         "code": "tr"
       },
       {
-        "description": "Найтихіший та найневловиміший прояв мови Порожнечі. Його так прагнув, але так і не знайшов Альбрехт.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "Найтихіший та найневловиміший прояв мови Порожнечі. Його так прагнув, але так і не знайшов Альбрехт.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Вока еко",
         "code": "uk"
       }
@@ -5609,7 +5687,7 @@
         "code": "tr"
       },
       {
-        "description": "В орокінську епоху ці оболи були загальновизнаним знаком родини Ентраті. Деякі архімедівці навіть використовували їх як талісмани удачі.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "В орокінську епоху ці оболи були загальновизнаним знаком родини Ентраті. Деякі архімедівці навіть використовували їх як талісмани удачі.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Оболи Ентраті",
         "code": "uk"
       }
@@ -6711,75 +6789,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frostleaf-528659b4f2.png",
     "name": "Frostleaf",
-    "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by using a Codex Scanner on Frostleaf plants that grow on Venus, Neptune, and Pluto",
+    "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
     "languages": [
       {
-        "description": "Diese widerstandsfähige Pflanze stellt eine natürliche Futterquelle in eisigen Gbieten des Ursprungssystems dar.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Frostlaub nutzt, die auf Venus, Neptun und Pluto wachsen.",
+        "description": "Diese widerstandsfähige Pflanze stellt eine natürliche Nahrungsquelle in eisigen Gebieten des Ursprungssystems dar.\n\nQuelle: Erhältlich durch das Sammeln von Frostlaub, das auf Venus, Neptun und Pluto wächst.",
         "name": "Frostlaub",
         "code": "de"
       },
       {
-        "description": "Cette plante résistante fournit une source de nourriture naturelle dans les zones glaciales du Système Origine. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Feuillegivres qui poussent sur Vénus, Neptune et Pluton",
+        "description": "Cette plante résistante fournit une source de nourriture naturelle dans les zones glaciales du Système Origine. \n\nLieu: obtenue en récoltant des Feuillegivres qui poussent sur Vénus, Neptune et Pluton",
         "name": "Feuillegivre",
         "code": "fr"
       },
       {
-        "description": "Questa pianta resiliente è una fonte di cibo naturale nelle zone gelide del Sistema Origin. \n\nPosizione: Ottenuta utilizzando un Codex Scanner sulle Piante Frostleaf che crescono su Venere, Nettuno e Plutone",
+        "description": "Questa pianta resiliente è una fonte di cibo naturale nelle zone gelide del Sistema Origin. \n\nPosizione: Ottenuta raccogliendo le Piante Frostleaf che crescono su Venere, Nettuno e Plutone",
         "name": "Foglia di Ghiaccio",
         "code": "it"
       },
       {
-        "description": "이 탄력적인 식물은 근원계 내 혹한 지역에서 천연 식품 자원으로 활용되고 있습니다. \n\n획득 가능 장소: 금성, 해왕성 및 명왕성에서 자라는 프로스트리프 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다.",
+        "description": "This resilient plant provides a natural food source in frigid areas of the Origin system. \n\nLocation: Obtained by gathering Frostleaf plants that grow on Venus, Neptune, and Pluto",
         "name": "프로스트리프",
         "code": "ko"
       },
       {
-        "description": "Esta planta resistente proporciona una fuente de alimento natural en las zonas gélidas del Sistema Origen. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de hoja de escarcha que crecen en Venus, Neptuno y Plutón",
+        "description": "Esta planta resistente proporciona una fuente de alimento natural en las zonas gélidas del Sistema Origen. \n\nUbicación: Se obtiene recolectando las plantas de hoja de escarcha que crecen en Venus, Neptuno y Plutón",
         "name": "Hoja de escarcha",
         "code": "es"
       },
       {
-        "description": "这种坚韧不拔的植物在始源星系的寒冷地区提供了天然的食物来源。 \n\n获取地点：通过扫描器扫描生长在金星、海王星和冥王星上的霜叶以获得",
+        "description": "这种坚韧不拔的植物为始源星系的寒冷地区提供了天然的食物来源。 \n\n获取地点：通过扫采集生长在金星、海王星和冥王星上的霜叶植物获得",
         "name": "霜叶",
         "code": "zh"
       },
       {
-        "description": "Это устойчивое растение обеспечивает естественный источник пищи в холодных районах Изначальной системы. \n\nМестонахождение: Можно получить с помощью сканирования хладнолиста, который встречается на Венере, Нептуне и Плутоне.",
+        "description": "Это устойчивое растение обеспечивает естественный источник пищи в холодных районах Изначальной системы. \n\nМестонахождение: Хладнолист растёт на Венере, Нептуне и Плутоне.\n",
         "name": "Хладнолист",
         "code": "ru"
       },
       {
-        "description": "この生命力ある植物はOrigin星系の極寒地域で天然の食料源となる。\n\n場所：金星、海王星、冥王星（自生するフロストリーフをコーデックススキャナーでスキャンして入手）",
+        "description": "この生命力ある植物はOrigin星系の極寒地域で天然の食料源となる。\n\n場所：金星、海王星、冥王星に自生するフロストリーフを採取",
         "name": "フロストリーフ",
         "code": "ja"
       },
       {
-        "description": "Ta wytrzymała roślina zapewnia naturalne źródło pokarmu w zmarzniętych częściach Systemu Origin. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Mrozoliść, którą znaleźć można na Wenus, Neptunie i Plutonie",
+        "description": "Ta wytrzymała roślina zapewnia naturalne źródło pokarmu w zmarzniętych częściach Systemu Origin. \n\nPołożenie: Zdobywana przez podniesienia Mrozoliścia, który znaleźć można na Wenus, Neptunie i Plutonie",
         "name": "Mrozoliść",
         "code": "pl"
       },
       {
-        "description": "Esta planta resistente é uma fonte de alimento natural em áreas frígidas do Sistema de Origem. \n\nLocalização: obtida ao utilizar um Escâner do Codex na planta Folha Glacial, que cresce em Vênus, Netuno e Plutão.",
+        "description": "Esta planta resistente é uma fonte de alimento natural em áreas frígidas do Sistema de Origem. \n\nLocalização: obtida ao coletar Folhas Glaciais, que crescem em Vênus, Netuno e Plutão.",
         "name": "Folha Glacial",
         "code": "pt"
       },
       {
-        "description": "這種適應性強的植物在始源星系的嚴寒區域中是一種天然的食物來源。\n\n地點：透過對生長在金星、海王星，及冥王星上的霜葉植物使用資料庫掃描器來取得。",
+        "description": "這種適應性強的植物在始源星系的嚴寒區域中是一種天然的食物來源。\n\n地點：透過採集生長在金星、海王星，及冥王星上的霜葉植物取得",
         "name": "霜葉",
         "code": "tc"
       },
       {
-        "description": "พืชที่มีความยืดหยุ่นชนิดนี้เป็นแหล่งอาหารตามธรรมชาติในพื้นที่หนาวเย็นในระบบออริจิน \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นฟรอสต์ลีฟที่ขึ้นบนดาวศุกร์ ดาวเนปจูน และดาวพลูโต",
+        "description": "พืชที่มีความยืดหยุ่นชนิดนี้เป็นแหล่งอาหารตามธรรมชาติในพื้นที่หนาวเย็นในระบบออริจิน \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นฟรอสต์ลีฟที่ขึ้นบนดาวศุกร์ ดาวเนปจูน และดาวพลูโต",
         "name": "ฟรอสต์ลีฟ",
         "code": "th"
       },
       {
-        "description": "Bu dirençli bitki, Origin sisteminin soğuk bölgelerinde doğal bir besin kaynağıdır. \n\nKonum: Venüs, Neptün ve Plüton'da yetişen Frostleaf bitkileri Kodeks Tarayıcısı kullanılarak elde edilebilir",
+        "description": "Bu dirençli bitki, Origin sisteminin soğuk bölgelerinde doğal bir besin kaynağıdır. \n\nKonum: Venüs, Neptün ve Plüton'da yetişen Frostleaf bitkileri toplanarak elde edilir",
         "name": "Frostleaf",
         "code": "tr"
       },
       {
-        "description": "Стійка рослина, яка слугує природним джерелом харчування в холодних регіонах Материнської системи.\n\nМожна здобути за допомогою використання зчитувача збірника знань на морозолисті, який росте на Венері, Нептуні й Плутоні.",
+        "description": "Стійка рослина, яка слугує природним джерелом харчування в холодних регіонах Материнської системи.\n\nМожна здобути збиранням морозолисту, який росте на Венері, Нептуні й Плутоні.",
         "name": "Морозолист",
         "code": "uk"
       }
@@ -9207,75 +9285,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lunar-pitcher-f17f7c3873.png",
     "name": "Lunar Pitcher",
-    "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by using a Codex Scanner on Lunar Pitcher plants that grow on Lua",
+    "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
     "languages": [
       {
-        "description": "Diese fleischfressende Pflanze wächst in der Wildnis auf Lua. \n\nQuelle: Erhältlich, indem man Codex-Scanner bei Lunarische Krugpflanzen nutzt, die auf Lua wachsen.",
+        "description": "Diese fleischfressende Pflanze wächst in der Wildnis auf Lua. \n\nQuelle: Erhältlich durch das Sammeln von Lunarischen Krugpflanzen, die auf Lua wachsen.",
         "name": "Lunarische Krugpflanze",
         "code": "de"
       },
       {
-        "description": "Cette plante carnivore pousse dans la nature sauvage de Lua. \n\nLieu: S'obtient en utilisant un Scanneur du Codex sur des Urnes Lunaires qui poussent sur Lua",
+        "description": "Cette plante carnivore pousse dans la nature sauvage de Lua. \n\nLieu: obtenue en récoltant des Urnes Lunaires qui poussent sur Lua",
         "name": "Urne Lunaire",
         "code": "fr"
       },
       {
-        "description": "Questa pianta carnivora cresce nelle terre selvagge di Lua. \n\nPosizione: Ottenibile scannerizzando col Codex Scanner le piante Brocca Lunare che crescono su Lua",
+        "description": "Questa pianta carnivora cresce nelle terre selvagge di Lua. \n\nPosizione: Ottenuta raccogliendo le piante Brocca Lunare che crescono su Lua",
         "name": "Brocca Lunare",
         "code": "it"
       },
       {
-        "description": "이 식육 식물은 루아의 황무지 지역에서 자주 발견됩니다. \n\n획득 가능 장소: 루아에서 자라는 루나 피처 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "This carnivorous plant can be found growing in the wilderness on Lua. \n\nLocation: Obtained by gathering Lunar Pitcher plants that grow on Lua",
         "name": "루나 피처",
         "code": "ko"
       },
       {
-        "description": "Esta planta carnívora se puede encontrar en las áreas silvestres de Lua. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de cántaro lunar que crecen en Lua",
+        "description": "Esta planta carnívora se puede encontrar en las áreas silvestres de Lua. \n\nUbicación: Se obtiene recolectando las plantas de cántaro lunar que crecen en Lua",
         "name": "Cántaro Lunar",
         "code": "es"
       },
       {
-        "description": "这种食虫植物可以在月球的荒野之中找到。 \n\n获取地点：通过扫描器扫描生长在月球的月之猪笼草以获取",
+        "description": "这种食虫植物可以在月球的荒野之中找到。 \n\n获取地点：通过采集生长在月球的月之猪笼草植物获得",
         "name": "月之猪笼草",
         "code": "zh"
       },
       {
-        "description": "Это плотоядное растение можно найти в дикой местности на Луа. \n\nМестонахождение: Можно получить сканируя растения «Лунный кувшин», которые также растут на Луа.",
+        "description": "Это плотоядное растение можно найти в дикой местности на Луа. \n\nМестонахождение: Лунный кувшин растёт на Луа.",
         "name": "Лунный кувшин",
         "code": "ru"
       },
       {
-        "description": "ルアの荒野に生える肉食植物。\n\n場所：ルア（自生するルナー・ピッチャーをコーデックス・スキャナーでスキャンして入手）",
+        "description": "ルアの荒野に生える肉食植物。\n\n場所：ルアに自生するルナー・ピッチャーを採取",
         "name": "ルナー・ピッチャー",
         "code": "ja"
       },
       {
-        "description": "Ta mięsożerna roślina występuje w odebranych przez naturę obszarach Lua. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Dzban Księżycowy, którą znaleźć można na Lua",
+        "description": "Ta mięsożerna roślina występuje w odebranych przez naturę obszarach Lua. \n\nPołożenie: Zdobywana przez podniesienie Dzbana Księżycowego, który znaleźć można na Lua",
         "name": "Dzban Księżycowy",
         "code": "pl"
       },
       {
-        "description": "Esta planta carnívora pode ser encontrada em regiões selvagens da Lua. \n\nLocalização: obtida ao utilizar um Escâner do Codex na planta Jarro Lunar, que cresce na Lua.",
+        "description": "Esta planta carnívora pode ser encontrada em regiões selvagens da Lua. \n\nLocalização: obtida ao coletar Jarros Lunares, que crescem na Lua.",
         "name": "Planta-Jarro Lunar",
         "code": "pt"
       },
       {
-        "description": "這種食蟲植物可發現生長於月球的荒野中。\n\n地點：透過對生長在月球上的月之豬籠草植物使用資料庫掃描器來取得",
+        "description": "這種食蟲植物可發現生長於月球的荒野中。\n\n地點：透過採集生長在月球上的月之豬籠草植物取得",
         "name": "月之豬籠草",
         "code": "tc"
       },
       {
-        "description": "พืชที่กินเนื้อเป็นอาหารชนิดนี้สามารถพบได้ในบริเวณรกร้างว่างเปล่าบนดาวลูอา \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นลูนาร์พิตเชอร์ต้นไม้ที่ขึ้นบนดาวลูอา",
+        "description": "พืชที่กินเนื้อเป็นอาหารชนิดนี้สามารถพบได้ในบริเวณรกร้างว่างเปล่าบนดาวลูอา \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นลูนาร์พิตเชอร์ที่ขึ้นบนดาวลูอา",
         "name": "ลูนาร์พิตเชอร์",
         "code": "th"
       },
       {
-        "description": "Bu etobur bitki, Lua'daki vahşi doğada büyürken bulunabilir. \n\nKonum: Lua'da yetişen Lunar Pitcher bitkileri Kodeks Tarayıcısı kullanılarak elde edilir",
+        "description": "Bu etobur bitki, Lua'daki vahşi doğada büyürken bulunabilir. \n\nKonum: Lua'da yetişen Lunar Pitcher bitkileri toplanarak elde edilir",
         "name": "Lunar Pitcher",
         "code": "tr"
       },
       {
-        "description": "Цю хижу рослину можна знайти на Луа.\n\nМожна здобути за допомогою використання зчитувача збірника знань на місячному глечику, який росте на Луа.",
+        "description": "Цю хижу рослину можна знайти на Луа.\n\nМожна здобути збиранням місячного глечика, який росте на Луа.",
         "name": "Місячний глечик",
         "code": "uk"
       }
@@ -9597,75 +9675,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moonlight-dragonlily-1d96fd8309.png",
     "name": "Moonlight Dragonlily",
-    "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Dragonlily plants that grow on Earth",
+    "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese ungewöhnliche Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Mondlicht Drachenlilien nutzt, die auf der Erde wachsen.",
+        "description": "Diese ungewöhnliche Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Mondlicht Drachenlilien, die auf der Erde wachsen.",
         "name": "Mondlicht Drachenlilie",
         "code": "de"
       },
       {
-        "description": "Cette plante inhabituelle ne peut être trouvée que pendant la nuit. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Dragonlilys de Nuit qui poussent sur Terre",
+        "description": "Cette plante inhabituelle ne peut être trouvée que pendant la nuit. \n\nLieu: obtenue en récoltant des Dragonlilys de Nuit qui poussent sur Terre",
         "name": "Dragonlily de Nuit",
         "code": "fr"
       },
       {
-        "description": "Questa pianta non comune può essere trovata solo di notte. \n\nPosizione: Utilizzando un Codex Scanner sulle Piante Dragonlily Notturno che crescono sulla Terra",
+        "description": "Questa pianta non comune può essere trovata solo di notte. \n\nPosizione: Ottenuta raccogliendo le Piante Dragonlily Notturno che crescono sulla Terra",
         "name": "Dragonlily Notturno",
         "code": "it"
       },
       {
-        "description": "밤에만 발견 할 수 있는 흔치 않은 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 문라이트 드래곤릴리 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "This uncommon plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Dragonlily plants that grow on Earth",
         "name": "문라이트 드래곤릴리",
         "code": "ko"
       },
       {
-        "description": "Esta planta poco común sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de lirio de dragón lunar que crecen en la Tierra",
+        "description": "Esta planta poco común sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene recolectando las plantas de lirio de dragón lunar que crecen en la Tierra",
         "name": "Lirio de Dragón Lunar",
         "code": "es"
       },
       {
-        "description": "这种罕见的植物只能在夜晚找到。 \n\n获取地点：通过对地球上生长的月光龙百合植物使用资料库扫描器获得。",
+        "description": "这种罕见的植物只能在黑夜找到。\n\n获取地点：通过采集地球上生长的月光龙百合植物获得。",
         "name": "月光龙百合",
         "code": "zh"
       },
       {
-        "description": "Это необычное растение можно увидеть только ночью. \n\nМестонахождение: Можно получить с помощью сканирования лунной драконьей лилии, которая растёт на Земле",
+        "description": "Это необычное растение можно увидеть только ночью. \n\nМестонахождение: Лунная драконья лилия растёт на Земле.\n",
         "name": "Лунная драконья лилия",
         "code": "ru"
       },
       {
-        "description": "日の沈んでいる間にしか現れない、珍しい植物。\n\n場所：ムーンライト ドラゴンリリーは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "日の沈んでいる間にしか現れない、珍しい植物。\n\n場所：地球上に自生しているムーンライト ドラゴンリリーを採取",
         "name": "ムーンライト ドラゴンリリー",
         "code": "ja"
       },
       {
-        "description": "Tę niepospolitą roślinę można znaleźć tylko w czasie nocy. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Księżycowa Smocza Lilia, którą znaleźć można w lasach na Ziemi",
+        "description": "Tę niepospolitą roślinę można znaleźć tylko w czasie nocy. \n\nPołożenie: Zdobywana przez podniesienie Księżycowej Smoczej Lilii, którą znaleźć można w lasach na Ziemi",
         "name": "Księżycowa Smocza Lilia",
         "code": "pl"
       },
       {
-        "description": "Esta planta incomum só pode ser encontrada à noite. \n\nLocalização: obtida ao utilizar um Escâner do Codex em um Lírio do Dragão Noturno, na Terra.",
+        "description": "Esta planta incomum só pode ser encontrada à noite. \n\nLocalização: obtida ao coletar Lírios do Dragão Noturno, na Terra.",
         "name": "Lírio do Dragão Noturno",
         "code": "pt"
       },
       {
-        "description": "這種罕見的植物只能在夜間找到。\n\n地點：透過對生長在地球上的月光龍百合植物使用資料庫掃描器來取得",
+        "description": "這種罕見的植物只能在夜間找到。\n\n地點：透過採集生長在地球上的月光龍百合植物取得",
         "name": "月光龍百合",
         "code": "tc"
       },
       {
-        "description": "พืชที่ไม่ธรรมดาชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นลิลลี่มังกรแสงจันทร์ที่เติบโตบนโลก",
+        "description": "พืชที่ไม่ธรรมดาชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นลิลลี่มังกรแสงจันทร์ที่เติบโตบนโลก",
         "name": "ลิลลี่มังกรแสงจันทร์",
         "code": "th"
       },
       {
-        "description": "Bu nadir olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Dragonlily bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu nadir olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Dragonlily bitkisi toplanarak elde edilebilir",
         "name": "Moonlight Dragonlily",
         "code": "tr"
       },
       {
-        "description": "Незвичайна рослина, яку можна знайти лише вночі й зібрати за допомогою зчитування нічної драколілії.\n\nМожна здобути на Землі.",
+        "description": "Незвичайна рослина, яку можна знайти лише вночі й зібрати з нічної драколілії.\n\nМожна здобути на Землі.",
         "name": "Нічна драколілія",
         "code": "uk"
       }
@@ -9675,75 +9753,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moonlight-jadeleaf-619d6ad934.png",
     "name": "Moonlight Jadeleaf",
-    "description": "This rare plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Jadeleaf plants that grow on Earth",
+    "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese seltene Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Mondlicht Jadeblättern nutzt, die auf der Erde wachsen.",
+        "description": "Diese seltene Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Mondlicht Jadeblättern, die auf der Erde wachsen.",
         "name": "Mondlicht Jadeblatt",
         "code": "de"
       },
       {
-        "description": "Cette plante rare ne peut être trouvée que pendant la nuit. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Jadeleafs de Nuit qui poussent sur Terre",
+        "description": "Cette plante rare ne peut être trouvée que pendant la nuit. \n\nLieu: obtenue en récoltant des Jadeleafs de Nuit qui poussent sur Terre",
         "name": "Jadeleaf de Nuit",
         "code": "fr"
       },
       {
-        "description": "Questa pianta rara può essere trovata solo di notte. \n\nPosizione: Utilizzando un Codex Scanner sulle Piante Jadeleaf Notturno che crescono sulla Terra",
+        "description": "Questa pianta rara può essere trovata solo di notte. \n\nPosizione: Ottenuta raccogliendo le Piante Jadeleaf Notturno che crescono sulla Terra",
         "name": "Jadeleaf Notturno",
         "code": "it"
       },
       {
-        "description": "밤에만 발견 할 수 있는 귀한 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 문라이트 제이드리프 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다.",
+        "description": "This rare plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Jadeleaf plants that grow on Earth",
         "name": "문라이트 제이드리프",
         "code": "ko"
       },
       {
-        "description": "Esta planta rara sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de hoja de jade lunar que crecen en la Tierra.",
+        "description": "Esta planta rara sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene recolectando las plantas de hoja de jade lunar que crecen en la Tierra",
         "name": "Hoja de Jade Lunar",
         "code": "es"
       },
       {
-        "description": "这种稀有的植物只能在夜晚找到。 \n\n获取地点：通过对地球上生长的月光玉叶植物使用资料库扫描器获得。",
+        "description": "这种稀有的植物只能在黑夜找到。 \n\n获取地点：通过采集地球上生长的月光玉叶植物获得。",
         "name": "月光玉叶",
         "code": "zh"
       },
       {
-        "description": "Это редкое растение можно увидеть только ночью. \n\nМестонахождение: Можно получить с помощью сканирования лунного зеленоцвета, который растёт на Земле.",
+        "description": "Это редкое растение можно увидеть только ночью. \n\nМестонахождение: Лунный зеленоцвет растёт на Земле",
         "name": "Лунный зеленоцвет",
         "code": "ru"
       },
       {
-        "description": "日の沈んでいる間にしか現れない、非常にまれな植物。\n\n場所：ムーンライト ジェイドリーフは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "日の沈んでいる間にしか現れない、非常にまれな植物。\n\n場所：地球上に自生しているムーンライト ジェイドリーフを採取",
         "name": "ムーンライト ジェイドリーフ",
         "code": "ja"
       },
       {
-        "description": "Tę rzadką roślinę można znaleźć tylko w czasie nocy. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Księżycowy Jadeitowy Liść, którą znaleźć można w lasach na Ziemi",
+        "description": "Tę rzadką roślinę można znaleźć tylko w czasie nocy. \n\nPołożenie: Zdobywana przez podniesienie Księżycowego Jadeitowego Liścia, który znaleźć można w lasach na Ziemi",
         "name": "Księżycowy Jadeitowy Liść",
         "code": "pl"
       },
       {
-        "description": "Esta planta rara só poderá ser encontrada à noite. \n\nLocalização: obtida ao utilizar um Escâner do Codex em uma Folha de Jade Noturna, na Terra.",
+        "description": "Esta planta rara só poderá ser encontrada à noite. \n\nLocalização: obtida ao coletar Folhas de Jade Noturna, na Terra.",
         "name": "Folha de Jade Noturna",
         "code": "pt"
       },
       {
-        "description": "這種稀有的植物只能在夜間找到。\n\n地點：透過對生長在地球上的月光玉葉植物使用資料庫掃描器來取得",
+        "description": "這種稀有的植物只能在夜間找到。\n\n地點：透過採集生長在地球上的月光玉葉植物取得",
         "name": "月光玉葉",
         "code": "tc"
       },
       {
-        "description": "พืชหายากชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นใบหยกแสงจันทร์ที่เติบโตบนโลก",
+        "description": "พืชหายากชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นใบหยกแสงจันทร์ที่เติบโตบนโลก",
         "name": "ใบหยกแสงจันทร์",
         "code": "th"
       },
       {
-        "description": "Bu nadir olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Jadeleaf bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu ender olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Jadeleaf bitkisi toplanarak elde edilebilir",
         "name": "Moonlıght Jadeleaf",
         "code": "tr"
       },
       {
-        "description": "Рідкісна рослина, яку можна знайти лише вночі й зібрати за допомогою зчитування нічного нефритолиста.\n\nМожна здобути на Землі.",
+        "description": "Рідкісна рослина, яку можна знайти лише вночі й зібрати з нічного нефритолиста.\n\nМожна здобути на Землі.",
         "name": "Нічний нефритолист",
         "code": "uk"
       }
@@ -9753,75 +9831,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moonlight-threshcone-4b4540893f.png",
     "name": "Moonlight Threshcone",
-    "description": "This common plant can only be found at night. \n\nLocation: Obtained by using a Codex Scanner on Moonlight Threshcone plants that grow on Earth",
+    "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese gewöhnliche Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Mondlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
+        "description": "Diese gewöhnliche Pflanze kann nur nachts gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Mondlicht Dreschzapfen, die auf der Erde wachsen.",
         "name": "Mondlicht Dreschzapfen",
         "code": "de"
       },
       {
-        "description": "Cette plante commune ne peut être trouvée que pendant la nuit. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Threshcones de Nuit qui poussent sur Terre",
+        "description": "Cette plante commune ne peut être trouvée que pendant la nuit. \n\nLieu: obtenue en récoltant des Threshcones de Nuit qui poussent sur Terre",
         "name": "Threshcone de Nuit",
         "code": "fr"
       },
       {
-        "description": "Questa pianta comune può essere trovata solo di notte. \n\nPosizione: Utilizzando un Codex Scanner sulle Piante Threshcone Notturno che crescono sulla Terra",
+        "description": "Questa pianta comune può essere trovata solo di notte. \n\nPosizione: Ottenuta raccogliendo le Piante Threshcone Notturno che crescono sulla Terra",
         "name": "Threshcone Notturno",
         "code": "it"
       },
       {
-        "description": "밤에만 발견할 수 있는 흔한 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 문라이트 쓰레쉬콘 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "This common plant can only be found at night. \n\nLocation: Obtained by gathering Moonlight Threshcone plants that grow on Earth",
         "name": "문라이트 쓰레쉬콘",
         "code": "ko"
       },
       {
-        "description": "Esta planta común sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de cono trillado lunar que crecen en la Tierra",
+        "description": "Esta planta común sólo se puede encontrar en la noche. \n\nUbicación: Se obtiene recolectando las plantas de cono trillado lunar que crecen en la Tierra",
         "name": "Cono Trillado Lunar",
         "code": "es"
       },
       {
-        "description": "这种常见的植物只能在夜晚找到。 \n\n获取地点：通过对地球上生长的月光去壳毬果植物使用资料库扫描器获得。",
+        "description": "这种常见的植物只能在黑夜找到。\n\n获取地点：通过采集地球上生长的月光去壳毬果植物获得。",
         "name": "月光去壳毬果",
         "code": "zh"
       },
       {
-        "description": "Это обычное растение можно увидеть только ночью. \n\nМестонахождение: Можно получить с помощью сканирования лунного зерномола, который растёт на Земле",
+        "description": "Это обычное растение можно увидеть только ночью. \n\nМестонахождение: Лунный зерномол растёт на Земле",
         "name": "Лунный зерномол",
         "code": "ru"
       },
       {
-        "description": "このありふれた植物は夜に見かける。\n\n場所：ムーンライト スレッシュコーンは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "このありふれた植物は夜に見かける。\n\n場所：地球上に自生しているムーンライト スレッシュコーンを採取",
         "name": "ムーンライト スレッシュコーン",
         "code": "ja"
       },
       {
-        "description": "Tę pospolitą roślinę można znaleźć tylko w czasie nocy.\n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Księżycowa Szyszka, którą znaleźć można w lasach na Ziemi",
+        "description": "Tę pospolitą roślinę można znaleźć tylko w czasie nocy.\n\nPołożenie: Zdobywana przez podniesienie Księżycowej Szyszki, którą znaleźć można w lasach na Ziemi",
         "name": "Księżycowa Szyszka",
         "code": "pl"
       },
       {
-        "description": "Esta planta comum só pode ser encontrada à noite. \n\nLocalização: obtida ao utilizar um Escâner do Codex em uma Pinha Noturna, na Terra.",
+        "description": "Esta planta comum só pode ser encontrada à noite. \n\nLocalização: obtida ao coletar Pinhas Noturnas, na Terra.",
         "name": "Pinha Noturna",
         "code": "pt"
       },
       {
-        "description": "這種常見的植物只能在夜間找到。\n\n地點：透過對生長在地球上的月光去殼毬果植物使用資料庫掃描器來取得",
+        "description": "這種常見的植物只能在夜間找到。\n\n地點：透過採集生長在地球上的月光去殼毬果植物取得",
         "name": "月光去殼毬果",
         "code": "tc"
       },
       {
-        "description": "พืชทั่วไปชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นเธรสโคนส์แสงจันทร์ที่เติบโตบนโลก",
+        "description": "พืชทั่วไปชนิดนี้จะพบได้เฉพาะในตอนกลางคืนเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นเธรสโคนส์แสงจันทร์ที่เติบโตบนโลก",
         "name": "เธรสโคนส์แสงจันทร์",
         "code": "th"
       },
       {
-        "description": "Bu yaygın olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Threshcone bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu yaygın olarak bulunabilen bitki sadece geceleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Moonlight Threshcone bitkisi toplanarak elde edilebilir",
         "name": "Moonlıght Threshcone",
         "code": "tr"
       },
       {
-        "description": "Звичайна рослина, яку можна знайти лише вночі й зібрати за допомогою зчитування нічної шишки.\n\nМожна здобути на Землі.",
+        "description": "Звичайна рослина, яку можна знайти лише вночі й зібрати з нічної шишки.\n\nМожна здобути на Землі.",
         "name": "Нічна шишка",
         "code": "uk"
       }
@@ -10523,7 +10601,7 @@
         "code": "tr"
       },
       {
-        "description": "Ця експериментальна матриця перетворює енергію Порожнечі у високу напругу з низьким струмом.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "Ця експериментальна матриця перетворює енергію Порожнечі у високу напругу з низьким струмом.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Некракотушка",
         "code": "uk"
       }
@@ -11673,7 +11751,7 @@
         "code": "pl"
       },
       {
-        "description": "Um crescimento parasitário que, constantemente, infecta as unidades Eximus durante os seus trabalhos em zonas infestadas.\n\nLocalização: Eris",
+        "description": "Um crescimento parasitário que, constantemente, infecta as unidades Eximus durante os seus trabalhos em zonas infestadas.\n\nLocalização: Éris",
         "name": "Pústrulas",
         "code": "pt"
       },
@@ -12249,75 +12327,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ruk's-claw-e1bc050e85.png",
     "name": "Ruk's Claw",
-    "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by using a Codex Scanner on Ruk's Claw plants that grow on Mars",
+    "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
     "languages": [
       {
-        "description": "Diese Pflanze wurde in ausgedörrten Regionen überall im Ursprungssystem eingeführt, da sie Feuchtigkeit auch in rauen Gebieten sammeln kann.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Ruks Klaue nutzt, die auf dem Mars wachsen.",
+        "description": "Diese Pflanze wurde in ausgedörrten Regionen überall im Ursprungssystem eingeführt, da sie Feuchtigkeit auch in rauen Gebieten sammeln kann.\n\nQuelle: Erhältlich durch das Sammeln von Ruks Klauen, die auf dem Mars wachsen.",
         "name": "Ruks Klaue",
         "code": "de"
       },
       {
-        "description": "Cette plante a été introduite dans les régions arides à travers le Système Origine pour sa capacité à récupérer l'humidité dans des environnements difficiles.\n\nLieu: Sur Mars. Utiliser un Scanneur du Codex sur les plantes Griffes de Ruk",
+        "description": "Cette plante a été introduite dans les régions arides à travers le Système Origine pour sa capacité à récupérer l'humidité dans des environnements difficiles.\n\nLieu: obtenue en récoltant des Griffes de Ruk sur Mars",
         "name": "Griffe de Ruk",
         "code": "fr"
       },
       {
-        "description": "Questa pianta fu introdotta nelle regioni aride del Sistema Origin per la sua abilità di assorbire l'umidità in ambienti ostili. \n\nPosizione: Ottenuta utilizzando un Codex Scanner sulle Piante Artiglio di Ruk che crescono su Marte",
+        "description": "Questa pianta fu introdotta nelle regioni aride del Sistema Origin per la sua abilità di assorbire l'umidità in ambienti ostili. \n\nPosizione: Ottenuta raccogliendo le Piante Artiglio di Ruk che crescono su Marte",
         "name": "Artiglio di Ruk",
         "code": "it"
       },
       {
-        "description": "이 식물은 열악한 환경에서도 수분을 모으는 능력때문에 근원계 전반의 건조한 지역에 도입되었습니다. \n\n획득 가능 장소: 화성에서 자라는 럭스 클로 식물에 코덱스 스캐너를 사용해 획득할 수 있습니다",
+        "description": "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments. \n\nLocation: Obtained by gathering Ruk's Claw plants that grow on Mars",
         "name": "럭스 클로",
         "code": "ko"
       },
       {
-        "description": "Esta planta se introdujo en las regiones áridas del Sistema Origen por su capacidad para recolectar humedad en ambientes hostiles. \n\nUbicación: Se obtiene usando un escáner de códice en las plantas de garra de Ruk que crecen en Marte",
+        "description": "Esta planta se introdujo en las regiones áridas del Sistema Origen por su capacidad para recolectar humedad en ambientes hostiles. \n\nUbicación: Se obtiene recolectando las plantas de garra de Ruk que crecen en Marte",
         "name": "Garra de Ruk",
         "code": "es"
       },
       {
-        "description": "这种植物被引进遍布于始源星系的干旱地带，储存水分的能力使其得以对抗严酷的环境。 \n\n获取地点：通过扫描器扫描生长在火星的 Ruk 之爪以获取",
+        "description": "这种植物被引进遍布于始源星系的干旱地带，储存水分的能力使其得以对抗严酷的环境。 \n\n获取地点：通过采集生长在火星的 Ruk 之爪植物获得",
         "name": "Ruk 之爪",
         "code": "zh"
       },
       {
-        "description": "Это растение используют в засушливых районах Изначальной системы, так как оно способно собирать влагу в различных неблагоприятных условиях.\n\nМестонахождение: Можно получить с помощью сканера Кодекса на растениях «Коготь рука», растущих на Марсе.",
+        "description": "Это растение используют в засушливых районах Изначальной системы, так как оно способно собирать влагу в различных неблагоприятных условиях.\n\nМестонахождение: Коготь рука растёт на Марсе.",
         "name": "Коготь Рука",
         "code": "ru"
       },
       {
-        "description": "どのような環境でも水分を吸収することが可能であり、Origin太陽系の荒地に植えられた。 \n\n場所：火星（ルック・クロウをコーデックススキャナーでスキャンして入手）",
+        "description": "どのような環境でも水分を吸収することが可能であり、Origin太陽系の荒地に植えられた。 \n\n場所：火星に自生するルック・クロウを採取",
         "name": "ルックス・クロー",
         "code": "ja"
       },
       {
-        "description": "Ta roślina została zasadzona na pustynnych terenach w całym Systemie Orokin, jej największą zaletą jest zdolność skraplania pary wodnej z powietrza. \n\nPołożenie: Może zostać zdobyta przez użycie Skanera Kodeksu na roślinach Ruko-Szpon na Marsie",
+        "description": "Ta roślina została zasadzona na pustynnych terenach w całym Systemie Orokin, jej największą zaletą jest zdolność skraplania pary wodnej z powietrza. \n\nPołożenie: Zdobywana przez podniesienie Ruko-Szponów na Marsie.",
         "name": "Ruko-Szpon",
         "code": "pl"
       },
       {
-        "description": "Esta planta foi introduzida em regiões áridas do Sistema de Origem devido à sua capacidade de absorver umidade em ambientes hostis. \n\nLocalização: obtida ao utilizar um Escâner do Codex na planta Garra de Ruk, que cresce em Marte.",
+        "description": "Esta planta foi introduzida em regiões áridas do Sistema de Origem devido à sua capacidade de absorver umidade em ambientes hostis. \n\nLocalização: obtida ao coletar Garras de Ruk, que crescem em Marte.",
         "name": "Garra de Ruk",
         "code": "pt"
       },
       {
-        "description": "這種植物被引入遍佈於始源星系的乾旱地帶，儲存水分的能力使其得以對抗嚴酷的環境。\n\n地點：透過對生長在火星上的 Ruk 之爪植物使用資料庫掃描器來取得",
+        "description": "這種植物被引入遍佈於始源星系的乾旱地帶，儲存水分的能力使其得以對抗嚴酷的環境。\n\n地點：透過採集生長在火星上的 Ruk 之爪植物取得",
         "name": "Ruk 之爪",
         "code": "tc"
       },
       {
-        "description": "พืชชนิดนี้ถูกนำเข้ามาไว้ในพื้นที่แห้งแล้งทั่วทั้งระบบออริจิน เนื่องจากมีความสามารถในการเก็บกักความชื้นในสภาพแวดล้อมที่เลวร้าย \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นกรงเล็บของ Ruk ที่ขึ้นบนดาวอังคาร",
+        "description": "พืชชนิดนี้ถูกนำเข้ามาไว้ในพื้นที่แห้งแล้งทั่วทั้งระบบออริจิน เนื่องจากมีความสามารถในการเก็บกักความชื้นในสภาพแวดล้อมที่เลวร้าย \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นกรงเล็บของ Ruk ที่ขึ้นบนดาวอังคาร",
         "name": "กรงเล็บของ Ruk",
         "code": "th"
       },
       {
-        "description": "Bu bitki, zor yaşam şartlarında bile nem toplayabilme özelliği ile Origin Sistemi'ndeki kurak bölgelere yayılmıştır. \n\nKonum: Mars'ta yetişen Ruk's Claw bitkileri üzerinde Kodeks Tarayıcısı kullanılarak elde edilir",
+        "description": "Bu bitki, zor yaşam şartlarında bile nem toplayabilme özelliği ile Origin Sistemi'ndeki kurak bölgelere yayılmıştır. \n\nKonum: Mars'ta yetişen Ruk's Claw bitkileri toplanarak elde edilir",
         "name": "Ruk's Claw",
         "code": "tr"
       },
       {
-        "description": "Цю рослину завезли в посушливі райони по всій Материнській системі, оскільки вона має здібність накопичувати вологу в найсуворішому навколишньому середовищі.\n\nМожна здобути за допомогою використання зчитувача збірника знань на кігтеві Рука, що росте на Марсі.",
+        "description": "Цю рослину завезли в посушливі райони по всій Материнській системі, оскільки вона має здібність накопичувати вологу в найсуворішому навколишньому середовищі.\n\nМожна здобути збиранням кігтів Рука, що росте на Марсі.",
         "name": "Кіготь Рука",
         "code": "uk"
       }
@@ -12553,6 +12631,84 @@
       {
         "description": "Рідкісний представник ери орокінів, якого можна й досі знайти під час патрулювання глибинних камер ізоляції під поверхнею Деймоса.\n\nМожна знайти в Кембіонській течії (Деймос).",
         "name": "Зцинтилянт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemB",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scuttler-husk-5227c288ac.png",
+    "name": "Scuttler Husk",
+    "description": "A remnant of battle with Oraxia, the spider that once wore this skin is gone… though it is not easy to tell where.\n\nObtained by defeating Oraxia in Isleweaver missions (Duviri)",
+    "languages": [
+      {
+        "description": "Ein Überbleibsel des Kampfes mit Oraxia. Die Spinne, die einst diese Haut trug, ist verschwunden ... obwohl es nicht leicht zu sagen ist, wohin.\n\nZu erhalten durch das Besiegen von Oraxia in Inselweber-Missionen (Duviri)",
+        "name": "Krabbler-Hülle",
+        "code": "de"
+      },
+      {
+        "description": "Un vestige de la bataille avec Oraxia; l'araignée qui portait autrefois cette peau a disparu... bien qu'il ne soit pas facile de dire où.\n\nObtenu en battant Oraxia dans les missions de Toile Insulaire (Duviri)",
+        "name": "Carapace d'Écumeuse",
+        "code": "fr"
+      },
+      {
+        "description": "Un residuo della battaglia con Oraxia, il ragno che un tempo indossava questa pelle, è ora scomparso… anche se non è facile dire dove sia andata.\n\nOttenuto sconfiggendo Oraxia nelle missioni Tessitrice di Isole (Duviri)",
+        "name": "Guscio di Scuttler",
+        "code": "it"
+      },
+      {
+        "description": "오락시아와의 전투에서 남은 잔해입니다. 이 껍데기를 입었던 거미는 사라지고 없군요... 어디로 갔는지는 알기 어렵지만 말입니다.\n\n섬을 엮는 자 미션 (두비리) 에서 오락시아를 처치해 획득할 수 있습니다.",
+        "name": "스커틀러 껍데기",
+        "code": "ko"
+      },
+      {
+        "description": "Un vestigio de la batalla contra Oraxia, la araña que una vez usó esta piel y que ha desaparecido… aunque no es fácil decir a dónde.\n\nSe obtiene al derrotar a Oraxia en las misiones de «Tejedora de Islas» (Duviri)",
+        "name": "Caparazón arácnido",
+        "code": "es"
+      },
+      {
+        "description": "与 Oraxia 战斗留下的残骸，曾经穿着这外壳的蜘蛛已经不见了……然而它的去向不得而知。\n\n在《织屿人》任务（双衍王境）中击败 Oraxia 获得",
+        "name": "急行蛛外壳",
+        "code": "zh"
+      },
+      {
+        "description": "Напоминание о битве с Ораксией. Паучиха, которой это принадлежало, исчезла… и очень сложно сказать куда.\n\nМожно получить за убийство Ораксии при выполнении миссий в локации «Плетельщица островов» в Дувири.",
+        "name": "Панцирь Скаттлера",
+        "code": "ru"
+      },
+      {
+        "description": "Oraxiaとの戦いの名残で、かつてこの外殻をまとっていた蜘蛛はいなくなった…　が、どこへ行ったかは定かではない。\n\n島々を織りしものミッション（デュヴィリ）でOraxiaを倒すことで入手。",
+        "name": "ハッチリングの外殻",
+        "code": "ja"
+      },
+      {
+        "description": "Pozostałość po walce z Oraxią. Pająk, który kiedyś nosił tę skórę, zniknął… i ciężko powiedzieć gdzie.\n\nMogą zostać zdobyte przez pokonanie Oraxii w misji Tkaczki Światów (Duviri)",
+        "name": "Wylinka Pajęczaka",
+        "code": "pl"
+      },
+      {
+        "description": "Um resquício da batalha com a Oraxia, a aranha que antes usava esta carapaça se foi… embora não seja fácil dizer para onde.\n\nLocalização: obtido ao derrotar a Oraxia em missões da Tecelã Insular, em Duviri.",
+        "name": "Carapaça de Rastejador",
+        "code": "pt"
+      },
+      {
+        "description": "與 Oraxia 一戰遺留的殘餘物，那隻曾披覆這層外殼的蜘蛛早已消失……至於去了哪裡，無從得知。\n\n透過織島者任務（渡域）的喃喃者取得",
+        "name": "蛛繭",
+        "code": "tc"
+      },
+      {
+        "description": "นี่คือเศษซากที่เหลือจากการต่อสู้กับ Oraxia แมงมุมที่เคยมีเปลือกนี้ห่อหุ้มตัวได้จากไปแล้ว… แต่ก็ยังบอกไม่ได้ว่าหายไปอยู่ที่ไหน\n\nรับไอเทมนี้ได้จากการเอาชนะ Oraxia ในภารกิจ Isleweaver (Duviri)",
+        "name": "เปลือก Scuttler",
+        "code": "th"
+      },
+      {
+        "description": "Oraxia ile yapılan savaşın bir kalıntısı olan bu kabuğu bir zamanlar giymiş olan örümcek artık yok… nereye gitmiş olduğu ise belirsiz.\n\nIsleweaver görevlerindeki Oraxia yok edilerek elde edilir (Duviri)",
+        "name": "Scuttler Kabuğu",
+        "code": "tr"
+      },
+      {
+        "description": "Нагадування про битву з Ораксією. Павук, якому це належало, зник… і дуже складно сказати куди.\n\nМожна здобути за здолання Ораксії під час виконання завдань «Ткалі островів» у Дувірі.",
+        "name": "Кокон павученяти",
         "code": "uk"
       }
     ]
@@ -12863,7 +13019,7 @@
         "code": "tr"
       },
       {
-        "description": "Крик мовою Порожнечі застиг у камені. Ключ до розгадки таємниць Шепоту.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "Крик мовою Порожнечі застиг у камені. Ключ до розгадки таємниць Шепоту.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Вока шрілл",
         "code": "uk"
       }
@@ -13565,7 +13721,7 @@
         "code": "tr"
       },
       {
-        "description": "Оповитий Порожнечею камінь містить зловісну сутність.\n\nМожна здобути в лабораторії Альбрехта на Деймосі.",
+        "description": "Оповитий Порожнечею камінь містить зловісну сутність.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
         "name": "Стела",
         "code": "uk"
       }
@@ -13575,75 +13731,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunlight-dragonlily-aaeb487cc1.png",
     "name": "Sunlight Dragonlily",
-    "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Dragonlily plants that grow on Earth",
+    "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese ungewöhnliche Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Sonnenlicht Drachenlilien nutzt, die auf der Erde wachsen.",
+        "description": "Diese ungewöhnliche Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Sonnenlicht Drachenlilien, die auf der Erde wachsen.",
         "name": "Sonnenlicht Drachenlilie",
         "code": "de"
       },
       {
-        "description": "Cette plante Inhabituelle ne peut être trouvée que pendant la journée. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Dragonlilys de Jour qui poussent sur Terre",
+        "description": "Cette plante inhabituelle ne peut être trouvée que pendant la journée. \n\nLieu: obtenue en récoltant des Dragonlilys de Jour qui poussent sur Terre",
         "name": "Dragonlily de Jour",
         "code": "fr"
       },
       {
-        "description": "Questa pianta non comune può essere trovata solo di giorno. \n\nPosizone: Utilizzando un Codex Scanner sulle Piante Dragonlily Diurno che crescono sulla Terra",
+        "description": "Questa pianta non comune può essere trovata solo di giorno. \n\nPosizione: Ottenuta raccogliendo le Piante Dragonlily Diurno che crescono sulla Terra",
         "name": "Dragonlily Diurno",
         "code": "it"
       },
       {
-        "description": "낮에만 발견할 수 있는 흔치 않은 식물입니다.\n\n획득 가능 장소: 지구에서 자라는 선라이트 드래곤릴리 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다.",
+        "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
         "name": "선라이트 드래곤릴리",
         "code": "ko"
       },
       {
-        "description": "Esta planta poco común sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de lirio de dragón solar que crecen en la Tierra.",
+        "description": "Esta planta poco común sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene recolectando las plantas de lirio de dragón solar que crecen en la Tierra",
         "name": "Lirio de Dragón Solar",
         "code": "es"
       },
       {
-        "description": "这种罕见的植物只能在白天找到。\n\n获取地点：通过对地球上生长的日光龙百合植物使用资料库扫描器获得。",
+        "description": "这种罕见的植物只能在白天找到。\n\n获取地点：通过采集地球上生长的日光龙百合植物获得。",
         "name": "日光龙百合",
         "code": "zh"
       },
       {
-        "description": "Это необычное растение можно увидеть только днём. \n\nМестонахождение: Можно получить с помощью сканирования солнечной драконьей лилии, которая растёт на Земле.",
+        "description": "Это необычное растение можно увидеть только днём. \n\nМестонахождение: Солнечная драконья лилия растёт на Земле.",
         "name": "Солнечная драконья лилия",
         "code": "ru"
       },
       {
-        "description": "日の沈んでいる間にしか現れない、珍しい植物。\n\n場所：サンライト ドラゴンリリーは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "日の沈んでいる間にしか現れない、珍しい植物。\n\n場所：地球上に自生しているサンライト ドラゴンリリーを採取",
         "name": "サンライト ドラゴンリリー",
         "code": "ja"
       },
       {
-        "description": "Tę niepospolitą roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Słoneczna Smocza Lilia, którą znaleźć można w lasach na Ziemi.",
+        "description": "Tę niepospolitą roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez podniesienie Słonecznej Smoczej Lilii, którą znaleźć można w lasach na Ziemi.",
         "name": "Słoneczna Smocza Lilia",
         "code": "pl"
       },
       {
-        "description": "Esta planta incomum só pode ser encontrada durante o dia. \n\nLocalização: obtida ao utilizar um Escâner do Codex em um Lírio do Dragão Diurno, na Terra.",
+        "description": "Esta planta incomum só pode ser encontrada durante o dia. \n\nLocalização: obtida ao coletar Lírios do Dragão Diurno, na Terra.",
         "name": "Lírio do Dragão Diurno",
         "code": "pt"
       },
       {
-        "description": "這種罕見的植物只能在白天找到。 \n\n地點：透過對生長在地球上的日光龍百合植物使用資料庫掃描器來取得",
+        "description": "這種罕見的植物只能在白天找到。 \n\n地點：透過採集生長在地球上的日光龍百合植物取得",
         "name": "日光龍百合",
         "code": "tc"
       },
       {
-        "description": "พืชที่ไม่ธรรมดาชนิดนี้สามารถพบได้ในช่วงกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นลิลลี่มังกรแสงตะวันที่เติบโตบนโลก",
+        "description": "พืชที่ไม่ธรรมดาชนิดนี้สามารถพบได้ในช่วงกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นลิลลี่มังกรแสงตะวันที่เติบโตบนโลก",
         "name": "ลิลลี่มังกรแสงตะวัน",
         "code": "th"
       },
       {
-        "description": "Bu nadir olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Dragonlily bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu nadir olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Dragonlily bitkisi toplanarak elde edilebilir",
         "name": "Sunlıght Dragonlıly",
         "code": "tr"
       },
       {
-        "description": "Незвичайна рослина, яку можна знайти лише вдень і зібрати за допомогою зчитування денної драколілії.\n\nМожна здобути на Землі.",
+        "description": "Незвичайна рослина, яку можна знайти лише вдень і зібрати з денної драколілії.\n\nМожна здобути на Землі.",
         "name": "Денна драколілія",
         "code": "uk"
       }
@@ -13653,75 +13809,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunlight-jadeleaf-db857bb828.png",
     "name": "Sunlight Jadeleaf",
-    "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Jadeleaf plants that grow on Earth",
+    "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese seltene Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich, indem man Codex-Scanner bei Sonnenlicht Jadeblättern nutzt, die auf der Erde wachsen.",
+        "description": "Diese seltene Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Sonnenlicht Jadeblättern, die auf der Erde wachsen.",
         "name": "Sonnenlicht Jadeblatt",
         "code": "de"
       },
       {
-        "description": "Cette plante rare ne peut être trouvée que pendant la journée. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Jadeleafs de Jour qui poussent sur Terre",
+        "description": "Cette plante rare ne peut être trouvée que pendant la journée. \n\nLieu: obtenue en récoltant des Jadeleafs de Jour qui poussent sur Terre",
         "name": "Jadeleaf de Jour",
         "code": "fr"
       },
       {
-        "description": "Questa pianta rara può essere trovata solo di giorno. \n\nPosizione: Utilizzando un Codex Scanner sulle Piante Jadeleaf Diurno che crescono sulla Terra",
+        "description": "Questa pianta rara può essere trovata solo di giorno. \n\nPosizione: Ottenuta raccogliendo le Piante Jadeleaf Diurno che crescono sulla Terra",
         "name": "Jadeleaf Diurno",
         "code": "it"
       },
       {
-        "description": "낮에만 발견할 수 있는 귀한 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 선라이트 제이드리프 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
         "name": "선라이트 제이드리프",
         "code": "ko"
       },
       {
-        "description": "Esta planta rara sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de hoja de jade solar que crecen en la Tierra",
+        "description": "Esta planta rara sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene recolectando las plantas de hoja de jade solar que crecen en la Tierra",
         "name": "Hoja de Jade Solar",
         "code": "es"
       },
       {
-        "description": "这种稀有的植物只能在白天找到。 \n\n获取地点：通过对地球上生长的日光玉叶植物使用资料库扫描器获得。",
+        "description": "这种稀有的植物只能在白天找到。 \n\n获取地点：通过采集地球上生长的日光玉叶植物获得。",
         "name": "日光玉叶",
         "code": "zh"
       },
       {
-        "description": "Это редкое растение можно увидеть только днём. \n\nМестонахождение: Можно получить с помощью сканирования солнечного зеленоцвета, который растёт на Земле",
+        "description": "Это редкое растение можно увидеть только днём.\n\nМестонахождение: Солнечный зеленоцвет растёт на Земле.",
         "name": "Солнечный зеленоцвет",
         "code": "ru"
       },
       {
-        "description": "日の出ている間にしか現れない、非常にまれな植物。\n\n場所：サンライト ジェイドリーフは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "日の出ている間にしか現れない、非常にまれな植物。\n\n場所：地球上に自生しているサンライト ジェイドリーフを採取",
         "name": "サンライト ジェイドリーフ",
         "code": "ja"
       },
       {
-        "description": "Tę rzadką roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Słoneczny Jadeitowy Liść, którą znaleźć można w lasach na Ziemi",
+        "description": "Tę rzadką roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez podniesienie Słonecznego Jadeitowego Liścia, który znaleźć można w lasach na Ziemi",
         "name": "Słoneczny Jadeitowy Liść",
         "code": "pl"
       },
       {
-        "description": "Esta planta rara só pode ser encontrada durante o dia. \n\nLocalização: obtida ao utilizar um Escâner do Codex em uma Folha de Jade Diurna, na Terra.",
+        "description": "Esta planta rara só pode ser encontrada durante o dia. \n\nLocalização: obtida ao coletar Folhas de Jade Diurna, na Terra.",
         "name": "Folha de Jade Diurna",
         "code": "pt"
       },
       {
-        "description": "這種稀有的植物只能在白天找到。\n\n地點：透過對生長在地球上的日光玉葉植物使用資料庫掃描器來取得",
+        "description": "這種稀有的植物只能在白天找到。\n\n地點：透過採集生長在地球上的日光玉葉植物取得",
         "name": "日光玉葉",
         "code": "tc"
       },
       {
-        "description": "พืชหายากชนิดนี้จะพบได้เฉพาะในตอนกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นใบหยกแสงตะวันที่เติบโตบนโลก",
+        "description": "พืชหายากชนิดนี้จะพบได้เฉพาะในตอนกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นใบหยกแสงตะวันที่เติบโตบนโลก",
         "name": "ใบหยกแสงตะวัน",
         "code": "th"
       },
       {
-        "description": "Bu nadir bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Jadeleaf bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu ender olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Jadeleaf bitkisi toplanarak elde edilebilir",
         "name": "Sunlıght Jadeleaf",
         "code": "tr"
       },
       {
-        "description": "Рідкісна рослина, яку можна знайти лише вдень і зібрати за допомогою зчитування денного нефритолиста.\n\nМожна здобути на Землі.",
+        "description": "Рідкісна рослина, яку можна знайти лише вдень і зібрати з денного нефритолиста.\n\nМожна здобути на Землі.",
         "name": "Денний нефритолист",
         "code": "uk"
       }
@@ -13731,75 +13887,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunlight-threshcone-b0e6273f84.png",
     "name": "Sunlight Threshcone",
-    "description": "This common plant can only be found during the day. \n\nLocation: Obtained by using a Codex Scanner on Sunlight Threshcone plants that grow on Earth",
+    "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
     "languages": [
       {
-        "description": "Diese gewöhnliche Pflanze kann nur tagsüber gefunden werden. \n\nQuelle: Erhältlich, indem man Codex-Scanner bei Sonnenlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
+        "description": "Diese gewöhnliche Pflanze kann nur tagsüber gefunden werden. \n\nQuelle: Erhältlich durch das Sammeln von Sonnenlicht Dreschzapfen, die auf der Erde wachsen.",
         "name": "Sonnenlicht Dreschzapfen",
         "code": "de"
       },
       {
-        "description": "Cette plante commune ne peut être trouvée que pendant la journée. \n\nLieu: Obtenue en utilisant un Scanneur du Codex sur les Threshcones de Jour qui poussent sur Terre",
+        "description": "Cette plante commune ne peut être trouvée que pendant la journée. \n\nLieu: obtenue en récoltant des Threshcones de Jour qui poussent sur Terre",
         "name": "Threshcone de Jour",
         "code": "fr"
       },
       {
-        "description": "Questa pianta comune può essere trovata solo di giorno. \n\nPosizone: Utilizzando un Codex Scanner sulle Piante Threshcone Diurno che crescono sulla Terra",
+        "description": "Questa pianta comune può essere trovata solo di giorno. \n\nPosizione: Ottenuta raccogliendo le Piante Threshcone Diurno che crescono sulla Terra",
         "name": "Threshcone Diurno",
         "code": "it"
       },
       {
-        "description": "낮에만 발견할 수 있는 흔한 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 선라이트 쓰레쉬콘 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "This common plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Threshcone plants that grow on Earth",
         "name": "선라이트 쓰레쉬콘",
         "code": "ko"
       },
       {
-        "description": "Esta planta común sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de cono trillado solar que crecen en la Tierra",
+        "description": "Esta planta común sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene recolectando las plantas de cono trillado solar que crecen en la Tierra",
         "name": "Cono Trillado Solar",
         "code": "es"
       },
       {
-        "description": "这种常见的植物只能在白天找到。\n\n获取地点：通过对地球上生长的日光去壳毬果植物使用资料库扫描器获得。",
+        "description": "这种常见的植物只能在白天找到。\n\n获取地点：通过采集地球上生长的日光去壳毬果植物获得。",
         "name": "日光去壳毬果",
         "code": "zh"
       },
       {
-        "description": "Это обычное растение можно увидеть только днём. \n\nМестонахождения: Можно получить с помощью сканирования солнечного зерномола, который растёт на Земле",
+        "description": "Это обычное растение можно увидеть только днём. \n\nМестонахождения: Солнечный зерномол можно собрать на Земле.",
         "name": "Солнечный зерномол",
         "code": "ru"
       },
       {
-        "description": "このありふれた植物は昼に見かける。\n\n場所：サンライト スレッシュコーンは地球上に自生し、コーデックススキャナーでスキャンすると入手できる。",
+        "description": "このありふれた植物は昼に見かける。\n\n場所：地球上に自生しているサンライト スレッシュコーンを採取",
         "name": "サンライト スレッシュコーン",
         "code": "ja"
       },
       {
-        "description": "Tę pospolitą roślinę można znaleźć tylko w czasie dnia.\n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Słoneczna Szyszka, którą znaleźć można w lasach na Ziemi",
+        "description": "Tę pospolitą roślinę można znaleźć tylko w czasie dnia.\n\nPołożenie: Zdobywana przez podniesienie Słonecznej Szyszki, którą znaleźć można w lasach na Ziemi",
         "name": "Słoneczna Szyszka",
         "code": "pl"
       },
       {
-        "description": "Esta planta comum só pode ser encontrada durante o dia. \n\nLocalização: obtida ao utilizar um Escâner do Codex em Pinhas Diurnas, na Terra.",
+        "description": "Esta planta comum só pode ser encontrada durante o dia. \n\nLocalização: obtida ao coletar Pinhas Diurnas, na Terra.",
         "name": "Pinha Diurna",
         "code": "pt"
       },
       {
-        "description": "這種常見的植物只能在白天找到。\n\n地點：透過對生長在地球上的日光去殼毬果植物使用資料庫掃描器來取得",
+        "description": "這種常見的植物只能在白天找到。\n\n地點：透過採集生長在地球上的日光去殼毬果植物取得",
         "name": "日光去殼毬果",
         "code": "tc"
       },
       {
-        "description": "พืชทั่วไปชนิดนี้จะพบได้เฉพาะในตอนกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นเธรสโคนส์แสงตะวันที่เติบโตบนโลก",
+        "description": "พืชทั่วไปชนิดนี้จะพบได้เฉพาะในตอนกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นเธรสโคนส์แสงตะวันที่เติบโตบนโลก",
         "name": "เธรสโคนส์แสงตะวัน",
         "code": "th"
       },
       {
-        "description": "Bu yaygın olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Threshcone bitkisi, Kodeks Tarayıcı kullanılarak elde edilebilir",
+        "description": "Bu yaygın olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Threshcone bitkisi toplanarak elde edilebilir",
         "name": "Sunlight Threshcone",
         "code": "tr"
       },
       {
-        "description": "Звичайна рослина, яку можна знайти лише вдень і зібрати за допомогою зчитування денної шишки.\n\nМожна здобути на Землі.",
+        "description": "Звичайна рослина, яку можна знайти лише вдень і зібрати з денної шишки.\n\nМожна здобути на Землі.",
         "name": "Денна шишка",
         "code": "uk"
       }
@@ -14347,6 +14503,84 @@
       {
         "description": "Злитий з кволими зараженими вусиками воєдино в міцний сплав.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
         "name": "Загартований бафоліт",
+        "code": "uk"
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+    "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temporal-dust-61196e77bb.png",
+    "name": "Temporal Dust",
+    "description": "The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.\n\nObtained from Murmur in Isleweaver missions (Duviri)",
+    "languages": [
+      {
+        "description": "Der Staub zerfallener Universen, reich an Entropie. Entratis Forschungen stellen die Theorie auf, dass dies der Antrieb für das albtraumhafte Raunen ist.\n\nZu erhalten vom Raunen in Inselweber-Missionen (Duviri)",
+        "name": "Temporaler Staub",
+        "code": "de"
+      },
+      {
+        "description": "La poussière des univers en décomposition, riche en entropie. Les recherches d'Entrati la considèrent comme l'agent animant le Murmure cauchemardesque.\n\nObtenue via le Murmure dans les missions de Toile Insulaire (Duviri)",
+        "name": "Poussière temporelle",
+        "code": "fr"
+      },
+      {
+        "description": "La polvere di universi decaduti, ricca di entropia. Le ricerche di Entrati la considerano l'agente animatore dell'incubo Murmur.\n\nOttenibile dai Murmur nelle missioni Tessitrice di Isole (Duviri)",
+        "name": "Polvere Temporale",
+        "code": "it"
+      },
+      {
+        "description": "쇠락한 우주들의 먼지로, 엔트로피가 풍부하게 함유되어 있습니다. 엔트라티의 연구에 따르면 그 악몽과 같은 속삭임들을 움직이는 원동력이 바로 이 물질로 추측됩니다.\n\n섬을 엮는 자 미션 (두비리) 도중 속삭임들에게서 획득할 수 있습니다.",
+        "name": "시간의 먼지",
+        "code": "ko"
+      },
+      {
+        "description": "El polvo de universos decadentes, ricos en entropía. La investigación de Entrati lo considera el agente animador de los aterradores murmullos.\n\nObtenido del murmullo en las misiones de «Tejedora de Islas» (Duviri)",
+        "name": "Polvo temporal",
+        "code": "es"
+      },
+      {
+        "description": "衰变宇宙的尘埃，富含熵。英择谛的研究推测，它正是如噩梦一般的低语者的驱动力。\n\n在《织屿人》任务（双衍王境）中从低语者处获得",
+        "name": "时光尘埃",
+        "code": "zh"
+      },
+      {
+        "description": "Пыль распавшихся вселенных, богатая энтропией. Исследования Энтрати постулируют, что это оживляющий агент кошмарного Шёпота.\n\nПолучается от Шёпота в миссиях в локации «Плетельщица островов» (Дувири)",
+        "name": "Темпоральная Пыль",
+        "code": "ru"
+      },
+      {
+        "description": "エントロピーを豊富に含んだ、崩壊した宇宙の塵。エントラティの研究では、これが悪夢のようなササヤキの原動力であると推測されている。\n\n島々を織りしものミッション（デュヴィリ）のササヤキから入手。",
+        "name": "テンポラル ダスト",
+        "code": "ja"
+      },
+      {
+        "description": "Pył opadł nad rozpadającym się światem, bogatym w entropie. Badania Entratiego zakładają, że jest on czynnikiem ożywiającym koszmarny Szept.\n\nMogą zostać zdobyte przez pokonanie Szeptu w misjach Tkaczki Światów (Duviri)",
+        "name": "Temporalny Pył",
+        "code": "pl"
+      },
+      {
+        "description": "A poeira de universos decadentes, rica em entropia. A pesquisa do Entrati a considera como o agente animador do horripilante Murmúrio.\n\nLocalização: obtida do Murmúrio em missões da Tecelã Insular, em Duviri.",
+        "name": "Poeira Temporal",
+        "code": "pt"
+      },
+      {
+        "description": "腐朽宇宙的塵埃，蘊含豐富熵能。源拓氏的研究推論其為噩夢般喃喃者的驅動因子。\n\n透過織島者任務（渡域）的喃喃者取得",
+        "name": "時塵",
+        "code": "tc"
+      },
+      {
+        "description": "ฝุ่นของจักรวาลที่เสื่อมสลายซึ่งอุดมไปด้วยเอนโทรปี การวิจัยของ Entrati สันนิษฐานว่ามันเป็นตัวการที่ปลุกชีพ Murmur ที่น่าสะพรึงกลัวขึ้นมา\n\nรับไอเทมนี้ได้จาก Murmur ในภารกิจ Isleweaver (Duviri)",
+        "name": "ฝุ่นธุลีแห่งกาลเวลา",
+        "code": "th"
+      },
+      {
+        "description": "Çürümüş evrenlerin tozu, entropi açısından zengin. Entrati'nin araştırması, bu şeyin korkunç Murmur'u canlandıran etken olduğunu varsayıyor.\n\nIsleweaver görevlerindeki Murmur'dan elde edilir (Duviri)",
+        "name": "Zamansal Toz",
+        "code": "tr"
+      },
+      {
+        "description": "Рештки зотлілих усесвітів, насичені ентропією. Дослідження Ентраті позначає його реагентом, котрий оживляє моторошні створіння Шепоту.\n\nМожна здобути за вбивство Шепоту під час виконання завдань «Ткалі островів» у Дувірі.",
+        "name": "Часовий пил",
         "code": "uk"
       }
     ]
@@ -16071,75 +16305,75 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
     "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vestan-moss-5ab747944b.png",
     "name": "Vestan Moss",
-    "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by using a Codex Scanner on Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
+    "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
     "languages": [
       {
-        "description": "Eine der wenigen bekannten Pflanzenarten, die auf Asteroiden im fernen Weltraum gedeihen können. \n\nQuelle: Erhältlich, indem man Codex-Scanner bei Vestanmoos nutzt, die auf Merkur, Saturn und Sedna wachsen.",
+        "description": "Eine der wenigen bekannten Pflanzenarten, die auf Asteroiden im fernen Weltraum gedeihen können. \n\nQuelle: Erhältlich durch das Sammeln von Vestanmoos, das auf Merkur, Saturn und Sedna wächst.",
         "name": "Vestanmoos",
         "code": "de"
       },
       {
-        "description": "L'une des rares espèces végétales connues capables de prospérer sur des astéroïdes dans l'espace lointain. \n\nLieu: S'obtient en utilisant un Scanneur du Codex sur les Mousses Vestales qui poussent sur Mercure, Saturne et Sedna",
+        "description": "L'une des rares espèces végétales connues capables de prospérer sur des astéroïdes dans l'espace lointain. \n\nLieu: obtenue en récoltant des Mousses Vestales qui poussent sur Mercure, Saturne et Sedna",
         "name": "Mousse Vestale",
         "code": "fr"
       },
       {
-        "description": "Una delle poche specie vegetali conosciute in grado di prosperare sugli asteroidi nello spazio profondo. \n\nPosizione: Ottenuta utilizzando un Codex Scanner sulle piante Muschio Vestan che crescono su Mercurio, Saturno e Sedna",
+        "description": "Una delle poche specie vegetali conosciute in grado di prosperare sugli asteroidi nello spazio profondo. \n\nPosizione: Ottenuta raccogliendo le piante Muschio Vestan che crescono su Mercurio, Saturno e Sedna",
         "name": "Muschio Vestan",
         "code": "it"
       },
       {
-        "description": "깊은 우주 속 소행성들에서도 잘 자라날 수 있다고 알려진 몇 가지 식물 종 중 하나입니다. \n\n획득 가능 장소: 수성, 토성 및 세드나에서 자라는 베스탄 모스 식물에 코덱스 스캐너를 사용하여 획득할 수 있습니다",
+        "description": "One of the few known plant species able to thrive on asteroids in deep space. \n\nLocation: Obtained by gathering Vestan Moss plants that grow on Mercury, Saturn, and Sedna",
         "name": "베스탄 모스",
         "code": "ko"
       },
       {
-        "description": "Una de las pocas especies de plantas conocidas capaces de prosperar en asteroides en el espacio profundo. \n\nUbicación: Se obtiene usando un escáner del códice en las plantas de musgo de Vesta que crecen en Mercurio, Saturno y Sedna",
+        "description": "Una de las pocas especies de plantas conocidas capaces de prosperar en asteroides en el espacio profundo. \n\nUbicación: Se obtiene recolectando las plantas de musgo de Vesta que crecen en Mercurio, Saturno y Sedna",
         "name": "Musgo Vesta",
         "code": "es"
       },
       {
-        "description": "为数不多的能够在外太空小行星上繁衍生息的已知植物物种之一。 \n\n获取地点：通过扫描器扫描生长在水星、土星和赛德娜上的灶神藓以获得",
+        "description": "为数不多的能够在外太空小行星上繁衍生息的已知植物物种之一。 \n\n获取地点：通过采集生长在水星、土星和赛德娜上的灶神藓植物获得",
         "name": "灶神藓",
         "code": "zh"
       },
       {
-        "description": "Один из немногих известных видов растений, способных процветать на астероидах в глубоком космосе. \n\nМестонахождение: Можно получить сканируя растения Вестанова мха, которые растут на Меркурии, Сатурне и Седне",
+        "description": "Один из немногих известных видов растений, способных процветать на астероидах в глубоком космосе. \n\nМестонахождение: Вестанов мох растёт на Меркурии, Сатурне и Седне.\n",
         "name": "Вестанов мох",
         "code": "ru"
       },
       {
-        "description": "宇宙をさまよう小惑星に育成する珍種の植物。\n\n場所：水星、土星、セドナ（自生するべスタン・モスをコーデックス・スキャナーでスキャンして入手）",
+        "description": "宇宙をさまよう小惑星に育成する珍種の植物。\n\n場所：水星、土星、セドナに自生するべスタン・モスを採取",
         "name": "べスタン・モス",
         "code": "ja"
       },
       {
-        "description": "Jedna z niewielu roślin zdolna rozwijać się na asteroidach w głębokim kosmosie. \n\n\nPołożenie: Zdobywana przez użycie Skanera Kodeksu na roślinie Mech Vestiański, którą znaleźć można na Merkurym, Saturnie i Sednie",
+        "description": "Jedna z niewielu roślin zdolna rozwijać się na asteroidach w głębokim kosmosie. \n\n\nPołożenie: Zdobywana przez podniesienie Mechu Vestiański, który znaleźć można na Merkurym, Saturnie i Sednie",
         "name": "Mech Vestański",
         "code": "pl"
       },
       {
-        "description": "Uma das poucas espécies de planta que consegue prosperar em asteroides do espaço profundo. \n\nLocalização: obtida ao utilizar um Escâner do Codex na planta Musgo Vestano, que cresce em Mercúrio, Saturno e Sedna.",
+        "description": "Uma das poucas espécies de planta que consegue prosperar em asteroides do espaço profundo. \n\nLocalização: obtida ao coletar Musgos Vestanos, que crescem em Mercúrio, Saturno e Sedna.",
         "name": "Musgo Vestano",
         "code": "pt"
       },
       {
-        "description": "少數得以在外太空小行星上興盛繁殖的植物物種之一。\n\n地點：透過對生長在水星、土星，及賽德娜上的灶神蘚植物使用資料庫掃描器來取得",
+        "description": "少數得以在外太空小行星上興盛繁殖的植物物種之一。\n\n地點：透過採集生長在水星、土星，及賽德娜上的灶神蘚植物取得",
         "name": "灶神蘚",
         "code": "tc"
       },
       {
-        "description": "หนึ่งในพืชไม่กี่ชนิดที่สามารถเจริญเติบโตได้บนดาวเคราะห์น้อยในห้วงอวกาศ \n\nแหล่งที่พบ: ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกนต้นมอสส์เวสทัน ที่ขึ้นบนดาวพุธ ดาวเสาร์ และดาวเซดนา",
+        "description": "หนึ่งในพืชไม่กี่ชนิดที่สามารถเจริญเติบโตได้บนดาวเคราะห์น้อยในห้วงอวกาศ \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นมอสส์เวสทันที่ขึ้นบนดาวพุธ ดาวเสาร์ และดาวเซดนา",
         "name": "มอสส์เวสทัน",
         "code": "th"
       },
       {
-        "description": "Derin uzayda asteroitler üzerinde yetiştiği bilinen birkaç bitki türünden biri. \n\nKonum: Merkür, Satürn ve Sedna'da yetişen Vestan Moss bitkileri Kodeks Tarayıcısı kullanılarak elde edilir",
+        "description": "Derin uzayda asteroitler üzerinde yetiştiği bilinen birkaç bitki türünden biri. \n\nKonum: Merkür, Satürn ve Sedna'da yetişen Vestan Moss bitkileri toplanarak elde edilir",
         "name": "Vestan Moss",
         "code": "tr"
       },
       {
-        "description": "Один із декількох видів рослин, які здатні існувати на астероїдах у глибокому космосі.\n\nМожна здобути за допомогою використання зчитувача збірника знань на вестійському моху, який росте на Меркурії, Сатурні й Седні.",
+        "description": "Один із декількох видів рослин, які здатні існувати на астероїдах у глибокому космосі.\n\nМожна здобути збиранням вестійського моху, який росте на Меркурії, Сатурні й Седні.",
         "name": "Вестійський мох",
         "code": "uk"
       }
@@ -17010,7 +17244,7 @@
     "description": "Highly charged particles of pure energy. The source of the Jade Light, and Jade's power. Highly coveted by Parvos Granum for his Jade Eximus program.\n\nObtained from Operation Ascension missions (Brutus on Uranus) and special Operation Alerts during Operation: Belly of the Beast.",
     "languages": [
       {
-        "description": "Geladene Partikel aus reiner Energie. Die Quelle des Jade-Lichts und der Kraft von Jade. Sehr begehrt bei Parvos Granum für sein Jade-Licht Eximus-Programm.\n\nFundort: Erhältlich von Aufstieg-Missionen auf Brutus (Uranus) und speziellen Alarmierungen während der Operation: Das Innere der Bestie.",
+        "description": "Geladene Partikel aus reiner Energie. Die Quelle des Jade-Lichts und der Kraft von Jade. Sehr begehrt bei Parvos Granum für sein Jade-Licht Eximus-Programm.\n\nQuelle: Erhältlich von Aufstieg-Missionen auf Brutus (Uranus) und speziellen Alarmierungen während der Operation: Das Innere der Bestie.",
         "name": "Volatile Partikel",
         "code": "de"
       },
@@ -17055,7 +17289,7 @@
         "code": "pl"
       },
       {
-        "description": "Partículas altamente carregadas de energia pura. A fonte da Luz da Jade e de seu poder são cobiçadas por Parvos Granum para uso no seu programa ''Eximus da Jade''.\n\nLocalização: missões de Ascensão em Brutus, em Urano, ou em Alertas Especiais, ambos durante a Operação ''Ventre da Besta''.",
+        "description": "Partículas altamente carregadas de energia pura. A fonte da Luz da Jade e de seu poder são cobiçadas por Parvos Granum para uso no seu programa 'Eximus da Jade'.\n\nLocalização: missões de Ascensão em Brutus, em Urano, ou em Alertas Especiais, ambos durante a Operação 'Ventre da Besta'.",
         "name": "Partículas Voláteis",
         "code": "pt"
       },
