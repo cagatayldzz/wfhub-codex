@@ -12,7 +12,7 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1270.573"
+    "@wfcd/items": "^1.1270.582"
   },
   "devDependencies": {
     "@types/bun": "^1.2.17",
