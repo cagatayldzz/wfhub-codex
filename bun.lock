@@ -4,7 +4,7 @@
     "": {
       "name": "wfhub-codex",
       "dependencies": {
-        "@wfcd/items": "^1.1270.700",
+        "@wfcd/items": "^1.1270.708",
       },
       "devDependencies": {
         "@types/bun": "^1.2.18",
@@ -89,7 +89,7 @@
 
     "@typescript-eslint/visitor-keys": ["@typescript-eslint/visitor-keys@8.37.0", "", { "dependencies": { "@typescript-eslint/types": "8.37.0", "eslint-visitor-keys": "^4.2.1" } }, "sha512-YzfhzcTnZVPiLfP/oeKtDp2evwvHLMe0LOy7oe+hb9KKIumLNohYS9Hgp1ifwpu42YWxhZE8yieggz6JpqO/1w=="],
 
-    "@wfcd/items": ["@wfcd/items@1.1270.700", "", { "peerDependencies": { "warframe-worldstate-data": "^3.0.0" } }, "sha512-AMuTunJ1CnpNpRxcQz0X65MdX9swDGN7GNIujYIMMVHl0Ta9eMkqkTgKfbrWz22YMl/DM5HOEmxwP5MhpsMfVg=="],
+    "@wfcd/items": ["@wfcd/items@1.1270.708", "", { "peerDependencies": { "warframe-worldstate-data": "^3.0.0" } }, "sha512-Tk2MptneVZc2OaQAigVzjKaTZFJj6k1HseS/Y6/g+c+XpjPd2WFpcZM/Ma3YYhSb5X+aGjUVqc054dmaKLfiEQ=="],
 
     "acorn": ["acorn@8.15.0", "", { "bin": { "acorn": "bin/acorn" } }, "sha512-NZyJarBfL7nWwIq+FDL6Zp/yHEhePMNnnJ0y3qfieCrmNvYct8uvtiV41UvlSe6apAfk0fY1FbWx+NwfmpvtTg=="],
 
