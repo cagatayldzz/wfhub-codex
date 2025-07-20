@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/HopliteAltBHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-synmora-helmet-2a1a5a76b7.png",
+  "name": "Styanax Synmora Helmet",
+  "description": "Remember your courage with each step. An elite helmet for Styanax.",
+  "languages": [
+    {
+      "description": "Erinnert bei jedem Schritt an deinen Mut. Ein Elite-Helm für Styanax.",
+      "name": "Styanax-Helm: Synmora",
+      "code": "de"
+    },
+    {
+      "description": "Souvenez-vous de votre courage à chaque pas. Un Casque d'élite pour Styanax.",
+      "name": "Casque Styanax Synmora",
+      "code": "fr"
+    },
+    {
+      "description": "Ricorda il tuo coraggio a ogni passo. Un elmo d'élite per Styanax.",
+      "name": "Elmo Styanax Synmora",
+      "code": "it"
+    },
+    {
+      "description": "한 걸음 한 걸음 나아갈 때마다 당신의 용기를 기억하세요. 스티아낙스를 위한 엘리트 헬멧입니다.",
+      "name": "스티아낙스 신모라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Recuerda tu coraje a cada paso. Un casco de élite para Styanax.",
+      "name": "Casco Synmora de Styanax",
+      "code": "es"
+    },
+    {
+      "description": "将勇气铭记于心伴随你前行的每一步。Styanax 的精英头盔。",
+      "name": "Styanax 步兵团头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Помните о своём мужестве с каждым сделанным шагом. Элитный шлем для Стинакса.",
+      "name": "Шлем Стинакса: Синмора",
+      "code": "ru"
+    },
+    {
+      "description": "進む一歩一歩で芽生える勇気。Styanaxのエリートヘルメット。",
+      "name": "Styanax Synmora ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Pamiętaj o swojej odwadze na każdym kroku. Elitarny hełm dla Warframe'a Styanax.",
+      "name": "Styanax: Hełm Synmora",
+      "code": "pl"
+    },
+    {
+      "description": "A cada passo, lembre-se de sua coragem. Um capacete de elite para o Styanax.",
+      "name": "Styanax: Capacete Synmora",
+      "code": "pt"
+    },
+    {
+      "description": "從踏出的每一個步伐記住你的勇氣。Styanax 的精英頭盔。",
+      "name": "Styanax 辛莫拉頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กชั้นยอดสำหรับ Styanax ที่ทำให้คุณจดจำความกล้าหาญที่มีในทุกย่างก้าว",
+      "name": "หมวกเหล็ก Styanax Synmora",
+      "code": "th"
+    },
+    {
+      "description": "Her adımda cesaretini hatırla. Styanax için elit bir miğfer.",
+      "name": "Styanax Synmora Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Відбірний шолом для Стейнекса. Нехай кожен крок нагадує вам про власну відвагу.",
+      "name": "Шолом «Синмора» для Стейнекса",
+      "code": "uk"
+    }
+  ]
+}

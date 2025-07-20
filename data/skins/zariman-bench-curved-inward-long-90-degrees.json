@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureBenchB90A",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-bench-(curved-inward,-long,-90-degrees)-a9b7150baa.png",
+  "name": "Zariman Bench (Curved Inward, Long, 90 Degrees)",
+  "description": "A long 90 degree inward curved bench.",
+  "languages": [
+    {
+      "description": "Eine lange, um 90 Grad nach innen gebogene Bank.",
+      "name": "Zariman Bank (nach innen gebogen, lang, 90 Grad)",
+      "code": "de"
+    },
+    {
+      "description": "Un long banc courbé à 90° vers l'intérieur.",
+      "name": "Zariman: Banc (courbé vers l'intérieur à 90°, long)",
+      "code": "fr"
+    },
+    {
+      "description": "Una panca lunga, curvata verso l'interno di 90 gradi.",
+      "name": "Panca Zariman (Curvata verso l'Interno, Lunga, 90 Gradi)",
+      "code": "it"
+    },
+    {
+      "description": "90도 각도의 안쪽으로 휘어진 긴 벤치입니다.",
+      "name": "자리만 벤치 (내향 곡선형, 긴, 90도)",
+      "code": "ko"
+    },
+    {
+      "description": "Una banca larga y curvada hacia adentro en 90 grados.",
+      "name": "Banca Zariman (curvada hacia adentro, larga, 90 grados)",
+      "code": "es"
+    },
+    {
+      "description": "一段长型且 90 度向内弯曲的长椅。",
+      "name": "长型扎里曼长椅（90 度内弯）",
+      "code": "zh"
+    },
+    {
+      "description": "Длинная скамья, изогнутая внутрь на 90 градусов.",
+      "name": "Скамья Заримана (изогнутая внутрь, длинная, 90 градусов)",
+      "code": "ru"
+    },
+    {
+      "description": "内側に90度曲がった長いベンチ。",
+      "name": "Zariman ベンチ（内側に湾曲、長、90度）",
+      "code": "ja"
+    },
+    {
+      "description": "Długa, zakrzywiona pod kątem 90 stopni ławka.",
+      "name": "Zariman: Ławka (długa, zakrzywiona do wewnątrz, kąt 90 stopni)",
+      "code": "pl"
+    },
+    {
+      "description": "Um banco longo com uma curva interna de 90º.",
+      "name": "Banco da Zariman (Curva Interna - Longo - 90º)",
+      "code": "pt"
+    },
+    {
+      "description": "長型 90 度向內彎的長椅。",
+      "name": "長型扎日曼長椅（90 度內彎）",
+      "code": "tc"
+    },
+    {
+      "description": "ม้านั่งยาวโค้งเข้าด้านใน 90 องศา",
+      "name": "Zariman: ม้านั่ง (โค้งเข้าด้านใน, ยาว, 90 องศา)",
+      "code": "th"
+    },
+    {
+      "description": "90 derecelik içe kıvrımlı uzun bir bank.",
+      "name": "Zariman Bankı (İçe Kıvrımlı, Uzun, 90 Derece)",
+      "code": "tr"
+    },
+    {
+      "description": "Довга лавка, вигнута всередину на 90 градусів.",
+      "name": "Лавка із «Заримена» (вигнута всередину під прямим кутом, довга)",
+      "code": "uk"
+    }
+  ]
+}

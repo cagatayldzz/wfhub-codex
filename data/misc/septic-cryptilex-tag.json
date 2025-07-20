@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedMaggotUncommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/septic-cryptilex-tag-868f5164dd.png",
+  "name": "Septic Cryptilex Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "Marke: Septischer Cryptilex",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Cryptilex Septique",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "Etichetta Septic Cryptilex",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "셉틱 크립틸렉스 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "Marcador de Criptilex Séptico",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "脓化隐疾虫标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "Жетон: Гнилостный Криптилекс",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "セプティック クリプティレクス タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Zakażonego Kryptileksa",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Cryptilex Séptico",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "化膿土窖蟲標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก Septic Cryptilex",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "Septik Cryptilex Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "Жетон септичного криптілекса",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chroma-prime-glyph---bright-607cf2a32d.png",
+  "name": "Chroma Prime Glyph - Bright",
+  "description": "A glyph depicting Chroma Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Chroma Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Chroma Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Chroma Prime sur un fond lumineux.",
+      "name": "Glyphe Chroma Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Chroma Prime su uno sfondo chiaro.",
+      "name": "Glifo Chroma Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 크로마 프라임을 묘사한 글리프입니다.",
+      "name": "크로마 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Chroma Prime sobre un fondo claro.",
+      "name": "Glifo de Chroma Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Chroma Prime 在明亮背景下的浮印。",
+      "name": "Chroma Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Хромы Прайм на светлом фоне.",
+      "name": "Глиф: Хрома Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたChroma Primeのグリフ。",
+      "name": "Chroma Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Chroma Prime na jasnym tle.",
+      "name": "Glif Chroma Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Chroma Prime em um fundo claro.",
+      "name": "Glifo: Chroma Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Chroma Prime 在明亮背景下的浮印。",
+      "name": "Chroma Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Chroma Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Chroma Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Chroma Prime açık fonlu glif.",
+      "name": "Chroma Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Хроми-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Хрома-прайм»",
+      "code": "uk"
+    }
+  ]
+}

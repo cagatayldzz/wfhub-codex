@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/FortunaBackground",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fortuna-background-add1b0a5f7.png",
+  "name": "Fortuna Background",
+  "description": "A custom UI background.",
+  "languages": [
+    {
+      "description": "Ein angepasster UI-Hintergrund.",
+      "name": "Hintergrund: Fortuna",
+      "code": "de"
+    },
+    {
+      "description": "Un fond personnalisé pour l'interface.",
+      "name": "Fond Fortuna",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sfondo personalizzato per l'interfaccia.",
+      "name": "Sfondo Fortuna",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 배경화면입니다.",
+      "name": "포르투나 배경화면",
+      "code": "ko"
+    },
+    {
+      "description": "Personalización de la interfaz",
+      "name": "Fondo de Fortuna",
+      "code": "es"
+    },
+    {
+      "description": "一个用于自定义界面的背景",
+      "name": "福尔图娜背景",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный фон интерфейса.",
+      "name": "Фон: Фортуна",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIバックグラウンド。",
+      "name": "フォーチュナー バックグラウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowane tło Interfejsu.",
+      "name": "Tło Fortuny",
+      "code": "pl"
+    },
+    {
+      "description": "Um plano de fundo de interface personalizado.",
+      "name": "Plano de Fundo de Fortuna",
+      "code": "pt"
+    },
+    {
+      "description": "一個用於自訂介面的背景",
+      "name": "福爾圖娜背景",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นหลัง UI ที่กำหนดเอง",
+      "name": "พื้นหลังฟอร์ทูนา",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir Kullanıcı Arayüzü arka planı.",
+      "name": "Fortuna Arka Plan",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне тло інтерфейсу.",
+      "name": "Тло: Фортуна",
+      "code": "uk"
+    }
+  ]
+}

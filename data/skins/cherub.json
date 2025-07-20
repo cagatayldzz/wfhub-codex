@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cherub-d1cb13fde2.png",
+  "name": "Cherub",
+  "description": "Unlocks a collection of lovely colors.",
+  "languages": [
+    {
+      "description": "Schaltet eine Auswahl lieblicher Farben frei.",
+      "name": "Cherub",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille une collection de couleurs agréables.",
+      "name": "Chérubin",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di adorabili colori.",
+      "name": "Cherubino",
+      "code": "it"
+    },
+    {
+      "description": "사랑스러운 색상들을 잠금 해제합니다.",
+      "name": "케루브",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores adorables.",
+      "name": "Querubín",
+      "code": "es"
+    },
+    {
+      "description": "解锁可爱的色彩包。",
+      "name": "小天使",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует коллекцию милых цветов.",
+      "name": "Амурчик",
+      "code": "ru"
+    },
+    {
+      "description": "ラブリーなバレンタインカラーをアンロックする。",
+      "name": "Cherub",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw uroczych kolorów.",
+      "name": "Cherubin",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava uma coleção de cores adoráveis.",
+      "name": "Querubim",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖可愛的色彩包。",
+      "name": "小天使",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีที่ดูน่ารักสดใส",
+      "name": "Cherub",
+      "code": "th"
+    },
+    {
+      "description": "Aşk renkleri yelpazesinin kilidini açar.",
+      "name": "Keruv",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, що уособлюють кохання.",
+      "name": "Херувім",
+      "code": "uk"
+    }
+  ]
+}

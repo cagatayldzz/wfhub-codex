@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartCItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/maw-fang-10d232f377.png",
+  "name": "Maw Fang",
+  "description": "Looks like someone got carried away during a delicious meal.\n\nLocation: Maw Feeding in The Duviri Experience",
+  "languages": [
+    {
+      "description": "Sieht aus, als hätte es jemand während eines köstlichen Festmahls übertrieben.\n\nQuelle: Kann durch die Schlund-Fütterung im Duviri-Erlebnis erlangt werden.",
+      "name": "Schlund-Reißzahn",
+      "code": "de"
+    },
+    {
+      "description": "On dirait que quelqu'un s'est laissé emporter pendant un délicieux repas.\n\nLieu: Pêche à la Gueule d'Or dans l'Expérience Duviri",
+      "name": "Croc de la Gueule d'Or",
+      "code": "fr"
+    },
+    {
+      "description": "Sembra che qualcuno si sia lasciato trasportare durante un delizioso pasto.\n\nPosizione: Nutrendo il Maw nell'Esperienza Duviri",
+      "name": "Zanna Maw",
+      "code": "it"
+    },
+    {
+      "description": "아무래도 누군가 맛있는 식사에 정신이 팔렸던 것 같죠.\n\n획득 가능 장소: 두비리에서 황금의 아귀에게 먹이 먹이기",
+      "name": "아귀 송곳니",
+      "code": "ko"
+    },
+    {
+      "description": "Parece que alguien se dejó llevar durante una comida deliciosa.\n\nUbicación: Alimentación de Fauces en La experiencia Duviri",
+      "name": "Colmillo de las fauces",
+      "code": "es"
+    },
+    {
+      "description": "看起来有人在一顿美餐中被冲昏了头脑。\n\n获取地点：在双衍历程中喂食喉兽",
+      "name": "喉兽尖牙",
+      "code": "zh"
+    },
+    {
+      "description": "Похоже, кто-то слишком увлёкся во время вкусной трапезы.\n\nМестонахождение: Кормление Золотой пасти на Дувирийском пути.",
+      "name": "Клык Золотой пасти",
+      "code": "ru"
+    },
+    {
+      "description": "美味しい食事に夢中のあまりなくしても気付かなかったようだ。\n\n場所：デュヴィリ・エクスペリエンスのマウ給餌。",
+      "name": "マウの牙",
+      "code": "ja"
+    },
+    {
+      "description": "Wygląda na to, że ktoś dał się ponieść emocjom podczas pysznego posiłku.\n\nPołożenie: Zdobywane podczas Karmienia Czerwia w Doświadczeniu Duviri",
+      "name": "Kieł Czerwia",
+      "code": "pl"
+    },
+    {
+      "description": "Parece que alguém se empolgou durante uma deliciosa refeição.\n\nLocalização: Alimentação da Mandíbula, na Experiência de Duviri.",
+      "name": "Presa da Mandíbula",
+      "code": "pt"
+    },
+    {
+      "description": "看起來有人在一頓美餐中被沖昏了頭腦。\n\n地點：渡域體驗裡的餵食喉獸任務",
+      "name": "喉獸尖牙",
+      "code": "tc"
+    },
+    {
+      "description": "ดูเหมือนมีบางตัวจะเคลิ้มกับอาหารแสนอร่อยจนลืมตัวไปหน่อย\n\nแหล่งที่พบ: การให้อาหาร Maw ในประสบการณ์ Duviri",
+      "name": "เขี้ยว Maw",
+      "code": "th"
+    },
+    {
+      "description": "Görünüşe göre birisi lezzetli bir öğün sırasında dikkatini kaybetmiş.\n\nKonum: Duviri Deneyimindeki Altın Ağız Ziyafeti'nden elde edilir",
+      "name": "Altın Ağızın Dişi",
+      "code": "tr"
+    },
+    {
+      "description": "Схоже, дехто занадто захопився смачною стравою.\n\nМожна здобути в режимі «Самітна подорож» у Дувірі.",
+      "name": "Ікло злотопаща",
+      "code": "uk"
+    }
+  ]
+}

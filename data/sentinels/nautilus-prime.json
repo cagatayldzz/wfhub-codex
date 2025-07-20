@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nautilus-prime-710cc92335.png",
+  "name": "Nautilus Prime",
+  "description": "This brave deckhand defends his crew with Verglas Prime.",
+  "armor": 175,
+  "languages": [
+    {
+      "description": "Dieser mutige Deckarbeiter verteidigt seine Crew mit Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "de"
+    },
+    {
+      "description": "Ce courageux matelot défend son équipage avec Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Questo coraggioso marinaio difende il suo equipaggio con Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "it"
+    },
+    {
+      "description": "이 용감한 갑판원은 베르글라 프라임으로 승무원을 보호합니다.",
+      "name": "노틸러스 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Este valiente marinero defiende a su tripulación con el Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：NAUTILUS PRIME）这位勇敢的水手使用冰凇 Prime 来保护他的船员。",
+      "name": "鹦鹉螺 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Отважный моряк защищает корабль с помощью оружия Верглас Прайм.",
+      "name": "Наутилус Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "この勇敢な甲板員は、Verglas Prime で乗組員を守ります。",
+      "name": "Nautilus Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Dzielny marynarz broni statku dzięki broni Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Este bravo marinheiro defende sua tripulação com a Verglas Prime.",
+      "name": "Nautilus Prime",
+      "code": "pt"
+    },
+    {
+      "description": "這名勇敢的水手使用雨淞 Prime 來保護他的船員。",
+      "name": "鸚鵡螺 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "กลาสีปากเรือผู้กล้าหาญตัวนี้จะคอยปกป้องลูกเรือด้วย Verglas Prime",
+      "name": "Nautilus Prime",
+      "code": "th"
+    },
+    {
+      "description": "Bu cesur güverte tayfası, mürettebatını Verglas Prime ile koruyor.",
+      "name": "Nautilus Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Цей хоробрий помічник захищає своїх за допомогою Верґласа-прайм.",
+      "name": "Наутилус-прайм",
+      "code": "uk"
+    }
+  ]
+}

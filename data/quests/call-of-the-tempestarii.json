@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/call-of-the-tempestarii-cfa6a14d26.png",
+  "name": "Call Of The Tempestarii",
+  "description": "Void Storms gather in Corpus lanes... could a mysterious vessel somehow be the cause?",
+  "languages": [
+    {
+      "description": "Void-Stürme sammeln sich in der Spur der Corpus ... könnte ein mysteriöses Schiff der Grund sein?",
+      "name": "Ruf der Tempestarii",
+      "code": "de"
+    },
+    {
+      "description": "Les Tempêtes du Néant se succèdent dans les zones Corpus... Un mystérieux vaisseau pourrait-il en être la cause?",
+      "name": "L'Appel du Tempestarii",
+      "code": "fr"
+    },
+    {
+      "description": "Le Tempeste Void si susseguono nelle zone Corpus... la causa potrebbe forse essere una nave misteriosa?",
+      "name": "Richiamo della Tempestarii",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 항로 내에 거센 보이드 폭풍이 다가옵니다... 혹시 그 정체불명의 함선이 원인일까요?",
+      "name": "템페스타리의 부름",
+      "code": "ko"
+    },
+    {
+      "description": "Las tormentas del Vacío se acumulan en los carriles del Corpus... ¿se deberá a una nave misteriosa?",
+      "name": "La Llamada de la Tempestarii",
+      "code": "es"
+    },
+    {
+      "description": "虚空风暴正在 Corpus 航道上聚集……难道是某艘神秘诡舰所造成的？",
+      "name": "风暴的呼唤",
+      "code": "zh"
+    },
+    {
+      "description": "Бури Бездны зверствуют на путях перемещения кораблей Корпуса... Может ли таинственный корабль быть тому причиной?",
+      "name": "Зов Темпестарии",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス宇宙空域で広がるVoid嵐…　奇妙な船を包む謎とは一体？",
+      "name": "嵐を呼ぶ者テンペスタリ",
+      "code": "ja"
+    },
+    {
+      "description": "Na szlakach Corpus pojawiły się Burze Pustki... czy ma to jakiś związek z tajemniczym okrętem?",
+      "name": "Zew Tempestarii",
+      "code": "pl"
+    },
+    {
+      "description": "As Tempestades do Void estão concentradas nos setores dos Corpus… Seria uma nave misteriosa a causadora disto?",
+      "name": "Chamado da Tempestarii",
+      "code": "pt"
+    },
+    {
+      "description": "虛空風暴聚集在 Corpus 航道中……有沒有可能是一艘神秘船艦因不明原因造成的？",
+      "name": "暴風號的召喚",
+      "code": "tc"
+    },
+    {
+      "description": "พายุวอยด์รวมตัวกันในเลนของ Corpus... หรือยานลึกลับจะเป็นเหตุให้เกิดเหตุการณ์นี้ขึ้น?",
+      "name": "เสียงเรียกของ Tempestarii",
+      "code": "th"
+    },
+    {
+      "description": "Corpus saflarında Void Fırtınası büyüyor... Gizemli bir araç bunun sebebi olabilir mi?",
+      "name": "Call of the Tempestarii",
+      "code": "tr"
+    },
+    {
+      "description": "Довкола маршрутів зорельотів Корпусу вирують бурі Порожнечі… Чи має містичний зореліт до цього відношення?",
+      "name": "Поклик «Буревісника»",
+      "code": "uk"
+    }
+  ]
+}

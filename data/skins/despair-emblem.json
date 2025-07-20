@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/BaroStalkerBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/despair-emblem-6e062b2bcd.png",
+  "name": "Despair Emblem",
+  "description": "Who do you hunt, Shadow?",
+  "languages": [
+    {
+      "description": "Wen jagst du, Schatten?",
+      "name": "Emblem: Despair",
+      "code": "de"
+    },
+    {
+      "description": "Qui chasses-tu, mon Ombre?",
+      "name": "Badge Despair",
+      "code": "fr"
+    },
+    {
+      "description": "A chi dai la caccia, Ombra?",
+      "name": "Emblema Despair",
+      "code": "it"
+    },
+    {
+      "description": "그림자여, 누굴 그토록 쫓는가?",
+      "name": "디스페어 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "¿A quién cazas, Sombra?",
+      "name": "Emblema Despair",
+      "code": "es"
+    },
+    {
+      "description": "暗影，你在追猎谁？",
+      "name": "绝望徽章",
+      "code": "zh"
+    },
+    {
+      "description": "На кого ты охотишься, Тень?",
+      "name": "Эмблема: Отчаяние",
+      "code": "ru"
+    },
+    {
+      "description": "「誰を狩っている？　我が影よ？」",
+      "name": "Despair エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Na kogo polujesz, Cieniu?",
+      "name": "Emblemat: Rozpacz",
+      "code": "pl"
+    },
+    {
+      "description": "Sombra, quem você persegue?",
+      "name": "Emblema: Desespero",
+      "code": "pt"
+    },
+    {
+      "description": "暗影，你在獵殺誰？",
+      "name": "絕望徽章",
+      "code": "tc"
+    },
+    {
+      "description": "Shadow ใครกันที่เจ้าออกตามล่า?",
+      "name": "ตราสัญลักษณ์: Despair",
+      "code": "th"
+    },
+    {
+      "description": "Kimi avlıyorsun, Gölge?",
+      "name": "Despair Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "На кого полюєш, Тіне?",
+      "name": "Відзнака «Розпач»",
+      "code": "uk"
+    }
+  ]
+}

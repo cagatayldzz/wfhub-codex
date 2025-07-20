@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateLargeAOpenTop",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-storage-crate-lid-(large)-e7808beedc.png",
+  "name": "Zariman Storage Crate Lid (Large)",
+  "description": "A lid used with the large storage crate.",
+  "languages": [
+    {
+      "description": "Ein Deckel, der für große Lagerkisten verwendet wird.",
+      "name": "Zariman Deckel für Lagerkisten (groß)",
+      "code": "de"
+    },
+    {
+      "description": "Un couvercle utilisé avec une grande caisse de rangement.",
+      "name": "Zariman: Caisse de rangement (couvercle, grand)",
+      "code": "fr"
+    },
+    {
+      "description": "Un coperchio utilizzato per i contenitori grandi.",
+      "name": "Contenitore Zariman - Coperchio (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "대형 보관 상자와 함께 사용되는 뚜껑입니다.",
+      "name": "자리만 보관 상자 뚜껑 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Una tapa usada en la caja de almacenamiento grande.",
+      "name": "Tapa de caja de almacenamiento Zariman (grande)",
+      "code": "es"
+    },
+    {
+      "description": "与大型储存箱一起使用的箱盖。",
+      "name": "扎里曼储存箱箱盖（大）",
+      "code": "zh"
+    },
+    {
+      "description": "Крышка, используемая с большим ящиком для хранения.",
+      "name": "Зариман: Ящик для хранения - крышка (большой)",
+      "code": "ru"
+    },
+    {
+      "description": "大きな収納箱用のフタ。",
+      "name": "Zariman 保管クレートのフタ（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Duża pokrywa skrzyni magazynowej.",
+      "name": "Zariman: Skrzynka magazynowa (duża, pokrywa)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma tampa do compartimento de armazenamento grande.",
+      "name": "Tampa do Compartimento de Armazenamento da Zariman (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "與大型儲存箱一起使用的箱蓋。",
+      "name": "扎日曼儲存箱蓋（大）",
+      "code": "tc"
+    },
+    {
+      "description": "ฝาปิดที่ใช้กับลังเก็บของขนาดใหญ่",
+      "name": "Zariman: ฝาปิดลังเก็บของ (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Büyük depolama sandığı ile kullanılan bir kapak.",
+      "name": "Zariman Depolama Sandığı Kapağı (Büyük)",
+      "code": "tr"
+    },
+    {
+      "description": "Кришка для великих ящиків.",
+      "name": "Кришка для ящика із «Заримена» (велика)",
+      "code": "uk"
+    }
+  ]
+}

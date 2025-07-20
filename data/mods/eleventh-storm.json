@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eleventh-storm-f33e70d000.jpg",
+  "name": "Eleventh Storm",
+  "description": "Rapid attacks using sword and shield.",
+  "languages": [
+    {
+      "description": [
+        "Schnelle Angriffe mit Schwert und Schild."
+      ],
+      "name": "Elfter Sturm",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Attaques rapides utilisant Épée et Bouclier."
+      ],
+      "name": "Onzième Tempête",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Attacchi rapidi con spada e scudo."
+      ],
+      "name": "Eleventh Storm",
+      "code": "it"
+    },
+    {
+      "description": [
+        "도검과 방패를 이용하는 빠른 공격입니다."
+      ],
+      "name": "일레븐스 스톰",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Ataques rápidos usando espada y escudo."
+      ],
+      "name": "Undécima tormenta",
+      "code": "es"
+    },
+    {
+      "description": [
+        "使用剑和盾的快速攻击。"
+      ],
+      "name": "终焉风暴",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Быстрые атаки с использованием меча и щита."
+      ],
+      "name": "Одиннадцатый шторм",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ソードとシールドが入り交じる連続攻撃。"
+      ],
+      "name": "Eleventh Storm",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Nagłe ataki z wykorzystaniem miecza i tarczy."
+      ],
+      "name": "Jesienna Burza",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ataques rápidos usando espada e escudo."
+      ],
+      "name": "Eleventh Storm",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "使用劍和盾的快速攻擊。"
+      ],
+      "name": "終焉風暴",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "โจมตีอย่างรวดเร็วโดยการใช้ดาบและโล่"
+      ],
+      "name": "Eleventh Storm",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Kılıcı ve kalkanı kullanarak ani saldırılar"
+      ],
+      "name": "Eleventh Storm",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Швидкі атаки з мечем та щитом."
+      ],
+      "name": "Одинадцятибальний шторм",
+      "code": "uk"
+    }
+  ]
+}

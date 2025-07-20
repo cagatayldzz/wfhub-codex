@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Gamification2019Display",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/display---tennocon-2019-grineer-security-78d6d9f8f8.png",
+  "name": "Display - Tennocon 2019 Grineer Security",
+  "description": "Given to those who complete the TennoCon 2019 game activity.",
+  "languages": [
+    {
+      "description": "Verliehen an all jene Tenno, welche die Spielaktivität der TennoCon 2019 abgeschlossen haben.",
+      "name": "Display: TennoCon 2019 Grineer Sicherheit",
+      "code": "de"
+    },
+    {
+      "description": "Donné à ceux ayant participé à l'activité de la TennoCon 2019.",
+      "name": "Affiche - Sécurité Grineer TennoCon 2019",
+      "code": "fr"
+    },
+    {
+      "description": "Dato a chi porta a termine l'attività di gioco TennoCon 2019.",
+      "name": "Display - Sicurezza Grineer TennoCon 2019",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2019 행사에서 게임 활동을 완료한 텐노들에게 주어집니다.",
+      "name": "디스플레이 - 텐노콘 2019 그리니어 시큐어리티",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado a aquellos que completaron la actividad de juego de Tennocon 2019.",
+      "name": "Mostrador - Seguridad grineer TennoCon 2019",
+      "code": "es"
+    },
+    {
+      "description": "完成 TennoCon 2019 游戏活动的玩家所得到的奖励。",
+      "name": "展示图－tennocon 2019 Grineer 安保",
+      "code": "zh"
+    },
+    {
+      "description": "Выдается тем, кто успешно завершил игровые мероприятия TennoCon 2019.",
+      "name": "Дисплей: TennoCon-2019: Охрана Гринир",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2019のゲームアクティビティを完了した者たちに贈られる。",
+      "name": "ディスプレイ - TennoCon 2019 グリニア セキュリティ",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawana tym, którzy ukończyli wyzwanie w czasie TennoCon 2019.",
+      "name": "Wyświetlacz - TennoCon 2019 Ochrona Grineer",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido a aqueles que completaram as atividades na TennoCon 2019.",
+      "name": "Exibidor da Segurança Grineer da TennoCon 2019",
+      "code": "pt"
+    },
+    {
+      "description": "完成 TennoCon 2019 遊戲活動的玩家所得到的獎勵。",
+      "name": "展示圖－TennoCon 2019 Grineer 保安",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่ผ่านกิจกรรมเกม TennoCon 2019",
+      "name": "ภาพดิสเพลย์ - TennoCon 2019 Grineer Security",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2019 oyun aktivitesini tamamlamış olanlara verilmiştir.",
+      "name": "Sergi - TennoCon 2019 Grineer Güvenliği",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто брав активну участь у Тенноконі 2019 року.",
+      "name": "Дисплей «Ґрінерська охорона на „Теннокон 2019“»",
+      "code": "uk"
+    }
+  ]
+}

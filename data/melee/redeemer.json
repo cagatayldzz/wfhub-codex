@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Gunblade/TnoGunblade",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/redeemer-9fc3eb744a.png",
+  "name": "Redeemer",
+  "description": "Striking with massive twin blades, the Redeemer fires the killing blow with its built-in shotgun.",
+  "languages": [
+    {
+      "description": "Zuerst schlagen die Zwillingsschneiden der Redeemer zu, dann teilt es den Todesstoß mit der eingebauten Schrotflinte aus.",
+      "name": "Redeemer",
+      "code": "de"
+    },
+    {
+      "description": "Après avoir frappé avec ses deux énormes lames jumelles, le Redeemer termine le travail avec un tir dévastateur de son Fusil à Pompe intégré.",
+      "name": "Redeemer",
+      "code": "fr"
+    },
+    {
+      "description": "Fornito di solide lame gemelle, il Redeemer completa la sua opera di distruzione grazie al fucile a pompa in esso incorporato.",
+      "name": "Redeemer",
+      "code": "it"
+    },
+    {
+      "description": "리디머는 거대한 쌍날로 내려치며, 내장된 산탄총으로 치명타를 발사합니다.",
+      "name": "리디머",
+      "code": "ko"
+    },
+    {
+      "description": "Golpeando con unas enormes hojas gemelas, la Redeemer dispara el golpe mortal con su escopeta acoplada.",
+      "name": "Redeemer",
+      "code": "es"
+    },
+    {
+      "description": "（英文：REDEEMER）救赎者能以巨大的双刃进行攻击，并用内建的霰弹枪造成致命一击。",
+      "name": "救赎者",
+      "code": "zh"
+    },
+    {
+      "description": "Наносящий удары массивными парными клинками, Избавитель также использует встроенный дробовик.",
+      "name": "Избавитель",
+      "code": "ru"
+    },
+    {
+      "description": "2枚の巨大な刃を持つこのガンブレードは、組み込まれたショットガンを用い強打を敵に与えることができる。",
+      "name": "Redeemer",
+      "code": "ja"
+    },
+    {
+      "description": "Uderzając masywnymi, bliźniaczymi ostrzami, Redemeer dobija wroga pociskiem z wbudowanej w niego strzelby.",
+      "name": "Redeemer",
+      "code": "pl"
+    },
+    {
+      "description": "Golpeando com lâminas duplas massivas, a Redeemer realiza o golpe fatal com sua escopeta embutida.",
+      "name": "Redeemer",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：REDEEMER）救贖者能以巨大的雙刃進行攻擊，並用內建的霰彈槍造成致命一擊。",
+      "name": "救贖者",
+      "code": "tc"
+    },
+    {
+      "description": "Redeemer สามารถโจมตีด้วยดาบคู่ใหญ่ และยิงด้วยปืนลูกซองที่ติดตั้งในตัวเพื่อถล่มศัตรู",
+      "name": "Redeemer",
+      "code": "th"
+    },
+    {
+      "description": "İkili saldırı bıçağı ve dahili pompalı tüfeği ile Redeemer, hedefin işini hızla bitirir.",
+      "name": "Redeemer",
+      "code": "tr"
+    },
+    {
+      "description": "Мечестріл, що не лише завдає ударів великими парними лезами, але й стріляє потужними снарядами із вбудованої рушниці.",
+      "name": "Визволитель",
+      "code": "uk"
+    }
+  ]
+}

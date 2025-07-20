@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneYareliDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/merulina-pandea-domestik-drone-b95c8538f5.png",
+  "name": "Merulina Pandea Domestik Drone",
+  "description": "Fight dirt and grime with this aquatic Domestik Drone inspired by Merulina Pandea.",
+  "languages": [
+    {
+      "description": "Bekämpfe Schmutz und Dreck mit dieser von Merulina Pandea inspirierten Haushalt-Drohne.",
+      "name": "Haushalt-Drohne: Merulina Pandea",
+      "code": "de"
+    },
+    {
+      "description": "Combattez la saleté et la crasse avec ce Drone Domestik aquatique inspiré de Méruline Pandea.",
+      "name": "Drone Domestik Méruline Pandea",
+      "code": "fr"
+    },
+    {
+      "description": "Combatti lo sporco e la sporcizia con questo Drone Domestico acquatico ispirato a Merulina Pandea.",
+      "name": "Drone Domestico Merulina Pandea",
+      "code": "it"
+    },
+    {
+      "description": "메룰리나 판데아에게서 영감을 받은 이 바다의 도메스틱 드론으로 먼지와 오물들에 맞서 싸워 보세요.",
+      "name": "메룰리나 판데아 도메스틱 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Combate la suciedad y la mugre con este dron Domestik acuático inspirado en Merulina Pandea.",
+      "name": "Dron Domestik Merulina Pandea",
+      "code": "es"
+    },
+    {
+      "description": "使用这款受浪漪珊瑚盘古底启发的水系内务无人机来对抗污垢。",
+      "name": "浪漪珊瑚盘古底内务无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Боритесь с грязью и пылью с помощью этого домашнего дрона из глубин, вдохновлённого Мерулиной Пандеей.",
+      "name": "Дрон-уборщик: Мерулина «Пандея»",
+      "code": "ru"
+    },
+    {
+      "description": "Merulina Pandeaをモチーフにした水中ドメスティクドローンで汚れと戦おう。",
+      "name": "Merulina Pandea ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Walcz z brudem i osadem za pomocą tego wodnego Robota Doomestos inspirowanego Meruliną Pandea.",
+      "name": "Robot Doomestos: Merulina Pandea",
+      "code": "pl"
+    },
+    {
+      "description": "Combata a sujeira e a fuligem com este Drone Domestik aquático, inspirado na Merulina Pandea.",
+      "name": "Drone Domestik Merulina Pandea",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個靈感來自美浪珊板海䖳的水系內務無人機來對抗污垢。",
+      "name": "美浪珊板海䖳內務無人機",
+      "code": "tc"
+    },
+    {
+      "description": "ต่อสู้กับฝุ่นและสิ่งสกปรกด้วยโดรน Domestik ที่เกี่ยวกับน้ำซึ่งได้รับแรงบันดาลใจจาก Merulina Pandea",
+      "name": "โดรน Merulina Pandea Domestik",
+      "code": "th"
+    },
+    {
+      "description": "Merulina Pandea'dan ilham alan bu suda yaşayan Domestik Drone ile kir ve pas ile savaş.",
+      "name": "Merulina Pandea Domestik Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Боріться з брудом та нечистотами за допомогою водяного дрона-прибиральника, на створення якого надихнула Меруліна Пандея.",
+      "name": "Дрон-прибиральник «Меруліна „Пандея”»",
+      "code": "uk"
+    }
+  ]
+}

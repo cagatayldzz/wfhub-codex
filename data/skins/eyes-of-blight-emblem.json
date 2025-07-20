@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/SlingStone2EmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eyes-of-blight-emblem-f51043165b.png",
+  "name": "Eyes Of Blight Emblem",
+  "description": "An insignia awarded to the Tenno Elite who proved themselves during Operation Eyes of Blight.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, verliehen an die Tenno Elite, die sich während der Operation Im Auge der Zerstörung bewiesen haben",
+      "name": "Emblem: Im Auge der Zerstörung",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné à l'Élite des Tennos ayant fait leurs preuves lors de l'Opération Les Yeux de la Corruption.",
+      "name": "Badge des Yeux de la Corruption",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma che contraddistingue i Tenno che si sono fatti valere nell'Operazione Eyes of Blight.",
+      "name": "Emblema Eyes of Blight",
+      "code": "it"
+    },
+    {
+      "description": "아이즈 오브 블라이트 작전 중 뛰어난 활약을 보인 엘리트 텐노에게 주어지는 메달입니다.",
+      "name": "아이즈 오브 블라이트 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a la élite tenno que se probó a sí misma durante la operación Ojos de destrucción.",
+      "name": "Emblema Ojos de Destrucción",
+      "code": "es"
+    },
+    {
+      "description": "一只颁发给在毁灭之眼行动中证明了自身能耐的 Tenno 精英的纹章。",
+      "name": "毁灭之眼纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, выдаваемый в качестве награды элите Тэнно за проявленные навыки во время операции «Глаза Гнили».",
+      "name": "Значок: Глаза гнили",
+      "code": "ru"
+    },
+    {
+      "description": "バロール・フォーモリアン船の襲来イベントで己の力を証明したテンノに送られるエンブレム。",
+      "name": "バロール・フォーモリアン船の襲来エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia nadawane Elitarnym Tenno, którzy dowiedli swej wartości w czasie Operacji Złe Oczy.",
+      "name": "Emblemat: Złe Oczy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos de Elite que provaram a si próprios durante a Operação Olhos Destrutivos.",
+      "name": "Emblema: Olhos Destrutivos",
+      "code": "pt"
+    },
+    {
+      "description": "一枚頒發給在毀滅之眼行動中證明了自身能耐的 Tenno 菁英的紋章。",
+      "name": "毀滅之眼紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่สุดยอด Tenno ผู้พิสูจน์ตนเองในปฏิบัติการ Eyes of Blight",
+      "name": "ตราสัญลักษณ์: Eyes of Blight",
+      "code": "th"
+    },
+    {
+      "description": "Operation Eyes of Blight'ta kendisini kanıtlayan oyunculara armağan edilen bir rozet.",
+      "name": "Eyes Of Blight Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджується найкращі з тенно, що проявили себе під час операції «Зурочення».",
+      "name": "Відзнака «Зурочення»",
+      "code": "uk"
+    }
+  ]
+}

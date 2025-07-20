@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Infestation/InfestationPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-prime-c1781ebcc9.png",
+  "name": "Nidus Prime",
+  "description": "Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation.",
+  "armor": 425,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Mutationen sind endlos. Der gefräßige Seuchenträger kehrt in einer schon lange nicht mehr gesehenen Form zurück und brodelt, um ihn windet sich der Urstamm des Befalls.",
+      "name": "Nidus Prime",
+      "code": "de"
+    },
+    {
+      "description": "La mutation est infinie. Le porteur du mal dévorant revient sous une forme depuis longtemps oubliée, affecté par une souche primitive de l'Infestation.",
+      "name": "Nidus Prime",
+      "code": "fr"
+    },
+    {
+      "description": "La mutazione è infinita. Il portatore di epidemia famelica ritorna in una forma perduta da tempo e affetto da un ceppo primordiale dell'Infestazione.",
+      "name": "Nidus Prime",
+      "code": "it"
+    },
+    {
+      "description": "변이는 끝없이 이어지는 것. 게걸스레 먹이를 찾아 헤매는 역병 전파자가 오랫동안 보인 바 없던, 프라임 변종의 감염으로 들끓는 형태를 띤 채 돌아왔습니다.",
+      "name": "나이더스 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "La mutación es infinita. El rapaz portador de la plaga regresa en una forma que no se había visto desde hace mucho tiempo, borboteando con una cepa primitiva de la infestación.",
+      "name": "Nidus Prime",
+      "code": "es"
+    },
+    {
+      "description": "永无止境的突变。贪婪的瘟疫之源以远古之形带着原始感染菌株咆哮而来。",
+      "name": "Nidus Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Мутация не имеет пределов. Хищный носитель чумы возвращается в давно забытой форме, охваченный первобытным штаммом Заражения.",
+      "name": "Нидус Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "変異に終わりはない。貪欲な疫病の運び手は、長らく見ることのなかった原初の感染体菌株を沸き立たせて戻ってくる。",
+      "name": "Nidus Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Mutacja jest nieskończona. Wygłodniały nosiciel zarazy powraca w dawno niewidzianej formie, kipiąc pierwotnym szczepem Plagi.",
+      "name": "Nidus Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Mutação infinita. O voraz portador da peste retorna em uma forma há muito não vista, borbulhando com uma cepa primitiva Infestada.",
+      "name": "Nidus Prime",
+      "code": "pt"
+    },
+    {
+      "description": "突變是無盡的。貪婪的瘟疫肆虐者以久而未見的形態重返，沸騰著原始的感染毒株。",
+      "name": "Nidus Prime",
+      "code": "tc"
+    },
+    {
+      "description": "การกลายพันธุ์ไม่เคยสิ้นสุด ผู้เป็นพาหะโรคระบาดจอมตะกละกลับมาแล้วในร่างที่ไม่ได้เห็นมานาน พร้อมกับการติดเชื้อสายพันธุ์ดั้งเดิม",
+      "name": "Nidus Prime",
+      "code": "th"
+    },
+    {
+      "description": "Mutasyon sonu olmayan bir süreçtir. Bu doymak bilmeyen veba taşıyıcısı, uzun zamandır görünmeyen bir biçimde, Infestation'ın ilkel bir türü olarak geri dönüyor.",
+      "name": "Nidus Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Мутація нескінченна. Хижий переносник моровиці, сповнений первинного Зараження, повертається в небаченій формі.",
+      "name": "Нідус-прайм",
+      "code": "uk"
+    }
+  ]
+}

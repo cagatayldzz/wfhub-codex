@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magistar-6f00b4eedd.png",
+  "name": "Magistar",
+  "description": "The Magistar mace wields justice and truth in the form of bone-crushing blows.",
+  "languages": [
+    {
+      "description": "Der Magistar Streitkolben übt Gerechtigkeit und Wahrheit in Form von Knochen zerschmetternden Schwüngen aus.",
+      "name": "Magistar",
+      "code": "de"
+    },
+    {
+      "description": "La Masse Magistar exerce la justice et la vérité sous la forme de coups écrasant les os.",
+      "name": "Magistar",
+      "code": "fr"
+    },
+    {
+      "description": "La mazza Magistar dispensa giustizia e verità per mezzo di potenti colpi.",
+      "name": "Magistar",
+      "code": "it"
+    },
+    {
+      "description": "마기스타 메이스는 정의와 진실을 담아 뼈를 박살냅니다.",
+      "name": "마기스타",
+      "code": "ko"
+    },
+    {
+      "description": "La maza Magistar ejerce verdad y justicia en forma de golpes triturahuesos.",
+      "name": "Magistar",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MAGISTAR）执法者钉锤以碎骨般的打击来执掌正义与真理。",
+      "name": "执法者",
+      "code": "zh"
+    },
+    {
+      "description": "Булава Магистр несет истину и правосудие в форме разрушительных ударов.",
+      "name": "Магистр",
+      "code": "ru"
+    },
+    {
+      "description": "MAGISTAR メイスは正義と真実をもって敵の骨格を粉砕する。",
+      "name": "Magistar",
+      "code": "ja"
+    },
+    {
+      "description": "Maczuga Magistar szerzy sprawiedliwość i prawdę w formie druzgocących kości ciosów.",
+      "name": "Magistar",
+      "code": "pl"
+    },
+    {
+      "description": "A Clava Magistar é capaz de brandir justiça e verdade na forma de golpes capazes de esmagar ossos.",
+      "name": "Magistar",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MAGISTAR）執法者釘鎚以碎骨般的打擊來執掌正義與真理。",
+      "name": "執法者",
+      "code": "tc"
+    },
+    {
+      "description": "คทา Magistar แกว่งหาความยุติธรรมและความจริงในรูปแบบของการบดขยี้กระดูก",
+      "name": "Magistar",
+      "code": "th"
+    },
+    {
+      "description": "Magistar Mace adalet ve doğruluğu kemikleri titreten bir rüzgar göndererek sağlıyor.",
+      "name": "Magistar",
+      "code": "tr"
+    },
+    {
+      "description": "Різновид булави-пірнача. Служить Правді й вершить Правосуддя ударами, що дроблять кістки.",
+      "name": "Маґістар",
+      "code": "uk"
+    }
+  ]
+}

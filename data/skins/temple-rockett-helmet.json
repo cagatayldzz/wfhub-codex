@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Temple/TempleAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-rockett-helmet-bde4ad2563.png",
+  "name": "Temple Rockett Helmet",
+  "description": "A spike-studded alternative helmet for the Temple Warframe.",
+  "languages": [
+    {
+      "description": "Ein mit Stacheln besetzter alternativer Helm für den Temple Warframe.",
+      "name": "Temple-Helm: Rockett",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif à pointes pour la Warframe Temple.",
+      "name": "Casque Temple Rockett",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo tempestato di spine per il Warframe Temple.",
+      "name": "Elmo Temple Rockett",
+      "code": "it"
+    },
+    {
+      "description": "가시가 돋아 있는 템플 워프레임의 대체 헬멧입니다.",
+      "name": "템플 로켓 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo repleto de púas para el warframe Temple.",
+      "name": "Casco Rockett de Temple",
+      "code": "es"
+    },
+    {
+      "description": "Temple 战甲布满尖刺的替代头盔。",
+      "name": "Temple 火箭头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Темпл, украшенный шипами.",
+      "name": "Шлем Темпл: Рокер",
+      "code": "ru"
+    },
+    {
+      "description": "トゲトゲしたTempleの別ヘルメット。",
+      "name": "Temple Rockett ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Alternatywny hełm z kolcami dla Warframe'a Temple.",
+      "name": "Temple: Hełm Rockett",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo cravejado de espinhos para o Warframe Temple.",
+      "name": "Temple: Capacete Rockett",
+      "code": "pt"
+    },
+    {
+      "description": "Temple Warframe 的尖釘替換頭盔。",
+      "name": "Temple 搖滾頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองแบบมีหนามแหลมสำหรับ Temple Warframe",
+      "name": "หมวกเหล็ก Temple Rockett",
+      "code": "th"
+    },
+    {
+      "description": "Temple Warframe için sivri uçlu alternatif bir miğfer.",
+      "name": "Temple Rockett Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом з гострими шпичаками для Храма.",
+      "name": "Шолом «Роккер» для Храма",
+      "code": "uk"
+    }
+  ]
+}

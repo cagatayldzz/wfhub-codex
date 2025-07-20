@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heciphron-f1f9ddd457.png",
+  "name": "Heciphron",
+  "description": "Aggregates in the neo-lymph systems of Infested masses.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions.",
+  "languages": [
+    {
+      "description": "Aggregate in den Neo-Lymphsystemen befallener Massen.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen.",
+      "name": "Heciphron",
+      "code": "de"
+    },
+    {
+      "description": "Agrégats provenant des systèmes néolymphatiques des masses Infestées.\n\nLieu: Puy de Cambion (Deimos), via le minage de Lésions bleues.",
+      "name": "Héciphron",
+      "code": "fr"
+    },
+    {
+      "description": "Si accumula all'interno dei sistemi neo-linfatici delle masse Infested.\n\nPosizione: Lesioni Minerarie Blu nel Cambion Drift (Deimos).",
+      "name": "Heciphron",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 덩어리의 신 림프계에 응집하여 형성되는 광물입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 채광 병변에서 찾을 수 있습니다.",
+      "name": "헤시프론",
+      "code": "ko"
+    },
+    {
+      "description": "Se acumula en los sistemas neolinfáticos de las masas infestadas.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules.",
+      "name": "Hecifronita",
+      "code": "es"
+    },
+    {
+      "description": "感染生物新淋巴系统中的聚集物。\n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕",
+      "name": "聚合荧石",
+      "code": "zh"
+    },
+    {
+      "description": "Сгустки в нео-лимфатических системах заражённых.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе.",
+      "name": "Гецифрон",
+      "code": "ru"
+    },
+    {
+      "description": "感染物質の新リンパ系が凝集したもの。\n\n場所：カンビオン荒地（ダイモス）の青い鉱脈。",
+      "name": "ヘシフロン",
+      "code": "ja"
+    },
+    {
+      "description": "Kruszywa w układach neolimfatycznych mas Plagi.\n\nPołożenie: Niebieskie owrzodzenia w Dryfie Kambionu na Deimosie.",
+      "name": "Hecyfron",
+      "code": "pl"
+    },
+    {
+      "description": "Substância agregada ao sistema neo-linfático dos Infestados.\n\nLocalização: em Lesões de Mineração Azuis na Deriva de Cambion, em Deimos.",
+      "name": "Hecifrona",
+      "code": "pt"
+    },
+    {
+      "description": "感染生物質的複式淋巴系統內的聚合體。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶。",
+      "name": "赫龍石",
+      "code": "tc"
+    },
+    {
+      "description": "มวลรวมที่อยู่ในระบบน้ำเหลืองแบบใหม่ของมวลที่ติดเชื้อ\n\nแหล่งที่พบ: พบได้จากสายแร่ที่เป็นรอยสีน้ำเงินในแคมบิออนดริฟต์ (ดาวเดมอส)",
+      "name": "เฮซิฟรอน",
+      "code": "th"
+    },
+    {
+      "description": "Infested kitlelerin neo-lenf sistemlerindeki kümeler.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarından bulunabilir.",
+      "name": "Heciphron",
+      "code": "tr"
+    },
+    {
+      "description": "Накопичується в новолімфатичних масах заражених.\n\nМожна здобути з синіх лезій у Кембіонській течії (Деймос).",
+      "name": "Гецифрон",
+      "code": "uk"
+    }
+  ]
+}

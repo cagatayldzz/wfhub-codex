@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/TheNewWarKahlCommunityDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kahl-175-community-display-4fb77b9496.png",
+  "name": "Kahl-175 Community Display",
+  "description": "A community-made fanart Display of Kahl-175 for The New War. Art created by Mura Casardis.",
+  "languages": [
+    {
+      "description": "Eine von der Community erstellte Fanart von Kahl-175 für 'Der Neue Krieg'. Kunst geschaffen von Mura Casardis.",
+      "name": "Display: Kahl-175 (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Une affiche fanart de Kahl-175 provenant de la communauté pour 'La Nouvelle Guerre'. Une œuvre de Mura Casardis.",
+      "name": "Affiche Communautaire Kahl-175",
+      "code": "fr"
+    },
+    {
+      "description": "Un Display fanart realizzato dalla comunità di Kahl-175 per La Nuova Guerra. Arte creata da Mura Casardis.",
+      "name": "Display Comunità - Kahl-175",
+      "code": "it"
+    },
+    {
+      "description": "워프레임 커뮤니티의 솜씨로 만들어진 새로운 전쟁의 칼-175 팬아트 디스플레이입니다. 아티스트: Mura Casardis",
+      "name": "칼-175 커뮤니티 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Una exposición artística de Kahl-175 creada por la comunidad para La Nueva Guerra. Arte creado por Mura Casardis.",
+      "name": "Exhibidor de Kahl-175 de la Comunidad",
+      "code": "es"
+    },
+    {
+      "description": "玩家社区为《新纪之战》制作的卡尔-175 粉丝艺术展示图，由 Mura Casardis 创作。",
+      "name": "卡尔-175 社区展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Созданный сообществом фан-арт — Дисплей «Кахл-175» для Новой войны. Автор: Mura Casardis.",
+      "name": "Дисплей сообщества «Кахл-175»",
+      "code": "ru"
+    },
+    {
+      "description": "コミュニティによってデザインされた『新たな大戦』よりKahl-175のファンアートディスプレイ。Mura Casardis作。",
+      "name": "Kahl-175 コミュニティディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Wykonany przez społeczność fanart na Wyświetlacz przedstawiający Kahla-175 z Nowej Wojny. Praca stworzona przez: Mura Casardis.",
+      "name": "Wyświetlacz Społeczności Kahl-175",
+      "code": "pl"
+    },
+    {
+      "description": "Um exibidor artístico do Kahl-175, criado pela Comunidade para 'A Nova Guerra'. Arte desenvolvida por Mura Casardis.",
+      "name": "Exibidor do Kahl-175 (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "社群為《新世戰紀》創作的 Kahl-175 粉絲藝術展示圖。藝術由 Mura Casardis 創作。",
+      "name": "Kahl-175 社群展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพแสดงแฟนอาร์ตของ Kahl-175 ที่จัดทำโดยชุมชนสำหรับสงครามใหม่ ศิลปะที่ออกแบบโดย Mura Casardis",
+      "name": "ภาพดิสเพลย์ชุมชน Kahl-175",
+      "code": "th"
+    },
+    {
+      "description": "Kahl-175'in, The New War için topluluk tarafından hazırlanmış bir fan sanat Sergisi. Mura Casardis tarafından tasarlanmış bir eser.",
+      "name": "Kahl-175 Topluluk Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Дисплей «Кал-175», створений спільнотою шанувальників для «Нової війни». Намальований художником Mura Casardis.",
+      "name": "Дисплей спільноти «Кал-175»",
+      "code": "uk"
+    }
+  ]
+}

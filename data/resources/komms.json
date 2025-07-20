@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/komms-4c39bebf94.png",
+  "name": "Komms",
+  "description": "A component used in secure Grineer communication networks.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
+  "languages": [
+    {
+      "description": "Eine Komponente, die in gesicherten Grineer Kommunikationsnetzwerken benutzt wird.\n\nQuelle: Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
+      "name": "Komms",
+      "code": "de"
+    },
+    {
+      "description": "Un composant utilisé dans les réseaux de communication sécurisés Grineers.\n\nLieu: Missions Railjack dans les Proximas de la Terre, de Saturne et du Voile",
+      "name": "Komms",
+      "code": "fr"
+    },
+    {
+      "description": "Un componente utilizzato nelle reti di comunicazione protette Grineer.\n\nPosizione: Missioni Railjack sulla Terra, Saturno e Veil Proxima",
+      "name": "Komms",
+      "code": "it"
+    },
+    {
+      "description": "보안 그리니어 통신 연결망에 사용되는 부품입니다.\n\n획득 가능 장소: 지구, 토성 및 베일 프록시마의 레일잭 미션",
+      "name": "콤스",
+      "code": "ko"
+    },
+    {
+      "description": "Un componente utilizado en redes seguras de comunicación grineer.\n\nUbicación: Misiones de Railjack en Próxima Tierra, Saturno y Velo",
+      "name": "Komms",
+      "code": "es"
+    },
+    {
+      "description": "一块用于确保 Grineer 通信网络安全的组件。\n\n获取地点：比邻星域（地球、土星、面纱）中的航道星舰任务",
+      "name": "科姆斯通讯仪",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент, используемый для защищённых систем связи Гринир.\n\nМестонахождение: Миссии Рэйлджека в проксимах Земли, Сатурна и Вуали.",
+      "name": "Коммы",
+      "code": "ru"
+    },
+    {
+      "description": "グリニアの機密通信ネットワークに使われる部品。\n\n場所：レールジャックミッション（地球、土星、ヴェール プロキシマ）",
+      "name": "コムズ",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent stosowany w zabezpieczonych sieciach komunikacyjnych Grineer.\n\nPołożenie: Misje Railjacka w Proximach Ziemi, Saturna i Woalu",
+      "name": "Kommy",
+      "code": "pl"
+    },
+    {
+      "description": "Um componente utilizado em redes seguras de comunicação Grineer.\n\nLocalização: em Missões da Railjack na 'Próxima da Terra', 'Próxima de Saturno' ou 'Próxima do Véu'.",
+      "name": "Komms",
+      "code": "pt"
+    },
+    {
+      "description": "Grineer 安全通訊網路所使用的組件。\n\n地點：毗鄰星（地球、土星、面紗）的銳捷號任務",
+      "name": "科姆斯通訊元件",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบที่ใช้ในระบบความปลอดภัยในเครือข่ายการสื่อสารของ Grineer\n\nแหล่งที่พบ: ภารกิจ Railjack ที่อยู่ในพร็อกซิมาโลก ดาวเสาว์ และเวล",
+      "name": "คอมส์",
+      "code": "th"
+    },
+    {
+      "description": "Güvenli Grineer iletişim ağlarında kullanılan bir parça.\n\nKonum: Dünya, Satürn ve Veil Proxima'larındaki Railjack görevleri",
+      "name": "Komms",
+      "code": "tr"
+    },
+    {
+      "description": "Складники захищеної мережі зв’язку ґрінерів.\n\nМожна знайти на завданнях для рейкоджека на Проксимах Землі, Сатурна та Вуалі.",
+      "name": "Комми",
+      "code": "uk"
+    }
+  ]
+}

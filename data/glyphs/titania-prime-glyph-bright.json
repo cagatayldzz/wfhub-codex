@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTitaniaPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/titania-prime-glyph---bright-134c3450eb.png",
+  "name": "Titania Prime Glyph - Bright",
+  "description": "A glyph depicting Titania Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Titania Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Titania Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Titania Prime sur un fond lumineux.",
+      "name": "Glyphe Titania Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Titania Prime su uno sfondo chiaro.",
+      "name": "Glifo Titania Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 티타니아 프라임을 묘사한 글리프입니다.",
+      "name": "티타니아 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Titania Prime sobre un fondo brillante.",
+      "name": "Glifo de Titania Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Titania Prime 在明亮背景下的浮印。",
+      "name": "Titania Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Титании Прайм на светлом фоне.",
+      "name": "Глиф: Титания Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Titania Prime のグリフ。",
+      "name": "Titania Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Titania Prime na jasnym tle.",
+      "name": "Glif Titania Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Titania Prime em um fundo claro.",
+      "name": "Glifo: Titania Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Titania Prime 在明亮背景下的浮印。",
+      "name": "Titania Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Titania Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Titania Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Titania Prime açık fonlu glif.",
+      "name": "Titania Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Титанії-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Титанія-прайм»",
+      "code": "uk"
+    }
+  ]
+}

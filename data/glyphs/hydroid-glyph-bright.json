@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-glyph---bright-15c8419ff4.png",
+  "name": "Hydroid Glyph - Bright",
+  "description": "A glyph depicting Hydroid on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Hydroid vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Hydroid (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Hydroid sur fond lumineux.",
+      "name": "Glyphe Hydroid - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Hydroid su uno sfondo chiaro.",
+      "name": "Glifo Hydroid - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 하이드로이드를 묘사한 글리프입니다.",
+      "name": "하이드로이드 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Hydroid sobre un fondo brillante.",
+      "name": "Glifo de Hydroid - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid 在明亮背景下的浮印",
+      "name": "Hydroid 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гидроида на светлом фоне.",
+      "name": "Глиф: Гидроид - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Hydroid のグリフ",
+      "name": "Hydroid グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Hydroid na jasnym tle.",
+      "name": "Glif Hydroid — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Hydroid em um fundo claro.",
+      "name": "Glifo: Hydroid (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Hydroid 在明亮背景下的浮印。",
+      "name": "Hydroid 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Hydroid บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Hydroid - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Hydroid açık fonlu glif.",
+      "name": "Hydroid Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гідроїда на світлому тлі.",
+      "name": "Яскравий гліф «Гідроїд»",
+      "code": "uk"
+    }
+  ]
+}

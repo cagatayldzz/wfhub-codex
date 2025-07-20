@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ogris-8133344510.png",
+  "name": "Ogris",
+  "description": "Ogris fires detonite-infused casings.",
+  "languages": [
+    {
+      "description": "Ogris verschießt Detonit-Ladungen.",
+      "name": "Ogris",
+      "code": "de"
+    },
+    {
+      "description": "L'Ogris envoie des charges de Détonite.",
+      "name": "Ogris",
+      "code": "fr"
+    },
+    {
+      "description": "L'Ogris spara bossoli infusi di detonite.",
+      "name": "Ogris",
+      "code": "it"
+    },
+    {
+      "description": "오그리스는 폭발물이 들어있는 로켓을 발사합니다.",
+      "name": "오그리스",
+      "code": "ko"
+    },
+    {
+      "description": "Ogris dispara casquillos infundidos con detonite.",
+      "name": "Ogris",
+      "code": "es"
+    },
+    {
+      "description": "（英文：OGRIS）食人女魔能发射满载易爆物的炮弹。",
+      "name": "食人女魔",
+      "code": "zh"
+    },
+    {
+      "description": "Огрис стреляет снарядами с Детонитовой оболочкой.",
+      "name": "Огрис",
+      "code": "ru"
+    },
+    {
+      "description": "デトナイト製炸裂弾を発射する特殊兵器。",
+      "name": "Ogris",
+      "code": "ja"
+    },
+    {
+      "description": "Ogris odpala pociski nasycone Detonitem.",
+      "name": "Ogris",
+      "code": "pl"
+    },
+    {
+      "description": "A Ogris dispara projéteis banhados com Detonite.",
+      "name": "Ogris",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：OGRIS）食人女魔能發射滿載易爆物的砲彈。",
+      "name": "食人女魔",
+      "code": "tc"
+    },
+    {
+      "description": "Ogris จะยิงจรวดที่บรรจุระเบิดออกไป",
+      "name": "Ogris",
+      "code": "th"
+    },
+    {
+      "description": "Ogris, infilak eden mermi kovanları ateşler.",
+      "name": "Ogris",
+      "code": "tr"
+    },
+    {
+      "description": "Гранатомет, стріляє капсулами з детонітом.",
+      "name": "Оґріс",
+      "code": "uk"
+    }
+  ]
+}

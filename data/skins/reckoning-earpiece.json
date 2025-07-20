@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/StalkerAccessoriesEarpiece",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reckoning-earpiece-9d599873db.png",
+  "name": "Reckoning Earpiece",
+  "description": "A grim accessory for Operator or Drifter.",
+  "languages": [
+    {
+      "description": "Ein düsteres Accessoire für den Operator oder Drifter.",
+      "name": "Ohrschmuck: Abrechnung",
+      "code": "de"
+    },
+    {
+      "description": "Un accessoire sinistre pour l'Opérateur ou le Voyageur.",
+      "name": "Oreillette du Jugement",
+      "code": "fr"
+    },
+    {
+      "description": "Un accessorio sinistro per l'Operatore o il Drifter.",
+      "name": "Auricolare Reckoning",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터 혹은 드리프터에게 알맞는 음산한 액세서리입니다.",
+      "name": "레코닝 이어피스",
+      "code": "ko"
+    },
+    {
+      "description": "Un accesorio sombrío para el operador o el Viajero.",
+      "name": "Auriculares Reckoning",
+      "code": "es"
+    },
+    {
+      "description": "适合指挥官或漂泊者的冷血配件。",
+      "name": "终结耳饰",
+      "code": "zh"
+    },
+    {
+      "description": "Мрачный аксессуар для Оператора или Скитальца.",
+      "name": "Серьги: Искупление",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーターと漂流者専用の、不気味なアクセサリー。",
+      "name": "Reckoning イヤーピース",
+      "code": "ja"
+    },
+    {
+      "description": "Mroczne akcesorium dla Operatora i Włóczęgi.",
+      "name": "Kolczyki Rozliczenia",
+      "code": "pl"
+    },
+    {
+      "description": "Um acessório sombrio para Operador ou Peregrino.",
+      "name": "Brincos do Juízo Final",
+      "code": "pt"
+    },
+    {
+      "description": "適合指揮官或漂泊者的冷漠配件。",
+      "name": "尋仇耳飾",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์เสริมที่น่าขนลุกสำหรับโอเปอเรเตอร์และดริฟเตอร์",
+      "name": "เครื่องประดับหู Reckoning",
+      "code": "th"
+    },
+    {
+      "description": "Operatör veya Gezgin için korkulu bir aksesuar.",
+      "name": "Hesaplaşma Kulaklığı",
+      "code": "tr"
+    },
+    {
+      "description": "Похмуре оздоблення для оператора чи мандрівника.",
+      "name": "Вушні прикраси «Відплата»",
+      "code": "uk"
+    }
+  ]
+}

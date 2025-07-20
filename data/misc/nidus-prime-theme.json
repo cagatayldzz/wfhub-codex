@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/NidusPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-prime-theme-de85f951e4.png",
+  "name": "Nidus Prime Theme",
+  "description": "Nidus Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Nidus Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Nidus Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique de Nidus Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Nidus Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Nidus Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Nidus Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 나이더스 프라임의 대표 테마곡입니다.",
+      "name": "나이더스 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Nidus Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Nidus Prime",
+      "code": "es"
+    },
+    {
+      "description": "Nidus Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Nidus Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Нидуса Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Нидус Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるNidus Primeのテーマ曲。",
+      "name": "Nidus Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Nidusa Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Nidus Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional do Nidus Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Nidus Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Nidus Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Nidus Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Nidus Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Nidus Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Nidus Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Nidus Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Нідуса-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Нідуса-прайм",
+      "code": "uk"
+    }
+  ]
+}

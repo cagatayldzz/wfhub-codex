@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/BillowingArmor/BillowingArmorC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cirrus-chest-plate-ffc3263af6.png",
+  "name": "Cirrus Chest Plate",
+  "description": "The preferred armor set of those who call both the mists of morning and the fog of war home. A perfect complement to the the Cumulus Syandana.",
+  "languages": [
+    {
+      "description": "Der bevorzugte Rüstungssatz derer, die sowohl den Dunst des Morgens als auch den Nebel des Krieges als Heimat bezeichnen. Eine perfekte Ergänzung des Cumulus Syandana.",
+      "name": "Brustplatte: Cirrus",
+      "code": "de"
+    },
+    {
+      "description": "L'Armure préférée de ceux dont le foyer est la brume du matin et le brouillard de la guerre. S'agence parfaitement à la Syandana Cumulus.",
+      "name": "Plastron Cirrus",
+      "code": "fr"
+    },
+    {
+      "description": "L'armatura preferita di coloro che chiamano 'casa' sia le nebbie del mattino che il fumo della guerra. Il complemento perfetto per la Syandana Cumulus.",
+      "name": "Pettorina Cirrus",
+      "code": "it"
+    },
+    {
+      "description": "아침의 맑은 안개와 전장의 흐린 안개 모두를 불러들이는 이들이 선호하는 아머 세트입니다. 큐뮬러스 샨다나와 완벽한 조화를 이룹니다.",
+      "name": "시러스 체스트 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de armadura preferido por los que llaman casa tanto a la brisa de la mañana como a la neblina de la batalla. El complemento perfecto de la syandana Cumulus.",
+      "name": "Peto de placas Cirrus",
+      "code": "es"
+    },
+    {
+      "description": "那些称清晨迷雾和战争烟云为家的人的首选护甲套装。这是对积云披饰的一个完美补充。",
+      "name": "卷云胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Этот набор брони понравится тем, кто называет домом утренний туман и дым поля боя. Идеальное дополнение к Кумулюс Сандане.",
+      "name": "Нагрудник: Перистые облака",
+      "code": "ru"
+    },
+    {
+      "description": "朝霧も戦場の霧も故郷と呼ぶ者たちに好まれるアーマーセット。Cumulusシャンダナに完璧にマッチしている。",
+      "name": "Cirrus チェストプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Preferowany zestaw zbroi dla tych, którzy nazywają domem zarówno mgły poranka, jak i mgły wojny. Idealne uzupełnienie Syandany Cumulus.",
+      "name": "Napierśnik: Cirrus",
+      "code": "pl"
+    },
+    {
+      "description": "O conjunto de armaduras favorito para aqueles que chamam de lar tanto a névoa da manhã quanto a névoa da guerra. Um complemento perfeito para a Syandana Cumulus.",
+      "name": "Peitoral: Cirrus",
+      "code": "pt"
+    },
+    {
+      "description": "這個護甲套裝深受那些將晨間的濛瀧和戰爭的迷霧稱之為家的人所偏愛。與積雲披飾的完美配對。",
+      "name": "卷雲胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเกราะที่โปรดปรานของผู้ที่เรียกทั้งหมอกในยามเช้าและหมอกควันแห่งสงครามว่าบ้าน ส่วนเติมเต็มที่สมบูรณ์แบบของไซอันดานา Cumulus",
+      "name": "เพลตหน้าอก Cirrus",
+      "code": "th"
+    },
+    {
+      "description": "Hem sabah hem de savaş sisini sevenler için favori bir zırh seti. Cumulus Syandana için mükemmel bir tamamlayıcı.",
+      "name": "Cirrus Göğüs Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Комплект обладунків для тих, кому однаково милі вранішній серпанок і хмари пилу на полі бою. Чудово пасує до сяндани «Купчаста».",
+      "name": "Нагрудник «Перистий»",
+      "code": "uk"
+    }
+  ]
+}

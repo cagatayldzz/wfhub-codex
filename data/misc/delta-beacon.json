@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/delta-beacon-6d4d1cdd54.png",
+  "name": "Delta Beacon",
+  "description": "Locator beacon broadcasting on the delta frequency",
+  "languages": [
+    {
+      "description": "Ein Signalfeuer, das auf der Delta-Frequenz sendet.",
+      "name": "Delta-Signalfeuer",
+      "code": "de"
+    },
+    {
+      "description": "Balise de localisation émettant sur la fréquence Delta",
+      "name": "Balise Delta",
+      "code": "fr"
+    },
+    {
+      "description": "Localizzatore che trasmette sulla frequenza Delta",
+      "name": "Localizzatore Delta",
+      "code": "it"
+    },
+    {
+      "description": "델타 주파수를 보내고 있는 위치 신호기 입니다.",
+      "name": "델타 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Baliza de localización emitiendo en frecuencia delta",
+      "name": "Baliza Delta",
+      "code": "es"
+    },
+    {
+      "description": "持续发送出 Delta 频率的信标定位装置。",
+      "name": "Delta 信标",
+      "code": "zh"
+    },
+    {
+      "description": "Маяк, транслирующий на частоте дельта",
+      "name": "Маяк Дельта",
+      "code": "ru"
+    },
+    {
+      "description": "周波数デルタで発信するロケータービーコン",
+      "name": "デルタビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Radiolokalizator nadający na częstotliwości Delta",
+      "name": "Radiolokalizator Delta",
+      "code": "pl"
+    },
+    {
+      "description": "Transceptor Localizador Delta transmitindo na frequência Delta",
+      "name": "Transmissor Delta",
+      "code": "pt"
+    },
+    {
+      "description": "持續發送出 Delta 頻率的信標定位裝置。",
+      "name": "Delta 信標",
+      "code": "tc"
+    },
+    {
+      "description": "สัญญาณระบุตำแหน่งที่ส่งสัญญาณด้วยคลื่นความถี่เดลตา",
+      "name": "บีคอนเดลตา",
+      "code": "th"
+    },
+    {
+      "description": "Konum bulucu delta frekansında yayın yapıyor",
+      "name": "Delta Beacon",
+      "code": "tr"
+    },
+    {
+      "description": "Радіомаяк, що транслює на частоті Дельта.",
+      "name": "Радіомаяк «Дельта»",
+      "code": "uk"
+    }
+  ]
+}

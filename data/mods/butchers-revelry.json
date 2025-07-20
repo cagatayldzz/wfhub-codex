@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SawBladeCmbOneMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/butcher's-revelry-fcaa0b5419.jpg",
+  "name": "Butcher's Revelry",
+  "description": "Rip and rend with this Assault Saw stance.",
+  "languages": [
+    {
+      "description": [
+        "Reiße und zerfetze Gegner mit dieser Sturmsägen-Haltung."
+      ],
+      "name": "Schlachtfest",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Mettez vos ennemis en pièces avec cette Posture de Scie de combat."
+      ],
+      "name": "Fête de la Viande",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Squarcia e lacera con questo stile per Sega d'Assalto."
+      ],
+      "name": "Butcher's Revelry",
+      "code": "it"
+    },
+    {
+      "description": [
+        "적을 가르고 찢는 돌격용 톱 스탠스입니다."
+      ],
+      "name": "부쳐즈 레벌리",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Desgarra a tus enemigos con este mod de guardia de sierra de combate."
+      ],
+      "name": "Fiesta del carnicero",
+      "code": "es"
+    },
+    {
+      "description": [
+        "采用这种突击锯架势来撕裂并锯碎你的敌人。"
+      ],
+      "name": "屠戮盛宴",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Раздирайте и рвите в клочья с этой стойкой для штурмовой пилы."
+      ],
+      "name": "Потеха Мясника",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "このアサルトソーのスタンスで切り裂き引き裂け。"
+      ],
+      "name": "Butcher's Revelry",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Tnij i rozdzieraj z tą postawą Piły Szturmowej."
+      ],
+      "name": "Uczta Rzeźnika",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Rasgue e esfarrape com esta Postura para Serras de Assalto."
+      ],
+      "name": "Butcher's Revelry",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "以這突擊輪鋸架式來撕裂和切割。"
+      ],
+      "name": "屠夫縱宴",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ใช้ท่าทางจู่โจมด้วยเลื่อยท่านี้เข้าชำแหละและห้ำหั่นศัตรู"
+      ],
+      "name": "Butcher's Revelry",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Bu Taarruz Testeresi stance moduyla kes ve parçala."
+      ],
+      "name": "Butcher's Revelry",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Рукопашний стиль для штурмової пили, який дозволить розрізати й роздирати ворогів на шмаття."
+      ],
+      "name": "Гулянка м’ясара",
+      "code": "uk"
+    }
+  ]
+}

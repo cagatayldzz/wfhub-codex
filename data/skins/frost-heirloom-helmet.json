@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHeirloomHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-heirloom-helmet-ac3416be64.png",
+  "name": "Frost Heirloom Helmet",
+  "description": "Frost Heirloom's signature helmet.",
+  "languages": [
+    {
+      "description": "Frost Heirlooms bevorzugter Helm.",
+      "name": "Frost-Helm: Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Frost Héritage.",
+      "name": "Casque Frost Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Frost Heirloom.",
+      "name": "Elmo Frost Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 에어룸의 대표 헬멧입니다.",
+      "name": "프로스트 에어룸 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Frost Legado.",
+      "name": "Casco Legado de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 传家宝的标志性头盔。",
+      "name": "Frost 传家宝头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Фроста «Наследие».",
+      "name": "Шлем Фроста: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Frost Heirloomのメインヘルメット。",
+      "name": "Frost Heirloom ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Pamiątkowego Frosta.",
+      "name": "Frost: Hełm Pamiątkowy",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Frost do Legado.",
+      "name": "Frost: Capacete do Legado",
+      "code": "pt"
+    },
+    {
+      "description": "Frost 祖傳的標誌性頭盔。",
+      "name": "Frost 祖傳頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Frost Heirloom",
+      "name": "หมวกเหล็ก Frost Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Frost Heirloom'un özel miğferi.",
+      "name": "Frost Heirloom Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Спадок» для ворфрейма Фроста.",
+      "name": "Шолом «Спадок» для Фроста",
+      "code": "uk"
+    }
+  ]
+}

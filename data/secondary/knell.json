@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/knell-c585400249.png",
+  "name": "Knell",
+  "description": "Ring the death knell. Headshots briefly turn this scoped pistol into a rapid-fire, Critical Damage fiend that uses no ammo. When used by Harrow, Knell has a 2-round mag.",
+  "languages": [
+    {
+      "description": "Lass die tödliche Knell erklingen. Kopfschüsse verwandeln diese Pistole mit Zielfernrohr für kurze Zeit in ein Monster aus schnellem Feuer & Krit. Schaden, das keine Munition benötigt. Wird sie von Harrow geführt, hält das Magazin 2 Schuss.",
+      "name": "Knell",
+      "code": "de"
+    },
+    {
+      "description": "Sonnez le glas! Chaque Tir à la tête transforme ce Pistolet à lunette en une machine de mort à haute cadence de tir faisant des Dégâts Critiques et ne nécessitant pas de munition. Dans les mains de Harrow, le chargeur du Knell contient 2 munitions.",
+      "name": "Knell",
+      "code": "fr"
+    },
+    {
+      "description": "Suona la campana a morto. I colpi alla testa trasformano questa precisa pistola in un demonio da Danno Critico e fuoco rapido che non utilizza munizioni. Quando impugnata da Harrow, ha 2 colpi nel caricatore.",
+      "name": "Knell",
+      "code": "it"
+    },
+    {
+      "description": "죽음의 종소리를 울려보세요. 이 스코프 권총은 헤드샷을 맞출 시 잠시간 탄환을 필요로 하지 않는 빠른 연사력을 가진 치명타 피해의 악마로 만듭니다. 해로우가 사용할 시 넬의 탄창이 2로 증가합니다.",
+      "name": "넬",
+      "code": "ko"
+    },
+    {
+      "description": "Haz sonar la sentencia de muerte. Con cada disparo a la cabeza, esta pistola con mira se convierte brevemente en un demonio de cadencia de fuego y daño crítico que no utiliza municiones. Cuando es portada por Harrow, Knell tiene un cargador de 2 balas.",
+      "name": "Knell",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KNELL）鸣响死神的丧钟。爆头射击短暂地将这把带瞄准镜的手枪变成快速击发，不消耗弹药的暴击伤害恶魔。在被 Harrow 使用时，丧钟会拥有双发弹匣。",
+      "name": "丧钟",
+      "code": "zh"
+    },
+    {
+      "description": "Ударьте в погребальный колокол. Попадание в голову ненадолго сделает этот пистолет автоматическим, а при нанесении критического урона боеприпасы не расходуются. Если используется Харроу - имеет 2 патрона в магазине.",
+      "name": "Предвестник",
+      "code": "ru"
+    },
+    {
+      "description": "死の鐘を鳴らせ。ヘッドショットを行うとこのスコープつきピストルを連射モードに変更できる。そしてクリティカルダメージは一時的に上昇し、弾薬の消費を無効化する。Harrowが使用した際には、Knellに弾が2発込められる。",
+      "name": "Knell",
+      "code": "ja"
+    },
+    {
+      "description": "Niechaj zabrzmi dzwon śmierci. Strzały w głowę na krótki czas zamieniają ten pistolet z celownikiem optycznym, w szybkostrzelną bestię zadającą Obrażenia Krytyczne, przy zerowym zużyciu amunicji. Kiedy Harrow ma go w swoich rękach, Knell posiada 2-pociskowy Magazynek.",
+      "name": "Knell",
+      "code": "pl"
+    },
+    {
+      "description": "Dê a sentença de morte. Acertos de Precisão transformam esta pistola com escopo em um objeto com alta Cadência de Tiro e elevado Dano Crítico, na qual não utiliza munição. Quando utilizada por Harrow, a Knell apresenta um Carregador de 2 balas.",
+      "name": "Knell",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KNELL）敲響死亡的喪鐘。爆頭射擊時會暫時將這把自帶瞄準鏡的手槍轉變為能快速擊發，且無須消耗彈藥的致命魔鬼。Harrow 使用時喪鐘擁有兩組彈匣。",
+      "name": "喪鐘",
+      "code": "tc"
+    },
+    {
+      "description": "ถึงเวลาเคาะระฆังมรณะให้ดังลั่น เมื่อยิงเฮดช็อตจะเปลี่ยนปืนพกที่ติดกล้องกระบอกนี้ไปเป็นปืนที่ยิงได้อย่างรวดเร็ว สร้างความเสียหายคริติคอลได้โดยไม่ใช้กระสุนเป็นเวลาชั่วคราว หาก Harrow เป็นผู้ใช้อาวุธ จะทำให้แม็กกาซีนของปืน Knell บรรจุกระสุนได้ 2 รอบ",
+      "name": "Knell",
+      "code": "th"
+    },
+    {
+      "description": "Ölümün Knell'ini çal. Kafadan vuruşlar bu dürbünlü tabancayı hızlı bir katil yapar, bu canavarın Kritik Hasarları mermi kullanmaz. Harrow tarafından kullanıldığında, Knell'in şarjör kapasitesi 2 olur.",
+      "name": "Knell",
+      "code": "tr"
+    },
+    {
+      "description": "Влучте ворогові в голову, і Вісник Смерті ненадовго перетвориться на пістолет-кулемет, не потребуватиме набоїв і завдаватиме величезної критичної шкоди. У руках Гарроу має магазин на 2 набої.",
+      "name": "Вісник Смерті",
+      "code": "uk"
+    }
+  ]
+}

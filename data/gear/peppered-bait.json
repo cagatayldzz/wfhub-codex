@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/peppered-bait-f464233f20.png",
+  "name": "Peppered Bait",
+  "description": "This bait attracts fish that are active in the Plains of Eidolon during the day.\n\nObtained from Fisher Hai-Luk in Cetus (Earth). Attracts Mawfish and Charc Eels in the lake; Khut-Khut, Yogwun, and Mortus Lungfish in ponds; and Goopolla and Tralok in the ocean.",
+  "languages": [
+    {
+      "description": "Dieser Köder zieht Fische an, die tagsüber in den Ebenen von Eidolon aktiv sind.\n\nZu erhalten von Fischer Hai-Luk in Cetus (Erde). Zieht Maulfische und Charc Aale in Seen an; Khut-Khut, Yogwun und Mortus Lungenfische in Teichen; und Goopolla und Tralok in Ozeanen.",
+      "name": "Köder: Gepfeffert",
+      "code": "de"
+    },
+    {
+      "description": "Cet appât attire les poissons actifs dans les Plaines d'Eidolon pendant la journée.\n\nObtenu auprès de la Pêcheuse Hai-Luk à Cetus (Terre). Attire les Mawfish et les Anguilles Charc dans le lac; les Khut-Khut, Yogwun et Dipneustes Mortus dans les étangs; les Goopolla et Tralok dans l'océan.",
+      "name": "Appât Poivré",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca attrae i pesci che sono attivi nelle Piane di Eidolon durante il giorno.\n\nAcquistabile dalla Pescivendola Hai-Luk a Cetus (Terra). Attrae Mawfish e Anguille Charc nel lago; Khut-Khut, Yogwun e Mortus Lungfish negli stagni; e Goopolla e Tralok nell'oceano.",
+      "name": "Esca Peppered",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 낮과 밤 동안 아이돌론의 평원에서 활동하는 포식성 물고기들을 유인합니다.\n\n시터스 (지구) 의 어부 하일루크로부터 획득할 수 있습니다. 호수에서는 머우피쉬와 챠크 장어를, 연못에서는 쿳-쿳과 요그운, 몰터스 폐어를, 그리고 바다에서는 구폴라와 트랄록을 끌어들입니다.",
+      "name": "후추 친 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta carnada atrae a los peces que están activos en las Llanuras de Eidolon durante el día.\n\nObtenida de la Pescadora Hai-luk en Cetus (Tierra). Atrae al pez bocón y a las anguilas charc en el lago; a los peces Khut-Khut, Yogwun y Dipnoi Mortus en los estanques; y a los peces Gupola y Tralok en el océano.",
+      "name": "Carnada salpimentada",
+      "code": "es"
+    },
+    {
+      "description": "这种诱饵可以吸引白天在夜灵平野活动的鱼类。\n\n从希图斯（地球）的渔人海露处获得。吸引湖中的喉鱼和查克鳗；池塘中的库特-库特、约格温和摩图斯肺鱼；以及海洋中的古泊拉和塔洛。",
+      "name": "胡椒鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта приманка привлекает рыбу, которая активна на Равнинах Эйдолона в течение дня. Привлекает рыбу-пасть и чарка-угрей в озерах; кхут-кхутов, йогвунов и мортус-рогозубов в прудах; а также гуполлу и тралока в океане.\n\nМестонахождение: Рыбачка Хай-Лук в Цетусе (Земля).",
+      "name": "Приправленная Наживка",
+      "code": "ru"
+    },
+    {
+      "description": "このベイトは昼のエイドロンの草原で活発な魚を引き寄せる。\n\nシータス（地球）の釣り師Hai-Lukから入手可能。湖のマーフィッシュとシャルク・イールを引き寄せる。池のクット・クット、ヨグウン、モータス・ラングフィッシュを引き寄せる。海のグーポッラとトラロックを引き寄せる。",
+      "name": "ペッパー・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta przynęta wabi ryby aktywne w Równinach Eidolon w ciągu dnia. Przyciąga ryby Rybokop i Węgorz Charc w jeziorach, Khut-khut, Yogwun i Dwudyszny Mortus w stawach, oraz Goopolla i Tralok w oceanie.\n\nMoże zostać zakupiona od Rybaczki Hai-Luk w Cetus (Ziemia).",
+      "name": "Pieprzowa Przynęta",
+      "code": "pl"
+    },
+    {
+      "description": "Esta isca atrai peixes ativos nas Planícies de Eidolon durante o dia.\n\nLocalização: obtida com a Pescadora Hai-Luk em Cetus, na Terra. Atrai Mawfish e Charc Eel no lago; Khut-Khut, Yogwun e Mortus Lungfish em lagoas; e Goopolla e Tralok no oceano.",
+      "name": "Isca Salpicada",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚餌可以吸引在夜靈平野白天裡活動的魚類。\n\n可以從希圖斯（地球）的漁夫 Hai-Luk 取得。能用來吸引湖泊的喉魚和查克鰻；池塘裡的庫特-庫特、約格溫和摩圖斯肺魚；以及海洋的古泊拉和塔洛。",
+      "name": "胡椒魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อชิ้นนี้ใช้ล่อปลาที่หากินอยู่ในบริเวณที่ราบ Eidolon ในเวลากลางวัน\n\nรับได้จากชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งใช้ล่อปลา Mawfish และ Charc Eel ในทะเลสาบ, Khut-Khut, Yogwun และ Mortus Lungfish ในหนองน้ำ, รวมถึง Goopolla และ Tralok ในมหาสมุทร",
+      "name": "เหยื่อพริกไทย",
+      "code": "th"
+    },
+    {
+      "description": "Bu yem, gün boyunca Eidolon Ovası'nda aktif olan balıkları çeker.\n\nCetus'taki (Dünya) Fisher Hai-Luk'tan elde edilir. Göldeki Mawfish ve Charc Eel'leri; göletlerde Khut-Khut, Yogwun ve Mortus Lungfish'i; okyanusta ise Goopolla ve Tralok'u çeker.",
+      "name": "Baharatlı Yem",
+      "code": "tr"
+    },
+    {
+      "description": "Ця приманка приваблює денних риб на Рівнинах Ейдолонів.\n\nМожна придбати в рибалки Гай-Люк у Цетусі (Земля). Приваблює пащерника та акулячих вугрів в озерах; кхут-кхута, йоґвуна та мортуса рогозуба в ставках; гуполлу та трелока в океані.",
+      "name": "Приправлена приманка",
+      "code": "uk"
+    }
+  ]
+}

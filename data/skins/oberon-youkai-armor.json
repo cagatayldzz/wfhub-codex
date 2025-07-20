@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWOberonYoukaiArmArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-youkai-armor-3d79b2ffc9.png",
+  "name": "Oberon Youkai Armor",
+  "description": "A unique armor for the Oberon Warframe, designed by Hitsu San.",
+  "languages": [
+    {
+      "description": "Eine einzigartige Rüstung für den Oberon Warframe, entworfen von Hitsu San.",
+      "name": "Oberon-Rüstung: Youkai",
+      "code": "de"
+    },
+    {
+      "description": "Une armure unique pour la Warframe Oberon, conçue par Hitsu San.",
+      "name": "Armure Oberon Youkai",
+      "code": "fr"
+    },
+    {
+      "description": "Un'armatura unica per il Warframe Oberon, ideata da Hitsu San.",
+      "name": "Armatura Oberon Youkai",
+      "code": "it"
+    },
+    {
+      "description": "Hitsu San에 의해 디자인된 오베론 워프레임을 위한 독특한 아머입니다.",
+      "name": "오베론 요카이 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una armadura única para el warframe Oberon, creada por Hitsu San.",
+      "name": "Armadura Youkai de Oberon",
+      "code": "es"
+    },
+    {
+      "description": "Oberon 战甲的独特护甲，由 Hitsu San 设计。",
+      "name": "Oberon 妖怪护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальная броня для варфрейма Оберон, созданная Hitsu San.",
+      "name": "Броня Оберона Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Oberon用のアーマー。製作者：Hitsu San。",
+      "name": "Oberon Youkai アーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy pancerz dla Warframe Oberon, zaprojektowany przez Hitsu San.",
+      "name": "Pancerz Oberon Youkai",
+      "code": "pl"
+    },
+    {
+      "description": "Uma armadura exclusiva para o Warframe Oberon, desenvolvida por Hitsu San.",
+      "name": "Oberon: Armadura Youkai",
+      "code": "pt"
+    },
+    {
+      "description": "Oberon Warframe 的護甲，由 Hitsu San 設計。",
+      "name": "Oberon 妖怪護甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะสำหรับ Oberon Warframe ที่ไม่เหมือนใคร ออกแบบโดย Hitsu San",
+      "name": "เกราะ Oberon Youkai",
+      "code": "th"
+    },
+    {
+      "description": "Hitsu San tarafından tasarlanmış Oberon Warframe özel zırhı.",
+      "name": "Oberon Youkai Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний обладунок для ворфрейма Оберона, створений Hitsu San.",
+      "name": "Обладунки «Йокай» для Оберона",
+      "code": "uk"
+    }
+  ]
+}

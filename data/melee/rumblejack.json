@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Operator/Melee/DrifterTazer/DrifterTazerPlayerWep",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rumblejack-35af025562.png",
+  "name": "Rumblejack",
+  "description": "An electrified jolter for quick melee takedowns, assembled from scavenged scrap. Ideal for use on unsuspecting opponents.",
+  "languages": [
+    {
+      "description": "Ein Elektroschocker für schnelle Nahkampfangriffe, zusammengebaut aus geplündertem Schrott. Ideal für den Einsatz bei ahnungslosen Gegnern.",
+      "name": "Rumblejack",
+      "code": "de"
+    },
+    {
+      "description": "Une arme électrique faite de ferraille pour des éliminations rapides en Mêlée. Parfaite pour les adversaires peu méfiants.",
+      "name": "Rumblejack",
+      "code": "fr"
+    },
+    {
+      "description": "Un'arma elettrificata per abbattimenti corpo a corpo rapidi, assemblata da rottami recuperati. Ideale per l'uso su avversari ignari.",
+      "name": "Rumblejack",
+      "code": "it"
+    },
+    {
+      "description": "주워 모아 온 폐품을 짜맞춰 만든, 빠른 근접 제압용 전기 충격기입니다. 무방비 상태의 적에게 사용하기에 안성맞춤입니다.",
+      "name": "럼블잭",
+      "code": "ko"
+    },
+    {
+      "description": "Un arma electrificada para abatir rápidamente con cuerpo a cuerpo, ensamblada a partir de chatarra recuperada. Ideal para usar con los oponentes desprevenidos.",
+      "name": "Rumblejack",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RUMBLEJACK）用废料组装而成的电击器，可用于快速近战攻坚。非常适合用来对付毫无防备的对手。",
+      "name": "电匕怪杰",
+      "code": "zh"
+    },
+    {
+      "description": "Электрошокер для быстрого обезвреживания противника в ближнем бою, собранный из всякого хлама. Идеально подходит для противников, не ожидающих нападения.",
+      "name": "Рамблджек",
+      "code": "ru"
+    },
+    {
+      "description": "回収したスクラップから組み立てられた、近接でのテイクダウンに特化したジョルタースタンガン。警戒していない敵に使用するのに最適。",
+      "name": "Rumblejack",
+      "code": "ja"
+    },
+    {
+      "description": "Złożony ze złomu paralizator do szybkich eliminacji bronią wręcz. Idealny na niczego niepodejrzewających przeciwników.",
+      "name": "Rumblejack",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma de choque para eliminações rápidas de corpo a corpo. Feita a partir de sucatas, é perfeita para ser utilizada em oponentes desavisados.",
+      "name": "Rumblejack",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RUMBLEJACK）用來快速近戰制伏的電擊器，由四處回收的廢料組裝而成。適合對付毫無警戒的對手。",
+      "name": "亂棒俠客",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวกระตุ้นไฟฟ้าเพื่อจัดการศัตรูในระยะประชิดได้อย่างรวดเร็ว ประกอบจากเศษซากที่ถูกเก็บกวาด เหมาะสำหรับใช้กับคู่ต่อสู้ที่ไม่ทันระวังตัว",
+      "name": "Rumblejack",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı yakın dövüş öldürmeleri için hurdadan yapılmış bir elektro-şok tabancası. Bihaber düşmanlar üzerinde kullanım için mükemmel.",
+      "name": "Rumblejack",
+      "code": "tr"
+    },
+    {
+      "description": "Електричний шокер для швидкого виведення цілі з ладу. Зібраний із брухту. Ідеально підходить проти ворогів, що не очікують на напад.",
+      "name": "Рамблджек",
+      "code": "uk"
+    }
+  ]
+}

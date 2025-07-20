@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/PaxDuviricusHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-helmet-51c58320e6.png",
+  "name": "Kullervo Helmet",
+  "description": "The standard issue helmet for the Kullervo Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm des Kullervo Warframe.",
+      "name": "Kullervo-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Kullervo.",
+      "name": "Casque Kullervo",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo standard per il Warframe Kullervo.",
+      "name": "Elmo Kullervo",
+      "code": "it"
+    },
+    {
+      "description": "쿨레르보 워프레임을 위한 기본 헬멧입니다.",
+      "name": "쿨레르보 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Kullervo.",
+      "name": "Casco de Kullervo",
+      "code": "es"
+    },
+    {
+      "description": "Kullervo 的标准头盔。",
+      "name": "Kullervo 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Куллерво.",
+      "name": "Шлем Куллерво",
+      "code": "ru"
+    },
+    {
+      "description": "Kullervoの標準型ヘルメット。",
+      "name": "Kullervo ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Kullervo.",
+      "name": "Kullervo: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Kullervo.",
+      "name": "Kullervo: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Kullervo 的標準頭盔。",
+      "name": "Kullervo 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Kullervo Warframe",
+      "name": "หมวกเหล็ก Kullervo",
+      "code": "th"
+    },
+    {
+      "description": "Kullervo Warframe için standart miğfer.",
+      "name": "Kullervo Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Куллерво.",
+      "name": "Шолом Куллерво",
+      "code": "uk"
+    }
+  ]
+}

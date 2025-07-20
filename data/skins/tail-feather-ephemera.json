@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tail-feather-ephemera-e61673744b.png",
+  "name": "Tail Feather Ephemera",
+  "description": "“Please stay\nDon't put out the flame and run away”\n\nEarned by defeating a Technocyte Coda.",
+  "languages": [
+    {
+      "description": "'Bitte bleib. Lösch nicht die Flamme und lauf weg.'\n\nVon einem besiegten Technocyte Coda erhalten.",
+      "name": "Ephemera: Schwanzfeder",
+      "code": "de"
+    },
+    {
+      "description": "'Veuillez rester\nN'éteignez pas la flamme et ne fuyez pas'\n\nGagné en battant un Technocyte Coda.",
+      "name": "Ephemera Rectrices",
+      "code": "fr"
+    },
+    {
+      "description": "“Please stay\nDon't put out the flame and run away”\n\nOttenuta sconfiggendo un Technocyte Coda.",
+      "name": "Ephemera Tail Feather",
+      "code": "it"
+    },
+    {
+      "description": "'제발 곁에 있어줘\n이 불꽃을 꺼뜨리고 도망가지 말아줘'\n\n테크노사이트 코다를 물리쳐 획득할 수 있습니다.",
+      "name": "테일 페더 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "'Por favor, quédate,\nNo apagues la llama y huyas'.\n\nSe obtiene al derrotar a un Tecnocito Coda.",
+      "name": "Efímero Plumas desertoras",
+      "code": "es"
+    },
+    {
+      "description": "♪请留在我身边\n留下情热的火焰♪\n\n通过击败科技细胞终幕者获得。",
+      "name": "舞动幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "«Пожалуйста, оставайтесь\nНе тушите пламя и не убегайте»\n\nЗарабатывается за победу над Техноцитом Кода.",
+      "name": "Эфемера: Хвостовое оперение",
+      "code": "ru"
+    },
+    {
+      "description": "♪Please stay\nDon't put out the flame and run away♪\n\nテクノサイト・コーダ討伐で入手。",
+      "name": "Tail Feather エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "'Proszę, zostań\nNie gaś tego płomienia i nie uciekaj'\n\nMożna ją zdobyć przez pokonanie Cody Technocytu.",
+      "name": "Efemera Pióra",
+      "code": "pl"
+    },
+    {
+      "description": "'Por favor, fique aqui\nNão apague a chama e fuja'\n\nAdquirido ao derrotar um Tecnócito Coda.",
+      "name": "Efêmera: Pena de Voo",
+      "code": "pt"
+    },
+    {
+      "description": "「請留下\n別撲滅火焰後跑開」\n\n擊敗技改細胞勾瘩體以獲取。",
+      "name": "尾羽幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "“Please stay\nDon't put out the flame and run away”\n\nรับได้จากการเอาชนะ Technocyte Coda",
+      "name": "อิเฟมเมอรา Tail Feather",
+      "code": "th"
+    },
+    {
+      "description": "'Lütfen benimle kal\nAlevi söndürüp kaçma'\n\nBir Technocyte Coda'yı alt ederek kazanılır.",
+      "name": "Kuyruk Tüyü Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "«Прошу, зажди.\nНе гаси вогонь, не йди».\n\nЗдобувається здоланням «Техноцитної Коди».",
+      "name": "Ефемера «Пір’єхвіст»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glaxion-0d0d150e30.png",
+  "name": "Glaxion",
+  "description": "Fires a photon beam that halts molecular vibrations, causing instant and painful freezing.",
+  "languages": [
+    {
+      "description": "Feuert einen Photonenstrahl ab, der molekulare Schwingungen zum Erliegen bringt und schmerzhafte Erfrierungen erzeugt.",
+      "name": "Glaxion",
+      "code": "de"
+    },
+    {
+      "description": "Tire un rayon à photons qui arrête les vibrations moléculaires, causant une congélation instantanée et douloureuse.",
+      "name": "Glaxion",
+      "code": "fr"
+    },
+    {
+      "description": "Concentra un raggio fotonico che arresta le vibrazioni molecolari, causando un congelamento istantaneo e doloroso.",
+      "name": "Glaxion",
+      "code": "it"
+    },
+    {
+      "description": "분자의 고유 진동을 멈추게 하여 극심한 고통과 함께 대상을 순간적으로 동결시키는 광자 빔을 발사합니다.",
+      "name": "글랙시온",
+      "code": "ko"
+    },
+    {
+      "description": "Dispara un haz de fotones que detiene la vibración molecular, causando una dolorosa parálisis instantánea.",
+      "name": "Glaxion",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GLAXION）发射出一道能暂停分子振动的光子束，造成痛苦的瞬间冻结。",
+      "name": "冷冻光束步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Выстреливает фотонным лучом, останавливающим вибрацию молекул и вызывающим мгновенное и болезненное замораживание.",
+      "name": "Глаксион",
+      "code": "ru"
+    },
+    {
+      "description": "分子運動を停止するフォトンビームを射出し、対象を瞬間的に氷漬けにする。",
+      "name": "Glaxion",
+      "code": "ja"
+    },
+    {
+      "description": "Strzela strumieniem fotonów, który zatrzymując drgania cząsteczek, powoduje natychmiastowe i bolesne zamarzanie.",
+      "name": "Glaxion",
+      "code": "pl"
+    },
+    {
+      "description": "Lança um raio de luz fóton que para vibrações moleculares, causando congelamento instantâneo e doloroso.",
+      "name": "Glaxion",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GLAXION）發射出一道能暫停分子振動的光子束，造成痛苦的瞬間凍結。",
+      "name": "冷凍光束步槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนยิงลำแสงโฟตอนที่หยุดการเคลื่อนไหวของโมเลกุล ทำให้แข็งตัวและสร้างความเจ็บปวดทันที",
+      "name": "Glaxion",
+      "code": "th"
+    },
+    {
+      "description": "Sendeleten Photon mermileri fırlatarak düşmanda aniden ve hasar veren bir donma yaratır.",
+      "name": "Glaxion",
+      "code": "tr"
+    },
+    {
+      "description": "Гвинтівка стріляє фотонним променем, що зупиняє молекулярний рух, через що ціль миттєво та болісно замерзає.",
+      "name": "Ґлаксіо",
+      "code": "uk"
+    }
+  ]
+}

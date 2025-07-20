@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Revenant/UnlockRevenantNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-noble-animation-set-eba5a947c8.png",
+  "name": "Revenant Noble Animation Set",
+  "description": "This item lets you use Revenant's noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Revenants nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Revenant-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Nobles de Revenant avec n'importe quelle autre Warframe.",
+      "name": "Animation Revenant Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Revenant con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Revenant",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 레버넌트의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "레버넌트 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Revenant con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones nobles de Revenant",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Revenant 的尊贵站姿。",
+      "name": "Revenant 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Ревенанта на любом другом варфрейме.",
+      "name": "Набор анимаций Ревенанта: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Revenantのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Revenant ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Revenanta w każdym innym Warframe'ie.",
+      "name": "Animacje Revenant: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Revenant em qualquer Warframe de sua escolha.",
+      "name": "Animações: Revenant (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Revenant 的尊貴站姿。",
+      "name": "Revenant 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูสง่างามของ Revenant ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่สง่างามของ Revenant",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Revenant'ın noble animasyon setinin kullanımına izin verir.",
+      "name": "Revenant Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Ревенанта до будь-якого ворфрейма.",
+      "name": "Ревенант: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

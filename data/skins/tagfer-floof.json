@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/DeerPlush",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tagfer-floof-d2e1742076.png",
+  "name": "Tagfer Floof",
+  "description": "'You will always have a home here, Tagfer. With us.' - Loid",
+  "languages": [
+    {
+      "description": "'Du wirst hier immer ein Zuhause haben, Tagfer. Mit uns.' - Loid",
+      "name": "Floof: Tagfer",
+      "code": "de"
+    },
+    {
+      "description": "'Vous aurez toujours un foyer ici, Tagfer. Parmi nous.' - Loid",
+      "name": "Peluche Tagfer",
+      "code": "fr"
+    },
+    {
+      "description": "'Avrai sempre una casa qui, Tagfer. Con noi.' - Loid",
+      "name": "Floof Tagfer",
+      "code": "it"
+    },
+    {
+      "description": "'네 집은 항상 여기에 있다, 태그퍼. 우리 모두와 함께.' - 로이드",
+      "name": "태그퍼 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "'Siempre tendrás un hogar aquí, Tagfer. Con nosotros'. - Loid",
+      "name": "Floof de Tagfer",
+      "code": "es"
+    },
+    {
+      "description": "“标弃，这里永远是你的家，和我们在一起。”——洛德",
+      "name": "标弃玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "«Здесь у тебя всегда будет дом, Тагфер. С нами». - Лойд",
+      "name": "Пушистик: Тагфер",
+      "code": "ru"
+    },
+    {
+      "description": "「ここは貴方の家です、Tagfer。我々と共に。」~Loid",
+      "name": "Tagferのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "'Tutaj zawsze będziesz miał dom, Tagferze. Z nami.' - Loid",
+      "name": "Pluszak Tagfer",
+      "code": "pl"
+    },
+    {
+      "description": "Loid: 'você sempre terá um lar aqui, Tagfer, conosco'.",
+      "name": "Floof: Tagfer",
+      "code": "pt"
+    },
+    {
+      "description": "「汰廢，在這裡你永遠都有個家，與我們同在。」──Loid",
+      "name": "汰廢玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "“ที่นี่จะเป็นบ้านของเจ้าและของเราเสมอนะ Tagfer” - Loid",
+      "name": "ตุ๊กตา Tagfer",
+      "code": "th"
+    },
+    {
+      "description": "'Burada her zaman bir evin olacak Tagfer. Bizimle birlikte.' - Loid",
+      "name": "Tagfer Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "«Таґфере, це твоя домівка назавжди. Поруч із нами», — Лойд.",
+      "name": "Плюш «Таґфер»",
+      "code": "uk"
+    }
+  ]
+}

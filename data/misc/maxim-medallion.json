@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/ArbitersRareDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/maxim-medallion-00eb892514.png",
+  "name": "Maxim Medallion",
+  "description": "Medallion of the Arbiters of Hexis syndicate. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Medaillon des Arbiters of Hexis Syndikats. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Medaillon: Maxime",
+      "code": "de"
+    },
+    {
+      "description": "Médaillon du Syndicat des Arbitres de Hexis. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats localisés dans les Relais.",
+      "name": "Médaillon de Maxime",
+      "code": "fr"
+    },
+    {
+      "description": "Medaglione dell'associazione Arbiters of Hexis. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Maxim Medallion",
+      "code": "it"
+    },
+    {
+      "description": "아비터즈 오브 헥시스의 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "맥심 메달리온",
+      "code": "ko"
+    },
+    {
+      "description": "Medallones de Los Árbitros de Hexis. Pueden ser intercambiados en las salas de los sindicatos en los Repetidores por reputación adicional.",
+      "name": "Medallón máximo",
+      "code": "es"
+    },
+    {
+      "description": "均衡仲裁者集团的勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "格言勋章",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон синдиката 'Арбитры Гексиса'. Можно обменять в комнатах синдикатов в реле на репутацию.",
+      "name": "Медальон Принципа",
+      "code": "ru"
+    },
+    {
+      "description": "シンジケートのアービターズ・オブ・ヘクシスのメダリオン。リレーのシンジケートハブで追加の地位とトレードできる。",
+      "name": "真理のメダリオン",
+      "code": "ja"
+    },
+    {
+      "description": "Syndykatowy Medalion Arbitrów Hexis. Może zostać wymieniony za dodatkową reputację w pokojach syndykatowych na przekaźniku.",
+      "name": "Medalion Maxima",
+      "code": "pl"
+    },
+    {
+      "description": "Medalhão do sindicato dos Árbitros do Hexis. Pode ser negociado na sala de seu respectivo sindicato, nos Relays, em troca de reputação adicional.",
+      "name": "Medalhão Máximo",
+      "code": "pt"
+    },
+    {
+      "description": "均衡仲裁者集團的獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "格言獎章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญของซินดิเคต Arbiters of Hexis สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "Maxim Medallion",
+      "code": "th"
+    },
+    {
+      "description": "Arbiters of Hexis'in madalyonu. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "Maksim Madalyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон синдикату «Арбітри Гексису». Можна обміняти на додаткову репутацію в центрах синдикату на реле.",
+      "name": "Мірильний медальйон",
+      "code": "uk"
+    }
+  ]
+}

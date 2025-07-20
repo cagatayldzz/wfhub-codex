@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBeachcomber",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/beachcomber-domestik-drone-7f2f15b381.png",
+  "name": "Beachcomber Domestik Drone",
+  "description": "Add some flare to your Orbiter with this blazing sanitation unit.",
+  "languages": [
+    {
+      "description": "Verleihe deinem Orbiter mit dieser strahlenden Sanitäreinheit etwas Glanz.",
+      "name": "Haushalt-Drohne: Beachcomber",
+      "code": "de"
+    },
+    {
+      "description": "Ajoutez de l'éclat à votre Orbiteur avec cette unité sanitaire flamboyante.",
+      "name": "Drone Domestik Récupérateur",
+      "code": "fr"
+    },
+    {
+      "description": "Aggiungi un po' di brillantezza al tuo Orbiter con questa sfavillante unità igienico-sanitaria.",
+      "name": "Drone Domestico Beachcomber",
+      "code": "it"
+    },
+    {
+      "description": "이 불타는 듯한 위생 유닛으로 여러분의 오비터에 화끈한 멋을 더해보세요.",
+      "name": "비치코머 도메스틱 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Agrega un poco de brillo a tu Orbitador con esta deslumbrante unidad de saneamiento.",
+      "name": "Dron Domestik Beachcomber",
+      "code": "es"
+    },
+    {
+      "description": "用这台炽热的卫生装置为你的轨道飞行器增添一些闪光。",
+      "name": "拾海者内务无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Добавьте изюминку своему Орбитеру с помощью этого пылающего санитарного робота.",
+      "name": "Дрон-уборщик: Бездельник",
+      "code": "ru"
+    },
+    {
+      "description": "この燃えるような衛生ユニットでオービターを沸き立たせよう。",
+      "name": "ビーチコンバー ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Dodaj nieco błysku swojemu Orbiterowi dzięki tej rewelacyjnej jednostce sanitarnej.",
+      "name": "Robot Doomestos: Beachcomber",
+      "code": "pl"
+    },
+    {
+      "description": "Adicione um pouco de brilho à sua Orbital com esta deslumbrante unidade higienizadora.",
+      "name": "Drone Domestik Beachcomber",
+      "code": "pt"
+    },
+    {
+      "description": "使用這台酷熱的衛生裝置為你的軌道飛行器增添一些閃耀的風采。",
+      "name": "海濱尋寶客內務無人機",
+      "code": "tc"
+    },
+    {
+      "description": "เพิ่มสีสันที่แสนร้อนแรงให้กับยานของคุณด้วยเครื่องทำความสะอาดเครื่องนี้",
+      "name": "โดรน Beachcomber Domestik",
+      "code": "th"
+    },
+    {
+      "description": "Bu göz kamaştırıcı sanitasyon ünitesi ile Orbiter'ine biraz parlaklık ver.",
+      "name": "Beachcomber Domestik Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Додайте блиску своєму орбітру за допомогою цього яскравого прибирального дрона.",
+      "name": "Дрон-прибиральник «Гребінчик»",
+      "code": "uk"
+    }
+  ]
+}

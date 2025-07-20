@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/PaxDuviricus/UnlockPaxDuviricusNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-noble-animation-set-c376f3ccae.png",
+  "name": "Kullervo Noble Animation Set",
+  "description": "This item lets you use Kullervo's noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Kullervos nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Kullervo-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Nobles de Kullervo avec n'importe quelle autre Warframe.",
+      "name": "Animation Kullervo Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Kullervo con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Kullervo",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 쿨레르보의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "쿨레르보 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Kullervo con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones nobles de Kullervo",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Kullervo 的尊贵站姿。",
+      "name": "Kullervo 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Куллерво на любом другом варфрейме.",
+      "name": "Набор анимаций Куллерво: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Kullervoのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Kullervo ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Kullervo w każdym innym Warframe'ie.",
+      "name": "Animacje Kullervo: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Kullervo em qualquer Warframe de sua escolha.",
+      "name": "Animações: Kullervo (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Kullervo 的尊貴站姿。",
+      "name": "Kullervo 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมชุดอนิเมชันที่ดูสง่างามของ Kullervo นี้ได้กับ Warframe ทุกตัว",
+      "name": "ชุดอนิเมชันที่ดูสง่างามของ Kullervo",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Kullervo'nun noble animasyon setinin kullanımına izin verir.",
+      "name": "Kullervo Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Куллерво до будь-якого ворфрейма.",
+      "name": "Куллерво: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cestra-de053fcf83.png",
+  "name": "Cestra",
+  "description": "Compact and deadly, the Cestra discharges bolts of energy at an increasingly rapid rate.",
+  "languages": [
+    {
+      "description": "Kompakt und tödlich, die Cestra feuert Bolzen aus Energie mit ansteigender Feuerrate.",
+      "name": "Cestra",
+      "code": "de"
+    },
+    {
+      "description": "Compact et mortel, le Cestra tire des carreaux d'énergie à un rythme de plus en plus rapide.",
+      "name": "Cestra",
+      "code": "fr"
+    },
+    {
+      "description": "Compatta e mortale, la Cestra spara dardi energetici a una velocità di fuoco sempre maggiore.",
+      "name": "Cestra",
+      "code": "it"
+    },
+    {
+      "description": "작고 치명적인 세스트라는 쏠 수록 더 빨리 발사되는 에너지 볼트를 사용합니다.",
+      "name": "세스트라",
+      "code": "ko"
+    },
+    {
+      "description": "Compacta y mortal, la Cestra descarga rayos de energía a un ritmo cada vez más rápido.",
+      "name": "Cestra",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CESTRA）小巧而致命的锡斯特，以越来越快的射速释放能量弹。",
+      "name": "锡斯特",
+      "code": "zh"
+    },
+    {
+      "description": "Компактная и смертельная, Цестра разряжает энергозаряды с нарастающей скоростью стрельбы.",
+      "name": "Цестра",
+      "code": "ru"
+    },
+    {
+      "description": "エネルギー弾を超高速で連射する銃器。小型ながら驚異的な殺傷力をもつ。",
+      "name": "Cestra",
+      "code": "ja"
+    },
+    {
+      "description": "Kompaktowy i zabójczy, pistolet Cestra uwalnia pociski energetyczne z narastającą szybkością.",
+      "name": "Cestra",
+      "code": "pl"
+    },
+    {
+      "description": "Compacta e mortal, a Cestra dispara dardos de Energia em Velocidade de forma crescente.",
+      "name": "Cestra",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CESTRA）小巧而致命的錫斯特，以越來越快的射速釋放能量彈。",
+      "name": "錫斯特",
+      "code": "tc"
+    },
+    {
+      "description": "Cestra เป็นอาวุธขนาดกะทัดรัดและมีพลังรุนแรง จะยิงกระสุนพลังงานออกมาในอัตราที่เร็วขึ้น",
+      "name": "Cestra",
+      "code": "th"
+    },
+    {
+      "description": "Güçlü ve ölümcül. Cestra düşmanın üzerine sürekli yükselen bir atış hızı ile mermi yağdırır.",
+      "name": "Cestra",
+      "code": "tr"
+    },
+    {
+      "description": "Компактний і вбивчий пістолет. Стріляє енергетичними зарядами зі зростальною швидкістю.",
+      "name": "Цестра",
+      "code": "uk"
+    }
+  ]
+}

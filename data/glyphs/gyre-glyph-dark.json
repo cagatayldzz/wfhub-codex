@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGyreDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gyre-glyph---dark-4246f1bb50.png",
+  "name": "Gyre Glyph - Dark",
+  "description": "A glyph depicting Gyre on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Gyre vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Gyre (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Gyre sur un fond sombre.",
+      "name": "Glyphe Gyre - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gyre su uno sfondo scuro.",
+      "name": "Glifo Gyre - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 자이어를 묘사한 글리프입니다.",
+      "name": "자이어 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Gyre sobre un fondo oscuro.",
+      "name": "Glifo de Gyre - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Gyre 在黑暗背景下的浮印。",
+      "name": "Gyre 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Джайры на темном фоне.",
+      "name": "Глиф: Джайра - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたGyreのグリフ。",
+      "name": "Gyre グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Gyre na ciemnym tle.",
+      "name": "Glif Gyre — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Gyre em um fundo escuro.",
+      "name": "Glifo: Gyre (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "Gyre 在黑暗背景下的浮印。",
+      "name": "Gyre 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Gyre บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Gyre - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Gyre koyu fonlu glif.",
+      "name": "Gyre Glyph - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Джайри на темному тлі.",
+      "name": "Темний гліф «Джайра»",
+      "code": "uk"
+    }
+  ]
+}

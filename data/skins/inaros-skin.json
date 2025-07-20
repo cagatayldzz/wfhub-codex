@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-skin-0e84bbacf7.png",
+  "name": "Inaros Skin",
+  "description": "The standard issue skin for the Inaros Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Inaros Warframe.",
+      "name": "Inaros-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Inaros.",
+      "name": "Aspect Inaros",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Inaros.",
+      "name": "Skin Inaros",
+      "code": "it"
+    },
+    {
+      "description": "이나로스 워프레임을 위한 기본 스킨입니다.",
+      "name": "이나로스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Inaros.",
+      "name": "Diseño de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 的标准外观配置。",
+      "name": "Inaros 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Инароса.",
+      "name": "Скин Инароса",
+      "code": "ru"
+    },
+    {
+      "description": "Inarosの標準型スキン。",
+      "name": "Inaros スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Inaros.",
+      "name": "Inaros: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Inaros.",
+      "name": "Inaros: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Inaros 的標準外觀配置。",
+      "name": "Inaros 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Inaros Warframe",
+      "name": "สกิน Inaros",
+      "code": "th"
+    },
+    {
+      "description": "Inaros Warframe için standart skin.",
+      "name": "Inaros Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Інара.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

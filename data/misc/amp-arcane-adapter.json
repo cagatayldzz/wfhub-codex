@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/WeaponAmpArcaneUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amp-arcane-adapter-994e172e13.png",
+  "name": "Amp Arcane Adapter",
+  "description": "Fuses with an Amp to unlock an Arcane Slot.",
+  "languages": [
+    {
+      "description": "Fusioniert mit einem Verstärker, um den Arkana-Slot freizuschalten.",
+      "name": "VERSTÄRKER ARKANA-ADAPTER",
+      "code": "de"
+    },
+    {
+      "description": "Fusionne avec un Amplificateur pour déverrouiller un emplacement d'Arcane.",
+      "name": "ADAPTATEUR D'ARCANE (AMP)",
+      "code": "fr"
+    },
+    {
+      "description": "Si fonde con un Amp per sbloccare uno Slot Arcane.",
+      "name": "ADATTATORE ARCANE AMP",
+      "code": "it"
+    },
+    {
+      "description": "앰프와 융합하여 아케인 슬롯을 잠금 해제할 수 있습니다.",
+      "name": "앰프 아케인 어댑터",
+      "code": "ko"
+    },
+    {
+      "description": "Se fusiona con un Amp para desbloquear la ranura de Arcano.",
+      "name": "ADAPTADOR DE ARCANO DE AMP",
+      "code": "es"
+    },
+    {
+      "description": "融入一件增幅器来解锁一个赋能槽。",
+      "name": "增幅器赋能槽连接器",
+      "code": "zh"
+    },
+    {
+      "description": "Может быть объединён с усилителем, чтобы разблокировать слот мистификатора.",
+      "name": "АДАПТЕР УСИЛИТЕЛЯ",
+      "code": "ru"
+    },
+    {
+      "description": "アンプに組み合わせることでアルケインスロットを解放できる。",
+      "name": "アンプ アルケインアダプター",
+      "code": "ja"
+    },
+    {
+      "description": "Łączy się z Ampem, aby odblokować gniazdo Arkanów.",
+      "name": "ADAPTER ARKANUM AMPA",
+      "code": "pl"
+    },
+    {
+      "description": "Se funde com uma Amp para desbloquear o Espaço de Arcanos.",
+      "name": "ADAPTADOR DE ARCANO (AMP)",
+      "code": "pt"
+    },
+    {
+      "description": "與一個增幅器進行融合並解鎖賦能欄位。",
+      "name": "增幅器賦能槽連接器",
+      "code": "tc"
+    },
+    {
+      "description": "หลอมรวมกับ Amp เพื่อปลดล็อกสล็อตของ Arcane",
+      "name": "อะแดปเตอร์ ARCANE (AMP)",
+      "code": "th"
+    },
+    {
+      "description": "Bir Arcane Yuvasının kilidini açmak için Amp ile füzyonlanır.",
+      "name": "AMP ARCANE ADAPTÖRÜ",
+      "code": "tr"
+    },
+    {
+      "description": "Кріпиться на підсилювач та відкриває комірку для містифікаторів.",
+      "name": "Тримач містифікаторів для підсилювача",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Eggs/KubrowEgg",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kubrow-egg-d8721ec00c.png",
+  "name": "Kubrow Egg",
+  "description": "This egg is used to transplant the genetic code of a Kubrow onto a Kubrow clone.\n\nLocation: Kubrow Dens found in Grineer Forests on Earth",
+  "languages": [
+    {
+      "description": "Dieses Ei wird verwendet, um den Genetischen Code eines Kubrow in einen Klon zu verpflanzen.\n\nQuelle: In Kubrow Bauten in den Grineer Wäldern auf der Erde.",
+      "name": "Kubrow-Ei",
+      "code": "de"
+    },
+    {
+      "description": "Cet œuf est utilisé pour transplanter le code génétique d'un Kubrow sur un clone de Kubrow.\n\nLieu: Tanières de Kubrow dans les Forêts Grineers, sur Terre",
+      "name": "Œuf de Kubrow",
+      "code": "fr"
+    },
+    {
+      "description": "Quest'uovo viene utilizzato per trasferire il codice genetico di un Kubrow a un clone Kubrow.\n\nPosizione: Tana Kubrow trovata nelle Foreste Grineer sulla Terra",
+      "name": "Uovo Kubrow",
+      "code": "it"
+    },
+    {
+      "description": "이 알은 쿠브로의 유전 코드를 복제품에게 이식하는데 사용됩니다.\n\n획득 가능 장소: 지구의 그리니어 숲에서 발견되는 쿠브로 둥지",
+      "name": "쿠브로 알",
+      "code": "ko"
+    },
+    {
+      "description": "Este huevo se usa para trasplantar el código genético de un kubrow a un clon de kubrow.\n\nUbicación: Madrigueras de kubrows que se encuentran en los bosques grineer en la Tierra",
+      "name": "Huevo de kubrow",
+      "code": "es"
+    },
+    {
+      "description": "这个蛋是用来将库狛的遗传密码转移到库狛克隆体上。\n\n获取地点：Grineer 森林（地球）中的库狛兽穴",
+      "name": "库狛蛋",
+      "code": "zh"
+    },
+    {
+      "description": "Это яйцо используется для трансплантации генетического кода кубрау клону.\n\nМестонахождение: Логова кубрау в лесах Гринир на Земле.",
+      "name": "Яйцо кубрау",
+      "code": "ru"
+    },
+    {
+      "description": "この卵はクブロウの遺伝子コードをクブロウのクローンへ転移する。\n\n場所：グリニア森林（地球）にあるクブロウの巣穴",
+      "name": "クブロウの卵",
+      "code": "ja"
+    },
+    {
+      "description": "To jajo jest używane do przeszczepiania kodu genetycznego Kubrowa na jego klona.\n\nPołożenie: Leże Kubrowa znalezione w Lasach Grineer na Ziemi",
+      "name": "Jajo Kubrowa",
+      "code": "pl"
+    },
+    {
+      "description": "Este ovo é usado para transplantar o código genético de um Kubrow para um clone de Kubrow.\n\nLocalização: Cavernas de Kubrow encontradas em Florestas Grineer, na Terra",
+      "name": "Ovo de Kubrow",
+      "code": "pt"
+    },
+    {
+      "description": "這個蛋是用來將庫狛的遺傳密碼轉移到庫狛複製體上。\n\n地點：地球上的 Grineer 森林裡的庫狛獸穴",
+      "name": "庫狛蛋",
+      "code": "tc"
+    },
+    {
+      "description": "ไข่ใบนี้จะถูกนำไปใช้เพื่อการปลูกถ่ายรหัสพันธุกรรมของ Kubrow ไปยังร่างโคลน Kubrow\n\nแหล่งที่พบ: รัง Kubrow ที่พบในป่า Grineer บนโลก",
+      "name": "ไข่ Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Bu yumurta Kubrow'un genetik kodunun Kubrow klonlarına aktarılmasında kullanılır.\n\nKonum: Dünya'daki Grineer Ormanlarında bulunan Kubrow Mağaraları",
+      "name": "Kubrow Yumurtası",
+      "code": "tr"
+    },
+    {
+      "description": "Джерело генетичного коду, необхідне для створення клона куброу.\n\nМожна здобути з лігв куброу у ґрінерських лісах (Земля).",
+      "name": "Яйце куброу",
+      "code": "uk"
+    }
+  ]
+}

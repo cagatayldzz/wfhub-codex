@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/WerewolfHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voruna-helmet-6794918ab0.png",
+  "name": "Voruna Helmet",
+  "description": "The standard issue helmet for the Voruna Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Voruna Warframe.",
+      "name": "Voruna-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard de la Warframe Voruna.",
+      "name": "Casque Voruna",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Voruna.",
+      "name": "Elmo Voruna",
+      "code": "it"
+    },
+    {
+      "description": "보루나 워프레임을 위한 기본 헬멧입니다.",
+      "name": "보루나 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Voruna.",
+      "name": "Casco de Voruna",
+      "code": "es"
+    },
+    {
+      "description": "Voruna 的标准头盔。",
+      "name": "Voruna 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Воруны.",
+      "name": "Шлем Воруны",
+      "code": "ru"
+    },
+    {
+      "description": "Vorunaの標準型ヘルメット。",
+      "name": "Voruna ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Voruna.",
+      "name": "Voruna: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Voruna.",
+      "name": "Voruna: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Voruna 的標準頭盔。",
+      "name": "Voruna 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Voruna Warframe",
+      "name": "หมวกเหล็ก Voruna",
+      "code": "th"
+    },
+    {
+      "description": "Voruna Warframe için standart miğfer.",
+      "name": "Voruna Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Воруни.",
+      "name": "Шолом Воруни",
+      "code": "uk"
+    }
+  ]
+}

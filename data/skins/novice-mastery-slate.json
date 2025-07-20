@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank04Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/novice-mastery-slate-8e7ee7f185.png",
+  "name": "Novice Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 4 - Novice.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 4 - Novize zu ehren.",
+      "name": "Meisterschaft-Insignie: Novize",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 4 - Novice.",
+      "name": "Ardoise de Maîtrise - Novice",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 4 - Novizio.",
+      "name": "Targa Maestria - Novizio",
+      "code": "it"
+    },
+    {
+      "description": "랭크 4 - 노비스에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "노비스 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango de 4 - Novato.",
+      "name": "Placa de Maestría de Novato",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 4－信徒所打造的物品。",
+      "name": "信徒精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 4 - Ученик.",
+      "name": "Сланец Мастерства: Ученик",
+      "code": "ru"
+    },
+    {
+      "description": "ノービスランク「マスタリーランク4」へ到達したテンノの成果を示す表彰楯。",
+      "name": "ノービス マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 4 - Nowicjusz.",
+      "name": "Tablica Mistrzostwa Nowicjusz",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 4 - Aprendiz.",
+      "name": "Ardósia de Maestria: Aprendiz",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 4－信徒的成就。",
+      "name": "信徒精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 4 - มือสมัครเล่น",
+      "name": "กระดานชนวนความเชี่ยวชาญ: มือสมัครเล่น",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 4 - Novice seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Novice Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 4-го рівня майстерності — «Новачок».",
+      "name": "Табличка «Новачок»",
+      "code": "uk"
+    }
+  ]
+}

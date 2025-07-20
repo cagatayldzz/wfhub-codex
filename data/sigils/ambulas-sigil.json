@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAmbulas",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ambulas-sigil-cdfb9752a3.png",
+  "name": "Ambulas Sigil",
+  "description": "A sigil depicting the Ambulas.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Ambulas darstellt.",
+      "name": "Siegel: Ambulas",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Ambulas.",
+      "name": "Sceau d'Ambulas",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Ambulas.",
+      "name": "Sigillo Ambulas",
+      "code": "it"
+    },
+    {
+      "description": "앰뷸라스가 묘사된 시질입니다.",
+      "name": "앰뷸라스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando a Ambulas.",
+      "name": "Sello de Ambulas",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着 Ambulas 的纹章",
+      "name": "Ambulas 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Амбуласа.",
+      "name": "Сигил: Амбулас",
+      "code": "ru"
+    },
+    {
+      "description": "Ambulasを描いたシジル。",
+      "name": "Ambulas シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Ambulasa.",
+      "name": "Znak Ambulasa",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando Âmbulas.",
+      "name": "Brasão: Âmbulas",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ambulas 的紋章。",
+      "name": "Ambulas 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Ambulas",
+      "name": "เครื่องหมาย: Ambulas",
+      "code": "th"
+    },
+    {
+      "description": "Ambulas'ı temsil eden bir mühür",
+      "name": "Ambulas Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Амбулас.",
+      "name": "Сиґіл «Амбулас»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tralok-b4ecadea1c.png",
+  "name": "Tralok",
+  "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+  "languages": [
+    {
+      "description": "Ein starker Raubfisch mit Augen, die durch die dunkelsten Schatten dringen können.",
+      "name": "Tralok",
+      "code": "de"
+    },
+    {
+      "description": "Un poisson prédateur costaud ayant des yeux pouvant percer les ombres les plus sombres.",
+      "name": "Tralok",
+      "code": "fr"
+    },
+    {
+      "description": "Un forte pesce predatore con occhi che possono vedere nel buio più oscuro.",
+      "name": "Tralok",
+      "code": "it"
+    },
+    {
+      "description": "아주 어두운 그림자도 꿰뚫어볼 수 있는 눈을 가진 강한 포식성 물고기입니다.",
+      "name": "트랄록",
+      "code": "ko"
+    },
+    {
+      "description": "Fuerte pez predador con ojos que pueden atravesar hasta las más oscuras sombras.",
+      "name": "Tralok",
+      "code": "es"
+    },
+    {
+      "description": "强壮的捕食者，视力优异，足以看透最暗的阴影。",
+      "name": "塔洛",
+      "code": "zh"
+    },
+    {
+      "description": "Мощная, хищная рыба, чьи глаза способны видеть даже в самых темных местах.",
+      "name": "Тралок",
+      "code": "ru"
+    },
+    {
+      "description": "暗い水の中でも容易く獲物を捕獲する肉食魚。",
+      "name": "トラロック",
+      "code": "ja"
+    },
+    {
+      "description": "Silna, drapieżna ryba z oczami, które widzą nawet w największych mrokach.",
+      "name": "Tralok",
+      "code": "pl"
+    },
+    {
+      "description": "Peixe forte e predatório com olhos que podem perfurar as sombras mais sombrias.",
+      "name": "Tralok",
+      "code": "pt"
+    },
+    {
+      "description": "強壯的捕食者，視力優異，足以看透最暗的陰影。",
+      "name": "塔洛",
+      "code": "tc"
+    },
+    {
+      "description": "ปลานักล่าที่แข็งแกร่งและมีดวงตาที่สามารถทะลุเงาที่มืดมิดที่สุดได้",
+      "name": "Tralok",
+      "code": "th"
+    },
+    {
+      "description": "En karanlık gölgeyi delebilcek gözlerle güçlü bir yırtıcı balık.",
+      "name": "Tralok",
+      "code": "tr"
+    },
+    {
+      "description": "Сильний хижак, чиї очі можуть бачити навіть у найнепрогляднішій темряві.",
+      "name": "Трелок",
+      "code": "uk"
+    }
+  ]
+}

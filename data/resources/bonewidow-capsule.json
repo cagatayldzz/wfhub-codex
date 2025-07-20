@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bonewidow-capsule.png",
+  "name": "Bonewidow Capsule",
+  "description": "Capsule component for the Bonewidow Necramech.",
+  "languages": [
+    {
+      "description": "Hülsen-Komponente für den Bonewidow Necramech.",
+      "name": "Bonewidow: Hülse",
+      "code": "de"
+    },
+    {
+      "description": "Le composant Capsule du Necramech Bonewidow.",
+      "name": "Bonewidow - Capsule",
+      "code": "fr"
+    },
+    {
+      "description": "Il componente Capsula per il Necramech Bonewidow.",
+      "name": "Bonewidow - Capsula",
+      "code": "it"
+    },
+    {
+      "description": "본위도우 네크라메크의 캡슐 부품입니다.",
+      "name": "본위도우 캡슐",
+      "code": "ko"
+    },
+    {
+      "description": "Componente de la cápsula del Necramech Bonewidow.",
+      "name": "Cápsula de Bonewidow",
+      "code": "es"
+    },
+    {
+      "description": "骨骸寡妇殁世机甲的机舱组件。",
+      "name": "骨骸寡妇 机舱",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент некрамеха «Костяная вдова» — капсула.",
+      "name": "Костяная Вдова: Капсула",
+      "code": "ru"
+    },
+    {
+      "description": "Bonewidowネクロメカ用のカプセルパーツ。",
+      "name": "Bonewidow カプセル",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent kapsuły Nekramecha Bonewidow.",
+      "name": "Bonewidow: Kapsuła",
+      "code": "pl"
+    },
+    {
+      "description": "Cápsula componente do Necramech Bonewidow.",
+      "name": "Bonewidow: Cápsula",
+      "code": "pt"
+    },
+    {
+      "description": "骨寡婦亡骸機甲的機艙部件。",
+      "name": "骨寡婦 機艙",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบแคปซูลสำหรับ Bonewidow Necramech",
+      "name": "Bonewidow: แคปซูล",
+      "code": "th"
+    },
+    {
+      "description": "Bonewidow Necramech için Kapsül bileşeni.",
+      "name": "Bonewidow Kapsülü",
+      "code": "tr"
+    },
+    {
+      "description": "Деталі капсули для некрамеха «Кістяна Вдова».",
+      "name": "«Кістяна Вдова»: капсула",
+      "code": "uk"
+    }
+  ]
+}

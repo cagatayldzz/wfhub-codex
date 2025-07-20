@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamEnergyTotem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/squad-energy-restore-(large)-ead7220099.png",
+  "name": "Squad Energy Restore (Large)",
+  "description": "Restores Energy to all squad members. Pulses 100 Energy every 7.5s for 30s.",
+  "languages": [
+    {
+      "description": "Stellt Energie für alle Teammitglieder wieder her. Pulsiert 100 Energie jede 7.5s für 30s.",
+      "name": "Team Energienachschub (Groß)",
+      "code": "de"
+    },
+    {
+      "description": "Restaure de l'Énergie de tous les membres de l'escouade. Envoie 100 points d'Énergie toutes les 7,5s pendant 30s.",
+      "name": "Kit d'Escouade - Énergie (Grand)",
+      "code": "fr"
+    },
+    {
+      "description": "Fornisce Energia a tutta la squadra. 100 Energia ad impulso ogni 7.5s per 30s.",
+      "name": "Ricarica Energia di Squadra (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "모든 분대원들의 에너지를 회복시킵니다. 30초 동안 매 7.5초마다 100의 에너지를 회복시키는 파동을 내보냅니다.",
+      "name": "분대용 에너지 회복 키트 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura energía a todos los miembros del escuadrón. Pulsa 100 de energía cada 7.5 s por 30 s.",
+      "name": "Restaurador de energía de escuadrón (grande)",
+      "code": "es"
+    },
+    {
+      "description": "恢复全团队的能量。每次脉冲恢复 100 点能量。脉冲间隔 7.5 秒，共计 30 秒。",
+      "name": "团队能量补给（大型）",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает энергию всем в отряде. Восполняет 100 ед. энергии каждые 7,5 с в течение 30 с.",
+      "name": "Восст. энергии отряда (большой)",
+      "code": "ru"
+    },
+    {
+      "description": "分隊のエネルギーを回復する。30秒の間7.5秒ごとに出るパルスごとに100エネルギー補充される。",
+      "name": "チームエネルギーリストア（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Odnawia Energię całemu zespołowi. Odnawia 100 Energii co 7.5s przez 30s.",
+      "name": "Odnowa Energii Zespołu (duża)",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura Energia para todos os membros do esquadrão. Pulsa 100 de Energia a cada 7.5s durante 30s.",
+      "name": "Gerador de Energia - Esquadrão (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "恢復全團隊的能量。每次脈衝恢復 100 點能量。脈衝間隔 7.5 秒，共計 30 秒。",
+      "name": "團隊能量補給（大型）",
+      "code": "tc"
+    },
+    {
+      "description": "ฟื้นฟูพลังงานให้กับสมาชิกในทีมทุกคน ซึ่งจะกระตุ้นให้สร้างพลังงาน 100 หน่วยทุก ๆ 7.5 วินาที เป็นเวลา 30 วินาที",
+      "name": "ฟื้นฟูพลังงานให้ทีม (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Tüm takım üyelerinin Enerjisini yeniler. 30 saniye boyunca her 7.5 saniyede 100 Enerji verir.",
+      "name": "Takım Enerji Yenileme (Büyük)",
+      "code": "tr"
+    },
+    {
+      "description": "Кожні 7,5 с відновлює всім учасникам загону 100 енергії впродовж 30 с.",
+      "name": "Відновник енергії загону (великий)",
+      "code": "uk"
+    }
+  ]
+}

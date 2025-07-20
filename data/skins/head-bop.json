@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceHeadphonesBop",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/head-bop-c64c667a59.png",
+  "name": "Head Bop",
+  "description": "Nod to the rhythm.",
+  "languages": [
+    {
+      "description": "Nicke mit dem Rhythmus.",
+      "name": "Nicken",
+      "code": "de"
+    },
+    {
+      "description": "Bougez la tête en rythme.",
+      "name": "Hocher la tête",
+      "code": "fr"
+    },
+    {
+      "description": "Annuisci a tempo di musica.",
+      "name": "Annuisci a Ritmo",
+      "code": "it"
+    },
+    {
+      "description": "리듬을 타며 고개를 끄덕입니다.",
+      "name": "머리 까딱",
+      "code": "ko"
+    },
+    {
+      "description": "Mueve la cabeza al ritmo.",
+      "name": "Sacude la cabeza",
+      "code": "es"
+    },
+    {
+      "description": "随着节奏点头。",
+      "name": "点头舞",
+      "code": "zh"
+    },
+    {
+      "description": "Покачивайте головой в ритм.",
+      "name": "Качание головой",
+      "code": "ru"
+    },
+    {
+      "description": "リズムに合わせうなずこう。",
+      "name": "ボッピング",
+      "code": "ja"
+    },
+    {
+      "description": "Kiwanie głową do rytmu.",
+      "name": "Kiwanie głową",
+      "code": "pl"
+    },
+    {
+      "description": "Acene com a cabeça no ritmo.",
+      "name": "Acenar com a cabeça",
+      "code": "pt"
+    },
+    {
+      "description": "跟著節奏擺動。",
+      "name": "搖頭晃腦",
+      "code": "tc"
+    },
+    {
+      "description": "พยักหน้าไปตามจังหวะ",
+      "name": "เฮดบ็อบ",
+      "code": "th"
+    },
+    {
+      "description": "Ritme uyarak kafa salla.",
+      "name": "Kafa Sallamak",
+      "code": "tr"
+    },
+    {
+      "description": "Ритмічний рух головою.",
+      "name": "Рухи головою",
+      "code": "uk"
+    }
+  ]
+}

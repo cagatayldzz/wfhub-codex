@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilLimbo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rift-walker-prime-sigil-51884d469f.png",
+  "name": "Rift Walker Prime Sigil",
+  "description": "The signature sigil of Limbo Prime.",
+  "languages": [
+    {
+      "description": "Das unverkennbare Siegel von Limbo Prime.",
+      "name": "Siegel: Rift-Wandler Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le Sceau de prédilection de Limbo Prime.",
+      "name": "Sceau Voyageur Dimensionnel Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il sigillo caratteristico di Limbo Prime.",
+      "name": "Sigillo Rift Walker Prime",
+      "code": "it"
+    },
+    {
+      "description": "림보 프라임의 대표 시질입니다.",
+      "name": "리프트 워커 프라임 시질",
+      "code": "ko"
+    },
+    {
+      "description": "El sello característico de Limbo Prime.",
+      "name": "Sello del Caminante Dimensional Prime",
+      "code": "es"
+    },
+    {
+      "description": "Limbo Prime 的标志性纹章。",
+      "name": "裂隙行者 Prime 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Особый сигил Лимбо Прайм.",
+      "name": "Прайм Сигил: Скиталец Среди Разломов",
+      "code": "ru"
+    },
+    {
+      "description": "Limbo Primeを象徴するシジル。",
+      "name": "Rift Walker Prime シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczny znak Limbo Prime.",
+      "name": "Znak Chodzącego między wymiarami",
+      "code": "pl"
+    },
+    {
+      "description": "O brasão tradicional do Limbo Prime.",
+      "name": "Brasão: Andarilho do Rift Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Limbo Prime 的標誌性紋章。",
+      "name": "裂隙行者 Prime 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่เป็นเอกลักษณ์ของ Limbo Prime",
+      "name": "เครื่องหมาย: Rift Walker Prime",
+      "code": "th"
+    },
+    {
+      "description": "Limbo Prime'ın temsili mührü.",
+      "name": "Rift Walker Prime Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний сиґіл ворфрейма Лімбо-прайм.",
+      "name": "Сиґіл-прайм «Мандрівник вимірами»",
+      "code": "uk"
+    }
+  ]
+}

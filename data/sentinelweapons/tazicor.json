@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tazicor-07ebe56d23.png",
+  "name": "Tazicor",
+  "description": "Releases a burst of static electricity that can jump between foes, incapacitating them.",
+  "languages": [
+    {
+      "description": "Gibt eine Salve statischer Elektrizität frei, die zwischen Gegnern hin- und herspringt und sie außer Gefecht setzen kann.",
+      "name": "Tazicor",
+      "code": "de"
+    },
+    {
+      "description": "Libère une explosion d'électricité statique qui peut passer entre les ennemis, les neutralisant.",
+      "name": "Tazicor",
+      "code": "fr"
+    },
+    {
+      "description": "Rilascia una scarica di elettricità statica che può colpire i nemici, neutralizzandoli.",
+      "name": "Tazicor",
+      "code": "it"
+    },
+    {
+      "description": "적들 사이를 건너다니며 무력화시키는 정전기의 폭발을 방출합니다.",
+      "name": "타지코어",
+      "code": "ko"
+    },
+    {
+      "description": "Libera una ráfaga de electricidad estática que puede saltar entre los enemigos, incapacitándolos.",
+      "name": "Tazicor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TAZICOR）释放出一阵静电，该静电可以在敌人之间跳跃，使他们失去战斗能力。",
+      "name": "泰瑟步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Выпускает заряд статического электричества, который может передаваться по цепи от одного противника к другому, выводя их из строя.",
+      "name": "Тазикор",
+      "code": "ru"
+    },
+    {
+      "description": "敵の間を跳ね回って無力化する静電気の奔流を放出する。",
+      "name": "Tazicor",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy krótkie wyładowania elektryczności, które przeskakują między wrogami i ich obezwładniają.",
+      "name": "Tazicor",
+      "code": "pl"
+    },
+    {
+      "description": "Liberará uma explosão de eletricidade estática que pode saltar entre os inimigos, incapacitando-os.",
+      "name": "Tazicor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TAZICOR）釋放一陣靜電，其會在敵人之間傳導，使他們喪失行動能力。",
+      "name": "泰瑟步槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปล่อยพลังไฟฟ้าสถิตย์ที่จะพุ่งกระโดดไปมาระหว่างศัตรู ส่งผลให้พวกมันไม่สามารถเคลื่อนไหวได้",
+      "name": "Tazicor",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlar arasında sıçrayan ve onları etkisiz hale getiren bir statik elektrik patlaması oluşturur.",
+      "name": "Tazicor",
+      "code": "tr"
+    },
+    {
+      "description": "Вивільняє розряд статичної електрики, який переміщається між ворогами, виводячи їх з ладу.",
+      "name": "Тазікор",
+      "code": "uk"
+    }
+  ]
+}

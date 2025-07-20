@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Bows/AntlerBow/AntlerBow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cernos-c01dea74b2.png",
+  "name": "Cernos",
+  "description": "Evoking the design of ancient bows, the high impact Cernos is perfect for hunting down highly shielded enemies.",
+  "languages": [
+    {
+      "description": "Ruft das Design antiker Bögen wach. Cernos' starker Einschlag ist perfekt, um Feinde mit hohem Schild zur Strecke zu bringen.",
+      "name": "Cernos",
+      "code": "de"
+    },
+    {
+      "description": "Évoquant le style des anciens arcs, l'impact puissant du Cernos est parfait pour chasser les ennemis lourdement blindés.",
+      "name": "Cernos",
+      "code": "fr"
+    },
+    {
+      "description": "Il Cernos è un arco che rievoca il design di antiche armi, ed è particolarmente indicato contro nemici con scudi energetici potenti.",
+      "name": "Cernos",
+      "code": "it"
+    },
+    {
+      "description": "고대의 활의 모습을 연상시키는 세르노스는 강력한 충격으로 높은 실드를 가진 적들을 사냥하기에 좋습니다.",
+      "name": "세르노스",
+      "code": "ko"
+    },
+    {
+      "description": "Evocando el diseño de los arcos antiguos, el gran impacto del Cernos es perfecto para dar caza a los enemigos altamente blindados.",
+      "name": "Cernos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CERNOS）这把冲击力强大的西诺斯长弓十分擅长猎杀高护盾的敌人，让人回想起古代长弓的设计。",
+      "name": "西诺斯",
+      "code": "zh"
+    },
+    {
+      "description": "Используя дизайн древних луков, Кернунн способен наносить сильное ударное повреждение. Идеален для охоты за целями, имеющими высокий уровень щита.",
+      "name": "Кернунн",
+      "code": "ru"
+    },
+    {
+      "description": "古代の弓を想起させるデザインのCernosは、その凄まじい打撃力で敵の高出力シールドをやすやすと打ち破る。",
+      "name": "Cernos",
+      "code": "ja"
+    },
+    {
+      "description": "Odwołujący się wyglądem do starożytnych łuków, wzmocniony Cernos jest doskonały do łowów na lekko opancerzonych nieprzyjaciół.",
+      "name": "Cernos",
+      "code": "pl"
+    },
+    {
+      "description": "Evocando o design de arcos antigos, o Cernos de alto impacto é perfeito para caçar inimigos altamente protegidos.",
+      "name": "Cernos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CERNOS）這把衝擊力強大的西諾斯長弓十分擅長獵殺高護盾的敵人，讓人回想起古代長弓的設計。",
+      "name": "西諾斯",
+      "code": "tc"
+    },
+    {
+      "description": "Cernos มีการออกแบบที่ทำให้นึกถึงธนูแบบโบราณ มีแรงกระแทกสูง จึงเหมาะอย่างยิ่งสำหรับใช้ล่าศัตรูที่มีโล่ป้องกันสูง",
+      "name": "Cernos",
+      "code": "th"
+    },
+    {
+      "description": "Kadim zamanların dizaynlarını çağrıştıran bir yay olan yüksek darbeli Cernos yayı, ağır zırhlı düşmanları yere sermek için biçilmiş kaftandır.",
+      "name": "Cernos",
+      "code": "tr"
+    },
+    {
+      "description": "Виготовлений за прадавніми креслениками лук. Завдяки високій ударній шкоді просто ідеально підходить для вбивства ворогів із великим об’ємом щитів.",
+      "name": "Цернос",
+      "code": "uk"
+    }
+  ]
+}

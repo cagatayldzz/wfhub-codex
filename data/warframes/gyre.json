@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Gyre/Gyre",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gyre-b17b2d4464.png",
+  "name": "Gyre",
+  "description": "Annihilate enemies with the conductivity of coils and transmitters. Gyre’s electric attacks provide crowd control. She is the embodiment of elegant theory.",
+  "armor": 105,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Vernichte Feinde mit Leitfähigkeit von Spulen und Transmittern. Gyres elektrische Angriffe bieten Gruppenkontrolle. Sie ist die Verkörperung eleganter Theorie.",
+      "name": "Gyre",
+      "code": "de"
+    },
+    {
+      "description": "Anéantissez les ennemis avec la conductivité des bobines et des émetteurs. Les attaques électriques de Gyre permettent de contrôler les foules. Elle est l'incarnation d'une théorie élégante.",
+      "name": "Gyre",
+      "code": "fr"
+    },
+    {
+      "description": "Annienta i nemici con la conduttività di bobine e trasmettitori. Gli attacchi elettrici di Gyre permettono il controllo di massa. È l'incarnazione di una teoria elegante.",
+      "name": "Gyre",
+      "code": "it"
+    },
+    {
+      "description": "코일과 트랜스미터의 전도력으로 적을 완파해 보세요. 자이어의 전기 공격은 군중 제어를 제공하며, 그 모습으로 품격 있는 이론을 체현합니다.",
+      "name": "자이어",
+      "code": "ko"
+    },
+    {
+      "description": "Aniquila enemigos con la conductividad de bobinas y transmisores. Los ataques eléctricos de Gyre brindan control de masas. Ella es la encarnación de la teoría elegante.",
+      "name": "Gyre",
+      "code": "es"
+    },
+    {
+      "description": "通过带电线圈与发射器的传导性来消灭敌人，Gyre 的电击可对敌人施加群体控制。她是优雅理论的化身。",
+      "name": "Gyre",
+      "code": "zh"
+    },
+    {
+      "description": "Уничтожайте врагов проводимостью катушек и передатчиков. Электрические атаки Джайры обеспечивают контроль над толпой. Она — само воплощение теории элегантности.",
+      "name": "Джайра",
+      "code": "ru"
+    },
+    {
+      "description": "コイルとトランスミッターで敵を感電させるGyre。彼女が放つ華麗な電気攻撃はそれに翻弄された敵を制圧する。",
+      "name": "Gyre",
+      "code": "ja"
+    },
+    {
+      "description": "Unicestwiaj wrogów, wykorzystując przewodność cewek i transmiterów. Elektryczne ataki Gyre zapewniają jej panowanie nad tłumami. Gyre jest ucieleśnieniem eleganckiej teorii.",
+      "name": "Gyre",
+      "code": "pl"
+    },
+    {
+      "description": "Aniquile os inimigos com a condutividade de bobinas e transmissores. Os ataques elétricos da Gyre fornecem alto controle de grupo. Ela é a personificação de uma teoria elegante.",
+      "name": "Gyre",
+      "code": "pt"
+    },
+    {
+      "description": "利用線圈和發射器的傳導性來消滅敵人。Gyre 的電擊提供群控。她是優雅理論的體現。",
+      "name": "Gyre",
+      "code": "tc"
+    },
+    {
+      "description": "Gyre ทำลายล้างศัตรูด้วยขดลวดที่เป็นสื่อกระแสไฟฟ้าและตัวส่งสัญญาณ ใช้ CC ควบคุมศัตรูด้วยไฟฟ้า เป็นการรวมทฤษฎีเข้าไว้ด้วยกันอย่างสง่างาม",
+      "name": "Gyre",
+      "code": "th"
+    },
+    {
+      "description": "Bobinlerin ve vericilerin iletkenliği ile düşmanları yok et. Gyre'ın elektrikli saldırıları kitle kontrolü sağlar. Zarif teoriyi bünyesinde barındırır.",
+      "name": "Gyre",
+      "code": "tr"
+    },
+    {
+      "description": "Втілення теорії елегантності. Знищуйте ворогів за допомогою провідності котушок та передавачів. Електричні атаки Джайри забезпечують керування натовпом.",
+      "name": "Джайра",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/qorvex-ec9d170e8b.png",
+  "name": "Qorvex",
+  "description": "Albrecht Entrati designed Qorvex to protect a Chosen Operator from the unique hazards of his lab. A Crucible Core gives Qorvex high survivability as he provides crowd control.",
+  "armor": 875,
+  "languages": [
+    {
+      "description": "Albrecht Entrati hat Qorvex entworfen, um einen erwählten Operator vor den einzigartigen Gefahren seines Labors zu schützen. Eine Kernschmelze verleiht Qorvex eine hohe Überlebensfähigkeit, während er Gruppenkontrolle ausübt.",
+      "name": "Qorvex",
+      "code": "de"
+    },
+    {
+      "description": "Albrecht Entrati a conçu Qorvex pour protéger un Opérateur choisi des dangers uniques de son laboratoire. Un cœur de Creuset donne à Qorvex une grande capacité de survie via le contrôle des foules.",
+      "name": "Qorvex",
+      "code": "fr"
+    },
+    {
+      "description": "Albrecht Entrati ha progettato Qorvex per proteggere un Operatore Prescelto dai peculiari pericoli del suo laboratorio. Un Nucleo di Crogiolo conferisce a Qorvex un'elevata sopravvivenza tramite il controllo di massa.",
+      "name": "Qorvex",
+      "code": "it"
+    },
+    {
+      "description": "알브레히트는 자신의 연구실에 도사리는 고유의 위험 요소로부터 선택받은 오퍼레이터를 지키기 위해 코르벡스를 설계했습니다. 코르벡스가 갖춘 크루시블 코어는 그에게 높은 생존력과 군중 제어 능력을 제공합니다.",
+      "name": "코르벡스",
+      "code": "ko"
+    },
+    {
+      "description": "Albrecht Entrati diseñó a Qorvex para proteger a un operador elegido de los peligros únicos de su laboratorio. Un núcleo de crisol le da a Qorvex gran capacidad de supervivencia ya que proporciona habilidades de control de masas.",
+      "name": "Qorvex",
+      "code": "es"
+    },
+    {
+      "description": "阿尔布雷希特·英择谛设计 Qorvex，是为了防止被选中的指挥官受到其实验室中特殊风险的危害。堆芯赋予了 Qorvex 群体控制的能力，从而使其具有强大的生存能力。",
+      "name": "Qorvex",
+      "code": "zh"
+    },
+    {
+      "description": "Альбрехт Энтрати разработал Корвекса, чтобы защитить Избранного Оператора от уникальных опасностей его лаборатории. Ядро Горнила даёт Корвексу повышенную выживаемость, обеспечивая контроль над толпой.",
+      "name": "Корвекс",
+      "code": "ru"
+    },
+    {
+      "description": "Albrecht Entratiは、選ばれしオペレーターを研究所特有の危険から守るためにQorvexを設計した。クルーシバルコアによるクラウドコントロール能力は、Qorvexの生存性を高める。",
+      "name": "Qorvex",
+      "code": "ja"
+    },
+    {
+      "description": "Albrecht Entrati zaprojektował Qorvexa, aby chronić Wybranego Operatora przed jedynymi w swoim rodzaju zagrożeniami w jego laboratorium. Rdzeń Tygla zapewnia Qorvexowi wysoką wytrzymałość, kiedy on panuje nad wrogami.",
+      "name": "Qorvex",
+      "code": "pl"
+    },
+    {
+      "description": "Albrecht Entrati projetou o Qorvex para proteger um Operador Escolhido dos perigos únicos do seu laboratório. Um Núcleo de Crisol dá ao Qorvex uma grande capacidade de sobrevivência por meio do controle de multidão.",
+      "name": "Qorvex",
+      "code": "pt"
+    },
+    {
+      "description": "阿爾布雷希特．源拓氏設計 Qorvex 來保護被揀選的指揮官免於受到他的實驗室裡的獨特災害。Qorvex 展現出高超群控能力的同時，坩堝核心也賦予了 Qorvex 高生存能力。",
+      "name": "Qorvex",
+      "code": "tc"
+    },
+    {
+      "description": "Albrecht Entrati ออกแบบ Qorvex มาให้ปกป้องโอเปอเรเตอร์ผู้ถูกเลือกจากอันตรายในห้องทดลอง โดย Qorvex จะใช้แกนจากเบ้าหลอมที่จะช่วยให้เอาตัวรอดได้สูงระหว่างที่ใช้ CC ควบคุมศัตรู",
+      "name": "Qorvex",
+      "code": "th"
+    },
+    {
+      "description": "Albrecht Entrati, Qorvex'i, Seçilmiş bir Operatörü laboratuvarının benzersiz tehlikelerinden koruması için tasarladı. Bir Pota Çekirdeği, Qorvex'e kitle kontrolü sağlarken, ona yüksek hayatta kalma kabiliyeti de verir.",
+      "name": "Qorvex",
+      "code": "tr"
+    },
+    {
+      "description": "Альбрехт Ентраті розробив Корвекса, щоб захистити обраного оператора від небезпек його лабораторії. Ядро тигля надає Корвексу потужну живучість завдяки керуванню натовпом.",
+      "name": "Корвекс",
+      "code": "uk"
+    }
+  ]
+}

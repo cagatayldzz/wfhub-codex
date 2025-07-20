@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardGauss",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauss-prex-95a1c9883e.png",
+  "name": "Gauss Prex",
+  "description": "The Saint of Altra",
+  "languages": [
+    {
+      "description": "Heiliger von Altra",
+      "name": "Gauss Prex",
+      "code": "de"
+    },
+    {
+      "description": "Le Conquérant d'Altra",
+      "name": "Prex Gauss",
+      "code": "fr"
+    },
+    {
+      "description": "Il Redentore di Altra",
+      "name": "Prex: Gauss",
+      "code": "it"
+    },
+    {
+      "description": "알트라의 성자",
+      "name": "가우스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "El Salvador de Altra",
+      "name": "Prex de Gauss",
+      "code": "es"
+    },
+    {
+      "description": "阿尔特拉的圣者",
+      "name": "Gauss Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Покровитель Альтры",
+      "name": "Прекс: Гаусс",
+      "code": "ru"
+    },
+    {
+      "description": "アルトラの聖人",
+      "name": "Gauss プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Święty z Altry",
+      "name": "Prex: Gauss",
+      "code": "pl"
+    },
+    {
+      "description": "O Santo de Altra",
+      "name": "Prex: Gauss",
+      "code": "pt"
+    },
+    {
+      "description": "阿爾特拉的聖者",
+      "name": "卡牌 — Gauss",
+      "code": "tc"
+    },
+    {
+      "description": "นักบุญแห่ง Altra",
+      "name": "ไพ่เพร็กซ์ Gauss",
+      "code": "th"
+    },
+    {
+      "description": "Altra'nın Azizi",
+      "name": "Gauss Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Покровитель Альтри",
+      "name": "Прекс Ґаусса",
+      "code": "uk"
+    }
+  ]
+}

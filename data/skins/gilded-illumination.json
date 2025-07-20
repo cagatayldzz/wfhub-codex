@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstArtisanBulbs",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gilded-illumination-eff0ad86cb.png",
+  "name": "Gilded Illumination",
+  "description": "Illumination, crafted by Ostron glassworkers, fashioned and gilded to aesthetic perfection.",
+  "languages": [
+    {
+      "description": "Eine Beleuchtung, von Ostron Glasbläsern hergestellt, gestaltet und veredelt, um ästhetische Perfektion zu erreichen.",
+      "name": "Veredelte Beleuchtung",
+      "code": "de"
+    },
+    {
+      "description": "Illumination, fabriquée par les verriers Ostrons, stylisée et polie à la perfection.",
+      "name": "Illumination Polie",
+      "code": "fr"
+    },
+    {
+      "description": "Illuminazione, creata dai soffiatori di vetro Ostron, abbellita e dorata per la perfezione estetica.",
+      "name": "Illuminazione Dorata",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 유리 세공인들의 손으로 만들어진 이 조명은 완벽한 아름다움으로서 빚어지고 도금되었습니다.",
+      "name": "도금된 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Iluminación, creada por trabajadores del vidrio ostronita, estilizada y ornamentada para una perfección estética.",
+      "name": "Iluminación ornamenteada",
+      "code": "es"
+    },
+    {
+      "description": "照明物，由 Ostron 玻璃工人制作，工艺和镀金都体现了极致的审美。",
+      "name": "镀金明光",
+      "code": "zh"
+    },
+    {
+      "description": "Иллюминация, созданная стеклодувами Острона, сформированная и украшенная до эстетического совершенства.",
+      "name": "Украшенная иллюминация",
+      "code": "ru"
+    },
+    {
+      "description": "オストロンのガラス工によって造られた、美学の完璧のため作られメッキされたイルミネーション。",
+      "name": "メッキされた照明",
+      "code": "ja"
+    },
+    {
+      "description": "Iluminacja, stworzona przez szklarzy Ostronów, ukształtowana i zdobiona do estetycznej perfekcji.",
+      "name": "Ozdobna Iluminacja",
+      "code": "pl"
+    },
+    {
+      "description": "Iluminação, criada pelos artesãos de vidro de Ostron, decorada e dourada para atingir a perfeição visual.",
+      "name": "Iluminação Dourada",
+      "code": "pt"
+    },
+    {
+      "description": "照明物，由 Ostron 玻璃工人製作，工藝和鍍金都體現了極致的審美。",
+      "name": "鍍金明光",
+      "code": "tc"
+    },
+    {
+      "description": "ไฟส่องสว่างที่ช่างทำแก้ว Ostron สร้างขึ้นมา มีรูปแบบที่ทันสมัยและปิดทองเพื่อความสวยงามอย่างสมบูรณ์แบบ",
+      "name": "แหล่งเรืองแสงเคลือบทอง",
+      "code": "th"
+    },
+    {
+      "description": "Aydınlanma, Ostron Cam işçileri tarafından yapılan, estetik ve moda bir mükemmellik.",
+      "name": "Gilded Illumination",
+      "code": "tr"
+    },
+    {
+      "description": "Створені остронськими склодувами витончені естетичні лампи.",
+      "name": "Оздоблені лампи",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPHammerStanceOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/crashing-havoc-f46feeafd3.jpg",
+  "name": "Crashing Havoc",
+  "description": "Fighting form devised for Conclave.",
+  "languages": [
+    {
+      "description": [
+        "Gefechtsform, entwickelt für die Conclave."
+      ],
+      "name": "Aufprallende Verwüstung",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Forme de combat réservée au Conclave."
+      ],
+      "name": "Ravage Tonitruant",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Stile di combattimento ideato per il Conclave."
+      ],
+      "name": "Crashing Havoc",
+      "code": "it"
+    },
+    {
+      "description": [
+        "콘클레이브를 위해 창안된 전투 자세입니다."
+      ],
+      "name": "크래슁 하복",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Una forma de pelea creada para el Cónclave."
+      ],
+      "name": "Destrucción aplastante",
+      "code": "es"
+    },
+    {
+      "description": [
+        "为武形秘仪设计的战斗形式。"
+      ],
+      "name": "崩毁浩劫",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Форма боя, созданная для конклава."
+      ],
+      "name": "Сокрушающее опустошение",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンクレーブでの戦闘に特化された流儀。"
+      ],
+      "name": "Crashing Havoc",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Styl walki stworzony na potrzeby Konklawe."
+      ],
+      "name": "Druzgocące Spustoszenie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Forma de combate elaborada para o Conclave."
+      ],
+      "name": "Crashing Havoc",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "為武形秘儀設計的戰鬥形式。"
+      ],
+      "name": "崩毀浩劫",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "รูปแบบการต่อสู้ที่คิดค้นขึ้นสำหรับคอนเคลฟ"
+      ],
+      "name": "Crashing Havoc",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Conclave için planlanmış savaşma formu"
+      ],
+      "name": "Crashing Havoc",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Техніка бою, розроблена для Конклаву."
+      ],
+      "name": "Руйнівне погромище",
+      "code": "uk"
+    }
+  ]
+}

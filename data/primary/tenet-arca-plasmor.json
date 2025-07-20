@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEArcaPlasmor/CrpBEArcaPlasmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-arca-plasmor-711b009551.png",
+  "name": "Tenet Arca Plasmor",
+  "description": "Custom variant of a Corpus classic. Staggering blasts now ricochet and have greater range at the cost of a slower fire and reload speed. Surviving enemies are consumed with radiation.",
+  "languages": [
+    {
+      "description": "Eine angepasste Variante eines Corpus Klassikers. Umwerfende Explosionen prallen jetzt ab und haben eine größere Reichweite, auf Kosten einer geringeren Feuerrate und Nachladegeschwindigkeit. Überlebende Feinde werden von der Strahlung verzehrt.",
+      "name": "Tenet Arca Plasmor",
+      "code": "de"
+    },
+    {
+      "description": "Variante personnalisée d'un classique Corpus. Les tirs déstabilisants ricochent maintenant et ont une plus grande portée au prix d'une cadence de tir et d'une vitesse de rechargement réduites. Les ennemis y survivant seront consumés par les radiations.",
+      "name": "Arca Plasmor - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "Variante personalizzata di un classico Corpus. Le esplosioni ora rimbalzano e hanno una portata maggiore al costo di una velocità di ricarica e fuoco più lente. I nemici sopravvissuti vengono consumati dalle radiazioni.",
+      "name": "Tenet Arca Plasmor",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 고전적 무기의 커스텀 변형입니다. 목표물을 비틀거리게 하는 폭발이 표면에서 튕겨 오르며 더 먼 사거리를 갖게 되지만, 낮은 연사력 및 재장전 속도를 가졌습니다. 살아남는 적들은 방사능에 잠식됩니다.",
+      "name": "테넷 아르카 플라즈모어",
+      "code": "ko"
+    },
+    {
+      "description": "Variante personalizada de un clásico del Corpus. Los estallidos tambaleantes ahora rebotan y tienen mayor alcance a costa de menor velocidad de disparo y de recarga. Los enemigos sobrevivientes son consumidos por la radiación.",
+      "name": "Plasmor Arca Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET ARCA PLASMOR）Corpus 经典武器的特制变体。惊人的爆炸会反弹且拥有更高的射程，但代价是更低的射速和装填速度。幸存下来的敌人会被辐射耗尽生命。",
+      "name": "信条·弧电离子枪",
+      "code": "zh"
+    },
+    {
+      "description": "Модифицированный вариант классики Корпуса. Ошеломляющие выстрелы теперь рикошетят и имеют большую дальность за счёт более медленного огня и скорости перезарядки. Выжившие враги поглощаются ионизирующей радиацией.",
+      "name": "Арка Плазмор Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "従来のコーパス武器のカスタム版。発射速度とリロード速度を犠牲に、発射される射出物は跳ね返り距離が伸びるよう改造された兵器。生き延びた敵には大量の放射線を浴びさせる。",
+      "name": "Tenet Arca Plasmor",
+      "code": "ja"
+    },
+    {
+      "description": "Niestandardowy wariant klasyka Corpus. Oszałamiające ładunki teraz odbijają się i mają większy zasięg kosztem wolniejszej Szybkostrzelności i Prędkości Przeładowania. Wrogowie, którzy przeżyją, zostają pochłonięci przez radiację.",
+      "name": "Arca Plasmor Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma versão personalizada de um equipamento clássico dos Corpus. Explosões atordoantes agora ricocheteiam e possuem maior alcance, ao custo de uma Cadência de Tiro e Velocidade de Recarga mais lenta. Inimigos sobreviventes são consumidos pela radiação.",
+      "name": "Arca Plasmor Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET ARCA PLASMOR）Corpus 經典的自訂版本。導致失衡的爆破現在會四處彈射並擁有更大的射程，代價是較低的射速及重新裝填速度。存活下來的敵人將被輻射吞噬。",
+      "name": "教條 弧電離子槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนกระบอกนี้ดัดแปลงมาจากอาวุธรุ่นคลาสสิกของ Corpus ซึ่งกระสุนที่ยิงออกไปจะกระดอนออกและมีระยะยิงที่ไกลกว่า แต่ก็ต้องแลกกลับการยิงและการรีโหลดกระสุนที่ช้าลง ศัตรูที่รอดตายจะถูกแผดเผาด้วยรังสี",
+      "name": "Tenet Arca Plasmor",
+      "code": "th"
+    },
+    {
+      "description": "Bir Corpus Klasiğinin özel varyantı. Dengeyi bozan atışlar artık sekiyor. Atış hızı ile yeniden yükleme hızı azaltıldı fakat artık daha fazla menzile sahip. Hayatta kalan düşmanlar radyasyon tarafından tüketilir.",
+      "name": "Tenet Arca Plasmor",
+      "code": "tr"
+    },
+    {
+      "description": "Оновлений варіант класичної рушниці Корпусу. Оглушливі постріли тепер рикошетять і мають більшу дальність дії. Швидкість стрільби й заряджання зменшена. Якщо хто вціліє, то страждає від опромінення.",
+      "name": "Арка-Плазмор-догмат",
+      "code": "uk"
+    }
+  ]
+}

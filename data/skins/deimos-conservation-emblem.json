@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ConservationBadgeDeimosItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deimos-conservation-emblem-ccf4801505.png",
+  "name": "Deimos Conservation Emblem",
+  "description": "A symbol of your dedication to the safety of all creatures on Deimos.",
+  "languages": [
+    {
+      "description": "Ein Symbol für deinen Einsatz zum Schutz aller Kreaturen von Deimos.",
+      "name": "EMBLEM: DEIMOS NATURSCHUTZ",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole de votre dévouement à la protection de toutes les créatures de Deimos.",
+      "name": "BADGE DE CONSERVATION DE DEIMOS",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo per la tua dedizione nella sicurezza e salute di tutte le creature di Deimos.",
+      "name": "EMBLEMA CONSERVAZIONE DEIMOS",
+      "code": "it"
+    },
+    {
+      "description": "데이모스의 모든 생명체들의 안전을 향한 그대의 헌신의 상징입니다.",
+      "name": "데이모스 컨서베이션 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo de tu dedicación por mantener seguras a todas las criaturas en Deimos.",
+      "name": "EMBLEMA DE CONSERVACIÓN DE DEIMOS",
+      "code": "es"
+    },
+    {
+      "description": "象征对火卫二上所有物种安全的奉献精神。",
+      "name": "火卫二保育徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Символ Ваших стараний в спасении всех созданий Деймоса.",
+      "name": "ЗНАЧОК: СПАСАТЕЛЬ ДЕЙМОСА",
+      "code": "ru"
+    },
+    {
+      "description": "ダイモスの全生物を安全に保護した献身のシンボル。",
+      "name": "ダイモス保護エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol Twojej dedykacji do utrzymania bezpieczeństwa wszystkich zwierząt żyjących na Deimos.",
+      "name": "EMBLEMAT OCHRONY GATUNKU DEIMOS",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da sua dedicação em relação à segurança de todas as criaturas em Deimos.",
+      "name": "EMBLEMA: PRESERVAÇÃO DE DEIMOS",
+      "code": "pt"
+    },
+    {
+      "description": "象徵對火衛二上所有物種安全和保育的奉獻精神。",
+      "name": "火衛二保育徽章",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์แห่งการอุทิศตนเพื่อช่วยให้สิ่งมีชีวิตในเดมอสทุกชีวิตปลอดภัย",
+      "name": "ตราสัญลักษณ์: การอนุรักษ์ในเดมอส",
+      "code": "th"
+    },
+    {
+      "description": "Deimos'taki tüm yaratıkların güvenliğine olan bağlılığınızın sembolü.",
+      "name": "DEIMOS KORUMA AMBLEMİ",
+      "code": "tr"
+    },
+    {
+      "description": "Символ вашої відданості захисту та збереженню всіх істот на Деймосі.",
+      "name": "ВІДЗНАКА РЯТІВНИКА ПРИРОДИ ДЕЙМОСА",
+      "code": "uk"
+    }
+  ]
+}

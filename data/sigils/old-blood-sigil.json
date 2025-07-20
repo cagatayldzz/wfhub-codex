@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KuvaLichSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/old-blood-sigil-1d36b54373.png",
+  "name": "Old Blood Sigil",
+  "description": "The sigil of one who has bested an inhuman adversary born of the Old Blood: a Kuva Lich.",
+  "languages": [
+    {
+      "description": "Das Emblem von jemandem, der einen unmenschlichen Gegner, geboren aus Altem Blut, besiegt hat: einen Kuva Lich.",
+      "name": "Siegel: Altes Blut",
+      "code": "de"
+    },
+    {
+      "description": "Le Sceau qui récompense une victoire sur un adversaire inhumain né du Sang Ancien: une Liche Kuva.",
+      "name": "Sceau Sang Ancien",
+      "code": "fr"
+    },
+    {
+      "description": "Il Sigillo di colui che ha sconfitto un avversario inumano, nato dal Sangue Antico: un Kuva Lich.",
+      "name": "Sigillo Old Blood",
+      "code": "it"
+    },
+    {
+      "description": "오래된 피로써 태어난 잔혹한 대적자, 쿠바 리치를 물리친 이의 시질입니다.",
+      "name": "올드 블러드 시질",
+      "code": "ko"
+    },
+    {
+      "description": "El sello de alguien que ha vencido a un adversario inhumano nacido con la sangre ancestral: un Lich de Kuva.",
+      "name": "Sello Sangre ancestral",
+      "code": "es"
+    },
+    {
+      "description": "获得此纹章者，战胜了诞生于《远古之血》的无人性对手：赤毒玄骸",
+      "name": "远古之血纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, которым обладает тот, кто одолел бесчеловечного противника, порождения Древней Крови: Лича Кувы.",
+      "name": "Сигил: Древняя Кровь",
+      "code": "ru"
+    },
+    {
+      "description": "非人間的な強さを誇る、古き血統より生まれしクバ・リッチを倒した者へ送られるシジル。",
+      "name": "古き血統 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak tego, który pokonał nieludzkiego przeciwnika zrodzonego ze Starej Krwi: Licza Kuvy.",
+      "name": "Znak Starej Krwi",
+      "code": "pl"
+    },
+    {
+      "description": "O brasão de quem derrotou um adversário desumano, nascido do Sangue Ancestral: um Lich de Kuva.",
+      "name": "Brasão: Sangue Ancestral",
+      "code": "pt"
+    },
+    {
+      "description": "此紋章象徵著曾經擊潰誕生於《上古赤血》、泯滅人性的對手──赤毒巫妖。",
+      "name": "上古赤血紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายของผู้ที่เอาชนะศัตรูได้อย่างไร้มนุษยธรรมซึ่งกำเนิดมาจากสายเลือดโบราณ: Kuva Lich",
+      "name": "เครื่องหมาย: Old Blood",
+      "code": "th"
+    },
+    {
+      "description": "Old Blood: Kuva Lich'ten doğan insanlık dışı bir düşmanı yenen kişinin mührü.",
+      "name": "Old Blood Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл для тих, хто здолав безжалісного ворога, творіння Старої крові — кувового ліча.",
+      "name": "Сиґіл «Стара кров»",
+      "code": "uk"
+    }
+  ]
+}

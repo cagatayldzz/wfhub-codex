@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaDeluxeAoandonHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-aozakura-helmet-ed0efbf202.png",
+  "name": "Nova Aozakura Helmet",
+  "description": "Nova Aozakura's signature helmet.",
+  "languages": [
+    {
+      "description": "Nova Aozakuras bevorzugter Helm.",
+      "name": "Nova-Helm: Aozakura",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Nova Aozakura.",
+      "name": "Casque Nova Aozakura",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Nova Aozakura.",
+      "name": "Elmo Nova Aozakura",
+      "code": "it"
+    },
+    {
+      "description": "노바 아오자쿠라의 대표 헬멧입니다.",
+      "name": "노바 아오자쿠라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Nova Aozakura.",
+      "name": "Casco Aozakura de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 蓝樱的标志性头盔",
+      "name": "Nova 蓝樱头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Новы «Аозакура».",
+      "name": "Шлем Новы: Аозакура",
+      "code": "ru"
+    },
+    {
+      "description": "Nova Aozakuraのメインヘルメット。",
+      "name": "Nova Aozakura ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Novy Aozakura.",
+      "name": "Nova: Hełm Aozakura",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Nova Aozakura.",
+      "name": "Nova: Capacete Aozakura",
+      "code": "pt"
+    },
+    {
+      "description": "Nova 藍櫻的標誌性頭盔。",
+      "name": "Nova 藍櫻頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Nova Aozakura",
+      "name": "หมวกเหล็ก Nova Aozakura",
+      "code": "th"
+    },
+    {
+      "description": "Nova Aozakura''nın özel miğferi.",
+      "name": "Nova Aozakura Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Аозакура» для ворфрейма Нови.",
+      "name": "Шолом «Аозакура» для Нови",
+      "code": "uk"
+    }
+  ]
+}

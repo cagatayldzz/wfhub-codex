@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Events/AmbulasDataFragment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/animo-nav-beacon-917071be00.png",
+  "name": "Animo Nav Beacon",
+  "description": "Used to locate the Ambulas production facility.\n\nThis resource is dropped from Ambulas Units.",
+  "languages": [
+    {
+      "description": "Dazu genutzt, die Ambulas-Produktionsfabrik zu finden.\n\nDiese Ressource wird von Ambulas-Einheiten fallen gelassen.",
+      "name": "Animo-Signal",
+      "code": "de"
+    },
+    {
+      "description": "Utilisée pour localiser l'usine de fabrication d'Ambulas.\n\nCette Ressource peut être obtenue sur les Unités Ambulas.",
+      "name": "Balise de Navigation Animo",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzato per individuare l'impianto di produzione Ambulas.\n\nQuesta risorsa è ottenibile dalle Unità Ambulas.",
+      "name": "Localizzatori Nav Animo",
+      "code": "it"
+    },
+    {
+      "description": "앰뷸라스 생산 공장의 위치를 표시하는데 사용합니다.\n\n이 자원은 앰뷸라스가 드롭합니다.",
+      "name": "아니모 내비 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Usado para localizar la fábrica de producción de Ambulas.\n\nEste recurso se obtiene de las unidades de Ambulas.",
+      "name": "Baliza de navegación Animo",
+      "code": "es"
+    },
+    {
+      "description": "用来定位量产 Ambulas 的设施。\n\n该资源由 Ambulas 单位掉落。",
+      "name": "Animo 导航信标",
+      "code": "zh"
+    },
+    {
+      "description": "Используется для обнаружения завода по производству Амбулас.\n\nМеста нахождения: Плутон, выпадает из Амбулас.",
+      "name": "Навигационный Маяк Анимо",
+      "code": "ru"
+    },
+    {
+      "description": "Ambulas製造工場の位置特定に使われる。\n\nこの素材はAmbulasユニットから入手できる。",
+      "name": "Animo ナビビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Służą do zlokalizowania fabryki Ambulas.\n\nGłównym ich źródłem są jednostki Ambulas.",
+      "name": "Nadajnik Naw Animo",
+      "code": "pl"
+    },
+    {
+      "description": "Utilizado para localizar a instalação de produção de Âmbulas.\n\nEste recurso pode ser adquirido de Unidades Âmbulas abatidas.",
+      "name": "Sinalizador do Ânimo",
+      "code": "pt"
+    },
+    {
+      "description": "用來定位出量產 Ambulas 的設施。\n\n該資源由 Ambulas 單位掉落。",
+      "name": "Animo 導航信標",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ในการค้นหาโรงงานผลิต Ambulas \n\nทรัพยากรนี้หาได้จากหน่วย Ambulas ที่ดรอปทิ้งไว้",
+      "name": "สัญญาณนำทาง Animo",
+      "code": "th"
+    },
+    {
+      "description": "Ambulas üretim tesisini bulmakta kullanılır.\n\nBu kaynak Ambulas Birliklerinden elde edilir.",
+      "name": "Animo Nav İşaret Işığı",
+      "code": "tr"
+    },
+    {
+      "description": "Необхідний для визначення місця виробництва амбулас.\n\nВипадає з амбулас.",
+      "name": "Радіомаяк «Анімо»",
+      "code": "uk"
+    }
+  ]
+}

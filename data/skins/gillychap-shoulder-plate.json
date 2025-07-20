@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/SevagothDlxFishArmour/SevagothDlxFishArmourA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gillychap-shoulder-plate-611c218bab.png",
+  "name": "Gillychap Shoulder Plate",
+  "description": "Bosun Gillychap, the brave and beloved crewmate of Sevagoth Glaukus. Always ready to follow his captain into the heart of a Void Storm. Enjoy his company as he swims around this shoulder plate reef.",
+  "languages": [
+    {
+      "description": "Bootsmann Gillychap, das tapfere und geschätzte Besatzungsmitglied von Sevagoth Glaukus. Stets bereit, seinem Kapitän in das Herz eines Void-Sturms zu folgen. Erfreue dich seine Gesellschaft, während er um das Riff deiner Schulterplatten schwimmt.",
+      "name": "Schulterplatten: Gillychap",
+      "code": "de"
+    },
+    {
+      "description": "Le maître d'équipage Gillychap, courageux et fidèle équipier de Sevagoth Glaukus. Toujours prêt à suivre son capitaine au cœur d'une Tempête du Néant. Profitez de sa compagnie grâce à ces épaulières.",
+      "name": "Épaulière Gillychap",
+      "code": "fr"
+    },
+    {
+      "description": "Nostromo Gillychap, il coraggioso e fidato membro dell'equipaggio di Sevagoth Glaukus. Sempre pronto a seguire il suo capitano nel cuore di una Tempesta Void. Goditi la sua compagnia mentre nuota intorno alla barriera corallina sul tuo spallaccio.",
+      "name": "Spallaccio Gillychap",
+      "code": "it"
+    },
+    {
+      "description": "갑판장 길리챕은 세바고스 글라우쿠스의 동료 승무원으로, 용감하면서도 모두에게 사랑받는 존재입니다. 선장과 함께라면 언제나 보이드 폭풍의 심장부까지라도 따라갈 준비가 되어 있지요. 이 어깨 갑주형 암초 주위를 헤엄쳐 다니는 길리챕과 함께 즐거운 시간을 보내보세요.",
+      "name": "길리챕 숄더 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Contramaestre Gillychap, el valiente y querido compañero de tripulación de Sevagoth Glaukus. Siempre listo para seguir a su capitán al corazón de una Tormenta del Vacío. Disfruta de su compañía mientras nada alrededor de esta hombrera de arrecife.",
+      "name": "Hombrera Gillychap",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth·格劳克斯的水手长吉利鱼是勇敢且受人爱戴的船员。他始终准备好与船长一起冲向虚空风暴的中心。当他在肩甲的珊瑚礁周围游泳时，尽情地享受他的陪伴。",
+      "name": "吉利鱼肩甲",
+      "code": "zh"
+    },
+    {
+      "description": "Боцман Гилличап, храбрый и любимый товарищ Севагота Главкуса. Всегда готов следовать за своим капитаном в самое сердце Бури Бездны. Наслаждайтесь его компанией с этими наплечниками.",
+      "name": "Наплечники: Гилличап",
+      "code": "ru"
+    },
+    {
+      "description": "Sevagoth Glaukusの忠実な仲間であるBosun Gillychapは愛らしくも勇敢だ。彼ならば船長を追ってVoid嵐の中心へも赴くだろう。このショルダープレートの岩礁を泳ぐ彼との交流を楽しもう。",
+      "name": "Gillychap ショルダープレート",
+      "code": "ja"
+    },
+    {
+      "description": "Bosman Gillychap, ukochany i bohaterski członek załogi Sevagotha Glaukusa. Zawsze gotowy, by podążyć za swoim kapitanem w samo serce Burzy Pustki. Ciesz się jego towarzystwem podczas podróży po tej rafie.",
+      "name": "Naramienniki: Gillychap",
+      "code": "pl"
+    },
+    {
+      "description": "Contramestre Gillychap, o bravo e amado companheiro de tripulação do Sevagoth Glaukus, sempre pronto para seguir seu capitão no coração de uma Tempestade do Void. Aproveite sua companhia enquanto ele nada ao redor deste recife para ombros.",
+      "name": "Ombros: Gillychap",
+      "code": "pt"
+    },
+    {
+      "description": "人見人愛的英勇水手長──吉利仔，是 Sevagoth 格勞科斯的忠實船員。隨時準備好追隨他的船長進入虛空風暴的中央。當他游走在這塊肩甲礁周圍時，享受他的陪伴。",
+      "name": "吉利仔肩甲",
+      "code": "tc"
+    },
+    {
+      "description": "Gillychap คือลูกเรือที่ทำหน้าที่เป็นสรั่งเรือผู้กล้าหาญและเป็นที่รักของ Sevagoth Glaukus ซึ่งพร้อมจะติดตามกัปตันเข้าไปสู่ใจกลางพายุวอยด์เสมอ ขอให้เพลิดเพลินไปกับเพื่อนที่สวมเพลตไหล่ชิ้นนี้ขณะแหวกว่ายไปตามโขดหินนะ",
+      "name": "เพลตไหล่ Gillychap",
+      "code": "th"
+    },
+    {
+      "description": "Bosun Gillychap, Sevagoth Glaukus'un cesur ve sevilen mürettebat arkadaşıdır. Kaptanına Void Fırtınasının kalbine kadar her zaman eşlik edebilecek bir arkadaş. Bu omuz plakasının resifinin etrafında süzülerek sunduğu arkadaşlığının tadını çıkar.",
+      "name": "Gillychap Omuz Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Боцман Ґіллічап — хоробрий та улюблений член екіпажа Севаґота Ґлавка. Завжди готовий іти за своїм капітаном у саме серце бурі Порожнечі. Насолоджуйтеся його компанією, коли вдягаєте цей наплічник.",
+      "name": "Наплічник «Ґіллічап»",
+      "code": "uk"
+    }
+  ]
+}

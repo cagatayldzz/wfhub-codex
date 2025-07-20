@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-glyph---dark-7cb31b42d2.png",
+  "name": "Citrine Glyph - Dark",
+  "description": "A glyph depicting Citrine on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Citrine vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Citrine (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Citrine sur un fond sombre.",
+      "name": "Glyphe Citrine - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Citrine su uno sfondo scuro.",
+      "name": "Glifo Citrine - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 시트린을 묘사한 글리프입니다.",
+      "name": "시트린 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Citrine sobre un fondo oscuro.",
+      "name": "Glifo de Citrine - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Citrine 在黑暗背景下的浮印。",
+      "name": "Citrine 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Цитрины на тёмном фоне.",
+      "name": "Глиф: Цитрина - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたCitrineのグリフ。",
+      "name": "Citrine グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Citrine na ciemnym tle.",
+      "name": "Glif Citrine — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Citrine em um fundo escuro.",
+      "name": "Glifo: Citrine (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Citrine 在黑暗背景下的浮印。",
+      "name": "Citrine 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Citrine บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Citrine - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Citrine koyu fonlu glif.",
+      "name": "Citrine Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Цитрини на темному тлі.",
+      "name": "Темний гліф «Цитрина»",
+      "code": "uk"
+    }
+  ]
+}

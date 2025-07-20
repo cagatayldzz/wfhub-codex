@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageQorvexAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/qorvex-raxpart-glyph---dark-40b1eacb74.png",
+  "name": "Qorvex Raxpart Glyph - Dark",
+  "description": "A glyph depicting Qorvex Raxpart on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Qorvex Raxpart vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Qorvex Raxpart (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Qorvex Raxpart sur un fond sombre.",
+      "name": "Glyphe Qorvex Raxpart - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Qorvex Raxpart su uno sfondo scuro.",
+      "name": "Glifo Qorvex Raxpart - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 코르벡스 랙스파트를 묘사한 글리프입니다.",
+      "name": "코르벡스 랙스파트 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Qorvex Raxpart sobre un fondo oscuro.",
+      "name": "Glifo de Qorvex Raxpart - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Qorvex 壁垒在黑暗背景下的浮印。",
+      "name": "Qorvex 壁垒浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Корвекса Ракспарт на тёмном фоне.",
+      "name": "Глиф: Корвекс Ракспарт - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたQorvex Raxpartのグリフ。",
+      "name": "Qorvex Raxpart グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Qorvexa Raxpart na ciemnym tle.",
+      "name": "Glif Qorvex Raxpart — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Qorvex Raxpart em um fundo escuro.",
+      "name": "Glifo: Qorvex Raxpart (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Qorvex 壘霸在黑暗背景下的浮印。",
+      "name": "Qorvex 壘霸浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Qorvex Raxpart บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Qorvex Raxpart - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Qorvex Raxpart koyu fonlu glif.",
+      "name": "Qorvex Raxpart Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Корвекса «Рекспарт» на темному тлі.",
+      "name": "Темний гліф «Корвекс „Рекспарт“»",
+      "code": "uk"
+    }
+  ]
+}

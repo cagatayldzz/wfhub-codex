@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eevani-af4da5cb77.png",
+  "name": "Eevani",
+  "description": "Duviri citizens have been known to mash Eevani leaves into a paste that alleviates the discomfort caused by fresh wounds.\n\nLocation: Duviri",
+  "languages": [
+    {
+      "description": "Bürger von Duviri sind dafür bekannt, Eevani-Blätter zu einer Paste zu pürieren, die Beschwerden frischer Wunden lindert.\n\nQuelle: Duviri",
+      "name": "Eevani",
+      "code": "de"
+    },
+    {
+      "description": "Les citoyens de Duviri sont connus pour écraser les feuilles d'Eevani en une pâte qui atténue l'inconfort causé par les blessures.\n\nLieu: Duviri",
+      "name": "Eevani",
+      "code": "fr"
+    },
+    {
+      "description": "I cittadini di Duviri sono noti per schiacciare le foglie di Eevani fino a formare una crema che allevia il fastidio causato da ferite fresche.\n\nPosizione: Duviri",
+      "name": "Eevani",
+      "code": "it"
+    },
+    {
+      "description": "두비리의 시민들은 이바니 잎사귀 으깬 것을 반죽 형태로 만들어 붙임으로써 새로 난 상처로 생기는 불편감을 완화시키는 것으로 알려져 있습니다.\n\n획득 가능 장소: 두비리",
+      "name": "이바니",
+      "code": "ko"
+    },
+    {
+      "description": "Los ciudadanos de Duviri son conocidos por machacar las hojas de eevani hasta formar una pasta que alivia las molestias causadas por las heridas recientes.\n\nUbicación: Duviri",
+      "name": "Eevani",
+      "code": "es"
+    },
+    {
+      "description": "据说双衍王境的居民会把延凡草的叶子捣碎成糊状，来缓解新伤口引起的不适。\n\n获取地点：双衍王境",
+      "name": "延凡草",
+      "code": "zh"
+    },
+    {
+      "description": "Граждане Дувири, как известно, растирают листья Эвани в пасту, которая облегчает дискомфорт, вызванный свежими ранами.\n\nМестонахождение: Дувири",
+      "name": "Эвани",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリ市民はイーバニーの葉をすり潰し傷薬として応用する。\n\n場所：デュヴィリ",
+      "name": "イーバニー",
+      "code": "ja"
+    },
+    {
+      "description": "Mieszkańcy Duviri znani są ze ścierania liści Eewani w pastę, która uśmierza ból świeżych ran.\n\nPołożenie: Duviri",
+      "name": "Eewani",
+      "code": "pl"
+    },
+    {
+      "description": "Os cidadãos de Duviri são conhecidos por amassar as folhas de Eevani em uma pasta que alivia o desconforto causado por feridas recentes.\n\nLocalização: Duviri",
+      "name": "Eevani",
+      "code": "pt"
+    },
+    {
+      "description": "眾所周知，渡域公民們將醫凡藥草葉子搗碎成糊狀，用於減緩新傷口引起的不適。\n\n地點：渡域",
+      "name": "醫凡藥草",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นที่ทราบกันดีว่าชาวเมือง Duviri จะบดใบอีวานี่ทำเป็นยาพอกที่ช่วยบรรเทาอาการเจ็บที่เกิดจากแผลสด\n\nแหล่งที่พบ: Duviri",
+      "name": "อีวานี่",
+      "code": "th"
+    },
+    {
+      "description": "Duviri vatandaşlarının, yeni oluşan yaraların neden olduğu rahatsızlığı hafifletmesi için Eevani yapraklarını ezerek bir macun haline getirdiği bilinmektedir.\n\nKonum: Duviri",
+      "name": "Eevani",
+      "code": "tr"
+    },
+    {
+      "description": "Дувірці розтирають листя івані в пасту, яка втамовує неприємні відчуття від свіжих поранень.\n\nМожна здобути в Дувірі.",
+      "name": "Івані",
+      "code": "uk"
+    }
+  ]
+}

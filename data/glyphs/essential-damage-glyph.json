@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageModPackDamage",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/essential-damage-glyph-e8d0ca5238.png",
+  "name": "Essential Damage Glyph",
+  "description": "A Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine Glyphe für dein Profil.",
+      "name": "Glyphe: Essentieller Schaden",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour votre profil.",
+      "name": "Glyphe Essentiel - Dégâts",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo per il tuo profilo.",
+      "name": "Glifo Danno Essenziale",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 글리프입니다.",
+      "name": "에센셜 데미지 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo para tu perfil.",
+      "name": "Glifo Daño Esencial",
+      "code": "es"
+    },
+    {
+      "description": "个人档案的浮印。",
+      "name": "基础伤害浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф для вашего профиля.",
+      "name": "Глиф: Урон - базовый",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用のグリフ。",
+      "name": "Essential Damage グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif dla Twojego profilu.",
+      "name": "Glif Niezbędnych Obrażeń",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo para o seu perfil.",
+      "name": "Glifo: Dano Base Essencial",
+      "code": "pt"
+    },
+    {
+      "description": "用於個人檔案的浮印。",
+      "name": "基礎傷害浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์ Essential Damage",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için bir Glif.",
+      "name": "Temel Hasar Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вашого профілю.",
+      "name": "Гліф «Базова шкода»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/silphsela-9febfd01fc.png",
+  "name": "Silphsela",
+  "description": "It is traditionally held that to see Silphsela floating in the air heralds an imminent change in the sky.\n\nLocation: Duviri",
+  "languages": [
+    {
+      "description": "Traditionell wird angenommen, wenn man Silphsela in der Luft schweben sieht, kündigt dies eine Änderung des Himmels an.\n\nQuelle: Duviri",
+      "name": "Silphsela",
+      "code": "de"
+    },
+    {
+      "description": "Il est traditionnellement admis que voir de la Silphsela flotter dans les airs annonce un changement imminent dans le ciel.\n\nLieu: Duviri",
+      "name": "Silphsela",
+      "code": "fr"
+    },
+    {
+      "description": "Si ritiene tradizionalmente che vedere la Silphsela fluttuare nell'aria preannuncia un cambiamento imminente nel cielo.\n\nPosizione: Duviri",
+      "name": "Silphsela",
+      "code": "it"
+    },
+    {
+      "description": "전통적으로 공기 중에 실프셀라가 떠다닌다면 곧 하늘이 바뀔 거라는 전조로 여겨지곤 했습니다.\n\n획득 가능 장소: 두비리",
+      "name": "실프셀라",
+      "code": "ko"
+    },
+    {
+      "description": "Tradicionalmente se cree que ver una silphsela flotando en el aire presagia un cambio inminente en el cielo.\n\nUbicación: Duviri",
+      "name": "Silphsela",
+      "code": "es"
+    },
+    {
+      "description": "传统上认为，看到日精灵瘦果漂浮在空中预示着天空即将发生变化。\n\n获取地点：双衍王境",
+      "name": "日精灵瘦果",
+      "code": "zh"
+    },
+    {
+      "description": "Традиционно считается, что парящая над землёй сильфсела предвещает скорые перемены в небе.\n\nМестонахождение: Дувири",
+      "name": "Сильфсела",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリでは宙に舞うシルフセラは空の変化を予期すると伝えられている。\n\n場所：デュヴィリ",
+      "name": "シルフセラ",
+      "code": "ja"
+    },
+    {
+      "description": "Tradycja głosi, że Silfsele w powietrzu są zwiastunem nadciągającej zmiany w niebie.\n\nPołożenie: Duviri",
+      "name": "Silfsela",
+      "code": "pl"
+    },
+    {
+      "description": "Tradicionalmente, acredita-se que ver a Silphsela flutuando no ar anuncia uma mudança iminente no céu.\n\nLocalização: Duviri",
+      "name": "Silphsela",
+      "code": "pt"
+    },
+    {
+      "description": "相傳看到菊瘦果漂浮在空中預示著天空即將發生變化。\n\n地點：渡域",
+      "name": "菊瘦果",
+      "code": "tc"
+    },
+    {
+      "description": "ตามธรรมเนียมนั้นถือว่าการมองเห็นซิลฟ์เซลาลอยอยู่ในอากาศเป็นลางบอกว่าบนท้องฟ้าใกล้จะเกิดการเปลี่ยนแปลงแล้ว\n\nแหล่งที่พบ: Duviri",
+      "name": "ซิลฟ์เซลา",
+      "code": "th"
+    },
+    {
+      "description": "Geleneksel olarak, Silphsela'nın havada süzülürken görülmesinin, gökyüzündeki bir değişimin yakın olduğunun habercisi olarak kabul edilir.\n\nKonum: Duviri",
+      "name": "Silphsela",
+      "code": "tr"
+    },
+    {
+      "description": "Зазвичай вважається, що ширяння сильфсели в повітрі означає неминучу зміну в небі.\n\nМожна здобути в Дувірі.",
+      "name": "Сильфсела",
+      "code": "uk"
+    }
+  ]
+}

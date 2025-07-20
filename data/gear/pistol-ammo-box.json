@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SelfPistolAmmo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pistol-ammo-box-80e937932a.png",
+  "name": "Pistol Ammo Box",
+  "description": "Restores a bunch of pistol ammo.",
+  "languages": [
+    {
+      "description": "Enthält einen kleinen Vorrat an Pistolenmunition.",
+      "name": "Munitionskiste: Pistole",
+      "code": "de"
+    },
+    {
+      "description": "Restaure une bonne quantité de munitions de Pistolet.",
+      "name": "Boîte de Muni. de Pistolet",
+      "code": "fr"
+    },
+    {
+      "description": "Ripristina un buon numero di munizioni pistola.",
+      "name": "Cassa Munizioni Pistola",
+      "code": "it"
+    },
+    {
+      "description": "소지하고 있는 권총의 모든 탄약을 채워줍니다.",
+      "name": "권총 탄약 상자",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura un montón de munición de pistola.",
+      "name": "Caja de munición de pistola",
+      "code": "es"
+    },
+    {
+      "description": "补充全部手枪弹药。",
+      "name": "手枪弹药箱",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает часть пистолетных боеприпасов.",
+      "name": "Коробка патронов для пистолета",
+      "code": "ru"
+    },
+    {
+      "description": "ピストルの弾薬を補充する。",
+      "name": "ピストル弾薬ボックス",
+      "code": "ja"
+    },
+    {
+      "description": "Przywraca część amunicji do pistoletu.",
+      "name": "Amunicja pistoletowa",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura toda a munição de Pistola",
+      "name": "Caixa de Munição: Pistola",
+      "code": "pt"
+    },
+    {
+      "description": "補充全部手槍彈藥。",
+      "name": "手槍彈藥箱",
+      "code": "tc"
+    },
+    {
+      "description": "เติมกระสุนปืนพกจำนวนหนึ่ง",
+      "name": "กล่องกระสุนปืนพก",
+      "code": "th"
+    },
+    {
+      "description": "Büyük miktarda Tabanca cephanesi doldurur.",
+      "name": "Tabanca Cephane Kutusu",
+      "code": "tr"
+    },
+    {
+      "description": "Відновлює певну кількість набоїв до пістолета.",
+      "name": "Набої до пістолета",
+      "code": "uk"
+    }
+  ]
+}

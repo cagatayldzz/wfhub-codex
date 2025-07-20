@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Decree/BansheeAlternateSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-immortal-skin-307428eeac.png",
+  "name": "Banshee Immortal Skin",
+  "description": "The Immortal skin for the Banshee Warframe.",
+  "languages": [
+    {
+      "description": "Der Unsterblich-Skin für den Banshee Warframe.",
+      "name": "Banshee-Skin: Unsterblich",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect Immortel pour la Warframe Banshee.",
+      "name": "Aspect Banshee Immortel",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Immortal per il Warframe Banshee.",
+      "name": "Skin Banshee Immortal",
+      "code": "it"
+    },
+    {
+      "description": "밴쉬 워프레임을 위한 이모탈 스킨입니다.",
+      "name": "밴쉬 이모탈 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño inmortal para el warframe Banshee.",
+      "name": "Diseño Inmortal de Banshee",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 战甲的不朽外观。",
+      "name": "Banshee 不朽外观",
+      "code": "zh"
+    },
+    {
+      "description": "Скин «Бессмертный» для Банши.",
+      "name": "Скин Банши: Бессмертный",
+      "code": "ru"
+    },
+    {
+      "description": "Banshee用のImmortal スキン。",
+      "name": "Banshee Immortal スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka Immortal dla Warframe Banshee.",
+      "name": "Banshee: Skórka Immortal",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin Imortal para o Warframe Banshee.",
+      "name": "Banshee: Skin Imortal",
+      "code": "pt"
+    },
+    {
+      "description": "Banshee Warframe 的不朽外觀。",
+      "name": "Banshee 不朽外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินอมตะสำหรับ Banshee Warframe",
+      "name": "สกิน Banshee Immortal",
+      "code": "th"
+    },
+    {
+      "description": "Banshee Warframe'i için Ölümsüzlük Skin'i.",
+      "name": "Banshee Ölümsüzlük Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд «Безсмертя» для ворфрейма Банші.",
+      "name": "Вигляд «Безсмертя» для Банші",
+      "code": "uk"
+    }
+  ]
+}

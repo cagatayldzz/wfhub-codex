@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ArchwingSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/empyrean-sigil-53930a2c06.png",
+  "name": "Empyrean Sigil",
+  "description": "The same sigil that was proudly worn by Old War Railjack crews.",
+  "languages": [
+    {
+      "description": "Das gleiche Siegel, das stolz von den Railjack-Crews des Alten Krieges getragen wurde.",
+      "name": "Siegel: Empyrean",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau identique à celui fièrement porté par les Membres d'équipage Railjack de l'Ancienne Guerre.",
+      "name": "Sceau Empyrée",
+      "code": "fr"
+    },
+    {
+      "description": "Lo stesso sigillo indossato con orgoglio dagli equipaggi del Railjack nella Vecchia Guerra.",
+      "name": "Sigillo Empyrean",
+      "code": "it"
+    },
+    {
+      "description": "옛 전쟁 당시의 레일잭 승무원이 자랑스럽게 착용했던 바로 그 시질입니다.",
+      "name": "엠피리언 시질",
+      "code": "ko"
+    },
+    {
+      "description": "El mismo sello que las tripulaciones de Railjack usaron con orgullo en la Antigua Guerra.",
+      "name": "Sello Empíreo",
+      "code": "es"
+    },
+    {
+      "description": "远古之战中的航道星舰舰员骄傲地佩戴过同样的纹章。",
+      "name": "九重天纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Тот же сигил, который гордо носил экипаж Рэйлджека времён Старой Войны.",
+      "name": "Сигил: Эмпирей",
+      "code": "ru"
+    },
+    {
+      "description": "古の大戦でレールジャックのクルーが誇らしげに着けていたものと同じ印章。",
+      "name": "エンペリアン シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten sam znak, który był dumnie noszony przez załogi Railjacka z czasów Starej Wojny.",
+      "name": "Znak Empireum",
+      "code": "pl"
+    },
+    {
+      "description": "O mesmo brasão que foi utilizado com muito orgulho pelas tripulações das Railjacks durante a Guerra Ancestral.",
+      "name": "Brasão: Empíreo",
+      "code": "pt"
+    },
+    {
+      "description": "曾被遠古之戰的銳捷號船員傲氣凛然所佩戴的同一枚紋章。",
+      "name": "九重天紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายเดียวกับที่ลูกเรือ Railjack จากสงครามเก่าสวมใส่อย่างภาคภูมิใจ",
+      "name": "เครื่องหมาย: Empyrean",
+      "code": "th"
+    },
+    {
+      "description": "Eski Savaştaki Railjack mürettebatları tarafından gururla giyilen mührün aynısı.",
+      "name": "Empyrean Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Під час Давньої війни подібні сиґіли з гордістю носили члени екіпажу рейкоджеків.",
+      "name": "Сиґіл «Емпірей»",
+      "code": "uk"
+    }
+  ]
+}

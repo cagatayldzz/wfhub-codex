@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/Focus/UnairuBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/unairu-emblem-65ed05f702.png",
+  "name": "Unairu Emblem",
+  "description": "A prestigious emblem for Tenno of the Unairu School.",
+  "languages": [
+    {
+      "description": "Ein prestigeträchtiges Emblem für Tenno der Unairu-Schule.",
+      "name": "Unairu-Emblem",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge prestigieux pour les Tennos de l'école Unairu.",
+      "name": "Badge Unairu",
+      "code": "fr"
+    },
+    {
+      "description": "Un prestigioso emblema per i Tenno della Scuola Unairu.",
+      "name": "Emblema Unairu",
+      "code": "it"
+    },
+    {
+      "description": "유나이루 유파의 텐노를 위한 권위 있는 엠블럼입니다.",
+      "name": "유나이루 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema prestigioso para los tenno de la escuela Unairu.",
+      "name": "Emblema Unairu",
+      "code": "es"
+    },
+    {
+      "description": "一枚赋予 Unairu 学派 Tenno 的声望徽章。",
+      "name": "Unairu 徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Престижный значок для Тэнно школы Унайру.",
+      "name": "Значок: Унайру",
+      "code": "ru"
+    },
+    {
+      "description": "Unairu道を学ぶテンノへ与えられる名誉あるエンブレム。",
+      "name": "Unairu エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Prestiżowy emblemat dla Tenno ze Szkoły Unairu.",
+      "name": "Emblemat: Unairu",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema de prestígio para os Tennos da Escola Unairu.",
+      "name": "Emblema: Unairu",
+      "code": "pt"
+    },
+    {
+      "description": "Unairu 學派 Tenno 的一枚名望徽章。",
+      "name": "Unairu 徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์อันทรงเกียรติที่มอบให้กับ Tenno แห่งโรงเรียน Unairu",
+      "name": "ตราสัญลักษณ์: Unairu",
+      "code": "th"
+    },
+    {
+      "description": "Unairu Okulu'ndan Tenno için prestijli bir amblem.",
+      "name": "Unairu Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Престижна відзнака для тенно зі школи Унайру.",
+      "name": "Відзнака «Унайру»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gallos-rods-7940e45cbe.png",
+  "name": "Gallos Rods",
+  "description": "Antimatter fuel cell that powers the Grineer Ships.\n\nLocation: Railjack missions in Earth, Saturn, and Veil Proximas",
+  "languages": [
+    {
+      "description": "Antimaterie-Brennstoffzelle, die Grineer Schiffe antreibt.\n\nQuelle: Railjack-Missionen in den Erde, Saturn und den Veil Proximas.",
+      "name": "Gallos-Brennstäbe",
+      "code": "de"
+    },
+    {
+      "description": "Pile à combustible à antimatière qui alimente les vaisseaux Grineers.\n\nLieu: Missions Railjack dans les Proximas de la Terre, de Saturne et du Voile",
+      "name": "Barres de Gallos",
+      "code": "fr"
+    },
+    {
+      "description": "Cella a combustibile di antimateria che alimenta le Navi Grineer.\n\nPosizione: Missioni Railjack sulla Terra, Saturno e Veil Proxima",
+      "name": "Barre di Gallos",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 함선에 동력을 공급하는 반물질 연료 전지입니다.\n\n획득 가능 장소: 지구, 토성 및 베일 프록시마의 레일잭 미션",
+      "name": "갈로스 로드",
+      "code": "ko"
+    },
+    {
+      "description": "Pila de combustible de antimateria que alimenta las naves grineer.\n\nUbicación: Misiones de Railjack en Próxima Tierra, Saturno y Velo",
+      "name": "Barras de Galos",
+      "code": "es"
+    },
+    {
+      "description": "为 Grineer 战舰提供动力的反物质燃料电池。\n\n获取地点：比邻星域（地球、土星、面纱）中的航道星舰任务",
+      "name": "反物质燃料棒",
+      "code": "zh"
+    },
+    {
+      "description": "Топливные элементы антиматерии, используемые в кораблях Гринир.\n\nМестонахождение: Миссии Рэйлджека в Проксимах Земли, Сатурна и Вуали.",
+      "name": "Стержни Гэллоса",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア船に動力を供給する反物質燃料電池。 \n\n場所：レールジャックミッション（地球、土星、ヴェール プロキシマ）",
+      "name": "ガロスロッド",
+      "code": "ja"
+    },
+    {
+      "description": "Ogniwo paliwowe antymaterii zasilające statki Grineer.\n\nPołożenie: Misje Railjacka w Proximach Ziemi, Saturna i Woalu",
+      "name": "Prątki Gallos",
+      "code": "pl"
+    },
+    {
+      "description": "Célula combustível de antimatéria que energiza as Naves Grineer.\n\nLocalização: em missões da Railjack na 'Próxima da Terra', 'Próxima de Saturno' ou 'Próxima do Véu'.",
+      "name": "Vergalhões Gallos",
+      "code": "pt"
+    },
+    {
+      "description": "為 Grineer 船艦供能的反物質燃料電池。\n\n地點：毗鄰星（地球、土星、面紗）的銳捷號任務",
+      "name": "加落斯反物質燃料棒",
+      "code": "tc"
+    },
+    {
+      "description": "เซลล์เชื้อเพลิงปฏิสสารที่ขับเคลื่อนยานของ Grineer\n\nแหล่งที่พบ: ภารกิจ Railjack ที่อยู่ในพร็อกซิมาโลก ดาวเสาว์ และเวล",
+      "name": "แท่งแกลลอส",
+      "code": "th"
+    },
+    {
+      "description": "Grineer Gemilerini çalıştıran antimadde yakıt hücresi.\n\nKonum: Dünya, Satürn ve Veil Proxima'larındaki Railjack görevleri",
+      "name": "Gallos Rods",
+      "code": "tr"
+    },
+    {
+      "description": "Елементи живлення з антиматерією для зорельотів ґрінерів.\n\nМожна знайти на завданнях для рейкоджека на Проксимах Землях, Сатурна та Вуалі.",
+      "name": "Півневі стрижні",
+      "code": "uk"
+    }
+  ]
+}

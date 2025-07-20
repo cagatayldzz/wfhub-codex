@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-cleavers-7e804807c4.png",
+  "name": "Dual Cleavers",
+  "description": "Butcher your foes with brutal blades in each hand.",
+  "languages": [
+    {
+      "description": "Schlachte deine Gegner mit brutalen Klingen in jeder Hand ab.",
+      "name": "Dual-Cleavers",
+      "code": "de"
+    },
+    {
+      "description": "Massacrez vos ennemis avec une de ces lames puissantes dans chaque main.",
+      "name": "Doubles Hachoirs",
+      "code": "fr"
+    },
+    {
+      "description": "Macella i nemici con lame letali in ciascuna mano.",
+      "name": "Dual Cleavers",
+      "code": "it"
+    },
+    {
+      "description": "이 악랄한 칼들을 양손에 들고 적들을 도륙내세요.",
+      "name": "듀얼 클리버즈",
+      "code": "ko"
+    },
+    {
+      "description": "Descuartiza a tus enemigos con unas cuchillas brutales en cada mano",
+      "name": "Carniceros dobles",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL CLEAVERS）双持野蛮刀刃来屠宰你的敌人。",
+      "name": "斩肉双刀",
+      "code": "zh"
+    },
+    {
+      "description": "Устройте бойню вашим врагам этими брутальными клинками, держа по одному в каждой руке.",
+      "name": "Парные секачи",
+      "code": "ru"
+    },
+    {
+      "description": "無骨な二本のナタ。一振りで敵をあっという間に真っ二つにできる。",
+      "name": "Dual Cleavers",
+      "code": "ja"
+    },
+    {
+      "description": "Spraw swoim wrogom rzeźnię przy pomocy tych podwójnych ostrzy.",
+      "name": "Tasaki Podwójne",
+      "code": "pl"
+    },
+    {
+      "description": "Faça uma chacina com seus inimigos com lâminas brutais em cada mão.",
+      "name": "Cutelos Duplos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL CLEAVERS）雙持野蠻刀刃來屠宰你的敵人。",
+      "name": "斬肉雙刀",
+      "code": "tc"
+    },
+    {
+      "description": "สับศัตรูให้เละด้วยมีดสุดโหดที่ถืออยู่ในมือแต่ละข้าง",
+      "name": "Dual Cleavers",
+      "code": "th"
+    },
+    {
+      "description": "İki elde birer ölümcül bıçakla düşmanlarınızı kıyar.",
+      "name": "Dual Cleavers",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія меча «Сікач», здатна прокласти своїми грубими лезами шлях крізь будь-яких ворогів.",
+      "name": "Парні Сікачі",
+      "code": "uk"
+    }
+  ]
+}

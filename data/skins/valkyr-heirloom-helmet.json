@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrHeirloomHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-heirloom-helmet-6024962569.png",
+  "name": "Valkyr Heirloom Helmet",
+  "description": "Valkyr Heirloom's signature helmet.",
+  "languages": [
+    {
+      "description": "Valkyr Heirlooms bevorzugter Helm.",
+      "name": "Valkyr-Helm: Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Valkyr Héritage.",
+      "name": "Casque Valkyr Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Valkyr Heirloom.",
+      "name": "Elmo Valkyr Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "발키르 에어룸의 대표 헬멧입니다.",
+      "name": "발키르 에어룸 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Valkyr Legado.",
+      "name": "Casco Legado de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 传家宝的标志性头盔。",
+      "name": "Valkyr 传家宝头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Валькирии «Наследие».",
+      "name": "Шлем Валькирии: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyr Heirloomのメインヘルメット。",
+      "name": "Valkyr Heirloom ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Pamiątkowej Valkyr.",
+      "name": "Valkyr: Hełm Pamiątkowy",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Legado da Valkyr.",
+      "name": "Valkyr: Capacete do Legado",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr 祖傳的標誌性頭盔。",
+      "name": "Valkyr 祖傳頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Valkyr Heirloom",
+      "name": "หมวกเหล็ก Valkyr Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr Heirloom'un özel miğferi.",
+      "name": "Valkyr Heirloom Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Спадок» для ворфрейма Валькірія.",
+      "name": "Шолом «Спадок» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

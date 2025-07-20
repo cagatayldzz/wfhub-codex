@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ZarimanEvolvingSekharaBadgeItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vasero-emergent-sekhara-31ac1ab7af.png",
+  "name": "Vasero Emergent Sekhara",
+  "description": "The Void left its mark on this evolving Sekhara during the Zariman Void Jump. Defeat enemies as the Operator with this Sekhara equipped and unlock an additional look.",
+  "languages": [
+    {
+      "description": "Der Void hat während des Void-Sprungs der Zariman seine Spuren in diesem sich entwickelnden Sekhara hinterlassen. Besiege Feinde als Operator, mit diesem Sekhara ausgerüstet und schalte ein zusätzliches Erscheinungsbild frei.",
+      "name": "Vasero Emergent Sekhara",
+      "code": "de"
+    },
+    {
+      "description": "Le Néant a laissé sa marque sur cette Sekhara évolutive lors du saut dans le Néant du Zariman. Éliminez des ennemis avec l'Opérateur en portant cette Sekhara et débloquez un look supplémentaire.",
+      "name": "Sekhara Vasero d'Émergence",
+      "code": "fr"
+    },
+    {
+      "description": "Il Void ha lasciato il segno su questo Sekhara in evoluzione durante Il Salto Void della Zariman. Sconfiggi i nemici con l'Operatore equipaggiando questo Sekhara per sbloccare un aspetto aggiuntivo.",
+      "name": "Sekhara Vasero Emergent",
+      "code": "it"
+    },
+    {
+      "description": "자리만의 보이드 도약 도중 보이드는 이 진화하는 세카라에 흔적을 남겼습니다. 이 세카라를 착용하고 오퍼레이터로 적을 물리치면 한 가지의 또 다른 외형을 추가로 해금할 수 있습니다.",
+      "name": "바세로 이머전트 세카라",
+      "code": "ko"
+    },
+    {
+      "description": "El Vacío dejó su marca en este Sekhara en evolución durante el salto del Vacío de Zariman. Derrota enemigos con el operador con este Sekhara equipado y desbloquea un aspecto adicional.",
+      "name": "Sekhara Vasero Emergente",
+      "code": "es"
+    },
+    {
+      "description": "在「扎里曼号」进行虚空跳跃期间，虚空在这个进化的饰冠上留下了印记。装备这个饰冠并以指挥官的身份击败敌人，以此解锁一个额外的外观。",
+      "name": "星种突现饰冠",
+      "code": "zh"
+    },
+    {
+      "description": "Бездна наложила отпечаток на эту эволюционирующую секару во время прыжка «Заримана» сквозь Бездну. Одолейте врагов в качестве оператора, экипировав эту секару, и разблокируйте дополнительный внешний вид.",
+      "name": "Секара: Васеро - Появление",
+      "code": "ru"
+    },
+    {
+      "description": "ZarimanのVoidジャンプのさなか、Voidは進化するセカーラにその痕を残した。装備中にオペレーターで敵を倒すと外見が変形する。",
+      "name": "Vasero Emergent セカーラ",
+      "code": "ja"
+    },
+    {
+      "description": "Pustka odcisnęła piętno na tej ewoluującej Sekharze podczas skoku Pustki Zarimana. Pokonaj przeciwników jako Operator, kiedy masz wyposażoną tą Sekharę, aby odblokować nowy styl.",
+      "name": "Sekhara Vasero Emergent",
+      "code": "pl"
+    },
+    {
+      "description": "O Void deixou sua marca nesta Sekhara evolutiva durante o Salto Quântico da Zariman pelo Void. Com esta Sekhara equipada, derrote inimigos no modo Operador e desbloqueie um visual adicional.",
+      "name": "Sekhara: Vasero Emergente",
+      "code": "pt"
+    },
+    {
+      "description": "虛空在扎日曼的虛空跳躍期間在這款演化型飾冠上留下了它的痕跡。裝備這個飾冠並擊敗敵人來解鎖一款額外的樣貌。",
+      "name": "瓦瑟若新興飾冠",
+      "code": "tc"
+    },
+    {
+      "description": "วอยด์ได้ทิ้งร่องรอยไว้บนเสกขราที่วิวัฒนาการขึ้นมาในระหว่างที่ Zariman เกิดวอยด์จัมป์ เอาชนะศัตรูในรูปแบบของโอเปอเรเตอร์พร้อมทั้งสวมเสกขรานี้ไว้เพื่อปลดล็อกรูปลักษณ์เพิ่มเติม",
+      "name": "เสกขรา Vasero Emergent",
+      "code": "th"
+    },
+    {
+      "description": "Void, Zariman Void Sıçraması sırasında evrimleşen Sekhara'da iz bıraktı. Warframe'de Sekhara kuşanılmışken Operatör ile öldürülen düşmanlar ek bir görünümün kilidini açar.",
+      "name": "Vasero Emergent Sekhara",
+      "code": "tr"
+    },
+    {
+      "description": "Під час стрибка «Заримена» Порожнеча лишила свій слід на цій шекхарі. Долайте ворогів оператором зі спорядженою шекхарою та розблокуйте додатковий вигляд.",
+      "name": "Шекхара «Васеро „Поява“»",
+      "code": "uk"
+    }
+  ]
+}

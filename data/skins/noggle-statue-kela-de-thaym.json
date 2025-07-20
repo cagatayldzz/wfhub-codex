@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/KelaDeThaymBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---kela-de-thaym-cb045e0fa0.png",
+  "name": "Noggle Statue - Kela De Thaym",
+  "description": "A small wobbly statue of the Overseer of the Rathuum.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von der Aufseherin des Rathuums.",
+      "name": "Noggle-Statue: Kela De Thaym",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante représentant le Superviseur du Rathuum.",
+      "name": "Statuette Noggle - Kela de Thaym",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola statuetta del Sorvegliante di Rathuum, con la testa tremolante.",
+      "name": "Statuetta Noggle - Kela De Thaym",
+      "code": "it"
+    },
+    {
+      "description": "라툼 감독관의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 켈라 드 싸임",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de la supervisora de Rathuum.",
+      "name": "Estatua Tambaleante – Kela de Thaym",
+      "code": "es"
+    },
+    {
+      "description": "一小座死亡角斗场首脑摇头娃娃。",
+      "name": "Kela De Thaym 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка заведующей Ратуумом.",
+      "name": "Фигурка: Кела Де Тэйм",
+      "code": "ru"
+    },
+    {
+      "description": "Rathuumの看守のボブルヘッド人形。",
+      "name": "Kela De Thaym ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Nadzorcy Rathuum.",
+      "name": "Figurka Noggle — Kela De Thaym",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da supervisora do Rathuum.",
+      "name": "Estatueta: Kela De Thaym",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Rathuum 的首腦的搖頭娃娃。",
+      "name": "Kela De Thaym 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกแทนตัวผู้คุมใน Rathuum ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Kela De Thaym",
+      "code": "th"
+    },
+    {
+      "description": "Rathuum Overseer küçük oynar figür.",
+      "name": "Noggle Heykeli - Kela De Thaym",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка наглядачки з Ратуму.",
+      "name": "Ноґл «Кела де Тейм»",
+      "code": "uk"
+    }
+  ]
+}

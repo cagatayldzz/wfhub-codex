@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/charming-snake-floof-2f1151df2c.png",
+  "name": "Charming Snake Floof",
+  "description": "A cuddly snake floof, to honor the most clever of the zodiac animals.",
+  "languages": [
+    {
+      "description": "Ein kuscheliger Schlangenfloof, um das cleverste der Zodiaktiere zu ehren.",
+      "name": "Floof: Charmante Schlange",
+      "code": "de"
+    },
+    {
+      "description": "Un doux serpent en peluche, pour honorer le plus intelligent des animaux du zodiaque.",
+      "name": "Peluche Serpent Charmant",
+      "code": "fr"
+    },
+    {
+      "description": "Un tenero floof serpente, in onore del più intelligente degli animali dello zodiaco.",
+      "name": "Floof Charming Snake",
+      "code": "it"
+    },
+    {
+      "description": "십이지신 중 가장 영리한 뱀을 기리기 위해 만든 귀여운 뱀 플루프입니다.",
+      "name": "차밍 스네이크 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Un adorable floof de serpiente, para honrar al más inteligente de los animales del zodíaco.",
+      "name": "Floof de Serpiente encantadora",
+      "code": "es"
+    },
+    {
+      "description": "一个可爱的灵蛇玩偶，用来纪念十二生肖中最聪明的动物。",
+      "name": "魅力小蛇玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Милая змея-пушистик в честь самого хитроумного животного зодиака.",
+      "name": "Пушистик: Очаровательная змея",
+      "code": "ru"
+    },
+    {
+      "description": "モフモフな蛇のぬいぐるみで干支の知性を称えよう。",
+      "name": "チャーミング・スネークのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Puszysty pluszak węża na cześć towarzysza księżyca.",
+      "name": "Pluszak Urokliwego Węża",
+      "code": "pl"
+    },
+    {
+      "description": "Um Floof de uma serpente fofinha, para homenagear o animal mais inteligente do zodíaco.",
+      "name": "Floof: Serpente Encantadora",
+      "code": "pt"
+    },
+    {
+      "description": "毛茸茸的靈蛇玩偶，以紀念最機靈的生肖。",
+      "name": "迷蛇玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "ตุ๊กตางูนุ่มนิ่มน่ากอด สร้างขึ้นเพื่อเป็นเกียรติแก่สัตว์ประจำปีนักษัตรที่ฉลาดที่สุด",
+      "name": "ตุ๊กตา Charming Snake",
+      "code": "th"
+    },
+    {
+      "description": "Zodyak hayvanlarının en akıllısını onurlandırmak için sevimli bir yılan peluşu.",
+      "name": "Büyüleyici Yılan Peluşu",
+      "code": "tr"
+    },
+    {
+      "description": "Кудлата плюшева змійка для вшанування найкмітливішої зодіакальної тварини.",
+      "name": "Плюш «Миловидна змійка»",
+      "code": "uk"
+    }
+  ]
+}

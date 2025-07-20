@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-glyph---bright-4d942e5fca.png",
+  "name": "Valkyr Glyph - Bright",
+  "description": "A glyph depicting Valkyr on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Valkyr vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Valkyr (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Valkyr sur un fond lumineux.",
+      "name": "Glyphe Valkyr - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Valkyr su uno sfondo chiaro.",
+      "name": "Glifo Valkyr - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 발키르를 묘사한 글리프입니다.",
+      "name": "발키르 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Valkyr sobre un fondo brillante.",
+      "name": "Glifo de Valkyr - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 在明亮背景下的浮印。",
+      "name": "Valkyr 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Валькирии на светлом фоне.",
+      "name": "Глиф: Валькирия - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Valkyr のグリフ。",
+      "name": "Valkyr グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Valkyr na jasnym tle.",
+      "name": "Glif Valkyr — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Valkyr em um fundo claro.",
+      "name": "Glifo: Valkyr (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Valkyr 在明亮背景下的浮印。",
+      "name": "Valkyr 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Valkyr บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Valkyr - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr açık fonlu glif.",
+      "name": "Valkyr Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Валькірії на світлому тлі.",
+      "name": "Яскравий гліф «Валькірія»",
+      "code": "uk"
+    }
+  ]
+}

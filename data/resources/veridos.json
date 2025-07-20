@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veridos-516b9c8e16.png",
+  "name": "Veridos",
+  "description": "A highly reflective, green gem.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+  "languages": [
+    {
+      "description": "Ein stark reflektierender, grüner Edelstein.\n\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
+      "name": "Veridos",
+      "code": "de"
+    },
+    {
+      "description": "Une gemme verte très réfléchissante.\n\nLieu: Plaines d'Eidolon (Terre), via le minage de Veines bleues et sur les Marteleurs",
+      "name": "Veridos",
+      "code": "fr"
+    },
+    {
+      "description": "Una gemma verde dai tanti riflessi.\n\nPosizione: Venature Minerarie Blu sulle rocce delle Piane di Eidolon (Terra) e dai Thumper",
+      "name": "Veridos",
+      "code": "it"
+    },
+    {
+      "description": "반사율이 높은 녹색의 보석입니다.\n\n획득 가능 장소: 아이돌론의 평원 (지구) 내 파란 광맥 및 썸퍼에게서 찾을 수 있습니다",
+      "name": "비리도스",
+      "code": "ko"
+    },
+    {
+      "description": "Una gema verde muy reflectante.\n\nUbicación: Llanuras de Eidolon (Tierra), en las vetas mineras azules y con los Pistones",
+      "name": "Veridos",
+      "code": "es"
+    },
+    {
+      "description": "一颗高反光度的绿色宝石。\n\n获取地点：夜灵平野（地球）上的蓝色矿脉、重击者",
+      "name": "翠萤石",
+      "code": "zh"
+    },
+    {
+      "description": "Зелёный драгоценный камень с высокой светоотражающей способностью.\n\nМестонахождение: Равнины Эйдолона на Земле, в месторождениях голубой руды и колотунах",
+      "name": "Верид",
+      "code": "ru"
+    },
+    {
+      "description": "光を強く反射する緑の宝石。\n\n場所：エイドロンの草原（地球）の青い鉱脈、サンパー",
+      "name": "ベリドス",
+      "code": "ja"
+    },
+    {
+      "description": "Zielony kryształ odbijający światło.\n\nPołożenie: Złoża niebieskiej rudy i Kolosy w Równinach Eidolon na Ziemi",
+      "name": "Veridos",
+      "code": "pl"
+    },
+    {
+      "description": "Uma joia verde e intensamente refletiva.\n\nLocalização: em Veias de Mineração Azuis ou ao derrotar Pistões, nas Planícies de Eidolon, na Terra.",
+      "name": "Veridos",
+      "code": "pt"
+    },
+    {
+      "description": "一種具高反光度、綠色的寶石。\n\n來源：夜靈平野（地球）上的藍色礦脈以及重擊者。",
+      "name": "翠螢石",
+      "code": "tc"
+    },
+    {
+      "description": "อัญมณีสีเขียวที่สะท้อนแสงได้ดีมาก\n\nแหล่งที่พบ: สายแร่สีน้ำเงินและ Thumper ที่อยู่ในที่ราบ Eidolon (โลก)",
+      "name": "เวริดอส",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek yansıtıcılığa sahip yeşil değerli bir taş.\n\nKonum: Dünya'da yer alan Eidolon Ovalarındaki Mavi Maden Damarlarında ve Thumper'larda bulunabilir",
+      "name": "Veridos",
+      "code": "tr"
+    },
+    {
+      "description": "Зелений самоцвіт із високим ступенем відбиття.\n\nМожна здобути з синіх жил та землетрусів на Рівнинах Ейдолонів (Земля).",
+      "name": "Верид",
+      "code": "uk"
+    }
+  ]
+}

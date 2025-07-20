@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpBriefcaseAkimbo/CrpBriefcaseAkimboPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-diplos-48514b24c4.png",
+  "name": "Tenet Diplos",
+  "description": "Itemize and execute with this pair of auto-lock-on, homing-projectile pistols. Shoot from-hip for a more conventional pistol experience. The patented Granum Attaché System reloads the pistols when holstered.",
+  "languages": [
+    {
+      "description": "Mit diesem Paar zielsuchender Pistolen kann man präzise exekutieren. Schieß aus der Hüfte für ein klassisches Pistolenerlebnis. Das patentierte Granum Attaché-System lädt die Pistolen im Holster nach.",
+      "name": "Tenet Diplos",
+      "code": "de"
+    },
+    {
+      "description": "Mettez vos plans à exécution avec cette paire de pistolets à projectiles à tête chercheuse se verrouillant automatiquement. Les tirs à la hanche permettent une expérience de pistolet plus conventionnelle. Le système breveté 'Attaché Granum' recharge l'arme lorsqu'elle est rangée.",
+      "name": "Diplos - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "Metti in atto i tuoi piani con questa coppia di pistole a proiettile autobloccante. Spara dal fianco per un'esperienza con la pistola più convenzionale. Il sistema brevettato Granum Attaché ricarica le pistole quando riposte nella fondina.",
+      "name": "Tenet Diplos",
+      "code": "it"
+    },
+    {
+      "description": "자동 록온 유도 발사체를 발사하는 이 한 쌍의 권총으로 항목을 세분화하고 실행해 보세요. 조준 없이 발사하면 기존의 평범한 권총의 느낌을 만끽하실 수 있습니다. 전매특허의 그라넘 서류함 시스템을 통해 수납 시 자동으로 재장전됩니다.",
+      "name": "테넷 디플로스",
+      "code": "ko"
+    },
+    {
+      "description": "Especifica y ejecuta con este par de pistolas de proyectiles autodirigidos con bloqueo automático. Dispara desde la cadera para una experiencia de pistola más convencional. El sistema patentado Attaché Granum recarga las pistolas cuando están enfundadas.",
+      "name": "Diplos Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET DIPLOS）用这对自动锁定追踪目标的双枪将敌人逐个击破。腰射模式与传统手枪无异。配备了获得专利批准的格拉努公文包系统，收起时自动装填。",
+      "name": "信条·纵横双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Исполняйте свои планы с помощью этого парного оружия, стреляющего самонаводящимися ракетами. Стреляйте от бедра для полноты ощущений. Запатентованная система Грэнума «Дипломат» перезаряжает пистолеты в кобуре.",
+      "name": "Диплос Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "オートロックオン技術とホーミング弾を搭載したピストル。ヒップ射撃で従来のピストルの射撃が可能。Granumアタッシュシステムにより収納する事で自動でリロードされる。",
+      "name": "Tenet Diplos",
+      "code": "ja"
+    },
+    {
+      "description": "Kataloguj i kasuj za pomocą tej pary samonamierzających pistoletów z samonaprowadzającym się pociskiem. Strzelaj z biodra, aby uzyskać bardziej konwencjonalne wrażenia. Opatentowany system Dyplomatki Granuma przeładowuje pistolety w kaburze.",
+      "name": "Diplos Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "Esmiúce e execute seus alvos com este par de pistolas com projéteis teleguiados e travamento de mira automático. Atire sem mirar com a arma para ter uma experiência mais convencional. Por meio do patenteado 'Sistema Adido de Granum', a arma é automaticamente recarregada quando guardada no coldre.",
+      "name": "Diplos Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET DIPLOS）用這對自動鎖定及發射追蹤型子彈的手槍來將敵人逐一擊斃。腰射模式具有更傳統的手槍體驗。收納時，Granum 公事包系統會重新裝填手槍。",
+      "name": "教條 敵對",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพกที่ยิงกระสุนนำวิถีแบบล็อกเป้าหมายอัตโนมัติคู่นี้จะจดจำรายละเอียดและจัดการศัตรูจนสำเร็จ ยิงได้อย่างรวดเร็วให้ความรู้สึกเหมือนใช้ปืนพกแบบธรรมดา ระบบที่ได้รับการจดสิทธิบัตร Granum Attaché มาแล้วจะบรรจุกระสุนให้ปืนพกใหม่เมื่อใส่ซอง",
+      "name": "Tenet Diplos",
+      "code": "th"
+    },
+    {
+      "description": "Bu hedefe otomatik kilitlenen ve güdümlü mermilere sahip tabanca çifti ile Arsenalini güçlendir. Daha geleneksel bir tabanca deneyimi için nişan almadan ateş et. Patentli Granum Attaché sistemi, tabancalar kılıflandığında onları yeniden doldurur.",
+      "name": "Tenet Diplos",
+      "code": "tr"
+    },
+    {
+      "description": "Парні пістолети, що стріляють самонавідними ракетами. Постріли від стегна додають незабутніх вражень. Запатентована Ґранумом система «Дипломат» перезаряджає зброю, коли вона захована.",
+      "name": "Дипломат-догмат",
+      "code": "uk"
+    }
+  ]
+}

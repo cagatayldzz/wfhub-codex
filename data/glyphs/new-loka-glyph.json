@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSyndicateNL",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/new-loka-glyph-148b506577.png",
+  "name": "New Loka Glyph",
+  "description": "A glyph of the New Loka",
+  "languages": [
+    {
+      "description": "Eine Glyphe der New Loka",
+      "name": "Glyphe: New Loka",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe du Nouveau Loka",
+      "name": "Glyphe du Nouveau Loka",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo del New Loka",
+      "name": "Glifo New Loka",
+      "code": "it"
+    },
+    {
+      "description": "뉴 로카를 묘사한 글리프입니다.",
+      "name": "뉴 로카 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nuevo Loka",
+      "name": "Glifo de Nuevo Loka",
+      "code": "es"
+    },
+    {
+      "description": "新世间的浮印",
+      "name": "新世间浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Новой Локи",
+      "name": "Глиф: Новая Лока",
+      "code": "ru"
+    },
+    {
+      "description": "ニュー・ロカのグリフ",
+      "name": "ニュー・ロカ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Nową Lokę",
+      "name": "Glif Nowej Loki",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo do Neoloka",
+      "name": "Glifo: Neoloka",
+      "code": "pt"
+    },
+    {
+      "description": "新世間的浮印",
+      "name": "新世間浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ New Loka",
+      "name": "ภาพสัญลักษณ์ New Loka",
+      "code": "th"
+    },
+    {
+      "description": "New Loka'yı temsil eden bir glif",
+      "name": "New Loka Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням синдикату «Нова Лока».",
+      "name": "Гліф «Нова Лока»",
+      "code": "uk"
+    }
+  ]
+}

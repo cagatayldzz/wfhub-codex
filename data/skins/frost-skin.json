@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-skin-52ade62ede.png",
+  "name": "Frost Skin",
+  "description": "The standard issue skin for the Frost Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Frost Warframe.",
+      "name": "Frost-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Frost.",
+      "name": "Aspect Frost",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Frost.",
+      "name": "Skin Frost",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 워프레임을 위한 기본 스킨입니다.",
+      "name": "프로스트 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Frost.",
+      "name": "Diseño de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 的标准外观配置。",
+      "name": "Frost 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Фроста.",
+      "name": "Скин Фроста",
+      "code": "ru"
+    },
+    {
+      "description": "Frostの標準型スキン。",
+      "name": "Frost スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Frost.",
+      "name": "Frost: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Frost.",
+      "name": "Frost: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Frost 的標準外觀配置。",
+      "name": "Frost 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Frost Warframe",
+      "name": "สกิน Frost",
+      "code": "th"
+    },
+    {
+      "description": "Frost Warframe için standart skin.",
+      "name": "Frost Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Фроста.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

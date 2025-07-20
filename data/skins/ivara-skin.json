@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-skin-939b53185c.png",
+  "name": "Ivara Skin",
+  "description": "The standard issue skin for the Ivara Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Ivara Warframe.",
+      "name": "Ivara-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Ivara.",
+      "name": "Aspect Ivara",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Ivara.",
+      "name": "Skin Ivara",
+      "code": "it"
+    },
+    {
+      "description": "이바라 워프레임을 위한 기본 스킨입니다.",
+      "name": "이바라 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Ivara.",
+      "name": "Diseño de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 的标准外观配置。",
+      "name": "Ivara 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Ивары.",
+      "name": "Скин Ивары",
+      "code": "ru"
+    },
+    {
+      "description": "Ivaraの標準型スキン。",
+      "name": "Ivara スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Ivara.",
+      "name": "Ivara: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Ivara.",
+      "name": "Ivara: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Ivara 的標準外觀配置。",
+      "name": "Ivara 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Ivara Warframe",
+      "name": "สกิน Ivara",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Warframe için standart skin.",
+      "name": "Ivara Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Івари.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

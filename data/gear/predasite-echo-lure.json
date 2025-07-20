@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/predasite-echo-lure-298e2510d0.png",
+  "name": "Predasite Echo-Lure",
+  "description": "Entice and attract nearby Predasite with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Locke Predasite in der Nähe mit lebensechten Lockrufen an.",
+      "name": "Echo-Köder: Predasit",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire un Prédasite se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "Écho-Leurre Prédasite",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Predasite vicini con dei richiami simili ai suoi.",
+      "name": "Richiamo Predasite",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 프레데사이트를 꾀어 유인합니다.",
+      "name": "프레데사이트 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a predásitos cercanos con llamados realistas del animal.",
+      "name": "Eco-señuelo para predásito",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的扑猎达赛。",
+      "name": "扑猎达赛回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Придазитов поблизости, издавая идентичные настоящим животные зовы.",
+      "name": "Эхо-Манок Для Придазита",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのプレデサイトを誘導する。",
+      "name": "プレデサイト Echoルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskiego Predasyta, imitując odgłosy zwierząt.",
+      "name": "Echo-Wabik Predasyta",
+      "code": "pl"
+    },
+    {
+      "description": "Seduza e atraia Predasites próximos, ao utilizá-la, com sons semelhantes aos dos animais.",
+      "name": "Ecoisca de Predasite",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的孤生獸。",
+      "name": "孤生獸迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูด Predasite ที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง Predasite",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Predasite'leri gerçeğine çok benzeyen hayvan sesleriyle yanına çek.",
+      "name": "Predasite Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює предазитів поблизу реалістичною імітацією їхнього поклику.",
+      "name": "Еховабик на предазита",
+      "code": "uk"
+    }
+  ]
+}

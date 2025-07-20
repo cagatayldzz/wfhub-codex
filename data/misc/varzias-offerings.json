@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/varzia's-offerings-b90914d955.png",
+  "name": "Varzia's Offerings",
+  "description": "See Varzia to trade Aya and Regal Aya for exclusive Gear.",
+  "languages": [
+    {
+      "description": "Wende dich an Varzia, um Aya und Reines Aya gegen exklusive Ausrüstung einzutauschen.",
+      "name": "Varzias Angebote",
+      "code": "de"
+    },
+    {
+      "description": "Échangez des Ayas et des Ayas Raffinés auprès de Varzia.",
+      "name": "Offres de Varzia",
+      "code": "fr"
+    },
+    {
+      "description": "Visita Varzia per scambiare Aya e Aya Regale con Oggetti esclusivi.",
+      "name": "Merce di Varzia",
+      "code": "it"
+    },
+    {
+      "description": "바르지아를 찾아가 아야와 리갈 아야로 한정 장비를 교환해 보세요.",
+      "name": "바르지아의 제공품",
+      "code": "ko"
+    },
+    {
+      "description": "Ve a Varzia para intercambiar Aya y Aya Real por equipamiento exclusivo.",
+      "name": "Ofrendas de Varzia",
+      "code": "es"
+    },
+    {
+      "description": "造访瓦奇娅来使用阿耶精华和御品阿耶精华交易专属装备。",
+      "name": "瓦奇娅的商品",
+      "code": "zh"
+    },
+    {
+      "description": "Посетите Варзию, чтобы обменять Айя и Королевские Айя на эксклюзивное снаряжение.",
+      "name": "Предложения Варзии",
+      "code": "ru"
+    },
+    {
+      "description": "Varziaを訪れアヤやリーガル・アヤを限定アイテムと交換しよう。",
+      "name": "Varziaの提供品",
+      "code": "ja"
+    },
+    {
+      "description": "Zobacz Varzię, aby wymienić Aya i Królewskie Aya na ekskluzywny Sprzęt.",
+      "name": "Oferta Varzii",
+      "code": "pl"
+    },
+    {
+      "description": "Visite a Varzia para trocar as suas Ayas e Ayas Régias por Equipamentos exclusivos.",
+      "name": "Oferendas da Varzia",
+      "code": "pt"
+    },
+    {
+      "description": "造訪 Varzia 以使用阿耶及尊榮阿耶交換專屬裝備。",
+      "name": "Varzia 的奬勵",
+      "code": "tc"
+    },
+    {
+      "description": "ไปพบ Varzia เพื่อแลกเปลี่ยน Aya และ Regal Aya กับอุปกรณ์สุดพิเศษ",
+      "name": "ข้อเสนอของ Varzia",
+      "code": "th"
+    },
+    {
+      "description": "Aya ve Regal Aya ile özel Teçhizat takası gerçekleştirmek için Varzia'yı ziyaret et.",
+      "name": "Varzia'nın Teklifleri",
+      "code": "tr"
+    },
+    {
+      "description": "Навідайте Варзію, щоб обміняти ваші прості та королівські ая на виняткове спорядження.",
+      "name": "Товари Варзії",
+      "code": "uk"
+    }
+  ]
+}

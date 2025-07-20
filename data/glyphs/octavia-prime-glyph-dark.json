@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOctaviaPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia-prime-glyph---dark-a3b1a093cd.png",
+  "name": "Octavia Prime Glyph - Dark",
+  "description": "A glyph depicting Octavia Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Octavia Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Octavia Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Octavia Prime sur un fond sombre.",
+      "name": "Glyphe Octavia Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Octavia Prime su uno sfondo scuro.",
+      "name": "Glifo Octavia Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 옥타비아 프라임을 묘사한 글리프입니다.",
+      "name": "옥타비아 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Octavia Prime sobre un fondo oscuro.",
+      "name": "Glifo de Octavia Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Octavia Prime 在黑暗背景下的浮印。",
+      "name": "Octavia Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Октавии Прайм на темном фоне.",
+      "name": "Глиф: Октавия Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Octavia Prime のグリフ。",
+      "name": "Octavia Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Octavię Prime na ciemnym tle.",
+      "name": "Glif Octavia Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Octavia Prime em um fundo escuro.",
+      "name": "Glifo: Octavia Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Octavia Prime 在黑暗背景下的浮印。",
+      "name": "Octavia Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Octavia Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Octavia Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Octavia Prime koyu fonlu glif.",
+      "name": "Octavia Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Октавії-прайм на темному тлі.",
+      "name": "Темний гліф «Октавія-прайм»",
+      "code": "uk"
+    }
+  ]
+}

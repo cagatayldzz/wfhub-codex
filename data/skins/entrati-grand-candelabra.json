@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/ORKxLabLightChandelierD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-grand-candelabra-723429a1e6.png",
+  "name": "Entrati Grand Candelabra",
+  "description": "A grand, gilded Candelabra originally found in the depths of Albrecht Entrati’s labs.",
+  "languages": [
+    {
+      "description": "Ein prächtiger, güldener Kandelaber, ursprünglich in den Tiefen von Albrecht Entratis Laboratorien gefunden.",
+      "name": "Entrati Prächtiger Kandelaber",
+      "code": "de"
+    },
+    {
+      "description": "Un grand candélabre doré trouvé à l'origine dans les profondeurs des laboratoires d'Albrecht Entrati.",
+      "name": "Grand Candélabre Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Un grande Candelabro dorato che si trovava originariamente nelle profondità dei laboratori di Albrecht Entrati.",
+      "name": "Candelabro Entrati - Grande",
+      "code": "it"
+    },
+    {
+      "description": "본래 알브레히트 엔트라티의 연구실 깊숙한 곳에서만 발견되던, 웅장한 금장 촛대형 샹들리에입니다.",
+      "name": "엔트라티 대형 촛대 샹들리에",
+      "code": "ko"
+    },
+    {
+      "description": "Un gran candelabro dorado encontrado originalmente en las profundidades de los laboratorios de Albrecht Entrati.",
+      "name": "Gran candelabro Entrati",
+      "code": "es"
+    },
+    {
+      "description": "最初在阿尔布雷希特·英择谛实验室深处发现的宏伟镀金烛台。",
+      "name": "英择谛大烛台",
+      "code": "zh"
+    },
+    {
+      "description": "Большой позолоченный канделябр, первоначально найденный в недрах лабораторий Альбрехта Энтрати.",
+      "name": "Энтрати: Гранд Канделябры",
+      "code": "ru"
+    },
+    {
+      "description": "元々はAlbrecht Entratiの研究所の奥深くで発見された、金で装飾された壮麗な燭台。",
+      "name": "エントラティ グランドキャンデラブラ",
+      "code": "ja"
+    },
+    {
+      "description": "Okazały, pozłacany kandelabr pierwotnie znaleziony w głębi laboratorium Albrechta Entratiego.",
+      "name": "Entrati: Wielki kandelabr",
+      "code": "pl"
+    },
+    {
+      "description": "Um candelabro nobre e dourado, originalmente encontrado nas profundezas dos laboratórios de Albrecht Entrati.",
+      "name": "Candelabro Nobre Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "這個華麗的鍍金燭吊燈最初在阿爾布雷希特．源拓氏的實驗室深處找到。",
+      "name": "源拓氏華麗燭吊燈",
+      "code": "tc"
+    },
+    {
+      "description": "เชิงเทียนปิดทองขนาดใหญ่ที่แต่เดิมพบอยู่ในห้องทดลองที่ลึกเข้าไปของ Albrecht Entrati",
+      "name": "เชิงเทียน Entrati ขนาดใหญ่",
+      "code": "th"
+    },
+    {
+      "description": "Orijinal olarak Albrecht Entrati'nin laboratuvarlarının derinliklerinde bulunan büyük, yaldızlı bir Şamdan.",
+      "name": "Entrati Büyük Şamdan",
+      "code": "tr"
+    },
+    {
+      "description": "Великий позолочений світильник, знайдений у глибинах лабораторій Альбрехта Ентраті.",
+      "name": "Великий світильник Ентраті",
+      "code": "uk"
+    }
+  ]
+}

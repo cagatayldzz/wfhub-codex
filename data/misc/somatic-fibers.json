@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/MemoryCryptoFragment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/somatic-fibers-c1d43087f8.png",
+  "name": "Somatic Fibers",
+  "description": "Neural fibers sampled from an early Warframe prototype and preserved in a stabilized cerebral fluid.\n\nLocation: Demolishers on Apollo (Lua), and Conjunction Survival Missions (Lua)",
+  "languages": [
+    {
+      "description": "Neurale Fasern, gesammelt von einem frühen Warframe Prototypen und konserviert in stabilisierender, zerebraler Flüssigkeit.\n\nQuelle: Von Zerstörern auf Apollo, auf Lua, und durch Gekoppeltes Überleben Missionen auf Lua",
+      "name": "Somatische Fasern",
+      "code": "de"
+    },
+    {
+      "description": "Des fibres neuronales prélevées sur un ancien prototype de Warframe et conservées dans du fluide cérébral stabilisé.\n\nLieu: Démolisseurs sur Apollo (Lua) et missions de Survie Conjonction (Lua)",
+      "name": "Fibres Somatiques",
+      "code": "fr"
+    },
+    {
+      "description": "Fibre neurali prelevate da un prototipo di Warframe e conservate in un fluido celebrale stabilizzato.\n\nPosizione: Demolishers su Apollo (Lua), e Missioni Sopravvivenza Combinata (Lua)",
+      "name": "Fibre Somatiche",
+      "code": "it"
+    },
+    {
+      "description": "초기의 워프레임 시험작에서 표본을 채취해 안정된 뇌척수액에 넣어 보존된 신경섬유입니다.\n\n획득 가능 장소: Apollo (루아) 의 데몰리셔 및 회합 생존 미션 (루아)",
+      "name": "소매틱 파이버",
+      "code": "ko"
+    },
+    {
+      "description": "Muestras de fibras neuronales tomadas de uno de los primeros prototipos de warframes y preservadas en un fluido cerebral estabilizado.\n\nUbicación: Demoledores en Apolo (Lua) y misiones de Supervivencia conjunta (Lua)",
+      "name": "Fibras Somáticas",
+      "code": "es"
+    },
+    {
+      "description": "从早期战甲原型采样并保存在一种稳定的脑液中的神经纤维。\n\n获取地点：Apollo（月球）上的爆破型敌人、联结生存任务（月球）。",
+      "name": "活体纤维",
+      "code": "zh"
+    },
+    {
+      "description": "Нейронные волокна, изъятые из раннего прототипа варфрейма и сохранённые в стабилизированной мозговой жидкости.\n\nМестонахождение: Крушители в локации Apollo (Луа) и миссии Сопряжённого Выживания (Lua)",
+      "name": "Соматические волокна",
+      "code": "ru"
+    },
+    {
+      "description": "初期WARFRAMEのプロトタイプからサンプリングされ、安定化された脳液に保存された神経線維。\n\n場所：Apollo（ルア）のデモリッシャー、結合耐久ミッション（ルア）",
+      "name": "ソマティック ファイバー",
+      "code": "ja"
+    },
+    {
+      "description": "Włókna neuronowe pobrane z wczesnego prototypu Warframe i zachowane w ustabilizowanym płynie mózgowym.\n\nLokacja: Pozyskaj z jednostek Demolki na Apollo (Lua) i z misji Koniunkcji Przetrwania (Lua)",
+      "name": "Włókna Somatyczne",
+      "code": "pl"
+    },
+    {
+      "description": "Fibras neurais extraídas de um protótipo inicial de Warframe e preservadas em um fluido cerebral estabilizado.\n\nLocalização: obtido ao eliminar Demolidores em Apollo, e em Missões de Sobrevivência Conjuncional, ambos na Lua.",
+      "name": "Fibras Somáticas",
+      "code": "pt"
+    },
+    {
+      "description": "從早期 Warframe 原型採樣並保存在一種穩定的腦液中的神經纖維。\n\n地點：Apollo 節點（月球）上的爆破型敵人以及月球上的合相生存任務",
+      "name": "活體纖維",
+      "code": "tc"
+    },
+    {
+      "description": "เส้นใยประสาทที่ได้ตัวอย่างจากต้นแบบ Warframe ในยุคแรกและเก็บรักษาไว้ในของเหลวในสมองที่มีความเสถียร\n\nแหล่งที่พบ: Demolisher ที่อยู่บน Apollo (ดาวลูอา) และภารกิจเอาตัวรอดร่วมกัน (ดาวลูอา)",
+      "name": "เส้นใยโซมาติก",
+      "code": "th"
+    },
+    {
+      "description": "Sinirsel Lifleri, ilkel bir Warframe prototipinden örneklendi ve stabilize serebral bir sıvı içinde korundu.\n\nKonum: Apollo'daki Demolisherlar (Lua) ve Void Birleşimi Hayatta Kalma Görevlerinden (Lua) elde edilebilir",
+      "name": "Somatik Lifler",
+      "code": "tr"
+    },
+    {
+      "description": "Нейронні волокна, витягнуті з ранніх прототипів ворфрейма й збережені в стабілізаційній церебральній рідині.\n\nМожна здобути, вбиваючи підривників на Аполлоні (Луа) та на завданнях «Виживання „Сполучення”» (Луа).",
+      "name": "Соматичні волокна",
+      "code": "uk"
+    }
+  ]
+}

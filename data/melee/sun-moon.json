@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/PlayerControllable/Weapons/DuviriDualSwordsWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sun-&-moon-c729935257.png",
+  "name": "Sun & Moon",
+  "description": "Teshin's twin blades.",
+  "languages": [
+    {
+      "description": "Teshins Zwillingsklingen.",
+      "name": "Sun & Moon",
+      "code": "de"
+    },
+    {
+      "description": "Les lames jumelles de Teshin.",
+      "name": "Soleil & Lune",
+      "code": "fr"
+    },
+    {
+      "description": "Le lame gemelle di Teshin.",
+      "name": "Sun & Moon",
+      "code": "it"
+    },
+    {
+      "description": "테신의 쌍검입니다.",
+      "name": "태양과 달",
+      "code": "ko"
+    },
+    {
+      "description": "Las hojas gemelas de Teshin.",
+      "name": "Sol & Luna",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SUN & MOON）Teshin 的双侍刃。",
+      "name": "赤阳 & 幽月",
+      "code": "zh"
+    },
+    {
+      "description": "Парные клинки Тешина.",
+      "name": "Солнце и луна",
+      "code": "ru"
+    },
+    {
+      "description": "Teshinの2つの刀。",
+      "name": "Sun & Moon",
+      "code": "ja"
+    },
+    {
+      "description": "Bliźniacze ostrza Teshina.",
+      "name": "Słońce i Księżyc",
+      "code": "pl"
+    },
+    {
+      "description": "As lâminas gêmeas do Teshin.",
+      "name": "Sol & Lua",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SUN & MOON）Teshin 的雙刀。",
+      "name": "日月",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบคู่ของ Teshin",
+      "name": "Sun & Moon",
+      "code": "th"
+    },
+    {
+      "description": "Teshin'in ikiz kılıçları.",
+      "name": "Sun & Moon",
+      "code": "tr"
+    },
+    {
+      "description": "Парні клинки Тешина.",
+      "name": "Сонце й Місяць",
+      "code": "uk"
+    }
+  ]
+}

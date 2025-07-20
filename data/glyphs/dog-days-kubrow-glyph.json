@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DogDaysKubrowGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dog-days-kubrow-glyph-6c66a70848.png",
+  "name": "Dog Days Kubrow Glyph",
+  "description": "This Kubrow dries off with a Maggor Towsun Syandana. What Kubrow doesn’t love the water?",
+  "languages": [
+    {
+      "description": "Dieser Kurbow trocknet sich mit einer Maggor Towsun Syandana ab. Welcher Kubrow liebt nicht das Wasser?",
+      "name": "Glyphe: Hitzefrei Kubrow",
+      "code": "de"
+    },
+    {
+      "description": "Ce Kubrow se sèche avec une Syandana Maggor Towsun. Quel Kubrow n'aime pas l'eau?",
+      "name": "Glyphe Kubrow Bataille d'Eau",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Kurbow si asciuga con una Syandana Maggor Towsun. Quale Kubrow non ama l'acqua?",
+      "name": "Glifo Kubrow Dog Days",
+      "code": "it"
+    },
+    {
+      "description": "이 쿠브로는 매거 토우선 샨다나로 물기를 말리고 있습니다. 물을 싫어하는 쿠브로가 어디 있어요?",
+      "name": "도그 데이즈 쿠브로 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Este kubrow se seca con una syandana Maggor Towsun. ¿Qué kubrow no ama el agua?",
+      "name": "Glifo Kubrow de Canícula",
+      "code": "es"
+    },
+    {
+      "description": "这只库狛喜欢用玛戈夏至披饰擦干身体。哪只库狛不喜欢玩水呢？",
+      "name": "三伏天库狛浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Этот кубрау сохнет под санданой «Маггор Тосун». Какой кубрау не любит воду?",
+      "name": "Глиф: Знойные Дни - Кубрау",
+      "code": "ru"
+    },
+    {
+      "description": "このクブロウはMaggor Towsun シャンダナで体を拭く。水場ではしゃいでこそクブロウです。",
+      "name": "ドッグ・デイズ クブロウ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Kubrow jest osuszany Syandaną Maggor Towsun. Który Kubrow nie kocha wody?",
+      "name": "Glif Kubrow Kanikuły",
+      "code": "pl"
+    },
+    {
+      "description": "Este Kubrow se seca com uma Syandana Maggor Towsun. Que Kubrow não ama a água?",
+      "name": "Glifo: Kubrow nos Dias de Cão",
+      "code": "pt"
+    },
+    {
+      "description": "這隻庫狛用瑪戈夏至披飾披飾來擦乾身體。又有哪一隻庫狛不愛玩水呢？",
+      "name": "三伏天庫狛浮印",
+      "code": "tc"
+    },
+    {
+      "description": "Kurbow นี้เช็ดตัวเองให้แห้งด้วยไซอันดานา Maggor Towsun มี Kubrow ที่ไหนไม่ชอบน้ำกันนะ?",
+      "name": "ภาพสัญลักษณ์ Dog Days Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Bu Kubrow, bir Maggor Towsun Syandana ile kendini kurutur. Hangi Kubrow suyu sevmez ki?",
+      "name": "Dog Days Kubrow Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Цей куброу сохне із сянданою «Маґґор Товсан». Який же куброу не любить води?",
+      "name": "Гліф «Спекотні дні для куброу»",
+      "code": "uk"
+    }
+  ]
+}

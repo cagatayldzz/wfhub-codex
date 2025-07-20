@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-skin-133d84ee82.png",
+  "name": "Mag Skin",
+  "description": "The standard issue skin for the Mag Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Mag Warframe.",
+      "name": "Mag-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Mag.",
+      "name": "Aspect Mag",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Mag.",
+      "name": "Skin Mag",
+      "code": "it"
+    },
+    {
+      "description": "매그 워프레임을 위한 기본 스킨입니다.",
+      "name": "매그 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Mag.",
+      "name": "Diseño de Mag",
+      "code": "es"
+    },
+    {
+      "description": "Mag 的标准外观配置。",
+      "name": "Mag 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Мэг.",
+      "name": "Скин Мэг",
+      "code": "ru"
+    },
+    {
+      "description": "Magの標準型スキン。",
+      "name": "Mag スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Mag.",
+      "name": "Mag: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Mag.",
+      "name": "Mag: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Mag 的標準外觀配置。",
+      "name": "Mag 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Mag Warframe",
+      "name": "สกิน Mag",
+      "code": "th"
+    },
+    {
+      "description": "Mag Warframe için standart skin.",
+      "name": "Mag Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Меґ.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

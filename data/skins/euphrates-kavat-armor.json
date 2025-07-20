@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/TnTigrisKavatArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/euphrates-kavat-armor-0185643fc2.png",
+  "name": "Euphrates Kavat Armor",
+  "description": "An armor set for your pet, modeled on the intimidating, bladed look of the Tigris Shotgun.",
+  "languages": [
+    {
+      "description": "Ein Rüstungsset für deinen Begleiter, gestaltet nach dem einschüchternden, scharfen Aussehen der Tigris Schrotflinte. ",
+      "name": "Kavat-Rüstung: Euphrates",
+      "code": "de"
+    },
+    {
+      "description": "Une Armure pour votre animal de compagnie, inspirée de l’intimidant Fusil à Pompe Tigris.",
+      "name": "Armure de Kavat Euphrates",
+      "code": "fr"
+    },
+    {
+      "description": "Un set di armatura per il tuo animale, modellata sull'aspetto intimidatorio e tagliente del Fucile a Pompa Tigris.",
+      "name": "Armatura Kavat Euphrates",
+      "code": "it"
+    },
+    {
+      "description": "티그리스 산탄총의 위협적이고 날카로운 외형을 본 떠 만든 펫을 위한 아머 세트입니다.",
+      "name": "유프라테스 카밧 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una armadura para tu mascota, inspirada en el aspecto intimidante y afilado de la escopeta Tigris.",
+      "name": "Armadura Euphrates de kavat",
+      "code": "es"
+    },
+    {
+      "description": "一组为你的宠物准备的护甲套装，以猛虎霰弹枪令人生畏的锋利外观为蓝本。",
+      "name": "幼发拉底库娃护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Набор брони для вашего питомца, созданный по образу холодного и устрашающего дробовика Тигрис.",
+      "name": "Броня кавата: Евфрат",
+      "code": "ru"
+    },
+    {
+      "description": "Tigrisショットガンの刃を備えた威圧的な外見を模した、ペット用アーマーのセット。",
+      "name": "Euphrates キャバットアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw zbroi dla Twojego Towarzysza, wzorowany na zastraszającym i smukłym jak ostrze wyglądzie Strzelby Tigris.",
+      "name": "Zbroja Kavata: Eufrat",
+      "code": "pl"
+    },
+    {
+      "description": "Uma armadura para o seu mascote, inspirada na aparência intimidadora da lâmina da escopeta Tigris.",
+      "name": "Armadura de Kavat: Euphrates",
+      "code": "pt"
+    },
+    {
+      "description": "給寵物的一個護甲套裝，仿照猛虎霰彈槍的威嚇性刀刃造型而塑造。",
+      "name": "幼發拉底庫娃護甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเกราะสำหรับสัตว์เลี้ยงของคุณ โดยจำลองมาจากรูปลักษณ์ที่ดูน่าเกรงขามของปืนลูกซอง Tigris",
+      "name": "เกราะ Euphrates Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Petiniz için, Tigris Pompalı Tüfeği'nin göz korkutucu, keskin görünümüne göre modellenmiş bir zırh seti.",
+      "name": "Euphrates Kavat Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Набір обладунків для улюбленців, що нагадує грізні лезоподібні елементи рушниці «Тигріс».",
+      "name": "Обладунки «Єфрат» для кавата",
+      "code": "uk"
+    }
+  ]
+}

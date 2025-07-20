@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/raptor-sigil-8069c478e2.png",
+  "name": "Raptor Sigil",
+  "description": "A sigil depicting the Raptor.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das den Raptor darstellt.",
+      "name": "Siegel: Raptor",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Raptor.",
+      "name": "Sceau du Raptor",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Raptor.",
+      "name": "Sigillo Raptor",
+      "code": "it"
+    },
+    {
+      "description": "랩터가 묘사된 시질입니다.",
+      "name": "랩터 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando a Raptor.",
+      "name": "Sello de Raptor",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着猛禽的纹章",
+      "name": "猛禽纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Раптора.",
+      "name": "Сигил: Раптор",
+      "code": "ru"
+    },
+    {
+      "description": "Raptorを描いたシジル。",
+      "name": "Raptor シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Raptora.",
+      "name": "Znak Raptora",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o Raptor.",
+      "name": "Brasão: Raptor",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪猛禽的紋章。",
+      "name": "猛禽紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Raptor",
+      "name": "เครื่องหมาย: Raptor",
+      "code": "th"
+    },
+    {
+      "description": "Raptor'u temsil eden bir mühür",
+      "name": "Raptor Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Раптора.",
+      "name": "Сиґіл «Раптор»",
+      "code": "uk"
+    }
+  ]
+}

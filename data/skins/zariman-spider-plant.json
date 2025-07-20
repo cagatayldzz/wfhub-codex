@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropZarPlantC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-spider-plant-815310d110.png",
+  "name": "Zariman Spider Plant",
+  "description": "Cultivated from the few remaining seed banks of old Earth.",
+  "languages": [
+    {
+      "description": "Kultiviert aus den wenigen verbliebenen Saatgut-Bunkern der alten Erde.",
+      "name": "Zariman: Graslilie",
+      "code": "de"
+    },
+    {
+      "description": "Cultivé à partir des quelques banques de graines restantes de la vieille planète Terre.",
+      "name": "Chlorophytum Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Coltivata dalle poche sementi della vecchia Terra rimaste.",
+      "name": "Chlorophytum Zariman",
+      "code": "it"
+    },
+    {
+      "description": "얼마 남지 않은 옛 지구의 종자 은행에서 재배한 식물입니다.",
+      "name": "자리만 무늬접란 화분",
+      "code": "ko"
+    },
+    {
+      "description": "Cultivada de uno de los pocos bancos de semillas que quedan de la antigua Tierra.",
+      "name": "Planta de araña Zariman",
+      "code": "es"
+    },
+    {
+      "description": "从古地球上仅存的少数种子库中培养而来。",
+      "name": "扎里曼吊兰植物",
+      "code": "zh"
+    },
+    {
+      "description": "Выращивается из семян немногих оставшихся банков старой Земли.",
+      "name": "Хлорофитум: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "かつての地球から種が採取された希少な植物。",
+      "name": "Zariman スパイダー・プラント",
+      "code": "ja"
+    },
+    {
+      "description": "Roślina wyhodowana z nasion jednego z pozostałych na starej Ziemi banków.",
+      "name": "Pajęcznica Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "Cultivada em um dos poucos bancos de sementes remanescentes da antiga Terra.",
+      "name": "Planta Paulistinha da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "在舊地球少數僅存的種子銀行中栽種而來。",
+      "name": "扎日曼吊蘭植物",
+      "code": "tc"
+    },
+    {
+      "description": "ได้รับการเพาะปลูกมาจากแหล่งเมล็ดพันธุ์ที่เหลืออยู่ไม่กี่แห่งจากโลกเก่า",
+      "name": "ต้นเศรษฐีเรือนใน Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Eski Dünya'dan kalan birkaç tohum bankasında yetiştirildi.",
+      "name": "Zariman Örümcek Bitkisi",
+      "code": "tr"
+    },
+    {
+      "description": "Вирощено з одного з небагатьох банків насіння старої планети Земля.",
+      "name": "Хлорофітум із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

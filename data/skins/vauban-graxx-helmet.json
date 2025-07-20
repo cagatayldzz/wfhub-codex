@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Trapper/SWGraxxVaubanHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-graxx-helmet-ff594ad8a7.png",
+  "name": "Vauban Graxx Helmet",
+  "description": "A helmet for the Vauban Warframe, designed by Faven and Faven_LTD.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Vauban Warframe, entworfen von Faven und Faven_LTD.",
+      "name": "Vauban-Helm: Graxx",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Vauban, conçu par Faven et Faven_LTD.",
+      "name": "Casque Vauban Graxx",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Vauban, ideato da Faven e Faven_LTD.",
+      "name": "Elmo Vauban Graxx",
+      "code": "it"
+    },
+    {
+      "description": "Faven과 Faven_LTD에 의해 디자인된 바우반 워프레임을 위한 헬멧입니다.",
+      "name": "바우반 그락스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Vauban, diseñado por Faven y Faven_LTD.",
+      "name": "Casco Graxx de Vauban",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 战甲的头盔，由 Faven 和 Faven_LTD 设计。",
+      "name": "Vauban G之风格头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Вобан, созданный Faven и Faven_LTD.",
+      "name": "Шлем Вобана: Граксс",
+      "code": "ru"
+    },
+    {
+      "description": "Vauban用のヘルメット。製作者：Faven と Faven_LTD。",
+      "name": "Vauban Graxx ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy hełm dla Warframe'a Vauban, zaprojektowany przez Faven i Faven_LTD.",
+      "name": "Vauban: Hełm Graxx",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Vauban, desenvolvido por Faven e Faven_LTD.",
+      "name": "Vauban: Capacete Graxx",
+      "code": "pt"
+    },
+    {
+      "description": "Vauban Warframe 的頭盔，由 Faven 和 Faven_LTD 設計。",
+      "name": "Vauban G之風格頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Vauban Warframe ออกแบบโดย Faven และ Faven_LTD",
+      "name": "หมวกเหล็ก Vauban Graxx",
+      "code": "th"
+    },
+    {
+      "description": "Faven ve Faven_LTR tarafından Vauban Warframe'i için dizayn edilmiş bir miğfer.",
+      "name": "Vauban Graxx Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вобана, створений Faven та Faven_LTD.",
+      "name": "Шолом «Ґракс» для Вобана",
+      "code": "uk"
+    }
+  ]
+}

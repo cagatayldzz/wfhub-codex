@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/GeneticFoundryFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/incubator-segment-5b4f7708e7.png",
+  "name": "Incubator Segment",
+  "description": "Install this segment to enable the pet incubator within your Orbiter.",
+  "languages": [
+    {
+      "description": "Installiere dieses Segment, um den Haustier-Inkubator auf deinem Orbiter verfügbar zu machen.",
+      "name": "Inkubator-Segment",
+      "code": "de"
+    },
+    {
+      "description": "Installez ce Segment pour activer l'Incubateur à animaux de compagnie de votre Orbiteur.",
+      "name": "Segment d'Incubateur",
+      "code": "fr"
+    },
+    {
+      "description": "Installa questo segmento per abilitare la funzione Incubatrice di animali sul tuo Orbiter.",
+      "name": "Segmento Incubatrice",
+      "code": "it"
+    },
+    {
+      "description": "이 장치를 설치하여 착륙정의 펫 인큐베이터를 활성화하세요.",
+      "name": "인큐베이터 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Instala este segmento para habilitar la incubadora de mascotas del orbitador.",
+      "name": "Segmento de incubadora",
+      "code": "es"
+    },
+    {
+      "description": "将此模块安装在轨道飞行器上以启用宠物孵化器功能。",
+      "name": "孵化器模块",
+      "code": "zh"
+    },
+    {
+      "description": "Установите этот сегмент, чтобы открыть инкубатор питомцев на вашем Орбитере.",
+      "name": "Сегмент Инкубатора",
+      "code": "ru"
+    },
+    {
+      "description": "このモジュールをインストールして船内にペット孵化機機能を追加する。",
+      "name": "孵化器モジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Zainstaluj ten segment, aby włączyć inkubator dla zwierząt w Twoim Orbiterze.",
+      "name": "Segment Inkubatora",
+      "code": "pl"
+    },
+    {
+      "description": "Instale este segmento para habilitar a Incubadora de animais em sua Orbital.",
+      "name": "Segmento da Incubadora",
+      "code": "pt"
+    },
+    {
+      "description": "將此模組安裝在軌道飛行器上以啟用寵物孵化器功能。",
+      "name": "孵化器模組",
+      "code": "tc"
+    },
+    {
+      "description": "ติดตั้งเซกเมนต์นี้เพื่อเปิดใช้งานเครื่องฟักไข่เลี้ยงภายในออร์บิเตอร์ของท่าน",
+      "name": "เซกเมนต์เครื่องฟักไข่",
+      "code": "th"
+    },
+    {
+      "description": "Kuluçkalayıcı özelliği için bu segmenti geminize kurun.",
+      "name": "Kuluçkalama Segmenti",
+      "code": "tr"
+    },
+    {
+      "description": "Установіть цей модуль, щоб увімкнути на своєму орбітрі інкубатор для тварин.",
+      "name": "Модуль інкубатора",
+      "code": "uk"
+    }
+  ]
+}

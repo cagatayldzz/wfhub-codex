@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/RailJack/ShieldArrayA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sigma-shield-array-mk-i-e9d8694d68.png",
+  "name": "Sigma Shield Array Mk I",
+  "description": "An upgraded version of the Sigma Shield Array.",
+  "languages": [
+    {
+      "description": "Eine überarbeitete Version der Sigma Schild-Matrix.",
+      "name": "Sigma Schild-Matrix MK I",
+      "code": "de"
+    },
+    {
+      "description": "Une version améliorée des Réseaux de Boucliers Sigma.",
+      "name": "Réseau de Boucliers Sigma MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Una versione potenziata della Matrice Scudi Sigma.",
+      "name": "Matrice Scudi Sigma MK I",
+      "code": "it"
+    },
+    {
+      "description": "시그마 실드 어레이의 업그레이드된 버전입니다.",
+      "name": "시그마 실드 어레이 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Una versión mejorada de la matriz de escudos Sigma.",
+      "name": "Matriz de escudos Sigma MK I",
+      "code": "es"
+    },
+    {
+      "description": "升级配置的西格玛护盾阵列。",
+      "name": "西格玛护盾阵列 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Модернизированная версия массива щитов экранирования Сигма.",
+      "name": "Массив щитов экранирования: Сигма MK I",
+      "code": "ru"
+    },
+    {
+      "description": "シグマシールドアレイの改良版。",
+      "name": "シグマ・シールドアレイ MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Ulepszona wersja Pola Osłon Sigma.",
+      "name": "Pole Osłon: Sigma MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Uma versão aprimorada da Gama de Escudos Sigma.",
+      "name": "Gama de Escudos: Sigma (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "西格瑪護盾陣列的升級版。",
+      "name": "西格瑪護盾陣列 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "ชิวด์อาร์เรย์ของ Sigma เวอร์ชันอัปเกรด",
+      "name": "อาร์เรย์โล่ป้องกัน: Sigma MK I",
+      "code": "th"
+    },
+    {
+      "description": "Sigma Kalkan Donanımının geliştirilmiş sürümü.",
+      "name": "Sigma Kalkan Düzeni MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Посилені щити серії «Сигма».",
+      "name": "Щити «Сигма» MK I",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyte-09-target-sigil-18d1e2e046.png",
+  "name": "Cyte-09 Target Sigil",
+  "description": "Lock onto your target with this Sigil that honors Cyte-09.",
+  "languages": [
+    {
+      "description": "Fixiere dein Ziel mit diesem Siegel zu Ehren von Cyte-09 an.",
+      "name": "Siegel: Cyte-09 Ziel",
+      "code": "de"
+    },
+    {
+      "description": "Verrouillez votre cible avec ce Sceau qui honore Cyte-09.",
+      "name": "Sceau Cyte-09 Target",
+      "code": "fr"
+    },
+    {
+      "description": "Aggancia il tuo bersaglio con questo Sigillo che onora Cyte-09.",
+      "name": "Sigillo Bersaglio Cyte-09",
+      "code": "it"
+    },
+    {
+      "description": "Cyte-09를 기리는 이 시질로 목표물을 추적하세요.",
+      "name": "Cyte-09 타겟 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Fija tu objetivo con este sello que rinde homenaje a Cyte-09.",
+      "name": "Sello de Cyte-09 Target",
+      "code": "es"
+    },
+    {
+      "description": "使用这款向 Cyte-09 致敬的纹章锁定目标。",
+      "name": "Cyte-09 靶心纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Наведите на цель с помощью этого сигила, посвящённого Циту-09.",
+      "name": "Сигил: Цель Цит-09",
+      "code": "ru"
+    },
+    {
+      "description": "Cyte-09を称えるシジルでターゲットにロックオンしよう。",
+      "name": "Cyte-09 Target シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Namierz swój cel używając Znaku, który honoruje Cyte-09.",
+      "name": "Znak Cyte-09 Cel",
+      "code": "pl"
+    },
+    {
+      "description": "Mire em seu alvo com este brasão que homenageia o Cyte-09.",
+      "name": "Brasão: Alvo do Cyte-09",
+      "code": "pt"
+    },
+    {
+      "description": "鎖定你的目標。裝備這個紋章來向 Cyte-09 致敬。",
+      "name": "Cyte-09 目標紋章",
+      "code": "tc"
+    },
+    {
+      "description": "ล็อกเป้าหมายของคุณด้วยเครื่องหมายอันทรงเกียรติของ Cyte-09",
+      "name": "เครื่องหมาย: Cyte-09 Target",
+      "code": "th"
+    },
+    {
+      "description": "Cyte-09'u onurlandıran bu Mühür ile hedefine kilitlen.",
+      "name": "Cyte-09 Hedef Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Прицілюйтеся й вшановуйте Клітину-09 за допомогою цього сиґілу.",
+      "name": "Сиґіл «Клітина-09 „Ціль”»",
+      "code": "uk"
+    }
+  ]
+}

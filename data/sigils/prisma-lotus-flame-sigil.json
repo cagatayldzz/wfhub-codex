@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrismaLotusFlamesSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-lotus-flame-sigil-709fc83b1d.png",
+  "name": "Prisma Lotus Flame Sigil",
+  "description": "From Baro Ki'Teer comes this fiery reimagining of the Lotus' signature symbol.",
+  "languages": [
+    {
+      "description": "Dieses feurige Symbol stammt von Baro Ki'Teer und erfindet die Signatur der Lotus neu.",
+      "name": "Siegel: Prisma Lotusflamme",
+      "code": "de"
+    },
+    {
+      "description": "Une conception féroce du symbole du Lotus offerte par Baro Ki'Teer.",
+      "name": "Sceau Enflammé Lotus Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Da Baro Ki'Teer arriva una rivisitazione fiammeggiante del simbolo distintivo di Lotus.",
+      "name": "Sigillo Prisma Lotus Flame",
+      "code": "it"
+    },
+    {
+      "description": "바로 키'티어의 손에서 새롭게 불꽃풍으로 재해석된 로터스의 특징적인 상징입니다.",
+      "name": "프리즈마 로터스 플레임 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Baro Ki'Teer trae una recreación llameante del símbolo distintivo de Lotus.",
+      "name": "Sello de Lotus Prisma Llameante",
+      "code": "es"
+    },
+    {
+      "description": "来自 Baro Ki'Teer 重新构想的这个火热 Lotus 标志性象征。",
+      "name": "棱晶 Lotus 烈焰纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Баро Ки'Тиир представляет пылающее воссоздание культового символа Лотос.",
+      "name": "Сигил: Лотос Призма - Пламя",
+      "code": "ru"
+    },
+    {
+      "description": "Baro Ki'TeerによるLotusマークのリメイクデザイン。",
+      "name": "Prisma Lotus Flame シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Baro Ki'Teer dostarcza tę płonącą rekreację charakterystycznego dla Lotus symbolu.",
+      "name": "Znak Prisma Płomień Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Baro Ki'Teer apresenta esta flamejante recriação do símbolo tradicional da Lótus.",
+      "name": "Brasão: Lótus Prisma Flamejante",
+      "code": "pt"
+    },
+    {
+      "description": "來自 Baro Ki'Teer 重新構想的熾烈 Lotus 標誌性象徵。",
+      "name": "棱晶 Lotus 熾焰紋章",
+      "code": "tc"
+    },
+    {
+      "description": "Baro Ki'Teer นำสัญลักษณ์ที่เป็นเอกลักษณ์ของ Lotus มาปรับโฉมใหม่ให้มีลวดลายดั่งเปลวเพลิงสุดร้อนแรง",
+      "name": "เครื่องหมาย: Prisma Lotus Flame",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'un yeniden dizayn edilen bu ateşli sembol Baro Ki'Teer'dan geliyor.",
+      "name": "Prisma Lotus Alev Mühür",
+      "code": "tr"
+    },
+    {
+      "description": "Вогняне переосмислення символу Лотос від Баро КіʼТіра.",
+      "name": "Сиґіл «Полум’я призмового лотоса»",
+      "code": "uk"
+    }
+  ]
+}

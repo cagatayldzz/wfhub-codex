@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/RailJack/DefaultEngines",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sigma-engines-027c2d85f6.png",
+  "name": "Sigma Engines",
+  "description": "Standard issue Sigma series engines.",
+  "languages": [
+    {
+      "description": "Standardausführung von Triebwerken der Sigma-Serie.",
+      "name": "Sigma Triebwerke",
+      "code": "de"
+    },
+    {
+      "description": "Moteurs standards de classe Sigma.",
+      "name": "Moteurs Sigma",
+      "code": "fr"
+    },
+    {
+      "description": "Motori standard per la serie Sigma.",
+      "name": "Motori Sigma",
+      "code": "it"
+    },
+    {
+      "description": "시그마 시리즈의 기본 엔진입니다.",
+      "name": "시그마 엔진",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño estándar de los motores de la serie Sigma.",
+      "name": "Motores Sigma",
+      "code": "es"
+    },
+    {
+      "description": "标准配置的西格玛系列引擎。",
+      "name": "西格玛引擎",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартные двигатели серии «Сигма».",
+      "name": "Двигатели: Сигма",
+      "code": "ru"
+    },
+    {
+      "description": "シグマシリーズの標準型エンジン。",
+      "name": "シグマ・エンジン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe silniki serii Sigma.",
+      "name": "Silniki: Sigma",
+      "code": "pl"
+    },
+    {
+      "description": "Motores padrão da série Sigma.",
+      "name": "Motores: Sigma",
+      "code": "pt"
+    },
+    {
+      "description": "西格瑪系列的標準引擎。",
+      "name": "西格瑪引擎",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องยนต์มาตราฐานของซีรีส์ Sigma",
+      "name": "เครื่องยนต์ Sigma",
+      "code": "th"
+    },
+    {
+      "description": "Standart Sigma serisi motorlar.",
+      "name": "Sigma Motorları",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартні рушії серії «Сигма».",
+      "name": "Рушії «Сигма»",
+      "code": "uk"
+    }
+  ]
+}

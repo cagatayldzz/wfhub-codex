@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCorpusWeaver",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/weaver-fighter-decoration-cbd191d5d7.png",
+  "name": "Weaver Fighter Decoration",
+  "description": "A stunningly detailed representation of the signature Corpus fighter craft.",
+  "languages": [
+    {
+      "description": "Eine erstaunlich detaillierte Darstellung des typischen Corpus Jägers.",
+      "name": "Dekoration: Weaver Jäger",
+      "code": "de"
+    },
+    {
+      "description": "Une représentation incroyablement détaillée du célèbre chasseur Corpus.",
+      "name": "Décoration Chasseur Weaver",
+      "code": "fr"
+    },
+    {
+      "description": "Una rappresentazione incredibilmente dettagliata del caratteristico caccia Corpus.",
+      "name": "Decorazione - Caccia Weaver",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 특징적인 전투 기체를 놀랍도록 세밀하게 표현한 장식물입니다.",
+      "name": "위버 전투 기체 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una representación increíblemente detallada del caza distintivo corpus.",
+      "name": "Decoración de caza Weaver",
+      "code": "es"
+    },
+    {
+      "description": "以惊人的细节展示了标志性的 Corpus 战机。",
+      "name": "旋织战机装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Потрясающе детализированная модель фирменного истребителя Корпуса.",
+      "name": "Украшение: Истребитель Уивер",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス戦闘機を細かく再表現したモデル。",
+      "name": "ウィーバー戦闘機の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Oszałamiająco szczegółowa replika charakterystycznego myśliwca Corpus.",
+      "name": "Ozdoba: Myśliwiec Weaver",
+      "code": "pl"
+    },
+    {
+      "description": "Uma representação incrivelmente detalhada do caça tradicional dos Corpus.",
+      "name": "Caça Tecelão",
+      "code": "pt"
+    },
+    {
+      "description": "標誌性 Corpus 戰機的驚人細緻呈現。",
+      "name": "穿插號戰機裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "รูปแบบจำลองยานรบที่เป็นซิกเนเจอร์ของ Corpus ที่แสดงรายละเอียดไว้อย่างน่าทึ่ง",
+      "name": "ของตกแต่ง: เครื่องบินรบ Weaver",
+      "code": "th"
+    },
+    {
+      "description": "Corpus avcı gemisinin şaşırtıcı derecede ayrıntılı bir temsili.",
+      "name": "Weaver Avcı Gemisi Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Приголомшливо детальна модель бойового судна Корпусу.",
+      "name": "Оздоблення: винищувач «Ткач»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ConclaveConsolePlayerShipItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/conclave-console-e0116e678a.png",
+  "name": "Conclave Console",
+  "description": "Use this console to access The Conclave.",
+  "languages": [
+    {
+      "description": "Nutze diese Konsole, um auf Conclave zuzugreifen.",
+      "name": "Conclave-Konsole",
+      "code": "de"
+    },
+    {
+      "description": "Utilisez cette console pour accéder au Conclave.",
+      "name": "Console du Conclave",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizza questa console per accedere al Conclave.",
+      "name": "Console Conclave",
+      "code": "it"
+    },
+    {
+      "description": "콘솔을 사용하여 콘클레이브에 접속하세요.",
+      "name": "콘클레이브 콘솔",
+      "code": "ko"
+    },
+    {
+      "description": "Usa esta consola para acceder al Cónclave.",
+      "name": "Consola del Cónclave",
+      "code": "es"
+    },
+    {
+      "description": "使用此控制台访问武形秘仪。",
+      "name": "武形秘仪控制台",
+      "code": "zh"
+    },
+    {
+      "description": "Используйте эту консоль для доступа к Конклаву.",
+      "name": "Консоль Конклава",
+      "code": "ru"
+    },
+    {
+      "description": "コンクレーブにアクセスするコンソール。",
+      "name": "コンクレーブコンソール",
+      "code": "ja"
+    },
+    {
+      "description": "Użyj tej konsoli, aby uzyskać dostęp do Konklawe.",
+      "name": "Konsola Konklawe",
+      "code": "pl"
+    },
+    {
+      "description": "Use este painel para acessar o Conclave.",
+      "name": "Painel do Conclave",
+      "code": "pt"
+    },
+    {
+      "description": "使用這個控制台來進入武形秘儀。",
+      "name": "武形秘儀控制台",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้คอนโซลนี้เพื่อเข้าถึงคอนเคลฟ",
+      "name": "คอนโซลคอนเคลฟ",
+      "code": "th"
+    },
+    {
+      "description": "Conclave'e erişmek için bu konsolu kullan.",
+      "name": "Conclave Konsolu",
+      "code": "tr"
+    },
+    {
+      "description": "Скористайтеся цією консоллю, щоби потрапити до Конклаву.",
+      "name": "Консоль Конклаву",
+      "code": "uk"
+    }
+  ]
+}

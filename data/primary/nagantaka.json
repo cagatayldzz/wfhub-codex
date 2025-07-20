@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/GarudaCrossbow/GarudaCrossbow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nagantaka-8722c7da0f.png",
+  "name": "Nagantaka",
+  "description": "Slash targets with a single precise bolt from Garuda's signature crossbow. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshots have a chance to increase Reload Speed. When wielded by Garuda Nagantaka gains a slight Punch Through.",
+  "languages": [
+    {
+      "description": "Zerreiße Feinde mit einem einzigen präzisen Pfeil aus Garudas bevorzugter Armbrust. Der alternative Feuermodus setzt einen Hagel aus Pfeilen frei. Alle Pfeile haben die Chance, <DT_SLASH_COLOR>Schnittstatus auszulösen und Kopfschüsse erhöhen die Nachladegeschwindigkeit. Wird sie von Garuda geführt, erhält sie leichte Durchdringung.",
+      "name": "Nagantaka",
+      "code": "de"
+    },
+    {
+      "description": "Tailladez vos cibles avec un carreau bien placé de l'Arbalète de prédilection de Garuda. Le tir alternatif relâche un barrage de carreaux. Tous les carreaux ont une chance de causer un Effet de Statut <DT_SLASH_COLOR>Tranchant, et les Tirs à la Tête augmentent la Vitesse de rechargement. Dans les mains de Garuda, le Nagantaka peut Pénétrer légèrement.",
+      "name": "Nagantaka",
+      "code": "fr"
+    },
+    {
+      "description": "Colpisci i bersagli con un dardo singolo e preciso dalla balestra distintiva di Garuda. Utilizza il fuoco secondario per scatenare una raffica di dardi. Tutti i dardi hanno la possibilità di causare Effetto <DT_SLASH_COLOR>Taglio e i Colpi alla Testa aumentano la Velocità di Ricarica. Quando impugnata da Garuda, questa balestra riceve un leggero Attraversamento.",
+      "name": "Nagantaka",
+      "code": "it"
+    },
+    {
+      "description": "정확한 화살 하나로 목표물을 갈가리 찢어버리는 가루다의 대표 석궁입니다. 보조 발사를 통하여 화살 세례를 퍼부을 수 있습니다. 각각의 화살은 <DT_SLASH_COLOR>베기 상태 이상을 유발할 확률이 있으며, 헤드샷 적중 시 재장전 속도가 빨라집니다. 가루다가 사용할 시 약간의 두께 꿰뚫기를 얻습니다.",
+      "name": "나간타카",
+      "code": "ko"
+    },
+    {
+      "description": "Corta a los objetivos con una sola flecha certera de la ballesta distintiva de Garuda. El disparo alternativo deja salir una ráfaga de flechas. Todas las flechas tienen una probabilidad de causar estado <DT_SLASH_COLOR>cortante y los disparos a la cabeza aumentan la velocidad de recarga. Cuando la porta Garuda, la Nagantaka adquiere un poco de atravesar.",
+      "name": "Nagantaka",
+      "code": "es"
+    },
+    {
+      "description": "（英文：NAGANTAKA）Garuda 的标志性十字弓能以一支精准的弩矢斩断目标，而次要射击则能发射出弩矢弹幕；每支弩矢都有可能造成 <DT_SLASH_COLOR>切割异常状态，爆头射击则可加快装填速度。在被 Garuda 使用时，噬蛇弩会获得少量的穿透效果。",
+      "name": "噬蛇弩",
+      "code": "zh"
+    },
+    {
+      "description": "Рассеките цель прицельным выстрелом этого особого арбалета. Альтернативный огонь выпускает очередь болтов. Болты могут наложить на цель эффект <DT_SLASH_COLOR>разрезания, а попадания в голову — увеличить скорость перезарядки. Если используется Гарудой — имеет пронзание навылет.",
+      "name": "Нагантака",
+      "code": "ru"
+    },
+    {
+      "description": "Garudaを象徴するクロスボウを使って、敵を精密な一射で切り裂け。オルトファイアは矢の雨を降らす。矢は確率で<DT_SLASH_COLOR>切断状態異常を引き起こし、ヘッドショットはリロード速度を速めることがある。Garudaが使用した際には、わずかに貫通距離を得る。",
+      "name": "Nagantaka",
+      "code": "ja"
+    },
+    {
+      "description": "Tnij cele pojedynczym, precyzyjnym bełtem kuszy charakterystycznej dla Garudy. Ogień alternatywy uwalnia ogień zaporowy bełtów. Wszystkie bełty mają szansę wywołania Efektu Statusu <DT_SLASH_COLOR> Obr. Tnących, a strzały w głowę zwiększają Prędkość Przeładowania. W rękach Garudy bełty tej kuszy zyskują małe Przebicie na wylot.",
+      "name": "Nagantaka",
+      "code": "pl"
+    },
+    {
+      "description": "Lacere seus alvos com uma flecha única e precisa com a besta tradicional da Garuda. O disparo alternativo lançará uma rajada de flechas. Todas as flechas têm chance de causar o Efeito de Status <DT_SLASH_COLOR>Cortante, e os Acertos de Precisão terão a chance de aumentarem a Velocidade de Recarga. Quando utilizada pela Garuda, a arma receberá uma pequena quantia de Penetração.",
+      "name": "Nagantaka",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：NAGANTAKA）Garuda 的標誌性十字弓能以一支精準的弩矢斬斷目標，而次要射擊則能發射出弩矢彈幕；每支弩矢都有可能觸發<DT_SLASH_COLOR>切割狀態，爆頭擊中敵人則可加快裝填速度。由 Garuda 使用時，噬蛇弩會獲得少量的穿透效果。",
+      "name": "噬蛇弩",
+      "code": "tc"
+    },
+    {
+      "description": "หน้าไม้นี้เป็นอาวุธประจำตัวของ Garuda ซึ่งจะยิงลูกดอกที่มีความแม่นยำทีละลูกพุ่งไปเฉือนฟันศัตรู เมื่อใช้โหมดยิงสำรองจะระดมยิงลูกดอกออกมา ลูกธนูทุกดอกมีโอกาสทำให้เกิดสถานะ <DT_SLASH_COLOR>เฉือนฟัน และการยิงเฮดช็อตมีโอกาสเพิ่มความเร็วในการรีโหลดกระสุน หาก Garuda เป็นผู้ใช้ Nagantaka จะได้รับค่าเจาะทะลุเพิ่มขึ้นมาเล็กน้อย",
+      "name": "Nagantaka",
+      "code": "th"
+    },
+    {
+      "description": "Garuda'nın özel yaylı silahından çıkan tek isabetli atışlarla hedeflerini kes. Alternatif atış modu ile oklarla yaylım ateşi aç. Bütün okların hedef üzeirnde <DT_SLASH_COLOR>Kesme Statüsü oluşturma şansı vardır ve Kafadan Vuruşlar Yeniden Doldurma hızını artırır. Garuda tarafından kullanıldığında Nagantaka küçük bir miktarda delip geçme kazanır.",
+      "name": "Nagantaka",
+      "code": "tr"
+    },
+    {
+      "description": "Кривавий арбалет Ґаруди. Випущені з нього болти з великою ймовірністю накладають <DT_SLASH_COLOR>різальний ефект стану, а як поцілити у голову, то можна пришвидшити перезаряджання. Під час альтернативної атаки стріляє короткими чергами. Якщо ним користується Ґаруда, болти мають незначне прострілювання.",
+      "name": "Наґантака",
+      "code": "uk"
+    }
+  ]
+}

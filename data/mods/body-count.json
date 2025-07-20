@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ComboDurationMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/body-count-960e6733e9.jpg",
+  "name": "Body Count",
+  "languages": [
+    {
+      "name": "Opferzahl",
+      "code": "de"
+    },
+    {
+      "name": "Décompte des Morts",
+      "code": "fr"
+    },
+    {
+      "name": "Body Count",
+      "code": "it"
+    },
+    {
+      "name": "바디 카운트",
+      "code": "ko"
+    },
+    {
+      "name": "Conteo de bajas",
+      "code": "es"
+    },
+    {
+      "name": "杀伤计数",
+      "code": "zh"
+    },
+    {
+      "name": "Счетчик Тел",
+      "code": "ru"
+    },
+    {
+      "name": "Body Count",
+      "code": "ja"
+    },
+    {
+      "name": "Lista Ofiar",
+      "code": "pl"
+    },
+    {
+      "name": "Body Count",
+      "code": "pt"
+    },
+    {
+      "name": "殺傷計數",
+      "code": "tc"
+    },
+    {
+      "name": "Body Count",
+      "code": "th"
+    },
+    {
+      "name": "Body Count",
+      "code": "tr"
+    },
+    {
+      "name": "Список жертв",
+      "code": "uk"
+    }
+  ]
+}

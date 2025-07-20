@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/YareliSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-aquablade-sigil-db08e055d6.png",
+  "name": "Yareli Aquablade Sigil",
+  "description": "A sigil depicting Yareli's deadly Aquablades.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Yarelis tödliche Aquaklingen darstellt.",
+      "name": "Siegel: Yarelis Aquaklingen",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau mettant en avant les Aqualames mortelles de Yareli.",
+      "name": "Sceau Aqualames de Yareli",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo raffigurante le micidiali Aquablade di Yareli.",
+      "name": "Sigillo Yareli Aquablade",
+      "code": "it"
+    },
+    {
+      "description": "야렐리의 치명적인 아쿠아블레이드를 묘사한 시질입니다.",
+      "name": "야렐리 아쿠아블레이드 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa las acuaespadas mortales de Yareli.",
+      "name": "Sello de Acuaespada de Yareli",
+      "code": "es"
+    },
+    {
+      "description": "描绘 Yareli 致命水形之刃的纹章。",
+      "name": "Yareli 水形之刃纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, изображающий смертоносные акваклинки Ярели.",
+      "name": "Сигил: Акваклинок Ярели",
+      "code": "ru"
+    },
+    {
+      "description": "YareliのAquabladesを写したシジル。",
+      "name": "Yareli Aquablade シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający zabójcze Wodne Ostrza Yareli.",
+      "name": "Znak Wodnych Ostrzy Yareli",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando as Lâminas Aquáticas letais da Yareli.",
+      "name": "Brasão: Lâminas Aquáticas da Yareli",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Yareli 的致命鋸片水車的紋章。",
+      "name": "Yareli 鋸片水車紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Aquablade ที่อันตรายถึงตายของ Yareli",
+      "name": "เครื่องหมาย: Yareli Aquablade",
+      "code": "th"
+    },
+    {
+      "description": "Yareli'nin ölümcül Aquablade'lerini tasvir eden bir mühür.",
+      "name": "Yareli Aquablade Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням смертоносних Водяних клинків Ярелі.",
+      "name": "Сиґіл «Водяний клинок Ярелі»",
+      "code": "uk"
+    }
+  ]
+}

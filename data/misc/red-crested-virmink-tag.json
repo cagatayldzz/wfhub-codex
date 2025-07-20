@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Solaris/AnimalTagVirminkRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/red-crested-virmink-tag-a1728d58b3.png",
+  "name": "Red-Crested Virmink Tag",
+  "description": "For saving a specimen of this subspecies.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Unterart gerettet.",
+      "name": "Marke: Rothauben-Virmink",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Virmink à Crête Rouge",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa sottospecie.",
+      "name": "Etichetta Virmink Testa-Rossa",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "레드-크레스티드 버밍크 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta subespecie.",
+      "name": "Marcador de Virmink de cresta roja",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个亚种的一个样本。",
+      "name": "红冠弗鸣克标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого подвида.",
+      "name": "Жетон: Красногребневая вирнорка",
+      "code": "ru"
+    },
+    {
+      "description": "この変種を保護すると入手できるタグ。",
+      "name": "レッドクレスト バーミンク タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Śmigotka Czerwonoczubatego",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Virmink Crista-Vermelha",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存這個亞種的樣本。",
+      "name": "紅冠弗鳴克標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์ย่อยนี้",
+      "name": "แท็ก Red-Crested Virmink",
+      "code": "th"
+    },
+    {
+      "description": "Bu alt-türün bir örneğini kurtardığın için.",
+      "name": "Kırmızı İbikli Virmink Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього підвиду.",
+      "name": "Жетон червонохвостого вірмінка",
+      "code": "uk"
+    }
+  ]
+}

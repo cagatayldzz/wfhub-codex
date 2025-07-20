@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-crest-fbcc8a54fd.png",
+  "name": "Voidplume Crest",
+  "description": "The fine plumes from a Void Angel's crown.\n\nLocation: Zariman",
+  "languages": [
+    {
+      "description": "Die feine Feder aus der Krone eines Void-Engels.\n\nQuelle: Zariman",
+      "name": "Void-Feder: Kontur",
+      "code": "de"
+    },
+    {
+      "description": "Les plumes délicates de la couronne d'un Ange du Néant.\n\nLieu: Zariman",
+      "name": "Plume du Néant - Huppe",
+      "code": "fr"
+    },
+    {
+      "description": "Le piume delicate dalla corona di un Angelo del Void.\n\nPosizione: Zariman",
+      "name": "Voidplume - Cresta",
+      "code": "it"
+    },
+    {
+      "description": "보이드 천사의 머리 위 관에서 떨어져 나온 섬세한 깃털입니다.\n\n획득 가능 장소: 자리만",
+      "name": "보이드 깃털 - 관깃",
+      "code": "ko"
+    },
+    {
+      "description": "Las finas plumas de la corona de un Ángel del Vacío.\n\nUbicación: Zariman",
+      "name": "Cresta de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "虚空天使王冠上的精美羽毛。\n\n获取地点：扎里曼号",
+      "name": "虚空冠翎",
+      "code": "zh"
+    },
+    {
+      "description": "Тонкие перья из короны ангела Бездны.\n\nМестонахождение: «Зариман»",
+      "name": "Перо Бездны: Гребень",
+      "code": "ru"
+    },
+    {
+      "description": "Voidの天使の冠から得られた精細な羽毛。\n\n場所：Zariman",
+      "name": "ヴォイドプルーム クレスト",
+      "code": "ja"
+    },
+    {
+      "description": "Delikatne pióropusze z korony Anioła Pustki.\n\nPołożenie: Zariman",
+      "name": "Pióro Pustki: Korona",
+      "code": "pl"
+    },
+    {
+      "description": "As requintadas plumas da coroa de um Anjo do Void.\n\nLocalização: Zariman",
+      "name": "Crista de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "來自虛空天使頭冠的細微羽片。\n\n地點：扎日曼號",
+      "name": "虛空冠羽",
+      "code": "tc"
+    },
+    {
+      "description": "ขนนกชั้นดีจากส่วนบนของเทวทูตแห่งวอยด์\n\nแหล่งที่พบ: Zariman",
+      "name": "Voidplume Crest",
+      "code": "th"
+    },
+    {
+      "description": "Bir Void Meleğinin tacındaki ince tüyler.\n\nKonum: Zariman",
+      "name": "Void Tüyü Arması",
+      "code": "tr"
+    },
+    {
+      "description": "Чудове пір’я з корони янгола Порожнечі.\n\nМожна знайти на «Заримені».",
+      "name": "Німб із пер Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

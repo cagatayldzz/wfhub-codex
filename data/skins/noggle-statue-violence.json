@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AcolyteDuellistBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---violence-ec045ed845.png",
+  "name": "Noggle Statue - Violence",
+  "description": "A small wobbly statue of Stalker's Acolyte, Violence.",
+  "languages": [
+    {
+      "description": "Ein kleine Wackelfigur vom Akolythen des Stalkers, Gewalt.",
+      "name": "Noggle-Statue: Gewalt",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Violence, un des disciples du Stalker.",
+      "name": "Statuette Noggle - Violence",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del discepolo dello Stalker, Violence, con la testa tremolante.",
+      "name": "Statuetta Noggle - Violence",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트, 바이올런스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 바이올런스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de uno de los discípulos de Stalker, Violencia.",
+      "name": "Estatua Tambaleante - Violencia",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者的追随者，暴力摇头娃娃。",
+      "name": "暴力摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка последователя Сталкера, Жестокости.",
+      "name": "Фигурка: Жестокость",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの従者のボブルヘッド人形、Violence。",
+      "name": "Violence ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała chybotliwa figurka Akolity Stalkera: Przemoc.",
+      "name": "Figurka Noggle — Przemoc",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um discípulo do Stalker, Violência.",
+      "name": "Estatueta: Violência",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的追隨者－暴力的搖頭娃娃。",
+      "name": "暴力搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของผู้ช่วยเหลือ Stalker - Violence",
+      "name": "รูปปั้น Noggle - Violence",
+      "code": "th"
+    },
+    {
+      "description": "Stalker Acolyte, Violence küçük oynar figür.",
+      "name": "Noggle Heykeli - Violence",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка прибічника Сталкера на ім’я Насилля.",
+      "name": "Ноґл «Насилля»",
+      "code": "uk"
+    }
+  ]
+}

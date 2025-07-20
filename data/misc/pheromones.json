@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/InfestedFoundry/HelminthPheromones",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pheromones-36dff1b6af.png",
+  "name": "Pheromones",
+  "description": "When Helminth consumes Infested matter it creates greasy intestine-like casings, bloats them with a dark, musky gas and ejects them. The reason for this is unknown and probably best left that way.",
+  "languages": [
+    {
+      "description": "Wenn Helminth Substanzen von Befallenen verzehrt, bildet er fettige, darmartige Schläuche, bläht sie mit einem dunklen, moschusartigen Gas auf und stößt sie aus. Der Grund dafür ist unbekannt und man sollte es wohl besser dabei belassen.",
+      "name": "Pheromone",
+      "code": "de"
+    },
+    {
+      "description": "Lorsque le Helminth consomme de la matière Infestée, il crée des enveloppes grasses ressemblant à un intestin, les gonfle d'un gaz sombre et musqué puis les éjecte. La raison en est inconnue et c'est probablement mieux comme ça.",
+      "name": "Phéromones",
+      "code": "fr"
+    },
+    {
+      "description": "Quando l'Helminth consuma materia Infested crea grassi involucri simili a intestini, li gonfia con uno scuro gas muschiato e li espelle. La ragione di ciò è sconosciuta e probabilmente è meglio così.",
+      "name": "Feromoni",
+      "code": "it"
+    },
+    {
+      "description": "헬민스는 인페스티드 물질을 섭취할 시 내장 같은 기름진 외피를 생성시키며, 이를 짙은 사향 냄새를 풍기는 가스로 부풀려 배출합니다. 이러한 현상의 발생 원인은 불분명하지만, 아마 모르는 채로 있는 게 더 나을 것만 같습니다.",
+      "name": "페로몬",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando el Helminto consume materia infestada, crea tripas grasosas parecidas a los intestinos, que hincha con un gas oscuro y almizclado para luego expulsarlas. La razón sigue siendo desconocida y probablemente sea mejor dejarlo así.",
+      "name": "Feromonas",
+      "code": "es"
+    },
+    {
+      "description": "当 Helminth 享用了感染物质后，它会产生油腻的肠道状外壳，并通过黑色的麝香气体使其膨胀，然后将其喷射出来。这种现象的产生原因不明，可能最好不要去管它。",
+      "name": "信息质",
+      "code": "zh"
+    },
+    {
+      "description": "Когда Гельминт потребляет заражённую материю, внутри него образуется покрытая жиром оболочка, которая заполняется тёмным мускусным газом, после чего выбрасывается наружу. Причина этого процесса неизвестна и, возможно, лучше о ней не знать.",
+      "name": "Феромоны",
+      "code": "ru"
+    },
+    {
+      "description": "Helminthが感染した物質を消化すると、脂ぎった腸のような鞘が形成され、ムスクのような臭いのする暗色のガスで膨らんで排出される。これの理由は不明であり、おそらくわからないままのほうがいいだろう。",
+      "name": "フェロモン",
+      "code": "ja"
+    },
+    {
+      "description": "Kiedy Helminth konsumuje materię Plagi, tworzy tłuste jelitowe osłonki, nadmuchuje je ciemnym, piżmowym gazem i wyrzuca. Przyczyna tego jest nieznana i prawdopodobnie najlepiej żeby tak już zostało.",
+      "name": "Feromony",
+      "code": "pl"
+    },
+    {
+      "description": "Quando o Helminte consome material Infestado, ele cria tripas gordurosas (parecidas com intestinos), incha-as com um gás escuro e almiscarado e, por fim, expele-as. A razão por trás deste processo é desconhecida e, provavelmente, é melhor que continue assim.",
+      "name": "Feromônios",
+      "code": "pt"
+    },
+    {
+      "description": "當 Helminth 吞噬了 Infested 的物質後，會產生油膩如腸狀般的外層，並透過深色的麝香氣體使其腫脹後再排出體外。此現象的發生原因不明，最好別理它。",
+      "name": "費洛蒙",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Helminth กินสสารที่ติดเชื้อเข้าไป มันจะสร้างปลอกคล้ายลำไส้ที่มีมันเยิ้มและพองตัวด้วยแก๊สกลิ่นชะมดที่สีดำคล้ำแล้วขับออกมา ไม่มีเหตุผลอะไรแน่ชัด แต่ปล่อยไว้แบบนั้นน่าจะดีที่สุดแล้ว",
+      "name": "ฟีโรโมน",
+      "code": "th"
+    },
+    {
+      "description": "Helminth, bir Infested birimini tükettiğinde, onu yağlı birer bağırsak benzeri bezle sarar, koyu misk kokulu bir gazla şişirir, ve ardından dışarı atar. Bunun nedeni bilinmemektedir ve muhtemelen bunu böyle bırakmak en iyisidir.",
+      "name": "Feromon",
+      "code": "tr"
+    },
+    {
+      "description": "Якщо гельмінт споживає заражену матерію, то навколо неї створюється жирна кишкоподібна оболонка, яка заповнена темним мускусним газом. Потім він це все випльовує. Чому так відбувається — невідомо, і ліпше, певно, не знати.",
+      "name": "Феромони",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunrise-apothic-d3e465d4f9.png",
+  "name": "Sunrise Apothic",
+  "description": "Creates an organic compound composed of rare plant species. Effects unknown.",
+  "languages": [
+    {
+      "description": "Erstellt eine organische Mischung aus seltenen Pflanzen. Effekt unbekannt.",
+      "name": "Tinktur des Morgens",
+      "code": "de"
+    },
+    {
+      "description": "Crée un composé organique d'espèces de plantes rares. Effets inconnus.",
+      "name": "Apothique de l'Aube",
+      "code": "fr"
+    },
+    {
+      "description": "Crea un composto organico composto da rare specie di piante. Effetti sconosciuti.",
+      "name": "Apothic Sunrise",
+      "code": "it"
+    },
+    {
+      "description": "희귀한 식물 표본으로 이루어진 유기 화합물을 생성합니다. 효과 불명.",
+      "name": "선라이즈 어포틱",
+      "code": "ko"
+    },
+    {
+      "description": "Crea un componente orgánico compuesto de especies raras de plantas. Efectos desconocidos.",
+      "name": "Apótico Amanecer",
+      "code": "es"
+    },
+    {
+      "description": "制作一种由稀有植物合成的有机混合物。效果未知。",
+      "name": "日升药剂",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт органическое соединение из редких видов растений. Эффект неизвестен.",
+      "name": "Апотик: Восход",
+      "code": "ru"
+    },
+    {
+      "description": "珍種の植物で有機物質を製作する。効果は不明。",
+      "name": "サンライズ・アポシック",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy organiczną mieszaninę rzadkich rodzajów roślin. Efekt nieznany.",
+      "name": "Wywar Poranka",
+      "code": "pl"
+    },
+    {
+      "description": "Cria um composto orgânico feito de espécies de plantas raras. Efeitos desconhecidos.",
+      "name": "Apótico do Amanhecer",
+      "code": "pt"
+    },
+    {
+      "description": "製作一種由稀有植物合成的有機混合物。效果未知。",
+      "name": "日昇藥劑",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างสารประกอบอินทรีย์ซึ่งประกอบด้วยพันธุ์พืชที่หายาก ยังไม่ทราบถึงผลกระทบ",
+      "name": "ซันไรซ์อะพอธิก",
+      "code": "th"
+    },
+    {
+      "description": "Nadir bitki türlerinden oluşmuş organik bir bileşen yaratır. Etkisi bilinmiyor.",
+      "name": "Sunrise Apothic",
+      "code": "tr"
+    },
+    {
+      "description": "Створює органічну речовину з рідкісних рослин. Дія невідома.",
+      "name": "Світанковий апотик",
+      "code": "uk"
+    }
+  ]
+}

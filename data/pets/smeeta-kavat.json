@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/smeeta-kavat-221e85b8af.png",
+  "name": "Smeeta Kavat",
+  "description": "This sly feline is playful yet devious.",
+  "armor": 300,
+  "languages": [
+    {
+      "description": "Diese gerissene Kavat ist spielerisch und doch listig.",
+      "name": "Smeeta Kavat",
+      "code": "de"
+    },
+    {
+      "description": "Ce malicieux félin est joueur, mais sournois.",
+      "name": "Kavat Smeeta",
+      "code": "fr"
+    },
+    {
+      "description": "Questo scaltro felino è giocoso ma subdolo.",
+      "name": "Smeeta Kavat",
+      "code": "it"
+    },
+    {
+      "description": "이 교활한 고양잇과 동물은 장난기가 많고 의뭉스럽습니다.",
+      "name": "스미타 카밧",
+      "code": "ko"
+    },
+    {
+      "description": "Este felino es juguetón pero astuto.",
+      "name": "Kavat Smeeta",
+      "code": "es"
+    },
+    {
+      "description": "这只狡猾的猫既好玩又诡诈。",
+      "name": "笑面型库娃",
+      "code": "zh"
+    },
+    {
+      "description": "Это хитрое существо из семейства кошачьих игриво, но настолько же и коварно.",
+      "name": "Кават: Смита",
+      "code": "ru"
+    },
+    {
+      "description": "いたずら好きで殺傷能力も高いキャバット",
+      "name": "Smeeta キャバット",
+      "code": "ja"
+    },
+    {
+      "description": "Ten figlarny kotowaty jest skory do zabaw, jednak pozostając niebezpiecznym.",
+      "name": "Kavat Smeeta",
+      "code": "pl"
+    },
+    {
+      "description": "Este felino sagaz é brincalhão, porém astuto.",
+      "name": "Kavat Smeeta",
+      "code": "pt"
+    },
+    {
+      "description": "這隻狡猾的貓既好玩又詭詐。",
+      "name": "笑面型庫娃",
+      "code": "tc"
+    },
+    {
+      "description": "แมวเจ้าเล่ห์ตัวนี้ขี้เล่น แต่ก็มีเล่ห์เหลี่ยม",
+      "name": "Smeeta Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Bu kedicik hem sinsi hem de hileci.",
+      "name": "Smeeta Kavat",
+      "code": "tr"
+    },
+    {
+      "description": "Хоч цей представник роду котячих і грайливий, та все ж підступний.",
+      "name": "Смітовий кават",
+      "code": "uk"
+    }
+  ]
+}

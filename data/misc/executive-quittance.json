@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinUncommonDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/executive-quittance-a7c5f77e68.png",
+  "name": "Executive Quittance",
+  "description": "Medallion of The Perrin Sequence syndicate. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Medaillon des Perrin Sequence Syndikats. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Quittung: Leiter",
+      "code": "de"
+    },
+    {
+      "description": "Médaillon du Syndicat de la Séquence Perrin. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats localisés dans les Relais.",
+      "name": "Quittance de Cadre",
+      "code": "fr"
+    },
+    {
+      "description": "Medaglione dell'associazione Perrin Sequence. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Executive Quittance",
+      "code": "it"
+    },
+    {
+      "description": "페린 시퀀스의 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "익제큐티브 퀴튼스",
+      "code": "ko"
+    },
+    {
+      "description": "Medallones de La Secuencia de Perrin. Pueden ser intercambiados en las salas de los sindicatos en los Repetidores por reputación adicional.",
+      "name": "Finiquito de Ejecutivo",
+      "code": "es"
+    },
+    {
+      "description": "佩兰数列集团的勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "高级执行者报酬",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон синдиката 'Последовательность Перрина'. Можно обменять в комнатах синдикатов в реле на репутацию.",
+      "name": "Акция Исполнителя",
+      "code": "ru"
+    },
+    {
+      "description": "シンジケートのペリン・シークエンスのメダリオン。リレーのシンジケートハブで追加の地位とトレードできる。",
+      "name": "役員証書",
+      "code": "ja"
+    },
+    {
+      "description": "Syndykatowy Medalion Sekwencji Perrin. Może zostać wymieniony za dodatkową reputację w pokojach syndykatowych na przekaźniku.",
+      "name": "Umowa Dyrektora Wykonawczego",
+      "code": "pl"
+    },
+    {
+      "description": "Medalhão do sindicato da Sequência de Perrin. Pode ser negociado na sala de seu respectivo sindicato, nos Relays, em troca de reputação adicional.",
+      "name": "Recibo Executivo",
+      "code": "pt"
+    },
+    {
+      "description": "佩蘭數列集團的獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "高級執行者報酬",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญของซินดิเคต Perrin Sequence สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "Executive Quittance",
+      "code": "th"
+    },
+    {
+      "description": "The Perrin Sequence'in madalyonu. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "Yönetici Belgesi",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон синдикату «Послідовність Перрена». Можна обміняти на додаткову репутацію в центрах синдикату на реле.",
+      "name": "Розписка керівника",
+      "code": "uk"
+    }
+  ]
+}

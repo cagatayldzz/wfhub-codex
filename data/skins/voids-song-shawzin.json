@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropShawzinZarimanVoid",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/void's-song-shawzin-de7e775c2a.png",
+  "name": "Void's Song Shawzin",
+  "description": "Kira played her shawzin to uplift the spirits of Zariman crewmembers. Her song and her memory live on in the Void.",
+  "languages": [
+    {
+      "description": "Kira spielte ihre Shawzin, um die Stimmung der Zariman Crew zu heben. Ihr Lied und ihre Erinnerung leben im Void fort.",
+      "name": "Shawzin: Lied des Voids",
+      "code": "de"
+    },
+    {
+      "description": "Kira jouait du Shawzin pour remonter le moral des membres de l'équipage du Zariman. Son chant et son souvenir vivent dans le Néant.",
+      "name": "Shawzin Chant du Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Kira suonò il suo shawzin per sollevare il morale dei membri dell'equipaggio della Zariman. La sua canzone e la sua memoria continueranno a vivere nel Void.",
+      "name": "Shawzin Canzone del Void",
+      "code": "it"
+    },
+    {
+      "description": "키라는 자리만 승무원들의 투지를 고양시키기 위해 그녀의 샤진을 연주했습니다. 그녀의 노래와 기억들은 보이드 안에서 계속 살아갈 겁니다.",
+      "name": "보이드의 노래 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Kira tocó su Shawzin para levantar el ánimo de la tripulación de la Zariman. Su canto y su recuerdo seguirán viviendo en el Vacío.",
+      "name": "Shawzin Canción del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "吉拉演奏她的三线琴来振奋扎里曼船员的精神。她的歌声和记忆永存于虚空之中。",
+      "name": "虚空之歌三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Кира играла на своём шазине, чтобы поднять настроение членам экипажа «Заримана». Её песня и память о ней живут в Бездне по сей день.",
+      "name": "Шазин: Песня Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "かつてKiraはこのShawzinでZarimanのクルーメンバーの士気を上げていた。彼女の歌と記憶はVoidの中で語り継がれている。",
+      "name": "Void’s Song Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Kira grała na swojej shawzin, by podnieść ducha członków Zarimana. Jej pieśń i pamięć o niej będą żyć dalej w Pustce.",
+      "name": "Shawzin Pieśni Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "A Kira tocava seu Shawzin para elevar a moral da tripulação na Zariman. Sua canção, assim como sua memória, é eterna no Void.",
+      "name": "Shawzin da Canção do Void",
+      "code": "pt"
+    },
+    {
+      "description": "Kira 彈奏她的三線琴來振奮扎日曼船員們的精神。她的歌曲及她的記憶永存於虛空之中。",
+      "name": "虛空之歌三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "Kira บรรเลงเพลงด้วย Shawzin ของนางเพื่อสร้างขวัญกำลังใจให้แก่ลูกเรือ Zariman เพลงและความทรงจำของนางคงอยู่ในห้วงมิติของวอยด์",
+      "name": "Void’s Song Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Kira, Zariman mürettebatının moralini yükseltmek için shawzin çalardı. Şarkısı ve anısı Void'de yaşıyor.",
+      "name": "Void Ağıtları Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Кіра грала на шодзіні, щоби підняти настрій екіпажу «Заримена». Її пісня та пам’ять тепер живуть у Порожнечі.",
+      "name": "Шодзін «Пісня Порожнечі»",
+      "code": "uk"
+    }
+  ]
+}

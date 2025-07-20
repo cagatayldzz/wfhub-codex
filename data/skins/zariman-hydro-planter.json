@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxHydroPlantStationA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-hydro-planter-326ba7d04c.png",
+  "name": "Zariman Hydro Planter",
+  "description": "A device for supporting young plants.",
+  "languages": [
+    {
+      "description": "Ein Gerät zur Unterstützung von Jungpflanzen.",
+      "name": "Zariman Hydropflanzer",
+      "code": "de"
+    },
+    {
+      "description": "Un dispositif pour soutenir les jeunes plantes.",
+      "name": "Zariman: Jardinière hydroponique",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo che aiuta le piante giovani.",
+      "name": "Vaso Idroponico Zariman",
+      "code": "it"
+    },
+    {
+      "description": "어린 식물을 보조하는데 사용되는 장치입니다.",
+      "name": "자리만 수경 화분",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo que ayuda a las plantas jóvenes.",
+      "name": "Maceta hidropónica Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个用于维护幼小植物的设备。",
+      "name": "扎里曼水培机",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство для поддержки молодых растений.",
+      "name": "Гидроплантатор: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "若い芽を支える装置。",
+      "name": "Zariman ハイドロプランター",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie służące uprawie młodych roślin.",
+      "name": "Zariman: Donica hydroponiczna",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo utilizado para nutrir mudas de plantas.",
+      "name": "Horta Hidropônica da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "栽培幼苗的裝置。",
+      "name": "扎日曼水培機",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์สำหรับไว้รองรับต้นอ่อน",
+      "name": "Zariman: กระถางไฮโดร",
+      "code": "th"
+    },
+    {
+      "description": "Büyüme sürecindeki bitkileri desteklemek için bir cihaz.",
+      "name": "Zariman Hidro Ekici",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій для вирощування молодих рослин.",
+      "name": "Гідровазон із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

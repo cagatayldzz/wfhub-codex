@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/AbilitySword/NechroTechSwordWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ironbride-4c70834d67.png",
+  "name": "Ironbride",
+  "description": "A titanic blade modeled after some of the very oldest swords, this weapon was designed to slice through massed enemy troops in a single stroke.",
+  "languages": [
+    {
+      "description": "Diese gigantische Klinge, nachempfunden nach einigen der ältesten Schwerter, wurde entwickelt, um mit einem einzigen Schlag durch Massen feindlicher Truppen zu schneiden.",
+      "name": "Ironbride",
+      "code": "de"
+    },
+    {
+      "description": "Une lame titanesque inspirée des épées les plus anciennes. Cette arme a été conçue pour trancher des groupes d'ennemis en un seul coup.",
+      "name": "Ironbride",
+      "code": "fr"
+    },
+    {
+      "description": "Una lama titanica ispirata ad alcune delle spade più antiche, quest'arma è stata progettata per attaccare i gruppi di nemici in un colpo solo.",
+      "name": "Ironbride",
+      "code": "it"
+    },
+    {
+      "description": "가장 오래된 도검 중 일부를 본떠 만든 거대한 블레이드로, 이 무기는 한 번의 검격으로 집결된 적 부대를 한 번에 베어 나갈 수 있도록 설계되었습니다.",
+      "name": "아이언브라이드",
+      "code": "ko"
+    },
+    {
+      "description": "Una hoja titánica inspirada en las espadas más antiguas. Esta arma fue diseñada para atravesar las masas de tropas enemigas de un solo golpe.",
+      "name": "Prometida de Hierro",
+      "code": "es"
+    },
+    {
+      "description": "（英文：IRONBRIDE）一把灵感源自最古老刀剑的巨大利刃，这把武器是为了一次性击穿大量敌人而设计的。",
+      "name": "铁嫁",
+      "code": "zh"
+    },
+    {
+      "description": "Титановый клинок, созданный по образцу некоторых из самых старинных мечей, был разработан, чтобы одним ударом рассечь толпу врагов.",
+      "name": "Железная Леди",
+      "code": "ru"
+    },
+    {
+      "description": "古代の剣をモデルにした巨大なブレードで敵に強力な一太刀を食らわせよう。",
+      "name": "Ironbride",
+      "code": "ja"
+    },
+    {
+      "description": "Tytaniczne ostrze wzorowane na jednym z najstarszych mieczy. Broń zaprojektowana do wyrzynania stłoczonych oddziałów wroga jednym uderzeniem.",
+      "name": "Żelazna Dama",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lâmina massiva, inspirada em espadas ancestrais, esta arma foi desenvolvida para cortar batalhões inimigos com um único golpe.",
+      "name": "Dama de Ferro",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：IRONBRIDE）以一些最為古老的劍為原型的巨劍，這種武器是為以一次砍穿大量敵人部隊而設計的。",
+      "name": "鐵娘子",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบขนาดมหึมาเล่มนี้จำลองตามดาบที่เก่าแก่ที่สุด ออกแบบมาเพื่อให้ฟันฝ่ากองกำลังศัตรูที่มีจำนวนมากได้ในคราวเดียว",
+      "name": "Ironbride",
+      "code": "th"
+    },
+    {
+      "description": "En eski kılıç modellerini baz alan bu devasa silah, sürü halindeki düşman birliklerini tek bir vuruşta kesmek için tasarlandı.",
+      "name": "Ironbride",
+      "code": "tr"
+    },
+    {
+      "description": "Велетенський клинок, створений за подобою до дуже старовинних мечів. Цю зброю створили для розрізання великих груп ворогів одним ударом.",
+      "name": "Залізна Леді",
+      "code": "uk"
+    }
+  ]
+}

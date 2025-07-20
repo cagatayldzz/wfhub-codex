@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenMiscApplianceD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-nutrition-cube-hydrator-b20e6f4756.png",
+  "name": "Zariman Nutrition Cube Hydrator",
+  "description": "Make energy dense beverages with this cube hydrator.",
+  "languages": [
+    {
+      "description": "Mache mit diesem Hydrator energiereiche Nährstoffwürfel-Getränke.",
+      "name": "Zariman Nährstoffwürfel-Hydrator",
+      "code": "de"
+    },
+    {
+      "description": "Préparez des boissons à forte densité énergétique avec ce diluant pour cubes.",
+      "name": "Zariman: Cube nutritionnel (diluant)",
+      "code": "fr"
+    },
+    {
+      "description": "Prepara bevande energetiche con questo idratatore per cubi.",
+      "name": "Idratatore per Cubi Nutrizionali Zariman",
+      "code": "it"
+    },
+    {
+      "description": "이 큐브 액화기를 이용해 열량 높은 음료를 만들어 보세요.",
+      "name": "자리만 영양 큐브 액화기",
+      "code": "ko"
+    },
+    {
+      "description": "Prepara bebidas energéticas con este hidratante de cubos.",
+      "name": "Hidratante de cubos nutricionales Zariman",
+      "code": "es"
+    },
+    {
+      "description": "用这种营养块水合器制作高能量饮料。",
+      "name": "扎里曼营养块水合器",
+      "code": "zh"
+    },
+    {
+      "description": "Приготовьте энергетически насыщенные напитки с помощью этого гидратора.",
+      "name": "Зариман: гидратор питательных батончиков",
+      "code": "ru"
+    },
+    {
+      "description": "栄養キューブからジュースなどを作れる。",
+      "name": "Zariman 栄養キューブ給水器",
+      "code": "ja"
+    },
+    {
+      "description": "Przyrządzaj napoje energetyczne dzięki nawilżaczowi kostek.",
+      "name": "Zariman: Kuchnia — Maszyna do hydratacji Batonów",
+      "code": "pl"
+    },
+    {
+      "description": "Prepare bebidas densas em energia com este hidratante de cubos.",
+      "name": "Hidratante de Cubos Nutricionais da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "用這個營養塊水合器來製作能量濃郁的飲品。",
+      "name": "扎日曼營養塊水合器",
+      "code": "tc"
+    },
+    {
+      "description": "ทำเครื่องดื่มให้พลังงานเข้มข้นด้วยเครื่องไฮเดรเตอร์",
+      "name": "Zariman: นิวทริชันคิวบ์ไฮเดรเตอร์",
+      "code": "th"
+    },
+    {
+      "description": "Bu küp sulandırıcı ile enerjisi yoğun içecekler yap.",
+      "name": "Zariman Gıda Küpü Sulandırıcısı",
+      "code": "tr"
+    },
+    {
+      "description": "Готуйте енергетичні напої з ваших харчових кубів.",
+      "name": "Розчинник для харчових кубів із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

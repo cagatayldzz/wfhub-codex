@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2021MerchDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/display---tennocon-2021-merch-b43dab49a5.png",
+  "name": "Display - Tennocon 2021 Merch",
+  "description": "Bonus item for purchasing the TennoCon 2021 Merch Pack.",
+  "languages": [
+    {
+      "description": "Bonusgegenstand für den Kauf des Merch-Pakets: TennoCon 2021.",
+      "name": "Display: TennoCon 2021 Merch",
+      "code": "de"
+    },
+    {
+      "description": "Article bonus pour l'achat du Pack de Produits Dérivés TennoCon 2021.",
+      "name": "Affiche - Produit Dérivé TennoCon 2021",
+      "code": "fr"
+    },
+    {
+      "description": "Oggetto bonus per aver acquistato il Pacchetto Merch TennoCon 2021.",
+      "name": "Display - Merch TennoCon 2021",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2021 상품 팩 구매에 대한 보너스 아이템입니다.",
+      "name": "디스플레이 - 텐노콘 2021 상품",
+      "code": "ko"
+    },
+    {
+      "description": "Bonus por comprar el Paquete de artículos de TennoCon 2021.",
+      "name": "Mostrador - Productos de TennoCon 2021",
+      "code": "es"
+    },
+    {
+      "description": "购买 TennoCon 2021 周边商品礼包的附赠物品。",
+      "name": "展示图 - TennoCon 2021 周边商品",
+      "code": "zh"
+    },
+    {
+      "description": "Бонусный предмет за покупку набора товаров TennoCon 2021.",
+      "name": "Дисплей: TennoCon-2021: Товары ",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2021グッズパックの購入特典。",
+      "name": "ディスプレイ - TennoCon 2021グッズ",
+      "code": "ja"
+    },
+    {
+      "description": "Dodatkowy przedmiot otrzymywany przy zakupie Pakietu Towarów TennoCon 2021.",
+      "name": "Wyświetlacz - TennoCon 2021 Towary",
+      "code": "pl"
+    },
+    {
+      "description": "Um item oferecido como bônus por comprar o Pacote de Produtos da TennoCon 2021.",
+      "name": "Exibidor de Produtos da TennoCon 2021",
+      "code": "pt"
+    },
+    {
+      "description": "購買 TennoCon 2021 周邊商品組合包的額外獎賞。",
+      "name": "展示圖－TennoCon 2021 周邊商品",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมโบนัสสำหรับการซื้อ TennoCon 2021 - แพ็ก Merch",
+      "name": "ภาพดิสเพลย์ - TennoCon 2021 Merch",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2021 Ürün Paketini satın alanlar için bonus eşya.",
+      "name": "Sergi - TennoCon 2021 Ürünleri",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто придбав набір товарів «Теннокон 2021».",
+      "name": "Дисплей «Роздатки з Теннокону 2021»",
+      "code": "uk"
+    }
+  ]
+}

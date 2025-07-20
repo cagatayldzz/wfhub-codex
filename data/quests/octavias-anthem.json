@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia's-anthem-d6ead5fd61.png",
+  "name": "Octavia's Anthem",
+  "description": "Build the Mandachord and find the cause of Cephalon Suda’s erratic behavior.",
+  "languages": [
+    {
+      "description": "Baue das Mandachord und finde den Grund für Cephalon Sudas unberechenbares Verhalten.",
+      "name": "Octavias Hymne",
+      "code": "de"
+    },
+    {
+      "description": "Construisez le Mandaccord et trouvez la cause du comportement imprévisible du Céphalon Suda.",
+      "name": "L'Hymne d'Octavia",
+      "code": "fr"
+    },
+    {
+      "description": "Costruisci il Mandachord e trova la causa del comportamento irregolare di Cephalon Suda.",
+      "name": "L'Inno di Octavia",
+      "code": "it"
+    },
+    {
+      "description": "만다코드를 제작하고 세팔론 수다가 이상한 행동을 하는 원인을 찾아내세요.",
+      "name": "옥타비아의 찬가",
+      "code": "ko"
+    },
+    {
+      "description": "Construye el Mandacordio y encuentra la causa del comportamiento errático de céfalon Suda.",
+      "name": "El Himno de Octavia",
+      "code": "es"
+    },
+    {
+      "description": "建造曼达和弦琴并查明中枢苏达异常行为的原因。",
+      "name": "Octavia 的赞歌",
+      "code": "zh"
+    },
+    {
+      "description": "Создайте мендаккорд и найдите причину странного поведения Суды.",
+      "name": "Гимн Октавии",
+      "code": "ru"
+    },
+    {
+      "description": "Mandachordを作成しセファロン・スーダのエラー行動の原因を見つけろ。",
+      "name": "Octaviaの賛美歌",
+      "code": "ja"
+    },
+    {
+      "description": "Zbuduj Mandakordium i odkryj powód nieobliczalnego zachowania Cefalon Sudy.",
+      "name": "Hymn Octavii",
+      "code": "pl"
+    },
+    {
+      "description": "Construa o Mandacorde e encontre a causa do comportamento errático da Cephalon Suda.",
+      "name": "Hino de Octavia",
+      "code": "pt"
+    },
+    {
+      "description": "製造曼達和弦琴並查明中樞蘇達異常行為的原因。",
+      "name": "Octavia 的讚歌",
+      "code": "tc"
+    },
+    {
+      "description": "สร้าง Mandachord และค้นหาสาเหตุของพฤติกรรมที่เอาแน่เอานอนไม่ได้ของ Cephalon Suda",
+      "name": "เพลงสรรเสริญของ Octavia",
+      "code": "th"
+    },
+    {
+      "description": "Mandachord'u inşa et Cephalon Suda dengesiz davranışlarının sebebini bul.",
+      "name": "Octavia's Anthem",
+      "code": "tr"
+    },
+    {
+      "description": "Складіть мандакорд і розберіться, чому цефалонка Суда так дивно поводиться.",
+      "name": "Гімн Октавії",
+      "code": "uk"
+    }
+  ]
+}

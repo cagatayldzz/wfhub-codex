@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ZawVariantBadgeItemC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/erznung-emblem-4942c705d9.png",
+  "name": "Erznung Emblem",
+  "description": "An insignia awarded to the Tenno Elite who proved themselves during the Tohtchi Variant.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, verliehen an Tenno, die sich während der Tohtchi Variante bewiesen haben.",
+      "name": "Emblem: Erznung",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné à l'Élite Tenno qui s'est illustrée durant la Variante Tohtchi.",
+      "name": "Badge Erznung",
+      "code": "fr"
+    },
+    {
+      "description": "Un'emblema conferito ai Tenno Elite che si sono dimostrati valorosi durante Tohtchi Variant.",
+      "name": "Emblema Erznung",
+      "code": "it"
+    },
+    {
+      "description": "톳치 혈전 중 뛰어난 활약을 보인 엘리트 텐노에게 주어지는 메달입니다.",
+      "name": "에르츠눙 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia concedida a los sobresalientes tenno de élite durante la Variante Tohtchi.",
+      "name": "Emblema Erznung",
+      "code": "es"
+    },
+    {
+      "description": "这枚徽章奖赏给在 Tohtchi 变体中证明自己的 Tenno 精英。",
+      "name": "Erznung 徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Наградная инсигния для элиты Тэнно, показавшей себя во время операции «Тохтчи».",
+      "name": "Значок: Erznung",
+      "code": "ru"
+    },
+    {
+      "description": "Tohtchi改中に自らの力を示した精鋭のテンノに贈られる勲章。",
+      "name": "Erznung エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznawany Elicie Tenno, która dowiodła swojej wartości podczas Wariantu Tohtchi.",
+      "name": "Emblemat: Erznung",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos que provaram a si próprios durante a Variante Tohtchi.",
+      "name": "Emblema: Erznung",
+      "code": "pt"
+    },
+    {
+      "description": "這枚徽章獎賞給在 Tohtchi 特殊活動中證明自己的 Tenno 精英。",
+      "name": "Erznung 徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่สุดยอด Tenno ผู้พิสูจน์ตนเองใน Tohtchi Variant",
+      "name": "ตราสัญลักษณ์: Erznung",
+      "code": "th"
+    },
+    {
+      "description": "Tohtchi Varyantı'nda kendini kanıtlamış Seçkin Tenno'lara verilen bir işaret.",
+      "name": "Erznung Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються найкращі з тенно, що проявили себе під час операції «Різновид тогтчі».",
+      "name": "Відзнака «Ерзнан»",
+      "code": "uk"
+    }
+  ]
+}

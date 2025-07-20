@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Rifle/GrenadeLauncherProjectileMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/napalm-grenades-775e285b4b.jpg",
+  "name": "Napalm Grenades",
+  "description": "Grenades leave a burning patch on impact.",
+  "languages": [
+    {
+      "description": [
+        "Granaten hinterlassen beim Aufprall eine brennende Fläche."
+      ],
+      "name": "Napalm-Granaten",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Les grenades laissent une zone d'impact enflammée."
+      ],
+      "name": "Grenades au Napalm",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Le granate lasciano una zona infuocata quando colpiscono una superficie."
+      ],
+      "name": "Napalm Grenades",
+      "code": "it"
+    },
+    {
+      "description": [
+        "유탄이 충돌한 표면이 불타게 됩니다."
+      ],
+      "name": "네이팜 그레네이드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Las granadas dejan una zona de fuego al impactar."
+      ],
+      "name": "Granadas de napalm",
+      "code": "es"
+    },
+    {
+      "description": [
+        "榴弹撞击时会留下一处燃烧区域。"
+      ],
+      "name": "凝固汽油榴弹",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При соприкосновении гранаты оставляют горящий след."
+      ],
+      "name": "Гранаты с Напалмом",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "グレネードは着弾時に炎の一帯を残す。"
+      ],
+      "name": "Napalm Grenades",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Granaty pozostawiają płonący ślad przy uderzeniu."
+      ],
+      "name": "Napalmowe Granaty",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Granadas deixarão resquícios flamejantes após o impacto."
+      ],
+      "name": "Napalm Grenades",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "榴彈撞擊後會留下一片燃燒的區塊。"
+      ],
+      "name": "凝固汽油榴彈",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ระเบิดจะทิ้งรอยไหม้ไว้เป็นหย่อม ๆ เมื่อกระทบ"
+      ],
+      "name": "Napalm Grenades",
+      "code": "th"
+    },
+    {
+      "description": [
+        "El bombaları, patlama ile beraber yanan bir alan bırakır."
+      ],
+      "name": "Napalm Grenades",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Гранати лишають вогняний слід у місці зіткнення."
+      ],
+      "name": "Напалмова граната",
+      "code": "uk"
+    }
+  ]
+}

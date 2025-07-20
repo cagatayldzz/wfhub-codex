@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/BurstRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/burston-14c0cde636.png",
+  "name": "Burston",
+  "description": "The Burston fires 3-round bursts, which provides a balance between the lethality of automatic rifles and the accuracy of semi-automatic rifles.",
+  "languages": [
+    {
+      "description": "Das Burston ist ein Gewehr, dessen Feuerstoß-Modus eine Balance zwischen der Feuerkraft von Maschinengewehren und der Genauigkeit der halbautomatischen Gewehre bietet.",
+      "name": "Burston",
+      "code": "de"
+    },
+    {
+      "description": "Le Burston tire en courtes rafales de 3 balles, proposant un compromis entre la létalité d'une mitrailleuse et la précision d'un fusil semi-automatique.",
+      "name": "Burston",
+      "code": "fr"
+    },
+    {
+      "description": "Il Burston spara raffiche da 3 colpi e rappresenta un buon compromesso tra l'efficacia di un fucile automatico e la precisione di uno semi-automatico.",
+      "name": "Burston",
+      "code": "it"
+    },
+    {
+      "description": "자동 소총과 반자동 소총 사이에 있는 버스튼 소총은 한 번에 3발의 탄환을 발사하는 점사 방식을 채택했고, 이를 통해서 위력과 명중률을 모두 갖추게 되었습니다.",
+      "name": "버스튼",
+      "code": "ko"
+    },
+    {
+      "description": "El Burston dispara ráfagas de 3 balas, lo cual otorga un equilibrio entre la letalidad de los rifles automáticos y la precisión de rifles semiautomáticos.",
+      "name": "Burston",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BURSTON）伯斯顿是三发点射步枪，在机枪的杀伤力和半自动的准确度之间取得平衡。",
+      "name": "伯斯顿",
+      "code": "zh"
+    },
+    {
+      "description": "Бёрстон стреляет очередями по 3 выстрела, благодаря чему является отличным сочетанием убойной мощи автоматических винтовок и точности полуавтоматических.",
+      "name": "Бёрстон",
+      "code": "ru"
+    },
+    {
+      "description": "マシンガンの連射力とセミオートの精度を兼ねそろえたバーストファイアライフル。",
+      "name": "Burston",
+      "code": "ja"
+    },
+    {
+      "description": "Burston jest karabinem strzelającym seriami 3-pociskowymi, co zapewnia równowagę między mocą ognia ciągłego i precyzją ognia pojedynczego.",
+      "name": "Burston",
+      "code": "pl"
+    },
+    {
+      "description": "A Burston dispara rajadas de três tiros, oferecendo um equilíbrio entre a letalidade dos rifles automáticos e a precisão dos semiautomáticos.",
+      "name": "Burston",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BURSTON）伯斯頓是三發點射步槍，在機槍的殺傷力和半自動的準確度之間取得平衡。",
+      "name": "伯斯頓",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิล Burston สามารถยิงออกไปได้ชุดละ 3 นัด เป็นปืนที่ทำให้เกิดความสมดุลกันระหว่างพลังทำลายล้างจากปืนไรเฟิลอัตโนมัติและความแม่นยำจากปืนไรเฟิลกึ่งอัตโนมัติ",
+      "name": "Burston",
+      "code": "th"
+    },
+    {
+      "description": "Burston Üç defa patlama ile ateşlenir. Bu, otomatik tüfeklerin ölümcüllüğü ile yarı otomatik tüfeklerin isabet oranı arasında bir denge sağlar.",
+      "name": "Burston",
+      "code": "tr"
+    },
+    {
+      "description": "Невелика гвинтівка, стріляє короткими чергами з 3 пострілів. Поєднує смертоносність автоматичних і влучність самозарядних гвинтівок.",
+      "name": "Берстон",
+      "code": "uk"
+    }
+  ]
+}

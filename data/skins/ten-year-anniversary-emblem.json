@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/TenYearAnniversaryBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ten-year-anniversary-emblem-a9d24fe710.png",
+  "name": "Ten Year Anniversary Emblem",
+  "description": "An emblem to commemorate ten years of Warframe.",
+  "languages": [
+    {
+      "description": "Ein Emblem zum Gedenken an zehn Jahre Warframe.",
+      "name": "Emblem: 10. Jubiläum",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge pour célébrer les dix ans de Warframe.",
+      "name": "Badge des Dix Ans",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema per commemorare i dieci anni di Warframe.",
+      "name": "Emblema Decimo Anniversario",
+      "code": "it"
+    },
+    {
+      "description": "워프레임의 10주년을 기념하는 엠블럼입니다.",
+      "name": "10주년 기념 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema que conmemora los diez años de Warframe.",
+      "name": "Emblema del décimo aniversario",
+      "code": "es"
+    },
+    {
+      "description": "Warframe 十周年纪念的徽章。",
+      "name": "十周年纪念徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Эмблема в честь десятилетия Warframe.",
+      "name": "Эмблема «Десять лет Warframe»",
+      "code": "ru"
+    },
+    {
+      "description": "Warframeの10周年を祝うエンブレム。",
+      "name": "10周年記念エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat reprezentujący dziesięć lat Warframe.",
+      "name": "Emblemat: 10-tej Rocznica",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema para celebrar o aniversário de 10 anos do Warframe.",
+      "name": "Emblema: Aniversário de 10 Anos",
+      "code": "pt"
+    },
+    {
+      "description": "紀念 Warframe 十週年的徽章。",
+      "name": "十週年紀念徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์เพื่อรำลึกถึงวันครบรอบ 10 ปีของ Warframe",
+      "name": "ตราสัญลักษณ์ครบรอบสิบปี",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'in onuncu yılını anmak için bir amblem.",
+      "name": "Onuncu Yıldönümü Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, присвячена десятій річниці виходу Warframe.",
+      "name": "Відзнака «10-та річниця»",
+      "code": "uk"
+    }
+  ]
+}

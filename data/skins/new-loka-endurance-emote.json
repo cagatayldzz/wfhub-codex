@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Syndicate/NLSurvivabilityEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/new-loka-endurance-emote-290c65a095.png",
+  "name": "New Loka Endurance Emote",
+  "description": "Dig in and get through anything with this crew-inspired emote.",
+  "languages": [
+    {
+      "description": "Mit diesem von der Crew inspirierten Emote kannst du alles durchstehen.",
+      "name": "Emote: New Loka Ausdauer",
+      "code": "de"
+    },
+    {
+      "description": "Plongez dans le feu de l'action et survivez avec ce Geste inspiré de votre équipage.",
+      "name": "Geste d'Endurance - Nouveau Loka",
+      "code": "fr"
+    },
+    {
+      "description": "Entra in azione e supera qualsiasi cosa con questa emote ispirata all'equipaggio.",
+      "name": "Emote Resistenza New Loka",
+      "code": "it"
+    },
+    {
+      "description": "승무원에게서 영감을 받은 이 감정 표현으로 무엇이든 버티며 헤쳐나가 보세요.",
+      "name": "뉴 로카 내구 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Entra en acción y consíguelo todo con este gesto inspirado en los tripulantes.",
+      "name": "Gesto de Resistencia de Nuevo Loka",
+      "code": "es"
+    },
+    {
+      "description": "通过这款受舰员启发的表情动作来克服各种困难。",
+      "name": "新世间耐力表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Преодолейте любые трудности с помощью этого жеста, вдохновлённого командой.",
+      "name": "Жест: Новая Лока - Выносливость",
+      "code": "ru"
+    },
+    {
+      "description": "クルーをモチーフにしたエモートで持ちこたえよう。",
+      "name": "ニュー・ロカ持久エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprzyj się mocno i wytrwaj wszystko dzięki temu inspirowanemu załogą gestowi.",
+      "name": "Gest Wytrwania Nowej Loki",
+      "code": "pl"
+    },
+    {
+      "description": "Seja o baluarte que suporta tudo com este emote inspirado em seus membros da tripulação.",
+      "name": "Emote: Resistência do Neoloka",
+      "code": "pt"
+    },
+    {
+      "description": "透過這款以船員作靈感的表情動作來上刀山下油鍋。",
+      "name": "新世間生存表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "มุ่งมั่นและผ่านทุกสิ่งไปให้ได้ด้วยอิโมตที่ได้รับแรงบันดาลใจจากลูกเรือนี้",
+      "name": "อิโมต New Loka Endurance",
+      "code": "th"
+    },
+    {
+      "description": "Mürettebattan ilham alan bu hareketle mevzilen ve her zorluğun üstesinden gel.",
+      "name": "New Loka Dayanıklılık Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Ви витримаєте будь-які негаразди з жестом, на створення якого надихнув екіпаж.",
+      "name": "Витривалість «Нової Локи»",
+      "code": "uk"
+    }
+  ]
+}

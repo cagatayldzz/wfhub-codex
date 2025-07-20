@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Trinity/SWAncyraHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trinity-ancyra-helmet-c6a7c887f7.png",
+  "name": "Trinity Ancyra Helmet",
+  "description": "A helmet for the Trinity Warframe, designed by Arsenal.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Trinity Warframe, entworfen von Arsenal.",
+      "name": "Trinity-Helm: Ancyra",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Trinity, conçu par Arsenal.",
+      "name": "Casque Trinity Ancyra",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Trinity, ideato da Arsenal.",
+      "name": "Elmo Trinity Ancyra",
+      "code": "it"
+    },
+    {
+      "description": "Arsenal에 의해 디자인된 트리니티 워프레임을 위한 헬멧입니다.",
+      "name": "트리니티 안키라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Trinity, diseñado por Arsenal.",
+      "name": "Casco Ancyra de Trinity",
+      "code": "es"
+    },
+    {
+      "description": "Trinity 战甲的头盔，由 Arsenal 设计。",
+      "name": "Trinity 安卡拉头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Тринити, созданный Arsenal.",
+      "name": "Шлем Тринити: Анкира",
+      "code": "ru"
+    },
+    {
+      "description": "Trinity用のヘルメット。製作者：Arsenal。",
+      "name": "Trinity Ancyra ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Trinity, zaprojektowany przez Arsenal.",
+      "name": "Trinity: Hełm Ancyra",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para a Trinity, desenvolvido por Arsenal.",
+      "name": "Trinity: Capacete Ancyra",
+      "code": "pt"
+    },
+    {
+      "description": "Trinity Warframe 的頭盔，由 Arsenal 設計。",
+      "name": "Trinity 安卡拉頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Trinity Warframe ออกแบบโดย Arsenal",
+      "name": "หมวกเหล็ก Trinity Ancyra",
+      "code": "th"
+    },
+    {
+      "description": "Trinity Warframe'i için Arsenal tarafından dizayn edilen bir miğfer.",
+      "name": "Trinity Ancyra Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Трініті, створений Arsenal.",
+      "name": "Шолом «Анкара» для Трініті",
+      "code": "uk"
+    }
+  ]
+}

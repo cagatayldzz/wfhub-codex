@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternH",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/brindle-fur-pattern-4e74fcc094.png",
+  "name": "Brindle Fur Pattern",
+  "description": "A fur pattern with striped markings.",
+  "languages": [
+    {
+      "description": "Ein Fellmuster mit gestreiften Markierungen.",
+      "name": "Fellmuster: Gestreift",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage avec des rayures",
+      "name": "Motif de Pelage Bringé",
+      "code": "fr"
+    },
+    {
+      "description": "Un pattern con pelo striato per il tuo Kubrow.",
+      "name": "Pattern Pelo Striato",
+      "code": "it"
+    },
+    {
+      "description": "줄 무늬가 있는 털 패턴입니다.",
+      "name": "브린들 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de pelaje con marcas rayadas.",
+      "name": "Patrón de pelaje Abigarrado",
+      "code": "es"
+    },
+    {
+      "description": "有条纹印记的毛皮花纹。",
+      "name": "虎斑毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Шаблон для меха с метками-полосами.",
+      "name": "Шаблон меха кубрау: Пятнистый",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウの体毛をシマ模様が付いた柄にする。",
+      "name": "Brindle ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Wzór futra z pręgami.",
+      "name": "Wzór Futra: Pręgowany",
+      "code": "pl"
+    },
+    {
+      "description": "Um pelagem listrada.",
+      "name": "Pelagem de Kubrow: Brindle",
+      "code": "pt"
+    },
+    {
+      "description": "有條紋印記的毛皮花紋。",
+      "name": "虎斑毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่มีริ้วลายเป็นทางยาว",
+      "name": "ลายขน Brindle",
+      "code": "th"
+    },
+    {
+      "description": "Çizgiler içeren kürk deseni.",
+      "name": "Brindle Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Строкатий вигляд хутра для вашого куброу.",
+      "name": "Вигляд хутра «Строкатий»",
+      "code": "uk"
+    }
+  ]
+}

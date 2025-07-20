@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/ZephyrDeluxeSounds",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-harrier-sounds-12855ef524.png",
+  "name": "Zephyr Harrier Sounds",
+  "description": "A custom set of UI sounds.",
+  "languages": [
+    {
+      "description": "Ein angepasstes UI-Audioset.",
+      "name": "Töne: Zephyr Harrier",
+      "code": "de"
+    },
+    {
+      "description": "Un ensemble de sons personnalisés pour l'interface.",
+      "name": "Sons Zephyr Harrier",
+      "code": "fr"
+    },
+    {
+      "description": "Un set di suoni dell'interfaccia personalizzati.",
+      "name": "Suoni Zephyr Harrier",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 음향 효과입니다.",
+      "name": "제피르 해리어 음향 효과",
+      "code": "ko"
+    },
+    {
+      "description": "Un conjunto de sonidos personalizados de la interfaz de usuario.",
+      "name": "Sonidos de Zephyr Harrier",
+      "code": "es"
+    },
+    {
+      "description": "一组用于自定义界面的音效",
+      "name": "Zephyr 鹞式音效",
+      "code": "zh"
+    },
+    {
+      "description": "Набор звуков интерфейса.",
+      "name": "Звуки: Зефир Харриер",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIサウンド。",
+      "name": "Zephyr Harrier サウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowany zestaw dźwięków Interfejsu.",
+      "name": "Dźwięki Zephyr Harrier",
+      "code": "pl"
+    },
+    {
+      "description": "Um conjunto personalizado de sons para a interface do usuário.",
+      "name": "Sons da Zephyr Harrier",
+      "code": "pt"
+    },
+    {
+      "description": "一組用於自訂介面的音效",
+      "name": "Zephyr 鷂亞音效",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเสียง UI ที่กำหนดเอง",
+      "name": "เสียง Zephyr Harrier",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir arayüz ses seti.",
+      "name": "Zephyr Harrier Sesleri",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний набір звуків інтерфейсу.",
+      "name": "Звуки: Зефіра «Гаррієр»",
+      "code": "uk"
+    }
+  ]
+}

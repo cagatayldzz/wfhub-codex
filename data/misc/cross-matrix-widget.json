@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerDoubleScanUpgrade",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cross-matrix-widget-4f2a1cf955.png",
+  "name": "Cross-Matrix Widget",
+  "description": "Chance for each scan with the Synthesis Scanner to count as two scans.",
+  "languages": [
+    {
+      "description": "Chance, dass jeder Scan mit dem Synthese-Scanner als zwei zählt.",
+      "name": "Cross-Matrix Vorrichtung",
+      "code": "de"
+    },
+    {
+      "description": "Donne une chance à chaque scan complété avec le Scanneur de Synthèse de compter double.",
+      "name": "Dispositif Intermatriciel",
+      "code": "fr"
+    },
+    {
+      "description": "Aggiunge una probabilità che una scannerizzazione con lo Scanner Sintetizzatore valga come due.",
+      "name": "Widget Matrice Incrociata",
+      "code": "it"
+    },
+    {
+      "description": "일정한 확률로 한 번의 스캔이 두 번 스캔한 효과를 냅니다.",
+      "name": "크로스-매트릭스 위젯",
+      "code": "ko"
+    },
+    {
+      "description": "Probabilidad para cada escaneo con el escáner de síntesis de ser contado como dos.",
+      "name": "Widget Matriz-Cruzada",
+      "code": "es"
+    },
+    {
+      "description": "每次以结合扫描器执行扫描时，有几率进行二次扫描。",
+      "name": "交叉矩阵改造器",
+      "code": "zh"
+    },
+    {
+      "description": "Шанс с каждым сканированием сканером синтеза получить два скана вместо одного.",
+      "name": "Меж-матричный виджет",
+      "code": "ru"
+    },
+    {
+      "description": "1回分のスキャンを2回と計算する確率が上がる。",
+      "name": "Cross-Matrix ウィジェット",
+      "code": "ja"
+    },
+    {
+      "description": "Daje szansę, że każdy skan wykonany Skanerem Syntezy będzie liczony jako dwa.",
+      "name": "Widget Matryca Krzyżowa",
+      "code": "pl"
+    },
+    {
+      "description": "Chance de cada análise do Escâner de Síntese contar como duas análises.",
+      "name": "Dispositivo de Matriz Entrelaçada",
+      "code": "pt"
+    },
+    {
+      "description": "每次以結合掃描器執行掃描時，有機率進行二次掃描。",
+      "name": "交叉矩陣改造器",
+      "code": "tc"
+    },
+    {
+      "description": "มีโอกาสที่การสแกนด้วยเครื่องสแกนการสังเคราะห์ในแต่ละครั้งจะนับเป็นการสแกนสองครั้ง",
+      "name": "วิดเจ็ต Cross-Matrix",
+      "code": "th"
+    },
+    {
+      "description": "Sentez Tarayıcısı ile yapılan her taramanın 2 adet tarama olarak sayılma şansı.",
+      "name": "Cross-Matrix Widget",
+      "code": "tr"
+    },
+    {
+      "description": "Будь-яке зчитування зчитувачем синтезу може зарахуватися як два.",
+      "name": "Розширення «Матриця повторення»",
+      "code": "uk"
+    }
+  ]
+}

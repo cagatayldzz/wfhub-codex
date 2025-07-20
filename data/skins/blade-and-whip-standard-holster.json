@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/SwordWhipLowerBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/blade-and-whip-standard-holster-8416d9b4eb.png",
+  "name": "Blade And Whip Standard Holster",
+  "description": "Standard holster for Blade and Whips.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Klinge und Peitsche.",
+      "name": "Klinge-Und-Peitsche-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Lames et Fouets.",
+      "name": "Port de Lame et Fouet standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per Lama e Frusta.",
+      "name": "Rinfodero Lama e Frusta Standard",
+      "code": "it"
+    },
+    {
+      "description": "도검과 채찍 계열 무기의 기본 수납 방식입니다.",
+      "name": "도검과 채찍 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para armas de hojas y látigos.",
+      "name": "Enfundado estándar de hojas y látigo",
+      "code": "es"
+    },
+    {
+      "description": "给剑鞭武器所使用的标准收纳姿态。",
+      "name": "剑鞭标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Клинков и Хлыстов.",
+      "name": "Стандартный Крепеж Клинка и Хлыста",
+      "code": "ru"
+    },
+    {
+      "description": "ウィップブレード系武器の通常ホルスター。",
+      "name": "ウィップブレード専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Ostrza z Biczem.",
+      "name": "Ostrze Z Biczem Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para lâmina e chicote.",
+      "name": "Lâminas e Chicotes: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "劍鞭武器所使用的標準收納姿態。",
+      "name": "劍鞭標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับใบมีดและแส้",
+      "name": "ซองใบมีดและแส้มาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Bıçak ve Kamçı için standart kılıf.",
+      "name": "Standart Bıçak ve Kamçı Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення клинків і батогів, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

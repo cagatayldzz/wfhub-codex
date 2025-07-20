@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lavos-cordatus-glyph---bright-3ff96bc1b5.png",
+  "name": "Lavos Cordatus Glyph - Bright",
+  "description": "A glyph depicting Lavos Cordatus on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Lavos Cordatus vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Lavos Cordatus (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Lavos Cordatus sur un fond lumineux.",
+      "name": "Glyphe Lavos Cordatus - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Lavor Cordatus su uno sfondo chiaro.",
+      "name": "Glifo Lavos Cordatus - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 라보스 코르다투스를 묘사한 글리프입니다.",
+      "name": "라보스 코르다투스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Lavos Cordatus sobre un fondo brillante.",
+      "name": "Glifo de Lavos Cordatus - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Lavos 明智在明亮背景下的浮印。",
+      "name": "Lavos 明智浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Лавоса «Кордатус» на светлом фоне.",
+      "name": "Глиф: Лавос Кордатус - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたLavos Cordatusのグリフ。",
+      "name": "Lavos Cordatus グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Lavos Cordatus na jasnym tle.",
+      "name": "Glif Lavos Cordatus — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Lavos Cordatus em um fundo claro.",
+      "name": "Glifo: Lavos Cordatus (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Lavos 精智在明亮背景下的浮印。",
+      "name": "Lavos 精智浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่อธิบายถึง Lavos Cordatus บนพื้นหลังสีสว่าง",
+      "name": "ภาพสัญลักษณ์ Lavos Cordatus - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Koyu bir arka planda Lavos Cordatus'u temsil eden bir glif.",
+      "name": "Lavos Cordatus Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лавоса в шоломі «Колдатус» на світлому тлі.",
+      "name": "Яскравий гліф «Лавос „Колдатус“»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/techrot-motherboard-849b636c51.png",
+  "name": "Techrot Motherboard",
+  "description": "This motherboard likely served as a nerve center, facilitating the Techrot’s communication network.\n\nLocation: 1999 (Höllvania)",
+  "languages": [
+    {
+      "description": "Dieses Motherboard diente wahrscheinlich als Nervenzentrum und ermöglichte das Kommunikationsnetzwerk des Techrot.\n\nFundort: 1999 (Höllvania)",
+      "name": "Techrot-Motherboard",
+      "code": "de"
+    },
+    {
+      "description": "Cette carte mère servait probablement de centre névralgique, facilitant le réseau de communication du Techrot.\n\nLieu: 1999 (Höllvanie)",
+      "name": "Carte mère Techrot",
+      "code": "fr"
+    },
+    {
+      "description": "Questa scheda madre probabilmente fungeva da centro nevralgico, facilitando la rete di comunicazione Techrot.\n\nPosizione: 1999 (Höllvania)",
+      "name": "Scheda Madre Techrot",
+      "code": "it"
+    },
+    {
+      "description": "이 마더보드는 아마도 테크병의 통신 네트워크를 구축하는 신경 중추의 역할을 했을 겁니다.\n\n획득 가능 장소: 1999 (홀바니아)",
+      "name": "테크병 마더보드",
+      "code": "ko"
+    },
+    {
+      "description": "Esta placa base probablemente sirvió como centro neurálgico, facilitando la red de comunicación del Techrot.\n\nUbicación: 1999 (Höllvania)",
+      "name": "Placa base Techrot",
+      "code": "es"
+    },
+    {
+      "description": "该主板很可能起到了神经中枢的作用，促进科腐者的通讯网络。\n\n获取地点：霍瓦尼亚（1999 年）",
+      "name": "科腐者主板",
+      "code": "zh"
+    },
+    {
+      "description": "Эта материнская плата, вероятно, служила центральным узлом, обеспечивая работу коммуникационной сети Техрота.\n\nМестонахождение: 1999 (Хёльвания)",
+      "name": "Материнская плата Техрота",
+      "code": "ru"
+    },
+    {
+      "description": "この基板は、テックロットの通信ネットワークをつなぐ神経中枢だったと考えられる。\n\n場所：1999（テックロット）",
+      "name": "テックロット マザーボード",
+      "code": "ja"
+    },
+    {
+      "description": "Ta płyta główna mogła pełnić funkcje ośrodka nerwowego, służącego do komunikacji Techrotu z siecią.\n\nPołożenie: 1999 (Höllvania)",
+      "name": "Płyta Główna Techrotu",
+      "code": "pl"
+    },
+    {
+      "description": "Esta placa-mãe provavelmente servia como um sistema nervoso, facilitando a rede de comunicação do Tecnovírus.\n\nLocalização: 1999 (Holvânia).",
+      "name": "Placa-Mãe do Tecnovírus",
+      "code": "pt"
+    },
+    {
+      "description": "這塊主機板大概充當神經核心，撮合科腐者的通訊網路。\n\n地點：霍爾瓦尼亞（1999 年）",
+      "name": "科腐主機板",
+      "code": "tc"
+    },
+    {
+      "description": "เมนบอร์ดนี้ทำหน้าที่เหมือนเป็นศูนย์กลางประสาทที่ช่วยอำนวยความสะดวกให้กับเครือข่ายการสื่อสารของ Techrot\n\nแหล่งที่พบ: 1999 (Höllvania)",
+      "name": "เมนบอร์ด Techrot",
+      "code": "th"
+    },
+    {
+      "description": "Bu anakart muhtemelen bir sinir merkezi olarak hizmet veriyordu ve Techrot'un iletişim ağını kolaylaştırıyordu.\n\nKonum: 1999 (Höllvania)",
+      "name": "Techrot Anakart",
+      "code": "tr"
+    },
+    {
+      "description": "Скоріше за все ця материнська плата служила нервовим центром мережі зв’язку техногнилі.\n\nМожна здобути в 1999 році (Голвенія).",
+      "name": "Техногнила материнська плата",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/GreatSword/GreatSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gram-65f8494f8b.png",
+  "name": "Gram",
+  "description": "The heavy two-handed sword known as Gram requires great strength to wield, but it is notorious for its splitting power. Can hit multiple targets with each strike.",
+  "languages": [
+    {
+      "description": "Dieser schwere Zweihänder namens Gram benötigt eine Menge Kraft, ist jedoch berühmt-berüchtigt für seine Fähigkeit, Dinge zu zerspalten. Kann mehrere Ziele auf einmal treffen.",
+      "name": "Gram",
+      "code": "de"
+    },
+    {
+      "description": "L'Épée Lourde à deux mains nommée Gram requiert une grande force pour être maniée, mais elle est reconnue pour sa capacité à fendre les ennemis. Elle peut frapper plusieurs ennemis à chaque coup.",
+      "name": "Gram",
+      "code": "fr"
+    },
+    {
+      "description": "Il pesante spadone a due mani conosciuto come Gram richiede grande forza per essere impugnato, ma è famoso per la sua abilità di taglio. Può colpire molteplici obiettivi con ogni colpo.",
+      "name": "Gram",
+      "code": "it"
+    },
+    {
+      "description": "그람으로 알려진 이 육중한 대검은 휘두르는 데 엄청난 완력을 필요로 하지만, 이 대검은 적을 쪼개버릴 수 있는 것으로 악명이 자자합니다. 한 번의 공격으로 다수의 적들을 베어버릴 수 있습니다.",
+      "name": "그람",
+      "code": "ko"
+    },
+    {
+      "description": "La espada pesada a dos manos conocida como Gram requiere gran fuerza para ser usada, pero es conocida por su terrible poder. Puede golpear varios objetivos a la vez con cada golpe.",
+      "name": "Gram",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GRAM）这把名为格拉姆的大剑以其强大的斩击力令人闻风丧胆，需要巨力才可挥舞自如。其攻击可以击中多名敌人。",
+      "name": "格拉姆",
+      "code": "zh"
+    },
+    {
+      "description": "Чтобы использовать тяжёлый двуручный меч Грэм, нужна недюжинная сила, но его разрубающие атаки того стоят. Может наносить урон сразу нескольким целям.",
+      "name": "Грэм",
+      "code": "ru"
+    },
+    {
+      "description": "並大抵な筋力では扱うことすらできない巨大な両手剣。一振りで多くの相手を切り伏せる圧倒的な攻撃力を誇る。",
+      "name": "Gram",
+      "code": "ja"
+    },
+    {
+      "description": "Ciężki miecz dwuręczny znany jako Gram wymaga wielkiej siły by nim władać, ale jest znany ze swojej zdolności rozszczepiania celu. Za jednym zamachem trafia kilku przeciwników.",
+      "name": "Gram",
+      "code": "pl"
+    },
+    {
+      "description": "A espada pesada de duas mãos conhecida como Gram requer grande força para portar, porém é notória por seu poder de corte. É capaz de atingir múltiplos alvos com cada golpe.",
+      "name": "Gram",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GRAM）這把名為格拉姆的大劍以其強大的斬擊力令人聞風喪膽，需要巨力才可揮舞自如。其攻擊可以擊中多名敵人。",
+      "name": "格拉姆",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบหนักแบบถือสองมือเล่มนี้เป็นที่รู้จักกันในนาม Gram ต้องใช้แรงมากเพื่อแกว่งดาบ แต่ก็ขึ้นชื่อในเรื่องของพลังที่รุนแรง ทุกครั้งที่ใช้สามารถโจมตีเป้าหมายได้ทีละหลายคน",
+      "name": "Gram",
+      "code": "th"
+    },
+    {
+      "description": "Gram olarak bilinen iki elle kullanılan kılıcı savurmak bile büyük bir güç gerektirir, ancak kesme gücü ile ünlüdür. Her vuruşta birden çok hedefe isabet edebilir.",
+      "name": "Gram",
+      "code": "tr"
+    },
+    {
+      "description": "Важкий дворучний меч, вимагає неабиякої сили для розмахування. Його удари здатні вражати кілька цілей водночас, може розрізати майже що завгодно.",
+      "name": "Ґрам",
+      "code": "uk"
+    }
+  ]
+}

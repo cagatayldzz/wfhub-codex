@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Werewolf/Werewolf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voruna-83e8799edc.png",
+  "name": "Voruna",
+  "description": "Four beasts, one heart. Voruna's loyal wolf pack makes for a deadly combination of strength and stealth. Beware the monstrous howl that heralds fangs of vengeance.",
+  "armor": 200,
+  "languages": [
+    {
+      "description": "Vier Bestien, ein Herz. Vorunas loyales Wolfsrudel ist eine tödliche Kombination aus Stärke und Heimlichkeit. Hüte dich vor dem monströsen Heulen, das die Reißzähne der Rache ankündigt.",
+      "name": "Voruna",
+      "code": "de"
+    },
+    {
+      "description": "Quatre bêtes, un seul cœur. La fidèle meute de loups de Voruna est une combinaison mortelle de force et de furtivité. Méfiez-vous du hurlement monstrueux qui annonce les crocs de la vengeance.",
+      "name": "Voruna",
+      "code": "fr"
+    },
+    {
+      "description": "Quattro bestie, un unico cuore. Il leale branco di lupi di Voruna crea una letale combinazione di forza e furtività. Fai attenzione al mostruoso ululato che preannuncia zanne di vendetta.",
+      "name": "Voruna",
+      "code": "it"
+    },
+    {
+      "description": "하나의 심장으로 뭉쳐진 네 마리의 짐승. 보루나의 충성스런 늑대 무리는 힘과 은밀함으로 치명적인 조화를 이룹니다. 복수의 송곳니를 예고하는 무시무시한 울음소리를 주의하세요.",
+      "name": "보루나",
+      "code": "ko"
+    },
+    {
+      "description": "Cuatro bestias, un corazón. La leal manada de lobos de Voruna es una combinación letal de fuerza y ​​sigilo. Cuidado con el aullido monstruoso que anuncia los colmillos de la venganza.",
+      "name": "Voruna",
+      "code": "es"
+    },
+    {
+      "description": "四头野兽，同心一颗。Voruna 的忠诚狼群是力量与隐秘的致命结合。当心那伴随着可怕嚎叫的复仇獠牙。",
+      "name": "Voruna",
+      "code": "zh"
+    },
+    {
+      "description": "Четыре зверя — одно сердце. Верная стая Воруны — это воплощение силы и скрытности. Бегите, услышав вой — это предвестник клыков возмездия.",
+      "name": "Воруна",
+      "code": "ru"
+    },
+    {
+      "description": "四匹の獣、一つの心。Vorunaの忠実な狼の群れは力と隠密による連携を繰り出す。怪物的な咆哮を共にするのは復讐心に溢れた牙である。",
+      "name": "Voruna",
+      "code": "ja"
+    },
+    {
+      "description": "Cztery bestie o jednym sercu. Oddana wataha Voruny to zabójcze połączenie siły i sprytu. Strzeżcie się przerażającego wycia, które zwiastuje mściwe kły.",
+      "name": "Voruna",
+      "code": "pl"
+    },
+    {
+      "description": "Quatro feras, um coração. A leal alcateia da Voruna cria uma combinação mortal de força e furtividade. Cuidado com o uivo monstruoso que anuncia as presas da vingança.",
+      "name": "Voruna",
+      "code": "pt"
+    },
+    {
+      "description": "四獸一心。Voruna 的忠心狼群是力量與匿蹤的致命結合。小心駭人的嚎叫，那是復仇的狼牙到來的前兆。",
+      "name": "Voruna",
+      "code": "tc"
+    },
+    {
+      "description": "สัตว์ร้ายสี่ตัว หัวใจเดียวกัน ฝูงหมาป่าผู้ภักดีต่อ Voruna สร้างพลังโจมตีรุนแรงที่ผสมผสานระหว่างความแข็งแกร่งและการลอบโจมตีเข้าไว้ด้วยกัน ระวังเสียงเห่าหอนที่น่าขนลุกไว้ให้ดี เพราะนั่นคือการประกาศถึงการมาของสัตว์มีเขี้ยวที่รอการล้างแค้น",
+      "name": "Voruna",
+      "code": "th"
+    },
+    {
+      "description": "Dört canavar, tek yürek. Voruna'nın sadık kurt sürüsü, gücün ve gafil avlamanın ölümcül bir kombinasyonunu oluşturur. İntikam dişlerinin habercisi olan korkunç ulumalara dikkat et.",
+      "name": "Voruna",
+      "code": "tr"
+    },
+    {
+      "description": "Чотири звірі — одне серце. Вірна зграя Воруни — це втілення сили й непомітності. Як почуєте виття — тікайте, бо це передвісник ікол і помсти.",
+      "name": "Воруна",
+      "code": "uk"
+    }
+  ]
+}

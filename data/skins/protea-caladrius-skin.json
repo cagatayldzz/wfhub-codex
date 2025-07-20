@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/ProteaDeluxeSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/protea-caladrius-skin-2a076c1976.png",
+  "name": "Protea Caladrius Skin",
+  "description": "Take command. Eliminate your adversaries. Restore order.",
+  "languages": [
+    {
+      "description": "Übernimm das Kommando. Eliminiere deine Kontrahenten. Stelle die Ordnung wieder her.",
+      "name": "Protea-Skin: Caladrius",
+      "code": "de"
+    },
+    {
+      "description": "Prenez le commandement. Éliminez vos adversaires. Rétablissez l'ordre.",
+      "name": "Aspect Protea Caladrius",
+      "code": "fr"
+    },
+    {
+      "description": "Prendi il comando. Elimina i tuoi avversari. Ripristina l'ordine.",
+      "name": "Skin Protea Caladrius",
+      "code": "it"
+    },
+    {
+      "description": "지휘권을 손에 쥐고, 적대하는 자들을 물리치고, 질서를 되찾으세요.",
+      "name": "프로티아 칼라드리우스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Toma el mando. Elimina a tus adversarios. Restablece el orden.",
+      "name": "Diseño Caladrius de Protea",
+      "code": "es"
+    },
+    {
+      "description": "听从指挥。消灭你的对手。恢复秩序。",
+      "name": "Protea 医官鸟外观",
+      "code": "zh"
+    },
+    {
+      "description": "Примите командование. Уничтожайте своих противников. Восстановите порядок.",
+      "name": "Скин Протеи: Каладриус",
+      "code": "ru"
+    },
+    {
+      "description": "指揮を執れ。相手を排除せよ。秩序を取り戻せ。",
+      "name": "Protea Caladrius スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Przejmij kontrolę. Pokonaj wrogów. Przywróć porządek.",
+      "name": "Protea: Skórka Caladrius",
+      "code": "pl"
+    },
+    {
+      "description": "Assuma o comando. Elimine os seus adversários. Restaure a ordem.",
+      "name": "Protea: Skin Caladrius",
+      "code": "pt"
+    },
+    {
+      "description": "親自掛帥。殲滅敵手。恢復秩序。",
+      "name": "Protea 醫靈鳥外觀",
+      "code": "tc"
+    },
+    {
+      "description": "รับคำสั่ง กำจัดศัตรูของคุณ คืนความสงบเรียบร้อย",
+      "name": "สกิน Protea Caladrius",
+      "code": "th"
+    },
+    {
+      "description": "Kontrolünü eline al. Düşmanlarını ortadan kaldır. Düzeni yeniden sağla.",
+      "name": "Protea Caladrius Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Командуйте. Винищуйте ворогів. Відновлюйте порядок.",
+      "name": "Вигляд «Каладрій» для Протеї",
+      "code": "uk"
+    }
+  ]
+}

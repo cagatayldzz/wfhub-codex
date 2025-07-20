@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Rhino/RhinoPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-prime-7142165571.png",
+  "name": "Rhino Prime",
+  "description": "Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization.",
+  "armor": 290,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Verbessert Rhinos Boden erschütternde Fähigkeiten; mit alternativen Mod-Polaritäten für bessere Anpassbarkeit.",
+      "name": "Rhino Prime",
+      "code": "de"
+    },
+    {
+      "description": "Propulsez les anciens Pouvoirs percutants de Rhino au niveau supérieur avec des polarités de mod altérées pour un contrôle encore plus aisé dans le feu de l'action.",
+      "name": "Rhino Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Rhino Prime porta le dirompenti potenzialità di Rhino a un livello superiore grazie a polarità mod alterate, per una maggiore personalizzazione.",
+      "name": "Rhino Prime",
+      "code": "it"
+    },
+    {
+      "description": "변형된 추가 극성 슬롯을 통해 라이노의 능력을 특성화하고, 그의 파괴적인 힘을 한 단계 발전시킵니다.",
+      "name": "라이노 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Lleva las habilidades sísmicas de Rhino al siguiente nivel con polaridades de mod alteradas que ofrecen una mayor personalización.",
+      "name": "Rhino Prime",
+      "code": "es"
+    },
+    {
+      "description": "通过将极性插槽改为更适合自定的配置，使 RHINO 地面震动能力发挥到更高水平。",
+      "name": "Rhino Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Выводит способности Рино на совершенно новый уровень благодаря измененным полярностям слотов, которые открывают более глубокие возможности конфигурации.",
+      "name": "Рино Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Rhinoの地面を揺るがす能力は、MOD極性の変更によってカスタマイズ性が高まることで次なる段階へと成長する。",
+      "name": "Rhino Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Wynieś wstrząsające zdolności Rhino na kolejny poziom ze zmienionymi polaryzacjami modów, które oferują lepszą personalizację.",
+      "name": "Rhino Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Aproveite ainda mais as habilidades do Rhino com polaridades de Mod alteradas para maior personalização.",
+      "name": "Rhino Prime",
+      "code": "pt"
+    },
+    {
+      "description": "通過將極性欄位改為更適合自訂的配置，使 RHINO 的震地能力發揮到更高的水準。",
+      "name": "Rhino Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ยกระดับความสามารถในการเขย่าพื้นดินของ Rhino ขึ้นไปอีกขั้นด้วยการปรับเปลี่ยนขั้ว Mod ที่ทำให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Rhino Prime",
+      "code": "th"
+    },
+    {
+      "description": "Değişmiş mod kutupları ile harika bir mod kombinasyonu imkanı sunar ve Rhino'nun yer sarsıntısı yeteneğini bir üst seviyeye taşır!",
+      "name": "Rhino Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Володар землетрусів, незрушний моноліт. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
+      "name": "Райно-прайм",
+      "code": "uk"
+    }
+  ]
+}

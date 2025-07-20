@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Saryn/SarynPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-prime-8703933001.png",
+  "name": "Saryn Prime",
+  "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+  "armor": 315,
+  "aura": "vazarin",
+  "languages": [
+    {
+      "description": "Eine goldene Blüte, die tödlichen Nektar verbirgt. Bietet veränderte Mod-Polaritäten für noch mehr Anpassungsmöglichkeiten.",
+      "name": "Saryn Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une fleur dorée cache en elle un nectar des plus mortels. Possède des polarités de mod altérées pour une meilleure personnalisation.",
+      "name": "Saryn Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Un fiore d'oro racchiude un nettare mortale. Presenta polarità mod alterate per una maggiore personalizzazione.",
+      "name": "Saryn Prime",
+      "code": "it"
+    },
+    {
+      "description": "금빛의 아름다운 꽃송이가 그 안에 든 치명적인 독의 넥타르를 감추고 있습니다. 더욱 다채로운 특성화를 위한 추가적인 모드 극성이 포함되어 있습니다.",
+      "name": "새린 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una flor dorada oculta un néctar mortal. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+      "name": "Saryn Prime",
+      "code": "es"
+    },
+    {
+      "description": "一朵隐藏着致命花蜜的金花。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+      "name": "Saryn Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Золотой бутон таит смертельный нектар. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+      "name": "Сарина Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "黄金の花は恐るべき花蜜を秘めている。MOD極性が追加されているため、より多彩なカスタマイズを施すことができる。",
+      "name": "Saryn Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Złoty pąk skrywający zabójczy nektar. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+      "name": "Saryn Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma flor preciosa esconde um néctar letal. Inclusas polaridades alteradas de mods para uma maior personalização.",
+      "name": "Saryn Prime",
+      "code": "pt"
+    },
+    {
+      "description": "一朵隱藏著致命花蜜的金花。 擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+      "name": "Saryn Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ดอกไม้สีทองผลิบานอำพรางน้ำหวานที่มีฤทธิ์ร้ายแรง มีการปรับเปลี่ยนขั้ว Mod เพื่อช่วยให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Saryn Prime",
+      "code": "th"
+    },
+    {
+      "description": "İçinde ölümcül bir nektar barındıran çiçek. Daha iyi bir özelleştirme için değiştirilmiş mod kutupları içerir.",
+      "name": "Saryn Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Золотиста квітка зі смертельним нектаром. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
+      "name": "Зарина-прайм",
+      "code": "uk"
+    }
+  ]
+}

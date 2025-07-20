@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/MechHeadMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mech-head-sentinel-mask-d912a0b77e.png",
+  "name": "Mech Head Sentinel Mask",
+  "description": "A mask attachment for your sentinel pet.",
+  "languages": [
+    {
+      "description": "Eine Maske für deinen Wächter.",
+      "name": "Wächtermaske: Mechhead",
+      "code": "de"
+    },
+    {
+      "description": "Un Masque pour votre Sentinelle.",
+      "name": "Masque de Sentinelle Tête Mech",
+      "code": "fr"
+    },
+    {
+      "description": "Una maschera per la tua sentinella.",
+      "name": "Maschera Sentinella Mech Head",
+      "code": "it"
+    },
+    {
+      "description": "센티넬 펫에 장착시킬 수 있는 가면입니다.",
+      "name": "메크 헤드 센티넬 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Una máscara para tu mascota centinela.",
+      "name": "Máscara Cabeza Robot de centinela",
+      "code": "es"
+    },
+    {
+      "description": "守护宠物的面具配件。",
+      "name": "机甲头部守护面具",
+      "code": "zh"
+    },
+    {
+      "description": "Маска для вашего стража.",
+      "name": "Маска стража: Голова робота",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル用のマスク。",
+      "name": "Mech Head センチネル マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Maska dla Strażnika.",
+      "name": "Maska Strażnika: Głowa Mecha",
+      "code": "pl"
+    },
+    {
+      "description": "Uma máscara como acessório para seu sentinela.",
+      "name": "Máscara de Sentinela: Mech Head",
+      "code": "pt"
+    },
+    {
+      "description": "守護寵物的面具配件。",
+      "name": "機甲頭部守護面具",
+      "code": "tc"
+    },
+    {
+      "description": "หน้ากากที่ยึดติดกับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "หน้ากากเซนติเนล Mech Head",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için maske.",
+      "name": "Mech Head Sentinel Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Маска для вашого вартового улюбленця.",
+      "name": "Маска «Голова робота» для вартового",
+      "code": "uk"
+    }
+  ]
+}

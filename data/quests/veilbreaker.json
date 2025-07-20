@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/KahlQuest/KahlQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veilbreaker-71d2e7a9a7.png",
+  "name": "Veilbreaker",
+  "description": "Daughter Entrati gets more than she bargained for when she enlists the Tenno to investigate a call for reinforcements aboard a Narmer Murex.",
+  "languages": [
+    {
+      "description": "Tochter Entrati bekommt es mit mehr zu tun, als sie erwartet hat, als sie den Tenno darum bittet, den Ruf nach Verstärkung an Bord eines Narmer Murex zu untersuchen.",
+      "name": "Schleierschnitter",
+      "code": "de"
+    },
+    {
+      "description": "La fille Entrati obtient plus que ce qu'elle voulait lorsqu'elle engage le Tenno pour enquêter sur un appel de renforts à bord d'un Murex Narmer.",
+      "name": "Brise-Voile",
+      "code": "fr"
+    },
+    {
+      "description": "Figlia Entrati ottiene più di quanto si aspettasse quando arruola i Tenno per indagare su una richiesta di rinforzi a bordo di una Murex Narmer.",
+      "name": "Veilbreaker",
+      "code": "it"
+    },
+    {
+      "description": "나르메르 뮤렉스 내에서 들려오는 지원군 요청 신호를 조사하기 위해 텐노의 도움을 요청했을 때, 엔트라티의 딸은 자신이 기대했던 것보다도 더 많은 것을 얻게 됩니다.",
+      "name": "베일 파괴자",
+      "code": "ko"
+    },
+    {
+      "description": "La hija Entrati obtiene más de lo que esperaba cuando recluta a los tenno para investigar una llamada de refuerzos a bordo de una Murex Narmer.",
+      "name": "Rompevelos",
+      "code": "es"
+    },
+    {
+      "description": "当英择谛“女儿”号召 Tenno 去调查合一众骨螺战舰上的一个增援请求时，她所收获的要比预想中的更多。",
+      "name": "破障者",
+      "code": "zh"
+    },
+    {
+      "description": "Дочь Энтрати получает гораздо больше, чем ожидала, когда попросила Тэнно найти источник сигнала о помощи с борта мюрекса Нармера.",
+      "name": "Срывающий вуаль",
+      "code": "ru"
+    },
+    {
+      "description": "エントラティのDaughterは、ナルメル・ミュレックス内から届いた救援信号をテンノの力を借りて調査した。吉と出るか凶と出るか、この時のDaughterはまだ知らない。",
+      "name": "ベールブレイカー",
+      "code": "ja"
+    },
+    {
+      "description": "Córka Entrati dostała więcej niż się spodziewała, kiedy zwerbowała Tenno do sprawdzenia wezwania o wsparcie z pokładu Mureksu Narmer.",
+      "name": "Veilbreaker",
+      "code": "pl"
+    },
+    {
+      "description": "A Filha da família Entrati conseguiu mais do que o esperado ao enviar o Tenno para investigar um pedido de reforços proveniente de uma Murex Narmeriana.",
+      "name": "Destrutor de Véus",
+      "code": "pt"
+    },
+    {
+      "description": "源拓氏女兒徵召 Tenno 前往調查一艘那爾邁骨螺母艦發出的增援請求時，結果超出她的預想。",
+      "name": "破冪者",
+      "code": "tc"
+    },
+    {
+      "description": "ดูเหมือน Daughter แห่ง Entrati จะเจออะไรมากกว่าที่คาดไว้ เมื่อนางขอให้ Tenno ช่วยตรวจสอบสัญญาณขอกำลังเสริมบนยาน Narmer Murex",
+      "name": "Veilbreaker",
+      "code": "th"
+    },
+    {
+      "description": "Entrati'nin Kızı, bir Narmer Murex'inin destek çağrısını araştırması için Tenno'yu görevlendirdiğinde umduğundan fazlasını alıyor.",
+      "name": "Veilbreaker",
+      "code": "tr"
+    },
+    {
+      "description": "Донька Ентраті отримує значно більше ніж розраховувала, коли попросила тенно знайти джерело сигналу запиту на підкріплення з борту мюрекса Нармера.",
+      "name": "Вуалелам",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/SteelEssence20Pack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steel-essence-bdddab87a9.png",
+  "name": "Steel Essence",
+  "description": "Tokens of Teshin's Esteem earned from Incursion Alerts or Acolytes on The Steel Path. Can be exchanged for items that prove your warrior capabilities by visiting Teshin in any Relay.",
+  "languages": [
+    {
+      "description": "Ein Zeichen von Teshins Hochachtung. Sie können gegen Gegenstände eingetauscht werden, die eure Fähigkeiten als Krieger beweisen.\n\nQuelle: Sie können durch Überfall-Alarmierungen oder von Akolyten auf dem Stählernen Pfad erhalten werden.",
+      "name": "Stahlessenz",
+      "code": "de"
+    },
+    {
+      "description": "Preuves de l'estime de Teshin, les Essences sont gagnées via les Alertes d'Incursion ou les Acolytes en parcourant la Route de l'Acier. Elles peuvent être échangées contre des objets prouvant vos prouesses au combat en rendant visite à Teshin dans un Relais.",
+      "name": "Essence d'Acier",
+      "code": "fr"
+    },
+    {
+      "description": "I pegni della Stima di Teshin ottenuti dalle Incursioni o dagli Accoliti ne Il Percorso d'Acciaio. Possono essere scambiati per oggetti che dimostrano le tue capacità di guerriero visitando Teshin in qualsiasi Stazione.",
+      "name": "Essenza d'Acciaio",
+      "code": "it"
+    },
+    {
+      "description": "테신의 찬탄을 상징하는 증표로, 강철의 길 급습 얼럿 미션이나 어콜라이트를 쓰러뜨려 얻을 수 있습니다. 아무 릴레이에서 테신을 방문해 전사로서의 능력을 증명할 수 있는 아이템으로 교환할 수 있습니다.",
+      "name": "스틸 에센스",
+      "code": "ko"
+    },
+    {
+      "description": "Símbolos del reconocimiento de Teshin y obtenidos en las incursiones de alertas o de los acólitos en El Camino de Acero. Se pueden intercambiar por componentes que prueben tus capacidades como guerrero visitando a Teshin en cualquier Repetidor.",
+      "name": "Esencia de Acero",
+      "code": "es"
+    },
+    {
+      "description": "从钢铁之路侵袭警报任务或是追随者那里获取的代表 Teshin 尊严的代币。可被用来在任意中继站的 Teshin 处换取证明你战士能力的物品。",
+      "name": "钢铁精华",
+      "code": "zh"
+    },
+    {
+      "description": "Символы Почитания Тешина, которые можно получить в ходе выполнения Рейдов Стального Пути или при убийстве послушников на миссиях Стального Пути. Символы можно обменять на предметы, которые подтверждают ваши способности воина, посетив Тешина в реле.",
+      "name": "Эссенция стали",
+      "code": "ru"
+    },
+    {
+      "description": "鋼の道のりで襲撃アラートのクリアあるいは従者を倒すことで得られる、Teshinからの敬意の証。リレーのTeshinにて、戦士としての力量を示すアイテムと交換が可能。",
+      "name": "スティール・エッセンス",
+      "code": "ja"
+    },
+    {
+      "description": "Symbole uznania Teshina, mogą zostać zdobyte przez Najazdy i pokonanie Akolitów na Ścieżce Stali. Esencja Stali może zostać wymieniona na wartościowe przedmioty po odwiedzeniu Teshina w dowolnym Przekaźniku.",
+      "name": "Esencja Stali",
+      "code": "pl"
+    },
+    {
+      "description": "Símbolos de estima para o Teshin, obtidos ao derrotar os Acólitos ou ao concluir os Alertas de Incursões, ambos no Percurso de Aço. Podem ser trocados junto ao Teshin, em qualquer Relay, por itens que comprovam suas aptidões como guerreiro.",
+      "name": "Essência de Aço",
+      "code": "pt"
+    },
+    {
+      "description": "從鋼韌之道的侵襲或追隨者身上所獲得的代幣，其象徵著 Teshin 的尊嚴。到任何中繼站裡造訪 Teshin 並用之換取證明你的戰士能力的物品。",
+      "name": "鋼韌精華",
+      "code": "tc"
+    },
+    {
+      "description": "โทเค็นแห่งความภาคภูมิใจของ Teshin ที่ได้รับจากภารกิจแจ้งเตือนการโจมตี หรือจากพวกผู้ช่วยเหลือในภารกิจเส้นทางเหล็กกล้า นำไปแลกเปลี่ยนเป็นไอเทมที่จะพิสูจน์ความสามารถในการเป็นนักรบได้โดยไปหา Teshin ที่รีเลย์ใดก็ได้",
+      "name": "สตีลเอสเซนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Teshin'in İtibar Nişanları, İstila Alertleri ya da Acolyte görevlerinden kazanılıyor. Bu nişanlar, Teshin'i ziyaret ederek savaşçı yeteneklerinizi kanıtlayacak eşyalar için takas edilebilir.",
+      "name": "Steel Essence",
+      "code": "tr"
+    },
+    {
+      "description": "Знаки пошани Тешина. Щоб здобути, у режимі «Шлях сталі» виконуйте завдання зі вторгнення або вбивайте прибічників Сталкера. Можна обміняти на предмети, що підкреслять вашу воїнську доблесть, відвідавши Тешина на будь-якому реле.",
+      "name": "Есенція сталі",
+      "code": "uk"
+    }
+  ]
+}

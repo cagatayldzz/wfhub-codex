@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magnus-2726d45d02.png",
+  "name": "Magnus",
+  "description": "The versatile Magnus revolver is a lethal sidearm for any Tenno.",
+  "languages": [
+    {
+      "description": "Der vielseitig einsetzbare Magnus-Revolver ist eine tödliche Handfeuerwaffe für jeden Tenno.",
+      "name": "Magnus",
+      "code": "de"
+    },
+    {
+      "description": "Le revolver polyvalent Magnus est une arme secondaire mortelle pour n'importe quel Tenno.",
+      "name": "Magnus",
+      "code": "fr"
+    },
+    {
+      "description": "Il revolver Magnus è una ottima arma da fianco per ogni Tenno.",
+      "name": "Magnus",
+      "code": "it"
+    },
+    {
+      "description": "다재다능한 매그너스 리볼버는 어떤 텐노라도 쓸 수 있는 치명적인 보조 무기입니다.",
+      "name": "매그너스",
+      "code": "ko"
+    },
+    {
+      "description": "El versátil revólver Magnus es un arma letal para cualquier tenno.",
+      "name": "Magnus",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MAGNUS）多功能麦格努斯左轮手枪对于任何 Tenno 来说都是一把能置对手于死地的手枪。",
+      "name": "麦格努斯",
+      "code": "zh"
+    },
+    {
+      "description": "Гибкий в применении револьвер Магнус - смертоносное оружие, под стать любому Тэнно.",
+      "name": "Магнус",
+      "code": "ru"
+    },
+    {
+      "description": "汎用性に富み、強力な威力を発揮するリボルバー。",
+      "name": "Magnus",
+      "code": "ja"
+    },
+    {
+      "description": "Wszechstronny rewolwer Magnus jest zabójczą bronią boczną dla każdego Tenno.",
+      "name": "Magnus",
+      "code": "pl"
+    },
+    {
+      "description": "O versátil revolver Magnus é uma arma secundária letal nas mãos de qualquer Tenno.",
+      "name": "Magnus",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MAGNUS）多功能麥格努斯左輪手槍對於任何 Tenno來說都是一把能置對手於死地的手槍。 ",
+      "name": "麥格努斯",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพก Magnus อเนกประสงค์เป็นอาวุธร้ายแรงที่ Tenno ทุกคนสามารถใช้ได้",
+      "name": "Magnus",
+      "code": "th"
+    },
+    {
+      "description": "Çok amaçlı Magnus altıpatlar bütün Tenno'ların kullandığı öldürücü ve güçlü bir ikincil silahdır.",
+      "name": "Magnus",
+      "code": "tr"
+    },
+    {
+      "description": "Багатоцільовий револьвер. Смертоносна зброя, що пасує будь-якому тенно.",
+      "name": "Магнус",
+      "code": "uk"
+    }
+  ]
+}

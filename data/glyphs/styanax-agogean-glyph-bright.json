@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageStyanaxAltCBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-agogean-glyph---bright-e2f4fd2a32.png",
+  "name": "Styanax Agogean Glyph - Bright",
+  "description": "A glyph depicting Styanax Agogean on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Styanax Agogean vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Styanax Agogean (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Styanax Agogean sur un fond lumineux.",
+      "name": "Glyphe Styanax Agogean - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Styanax Agogean su uno sfondo chiaro.",
+      "name": "Glifo Styanax Agogean - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 스티아낙스 아고게안을 묘사한 글리프입니다.",
+      "name": "스티아낙스 아고게안 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Styanax Agogean sobre un fondo brillante.",
+      "name": "Glifo de Styanax Agogean - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth 极训在明亮背景下的浮印。",
+      "name": "Styanax 极训浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Стинакса «Агоген» на светлом фоне.",
+      "name": "Глиф: Стинакс Агоген — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたStyanax Agogeanのグリフ。",
+      "name": "Styanax Agogean グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Styanax Agogean na jasnym tle.",
+      "name": "Glif Styanax Agogean — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Styanax Agogean em um fundo claro.",
+      "name": "Glifo: Styanax Agogean (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Styanax 益進在明亮背景下的浮印。",
+      "name": "Styanax 益進浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Styanax Agogean บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Styanax Agogean - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Styanax Agogean açık fonlu glif.",
+      "name": "Styanax Agogean Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Стейнекса в шоломі «Аґоджин» на світлому тлі.",
+      "name": "Яскравий гліф «Стейнекс „Аґоджин“»",
+      "code": "uk"
+    }
+  ]
+}

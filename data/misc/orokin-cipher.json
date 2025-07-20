@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/MirageCode",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-cipher-2db59f734b.png",
+  "name": "Orokin Cipher",
+  "description": "This device is used to bypass Orokin encryptions.\n\nLocation: Orokin Derelict Vaults on Deimos once opened with a Dragon Key ",
+  "languages": [
+    {
+      "description": "Ein Gerät, um Orokin Verschlüsselungen zu umgehen.\n\nQuelle: Orokin Vaults auf Deimos, nachdem diese mit einem Drachenschlüssel geöffnet wurden.",
+      "name": "Orokin Dechiffrierer",
+      "code": "de"
+    },
+    {
+      "description": "Cet appareil est utilisé pour contourner des cryptages Orokins.\n\nLieu: Coffres des Épaves Orokins sur Deimos, une fois ouverts avec une Clé de Dragon ",
+      "name": "Décodeur Orokin",
+      "code": "fr"
+    },
+    {
+      "description": "Questo congegno è utilizzato per il bypass di cifrature Orokin.\n\nPosizione: Caveau Relitto Orokin su Deimos una volta aperti con una Chiave del Drago ",
+      "name": "Cipher Orokin",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 암호화를 해제하기 위한 장치입니다.\n\n획득 가능 장소: 데이모스에서 오로킨 폐함선 금고를 드래곤 키로 개방 시 획득 ",
+      "name": "오로킨 해독기",
+      "code": "ko"
+    },
+    {
+      "description": "Este dispositivo se usa para eludir las codificaciones orokin.\n\nUbicación: Bóvedas de Derrelictos orokin en Deimos tras haberlas abierto con una llave de dragón ",
+      "name": "Cifrador orokin",
+      "code": "es"
+    },
+    {
+      "description": "这一装置可用来破解 Orokin 的加密。\n\n获取地点：通过龙钥开启过的 Orokin 遗迹宝库（火卫二） ",
+      "name": "Orokin 破解器",
+      "code": "zh"
+    },
+    {
+      "description": "Это устройство используется для обхода шифрований Орокин.\n\nМестонахождение: хранилища в руинах Орокин.",
+      "name": "Шифр Орокин",
+      "code": "ru"
+    },
+    {
+      "description": "オロキンの暗号をバイパスするのに使用される装置。 \n\n場所：ドラゴンキーで解放されたオロキン遺跡船貯蔵庫 ",
+      "name": "オロキンサイファー",
+      "code": "ja"
+    },
+    {
+      "description": "To urządzenie używane jest do omijania szyfrów Orokin.\n\nPołożenie: Skarbce we Wraku Orokin na Deimosie, które zostały otworzone przez Smoczy Klucz ",
+      "name": "Dekoder Orokin",
+      "code": "pl"
+    },
+    {
+      "description": "Este aparelho é usado para burlar codificações Orokin.\n\nLocalização: Câmaras de Naves Abandonadas Orokin, em Deimos, que foram abertas com uma Chave do Dragão ",
+      "name": "Decodificador Orokin",
+      "code": "pt"
+    },
+    {
+      "description": "這個裝置可用於破解 Orokin 的加密裝置。\n\n地點：一旦使用龍鑰打開於火衛二上的 Orokin 遺跡寶庫",
+      "name": "Orokin 破解器",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์นี้ใช้เพื่อบายพาสการเข้ารหัส Orokin\n\nแหล่งที่พบ: ห้องนิรภัยในซากยานร้างของ Orokin บนดาวเดมอสเมื่อห้องถูกเปิดด้วยกุญแจ Dragon แล้ว ",
+      "name": "ไซเฟอร์ Orokin",
+      "code": "th"
+    },
+    {
+      "description": "Orokin şifrelerini çözmeye yarayan bir cihaz.\n\nKonum: Bir zamanlar Ejderha Anahtarı ile açılmış olan Deimos'taki Orokin Derelict Kasaları ",
+      "name": "Orokin Cipher",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій, необхідний для обходу орокінських шифрів.\n\nМожна знайти в сховищах орокінського зорельота-блукача (Деймос), якщо відмикати їх ключем дракона.",
+      "name": "Орокінський шифрувальник",
+      "code": "uk"
+    }
+  ]
+}

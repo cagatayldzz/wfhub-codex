@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LNY2023Emote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lunar-renewal-rabbit-flourish-34bd2192d3.png",
+  "name": "Lunar Renewal Rabbit Flourish",
+  "description": "A peaceful reminder of Lunar Renewal.",
+  "languages": [
+    {
+      "description": "Eine friedliche Erinnerung an das neue Mondjahr.",
+      "name": "Neues Mondjahr Hasen-Verzierung",
+      "code": "de"
+    },
+    {
+      "description": "Un rappel paisible du Renouveau Lunaire.",
+      "name": "Geste du Lapin du Renouveau Lunaire",
+      "code": "fr"
+    },
+    {
+      "description": "Un pacifico promemoria del Rinnovo Lunare.",
+      "name": "Emote - Coniglio Rinnovo Lunare",
+      "code": "it"
+    },
+    {
+      "description": "음력 설을 알리는 평화로운 몸짓입니다.",
+      "name": "루나 리뉴얼 래빗 플로리쉬",
+      "code": "ko"
+    },
+    {
+      "description": "Un recordatorio pacífico de la renovación lunar.",
+      "name": "Gesto de Conejo de Renovación Lunar",
+      "code": "es"
+    },
+    {
+      "description": "平安地提醒人们农历新年辞旧迎新。",
+      "name": "萌兔迎春",
+      "code": "zh"
+    },
+    {
+      "description": "Мирное напоминание о Лунном обновлении.",
+      "name": "Жест: Обновление луны - цветущий кролик",
+      "code": "ru"
+    },
+    {
+      "description": "ルナーリニューアルを穏やかにお届けする。",
+      "name": "ルナーリニューアル「卯」フラリッシュ",
+      "code": "ja"
+    },
+    {
+      "description": "Pokojowe wspomnienie Roku Księżycowego.",
+      "name": "Gest Księżycowego Roku Królika",
+      "code": "pl"
+    },
+    {
+      "description": "Uma recordação amistosa da Renovação Lunar.",
+      "name": "Gesto do Coelho da Renovação Lunar",
+      "code": "pt"
+    },
+    {
+      "description": "溫馨祝福，福兔迎新春。",
+      "name": "新春煥發福兔迎祥",
+      "code": "tc"
+    },
+    {
+      "description": "ท่าทางสบาย ๆ ที่เตือนให้นึกถึงวันตรุษจีน",
+      "name": "กระต่ายเริงร่าต้อนรับตรุษจีน",
+      "code": "th"
+    },
+    {
+      "description": "Yeni Ay Yılının huzurlu bir hatırası.",
+      "name": "Yeni Ay Yılı Tavşan Süslemesi",
+      "code": "tr"
+    },
+    {
+      "description": "Миле нагадування про Місячний Новий рік.",
+      "name": "Кроляче дефіле",
+      "code": "uk"
+    }
+  ]
+}

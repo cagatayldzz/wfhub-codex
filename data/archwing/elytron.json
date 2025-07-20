@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/elytron-8f63d43729.png",
+  "name": "Elytron",
+  "description": "This heavy duty Archwing was designed for one purpose, destruction.",
+  "armor": 145,
+  "languages": [
+    {
+      "description": "Dieser Hochleistungs-Archwing wurde für nur eine Aufgabe geschaffen: Zerstörung.",
+      "name": "<ARCHWING> Elytron",
+      "code": "de"
+    },
+    {
+      "description": "Cette Archwing lourde a été conçue pour une seule raison, la destruction.",
+      "name": "<ARCHWING> Elytron",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Archwing pesante è stato pensato per un solo scopo, la distruzione.",
+      "name": "<ARCHWING> Elytron",
+      "code": "it"
+    },
+    {
+      "description": "이 육중한 아크윙은 오로지 파괴, 단 하나만을 위하여 설계되었습니다.",
+      "name": "<ARCHWING> 엘리트론",
+      "code": "ko"
+    },
+    {
+      "description": "Este pesado archwing fue diseñado con un solo propósito, destrucción.",
+      "name": "<ARCHWING> Elytron",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ELYTRON）这种重型曲翼只为了一个目的而被设计出来：破坏。",
+      "name": "<ARCHWING> 鞘翅",
+      "code": "zh"
+    },
+    {
+      "description": "Этот тяжелый арчвинг был сконструирован с одним лишь предназначением - уничтожение.",
+      "name": "<ARCHWING> Элитрон",
+      "code": "ru"
+    },
+    {
+      "description": "この強力なアークウイングはたった一つの目的として設計された、破壊だ。",
+      "name": "<ARCHWING> Elytron",
+      "code": "ja"
+    },
+    {
+      "description": "Ten ciężki Archwing został zaprojektowany w jednym celu - destrukcji.",
+      "name": "<ARCHWING> Elytron",
+      "code": "pl"
+    },
+    {
+      "description": "Esta Archwing robusta foi projetada com um único propósito: destruição.",
+      "name": "<ARCHWING> Elytron",
+      "code": "pt"
+    },
+    {
+      "description": "這種重型 Archwing 只為了一個目的而被設計出來：破壞。",
+      "name": "<ARCHWING> Elytron",
+      "code": "tc"
+    },
+    {
+      "description": "Archwing สำหรับใช้งานหนักนี้ถูกออกแบบมาเพื่อวัตถุประสงค์เดียว นั่นคือการทำลายล้าง",
+      "name": "<ARCHWING> Elytron",
+      "code": "th"
+    },
+    {
+      "description": "Bu ağır donanımlı Archwing sadece tek bir şey için tasarlandı, Yıkım.",
+      "name": "<ARCHWING> Elytron",
+      "code": "tr"
+    },
+    {
+      "description": "Цей тяжкий арквінґ спроєктований лише для одного — руйнування.",
+      "name": "<ARCHWING> Елитрон",
+      "code": "uk"
+    }
+  ]
+}

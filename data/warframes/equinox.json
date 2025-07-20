@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/YinYang/YinYang",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-ae1572be82.png",
+  "name": "Equinox",
+  "description": "Equinox rises from the edge of day and night. Her Day form offers offensive support while her Night form offers defensive support. She thrives between realms.",
+  "armor": 135,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Equinox erhebt sich am Rande von Tag und Nacht. Ihre Tagform bietet offensive Unterstützung, während ihre Nachtform auf defensive Unterstützung setzt. Zwischen den Reichen blüht sie auf.",
+      "name": "Equinox",
+      "code": "de"
+    },
+    {
+      "description": "Equinox émerge du jour et de la nuit. Sa forme Diurne offre un soutien offensif tandis que sa forme Nocturne fournit un soutien défensif. Elle prospère entre les royaumes.",
+      "name": "Equinox",
+      "code": "fr"
+    },
+    {
+      "description": "Equinox sorge dal limite tra il giorno e la notte. La sua forma Diurna fornisce supporto offensivo mentre la sua forma Notturna fornisce supporto difensivo. Prospera tra i due regni.",
+      "name": "Equinox",
+      "code": "it"
+    },
+    {
+      "description": "이쿼녹스는 낮과 밤의 경계에서 떠오르는 자입니다. 그녀의 낮 형태는 공격 계열의 지원을 제공하며, 밤 형태는 반대로 방어 계열의 지원을 제공합니다. 두 세상의 영역 사이에서 그녀는 마음껏 능력을 펼칩니다.",
+      "name": "이쿼녹스",
+      "code": "ko"
+    },
+    {
+      "description": "Equinox aparece en el umbral entre el día y la noche. Su forma diurna brinda apoyo ofensivo, mientras que su forma nocturna brinda apoyo defensivo. Ella prospera entre los reinos.",
+      "name": "Equinox",
+      "code": "es"
+    },
+    {
+      "description": "Equinox 从白昼与黑夜的边缘崛起。她的白昼形态提供攻击支援，她的黑夜形态提供防御支援。她在白昼与黑夜之间来回游走。",
+      "name": "Equinox",
+      "code": "zh"
+    },
+    {
+      "description": "Эквинокс восходит с края дня и ночи. Её дневная форма предлагает наступательную поддержку, а её ночная форма предлагает оборонительную поддержку. Она черпает свою мощь между мирами.",
+      "name": "Эквинокс",
+      "code": "ru"
+    },
+    {
+      "description": "Equinoxは昼と夜の境界線を彷徨う存在。昼の姿は攻撃力サポートに長けており、夜の姿は防御系サポートで仲間を守る。",
+      "name": "Equinox",
+      "code": "ja"
+    },
+    {
+      "description": "Krocz ścieżką między dniem i nocą. Dzienna forma Equinox oferuje wsparcie ofensywne — a Nocna forma oferuje wsparcie defensywne.",
+      "name": "Equinox",
+      "code": "pl"
+    },
+    {
+      "description": "A Equinox surge no limiar entre o dia e a noite. Sua forma diurna fornece suporte ofensivo, enquanto sua forma noturna proporciona suporte defensivo. Ela prospera entre os dois reinos.",
+      "name": "Equinox",
+      "code": "pt"
+    },
+    {
+      "description": "Equinox 在日與夜的邊緣崛起。她的白晝形態提供進攻型支援，而她的黑夜形態提供防禦型支援。她遊走在日夜之間。",
+      "name": "Equinox",
+      "code": "tc"
+    },
+    {
+      "description": "Equinox มีชีวิตอยู่ระหว่างขอบเขตฟ้า โผล่ออกมาได้ทั้งในตอนกลางวันและกลางคืน ร่างในเวลากลางวันจะช่วยส่งเสริมการสู้ในเชิงรุก ขณะที่ร่างกลางคืนจะช่วยส่งเสริมด้านการป้องกันในเชิงตั้งรับ",
+      "name": "Equinox",
+      "code": "th"
+    },
+    {
+      "description": "Equinox, gece ve gündüzün eşitliğinden doğar. Gündüz formu hücum desteği sunarken Gece formu savunma desteği sunar. Onun gücü, diyarlar arasında saklıdır.",
+      "name": "Equinox",
+      "code": "tr"
+    },
+    {
+      "description": "Межа між днем і ніччю. Денна форма Еквінокс пропонує підтримку нападу, а нічна — захисту. Вона набирає могутності в міжсвітті.",
+      "name": "Еквінокс",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/despair-abc763c0f4.png",
+  "name": "Despair",
+  "description": "Used by The Stalker, Despair throwing blades have a mono-filament edge, sharp enough to penetrate a Warframe.",
+  "languages": [
+    {
+      "description": "Die Despair sind vom Stalker benutzte Wurfmesser, die mit ihrer Monofilamentklinge selbst Warframes durchschlagen können.",
+      "name": "Despair",
+      "code": "de"
+    },
+    {
+      "description": "Utilisées par le Stalker, les Lames Lancées Despair ont un tranchant monofilament pouvant pénétrer une Warframe.",
+      "name": "Despair",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzati dallo Stalker, i coltelli da lancio DESPAIR hanno un filo così tagliente da penetrare anche i Warframe.",
+      "name": "Despair",
+      "code": "it"
+    },
+    {
+      "description": "스토커가 사용하는 디스페어는 단분자 날을 이용하여 워프레임을 뚫을 수 있을정도로 날카롭습니다.",
+      "name": "디스페어",
+      "code": "ko"
+    },
+    {
+      "description": "Usados por el Stalker, los cuchillos arrojadizos Despair tienen un borde de monofilamento suficientemente afilado como para penetrar una armadura warframe.",
+      "name": "Despair",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DESPAIR）追猎者所持的绝望，是丢出由单分子构成的刀刃，足够锋利来穿透战甲。",
+      "name": "绝望",
+      "code": "zh"
+    },
+    {
+      "description": "Используемые Сталкером, метательные кинжалы «Отчаяние» имеют мономолекулярную кромку лезвия, достаточно острую для проникновения сквозь броню варфрейма.",
+      "name": "Отчаяние",
+      "code": "ru"
+    },
+    {
+      "description": "STALKERが愛用する投てき暗器。WARFRAMEすら貫く単繊維製の強靭な刃を持つ。",
+      "name": "Despair",
+      "code": "ja"
+    },
+    {
+      "description": "Używane przez Stalkera noże Rozpaczy posiadają krawędź monofilamentową wystarczająco ostrą by przebić Warframe'a.",
+      "name": "Rozpacz",
+      "code": "pl"
+    },
+    {
+      "description": "Usadas pelo Stalker, as facas de arremesso Desespero possuem uma lâmina de mono-filamento, afiadas o suficiente para penetrar um Warframe.",
+      "name": "Desespero",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DESPAIR）Stalker 所持的絕望，是丟出由單分子構成的刀刃，鋒利得能穿透 Warframe。",
+      "name": "絕望",
+      "code": "tc"
+    },
+    {
+      "description": "ใบมีดขว้าง Despair ที่ใช้โดย Stalker มีขอบแบบเส้นเดียว แหลมคมเพียงพอที่จะเจาะ Warframe ได้",
+      "name": "Despair",
+      "code": "th"
+    },
+    {
+      "description": "Stalker tarafından kullanılan DESPAIR atış bıçakları bir Warframe'i delip geçmeye yetecek keskin kenarlara sahiptir.",
+      "name": "Despair",
+      "code": "tr"
+    },
+    {
+      "description": "Кидальні клинки Сталкера. Леза з моноволокна настільки гострі, що здатні пробити ворфреймів.",
+      "name": "Розпач",
+      "code": "uk"
+    }
+  ]
+}

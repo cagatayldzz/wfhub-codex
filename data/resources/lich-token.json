@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedGrineerLichToken",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lich-token-3394454079.png",
+  "name": "Lich Token",
+  "description": "A token symbolizing a converted Kuva Lich. Can be traded to other players for control of said Lich.",
+  "languages": [
+    {
+      "description": "Eine Marke, die einen konvertierten Kuva Lich darstellt. Kann mit anderen Spielern gehandelt werden, um die Kontrolle des Lichs zu übertragen.",
+      "name": "Lich Marke",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne symbolisant une Liche Kuva convertie. Peut être échangé avec d'autres joueurs afin de leur donner le contrôle de la Liche en question.",
+      "name": "Insigne de Liche",
+      "code": "fr"
+    },
+    {
+      "description": "Un token che simboleggia un Kuva Lich convertito. Può essere scambiato con altri giocatori per controllare il suddetto Lich.",
+      "name": "Token Lich",
+      "code": "it"
+    },
+    {
+      "description": "전향시킨 쿠바 리치를 상징하는 토큰입니다. 다른 플레이어와 거래하여 해당하는 리치의 통제권을 넘길 수 있습니다.",
+      "name": "리치 토큰",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo que representa a un Lich de Kuva convertido. Se puede intercambiar con otros jugadores para controlar a dicho Lich.",
+      "name": "Símbolo de Lich",
+      "code": "es"
+    },
+    {
+      "description": "象征着被感化的赤毒玄骸的印记。可以把该赤毒玄骸的控制权交易给其他玩家。",
+      "name": "玄骸印记",
+      "code": "zh"
+    },
+    {
+      "description": "Знак, символизирующий обращенного лича Кувы. Может использоваться для обмена с другими игроками, чтобы контролировать этого лича.",
+      "name": "Символ: Лич",
+      "code": "ru"
+    },
+    {
+      "description": "転向されたクバ・リッチを象徴するトークン。他のプレイヤーにトレードすることでリッチの所有権を移すことが可能。",
+      "name": "リッチトークン",
+      "code": "ja"
+    },
+    {
+      "description": "Przedmiot symbolizujący nawróconego Licza Kuvy. Może być przekazany w wymianie innemu graczowi, by oddać kontrolę nad Liczem.",
+      "name": "Symbol Licza",
+      "code": "pl"
+    },
+    {
+      "description": "Uma ficha simbolizando um Lich de Kuva convertido. Pode ser trocada entre jogadores para obter controle do referido Lich.",
+      "name": "Ficha de Lich",
+      "code": "pt"
+    },
+    {
+      "description": "象徵著一名已皈依的赤毒巫妖代幣。可交易該名巫妖給其他玩家控制。",
+      "name": "巫妖代幣",
+      "code": "tc"
+    },
+    {
+      "description": "โทเค็นที่เป็นสัญลักษณ์ของ Kuva Lich ที่เปลี่ยนมาเป็นพวกแล้ว สามารถเอาไปแลกเปลี่ยนกับผู้เล่นคนอื่นเพื่อควบคุม Lich ดังกล่าวได้",
+      "name": "โทเค็นของ Lich",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş bir Kuva Lich'i temsil eden bir simge. Diğer oyuncular ile bahsi geçen Lich'in kontrolü için takas yapılabilir.",
+      "name": "Lich Token",
+      "code": "tr"
+    },
+    {
+      "description": "Символізує оберненого кувового ліча. Може використовуватися в торгівлі для передання контролю над зазначеним лічем.",
+      "name": "Жетон ліча",
+      "code": "uk"
+    }
+  ]
+}

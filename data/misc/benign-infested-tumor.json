@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/benign-infested-tumor-8ae93f6bd2.png",
+  "name": "Benign Infested Tumor",
+  "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.\n\nSource: Cut from all Cambion Drift fish via Daughter in the Necralisk (Deimos). ",
+  "languages": [
+    {
+      "description": "Der Befall infiziert alle Fische auf Deimos, sogar solche, die keine äußeren Mutationen aufweisen.\n\nQuelle: Tochter im Necralisk (Deimos) kann es aus Fischen der Cambion-Drift entfernen.",
+      "name": "Gutartiger Befallener Tumor",
+      "code": "de"
+    },
+    {
+      "description": "L'Infestation touche tous les poissons de Deimos, même ceux qui ne présentent aucune mutation externe.\n\nSource: récupéré des poissons du Puy de Cambion via la Fille dans le Necralisk (Deimos). ",
+      "name": "Tumeur Bénigne Infestée",
+      "code": "fr"
+    },
+    {
+      "description": "L'Infestazione infetta tutti i pesci su Deimos, anche quelli che non mostrano mutazioni esterne.\n\nFonte: Ottenibili da tutti i pesci del Cambion Drift da Figlia nel Necralisk (Deimos). ",
+      "name": "Tumore Benigno Infested",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드는 데이모스의 모든 물고기를 감염시킵니다. 외형적 돌연변이가 관찰되지 않는 개체들도 예외는 아닙니다.\n\n획득 가능 장소: 네크랄리스크 (데이모스) 의 딸을 통해 캠비온 퇴적지의 아무 물고기나 해체하여 획득할 수 있습니다. ",
+      "name": "양성 인페스티드 종양",
+      "code": "ko"
+    },
+    {
+      "description": "La infestación infecta a todos los peces de Deimos, incluso a aquellos que no muestran ninguna mutación externa.\n\nFuente: Obtenido al cortar todos los peces de Deriva Cambion con Hija en el Necralisk (Deimos). ",
+      "name": "Tumor infestado benigno",
+      "code": "es"
+    },
+    {
+      "description": "异变感染体感染了火卫二上的所有鱼类，连那些看起来没有任何变异的鱼也感染了。\n\n获取途径：通过殁世幽都（火卫二）的“女儿”从魔胎之境鱼类中切割获取。 ",
+      "name": "良性感染肿瘤",
+      "code": "zh"
+    },
+    {
+      "description": "Заражение поражает всех рыб на Деймосе, даже тех, у которых нет внешних мутаций.\n\nМестонахождение: Добывается при разделке всех рыб Камбионского Дрейфа у Дочери в Некралиске (Деймос).",
+      "name": "Доброкач. Заражённая Опухоль",
+      "code": "ru"
+    },
+    {
+      "description": "外部変異を観察できずとも、ダイモスの魚介類全ては感染体に汚染されている。\n\n場所：ネクロリスク（ダイモス）のDaughterでカンビオン荒地の魚を捌くことで入手可能。",
+      "name": "良性感染腫瘍",
+      "code": "ja"
+    },
+    {
+      "description": "Plaga infekuje wszystkie ryby na Deimos, nawet te, które nie wykazują żadnych zewnętrznych mutacji.\n\nŹródło: Uzyskane przez filetowanie następujących ryb z Dryfu Kambionu u Córki w Nekralisku (Deimos). ",
+      "name": "Łagodny Guz Plagi",
+      "code": "pl"
+    },
+    {
+      "description": "A Infestação afetou todos os peixes de Deimos, até mesmo aqueles que não mostram sinais externos de mutação.\n\nLocalização: obtido através do corte de todos os peixes da Deriva de Cambion com a Filha no Necralisk, em Deimos. ",
+      "name": "Tumor Infestado Benigno",
+      "code": "pt"
+    },
+    {
+      "description": "所有棲息在火衛二上的魚類都受到了感染者的感染，即使是那些沒有顯現出任何外部突變症狀的都是。 必定可從火衛二的所有魚種獲得此材料。\n\n來源：透過亡骸殿（火衛二）的女兒從所有魔裔禁地魚類所切下：",
+      "name": "良性感染腫瘤",
+      "code": "tc"
+    },
+    {
+      "description": "การติดเชื้อแพร่ระบาดไปยังปลาทุกตัวบนดาวเดมอส แม้กระทั่งปลาที่ดูเหมือนจะไม่แสดงอาการกลายพันธุ์จากภายนอกเลยก็ตาม\n\nแหล่งที่พบ: ได้มาจากการแล่ปลาทุกตัวที่อยู่ในแคมบิออนดริฟต์ผ่าน Daughter ในเนคราลิสก์ (เดมอส) ",
+      "name": "เนื้องอกติดเชื้อไม่ร้ายแรง",
+      "code": "th"
+    },
+    {
+      "description": "Infestation, Deimos'taki bütün balıklara bulaşır, buna hiçbir dış mutasyon örneği göstermeyenler de dahildir.\n\nKaynak: Necralisk'teki (Deimos) Kız Evlat aracılığıyla tüm Cambion Drift balıklarından kesilir. ",
+      "name": "İyi Huylu Infested Tümörü",
+      "code": "tr"
+    },
+    {
+      "description": "Усі риби на Деймосі заражені, навіть ті, які не мають зовнішніх проявів.\n\nМожна отримати від Доньки в Некраліску (Деймос).",
+      "name": "Доброякісна заражена пухлина",
+      "code": "uk"
+    }
+  ]
+}

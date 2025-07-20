@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/domino-fur-pattern-8ebd0239a4.png",
+  "name": "Domino Fur Pattern",
+  "description": "A fur pattern with distinctive marking around the face.",
+  "languages": [
+    {
+      "description": "Ein Fellmuster mit einer ausgeprägten Markierung um das Gesicht.",
+      "name": "Fellmuster: Domino",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage avec une marque distinctive autour du visage.",
+      "name": "Motif de Pelage Domino",
+      "code": "fr"
+    },
+    {
+      "description": "Un pattern per il pelo con particolari marchi intorno al muso.",
+      "name": "Pattern Pelo Domino",
+      "code": "it"
+    },
+    {
+      "description": "얼굴 부위에 독특한 무늬를 띠는 털 패턴입니다.",
+      "name": "도미노 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de pelaje con una marca distintiva alrededor de la cara.",
+      "name": "Patrón de pelaje Domino",
+      "code": "es"
+    },
+    {
+      "description": "在脸部周围有独特印记的毛皮花纹。",
+      "name": "面具毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Шаблон для меха вашего кубрау с определенными метками вокруг морды.",
+      "name": "Шаблон меха кубрау: Домино",
+      "code": "ru"
+    },
+    {
+      "description": "ヘルメット模様のような毛色",
+      "name": "Domino ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Wzór futra z charakterystycznym oznaczeniem wokół pyska.",
+      "name": "Wzór Futra: Domino",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pelagem com marcas faciais distintas.",
+      "name": "Pelagem de Kubrow: Domino",
+      "code": "pt"
+    },
+    {
+      "description": "在臉部周圍有獨特印記的毛皮花紋。",
+      "name": "面具毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่มีเอกลักษณ์เฉพาะรอบใบหน้า",
+      "name": "ลายขน Domino",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow'unuz için kafa etrafında belirgin izleri olan kürk deseni",
+      "name": "Domino Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд хутра з характерним візерунком довкола морди.",
+      "name": "Вигляд хутра «Доміно»",
+      "code": "uk"
+    }
+  ]
+}

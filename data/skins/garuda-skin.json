@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-skin-7624f61f77.png",
+  "name": "Garuda Skin",
+  "description": "The standard issue skin for the Garuda Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Garuda Warframe.",
+      "name": "Garuda-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Garuda.",
+      "name": "Aspect Garuda",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Garuda.",
+      "name": "Skin Garuda",
+      "code": "it"
+    },
+    {
+      "description": "가루다 워프레임을 위한 기본 스킨입니다.",
+      "name": "가루다 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Garuda.",
+      "name": "Diseño de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "Garuda 的标准外观配置。",
+      "name": "Garuda 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Гаруды.",
+      "name": "Скин Гаруды",
+      "code": "ru"
+    },
+    {
+      "description": "Garudaの標準型スキン。",
+      "name": "Garuda スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Garuda.",
+      "name": "Garuda: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Garuda.",
+      "name": "Garuda: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Garuda 的標準外觀。",
+      "name": "Garuda 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Garuda Warframe",
+      "name": "สกิน Garuda",
+      "code": "th"
+    },
+    {
+      "description": "Garuda için standart skin.",
+      "name": "Garuda Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для Ґаруди.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

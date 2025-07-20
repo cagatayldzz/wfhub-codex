@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxStadiumDrumSnareA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/snare-drum-fb68f4c8c6.png",
+  "name": "Snare Drum",
+  "description": "A snare drum used in a drum kit.",
+  "languages": [
+    {
+      "description": "Eine kleine Trommel, die in einem Schlagzeug verwendet wird.",
+      "name": "Kleine Trommel",
+      "code": "de"
+    },
+    {
+      "description": "Une caisse claire utilisée avec une batterie.",
+      "name": "Caisse claire",
+      "code": "fr"
+    },
+    {
+      "description": "Un rullante utilizzato in una batteria.",
+      "name": "Rullante",
+      "code": "it"
+    },
+    {
+      "description": "드럼 세트에 사용되는 스네어 드럼입니다.",
+      "name": "스네어 드럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una caja clara usada en una batería.",
+      "name": "Caja clara",
+      "code": "es"
+    },
+    {
+      "description": "架子鼓中使用的小鼓。",
+      "name": "小鼓",
+      "code": "zh"
+    },
+    {
+      "description": "Малый барабан, используемый в ударной установке.",
+      "name": "Малый барабан",
+      "code": "ru"
+    },
+    {
+      "description": "ドラムキット用のスネアドラム。",
+      "name": "スネアドラム",
+      "code": "ja"
+    },
+    {
+      "description": "Bęben mały używany w zestawie perkusyjnym.",
+      "name": "Bęben mały",
+      "code": "pl"
+    },
+    {
+      "description": "Uma caixa clara utilizada em uma bateria.",
+      "name": "Caixa Clara",
+      "code": "pt"
+    },
+    {
+      "description": "鼓組中使用的小鼓。",
+      "name": "小鼓",
+      "code": "tc"
+    },
+    {
+      "description": "กลองสแนร์ที่ใช้ในชุดกลอง",
+      "name": "กลองสแนร์",
+      "code": "th"
+    },
+    {
+      "description": "Bateri setinde kullanılan trampet.",
+      "name": "Trampet",
+      "code": "tr"
+    },
+    {
+      "description": "Малий барабан для ударної установки.",
+      "name": "Малий барабан",
+      "code": "uk"
+    }
+  ]
+}

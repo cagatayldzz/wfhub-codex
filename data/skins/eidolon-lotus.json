@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Lotus/EidolonLotusSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eidolon-lotus-0779aacfd1.png",
+  "name": "Eidolon Lotus",
+  "description": "Partially regenerated and subsisting on Archon Shard energy.",
+  "languages": [
+    {
+      "description": "Teilweise regeneriert und sich von der Energie von Archon Scherben nährend.",
+      "name": "Eidolon Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Partiellement régénérée et subsistant grâce à l'énergie du Fragment d'Archonte.",
+      "name": "Lotus Eidolon",
+      "code": "fr"
+    },
+    {
+      "description": "Parzialmente rigenerata e sopravvissuta grazie all'energia del Frammento Archon.",
+      "name": "Lotus Eidolon",
+      "code": "it"
+    },
+    {
+      "description": "부분적으로 재생되었으며, 집정관 샤드의 에너지로 간신히 유지되고 있습니다.",
+      "name": "아이돌론 로터스",
+      "code": "ko"
+    },
+    {
+      "description": "Parcialmente regenerada y viviendo de la energía del fragmento arconte.",
+      "name": "Lotus Eidolon",
+      "code": "es"
+    },
+    {
+      "description": "已经部分恢复，现在依靠着执刑官源力石的能量维生。",
+      "name": "夜灵 Lotus",
+      "code": "zh"
+    },
+    {
+      "description": "Частично регенерирована и существует за счёт энергии осколка Архонта.",
+      "name": "Лотос Эйдолона",
+      "code": "ru"
+    },
+    {
+      "description": "不完全ながらも再生しており、アルコンの欠片をエネルギー源に活動している。",
+      "name": "エイドロン Lotus",
+      "code": "ja"
+    },
+    {
+      "description": "Częściowo odbudowana i żywiąca się energią Okruchów Archona.",
+      "name": "Lotus Eidolon",
+      "code": "pl"
+    },
+    {
+      "description": "A forma parcialmente regenerada e subsistente graças à energia do Fragmento de Arconte.",
+      "name": "Lótus: Skin Eidolon",
+      "code": "pt"
+    },
+    {
+      "description": "已部分恢復並依靠執政官靈石能量維生。",
+      "name": "夜靈 Lotus",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างขึ้นมาใหม่บางส่วนและคงอยู่ได้ด้วยพลังงานจากเศษ Archon",
+      "name": "Eidolon Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Kısmen yenilendi ve Archon Parçası'nın enerjisiyle varlığını sürdürür.",
+      "name": "Eidolon Lotus",
+      "code": "tr"
+    },
+    {
+      "description": "Частково відновлена та існує завдяки енергії уламків з архонтів.",
+      "name": "Лотос-ейдолон",
+      "code": "uk"
+    }
+  ]
+}

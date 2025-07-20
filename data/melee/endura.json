@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/ThreeLeaf/ThreeLeaf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/endura-4831c42fc3.png",
+  "name": "Endura",
+  "description": "The delicate form of this Tenno rapier conceals its ferocious and resilient force.",
+  "languages": [
+    {
+      "description": "Die delikate Form dieses Tenno Rapiers verbirgt dessen grausame und robuste Kraft.",
+      "name": "Endura",
+      "code": "de"
+    },
+    {
+      "description": "L'apparence délicate de cette Rapière Tenno dissimule sa férocité et sa résistance.",
+      "name": "Endura",
+      "code": "fr"
+    },
+    {
+      "description": "La forma delicata di questo stocco Tenno nasconde la sua forza feroce e resistente.",
+      "name": "Endura",
+      "code": "it"
+    },
+    {
+      "description": "이 텐노 레이피어의 섬세한 모습 뒤에는 맹렬하고 탄력 있는 힘이 숨어있습니다.",
+      "name": "엔듀라",
+      "code": "ko"
+    },
+    {
+      "description": "La forma delicada de este estoque tenno oculta su potencia resistente y feroz.",
+      "name": "Endura",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ENDURA）这把 Tenno 细剑的精巧外形让它的凶猛而富有弹性的力量藏而不露。",
+      "name": "三叶坚韧",
+      "code": "zh"
+    },
+    {
+      "description": "Эта изящная рапира Тэнно скрывает в себе свирепую и неудержимую мощь.",
+      "name": "Эндура",
+      "code": "ru"
+    },
+    {
+      "description": "このテンノのレイピアの優美な形には獰猛さと尽きぬ力が秘められている。",
+      "name": "Endura",
+      "code": "ja"
+    },
+    {
+      "description": "Delikatna budowa tego rapiera Tenno, maskuje jego sprężystość i drapieżną siłę.",
+      "name": "Endura",
+      "code": "pl"
+    },
+    {
+      "description": "A forma delicada desta rapieira Tenno esconde sua força e ferocidade.",
+      "name": "Endura",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ENDURA）這把 Tenno 細劍的精巧外形讓它的兇猛和彈性的力量藏而不露。",
+      "name": "三葉堅韌",
+      "code": "tc"
+    },
+    {
+      "description": "แม้กระบี่ Tenno เล่มนี้จะมีรูปร่างที่บอบบางแต่กลับซ่อนพลังที่ยืดหยุ่นและโหดร้ายเอาไว้",
+      "name": "Endura",
+      "code": "th"
+    },
+    {
+      "description": "Bu Tenno meç'inin zerafeti, yavuz ve çetin gücünü arkasında gizler.",
+      "name": "Endura",
+      "code": "tr"
+    },
+    {
+      "description": "Попри витончену форму, ця рапіра тенно здатна завдавати ударів лютої сили.",
+      "name": "Ендура",
+      "code": "uk"
+    }
+  ]
+}

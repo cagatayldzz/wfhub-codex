@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2018PlanterC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flower-decanter-db69c17552.png",
+  "name": "Flower Decanter",
+  "description": "Winning entry dream dojo decoration created by PhaZone at TennoCon 2018. Selected by the Design Council.",
+  "languages": [
+    {
+      "description": "Sieger-Beitrag der Traum-Dojo-Dekoration, erstellt von PhaZone bei der TennoCon 2018. Gewählt vom Design Council.",
+      "name": "Blumenkaraffe",
+      "code": "de"
+    },
+    {
+      "description": "Décoration de Dojo gagnante créée par PhaZone lors de la TennoCon 2018. Choisie par l'Assemblée des Concepteurs.",
+      "name": "Décanteur Floral",
+      "code": "fr"
+    },
+    {
+      "description": "La decorazione vincitrice per il dojo da sogno al TennoCon 2018 creata da PhaZone. Selezionata dal Design Council.",
+      "name": "Decanter per Fiori",
+      "code": "it"
+    },
+    {
+      "description": "PhaZone이 만든 텐노콘 2018 꿈의 도장 장식물 입상작입니다. 디자인 카운슬에 의해 선정되었습니다.",
+      "name": "꽃병 디캔터",
+      "code": "ko"
+    },
+    {
+      "description": "Concepto ganador de la decoración de dojo de ensueño creado por PhaZone en TennoCon 2018. Seleccionado por el Consejo de Diseño.",
+      "name": "Garrafa de flores",
+      "code": "es"
+    },
+    {
+      "description": "PhaZone 于 TennoCon 2018 创作的梦想道场装饰比赛获奖作品。是由设计议会所选出的。",
+      "name": "花之醒酒",
+      "code": "zh"
+    },
+    {
+      "description": "Работа, созданная PhaZone, и избранная Советом Дизайна в качестве победителя конкурса украшений на TennoCon-2018.",
+      "name": "Цветочный графин",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2018で開催された「Dream Dojo Decoration」コンテストの入賞作品。PhaZoneにによって製作された。デザイン審議会による選出。",
+      "name": "フラワー デカンター",
+      "code": "ja"
+    },
+    {
+      "description": "Zwycięska wymarzona dekoracja stworzona przez PhaZone na TennoCon 2018. Wybrana przez Radę Projektancką.",
+      "name": "Karafka Kwiatów",
+      "code": "pl"
+    },
+    {
+      "description": "Item vencedor do concurso de decorações para o Dojo, criado por PhaZone na TennoCon 2018. Escolhido pelo Conselho de Design.",
+      "name": "Decantador de Flores",
+      "code": "pt"
+    },
+    {
+      "description": "PhaZone 於 TennoCon 2018 創作的夢想道場裝飾比賽獲獎作品。是由設計議會所選出的。",
+      "name": "花之醒酒",
+      "code": "tc"
+    },
+    {
+      "description": "ผลงานการตกแต่ง Dojo ในฝันที่ชนะการประกวด สร้างสรรค์โดย PhaZone ที่งาน TennoCon 2018 คัดเลือกโดยสภาออกแบบ",
+      "name": "แจกันดอกไม้",
+      "code": "th"
+    },
+    {
+      "description": "Kazanan dojo dekorasyonu, PhaZone tarafından, TennoCon 2018'de tasarlandı. Tasarım Konseyi tarafından seçildi.",
+      "name": "Çiçek Fanusu",
+      "code": "tr"
+    },
+    {
+      "description": "Це оздоблення, створене PhaZone, вибране Радою Дизайну переможцем на конкурсі оздоблень під час Теннокону 2018 року.",
+      "name": "Скляний горщик для квітки",
+      "code": "uk"
+    }
+  ]
+}

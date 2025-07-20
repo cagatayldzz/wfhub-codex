@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Eidolon/InfestedEventIngredient",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eidolon-phylaxis-4b0495a995.png",
+  "name": "Eidolon Phylaxis",
+  "description": "Sentient immunity to the Infestation is exploited with this refined phylaxis. Formulated specifically to combat Infested boils in Plague Star bounties.\n\nLocation: Nakak's Operational Supply in Cetus",
+  "languages": [
+    {
+      "description": "Mit dieser raffinierten Phylaxis wird die Sentient Immunität gegen den Befall genutzt. Speziell zur Bekämpfung Befallener Geschwüre in Plagenstern Aufträgen entwickelt.\n\nQuelle: Nakaks Operative Vorräte in Cetus",
+      "name": "Eidolon Phylaxis",
+      "code": "de"
+    },
+    {
+      "description": "L'immunité des Sentients à l'Infestation est exploitée avec ce Phylaxis raffiné. Formulé spécifiquement pour combattre les Furoncles Infestés dans les Mises à Prix de Fléau Céleste.\n\nLieu: Offres de Nakak à Cetus",
+      "name": "Phylaxis Eidolon",
+      "code": "fr"
+    },
+    {
+      "description": "L'immunità Sentient agli Infested viene sfruttata con questo antidoto raffinato. Formulato specificatamente per combattere le bolle Infested nelle taglie Plague Star.\n\nPosizione: Rifornimenti Operazione da Nakak su Cetus",
+      "name": "Antidoto Eidolon",
+      "code": "it"
+    },
+    {
+      "description": "센티언트가 가진 감염체에 대한 면역력을 이용한 정제된 혈청입니다. 플레이그 스타 의뢰에 나오는 인페스티드 종기와 맞서기 위해 특별히 배합되었습니다.\n\n획득 가능 장소: 시터스 내 나칵의 작전 물자 공급",
+      "name": "아이돌론 파일락시스",
+      "code": "ko"
+    },
+    {
+      "description": "La inmunidad de los conscientes a la infestación es explotada por esta filaxis refinada. Formulada específicamente para combatir los forúnculos infestados en los contratos de Estrella Infestada.\n\nUbicación: Suministros operacionales de Nakak en Cetus",
+      "name": "Filaxis Eidolon",
+      "code": "es"
+    },
+    {
+      "description": "利用 Sentient 对感染者的免疫力所制作的精制抗体。专为对付《瘟疫之星》赏金任务中的侵染疖瘤而配制。\n\n获取地点：希图斯上娜卡处的行动补给",
+      "name": "夜灵抗体",
+      "code": "zh"
+    },
+    {
+      "description": "Этот очищенный филаксис позволяет извлечь выгоду из иммунитета Владеющих разумом к заражению. Формула составлена специально для противостояния фурункулам заражённых.\n\nМестонахождение: Пункт оперативного снабжения Накак в Цетусе.",
+      "name": "Эйдолонский Филаксис",
+      "code": "ru"
+    },
+    {
+      "description": "この精錬された感染防御体にはセンティエントの感染への耐性が利用されている。「疫病の星」作戦で感染腫瘍と交戦するために編み出された。\n\n場所：シータスのNakak（作戦補給班）から入手",
+      "name": "エイドロン感染防御体",
+      "code": "ja"
+    },
+    {
+      "description": "Odporność świadomych na Plagę jest wykorzystywana przez tę wyrafinowaną odmianę Antygenów. Skonstruowane specjalnie do zwalczania Czyraków Plagi podczas zleceń Plagi z Gwiazd.\n\nLokacja: Zasoby Operacyjne Nakak w Cetus",
+      "name": "Antygen Eidolona",
+      "code": "pl"
+    },
+    {
+      "description": "A imunidade Sentient contra a Infestação é explorada com esta Filaxia refinada. Desenvolvida especificamente para combater alvos Infestados em Contratos da Praga Estelar.\n\nLocalização: Abastecimento Operacional da Nakak, em Cetus",
+      "name": "Filaxia de Eidolon",
+      "code": "pt"
+    },
+    {
+      "description": "利用 Sentient 對感染者的免疫力製作出的精製抗體。它的配方是專門在《瘟疫之星》賞金任務中用於對抗感染癤瘤。\n\n地點：希圖斯裡的 Nakak 行動補給處",
+      "name": "夜靈抗體",
+      "code": "tc"
+    },
+    {
+      "description": "ภูมิคุ้มกันการติดเชื้อของ Sentient ถูกนำมาทำเป็นฟิแลกซิสกลั่น ซึ่งเป็นสูตรเฉพาะเพื่อใช้ต่อสู้กับตุ่มหนองที่ติดเชื้อในภารกิจ Plague Star\n\nแหล่งที่พบ: Operational Supply ของ Nakak ในซีตัส",
+      "name": "ไอโดลอนฟิแลกซิส",
+      "code": "th"
+    },
+    {
+      "description": "Sentient'lerin Infested'lara karşı olan bağışıklığı bu rafine edilmiş phylaxis ile nötralize edildi. Özel olarak Infested meteorları ile savaşmak için tasarlandı.\n\nKonum: Cetus'taki Nakak'ın Operasyonel İkmal Noktası",
+      "name": "Eidolon Phylaxis",
+      "code": "tr"
+    },
+    {
+      "description": "Цей филаксис дозволяє використовувати невразливість свідомих до Зараження. Формулу виведено для протистояння наривам Зараження під час виконання контрактів «Морова зірка».\n\nМожна знайти в оперативному постачанні Накак у Цетусі.",
+      "name": "Ейдолоновий филаксис",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanAlt02Helmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-canopic-helmet-d2f216c577.png",
+  "name": "Inaros Canopic Helmet",
+  "description": "An alternate helmet for Inaros.",
+  "languages": [
+    {
+      "description": "Ein alternativer Helm für Inaros.",
+      "name": "Inaros-Helm: Canopic",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif pour Inaros.",
+      "name": "Casque Inaros Canopic",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Inaros.",
+      "name": "Elmo Inaros Canopic",
+      "code": "it"
+    },
+    {
+      "description": "이나로스 워프레임을 위한 대체 헬멧입니다.",
+      "name": "이나로스 캐노픽 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo para Inaros.",
+      "name": "Casco Canopic de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 的替换头盔。",
+      "name": "Inaros 卡诺匹斯头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Инароса.",
+      "name": "Шлем Инароса: Канопик",
+      "code": "ru"
+    },
+    {
+      "description": "Inaros用ヘルメット。",
+      "name": "Inaros Canopic ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Alternatywny hełm dla Inarosa.",
+      "name": "Inaros: Hełm Canopic",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo para o Inaros.",
+      "name": "Inaros: Capacete Canopic",
+      "code": "pt"
+    },
+    {
+      "description": "Inaros 的替換頭盔。",
+      "name": "Inaros 卡諾匹斯頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองสำหรับ Inaros",
+      "name": "หมวกเหล็ก Inaros Canopic",
+      "code": "th"
+    },
+    {
+      "description": "Inaros için alternatif miğfer",
+      "name": "Inaros Canopic Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом для ворфрейма Інара.",
+      "name": "Шолом «Канопік» для Інара",
+      "code": "uk"
+    }
+  ]
+}

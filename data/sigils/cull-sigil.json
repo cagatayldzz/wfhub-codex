@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cull-sigil-9768b0c070.png",
+  "name": "Cull Sigil",
+  "description": "A sigil representing prestige gained with the Red Veil.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim Red Veil repräsentiert.",
+      "name": "Siegel: Ausschuss",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Voile Rouge.",
+      "name": "Sceau de Sélection",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Red Veil.",
+      "name": "Sigillo Cull",
+      "code": "it"
+    },
+    {
+      "description": "레드 베일로부터 받는 경외를 대변하는 시질입니다.",
+      "name": "컬 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Velo Rojo.",
+      "name": "Sello de la Ofrenda",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了血色面纱的威望。",
+      "name": "拣选纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Красных Вуалей.",
+      "name": "Сигил: Брак",
+      "code": "ru"
+    },
+    {
+      "description": "レッド・ベールから得た声望を表すシジル。",
+      "name": "Cull シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Czerwonego Woalu.",
+      "name": "Znak Czystki",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto ao Véu Rubro.",
+      "name": "Brasão: Eliminador",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了血色面紗的威望。",
+      "name": "揀選紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Red Veil",
+      "name": "เครื่องหมาย: Cull",
+      "code": "th"
+    },
+    {
+      "description": "Red Veil prestijini sembolize eden bir mühür",
+      "name": "Cull Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Багряна Вуаль».",
+      "name": "Сиґіл «Вигнанець»",
+      "code": "uk"
+    }
+  ]
+}

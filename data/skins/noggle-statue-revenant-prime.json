@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/RevenantPrimeBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---revenant-prime-affab86597.png",
+  "name": "Noggle Statue - Revenant Prime",
+  "description": "A small wobbly statue of Revenant Prime.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Revenant Prime.",
+      "name": "Noggle-Statue: Revenant Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Revenant Prime.",
+      "name": "Statuette Noggle - Revenant Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Revenant Prime con la testa tremolante.",
+      "name": "Statuetta Noggle - Revenant Prime",
+      "code": "it"
+    },
+    {
+      "description": "레버넌트 프라임의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 레버넌트 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Revenant Prime.",
+      "name": "Estatua Tambaleante - Revenant Prime",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Revenant Prime 摇头娃娃。",
+      "name": "Revenant Prime 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Ревенанта Прайм.",
+      "name": "Фигурка: Ревенант Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Revenant Primeのボブルヘッド人形。",
+      "name": "Revenant Prime ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Revenant Prime.",
+      "name": "Figurka Noggle — Revenant Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Revenant Prime.",
+      "name": "Estatueta: Revenant Prime",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Revenant Prime 的搖頭娃娃。",
+      "name": "Revenant Prime 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Revenant Prime ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Revenant Prime",
+      "code": "th"
+    },
+    {
+      "description": "Revenant Prime küçük oynar figür.",
+      "name": "Noggle Heykeli - Revenant Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Ревенанта-прайм.",
+      "name": "Ноґл «Ревенант-прайм»",
+      "code": "uk"
+    }
+  ]
+}

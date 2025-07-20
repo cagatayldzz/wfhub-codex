@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/VoltBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---volt-5de06662c1.png",
+  "name": "Noggle Statue - Volt",
+  "description": "A small wobbly statue of Volt.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Volt.",
+      "name": "Noggle-Statue: Volt",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Volt.",
+      "name": "Statuette Noggle - Volt",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Volt con la testa tremolante.",
+      "name": "Statuetta Noggle - Volt",
+      "code": "it"
+    },
+    {
+      "description": "볼트의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 볼트",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Volt.",
+      "name": "Estatua Tambaleante - Volt",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Volt 摇头娃娃。",
+      "name": "Volt 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Вольта.",
+      "name": "Фигурка: Вольт",
+      "code": "ru"
+    },
+    {
+      "description": "Voltのボブルヘッド人形。",
+      "name": "Volt ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Volta.",
+      "name": "Figurka Noggle — Volt",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Volt.",
+      "name": "Estatueta: Volt",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Volt 的搖頭娃娃。",
+      "name": "Volt 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Volt ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Volt",
+      "code": "th"
+    },
+    {
+      "description": "Volt küçük oynar figür.",
+      "name": "Noggle Heykeli - Volt",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Вольта.",
+      "name": "Ноґл «Вольт»",
+      "code": "uk"
+    }
+  ]
+}

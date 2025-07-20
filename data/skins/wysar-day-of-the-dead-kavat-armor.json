@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorHalloweenA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wysar-day-of-the-dead-kavat-armor-de4aa42736.png",
+  "name": "Wysar Day Of The Dead Kavat Armor",
+  "description": "Morbidly festive armor fitted for a Kavat.",
+  "languages": [
+    {
+      "description": "Eine festliche und morbide Rüstung für Kavats.",
+      "name": "Kavat-Rüstung: Wysar Tag der Toten",
+      "code": "de"
+    },
+    {
+      "description": "Armure morbidement festive taillée pour un Kavat.",
+      "name": "Armure de Kavat Wysar Jour des Morts",
+      "code": "fr"
+    },
+    {
+      "description": "Una macabra skin festiva adatta a un Kavat.",
+      "name": "Armatura Kavat Wysar Giorno dei Morti",
+      "code": "it"
+    },
+    {
+      "description": "카밧을 위해 만들어진 으스스한 느낌의 기념 아머입니다.",
+      "name": "죽은 자의 날 위자 카밧 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una armadura mórbida festiva ajustada para un kavat.",
+      "name": "Armadura Wysar de kavat del Día de los Muertos",
+      "code": "es"
+    },
+    {
+      "description": "令人毛骨悚然的库娃节庆装饰护甲。",
+      "name": "维萨亡灵节库娃护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Мрачно-праздничная броня для каватов.",
+      "name": "Броня кавата: Вайсар - День мёртвых",
+      "code": "ru"
+    },
+    {
+      "description": "キャバットの陰気なお祭り装飾用アーマー。",
+      "name": "Wysar デイ・オブ・ザ・デッド キャバットアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Makabrycznie świąteczna zbroja dla Kavata.",
+      "name": "Zbroja Kavata: Wysar Dnia Umarłych",
+      "code": "pl"
+    },
+    {
+      "description": "Armadura com um toque mórbido apropriada para um Kavat.",
+      "name": "Armadura de Kavat: Wysar do Dia dos Mortos",
+      "code": "pt"
+    },
+    {
+      "description": "令人毛骨悚然的庫娃節慶裝飾護甲。",
+      "name": "面甲亡靈節庫娃護甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะที่เหมาะกับ Kavat เพื่อใช้ฉลองเทศกาลอันน่าสะพรึงกลัว",
+      "name": "เกราะ Kavat: วันแห่งความตาย Wysar",
+      "code": "th"
+    },
+    {
+      "description": "Kavat'a uygun hastalıklı festival zırhı",
+      "name": "Wysar Day of the Dead Kavat Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Моторошно-святкові обладунки для кавата.",
+      "name": "Обладунки «Визар „День мертвих”» для кавата",
+      "code": "uk"
+    }
+  ]
+}

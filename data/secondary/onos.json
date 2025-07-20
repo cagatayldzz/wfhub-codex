@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/onos-8f623016f7.png",
+  "name": "Onos",
+  "description": "Albrecht's Void experiments revealed the true destructive potential of this weapon. In Incarnon form, draw in ambient power to deal steadily increased damage to enemies. At full power, release a blast of <DT_FIRE_COLOR>Heat.",
+  "languages": [
+    {
+      "description": "Albrechts Void-Experimente enthüllten das wahre Zerstörungspotenzial dieser Waffe. In der Incarnon-Form wird Umgebungsenergie angezogen, um Feinden steigenden Schaden zuzufügen. Bei voller Leistung wird ein Strahl von <DT_FIRE_COLOR>Hitze abgegeben.",
+      "name": "Onos",
+      "code": "de"
+    },
+    {
+      "description": "Les expériences d'Albrecht dans le Néant ont révélé le véritable potentiel destructeur de cette arme. Sous forme Incarnon, concentrez la puissance ambiante pour infliger des Dégâts constamment accrus aux ennemis. À pleine puissance, libère une explosion de <DT_FIRE_COLOR>Feu.",
+      "name": "Onos",
+      "code": "fr"
+    },
+    {
+      "description": "Gli esperimenti sul Void di Albrecht hanno rivelato il vero potenziale distruttivo di quest'arma. Nella forma Incarnon, concentra il potere ambientale per infliggere danni sempre maggiori ai nemici. Alla massima potenza, sprigiona un'esplosione di <DT_FIRE_COLOR>Fuoco.",
+      "name": "Onos",
+      "code": "it"
+    },
+    {
+      "description": "알브레히트의 보이드 실험을 통해 이 무기의 진정한 파괴력이 드러났습니다. 인카논 형태에서는 주변의 힘을 끌어당겨 적에게 주는 피해가 꾸준히 증가합니다. 최대 충전 시 <DT_FIRE_COLOR>화염 폭발을 방출할 수 있습니다.",
+      "name": "오노스",
+      "code": "ko"
+    },
+    {
+      "description": "Los experimentos del Vacío de Albrecht revelaron el verdadero potencial destructivo de esta arma. En su forma Incarnon, aprovecha el poder del ambiente para infligir un daño cada vez mayor a los enemigos. A máxima potencia, libera una ráfaga de <DT_FIRE_COLOR>calor.",
+      "name": "Onos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ONOS）阿尔布雷希特的虚空实验揭示了这把武器的真正破坏潜力。在灵化形态下，吸收周围的能量对敌人造成逐渐增加的伤害。当能量充满时，释放一股 <DT_FIRE_COLOR>火焰爆炸。",
+      "name": "赘骨",
+      "code": "zh"
+    },
+    {
+      "description": "Эксперименты Альбрехта в Бездне раскрыли истинный разрушительный потенциал этого оружия. Инкарнонская форма позволяет использовать силы окружающей среды, чтобы наносить врагам постоянно увеличивающийся урон. На полной мощности оружие выпускает заряд, наносящий урон <DT_FIRE_COLOR>огнём.",
+      "name": "Онос",
+      "code": "ru"
+    },
+    {
+      "description": "AlbrechtのVoid研究により、この武器の真の破壊性が明らかにされた。インカーノン・フォーム時、周囲の力を吸収し敵に与えるダメージを徐々に上げる。フルパワー時、<DT_FIRE_COLOR>火炎の爆破を解放する。",
+      "name": "Onos",
+      "code": "ja"
+    },
+    {
+      "description": "Eksperymenty Albrechta z Pustką ujawniły prawdziwy niszczycielski potencjał tej broni. Forma Inkarnon pozwala na czerpanie energii z otoczenia, co zwiększa jej obrażenia. Kiedy zostanie w pełni naładowana, wybucha, zadając <DT_FIRE_COLOR> Obr. od Ognia.",
+      "name": "Onos",
+      "code": "pl"
+    },
+    {
+      "description": "Os experimentos de Albrecht, no Void, revelaram o verdadeiro potencial destrutivo desta arma. Em sua forma Encarnada, absorverá o poder do ambiente para causar danos gradativos aos inimigos. Na potência máxima, causará uma explosão <DT_FIRE_COLOR>Ígnea.",
+      "name": "Onos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ONOS）阿爾布雷希特的虛空實驗揭開了這種武器真正的破壞力。在應感形態下，吸收周圍的能量來對敵人造成穩定增加的傷害，達到最高功率時釋放一陣 <DT_FIRE_COLOR> 火焰爆裂 。",
+      "name": "荷骨",
+      "code": "tc"
+    },
+    {
+      "description": "การทดลองเกี่ยวกับวอยด์ของ Albrecht เผยให้เห็นถึงศักยภาพในการทำลายล้างที่แท้จริงของอาวุธประเภทนี้ หากอาวุธอยู่ในรูป Incarnon Form จะดึงพลังงานที่อยู่ล้อมรอบเข้ามาเพื่อสร้างความเสียหายให้กับศัตรูเพิ่มขึ้นอย่างต่อเนื่อง และเมื่อพลังงานเต็ม จะปล่อยระเบิด <DT_FIRE_COLOR>ไฟออกมา",
+      "name": "Onos",
+      "code": "th"
+    },
+    {
+      "description": "Albrecht'in Void deneyleri bu silahın gerçek yıkıcı potansiyelini ortaya çıkardı. Incarnon formunda çevrenin gücünü emer ve düşmanlara verdiği hasar giderek artar. Tam güce ulaştığında <DT_FIRE_COLOR>Ateş patlamasına neden olur.",
+      "name": "Onos",
+      "code": "tr"
+    },
+    {
+      "description": "Експерименти Альбрехта з Порожнечею виявили істинний руйнівний потенціал цієї зброї. В інкарнонській формі притягуйте міць з оточення, щоб завдавати поступово збільшуваної шкоди ворогам. За повної потужності зброя випустить <DT_FIRE_COLOR>термічний заряд.",
+      "name": "Оноз",
+      "code": "uk"
+    }
+  ]
+}

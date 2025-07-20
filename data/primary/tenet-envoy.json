@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpBriefcaseLauncher/CrpBriefcaseLauncher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-envoy-ac79f3d3e2.png",
+  "name": "Tenet Envoy",
+  "description": "This discreet rocket launcher is equally at home in a board meeting or on a casual outing. Aimed rockets are wire-guided for greater accuracy, but travel more slowly. The patented Granum Attaché System reloads the weapon when holstered.",
+  "languages": [
+    {
+      "description": "Dieser dezente Raketenwerfer ist sowohl in einer Vorstandssitzung als auch auf einem gemütlichen Ausflug zu Hause. Gezielte Raketen sind für eine höhere Genauigkeit drahtgeführt, aber dafür langsamer. Das patentierte Granum Attaché-System lädt die Waffe im Holster nach.",
+      "name": "Tenet Envoy",
+      "code": "de"
+    },
+    {
+      "description": "Ce lance-roquettes discret passe aussi bien dans une réunion de direction que lors d'une sortie décontractée. Les roquettes visées sont filoguidées pour une plus grande précision, mais se déplacent plus lentement. Le système breveté 'Attaché Granum' recharge l'arme lorsqu'elle est dans son étui.",
+      "name": "Envoi - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "Questo discreto lanciarazzi funziona bene sia in una riunione del consiglio di amministrazione che in una gita informale. I razzi sono filoguidati per una maggiore precisione, ma viaggiano più lentamente. Il Sistema brevettato Granum Attaché ricarica l'arma quando viene riposta nella fondina.",
+      "name": "Tenet Envoy",
+      "code": "it"
+    },
+    {
+      "description": "신중하게 작동하는 이 로켓 런처는 이사회 회의 때나 평상시 외출 때나 마찬가지로 얌전히 가방 안에 수납되어 있습니다. 정조준으로 발사되는 로켓들은 와이어로 유도되어 더욱 높은 정확성을 선보이나, 평상시보다 느리게 날아갑니다. 전매특허의 그라넘 서류함 시스템을 통해 수납 시 자동으로 재장전됩니다.",
+      "name": "테넷 엔보이",
+      "code": "ko"
+    },
+    {
+      "description": "Este discreto lanzacohetes se siente como en casa tanto en una reunión de la junta como en una salida informal. Los cohetes dirigidos se guían por cables para una mayor precisión, pero viajan más lentamente. El sistema patentado Attaché Granum recarga el arma cuando está enfundada.",
+      "name": "Envoy Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET ENVOY）这款朴素的火箭发射器在董事会会议或休闲郊游时同样适用。瞄准发射的火箭是线导的，精确度更高，但飞行速度更慢。配备了获得专利批准的格拉努公文包系统，收起时自动装填。",
+      "name": "信条·典客",
+      "code": "zh"
+    },
+    {
+      "description": "Эта малозаметная ракетная установка подойдёт как для заседания правления, так и для неформальной встречи. Ракеты управляются по проводам для повышения точности, но летят медленнее. Запатентованная система Грэнума «Дипломат» перезаряжает оружие, когда оно находится в кобуре.",
+      "name": "Посланник Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "収納型ロケットランチャーで戦場・会議問わず威厳を見せよう。エイムする事で射撃精度が高まるがロケットの速度が減速する。Granumアタッシュシステムにより収納すると自動でリロードされる。",
+      "name": "Tenet Envoy",
+      "code": "ja"
+    },
+    {
+      "description": "Ta dyskretna wyrzutnia rakiet sprawdzi się zarówno na spotkaniu zarządu, jak i nieformalnym wyjeździe. Rakiety naprowadzane są przewodowo dla zwiększonej celności, ale przemieszczają się wolniej. Opatentowany System Dyplomatki Granuma przeładowuje broń, kiedy jest ona schowana.",
+      "name": "Envoy Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "Este discreto lança-foguetes é perfeito para todas as ocasiões, seja em uma reunião de diretoria ou numa volta qualquer pelo bairro. Seus foguetes direcionados são guiados por um fio para aumentar sua precisão, mas reduzem a velocidade do projétil. Por meio do patenteado 'Sistema Adido de Granum', a arma é automaticamente recarregada quando colocada no coldre.",
+      "name": "Envoy Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET ENVOY）這個周密的火箭發射器不論是在董事會議或是休閒郊遊時都同樣適用。瞄準發射的火箭由線導引以獲得更高精準度，不過飛得更慢。收納時，專利保護的 Granum 公事包系統會重新裝填武器。",
+      "name": "教條 使節",
+      "code": "tc"
+    },
+    {
+      "description": "สามารถใช้เครื่องยิงจรวดที่ทำงานอย่างระวังเครื่องนี้ได้ทั้งตอนที่อยู่ในบ้านขณะประชุมคณะกรรมการหรือพกพาไปด้วยขณะออกนอกบ้านอย่างไม่เป็นทางการ การยิงจรวดแบบเล็งเป้าจะช่วยนำทางเพื่อให้เกิดความแม่นยำมากขึ้นแต่จะทำให้เคลื่อนที่ช้าลง มีระบบ Granum Attaché ที่ได้รับการจดสิทธิบัตร ทำให้รีโหลดอาวุธเมื่ออยู่ในซองได้",
+      "name": "Tenet Envoy",
+      "code": "th"
+    },
+    {
+      "description": "Bu sade roketatar, hem bir yönetim kurulu toplantısı hem de sıradan bir gezi için kendini evinde hissettiriyor. Hedefe kilitlenen roketler, daha fazla hassasiyet için kablo tarafından güdümlüdür, ancak daha yavaş hareket eder. Patentli Granum Attaché Sistemi, kılıfına takıldığında silahı yeniden yükler.",
+      "name": "Tenet Envoy",
+      "code": "tr"
+    },
+    {
+      "description": "Непомітний гранатомет, який пасуватиме як для зустрічей із керівництвом, так і для неформальних посиденьок. Керовані ракети мають більшу влучність, але повільніші. Запатентована Ґранумом система «Дипломат» перезаряджає зброю, коли вона захована.",
+      "name": "Посланець-догмат",
+      "code": "uk"
+    }
+  ]
+}

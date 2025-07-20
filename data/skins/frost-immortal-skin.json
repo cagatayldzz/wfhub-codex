@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostAlternateSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-immortal-skin-5318a83db7.png",
+  "name": "Frost Immortal Skin",
+  "description": "The Immortal skin for the Frost Warframe.",
+  "languages": [
+    {
+      "description": "Der Unsterblich-Skin für den Frost Warframe.",
+      "name": "Frost-Skin: Unsterblich",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect Immortel pour la Warframe Frost.",
+      "name": "Aspect Frost Immortel",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Immortal per il Warframe Frost.",
+      "name": "Skin Frost Immortal",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 워프레임을 위한 이모탈 스킨입니다.",
+      "name": "프로스트 이모탈 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño inmortal para el warframe Frost.",
+      "name": "Diseño Inmortal de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 战甲的的不朽外观。",
+      "name": "Frost 不朽外观",
+      "code": "zh"
+    },
+    {
+      "description": "Скин «Бессмертный» для Фроста.",
+      "name": "Скин Фроста: Бессмертный",
+      "code": "ru"
+    },
+    {
+      "description": "Frost用のImmortal スキン。",
+      "name": "Frost Immortal スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka Immortal dla Warframe'a Frost.",
+      "name": "Frost: Skórka Immortal",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin Imortal para o Warframe Frost.",
+      "name": "Frost: Skin Imortal",
+      "code": "pt"
+    },
+    {
+      "description": "Frost Warframe 的不朽外觀。",
+      "name": "Frost 不朽外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินอมตะสำหรับ Frost Warframe",
+      "name": "สกิน Frost Immortal",
+      "code": "th"
+    },
+    {
+      "description": "Frost Warframe'i için Ölümsüzlük Skin'i",
+      "name": "Frost Ölümsüzlük Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд «Безсмертя» для ворфрейма Фроста.",
+      "name": "Вигляд «Безсмертя» для Фроста",
+      "code": "uk"
+    }
+  ]
+}

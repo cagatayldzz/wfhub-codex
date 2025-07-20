@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Dagger/Dagger",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heat-dagger-8c95ffceea.png",
+  "name": "Heat Dagger",
+  "description": "This short blade weapon has limited range but comes out fast and can inflict fire damage.",
+  "languages": [
+    {
+      "description": "Diese kurze Klinge hat zwar nur eine geringe Reichweite, schlägt aber sehr schnell zu und verursacht Feuerschaden.",
+      "name": "Hitzedolch",
+      "code": "de"
+    },
+    {
+      "description": "Cette lame courte possède une Portée limitée, mais peut être dégainée rapidement et infliger des Dégâts de Feu.",
+      "name": "Dague de Chaleur",
+      "code": "fr"
+    },
+    {
+      "description": "Quest'arma a lama corta ha una portata limitata, ma viene estratta rapidamente e può infliggere danno da Fuoco.",
+      "name": "Heat Dagger",
+      "code": "it"
+    },
+    {
+      "description": "이 단검은 제한적인 사거리를 지녔지만 재빠르게 휘두를 수 있을 뿐만 아니라 화염 피해를 입힐 수도 있습니다.",
+      "name": "히트 대거",
+      "code": "ko"
+    },
+    {
+      "description": "Esta hoja corta tiene un alcance limitado pero ataca rápido y puede infligir daño de fuego.",
+      "name": "Daga de calor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：HEAT DAGGER）这把短剑攻击范围有限，但挥动速度快，同时可以造成火焰伤害。",
+      "name": "烈焰匕首",
+      "code": "zh"
+    },
+    {
+      "description": "Этот кинжал с коротким лезвием обладает небольшой дальностью, но зато имеет высокую скорость атаки и наносит огненный урон.",
+      "name": "Пылающий кинжал",
+      "code": "ru"
+    },
+    {
+      "description": "超加熱された刀身をもつ短剣。攻撃は範囲こそ狭いが、素早い攻撃を繰り出す。",
+      "name": "Heat Dagger",
+      "code": "ja"
+    },
+    {
+      "description": "To krótkie ostrze ma ograniczony zasięg, ale szybko się go dobywa. Może zadać obrażenia od ognia.",
+      "name": "Sztylet Żaru",
+      "code": "pl"
+    },
+    {
+      "description": "Essa arma de lâmina pequena tem um alcance limitado porém um ataque rápido que pode causar dano de fogo.",
+      "name": "Adaga Ígnea",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：HEAT DAGGER）這把短劍攻擊範圍有限，但揮動速度快，同時可以造成火焰傷害。",
+      "name": "烈焰匕首",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมีดสั้นเล่มนี้มีระยะโจมตีที่จำกัดแต่ดึงออกมาใช้ได้เร็วมาก และสามารถสร้างความเสียหายจากไฟได้",
+      "name": "Heat Dagger",
+      "code": "th"
+    },
+    {
+      "description": "Bu kesici silahın menzili kısıtlıdır ancak kendini hızla gösterir ve yakıcı hasar verebilir.",
+      "name": "Heat Dagger",
+      "code": "tr"
+    },
+    {
+      "description": "Кинджал із коротким клинком. Невелика дальність атаки компенсується швидкістю використання.",
+      "name": "Вогнекинджал",
+      "code": "uk"
+    }
+  ]
+}

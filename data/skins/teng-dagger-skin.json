@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeDaggerSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/teng-dagger-skin-c28c0ea2ed.png",
+  "name": "Teng Dagger Skin",
+  "description": "Doom in the sting of a serpent’s tooth.",
+  "languages": [
+    {
+      "description": "Ein Stich mit dem Schlangenzahn bringt das Verderben.",
+      "name": "Dolch-Skin: Teng",
+      "code": "de"
+    },
+    {
+      "description": "La piqûre de cette Dague en forme de dent de serpent vous condamnera instantanément.",
+      "name": "Aspect de Dague Teng",
+      "code": "fr"
+    },
+    {
+      "description": "La condanna a morte di un morso di serpente.",
+      "name": "Skin Pugnale Teng",
+      "code": "it"
+    },
+    {
+      "description": "독사의 송곳니가 꿰뚫는 순간, 기다리는 것은 파멸 뿐.",
+      "name": "텡 단검 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Condenación en la picadura del colmillo de una serpiente.",
+      "name": "Diseño Teng de Daga",
+      "code": "es"
+    },
+    {
+      "description": "大蛇之牙蕴含着毁灭。",
+      "name": "飞腾匕首外观",
+      "code": "zh"
+    },
+    {
+      "description": "Погибель таится в укусе змеи.",
+      "name": "Скин Кинжала: Тенг",
+      "code": "ru"
+    },
+    {
+      "description": "大蛇の牙がもたらす絶望。",
+      "name": "Teng ダガー スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Zagłada w ukąszeniu węża.",
+      "name": "Sztylet: Skórka Teng",
+      "code": "pl"
+    },
+    {
+      "description": "A catástrofe na mordida de uma serpente.",
+      "name": "Adaga: Skin Teng",
+      "code": "pt"
+    },
+    {
+      "description": "大蛇之牙蘊含著毀滅。",
+      "name": "匕首 飛騰外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ลงโทษด้วยการแทงของเขี้ยวพญานาค",
+      "name": "สกินกริช Teng",
+      "code": "th"
+    },
+    {
+      "description": "Yılan'ın dişinden gelen ısırıkta yaşamları sona erdir.",
+      "name": "Teng Hançer Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Смерть на кінчику зміїного ікла.",
+      "name": "Вигляд «Тен» для кинджала",
+      "code": "uk"
+    }
+  ]
+}

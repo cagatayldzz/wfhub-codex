@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTennoConH",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deimos-carnis-prex-8eaa588a82.png",
+  "name": "Deimos Carnis Prex",
+  "description": "Ferocious and ever-hungry predators of Deimos. Prex designed and illustrated by Kevin Glint!",
+  "languages": [
+    {
+      "description": "Bösartige und nimmersatte Jäger von Deimos. Als Prex designt und illustriert von Kevin Glint!",
+      "name": "Deimos Carnis Prex",
+      "code": "de"
+    },
+    {
+      "description": "Prédateurs féroces et toujours affamés de Deimos. Prex conçu et illustré par Kevin Glint!",
+      "name": "Prex Carnis Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Predatori di Deimos feroci e sempre affamati. Carta Prex ideata e illustrata da Kevin Glint!",
+      "name": "Prex: Deimos Carnis",
+      "code": "it"
+    },
+    {
+      "description": "항상 굶주린 듯 흉포한 성질을 지닌 데이모스의 포식자입니다. 프렉스의 디자인 및 삽화는 Kevin Glint님이 담당했습니다!",
+      "name": "데이모스 카르니스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Depredadores feroces e insaciables de Deimos. ¡Prex diseñada e ilustrada por Kevin Glint!",
+      "name": "Prex de Carnis Deimos",
+      "code": "es"
+    },
+    {
+      "description": "火卫二上凶猛且饥渴的掠食者。该 Prex 卡牌的构思和插图由 Kevin Glint 创作！",
+      "name": "火卫二肉碾虫 Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Свирепые и вечно голодные хищники Деймоса. Прекс разработан и проиллюстрирован Kevin Glint!",
+      "name": "Прекс: Карнис Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "猛烈で絶えず空腹なダイモスの捕食者。 プレックスは「Kevin Glint」氏によるデザインおよびイラストレーション。",
+      "name": "ダイモス カルニス プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Okrutne i wiecznie głodne drapieżniki Deimosa. Prex zaprojektowany i zilustrowany przez Kevin Glint!",
+      "name": "Prex: Carnis Deimos",
+      "code": "pl"
+    },
+    {
+      "description": "Os predadores ferozes e famintos de Deimos. Prex desenvolvida e ilustrada por Kevin Glint!",
+      "name": "Prex: Carnis de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "火衛二兇殘且飢腸轆轆的掠奪者。卡牌由 Kevin Glint 設計及繪製！",
+      "name": "卡牌 — 火衛二嗜肉者",
+      "code": "tc"
+    },
+    {
+      "description": "นักล่าที่ดุร้ายและหิวโหยในเดมอส ไพ่เพร็กซ์ที่ออกแบบและวาดภาพประกอบโดย Kevin Glint!",
+      "name": "ไพ่เพร็กซ์ Deimos Carnis",
+      "code": "th"
+    },
+    {
+      "description": "Gaddar ve her zaman aç olan Deimos yırtıcıları. Prex, Kevin Glint tarafından tasarlandı ve resmedildi!",
+      "name": "Deimos Carnis Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Люті й вічно голодні багатоногі хижаки Деймоса. Автор прекса: Кевін Ґлінт!",
+      "name": "Прекс деймоського карніса",
+      "code": "uk"
+    }
+  ]
+}

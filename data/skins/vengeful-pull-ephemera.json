@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaMagneticEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-pull-ephemera-91366d7c56.png",
+  "name": "Vengeful Pull Ephemera",
+  "description": "A magnetic ephemera seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein magnetisiertes Ephemera, von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächende Anziehung",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera magnétique récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Attraction Vengeresse",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera magnetica estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Pull",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은 자성의 이페메라입니다.",
+      "name": "벤지풀 풀 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero magnético adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Atracción vengativa",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的磁力幻纹。",
+      "name": "复仇吸引幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Магнитная эфемера изъята у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Рывок мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた磁気を帯びたエフェメラ。",
+      "name": "Vengeful Pull エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Magnetyczna Efemera skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwego Przyciągania",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera magnética obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Magnética",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的磁力幻紋。",
+      "name": "復仇磁力幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราแม่เหล็ก ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Pull",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş manyetik bir ephemera.",
+      "name": "Vengeful Pull Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Магнітна ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстиве притягнення»",
+      "code": "uk"
+    }
+  ]
+}

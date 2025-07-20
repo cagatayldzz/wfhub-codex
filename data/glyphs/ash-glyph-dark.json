@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ash-glyph---dark-3db38a90bb.png",
+  "name": "Ash Glyph - Dark",
+  "description": "A glyph depicting Ash on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ash vor einem dunkeln Hintergrund darstellt.",
+      "name": "Glyphe: Ash (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ash sur un fond sombre.",
+      "name": "Glyphe Ash - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ash su uno sfondo scuro.",
+      "name": "Glifo Ash - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 애쉬를 묘사한 글리프입니다.",
+      "name": "애쉬 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ash sobre un fondo oscuro.",
+      "name": "Glifo de Ash - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Ash 在黑暗背景下的浮印。",
+      "name": "Ash 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эша на тёмном фоне.",
+      "name": "Глиф: Эш - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたAsh のグリフ。",
+      "name": "Ash グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Ash na ciemnym tle.",
+      "name": "Glif Ash — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Ash em um fundo escuro.",
+      "name": "Glifo: Ash (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ash 在黑暗背景下的浮印。",
+      "name": "Ash 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ash บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Ash - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Ash koyu fonlu glif.",
+      "name": "Ash Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Еша на темному тлі.",
+      "name": "Темний гліф «Еш»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternLiquid",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arklut-fur-pattern-5f62ded1f1.png",
+  "name": "Arklut Fur Pattern",
+  "description": "A flowing fur pattern for your Kubrow.",
+  "languages": [
+    {
+      "description": "Ein fließendes Fellmuster für deinen Kubrow.",
+      "name": "Fellmuster: Arklut",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage gracieux pour votre Kubrow.",
+      "name": "Motif de Pelage Arklut",
+      "code": "fr"
+    },
+    {
+      "description": "Un pattern fluente per il pelo del tuo Kubrow.",
+      "name": "Pattern Pelo Arklut",
+      "code": "it"
+    },
+    {
+      "description": "당신의 쿠브로를 위한 흐르는 듯한 무늬가 있는 털 패턴입니다.",
+      "name": "아크루트 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de pelaje de flujo para tu kubrow.",
+      "name": "Patrón de pelaje Arklut",
+      "code": "es"
+    },
+    {
+      "description": "库狛的平滑的毛色花纹。",
+      "name": "奥克鲁特毛色花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Переливчатый шаблон меха для вашего кубрау.",
+      "name": "Шаблон меха кубрау: Арклут",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウの体毛を流線柄にする。",
+      "name": "Arklut ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Płynący wzór futra dla Twojego Kubrowa.",
+      "name": "Wzór Futra: Nexus Arklut",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pelagem sedosa para o seu Kubrow.",
+      "name": "Pelagem de Kubrow: Arklut",
+      "code": "pt"
+    },
+    {
+      "description": "庫狛的平滑的毛色花紋。",
+      "name": "奧克魯特毛色花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่เป็นลายเส้นรื่นไหลสำหรับ Kubrow ของคุณ",
+      "name": "ลายขน Arklut",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow'unuz için dalgalı kürk deseni.",
+      "name": "Arklut Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Мінливий вигляд хутра для вашого куброу.",
+      "name": "Вигляд хутра «Арклут»",
+      "code": "uk"
+    }
+  ]
+}

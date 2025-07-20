@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Solaris/AnimalTagKubrodonUncommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vallis-kubrodon-tag-433efa0a46.png",
+  "name": "Vallis Kubrodon Tag",
+  "description": "For saving a specimen of this subspecies.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Unterart gerettet.",
+      "name": "Marke: Tal-Kubrodon",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Kubrodon Vallis",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa sottospecie.",
+      "name": "Etichetta Kubrodonte Vallis",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "밸리스 쿠브로돈 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta subespecie.",
+      "name": "Marcador de Kubrodon de los Valles",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个亚种的一个样本。",
+      "name": "山谷库狛顿标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого подвида.",
+      "name": "Жетон: Долинный кубродон",
+      "code": "ru"
+    },
+    {
+      "description": "この変種を保護すると入手できるタグ。",
+      "name": "バリスクブロドン タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Kubrodona Dolinnego",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Kubrodon Vallis",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存這個亞種的樣本。",
+      "name": "山谷庫狛頓標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์ย่อยนี้",
+      "name": "แท็ก Vallis Kubrodon",
+      "code": "th"
+    },
+    {
+      "description": "Bu alt-türün bir örneğini kurtardığın için.",
+      "name": "Vallis Kubrodon Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього підвиду.",
+      "name": "Жетон долинного кубродона",
+      "code": "uk"
+    }
+  ]
+}

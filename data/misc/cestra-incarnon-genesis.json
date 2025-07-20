@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/CestraIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cestra-incarnon-genesis-afa2e5eded.png",
+  "name": "Cestra Incarnon Genesis",
+  "description": "Awaken this weapon's ability to increase its Critical Chance the longer it is fired uninterrupted.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe die Krit. Chance zu erhöhen, je länger sie ohne Unterbrechung abgefeuert wird.",
+      "name": "Incarnon-Genesis: Cestra",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à augmenter ses Chances de Critique au fur et à mesure qu'elle tire sans interruption.",
+      "name": "Cestra Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia la capacità di quest'arma di aumentare la sua Probabilità Critico in base a quanti colpi vengono sparati ininterrottamente.",
+      "name": "Cestra Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 연속 사격을 끊기지 않고 오래할 수록 치명타 확률이 증가하는 능력을 얻게 됩니다.",
+      "name": "세스트라 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la habilidad de esta arma para aumentar su probabilidad crítica cuanto más tiempo se dispare sin interrupción.",
+      "name": "Cestra Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有连续射击时间越长暴击几率越大的能力。",
+      "name": "锡斯特灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия увеличивать шанс критического урона по мере того, как оно будет стрелять непрерывно.",
+      "name": "Генезис Инкарнона: Цестра",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、中断せずに長く発射するほどクリティカル率が上昇する。",
+      "name": "Cestra インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która zyskuje Szansę Obr. Krytycznych wraz z długością ostrzału.",
+      "name": "Geneza Inkarnon: Cestra",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de aumentar gradualmente sua Chance Crítica com seus disparos ininterruptos.",
+      "name": "Encarnação Gênese da Cestra",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下不間斷地發射越久，可增加其暴擊機率。",
+      "name": "錫斯特應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้เพื่อเพิ่มโอกาสคริติคอลเมื่อยิงต่อเนื่องนานขึ้นโดยไม่หยุดชะงัก",
+      "name": "Cestra Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın, kesintisiz ateşlendiği süre boyunca Kritik Şansını artırma yeteneğini uyandır.",
+      "name": "Cestra Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє збільшувати ймовірність критичної шкоди упродовж безперервних пострілів.",
+      "name": "Інкарнонський генезис: Цестра",
+      "code": "uk"
+    }
+  ]
+}

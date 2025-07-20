@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ExcaliburProtoBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---proto-excalibur-f24b9c6edd.png",
+  "name": "Noggle Statue - Proto-Excalibur",
+  "description": "A small wobbly statue of Proto-Excalibur.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Proto-Excalibur.",
+      "name": "Noggle-Statue: Proto-Excalibur",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Proto-Excalibur.",
+      "name": "Statuette Noggle - Proto-Excalibur",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Proto-Excalibur con la testa tremolante.",
+      "name": "Statuetta Noggle - Proto-Excalibur",
+      "code": "it"
+    },
+    {
+      "description": "프로토-엑스칼리버의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 프로토-엑스칼리버",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Proto-Excalibur.",
+      "name": "Estatua Tambaleante - Proto-Excalibur",
+      "code": "es"
+    },
+    {
+      "description": "一小座原型 EXCALIBUR 摇头娃娃。",
+      "name": "原型 Excalibur 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Прото-Экскалибура.",
+      "name": "Фигурка: Прото-Экскалибур",
+      "code": "ru"
+    },
+    {
+      "description": "Proto-Excaliburのボブルヘッド人形。",
+      "name": "Proto-Excalibur ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Proto-Excalibura.",
+      "name": "Figurka Noggle — Excalibur Proto",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Proto-Excalibur.",
+      "name": "Estatueta: Proto-Excalibur",
+      "code": "pt"
+    },
+    {
+      "description": "一小座原型 Excalibur 的搖頭娃娃。",
+      "name": "原型 Excalibur 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Proto-Excalibur ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Proto-Excalibur",
+      "code": "th"
+    },
+    {
+      "description": "Proto-Excalibur küçük oynar figür.",
+      "name": "Noggle Heykeli - Proto-Excalibur",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Екскалібура зі спорядженим виглядом «Протообладунок».",
+      "name": "Ноґл «Екскалібур „Прото“»",
+      "code": "uk"
+    }
+  ]
+}

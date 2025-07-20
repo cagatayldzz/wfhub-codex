@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/OmegaIsotope",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/omega-isotope-e9cee8ed2f.png",
+  "name": "Omega Isotope",
+  "description": "Produced by a Fomorian’s power core, these particles only appear on or around planets where a Fomorian is present.\n\nLocation: When a Balor Fomorian is threatening a Planet's Relay, enemies on that Planet will drop this resource",
+  "languages": [
+    {
+      "description": "Diese Partikel werden von den Energiekernen der Fomorianer erzeugt und tauchen nur bei Planeten auf, bei denen sich ein Fomorianer aufhält.\n\nQuelle: Wenn ein Balor Fomorianer das Relais eines Planeten bedroht, lassen Gegner auf dem Planeten diese Ressource fallen lassen.",
+      "name": "Omega-Isotop",
+      "code": "de"
+    },
+    {
+      "description": "Produites par un noyau de puissance Fomorien, ces particules ne sont récupérables que sur ou autour des planètes où se trouve un Fomorien.\n\nLieu: Quand un Fomorien Balor menace le Relais d'une planète, les ennemis de cette planète lâchent cette Ressource",
+      "name": "Isotope Omega",
+      "code": "fr"
+    },
+    {
+      "description": "Prodotto dal nucleo di una Fomorian, queste particelle appaiono solo nei pianeti dove è presente una Fomorian o intorno ad essa.\n\nPosizione: Qualsiasi Stazione di un Pianeta minacciato da una Balor Fomorian, i nemici su quel Pianeta rilasceranno questa risorsa",
+      "name": "Isotopo Omega",
+      "code": "it"
+    },
+    {
+      "description": "포모리안의 파워 코어로부터 생성되는 이 입자들은 포모리안 함이 출현한 행성과 그 주변에서만 발견되는 물질입니다.\n\n획득 가능 장소: 발러 포모리안이 행성의 릴레이를 위협하고 있을 시, 해당 행성의 적들이 드롭",
+      "name": "오메가 동위원소",
+      "code": "ko"
+    },
+    {
+      "description": "Producidas por un núcleo de energía Fomoré, estas partículas solo aparecen en o alrededor de planetas en los que se encuentra presente una Fomoré.\n\nUbicación: Cuando un Balor Fomoré amenaza al Repetidor de un planeta, los enemigos en ese planeta soltarán este recurso.",
+      "name": "Isótopo Omega",
+      "code": "es"
+    },
+    {
+      "description": "由巨人战舰动力核心所产生，这些粒子仅出现在巨人战舰活动当地或邻近的星球上。 \n\n获取地点：当巴罗尔巨人战舰威胁到星球中继站时，该星球的敌人便会掉落这种资源",
+      "name": "奥米伽同位素",
+      "code": "zh"
+    },
+    {
+      "description": "Эти частицы, производимые энергетическим ядром фоморианца, появляются только на тех планетах или вокруг них, где присутствует фоморианец.\n\nМестонахождение: когда фоморианец «Балор» угрожает реле планеты, враги на этой планете сбрасывают этот ресурс при умирании.",
+      "name": "Омега-изотоп",
+      "code": "ru"
+    },
+    {
+      "description": "フォーモリアン船のパワーコアから生産されたこれらの粒子は、フォーモリアン船が地表もしくは周回軌道上に存在する惑星のみに出現する。\n\n場所：バロール・フォーモリアンが脅威を及ぼしている惑星の敵からドロップされる。",
+      "name": "オメガアイソトープ",
+      "code": "ja"
+    },
+    {
+      "description": "Produkowane przez rdzenie mocy Fomorian, te cząsteczki pojawiają się tylko na i wokół planet, gdzie znajduje się Fomorianin.\n\nPołożenie: Gdy Fomorianin Balor zagraża Przekaźnikowi Planety, wrogowie na tej Planecie upuszczą ten zasób",
+      "name": "Izotop Omega",
+      "code": "pl"
+    },
+    {
+      "description": "Produzidas por núcleos de força de uma Fomoriana, estas partículas aparecem apenas nos arredores de planetas onde uma Fomoriana estiver presente.\n\nLocalização: quando uma Balor Fomoriana estiver ameaçando o Relay de um planeta, os inimigos naquele planeta concederão este recurso.",
+      "name": "Isótopo Ômega",
+      "code": "pt"
+    },
+    {
+      "description": "由巨人戰艦動力核心所產生，這些粒子僅出現在巨人戰艦活動當地或鄰近的星球上。\n\n地點：巴羅爾巨人戰艦威脅到星球的中繼站時，該星球上的敵人會掉落這種資源",
+      "name": "奧米伽同位素",
+      "code": "tc"
+    },
+    {
+      "description": "ผลิตขึ้นโดยแกนพลังงานของโฟโมเรียน อนุภาคเหล่านี้จะปรากฏอยู่บนหรือรอบ ๆ ดาวเคราะห์ที่มีโฟโมเรียนอยู่เท่านั้น\n\nแหล่งที่พบ: เมื่อ Balor Fomorian เข้ารุกรานรีเลย์ของดาวเคราะห์ ศัตรูที่อยู่บนดาวเคราะห์ดวงนั้นจะดรอปทรัพยากรชิ้นนี้",
+      "name": "โอเมกาไอโซโทป",
+      "code": "th"
+    },
+    {
+      "description": "Fomorianların güç çekirdeğinden yapılan bu parçacıklar Fomorian'ın olduğu yerlerde ortaya çıkarlar.\n\nKonum: Bir Balor Fomorian bir Gezegenin Relayini tehdit ettiğinde, o Gezegendeki düşmanlar bu kaynağı bırakacaktır",
+      "name": "Omega Izotopu",
+      "code": "tr"
+    },
+    {
+      "description": "Ізотоп, утворений в ядрі реактора фомора. Частинки можна знайти на тих планетах чи довкола них, де присутні фомори.\n\nМожна здобути з ворогів на планеті, реле якої загрожує фомор «Балор».",
+      "name": "Омега-ізотоп",
+      "code": "uk"
+    }
+  ]
+}

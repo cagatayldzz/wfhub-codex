@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SelfHealSmall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/health-restore-(small)-0783283adb.png",
+  "name": "Health Restore (Small)",
+  "description": "Instantly restores 50 Health.",
+  "languages": [
+    {
+      "description": "Füllt umgehend 50 Gesundheit wieder auf.",
+      "name": "Gesundheitsnachschub (Klein)",
+      "code": "de"
+    },
+    {
+      "description": "Restaure instantanément 50 points de Santé.",
+      "name": "Restauration de Santé (Petite)",
+      "code": "fr"
+    },
+    {
+      "description": "Ripristina istantaneamente 50 Salute.",
+      "name": "Ricarica Salute (Piccola)",
+      "code": "it"
+    },
+    {
+      "description": "50의 체력을 즉시 회복시킵니다.",
+      "name": "체력 회복 키트 (소형)",
+      "code": "ko"
+    },
+    {
+      "description": "Instantáneamente restaura 50 de salud.",
+      "name": "Restaurador de salud (pequeño)",
+      "code": "es"
+    },
+    {
+      "description": "立即恢复50生命",
+      "name": "生命补给（小型）",
+      "code": "zh"
+    },
+    {
+      "description": "Мгновенно восстанавливает 50 здоровья.",
+      "name": "Восст. здоровья (малый)",
+      "code": "ru"
+    },
+    {
+      "description": "ヘルスを瞬時に50回復させる。",
+      "name": "ヘルスリストア（小）",
+      "code": "ja"
+    },
+    {
+      "description": "Natychmiastowo odnawia 50 Życia.",
+      "name": "Odnowa Życia (mała)",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura 50 de Vida instantaneamente.",
+      "name": "Gerador de Vida (Pequeno)",
+      "code": "pt"
+    },
+    {
+      "description": "立即恢復50生命",
+      "name": "生命補給（小型）",
+      "code": "tc"
+    },
+    {
+      "description": "ฟื้นฟู 50 พลังชีวิตทันที",
+      "name": "ฟื้นฟูพลังชีวิต (เล็ก)",
+      "code": "th"
+    },
+    {
+      "description": "Anında 50 sağlık yeniler.",
+      "name": "Sağlık Yenileme (Küçük)",
+      "code": "tr"
+    },
+    {
+      "description": "Миттєво відновлює 50 здоров’я.",
+      "name": "Відновник здоров’я (малий)",
+      "code": "uk"
+    }
+  ]
+}

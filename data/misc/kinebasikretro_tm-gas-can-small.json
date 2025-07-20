@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinebasikretro_tm-gas-can-(small)-bd30891698.png",
+  "name": "Kinebasik<Retro_tm> Gas Can (Small)",
+  "description": "For all your KineBasik<RETRO_TM> smaller gas-carrying needs!",
+  "languages": [
+    {
+      "description": "Für alle deine kleineren KineBasik<RETRO_TM>-Benzintransportanforderungen!",
+      "name": "KineBasik<RETRO_TM>: Benzinkanister (klein)",
+      "code": "de"
+    },
+    {
+      "description": "Pour tous vos besoins portables en carburant KineBasik<RETRO_TM>!",
+      "name": "Bidon d'essence (petit) KineBasik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Per tutte le tue piccole esigenze gassistiche, da KineBasik<RETRO_TM>!",
+      "name": "Tanica di Benzina (Piccola) KineBasik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네베이직<RETRO_TM> 사의 소형 가솔린 운반통으로 필요한 모든 것을 챙기세요!",
+      "name": "키네베이직<RETRO_TM> 가솔린 캔 (소형)",
+      "code": "ko"
+    },
+    {
+      "description": "¡Para todas sus necesidades de latas de combustible pequeñas de KineBasik<RETRO_TM>!",
+      "name": "Lata de combustible KineBasik<RETRO_TM> (Pequeña)",
+      "code": "es"
+    },
+    {
+      "description": "满足你的所有即时用<RETRO_TM>更小的汽油罐需求！",
+      "name": "即时用<RETRO_TM>汽油罐（小）",
+      "code": "zh"
+    },
+    {
+      "description": "Для всех ваших потребностей в перевозке небольших объёмов топлива с «КинеБэйсик»<RETRO_TM>!",
+      "name": "Маленькая канистра для топлива «КинеБэйсик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネベーシック<RETRO_TM> で小容量のガソリンを運ぼう！",
+      "name": "キネベーシック<RETRO_TM> ガス缶（小）",
+      "code": "ja"
+    },
+    {
+      "description": "Dla wszystkich mniejszych potrzeb związanych z przenoszeniem gazu KineBasik<RETRO_TM>!",
+      "name": "KineBasik<RETRO_TM>: Kanister na paliwo (mały)",
+      "code": "pl"
+    },
+    {
+      "description": "Para todas as suas necessidades de latas de combustível da KineBasik<RETRO_TM>!",
+      "name": "Lata de Combustível KineBasik<RETRO_TM> (Pequena)",
+      "code": "pt"
+    },
+    {
+      "description": "滿足你一切小型開需<RETRO_TM>汽油罐需求！",
+      "name": "開需<RETRO_TM>汽油罐（小）",
+      "code": "tc"
+    },
+    {
+      "description": "ถังน้ำมัน KineBasik<RETRO_TM> ขนาดเล็กที่ช่วยให้คุณขนน้ำมันไปได้ทุกที่ตามต้องการ",
+      "name": "ถังน้ำมัน KineBasik<RETRO_TM> (เล็ก)",
+      "code": "th"
+    },
+    {
+      "description": "Tüm KineBasik<RETRO_TM> küçük boy benzin taşıma ihtiyaçlarınız için!",
+      "name": "KineBasik<RETRO_TM> Benzin Bidonu (Küçük)",
+      "code": "tr"
+    },
+    {
+      "description": "Для будь-яких ваших малих бензинозберігальних потреб!",
+      "name": "Каністра з бензином (мала) «Кінебейзік»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

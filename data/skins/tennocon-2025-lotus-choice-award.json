@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2025CosplayLotusChoiceTrophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2025---lotus'-choice-award-b79e2b025e.png",
+  "name": "Tennocon 2025 - Lotus' Choice Award",
+  "description": "This award recognizes a Cosplay chosen by judges as a strong overall entry.",
+  "languages": [
+    {
+      "description": "Diese Auszeichnung wurde einem Cosplay verliehen, dass von den Juroren als insgesamt toller Beitrag ausgewählt wurde.",
+      "name": "TennoCon 2025 - Lotus' Wahl Award",
+      "code": "de"
+    },
+    {
+      "description": "Ce prix récompense un Cosplay choisi par les juges comme une performance globale solide.",
+      "name": "TennoCon 2025 - Prix Choix du Lotus",
+      "code": "fr"
+    },
+    {
+      "description": "Questo premio riconosce un Cosplay scelto dai giudici come un'eccellente proposta generale.",
+      "name": "TennoCon 2025 - Premio Scelta di Lotus",
+      "code": "it"
+    },
+    {
+      "description": "이 상은 심사위원들이 선정한 전반적으로 우수한 코스프레 작품에 수여됩니다.",
+      "name": "텐노콘 2025 - 로터스 초이스 어워드",
+      "code": "ko"
+    },
+    {
+      "description": "Este premio reconoce un cosplay elegido por los jueces como una excelente propuesta en general.",
+      "name": "TennoCon 2025 - Premio \"Elección de Lotus\"",
+      "code": "es"
+    },
+    {
+      "description": "这一奖项旨在表彰由评委选出的整体表现突出的角色扮演作品。",
+      "name": "TennoCon 2025 - Lotus 之选奖",
+      "code": "zh"
+    },
+    {
+      "description": "Эта награда присуждается косплею, выбранному судьями как наиболее удачная работа в целом.",
+      "name": "TennoCon-2025: Награда «Выбор Лотос»",
+      "code": "ru"
+    },
+    {
+      "description": "審査員に総合的に優れたコスプレ作品として選ばれたテンノに与えられる賞。",
+      "name": "TennoCon 2025「Lotus' Choice」賞",
+      "code": "ja"
+    },
+    {
+      "description": "Ta nagroda wyróżnia cosplay wybrany przez jurorów jako mocna, wszechstronna prezentacja.",
+      "name": "TennoCon 2025 – Nagroda Wyboru Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Este prêmio reconhece um Cosplay escolhido pelos jurados como uma excelente proposta geral.",
+      "name": "TennoCon 2025: Prêmio \"Escolha da Lótus\"",
+      "code": "pt"
+    },
+    {
+      "description": "頒發給評審選為整體表現最優的扮裝作品。",
+      "name": "TennoCon 2025 - Lotus 首選獎",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลนี้มอบให้แก่คอสเพลย์ที่คณะกรรมการเลือกว่าโดยรวมแล้วเป็นผลงานศิลปะที่ยอดเยี่ยม",
+      "name": "TennoCon 2025 - รางวัล Lotus' Choice",
+      "code": "th"
+    },
+    {
+      "description": "Bu ödül, jüri tarafından güçlü bir genel katılım olarak seçilen bir Cosplay'i ödüllendirir.",
+      "name": "TennoCon 2025 - Lotus'un Seçimi Ödülü",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за рішенням жюрі за видатний костюм.",
+      "name": "Теннокон 2025 — нагорода «Вибір Лотос»",
+      "code": "uk"
+    }
+  ]
+}

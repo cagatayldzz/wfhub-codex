@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/waxen-sebum-deposit-fa18f516b3.png",
+  "name": "Waxen Sebum Deposit",
+  "description": "Remnants of creatures' original bodily fluids persist post-Infestation, often crystalized or congealed into entirely new compounds.\n\nSource: Cut from Amniophysi fish via Daughter in the Necralisk (Deimos). Catch Amniophysi in Cambion Drift caves during Vome and Fass.",
+  "languages": [
+    {
+      "description": "Reste ursprünglicher Körperflüssigkeiten der Kreaturen bleiben auch nach einem Befall bestehen und kristallisieren oder erstarren oft zu völlig neuen Verbindungen.\n\nQuelle: Tochter im Necralisk (Deimos) kann es aus den folgenden Fischen der Cambion-Drift entfernen:\nAmniophysi (Kann während Vome und Fass in der Cambion-Drift gefangen werden.)",
+      "name": "Wächsernes Talg-Vorkommen",
+      "code": "de"
+    },
+    {
+      "description": "Les restes des fluides corporels d'origine des créatures persistent après l'Infestation et sont souvent cristallisés ou figés en de nouveaux composés.\n\nSource: récupérés des poissons Amniophysis via la Fille dans le Necralisk (Deimos). Attrapez des Amniophysis dans les grottes du Puy de Cambion pendant Vome et Fass.",
+      "name": "Dépôt de Sébum",
+      "code": "fr"
+    },
+    {
+      "description": "I resti dei fluidi corporei originali delle creature persistono dopo l'Infestazione, spesso cristallizzati o congelati in composti completamente nuovi.\n\nFonte: Ottenibili dal pesce Amniophysi da Figlia nel Necralisk (Deimos). Cattura un Amniophysi nelle grotte del Cambion Drift durante Vome e Fass.",
+      "name": "Deposito di Sebo",
+      "code": "it"
+    },
+    {
+      "description": "감염 후에도 잔존하여, 보통 결정으로 굳어지거나 완전히 새로운 화합물로 응고되곤 하는 생명체의 본래 체액입니다.\n\n획득 가능 장소: 네크랄리스크 (데이모스) 의 딸을 통해 암니오피지 물고기를 해체하여 획득. 파스 및 봄 주기 동안 캠비온 퇴적지의 동굴에서 암니오피지를 잡을 수 있습니다.",
+      "name": "밀랍 피지 침전물",
+      "code": "ko"
+    },
+    {
+      "description": "Los restos de los fluidos corporales originales de las criaturas persisten después de la infestación, a menudo cristalizados o coagulados en compuestos completamente nuevos.\n\nFuente: Extraído del pez Amniofisi con Hija en el Necralisk (Deimos). Captura Amniofisi en las cuevas de Deriva Cambion durante Vome y Fass.",
+      "name": "Depósito de Sebum de Cera",
+      "code": "es"
+    },
+    {
+      "description": "生物原有的体液残余物在感染后仍会存在，通常会结晶或凝结成全新的化合物。\n\n获取途径：通过殁世幽都（火卫二）的“女儿”从针刺长鳄中切割获取。 可在“混乱”和“秩序”期间的魔胎之境洞穴捕捉针刺长鳄。",
+      "name": "蜡质皮脂沉积",
+      "code": "zh"
+    },
+    {
+      "description": "Остатки оригинальных биологических жидкостей существ сохраняются после заражения, часто кристаллизуясь или свёртываясь в совершенно новые соединения.\n\nМестонахождение: Добывается при разделке рыбы амниофиза у Дочери в Некралиске (Деймос). Ловите амниофиза в пещерах Камбионского Дрейфа во время активности Воум и Фэза.",
+      "name": "Залежь Парафинированного Жира",
+      "code": "ru"
+    },
+    {
+      "description": "感染された生物に残っていた元来の体液は、感染後にも存続する。大抵は結晶化や凝固によりまったく新しい化合物へと変容している。\n\n場所：ネクロリスク（ダイモス）のDaughterからアムニオフィジを捌くことで入手可能。アムニオフィジはVome・Fass時のカンビオン荒地の洞窟で獲れる。",
+      "name": "ワックス式皮脂蓄積",
+      "code": "ja"
+    },
+    {
+      "description": "Pozostałości oryginalnych płynów ustrojowych stworzeń utrzymują się po zainfekowaniu, często skrystalizowane lub zastygłe w zupełnie nowe związki. \n\nŹródło: Uzyskane przez filetowanie ryby Amniofiz przez Córkę w Nekralisku (Deimos). W jaskiniach Dryfu Kambionu w czasie czuwania Vome i Fass złapiesz Amniofiz.",
+      "name": "Depozyt Woskowatego Sebum",
+      "code": "pl"
+    },
+    {
+      "description": "Os remanescentes fluidos corporais das criaturas ainda persistem após a Infestação, geralmente cristalizados ou congelados em forma de novos compostos.\n\nLocalização: obtido através do corte do peixe Amniophysi da Deriva de Cambion com a Filha no Necralisk, em Deimos. Capture o Amniophysi em cavernas da Deriva de Cambion durante o ciclo de Vome e Fass.",
+      "name": "Depósito de Sebo Encerado",
+      "code": "pt"
+    },
+    {
+      "description": "在感染後期動物原本體內的液體會存留，通常會結晶或是凝結為全然不同的全新混合物。\n\n來源：透過亡骸殿（火衛二）的女兒從氨膜鯉所切下。\n氨膜鯉可在 Vome 和 Fass 週期於魔裔禁地的洞穴捕獲。",
+      "name": "蠟質膚脂沉澱",
+      "code": "tc"
+    },
+    {
+      "description": "ซากของเหลวในร่างกายเดิมที่ยังคงอยู่หลังจากสิ่งมีชีวิตนั้นติดเชื้อไปแล้ว ซึ่งมักจะตกผลึกหรือแข็งตัวกลายเป็นสารประกอบใหม่ทั้งหมด\n\nแหล่งที่พบ: ได้มาจากการแล่ปลา Amniophysi ผ่าน Daughter ในเนคราลิสก์ (เดมอส) ซึ่งสามารถจับปลา Amniophysi ในถ้ำที่อยู่ในแคมบิออนดริฟต์ได้ในช่วงเวลาของ Vome และ Fass",
+      "name": "แหล่งสะสมขี้ผึ้งซีบัม",
+      "code": "th"
+    },
+    {
+      "description": "Yaratıkların orijinal vücut sıvılarının kalıntıları, genellikle kristalize olur veya tamamen yeni bileşikler içinde pıhtılaşarak Infestation sonrasında da devamlılık gösterirler.\n\nKaynak: Necralisk'teki (Deimos) Kız Evlat aracılığıyla Amniophysi balığından kesilir. Vome ve Fass sırasında Amniophysi'yi Cambion Drift mağaralarında yakalayın.",
+      "name": "Mumlu Sebum Tortusu",
+      "code": "tr"
+    },
+    {
+      "description": "Рештки рідини із тіл істот, які після зараження кристалізувалися або перетворилися в абсолютно нові сполуки.\n\nМожна отримати з амніопсії від Доньки в Некраліску (Деймос). Ловіть амніопсію в печерах Кембіонської течії, коли за нею наглядають Вом і Фасс.",
+      "name": "Поклад жиру",
+      "code": "uk"
+    }
+  ]
+}

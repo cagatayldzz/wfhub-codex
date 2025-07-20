@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceZekeCanthavethis",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/can't-touch-this-f9b4b94ec4.png",
+  "name": "Can'T Touch This",
+  "description": "No matter how badly you want to, you can’t. Earned from a Technocyte Coda.",
+  "languages": [
+    {
+      "description": "Egal, wie sehr du willst, du kannst nicht. Von einem Technocyte Coda erhalten.",
+      "name": "Can't Touch This",
+      "code": "de"
+    },
+    {
+      "description": "Peu importe à quel point vous le voulez, vous ne pouvez pas. Obtenu via un Technocyte Coda.",
+      "name": "Pas Touche",
+      "code": "fr"
+    },
+    {
+      "description": "Non importa quanto tu lo voglia, non puoi. Ottenuta da un Technocyte Coda.",
+      "name": "Guardare Ma Non Toccare",
+      "code": "it"
+    },
+    {
+      "description": "안되는 건 안 되는 겁니다. 테크노사이트 코다로부터 획득할 수 있습니다.",
+      "name": "손댈 수 없어",
+      "code": "ko"
+    },
+    {
+      "description": "Por mucho que lo desees, no puedes. Obtenido de un Tecnocito Coda.",
+      "name": "No puedes tocar esto",
+      "code": "es"
+    },
+    {
+      "description": "无论你多么想要，你也碰不到。从科技细胞终幕者处获得。",
+      "name": "触不可及",
+      "code": "zh"
+    },
+    {
+      "description": "Хочется, а нельзя.\n\nМестонахождение: Техноциты Кода",
+      "name": "Недотрога",
+      "code": "ru"
+    },
+    {
+      "description": "ダメなものは、ダメ。テクノサイト・コーダから入手。",
+      "name": "Can't Touch This",
+      "code": "ja"
+    },
+    {
+      "description": "Bez względu na to, jak bardzo tego chcesz, nie możesz. Zdobyte od Cody Technocytu.",
+      "name": "Can't Touch This",
+      "code": "pl"
+    },
+    {
+      "description": "Não importa o quanto você queira, você não consegue. Adquirido de um Tecnócito Coda.",
+      "name": "Não-Me-Toque",
+      "code": "pt"
+    },
+    {
+      "description": "管你有多想要，不行就是不行。\n\n透過技改細胞勾瘩體獲取。",
+      "name": "碰不得",
+      "code": "tc"
+    },
+    {
+      "description": "ไม่ว่าจะต้องการแค่ไหน คุณก็ทำไม่ได้ - รับได้จาก Technocyte Coda",
+      "name": "Can't Touch This",
+      "code": "th"
+    },
+    {
+      "description": "Ne kadar istersen iste, dokunamazsın. Technocyte Coda'dan kazanılır.",
+      "name": "Buna Dokunamazsın",
+      "code": "tr"
+    },
+    {
+      "description": "Як би не хотілося, а все одно не можна.\n\nЗдобувається здоланням «Техноцитної Коди».",
+      "name": "Недоторканий",
+      "code": "uk"
+    }
+  ]
+}

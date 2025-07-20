@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/relay-strut-component-c30fe340ff.png",
+  "name": "Relay Strut Component",
+  "description": "An integral building block in the construction of Tenno relays.",
+  "languages": [
+    {
+      "description": "Ein integraler Baustein, der zum Aufbau von Tenno Relais genutzt wird.",
+      "name": "Relais Baukomponente",
+      "code": "de"
+    },
+    {
+      "description": "Une pièce de construction faisant partie intégrante des relais Tennos.",
+      "name": "Composant Structurel du Relais",
+      "code": "fr"
+    },
+    {
+      "description": "Un elemento costruttivo integrale usato nelle stazioni Tenno.",
+      "name": "Componente Stazione - Montante",
+      "code": "it"
+    },
+    {
+      "description": "텐노 릴레이를 건설하는데 필요한 중요한 구성 요소입니다.",
+      "name": "릴레이 버팀대 부품",
+      "code": "ko"
+    },
+    {
+      "description": "Un bloque esencial en la construcción de los Repetidores tenno.",
+      "name": "Componente de Puntal del Repetidor",
+      "code": "es"
+    },
+    {
+      "description": "Tenno 中继站构造中的一个组成部分。",
+      "name": "中继站结构组件",
+      "code": "zh"
+    },
+    {
+      "description": "Строительный блок, необходимый для постройки реле Тэнно.",
+      "name": "Структурная балка реле",
+      "code": "ru"
+    },
+    {
+      "description": "Tennoリレーの建設に不可欠なアイテム。",
+      "name": "リレー建設素材",
+      "code": "ja"
+    },
+    {
+      "description": "Niezbędny składnik potrzebny do odbudowy Przekaźników Tenno.",
+      "name": "Komponenty Rozpory Przekaźnika",
+      "code": "pl"
+    },
+    {
+      "description": "Um bloco integral de construção que faz parte da construção dos Relays dos Tenno.",
+      "name": "Componente Estrutural do Relay",
+      "code": "pt"
+    },
+    {
+      "description": "Tenno 中繼站構造中的一個組成部分。",
+      "name": "中繼站結構組件",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบสำคัญในการสร้างรีเลย์ของ Tenno",
+      "name": "ส่วนประกอบรีเลย์สตรัท",
+      "code": "th"
+    },
+    {
+      "description": "Tenno relay inşaatlarında entegre bir yapı bloğu",
+      "name": "Relay Sütun Bileşeni",
+      "code": "tr"
+    },
+    {
+      "description": "Необхідна деталь для будування реле тенно.",
+      "name": "Розпірка реле",
+      "code": "uk"
+    }
+  ]
+}

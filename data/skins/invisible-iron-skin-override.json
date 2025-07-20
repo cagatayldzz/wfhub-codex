@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoIronSkinNoEffects",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/invisible-iron-skin-override-201c2aa560.png",
+  "name": "Invisible Iron Skin Override",
+  "description": "Rhino's appearance will not change when the ability is triggered.",
+  "languages": [
+    {
+      "description": "Rhinos Aussehen wird sich nicht verändern, wenn die Fähigkeit ausgelöst wird.",
+      "name": "Unsichtbare Eisenhaut Überschreibung",
+      "code": "de"
+    },
+    {
+      "description": "L'apparence de Rhino ne changera pas lorsque le Pouvoir est lancé.",
+      "name": "Variante Peau de Fer Invisible",
+      "code": "fr"
+    },
+    {
+      "description": "L'aspetto di Rhino non cambierà quando viene attivata l'abilità.",
+      "name": "Aspetto Invisibile per Iron Skin",
+      "code": "it"
+    },
+    {
+      "description": "어빌리티가 발동되었을 시 라이노의 외형이 변경되지 않습니다.",
+      "name": "투명 아이언 스킨 덮어쓰기",
+      "code": "ko"
+    },
+    {
+      "description": "La apariencia de Rhino no cambiará cuando se active la habilidad.",
+      "name": "Anulación de Piel de hierro Invisible",
+      "code": "es"
+    },
+    {
+      "description": "触发技能后，Rhino 的外观不会发生改变。",
+      "name": "隐藏钢化皮肤特效覆盖",
+      "code": "zh"
+    },
+    {
+      "description": "Внешний вид Рино не изменится при срабатывании способности.",
+      "name": "Корректор скина: Железная кожа - Невидимка",
+      "code": "ru"
+    },
+    {
+      "description": "アビリティ発動時Rhinoの外観が変わらないように。",
+      "name": "Invisible Iron Skin オーバーライド",
+      "code": "ja"
+    },
+    {
+      "description": "Wygląd Rhino nie zmieni się po uruchomieniu umiejętności.",
+      "name": "Niewidoczna Żelazna Skóra",
+      "code": "pl"
+    },
+    {
+      "description": "O visual do Rhino não mudará enquanto a habilidade estiver ativa.",
+      "name": "Substituir pela Pele Blindada invisível",
+      "code": "pt"
+    },
+    {
+      "description": "技能觸發時，不改變 Rhino 的造型。",
+      "name": "隱藏鋼化皮膚覆蓋",
+      "code": "tc"
+    },
+    {
+      "description": "Rhino จะไม่เปลี่ยนรูปลักษณ์เมื่อใช้พลังความสามารถ",
+      "name": "Invisible Iron Skin Override",
+      "code": "th"
+    },
+    {
+      "description": "Yetenek tetiklendiğinde Rhino'nun görünümü değişmeyecek.",
+      "name": "Görünmez Iron Skin Geçişi",
+      "code": "tr"
+    },
+    {
+      "description": "У разі застосування здібності «Залізна шкура» зовнішність Райно не змінюватиметься.",
+      "name": "Залізна шкура «Невидимка»",
+      "code": "uk"
+    }
+  ]
+}

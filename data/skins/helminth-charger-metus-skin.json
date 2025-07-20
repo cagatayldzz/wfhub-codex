@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternHelminthDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helminth-charger-metus-skin-3c42410d89.png",
+  "name": "Helminth Charger Metus Skin",
+  "description": "Nidus Phryke’s loyal beast. This skin can be applied to any Kubrow.",
+  "languages": [
+    {
+      "description": "Der treue Begleiter von Nidus Phryke. Dieser Skin kann mit jedem Kubrow verwendet werden.",
+      "name": "Helminth Stürmer-Skin: Metus",
+      "code": "de"
+    },
+    {
+      "description": "La bête loyale de Nidus Phryke. Cet Aspect peut être appliqué à n'importe quel Kubrow.",
+      "name": "Aspect Chargeur Helminth Metus",
+      "code": "fr"
+    },
+    {
+      "description": "La leale bestia di Nidus Phryke. Questa skin può essere applicata a qualsiasi Kubrow.",
+      "name": "Skin Helminth Charger Metus",
+      "code": "it"
+    },
+    {
+      "description": "나이더스 프라이크의 충실한 짐승입니다. 이 스킨은 어느 쿠브로에게나 적용시킬 수 있습니다.",
+      "name": "헬민스 차저 메터스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "La bestia leal de Nidus Phryke. Este diseño puede aplicarse en cualquier kubrow.",
+      "name": "Diseño Metus de Cargador Helminto",
+      "code": "es"
+    },
+    {
+      "description": "NIDUS 恐惧神忠诚的野兽，这个外观适用任何库狛 。",
+      "name": "Helminth 疾冲者米图斯外观",
+      "code": "zh"
+    },
+    {
+      "description": "Верный зверь Нидуса «Фрайк». Скин может быть применён к любому Кубрау.",
+      "name": "Скин Гельминтова Инфестоида: Метус",
+      "code": "ru"
+    },
+    {
+      "description": "Nidus Phrykeの忠実なしもべ。このスキンは全クブロウに適用可能。",
+      "name": "Helminth チャージャー Metus スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Lojalna bestia Nidusa Phryke. Ta skórka może zostać użyta do każdego Kubrowa.",
+      "name": "Taran Helminth: Skórka Metus",
+      "code": "pl"
+    },
+    {
+      "description": "A leal fera do Nidus Phryke. Esta Skin pode ser utilizada em qualquer Kubrow.",
+      "name": "Bandoleiro do Helminte: Skin Metus",
+      "code": "pt"
+    },
+    {
+      "description": "NIDUS 恐懼之神忠誠的野獸，這個外觀適用任何庫狛 。",
+      "name": "Helminth 疾衝者 米圖斯外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สัตว์ร้ายที่ภักดีของ Nidus Phryke  สกินนี้สามารถใช้กับ Kubrow ใดก็ได้",
+      "name": "สกิน Helminth Charger Metus",
+      "code": "th"
+    },
+    {
+      "description": "Nidus Phryke'nin sadık canavarı. Bu deri her Kubrow'a uygulanabilir.",
+      "name": "Helminth Charger Metus Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вірний звір для Нідуса зі спорядженим виглядом «Фріке». Можна застосувати на будь-якого куброу.",
+      "name": "Вигляд «Метус» для гельмінтового гінчака",
+      "code": "uk"
+    }
+  ]
+}

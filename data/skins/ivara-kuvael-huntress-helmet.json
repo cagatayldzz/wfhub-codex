@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Archer/SWKuvaelHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-kuvael-huntress-helmet-3bedcd41e2.png",
+  "name": "Ivara Kuvael Huntress Helmet",
+  "description": "A helmet for the Ivara Warframe, designed by Erneix.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Ivara Warframe, entworfen von Erneix.",
+      "name": "Ivara-Helm: Kuvael Huntress",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Ivara, conçu par Erneix.",
+      "name": "Casque Ivara Kuvael Chasseresse",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Ivara, ideato da Erneix.",
+      "name": "Elmo Ivara Kuvael Huntress",
+      "code": "it"
+    },
+    {
+      "description": "Erneix에 의해 디자인된 이바라 워프레임을 위한 헬멧입니다.",
+      "name": "이바라 쿠바엘 헌트리스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Ivara, diseñado por Erneix.",
+      "name": "Casco Kuvael Huntress de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 战甲的头盔，由 Erneix 设计。",
+      "name": "Ivara 赤毒女猎手头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Ивара, созданный Erneix.",
+      "name": "Шлем Ивары: Куваэльская охотница",
+      "code": "ru"
+    },
+    {
+      "description": "Ivara用のヘルメット。製作者：Erneix。",
+      "name": "Ivara Kuvael Huntress ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Ivara, zaprojektowany przez Erneix.",
+      "name": "Ivara: Hełm Łowczyni Kuvael",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Ivara, desenvolvido por Erneix.",
+      "name": "Ivara: Capacete Kuvael Huntress",
+      "code": "pt"
+    },
+    {
+      "description": "Ivara Warframe 的頭盔，由 Erneix 設計 。",
+      "name": "Ivara 赤毒女獵手頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Ivara Warframe ออกแบบโดย Erneix",
+      "name": "หมวกเหล็ก Ivara Kuvael Huntress",
+      "code": "th"
+    },
+    {
+      "description": "Erneix tarafından tasarlanmış bir Ivara Warframe miğferi.",
+      "name": "Ivara Kuvael Huntress Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Івари, створений Erneix.",
+      "name": "Шолом «Куваль: Мисливиця» для Івари",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/OstronRankOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ostron-offworlder-sigil-37dcab98de.png",
+  "name": "Ostron Offworlder Sigil",
+  "description": "A sigil representing prestige gained with the Ostron.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei den Ostron repräsentiert.",
+      "name": "Siegel: Ostron Außenweltler",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec les Ostrons.",
+      "name": "Sceau d'Étranger Ostron",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con gli Ostron.",
+      "name": "Sigillo Straniero Ostron",
+      "code": "it"
+    },
+    {
+      "description": "오스트론으로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "오스트론 외계인 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los ostronitas.",
+      "name": "Sello Forastero de los Ostronitas",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了 Ostron 的威望。",
+      "name": "Ostron 异世者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение, достигнутое в Остронском социуме.",
+      "name": "Сигил: Остронский чужеземец",
+      "code": "ru"
+    },
+    {
+      "description": "オストロンから得た声望を表すシジル。",
+      "name": "オストロン余所者 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Ostron.",
+      "name": "Znak Ostron: Obcy",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com os Ostron.",
+      "name": "Brasão: Estrangeiro de Ostron",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了 Ostron 的威望。",
+      "name": "Ostron 異域者紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจากชาว Ostron",
+      "name": "เครื่องหมาย Ostron: ผู้มาจากต่างโลก",
+      "code": "th"
+    },
+    {
+      "description": "Ostron prestijini sembolize eden bir mühür.",
+      "name": "Ostron Yabancı Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в остронців.",
+      "name": "Сиґіл «Остронці: чужинець»",
+      "code": "uk"
+    }
+  ]
+}

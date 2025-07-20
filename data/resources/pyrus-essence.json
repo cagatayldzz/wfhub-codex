@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneFireElement",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pyrus-essence-0660cf27b5.png",
+  "name": "Pyrus Essence",
+  "description": "With a blazing orange hue and rigid material strength, this compound is prized by ship and station architects.",
+  "languages": [
+    {
+      "description": "Mit ihrer feurigen, orangefarbenen Färbung und unnachgiebigen Stärke wird diese Verbindung von Schiffbauern und Stationsarchitekten äußerst geschätzt",
+      "name": "Pyrus-Essenz",
+      "code": "de"
+    },
+    {
+      "description": "Avec sa teinte orange éclatant et sa forte rigidité, ce composé est convoité par les architectes de vaisseaux et de stations.",
+      "name": "Essence Pyrique",
+      "code": "fr"
+    },
+    {
+      "description": "Grazie alla sua resistenza e rigidità e alla sua tonalità arancione accesa, questo composto è molto apprezzato dagli architetti di navi e stazioni.",
+      "name": "Essenza Pyrus",
+      "code": "it"
+    },
+    {
+      "description": "타는 듯한 오렌지 색조와 단단한 재료 강도로,  조선소 및 정거장 건축가들이 소중히 여기는 화합물입니다.",
+      "name": "파이러스 에센스",
+      "code": "ko"
+    },
+    {
+      "description": "Con una tonalidad de naranja abrasador y fuerza de material rígido, este compuesto es muy valorado por arquitectos de naves y estaciones.",
+      "name": "Esencia Pyro",
+      "code": "es"
+    },
+    {
+      "description": "这种化合物具有炽热的橙色色调和坚硬的材料强度，受到船舰及中继站建筑师的青睐。",
+      "name": "烈焰精华",
+      "code": "zh"
+    },
+    {
+      "description": "Соединение с огненно-рыжим оттенком и невероятной прочностью, высоко ценимое зодчими кораблей и станций.",
+      "name": "Эссенция Пайраса",
+      "code": "ru"
+    },
+    {
+      "description": "燃えるようなオレンジの色合いと硬い素材強度が特徴のこの化合物は、船舶やステーション建築師に持てはやされている。",
+      "name": "パイラス・エッセンス",
+      "code": "ja"
+    },
+    {
+      "description": "Płonący pomarańczowy odcień i sztywna wytrzymałość materiału sprawiają, że ten kompozyt jest ceniony przez architektów statków i stacji.",
+      "name": "Esencja Pyrus",
+      "code": "pl"
+    },
+    {
+      "description": "Com uma tonalidade laranja flamejante e um material rígido, este componente é valorizado pelos arquitetos de naves e estações.",
+      "name": "Essência Pyrus",
+      "code": "pt"
+    },
+    {
+      "description": "這種化合物具有熾熱的橙色色調和堅硬的材料強度，受到船艦及中繼站建築師的青睞。",
+      "name": "烈焰精華",
+      "code": "tc"
+    },
+    {
+      "description": "ด้วยเฉดสีส้มที่เจิดจ้าและความแข็งแรงของวัสดุที่แข็งแกร่ง สารประกอบนี้จึงถือเป็นของล้ำค่าสำหรับสถาปนิกประจำยานและสถานี",
+      "name": "ไพรัสเอสเซนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Alev turuncusu renkleri ve eğilmez bileşen gücüyle bu alaşım gemi ve istasyon mimarları arasında oldukça ünlüdür.",
+      "name": "Pyrus Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Стійка сполука з яскравим помаранчевим відтінком, яка цінується архітекторами зорельотів та станцій.",
+      "name": "Есенція вогнецю",
+      "code": "uk"
+    }
+  ]
+}

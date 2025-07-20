@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultDrifterB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drifter-keeler-hood-e97a07719a.png",
+  "name": "Drifter Keeler Hood",
+  "description": "Nora Night recovered this suit from Saturn’s Keeler Gap. The durable material lined with rebreather tubing shows it was designed with depressurization in mind.",
+  "languages": [
+    {
+      "description": "Nora Night hat diesen Anzug aus Saturns Keeler Schlucht geborgen. Das strapazierfähige Material, mit Kreislaufschläuchen versehen, zeigt, dass es für Druckentlastung entwickelt wurde.",
+      "name": "Kapuze: Keeler (Drifter)",
+      "code": "de"
+    },
+    {
+      "description": "Nora Night a récupéré cette combinaison de la Division de Keeler, aux alentours de Saturne. Le matériau durable doublé d'un système de filtration d'air montre qu'il a été conçu en pensant à la dépressurisation.",
+      "name": "Capuche du Voyageur Keeler",
+      "code": "fr"
+    },
+    {
+      "description": "Nora Night ha recuperato questo completo dalla Divisione di Keeler di Saturno. Il materiale resistente rivestito con tubi rebreather mostra che è stato progettato pensando alla depressurizzazione.",
+      "name": "Cappuccio Keeler - Drifter",
+      "code": "it"
+    },
+    {
+      "description": "노라 나이트는 토성의 킬러 간극에서 이 수트를 회수해냈습니다. 내구성 있는 소재 안에 덧대어진 호흡기 배관은 이 수트가 감압 상황을 염두에 두고 만들어졌다는 사실을 보여줍니다.",
+      "name": "드리프터 킬러 후드",
+      "code": "ko"
+    },
+    {
+      "description": "Nora Night recuperó este traje de la Brecha de Keeler de Saturno. El material duradero cubierto con tubos de respiración muestra que fue diseñado teniendo en cuenta la despresurización.",
+      "name": "Capucha Keeler del Viajero",
+      "code": "es"
+    },
+    {
+      "description": "诺拉·夜从土星的凯勒环缝取回了这件套服。耐用的材质配上内衬的循环呼吸导管表明它在设计时考量了减压能力。",
+      "name": "漂泊者凯勒头罩",
+      "code": "zh"
+    },
+    {
+      "description": "Ночная Нора нашла этот костюм из Киилер-Гэп на Сатурне. Прочный материал, облицованный трубками ребризера, показывает, что он был разработан с учётом возможности разгерметизации.",
+      "name": "Капюшон скитальца: Киилер",
+      "code": "ru"
+    },
+    {
+      "description": "Nora Nightが土星のKeeler Gapから回収したスーツ。リブリーザー管の付いた耐久素材は減圧空間を視野に入れてデザインされていることを示している。",
+      "name": "Keelerフード（漂流者）",
+      "code": "ja"
+    },
+    {
+      "description": "Nora Night odzyskała ten kombinezon ze Szczeliny Keeler na Saturnie. Wytrzymały materiał wyposażony w system oczyszczania tlenu pokazuje, że został zaprojektowany z myślą o rozhermetyzowaniu.",
+      "name": "Kaptur Keeler Włóczęgi",
+      "code": "pl"
+    },
+    {
+      "description": "A Nora Night recuperou este traje na Lacuna de Keeler, em Saturno. O material durável revestido com um sistema de recirculação de oxigênio demonstra que foi projetado para a despressurização.",
+      "name": "Capuz Keeler do Peregrino",
+      "code": "pt"
+    },
+    {
+      "description": "Nora Night 從土星的凱勒環縫中找到這件套服。耐用的材質配上循環呼吸導管的內襯顯示它在設計時有將減壓納為考量。",
+      "name": "漂泊者 凱勒頭罩",
+      "code": "tc"
+    },
+    {
+      "description": "Nora Night เอาชุดนี้คืนมาได้จากช่องว่างคีเลอร์ของวงแหวนดาวเสาร์ เมื่อดูจากเนื้อผ้าที่ทนทานบุด้วยท่อช่วยหายใจ ก็แสดงให้เห็นว่าชุดนี้ได้รับการออกแบบมาโดยคำนึงถึงความดันอากาศที่ลดลง",
+      "name": "ฮู้ดคลุมศีรษะ Keeler (ดริฟเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Nora Night, bu giysiyi Satürn'ün Keeler Boşluğundan çıkardı. Soluma hortumunun etrafını çevirdiği dayanıklı malzeme, basınçsız ortamlarda kullanım amacıyla tasarlandığını gösteriyor.",
+      "name": "Gezgin Keeler Başlığı",
+      "code": "tr"
+    },
+    {
+      "description": "Нора Ніч знайшла цей скафандр у щілині Кілера на Сатурні. Цупкий матеріал, яким вкрита дихальна трубка, свідчить про те, що скафандр розроблявся з урахуванням розгерметизації.",
+      "name": "Шолом «Кілер» для мандрівника",
+      "code": "uk"
+    }
+  ]
+}

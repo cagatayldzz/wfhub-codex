@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceArsenioEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/manibus-narta-426a36931e.png",
+  "name": "Manibus Narta",
+  "description": "Display balance and finesse with these rhythmic movements.",
+  "languages": [
+    {
+      "description": "Stellt eure Balance und Finesse mit diesen rhythmischen Bewegungen zur Schau.",
+      "name": "Narta: Manibus",
+      "code": "de"
+    },
+    {
+      "description": "Faites preuve d'aplomb et de finesse avec ces mouvements rythmés.",
+      "name": "Narta Manibus",
+      "code": "fr"
+    },
+    {
+      "description": "Sfoggia equilibrio e finezza con questi ritmici movimenti.",
+      "name": "Manibus Narta",
+      "code": "it"
+    },
+    {
+      "description": "리드미컬한 동작으로 균형과 솜씨를 선보여 보세요.",
+      "name": "마니부스 나르타",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra balance y finura con estos movimientos rítmicos.",
+      "name": "Narta Manibus",
+      "code": "es"
+    },
+    {
+      "description": "用这些韵律动作展现平衡与技巧。",
+      "name": "手形武式",
+      "code": "zh"
+    },
+    {
+      "description": "Покажите уравновешенность и искусность с этими ритмичными движениями.",
+      "name": "Нарта: Манибус",
+      "code": "ru"
+    },
+    {
+      "description": "リズミカルな動きで技とバランスを披露する。",
+      "name": "マニブス・アクション",
+      "code": "ja"
+    },
+    {
+      "description": "Wykaż się finezją i balansem, prezentując te rytmiczne ruchy.",
+      "name": "Narta Manibus",
+      "code": "pl"
+    },
+    {
+      "description": "Demonstre equilíbrio e elegância com estes movimentos rítmicos.",
+      "name": "Narta Manual",
+      "code": "pt"
+    },
+    {
+      "description": "以這些韻律動作展現平衡與技巧。",
+      "name": "手形武式",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความสมดุลและชั้นเชิงด้วยท่าเต้นตามจังหวะเหล่านี้",
+      "name": "Manibus Narta",
+      "code": "th"
+    },
+    {
+      "description": "Denge ve ustalığınızı bu ritmik hareketlerle gösterin.",
+      "name": "Manibus Narta",
+      "code": "tr"
+    },
+    {
+      "description": "Ці ритмічні рухи показують рівновагу й грацію.",
+      "name": "Нарта: Руханка",
+      "code": "uk"
+    }
+  ]
+}

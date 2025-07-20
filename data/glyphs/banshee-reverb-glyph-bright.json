@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeReverbBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-reverb-glyph---bright-96a403dcb6.png",
+  "name": "Banshee Reverb Glyph - Bright",
+  "description": "A glyph depicting Banshee Reverb on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Banshee Reverb vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Banshee Reverb (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Banshee Reverb sur un fond lumineux.",
+      "name": "Glyphe Banshee Reverb - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Reverb Banshee su uno sfondo chiaro.",
+      "name": "Glifo Banshee Reverb - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 리법 밴쉬를 묘사한 글리프입니다.",
+      "name": "벤쉬 리법 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Reverb Banshee sobre un fondo brillante.",
+      "name": "Glifo de Banshee Reverb - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 返响在明亮背景下的浮印。",
+      "name": "Banshee 返响浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Банши «Реверб» на светлом фоне.",
+      "name": "Глиф: Банши «Реверб» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Reverb Banshee のグリフ。",
+      "name": "Banshee Reverb グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Banshee 'Reverb' na jasnym tle.",
+      "name": "Glif Banshee Reverb — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Banshee Reverb em um fundo claro.",
+      "name": "Glifo: Banshee Reverb (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Banshee 返響在明亮背景下的浮印。",
+      "name": "Banshee 返響浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Banshee Reverb บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Banshee Reverb - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Banshee Reverb açık fonlu glif.",
+      "name": "Banshee Reverb Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Банші в шоломі «Післязвуччя» на світлому тлі.",
+      "name": "Яскравий гліф «Банші „Післязвуччя“»",
+      "code": "uk"
+    }
+  ]
+}

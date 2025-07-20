@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/FrostDeluxeSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/longsword-frysta-skin-206f195476.png",
+  "name": "Longsword Frysta Skin",
+  "description": "Brandish this mythical frozen blade, the signature weapon of Frost Harka.",
+  "languages": [
+    {
+      "description": "Schwinge diese mystische, gefrorene Klinge, die bevorzugte Waffe von Frost Harka.",
+      "name": "Langschwert-Skin: Frysta",
+      "code": "de"
+    },
+    {
+      "description": "Brandissez cette mythique lame gelée, l'arme de prédilection de Frost Harka.",
+      "name": "Aspect d'Épée Longue Frysta",
+      "code": "fr"
+    },
+    {
+      "description": "Brandisci questa mitica lama ghiacciata, l'arma distintiva di Frost Harka.",
+      "name": "Skin Spada Frysta",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 하르카의 특징적인 이 전설 속의 얼음 검을 휘둘러 보세요.",
+      "name": "도검 프리스타 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Luce esta mítica hoja congelada, el arma tradicional de Frost Harka.",
+      "name": "Diseño Frysta de espada larga",
+      "code": "es"
+    },
+    {
+      "description": "舞动这柄神秘的冰洁之刃，是 Frost 寒地牛怪外观的标志性武器。",
+      "name": "长剑凝冰外观",
+      "code": "zh"
+    },
+    {
+      "description": "Вооружитесь этим мифическим клинком изо льда, особым оружием Фроста Харка.",
+      "name": "Скин одноручного меча: Фрюста",
+      "code": "ru"
+    },
+    {
+      "description": "神話の凍れる剣を担え。Frost Harka特有の武器。",
+      "name": "Frysta ロングソード スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Wymachuj tym mistycznym, zamrożonym ostrzem - charakterystyczną bronią Frosta Harka.",
+      "name": "Miecz: Skórka Frysta",
+      "code": "pl"
+    },
+    {
+      "description": "Brande esta espada congelada mítica, a arma tradicional do Frost Harka.",
+      "name": "Espada Longa: Skin Frysta",
+      "code": "pt"
+    },
+    {
+      "description": "舞動這把神秘的冰潔之刃，是 Frost 寒地牛怪 外觀的標誌性武器。",
+      "name": "長劍 凝冰外觀",
+      "code": "tc"
+    },
+    {
+      "description": "กวัดแกว่งดาบเยือกแข็งซึ่งเป็นอาวุธประจำตัวของ Frost Harka ในตำนานนี้",
+      "name": "สกินดาบยาว Frysta",
+      "code": "th"
+    },
+    {
+      "description": "Bu efsane bıçak Frost Harka'nın özel silahıdır.",
+      "name": "Uzun Kılıç Frysta Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Розмахуйте вкритим кригою мітичним клинком — неповторною зброєю вигляду «Херке» для Фроста.",
+      "name": "Вигляд «Фриста» для довгого меча",
+      "code": "uk"
+    }
+  ]
+}

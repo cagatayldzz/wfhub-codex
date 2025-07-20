@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFloatingGlobeBase",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-globe-base-8b5efb0038.png",
+  "name": "Zariman Globe Base",
+  "description": "A levitation base used with globes.",
+  "languages": [
+    {
+      "description": "Eine Schwebebasis, die für Globen verwendet wird.",
+      "name": "Zariman Basis für Globen",
+      "code": "de"
+    },
+    {
+      "description": "Une base de lévitation utilisée avec des globes.",
+      "name": "Zariman: Globe (base)",
+      "code": "fr"
+    },
+    {
+      "description": "Una base di levitazione utilizzata per le sfere.",
+      "name": "Base per Sfera Zariman",
+      "code": "it"
+    },
+    {
+      "description": "천구의와 함께 사용되는 공중 부양 받침대입니다.",
+      "name": "자리만 천구의 받침대",
+      "code": "ko"
+    },
+    {
+      "description": "Una base de levitación utilizada con los globos.",
+      "name": "Base de globo Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个与球仪一起使用的悬浮底座。",
+      "name": "扎里曼球仪底座",
+      "code": "zh"
+    },
+    {
+      "description": "База для левитации шара глобуса.",
+      "name": "Зариман: Глобус (подставка)",
+      "code": "ru"
+    },
+    {
+      "description": "グローブと使用する浮遊型ベース。",
+      "name": "Zariman グローブベース",
+      "code": "ja"
+    },
+    {
+      "description": "Podstawa lewitacyjna używana wraz z globusami.",
+      "name": "Zariman: Globus (podstawa)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma base de levitação usada com globos.",
+      "name": "Base de Globo da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "與球儀一起使用的懸浮底座。",
+      "name": "扎日曼球儀底座",
+      "code": "tc"
+    },
+    {
+      "description": "ฐานลอยที่ใช้กับลูกโลก",
+      "name": "Zariman: ฐานลูกโลก",
+      "code": "th"
+    },
+    {
+      "description": "Küre ile kullanılan bir havaya yükseltme tabanı.",
+      "name": "Zariman Küre Tabanı",
+      "code": "tr"
+    },
+    {
+      "description": "Летюча підставка, що використовується для глобусів.",
+      "name": "Підставка для глобуса із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

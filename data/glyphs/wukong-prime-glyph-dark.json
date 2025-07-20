@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWukongPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-prime-glyph---dark-b582d2715e.png",
+  "name": "Wukong Prime Glyph - Dark",
+  "description": "A glyph depicting Wukong Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wukong Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Wukong Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wukong Prime sur un fond sombre.",
+      "name": "Glyphe Wukong Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wukong Prime su uno sfondo scuro.",
+      "name": "Glifo Wukong Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 오공 프라임을 묘사한 글리프입니다.",
+      "name": "오공 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Wukong Prime sobre un fondo oscuro.",
+      "name": "Glifo de Wukong Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Wukong Prime 在黑暗背景下的浮印。",
+      "name": "Wukong Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вуконга Прайм на тёмном фоне.",
+      "name": "Глиф: Вуконг Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたWukong Prime のグリフ。",
+      "name": "Wukong Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Wukong Prime na ciemnym tle.",
+      "name": "Glif Wukong Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Wukong Prime em um fundo escuro.",
+      "name": "Glifo: Wukong Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wukong Prime 在黑暗背景下的浮印。",
+      "name": "Wukong Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Wukong Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Wukong Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Wukong Prime koyu fonlu glif.",
+      "name": "Wukong Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вукона-прайм на темному тлі.",
+      "name": "Темний гліф «Вукон-прайм»",
+      "code": "uk"
+    }
+  ]
+}

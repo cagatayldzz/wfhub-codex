@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/StalkerShoulderArmor/StalkerShoulderArmorA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deathmark-shoulder-armor-44d7c99039.png",
+  "name": "Deathmark Shoulder Armor",
+  "description": "Sport the grim tokens of one who hunts across worlds.",
+  "languages": [
+    {
+      "description": "Trage das düstere Zeichen eines Jägers, der auf allen Welten jagt.",
+      "name": "Schulterplatten: Deathmark",
+      "code": "de"
+    },
+    {
+      "description": "Arborez les sombres atours de celui qui chasse à travers les mondes.",
+      "name": "Épaulière Marquemort",
+      "code": "fr"
+    },
+    {
+      "description": "Indossa i sinistri simboli di chi caccia attraverso i mondi.",
+      "name": "Spallacci Marchio di Morte",
+      "code": "it"
+    },
+    {
+      "description": "세상 곳곳에서 적을 사냥하는 자의 음산한 징표를 자랑스레 내보여 보세요.",
+      "name": "데스마크 숄더 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Luce los sombríos símbolos de alguien que caza a través de los mundos.",
+      "name": "Hombrera Marca de la Muerte",
+      "code": "es"
+    },
+    {
+      "description": "佩戴星际猎人的冷血标记。",
+      "name": "死亡标记肩甲",
+      "code": "zh"
+    },
+    {
+      "description": "Носите с собой мрачные символы охотника, пересекающего миры.",
+      "name": "Наплечники: Метка смерти",
+      "code": "ru"
+    },
+    {
+      "description": "世界を巡り狩りを続けるものの勲章。",
+      "name": "Deathmark ショルダーアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Noś ponure symbole kogoś, kto poluje na całym świecie.",
+      "name": "Naramienniki: Deathmark",
+      "code": "pl"
+    },
+    {
+      "description": "Ostente os símbolos sombrios daquele que caça através dos mundos.",
+      "name": "Ombros: Marca da Morte",
+      "code": "pt"
+    },
+    {
+      "description": "展示跨界狩獵者所佩帶的冷漠標章。",
+      "name": "死亡標記肩甲",
+      "code": "tc"
+    },
+    {
+      "description": "สวมเครื่องแต่งกายที่เป็นสัญลักษณ์แห่งความน่ากลัวของผู้ที่ออกล่าไปทั่วโลก",
+      "name": "เกราะไหล่ Deathmark",
+      "code": "th"
+    },
+    {
+      "description": "Dünyalar arasında avlanan kişinin korkulu sembollerini taşı.",
+      "name": "Ölüm İşareti Omuz Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Спорядіть похмурі символи мисливця, що полює по всьому світу.",
+      "name": "Наплічник «Мітка смерті»",
+      "code": "uk"
+    }
+  ]
+}

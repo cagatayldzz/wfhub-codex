@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEquinoxSolsticeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-solstice-glyph---dark-722832bed6.png",
+  "name": "Equinox Solstice Glyph - Dark",
+  "description": "A glyph depicting Equinox on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Equinox vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Equinox Solstice (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Equinox sur un fond sombre.",
+      "name": "Glyphe Equinox Solstice - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Equinox su uno sfondo scuro.",
+      "name": "Glifo Equinox Solstice - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 솔스티스 이쿼녹스를 묘사한 글리프입니다.",
+      "name": "이쿼녹스 솔스티스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo mostrando Soltice Equinox con fondo brillante.",
+      "name": "Glifo de Equinox Solstice - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Equinox 至点在黑暗背景下的浮印。",
+      "name": "Equinox 至点浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эквинокс на тёмном фоне.",
+      "name": "Глиф: Эквинокс Солнцестояние - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Equinox のグリフ。",
+      "name": "Equinox Solstice グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Equinox na ciemnym tle.",
+      "name": "Glif Equinox Solstice — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Equinox em um fundo escuro.",
+      "name": "Glifo: Equinox Solstice (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Equinox 在黑暗背景下的浮印。",
+      "name": "Equinox 至點浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Equinox บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Equinox Solstice - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Equinox koyu fonlu glif.",
+      "name": "Equinox Solstice Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Еквінокс на темному тлі.",
+      "name": "Темний гліф «Еквінокс „Сонцестояння“»",
+      "code": "uk"
+    }
+  ]
+}

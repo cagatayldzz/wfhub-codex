@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWNekrosAusirylystHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nekros-ausirylyst-helmet-182feb330d.png",
+  "name": "Nekros Ausirylyst Helmet",
+  "description": "A helmet for the Nekros Warframe, designed by LostEpoch.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Nekros Warframe, erstellt von LostEpoch.",
+      "name": "Nekros-Helm: Ausirylyst",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nekros, conçu par LostEpoch.",
+      "name": "Casque Nekros Ausirylyst",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nekros, ideato da LostEpoch.",
+      "name": "Elmo Nekros Ausirylyst",
+      "code": "it"
+    },
+    {
+      "description": "LostEpoch에 의해 디자인된 네크로스 워프레임을 위한 헬멧입니다.",
+      "name": "네크로스 오시릴리스트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nekros, creado por LostEpoch.",
+      "name": "Casco Ausirylyst de Nekros",
+      "code": "es"
+    },
+    {
+      "description": "Nekros 战甲的头盔，由 LostEpoch 设计。",
+      "name": "Nekros 死灵使头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Некроса, созданный LostEpoch.",
+      "name": "Шлем Некроса: Аусирилист",
+      "code": "ru"
+    },
+    {
+      "description": "Nekros用のヘルメット。製作者：LostEpoch。",
+      "name": "Nekros Ausirylyst ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Nekros, zaprojektowany przez LostEpoch.",
+      "name": "Nekros: Hełm Ausirylyst",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Nekros, desenvolvido por LostEpoch.",
+      "name": "Nekros: Capacete Ausirylyst",
+      "code": "pt"
+    },
+    {
+      "description": "Nekros Warframe 的頭盔，由 LostEpoch 設計。",
+      "name": "Nekros 澳西力使頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nekros Warframe ออกแบบโดย LostEpoch",
+      "name": "หมวกเหล็ก Nekros Ausirylyst",
+      "code": "th"
+    },
+    {
+      "description": "LostEpoch tarafından dizayn edilen Nekros Warframe miğferi.",
+      "name": "Nekros Ausirylyst Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Некроса, створений LostEpoch.",
+      "name": "Шолом «Аусірилист» для Некроса",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo's-bane-5b57f1a66f.png",
+  "name": "Kullervo's Bane",
+  "description": "Kullervo's fury incarnate. Acrithis will trade this prized artifact for certain items from her collection.\n\nLocation: Earned by confronting Kullervo and defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral",
+  "languages": [
+    {
+      "description": "Kullervos Wut in Person. Acrithis wird dieses wertvolle Artefakt gegen bestimmte Gegenstände aus ihrer Sammlung eintauschen.\n\nQuelle: Belohnung für die Konfrontation mit Kullervo und den Sieg über den Orowyrm in derselben Duviri-Mission während der Angst--, Wut- oder Trauerspirale",
+      "name": "Kullervos Ruin",
+      "code": "de"
+    },
+    {
+      "description": "La fureur de Kullervo incarnée. Acrithis échangera cet artefact précieux contre certains objets de sa collection. \n\nLieu: Affronter Kullervo et vaincre l'Orowyrm dans la même mission de Duviri pendant une Spirale de Peur, de Colère ou de Chagrin",
+      "name": "Fléau de Kullervo",
+      "code": "fr"
+    },
+    {
+      "description": "La furia di Kullervo incarnata. Acrithis scambierà questo prezioso artefatto con alcuni oggetti della sua collezione.\n\nPosizione: Ottenuto affrontando Kullervo e sconfiggendo l'Orowyrm nella stessa missione Duviri durante la spirale Paura, Rabbia o Tristezza",
+      "name": "Flagello di Kullervo",
+      "code": "it"
+    },
+    {
+      "description": "쿨레르보의 분노가 구현화한 물체입니다. 이 귀중한 유물을 아크리티스에게 가져가면 그녀의 수집품 중 일부 아이템들로 교환할 수 있습니다.\n\n획득 가능 장소: 공포, 분노, 또는 슬픔 나선동안 두비리 미션 내에서 쿨레르보와 맞서 처치한 뒤 오로 용을 물리쳐 획득",
+      "name": "쿨레르보의 파멸",
+      "code": "ko"
+    },
+    {
+      "description": "La furia de Kullervo encarnada. Acrithis cambiará este valioso artefacto por ciertos objetos de su colección.\n\nUbicación: Se obtiene al enfrentar a Kullervo y derrotar al orowyrm en la misma misión de Duviri durante la espiral de miedo, ira o tristeza.",
+      "name": "La perdición de Kullervo",
+      "code": "es"
+    },
+    {
+      "description": "Kullervo 的愤怒化身。可以用这件珍贵的神器与言录使换取她收藏的某些物品。 \n\n获取地点：在恐惧、愤怒或悲伤复眠螺旋中对抗 Kullervo 并在同一个双衍王境任务中打败奥金魇龙",
+      "name": "Kullervo 的灾刃",
+      "code": "zh"
+    },
+    {
+      "description": "Воплощение ярости Куллерво. Акритис обменяет этот ценный артефакт на некоторые предметы из своей коллекции.\n\nМестонахождение: можно заработать в боях против Куллерво и победив Оровирма в той же миссии Дувири во время витка спирали Страха, Гнева или Печали.",
+      "name": "Проклятие Куллерво",
+      "code": "ru"
+    },
+    {
+      "description": "Kullervoの怒りが実体化したもの。この貴重なアーティファクトはAcrithisが集めた特定のアイテムと交換できる。\n\n場所：デュヴィリ（恐怖・激怒・悲哀のスパイラル中にクエストでKullervoを倒した後、オロワーム撃破時に入手）",
+      "name": "Kullervoの災禍",
+      "code": "ja"
+    },
+    {
+      "description": "Furia Kullervo w najczystszej formie. Acrithis chętnie wymieni ten cenny artefakt na przedmioty ze swojej kolekcji.\n\nPołożenie: Zdobywany za konfrontację z Kullervo i pokonanie Orożmija w tej samej misji Duviri podczas Spirali Strachu, Gniewu lub Smutku",
+      "name": "Sztylet Kullervo",
+      "code": "pl"
+    },
+    {
+      "description": "A fúria encarnada do Kullervo. Acritis trocará este valioso artefato por certos itens de sua coleção.\n\nLocalização: obtido ao confrontar o Kullervo e derrotar o Orowyrm na mesma missão de Duviri durante as Espirais de Medo, de Raiva e de Tristeza.",
+      "name": "Maldição do Kullervo",
+      "code": "pt"
+    },
+    {
+      "description": "Kullervo 憤怒的顯化。Acrithis 願意交換她收藏中的特定物品以換取這件珍貴的神器。\n\n地點：在渡域的「懼」、「怒」、「哀」心旋期間，於相同任務內擊敗 Kullervo 和奧金蛟龍後獲得",
+      "name": "Kullervo 剋星",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นไอเทมที่มาจากความโกรธแค้นของ Kullervo ซึ่ง Acrithis จะแลกเปลี่ยนไอเทมที่มีค่าชิ้นนี้กับไอเทมบางชิ้นที่มีอยู่ในคอลเลกชัน\n\nแหล่งที่พบ: เผชิญหน้ากับ Kullervo และเอาชนะ Orowyrm ที่อยู่ในภารกิจ Duviri เดียวกันระหว่างในช่วงที่เกิดวังวนอารมณ์กลัว โกรธ หรือโศกเศร้า",
+      "name": "สารพิษของ Kullervo",
+      "code": "th"
+    },
+    {
+      "description": "Kullervo'nun öfkesi vücut bulmuş durumda. Acrithis, bu değerli eseri koleksiyonundaki belirli eşyalar ile takas edecektir.\n\nKonum: Duviri'de Korku, Öfke veya Hüzün döngüsü sırasında aynı görev içerisinde hem Kullervo'yu, hem de Orowyrm'i yenerek elde edilebilir",
+      "name": "Kullervo'nun Felaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Втілення люті Куллерво. Акрітіс обміняє цей цінний артефакт на певні предмети зі своєї колекції.\n\nМожна здобути в боях супроти Куллерво та за здолання орозмія в Дувірі на завитках страху, злості та журби у тому ж завданні.",
+      "name": "Кара Куллерво",
+      "code": "uk"
+    }
+  ]
+}

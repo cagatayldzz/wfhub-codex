@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/UniversalSyndicateDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/universal-medallion-2dd7ce24ad.png",
+  "name": "Universal Medallion",
+  "description": "A medallion prized by all the syndicates. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Ein Medaillon, das von allen Syndikaten geschätzt wird. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Universales Medaillon",
+      "code": "de"
+    },
+    {
+      "description": "Un Médaillon recherché par tous les Syndicats. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats situés dans les Relais.",
+      "name": "Médaillon Universel",
+      "code": "fr"
+    },
+    {
+      "description": "Un medaglione apprezzato da tutte le associazioni. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Medaglione Universale",
+      "code": "it"
+    },
+    {
+      "description": "모든 신디케이트들에게 귀하게 여겨지는 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "유니버설 메달리온",
+      "code": "ko"
+    },
+    {
+      "description": "Un medallón apreciado por todos los sindicatos. Puede ser intercambiado por reputación adicional en las salas de los sindicatos en los Repetidores.",
+      "name": "Medallón universal",
+      "code": "es"
+    },
+    {
+      "description": "被所有集团珍视的一种勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "万用勋章",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон, ценимый всеми синдикатами. Можно обменять в комнатах синдиката в реле на репутацию.",
+      "name": "Универсальный Медальон",
+      "code": "ru"
+    },
+    {
+      "description": "６つのメインシンジケートで使用できるメダル。リレーのシンジケートハブから追加地位ポイントへトレードできる。",
+      "name": "共有メダル",
+      "code": "ja"
+    },
+    {
+      "description": "Medalion ceniony przez wszystkie Syndykaty. Może być wymieniony za dodatkową reputację w pokojach syndykatowych na Przekaźniku.",
+      "name": "Medalion Uniwersalny",
+      "code": "pl"
+    },
+    {
+      "description": "Um medalhão valorizado por todos os sindicatos. Ele pode ser negociado nas salas dos sindicatos, nos Relays, em troca de reputação adicional.",
+      "name": "Medalhão Universal",
+      "code": "pt"
+    },
+    {
+      "description": "被所有集團珍視的一種獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "萬用獎章",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นเหรียญที่มีค่าต่อทุกซินดิเคต สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "เหรียญสากล",
+      "code": "th"
+    },
+    {
+      "description": "Tüm sendikalar tarafından değer verilen bir madalyon. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "Evrensel Madalyon",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон, який визнається серед усіх синдикатів. Можна обміняти на додаткову репутацію в центрах синдикатів.",
+      "name": "Універсальний медальйон",
+      "code": "uk"
+    }
+  ]
+}

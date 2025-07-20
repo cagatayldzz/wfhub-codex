@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualEtherSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-ether-70463837b6.png",
+  "name": "Dual Ether",
+  "description": "Fast and precise. The Dual Ether cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing’ infested allies. Capable of hitting multiple targets.",
+  "languages": [
+    {
+      "description": "Schnell und präzise. Die Dual-Ether schneidet so sauber, dass sie von den Tenno als humane Waffe erachtet wurde um befallene Verbündete zu 'reinigen'. In der Lage, mehrere Ziele zu treffen.",
+      "name": "Dual-Ether",
+      "code": "de"
+    },
+    {
+      "description": "Vitesse et précision. Les Doubles Ethers sont si tranchantes que les Tennos les considèrent comme les armes les plus 'humaines' pour abréger les souffrances des alliés Infestés. Capables de toucher plusieurs cibles.",
+      "name": "Doubles Ethers",
+      "code": "fr"
+    },
+    {
+      "description": "Veloci e precise. Le Dual Ether tagliano così nettamente che i Tenno le consideravano lo strumento più compassionevole per 'purificare' gli alleati infestati. Sono in grado di colpire bersagli multipli.",
+      "name": "Dual Ether",
+      "code": "it"
+    },
+    {
+      "description": "빠르고 정밀한 듀얼 에테르는 그 깨끗한 절단력으로 인해, 텐노들에게는 인페스티드에 감염된 동료들을 '정화'해 주기 위한 보다 인도적인 무기로 고려된 바 있습니다. 동시에 여러 목표물을 타격할 수 있습니다.",
+      "name": "듀얼 에테르",
+      "code": "ko"
+    },
+    {
+      "description": "Rápidas y precisas. Las Éter Dobles cortan tan limpiamente que es considerada por los tenno como el arma para 'Limpiar' más humanamente a los aliados infestados. Es capaz de golpear múltiples enemigos.",
+      "name": "Éter dobles",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL ETHER）迅速而精准。正因为苍穹双剑干净利落的斩击，使得 Tenno 认为它是「净化」受到感染的盟友时更慈悲的武器。苍穹双剑一次能击中复数敌人。",
+      "name": "苍穹双剑",
+      "code": "zh"
+    },
+    {
+      "description": "Быстрые и точные. Эфирные клинки рубят так легко, что Тэнно считают их самым гуманным оружием для «очищения» заражённых союзников. Наносят удары сразу по нескольким целям.",
+      "name": "Эфирные клинки",
+      "code": "ru"
+    },
+    {
+      "description": "素早く、精確な斬撃を広範囲に繰り出す双剣。その鋭さ故にテンノが感染体を「介錯」する際に用いれられている。",
+      "name": "Dual Ether",
+      "code": "ja"
+    },
+    {
+      "description": "Szybki i precyzyjny. Miecz Eteryczny Podwójny tnie tak czysto, że był uznawany za humanitarną broń służącą do „oczyszczania” sprzymierzeńców dotkniętych Plagą. Trafia kilku wrogów naraz.",
+      "name": "Miecz Eteryczny Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Rápidas e precisas. As Espadas Etéreas Duplas realizam cortes tão limpos que foram consideradas pelos Tennos como as armas mais humanas para 'acabar' com aliados que foram Infestados. Consegue atingir múltiplos alvos.",
+      "name": "Espadas Etéreas Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL ETHER）迅速而精準。正因為蒼穹雙劍乾淨利落的斬擊，使得 Tenno 認為它是「淨化」受感染友方時更慈悲的武器。蒼穹雙劍一次能擊中複數敵人。",
+      "name": "蒼穹雙劍",
+      "code": "tc"
+    },
+    {
+      "description": "รวดเร็วและแม่นยำ Dual Ether ฟันได้อย่างหมดจดจน สำหรับ Tenno ถือว่าเป็นอาวุธที่มีมนุษยธรรมมากกว่าสำหรับการ 'ล้าง' พันธมิตรที่ติดเชื้อ สามารถโจมตีหลายเป้าหมาย",
+      "name": "Dual Ether",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı ve keskin.Dual Ether öyle temiz keser ki Tenno bu silahın infestedları öldürmek için yapılmış daha 'insancıl' bir silah olduğunu düşünür.Birden çok hedefe aynı anda vurabilir.",
+      "name": "Dual Ether",
+      "code": "tr"
+    },
+    {
+      "description": "Парні кинджали, швидкі й точні. Визнанні тенно як найгуманніша зброя для «зачищення» заражених товаришів. Ці клинки здатні вражати декілька цілей одночасно.",
+      "name": "Парні Етери",
+      "code": "uk"
+    }
+  ]
+}

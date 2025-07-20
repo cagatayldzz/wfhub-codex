@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Characters/Tenno/Accessory/Scarves/U17IntermScarf/U17IntermScarfItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/udyat-syandana-d765453cf1.png",
+  "name": "Udyat Syandana",
+  "description": "A flowing ribbon of silken fabric, crowned with a star.",
+  "languages": [
+    {
+      "description": "Ein fließendes Band aus seidenem Stoff, gekrönt mit einem Stern.",
+      "name": "Udyat Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Un ruban en soie s'écoulant, couronné d'une étoile.",
+      "name": "Syandana Udyat",
+      "code": "fr"
+    },
+    {
+      "description": "Un fluente nastro di seta, coronato da una stella.",
+      "name": "Syandana Udyat",
+      "code": "it"
+    },
+    {
+      "description": "꼭대기에 별이 달린 비단 리본이 늘어뜨려져 있습니다.",
+      "name": "우디앗 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una cinta que emana un tejido sedoso, coronada con una estrella.",
+      "name": "Syandana Udyat",
+      "code": "es"
+    },
+    {
+      "description": "这条丝质的光滑丝带上点缀着一粒星辰。",
+      "name": "乌加特披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Аккуратная лента шелковистой ткани, украшенная звездой.",
+      "name": "Сандана: Удъят",
+      "code": "ru"
+    },
+    {
+      "description": "流れるようなシルクの織物でデザインされ、星が縁取られたケープ。",
+      "name": "Udyat シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Zwiewna wstęga z jedwabnej tkaniny zwieńczona gwiazdą.",
+      "name": "Syandana Udyat",
+      "code": "pl"
+    },
+    {
+      "description": "Uma faixa leve feita de seda e adornada com uma estrela.",
+      "name": "Syandana: Udyat",
+      "code": "pt"
+    },
+    {
+      "description": "這條絲質的光滑絲帶上點綴著一粒星辰。",
+      "name": "烏加特披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ริบบิ้นผ้าไหมที่พลิ้วไหว ประดับด้วยดาวอยู่ด้านบน",
+      "name": "ไซอันดานา Udyat",
+      "code": "th"
+    },
+    {
+      "description": "Yıldızlarla taçlandırılmış ve havada dalgalanan ipek bir şerit rozet.",
+      "name": "Udyat Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Плавна стрічка шовковистої тканини, увінчана зіркою.",
+      "name": "Сяндана «Уд’ят»",
+      "code": "uk"
+    }
+  ]
+}

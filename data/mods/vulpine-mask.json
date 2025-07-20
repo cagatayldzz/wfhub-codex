@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RapierCmbOneMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulpine-mask-6ff25f6245.jpg",
+  "name": "Vulpine Mask",
+  "description": "Swift cuts, lancing strikes.",
+  "languages": [
+    {
+      "description": [
+        "Flinke Schnitte, durchbohrende Treffer."
+      ],
+      "name": "Listige Maskierung",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Des coupures rapides, agrémentées de frappes perforantes."
+      ],
+      "name": "Masque Vulpin",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Tagli rapidi, attacchi perforanti."
+      ],
+      "name": "Vulpine Mask",
+      "code": "it"
+    },
+    {
+      "description": [
+        "빠르게 베고, 도려내듯 공격합니다."
+      ],
+      "name": "불파인 마스크",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Cortes rápidos y ataques punzantes."
+      ],
+      "name": "Máscara vulpina",
+      "code": "es"
+    },
+    {
+      "description": [
+        "快速切割，刺穿攻击"
+      ],
+      "name": "狡狐诈面",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Быстрые пронзающие удары."
+      ],
+      "name": "Лисья ухмылка",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "素早い斬りつけと突き。"
+      ],
+      "name": "Vulpine Mask",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Szybkie cięcia i pchnięcia"
+      ],
+      "name": "Lisia Przebiegłość",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Cortes rápidos e golpes letais."
+      ],
+      "name": "Vulpine Mask",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "快速切割，刺穿攻擊。"
+      ],
+      "name": "狡狐詐面",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "โจมตีด้วยการฟาดฟันอย่างรวดเร็ว"
+      ],
+      "name": "Vulpine Mask",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Hızlı kesmeler, atlamalı saldırılar."
+      ],
+      "name": "Vulpine Mask",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Плавні різальні атаки й проколювальні удари."
+      ],
+      "name": "Лисяча морда",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ash-helmet-ff4c27834f.png",
+  "name": "Ash Helmet",
+  "description": "The standard issue helmet for the Ash Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Ash Warframe.",
+      "name": "Ash-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Ash.",
+      "name": "Casque Ash",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Ash.",
+      "name": "Elmo Ash",
+      "code": "it"
+    },
+    {
+      "description": "애쉬 워프레임을 위한 기본 헬멧입니다.",
+      "name": "애쉬 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Ash.",
+      "name": "Casco de Ash",
+      "code": "es"
+    },
+    {
+      "description": "Ash 的标准头盔。",
+      "name": "Ash 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Эша.",
+      "name": "Шлем Эша",
+      "code": "ru"
+    },
+    {
+      "description": "Ashの標準型ヘルメット。",
+      "name": "Ash ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Ash.",
+      "name": "Ash: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Ash.",
+      "name": "Ash: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Ash 標準頭盔。",
+      "name": "Ash 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Ash Warframe",
+      "name": "หมวกเหล็ก Ash",
+      "code": "th"
+    },
+    {
+      "description": "Ash için kullanılan standart bir miğfer",
+      "name": "Ash Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Еша.",
+      "name": "Шолом Еша",
+      "code": "uk"
+    }
+  ]
+}

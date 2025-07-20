@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMonkeyKingBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-glyph---bright-0f66e3c82c.png",
+  "name": "Wukong Glyph - Bright",
+  "description": "A glyph depicting Wukong on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wukong vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Wukong (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wukong sur un fond lumineux.",
+      "name": "Glyphe Wukong - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wukong su uno sfondo chiaro.",
+      "name": "Glifo Wukong - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 오공을 묘사한 글리프입니다.",
+      "name": "오공 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Wukong sobre un fondo brillante.",
+      "name": "Glifo de Wukong - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Wukong 在明亮背景下的浮印",
+      "name": "Wukong 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вуконга на тёмном фоне.",
+      "name": "Глиф: Вуконг - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたWukong のグリフ",
+      "name": "Wukong グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Wukong na jasnym tle.",
+      "name": "Glif Wukong — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Wukong em um fundo claro.",
+      "name": "Glifo: Wukong (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wukong 在明亮背景下的浮印。",
+      "name": "Wukong 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Wukong บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Wukong - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Wukong açık fonlu glif.",
+      "name": "Wukong Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вукона на світлому тлі.",
+      "name": "Яскравий гліф «Вукон»",
+      "code": "uk"
+    }
+  ]
+}

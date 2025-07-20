@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrawlerAltTwoBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-shikoro-glyph---bright-390cbdccce.png",
+  "name": "Atlas Shikoro Glyph - Bright",
+  "description": "A glyph depicting Atlas Shikoro on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Atlas Shikoro vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Atlas Shikoro (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Atlas Shikoro sur un fond lumineux.",
+      "name": "Glyphe Atlas Shikoro - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Shikoro Atlas su uno sfondo chiaro.",
+      "name": "Glifo Atlas Shikoro - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 시코로 아틀라스를 묘사한 글리프입니다.",
+      "name": "아틀라스 시코로 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Shikoro Atlas sobre un fondo brillante.",
+      "name": "Glifo de Atlas Shikoro - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Atlas 兜围在明亮背景下的浮印。",
+      "name": "Atlas 兜围浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Атласа «Сикоро» на светлом фоне.",
+      "name": "Глиф: Атлас Сикоро - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたAtlas Shikoro のグリフ。",
+      "name": "Atlas Shikoro グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Atlas Shikoro na jasnym tle.",
+      "name": "Glif Atlas Shikoro — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Atlas Shikoro em um fundo claro.",
+      "name": "Glifo: Atlas Shikoro (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Atlas 兜圍在明亮背景下的浮印。",
+      "name": "Atlas 兜圍浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Atlas Shikoro บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Atlas Shikoro - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Atlas Shikoro açık fonlu glif.",
+      "name": "Atlas Shikoro Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Атласа в шоломі «Шікоро» на світлому тлі.",
+      "name": "Яскравий гліф «Атлас „Шікоро“»",
+      "code": "uk"
+    }
+  ]
+}

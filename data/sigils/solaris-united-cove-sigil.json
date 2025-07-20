@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/SolarisRankFour",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-united-cove-sigil-b01134fa6d.png",
+  "name": "Solaris United Cove Sigil",
+  "description": "A sigil representing prestige gained with the Solaris United.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige mit Solaris United repräsentiert.",
+      "name": "Siegel: Solaris United Cove",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec l'Union Solaris.",
+      "name": "Sceau de Bon Gars de l'Union Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Solaris United.",
+      "name": "Sigillo Conoscente Solaris United",
+      "code": "it"
+    },
+    {
+      "description": "솔라리스 연합으로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "솔라리스 연합 주인장 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con Solaris Unida.",
+      "name": "Sello Amigo de Solaris Unida",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了索拉里斯联盟的威望。",
+      "name": "索拉里斯联盟家伙纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя в Объединении Солярис.",
+      "name": "Сигил: Объединение Солярис - приятель",
+      "code": "ru"
+    },
+    {
+      "description": "ソラリス連合から得た声望を表すシジル。",
+      "name": "ソラリス連合お仲間 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Zjednoczonego Solaris.",
+      "name": "Znak Zjednoczonego Solaris: Kumpel",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com a União Solaris.",
+      "name": "Brasão: Colega da União Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了索拉里斯聯盟的威望。",
+      "name": "索拉里斯聯盟好傢伙紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Solaris United",
+      "name": "เครื่องหมาย Solaris United: มิตรสหาย",
+      "code": "th"
+    },
+    {
+      "description": "Solaris United prestijini sembolize eden bir mühür.",
+      "name": "Solaris United Arkadaş Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в «Соряліській єдності».",
+      "name": "Сиґіл «Солярійська єдність: друг»",
+      "code": "uk"
+    }
+  ]
+}

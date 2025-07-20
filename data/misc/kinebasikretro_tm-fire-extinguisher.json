@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinebasikretro_tm-fire-extinguisher-bd8c1408a8.png",
+  "name": "Kinebasik<Retro_tm> Fire Extinguisher",
+  "description": "For all your KineBasik<RETRO_TM> fire extinguishing needs!",
+  "languages": [
+    {
+      "description": "Für alle deine KineBasik<RETRO_TM>-Feuerlöschbedürfnisse!",
+      "name": "KineBasik<RETRO_TM>: Feuerlöscher",
+      "code": "de"
+    },
+    {
+      "description": "Pour tous vos besoins KineBasik<RETRO_TM>!",
+      "name": "Extincteur KineBasik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Per tutte le tue esigenze incendieristiche, da KineBasik<RETRO_TM>!",
+      "name": "Estintore KineBasik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네베이직<RETRO_TM> 소화기로 필요한 모든 것을 챙기세요!",
+      "name": "키네베이직<RETRO_TM> 소화기",
+      "code": "ko"
+    },
+    {
+      "description": "¡Para todas tus necesidades de extinción de incendios, elige KineBasik<RETRO_TM>!",
+      "name": "Extintor KineBasik<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "满足你的所有即时用<RETRO_TM>灭火器的需求！",
+      "name": "即时用<RETRO_TM>灭火器",
+      "code": "zh"
+    },
+    {
+      "description": "Для всех ваших потребностей в тушении пожаров с «КинеБэйсик»<RETRO_TM>!",
+      "name": "Огнетушитель «КинеБэйсик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネベーシック<RETRO_TM> 自慢の消火器！",
+      "name": "キネベーシック<RETRO_TM> 消火器",
+      "code": "ja"
+    },
+    {
+      "description": "Gaśnica KineBasik<RETRO_TM> wprost idealna do gaszenia pożarów!",
+      "name": "KineBasik<RETRO_TM>: Gaśnica",
+      "code": "pl"
+    },
+    {
+      "description": "Para todas as suas necessidades de extintores de incêndio da KineBasik<RETRO_TM>!",
+      "name": "Extintor de Incêndio KineBasik<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "滿足你一切開需<RETRO_TM>滅火器需求！",
+      "name": "開需<RETRO_TM>滅火器",
+      "code": "tc"
+    },
+    {
+      "description": "ถังดับเพลิง KineBasik<RETRO_TM> ที่ช่วยให้คุณมีอุปกรณ์ดับเพลิงเมื่อต้องการ",
+      "name": "ถังดับเพลิง KineBasik<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Tüm KineBasik<RETRO_TM> yangın söndürme ihtiyaçlarınız için!",
+      "name": "KineBasik<RETRO_TM> Yangın Söndürücü",
+      "code": "tr"
+    },
+    {
+      "description": "Для будь-яких ваших вогнегасних потреб!",
+      "name": "Вогнегасник «Кінебейзік»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

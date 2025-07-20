@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerEnemyWeaknessUpgrade",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/data-parse-widget-efc9760bc5.png",
+  "name": "Data-Parse Widget",
+  "description": "Synthesis Scanner will now show target enemy weaknesses and resistances.",
+  "languages": [
+    {
+      "description": "Synthese-Scanner zeigen nun die Schwächen und Resistenzen des Gegners.",
+      "name": "Datenanalyse Vorrichtung",
+      "code": "de"
+    },
+    {
+      "description": "Le Scanneur de Synthèse montrera maintenant les faiblesses et les résistances de l'ennemi ciblé.",
+      "name": "Dispositif d'Analyse de Données",
+      "code": "fr"
+    },
+    {
+      "description": "Lo Scanner Sintetizzatore mostrerà le debolezze e le resistenze del nemico inquadrato.",
+      "name": "Widget Analizzatore di Dati",
+      "code": "it"
+    },
+    {
+      "description": "이제 신디시스 스캐너는 스캔 된 대상의 약점 및 저항을 보여줍니다.",
+      "name": "데이터 분석 위젯",
+      "code": "ko"
+    },
+    {
+      "description": "El escáner de síntesis mostrará las debilidades y resistencias del enemigo.",
+      "name": "Widget Análisis-Dato",
+      "code": "es"
+    },
+    {
+      "description": "结合扫描器将显示目标敌人的弱点和抗性。",
+      "name": "数据解析改造器",
+      "code": "zh"
+    },
+    {
+      "description": "Сканер синтеза теперь показывает сильные и слабые стороны цели.",
+      "name": "Инфо-анализирующий виджет",
+      "code": "ru"
+    },
+    {
+      "description": "シンセシススキャナーが敵の弱点と耐性を表示するようになる。",
+      "name": "Data-Parse ウィジェット",
+      "code": "ja"
+    },
+    {
+      "description": "Skaner Syntezy pokaże odporności i słabości celu.",
+      "name": "Widget Analizatora Danych",
+      "code": "pl"
+    },
+    {
+      "description": "O Escâner de Síntese mostrará as resistências e fraquezas do inimigo.",
+      "name": "Dispositivo de Análise de Dados",
+      "code": "pt"
+    },
+    {
+      "description": "結合掃瞄儀將顯示目標敵人的弱點和抗性。",
+      "name": "數據解析改造器",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องสแกนการสังเคราะห์จะแสดงจุดอ่อนและประเภทความต้านทานของศัตรูที่เป็นเป้าหมาย",
+      "name": "วิดเจ็ต Data-Parse",
+      "code": "th"
+    },
+    {
+      "description": "Sentez Tarayıcısı bundan sonra düşman hedefinin direncini ve zayıf noktasını gösterecek.",
+      "name": "Data-Parse Widget",
+      "code": "tr"
+    },
+    {
+      "description": "Зчитувач синтезу показуватиме слабкі та сильні місця ворогів.",
+      "name": "Розширення «Аналіз даних»",
+      "code": "uk"
+    }
+  ]
+}

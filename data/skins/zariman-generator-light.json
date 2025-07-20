@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpEngineGeneratorALight",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-generator-light-006ab4ee8e.png",
+  "name": "Zariman Generator Light",
+  "description": "A light used on the power generator.",
+  "languages": [
+    {
+      "description": "Ein Licht, das am Generator verwendet wird.",
+      "name": "Zariman Generatorlicht",
+      "code": "de"
+    },
+    {
+      "description": "Une lumière utilisée sur le groupe électrogène.",
+      "name": "Zariman: Générateur (lampe)",
+      "code": "fr"
+    },
+    {
+      "description": "Una luce utilizzata sul generatore di energia.",
+      "name": "Luce per Generatore Zariman",
+      "code": "it"
+    },
+    {
+      "description": "발전기에 사용되는 조명입니다.",
+      "name": "자리만 발전기 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Una luz usada en el generador de energía.",
+      "name": "Luz de generador Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个发电机上使用的照明灯。",
+      "name": "扎里曼发电机照明灯",
+      "code": "zh"
+    },
+    {
+      "description": "Свет, используемый на генераторе энергии.",
+      "name": "Зариман: Светильник генератора",
+      "code": "ru"
+    },
+    {
+      "description": "電力ジェネレーターに使用される照明。",
+      "name": "Zariman ジェネレーターライト",
+      "code": "ja"
+    },
+    {
+      "description": "Światło używane wraz z generatorem.",
+      "name": "Zariman: Światło generatora",
+      "code": "pl"
+    },
+    {
+      "description": "Uma luz usada no gerador de energia.",
+      "name": "Luz do Gerador da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "發電機上使用的照明。",
+      "name": "扎日曼發電機照明",
+      "code": "tc"
+    },
+    {
+      "description": "ไฟที่ใช้กับเครื่องปั่นไฟ",
+      "name": "Zariman: ไฟของเครื่องปั่นไฟ",
+      "code": "th"
+    },
+    {
+      "description": "Jeneratörde kullanılan bir ışık.",
+      "name": "Zariman Jeneratör Işığı",
+      "code": "tr"
+    },
+    {
+      "description": "Світло, яке отримує енергію від генератора.",
+      "name": "Освітлювач із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

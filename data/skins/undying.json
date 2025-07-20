@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichBase",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/undying-ffaf8e43e8.png",
+  "name": "Undying",
+  "description": "Unlocks a collection of colors favored by Kuva Liches.",
+  "languages": [
+    {
+      "description": "Schaltet eine Sammlung von Farben frei, bevorzugt von Kuva Lichs.",
+      "name": "Unsterblichkeit",
+      "code": "de"
+    },
+    {
+      "description": "Débloque une collection de couleurs de palettes prisées par les Liches Kuva.",
+      "name": "Immortel",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori prediletta dai Kuva Lich.",
+      "name": "Immortale",
+      "code": "it"
+    },
+    {
+      "description": "쿠바 리치들이 선호하는 색상을 잠금 해제합니다.",
+      "name": "언다잉",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores inspirados por los Lich de Kuva.",
+      "name": "Inmortal",
+      "code": "es"
+    },
+    {
+      "description": "解锁一组受到赤毒玄骸青睐的颜色包。",
+      "name": "不朽",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует набор цветов, которыми пользуются Личи Кувы.",
+      "name": "Бессмертный",
+      "code": "ru"
+    },
+    {
+      "description": "クバ・リッチが好むカラーパレットコレクションを解除する。",
+      "name": "Undying",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw kolorów inspirowanych Liczami Kuvy.",
+      "name": "Nieśmiertelny",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia uma coleção de cores inspiradas nos Lich de Kuva.",
+      "name": "Imortal",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖一系列赤毒巫妖所喜愛的顏色。",
+      "name": "不朽",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกชุดสีที่ Kuva Lich ชื่นชอบ",
+      "name": "Undying",
+      "code": "th"
+    },
+    {
+      "description": "Kuva Liches özellikli renk koleksiyonunu açar.",
+      "name": "Undying",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, шанована кувовими лічами.",
+      "name": "Безсмертний",
+      "code": "uk"
+    }
+  ]
+}

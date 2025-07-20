@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/NintendoFrostHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-opal-helmet-0fc580cd99.png",
+  "name": "Frost Opal Helmet",
+  "description": "A next-generation helmet for the Frost Warframe.",
+  "languages": [
+    {
+      "description": "Ein Helm der nächsten Generation für den Frost Warframe.",
+      "name": "Frost-Helm: Opal",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque de nouvelle génération pour la Warframe Frost.",
+      "name": "Casque Frost Opale",
+      "code": "fr"
+    },
+    {
+      "description": "Un Elmo di nuova generazione per il Warframe Frost.",
+      "name": "Elmo Frost Opal",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 워프레임을 위한 차세대 헬멧입니다.",
+      "name": "프로스트 오팔 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco de última generación para el warframe Frost.",
+      "name": "Casco Ópalo de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 战甲的次世代头盔。",
+      "name": "Frost 蛋白石头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем нового поколения для Фроста.",
+      "name": "Шлем Фроста: Опал",
+      "code": "ru"
+    },
+    {
+      "description": "Frost用次世代ヘルメット。",
+      "name": "Frost Opal ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm następnej generacji dla Warframe'a Frost.",
+      "name": "Frost: Hełm Opalowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete de última geração para o Warframe Frost.",
+      "name": "Frost: Capacete Opal",
+      "code": "pt"
+    },
+    {
+      "description": "Frost Warframe 的次世代頭盔。",
+      "name": "Frost 蛋白石頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กรุ่นใหม่สำหรับ Frost Warframe",
+      "name": "หมวกเหล็ก Frost Opal",
+      "code": "th"
+    },
+    {
+      "description": "Frost Warframe'i için yeni nesil bir miğfer.",
+      "name": "Frost Opal Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом наступного покоління для ворфрейма Фроста.",
+      "name": "Шолом «Опал» для Фроста",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HeirloomRhinoSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-heirloom-sigil-da5153178e.png",
+  "name": "Rhino Heirloom Sigil",
+  "description": "A sigil that celebrates Rhino's legacy.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Rhinos Vermächtnis feiert.",
+      "name": "Siegel: Rhino Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui célèbre l'héritage de Rhino.",
+      "name": "Sceau Rhino Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che celebra l'eredità di Rhino.",
+      "name": "Sigillo Rhino Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "라이노의 유산을 기념하는 시질입니다.",
+      "name": "라이노 에어룸 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que celebra el legado de Rhino.",
+      "name": "Sello de Rhino Legado",
+      "code": "es"
+    },
+    {
+      "description": "庆祝 Rhino 的传承的纹章。",
+      "name": "Rhino 传家宝纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, прославляющий наследие Рино.",
+      "name": "Сигил Рино: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Rhinoの武勇伝を称えるシジル。",
+      "name": "Rhino Heirloom シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak upamiętniający dziedzictwo Rhino.",
+      "name": "Znak: Pamiątkowy Rhino",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que celebra o legado do Rhino.",
+      "name": "Brasão: Legado do Rhino",
+      "code": "pt"
+    },
+    {
+      "description": "慶祝 Rhino 的傳承的紋章。",
+      "name": "Rhino 祖傳紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายฉลองตำนานที่สืบสานต่อของ Rhino",
+      "name": "เครื่องหมาย: Rhino Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Rhino'nun mirasını kutlayan bir mühür.",
+      "name": "Rhino Heirloom Mühür",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл для вшанування спадщини Райно.",
+      "name": "Сиґіл «Райно „Спадок”»",
+      "code": "uk"
+    }
+  ]
+}

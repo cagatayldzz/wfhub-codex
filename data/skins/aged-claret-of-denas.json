@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/DomsFinalDrink",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aged-claret-of-denas-2f20a05635.png",
+  "name": "Aged Claret Of Denas",
+  "description": "A claret with notes of golden sunlight. The Leverian’s history of the Warframe Ash brings into question whether blood runs thicker than fine wine.",
+  "languages": [
+    {
+      "description": "Ein Rotwein mit Noten von goldenem Sonnenlicht. Leverians Geschichte des Warframes Ash stellt in Frage, ob Blut dicker ist als guter Wein.",
+      "name": "Gealterter Rotwein von DeNas",
+      "code": "de"
+    },
+    {
+      "description": "Un grand vin aux reflets de soleil doré. L'histoire de la Warframe Ash présentée dans le Cabinet aborde la question de savoir si le sang est plus épais que le bon vin.",
+      "name": "Grand Cru de DeNas",
+      "code": "fr"
+    },
+    {
+      "description": "Un vino con riflessi dorati dal sole. La storia del Warframe Ash presente nel Leverian mette in dubbio se il sangue sia più denso del buon vino.",
+      "name": "Claret Invecchiato di DeNas",
+      "code": "it"
+    },
+    {
+      "description": "황금빛의 햇살이 감도는 적포도주입니다. 워프레임 애쉬에 관한 레베리안의 역사 기록은 과연 핏줄이야말로 이 고급스런 포도주보다도 진한가, 라는 의문을 던집니다.",
+      "name": "드나스의 오래된 포도주",
+      "code": "ko"
+    },
+    {
+      "description": "Un vino con reflejos dorados del sol. La historia del warframe Ash que aparece en el Leverian cuestiona si la sangre es más densa que un buen vino.",
+      "name": "Clarete añejo de DeNas",
+      "code": "es"
+    },
+    {
+      "description": "散发着金色阳光气息的红葡萄酒。Ash 在莱弗博物馆的历史不由让人质疑鲜血是否比红酒更加浓郁。",
+      "name": "德纳斯的陈年红葡萄酒",
+      "code": "zh"
+    },
+    {
+      "description": "Бордо с нотками золотого солнечного света. История Левериана о варфрейме по имени Эш ставит под сомнение, что гуще - хорошее вино или кровь.",
+      "name": "Великолепное вино Де Наз",
+      "code": "ru"
+    },
+    {
+      "description": "黄金の陽射しを味わえるクラレット。Leverianが伝えるWARFRAME ASHの過去は、血は上等なワインより濃く流れるかという疑問を投げかける。",
+      "name": "熟成したDeNasのクラレット",
+      "code": "ja"
+    },
+    {
+      "description": "Bordo z nutkami złotego słonecznego światła. Historia Asha opowiedziana przez Leveriana stawia pod znakiem zapytania, czy krew jest gęstsza od tego wyśmienitego wina.",
+      "name": "Stare Bordo DeNas",
+      "code": "pl"
+    },
+    {
+      "description": "Uma clarineta contendo notas da insolação dourada. A história do Warframe Ash apresentada no Leverian levanta uma questão importante: será que o sangue é mais denso que um bom vinho?",
+      "name": "Clarineta Envelhecida de DeNas",
+      "code": "pt"
+    },
+    {
+      "description": "帶有金色陽光酒調的紅葡萄酒。Leverian 對 Warframe Ash 的歷史的看法讓人省思鮮血是否濃於美酒。",
+      "name": "DeNas 的陳年紅葡萄酒",
+      "code": "tc"
+    },
+    {
+      "description": "ไวน์แดงที่มีโน้ตของรุ่งอรุณสาดแสงสีทอง ประวัติของ Warframe Ash ใน Leverian ทำให้เกิดคำถามที่ว่าเลือดจะข้นกว่าไวน์ชั้นดีหรือไม่",
+      "name": "ไวน์เก่าแก่ของ DeNas",
+      "code": "th"
+    },
+    {
+      "description": "Güneşin altın ışıkları ile olgunlaşmış üzümlerden yapılma bir şarap. Leverian, Ash Warframe'in hikayesinde, kanın kaliteli şaraptan daha koyu akıp akmadığını sorguluyor.",
+      "name": "DeNas'ın Yıllanmış Şarabı",
+      "code": "tr"
+    },
+    {
+      "description": "Вино з нотками золотистого світанку. Історія Леверія про ворфрейма Еша підіймає питання: кров густіша за добре вино?",
+      "name": "Витримане вино де Наз",
+      "code": "uk"
+    }
+  ]
+}

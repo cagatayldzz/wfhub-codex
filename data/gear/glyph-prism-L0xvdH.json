@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/GlyphConsumableNoCharges",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glyph-prism-b84e45cf41.png",
+  "name": "Glyph Prism",
+  "description": "Launches a magnetic prism to display your chosen Glyph. Only one may be deployed at a time, and charges are unlimited.",
+  "languages": [
+    {
+      "description": "Aktiviert ein magnetisches Prisma, welches deine ausgewählte Glyphe anzeigt. Nur eines kann zur selben Zeit verwendet werden. Aufladungen sind endlos.",
+      "name": "Glyphen-Prisma",
+      "code": "de"
+    },
+    {
+      "description": "Lance un prisme magnétique pour afficher le Glyphe choisi. Un seul Glyphe peut être déployé à la fois, les charges sont illimitées.",
+      "name": "Prisme de Glyphe",
+      "code": "fr"
+    },
+    {
+      "description": "Lancia un prisma magnetico per mostrare il Glifo scelto. Solo uno può essere dispiegato alla volta e le cariche sono infinite.",
+      "name": "Glifo Prisma",
+      "code": "it"
+    },
+    {
+      "description": "자성 프리즘을 발사하여 선택한 모양의 글리프를 보여줍니다. 한 번에 하나의 글리프만을 발사할 수 있으며, 사용량에 상관없이 무한정으로 사용할 수 있습니다.",
+      "name": "글리프 프리즘",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega un prisma mágnetico para mostrar el glifo seleccionado. Solamente se puede desplegar uno a la vez y las cargas son ilimitadas.",
+      "name": "Prisma de glifo",
+      "code": "es"
+    },
+    {
+      "description": "发射一道电磁光谱来展示你所选取的浮印。同一时间只能部署一个，并且可以无限次地使用。",
+      "name": "浮印光谱",
+      "code": "zh"
+    },
+    {
+      "description": "Выпускает магнетическую призму с выбранным Глифом. Единовременно может быть установлена только одна, количество зарядов не ограничено.",
+      "name": "Глиф: Призма",
+      "code": "ru"
+    },
+    {
+      "description": "磁気のあるプリズムを射出しグリフを表示する。表示可能なグリフは1つまで。チャージ無限。",
+      "name": "グリフプリズム",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy pryzmat, który wyświetla wybrany Glif. W danym czasie aktywny może być tylko jeden Pryzmatyczny Glif. Nie zużywa ładunków.",
+      "name": "Glif Pryzmatyczny",
+      "code": "pl"
+    },
+    {
+      "description": "Lança um prisma magnético para mostrar o Glifo escolhido. Só é possível usar um por vez, e as cargas são ilimitadas.",
+      "name": "Glifo: Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "發射一道電磁光譜來展示你所選取的浮印。同一時間只能部署一個，並且可以無限次地使用。",
+      "name": "浮印光譜",
+      "code": "tc"
+    },
+    {
+      "description": "เปิดปริซึมแม่เหล็กเพื่อแสดงภาพสัญลักษณ์ที่คุณเลือก สามารถใช้งานได้ครั้งละภาพเท่านั้นและจะใช้ได้ไม่จำกัด",
+      "name": "ปรึซึมภาพสัญลักษณ์",
+      "code": "th"
+    },
+    {
+      "description": "Seçili Glifin gösterilmesi için manyetik bir prizma yaratır. Her defasında sadece 1 prizma aktif olabilir ve kullanım sınırı yoktur.",
+      "name": "Glif Prizma",
+      "code": "tr"
+    },
+    {
+      "description": "Магнетична призма, що показує обраний вами гліф. Має нескінченну кількість застосувань. Одночасно може бути розміщена лише одна призма.",
+      "name": "Гліф «Призма»",
+      "code": "uk"
+    }
+  ]
+}

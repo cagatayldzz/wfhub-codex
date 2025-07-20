@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/FrameFighterPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frame-fighter-poster-dd59eeee1f.png",
+  "name": "Frame Fighter Poster",
+  "description": "You traveled the world and collected all the data, this is your prize.",
+  "languages": [
+    {
+      "description": "Ihr habt die Welt bereist und alle Daten gesammelt, dies ist euer Preis.",
+      "name": "Poster: Frame Fighter",
+      "code": "de"
+    },
+    {
+      "description": "Vous avez parcouru le monde et récolté toutes les données, ceci est votre prix.",
+      "name": "Affiche Frame Fighter",
+      "code": "fr"
+    },
+    {
+      "description": "Hai viaggiato per tutto il mondo e raccolto tutti i dati, questo è il tuo premio.",
+      "name": "Poster Frame Fighter",
+      "code": "it"
+    },
+    {
+      "description": "당신은 세계를 여행하고 모든 데이터를 수집했습니다, 이것은 당신의 상입니다.",
+      "name": "프레임 파이터 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "Viajaste por el mundo y recolectaste todos los datos, este es tu premio.",
+      "name": "Póster de Frame Fighter",
+      "code": "es"
+    },
+    {
+      "description": "你踏遍了世界并且收集了所有数据，这是你的奖励。",
+      "name": "战甲霸王海报",
+      "code": "zh"
+    },
+    {
+      "description": "Вы искали данные по всему миру и смогли собрать их. Это - Ваша награда.",
+      "name": "Постер: Frame Fighter",
+      "code": "ru"
+    },
+    {
+      "description": "あなたは世界を巡って全てのデータを集めた。このご褒美をどうぞ。",
+      "name": "Frame Fighter ポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Podróżowałeś po świecie i zebrałeś wszystkie dane. Oto Twoja nagroda.",
+      "name": "Plakat Frame Fighter",
+      "code": "pl"
+    },
+    {
+      "description": "Você viajou pelo mundo e coletou todos os dados. Este é o seu prêmio.",
+      "name": "Pôster: Frame Fighter",
+      "code": "pt"
+    },
+    {
+      "description": "你踏遍了世界並且收集了所有數據，這是你的獎勵。",
+      "name": "戰甲快打海報",
+      "code": "tc"
+    },
+    {
+      "description": "คุณเดินทางไปทั่วโลกและทำการเก็บรวบรวมข้อมูลทั้งหมดมาได้ ของตกแต่งชิ้นนี้คือรางวัลของคุณ",
+      "name": "โปสเตอร์: Frame Fighter",
+      "code": "th"
+    },
+    {
+      "description": "Tüm dünyayı gezdin ve tüm veriyi topladın, bu senin ödülün.",
+      "name": "Frame Fighter Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Це доказ того, що ви зібрали дані з усього світу.",
+      "name": "Плакат «Frame Fighter»",
+      "code": "uk"
+    }
+  ]
+}

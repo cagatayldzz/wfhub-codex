@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUFoodBox",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-food-box-decoration-9fa72e2c4c.png",
+  "name": "Solaris Food Box Decoration",
+  "description": "Those Solaris still utilizing traditional ingestion methods (often children) take sustenance from foods such as these energy bars. Place about your lander to give it that lived-in feel.",
+  "languages": [
+    {
+      "description": "Die Solaris, die nur die ursprüngliche Methode zur Nahrungsaufnahme nutzen (meist Kinder), nehmen meist Nährstoffe durch Nahrungsmittel wie Energieriegel zu sich. Kann im Schiff platziert werden, um es wohnlicher zu machen.",
+      "name": "Dekoration: Solaris Nahrungsmittelkiste",
+      "code": "de"
+    },
+    {
+      "description": "Les Solaris qui utilisent toujours des méthodes d'ingestion conventionnelles (souvent les enfants) se nourrissent d'aliments tels que ces barres énergétiques. À placer dans votre vaisseau pour lui donner l'air d'être habité.",
+      "name": "Décoration Paquet de Nourriture Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "I Solaris utilizzano un metodo di ingestione tradizionale (di solito i bambini) assorbendo i nutrienti dal cibo come le barrette energetiche. Danno alla tua navicella un aspetto vissuto. ",
+      "name": "Decorazione Cassa Cibo Solaris",
+      "code": "it"
+    },
+    {
+      "description": "기존의 섭취 방법을 계속 이용하는 솔라리스 사람들(흔히 아이들)은 이런 에너지 바 같은 음식물에서 영양분을 얻습니다. 착륙정 근처에 놓아서 손때를 탄 느낌을 주세요.",
+      "name": "솔라리스 음식 상자 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Esos Solaris siguen utilizando métodos tradicionales de ingesta (usualmente niños) para sustentarse de comidas tales como estas barras de energía. Ubícala en tu nave de desembarco para darle esa sensación de estar habitada.",
+      "name": "Decoración de caja de comida Solaris",
+      "code": "es"
+    },
+    {
+      "description": "那些索拉里斯人仍然使用着传统的进食方式（主要是小孩），从比如能量棒这样的食物中获取养分。把这个放在你的着陆器上可以增加生活气息。",
+      "name": "索拉里斯食物盒装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Те Солярис, что до сих пор принимают пищу традиционными методами (часто - дети), принимают её в форме еды - вроде энергетических батончиков. Разместите на своём Корабле, чтобы придать ему ощущение обжитого.",
+      "name": "Украшение: Продуктовая Коробка Солярис",
+      "code": "ru"
+    },
+    {
+      "description": "ソラリス民（子供の場合が多い）の中には未だに伝統的な摂取方法を利用し、このエネルギーバーのような食糧で栄養を摂っている者もいる。設置すれば船に生活感を与えてくれる。",
+      "name": "ソラリス フードボックスの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Ci z Solaris, którzy ciągle korzystają z tradycyjnych form żywienia (często dzieci), czerpią wartości odżywcze z jedzenia za pomocą takich batoników energetycznych. Umieść je na swoim lądowniku, aby nadać mu bardziej domowy i zamieszkały charakter.",
+      "name": "Ozdoba Solaris: Pudło żwności",
+      "code": "pl"
+    },
+    {
+      "description": "Estes Solaris ainda utilizando métodos convencionais de alimentação (geralmente crianças) se sustentam com esse tipo de comida, como essas barrinhas. Coloque em sua nave para adicionar um toque de lar, doce lar.",
+      "name": "Caixa de Comida Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "那些索拉里斯人仍然使用著傳統的進食方式（主要是小孩），從比如能量棒這樣的食物中獲取養分。把這個放在你的登陸載具上可以增加生活氣息。",
+      "name": "索拉里斯食物盒裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "พวก Solaris ยังคงใช้วิธีการบริโภคแบบเดิม ๆ (ส่วนมากจะเป็นเด็ก) ที่ยังชีพด้วยธัญพืชอัดแท่งเหล่านี้ เอาไปประดับไว้ในยานของคุณเพื่อให้ได้ความรู้สึกเหมือนอยู่บ้านสิ",
+      "name": "ของตกแต่ง: กล่องอาหาร Solaris",
+      "code": "th"
+    },
+    {
+      "description": "Hala geleneksel beslenme yöntemleri kullanan Solarisler (genelde çocuklar) bu enerji barları gibi yiyeceklerle beslenirler. Geminize ekleyerek o günlerin hatırasını yaşatın.",
+      "name": "Solaris Gıda Kutusu Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Солярійці, які все ще харчуються традиційним способом (найчастіше діти), отримують поживні речовини з таких енергетичних батончиків. Надасть вашому орбітру вид обжитого.",
+      "name": "Оздоблення: продовольча коробка Соляріса",
+      "code": "uk"
+    }
+  ]
+}

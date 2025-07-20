@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nikana-f266948d7b.png",
+  "name": "Nikana",
+  "description": "The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.",
+  "languages": [
+    {
+      "description": "Das Nikana Katana führt eine verlorene Tenno Klinge wieder ein und mit ihr ein weiteres Bruchstück der alten Traditionen.",
+      "name": "Nikana",
+      "code": "de"
+    },
+    {
+      "description": "Le katana Nikana réintroduit une lame Tenno perdue et avec elle, un autre fragment des temps anciens.",
+      "name": "Nikana",
+      "code": "fr"
+    },
+    {
+      "description": "La katana Nikana reintroduce una perduta lama Tenno e con essa un altro frammento dell'antica via.",
+      "name": "Nikana",
+      "code": "it"
+    },
+    {
+      "description": "니카나 카타나는 잊혀진 옛 방식을 다시 일깨워준 사라졌던 텐노의 검입니다.",
+      "name": "니카나",
+      "code": "ko"
+    },
+    {
+      "description": "La katana Nikana reintroduce una espada tenno perdida, y con ella, otro fragmento de la viejas costumbres.",
+      "name": "Nikana",
+      "code": "es"
+    },
+    {
+      "description": "（英文：NIKANA）利用远古技艺重铸失传的 Tenno 刀刃，使侍刃武士刀重新展现。",
+      "name": "侍刃",
+      "code": "zh"
+    },
+    {
+      "description": "Катана Никана - триумфальное возвращение потерянного клинка Тэнно, а с ним - и части старых традиций.",
+      "name": "Никана",
+      "code": "ru"
+    },
+    {
+      "description": "NIKANAは失われたテンノの刃を用い、かつての手法でつくられた刀だ。",
+      "name": "Nikana",
+      "code": "ja"
+    },
+    {
+      "description": "Nikana przywraca zaginione ostrze Tenno, a wraz z nią kolejny fragment dawnych dróg.",
+      "name": "Nikana",
+      "code": "pl"
+    },
+    {
+      "description": "A Nikana reintroduz uma lâmina Tenno perdida e com ela mais um fragmento dos velhos meios.",
+      "name": "Nikana",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：NIKANA）利用遠古技藝重鑄失傳的 Tenno 刀刃，重現侍刃武士刀。",
+      "name": "侍刃",
+      "code": "tc"
+    },
+    {
+      "description": "Nikana ไม่เพียงนำดาบของ Tenno ที่สูญหายกลับมา แต่ยังนำส่วนหนึ่งของวิถีการต่อสู้ในตำนานกลับมาด้วย",
+      "name": "Nikana",
+      "code": "th"
+    },
+    {
+      "description": "Nikana kayıp bir Tenno bıçağını temsil eder ve onun eski öldürme yöntemlerini kullanır",
+      "name": "Nikana",
+      "code": "tr"
+    },
+    {
+      "description": "Повертає втрачений фрагмент традицій разом із клинком тенно.",
+      "name": "Нікана",
+      "code": "uk"
+    }
+  ]
+}

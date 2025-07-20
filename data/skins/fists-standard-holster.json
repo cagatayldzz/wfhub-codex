@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GauntletsInPlace",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fists-standard-holster-4bfa9d77eb.png",
+  "name": "Fists Standard Holster",
+  "description": "Standard holster for Fists.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Faustwaffen.",
+      "name": "Faust-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les armes Poings.",
+      "name": "Port de Poings standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per i Pugni.",
+      "name": "Rinfodero Pugni Standard",
+      "code": "it"
+    },
+    {
+      "description": "피스트 계열 무기의 기본 수납 방식입니다.",
+      "name": "피스트 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para puños.",
+      "name": "Enfundado estándar de puños",
+      "code": "es"
+    },
+    {
+      "description": "给拳套武器所使用的标准收纳姿态。",
+      "name": "拳套标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Кастетов.",
+      "name": "Стандартный Крепеж Кастетов",
+      "code": "ru"
+    },
+    {
+      "description": "ガントレット系武器の通常ホルスター。",
+      "name": "ガントレット専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Pięści.",
+      "name": "Pięści Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para soqueiras.",
+      "name": "Soqueiras: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "拳套武器所使用的標準收納姿態。",
+      "name": "拳套標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับอาวุธหมัด",
+      "name": "ซองอาวุธหมัดมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Yumruklar için standart kılıf",
+      "name": "Yumruk Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення кулачної зброї, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

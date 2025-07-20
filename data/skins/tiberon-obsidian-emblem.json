@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/DrakeRifleBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tiberon-obsidian-emblem-ae941ea8c6.png",
+  "name": "Tiberon Obsidian Emblem",
+  "description": "An insignia worn by proficient Tenno sharpshooters.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, verliehen an Tenno, die sich als talentierte Scharfschützen erwiesen haben.",
+      "name": "Emblem: Tiberon Obsidian",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne porté par des tireurs d'élite Tennos compétents.",
+      "name": "Badge Tiberon Obsidienne",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema indossato da abili tiratori scelti Tenno.",
+      "name": "Emblema Tiberon Obsidian",
+      "code": "it"
+    },
+    {
+      "description": "유능한 텐노 명사수들이 착용하던 휘장입니다.",
+      "name": "티버론 옵시디언 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia usada por los hábiles francotiradores tenno.",
+      "name": "Emblema de Tiberon de Obsidiana",
+      "code": "es"
+    },
+    {
+      "description": "一枚由熟练的 Tenno 神射手所配戴的徽章。",
+      "name": "狂鲨 黑曜石徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия опытных стрелков Тэнно.",
+      "name": "Эмблема Тайберона: Обсидиан",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの中でも射撃に特化した者へ与えられる紋章。",
+      "name": "Tiberon Obsidian エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia noszona przez strzelców wyborowych Tenno.",
+      "name": "Emblemat: Tiberon Obsydianowy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia utilizada pelos Tennos franco-atiradores.",
+      "name": "Emblema: Tiberon de Obsidiana",
+      "code": "pt"
+    },
+    {
+      "description": "一枚熟練的神射手 Tenno 所佩戴的徽章。",
+      "name": "狂鯊 黑曜石徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราเกียรติยศที่นักแม่นปืน Tenno ผู้ช่ำชองสวมใส่",
+      "name": "ตราสัญลักษณ์: Tiberon Obsidian",
+      "code": "th"
+    },
+    {
+      "description": "İşinin ehli keskin nişancı Tenno'lar tarafından giyilen bir nişan.",
+      "name": "Tiberon Obsidian Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака для вправних снайперів тенно.",
+      "name": "Відзнака «Обсидіановий Тіберон»",
+      "code": "uk"
+    }
+  ]
+}

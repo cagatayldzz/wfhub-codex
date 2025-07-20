@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/MiterIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/miter-incarnon-genesis-0132066e5b.png",
+  "name": "Miter Incarnon Genesis",
+  "description": "Awaken this weapon's ability to fire homing and bouncing <DT_FIRE_COLOR>Heat Damage explosives in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form zielsuchenden, abprallenden und explodierenden <DT_FIRE_COLOR>Hitzeschaden abzufeuern.",
+      "name": "Incarnon-Genesis: Miter",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à tirer des projectiles à tête chercheuse qui rebondissent et qui infligent des Dégâts de <DT_FIRE_COLOR>Feu sous Forme Incarnon.",
+      "name": "Miter Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di sparare esplosivi a ricerca e rimbalzanti con Danno <DT_FIRE_COLOR>Fuoco nella Forma Incarnon.",
+      "name": "Miter Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 유도 및 튕김 효과를 가진 <DT_FIRE_COLOR>화염 피해의 폭발성 탄환을 발사할 수 있습니다.",
+      "name": "마이터 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para disparar explosivos guiados que rebotan e infligen daño de <DT_FIRE_COLOR>calor en su forma Incarnon.",
+      "name": "Miter Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有发射追踪和反弹式 <DT_FIRE_COLOR>火焰伤害爆炸物的能力。",
+      "name": "米特尔灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия стрелять самонаводящимися и отскакивающими взрывчатыми снарядами с уроном <DT_FIRE_COLOR>огнём в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Митра",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームはホーミングと反射を行う<DT_FIRE_COLOR>火炎ダメージ爆発物を発射する。",
+      "name": "Miter インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wystrzeliwuje namierzające pociski i zadaje <DT_FIRE_COLOR> Obr. od Ognia w obszarze.",
+      "name": "Geneza Inkarnon: Miter",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de disparar projéteis teleguiados e explosivos que causarão Dano <DT_FIRE_COLOR>Ígneo no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Miter",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下射出會追蹤並且會彈跳的<DT_FIRE_COLOR>火焰傷害爆裂物。",
+      "name": "米特爾應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะยิงกระสุนนำวิถีและกระเด้งออกไปทำให้ระเบิดเกิดความเสียหาย <DT_FIRE_COLOR>ไฟ",
+      "name": "Miter Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilindeki her atışta <DT_FIRE_COLOR>Ateş Hasarı vuran patlayıcı ve güdümlü mühimmatlar ateşleme özelliğini uyandır.",
+      "name": "Miter Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє вистрілювати самонавідними вибуховими снарядами з <DT_FIRE_COLOR>термічною шкодою, що можуть відскакувати.",
+      "name": "Інкарнонський генезис: Зріз",
+      "code": "uk"
+    }
+  ]
+}

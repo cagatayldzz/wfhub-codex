@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-chorus-helmet-261ae152fa.png",
+  "name": "Arcane Chorus Helmet",
+  "description": "This helmet is worn by Banshee, and adds Ability Efficiency, but reduces duration of Aim Glide and Wall Latch.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Banshee getragen und verstärkt die Fähigkeitseffizienz, während die Dauer von Zielgleiten und Wandhalten reduziert wird.",
+      "name": "Arkaner Chorus Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Banshee et ajoute de l'Efficacité de Pouvoir, mais réduit la durée de Visée Planée et Prise Murale.",
+      "name": "Casque Chorus Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Banshee, aggiunge Efficienza Abilità, ma riduce la durata dell'Aggrappata e della Planata.",
+      "name": "Elmo Arcane Chorus",
+      "code": "it"
+    },
+    {
+      "description": "밴쉬 전용의 헬멧으로, 에임 글라이드와 월 래치의 지속 시간을 감소시키고 어빌리티 효율을 증가시킵니다.",
+      "name": "아케인 코러스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Banshee, añade eficiencia de habilidad pero reduce la duración de planear y posarse.",
+      "name": "Casco Chorus Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Banshee 佩戴，它能提升技能效率，但会减少飞身瞄准与壁面攀附的持续时间。",
+      "name": "合音 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Банши. Он повышает эффективность способности, но снижает время управляемого полёта и фиксации на стене.",
+      "name": "Мистический шлем: Хорус",
+      "code": "ru"
+    },
+    {
+      "description": "Banshee用ヘルメット。アビリティ効率を上昇させるが、エイムグライドとウォールラッチの持続時間が減少する。",
+      "name": "Arcane Chorus ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Banshee, zwiększa Wydajność Umiejętności, ale zmniejsza czas Celowania w locie i Przywarcia.",
+      "name": "Banshee: Hełm Arkanum Chorus",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete, quando utilizado pela Banshee, aumentará a Eficiência da Habilidade, mas reduzirá a duração do Planar e Mirar/Segurar na Parede.",
+      "name": "Banshee: Capacete Chorus (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這件頭盔由 Banshee 配戴，它能提升技能效率，但會減少飛身瞄準與壁面攀附的持續時間。",
+      "name": "合音秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Banshee สวมหมวกใบนี้จะช่วยเพิ่มประสิทธิภาพในการใช้พลัง แต่จะลดระยะเวลาในการเล็งขณะร่อน และการเกาะกำแพง",
+      "name": "หมวกเหล็ก Arcane Chorus",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Banshee tarafından giyilir ve Yetenek Verimliliği sağlar, ancak Nişan Alarak Süzülme ve Duvar Duruşu süresini kısaltır.",
+      "name": "Arcane Chorus Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує ощадливість здібностей Банші, але зменшує її тривалість прицілювання в повітрі та утримування на стінах.",
+      "name": "Містичний шолом «Хор»",
+      "code": "uk"
+    }
+  ]
+}

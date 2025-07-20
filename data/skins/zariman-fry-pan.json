@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenPanA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-fry-pan-4c6a8b6f7d.png",
+  "name": "Zariman Fry Pan",
+  "description": "Fry nutrition cubes, or fresh veggies from the agri-biomes.",
+  "languages": [
+    {
+      "description": "Brate Nahrungswürfel oder frisches Gemüse aus den Agrarbiomen.",
+      "name": "Zariman Bratpfanne",
+      "code": "de"
+    },
+    {
+      "description": "Faites frire des cubes nutritionnels ou des légumes frais des agro-biomes.",
+      "name": "Zariman: Poêle à frire",
+      "code": "fr"
+    },
+    {
+      "description": "Rosola cubi nutrizionali, o verdure fresche provenienti dai biomi agricoli.",
+      "name": "Padella Zariman",
+      "code": "it"
+    },
+    {
+      "description": "영양 큐브, 혹은 농경 생태실에서 수확해 온 신선한 채소를 굽고 볶을 수 있습니다.",
+      "name": "자리만 프라이팬",
+      "code": "ko"
+    },
+    {
+      "description": "Fríe cubos nutricionales o verduras frescas de los agrobiomas.",
+      "name": "Sartén Zariman",
+      "code": "es"
+    },
+    {
+      "description": "油炸营养块或来自农业生物群落的新鲜蔬菜。",
+      "name": "扎里曼煎锅",
+      "code": "zh"
+    },
+    {
+      "description": "Поджарьте пищевые батончики или свежие овощи из агробиомов.",
+      "name": "Зариман: Сковорода",
+      "code": "ru"
+    },
+    {
+      "description": "栄養キューブや農業バイオームから採れた野菜を調理する。",
+      "name": "Zariman フライパン",
+      "code": "ja"
+    },
+    {
+      "description": "Można na niej usmażyć batony oraz świeże warzywa z agro-biomów.",
+      "name": "Zariman: Patelnia",
+      "code": "pl"
+    },
+    {
+      "description": "Frite cubos de nutrição ou vegetais frescos dos agrobiomas.",
+      "name": "Frigideira da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "煎炸營養塊或來自農業生物群落的生鮮蔬果。",
+      "name": "扎日曼平底鍋",
+      "code": "tc"
+    },
+    {
+      "description": "เอาไว้ทอดก้อนอาหารหรือผักสดจากไบโอมเกษตร",
+      "name": "Zariman: กะทะทอด",
+      "code": "th"
+    },
+    {
+      "description": "Tarımsal biyomlardan gelen besin küplerini, veya taze sebzeleri kızart.",
+      "name": "Zariman Kızartma Tavası",
+      "code": "tr"
+    },
+    {
+      "description": "Смажте харчові куби або свіжі овочі із сільськогосподарських біомів.",
+      "name": "Пательня із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

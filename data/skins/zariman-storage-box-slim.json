@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateMediumC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-storage-box-(slim)-91e6141d83.png",
+  "name": "Zariman Storage Box (Slim)",
+  "description": "A slim storage box.",
+  "languages": [
+    {
+      "description": "Eine flache Lagerbox.",
+      "name": "Zariman Lagerbox (flach)",
+      "code": "de"
+    },
+    {
+      "description": "Une petite boîte de rangement.",
+      "name": "Zariman: Boîte de rangement (petite)",
+      "code": "fr"
+    },
+    {
+      "description": "Un piccolo contenitore.",
+      "name": "Contenitore Zariman (Piccolo)",
+      "code": "it"
+    },
+    {
+      "description": "얇은 수납 상자입니다.",
+      "name": "자리만 수납 상자 (얇은)",
+      "code": "ko"
+    },
+    {
+      "description": "Un estuche de almacenamiento pequeño.",
+      "name": "Estuche de almacenamiento Zariman (pequeño)",
+      "code": "es"
+    },
+    {
+      "description": "一个窄型储存盒。",
+      "name": "扎里曼储存盒（窄）",
+      "code": "zh"
+    },
+    {
+      "description": "Плоский ящик для хранения.",
+      "name": "Зариман: Ящик для хранения (плоский)",
+      "code": "ru"
+    },
+    {
+      "description": "スリムな収納ボックス。",
+      "name": "Zariman 保管箱（細）",
+      "code": "ja"
+    },
+    {
+      "description": "Wąskie pudło magazynowa.",
+      "name": "Zariman: Pudło magazynowe (wąskie)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma caixa de armazenamento compacta.",
+      "name": "Caixa de Armazenamento da Zariman (Compacta)",
+      "code": "pt"
+    },
+    {
+      "description": "窄型儲存盒。",
+      "name": "扎日曼儲存盒（窄）",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องเก็บของแบบบาง",
+      "name": "Zariman: กล่องเก็บของ (บาง)",
+      "code": "th"
+    },
+    {
+      "description": "İnce bir depolama kutusu.",
+      "name": "Zariman Depolama Kutusu (İnce)",
+      "code": "tr"
+    },
+    {
+      "description": "Пласка коробка для зберігання.",
+      "name": "Коробка із «Заримена» (пласка)",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/HateIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hate-incarnon-genesis-d4a9290beb.png",
+  "name": "Hate Incarnon Genesis",
+  "description": "Awaken this weapon's ability to embed blades that explode with <DT_FIRE_COLOR>Heat Damage during Forward and Neutral Combos in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form bei Vorwärts- und Neutralen-Kombos explosive Klingen mit <DT_FIRE_COLOR>Hitzeschaden einzubetten.",
+      "name": "Incarnon-Genesis: Hate",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à intégrer des lames qui explosent avec des Dégâts de <DT_FIRE_COLOR>Feu pendant les Combos en avançant et neutres sous Forme Incarnon.",
+      "name": "Hate Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma d'incorporare lame che esplodono in Danno <DT_FIRE_COLOR>Fuoco durante le combo in Avanti e Neutre nella Forma Incarnon.",
+      "name": "Hate Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 전방 및 중립 연속기 중 <DT_FIRE_COLOR>화염 피해를 입히는 폭발성 칼날을 발사할 수 있습니다.",
+      "name": "헤이트 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para clavar hojas que explotan con daño de <DT_FIRE_COLOR>calor durante combos delanteros y neutrales en su forma Incarnon.",
+      "name": "Hate Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下进行向前和中立连击时具有嵌入带有 <DT_FIRE_COLOR>火焰伤害的爆炸刀片的能力。",
+      "name": "憎恨灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия испускать лезвия, которые взрываются, нанося урон <DT_FIRE_COLOR>огнём во время прямых и нейтральных комбо в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Ненависть",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム中は前方とニュートラルコンボで<DT_FIRE_COLOR>火炎ダメージを与える爆発刃を出す。",
+      "name": "Hate インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, której Kombo Neutralne i Naprzód wbijają wybuchowe ostrza, zadając <DT_FIRE_COLOR> Obr. od Ognia.",
+      "name": "Geneza Inkarnon: Nienawiść",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de revestir suas lâminas com Dano <DT_FIRE_COLOR>Ígneo, realizando explosões durante Combos Avançados e Neutros no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Ódio",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下使用中立連擊和向前連擊會嵌上附帶<DT_FIRE_COLOR>火焰傷害的爆炸型刀刃。",
+      "name": "憎恨應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วเมื่อทำท่าคอมโบแบบเป็นกลางและไปข้างหน้าแล้วจะฝังใบมีดที่ทำให้ระเบิดสร้างความเสียหายจาก <DT_FIRE_COLOR>ไฟ",
+      "name": "Hate Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde ileriye doğru ya da sabitken yapılan yakın dövüş saldırıların <DT_FIRE_COLOR>Ateş Hasarı veren bıçaklar göndermesi özelliğini uyandır.",
+      "name": "Hate Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє випускати вибухові леза з <DT_FIRE_COLOR>термічною шкодою під час серії ударів уперед та нейтральних серій ударів.",
+      "name": "Інкарнонський генезис: Ненависть",
+      "code": "uk"
+    }
+  ]
+}

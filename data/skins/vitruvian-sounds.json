@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/HelminthSounds",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitruvian-sounds-c17821e4e5.png",
+  "name": "Vitruvian Sounds",
+  "description": "A custom set of UI sounds.",
+  "languages": [
+    {
+      "description": "Ein angepasstes UI-Audioset.",
+      "name": "Töne: Vitruvian",
+      "code": "de"
+    },
+    {
+      "description": "Un ensemble de sons personnalisés pour l'interface.",
+      "name": "Sons Vitruviens",
+      "code": "fr"
+    },
+    {
+      "description": "Un set di suoni dell'interfaccia personalizzati.",
+      "name": "Suoni Vitruviani",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 음향 효과입니다.",
+      "name": "비트루비안 음향 효과",
+      "code": "ko"
+    },
+    {
+      "description": "Un conjunto de sonidos personalizados de la interfaz de usuario.",
+      "name": "Sonidos vitruvianos",
+      "code": "es"
+    },
+    {
+      "description": "一组用于自定义界面的音效",
+      "name": "维特鲁威音效",
+      "code": "zh"
+    },
+    {
+      "description": "Набор звуков интерфейса.",
+      "name": "Звуки: Витрувиан",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIサウンド。",
+      "name": "Vitruvian サウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowany zestaw dźwięków Interfejsu.",
+      "name": "Dźwięki Witruwiańskie",
+      "code": "pl"
+    },
+    {
+      "description": "Um conjunto personalizado de sons para a interface do usuário.",
+      "name": "Sons Vitruvianos",
+      "code": "pt"
+    },
+    {
+      "description": "一組用於自訂介面的音效",
+      "name": "維特魯威音效",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเสียง UI ที่กำหนดเอง",
+      "name": "เสียง Vitruvian",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir arayüz ses seti.",
+      "name": "Vitruvian Sesleri",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний набір звуків інтерфейсу.",
+      "name": "Звуки: Вітрувій",
+      "code": "uk"
+    }
+  ]
+}

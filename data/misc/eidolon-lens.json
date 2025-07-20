@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensOstron",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eidolon-lens-4344986c09.png",
+  "name": "Eidolon Lens",
+  "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
+  "languages": [
+    {
+      "description": "Eine verbesserte, stärkere Linse, die von dem Atem eines Eidolons durchdrungen wurde.",
+      "name": "Eidolon Linse",
+      "code": "de"
+    },
+    {
+      "description": "Une Lentille Supérieure améliorée qui a été infusée avec le Souffle de l'Eidolon.",
+      "name": "Lentille Eidolon",
+      "code": "fr"
+    },
+    {
+      "description": "Una Lente Maggiore potenziata che è stata infusa con il Soffio di Eidolon.",
+      "name": "Lente Eidolon",
+      "code": "it"
+    },
+    {
+      "description": "아이돌론의 숨결에 담긴 힘으로 강화된 그레이터 렌즈입니다.",
+      "name": "아이돌론 렌즈",
+      "code": "ko"
+    },
+    {
+      "description": "Un lente superior mejorado que ha sido imbuido con hálito de eidolon.",
+      "name": "Lente Eidolon",
+      "code": "es"
+    },
+    {
+      "description": "一颗注入了夜灵之息的强化高级晶体。",
+      "name": "夜灵晶体",
+      "code": "zh"
+    },
+    {
+      "description": "Улучшенная Большая линза, усиленная Дыханием Эйдолона.",
+      "name": "Эйдолонская линза",
+      "code": "ru"
+    },
+    {
+      "description": "エイドロンの加護が付与された強化グレイターレンズ。",
+      "name": "エイドロンレンズ",
+      "code": "ja"
+    },
+    {
+      "description": "Ulepszona większa soczewka fokus, połączyła się z Oddechem Eidolona.",
+      "name": "Soczewka Eidolona",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Lente Superior aprimorada que foi infundida com o Bafo de Eidolon.",
+      "name": "Lente Eidolon",
+      "code": "pt"
+    },
+    {
+      "description": "一顆注入了夜靈氣息的強化高級晶體。",
+      "name": "夜靈晶體",
+      "code": "tc"
+    },
+    {
+      "description": "เลนส์ที่ผสมลมหายใจ Eidolon เข้าไปเพื่อช่วยเสริมให้เลนส์ทำงานได้ดียิ่งขึ้น",
+      "name": "เลนส์ Eidolon",
+      "code": "th"
+    },
+    {
+      "description": "Eidolon'un Nefesi kullanılarak geliştirilmiş bir Büyük Fokus lensi.",
+      "name": "Eidolon Lens",
+      "code": "tr"
+    },
+    {
+      "description": "Посилена Подихом ейдолона велика лінза.",
+      "name": "Лінза Ейдолона",
+      "code": "uk"
+    }
+  ]
+}

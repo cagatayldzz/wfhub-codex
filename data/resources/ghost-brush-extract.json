@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/OroPorcelainBushAPlantItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ghost-brush-extract-00005242e7.png",
+  "name": "Ghost Brush Extract",
+  "description": "Extracted from a Ghost Brush.",
+  "languages": [
+    {
+      "description": "Von Geistergebüsch entnommen.",
+      "name": "Extrakt: Geistergebüsch",
+      "code": "de"
+    },
+    {
+      "description": "Extrait d'un Plumeau Spectral.",
+      "name": "Extrait de Plumeau Spectral",
+      "code": "fr"
+    },
+    {
+      "description": "Estratto da un Cespuglio Fantasma.",
+      "name": "Estratto Cespuglio Fantasma",
+      "code": "it"
+    },
+    {
+      "description": "고스트 브러쉬의 추출물입니다.",
+      "name": "고스트 브러쉬 추출물",
+      "code": "ko"
+    },
+    {
+      "description": "Extraido de un pincel fantasma.",
+      "name": "Extracto de Pincel Fantasma",
+      "code": "es"
+    },
+    {
+      "description": "从鬼影之拂中萃取出的精华物。",
+      "name": "鬼影之拂萃取物",
+      "code": "zh"
+    },
+    {
+      "description": "Экстракт из призрачной кисточки.",
+      "name": "Экстракт призрачной кисточки",
+      "code": "ru"
+    },
+    {
+      "description": "ゴースト・ブラッシュから抽出。",
+      "name": "ゴースト・ブラッシュ抽出物",
+      "code": "ja"
+    },
+    {
+      "description": "Pozyskany z Widmowego Pędzla.",
+      "name": "Ekstrakt Widmowego Pędzla",
+      "code": "pl"
+    },
+    {
+      "description": "Extraído de um Arbusto Fantasma.",
+      "name": "Extrato de Arbusto Fantasma",
+      "code": "pt"
+    },
+    {
+      "description": "從鬼影之拂中萃取出的精華物。",
+      "name": "鬼影之拂萃取物",
+      "code": "tc"
+    },
+    {
+      "description": "สกัดออกมาจากโกสต์บรัช",
+      "name": "สารสกัดจากโกสต์บรัช",
+      "code": "th"
+    },
+    {
+      "description": "Ghost Brush'tan çıkartıldı",
+      "name": "Ghost Brush Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Добувається з примарної щітки.",
+      "name": "Витяжка примарної щітки",
+      "code": "uk"
+    }
+  ]
+}

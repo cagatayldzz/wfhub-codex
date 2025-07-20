@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFloorSealPadA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-floor-pad-4eef7536db.png",
+  "name": "Zariman Floor Pad",
+  "description": "A floor pad that protects the floor from damage.",
+  "languages": [
+    {
+      "description": "Eine Bodenplatte, die den Boden vor Beschädigungen schützt.",
+      "name": "Zariman Bodenplatte",
+      "code": "de"
+    },
+    {
+      "description": "Un tapis qui protège le sol contre les dommages.",
+      "name": "Zariman: Tapis de sol",
+      "code": "fr"
+    },
+    {
+      "description": "Un tappetino che protegge il pavimento da eventuali danni.",
+      "name": "Tappetino Zariman",
+      "code": "it"
+    },
+    {
+      "description": "바닥을 손상으로부터 보호하는 바닥 패드입니다.",
+      "name": "자리만 바닥 패드",
+      "code": "ko"
+    },
+    {
+      "description": "Un tapete que protege el piso de algún daño.",
+      "name": "Tapete Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个用于保护地板不受损坏的地板垫。",
+      "name": "扎里曼地板垫",
+      "code": "zh"
+    },
+    {
+      "description": "Напольный коврик, защищающий пол от повреждений.",
+      "name": "Зариман: Напольный коврик",
+      "code": "ru"
+    },
+    {
+      "description": "床を傷から守るフロアパッド。",
+      "name": "Zariman フロアパッド",
+      "code": "ja"
+    },
+    {
+      "description": "Dywanik, który chroni podłogę przed uszkodzeniem.",
+      "name": "Zariman: Dywanik",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacho utilizado para proteger o piso.",
+      "name": "Capacho da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "保護地板免受損壞的地墊。",
+      "name": "扎日曼地墊",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นรองพื้นที่ปกป้องพื้นไม่ให้เกิดความเสียหาย",
+      "name": "Zariman: แผ่นรองพื้น",
+      "code": "th"
+    },
+    {
+      "description": "Zemini hasardan koruyan bir zemin kaplaması.",
+      "name": "Zariman Zemin Kaplaması",
+      "code": "tr"
+    },
+    {
+      "description": "Елемент підлоги, який захищає її від ушкоджень.",
+      "name": "Підлоговий килимок із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

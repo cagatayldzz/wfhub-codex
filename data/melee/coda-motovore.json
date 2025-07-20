@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/InfestedHammer/InfLichHammerWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-motovore-d83db3cb18.png",
+  "name": "Coda Motovore",
+  "description": "Drive home the pain with this hammer evolved from a scooter assembly. The wheel shapeshifts and gains a unique buff to match whatever type of physical damage it has been modded for.",
+  "languages": [
+    {
+      "description": "Verursache Schmerzen mit diesem Hammer, der aus einem Roller zusammengebaut wurde. Das Rad verwandelt sich und erhält einen einzigartigen Buff, der sich dem physischen Schaden anpasst, den du durch Mods bestimmt hast.",
+      "name": "Coda Motovore",
+      "code": "de"
+    },
+    {
+      "description": "Faites disparaître la douleur avec ce marteau issu d'un assemblage de scooter. La forme de la roue change et gagne un bonus unique pour s'adapter au type de Dégâts physiques pour lequel elle a été Moddée.",
+      "name": "Motovore Coda",
+      "code": "fr"
+    },
+    {
+      "description": "Diffondi il dolore a tutta velocità con questo martello ricavato a partire da uno scooter. La forma della ruota cambia e ottiene un potenziamento unico per adattarsi a qualsiasi tipo di Mod da danno fisico installato sull'arma.",
+      "name": "Coda Motovore",
+      "code": "it"
+    },
+    {
+      "description": "스쿠터 부품이 뭉쳐져 변이된 이 둔기를 휘둘러 몸을 달리는 고통을 전달해보세요. 바퀴 부위는 무기에 장착된 물리 피해 모드의 영향을 받아 모양이 변형됨과 동시에 고유 버프를 얻습니다.",
+      "name": "코다 모토보어",
+      "code": "ko"
+    },
+    {
+      "description": "Inflige dolor con este martillo fabricado a partir de un scooter. La forma de la rueda cambia y obtiene una bonificación única para adaptarse a cualquier tipo de modificación de daño físico instalado en el arma.",
+      "name": "Motovore Coda",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CODA MOTOVORE）挥舞这把从摩托车组件变异而来的战锤，将苦痛根植在你的敌人心中。其上的车轮将随着武器所配置的主要物理伤害类型而改变形状并获得独特增益。",
+      "name": "终幕·噬轮",
+      "code": "zh"
+    },
+    {
+      "description": "Наносите разрушительные удары этим молотом, созданным на основе сборки скутера. Колесо изменяет форму и получает уникальный эффект усиления адаптируясь к любому типу физического урона, в зависимости от модов.",
+      "name": "Мотовор Кода",
+      "code": "ru"
+    },
+    {
+      "description": "スクーターパーツを寄せ集め造られたハンマーで激痛を与えよう。ホイール部分は設定した物理ダメージタイプによって形を変え特有のバフを受ける。",
+      "name": "Coda Motovore",
+      "code": "ja"
+    },
+    {
+      "description": "Pozbądź się bólu dzięki temu młotkowi z zestawu skutera. Kształt koła zmienia się i zyskuje unikalne wzmocnienie w zależności od rodzaju uszkodzenia fizycznego, do którego zostało zmodyfikowane.",
+      "name": "Motovore Cody",
+      "code": "pl"
+    },
+    {
+      "description": "Imponha a dor com este martelo desenvolvido a partir de uma moto. A roda se transformará e receberá uma bonificação exclusiva conforme o tipo de dano físico predominante na arma.",
+      "name": "Motovore Coda",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CODA MOTOVORE）透過這把由機車零組件進化而來的戰鎚讓敵人痛不欲生。其齒輪會依照所配置的物理傷害類型而變形並獲得獨特增益。",
+      "name": "勾瘩 鋸獸",
+      "code": "tc"
+    },
+    {
+      "description": "ตอกย้ำความเจ็บปวดด้วยค้อนที่พัฒนามาจากชิ้นส่วนของสกู๊ตเตอร์ ซึ่งสามารถปรับเปลี่ยนรูปร่างของล้อและได้รับบัฟพิเศษตาม Mod ความเสียหายทางกายภาพที่ติดตั้งไว้",
+      "name": "Coda Motovore",
+      "code": "th"
+    },
+    {
+      "description": "Bir scooter aksamından evrilen bu çekiçle gerçek acıyı düşmanlarına göster. Tekerlek, modlanan fiziksel hasar türüne uyacak şekilde şekil değiştirerek eşsiz bir güçlendirme kazanır.",
+      "name": "Coda Motovore",
+      "code": "tr"
+    },
+    {
+      "description": "Доправте біль у потрібне місце за допомогою цього молота, сформованого зі скутера. Колесо змінюватиме форму й матиме неповторне підсилення відповідно до використовуваного типу шкоди.",
+      "name": "Мотоверть-кода",
+      "code": "uk"
+    }
+  ]
+}

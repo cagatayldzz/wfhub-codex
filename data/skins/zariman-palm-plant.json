@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropZarPlantB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-palm-plant-93d3ad61e9.png",
+  "name": "Zariman Palm Plant",
+  "description": "Cultivated from the few remaining seed banks of old Earth.",
+  "languages": [
+    {
+      "description": "Kultiviert aus den wenigen verbliebenen Saatgut-Bunkern der alten Erde.",
+      "name": "Zariman: Palme",
+      "code": "de"
+    },
+    {
+      "description": "Cultivé à partir des quelques banques de graines restantes de la vieille planète Terre.",
+      "name": "Palmier Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Coltivata dalle poche sementi della vecchia Terra rimaste.",
+      "name": "Palma Zariman",
+      "code": "it"
+    },
+    {
+      "description": "얼마 남지 않은 옛 지구의 종자 은행에서 재배한 식물입니다.",
+      "name": "자리만 야자수 화분",
+      "code": "ko"
+    },
+    {
+      "description": "Cultivada de uno de los pocos bancos de semillas que quedan de la antigua Tierra.",
+      "name": "Palmera Zariman",
+      "code": "es"
+    },
+    {
+      "description": "从古地球上仅存的少数种子库中培养而来。",
+      "name": "扎里曼棕榈植物",
+      "code": "zh"
+    },
+    {
+      "description": "Выращивается из семян немногих оставшихся банков старой Земли.",
+      "name": "Пальма: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "かつての地球から種が採取された希少な植物。",
+      "name": "Zariman パーム・プラント",
+      "code": "ja"
+    },
+    {
+      "description": "Roślina wyhodowana z nasion jednego z pozostałych na starej Ziemi banków.",
+      "name": "Palma Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "Cultivada em um dos poucos bancos de sementes remanescentes da antiga Terra.",
+      "name": "Palmeira da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "在舊地球少數僅存的種子銀行中栽種而來。",
+      "name": "扎日曼棕櫚植物",
+      "code": "tc"
+    },
+    {
+      "description": "ได้รับการเพาะปลูกมาจากแหล่งเมล็ดพันธุ์ที่เหลืออยู่ไม่กี่แห่งจากโลกเก่า",
+      "name": "ต้นปาร์ม Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Eski Dünya'dan kalan birkaç tohum bankasında yetiştirildi.",
+      "name": "Zariman Palmiye Bitkisi",
+      "code": "tr"
+    },
+    {
+      "description": "Вирощена з одного з небагатьох банків насіння старої планети Земля.",
+      "name": "Пальмова рослина із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

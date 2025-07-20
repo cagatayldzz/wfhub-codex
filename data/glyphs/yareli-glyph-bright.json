@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageYareliBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-glyph---bright-4358005153.png",
+  "name": "Yareli Glyph - Bright",
+  "description": "A glyph depicting Yareli on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Yareli vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Yareli (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un glyphe représentant Yareli sur un fond lumineux.",
+      "name": "Glyphe Yareli - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Yareli su uno sfondo chiaro.",
+      "name": "Glifo Yareli - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 야렐리를 묘사한 글리프입니다.",
+      "name": "야렐리 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Yareli sobre un fondo brillante.",
+      "name": "Glifo de Yareli - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Yareli 在明亮背景下的浮印。",
+      "name": "Yareli 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ярели на светлом фоне.",
+      "name": "Глиф: Ярели - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたYareliのグリフ。",
+      "name": "Yareli グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Yareli na jasnym tle.",
+      "name": "Glif Yareli — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Yareli em um fundo claro.",
+      "name": "Glifo: Yareli (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Yareli 在明亮背景下的浮印。",
+      "name": "Yareli 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Yareli บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Yareli - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Yareli açık fonlu glif.",
+      "name": "Yareli Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ярелі на світлому тлі.",
+      "name": "Яскравий гліф «Ярелі»",
+      "code": "uk"
+    }
+  ]
+}

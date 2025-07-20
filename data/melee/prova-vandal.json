@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prova-vandal-b447c088c1.png",
+  "name": "Prova Vandal",
+  "description": "A customized version of the vicious Prova, with metallic finish and Lotus decal.",
+  "languages": [
+    {
+      "description": "Eine angepasste Version des bösartigen Prova, mit Metallic-Look und Lotusabzeichen.",
+      "name": "Prova Vandal",
+      "code": "de"
+    },
+    {
+      "description": "Une version personnalisée du vicieux Prova, avec finition métallique et l'emblème du Lotus.",
+      "name": "Prova Vandal",
+      "code": "fr"
+    },
+    {
+      "description": "Una versione personalizzata del feroce Prova, con finiture metalliche e decalcomania Lotus.",
+      "name": "Prova Vandal",
+      "code": "it"
+    },
+    {
+      "description": "진저리 쳐지는 프로바의 개조 버전으로, 금속 재질로 마감되어 있으며 로터스 문양이 새겨져 있습니다.",
+      "name": "프로바 반달",
+      "code": "ko"
+    },
+    {
+      "description": "Una versión personalizada del feroz Prova, con acabado metálico y una imagen de Lotus.",
+      "name": "Prova Vándalo",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PROVA VANDAL）这是凶恶的普罗沃的定制化版本，拥有金属质感及莲花徽记。",
+      "name": "普罗沃·破坏者",
+      "code": "zh"
+    },
+    {
+      "description": "Модернизированная версия Провы, отличающаяся металлическим покрытием и символом Лотос.",
+      "name": "Прова Вандал",
+      "code": "ru"
+    },
+    {
+      "description": "繊密な調整が施されたPROVA。磨き上げられた刃身にLotusの印が刻印されている。",
+      "name": "Prova Vandal",
+      "code": "ja"
+    },
+    {
+      "description": "Specjalna wersja Prova z metalicznym wykończeniem i symbolem Lotus.",
+      "name": "Prova Vandal",
+      "code": "pl"
+    },
+    {
+      "description": "Uma versão customizada da arma letal Prova, com uma pintura metálica com o símbolo da Lótus.",
+      "name": "Prova Vandalizada",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PROVA VANDAL）兇殘普羅沃的定製版，擁有金屬質感及 Lotus 徽記。",
+      "name": "普羅沃 破壞者",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธชิ้นนี้ปรับปรุงมาจากอาวุธ Prova ที่มีพลังโจมตีรุนแรง ได้รับการเคลือบโลหะจนเป็นเงาและทาบด้วยรูปลอก Lotus",
+      "name": "Prova Vandal",
+      "code": "th"
+    },
+    {
+      "description": "Tehlikeli Prova silahının metalik cila ve Lotus damgasıyla kişiselleştirilmiş versiyonu.",
+      "name": "Prova Vandal",
+      "code": "tr"
+    },
+    {
+      "description": "Видозмінена версія жорстокого мачете з блискучим металевим покриттям і символом Лотос.",
+      "name": "Прова-вандал",
+      "code": "uk"
+    }
+  ]
+}

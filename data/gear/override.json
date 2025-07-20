@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetAutoHack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/override-abc0c2614b.png",
+  "name": "Override",
+  "description": "Ordis hacks into enemy systems and disrupts security protocols for a short period.",
+  "languages": [
+    {
+      "description": "Ordis hackt sich in feindlichen Systeme und stört für kurze Zeit die Sicherheitsprotokolle.",
+      "name": "Überschreiben",
+      "code": "de"
+    },
+    {
+      "description": "Ordis pirate les systèmes ennemis et les brouille pour une courte durée.",
+      "name": "Contournement",
+      "code": "fr"
+    },
+    {
+      "description": "Ordis si intrufola nei sistemi nemici e disattiva i protocolli di sicurezza per un periodo limitato.",
+      "name": "Override",
+      "code": "it"
+    },
+    {
+      "description": "오디스가 적의 보안망을 해킹해 짧은 시간 동안 경보 시스템을 무력화시킵니다.",
+      "name": "오버라이드",
+      "code": "ko"
+    },
+    {
+      "description": "Ordis hackea los sistemas enemigos e interrumpe los protocolos de seguridad por un corto período.",
+      "name": "Anulación",
+      "code": "es"
+    },
+    {
+      "description": "Ordis 入侵敌方系统，暂时中断敌人的安保系统协议。",
+      "name": "覆写",
+      "code": "zh"
+    },
+    {
+      "description": "Ордис взламывает систему противника и нарушает защитные протоколы на короткий промежуток времени.",
+      "name": "Взлом",
+      "code": "ru"
+    },
+    {
+      "description": "Ordisが敵勢力のシステムをクラッキングし、短い間セキュリティプロトコルを無効化する。",
+      "name": "オーバーライド",
+      "code": "ja"
+    },
+    {
+      "description": "Ordis włamuje się do systemów wroga i na krótki czas zakłóca działanie protokołów bezpieczeństwa.",
+      "name": "Obejście",
+      "code": "pl"
+    },
+    {
+      "description": "Ordis invade os sistemas inimigos, desativando seus protocolos de segurança por um curto período.",
+      "name": "Invasão Sistemática",
+      "code": "pt"
+    },
+    {
+      "description": "Ordis 駭入敵方系統，暫時中斷敵人的保全系統協定。",
+      "name": "覆寫",
+      "code": "tc"
+    },
+    {
+      "description": "Ordis จะเจาะระบบและขัดขวางมาตรการความปลอดภัยของศัตรูได้เป็นระยะเวลาสั้น ๆ",
+      "name": "Override",
+      "code": "th"
+    },
+    {
+      "description": "Ordis düşman sistemlerini hackleyerek kısa bir süre için onların güvenlik protokollerini bozar",
+      "name": "Override",
+      "code": "tr"
+    },
+    {
+      "description": "Ордіс зламує ворожі системи та на ненадовго виводить із ладу протоколи безпеки.",
+      "name": "Злам",
+      "code": "uk"
+    }
+  ]
+}

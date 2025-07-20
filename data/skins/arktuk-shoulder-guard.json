@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlArmourWinterArmLeft",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arktuk-shoulder-guard-47c78e8ea2.png",
+  "name": "Arktuk Shoulder Guard",
+  "description": "This armor's thickness protects against the cold wind's bite.",
+  "languages": [
+    {
+      "description": "Diese dicke Rüstung schützt vor der beißenden Kälte.",
+      "name": "Schulterplatten: Arktuk",
+      "code": "de"
+    },
+    {
+      "description": "Cette armure épaisse vous protégera de la morsure froide du vent.",
+      "name": "Épaulière Arktuk",
+      "code": "fr"
+    },
+    {
+      "description": "Lo spessore di questa armatura ti protegge dal morso del vento freddo.",
+      "name": "Spallaccio Arktuk",
+      "code": "it"
+    },
+    {
+      "description": "이 아머의 두께는 매서운 찬바람 속에서 착용자를 보호합니다.",
+      "name": "아크툭 숄더 가드",
+      "code": "ko"
+    },
+    {
+      "description": "Esta gruesa armadura te protegerá del viento gélido.",
+      "name": "Hombrera Arktuk",
+      "code": "es"
+    },
+    {
+      "description": "这个护甲的厚度足以抵御寒风的侵袭。",
+      "name": "冷寒护肩",
+      "code": "zh"
+    },
+    {
+      "description": "Толщина этой брони защищает от холодного ветра.",
+      "name": "Наплечники: Арктук",
+      "code": "ru"
+    },
+    {
+      "description": "分厚い装甲は過酷な寒帯環境から身を守る。",
+      "name": "Arktuk ショルダーガード",
+      "code": "ja"
+    },
+    {
+      "description": "Grubość tego pancerza chroni lodowatym wiatrem.",
+      "name": "Naramienniki: Arktuk",
+      "code": "pl"
+    },
+    {
+      "description": "A espessura desta armadura protege contra os ventos gélidos.",
+      "name": "Ombros: Arktuk",
+      "code": "pt"
+    },
+    {
+      "description": "這個護甲的厚度可以抵禦寒風的侵襲。",
+      "name": "禦寒護肩",
+      "code": "tc"
+    },
+    {
+      "description": "ความหนาของเกราะนี้จะช่วยป้องกันไม่ให้โดนความเย็นกัด",
+      "name": "การ์ดไหล่ Arktuk",
+      "code": "th"
+    },
+    {
+      "description": "Bu zırhın kalınlığı soğuk rüzgarlara karşı koruma sağlar.",
+      "name": "Arktuk Omuz Koruması",
+      "code": "tr"
+    },
+    {
+      "description": "Товщина цих обладунків захищає від укусів крижаних вітрів.",
+      "name": "Наплічник «Арктук»",
+      "code": "uk"
+    }
+  ]
+}

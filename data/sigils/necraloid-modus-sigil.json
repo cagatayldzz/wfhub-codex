@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/NecraloidRankTwo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necraloid-modus-sigil-9c12d5912a.png",
+  "name": "Necraloid Modus Sigil",
+  "description": "A sigil representing prestige gained with the Necraloid.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim Necraloid repräsentiert.",
+      "name": "Siegel: Necraloid Modus",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec les Nécraloïdes.",
+      "name": "Sceau Modus Nécraloïde",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Necraloid.",
+      "name": "Sigillo Modus Necraloid",
+      "code": "it"
+    },
+    {
+      "description": "네크랄로이드로부터 받은 찬사를 대변하는 시질입니다.",
+      "name": "네크랄로이드 모두스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los Necraloides.",
+      "name": "Sello Modus de los Necraloides",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了殁世械灵的威望。",
+      "name": "殁世械灵模仿者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение, достигнутое в Некралоиде.",
+      "name": "Сигил: Некралоид - модус",
+      "code": "ru"
+    },
+    {
+      "description": "ネクロロイドから得た声望を表すシジル。",
+      "name": "ネクロロイド「Modus」 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Nekraloidów.",
+      "name": "Znak Nekraloida: Modus",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com o Necraloid.",
+      "name": "Brasão: Modus do Necraloid",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了奧迪瑪的威望。",
+      "name": "亡骸精靈摩得斯紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Necraloid",
+      "name": "เครื่องหมาย Necraloid: Modus",
+      "code": "th"
+    },
+    {
+      "description": "Necraloid prestijini sembolize eden bir mühür.",
+      "name": "Necraloid Modus Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в некралойда.",
+      "name": "Сиґіл «Некралоїд: мод»",
+      "code": "uk"
+    }
+  ]
+}

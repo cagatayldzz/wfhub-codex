@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Anima/SWDivisaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-divisa-helmet-7657df5723.png",
+  "name": "Equinox Divisa Helmet",
+  "description": "A helmet for the Equinox Warframe, designed by Hitsu San.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Equinox Warframe, entworfen von Hitsu San.",
+      "name": "Equinox-Helm: Divisa",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Equinox, conçu par Hitsu San.",
+      "name": "Casque Equinox Divisa",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Equinox, ideato da Hitsu San.",
+      "name": "Elmo Equinox Divisa",
+      "code": "it"
+    },
+    {
+      "description": "Hitsu San에 의해 디자인된 이쿼녹스 워프레임을 위한 헬멧입니다.",
+      "name": "이쿼녹스 디비사 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Equinox, diseñado por Hitsu San.",
+      "name": "Casco Divisa de Equinox",
+      "code": "es"
+    },
+    {
+      "description": "Equinox 战甲的头盔，由 Hitsu San 设计。",
+      "name": "Equinox 离分头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Эквинокс, созданный Hitsu San.",
+      "name": "Шлем Эквинокс: Дивиза",
+      "code": "ru"
+    },
+    {
+      "description": "Equinox 用のヘルメット。製作者： Hitsu San。",
+      "name": "Equinox Divisa ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Equinox, zaprojektowany przez Hitsu San.",
+      "name": "Equinox: Hełm Divisa",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Equinox, desenvolvido por Hitsu San.",
+      "name": "Equinox: Capacete Divisa",
+      "code": "pt"
+    },
+    {
+      "description": "Chroma Warframe 的頭盔，由 Hitsu San設計。",
+      "name": "Equinox 離分頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Equinox Warframe ออกแบบโดย Hitsu San",
+      "name": "หมวกเหล็ก Equinox Divisa",
+      "code": "th"
+    },
+    {
+      "description": "Hitsu San tarafından dizayn edilen Equinox Warframe Miğferi",
+      "name": "Equinox Divisa Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Еквінокс, створений Hitsu San.",
+      "name": "Шолом «Роздільниця» для Еквінокс",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-hinsa-helmet-f1dd3121f8.png",
+  "name": "Garuda Hinsa Helmet",
+  "description": "Garuda Hinsa's signature helmet.",
+  "languages": [
+    {
+      "description": "Garuda Hinsas bevorzugter Helm.",
+      "name": "Garuda-Helm: Hinsa",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Garuda Hinsa.",
+      "name": "Casque Garuda Hinsa",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Garuda Hinsa.",
+      "name": "Elmo Garuda Hinsa",
+      "code": "it"
+    },
+    {
+      "description": "가루다 힌사의 대표 헬멧입니다.",
+      "name": "가루다 힌사 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Garuda Hinsa.",
+      "name": "Casco Hinsa de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "Garuda 残暴的标志性头盔",
+      "name": "Garuda 残暴头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Гаруды «Хинса».",
+      "name": "Шлем Гаруды: Хинса",
+      "code": "ru"
+    },
+    {
+      "description": "Garuda Hinsaのメインヘルメット。",
+      "name": "Garuda Hinsa ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Garudy Hinsa.",
+      "name": "Garuda: Hełm Hinsa",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Garuda Hinsa.",
+      "name": "Garuda: Capacete Hinsa",
+      "code": "pt"
+    },
+    {
+      "description": "Garuda 暴力的標誌性頭盔。",
+      "name": "Garuda 暴力頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Garuda Hinsa",
+      "name": "หมวกเหล็ก Garuda Hinsa",
+      "code": "th"
+    },
+    {
+      "description": "Garuda Hinsa'nın özel miğferi.",
+      "name": "Garuda Hinsa Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Хінса» для Ґаруди.",
+      "name": "Шолом «Хінса» для Ґаруди",
+      "code": "uk"
+    }
+  ]
+}

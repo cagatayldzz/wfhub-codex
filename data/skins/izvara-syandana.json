@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Characters/Tenno/Accessory/Scarves/U17TnoCape/U17TnoCapeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/izvara-syandana-4995b5a657.png",
+  "name": "Izvara Syandana",
+  "description": "The exclusive garment of Tenno chosen to protect the Orokin Council of Executors.",
+  "languages": [
+    {
+      "description": "Das exklusive Gewand eines Tenno, der dazu auserkoren war, den Rat der Orokin Exekutoren zu beschützen.",
+      "name": "Izvara Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Le vêtement exclusif des Tennos choisis pour protéger le Conseil Orokin des Exécuteurs.",
+      "name": "Syandana Izvara",
+      "code": "fr"
+    },
+    {
+      "description": "L'accessorio esclusivo indossato dai Tenno chiamati a proteggere il Consiglio Orokin degli Esecutori.",
+      "name": "Syandana Izvara",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 의회의 집행자들을 지키도록 선택된 텐노만을 위한 의복입니다.",
+      "name": "이즈바라 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La prenda exclusiva de los tenno elegidos para proteger el Consejo Orokin de Ejecutores.",
+      "name": "Syandana Izvara",
+      "code": "es"
+    },
+    {
+      "description": "被选为保护 Orokin 议会执行者的 Tenno，才能穿上这件专属服饰。",
+      "name": "自在披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Эксклюзивное одеяние для Тэнно, посвятивших себя защите исполнителей совета Орокин.",
+      "name": "Сандана: Извара",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン評議会の執行官たちを庇護する選ばれたテンノだけに許された装い。",
+      "name": "Izvara シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Ekskluzywna część garderoby Tenno wybranych do ochrony Rady Egzekutorów Orokin.",
+      "name": "Syandana Izvara",
+      "code": "pl"
+    },
+    {
+      "description": "A vestimenta exclusiva dos Tennos escolhidos para protegerem o Conselho de Executores de Orokin.",
+      "name": "Syandana: Izvara",
+      "code": "pt"
+    },
+    {
+      "description": "被選為保護 Orokin 議會執行者的 Tenno，才能穿上這件專屬服飾。",
+      "name": "自在披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดสุดพิเศษของ Tenno ที่ได้รับเลือกให้ปกป้องสภาของคณะผู้บริหารแห่ง Orokin",
+      "name": "ไซอันดานา Izvara",
+      "code": "th"
+    },
+    {
+      "description": "Orokin Konseyinin hükümlerini yerine getirenlerin giydiği özel bir pelerin",
+      "name": "Izvara Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне вбрання тенно, що присвятили себе захисту Орокінської Ради виконавців.",
+      "name": "Сяндана «Ізвара»",
+      "code": "uk"
+    }
+  ]
+}

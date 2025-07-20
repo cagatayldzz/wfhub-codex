@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageExcaliburUmbraDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/excalibur-umbra-glyph---dark-2b9bdb94fb.png",
+  "name": "Excalibur Umbra Glyph - Dark",
+  "description": "A glyph depicting Excalibur Umbra on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Excalibur Umbra vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Excalibur Umbra (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Excalibur Umbra sur un fond sombre.",
+      "name": "Glyphe Excalibur Umbra - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Excalibur Umbra su uno sfondo scuro.",
+      "name": "Glifo Excalibur Umbra - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 엑스칼리버 움브라를 묘사한 글리프입니다.",
+      "name": "엑스칼리버 움브라 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo representativo de Excalibur Umbra en un fondo oscuro.",
+      "name": "Glifo de Excalibur Umbra - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Excalibur Umbra 在黑暗背景下的浮印。",
+      "name": "Excalibur Umbra 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Экскалибура Умбра на тёмном фоне.",
+      "name": "Глиф: Экскалибур Умбра - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたExcalibur Umbraのグリフ。",
+      "name": "Excalibur Umbra グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Excalibur Umbra na ciemnym tle.",
+      "name": "Glif Excalibur Umbra — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo que retrata Excalibur Umbra em um fundo escuro.",
+      "name": "Glifo: Excalibur Umbra (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Excalibur Umbra 在黑暗背景下的浮印。",
+      "name": "Excalibur Umbra 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Excalibur Umbra บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Excalibur Umbra - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Excalibur Umbra koyu fonlu glif.",
+      "name": "Excalibur Umbra Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Екскалібура Умбри на темному тлі.",
+      "name": "Темний гліф «Екскалібур Умбра»",
+      "code": "uk"
+    }
+  ]
+}

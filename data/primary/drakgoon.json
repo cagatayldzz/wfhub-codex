@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drakgoon-9da8bc59fb.png",
+  "name": "Drakgoon",
+  "description": "The Drakgoon flak cannon sends volleys of intensely hot shrapnel ricocheting around the room. Can be fired in wide or concentrated bursts.",
+  "languages": [
+    {
+      "description": "Die Drakgoon Splitterkanone verschießt extrem heiße Granatsplitter, die als konzentrierte oder flächendeckende Salve abgefeuert werden können.",
+      "name": "Drakgoon",
+      "code": "de"
+    },
+    {
+      "description": "Le Canon antiaérien Drakgoon tire des salves d'éclats chauffés à blanc qui ricochent partout. Peut tirer en rafales dispersantes ou concentrées.",
+      "name": "Drakgoon",
+      "code": "fr"
+    },
+    {
+      "description": "Il cannone antiaereo DRAKGOON lancia scariche di frammenti incandescenti che rimbalzano per la stanza. Può sparare in raffiche ampie o concentrate.",
+      "name": "Drakgoon",
+      "code": "it"
+    },
+    {
+      "description": "드락군 대공포는 방 전체로 확산하는 기능을 가진 고열의 탄환들을 날리며, 한 점을 노리거나 넓은 범위를 공격하도록 선택할 수 있습니다.",
+      "name": "드락군",
+      "code": "ko"
+    },
+    {
+      "description": "El cañón antiaéreo Drakgoon descarga intensa metralla caliente por la sala. Puede ser disparado en ráfagas amplias o concentradas.",
+      "name": "Drakgoon",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DRAKGOON）龙骑兵破片炮可击发出会四处弹射的高热弹片。能以散射或压缩集中的方式进行射击。",
+      "name": "龙骑兵",
+      "code": "zh"
+    },
+    {
+      "description": "Шрапнельная пушка «Дракгун» стреляет залпами раскаленной шрапнели, которая рикошетит от стен. Может стрелять с большим разбросом или кучным заряженным выстрелом.",
+      "name": "Дракгун",
+      "code": "ru"
+    },
+    {
+      "description": "DRAKGOONは跳弾性の燃える榴散弾を複数発射するフラックキャノン。範囲射撃と集中射撃が可能。",
+      "name": "Drakgoon",
+      "code": "ja"
+    },
+    {
+      "description": "Wyrzutnia szrapneli Drakgoon odpala salwy intensywnie rozgrzanych odłamków rykoszetujących od ścian. Może strzelać szerokimi lub wąskimi salwami.",
+      "name": "Drakgoon",
+      "code": "pl"
+    },
+    {
+      "description": "O canhão Drakgoon de artilharia antiaérea envia salvas de artilharia com estilhaços intensamente quentes que ricocheteiam pela sala. Pode ser atirado em explosões amplas ou concentradas.",
+      "name": "Drakgoon",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DRAKGOON）龍騎兵破片炮可擊發出會四處彈射的高熱彈片。能以散射或壓縮集中的方式進行射擊。",
+      "name": "龍騎兵",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่ต่อต้านอากาศยาน Drakgoon จะระดมยิงเศษกระสุนที่ร้อนจัดให้เด้งกระจายไปรอบ ๆ สามารถยิงได้ทั้งแบบกระจายเป็นวงกว้างหรือแบบเน้นยิงที่สร้างระเบิดที่รุนแรง",
+      "name": "Drakgoon",
+      "code": "th"
+    },
+    {
+      "description": "Drakgoon açtığı yaylım ateşi ile etrafta geri tepmeli şarapnel parçaları yayan toplar gönderir.",
+      "name": "Drakgoon",
+      "code": "tr"
+    },
+    {
+      "description": "Зенітна рушниця-гармата, стріляє розпеченою шрапнеллю, яка рикошетить у приміщенні й не сповільнюється. Розкид шрапнелі можна регулювати.",
+      "name": "Дракґун",
+      "code": "uk"
+    }
+  ]
+}

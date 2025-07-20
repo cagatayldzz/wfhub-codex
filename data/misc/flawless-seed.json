@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/NewLokaRareDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flawless-seed-b40e99bc0a.png",
+  "name": "Flawless Seed",
+  "description": "Medallion of the New Loka syndicate. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Medaillon des New Loka Syndikats. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Saat: Makellos",
+      "code": "de"
+    },
+    {
+      "description": "Médaillon du Syndicat du Nouveau Loka. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats localisés dans les Relais.",
+      "name": "Graine de Perfection",
+      "code": "fr"
+    },
+    {
+      "description": "Medaglione dell'associazione New Loka. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Flawless Seed",
+      "code": "it"
+    },
+    {
+      "description": "뉴 로카의 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "플로우리스 시드",
+      "code": "ko"
+    },
+    {
+      "description": "Medallones de Nuevo Loka. Pueden ser intercambiados en las salas de los sindicatos en los Repetidores por reputación adicional.",
+      "name": "Semilla perfecta",
+      "code": "es"
+    },
+    {
+      "description": "新世间集团的勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "无瑕种子",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон синдиката 'Новая Лока'. Можно обменять в комнатах синдикатов в реле на репутацию.",
+      "name": "Чистейшее Семя",
+      "code": "ru"
+    },
+    {
+      "description": "シンジケートのニュー・ロカのメダリオン。リレーのシンジケートハブで追加の地位とトレードできる。",
+      "name": "完璧なる種子",
+      "code": "ja"
+    },
+    {
+      "description": "Syndykatowy Medalion Nowej Loki. Może zostać wymieniony za dodatkową reputację w pokojach syndykatowych na przekaźniku.",
+      "name": "Nasiono Nieskazitelnego",
+      "code": "pl"
+    },
+    {
+      "description": "Medalhão do sindicato Neoloka. Pode ser negociado na sala de seu respectivo sindicato, nos Relays, em troca de reputação adicional.",
+      "name": "Semente Impecável",
+      "code": "pt"
+    },
+    {
+      "description": "新世間集團的獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "無瑕種子",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญของซินดิเคต New Loka สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "Flawless Seed",
+      "code": "th"
+    },
+    {
+      "description": "New Loka'nın madalyonu. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "Kusursuz Tohum",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон синдикату «Нова Лока». Можна обміняти на додаткову репутацію в центрах синдикату на реле.",
+      "name": "Бездоганне зерно",
+      "code": "uk"
+    }
+  ]
+}

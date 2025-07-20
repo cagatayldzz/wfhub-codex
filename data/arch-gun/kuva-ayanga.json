@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/HeavyWeapons/GrnHeavyGrenadeLauncher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-ayanga-191784ae00.png",
+  "name": "Kuva Ayanga",
+  "description": "Sweep aside hordes of enemies with flaming fury of this powerful, automatic, grenade launching archgun.",
+  "languages": [
+    {
+      "description": "Überwinde Horden an Gegnern mit der flammenden Wut dieses mächtigen, automatischen und Granaten-werfenden Arch-Gewehrs.",
+      "name": "Kuva Ayanga",
+      "code": "de"
+    },
+    {
+      "description": "Balayez des hordes d'ennemis avec la fureur ardente de ce puissant Arch-Fusil de type lance-grenades automatique.",
+      "name": "Ayanga Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Spazza via orde di nemici con la furia fiammeggiante di questo potente lanciagranate Archgun automatico.",
+      "name": "Kuva Ayanga",
+      "code": "it"
+    },
+    {
+      "description": "이 강력한 자동 유탄 발사 아크윙 총기의 맹렬한 분노로 적의 무리를 쓸어버리세요.",
+      "name": "쿠바 아얀가",
+      "code": "ko"
+    },
+    {
+      "description": "Haz a un lado a las hordas de enemigos con la furia llameante de este poderoso, automático, archcañón lanzagranadas.",
+      "name": "Ayanga Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA AYANGA）用这款全自动曲翼榴弹发射器的怒火来扫荡大群敌人。",
+      "name": "赤毒·怒雷",
+      "code": "zh"
+    },
+    {
+      "description": "Разбрасывайте по сторонам орды врагов пылающей яростью этого мощного автоматического гранатомета для арчвинга.",
+      "name": "Аянга Кува",
+      "code": "ru"
+    },
+    {
+      "description": "この強力なフルオートグレネードランチャーの燃えるような怒りで敵の大群を一掃しよう。",
+      "name": "Kuva Ayanga",
+      "code": "ja"
+    },
+    {
+      "description": "Ten potężny automatyczny granatnik archwingowy, zdmuchnie hordy wrogów płonącą furią.",
+      "name": "Ayanga Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Acabe com hordas de inimigos com a fúria flamejante deste poderoso lança-granadas automático.",
+      "name": "Ayanga Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA AYANGA）用這把威力無比的自動榴彈發射器以熱熾怒火將大批敵人掃蕩一空。",
+      "name": "赤毒 阿陽加",
+      "code": "tc"
+    },
+    {
+      "description": "ปืน Archgun ที่ทรงพลังกระบอกนี้เป็นเครื่องยิงลูกระเบิดอัตโนมัติที่จะกวาดล้างฝูงศัตรูให้มอดไหม้เป็นจุณ",
+      "name": "Kuva Ayanga",
+      "code": "th"
+    },
+    {
+      "description": "Düşman birliklerini bu güçlü ve otomatik bomba fırlatan Archgun'ın ateşli öfkesi ile yok edin.",
+      "name": "Kuva Ayanga",
+      "code": "tr"
+    },
+    {
+      "description": "Потужний автоматичний гранатомет для арквінґа, що не залишить нічого навіть від найчисленнішої ворожої орди.",
+      "name": "Аянга-кува",
+      "code": "uk"
+    }
+  ]
+}

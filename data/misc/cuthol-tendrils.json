@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cuthol-tendrils-f364f835f8.png",
+  "name": "Cuthol Tendrils",
+  "description": "Ostrons extract the toxin and apply it to their weapons when hunting animals.\n\nSource: Cut from Cuthol fish via Fisher Hai-Luk in Cetus (Earth). Catch Cuthol in Plains of Eidolon pond hotspots at Night. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Die Ostron extrahieren das Gift und tragen es bei der Jagd auf Tiere auf ihre Waffen auf.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Cuthols geschnitten. Cuthols können nachts in Hotpsots der Teiche der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Cuthol: Fühler",
+      "code": "de"
+    },
+    {
+      "description": "Les Ostrons extraient la toxine et l'appliquent à leurs armes lorsqu'ils chassent des animaux.\n\nSource: découpé des Cuthols via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Cuthol aux points d'affluence des étangs des Plaines d'Eidolon la nuit. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Tentacules de Cuthol",
+      "code": "fr"
+    },
+    {
+      "description": "Gli Ostron estraggono la tossina e la applicano alle loro armi quando cacciano gli animali.\n\nFonte: Ottenibile dal pesce Cuthol dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura un Cuthol nei punti caldi dello stagno delle Piane di Eidolon di notte. Viene rilasciata anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Tentacoli di Cuthol",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 사람들은 이것으로부터 독을 추출하여 동물을 사냥할 때 그들의 무기에 적용시킵니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 컷홀 물고기를 해체하기. 밤 동안 아이돌론의 평원 연못 핫스팟에서 컷홀을 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "컷홀 덩굴",
+      "code": "ko"
+    },
+    {
+      "description": "Los ostronitas extraen la toxina y la aplican a sus armas cuando cazan animales.\n\nFuente: Obtenida del pez Cuthol con la Pescadora Hai-Luk en Cetus (Tierra). Captura al Cuthol en zonas activas del estanque de las Llanuras de Eidolon por la noche. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Rizos de Cuthol",
+      "code": "es"
+    },
+    {
+      "description": "Ostron 人从中提取毒素，并将之用于狩猎。\n\n获取途径：通过希图斯（地球）的渔人海露从克苏尔鱼中切割获取。在夜晚的夜灵平野池塘鱼点中捕捉克苏尔。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "克苏尔卷须",
+      "code": "zh"
+    },
+    {
+      "description": "Остронцы извлекают токсин и наносят его на свои стрелы во время охоты на животных. \n\nМестонахождение: Получается при разделке кутола у рыбачки Хай-Лук в Цетусе (Земля). Ловите кутолов в ночных горячих точках прудов на Равнинах Эйдолона. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Усики Кутола",
+      "code": "ru"
+    },
+    {
+      "description": "オストロンは抽出した毒素を武器に塗って動物を狩る。\n\n場所：エイドロンの草原で獲れるクトルから切り取れる（シータスの釣り師Hai-Luk）。クトルは夜のエイドロンの草原の池のホットスポットで釣れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "クトルのヒゲ",
+      "code": "ja"
+    },
+    {
+      "description": "Ostroni wydobywają truciznę i nakładają ją na swoją broń, podczas polowania na zwierzęta.\n\nMoże zostać zdobyty przez filetowanie Cutholi u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Cuthol może zostać złowiona w stawach Równin Eidolon w ciągu nocy. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Cuthol: Wąsy",
+      "code": "pl"
+    },
+    {
+      "description": "Ostrons extraem a toxina e aplicam-na às suas armas quando caçam animais.\n\nLocalização: obtido através do corte do peixe Cuthol com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Cuthol pode ser pescado em locais de pesca de lagoas das Planícies de Eidolon durante a noite. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Tendões de Cuthol",
+      "code": "pt"
+    },
+    {
+      "description": "Ostron 人從中提取毒素，並將之用於狩獵。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開克蘇爾取得。\n克蘇爾可在夜晚於夜靈平野的池塘魚點裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "克蘇爾卷鬚",
+      "code": "tc"
+    },
+    {
+      "description": "ชาว Ostron สกัดพิษออกมาเพื่อนำไปใช้ทาอาวุธเมื่อออกล่าสัตว์\n\nแหล่งที่พบ: ได้จากการแล่ปลา Cuthol ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งสามารถจับปลา Cuthol ในจุดฮอตสปอตที่มีปลาชุกชุมในหนองน้ำตามที่ราบ Eidolon ได้ในตอนกลางคืน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "หนวด Cuthol",
+      "code": "th"
+    },
+    {
+      "description": "Ostronlar toksini çıkarır ve hayvan avlarken silahlarına uygularlar.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Cuthol balığından kesilmiştir. Geceleri Eidolon Ovalarındaki göletlerde Cuthol yakalayın. Ayrıca Eidolon Ovalarındaki Thumper'lardan da düşer.",
+      "name": "Cuthol Kolları",
+      "code": "tr"
+    },
+    {
+      "description": "Остронці вилучають токсин та наносять його на зброю під час полювання на тварин..\n\nМожна отримати з кутола в рибалки Гай-Люк у Цетусі (Земля). Ловіть кутола в певних місцях ставків Рівнин Ейдолонів уночі. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Вуса кутола",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/EntratiLab/EntratiQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/whispers-in-the-walls-7574522adc.png",
+  "name": "Whispers In The Walls",
+  "description": "Loid has had strange dreams and desperately needs to show you something.",
+  "languages": [
+    {
+      "description": "Loid hatte seltsame Träume und muss dir dringend etwas zeigen.",
+      "name": "Flüstern in den Wänden",
+      "code": "de"
+    },
+    {
+      "description": "Loid est hanté par des rêves étranges et il veut désespérément vous montrer quelque chose.",
+      "name": "Murmures dans les murs",
+      "code": "fr"
+    },
+    {
+      "description": "Loid ha fatto degli strani sogni e ha un disperato bisogno di mostrarti qualcosa.",
+      "name": "Sussurri nelle Mura",
+      "code": "it"
+    },
+    {
+      "description": "기이한 꿈을 꾸게 된 로이드가 당신에게 다급하게 무언가를 보여주고자 합니다.",
+      "name": "벽 속의 속삭임",
+      "code": "ko"
+    },
+    {
+      "description": "Loid ha tenido sueños extraños y está desesperado por mostrarte algo.",
+      "name": "Susurros en las Paredes",
+      "code": "es"
+    },
+    {
+      "description": "洛德做了一些奇怪的梦，急需给你看一些东西。",
+      "name": "墙中低语",
+      "code": "zh"
+    },
+    {
+      "description": "Лойду приснился странный сон и он отчаянно хочет тебе что-то показать.",
+      "name": "Шёпот в стенах",
+      "code": "ru"
+    },
+    {
+      "description": "Loidは奇妙な夢に悩まされており、あなたに何か見せようとしている。",
+      "name": "壁の中の囁き",
+      "code": "ja"
+    },
+    {
+      "description": "Loidowi przyśniły się dziwne rzeczy i koniecznie musi Ci coś pokazać.",
+      "name": "Szepty w Ścianach",
+      "code": "pl"
+    },
+    {
+      "description": "O Loid teve sonhos estranhos e precisa desesperadamente mostrar algo a você.",
+      "name": "Sussurros nas Paredes",
+      "code": "pt"
+    },
+    {
+      "description": "Loid 做了奇怪的夢並且迫切想給你看一些東西。",
+      "name": "牆中低語",
+      "code": "tc"
+    },
+    {
+      "description": "Loid ฝันแปลก ๆ และอยากให้คุณเห็นอะไรบางอย่างเหลือเกิน",
+      "name": "เสียงกระซิบในกำแพง",
+      "code": "th"
+    },
+    {
+      "description": "Loid tuhaf rüyalar gördü ve sana acilen bir şeyi göstermesi gerekiyor.",
+      "name": "Whispers in the Walls",
+      "code": "tr"
+    },
+    {
+      "description": "Лойду наснився дивний сон, і він відчайдушно потребує вам дещо показати.",
+      "name": "Шепіт у стінах",
+      "code": "uk"
+    }
+  ]
+}

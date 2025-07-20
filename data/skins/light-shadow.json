@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerJadeStalker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/light-&-shadow-077618ec3d.png",
+  "name": "Light & Shadow",
+  "description": "Invoke the play of light and dark with this selection of colors.",
+  "languages": [
+    {
+      "description": "Erwecke mit dieser Farbauswahl das Spiel von Licht und Dunkelheit zum Leben.",
+      "name": "Licht & Schatten",
+      "code": "de"
+    },
+    {
+      "description": "Invoquez le jeu de la lumière et de l'obscurité avec cette sélection de couleurs.",
+      "name": "Lumière & Ombre",
+      "code": "fr"
+    },
+    {
+      "description": "Invoca il gioco di luce e buio con questa selezione di colori.",
+      "name": "Luce & Ombra",
+      "code": "it"
+    },
+    {
+      "description": "이 색상 팔레트로 빛과 어둠의 유희를 불러일으켜 보세요.",
+      "name": "라이트 & 섀도우",
+      "code": "ko"
+    },
+    {
+      "description": "Invoca el juego de luces y sombras con esta selección de colores.",
+      "name": "Luz & Sombra",
+      "code": "es"
+    },
+    {
+      "description": "通过这组色彩来演绎光影交织。",
+      "name": "光与影",
+      "code": "zh"
+    },
+    {
+      "description": "Вызовите игру света и тьмы с помощью этой цветовой палитры.",
+      "name": "Свет и тень",
+      "code": "ru"
+    },
+    {
+      "description": "この色のコレクションで光と闇の遊びを呼び起こす。",
+      "name": "Light & Shadow",
+      "code": "ja"
+    },
+    {
+      "description": "Przywołaj grę światła i ciemności za pomocą tego wyboru kolorów.",
+      "name": "Światło i Cień",
+      "code": "pl"
+    },
+    {
+      "description": "Manipule a luz e a escuridão com esta seleção de cores.",
+      "name": "Luz e Sombra",
+      "code": "pt"
+    },
+    {
+      "description": "透過這些精選的色彩來喚醒光影之間的互動。",
+      "name": "光影",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวเลือกสีชุดนี้จะสร้างสีสันในการเล่นแสงสว่างและความมืดมิด",
+      "name": "Light & Shadow",
+      "code": "th"
+    },
+    {
+      "description": "Bu renk seçimiyle aydınlık ve karanlığın oyununu canlandır.",
+      "name": "Işık ve Gölge",
+      "code": "tr"
+    },
+    {
+      "description": "Пориньте в гру світла й темряви за допомогою цієї палітри кольорів.",
+      "name": "Світло й тінь",
+      "code": "uk"
+    }
+  ]
+}

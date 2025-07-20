@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sacrifice-sigil-a11b0f4bb6.png",
+  "name": "Sacrifice Sigil",
+  "description": "A sigil representing prestige gained with the New Loka.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim New Loka repräsentiert.",
+      "name": "Siegel: Opfer",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Nouveau Loka.",
+      "name": "Sceau de Sacrifice",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con New Loka.",
+      "name": "Sigillo Sacrifice",
+      "code": "it"
+    },
+    {
+      "description": "뉴 로카로부터 받은 찬사를 대변하는 시질입니다.",
+      "name": "새크리파이스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con Nuevo Loka.",
+      "name": "Sello del Sacrificio",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了新世间的威望。",
+      "name": "献祭纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Новой Локи.",
+      "name": "Сигил: Жертва",
+      "code": "ru"
+    },
+    {
+      "description": "ニュー・ロカから得た声望を表すシジル。",
+      "name": "Sacrifice シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Nowej Loki.",
+      "name": "Znak Poświęcenia",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto ao Neoloka.",
+      "name": "Brasão: Sacrifício",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了新世間的威望。",
+      "name": "獻祭紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก New Loka",
+      "name": "เครื่องหมาย: Sacrifice",
+      "code": "th"
+    },
+    {
+      "description": "New Loka prestijini sembolize eden bir mühür",
+      "name": "The Sacrifice Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Нова Лока».",
+      "name": "Сиґіл «Пожертва»",
+      "code": "uk"
+    }
+  ]
+}

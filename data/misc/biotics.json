@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/InfestedFoundry/HelminthBiotics",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/biotics-b302f75e9f.png",
+  "name": "Biotics",
+  "description": "Plant-based materials of all kinds are processed and liquidized within the Helminth's digestive tract; the surplus is excreted as an inoffensive, inert clump.",
+  "languages": [
+    {
+      "description": "Pflanzliche Materialien aller Art werden in Helminth' Verdauungstrakt verarbeitet und verflüssigt; der Überschuss wird als harmloser, inaktiver Klumpen ausgeschieden.",
+      "name": "Biotisches",
+      "code": "de"
+    },
+    {
+      "description": "Les matières végétales de toutes sortes sont transformées et liquéfiées dans le tube digestif du Helminth; le surplus est excrété sous forme d'amas inoffensif et inerte.",
+      "name": "Biotiques",
+      "code": "fr"
+    },
+    {
+      "description": "I materiali di origine vegetale di ogni tipo vengono processati e trasformati in liquido all'interno dell'apparato digerente dell'Helminth; l'eccedenza viene espulsa come un ammasso inoffensivo e inerte.",
+      "name": "Biotici",
+      "code": "it"
+    },
+    {
+      "description": "모든 종류의 식물 기반 물질은 헬민스의 소화관 내에서 처리되고 액화되며, 잉여분은 무해한 불활성 덩어리 상태로 분비됩니다.",
+      "name": "생체 물질",
+      "code": "ko"
+    },
+    {
+      "description": "Los materiales vegetales de todo tipo se procesan y licúan dentro del tracto digestivo del Helminto; el excedente se excreta como una masa inerte e inofensiva.",
+      "name": "Bióticos",
+      "code": "es"
+    },
+    {
+      "description": "各种植物类物质会在 Helminth 的消化道内被处理、液化，剩余的残留物则会被以无害惰性块状物的形式排出体外。",
+      "name": "微生泥",
+      "code": "zh"
+    },
+    {
+      "description": "Все виды растительных материалов перерабатываются и рассасываются в пищеварительном тракте Гельминта. Избыток выводится в виде безвредного инертного сгустка.",
+      "name": "Биотики",
+      "code": "ru"
+    },
+    {
+      "description": "植物ベースの素材は、すべてがHelminthの消化管内で処理されて液化される。余剰の投与分は無害で不活性な塊として排泄される。",
+      "name": "生体物",
+      "code": "ja"
+    },
+    {
+      "description": "Wszelkiego rodzaju materiały roślinnego pochodzenia są przetwarzane i upłynniane w przewodzie pokarmowym Helmintha; nadwyżka jest wydalana jako nieszkodliwa, bezwładna kępka.",
+      "name": "Biotyki",
+      "code": "pl"
+    },
+    {
+      "description": "Materiais à base de plantas de todos os tipos são processados e liquidificados pelo trato digestivo do Helminte; as substâncias excedentes são excretadas no formato de uma bola maciça, inofensiva e inerte.",
+      "name": "Bióticos",
+      "code": "pt"
+    },
+    {
+      "description": "在 Helminith 的消化道中被消化分解後的各種植物基質的原物料，其餘下的殘留物會凝結成無害的惰性塊狀物排出體外。",
+      "name": "生物質",
+      "code": "tc"
+    },
+    {
+      "description": "วัสดุจากพืชทุกชนิดจะถูกแปรรูปและทำให้เป็นของเหลวภายในระบบทางเดินอาหารของ Helminth ซึ่งส่วนเกินจะถูกขับออกมาเป็นกลุ่มก้อนที่ไร้ชีวิตและไม่เป็นอันตราย",
+      "name": "ไบโอติกส์",
+      "code": "th"
+    },
+    {
+      "description": "Helminth'in sindirim sistemi içerisinde her türlü bitki bazlı malzeme işlenir ve sıvılaştırılır; fazlalık sıvı dışarıya zararsız ve dingin birer tortu halinde atılır.",
+      "name": "Biyotik",
+      "code": "tr"
+    },
+    {
+      "description": "Будь-які матеріали рослинного походження перетравлюються та всмоктуються в шлунково-кишковому тракті. Надлишок виводиться як нешкідлива неактивна грудка.",
+      "name": "Біотики",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ScarSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scar-sigil-50288afe6a.png",
+  "name": "Scar Sigil",
+  "description": "A memento for those who have awoken from the Second Dream.",
+  "languages": [
+    {
+      "description": "Ein Memento für jene, die vom zweiten Traum erwacht sind.",
+      "name": "Siegel: Narbe",
+      "code": "de"
+    },
+    {
+      "description": "Un mémento pour ceux qui se sont éveillés du Second Rêve.",
+      "name": "Sceau de Cicatrice",
+      "code": "fr"
+    },
+    {
+      "description": "Un ricordo per coloro che si sono svegliati dal Il Secondo Sogno",
+      "name": "Sigillo Scar",
+      "code": "it"
+    },
+    {
+      "description": "두 번째 꿈으로부터 깨어난 이들에게 주어지는 상징입니다.",
+      "name": "스카 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un recuerdo para aquellos que han despertado del segundo sueño.",
+      "name": "Sello Cicatriz",
+      "code": "es"
+    },
+    {
+      "description": "纪念那些从第二场梦中被唤醒的人们。",
+      "name": "伤痕纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Напоминание для тех, кто очнулся от Второго Сна.",
+      "name": "Сигил: Шрам",
+      "code": "ru"
+    },
+    {
+      "description": "二番目の夢から目覚めた者に対する記念の品物。",
+      "name": "Scar シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Pamiątka dla osób obudzonych z Drugiego Snu.",
+      "name": "Znak Blizny",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lembrança para aqueles que acordaram do Segundo Sonho.",
+      "name": "Brasão: Cicatriz",
+      "code": "pt"
+    },
+    {
+      "description": "紀念那些從第二場夢中被喚醒的人們。",
+      "name": "傷痕紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเตือนใจสำหรับผู้ที่ตื่นจากความฝันครั้งที่สอง",
+      "name": "เครื่องหมาย: Scar",
+      "code": "th"
+    },
+    {
+      "description": "Second Dream'den uyananlar için bir hatıra",
+      "name": "Scar Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про тих, хто пробудилися від «Сну наяву».",
+      "name": "Сиґіл «Шрам»",
+      "code": "uk"
+    }
+  ]
+}

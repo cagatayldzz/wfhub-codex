@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/UnlockMonkeyKingNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-noble-animation-set-c9d42ee532.png",
+  "name": "Wukong Noble Animation Set",
+  "description": "This item lets you use Wukong's noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Wukongs nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Wukong-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Nobles de Wukong avec n'importe quelle autre Warframe.",
+      "name": "Animation Wukong Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Wukong con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Wukong",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 우공의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "오공 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Wukong con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones nobles de Wukong",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Wukong 的尊贵站姿。",
+      "name": "Wukong 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Вуконга на любом другом варфрейме.",
+      "name": "Набор анимаций Вуконга: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Wukongのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Wukong ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Wukonga w każdym innym Warframe'ie.",
+      "name": "Animacje Wukonga: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Wukong em qualquer Warframe de sua escolha.",
+      "name": "Animações: Wukong (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Wukong 的尊貴站姿。",
+      "name": "Wukong 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูสง่างามของ Wukong ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่สง่างามของ Wukong",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Wukong'un noble animasyon setinin kullanımına izin verir.",
+      "name": "Wukong Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Вукона до будь-якого ворфрейма.",
+      "name": "Вукон: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

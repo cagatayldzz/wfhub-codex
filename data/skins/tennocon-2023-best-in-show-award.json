@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestInShowAwardGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2023---best-in-show-award-1a6d81f71b.png",
+  "name": "Tennocon 2023 - Best In Show Award",
+  "description": "Congratulations on winning Best in Show in the TennoCon 2023 Cosplay Contest!",
+  "languages": [
+    {
+      "description": "Herzlichen Glückwunsch für das Gewinnen von 'Best in Show' beim TennoCon 2023 Cosplay Contest!",
+      "name": "TennoCon 2023 - Best in Show Award",
+      "code": "de"
+    },
+    {
+      "description": "Félicitations pour avoir remporté le Prix Clou du Spectacle du concours de Cosplay de la TennoCon 2023 !",
+      "name": "TennoCon 2023 - Prix Clou du Spectacle",
+      "code": "fr"
+    },
+    {
+      "description": "Congratulazioni per aver vinto il Premio Best in Show al Contest Cosplay Show del TennoCon 2023!",
+      "name": "TennoCon 2023 - Premio Best In Show",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2023 행사의 코스플레이 컨테스트에서 베스트 인 쇼를 수상하셨습니다. 축하드립니다!",
+      "name": "텐노콘 2023 - 베스트 인 쇼 어워드",
+      "code": "ko"
+    },
+    {
+      "description": "¡Felicidades por haber ganado el premio de 'El mejor del show' en el concurso de cosplay de la TennoCon 2023!",
+      "name": "TennoCon 2023 - Premio \"El mejor del show\"",
+      "code": "es"
+    },
+    {
+      "description": "恭喜您在 TennoCon 2023 角色扮演竞赛中获得最佳演绎奖！",
+      "name": "TennoCon 2023 - 最佳展示奖",
+      "code": "zh"
+    },
+    {
+      "description": "Поздравляем с получением награды «Best in Show» на косплей-конкурсе TennoCon-2023!",
+      "name": "TennoCon-2023: Награда: Best In Show",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2023のコスプレコンテストで「Best in Show」賞を受賞しました！　おめでとうございます！",
+      "name": "TennoCon 2023「Best In Show」賞",
+      "code": "ja"
+    },
+    {
+      "description": "Gratulujemy zdobycia Nagrody Punkt Programu w konkursie Cosplay TennoCon 2023!",
+      "name": "TennoCon 2023 — Punkt Programu",
+      "code": "pl"
+    },
+    {
+      "description": "Parabéns por ganhar o Prêmio 'Melhor do Evento' no Concurso de Cosplay da TennoCon 2023!",
+      "name": "TennoCon 2023: Prêmio \"Melhor do Evento\"",
+      "code": "pt"
+    },
+    {
+      "description": "恭喜在 TennoCon 2023 扮裝比賽中榮獲最佳演出奬！",
+      "name": "TennoCon 2023 - 最佳展示獎",
+      "code": "tc"
+    },
+    {
+      "description": "ขอแสดงความยินดีที่ได้รับรางวัล Best in Show ในการประกวดคอสเพลย์ในงาน TennoCon 2023!",
+      "name": "TennoCon 2023 - รางวัล Best In Show",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2023 Cosplay Yarışmasında, 'Gösterinin En İyisi' Ödülünü kazandığın için tebrik ederiz!",
+      "name": "TennoCon 2023 - En İyi Şov Ödülü",
+      "code": "tr"
+    },
+    {
+      "description": "Вітаємо з нагородою «Найліпший», отриманою на конкурсі косплеїв під час «Теннокону 2023»!",
+      "name": "Теннокон 2023 — нагорода «Найліпший»",
+      "code": "uk"
+    }
+  ]
+}

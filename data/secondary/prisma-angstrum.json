@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-angstrum-57ba91885e.png",
+  "name": "Prisma Angstrum",
+  "description": "Imbued with the finest Prisma crystal, this refined Angstrum features boosted charge and reload speeds.",
+  "languages": [
+    {
+      "description": "Getränkt in feinsten Prisma-Kristallen, bietet diese verfeinerte Angstrum verbesserte Aufladung und Nachladegeschwindigkeit.",
+      "name": "Prisma Angstrum",
+      "code": "de"
+    },
+    {
+      "description": "Imprégné des plus fins cristaux Prisma, cet Angstrum raffiné possède une vitesse de charge et de rechargement améliorée.",
+      "name": "Angstrum Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Impregnato del miglior cristallo Prisma, questo raffinato Angstrum offre una velocità di carica e ricarica aumentati.",
+      "name": "Prisma Angstrum",
+      "code": "it"
+    },
+    {
+      "description": "최상급의 프리즈마 크리스탈로 꽉 채워 제련된 이 앙스트럼은 기존보다 한층 향상된 충전 및 재장전 속도를 자랑합니다.",
+      "name": "프리즈마 앙스트럼",
+      "code": "ko"
+    },
+    {
+      "description": "Imbuida con el cristal prisma más fino, esta Angstrum refinada se caracteriza por tener una velocidad de recarga y carga mejorada.",
+      "name": "Angstrum Prisma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PRISMA ANGSTRUM）灌注了最出色的棱晶，这款经过精制后的安格斯壮的特点是具有更快的蓄力和装填速度。",
+      "name": "棱晶·安格斯壮",
+      "code": "zh"
+    },
+    {
+      "description": "Украшенный лучшими призматическими кристаллами, этот Ангстрем имеет увеличенные скорости накопления заряда и перезарядки.",
+      "name": "Ангстрем Призма",
+      "code": "ru"
+    },
+    {
+      "description": "最高級のプリズマクリスタルに染まったこの洗練されたAngstrumはチャージとリロード速度の向上が特徴だ。",
+      "name": "Prisma Angstrum",
+      "code": "ja"
+    },
+    {
+      "description": "Przepojony najwyższej jakości kryształami Prisma, ten wyrafinowany Angstrum cechuje się poprawionym czasem ładowania i Prędkością Przeładowania.",
+      "name": "Angstrum Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Imbuída com os cristais prisma mais finos que há, esta Angstrum refinada apresenta um aumento no tempo de carregamento de disparo e em sua Velocidade de Recarga.",
+      "name": "Angstrum Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PRISMA ANGSTRUM）灌注了最出色的棱晶水晶，這款經過精製後的安格斯壯的特點是具有更快的蓄力和裝填速度。",
+      "name": "棱晶 安格斯壯",
+      "code": "tc"
+    },
+    {
+      "description": "Angstrum ที่ได้รับการปรับแต่งแล้วกระบอกนี้อัดแน่นไปด้วยคริสตัลพริสมาที่ดีที่สุด ทำให้ชาร์จและรีโหลดกระสุนได้เร็วขึ้น",
+      "name": "Prisma Angstrum",
+      "code": "th"
+    },
+    {
+      "description": "Prisma kristali ile güçlendirilmiş olan bu yenilenmiş Angstrum, arttırılmış dolum ve şarjör doldurma hızı sunar.",
+      "name": "Prisma Angstrum",
+      "code": "tr"
+    },
+    {
+      "description": "Пістолет «Анґструм» кольору вишуканого призмового кристала, що швидше накопичує заряд і перезаряджається.",
+      "name": "Анґструм-призма",
+      "code": "uk"
+    }
+  ]
+}

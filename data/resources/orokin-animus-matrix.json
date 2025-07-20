@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingRareItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-animus-matrix-474d36a377.png",
+  "name": "Orokin Animus Matrix",
+  "description": "A cognition matrix that enables mechs to be adaptable and efficient in the field.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 3 Isolation Vault Bounties",
+  "languages": [
+    {
+      "description": "Eine Kognitionsmatrix, die es Mechs ermöglicht, im Einsatzgebiet anpassungsfähig und effizient zu sein.\n\nQuelle: Belohnung aus Isolationsgewölbe-Aufträgen in der Cambion-Drift (Deimos) und von feindlichen Necramechs, aus Stufe 3 Isolationsgewölbe-Aufträgen.",
+      "name": "OROKIN ANIMUS-MATRIX",
+      "code": "de"
+    },
+    {
+      "description": "Une matrice cognitive qui permet aux méchas de s'adapter et d'être efficaces sur le terrain.\n\nLieu: Récompenses des Mises à Prix des Salles d'Isolement du Puy de Cambion (Deimos) et des Necramechs ennemis trouvés dans les Mises à Prix des Salles d'Isolement de niveau 3",
+      "name": "MATRICE ANIMUS OROKIN",
+      "code": "fr"
+    },
+    {
+      "description": "Una matrice cognitiva che consente ai mech di essere adattabili ad efficaci sul campo.\n\nPosizione: Ricompense delle Taglie Vault d'Isolamento sul Cambion Drift (Deimos), e dai Necramech Nemici trovati nelle Taglie Vault d'Isolamento di Livello 3",
+      "name": "MATRICE ANIMUS OROKIN",
+      "code": "it"
+    },
+    {
+      "description": "전장에서의 적응력 및 효율성을 높이는 인지 매트릭스입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 에서 격리 금고 보상 및 격리 금고 의뢰 티어 3에서 발견되는 적 네크라메크",
+      "name": "오로킨 애니머스 매트릭스",
+      "code": "ko"
+    },
+    {
+      "description": "Una matriz cognitiva que permite a los mechas ser adaptables y eficientes en el campo.\n\nUbicación: Recompensas de los contratos de la bóveda de aislamiento en Deriva Cambion (Deimos) y con los Necramechs enemigos encontrados en los contratos de la bóveda de aislamiento de nivel 3",
+      "name": "MATRIZ DE ÁNIMO OROKIN",
+      "code": "es"
+    },
+    {
+      "description": "一个让机甲在战场上具备适应性和高效率的认知矩阵装置。\n\n获取地点：魔胎之境（火卫二）隔离库赏金奖励、等级 3 隔离库赏金中的殁世机甲敌人",
+      "name": "OROKIN 战意矩阵装置",
+      "code": "zh"
+    },
+    {
+      "description": "Матрица познания, которая позволяет некрамехам адаптироваться и эффективно работать в полевых условиях.\n\nМестонахождение: награды за контракты в Изолированном Хранилище в Камбионском Дрейфе (Деймос) или от вражеских некрамехов, найденных в контрактах Изолированного Хранилища 3 уровня.",
+      "name": "МАТРИЦА ОРОКИН: АНТИПАТИЯ",
+      "code": "ru"
+    },
+    {
+      "description": "メカの戦場での効率と順応性を高める認識マトリックス。\n\n場所：カンビオン荒地（ダイモス）の隔離保管庫依頼ミッション、隔離庫依頼ミッションランク 3の敵のネクロメカ",
+      "name": "オロキン アニマスマトリックス",
+      "code": "ja"
+    },
+    {
+      "description": "Matryca poznawcza pozwalająca Nekramechom na samodoskonalenie i zachowanie wartości bojowej.\n\nPołożenie: Nagroda Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie, dowolne wrogie Nekramechy w Zleceniach Skarbców Izolacyjnych 3 poziomu",
+      "name": "MATRYCA ANIMUSU OROKIN",
+      "code": "pl"
+    },
+    {
+      "description": "Uma matriz de cognição, que permite que os Necramechs sejam adaptáveis e eficientes em campo.\n\nLocalização: em Contratos das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 3, na Deriva de Cambion, em Deimos.",
+      "name": "MATRIZ DE ANIMOSIDADE OROKIN",
+      "code": "pt"
+    },
+    {
+      "description": "一種認知源件用來啟用機甲在野外的適應性以及效率。\n\n地點：魔裔禁地（火衛二）上的隔離庫賞金任務以及階級 3 隔離庫賞金任務的敵方亡骸機甲",
+      "name": "OROKIN 心意源件",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบพื้นฐานด้านความรู้ความเข้าใจที่ช่วยให้ Mech สามารถปรับตัวและมีประสิทธิภาพในสนามรบ\n\nแหล่งที่พบ: ภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัวที่แคมบิออนดริฟต์ (เดมอส) และจากศัตรู Necramech ที่พบในภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัว ระดับที่ 3",
+      "name": "เมทริกซ์ OROKIN ANIMUS",
+      "code": "th"
+    },
+    {
+      "description": "Makinelerin sahada uyarlanabilir ve verimli olmasını sağlayan bir kavrama matrisi.\n\nKonum: Cambion Drift'teki (Deimos) İzolasyon Kasası Bounty ödülleri ve Seviye 3 İzolasyon Kasası Bounty Görevlerinde bulunan Düşman Necramech'ler",
+      "name": "OROKIN RUH MATRIX",
+      "code": "tr"
+    },
+    {
+      "description": "Дозволяє некрамехам адаптуватися до умов та поліпшувати дієвість.\n\nМожна здобути як винагороду за контракти «Камери ізоляції» у Кембіонській течії (Деймос) та з ворожих некрамехів у контрактах 3-го рівня.",
+      "name": "ОРОКІНСЬКА ПІЗНАВАЛЬНА МАТРИЦЯ",
+      "code": "uk"
+    }
+  ]
+}

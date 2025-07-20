@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-pack-leader-4b54bfccd0.jpg",
+  "name": "Primed Pack Leader",
+  "description": "Heal your Companion with Melee hits. Excess healing grants Overguard.",
+  "languages": [
+    {
+      "description": [
+        "Heilt deinen Begleiter mit Nahkampftreffern. Überschüssige Heilung gewährt Überschutz."
+      ],
+      "name": "Primed Rudelanführer",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Soignez votre Compagnon en frappant les ennemis en Mêlée. Un excès de soins confère une Garde Renforcée."
+      ],
+      "name": "Chef de Meute Accru",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Cura il tuo compagno con colpi Corpo a Corpo. Le cure in eccesso conferiscono Sovraguardia."
+      ],
+      "name": "Primed Pack Leader",
+      "code": "it"
+    },
+    {
+      "description": [
+        "근접 공격 시 동반자가 치유됩니다. 최대 체력/실드를 넘어 치유될 시 오버가드가 부여됩니다."
+      ],
+      "name": "프라임드 팩 리더",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Cura a tu compañero con golpes cuerpo a cuerpo. El exceso de curación otorga sobreguardia."
+      ],
+      "name": "Líder de la manada Prime",
+      "code": "es"
+    },
+    {
+      "description": [
+        "用近战攻击治愈你的同伴。额外的治疗会给予超宏防护。"
+      ],
+      "name": "领袖 Prime",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Исцелите своего компаньона ударами ближнего боя. Избыточное лечение даёт сверхзащиту."
+      ],
+      "name": "Вожак стаи Прайм",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "近接攻撃を当てるとコンパニオンが回復する。最大ヘルスを超えた回復はオーバーガードを付与する。"
+      ],
+      "name": "Primed Pack Leader",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Leczy Towarzysza przy atakach wręcz. Nadmiar leczenia staje się Gardą."
+      ],
+      "name": "Przywódca Stada Prime",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Cure o seu Companheiro ao acertar golpes Corpo a Corpo. O excesso de Vida concederá Guarda Reforçada."
+      ],
+      "name": "Primed Pack Leader",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "透過近戰打擊來治癒你的同伴。過度治癒給予超量防護。"
+      ],
+      "name": "領袖 Prime",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "โจมตีระยะประชิดเพื่อรักษาคู่หู ค่าพลังชีวิตที่มากเกินไปจะนำไปเป็นค่าโอเวอร์การ์ด"
+      ],
+      "name": "Primed Pack Leader",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Yakın Dövüş vuruşlarıyla Yoldaşını iyileştir. Aşırı iyileştirme, Aşırı Koruma sağlar."
+      ],
+      "name": "Primed Pack Leader",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Зцілюйте супутників за допомогою влучань холодною зброєю. Надмірне зцілення дасть надзахист."
+      ],
+      "name": "Праймований ватажок зграї",
+      "code": "uk"
+    }
+  ]
+}

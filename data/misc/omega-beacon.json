@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/omega-beacon-0a0c0607ab.png",
+  "name": "Omega Beacon",
+  "description": "Locator beacon broadcasting on the Omega frequency",
+  "languages": [
+    {
+      "description": "Ein Signalfeuer, das auf der Omega-Frequenz sendet",
+      "name": "Omega-Signalfeuer",
+      "code": "de"
+    },
+    {
+      "description": "Balise de localisation émettant sur la fréquence Omega",
+      "name": "Balise Omega",
+      "code": "fr"
+    },
+    {
+      "description": "Localizzatore che trasmette sulla frequenza Omega",
+      "name": "Localizzatore Omega",
+      "code": "it"
+    },
+    {
+      "description": "오메가 주파수를 보내고 있는 위치 신호기 입니다",
+      "name": "오메가 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Baliza de localización emitiendo en frecuencia omega",
+      "name": "Baliza Omega",
+      "code": "es"
+    },
+    {
+      "description": "持续发送出 Omega 频率的信标定位装置",
+      "name": "Omega 信标",
+      "code": "zh"
+    },
+    {
+      "description": "Маяк, транслирующий на частоте омега",
+      "name": "Маяк Омега",
+      "code": "ru"
+    },
+    {
+      "description": "周波数オメガで発信するロケータービーコン",
+      "name": "オメガビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Radiolokalizator nadający na częstotliwości Omega",
+      "name": "Radiolokalizator Omega",
+      "code": "pl"
+    },
+    {
+      "description": "Transceptor Localizador Delta transmitindo na frequência Omega",
+      "name": "Transmissor Omega",
+      "code": "pt"
+    },
+    {
+      "description": "持續發送出 Omega 頻率的信標定位裝置",
+      "name": "Omega 信標",
+      "code": "tc"
+    },
+    {
+      "description": "สัญญาณระบุตำแหน่งที่ส่งสัญญาณด้วยคลื่นความถี่โอเมกา",
+      "name": "บีคอนโอเมกา",
+      "code": "th"
+    },
+    {
+      "description": "Konum belirleyici Omega frekansından yayın yapıyor",
+      "name": "Omega İşareti",
+      "code": "tr"
+    },
+    {
+      "description": "Радіомаяк, що транслює на частоті Омега.",
+      "name": "Радіомаяк «Омега»",
+      "code": "uk"
+    }
+  ]
+}

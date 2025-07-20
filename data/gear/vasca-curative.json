@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vasca-curative-ba34924b77.png",
+  "name": "Vasca Curative",
+  "description": "Known as 'lisau heisah' by the Ostrons, this is a traditionally-brewed remedy for the Vasca virus. Once applied any infected Kavats within a short radius are cured.",
+  "languages": [
+    {
+      "description": "Dieses traditionelle Heilmittel für den Vasca Virus heißt bei den Ostron 'lisau heisah'. Bei Anwendung werden alle Kavat in nahem Umkreis geheilt.",
+      "name": "Vasca-Heilmittel",
+      "code": "de"
+    },
+    {
+      "description": "Connu par les Ostrons sous le nom de 'lisau heisah', ce remède traditionnellement infusé combat le virus Vasca. Une fois appliqué, tout Kavat infecté se trouvant à portée est guéri.",
+      "name": "Remède contre Vasca",
+      "code": "fr"
+    },
+    {
+      "description": "Conosciuto come 'lisau heisah' dagli Ostron, è un rimedio tradizionale preparato per trattare il virus Vasca. Una volta applicato, viene curato qualsiasi Kavat infetto entro una determinata distanza.",
+      "name": "Rimedio Vasca",
+      "code": "it"
+    },
+    {
+      "description": "오스트론에게는 '리사우 헤이사'라는 이름으로 알려져 있는 이 약은 전통적인 방식으로 주조된 바스카 바이러스의 치료제입니다. 적용 시 좁은 범위 내의 감염된 카밧들이 모두 치료됩니다.",
+      "name": "바스카 큐러티브",
+      "code": "ko"
+    },
+    {
+      "description": "Conocido como 'lisau heisah' por los ostronitas, este es un remedio preparado de manera tradicional para el virus Vasca. Una vez aplicado, cualquier kavat infectado dentro de un radio corto se cura.",
+      "name": "Remedio Vasca",
+      "code": "es"
+    },
+    {
+      "description": "这是一种用传统方式调制而成的噬血病毒治疗剂，Ostron 人称之为“lisau heisah”。一旦使用，小范围内所有被感染的库娃都会得到治愈。",
+      "name": "噬血治疗剂",
+      "code": "zh"
+    },
+    {
+      "description": "Народное средство от вируса Васка, среди Остронцев известное как 'лисау хейсах'. При его применении все каваты поблизости исцеляются.",
+      "name": "Вакцина Васки",
+      "code": "ru"
+    },
+    {
+      "description": "オストロンの民が「lisau heisah」と呼ぶ、伝統的な手法で醸造されたVascaウイルスの治療薬。使用すると、範囲内にいる感染したキャバットは治癒される。",
+      "name": "Vasca治癒剤",
+      "code": "ja"
+    },
+    {
+      "description": "Tradycyjnie warzone lekarstwo na wirus Vasca, znane wśród Ostronów jako 'lisau heisah'. Po użyciu wszelkie zainfekowane Kavaty w pobliżu zostaną wyleczone.",
+      "name": "Remedium Vasca",
+      "code": "pl"
+    },
+    {
+      "description": "Também conhecido como 'lisau heisah' pelos Ostrons, este é um remédio tradicional fabricado para o vírus Vasca. Quando utilizado, Kavats infectados dentro da área de efeito são curados.",
+      "name": "Curativo Vasca",
+      "code": "pt"
+    },
+    {
+      "description": "Ostron 人將這種對付噬血病毒的傳統釀制療法稱之為「lisau heisah」，一旦使用後可治癒小範圍內任何受感染的庫娃。",
+      "name": "噬血治癒劑",
+      "code": "tc"
+    },
+    {
+      "description": "รู้จักกันในชื่อ 'lisau heisah' โดย Ostron นี่เป็นวิธีการรักษาแบบดั้งเดิมสำหรับไวรัส Vasca เมื่อใช้กับ Kavat ที่ติดเชื้อภายในรัศมีสั้น ๆ จะหายขาด",
+      "name": "รักษาการติดเชื้อ Vasca",
+      "code": "th"
+    },
+    {
+      "description": "Vasca virüsünün tedavisi için geleneksel yöntemlerle hazırlanan bir ilaçtır ve Ostronlar tarafından 'lisau heisah' olarak bilinir. Uygulandıktan sonra, ufak bir alan içinde bulunan bütün virüslü Kavatları tedavi eder.",
+      "name": "Vasca Tedavisi",
+      "code": "tr"
+    },
+    {
+      "description": "Традиційний остронський лікарський засіб проти васки, відомий як «лісау-гайсаг». Виліковує всіх заражених каватів поблизу.",
+      "name": "Ліки проти васки",
+      "code": "uk"
+    }
+  ]
+}

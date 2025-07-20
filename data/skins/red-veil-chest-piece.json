@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilCArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/red-veil-chest-piece-d960dc0c8c.png",
+  "name": "Red Veil Chest Piece",
+  "description": "Lightweight and unobtrusive. The armor of Red Veil assassins.",
+  "languages": [
+    {
+      "description": "Leicht und unauffällig. Die Rüstung der Red Veil Assassinen.",
+      "name": "Brustplatte: Red Veil",
+      "code": "de"
+    },
+    {
+      "description": "Légère et discrète. L'Armure d'un assassin du Voile rouge.",
+      "name": "Plastron du Voile Rouge",
+      "code": "fr"
+    },
+    {
+      "description": "Leggera e discreta. L'armatura degli assassini Red Veil.",
+      "name": "Pettorina Red Veil",
+      "code": "it"
+    },
+    {
+      "description": "가볍고도 간결한, 레드 베일 암살자의 아머입니다.",
+      "name": "레드 베일 체스트 피스",
+      "code": "ko"
+    },
+    {
+      "description": "Ligera y discreta. La armadura de un asesino de Velo Rojo.",
+      "name": "Peto Velo Rojo",
+      "code": "es"
+    },
+    {
+      "description": "轻盈且又低调。血色面纱刺客的护甲。",
+      "name": "血色面纱胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Легкая и удобная. Броня убийц из Красной Вуали.",
+      "name": "Нагрудник: Красная Вуаль",
+      "code": "ru"
+    },
+    {
+      "description": "軽量で目立たない。レッド・ベール暗殺者のアーマー。",
+      "name": "Red Veil チェストピース",
+      "code": "ja"
+    },
+    {
+      "description": "Lekki i dyskretny. Zbroja zabójców Czerwonego Woalu.",
+      "name": "Napierśnik: Czerwony Woal",
+      "code": "pl"
+    },
+    {
+      "description": "Leve e discreta, esta é a armadura dos assassinos do Véu Rubro.",
+      "name": "Peitoral: Véu Rubro",
+      "code": "pt"
+    },
+    {
+      "description": "輕量且樸實。血色面紗刺客的護甲。",
+      "name": "血色面紗胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "น้ำหนักเบาและไม่สร้างความรำคาญ เป็นเกราะของนักฆ่า Red Veil",
+      "name": "แผ่นหน้าอก Red Veil",
+      "code": "th"
+    },
+    {
+      "description": "Hafif ve göze batmayan. Red Veil suikastçısının zırhı.",
+      "name": "Red Veil Göğüs Parçası",
+      "code": "tr"
+    },
+    {
+      "description": "Набір обладунків убивць із «Багряної Вуалі». Легкі й зручні.",
+      "name": "Нагрудник «Багряна Вуаль»",
+      "code": "uk"
+    }
+  ]
+}

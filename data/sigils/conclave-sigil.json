@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OpticorConclaveVariantSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/conclave-sigil-ce15a5e807.png",
+  "name": "Conclave Sigil",
+  "description": "A sigil representing prestige gained with the Conclave.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige beim Conclave zeigt.",
+      "name": "Siegel: Conclave",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Conclave.",
+      "name": "Sceau de Conclave",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con il Conclave.",
+      "name": "Sigillo Conclave",
+      "code": "it"
+    },
+    {
+      "description": "콘클레이브에서 얻은 칭호를 대변하는 시질입니다.",
+      "name": "콘클레이브 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Cónclave.",
+      "name": "Sello de Cónclave",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了武形秘仪的威望。",
+      "name": "武形秘仪纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, демонстрирующий уважение, достигнутое в Конклаве.",
+      "name": "Сигил: Конклав",
+      "code": "ru"
+    },
+    {
+      "description": "コンクレーブから得た声望を表すシジル。",
+      "name": "Conclave シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty w Konklawe.",
+      "name": "Znak Konklawe",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto ao Conclave.",
+      "name": "Brasão: Conclave",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了武形秘儀的威望。",
+      "name": "武形秘儀紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจากคอนเคลฟ",
+      "name": "เครื่องหมาย: Conclave",
+      "code": "th"
+    },
+    {
+      "description": "Conclave'de kazanılan prestiji sembolize eden bir mühür.",
+      "name": "Conclave Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує отриману в конклаві репутацію.",
+      "name": "Сиґіл «Конклав»",
+      "code": "uk"
+    }
+  ]
+}

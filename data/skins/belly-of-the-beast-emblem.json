@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/JadeShadowsEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/belly-of-the-beast-emblem-b66a70af65.png",
+  "name": "Belly Of The Beast Emblem",
+  "description": "An emblem available to clan members who kept Jade’s Volatile Motes out of the hands of Parvos Granum in Operation: Belly of the Beast.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das Clanmitgliedern zur Verfügung steht, die in der Operation 'Das Innere der Bestie' verhindert haben, dass Jades Volatile Partikel in die Hände von Parvos Granum fielen.",
+      "name": "Emblem: Das Innere der Bestie",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge disponible pour les membres du Clan qui ont gardé les Particules Volatiles de Jade hors des mains de Parvos Granum dans l'Opération : Ventre de la Bête.",
+      "name": "Badge Ventre de la Bête",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema disponibile per i membri del clan che hanno tenuto le Particelle Volatili di Jade lontane dalle mani di Parvos Granum nell'Operazione: Belly of the Beast.",
+      "name": "Emblema Belly of the Beast",
+      "code": "it"
+    },
+    {
+      "description": "작전명: 짐승의 뱃속에서 제이드의 불안정성 분진들을 파보스 그라넘의 손에서 지켜낸 클랜원이 사용할 수 있는 엠블럼입니다.",
+      "name": "짐승의 뱃속 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema disponible para los miembros del clan que mantuvieron las trizas volátiles de Jade fuera del alcance de Parvos Granum en la Operación: Vientre de la Bestia.",
+      "name": "Emblema Vientre de la bestia",
+      "code": "es"
+    },
+    {
+      "description": "一枚颁发给在《行动代号：兽之腹》中，成功阻止了 Jade 的不稳定微粒落入帕尔沃斯·格拉努之手的氏族成员的徽章。",
+      "name": "兽之腹徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Эмблема, доступная членам клана, которые уберегли неустойчивые частицы Джейд от рук Парвоса Грэнума в операции «Чрево зверя».",
+      "name": "Эмблема: «Чрево зверя»",
+      "code": "ru"
+    },
+    {
+      "description": "「獣の巣窟」作戦でJadeのボラタイル・モートをParvos Granumの手から守ったクランメンバーが獲得できるエンブレム。",
+      "name": "獣の巣窟 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat dostępny dla członków Klanu, którzy trzymali Lotne Cząsteczki Jade z dala od Parvosa Granuma w Operacji: W Jamie Bestii.",
+      "name": "Emblemat: W Jamie Bestii",
+      "code": "pl"
+    },
+    {
+      "description": "Um Emblema disponível para membros do Clã que mantiveram as Partículas Voláteis da Jade fora do alcance de Parvos Granum na Operação Ventre da Besta.",
+      "name": "Emblema: Ventre da Besta",
+      "code": "pt"
+    },
+    {
+      "description": "頒發給《野獸之腹》行動中阻止 Jade 的臨界微粒落入 Parvos Granum 手中的氏族成員的徽章。",
+      "name": "野獸之腹徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่มอบให้กับสมาชิกในแคลนที่เก็บ Volatile Mote ของ Jade ให้พ้นจากมือของ Parvos Granum ในปฏิบัติการ: Belly of the Beast ได้สำเร็จ",
+      "name": "ตราสัญลักษณ์ Belly of the Beast",
+      "code": "th"
+    },
+    {
+      "description": "Operasyon: Canavarın Göbeği'nde Parvos Granum'un, Jade'in Yanıcı Mote'larını ele geçirmesini önleyen klan üyelerine sunulan bir amblem.",
+      "name": "Canavarın Göbeği Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака доступна для членів клану, що вберегли леткі порошинки Джейд від загарбання Парвом Ґранумом під час операції «У лігві звіра».",
+      "name": "Відзнака «У лігві звіра»",
+      "code": "uk"
+    }
+  ]
+}

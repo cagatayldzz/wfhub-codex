@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaIceEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-chill-ephemera-24bb9ab334.png",
+  "name": "Vengeful Chill Ephemera",
+  "description": "An icy ephemera seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein eisiges Ephemera, von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächende Kälte",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera glacé récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Gel Vengeur",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera glaciale estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Chill",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은 냉기의 이페메라입니다.",
+      "name": "벤지풀 칠 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero gélido adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Frío Vengativo",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的冰凉幻纹。",
+      "name": "复仇冰冻幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Ледяная эфемера изъята у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Холод мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた凍り付くようなエフェメラ。",
+      "name": "Vengeful Chill エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Lodowa Efemera skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwego Chłodu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma efêmera de gelo obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Congelante",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的冰鎮幻紋。",
+      "name": "復仇寒冰幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราน้ำแข็ง ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Chill",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş buzlu bir ephemera.",
+      "name": "Vengeful Chill Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Холодна ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстива студінь»",
+      "code": "uk"
+    }
+  ]
+}

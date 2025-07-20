@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUContainerCrate",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-cargo-crate-decoration-4ca778e4f7.png",
+  "name": "Solaris Cargo Crate Decoration",
+  "description": "Conforms to standard retention bracket specs for all make of rail tractor. And, coincidentally, your lander.",
+  "languages": [
+    {
+      "description": "Dem Standard für Halteklammern aller Schienenschlepper entsprechend. Und zufällig auch für dein Schiff.",
+      "name": "Dekoration: Solaris Frachtkiste",
+      "code": "de"
+    },
+    {
+      "description": "Conforme aux specs des supports de fixation des transports sur rail. Et, comme par hasard, à ceux de votre vaisseau aussi.",
+      "name": "Décoration Cargaison Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "Conforme ai supporti di mantenimento standard per tutte le navicelle. E, casualmente, anche con la tua.",
+      "name": "Decorazione Contenitore Cargo Solaris",
+      "code": "it"
+    },
+    {
+      "description": "모든 레일 트랙터 제조사의 표준 유지 버팀대 스펙을 준수합니다. 그리고 우연하게도, 당신 착륙정의 것도요.",
+      "name": "솔라리스 화물 상자 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Conforme a las características estándar de los soportes de retención de todo uso de un tractor de riel. Y, por coincidencia, de tu nave de desembarco.",
+      "name": "Decoración de caja de carga Solaris",
+      "code": "es"
+    },
+    {
+      "description": "符合标准的滞留支架，适用于各类航道牵引机。并且，巧合的是，也适用于你的着陆器。",
+      "name": "索拉里斯货物储存箱装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Подходит к крепежным кронштейнам стандартной формы всех рельсовых тягачей. И, так уж вышло, - к вашему Кораблю.",
+      "name": "Украшение: Грузовой Ящик Солярис",
+      "code": "ru"
+    },
+    {
+      "description": "あらゆるレールトラクターの用途に使える通常保留ブラケット。ついでに偶然。あなたの船にもピッタリ。",
+      "name": "ソラリス貨物コンテナの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Odpowiada standardowym specyfikacjom wsporników dla wszystkich modeli ciągników. W tym, przypadkowo, dla Twojego lądownika.",
+      "name": "Ozdoba Solaris: Skrzynia towarowa",
+      "code": "pl"
+    },
+    {
+      "description": "Corresponde à todas as especificações e mecanismos de um trator. E concidentemente, de sua nave também.",
+      "name": "Caixote de Carga Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "符合標準的滯留支架，適用於所有的軌道牽引機。並且，巧合的是，也適用於你的登陸載具。",
+      "name": "索拉里斯貨物箱裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ที่ออกแบบตามข้อกำหนดของเก็บรักษาตามมาตรฐานที่ใช้สำหรับแทรกเตอร์ทุกประเภท และบังเอิญว่า ใช้กับยานของคุณได้ด้วย",
+      "name": "ของตกแต่ง: ลังสินค้า Solaris ขนาดใหญ่",
+      "code": "th"
+    },
+    {
+      "description": "Bu standart bağlantı parçaları tüm ray traktör markaları ile uyumludur. Ve, tesadüfe bak, senin aracınlada uyumlu.",
+      "name": "Solaris Kargo Konteyner Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Можна використовувати зі стандартними кріпленнями всіх рейкових тягачів і, за збігом обставин, із вашим орбітром також.",
+      "name": "Оздоблення: вантажний ящик Соляріса",
+      "code": "uk"
+    }
+  ]
+}

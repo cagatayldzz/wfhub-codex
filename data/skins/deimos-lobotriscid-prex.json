@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTennoConE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deimos-lobotriscid-prex-d74545c557.png",
+  "name": "Deimos Lobotriscid Prex",
+  "description": "A triple tailed Fish of Deimos. Prex designed and illustrated by Shadrad!",
+  "languages": [
+    {
+      "description": "Fisch mit drei Schwanzflossen von Deimos. Als Prex designt und illustriert von Shadrad!",
+      "name": "Deimos Lobotriscid Prex",
+      "code": "de"
+    },
+    {
+      "description": "Un poisson à trois queues de Deimos. Prex conçu et illustré par Shadrad!",
+      "name": "Prex Lobotriscide Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Un Pesce di Deimos a coda tripla. Carta Prex ideata e illustrata da Shadrad!",
+      "name": "Prex: Deimos Lobotriscid",
+      "code": "it"
+    },
+    {
+      "description": "세 개의 꼬리를 가진 데이모스의 물고기입니다. 프렉스의 디자인 및 삽화는 Shadrad님이 담당했습니다!",
+      "name": "데이모스 로보트리시드 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pez de triple cola de Deimos. ¡Prex diseñada e ilustrada por Shadrad!",
+      "name": "Prex de Lobotriscid Deimos",
+      "code": "es"
+    },
+    {
+      "description": "一种生活在火卫二的三尾鱼类。该 Prex 卡牌的构思和插图由 Shadrad 创作！",
+      "name": "火卫二三尾额叶鲤 Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Рыба Деймоса с тремя хвостами. Прекс разработан и проиллюстрирован Shadrad!",
+      "name": "Прекс: Лоботрисцид Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "三つの頭を持つダイモスの魚。プレックスは「Shadrad」氏によるデザインおよびイラストレーション。",
+      "name": "ダイモス ロボトリシド プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Ryba z trzema ogonami zamieszkująca Deimosa. Prex zaprojektowany i zilustrowany przez Shadrad!",
+      "name": "Prex: Lobotrysid Deimos",
+      "code": "pl"
+    },
+    {
+      "description": "Um peixe de Deimos com uma cauda tripla. Prex desenvolvida e ilustrada por Shadrad!",
+      "name": "Prex: Lobotriscid de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "火衛二的三尾魚類。卡牌由 Shadrad 設計及繪製！",
+      "name": "卡牌 — 火衛二臟葉鰼",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาสามหางในเดมอส ไพ่เพร็กซ์ที่ออกแบบและวาดภาพประกอบโดย Shadrad!",
+      "name": "ไพ่เพร็กซ์ Deimos Lobotriscid",
+      "code": "th"
+    },
+    {
+      "description": "Üç kuyruklu bir Deimos Balığı. Prex, Shadrad tarafından tasarlandı ve resmedildi!",
+      "name": "Deimos Lobotriscid Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Трихвоста риба Деймоса. Автор прекса: Shadrad!",
+      "name": "Прекс деймоського лоботрисцида",
+      "code": "uk"
+    }
+  ]
+}

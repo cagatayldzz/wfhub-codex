@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/BaruukPattern",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/baruuk-mandala-8d3ada2921.png",
+  "name": "Baruuk Mandala",
+  "description": "Bestow the serenity of Baruuk’s meditative energy mandala upon your orbiter.",
+  "languages": [
+    {
+      "description": "Verleihe deinem Orbiter die Gelassenheit von Baruuuk's meditativem Energie-Mandala.",
+      "name": "Baruuk Mandala",
+      "code": "de"
+    },
+    {
+      "description": "Conférez à votre Orbiteur la sérénité de l'énergie méditative du Mandala de Baruuk.",
+      "name": "Mandala Baruuk",
+      "code": "fr"
+    },
+    {
+      "description": "Elargisci la serenità del mandala meditativo energetico di Baruuk al tuo orbiter.",
+      "name": "Mandala Baruuk",
+      "code": "it"
+    },
+    {
+      "description": "바루크의 고요한 명상 에너지를 당신의 오비터에 부여해보세요.",
+      "name": "바루크 만다라",
+      "code": "ko"
+    },
+    {
+      "description": "Concede la serenidad de la energía meditativa del mandala de Baruuk a tu Orbitador.",
+      "name": "Mandala de Baruuk",
+      "code": "es"
+    },
+    {
+      "description": "将 Baruuk 冥想能量曼陀罗的宁静赐予你的轨道飞行器。",
+      "name": "Baruuk 曼陀罗",
+      "code": "zh"
+    },
+    {
+      "description": "Дарует чистоту медитативной энергетической мандалы Баруука Вашему Орбитеру.",
+      "name": "Мандала Баруука",
+      "code": "ru"
+    },
+    {
+      "description": "Baruukの瞑想マンダラの源をオービターに飾ろう。",
+      "name": "Baruuk マンダラ",
+      "code": "ja"
+    },
+    {
+      "description": "Podaruj spokój medytacyjnej energii Baruuka na swoim Orbiterze.",
+      "name": "Mandala Baruuk",
+      "code": "pl"
+    },
+    {
+      "description": "Receba a serenidade da energia de meditação da Mandala de Baruuk em sua Orbital.",
+      "name": "Mandala do Baruuk",
+      "code": "pt"
+    },
+    {
+      "description": "將 Baruuk 冥想能量曼陀羅的寧靜賜予你的軌道飛行器。",
+      "name": "Baruuk 曼陀羅",
+      "code": "tc"
+    },
+    {
+      "description": "มอบความสงบเงียบให้กับยานของคุณด้วย Mandala พลังงานแห่งการฝึกสมาธิของ Baruuk",
+      "name": "Baruuk Mandala",
+      "code": "th"
+    },
+    {
+      "description": "Baruuk'un meditasyonlu enerji mandalasının sükunetini orbiterine bahşet.",
+      "name": "Baruuk Mandala",
+      "code": "tr"
+    },
+    {
+      "description": "Нехай ця медитативна мандала Баруука наповнить ваш орбітр енергією спокою.",
+      "name": "Мандала Баруука",
+      "code": "uk"
+    }
+  ]
+}

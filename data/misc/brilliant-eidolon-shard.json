@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/brilliant-eidolon-shard-bec649818c.png",
+  "name": "Brilliant Eidolon Shard",
+  "description": "Rare shard gained from capturing the Sentients roaming the Plains of Eidolon on Earth at night. Use it to gain Focus or to unbind Way-bound focus nodes.",
+  "languages": [
+    {
+      "description": "Eine seltene Scherbe, die durch das Einfangen von Sentients in den Ebenen von Eidolon auf der Erde erlangt wird. Nutze sie, um Fokus zu erhalten oder um pfadgebundene Fokusknoten zu lösen.",
+      "name": "Glänzende Eidolon Scherbe",
+      "code": "de"
+    },
+    {
+      "description": "Un éclat rare obtenu en capturant les Sentients qui errent la nuit dans les Plaines d'Eidolon, sur Terre. Utilisez-le pour gagner du Focus ou pour délier des nœuds de Focus liés.",
+      "name": "Éclat d'Eidolon Brillant",
+      "code": "fr"
+    },
+    {
+      "description": "Rara scheggia ottenuta catturando i Sentient che vagano per le Piane di Eidolon sulla Terra di notte. Utilizzala per guadagnare Focus o scollega le abilità passive per poterle utilizzare su tutte le scuole.",
+      "name": "Scheggia Eidolon Luminosa",
+      "code": "it"
+    },
+    {
+      "description": "지구의 밤 시간에 아이돌론의 평원을 떠도는 센티언트들에게서 얻을 수 있는 희귀한 조각입니다. 포커스 포인트를 얻거나 포커스 노드의 구속 해제를 위해 사용됩니다.",
+      "name": "눈부신 아이돌론 조각",
+      "code": "ko"
+    },
+    {
+      "description": "Fragmento raro adquirido al capturar conscientes que rondan en las Llanuras de Eidolon en la Tierra por la noche. Úsalo para adquirir enfoque o para desvincular nodos de enfoque.",
+      "name": "Fragmento de Eidolon Brillante",
+      "code": "es"
+    },
+    {
+      "description": "通过捕获在夜间徘徊于地球夜灵平野的 Sentient 所取得的稀有碎片。可用于获得专精点数，或解锁绑定的专精节点。",
+      "name": "闪亮的夜灵碎片",
+      "code": "zh"
+    },
+    {
+      "description": "Редкий осколок, полученный после поимки Владеющих Разумом, что бродят ночами по равнинам Эйдолона на Земле. Используйте его для получения очков фокуса или открепления привязанных к пути способностей.",
+      "name": "Великолепный осколок Эйдолона",
+      "code": "ru"
+    },
+    {
+      "description": "夜のエイドロンの草原（地球）を彷徨うセンティエントを確保した際に入手出来る希少な欠片。フォーカス獲得やクロスフォーカスのフォーカスノードを解放するために使用出来る。",
+      "name": "鮮明なエイドロンの欠片",
+      "code": "ja"
+    },
+    {
+      "description": "Rzadki okruch uzyskiwany z łapania Świadomego, przemierzającego nocą Równiny Eidolon na Ziemi. Użyj go, aby uzyskać punkty Fokusu lub uwolnić związane ze ścieżką umiejętności Fokusu.",
+      "name": "Okruch Eidolona: Wspaniały",
+      "code": "pl"
+    },
+    {
+      "description": "Fragmento raro obtido ao capturar Sentients que vagam à noite pelas Planícies de Eidolon, na Terra. Use-o para obter Pontos de Foco ou para desvincular habilidades de Foco universais.",
+      "name": "Fragmento de Eidolon (Brilhante)",
+      "code": "pt"
+    },
+    {
+      "description": "捕獲夜間徘徊於地球上的夜靈平野的 Sentient 而取得的稀有碎片。可用於獲得專精點數，或解鎖綁定狀態的專精節點。",
+      "name": "閃亮的夜靈碎片",
+      "code": "tc"
+    },
+    {
+      "description": "ชิ้นส่วนหายากที่ได้รับจากการจับ Sentient ที่สัญจรไปมาตามที่ราบ Eidolon บนโลกในเวลากลางคืน ซึ่งชิ้นส่วนนี้สามารถนำไปเพิ่มค่าโฟกัส หรือปลดล็อกโหนดโฟกัสที่เกี่ยวพันกันได้",
+      "name": "เศษชิ้นส่วน Brilliant Eidolon",
+      "code": "th"
+    },
+    {
+      "description": "Geceleri Dünya'daki Eidolon Ovaları'nda dolaşan Sentient'lerden elde edilen nadir bir parçacık. Fokus kazanmak için ya da kilitli fokus yeteneklerini açmak için kullanabilirsin.",
+      "name": "Parlak Eidolon Parçası",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісний уламок, який можна здобути після захоплення Свідомого, що блукає уночі Рівнинами Ейдолонів (Земля). Використовується для добування фокусу або відв’язування від прикріплених до певної школи фокусу навичок.",
+      "name": "Дивовижний уламок ейдолона",
+      "code": "uk"
+    }
+  ]
+}

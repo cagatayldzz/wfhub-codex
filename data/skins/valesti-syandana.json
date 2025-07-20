@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWValestiScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valesti-syandana-b4c0bd23b6.png",
+  "name": "Valesti Syandana",
+  "description": "A syandana for your Warframe, designed by led2012 and Xtygian.",
+  "languages": [
+    {
+      "description": "Ein Syandana für deinen Warframe, entworfen von led2012 und Xtygian.",
+      "name": "Valesti Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une Syandana pour votre Warframe, conçue par led2012 et Xtygian.",
+      "name": "Syandana Valesti",
+      "code": "fr"
+    },
+    {
+      "description": "Una syandana per il tuo Warframe, ideata da led2012 e Xtygian.",
+      "name": "Syandana Valesti",
+      "code": "it"
+    },
+    {
+      "description": "led2012와 Xtygian에 의해 디자인된 워프레임을 위한 샨다나입니다.",
+      "name": "발레스티 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana para tu warframe, diseñada por led2012 y Xtygian.",
+      "name": "Syandana Valesti",
+      "code": "es"
+    },
+    {
+      "description": "一件战甲所使用的披饰，由 led2012 与 Xtygian 设计。",
+      "name": "瓦莱斯蒂披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Сандана для вашего варфрейма, созданная led2012 и Xtygian.",
+      "name": "Сандана: Валести",
+      "code": "ru"
+    },
+    {
+      "description": "Warframe用のシャンダナ。製作者：led2012 ＆ Xtygian。",
+      "name": "Valesti シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana dla Twojego Warframe'a, zaprojektowana przez led2012 i Xtygian.",
+      "name": "Syandana Valesti",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana para o seu Warframe, desenvolvida por Led2012 e Xtygian.",
+      "name": "Syandana: Valesti",
+      "code": "pt"
+    },
+    {
+      "description": "一件給 Warframe 使用的披飾，由 led2012 以及 Xtygian 所設計。",
+      "name": "維拉斯蒂披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาสำหรับ Warframe ของคุณ ออกแบบโดย led2012 และ Xtygian",
+      "name": "ไซอันดานา Valesti",
+      "code": "th"
+    },
+    {
+      "description": "Led2012 ve Xtygian tarafından dizayn edilen, Warframe için bir syandana.",
+      "name": "Valesti Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Сяндана для ворфрейма, створена led2012 та Xtygian.",
+      "name": "Сяндана «Валесті»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kavasa-prime-fur-pattern-7bc06aaa89.png",
+  "name": "Kavasa Prime Fur Pattern",
+  "description": "Revives the markings of a rare and noble Orokin breed.",
+  "languages": [
+    {
+      "description": "Lässt die Zeichnung einer seltenen und noblen Orokin Rasse wieder aufleben.",
+      "name": "Fellmuster: Kavasa Prime",
+      "code": "de"
+    },
+    {
+      "description": "Ravive l'héritage d'une rare et noble lignée Orokin.",
+      "name": "Motif de Pelage Kavasa Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Riporta in vita lo splendore dei tratti di una rara e nobile razza di origine Orokin.",
+      "name": "Pattern Pelo Kavasa Prime",
+      "code": "it"
+    },
+    {
+      "description": "당신의 쿠브로를 위한 특별한 털 패턴입니다.",
+      "name": "카바사 프라임 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Revive las marcas de una raza orokin rara y noble.",
+      "name": "Patrón de pelaje Kavasa Prime",
+      "code": "es"
+    },
+    {
+      "description": "再现稀有高贵的 Orokin 品种。",
+      "name": "喀婆萨 Prime 毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Воспроизводит эффект редкой и благородной породы эры Орокин.",
+      "name": "Шаблон меха кубрау: Каваса Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "稀少かつ高貴なオロキン品種の模様を再現する。",
+      "name": "Kavasa Prime ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Przywraca do żywych wzór futra rzadkiej i szlachetnej rasy Orokin.",
+      "name": "Wzór Futra: Kavasa Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Revive as marcas de uma raça Orokin nobre e rara.",
+      "name": "Pelagem de Kubrow: Kavasa Prime",
+      "code": "pt"
+    },
+    {
+      "description": "再現稀有高貴的 Orokin 品種。",
+      "name": "喀婆薩 Prime 毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "นำลวดลายขนของสายพันธุ์ Orokin ที่หายากและมีเกียรติกลับคืนมาอีกครั้ง",
+      "name": "ลายขน Kavasa Prime",
+      "code": "th"
+    },
+    {
+      "description": "Nadir ve asil bir Orokin türünün izlerini tekrar hayata getirir.",
+      "name": "Kavasa Prime Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Відновлення відмітин рідкісного та шляхетного виводка породи орокінської доби.",
+      "name": "Вигляд «Каваса-прайм» для куброу",
+      "code": "uk"
+    }
+  ]
+}

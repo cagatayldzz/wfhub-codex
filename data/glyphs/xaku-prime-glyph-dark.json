@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xaku-prime-glyph---dark-d62af8f92c.png",
+  "name": "Xaku Prime Glyph - Dark",
+  "description": "A glyph depicting Xaku Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Xaku Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Xaku Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Xaku Prime sur un fond sombre.",
+      "name": "Glyphe Xaku Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Xaku Prime su uno sfondo scuro.",
+      "name": "Glifo Xaku Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 자쿠 프라임을 묘사한 글리프입니다.",
+      "name": "자쿠 프라임 글리프 -어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Xaku Prime sobre un fondo oscuro.",
+      "name": "Glifo de Xaku Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Xaku Prime 在黑暗背景下的浮印。",
+      "name": "Xaku Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Заку Прайм на тёмном фоне.",
+      "name": "Глиф: Заку Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたXaku Primeのグリフ。",
+      "name": "Xaku Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Xaku Prime na ciemnym tle.",
+      "name": "Glif Xaku Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando os Xaku Prime em um fundo escuro.",
+      "name": "Glifo: Xaku Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Xaku Prime 在黑暗背景下的浮印。",
+      "name": "Xaku Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Xaku Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Xaku Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Xaku Prime'ı tasvir eden karanlık fonlu bir glif.",
+      "name": "Xaku Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Заку-прайм на темному тлі.",
+      "name": "Темний гліф «Заку-прайм»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneYareliPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/merulina-prime-domestik-drone-a8d9deb07e.png",
+  "name": "Merulina Prime Domestik Drone",
+  "description": "Merulina’s tiny spawn are used to foraging on the sea bed, and adapt easily to nibbling up dirt from an Orbiter floor.",
+  "languages": [
+    {
+      "description": "Merulinas winzige Brut ist daran gewöhnt nach Nahrung im auf dem Meeresboden zu suchen und gewöhnt sich auch schnell daran, den Schmutz vom Boden des Orbiters zu vertilgen.",
+      "name": "Haushalt-Drohne: Merulina Prime",
+      "code": "de"
+    },
+    {
+      "description": "Les minuscules rejetons de Méruline sont habitués à se nourrir sur le fond marin et s'adaptent facilement pour grignoter la crasse à bord d'un Orbiteur.",
+      "name": "Drone Domestik Méruline Prime",
+      "code": "fr"
+    },
+    {
+      "description": "I piccoli cuccioli di Merulina sono abituati a cercare cibo sui fondali marini e si adattano facilmente a rosicchiare lo sporco dal pavimento di un Orbiter.",
+      "name": "Drone Domestico Merulina Prime",
+      "code": "it"
+    },
+    {
+      "description": "메룰리나의 이 조그마한 분신은 해저에서 먹이를 찾는 데 익숙하기에, 오비터 바닥에서 먼지를 야금대는 일에도 쉽게 익숙해졌습니다.",
+      "name": "메룰리나 프라임 도메스틱 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Las diminutas crías de Merulina están acostumbradas a hurgar en el fondo del mar y se adaptan fácilmente a comer el polvo del suelo de un orbitador.",
+      "name": "Dron Domestik Merulina Prime",
+      "code": "es"
+    },
+    {
+      "description": "浪漪珊瑚的幼体习惯于在海床上觅食，很容易适应啃食轨道飞行器地板上的污垢。",
+      "name": "浪漪珊瑚 Prime 内务无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Крошечные мальки Мерулины привыкли искать пищу на морском дне и легко приспосабливаются к поеданию грунта со дна вашего Орбитера.",
+      "name": "Дрон-уборщик: Мерулина Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Merulinaの稚魚たちは普段海底を這いながらエサを探すが、オービターの床に対応することもできる。",
+      "name": "Merulina Prime ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Malutkie potomstwo Meruliny jest przyzwyczajone do żerowania na dnie morza i łatwo przystosowuje się do skubania brudu z podłóg Orbitera.",
+      "name": "Robot Doomestos: Merulina Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Os filhotes da Merulina estão acostumados a vasculhar o fundo do mar, e se adaptam facilmente em mordiscar a sujeira do chão de uma Orbital.",
+      "name": "Drone Domestik da Merulina Prime",
+      "code": "pt"
+    },
+    {
+      "description": "美浪珊板的小伙伴習慣在海床上覓食，輕易適應在軌道飛行器吃掉地板上的污垢。",
+      "name": "美浪珊板 Prime 內務無人機",
+      "code": "tc"
+    },
+    {
+      "description": "Merulina ขนาดจิ๋วคุ้นเคยกับการค้นหาอาหารตามพื้นท้องทะเล และสามารถปรับตัวเพื่อแทะเล็มสิ่งสกปรกตามพื้นออร์บิเตอร์ได้อย่างง่ายดาย",
+      "name": "โดรน Merulina Prime Domestik",
+      "code": "th"
+    },
+    {
+      "description": "Merulina'nın bu minik versiyonu, deniz tabanında yiyecek aramaya alışkındır ve Orbiter zeminindeki toprağı kemirmeye kolayca uyum sağlayacaktır.",
+      "name": "Merulina Prime Domestik Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Крихітне поріддя Меруліни звикло харчуватися на дні морському, тож із легкістю пристосується до поглинання бруду з підлоги орбітра.",
+      "name": "Дрон-прибиральник «Меруліна-прайм»",
+      "code": "uk"
+    }
+  ]
+}

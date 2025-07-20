@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/AtlasDeluxeSparring",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tecton-sparring-skin-39162c1f17.png",
+  "name": "Tecton Sparring Skin",
+  "description": "With seismic force shatter and sunder, blow upon blow. Enemies quake at the sight of these signature sparring weapon skins.",
+  "languages": [
+    {
+      "description": "Entzweie und zerschmettere mit seismischer Kraft, Schlag auf Schlag. Gegner erzittern beim Anblick dieses unverkennbaren Skin für Kickbox-Waffen.",
+      "name": "Kickbox-Skin: Tecton",
+      "code": "de"
+    },
+    {
+      "description": "Scindez et faites voler en éclats vos ennemis avec une force sismique, coup après coup. Les ennemis tremblent à la vue de cet Aspect de Poings et Pieds emblématique.",
+      "name": "Aspect de Poings et Pieds Tecton",
+      "code": "fr"
+    },
+    {
+      "description": "Con la forza sismica frantuma e distrugge, colpo dopo colpo. I nemici tremano al suono di questa skin distintiva per calci e pugni.",
+      "name": "Skin Calci e Pugni Tecton",
+      "code": "it"
+    },
+    {
+      "description": "이 엄청난 힘으로 매 일격마다 산산이 부수고 찢어발기세요. 이 특징적인 스파링 무기 스킨을 보는 것만으로도 적들은 공포에 떨게 됩니다.",
+      "name": "텍톤 스파링 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Con fuerza sísmica destruye y cercena, golpe tras golpe. Los enemigos se estremecen al ver estos diseños distintivos de arma de puños y pies.",
+      "name": "Diseño Tecton de armas de puños y pies",
+      "code": "es"
+    },
+    {
+      "description": "以地震之力粉碎并割裂，爆裂于打击之时。敌人会在这标志性搏击武器声中颤栗。",
+      "name": "地构搏击外观",
+      "code": "zh"
+    },
+    {
+      "description": "Сейсмическая сила сотрясает и раскалывает, удар за ударом. Враги дрожат от одного лишь вида этого особого скина для спаррингового оружия.",
+      "name": "Скин Спаррингового Оружия: Тектон",
+      "code": "ru"
+    },
+    {
+      "description": "一振りで大地を震わせ、歯向かう敵の膝をつかせる。",
+      "name": "Tecton 格闘系 スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Roztrzaskuj i rozłupuj z sejsmiczną siłą, cios za ciosem. Wrogowie trzęsą się na widok tej charakterystycznej skórki Broni sparingowej Atlasa Karst.",
+      "name": "Sparing: Skórka Tecton",
+      "code": "pl"
+    },
+    {
+      "description": "Quebre e destrua com força sísmica, golpe atrás de golpe. Inimigos tremem diante desta Skin para Soqueiras.",
+      "name": "Soqueiras: Skin Tecton",
+      "code": "pt"
+    },
+    {
+      "description": "隨著地震帶來震裂和破碎的力量，碎裂於打擊之際。敵人將在這標誌性的搏擊武器聲中為之顫慄。",
+      "name": "搏擊 地構外觀",
+      "code": "tc"
+    },
+    {
+      "description": "กระหน่ำชกจนแผ่นดินสะเทือน จนพื้นแตกออกเป็นเสี่ยง ๆ ทำให้ศัตรูต้องสั่นสะท้านเมื่อเห็นสกินนวมซ้อมชกมวยที่มีเอกลักษณ์เฉพาะตัวคู่นี้",
+      "name": "สกินนวมชกมวย Tecton",
+      "code": "th"
+    },
+    {
+      "description": "Sismik kuvvetin gücünü kullanarak parçalayıp yok et. Düşmanlar bu özel silah skin karşısında sarsılır.",
+      "name": "Tecton Yumruk - Tekme Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Сейсмічні сили б’ють і розбивають — удар за ударом. Вороги тремтять, побачивши цей визначний вигляд кулачної зброї.",
+      "name": "Вигляд «Тектонічний спаринг»",
+      "code": "uk"
+    }
+  ]
+}

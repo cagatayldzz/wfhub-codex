@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/odonata-prime-39baaa7427.png",
+  "name": "Odonata Prime",
+  "description": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
+  "armor": 100,
+  "languages": [
+    {
+      "description": "Diese verbesserte Version des ersten Archwing-Prototypen bringt das Design an seine theoretischen Grenzen.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "de"
+    },
+    {
+      "description": "Cette version améliorée du premier prototype d'Archwing débride ses capacités à leur summum théorique.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Questa versione migliorata del primo prototipo Archwing porta il design ai suoi limiti teorici.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "it"
+    },
+    {
+      "description": "최초로 제작된 아크윙을 개선한 이 기체는 이론적으로 가능한 최대치를 구현시키기 위한 디자인으로 제작 되었습니다.",
+      "name": "<ARCHWING> 오도나타 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Esta versión mejorada del primer prototipo del archwing lleva el diseño a sus límites teóricos.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ODONATA PRIME）第一架曲翼原型的强化机型，已将其设计为到理论上的极限状态。",
+      "name": "<ARCHWING> 陨蜓 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Эта улучшенная версия первого прототипа арчвинга развивает свою конструкцию до её теоретического предела.",
+      "name": "<ARCHWING> Одоната Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "強化された最初のアークウイングプロトタイプ、そのデザインは機能の理論的限界値に達する。",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Ta rozbudowana wersja pierwszego prototypu Archwinga doprowadza jego projekt do teoretycznych limitów.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Esta versão melhorada do primeiro protótipo Archwing leva o design até seus limites teóricos.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "pt"
+    },
+    {
+      "description": "第一架 Archwing 原型的強化機型，已將其設計為到理論上的極限狀態。",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "tc"
+    },
+    {
+      "description": "เวอร์ชันของต้นแบบ Archwing รุ่นแรกที่ปรับปรุงขึ้นนี้ได้นำการออกแบบไปสู่ขีดจำกัดทางทฤษฎี",
+      "name": "<archwing> Odonata Prime",
+      "code": "th"
+    },
+    {
+      "description": "Bu ilk Archwing prototipi dizaynını teorik limitlerden almıştır.",
+      "name": "<ARCHWING> Odonata Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Поліпшена модель першого прототипу арквінґа досягла теоретичного максимуму.",
+      "name": "<ARCHWING> Одоната-прайм",
+      "code": "uk"
+    }
+  ]
+}

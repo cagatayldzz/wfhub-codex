@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/enemy-radar-14d823d472.jpg",
+  "name": "Enemy Radar",
+  "description": "Highlights enemies on the Minimap",
+  "languages": [
+    {
+      "description": [
+        "Markiert Gegner auf der Minikarte"
+      ],
+      "name": "Feindradar",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Met les ennemis en surbrillance sur la mini-carte"
+      ],
+      "name": "Radar Ennemi",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Evidenzia i nemici sulla Minimappa"
+      ],
+      "name": "Enemy Radar",
+      "code": "it"
+    },
+    {
+      "description": [
+        "미니맵에 적을 표시합니다."
+      ],
+      "name": "에너미 레이더",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Destaca a los enemigos en el minimapa"
+      ],
+      "name": "Radar enemigo",
+      "code": "es"
+    },
+    {
+      "description": [
+        "在小地图上高亮显示敌人"
+      ],
+      "name": "侦敌雷达",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Подсвечивает врагов на мини-карте"
+      ],
+      "name": "Детектор противника",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ミニマップで敵をハイライトする"
+      ],
+      "name": "Enemy Radar",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Podświetla wrogów na Minimapie"
+      ],
+      "name": "Wykrywacz Wrogów",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Destaca os inimigos no Minimapa"
+      ],
+      "name": "Enemy Radar",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "在小地圖上突顯敵人"
+      ],
+      "name": "偵敵雷達",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ไฮไลต์ศัตรูบนแผนที่ย่อ"
+      ],
+      "name": "Enemy Radar",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Mini Haritada düşmanları vurgular"
+      ],
+      "name": "Enemy Radar",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Підсвічує ворогів на мінімапі"
+      ],
+      "name": "Викривач ворогів",
+      "code": "uk"
+    }
+  ]
+}

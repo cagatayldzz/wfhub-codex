@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/QuadShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hek-2b2c31c1f4.png",
+  "name": "Hek",
+  "description": "The Hek is a powerful shotgun that fires its shots with a tight spread, making it efficient at medium range as long as its strong recoil is properly managed.",
+  "languages": [
+    {
+      "description": "Die Hek ist eine starke Schrotflinte mit geringer Streuung und lässt sich daher auf mittlere Distanz effektiv einsetzen, sofern der starke Rückstoß kompensiert werden kann.",
+      "name": "Hek",
+      "code": "de"
+    },
+    {
+      "description": "Le Hek est un puissant Fusil à Pompe avec une faible dispersion, ce qui en fait une arme efficace à moyenne portée tant que son fort recul est géré.",
+      "name": "Hek",
+      "code": "fr"
+    },
+    {
+      "description": "Hek è un potente fucile a pompa che spara una rosa di pallettoni ristretta, rendendolo efficace a medio raggio, a patto che si sappia gestire il forte rinculo.",
+      "name": "Hek",
+      "code": "it"
+    },
+    {
+      "description": "헥은 강력한 산탄총으로 높은 집탄률로 인해 중거리까지 효과적이긴 하지만, 그에 따른 강한 반동력으로 인해 주의를 필요로 합니다.",
+      "name": "헥",
+      "code": "ko"
+    },
+    {
+      "description": "La Hek es una poderosa escopeta con poca dispersión, por lo que es eficaz a medio alcance, siempre y cuando se compense su fuerte retroceso adecuadamente.",
+      "name": "Hek",
+      "code": "es"
+    },
+    {
+      "description": "（英文：HEK）海克是一把能发射密集弹丸的强力霰弹枪，只要能驾驭其猛烈后坐力，在中距离战斗也能有效发挥。",
+      "name": "海克",
+      "code": "zh"
+    },
+    {
+      "description": "Хек - мощный дробовик, обладающий хорошей кучностью стрельбы, что делает его эффективным на средних дистанциях, если вы справитесь с его сильной отдачей.",
+      "name": "Хек",
+      "code": "ru"
+    },
+    {
+      "description": "「HEK」は高い集弾性を持ち中距離戦闘で圧倒的火力を誇るが、その反面リコイルが高くなっている。",
+      "name": "Hek",
+      "code": "ja"
+    },
+    {
+      "description": "Hek to potężna strzelba cechująca się niewielkim rozrzutem. Jest dobrą bronią na średnim dystansie pod warunkiem, że strzelający potrafi zapanować nad jej odrzutem.",
+      "name": "Hek",
+      "code": "pl"
+    },
+    {
+      "description": "A Hek é uma escopeta poderosa que atira mais concentradamente em uma área, tornando-a eficiente a média distância desde que seu recuo forte seja controlado corretamente.",
+      "name": "Hek",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：HEK）海克是一把能發射密集彈丸的強力霰彈槍，只要能駕馭其猛烈後座力，在中距離戰鬥也能有效發揮。",
+      "name": "海克",
+      "code": "tc"
+    },
+    {
+      "description": "Hek เป็นปืนลูกซองทรงพลังที่ยิงกระสุนกระจายออกไปเป็นวงแคบ หากสามารถจัดการกับแรงถีบของปืนได้อย่างเหมาะสมจะส่งผลดีต่อการยิงในระยะกลาง",
+      "name": "Hek",
+      "code": "th"
+    },
+    {
+      "description": "Hek, saçmalarını sıkı bir şekilde saçan güçlü bir Pompalı Tüfektir. Güçlü geri tepmesi iyi bir şekilde yönetildiği taktirde orta mesafede çok etkilidir.",
+      "name": "Hek",
+      "code": "tr"
+    },
+    {
+      "description": "Потужна рушниця з малою кучністю дробу. Дієва на середніх і великих відстанях, якщо контролювати потужну віддачу.",
+      "name": "Гек",
+      "code": "uk"
+    }
+  ]
+}

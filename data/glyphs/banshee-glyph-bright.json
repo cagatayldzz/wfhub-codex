@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-glyph---bright-a85fa705a1.png",
+  "name": "Banshee Glyph - Bright",
+  "description": "A glyph depicting Banshee on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Banshee vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Banshee (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Banshee sur un fond lumineux.",
+      "name": "Glyphe Banshee - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Banshee su uno sfondo chiaro.",
+      "name": "Glifo Banshee - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 밴쉬를 묘사한 글리프입니다.",
+      "name": "벤쉬 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Banshee sobre un fondo brillante.",
+      "name": "Glifo de Banshee - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 在明亮背景下的浮印。",
+      "name": "Banshee 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Банши на светлом фоне.",
+      "name": "Глиф: Банши — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたBanshee のグリフ。",
+      "name": "Banshee グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Banshee na jasnym tle.",
+      "name": "Glif Banshee — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Banshee em um fundo claro.",
+      "name": "Glifo: Banshee (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Banshee 在明亮背景下的浮印。",
+      "name": "Banshee 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Banshee บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Banshee - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Banshee açık fonlu glif.",
+      "name": "Banshee Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Банші на світлому тлі.",
+      "name": "Яскравий гліф «Банші»",
+      "code": "uk"
+    }
+  ]
+}

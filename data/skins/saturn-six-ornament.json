@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NoraWolfOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saturn-six-ornament-dd93dfe2c0.png",
+  "name": "Saturn Six Ornament",
+  "description": "A small icon depicting The Wolf of Saturn Six to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine kleine Dekoration für deinen Orbiter, die den Wolf von Saturn Six darstellt.",
+      "name": "Ornament: Saturn Six",
+      "code": "de"
+    },
+    {
+      "description": "Une petite icône représentant le Loup de Saturne Six à placer dans votre Orbiteur.",
+      "name": "Ornement Saturne Six",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola icona raffigurante Wolf di Saturn Six da posizionare nel tuo Orbiter.",
+      "name": "Ornamento Saturn Six",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 울프 오브 새턴 식스를 묘사한 작은 아이콘입니다.",
+      "name": "새턴 식스 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño icono que representa a El Lobo de Saturno Seis para colocar en tu Orbitador.",
+      "name": "Ornamento de Saturno Seis",
+      "code": "es"
+    },
+    {
+      "description": "一小座可放置于飞船内的土星六号之狼雕像。",
+      "name": "土星六号装饰品",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшое украшение Волка Сатурна 6, которое можно разместить на Орбитере.",
+      "name": "Орнамент: Сатурн 6",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能なサターン・シックスの狼を描いた小さなアイコン。",
+      "name": "サターン・シックスの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Mała ikona przedstawiająca Wilka z Saturna Sześć, którą możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba Saturn Sześć",
+      "code": "pl"
+    },
+    {
+      "description": "Um pequeno ícone retratando o Lobo do Hexágono de Saturno para ser colocada em sua Orbital.",
+      "name": "Enfeite do Hexágono de Saturno",
+      "code": "pt"
+    },
+    {
+      "description": "一小座可放置於飛船內的土星六號之狼雕像。",
+      "name": "土星六號裝飾品",
+      "code": "tc"
+    },
+    {
+      "description": "ไอคอนขนาดเล็กของ Wolf แห่ง Saturn Six เพื่อเอาไปวางไว้ในออร์บิเตอร์ของคุณ",
+      "name": "ของประดับ: Saturn Six",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ınıza koyabileceğiniz, The Wolf of Saturn Six'i temsil eden küçük simge.",
+      "name": "Saturn Six Süsü",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий символ Вовка із «Сатурна-6».",
+      "name": "Оздоблення: «Сатурн-6»",
+      "code": "uk"
+    }
+  ]
+}

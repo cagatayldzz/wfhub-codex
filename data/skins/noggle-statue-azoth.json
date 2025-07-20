@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CCTeamBHyenaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---azoth-8d4d105b72.png",
+  "name": "Noggle Statue - Azoth",
+  "description": "A small wobbly statue of Azoth.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Azoth.",
+      "name": "Noggle-Statue: Azoth",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Azoth.",
+      "name": "Statuette Noggle - Azoth",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Azoth con la testa tremolante.",
+      "name": "Statuetta Noggle - Azoth",
+      "code": "it"
+    },
+    {
+      "description": "아조스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 아조스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de Azoth.",
+      "name": "Estatua Tambaleante - Azoth",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Azoth 摇头娃娃。",
+      "name": "Azoth 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Азота.",
+      "name": "Фигурка: Азот",
+      "code": "ru"
+    },
+    {
+      "description": "Azothのボブルヘッド人形。",
+      "name": "Azoth ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Azoth.",
+      "name": "Figurka Noggle — Azoth",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Azoth.",
+      "name": "Estatueta: Azoth",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Azoth 的搖頭娃娃。",
+      "name": "Azoth 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Azoth ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Azoth",
+      "code": "th"
+    },
+    {
+      "description": "Azoth küçük oynar figür.",
+      "name": "Noggle Heykeli - Azoth",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Азота.",
+      "name": "Ноґл «Азот»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/LNYDragonSentinelSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dragondance-sentinel-skin-12266f4907.png",
+  "name": "Dragondance Sentinel Skin",
+  "description": "Prepare your Sentinel for a dance of Lunar Renewal revelry.",
+  "languages": [
+    {
+      "description": "Bereite deinen Wächter für einen Tanz zu den Festlichkeiten des neuen Mondjahrs vor.",
+      "name": "Wächter-Skin: Drachentanz",
+      "code": "de"
+    },
+    {
+      "description": "Préparez votre Sentinelle pour une danse de fête du Renouveau Lunaire.",
+      "name": "Aspect de Sentinelle Danse du Dragon",
+      "code": "fr"
+    },
+    {
+      "description": "Prepara la tua Sentinella per una danza di festa del Rinnovo Lunare.",
+      "name": "Skin Sentinella Dragondance",
+      "code": "it"
+    },
+    {
+      "description": "음력 설 축제에서의 춤판에 대비해 여러분의 센티넬을 단장해 보세요.",
+      "name": "드래곤댄스 센티넬 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Prepara a tu centinela para un baile festivo de la renovación lunar.",
+      "name": "Diseño Dragondance de centinela",
+      "code": "es"
+    },
+    {
+      "description": "装扮守护，共舞新春华章。",
+      "name": "舞龙守护外观",
+      "code": "zh"
+    },
+    {
+      "description": "Подготовьте своего стража к танцу в праздник Лунного обновления.",
+      "name": "Скин стража: Танец Дракона",
+      "code": "ru"
+    },
+    {
+      "description": "センチネルと共にルナーリニューアルで踊ろう。",
+      "name": "Dragondance センチネルスキン",
+      "code": "ja"
+    },
+    {
+      "description": "Przygotuj swojego Strażnika na taniec Księżycowego Roku.",
+      "name": "Skórka Strażnika: Taniec Smoka",
+      "code": "pl"
+    },
+    {
+      "description": "Prepare sua Sentinela para uma dança em celebração à Renovação Lunar.",
+      "name": "Sentinela: Skin Dragondance",
+      "code": "pt"
+    },
+    {
+      "description": "裝扮你的守護來準備開跳農曆新年的歡愉舞步。",
+      "name": "舞龍守護外觀",
+      "code": "tc"
+    },
+    {
+      "description": "เตรียมเซนติเนลของคุณให้พร้อมเชิดมังกรฉลองตรุษจีน",
+      "name": "สกินเซนติเนล Dragondance",
+      "code": "th"
+    },
+    {
+      "description": "Sentinel'ini Yeni Ay Yılı şenliği dansına hazırla.",
+      "name": "Dragondance Sentinel Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Підготуйте свого вартового до танцю на честь Місячного Нового ріку.",
+      "name": "Вигляд «Танок дракона» для вартового",
+      "code": "uk"
+    }
+  ]
+}

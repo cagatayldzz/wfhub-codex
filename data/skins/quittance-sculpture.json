@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PerrinSequenceSyndicateOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quittance-sculpture-5c2845c385.png",
+  "name": "Quittance Sculpture",
+  "description": "A small icon of the Perrin Sequence to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine kleine Ikone der Perrin Sequence zum Platzieren in deinem Orbiter.",
+      "name": "Quittung-Skulptur",
+      "code": "de"
+    },
+    {
+      "description": "Une petite icône de la Séquence Perrin à placer dans votre Orbiteur.",
+      "name": "Sculpture de Quittance",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola icona di Perrin Sequence da piazzare nell'Orbiter.",
+      "name": "Scultura Quittance",
+      "code": "it"
+    },
+    {
+      "description": "페린 시퀀스를 상징하는 작은 상징으로 오비터에 설치할 수 있습니다.",
+      "name": "퀴튼스 조각상",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño icono de la Secuencia Perrin para colocar en tu orbitador.",
+      "name": "Escultura de finiquito",
+      "code": "es"
+    },
+    {
+      "description": "一小座可放置于飞船内的佩兰数列标志。",
+      "name": "报酬雕塑",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшое украшение Последовательности Перрина, которое можно разместить на Орбитере.",
+      "name": "Скульптура - Акция",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能なペリン・シークエンスの小さな像。",
+      "name": "証書の彫像",
+      "code": "ja"
+    },
+    {
+      "description": "Mała ikona Sekwencji Perrin do postawienia w Twoim Statku.",
+      "name": "Rzeźba Umowy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta da Sequência de Perrin para colocar na sua Orbital.",
+      "name": "Escultura: Quittance",
+      "code": "pt"
+    },
+    {
+      "description": "一小座可放置於飛船內的佩蘭數列標誌。",
+      "name": "報酬雕塑",
+      "code": "tc"
+    },
+    {
+      "description": "ไอคอนขนาดเล็กของ Perrin Sequence เพื่อเอาไปวางไว้ในออร์บิเตอร์ของคุณ",
+      "name": "ประติมากรรม Quittance",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen küçük bir Perrin Sequence simgesi.",
+      "name": "Belge Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий символ синдикату «Послідовність Перрена».",
+      "name": "Скульптура «Квитанція»",
+      "code": "uk"
+    }
+  ]
+}

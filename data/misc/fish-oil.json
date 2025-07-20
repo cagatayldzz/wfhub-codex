@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fish-oil-74fd9aeeac.png",
+  "name": "Fish Oil",
+  "description": "Used to create absolvents that purify gems.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
+  "languages": [
+    {
+      "description": "Wird zum Herstellen von Absolventien zum Reinigen von Edelsteinen verwendet.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) geschnitten, aus allen Fischen der Ebenen von Eidolon.",
+      "name": "Fischöl",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé pour créer des purificateurs de gemmes.\n\nSource: découpé des poissons des Plaines d'Eidolon via la Pêcheuse Hai-Luk à Cetus (Terre).",
+      "name": "Huile de poisson",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzato per creare solventi che purificano le gemme.\n\nFonte: Ottenibile da tutti i Pesci delle Piane di Eidolon tramite la Pescivendola Hai-Luk a Cetus (Terra).",
+      "name": "Olio di Pesce",
+      "code": "it"
+    },
+    {
+      "description": "보석류를 정화하는 용제를 만드는 데 사용됩니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 아무 아이돌론의 평원 물고기나 해체하면 획득할 수 있습니다.",
+      "name": "생선 기름",
+      "code": "ko"
+    },
+    {
+      "description": "Se utiliza para crear absolventes que purifican gemas.\n\nFuente: Obtenido de todos los peces de las Llanuras de Eidolon a través de la Pescadora Hai-Luk en Cetus (Tierra).",
+      "name": "Aceite de pescado",
+      "code": "es"
+    },
+    {
+      "description": "被用来制造净化宝石的溶剂。\n\n获取途径：通过希图斯（地球）的渔人海露从各种夜灵平野鱼类中切割获取。",
+      "name": "鱼油",
+      "code": "zh"
+    },
+    {
+      "description": "Используется для создания абсорбентов, очищающих драгоценные камни.\n\nМестонахождение: Получается при разделке любой рыбы с Равнин Эйдолона у рыбачки Хай-Лук в Цетусе (Земля).",
+      "name": "Рыбий Жир",
+      "code": "ru"
+    },
+    {
+      "description": "宝石の精製に使用される。\n\n場所：エイドロンの草原で獲れる全ての魚から切り取れる（シータスの釣り師Hai-Luk）。",
+      "name": "魚油",
+      "code": "ja"
+    },
+    {
+      "description": "Używane do tworzenia rozpuszczalnika do oczyszczania klejnotów.\n\nMoże zostać zdobyte przez filetowanie dowolnych ryb Równin Eidolon u Rybaczki Hai-Luk w Cetus (Ziemia).",
+      "name": "Rybi Olej",
+      "code": "pl"
+    },
+    {
+      "description": "Usado para criar absolventes que purificam gemas.\n\nLocalização: obtido através do corte de todos os peixes com a Pescadora Hai-Luk em Cetus, na Terra.",
+      "name": "Óleo de Peixe",
+      "code": "pt"
+    },
+    {
+      "description": "被用來製造淨化寶石的溶劑。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開所有希圖斯（地球）的魚類取得。",
+      "name": "魚油",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เพื่อสร้างตัวทำละลายที่ช่วยทำความสะอาดอัญมณี\n\nแหล่งที่พบ: ได้จากการแล่ปลาทุกชนิดในที่ราบ Eidolon ผ่านชาวประมง Hai-Luk ในซีตัส (โลก)",
+      "name": "น้ำมันปลา",
+      "code": "th"
+    },
+    {
+      "description": "Mücevherleri arındıran çözücüler yaratmak için kullanılır.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Eidolon Ovalarındaki tüm Balıklardan kesilir.",
+      "name": "Balık Yağı",
+      "code": "tr"
+    },
+    {
+      "description": "Використовується для створення розчинників, які очищають самоцвіти.\n\nМожна отримати з усіх риб Рівнин Ейдолонів у рибалки Гай-Люк у Цетусі (Земля).",
+      "name": "Риб’ячий жир",
+      "code": "uk"
+    }
+  ]
+}

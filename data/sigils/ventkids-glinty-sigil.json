@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VentkidsRankOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ventkids-glinty-sigil-b64b489a80.png",
+  "name": "Ventkids Glinty Sigil",
+  "description": "A sigil representing prestige gained with the Ventkids.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige bei den Schachtkindern zeigt.",
+      "name": "Siegel: Schachtkinder Blankstahl",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant le prestige obtenu avec les Orphelins des Conduits.",
+      "name": "Sceau Crésus des Orphelins des Conduits",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con i Ventkid.",
+      "name": "Sigillo Pischello Ventkid",
+      "code": "it"
+    },
+    {
+      "description": "벤트키드로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "벤트키드 뉴비 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los Ventkids.",
+      "name": "Sello Destellito de los Ventkids",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了通风小子的威望。",
+      "name": "通风小子闪闪纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю Детей труб.",
+      "name": "Сигил: Дети труб - блестяшка",
+      "code": "ru"
+    },
+    {
+      "description": "ベントキッドから得た声望を表すシジル。",
+      "name": "ベントキッド金ピカ シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Nawiewniaków.",
+      "name": "Znak Nawiewniaków: Złotko",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com os Órfãos dos Dutos.",
+      "name": "Brasão: Aspira dos Órfãos dos Dutos",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了通風小子的威望。",
+      "name": "通風小子亮亮紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Ventkids",
+      "name": "เครื่องหมาย Ventkids: เด็กใหม่",
+      "code": "th"
+    },
+    {
+      "description": "Ventkids prestijini sembolize eden bir mühür.",
+      "name": "Ventkids Çaylak Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення у «Вентижевжиків».",
+      "name": "Сиґіл «Вентижевжики: блискітка»",
+      "code": "uk"
+    }
+  ]
+}

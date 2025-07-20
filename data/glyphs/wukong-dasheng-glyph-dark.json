@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMonkeyKingAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-dasheng-glyph---dark-9f83523517.png",
+  "name": "Wukong Dasheng Glyph - Dark",
+  "description": "A glyph depicting Wukong Dasheng on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wukong Dasheng vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Wukong Dasheng (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wukong Dasheng sur un fond sombre.",
+      "name": "Glyphe Wukong Dasheng - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dasheng Wukong su uno sfondo scuro.",
+      "name": "Glifo Wukong Dasheng - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 대성 오공을 묘사한 글리프입니다.",
+      "name": "오공 대성 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dasheng Wukong sobre un fondo oscuro.",
+      "name": "Glifo de Wukong Dasheng - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Wukong 大圣在黑暗背景下的浮印。",
+      "name": "Wukong 大圣浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вуконга «Дашэнь» на тёмном фоне.",
+      "name": "Глиф: Вуконг Дашэнь - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Wukong Dasheng のグリフ。",
+      "name": "Wukong Dasheng グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Wukong 'Dasheng' na ciemnym tle.",
+      "name": "Glif Wukong Dasheng — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Wukong Dasheng em um fundo escuro.",
+      "name": "Glifo: Wukong Dasheng (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wukong 大聖在黑暗背景下的浮印。",
+      "name": "Wukong 大聖浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Wukong Dasheng บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Wukong Dasheng - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Wukong Dasheng koyu fonlu glif.",
+      "name": "Wukong Dasheng Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вукона в шоломі «Великий Мудрець» на темному тлі.",
+      "name": "Темний гліф «Вукон „Великий мудрець“»",
+      "code": "uk"
+    }
+  ]
+}

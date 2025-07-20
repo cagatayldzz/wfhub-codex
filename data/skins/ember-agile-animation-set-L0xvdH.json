@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ember/UnlockEmberAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-agile-animation-set-d1628bb063.png",
+  "name": "Ember Agile Animation Set",
+  "description": "This item lets you use Ember's agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Embers agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Ember-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles d'Ember avec n'importe quelle autre Warframe.",
+      "name": "Animation Ember Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Ember con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Ember",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 엠버의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "엠버 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Ember con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Ember",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Ember 的迅捷站姿。",
+      "name": "Ember 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Эмбер на любом другом варфрейме.",
+      "name": "Набор анимаций Эмбер: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Emberのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Ember アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Ember w każdym innym Warframe'ie.",
+      "name": "Animacje Ember: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis da Ember em qualquer Warframe de sua escolha.",
+      "name": "Animações: Ember (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Ember 的迅捷站姿。",
+      "name": "Ember 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Ember ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Ember",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Ember'in agile animasyon setinin kullanımına izin verir.",
+      "name": "Ember Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Ембер до будь-якого ворфрейма.",
+      "name": "Ембер: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

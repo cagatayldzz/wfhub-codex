@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadowsAlonePoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/alone-portrait-c236b88ae4.png",
+  "name": "Alone Portrait",
+  "description": "A portrait of the Stalker forging his lonely path.",
+  "languages": [
+    {
+      "description": "Ein Porträt des Stalkers, der seinen einsamen Weg geht.",
+      "name": "Allein-Porträt",
+      "code": "de"
+    },
+    {
+      "description": "Un portrait du Stalker qui trace son chemin solitaire.",
+      "name": "Portrait Seul",
+      "code": "fr"
+    },
+    {
+      "description": "Un ritratto dello Stalker che intraprende il suo cammino solitario.",
+      "name": "Ritratto del Solitario",
+      "code": "it"
+    },
+    {
+      "description": "자신만의 외로운 길을 나아가는 스토커의 초상입니다.",
+      "name": "홀로 초상화",
+      "code": "ko"
+    },
+    {
+      "description": "Un retrato del Stalker forjando su camino solitario.",
+      "name": "Retrato Solitud",
+      "code": "es"
+    },
+    {
+      "description": "追猎者孤独地踏上征程的肖像。",
+      "name": "形单影只肖像",
+      "code": "zh"
+    },
+    {
+      "description": "Портрет Сталкера, прокладывающего свой одинокий путь.",
+      "name": "Портрет одиночества",
+      "code": "ru"
+    },
+    {
+      "description": "孤独を貫くStalkerの肖像画。",
+      "name": "孤独 肖像画",
+      "code": "ja"
+    },
+    {
+      "description": "Portret przedstawiający wstąpienie Stalkera na jego samotną ściezkę.",
+      "name": "Portret Samotności",
+      "code": "pl"
+    },
+    {
+      "description": "Um retrato do Stalker trilhando seu caminho solitário.",
+      "name": "Retrato da Solidão",
+      "code": "pt"
+    },
+    {
+      "description": "Stalker 的肖像。獨善其身，親自開路。",
+      "name": "親自肖像",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพของ Stalker ที่ใช้ชีวิตคนเดียวอย่างโดดเดี่ยว",
+      "name": "ภาพเดี่ยว",
+      "code": "th"
+    },
+    {
+      "description": "Yolunu yalnız çizen Stalker'ın portresi.",
+      "name": "Yalnızlık Portresi",
+      "code": "tr"
+    },
+    {
+      "description": "Портрет Сталкера, котрий торує шлях своєї самотності.",
+      "name": "Портрет «Самотність»",
+      "code": "uk"
+    }
+  ]
+}

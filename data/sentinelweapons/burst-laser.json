@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/burst-laser-d6fb44fe7d.png",
+  "name": "Burst Laser",
+  "description": "Fires a small burst of lasers.",
+  "languages": [
+    {
+      "description": "Feuert kleine Lasersalven.",
+      "name": "Salvenlaser",
+      "code": "de"
+    },
+    {
+      "description": "Tire une petite rafale de lasers.",
+      "name": "Laser à Rafale",
+      "code": "fr"
+    },
+    {
+      "description": "Spara brevi raffiche di laser.",
+      "name": "Burst Laser",
+      "code": "it"
+    },
+    {
+      "description": "약한 레이저를 3점사로 발사합니다.",
+      "name": "버스트 레이저",
+      "code": "ko"
+    },
+    {
+      "description": "Dispara una pequeña ráfaga de láseres.",
+      "name": "Láser de ráfagas",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BURST LASER）点射一小束激光。",
+      "name": "激光点发",
+      "code": "zh"
+    },
+    {
+      "description": "Стреляет короткой серией лазерных лучей.",
+      "name": "Лазерный пистолет",
+      "code": "ru"
+    },
+    {
+      "description": "レーザーをバースト射撃する。",
+      "name": "Burst Laser",
+      "code": "ja"
+    },
+    {
+      "description": "Strzela krótkimi seriami pocisków laserowych.",
+      "name": "Laser Impulsowy",
+      "code": "pl"
+    },
+    {
+      "description": "Atira pequenas rajadas de lasers.",
+      "name": "Rajada a Laser",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BURST LASER）點射一小束雷射。",
+      "name": "雷射點發",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงเลเซอร์ออกมาเป็นชุดเล็ก ๆ",
+      "name": "Burst Laser",
+      "code": "th"
+    },
+    {
+      "description": "Küçük bir lazer patlamasını ateşler",
+      "name": "Burst Laser",
+      "code": "tr"
+    },
+    {
+      "description": "Стріляє короткими чергами лазерних променів.",
+      "name": "Шквальний лазер",
+      "code": "uk"
+    }
+  ]
+}

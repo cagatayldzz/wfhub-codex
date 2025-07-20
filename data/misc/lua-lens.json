@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensLua",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lua-lens-1518c04bbc.png",
+  "name": "Lua Lens",
+  "description": "An Eidolon Lens enhanced with resonance from Somatic Fibers.",
+  "languages": [
+    {
+      "description": "Eine Eidolon Linse, verbessert durch Resonanzen von somatischen Fasern.",
+      "name": "Lua Linse",
+      "code": "de"
+    },
+    {
+      "description": "Une Lentille Eidolon améliorée avec résonance des Fibres Somatiques.",
+      "name": "Lentille Lua",
+      "code": "fr"
+    },
+    {
+      "description": "Una Lente Eidolon potenziata con la risonanza dalle Fibre Somatiche.",
+      "name": "Lente Lua",
+      "code": "it"
+    },
+    {
+      "description": "소매틱 파이버의 공명으로 강화된 아이돌론 렌즈입니다. ",
+      "name": "루아 렌즈",
+      "code": "ko"
+    },
+    {
+      "description": "Un lente Eidolon mejorado con resonancia de las fibras somáticas.",
+      "name": "Lente de Lua",
+      "code": "es"
+    },
+    {
+      "description": "一颗通过活体纤维的共振来强化的夜灵晶体。",
+      "name": "月球晶体",
+      "code": "zh"
+    },
+    {
+      "description": "Эйдолонская Линза, усиленная резонансом от Соматических Волокон.",
+      "name": "Луа Линза",
+      "code": "ru"
+    },
+    {
+      "description": "ソマティック ファイバーの共鳴を使用して強化されたエイドロンレンズ。",
+      "name": "ルアレンズ",
+      "code": "ja"
+    },
+    {
+      "description": "Soczewka Eidolon wzmocniona rezonansem z Włókien Somatycznych.",
+      "name": "Soczewka Lua",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Lente de Eidolon aprimorada através da ressonância de fibras somáticas.",
+      "name": "Lente Lua",
+      "code": "pt"
+    },
+    {
+      "description": "一個透過活體纖維共振強化的夜靈晶體。",
+      "name": "月球晶體",
+      "code": "tc"
+    },
+    {
+      "description": "เลนส์ Eidolon ที่ได้รับการปรับปรุงด้วยการสะท้อนจากเส้นใยโซมาติก",
+      "name": "เลนส์ Lua",
+      "code": "th"
+    },
+    {
+      "description": "Somatik Lifler'in rezonansı ile geliştirilmiş bir Eidolon Lensi.",
+      "name": "Lua Lens",
+      "code": "tr"
+    },
+    {
+      "description": "Лінза Ейдолона, посилена резонансом із соматичного волокна.",
+      "name": "Лінза з Луа",
+      "code": "uk"
+    }
+  ]
+}

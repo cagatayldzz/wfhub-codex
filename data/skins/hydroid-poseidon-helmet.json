@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Hydroid/SWPoseidonHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-poseidon-helmet-adb8b93984.png",
+  "name": "Hydroid Poseidon Helmet",
+  "description": "A helmet for the Hydroid Warframe, designed by Stenchfury.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Hydroid Warframe, entworfen von Stenchfury.",
+      "name": "Hydroid-Helm: Poseidon",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Hydroid, conçu par Stenchfury.",
+      "name": "Casque Hydroid Poséidon",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Hydroid, ideato da Stenchfury.",
+      "name": "Elmo Hydoid Poseidon",
+      "code": "it"
+    },
+    {
+      "description": "Stenchfury에 의해 디자인된 하이드로이드 워프레임을 위한 헬멧입니다.",
+      "name": "하이드로이드 포세이돈 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Hydroid, diseñado por Strenchfury.",
+      "name": "Casco Poseidon de Hydroid",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid 战甲的头盔，由 Stenchfury 设计。",
+      "name": "Hydroid 波塞冬头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Гидроид, созданный Stenchfury.",
+      "name": "Шлем Гидроида: Посейдон",
+      "code": "ru"
+    },
+    {
+      "description": "Hydroid用のヘルメット。製作者：Stenchfury。",
+      "name": "Hydroid Poseidon ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy hełm dla Warframe'a Hydroid, zaprojektowany przez Stenchfury.",
+      "name": "Hydroid: Hełm Poseidon",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Hydroid, desenvolvido por Stenchfury.",
+      "name": "Hydroid: Capacete Poseidon",
+      "code": "pt"
+    },
+    {
+      "description": "Hydroid Warframe 的頭盔，由 Stenchfury 設計。",
+      "name": "Hydroid 波塞冬頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Hydroid Warframe ออกแบบโดย Stenchfury",
+      "name": "หมวกเหล็ก Hydroid Poseidon",
+      "code": "th"
+    },
+    {
+      "description": "Stenchfury tarafından Hydroid Warframe'i için dizayn edilmiş bir miğfer.",
+      "name": "Hydroid Poseidon Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Гідроїда, створений Stenchfury.",
+      "name": "Шолом «Посейдон» для Гідроїда",
+      "code": "uk"
+    }
+  ]
+}

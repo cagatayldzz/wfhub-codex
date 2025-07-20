@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImagePagemasterAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante-cantist-glyph---dark-9e1d77012f.png",
+  "name": "Dante Cantist Glyph - Dark",
+  "description": "A glyph depicting Dante Cantist on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Dante Cantist vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Dante Cantist (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Dante Cantiste sur un fond sombre.",
+      "name": "Glyphe Dante Cantiste - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dante Cantist su uno sfondo scuro.",
+      "name": "Glifo Dante Cantist - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 단테 칸티스트를 묘사한 글리프입니다.",
+      "name": "단테 칸티스트 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dante Cantist sobre un fondo oscuro.",
+      "name": "Glifo de Dante Cantist - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Dante 撰诗者在黑暗背景下的浮印。",
+      "name": "Dante 撰诗者浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Данте Кантист на тёмном фоне.",
+      "name": "Глиф: Данте Кантист — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたDante Cantistのグリフ。",
+      "name": "Dante Cantist グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Dante Cantist na ciemnym tle.",
+      "name": "Glif Dante Cantist — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Dante Cantist em um fundo escuro.",
+      "name": "Glifo: Dante Cantist (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dante 詩匠在黑暗背景下的浮印。",
+      "name": "Dante 詩匠浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Dante Cantist บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Dante Cantist - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Dante Cantist koyu fonlu glif.",
+      "name": "Dante Cantist Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Данте в шоломі «Чтець» на темному тлі.",
+      "name": "Темний гліф «Данте „Чтець”»",
+      "code": "uk"
+    }
+  ]
+}

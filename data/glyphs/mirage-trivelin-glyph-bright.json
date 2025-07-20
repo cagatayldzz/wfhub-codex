@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTravelinMirageBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-trivelin-glyph---bright-f1b097102b.png",
+  "name": "Mirage Trivelin Glyph - Bright",
+  "description": "A glyph depicting Mirage Trivelin on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Mirage Trivelin vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Mirage Trivelin (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Mirage Trivelin sur un fond lumineux.",
+      "name": "Glyphe Mirage Trivelin - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Mirage Trivelin su uno sfondo chiaro.",
+      "name": "Glifo Mirage Trivelin - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 트리벨린 미라지를 묘사한 글리프입니다.",
+      "name": "미라지 트리벨린 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Mirage Trivelin sobre un fondo brillante.",
+      "name": "Glifo de Mirage Trivelin - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 丑仆在明亮背景下的浮印。",
+      "name": "Mirage 丑仆浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Мираж «Тривелин» на светлом фоне.",
+      "name": "Глиф: Мираж Тривелин - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Mirage Trivelin のグリフ。",
+      "name": "Mirage Trivelin グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Mirage 'Trivelin' na jasnym tle.",
+      "name": "Glif Mirage Trivelin — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Mirage Trivelin em um fundo claro.",
+      "name": "Glifo: Mirage Trivelin (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Mirage 丑僕在明亮背景下的浮印。",
+      "name": "Mirage 丑僕浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Mirage Trivelin บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Mirage Trivelin - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Mirage Trivelin açık fonlu glif.",
+      "name": "Mirage Trivelin Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Міраж у шоломі «Трівеліно» на світлому тлі.",
+      "name": "Яскравий гліф «Міраж „Трівеліно“»",
+      "code": "uk"
+    }
+  ]
+}

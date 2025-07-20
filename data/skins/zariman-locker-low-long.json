@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureGroundLockerLongA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-locker-(low,-long)-c001c3518d.png",
+  "name": "Zariman Locker (Low, Long)",
+  "description": "The long lower locker of a locker cabinet system.",
+  "languages": [
+    {
+      "description": "Der untere lange Spind eines Spindsystems.",
+      "name": "Zariman Spind (flach, lang)",
+      "code": "de"
+    },
+    {
+      "description": "Le long casier inférieur d'un système de rangement.",
+      "name": "Zariman: Casier (bas, long)",
+      "code": "fr"
+    },
+    {
+      "description": "Un armadietto grande basso.",
+      "name": "Armadietto Zariman (Basso, Grande)",
+      "code": "it"
+    },
+    {
+      "description": "물품 보관함 시스템의 일부인 낮고 긴 보관함입니다.",
+      "name": "자리만 물품 보관함 (낮은, 긴)",
+      "code": "ko"
+    },
+    {
+      "description": "El gabinete largo inferior de un sistema de gabinetes.",
+      "name": "Casillero Zariman (bajo, largo)",
+      "code": "es"
+    },
+    {
+      "description": "一个储物柜系统中低的长型储物柜。",
+      "name": "长型扎里曼储物柜（低）",
+      "code": "zh"
+    },
+    {
+      "description": "Длинный нижний шкафчик системы шкафов-купе.",
+      "name": "Зариман: Шкафчик (нижний, длинный)",
+      "code": "ru"
+    },
+    {
+      "description": "ロッカーキャビネットの下部の長いロッカー。",
+      "name": "Zariman ロッカー（低、長）",
+      "code": "ja"
+    },
+    {
+      "description": "Krótka, dolna szafka będąca częścią meblościanki.",
+      "name": "Zariman: Szafka (niska, długa)",
+      "code": "pl"
+    },
+    {
+      "description": "Um armário baixo e longo de um sistema de gabinetes.",
+      "name": "Armário da Zariman (Baixo - Longo)",
+      "code": "pt"
+    },
+    {
+      "description": "儲物櫃系統的長型底櫃。",
+      "name": "長型扎日曼置物櫃（底）",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ล็อกเกอร์ด้านล่างแบบยาวของระบบตู้ล็อกเกอร์",
+      "name": "Zariman: ล็อกเกอร์ (ต่ำ, ยาว)",
+      "code": "th"
+    },
+    {
+      "description": "Kilitli dolap sisteminin uzun alt dolabı.",
+      "name": "Zariman Kilitli Dolabı (Basık, Uzun)",
+      "code": "tr"
+    },
+    {
+      "description": "Довга низька шафка з набору шафок.",
+      "name": "Шафка із «Заримена» (низька, довга)",
+      "code": "uk"
+    }
+  ]
+}

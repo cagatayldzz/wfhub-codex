@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinebasikretro_tm-coffee-mug-9b90cd36c7.png",
+  "name": "Kinebasik<Retro_tm> Coffee Mug",
+  "description": "For all your KineBasik<RETRO_TM> coffee needs! Set of two.",
+  "languages": [
+    {
+      "description": "Für alle deine KineBasik<RETRO_TM>-Kaffeebedürfnisse! 2er-Set.",
+      "name": "KineBasik<RETRO_TM>: Kaffeetasse",
+      "code": "de"
+    },
+    {
+      "description": "Pour tous vos besoins KineBasik<RETRO_TM> en café! Lot de deux.",
+      "name": "Mug KineBasik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Per tutte le tue esigenze caffettose, da KineBasik<RETRO_TM>! Set da due.",
+      "name": "Tazza da Caffè KineBasik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네베이직<RETRO_TM> 커피 머그컵으로 필요한 모든 것들을 챙겨가세요! 두 개 한세트로 구성되어 있습니다.",
+      "name": "키네베이직<RETRO_TM> 커피 머그컵",
+      "code": "ko"
+    },
+    {
+      "description": "¡Para todas tus necesidades de café de KineBasik<RETRO_TM>! Juego de dos.",
+      "name": "Taza de café KineBasik<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "满足你所有的即时用<RETRO_TM>咖啡需求！两件套。",
+      "name": "即时用<RETRO_TM>咖啡杯",
+      "code": "zh"
+    },
+    {
+      "description": "Для всех ваших кофейных потребностей с «КинеБэйсик»<RETRO_TM>! Набор из двух кружек.",
+      "name": "Кофейная кружка «КинеБэйсик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネベーシック<RETRO_TM> がお届けするベーシックなマグカップ。2個入り。",
+      "name": "キネベーシック<RETRO_TM> コーヒーマグ",
+      "code": "ja"
+    },
+    {
+      "description": "Na wspaniały początek dnia kubki na kawę KineBasik<RETRO_TM>! Zestaw dla dwojga.",
+      "name": "KineBasik<RETRO_TM> Kubek na kawę",
+      "code": "pl"
+    },
+    {
+      "description": "Para todas as suas necessidades de cafeína da KineBasik<RETRO_TM>! Conjunto com 2 canecas.",
+      "name": "Caneca de Café KineBasik<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "滿足你一切開需<RETRO_TM>咖啡需求！兩入組。",
+      "name": "開需<RETRO_TM>咖啡杯",
+      "code": "tc"
+    },
+    {
+      "description": "แก้วกาแฟ KineBasik<RETRO_TM> ที่ตอบโจทย์ทุกครั้งที่ต้องการดื่มกาแฟ หนึ่งเซ็ตมีสองใบ",
+      "name": "แก้วกาแฟ KineBasik<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Tüm KineBasik<RETRO_TM> kahve ihtiyaçlarınız için! İkili paket.",
+      "name": "KineBasik<RETRO_TM> Kahve Kupası",
+      "code": "tr"
+    },
+    {
+      "description": "Для будь-яких ваших кавових потреб згодиться ця пара кухлів!",
+      "name": "Кухоль для кави «Кінебейзік»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

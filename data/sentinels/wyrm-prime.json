@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wyrm-prime-62d6263c3e.png",
+  "name": "Wyrm Prime",
+  "description": "Both bodyguard and status symbol, the Wyrm Prime Sentinel was the last line of defense for high ranking Tenno in the Orokin Era.",
+  "armor": 150,
+  "languages": [
+    {
+      "description": "Zugleich Bodyguard und Statussymbol, war der Wyrm Prime Wächter die letzte Verteidigungslinie hochrangiger Tenno in der Orokin Ära.",
+      "name": "Wyrm Prime",
+      "code": "de"
+    },
+    {
+      "description": "À la fois garde du corps et symbole de statut social élevé, la Sentinelle Wyrm Prime était autrefois la dernière ligne de défense des Tennos haut gradés de l'ère Orokin.",
+      "name": "Wyrm Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Sia guardia del corpo che status symbol, la Sentinella Wyrm Prime era l'ultima linea di difesa per i Tenno di alto rango nell'Era Orokin.",
+      "name": "Wyrm Prime",
+      "code": "it"
+    },
+    {
+      "description": "몸을 지키는 전력이자 고귀함의 상징이었던, 웜 프라임 센티넬은 오로킨 시대의 고위 텐노를 위한 마지막 방어선이었습니다.",
+      "name": "웜 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Tanto guardaespaldas como símbolo de prestigio, el centinela Wyrm Prime fue la última línea de defensa para los tenno de más alto rango de la era orokin.",
+      "name": "Wyrm Prime",
+      "code": "es"
+    },
+    {
+      "description": "保镖与地位的象征，在Orokin 时代中，蛟龙守护 Prime 是高阶Tenno 的最后一道防线。",
+      "name": "蛟龙 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Одновременно и телохранитель, и символ статуса — страж «Вирм Прайм» служил последней линией обороны высокопоставленных Тэнно эпохи Орокин.",
+      "name": "Вирм Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン時代の高ランクテンノのみが所持を許された、前線におけるボディーガードとしてまたステータスシンボルとしても頼りになる相棒。",
+      "name": "Wyrm Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Zarówno ochroniarz jak i symbol statusu, Strażnik Wyrm Prime był ostatnią linią obrony wysokich stopniem Tenno z czasów Ery Orokin.",
+      "name": "Wyrm Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Não apenas guarda-costas e símbolo de classe, a sentinela Wyrm Prime também foi a última linha de defesa para os Tenno de alto escalão, na Era Orokin.",
+      "name": "Wyrm Prime",
+      "code": "pt"
+    },
+    {
+      "description": "保鑣與地位的象徵，在 Orokin 時代中，蛟龍守護 Prime 是高階 Tenno 的最後一道防線。",
+      "name": "蛟龍 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "เซนติเนล Wyrm Prime เป็นทั้งผู้คุ้มกันและสัญลักษณ์ที่แสดงสถานะ เป็นแนวป้องกันสุดท้ายของ Tenno ระดับสูงในยุค Orokin",
+      "name": "Wyrm Prime",
+      "code": "th"
+    },
+    {
+      "description": "Hem muhafız hem de itibar sembolü olan Wyrm Prime Sentineli Orokin döneminde Tenno'ların en rütbelileri için son savunma hattıydı.",
+      "name": "Wyrm Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Вартовий, який виконує водночас функції охоронця й предмету статусності. Був останньою лінією оборони найпочесніших тенно часів орокінської ери.",
+      "name": "Змій-прайм",
+      "code": "uk"
+    }
+  ]
+}

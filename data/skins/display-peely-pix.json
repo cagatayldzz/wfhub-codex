@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/StickerPictureFrame",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/display---peely-pix-377c40a189.png",
+  "name": "Display - Peely Pix",
+  "description": "Choose a Peely Pix and place in your Base of Operations.",
+  "languages": [
+    {
+      "description": "Wähle ein Peely Pix und platziere es in deiner Basis.",
+      "name": "Display: Peely Pix",
+      "code": "de"
+    },
+    {
+      "description": "Choisissez un Autocollant Pix et placez-le dans votre base d'opérations.",
+      "name": "Affiche - Autocollant Pix",
+      "code": "fr"
+    },
+    {
+      "description": "Scegli un Adesivo Pix e posizionalo nella tua Base Operativa.",
+      "name": "Display - Adesivo Pix",
+      "code": "it"
+    },
+    {
+      "description": "필리 픽스를 선택해 작전 기지에 전시해보세요.",
+      "name": "디스플레이 - 필리 픽스",
+      "code": "ko"
+    },
+    {
+      "description": "Elige un Pega Pix y colócalo en tu base de operaciones.",
+      "name": "Mostrador - Pega Pix",
+      "code": "es"
+    },
+    {
+      "description": "选择易撕贴纸并将其放置在行动基地中。",
+      "name": "展示图 - 易撕贴纸",
+      "code": "zh"
+    },
+    {
+      "description": "Выберите Пили-Пикс и разместите её в своей оперативной базе.",
+      "name": "Дисплей: Пили-Пикс",
+      "code": "ru"
+    },
+    {
+      "description": "ピーリーピクチャを選択し、作戦基地に配置しよう。",
+      "name": "ディスプレイ - ピーリーピクチャ",
+      "code": "ja"
+    },
+    {
+      "description": "Wybierz naklejki Peely Pix i umieść je w swojej Bazie Operacyjnej.",
+      "name": "Wyświetlacz - Peely Pix",
+      "code": "pl"
+    },
+    {
+      "description": "Escolha uma Figurinha e coloque-a na sua Base de Operações.",
+      "name": "Exibidor (Figurinhas)",
+      "code": "pt"
+    },
+    {
+      "description": "選擇一種變力貼並將其放置於作戰基地。",
+      "name": "展示圖－變力貼",
+      "code": "tc"
+    },
+    {
+      "description": "เลือก Peely Pix และวางไว้ในฐานปฏิบัติการของคุณ",
+      "name": "ภาพดิสเพลย์ - Peely Pix",
+      "code": "th"
+    },
+    {
+      "description": "Bir Çıkartma seç ve Operasyon Merkezine yapıştır.",
+      "name": "Sergi - Çıkartma",
+      "code": "tr"
+    },
+    {
+      "description": "Оберіть липучку й розмістіть на базі операцій.",
+      "name": "Дисплей «Липучка»",
+      "code": "uk"
+    }
+  ]
+}

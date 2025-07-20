@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/VoidTrader/PrismaSkana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-skana-b262830d29.png",
+  "name": "Prisma Skana",
+  "description": "Forged from raw prisma crystals and infused with Void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.",
+  "languages": [
+    {
+      "description": "Aus rohen Prismakristallen geschmiedet und mit Void-Energie angereichert, kann die rasiermesserscharfe Schneide dieser makellosen Klinge selbst die tödlichsten Gegner ausweiden.",
+      "name": "Prisma Skana",
+      "code": "de"
+    },
+    {
+      "description": "Forgé à partir de cristaux prisma bruts et imprégné d'Énergie du Néant, le fil cristallin de cette lame est affûté comme le tranchant d'un rasoir pour éventrer même les plus dangereux des adversaires.",
+      "name": "Skana Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Forgiata da cristalli puri di Prisma ed infusa di energia del Void, l'incontaminata lama di questa spada è affilata come un rasoio ed è in grado di eviscerare persino il più letale dei nemici.",
+      "name": "Prisma Skana",
+      "code": "it"
+    },
+    {
+      "description": "이 검의 칼날은 가공되지 않은 프리즈마 크리스탈에 보이드 에너지를 불어넣어, 어떤 적의 내장이라도 도려낼 수 있을 만큼 아주 날카롭게 연마되었습니다.",
+      "name": "프리즈마 스카나",
+      "code": "ko"
+    },
+    {
+      "description": "Forjada de cristales prisma en bruto e infundida con energía del Vacío, este inmaculado borde de hoja está afilado para destripar incluso al más mortal de los enemigos.",
+      "name": "Skana Prisma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PRISMA SKANA）这把空刃是由原生棱晶所锻造而成，并注入了虚空能量，千锤百炼下其纯净的刀锋即便是最致命的敌人都能大卸八块。",
+      "name": "棱晶·空刃",
+      "code": "zh"
+    },
+    {
+      "description": "Выкованный из необработанного призматического кристалла и усиленный энергией Бездны, этот клинок стал бритвенно-острым, способным потрошить самых смертоносных противников.",
+      "name": "Скана Призма",
+      "code": "ru"
+    },
+    {
+      "description": "プリズマクリスタルの原石から鍛え上げられVOID エネルギーが吹き込まれたこの刃は、恐るべき強敵でさえもたやすく三枚にに卸すほど鋭く磨き上げられている。",
+      "name": "Prisma Skana",
+      "code": "ja"
+    },
+    {
+      "description": "Wykute z surowych kryształów Prisma i przesycone energią Pustki, to nieskazitelnie oszlifowane ostrze ma krawędź ostrą jak brzytwa i zdolną do patroszenia nawet najbardziej zabójczych wrogów.",
+      "name": "Skana Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Forjada a partir de cristais de Prisma brutos e infundida com Energia Void, a borda intocada desta lâmina é afiada para estripar até mesmo o mais mortífero dos adversários.",
+      "name": "Skana Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PRISMA SKANA）這把空刃是由原生棱水晶所鍛造而成，並注入了虛空能量，千錘百鍊下其純淨的刀鋒即便是最致命的敵人都能大卸八塊。",
+      "name": "棱晶 空刃",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบเล่มนี้ถูกสร้างขึ้นมาจากคริสตัลพริสมาดิบที่ใส่พลังงานวอยด์เข้าไปด้วย ทำให้ใบมีดที่ถูกลับจนคมกริบเล่มนี้สามารถผ่าศัตรูที่อันตรายที่สุดได้",
+      "name": "Prisma Skana",
+      "code": "th"
+    },
+    {
+      "description": "Ham prizma kristalleriyle dövülüp Void enerjisi aşılanan bu kılıcın eski kenarları en ölümcül düşmanları bile parçalamak için bilenmiş.",
+      "name": "Prisma Skana",
+      "code": "tr"
+    },
+    {
+      "description": "Меч, лезо якого виготовлене з необроблених призмових кристалів та сповнене енергією Порожнечі. Із легкістю випотрошить найлютішого ворога.",
+      "name": "Скана-призма",
+      "code": "uk"
+    }
+  ]
+}

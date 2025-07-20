@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/OstronHeadStatue",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/telamon-dance-of-death-45f43ba02b.png",
+  "name": "Telamon Dance Of Death",
+  "description": "A moment frozen in time, gruesomely magnificent. This harrowing piece was found among a debris field that made Drusus Leverian reconsider legends about the Warframe Atlas.",
+  "languages": [
+    {
+      "description": "Ein in der Zeit eingefrorener Augenblick, grausam großartig. Dieses erschütternde Stück wurde in einem Trümmerfeld gefunden, das Drusus Leverian dazu brachte, Legenden über den Warframe Atlas zu überdenken.",
+      "name": "Telamon Tanz des Todes",
+      "code": "de"
+    },
+    {
+      "description": "Un moment figé dans le temps, horriblement magnifique. Cette pièce déchirante a été trouvée dans un champ de débris qui a amené Drusus Leverian à reconsidérer les légendes sur la Warframe Atlas.",
+      "name": "Telamon Danse Macabre",
+      "code": "fr"
+    },
+    {
+      "description": "Un momento congelato nel tempo, terribilmente magnifico. Questo pezzo straziante è stato trovato in un campo di detriti che ha costretto Drusus Leverian a riconsiderare le leggende sul Warframe Atlas.",
+      "name": "Danza della Morte Telamon",
+      "code": "it"
+    },
+    {
+      "description": "멈춰버린 시간 속에 굳어진, 소름끼치도록 장엄한 한 순간입니다. 잔해장 사이에서 발견된 이 끔찍한 조각을 통해 드루수스 레베리안은 워프레임 아틀라스에 대한 전설을 재고하게 되었습니다.",
+      "name": "텔라몬의 죽음의 춤",
+      "code": "ko"
+    },
+    {
+      "description": "Un momento congelado en el tiempo, terriblemente magnífico. Esta pieza desgarradora se encontró en un campo de escombros que obligó a Drusus Leverian a reconsiderar las leyendas del warframe Atlas.",
+      "name": "Danza mortal de Telamon",
+      "code": "es"
+    },
+    {
+      "description": "时光凝结在这一瞬间，美的令人毛骨悚然。这件惊世骇俗的作品是在一片碎石区发现的，这让德枢·莱弗重新考虑了关于 Atlas 的一些传说。",
+      "name": "特拉蒙的死亡之舞",
+      "code": "zh"
+    },
+    {
+      "description": "Мгновение, застывшее во времени, насколько великолепное, настолько и ужасное. Это душераздирающее свидетельство было обнаружено среди других обломков и оно заставило Драсуса Левериана пересмотреть устоявшиеся легенды об Атласе.",
+      "name": "Танец смерти Теламона",
+      "code": "ru"
+    },
+    {
+      "description": "一瞬を封じ込めた、おぞましいほどの壮大さ。この陰惨な破片は、デブリ原の中で発見され、ATLAS WARFRAMEの伝説が事実ではないかとDrusus Leverianは考えを改めた。",
+      "name": "テラモーンの死の舞踏",
+      "code": "ja"
+    },
+    {
+      "description": "Wspaniała, lecz przerażająca chwila zatrzymana w czasie. Ten dający ciarki na skórze fragment został znaleziony w rumowisku, które zmusiło Drususa Leveriana do ponownego przemyślenia legendy o Atlasie.",
+      "name": "Taniec Śmierci Telamon",
+      "code": "pl"
+    },
+    {
+      "description": "Um momento terrivelmente magnifico que foi eternizado. Esta peça assombrosa foi encontrada entre um campo de escombros, e fez com que Drusus Leverian reconsiderasse as lendas recitadas sobre o Warframe Atlas.",
+      "name": "Dança da Morte de Telamon",
+      "code": "pt"
+    },
+    {
+      "description": "凍結在時光的一瞬間，可怕且莊嚴。這件在殘骸場地找到的部分讓 Drusus Leverian 重新考慮了關於 Warframe Atlas 的傳說。",
+      "name": "特拉蒙的死亡之舞",
+      "code": "tc"
+    },
+    {
+      "description": "ห้วงเวลาที่คงสภาพไม่เปลี่ยนแปลงไปตามกาลเวลา ดูงดงามอย่างน่าสยดสยอง ชิ้นส่วนที่น่าสลดใจชิ้นนี้ถูกพบในทุ่งเศษซาก เป็นสิ่งที่ทำให้ Drusus Leverian ต้องกลับมาพิจารณาถึงตำนานเกี่ยวกับ Warframe Atlas ขึ้นมาใหม่อีกครา",
+      "name": "ระบำมรณะของ Telamon",
+      "code": "th"
+    },
+    {
+      "description": "Zamanda donmuş bir an, korkunç derecede muhteşem. Bu yürekleri burkan parça, Drusus Leverian'ın Atlas Warframe hakkındaki efsaneleri yeniden düşünmesine neden olan bir enkaz alanında bulundu.",
+      "name": "Telamon Ölüm Dansı",
+      "code": "tr"
+    },
+    {
+      "description": "Застигла мить, жахливо чарівна. Цей моторошний шедевр, знайдений серед уламків, спонукав Друза Леверія повністю переосмислити легенди про ворфрейма Атласа.",
+      "name": "Теламонський танок смерті",
+      "code": "uk"
+    }
+  ]
+}

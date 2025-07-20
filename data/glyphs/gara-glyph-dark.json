@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGlassDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-glyph---dark-9c34084a79.png",
+  "name": "Gara Glyph - Dark",
+  "description": "A glyph depicting Gara on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Gara vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Gara (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Gara sur un fond sombre.",
+      "name": "Glyphe Gara - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gara su uno sfondo scuro.",
+      "name": "Glifo Gara - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 가라를 묘사한 글리프입니다.",
+      "name": "가라 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Gara sobre un fondo oscuro.",
+      "name": "Glifo de Gara - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Gara 在黑暗背景下的浮印。",
+      "name": "Gara 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гары на тёмном фоне.",
+      "name": "Глиф: Гара - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたGaraのグリフ。",
+      "name": "Gara グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Gara na ciemnym tle.",
+      "name": "Glif Gara — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Gara em um fundo escuro.",
+      "name": "Glifo: Gara (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Gara 在黑暗背景下的浮印。",
+      "name": "Gara 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Gara บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Gara - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Gara koyu fonlu glif.",
+      "name": "Gara Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґари на темному тлі.",
+      "name": "Темний гліф «Ґара»",
+      "code": "uk"
+    }
+  ]
+}

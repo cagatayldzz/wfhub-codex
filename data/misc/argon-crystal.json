@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/argon-crystal-f099c16dc9.png",
+  "name": "Argon Crystal",
+  "description": "A Void based radioactive resource that decays every day it is out of the Void.\n\nLocation: Missions in the Void",
+  "languages": [
+    {
+      "description": "Radioaktive Ressource aus dem Void, die mit jedem Tag außerhalb des Void weiter zerfällt.\n\nQuelle: Diese Ressource kann im Void gefunden werden.",
+      "name": "Argon-Kristall",
+      "code": "de"
+    },
+    {
+      "description": "Une Ressource radioactive originaire du Néant. Elle se désagrège chaque jour passé hors du Néant.\n\nLieu: Missions dans le Néant",
+      "name": "Cristal d'Argon",
+      "code": "fr"
+    },
+    {
+      "description": "Risorsa radioattiva del Void che decade progressivamente se portata fuori dal Void.\n\nPosizione: Missioni nel Void",
+      "name": "Cristallo di Argon",
+      "code": "it"
+    },
+    {
+      "description": "보이드에서 나오는 방사성 재료로, 보이드 밖으로 나오는 순간부터 반감되기 시작합니다.\n\n획득 가능 장소: 이 자원은 보이드에서 발견됩니다",
+      "name": "아르곤 크리스탈",
+      "code": "ko"
+    },
+    {
+      "description": "Recurso radioactivo del Vacío que se deteriora cada día que pasa fuera del mismo.\n\nUbicación: Misiones en el Vacío",
+      "name": "Cristal de Argón",
+      "code": "es"
+    },
+    {
+      "description": "一种来自虚空的放射性资源，离开虚空后将每天衰变。\n\n获取地点：虚空中的任务",
+      "name": "氩结晶",
+      "code": "zh"
+    },
+    {
+      "description": "Радиоактивный ресурс из Бездны. Вне Бездны распадается с каждым днём.\n\nМестонахождение: Миссии в Бездне.",
+      "name": "Кристалл аргона",
+      "code": "ru"
+    },
+    {
+      "description": "Void由来の放射性資源。Void外では一日ごとに崩壊していく。\n\n場所：Voidミッション",
+      "name": "アルゴンクリスタル",
+      "code": "ja"
+    },
+    {
+      "description": "Bazujący na właściwościach Pustki radioaktywny surowiec, który rozpada się z każdym dniem przebywania poza Pustką.\n\nPołożenie: Misje w Pustce",
+      "name": "Kryształ Argonowy",
+      "code": "pl"
+    },
+    {
+      "description": "Recurso radioativo que decairá diariamente após deixar o Void.\n\nLocalização: em Missões do Void.",
+      "name": "Cristal de Argônio",
+      "code": "pt"
+    },
+    {
+      "description": "一種來自虛空的放射性資源，離開虛空後將每天衰變。\n\n地點：虛空中的任務",
+      "name": "氬結晶",
+      "code": "tc"
+    },
+    {
+      "description": "ทรัพยากรกัมมันตภาพรังสีที่พบในวอยด์เป็นหลัก ซึ่งจะสลายตัวทุกวันหลังจากที่ออกมาจากวอยด์\n\nแหล่งที่พบ: ภารกิจในวอยด์",
+      "name": "อาร์กอนคริสตัล",
+      "code": "th"
+    },
+    {
+      "description": "Orokin döneminden kalma tarihi enerji hücresi.\n\nKonum: Void görevlerinden elde edilebilir",
+      "name": "Argon Kristali",
+      "code": "tr"
+    },
+    {
+      "description": "Радіоактивний ресурс, утворений у Порожнечі. Починає розпадатися за добу після винесення з неї.\n\nМожна здобути в Порожнечі.",
+      "name": "Аргоновий кристал",
+      "code": "uk"
+    }
+  ]
+}

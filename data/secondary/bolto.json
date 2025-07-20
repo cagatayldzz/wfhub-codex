@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bolto-39106d806a.png",
+  "name": "Bolto",
+  "description": "The Bolto fires slow, heavy bolts that are capable of impaling enemies to walls.",
+  "languages": [
+    {
+      "description": "Die Bolto feuert langsame, schwere Bolzen ab, die Gegner an Wände nageln können.",
+      "name": "Bolto",
+      "code": "de"
+    },
+    {
+      "description": "Le Bolto tire des carreaux lents et lourds capables de clouer les ennemis aux murs.",
+      "name": "Bolto",
+      "code": "fr"
+    },
+    {
+      "description": "La Bolto spara dardi pesanti in grado di impalare i nemici alle pareti.",
+      "name": "Bolto",
+      "code": "it"
+    },
+    {
+      "description": "볼토는 낮은 연사력을 지닌 대신 적들을 벽에 박아버릴 수 있는 중형 볼트를 발사하는 반자동 권총입니다.",
+      "name": "볼토",
+      "code": "ko"
+    },
+    {
+      "description": "La Bolto dispara lentos clavos pesados que pueden empalar a los enemigos en las paredes.",
+      "name": "Bolto",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BOLTO）螺钉手枪连射速度缓慢，大型的螺钉能把敌人钉在墙上。",
+      "name": "螺钉手枪",
+      "code": "zh"
+    },
+    {
+      "description": "Болто выпускает медленные, тяжелые болты, способные прибивать противников к стенам.",
+      "name": "Болто",
+      "code": "ru"
+    },
+    {
+      "description": "敵を串刺しにする小型の杭を発射する拳銃。",
+      "name": "Bolto",
+      "code": "ja"
+    },
+    {
+      "description": "Bolto wystrzeliwuje ciężkie bełty, które potrafią przybić wrogów do ściany.",
+      "name": "Bolto",
+      "code": "pl"
+    },
+    {
+      "description": "A pistola Bolto dispara dardos pesados, capazes de empalar os seus inimigos nas paredes.",
+      "name": "Bolto",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BOLTO）螺釘手槍連射速度緩慢，大型的螺釘能把敵人釘在牆上。",
+      "name": "螺釘手槍",
+      "code": "tc"
+    },
+    {
+      "description": "Bolto จะยิงสลักปืนที่หนักหน่วงรุนแรง อย่างช้า ๆ ออกไป สามารถเสียบศัตรูทะลุไปติดกำแพงได้",
+      "name": "Bolto",
+      "code": "th"
+    },
+    {
+      "description": "Bolto düşmanları duvara yapıştırabilen yavaş, ağır kurşunlar atar.",
+      "name": "Bolto",
+      "code": "tr"
+    },
+    {
+      "description": "самозарядний пістолет. Стріляє повільними й громіздкими болтами, здатними прибити ворогів до стін.",
+      "name": "Болто",
+      "code": "uk"
+    }
+  ]
+}

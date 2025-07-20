@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-prime-glyph---bright-6737db5255.png",
+  "name": "Volt Prime Glyph - Bright",
+  "description": "A glyph depicting Volt Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Volt Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Volt Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Volt Prime sur un fond lumineux.",
+      "name": "Glyphe Volt Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Volt Prime su uno sfondo chiaro.",
+      "name": "Glifo Volt Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 볼트 프라임을 묘사한 글리프입니다.",
+      "name": "볼트 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Volt Prime sobre un fondo brillante.",
+      "name": "Glifo de Volt Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Volt Prime 在明亮背景下的浮印。",
+      "name": "Volt Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вольта Прайм на светлом фоне.",
+      "name": "Глиф: Вольт Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Volt Prime のグリフ。",
+      "name": "Volt Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Volt Prime na jasnym tle.",
+      "name": "Glif Volt Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Volt Prime em um fundo claro.",
+      "name": "Glifo: Volt Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Volt Prime 在明亮背景下的浮印。",
+      "name": "Volt Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Volt Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Volt Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Volt Prime açık fonlu glif.",
+      "name": "Volt Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вольта-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Вольт-прайм»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/auroxium-alloy-ecd44e332e.png",
+  "name": "Auroxium Alloy",
+  "description": "Auron that has been forged into a stronger metal.\n\nBlueprint sold by Old Man Suumbaat in Cetus on Earth.",
+  "languages": [
+    {
+      "description": "Auron, das zu einem härteren Metall geschmiedet wurde.\n\nQuelle: Blaupause erhältlich von Old Man Suumbaat in Cetus auf der Erde.",
+      "name": "Auroxium-Legierung",
+      "code": "de"
+    },
+    {
+      "description": "Auron forgé en un métal plus résistant.\n\nSchéma vendu par le Vieux Suumbat dans Cetus, sur Terre.",
+      "name": "Alliage d'Auroxium",
+      "code": "fr"
+    },
+    {
+      "description": "Auron che è stato forgiato e reso un metallo più resistente.\n\nLo schema è acquistabile dal Vecchietto Suumbaat su Cetus (Terra).",
+      "name": "Lega di Auroxium",
+      "code": "it"
+    },
+    {
+      "description": "더 강력한 금속으로 주조된 오론입니다.\n\n지구의 시터스에 있는 노인 숨바트에게서 설계도를 구매할 수 있습니다.",
+      "name": "오록슘 얼로이",
+      "code": "ko"
+    },
+    {
+      "description": "Auron forjado en un metal más fuerte.\n\nEl plano lo vende el anciano Suumbat en Cetus en la Tierra.",
+      "name": "Aleación de Auroxium",
+      "code": "es"
+    },
+    {
+      "description": "由金辉铸造，更加强韧的金属。\n\n地球上希图斯的老者松巴出售的蓝图。",
+      "name": "金辉合金",
+      "code": "zh"
+    },
+    {
+      "description": "Прочный металл, полученный путём плавки орона.\n\nЧертёж можно купить у старика Суумбаата в Цетусе на Земле.",
+      "name": "Ороксиумные сплавы",
+      "code": "ru"
+    },
+    {
+      "description": "強靭な金属へと鍛え上げられたパイロール。\n\n設計図の入手場所：シータス（地球）の老人SUUMBAAT。",
+      "name": "オーロン鋼",
+      "code": "ja"
+    },
+    {
+      "description": "Auron, który został przetworzony na silniejszy metal.\n\nSchemat jest dostępny u Starca Suumbaata w Cetus na Ziemi.",
+      "name": "Stop Auroxium",
+      "code": "pl"
+    },
+    {
+      "description": "Aurônio forjado e transformado em um metal mais resistente.\n\nSeu diagrama pode ser obtido junto ao Ancião Suumbaat, em Cetus, na Terra.",
+      "name": "Liga Auróxica",
+      "code": "pt"
+    },
+    {
+      "description": "由金輝鑄造，更加強韌的金屬。\n\n來源：藍圖由希圖斯（地球）上的老者 Suumbaat 販售。",
+      "name": "金輝合金",
+      "code": "tc"
+    },
+    {
+      "description": "ออรอนที่ได้หลอมไปเป็นโลหะที่แข็งแรงกว่า\n\nซื้อพิมพ์เขียวได้ที่ชายชรา Suumbaat ในซีตัส บนโลก",
+      "name": "โลหะผสมออโรเซียม",
+      "code": "th"
+    },
+    {
+      "description": "Daha güçlü bir metale dönüştürülen Auron.\n\nKalıbı Cetus'taki Yaşlı Adam Suumbaat tarafından satın alınabilir. Konum: Dünya.",
+      "name": "Auroxium Alaşımı",
+      "code": "tr"
+    },
+    {
+      "description": "Міцний сплав з аурону й домішок.\n\nКресленик можна придбати в стариганя Суумбаата в Цетусі (Земля).",
+      "name": "Ауроксієвий сплав",
+      "code": "uk"
+    }
+  ]
+}

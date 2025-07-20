@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SWBotLSarynHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-blade-of-the-lotus-helmet-34352c88de.png",
+  "name": "Saryn Blade Of The Lotus Helmet",
+  "description": "A helmet for the Saryn Warframe, designed by BeastBuster.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Saryn Warframe, entworfen von BeastBuster.",
+      "name": "Saryn-Helm: Blade of the Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Saryn, conçu par BeastBuster.",
+      "name": "Casque Saryn Lame du Lotus",
+      "code": "fr"
+    },
+    {
+      "description": "Un Elmo per il Warframe Saryn, ideato da BeastBuster.",
+      "name": "Elmo Saryn Lama di Lotus",
+      "code": "it"
+    },
+    {
+      "description": "BeastBuster에 의해 디자인된 새린 워프레임을 위한 헬멧입니다.",
+      "name": "새린 블레이드 오브 더 로터스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Saryn, diseñado por BeastBuster.",
+      "name": "Casco Blade of the Lotus de Saryn",
+      "code": "es"
+    },
+    {
+      "description": "Saryn 战甲的头盔，由 BeastBuster 设计。",
+      "name": "Saryn Lotus 之剑头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Сарина, созданный BeastBuster.",
+      "name": "Шлем Сарины: Клинок Лотос",
+      "code": "ru"
+    },
+    {
+      "description": "Saryn用のヘルメット。製作者：BeastBuster。",
+      "name": "Saryn Blade Of The Lotus ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Saryn, zaprojektowany przez BeastBuster.",
+      "name": "Saryn: Hełm Ostrza Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Saryn, desenvolvido por BeastBuster.",
+      "name": "Saryn: Capacete Lâmina da Lótus",
+      "code": "pt"
+    },
+    {
+      "description": "Saryn Warframe 的頭盔，由 BeastBuster 設計。",
+      "name": "Saryn Lotus 之劍頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Saryn Warframe ออกแบบโดย BeastBuster",
+      "name": "หมวกเหล็ก Saryn Blade of the Lotus",
+      "code": "th"
+    },
+    {
+      "description": "BeastBuster tarafından dizayn edilen Saryn miğferi.",
+      "name": "Saryn Blade of the Lotus Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Зарини, створений BeastBuster.",
+      "name": "Шолом «Клинок Лотос» для Зарини",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/ScenarioBeacon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oplink-db95382d29.png",
+  "name": "Oplink",
+  "description": "A device used to manage coordination and resources during Operation Link missions.",
+  "languages": [
+    {
+      "description": "Ein Gerät, das zur Verwaltung von Koordination und Ressourcen während der Mission-Link Missionen verwendet wird.",
+      "name": "MnLink",
+      "code": "de"
+    },
+    {
+      "description": "Un appareil utilisé afin de gérer la coordination et les ressources durant les missions de Lien d'Opération.",
+      "name": "Lien-Op",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo utilizzato per gestire il coordinamento e le risorse durante le missioni Collegamento Operativo.",
+      "name": "OpLink",
+      "code": "it"
+    },
+    {
+      "description": "작전 링크 미션 도중 합동 작업 및 자원 관리에 사용되는 장치입니다.",
+      "name": "옵링크",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo utilizado para gestionar la coordinación y los recursos durante las misiones de Enlace de Operación.",
+      "name": "EnlaceOp",
+      "code": "es"
+    },
+    {
+      "description": "一个在联动作战任务期间用于协调管理及资源分配的设备。",
+      "name": "联动作战信标",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство, используемое для взаимодействия и управления ресурсами во время миссий Оперативной Связи.",
+      "name": "ОпСвязь",
+      "code": "ru"
+    },
+    {
+      "description": "作戦リンクミッションでの連携や素材管理を行う機材。",
+      "name": "作戦リンク",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie służące do koordynowania i zarządzania zasobami podczas misji Łącza Operacji.",
+      "name": "OpLink",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo utilizado na gestão da coordenação e dos recursos das missões de Link da Operação.",
+      "name": "LinkOp",
+      "code": "pt"
+    },
+    {
+      "description": "在行動連接任務中用於管理協調及資源分配的一裝置。",
+      "name": "行動連接裝置",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ที่ใช้ในการประสานงานและจัดการทรัพยากรในระหว่างภารกิจลิงก์ปฏิบัติการ",
+      "name": "OpLink",
+      "code": "th"
+    },
+    {
+      "description": "Operasyon Link görevleri sırasında koordinasyonu ve kaynakları yönetmek için kullanılan bir cihaz.",
+      "name": "OpLink",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій для координації та розподілу ресурсів під час завдань «Оперативний зв’язок».",
+      "name": "Опмаяк",
+      "code": "uk"
+    }
+  ]
+}

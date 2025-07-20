@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tralok-eyes-3674188a9a.png",
+  "name": "Tralok Eyes",
+  "description": "The Ostron boil these into a jelly which forms a strong adhesive when it dries.\n\nSource: Cut from Tralok fish via Fisher Hai-Luk in Cetus (Earth). Catch Tralok in the Plains of Eidolon ocean during the Day. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Die Ostron kochen diese zu einem Gelee, das beim Trocknen einen starken Klebstoff bildet.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Traloks geschnitten. Traloks können tagsüber in den Ozeanen der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Tralok: Augen",
+      "code": "de"
+    },
+    {
+      "description": "Les Ostrons les font bouillir jusqu'à obtenir une gelée qui forme un adhésif puissant lorsqu'il sèche.\n\nSource: découpés des Traloks via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Tralok dans l'océan des Plaines d'Eidolon pendant la journée. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Yeux de Tralok",
+      "code": "fr"
+    },
+    {
+      "description": "Gli Ostron le fanno bollire fino a ottenere una gelatina che forma un forte adesivo quando si asciuga.\n\nFonte: Ottenibili dal pesce Tralok dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura un Tralok nell'oceano delle Piane di Eidolon durante il giorno. Vengono rilasciate anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Occhi di Tralok",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 인들은 이 눈을 녹아 흐물흐물해질 때까지 끓여 접착제로 사용하며, 마르면 강한 접착성을 지니게 됩니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 트랄록 물고기를 해체하기. 낮 동안 아이돌론의 평원 바다에서 트랄록을 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "트랄록 눈",
+      "code": "ko"
+    },
+    {
+      "description": "Los ostronitas hierven estos peces hasta formar una gelatina que forma un adhesivo fuerte cuando se seca.\n\nFuente: Extraído de un pez Tralok con la Péscadora Hai-Luk en Cetus (Tierra). Captura al Tralok en el océano de las Llanuras de Eidolon durante el día. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Ojos de Tralok",
+      "code": "es"
+    },
+    {
+      "description": "Ostron 人将其煮成胶状，干燥后便成为一种强力的粘合剂。\n\n获取途径：通过希图斯（地球）的渔人海露从塔洛鱼中切割获取。在白天的夜灵平野海洋中捕捉塔洛。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "塔洛鱼眼",
+      "code": "zh"
+    },
+    {
+      "description": "Остронцы варят эти вещества до состояния желе, которое при высыхании становится сильным клеем.\n\nМестонахождение: Получается при разделке тралока у рыбачки Хай-Лук в Цетусе (Земля). Ловите тралока в океанах на Равнинах Эйдолона в дневное время. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Глаза Тралока",
+      "code": "ru"
+    },
+    {
+      "description": "目を湯でて乾燥させる事で強い粘着剤を作れる。\n\n場所：エイドロンの草原で獲れるトラロックから切り取れる（シータスの釣り師Hai-Luk）。トラロックは昼のエイドロンの草原の海で獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "トラロックの目",
+      "code": "ja"
+    },
+    {
+      "description": "Ostroni gotują je w galaretę, tworząc silny klej, gdy wyschnie.\n\nMoże zostać zdobyty przez filetowanie Traloka u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Tralok może zostać złowiona w oceanie Równin Eidolon o dowolnej porze dnia. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Tralok: Oczy",
+      "code": "pl"
+    },
+    {
+      "description": "Os Ostrons fervem estes e fazem uma geleia que forma um adesivo forte quando seca.\n\nLocalização: obtido através do corte do peixe Tralok com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Tralok pode ser pescado nos oceanos das Planícies de Eidolon durante o dia. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Olhos de Tralok",
+      "code": "pt"
+    },
+    {
+      "description": "Ostron 人將之煮成膠狀，乾燥後便成為一種強力的粘合物。 \n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開塔洛取得。\n塔洛可在白天於夜靈平野的海洋裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "塔洛魚眼",
+      "code": "tc"
+    },
+    {
+      "description": "ชาว Ostron จะต้มตาพวกนี้จนเป็นวุ้น เมื่อแห้งจะกลายเป็นกาวที่เหนียวแน่น\n\nแหล่งที่พบ: ได้จากการแล่ปลา Tralok ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งสามารถจับปลา Tralok ในมหาสมุทรตามที่ราบ Eidolon ได้ในช่วงเวลากลางวัน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "ลูกตา Tralok",
+      "code": "th"
+    },
+    {
+      "description": "Ostron halkı, bu balığın parçalarını jöle kıvamına gelene kadar kaynatır. Uygulanması ardından kuruduğunda ise güçlü bir yapıştırıcı olarak işlev görür.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Tralok balığından kesilmiştir. Tralok balığı, gün boyunca Eidolon Ovalarının okyanusunda yakalanabilir. Ayrıca Eidolon Ovaları'ndaki Thumper'lardan da düşer.",
+      "name": "Tralok Gözleri",
+      "code": "tr"
+    },
+    {
+      "description": "Остронці виварюють очі в желе, яке завдяки своїй цупкості після застигання використовується як клей.\n\nМожна отримати з трелока в рибалки Гай-Люк у Цетусі (Земля). Ловіть трелока в океані Рівнин Ейдолонів удень. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Очі трелока",
+      "code": "uk"
+    }
+  ]
+}

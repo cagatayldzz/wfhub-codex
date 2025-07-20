@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/DarvoBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---darvo-5f755812c9.png",
+  "name": "Noggle Statue - Darvo",
+  "description": "A small wobbly statue of Darvo.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Darvo.",
+      "name": "Noggle-Statue: Darvo",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Darvo.",
+      "name": "Statuette Noggle - Darvo",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Darvo con la testa tremolante.",
+      "name": "Statuetta Noggle - Darvo",
+      "code": "it"
+    },
+    {
+      "description": "다르보의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 다르보",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Darvo.",
+      "name": "Estatua Tambaleante - Darvo",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Darvo 摇头娃娃。",
+      "name": "Darvo 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Дарво.",
+      "name": "Фигурка: Дарво",
+      "code": "ru"
+    },
+    {
+      "description": "Darvoのボブルヘッド人形。",
+      "name": "Darvo ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Darvo.",
+      "name": "Figurka Noggle — Darvo",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Darvo.",
+      "name": "Estatueta: Darvo",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Darvo 搖頭娃娃。",
+      "name": "Darvo 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Darvo ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Darvo",
+      "code": "th"
+    },
+    {
+      "description": "Darvo küçük oynar figür.",
+      "name": "Noggle Heykeli - Darvo",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Дарво.",
+      "name": "Ноґл «Дарво»",
+      "code": "uk"
+    }
+  ]
+}

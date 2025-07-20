@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedKdriveCommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/purple-velocipod-tag-b1987f42d0.png",
+  "name": "Purple Velocipod Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "Marke: Lila Velocipod",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Vélocipode Mauve",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "Etichetta Velocipodo Porpora",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "퍼플 벨로시포드 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "Marcador de Velocípodo Morado",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "紫色迅敏节虫标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "Жетон: Лиловый Велоципод",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "パープル ベロシポッド タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Fioletowego Welocypoda",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Velocípede Violeta",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "紫色暴速翼蟲標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก Velocipod สีม่วง",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "Mor Velocipod Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "Жетон пурпурового велоципода",
+      "code": "uk"
+    }
+  ]
+}

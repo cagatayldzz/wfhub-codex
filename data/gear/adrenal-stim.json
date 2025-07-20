@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/SpeedBuffArmorDebuff",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/adrenal-stim-19d3164668.png",
+  "name": "Adrenal Stim",
+  "description": "Elevates adrenaline levels to enable faster movement while increasing sensitivity to damage.",
+  "languages": [
+    {
+      "description": "Erhöht Adrenalinlevel und ermöglicht schnellere Bewegung, jedoch auch höhere Empfindlichkeit für Schaden.",
+      "name": "Adrenal-Stim",
+      "code": "de"
+    },
+    {
+      "description": "Élève les niveaux d'adrénaline pour amorcer une augmentation de vitesse de mouvement ainsi qu'une augmentation de sensibilité aux dégâts.",
+      "name": "Stimulant Surrénal",
+      "code": "fr"
+    },
+    {
+      "description": "Aumenta i livelli di adrenalina per permettere movimenti più veloci, ma aumentando la sensibilità al danno.",
+      "name": "Adrenal Stim",
+      "code": "it"
+    },
+    {
+      "description": "피해에 대한 민감도가 증가하는 반면에 아드레날린 농도를 높여 이동 속도를 증가시킵니다.",
+      "name": "아드레날 스팀",
+      "code": "ko"
+    },
+    {
+      "description": "Eleva los niveles de adrenalina para permitir movimientos más rápidos mientras aumenta la sensibilidad al daño.",
+      "name": "Estimulante Suprarrenal",
+      "code": "es"
+    },
+    {
+      "description": "提升肾上腺素水平以加快移动，但对伤害更加敏感。",
+      "name": "肾上腺刺激剂",
+      "code": "zh"
+    },
+    {
+      "description": "Повышает уровень адреналина, ускоряя движения, но повышая уязвимость к урону.",
+      "name": "Стимулятор: Адренал",
+      "code": "ru"
+    },
+    {
+      "description": "アドレナリンレベルを上昇させ、ダメージには弱くなるが素早い動きを可能にさせる。",
+      "name": "Adrenal スティム",
+      "code": "ja"
+    },
+    {
+      "description": "Podwyższa poziomy adrenaliny pozwalające na szybsze poruszanie się i zwiększają podatność na obrażenia.",
+      "name": "Adrenal Stym",
+      "code": "pl"
+    },
+    {
+      "description": "Eleva os níveis de adrenalina para possibilitar uma movimentação mais rápida, porém aumenta a sensibilidade a dano.",
+      "name": "Estimulante de Adrenalina",
+      "code": "pt"
+    },
+    {
+      "description": "提升腎上腺素水平以加快移動，但對傷害更加敏感。",
+      "name": "腎上腺刺激劑",
+      "code": "tc"
+    },
+    {
+      "description": "ทำให้ระดับอะดรีนาลีนสูงขึ้นเพื่อช่วยให้เคลื่อนไหวได้เร็วขึ้น แต่ในขณะเดียวกันความไวต่อความเสียหายก็จะสูงขึ้นด้วย",
+      "name": "Adrenal Stim",
+      "code": "th"
+    },
+    {
+      "description": "Adrenalin seviyesini arttırarak daha hızlı hareket kabiliyeti sağlar ve hasara karşı duyarlılığı arttırır.",
+      "name": "Adrenal Stim",
+      "code": "tr"
+    },
+    {
+      "description": "Підвищує рівень адреналіну. Пришвидшує рух, але збільшує вразливість перед шкодою.",
+      "name": "Стимулятор «Адреналінування»",
+      "code": "uk"
+    }
+  ]
+}

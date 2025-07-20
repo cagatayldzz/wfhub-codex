@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLivePromoSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-luminary-sigil-7b2d2a760b.png",
+  "name": "Tenno Luminary Sigil",
+  "description": "An honorable insignia celebrating Tenno unity.",
+  "languages": [
+    {
+      "description": "Ein ehrenhaftes Abzeichen, das die Einheit der Tenno feiert.",
+      "name": "Siegel: Tenno Luminary",
+      "code": "de"
+    },
+    {
+      "description": "Un honorable insigne célébrant l'unité Tenno.",
+      "name": "Sceau Luminaire Tenno",
+      "code": "fr"
+    },
+    {
+      "description": "Un'onorabile stemma che celebra l'unità Tenno.",
+      "name": "Sigillo Tenno Luminary",
+      "code": "it"
+    },
+    {
+      "description": "텐노의 하나됨을 기념하는 명예스러운 배지입니다.",
+      "name": "텐노 루미너리 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Una honorable insignia celebrando la unidad Tenno.",
+      "name": "Sello de la luminaria tenno",
+      "code": "es"
+    },
+    {
+      "description": "纪念 Tenno 大联合的荣耀徽记。",
+      "name": "Tenno 人杰纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Почётный знак, чтящий сплочённость Тэнно.",
+      "name": "Сигил: Люминарий Тэнно",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの団結を讃えるための名誉ある勲章。",
+      "name": "Tenno Luminary シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Honorowe insygnia świętujące jedność Tenno.",
+      "name": "Znak Tenno Luminary",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia digna para celebrar a união dos Tennos.",
+      "name": "Brasão: Tenno Luminary",
+      "code": "pt"
+    },
+    {
+      "description": "紀念 Tenno 大聯合的榮耀徽記。",
+      "name": "Tenno 人傑紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตราอันทรงเกียรติเพื่อเฉลิมฉลองความสามัคคีของ Tenno",
+      "name": "เครื่องหมาย: Tenno Luminary",
+      "code": "th"
+    },
+    {
+      "description": "Tenno topluluğunu kutlayan onurlu bir mühür.",
+      "name": "Tenno Luminary Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Знак пошани єдності тенно.",
+      "name": "Сиґіл «Світоч тенно»",
+      "code": "uk"
+    }
+  ]
+}

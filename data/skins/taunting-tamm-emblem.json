@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/Halloween2023RamBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/taunting-tamm-emblem-9a3cf530b1.png",
+  "name": "Taunting Tamm Emblem",
+  "description": "A haunting emblem paying homage to Duviri.",
+  "languages": [
+    {
+      "description": "Ein gruseliges Emblem als Hommage an Duviri.",
+      "name": "Emblem: Spottendes Tamm",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge obsédant rendant hommage à Duviri.",
+      "name": "Badge de Tamm Provocateur",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema inquietante che rende omaggio a Duviri.",
+      "name": "Emblema Tamm Provocatorio",
+      "code": "it"
+    },
+    {
+      "description": "두비리에 경의를 표하는, 으스스한 엠블럼입니다.",
+      "name": "도발하는 탐 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema inquietante que rinde homenaje a Duviri.",
+      "name": "Emblema de tamm desafiante",
+      "code": "es"
+    },
+    {
+      "description": "向双衍王境致敬的魂牵梦绕的徽章。",
+      "name": "嘲讽塔塔羊徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, олицетворяющий мистический мир Дувири.",
+      "name": "Значок: Насмешливый тамм",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリに敬意を表した不気味なエンブレム。",
+      "name": "煽るタムのエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Przerażający emblemat oddający hołd Duviri.",
+      "name": "Emblemat: Drwiącego Tamma",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema assustador em homenagem a Duviri.",
+      "name": "Emblema: Tamm Aterrorizante",
+      "code": "pt"
+    },
+    {
+      "description": "一個向渡域致敬的令人不寒而慄的徽章。",
+      "name": "嘲諷塔姆徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์สุดหลอนแทนการแสดงความเคารพต่อ Duviri",
+      "name": "ตราสัญลักษณ์: Taunting Tamm",
+      "code": "th"
+    },
+    {
+      "description": "Duviri'yi onurlandıran unutulmaz bir amblem.",
+      "name": "Alaycı Tamm Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Моторошна відзнака, що вшановує Дувірі.",
+      "name": "Відзнака «Знущальний тамм»",
+      "code": "uk"
+    }
+  ]
+}

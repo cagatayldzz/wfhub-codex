@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koppra-suit-553b49733d.png",
+  "name": "Koppra Suit",
+  "description": "A suit of an Operator outfit.",
+  "languages": [
+    {
+      "description": "Der Anzug eines Operator-Outfits.",
+      "name": "Anzug: Koppra",
+      "code": "de"
+    },
+    {
+      "description": "Une combinaison pour une tenue d'Opérateur.",
+      "name": "Combinaison Koppra",
+      "code": "fr"
+    },
+    {
+      "description": "Una tuta per l'abbigliamento di un Operatore.",
+      "name": "Abito Koppra",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터 의상의 수트 부분입니다.",
+      "name": "코프라 수트",
+      "code": "ko"
+    },
+    {
+      "description": "El traje del atuendo de un operador.",
+      "name": "Traje Koppra",
+      "code": "es"
+    },
+    {
+      "description": "一件指挥官套装的套服。",
+      "name": "珂普拉套服",
+      "code": "zh"
+    },
+    {
+      "description": "Костюм оператора.",
+      "name": "Костюм: Коппра",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター衣装のスーツ。",
+      "name": "Koppra スーツ",
+      "code": "ja"
+    },
+    {
+      "description": "Kombinezon stroju Operatora.",
+      "name": "Kombinezon Koppra",
+      "code": "pl"
+    },
+    {
+      "description": "A Armadura de um traje de operador.",
+      "name": "Traje Koppra",
+      "code": "pt"
+    },
+    {
+      "description": "一件指揮官套裝的套服。",
+      "name": "科普拉套服",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเครื่องแต่งกายของโอเปอเรเตอร์",
+      "name": "ชุด Koppra",
+      "code": "th"
+    },
+    {
+      "description": "Operatör kostümü",
+      "name": "Koppra Kostüm",
+      "code": "tr"
+    },
+    {
+      "description": "Убрання для оператора.",
+      "name": "Убрання «Коппра»",
+      "code": "uk"
+    }
+  ]
+}

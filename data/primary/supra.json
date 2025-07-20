@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpHeavyRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/supra-02cc80bc5b.png",
+  "name": "Supra",
+  "description": "The SUPRA is a heavy laser gun with a short wind up time.",
+  "languages": [
+    {
+      "description": "Die SUPRA ist eine schwere Laserwaffe mit einer kurzen Aufladezeit.",
+      "name": "Supra",
+      "code": "de"
+    },
+    {
+      "description": "Le SUPRA est une Mitrailleuse laser lourde avec un temps de charge court.",
+      "name": "Supra",
+      "code": "fr"
+    },
+    {
+      "description": "La SUPRA è una pesante arma laser con un breve tempo di caricamento.",
+      "name": "Supra",
+      "code": "it"
+    },
+    {
+      "description": "수프라는 적은 준비시간을 가진 육중한 레이저 총입니다.",
+      "name": "수프라",
+      "code": "ko"
+    },
+    {
+      "description": "El SUPRA es un arma láser pesado con un corto tiempo de enfriamiento.",
+      "name": "Supra",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SUPRA）苏普拉是把重型激光枪，可在很短的时间内启动。",
+      "name": "苏普拉",
+      "code": "zh"
+    },
+    {
+      "description": "Супра - тяжелое лазерное орудие с быстрым разогревом.",
+      "name": "Супра",
+      "code": "ru"
+    },
+    {
+      "description": "発射前に空転時間を要するヘビーレーザーガン。",
+      "name": "Supra",
+      "code": "ja"
+    },
+    {
+      "description": "SUPRA jest ciężkim karabinem laserowym z krótkim czasem rozbiegu.",
+      "name": "Supra",
+      "code": "pl"
+    },
+    {
+      "description": "A Supra é uma arma a laser pesada com curto tempo de carga de disparo.",
+      "name": "Supra",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SUPRA）蘇普拉是把重型雷射槍，可在很短的時間內啟動。",
+      "name": "蘇普拉",
+      "code": "tc"
+    },
+    {
+      "description": "SUPRA เป็นปืนเลเซอร์หนักที่มีระยะเวลาที่หมุนขึ้นไม่นาน",
+      "name": "Supra",
+      "code": "th"
+    },
+    {
+      "description": "SUPRA kısa sürede hızlanan ağır bir lazer silahıdır.",
+      "name": "Supra",
+      "code": "tr"
+    },
+    {
+      "description": "Важка лазерна гвинтівка зі швидким перезаряджанням.",
+      "name": "Супра",
+      "code": "uk"
+    }
+  ]
+}

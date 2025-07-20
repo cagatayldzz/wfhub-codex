@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/faceted-tiametrite-566329217b.png",
+  "name": "Faceted Tiametrite",
+  "description": "Refined purity freed from the Infested mass.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Verfeinerte Reinheit, aus der befallenen Masse befreit.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Facettenreiches Tiamerit",
+      "code": "de"
+    },
+    {
+      "description": "Pureté raffinée libérée de la masse Infestée.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Tiametrite à Facettes",
+      "code": "fr"
+    },
+    {
+      "description": "Raffinata purezza libera da qualsiasi massa Infested.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Tiametrite Sfaccettata",
+      "code": "it"
+    },
+    {
+      "description": "순수한 물질이 정제를 통해 인페스티드 덩어리에서 해방된 모습입니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "패시티드 티아메트라이트",
+      "code": "ko"
+    },
+    {
+      "description": "Pureza refinada y liberada de la masa infestada.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Tiametrita Facetada",
+      "code": "es"
+    },
+    {
+      "description": "从感染生物处精炼得到的提纯物。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "多面提亚美凝石",
+      "code": "zh"
+    },
+    {
+      "description": "Качественно очищенный от заражённых масс.\n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Гранулированный тиаметрит",
+      "code": "ru"
+    },
+    {
+      "description": "感染体物を取り除いて精錬した物質。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "表面加工済みチアメトライト",
+      "code": "ja"
+    },
+    {
+      "description": "Rafinowana czystość uwolniona od masy Plagi.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Fasetowany Tiametryt",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pureza refinada, livre da Infestação.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Tiametrita Multifacetada",
+      "code": "pt"
+    },
+    {
+      "description": "從感染生物質精煉而成的純淨物。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "琢化天磨石",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมที่ได้รับการขัดเกลาอย่างสะอาดหมดจด ปราศจากมวลสารที่ติดเชื้อ\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "ไทอาเมไทรต์ที่เจียระไนแล้ว",
+      "code": "th"
+    },
+    {
+      "description": "Infested kütleden rafine edilerek arındırılmış.\n\nKalıbı Deimos'ta yer alan Necralisk'te bulunan Otak'tan satın alınabilir.",
+      "name": "Faceted Tiametrite",
+      "code": "tr"
+    },
+    {
+      "description": "Очищена й звільнена від заражених мас чистота. \n\nКресленик можна придбати в Отака в Некраліску (Деймосі).",
+      "name": "Гранчастий тіаметрит",
+      "code": "uk"
+    }
+  ]
+}

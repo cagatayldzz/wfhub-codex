@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRetroAlchemist",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/retroalchemist-glyph-dceb36f4f7.png",
+  "name": "Retroalchemist Glyph",
+  "description": "A Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine Glyphe für dein Profil.",
+      "name": "Glyphe: RetroAlchemist",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour votre profil.",
+      "name": "Glyphe RetroAlchemist",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo per il tuo profilo.",
+      "name": "Glifo RetroAlchemist",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 글리프입니다.",
+      "name": "RetroAlchemist 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo para tu perfil.",
+      "name": "Glifo de RetroAlchemist",
+      "code": "es"
+    },
+    {
+      "description": "个人档案的浮印。",
+      "name": "RetroAlchemist 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф для вашего профиля.",
+      "name": "Глиф: RetroAlchemist",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用のグリフ。",
+      "name": "RetroAlchemist グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif dla Twojego profilu.",
+      "name": "Glif RetroAlchemist",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo para o seu perfil.",
+      "name": "Glifo: RetroAlchemist",
+      "code": "pt"
+    },
+    {
+      "description": "用於個人檔案的浮印。",
+      "name": "RetroAlchemist 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์  RetroAlchemist",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için bir Glif.",
+      "name": "RetroAlchemist Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вашого профілю.",
+      "name": "Гліф RetroAlchemist",
+      "code": "uk"
+    }
+  ]
+}

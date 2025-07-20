@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateTankMediumB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-waste-receptacle-(standing)-72eefd7d2f.png",
+  "name": "Zariman Waste Receptacle (Standing)",
+  "description": "A freestanding waste bin.",
+  "languages": [
+    {
+      "description": "Ein freistehender Abfallbehälter.",
+      "name": "Zariman Abfallbehälter (stehend)",
+      "code": "de"
+    },
+    {
+      "description": "Une poubelle non encastrée.",
+      "name": "Zariman: Poubelle (verticale)",
+      "code": "fr"
+    },
+    {
+      "description": "Un cestino per i rifiuti.",
+      "name": "Cestino per i Rifiuti Zariman (Verticale)",
+      "code": "it"
+    },
+    {
+      "description": "독립형으로 서 있는 쓰레기통입니다.",
+      "name": "자리만 쓰레기통 (직립형)",
+      "code": "ko"
+    },
+    {
+      "description": "Una papelera sin soporte.",
+      "name": "Papelera Zariman (vertical)",
+      "code": "es"
+    },
+    {
+      "description": "一个独立式废物箱。",
+      "name": "扎里曼废物箱（立式）",
+      "code": "zh"
+    },
+    {
+      "description": "Отдельно стоящее мусорное ведро.",
+      "name": "Зариман: Мусорное ведро (стоящее)",
+      "code": "ru"
+    },
+    {
+      "description": "自立型のゴミ箱。",
+      "name": "Zariman ゴミ箱（自立）",
+      "code": "ja"
+    },
+    {
+      "description": "Wolnostojący śmietnik.",
+      "name": "Zariman: Śmietnik (stojący)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lixeira flutuante.",
+      "name": "Lixeira da Zariman (Vertical)",
+      "code": "pt"
+    },
+    {
+      "description": "獨立式廢物箱。",
+      "name": "扎日曼廢物箱（立式）",
+      "code": "tc"
+    },
+    {
+      "description": "ถังขยะตั้งพื้น",
+      "name": "Zariman: ถังขยะ (แบบยืน)",
+      "code": "th"
+    },
+    {
+      "description": "Desteksiz bir çöp kutusu.",
+      "name": "Zariman Çöp Kutusu (Ayakta)",
+      "code": "tr"
+    },
+    {
+      "description": "Простий сміттєзбірник.",
+      "name": "Сміттєзбірник із «Заримена» (окремий)",
+      "code": "uk"
+    }
+  ]
+}

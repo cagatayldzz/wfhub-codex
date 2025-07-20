@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/centaur-a00c7e4fd8.png",
+  "name": "Centaur",
+  "description": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
+  "languages": [
+    {
+      "description": "Teil Schwert, Teil Schild, das Centaur eignet sich bestens für einen Sturm in feindliches Feuer.",
+      "name": "<ARCHWING> Centaur",
+      "code": "de"
+    },
+    {
+      "description": "Mi-bouclier, mi-épée, le Centaure est l'arme d'excellence pour plonger tête baissée dans les rangs ennemis.",
+      "name": "<ARCHWING> CENTAURE",
+      "code": "fr"
+    },
+    {
+      "description": "In parte una spada, in parte uno scudo, il Centaur è l'arma ideale per buttarsi a capofitto tra i proiettili nemici.",
+      "name": "<ARCHWING> Centaur",
+      "code": "it"
+    },
+    {
+      "description": "반은 검, 반은 방패로 구성된 센타우르는 적군의 사격 속을 뚫는 저돌적인 돌격에 탁월한 성능을 보입니다.",
+      "name": "<ARCHWING> 센타우르",
+      "code": "ko"
+    },
+    {
+      "description": "Mitad espada, mitad escudo, el Centauro destaca en cargar precipitadamente hacia el fuego enemigo.",
+      "name": "<ARCHWING> Centauro",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CENTAUR）部分为剑，部分为盾，半人马剑盾专擅于突进敌军炮火之中。",
+      "name": "<ARCHWING> 半人马",
+      "code": "zh"
+    },
+    {
+      "description": "Частично меч, частично щит, Кентавр отлично показывает себя в безбашенных атаках под вражеским огнем.",
+      "name": "<ARCHWING> Кентавр",
+      "code": "ru"
+    },
+    {
+      "description": "剣でもあり、盾でもあり、Centaurは先陣に立つための優秀な武器。",
+      "name": "<ARCHWING> Centaur",
+      "code": "ja"
+    },
+    {
+      "description": "Broń Archwinga. Częściowo miecz, częściowo tarcza, Centaur jest doskonałą bronią w czasie ataku prosto w ogień nieprzyjaciela.",
+      "name": "<ARCHWING> Centaur",
+      "code": "pl"
+    },
+    {
+      "description": "Parte espada, parte escudo, a Centaur é excelente para entrar de cabeça no fogo inimigo.",
+      "name": "<ARCHWING> Centaur",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CENTAUR）部分為劍，部分為盾，半人馬劍盾專擅於突進敵軍炮火之中。",
+      "name": "<ARCHWING> 半人馬",
+      "code": "tc"
+    },
+    {
+      "description": "Centaur มีส่วนที่เป็นทั้งดาบและโล่ เด่นในด้วยการพุ่งเข้าโจมตีศัตรูแบบไม่ยั้งคิด",
+      "name": "<archwing> Centaur",
+      "code": "th"
+    },
+    {
+      "description": "Yarı kılıç yarı kalkan olan Centaur düşmanı keserken ustasınıda korur.",
+      "name": "<ARCHWING> Centaur",
+      "code": "tr"
+    },
+    {
+      "description": "Частково меч, частково щит. На відмінно впорається з нападом під шквалом ворожого вогню.",
+      "name": "<ARCHWING> Кентавр",
+      "code": "uk"
+    }
+  ]
+}

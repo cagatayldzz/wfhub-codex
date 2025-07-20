@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankThree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vox-solaris-hand-sigil-18be622f09.png",
+  "name": "Vox Solaris Hand Sigil",
+  "description": "A sigil representing prestige gained with the Vox Solaris.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige bei Vox Solaris zeigt.",
+      "name": "Siegel: Vox Solaris Hand",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant le prestige obtenu avec Vox Solaris.",
+      "name": "Sceau de Main Vox Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Vox Solaris.",
+      "name": "Sigillo Esecutore Vox Solaris",
+      "code": "it"
+    },
+    {
+      "description": "복스 솔라리스로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "복스 솔라리스 일꾼 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con Vox Solaris.",
+      "name": "Sello Mano de Vox Solaris",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了索拉里斯之声的威望。",
+      "name": "索拉里斯之声刽子手纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю в социуме Гласа Солярис.",
+      "name": "Сигил: Глас Солярис - рука",
+      "code": "ru"
+    },
+    {
+      "description": "Vox Solarisから得た声望を表すシジル。",
+      "name": "Vox Solaris「手」 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Vox Solaris.",
+      "name": "Znak Vox Solaris: Adept",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com a Vox Solaris.",
+      "name": "Brasão: Mão da Vox Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了索拉里斯之聲的威望。",
+      "name": "索拉里斯之聲助手紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Vox Solaris",
+      "name": "เครื่องหมาย Vox Solaris: คนงาน",
+      "code": "th"
+    },
+    {
+      "description": "Vox Solaris prestijini sembolize eden bir mühür.",
+      "name": "Vox Solaris Yardımcı Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в «Гласі солярійців».",
+      "name": "Сиґіл «Глас солярійців: рука»",
+      "code": "uk"
+    }
+  ]
+}

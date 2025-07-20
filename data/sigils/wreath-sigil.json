@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014A",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wreath-sigil-2d4217bb70.png",
+  "name": "Wreath Sigil",
+  "description": "A sigil containing a festive design.",
+  "languages": [
+    {
+      "description": "Ein Siegel im festlichen Design.",
+      "name": "Siegel: Kranz",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau contenant un motif festif.",
+      "name": "Sceau de Couronne",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo dal design festivo.",
+      "name": "Sigillo Wreath",
+      "code": "it"
+    },
+    {
+      "description": "축제용 디자인이 새겨진 시질입니다.",
+      "name": "리스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que contiene un diseño festivo.",
+      "name": "Sello de la Guirnalda",
+      "code": "es"
+    },
+    {
+      "description": "一枚带有了节庆设计元素的纹章。",
+      "name": "花环纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с праздничным дизайном.",
+      "name": "Сигил: Витой",
+      "code": "ru"
+    },
+    {
+      "description": "お祝い用シジル。",
+      "name": "Wreath シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak o świątecznym charakterze.",
+      "name": "Znak Wieńca",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão com design comemorativo.",
+      "name": "Brasão: Grinalda",
+      "code": "pt"
+    },
+    {
+      "description": "一枚帶有冬幕設計元素的紋章。",
+      "name": "花環紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่มีการออกแบบตามเทศกาล",
+      "name": "เครื่องหมาย: Wreath",
+      "code": "th"
+    },
+    {
+      "description": "Festival dizaynlı bir mühür",
+      "name": "Wreath Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням на святковий мотив.",
+      "name": "Сиґіл «Вінок»",
+      "code": "uk"
+    }
+  ]
+}

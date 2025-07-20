@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-glyph---dark-f5d8ae0771.png",
+  "name": "Rhino Glyph - Dark",
+  "description": "A glyph depicting Rhino on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Rhino vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Rhino (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Rhino sur un fond sombre.",
+      "name": "Glyphe Rhino - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Rhino su uno sfondo scuro.",
+      "name": "Glifo Rhino - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 라이노를 묘사한 글리프입니다.",
+      "name": "라이노 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Rhino sobre un fondo oscuro.",
+      "name": "Glifo de Rhino - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Rhino 在黑暗背景下的浮印。",
+      "name": "Rhino 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Рино на тёмном фоне.",
+      "name": "Глиф: Рино — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Rhino のグリフ。",
+      "name": "Rhino グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Rhino na ciemnym tle.",
+      "name": "Glif Rhino — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Rhino em um fundo escuro.",
+      "name": "Glifo: Rhino (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Rhino 在黑暗背景下的浮印。",
+      "name": "Rhino 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Rhino บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Rhino - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Rhino koyu fonlu glif.",
+      "name": "Rhino Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Райно на темному тлі.",
+      "name": "Темний гліф «Райно»",
+      "code": "uk"
+    }
+  ]
+}

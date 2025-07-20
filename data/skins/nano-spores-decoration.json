@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemNanoSpore",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nano-spores-decoration-adb3379899.png",
+  "name": "Nano Spores Decoration",
+  "description": "A Nano Spore resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von Nanosporen.",
+      "name": "Dekoration: Nanosporen",
+      "code": "de"
+    },
+    {
+      "description": "Une Nano Spore à placer dans votre Orbiteur.",
+      "name": "Décoration Nano Spores",
+      "code": "fr"
+    },
+    {
+      "description": "Delle Nano Spore decorative da piazzare nell'Orbiter.",
+      "name": "Nano Spore - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 나노 스포어 드롭 아이템입니다.",
+      "name": "나노 스포어 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo de recursos de nanoespora para colocar en tu orbitador.",
+      "name": "Decoración de nanoesporas",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的纳米孢子拾取物。",
+      "name": "纳米孢子装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Наноспоры",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材のナノ胞子。",
+      "name": "ナノ胞子の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Nano Zarodniki, które możesz umieścić na swoim Orbiterze",
+      "name": "Ozdoba: Nano Zarodniki",
+      "code": "pl"
+    },
+    {
+      "description": "Um nodo de recursos de nano esporos para colocar em sua Orbital.",
+      "name": "Nano Esporos",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的奈米孢子拾取物。",
+      "name": "奈米孢子裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "นาโนสปอร์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: นาโนสปอร์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Nano Spor bileşeni dekorasyonu.",
+      "name": "Nano Spor Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цю невеличку частинку колонії наноспор на палубі орбітра.",
+      "name": "Оздоблення: наноспори",
+      "code": "uk"
+    }
+  ]
+}

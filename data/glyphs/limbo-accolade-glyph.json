@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboAccoladeGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-accolade-glyph-291c412c9a.png",
+  "name": "Limbo Accolade Glyph",
+  "description": "A glyph representing a feat of strength by community artist Kedemel.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+      "name": "Glyphe: Limbo Auszeichnung",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+      "name": "Glyphe Insigne de Limbo",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+      "name": "Glifo Riconoscimento Limbo",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+      "name": "림보 어콜레이드 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+      "name": "Glifo Reconocimiento de Limbo",
+      "code": "es"
+    },
+    {
+      "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+      "name": "Limbo 荣誉浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+      "name": "Глиф: Посвящение Лимбо",
+      "code": "ru"
+    },
+    {
+      "description": "偉業を表すグリフ。Kedemel作。",
+      "name": "Limbo Accolade グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+      "name": "Glif Odznaczenia Limbo",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+      "name": "Glifo: Insígnia do Limbo",
+      "code": "pt"
+    },
+    {
+      "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+      "name": "Limbo 讚譽浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+      "name": "ภาพสัญลักษณ์ Limbo Accolade",
+      "code": "th"
+    },
+    {
+      "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+      "name": "Limbo Nişanı Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+      "name": "Гліф «Схвалення Лімбо»",
+      "code": "uk"
+    }
+  ]
+}

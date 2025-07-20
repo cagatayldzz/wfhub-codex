@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagath-ganceann-glyph---bright-867bccdbd6.png",
+  "name": "Dagath Ganceann Glyph - Bright",
+  "description": "A glyph depicting Dagath Ganceann on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Dagath Ganceann vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Dagath Ganceann (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Dagath Ganceann sur un fond lumineux.",
+      "name": "Glyphe Dagath Ganceann - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dagath Ganceann su uno sfondo chiaro.",
+      "name": "Glifo Dagath Ganceann - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 다가스 간칸을 묘사한 글리프입니다.",
+      "name": "다가스 간칸 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dagath Ganceann sobre un fondo brillante.",
+      "name": "Glifo de Dagath Ganceann - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Dagath 无首在明亮背景下的浮印。",
+      "name": "Dagath 无首浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Дагас Ганцианн на светлом фоне.",
+      "name": "Глиф: Дагас Ганцианн - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたDagath Ganceannのグリフ。",
+      "name": "Dagath Ganceann グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Dagath Ganceann na jasnym tle.",
+      "name": "Glif Dagath Ganceann — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Dagath Ganceann em um fundo claro.",
+      "name": "Glifo: Dagath Ganceann (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dagath 首無在明亮背景下的浮印。",
+      "name": "Dagath 首無浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Dagath Ganceann บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Dagath Ganceann - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Dagath Ganceann'ı parlak bir fonda temsil eden bir glif.",
+      "name": "Dagath Ganceann Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Даґат в шоломі «Безголова» на світлому тлі.",
+      "name": "Яскравий гліф «Даґат „Безголова“»",
+      "code": "uk"
+    }
+  ]
+}

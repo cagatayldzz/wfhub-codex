@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HeavyAxe/GrnAxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scindo-manticore-skin-22987cf503.png",
+  "name": "Scindo Manticore Skin",
+  "description": "A Heavy Axe variation that grants additional damage but with a decrease in swing speed.",
+  "languages": [
+    {
+      "description": "Mit dieser Version der Axt fügt man zwar mehr Schaden zu, schwingt die Waffe jedoch etwas langsamer.",
+      "name": "Scindo-Skin: Manticore",
+      "code": "de"
+    },
+    {
+      "description": "Une variante de Hache Lourde offrant plus de Dégâts en contrepartie d'une vitesse de frappe réduite.",
+      "name": "Aspect Scindo Manticore",
+      "code": "fr"
+    },
+    {
+      "description": "Una variante dell'ascia pesante che causa danno aggiuntivo ma sferra fendenti più lenti.",
+      "name": "Skin Scindo Manticore",
+      "code": "it"
+    },
+    {
+      "description": "해당 스킨은 신도로 입히는 피해를 추가시키는 대신, 공격 속도를 감소시킵니다.",
+      "name": "신도 만티코어 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Una variación de hacha pesada que otorga daño adicional pero reduce la velocidad de ataque.",
+      "name": "Diseño Manticore de Scindo",
+      "code": "es"
+    },
+    {
+      "description": "一把降低挥动速度而提高每次挥动所造成之伤害的变种重型斧头。",
+      "name": "分裂斩斧 蝎尾狮外观",
+      "code": "zh"
+    },
+    {
+      "description": "Вариант тяжелого топора, наносящий дополнительный урон ценой уменьшения скорости удара.",
+      "name": "Скин Сциндо: Мантикора",
+      "code": "ru"
+    },
+    {
+      "description": "異形の重斧。攻撃速度を犠牲にする代わりに、攻撃力を強化する。",
+      "name": "Scindo Manticore スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Rodzaj ciężkiego topora zadającego większe obrażenia przy zmniejszonej prędkości zamachu.",
+      "name": "Scindo: Skórka Manticore",
+      "code": "pl"
+    },
+    {
+      "description": "Uma variação de Machado Pesado que garante dano adicional mas com uma velocidade menor de ataque.",
+      "name": "Scindo: Skin Manticore",
+      "code": "pt"
+    },
+    {
+      "description": "一種降低揮動速度，提高每次揮擊所造成之傷害的戰斧替換外觀。",
+      "name": "分裂斬斧 蠍尾獅外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ค้อนหนักที่สวมสกินนี้จะสร้างความเสียหายเพิ่มขึ้น แต่ความเร็วในการแกว่งจะลดลง",
+      "name": "สกิน Scindo Manticore",
+      "code": "th"
+    },
+    {
+      "description": "Azaltılmış savurma hızına rağmen daha fazla hasar verme avantajı olan ağır bir balta.",
+      "name": "Scindo Manticore Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Різновид важкої сокири зі збільшеною шкодою, але меншою швидкістю удару.",
+      "name": "Вигляд «Мантикора» для Скіндо",
+      "code": "uk"
+    }
+  ]
+}

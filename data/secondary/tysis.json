@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tysis-43b9b7c74a.png",
+  "name": "Tysis",
+  "description": "The Tysis pistol spits out caustic darts that corrode their victims from within.",
+  "languages": [
+    {
+      "description": "Die Tysis Pistole spuckt ätzende Darts, die ihre Opfer von innen heraus zersetzen.",
+      "name": "Tysis",
+      "code": "de"
+    },
+    {
+      "description": "Le Pistolet Tysis tire des fléchettes caustiques qui corrodent leurs victimes de l'intérieur.",
+      "name": "Tysis",
+      "code": "fr"
+    },
+    {
+      "description": "La pistola TYSIS espelle dei dardi caustici che corrodono la vittima dall'interno.",
+      "name": "Tysis",
+      "code": "it"
+    },
+    {
+      "description": "타이시스 권총은 부식성 투사체를 발사하여 그 희생양을 안쪽에서부터 녹여버립니다.",
+      "name": "타이시스",
+      "code": "ko"
+    },
+    {
+      "description": "La pistola Tysis expulsa dardos corrosivos que consumen a sus víctimas desde dentro.",
+      "name": "Tysis",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TYSIS）啐沫者手枪借由喷吐出具有腐蚀性的毒镖，将受害者由内而外地侵蚀殆尽。",
+      "name": "啐沫者",
+      "code": "zh"
+    },
+    {
+      "description": "Пистолет «Тайсис» стреляет дротиками с едким веществом, разъедающими цель изнутри.",
+      "name": "Тайсис",
+      "code": "ru"
+    },
+    {
+      "description": "腐食効果のある矢を打ち出し、内側から肉体を蝕ませることができる。",
+      "name": "Tysis",
+      "code": "ja"
+    },
+    {
+      "description": "Pistolet Tysis wypluwa żrące strzałki, które rozpuszczają trafionych wrogów od wewnątrz.",
+      "name": "Tysis",
+      "code": "pl"
+    },
+    {
+      "description": "A Pistola Tysis dispara dardos cáusticos que corroem suas vítimas por dentro.",
+      "name": "Tysis",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TYSIS）啐沫者手槍藉由噴吐出具有腐蝕性的箭，將受害者由內而外地侵蝕殆盡。",
+      "name": "啐沫者",
+      "code": "tc"
+    },
+    {
+      "description": "Tysis เป็นปืนยิงลูกดอกที่จะออกฤทธิ์กัดกร่อนเหยื่อจากภายใน",
+      "name": "Tysis",
+      "code": "th"
+    },
+    {
+      "description": "Tysis silahı delici iğneler fırlatarak hedeflerini vücutlarının içinden çökertir.",
+      "name": "Tysis",
+      "code": "tr"
+    },
+    {
+      "description": "Пістолет, що стріляє дротиками з їдкою речовиною, яка роз’їдає ворогів зсередини.",
+      "name": "Тайзис",
+      "code": "uk"
+    }
+  ]
+}

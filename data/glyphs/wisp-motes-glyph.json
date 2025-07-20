@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWispChibi",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-motes-glyph-6f965349a7.png",
+  "name": "Wisp Motes Glyph",
+  "description": "An adorable glyph depicting Wisp's Motes.",
+  "languages": [
+    {
+      "description": "Eine niedliche Glyphe, die Wisps Partikel darstellt.",
+      "name": "Glyphe: Wisp Partikel",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe adorable représentant les Perles de Wisp.",
+      "name": "Glyphe Perles Wisp",
+      "code": "fr"
+    },
+    {
+      "description": "Un adorabile glifo raffigurante le Mote di Wisp.",
+      "name": "Glifo Wisp Motes",
+      "code": "it"
+    },
+    {
+      "description": "위습의 귀여운 모트들을 묘사한 글리프입니다.",
+      "name": "위습 모트 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un adorable glifo que representa las Trizas de Wisp.",
+      "name": "Glifo de Trizas de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Wisp 尘埃的可爱浮印。",
+      "name": "Wisp 尘埃浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Милый глиф с изображением частиц Висп.",
+      "name": "Глиф: Висп Частицы",
+      "code": "ru"
+    },
+    {
+      "description": "Wispのモートを描いたかわいらしいグリフ。",
+      "name": "Wisp モート グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Uroczy glif przedstawiający Nektary Wisp.",
+      "name": "Glif Nektarów Wisp",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo adorável retratando os Brotos da Wisp.",
+      "name": "Glifo: Brotos da Wisp",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wisp 的塵埃的可愛浮印。",
+      "name": "Wisp 塵埃浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงธุลีของ Wisp",
+      "name": "ภาพสัญลักษณ์ Wisp Motes",
+      "code": "th"
+    },
+    {
+      "description": "Wisp Motes'u temsil eden özel bir glif.",
+      "name": "Wisp Motes Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Чарівний гліф із зображенням часточок Вісп.",
+      "name": "Гліф «Вісп „Порошинки“»",
+      "code": "uk"
+    }
+  ]
+}

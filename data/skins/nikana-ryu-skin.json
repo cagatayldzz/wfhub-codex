@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Katana/AshNikana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nikana-ryu-skin-0e1f33fc7f.png",
+  "name": "Nikana Ryu Skin",
+  "description": "Hardened in the crucible of conflict, this is Ash Koga's signature Nikana.",
+  "languages": [
+    {
+      "description": "Dies ist das Nikana von Ash Koga - gehärtet in den Feuern unzähliger Schlachten.",
+      "name": "Nikana-Skin: Ryu",
+      "code": "de"
+    },
+    {
+      "description": "Durci dans le creuset du conflit, il s'agit du Nikana fétiche d'Ash Koga.",
+      "name": "Aspect de Nikana Ryu",
+      "code": "fr"
+    },
+    {
+      "description": "Temprata nel crogiolo del conflitto, questa è la Nikana distintiva di Ash Koga.",
+      "name": "Skin Nikana Ryu",
+      "code": "it"
+    },
+    {
+      "description": "수많은 충돌의 도가니를 거치며 경화된, 코가 애쉬의 대표 니카나입니다.",
+      "name": "니카나 류 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Fortalecido en el crisol del conflicto, esta es el arma Nikana distintiva de Ash Koga.",
+      "name": "Diseño Ryu de Nikana",
+      "code": "es"
+    },
+    {
+      "description": "经由纷争的熔炉淬火，这是甲贺 Ash 的标志性侍刃。",
+      "name": "侍刃「龙」外观",
+      "code": "zh"
+    },
+    {
+      "description": "Закаленная в пылу сражений никана, особое оружие Эша «Ког».",
+      "name": "Скин никаны: Рю",
+      "code": "ru"
+    },
+    {
+      "description": "紛争の中鍛錬されたAsh Kogaの愛刀。",
+      "name": "Nikana Ryu スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Zahartowana w kolebkach bitew. Stała się charakterystyczną Nikaną Asha Koga.",
+      "name": "Nikana: Skórka Ryu",
+      "code": "pl"
+    },
+    {
+      "description": "Fortalecida no crisol de conflitos, esta é a nikana tradicional do Ash Koga.",
+      "name": "Nikana: Skin Ryu",
+      "code": "pt"
+    },
+    {
+      "description": "經由紛爭的熔爐淬火，這是甲賀 Ash 標誌性的侍刃。",
+      "name": "侍刃 龍外觀",
+      "code": "tc"
+    },
+    {
+      "description": "นี่คือสกินดาบ Nikana ที่เป็นเอกลักษณ์ของ Ash Koga ทนทานต่อทุกบททดสอบในศึกที่หนักหน่วง",
+      "name": "สกิน Nikana Ryu",
+      "code": "th"
+    },
+    {
+      "description": "Savaş meydanlarında dövülmüş bu silah Ash Koga'nın özel nikanasıdır.",
+      "name": "Nikana Ryu Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Ця загартована в жорстких сутичках нікана є особливою зброєю вигляду «Коґа» для Еша.",
+      "name": "Вигляд «Рю» для нікани",
+      "code": "uk"
+    }
+  ]
+}

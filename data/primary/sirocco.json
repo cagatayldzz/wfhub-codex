@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Operator/Pistols/DrifterPistol/DrifterPistolPlayerWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sirocco-5e978fb468.png",
+  "name": "Sirocco",
+  "description": "A silent, pistol-style Amp for the Drifter. Generates its own ammunition from Void energy. A precisely timed reload over-charges the next shot.",
+  "languages": [
+    {
+      "description": "Ein stiller, pistolenartiger Verstärker für den Drifter. Generiert seine eigene Munition aus Void-Energie. Ein exakt getimtes Nachladen, überlädt den nächsten Schuss.",
+      "name": "Sirocco",
+      "code": "de"
+    },
+    {
+      "description": "Un Amplificateur silencieux de style pistolet pour le Voyageur. Génère ses propres munitions à partir de l'Énergie du Néant. Recharger au bon moment augmente la puissance du prochain coup.",
+      "name": "Sirocco",
+      "code": "fr"
+    },
+    {
+      "description": "Una silenziosa pistola in stile Amp per il Drifter. Genera le proprie munizioni dall'energia Void. Una precisa ricarica a tempo sovraccarica il colpo successivo.",
+      "name": "Sirocco",
+      "code": "it"
+    },
+    {
+      "description": "무음 권총 스타일의 드리프터 전용 앰프입니다. 보이드 에너지를 통해 스스로 탄약을 생성해 내며, 정확한 타이밍에 재장전 시 다음 사격을 과충전시킬 수 있습니다.",
+      "name": "시로코",
+      "code": "ko"
+    },
+    {
+      "description": "Una amp silenciosa, tipo pistola, para el Viajero. Genera su propia munición a partir de la energía del Vacío. Una recarga sincronizada con precisión sobrecarga el siguiente disparo.",
+      "name": "Sirocco",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SIROCCO）一款为漂泊者设计的手枪式消音增幅器。从虚空能量中汲取弹药。在精准的时机进行装填会使下一次射击获得额外充能。",
+      "name": "赤风",
+      "code": "zh"
+    },
+    {
+      "description": "Бесшумный усилитель в стиле пистолета для Скитальца. Генерирует собственные боеприпасы из энергии Бездны. Точно рассчитанная перезарядка приводит к гиперзарядке следующего выстрела.",
+      "name": "Сирокко",
+      "code": "ru"
+    },
+    {
+      "description": "漂流者のサイレンサーピストル型のアンプ。Voidエネルギーから弾薬を生成する。タイミングよくリロードを行う事で次のショットをオーバーチャージする。",
+      "name": "Sirocco",
+      "code": "ja"
+    },
+    {
+      "description": "Wytłumiony pistoleto-amp Włóczęgi. Regeneruje amunicję z użyciem energii Pustki. Przeładowanie w odpowiednim momencie zwiększa moc następnego wystrzału.",
+      "name": "Sirocco",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Amp silenciosa, com o design de uma pistola para o Peregrino, que gera sua própria munição com a energia do Void. Uma recarga realizada no momento exato aumenta a sobrecarga do próximo disparo.",
+      "name": "Sirocco",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SIROCCO）漂泊者的手槍式消音增幅器。它可以從虛空能量中產生自己的彈藥。在準確的時間點裝填時會超載下次射擊。",
+      "name": "明庶",
+      "code": "tc"
+    },
+    {
+      "description": "Amp ไร้เสียงที่มีสไตล์เหมือนปืนพกเป็นอาวุธสำหรับดริฟเตอร์ซึ่งจะใช้พลังงานวอยด์ในการสร้างกระสุน การรีโหลดกระสุนตามเวลาที่กำหนดจะทำให้โอเวอร์ชาร์จกระสุนในนัดถัดไป",
+      "name": "Sirocco",
+      "code": "th"
+    },
+    {
+      "description": "Gezgin için sessiz tabanca tarzı bir Amp. Kendi mühimmatını Void enerjisi ile üretir. Doğru anda gerçekleştirilen bir mermi yenileme, bir sonraki merminin gücünü artırır.",
+      "name": "Sirocco",
+      "code": "tr"
+    },
+    {
+      "description": "Безшумний підсилювач у вигляді пістолета для мандрівника. Створює собі набої енергії Порожнечі. Ідеально точно розрахований час перезаряджання зумовлює надзаряджання наступного пострілу.",
+      "name": "Сирокко",
+      "code": "uk"
+    }
+  ]
+}

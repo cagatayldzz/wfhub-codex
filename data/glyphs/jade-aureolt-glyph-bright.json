@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageJadeAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-aureolt-glyph---bright-791e3ccdf3.png",
+  "name": "Jade Aureolt Glyph - Bright",
+  "description": "A glyph depicting Jade Aureolt on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Jade Aureolt vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Jade Aureolt (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Jade Aureolt sur un fond lumineux.",
+      "name": "Glyphe Jade Aureolt - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Jade Aureolt su uno sfondo chiaro.",
+      "name": "Glifo Jade Aureolt - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 제이드 오레올트를 묘사한 글리프입니다.",
+      "name": "제이드 오레올트 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Jade Aureolt sobre un fondo brillante.",
+      "name": "Glifo de Jade Aureolt - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Jade 圣环在明亮背景下的浮印。",
+      "name": "Jade 圣环浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Джейд Ауреолт на светлом фоне.",
+      "name": "Глиф: Джейд Ауреолт — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたJade Aureoltのグリフ。",
+      "name": "Jade Aureolt グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Jade Aureolt na jasnym tle.",
+      "name": "Glif Jade Aureolt — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Jade Aureolt em um fundo claro.",
+      "name": "Glifo: Jade Aureolt (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Jade 聖輝在明亮背景下的浮印。",
+      "name": "Jade 聖輝浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Jade Aureolt บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Jade Aureolt - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Jade Aureolt açık fonlu glif.",
+      "name": "Jade Aureolt Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Джейд в шоломі «Ореол» на світлому тлі.",
+      "name": "Яскравий гліф «Джейд „Ореол”»",
+      "code": "uk"
+    }
+  ]
+}

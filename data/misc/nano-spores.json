@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nano-spores-8933019524.png",
+  "name": "Nano Spores",
+  "description": "Fibrous technocyte tumour. Handle Infested tissue with caution.\n\nLocation: Saturn, Neptune, Eris, and Deimos",
+  "languages": [
+    {
+      "description": "Faseriger Technocyte-Tumor. Befallenes Gewebe ist mit Vorsicht zu behandeln.\n\nQuelle: Saturn, Neptun, Eris und Deimos.",
+      "name": "Nanosporen",
+      "code": "de"
+    },
+    {
+      "description": "Tumeur technocyte fibreuse. Manipulez les tissus Infestés avec prudence.\n\nLieu: Saturne, Neptune, Éris et Deimos",
+      "name": "Nano Spores",
+      "code": "fr"
+    },
+    {
+      "description": "Tumore fibroso technocyte. Maneggia il tessuto degli Infested con cautela.\n\nPosizione: Saturno, Nettuno, Eris e Deimos",
+      "name": "Nano Spore",
+      "code": "it"
+    },
+    {
+      "description": "섬유 형태의 T-세포 종양으로, 이러한 감염된 조직을 다룰 땐 주의를 요합니다.\n\n획득 가능 장소: 토성, 해왕성, 에리스 및 데이모스",
+      "name": "나노 스포어",
+      "code": "ko"
+    },
+    {
+      "description": "Tumor fibroso de tecnocita. Manejar el tejido infestado con precaución.\n\nUbicación: Saturno, Neptuno, Eris y Deimos",
+      "name": "Nanoesporas",
+      "code": "es"
+    },
+    {
+      "description": "纤维状的科技细胞肿瘤。请谨慎处理感染者组织。\n\n获取地点：土星，海王星，阋神星和火卫二",
+      "name": "纳米孢子",
+      "code": "zh"
+    },
+    {
+      "description": "Волокнистая техноцитовая опухоль. Обращайтесь с заражёнными тканями с осторожностью.\n\nМестонахождение: Сатурн, Нептун, Эрида и Деймос",
+      "name": "Наноспоры",
+      "code": "ru"
+    },
+    {
+      "description": "繊維状テクノサイトの塊。感染細胞の扱いには注意を要する。\n\n場所：土星、海王星、エリス、ダイモス。",
+      "name": "ナノ胞子",
+      "code": "ja"
+    },
+    {
+      "description": "Zwłókniałe guzy technocytowe. Zachowaj ostrożność podczas pracy z tkankami Plagi.\n\nPołożenie: Saturn, Neptun, Eris i Deimos",
+      "name": "Nano zarodniki",
+      "code": "pl"
+    },
+    {
+      "description": "Tumor tecnócito fibroso. Recomenda-se cautela ao manusear tecidos Infestados.\n\nLocalização: Saturno, Netuno, Eris e Deimos.",
+      "name": "Nano Esporos",
+      "code": "pt"
+    },
+    {
+      "description": "纖維狀的技改細胞腫瘤。請謹慎處理感染者組織。\n\n地點：土星、海王星、鬩神星和火衛二",
+      "name": "奈米胞子",
+      "code": "tc"
+    },
+    {
+      "description": "เนื้องอกเทคโนไซต์ที่เป็นเส้นใย จัดการกับเนื้อเยื่อที่ติดเชื้อด้วยความระมัดระวัง\n\nแหล่งที่พบ: ดาวเสาร์ ดาวเนปจูน ดาวอีรีส และดาวเดมอส",
+      "name": "นาโนสปอร์",
+      "code": "th"
+    },
+    {
+      "description": "Lifli teknosit tümörü. Bu Infested dokusunun yakınında dikkatli olunması önerilir.\n\nKonum: Satürn, Neptün, Eris ve Deimos",
+      "name": "Nano Hücreler",
+      "code": "tr"
+    },
+    {
+      "description": "Волокнисті техноцитні утворення. Поводитися з максимальною обережністю.\n\nМожна здобути на Сатурні, Нептуні, Ериді та Деймосі.",
+      "name": "Наноспори",
+      "code": "uk"
+    }
+  ]
+}

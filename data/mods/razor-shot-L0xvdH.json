@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponSlashDamageMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/razor-shot-31aa16e000.jpg",
+  "name": "Razor Shot",
+  "languages": [
+    {
+      "name": "Klingenschuss",
+      "code": "de"
+    },
+    {
+      "name": "Tir de Rasoir",
+      "code": "fr"
+    },
+    {
+      "name": "Razor Shot",
+      "code": "it"
+    },
+    {
+      "name": "레이저 샷",
+      "code": "ko"
+    },
+    {
+      "name": "Disparo rasurador",
+      "code": "es"
+    },
+    {
+      "name": "剃刀射击",
+      "code": "zh"
+    },
+    {
+      "name": "Выстрел лезвием",
+      "code": "ru"
+    },
+    {
+      "name": "Razor Shot",
+      "code": "ja"
+    },
+    {
+      "name": "Tnący Strzał",
+      "code": "pl"
+    },
+    {
+      "name": "Razor Shot",
+      "code": "pt"
+    },
+    {
+      "name": "剃刀射擊",
+      "code": "tc"
+    },
+    {
+      "name": "Razor Shot",
+      "code": "th"
+    },
+    {
+      "name": "Razor Shot",
+      "code": "tr"
+    },
+    {
+      "name": "Лезостріл",
+      "code": "uk"
+    }
+  ]
+}

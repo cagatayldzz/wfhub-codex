@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-pneuma-helmet-46cf3b0830.png",
+  "name": "Mag Pneuma Helmet",
+  "description": "Mag Pneuma's signature helmet.",
+  "languages": [
+    {
+      "description": "Mag Pneumas bevorzugter Helm.",
+      "name": "Mag-Helm: Pneuma",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Mag Pneuma.",
+      "name": "Casque Mag Pneuma",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Mag Pneuma.",
+      "name": "Elmo Mag Pneuma",
+      "code": "it"
+    },
+    {
+      "description": "매그 뉴마의 대표 헬멧입니다.",
+      "name": "매그 뉴마 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Mag Pneuma.",
+      "name": "Casco de Mag Pneuma",
+      "code": "es"
+    },
+    {
+      "description": "Mag 元气的标志性头盔",
+      "name": "Mag 元气头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Мэг «Пневма».",
+      "name": "Шлем Мэг: Пневма",
+      "code": "ru"
+    },
+    {
+      "description": "Mag Pneumaのメインヘルメット。",
+      "name": "Mag Pneuma ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Mag Pneuma.",
+      "name": "Mag: Hełm Pneuma",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Mag Pneuma.",
+      "name": "Mag: Capacete Pneuma",
+      "code": "pt"
+    },
+    {
+      "description": "Mag 元氣的標誌性頭盔。",
+      "name": "Mag 元氣頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Mag Pneuma",
+      "name": "หมวกเหล็ก Mag Pneuma",
+      "code": "th"
+    },
+    {
+      "description": "Mag Pneuma'nın özel miğferi.",
+      "name": "Mag Pneuma Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Пневма» для Меґ.",
+      "name": "Шолом «Пневма» для Меґ",
+      "code": "uk"
+    }
+  ]
+}

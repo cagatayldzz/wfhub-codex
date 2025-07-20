@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynHemlockDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-hemlock-glyph---dark-f8b9457bda.png",
+  "name": "Saryn Hemlock Glyph - Dark",
+  "description": "A glyph depicting Saryn Hemlock on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Saryn Hemlock vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Saryn Hemlock (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Saryn Hemlock sur un fond sombre.",
+      "name": "Glyphe Saryn Hemlock - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Saryn Hemlock su uno sfondo scuro.",
+      "name": "Glifo Saryn Hemlock - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 헴락 새린을 묘사한 글리프입니다.",
+      "name": "새린 헴락 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Hemlock Saryn sobre un fondo oscuro.",
+      "name": "Glifo de Saryn Hemlock - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Saryn 铁杉在黑暗背景下的浮印。",
+      "name": "Saryn 铁杉浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Сарины «Хемлок» на тёмном фоне.",
+      "name": "Глиф: Сарина «Хемлок» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Hemlock Saryn のグリフ。",
+      "name": "Saryn Hemlock グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Saryn 'Hemlock' na ciemnym tle.",
+      "name": "Glif Saryn Hemlock — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Saryn Hemlock em um fundo escuro.",
+      "name": "Glifo: Saryn Hemlock (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Saryn 鐵杉在黑暗背景下的浮印。",
+      "name": "Saryn 鐵杉浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Saryn Hemlock บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Saryn Hemlock - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Saryn Hemlock koyu fonlu glif.",
+      "name": "Saryn Hemlock Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зарини в шоломі «Болиголов» на темному тлі.",
+      "name": "Темний гліф «Зарина „Болиголов“»",
+      "code": "uk"
+    }
+  ]
+}

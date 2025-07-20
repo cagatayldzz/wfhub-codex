@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SelfShotgunAmmo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shotgun-ammo-box-6ef66247ea.png",
+  "name": "Shotgun Ammo Box",
+  "description": "Restores a bunch of shotgun ammo.",
+  "languages": [
+    {
+      "description": "Enthält einen kleinen Vorrat an Schrotflintenmunition.",
+      "name": "Munitionskiste: Schrotflinten",
+      "code": "de"
+    },
+    {
+      "description": "Restaure une bonne quantité de munitions de Fusil à Pompe.",
+      "name": "Boîte de Muni. de Fusil à Pompe",
+      "code": "fr"
+    },
+    {
+      "description": "Ripristina un buon numero di munizioni fucile a pompa.",
+      "name": "Cassa Munizioni Fucile a Pompa",
+      "code": "it"
+    },
+    {
+      "description": "소지하고 있는 산탄총의 모든 탄약을 채워줍니다.",
+      "name": "산탄총 탄약 상자",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura un montón de munición de escopeta.",
+      "name": "Caja de munición de escopeta",
+      "code": "es"
+    },
+    {
+      "description": "补充全部霰弹枪弹药。",
+      "name": "霰弹枪弹药箱",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает часть боеприпасов для дробовика.",
+      "name": "Коробка с зарядами дроби",
+      "code": "ru"
+    },
+    {
+      "description": "ショットガンの弾薬を補充する。",
+      "name": "ショットガン弾薬ボックス",
+      "code": "ja"
+    },
+    {
+      "description": "Przywraca część amunicji do strzelby.",
+      "name": "Amunicja strzelby",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura bastante munição de Escopeta",
+      "name": "Caixa de Munição: Escopeta",
+      "code": "pt"
+    },
+    {
+      "description": "補充全部霰彈槍彈藥。",
+      "name": "霰彈槍彈藥箱",
+      "code": "tc"
+    },
+    {
+      "description": "เติมกระสุนปืนลูกซองจำนวนหนึ่ง",
+      "name": "กล่องกระสุนปืนลูกซอง",
+      "code": "th"
+    },
+    {
+      "description": "Büyük miktarda Pompalı Tüfek cephanesi doldurur.",
+      "name": "Pompalı Tüfek Cephane Kutusu",
+      "code": "tr"
+    },
+    {
+      "description": "Відновлює певну кількість набоїв до рушниці.",
+      "name": "Набої до рушниці",
+      "code": "uk"
+    }
+  ]
+}

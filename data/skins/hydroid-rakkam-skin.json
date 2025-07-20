@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Hydroid/HydroidDeluxeSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-rakkam-skin-ad4df5e70b.png",
+  "name": "Hydroid Rakkam Skin",
+  "description": "Flowing finery that allows ease of movement in the heat of battle.\n\nAlso includes the Burangara Longcoat auxiliary attachment for Hydroid.",
+  "languages": [
+    {
+      "description": "Fließende Tracht, die auch in der Schlacht noch vollständige Beweglichkeit bietet.\n\nEnthält auch die Auxiliary-Verzierungen: Burangara Mantel für Hydroid.",
+      "name": "Hydroid-Skin: Rakkam",
+      "code": "de"
+    },
+    {
+      "description": "Parure fluide qui permet une liberté de mouvement totale dans le feu de l'action.\n\nComprend également l'accessoire auxiliaire Manteau Long Burangara pour Hydroid.",
+      "name": "Aspect Hydroid Rakkam",
+      "code": "fr"
+    },
+    {
+      "description": "Raffinata fluidità che consente libertà di movimento nel calore della battaglia.\n\nInclude anche il Cappotto Burangara come Ausiliario per Hydroid.",
+      "name": "Skin Hydroid Rakkam",
+      "code": "it"
+    },
+    {
+      "description": "전투의 열기 속에서 날렵한 움직임을 가능케 해주는 물 흐르는 듯한 모습의 의상입니다.\n\n하이드로이드를 위한 부란가라 롱코트 예비 부착물 또한 포함되어 있습니다.",
+      "name": "하이드로이드 라캄 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Galas sueltas que permiten un movimiento fácil en el fragor de la batalla.\n\nTambién incluye el accesorio auxiliar de abrigo Burangara para Hydroid.",
+      "name": "Diseño Rakkam de Hydroid",
+      "code": "es"
+    },
+    {
+      "description": "流动的装束让你在激烈战斗中的行动更自如。\n\n还包含 Hydroid 的踏浪长衣特殊配件。",
+      "name": "Hydroid 逐波外观",
+      "code": "zh"
+    },
+    {
+      "description": "Развевающееся украшение, которое обеспечивает полную свободу передвижения в пылу сражения.\n\nТакже включает в себя плащ Бурангара - аксессуар Гидроида.",
+      "name": "Скин Гидроида: Реккем",
+      "code": "ru"
+    },
+    {
+      "description": "戦場の中で移動性を活かした流れるようなデザインを誇る。\n\nボーナス：Hydroid専用のBurangara Longcoat特殊外装。",
+      "name": "Hydroid Rakkam スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Zwiewny strój, pozwalający na swobodę ruchów w ferworze walki.\n\nZawiera również Długi Płaszcz Burangara jako dodatek dla Hydroida.",
+      "name": "Hydroid: Skórka Rakkam",
+      "code": "pl"
+    },
+    {
+      "description": "Elegância fluida que facilita o movimento no calor da batalha.\n\nTambém inclui o acessório auxiliar, Sobretudo Burangara, para o Hydroid.",
+      "name": "Hydroid: Skin Rakkam",
+      "code": "pt"
+    },
+    {
+      "description": "流線型的華麗服飾可以在火熱的戰況下順暢流動。\n\n另含 Hydroid 的湧浪大衣特殊配件。",
+      "name": "Hydroid 浪砍外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ความประณีตที่ไหลลื่นช่วยให้เคลื่อนไหวได้อย่างสะดวกในการต่อสู้ที่ร้อนระอุ\n\nรวมถึงสิ่งที่แนบมาเสริมผ้าคลุมยาว Burangara สำหรับ Hydroid",
+      "name": "สกิน Hydroid Rakkam",
+      "code": "th"
+    },
+    {
+      "description": "Savaş sırasında hareket kolaylığı sağlayan akıcı bir kaplama.\n\nAyrıca Hydroid için Burangara Longcoat Auxiliary eklentisini de içerir.",
+      "name": "Hydroid Rakkam Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Зручне вбрання, що полегшує пересування у лихоманці бою.\n\nТакож містить плащ «Буранґара» для Гідроїда.",
+      "name": "Вигляд «Реккем» для Гідроїда",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Camo/DesertMarelokSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/marelok-desert-camo-skin-f39b3fd59c.png",
+  "name": "Marelok Desert-Camo Skin",
+  "description": "Desert camouflage skin for the Marelok.",
+  "languages": [
+    {
+      "description": "Wüsten-Tarnanstrich für die Marelok. ",
+      "name": "Marelok-Skin: Wüstentarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Désert pour le Marelok.",
+      "name": "Aspect Marelok Camouflage Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Desert-Camo per la Marelok.",
+      "name": "Skin Marelok Desert-Camo",
+      "code": "it"
+    },
+    {
+      "description": "메어락을 위한 사막용 위장 스킨입니다.",
+      "name": "메어락 데저트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje desértico para la Marelok.",
+      "name": "Diseño Camuflaje Desértico de Marelok",
+      "code": "es"
+    },
+    {
+      "description": "玛瑞火枪使用的沙漠伪装外观。",
+      "name": "玛瑞火枪 沙漠迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Пустынный камуфляж для Мэрлока.",
+      "name": "Скин Мэрлока: Пустынный Камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "Marelok用の砂漠風迷彩スキン。",
+      "name": "Marelok Desert-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka pustynnego kamuflażu stworzona dla Mareloka.",
+      "name": "Marelok: Skórka Kamuflaż Pustynny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem do deserto para a Marelok.",
+      "name": "Marelok: Skin Camuflagem Desértica",
+      "code": "pt"
+    },
+    {
+      "description": "瑪瑞火槍使用的沙漠偽裝外觀。",
+      "name": "瑪瑞火槍 沙漠迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางทะเลทรายสำหรับ Marelok",
+      "name": "สกิน Marelok Desert-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Marelok için çöl kamuflaj skin.",
+      "name": "Marelok Çöl-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Пустельно-тактичний вигляд для пістолета «Мерлок».",
+      "name": "Вигляд «Пустельний камуфляж» для Мерлока",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tromyzon-bait-bf80689de6.png",
+  "name": "Tromyzon Bait",
+  "description": "This bait is synthesized from long-chain LS-74 compounds that are known to attract Tromyzon, a Servofish found in Orb Vallis pond hotspots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Dieser Köder wird aus langkettigen LS-74-Verbindungen synthetisiert, die bekanntermaßen Tromyzonen anziehen, Servofische, die bei kühlem Wetter in den Teichen des Orbis-Tals vorkommen.\n\nZu erhalten von The Business in Fortuna (Venus).",
+      "name": "Köder: Tromyzon",
+      "code": "de"
+    },
+    {
+      "description": "Cet appât est synthétisé à partir de composé LS-74 à chaîne longue, connu pour attirer les Tromyzons. Ces Servopoissons peuvent être trouvés dans les points d'affluence des étangs de la Vallée Orbis par temps frais.\n\nObtenu via Le Bizness à Fortuna (Vénus).",
+      "name": "Appât à Tromyzon",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca è sintetizzata da LS-74 a catena lunga che attrae i Tromyzon, un Servofish che può essere trovato solo nei punti caldi degli stagni di Orb Vallis durante la stagione fredda.\n\nAcquistabile da The Business su Fortuna (Venere).",
+      "name": "Esca Tromyzon",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 오브 협곡의 서늘한 날씨에 연못의 핫스팟에서 발견되는 서보피쉬인 트로미존을 유인하는 것으로 알려진 기다란 LS-74 화합물 사슬로 합성되었습니다.\n\n포르투나 (금성) 의 비즈니스로부터 획득할 수 있습니다.",
+      "name": "트로미존 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta carnada es sintetizada de los compuestos de cadena larga LS-74 que se conoce que atraen tromyzon, un servopez encontrado en zonas activas de estanques de los Valles del Orbe durante el clima frío.\n\nObtenido de The Business en Fortuna (Venus).",
+      "name": "Carnada para Tromyzon",
+      "code": "es"
+    },
+    {
+      "description": "这种鱼饵由长链的 LS-74 化合物所合成，可以吸引多目鳗，一种可以在寒冷天气中池塘鱼点中找到的伺服鱼。\n\n从福尔图娜（金星）的 The Business 处获得。",
+      "name": "多目鳗鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта наживка синтезирована из длинноцепочечных соединений LS-74, известных тем, что они привлекают тромазона — серворыбу, обитающую в горячих точках прудов Долины Сфер во время холодной погоды.\n\nМестонахождение: у Бизнеса в Фортуне (Венера)",
+      "name": "Наживка на тромазона",
+      "code": "ru"
+    },
+    {
+      "description": "このベイトは、寒冷サイクル時にオーブ渓谷の池のホットスポットで見つかるサーボ魚であるトロミゾンを引き付けることが知られている長鎖 LS-74 化合物から合成された。\n\nフォーチュナー (金星) のThe Businessから入手可能。",
+      "name": "トロミゾン・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta przynęta jest stworzona ze składnika LS-74, które przyciągają Tromyzony, Serworyby występujące w stawach Orb Vallis podczas chłodnej pogody.\n\nMoże zostać zakupiona od Biznesa w Fortunie (Wenus).",
+      "name": "Przynęta Tromyzon",
+      "code": "pl"
+    },
+    {
+      "description": "Esta isca é sintetizada a partir de compostos LS-74, conhecidos por atrair o Tromyzon, um Peixe-Servo encontrado em locais de pesca de lagoas do Vallis das Orbes em dias de clima frio.\n\nLocalização: obtido com o Business em Fortuna, em Vênus.",
+      "name": "Isca de Tromyzon",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚餌由長鏈的 LS-74 化合物合成，能夠吸引多目鰻，一種在寒冷週期於奧布山谷池塘魚點裡找到的伺服魚。\n\n可以從福爾圖娜（金星）的 Business 取得。",
+      "name": "多目鰻魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อล่อชิ้นนี้สังเคราะห์จากสารประกอบ LS-74 สายยาวที่สามารถดึงดูด Tromyzon ซึ่งเป็นเซอร์โวฟิชที่พบได้ในจุดฮอตสปอตที่มีปลาชุกชุมในหนองน้ำออร์บวัลลิสในช่วงที่อากาศเย็น\n\nรับได้จาก The Business ฟอร์ทูนา (ดาวศุกร์)",
+      "name": "เหยื่อล่อ Tromyzon",
+      "code": "th"
+    },
+    {
+      "description": "Bu yem, soğuk hava koşullarında göletlerde bulunabilen bir Servobalık olan Tromyzon'ları çekmek için uzun LS-74 dizelerinden sentezlenmiştir.\n\nKaynak: Fortuna'da (Venüs) bulunan Business'ten temin edilebilir.",
+      "name": "Tromyzon Yemi",
+      "code": "tr"
+    },
+    {
+      "description": "Приманка синтезована з довголанцюгового ЛС-74, що приваблює тромизона — серворибу, яка трапляється в Долині Куль у певних місцях ставків під час холодної погоди.\n\nМожна придбати в Бізнеса у Фортуні (Венера).",
+      "name": "Приманка на тромизона",
+      "code": "uk"
+    }
+  ]
+}

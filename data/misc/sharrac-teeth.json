@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sharrac-teeth-00c5c5e9ae.png",
+  "name": "Sharrac Teeth",
+  "description": "These will often adorn ceremonial garb or as a reagent for synthetics.\n\nSource: Cut from Sharrac fish via Fisher Hai-Luk in Cetus (Earth). Catch Sharrac in the Plains of Eidolon ocean at any time of day using Twilight Bait. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Diese werden oft als Dekoration für zeremonielle Gewänder oder als Reagenz für synthetische Stoffe verwendet.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Sharracs geschnitten. Sharracs können zu jeder Tageszeit in den Ozeanen der Ebenen von Eidolon mit dem Köder: Zwielicht gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Sharrac: Zähne",
+      "code": "de"
+    },
+    {
+      "description": "Ornent souvent les tenues de cérémonie ou servent de réactifs pour les synthétiques.\n\nSource: découpés des Sharracs via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Sharrac dans l'océan des Plaines d'Eidolon à tout moment de la journée en utilisant l'Appât du Crépuscule. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Dents de Sharrac",
+      "code": "fr"
+    },
+    {
+      "description": "Questi spesso sono utilizzati come decorazioni per abiti cerimoniali o come reagenti per materiali sintetici.\n\nFonte: Ottenibili dal pesce Sharrac dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura un Sharrac nell'oceano delle Piane di Eidolon in qualsiasi momento della giornata usando l'Esca Crepuscolare. Vengono rilasciati anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Denti di Sharrac",
+      "code": "it"
+    },
+    {
+      "description": "예식용 의복의 장식이나 합성을 위한 재료로 주로 쓰입니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 샤라크 물고기를 해체하기. 아무 때나 아이돌론의 평원 바다에서 황혼 미끼를 사용하면 샤라크를 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "샤라크 이빨",
+      "code": "ko"
+    },
+    {
+      "description": "Estos suelen adornar atuendos ceremoniales o sirven como reactivo para sustancias sintéticas.\n\nFuente: Extraído del pez Sharrac con la Pescadora Hai-Luk en Cetus (Tierra). Captura al Sharrac en el océano de las Llanuras de Eidolon a cualquier hora del día usando carnada Crepúsculo. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Dientes de Sharrac",
+      "code": "es"
+    },
+    {
+      "description": "这些常常用来装点仪式装束，或者被用来做合成的反应物。\n\n获取途径：通过希图斯（地球）的渔人海露从鲨客鱼中切割获取。在任何时候的夜灵平野海洋中使用黄昏鱼饵捕捉鲨客。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "鲨客牙齿",
+      "code": "zh"
+    },
+    {
+      "description": "Эти материалы часто используются для украшения церемониальных одежд или в качестве реагента для синтетики.\n\nМестонахождение: Получается при разделке шаррака у Рыбачки Хай-Лук в Цетусе (Земля). Ловите шаррака в океанах на Равнинах Эйдолона в любое время суток, используя сумеречную наживку. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Зубы Шарраки",
+      "code": "ru"
+    },
+    {
+      "description": "礼拝用装飾品や試剤として使用可能。\n\n場所：エイドロンの草原で獲れるシャラックから切り取れる（シータスの釣り師Hai-Luk）。シャラックは昼夜のエイドロンの草原の海でトワイライト・ベイトを使って獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "シャラックの牙",
+      "code": "ja"
+    },
+    {
+      "description": "Często zdobi ceremonialne ubrania lub jest używany jako odczynnik dla syntetyków.\n\nMoże zostać zdobyty przez filetowanie Szaraka u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Szarak może zostać złowiona w oceanie Równin Eidolon o dowolnej porze dnia, po użyciu Przynęty Zmroku. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Szarrak: Ząb",
+      "code": "pl"
+    },
+    {
+      "description": "Estes geralmente adornam roupas cerimoniais ou atuam como um reagente para sintéticos.\n\nLocalização: obtido através do corte do peixe Sharrac com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Sharrac pode ser pescado nos oceanos das Planícies de Eidolon a qualquer hora do dia usando a Isca Crepuscular. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Dentes de Sharrac",
+      "code": "pt"
+    },
+    {
+      "description": "這些常常用來裝點儀式裝束，或者被用來做合成的反應物。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開鯊客取得。\n鯊客可在任何時候於夜靈平野的海洋裡使用黃昏魚餌捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "鯊客牙齒",
+      "code": "tc"
+    },
+    {
+      "description": "มักจะนำไปใช้ประดับเสื้อผ้าพิธีการหรือเป็นสารเคมีในการผลิตผ้าใยสังเคราะห์\n\nแหล่งที่พบ: ได้จากการแล่ปลา Sharrac ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งสามารถจับปลา Sharrac ในมหาสมุทรตามที่ราบ Eidolon ได้ตลอดทั้งวันโดยใช้เหยื่อทไวไลต์ นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "ฟัน Sharrac",
+      "code": "th"
+    },
+    {
+      "description": "Bunlar genellikle törensel kıyafetleri süsler veya sentetikler için bir reaktif olarak kullanılır.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Sharrac balığından kesilir. Sharrac'ı günün herhangi bir saatinde Alacakaranlık Yemi kullanarak Eidolon Ovalarındaki okyanusta yakalayın. Ayrıca Eidolon Ovaları'ndaki Thumper'lardan düşer.",
+      "name": "Sharrac Dişi",
+      "code": "tr"
+    },
+    {
+      "description": "Часто вживаються як прикраса для церемоніального одягу або як складник у виготовленні синтетичного волокна.\n\nМожна отримати з шаррака в рибалки Гай-Люк у Цетусі (Земля). Ловіть шаррака в океані Рівнин Ейдолонів як удень, так і вночі, використовуючи сутінкову приманку. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Зуби шаррака",
+      "code": "uk"
+    }
+  ]
+}

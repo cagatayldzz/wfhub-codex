@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/SWRThreeSkeironHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-skeiron-helmet-397334b1ce.png",
+  "name": "Zephyr Skeiron Helmet",
+  "description": "A helmet for the Zephyr Warframe, designed by novadragon01.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Zephyr Warframe, entworfen von novadragon01.",
+      "name": "Zephyr-Helm: Skeiron",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Zephyr, conçu par novadragon01.",
+      "name": "Casque Zephyr Skeiron",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Zephyr, ideato da novadragon01.",
+      "name": "Elmo Zephyr Skeiron",
+      "code": "it"
+    },
+    {
+      "description": "novadragon01에 의해 디자인된 제피르 워프레임을 위한 헬멧입니다.",
+      "name": "제피르 스케이론 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Zephyr, diseñado por novadragon01.",
+      "name": "Casco Skeiron de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 战甲的头盔，由 novadragon01 设计。",
+      "name": "Zephyr 西北风神头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Зефир, созданный novadragon01.",
+      "name": "Шлем Зефир: Скейрон",
+      "code": "ru"
+    },
+    {
+      "description": "Zephyr用のヘルメット。製作者：novadragon01。",
+      "name": "Zephyr Skeiron ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Zephyr zaprojektowany przez novadragon01.",
+      "name": "Zephyr: Hełm Skeiron",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Zephyr, desenvolvido por novadragon01.",
+      "name": "Zephyr: Capacete Skeiron",
+      "code": "pt"
+    },
+    {
+      "description": "Zephyr Warframe 的頭盔，由 novadragon01 所設計。",
+      "name": "Zephyr 西北風神頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Zephyr Warframe ออกแบบโดย novadragon01",
+      "name": "หมวกเหล็ก Zephyr Skeiron",
+      "code": "th"
+    },
+    {
+      "description": "novadragon01 tarafından oluşturulan Zephyr Warframe miğferi.",
+      "name": "Zephyr Skeiron Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Зефіри, створений novadragon01.",
+      "name": "Шолом «Скейрон» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

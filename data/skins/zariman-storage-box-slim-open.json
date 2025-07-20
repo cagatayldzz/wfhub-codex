@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateMediumCOpen",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-storage-box-(slim,-open)-29ae00d9b8.png",
+  "name": "Zariman Storage Box (Slim, Open)",
+  "description": "An open slim storage box.",
+  "languages": [
+    {
+      "description": "Eine offene, flache Lagerbox.",
+      "name": "Zariman Lagerbox (flach, offen)",
+      "code": "de"
+    },
+    {
+      "description": "Une petite boîte de rangement ouverte.",
+      "name": "Zariman: Boîte de rangement (petite, ouverte)",
+      "code": "fr"
+    },
+    {
+      "description": "Un piccolo contenitore aperto.",
+      "name": "Contenitore Zariman (Piccolo, Aperto)",
+      "code": "it"
+    },
+    {
+      "description": "개방된 얇은 수납 상자입니다.",
+      "name": "자리만 수납 상자 (얇은, 개방)",
+      "code": "ko"
+    },
+    {
+      "description": "Un estuche de almacenamiento pequeño y abierto.",
+      "name": "Estuche de almacenamiento Zariman (pequeño, abierto)",
+      "code": "es"
+    },
+    {
+      "description": "一个敞口的窄型储存盒。",
+      "name": "扎里曼敞口储存盒（窄）",
+      "code": "zh"
+    },
+    {
+      "description": "Открытый плоский ящик для хранения.",
+      "name": "Зариман: Ящик для хранения (плоский, открытый)",
+      "code": "ru"
+    },
+    {
+      "description": "開いているスリムな収納ボックス。",
+      "name": "Zariman 保管箱（細、開）",
+      "code": "ja"
+    },
+    {
+      "description": "Wąskie, otwarte pudło magazynowe.",
+      "name": "Zariman: Pudło magazynowe (wąskie, otwarte)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma caixa de armazenamento pequena e compacta.",
+      "name": "Caixa de Armazenamento da Zariman (Compacta - Aberta)",
+      "code": "pt"
+    },
+    {
+      "description": "窄型開啟的儲存盒。",
+      "name": "開啟的扎日曼儲存盒（窄）",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องเก็บของแบบเปิดและบาง",
+      "name": "Zariman: กล่องเก็บของ (บาง, เปิด)",
+      "code": "th"
+    },
+    {
+      "description": "Açık ince bir depolama kutusu.",
+      "name": "Zariman Depolama Kutusu (İnce, Açık)",
+      "code": "tr"
+    },
+    {
+      "description": "Пласка розкрита коробка для зберігання.",
+      "name": "Коробка із «Заримена» (пласка, розкрита)",
+      "code": "uk"
+    }
+  ]
+}

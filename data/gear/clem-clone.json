@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/ClemBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clem-clone-171af8dec5.png",
+  "name": "Clem Clone",
+  "description": "Deploys a clone of Clem to fight for you.",
+  "languages": [
+    {
+      "description": "Setzt einen Clem-Klon ein, der für dich kämpft.",
+      "name": "Clem-Klon",
+      "code": "de"
+    },
+    {
+      "description": "Déploie un clone de Clem qui combat pour vous.",
+      "name": "Clone de Clem",
+      "code": "fr"
+    },
+    {
+      "description": "Schiera un clone di Clem che combatte per te.",
+      "name": "Clone Clem",
+      "code": "it"
+    },
+    {
+      "description": "당신을 위해 싸워줄 클렘의 복제품을 소환합니다.",
+      "name": "클렘 클론",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega un clon de Clem para luchar junto a ti.",
+      "name": "Clon de Clem",
+      "code": "es"
+    },
+    {
+      "description": "部署一名 Clem 克隆人为你作战。",
+      "name": "克隆人 Clem",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт клон Клема, который сражается на вашей стороне.",
+      "name": "Клон Клема",
+      "code": "ru"
+    },
+    {
+      "description": "Clem クローンを味方として出撃させる。",
+      "name": "Clem クローン",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy klon Clema, który walczy po Twojej stronie.",
+      "name": "Klon Clema",
+      "code": "pl"
+    },
+    {
+      "description": "Posiciona um clone do Clem para lutar por você.",
+      "name": "Clone do Clem",
+      "code": "pt"
+    },
+    {
+      "description": "部署一名 Clem 複製人為你作戰。",
+      "name": "複製人 Clem",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ร่างโคลนของ Clem ให้ต่อสู้เพื่อคุณ",
+      "name": "โคลนของ Clem",
+      "code": "th"
+    },
+    {
+      "description": "Senin adına savaşması için bir Clem klonu yaratır",
+      "name": "Clem Klonu",
+      "code": "tr"
+    },
+    {
+      "description": "Розміщує на полі бою клона Клема, який допомагатиме вам.",
+      "name": "Клон Клема",
+      "code": "uk"
+    }
+  ]
+}

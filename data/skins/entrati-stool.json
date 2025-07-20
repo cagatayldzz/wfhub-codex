@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/ORKxLabStool",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-stool-318e99d6e3.png",
+  "name": "Entrati Stool",
+  "description": "A sophisticated stool. Perfect for lab work and deep concentration.",
+  "languages": [
+    {
+      "description": "Ein raffinierter Hocker. Perfekt für Laborarbeiten und tiefe Konzentration.",
+      "name": "Entrati Hocker",
+      "code": "de"
+    },
+    {
+      "description": "Un tabouret sophistiqué. Parfait pour le travail en laboratoire et la concentration profonde.",
+      "name": "Tabouret Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sgabello sofisticato. Perfetto per il lavoro di laboratorio e per una concentrazione profonda.",
+      "name": "Sgabello Entrati",
+      "code": "it"
+    },
+    {
+      "description": "세련된 스툴 의자입니다. 연구 작업을 할 때나, 깊은 집중이 필요할 때 딱 알맞습니다.",
+      "name": "엔트라티 스툴 의자",
+      "code": "ko"
+    },
+    {
+      "description": "Un taburete sofisticado. Perfecto para el trabajo de laboratorio y la concentración profunda.",
+      "name": "Taburete Entrati",
+      "code": "es"
+    },
+    {
+      "description": "一把精致的凳子。非常适合实验室工作和深度专注。",
+      "name": "英择谛凳子",
+      "code": "zh"
+    },
+    {
+      "description": "Изысканный табурет. Идеально подходит как для лабораторной работы, так и для глубокой концентрации.",
+      "name": "Энтрати: Табурет",
+      "code": "ru"
+    },
+    {
+      "description": "洗練されたスツール。研究室での作業や深く集中するのに最適。",
+      "name": "エントラティ スツール",
+      "code": "ja"
+    },
+    {
+      "description": "Wyszukany stołek. Idealny do pracy laboratoryjnej i głębokiej koncentracji.",
+      "name": "Entrati: Stołek",
+      "code": "pl"
+    },
+    {
+      "description": "Uma banqueta sofisticada, perfeita para trabalhar em laboratórios e se concentrar profundamente.",
+      "name": "Banqueta Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "精緻的櫈子，在實驗室工作和高度專注時非常適合。",
+      "name": "源拓氏櫈子",
+      "code": "tc"
+    },
+    {
+      "description": "เก้าอี้สตูลที่มีสไตล์ เหมาะสำหรับนั่งทำงานทดลองและนั่งสมาธิ",
+      "name": "เก้าอี้สตูล Entrati",
+      "code": "th"
+    },
+    {
+      "description": "Sofistike bir tabure. Laboratuvar çalışmaları ve derin konsantrasyon için mükemmeldir.",
+      "name": "Entrati Tabure",
+      "code": "tr"
+    },
+    {
+      "description": "Витончений табурет. Ідеально пасує лабораторній роботі та суцільному зосередженню.",
+      "name": "Табурет Ентраті",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Tengu/Tengu",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-02db9643ed.png",
+  "name": "Zephyr",
+  "description": "Command the power of the wind. Zephyr’s cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.",
+  "armor": 105,
+  "aura": "vazarin",
+  "languages": [
+    {
+      "description": "Beherrsche die Macht des Windes. Zephyrs Zyklon-Fähigkeiten schützen sie, verursachen hohen Schaden und gewähren Gruppenkontrolle. Sie stürzt von oben herab und hinterlässt eine Spur der Zerstörung.",
+      "name": "Zephyr",
+      "code": "de"
+    },
+    {
+      "description": "Contrôlez la puissance du vent. Les Pouvoirs cycloniques de Zephyr la protègent, infligent des Dégâts importants et permettent de contrôler les foules. Elle attaque en piqué et ne laisse que la destruction derrière elle.",
+      "name": "Zephyr",
+      "code": "fr"
+    },
+    {
+      "description": "Comanda la forza del vento. Le abilità cicloniche di Zephyr la proteggono, infliggono danni elevati ed esercitano controllo di massa. Attacca dall'alto e lascia una scia di distruzione.",
+      "name": "Zephyr",
+      "code": "it"
+    },
+    {
+      "description": "바람의 힘을 마음껏 다뤄보세요. 제피르의 폭풍 같은 어빌리티들은 그녀를 지키는 동시에 높은 피해를 가하고, 군중 제어 효과까지 제공해 줍니다. 하늘에서 급강하해 내려온 제피르는 지나는 길에 파괴만을 남깁니다.",
+      "name": "제피르",
+      "code": "ko"
+    },
+    {
+      "description": "Comanda el poder de los vientos. Las habilidades ciclónicas de Zephyr la protegen, infligen gran daño, y brindan control de multitudes. Se abalanza desde arriba dejando un camino de destrucción.",
+      "name": "Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "掌控风之力量。Zephyr 的旋风技能可以保护她、造成高伤害并提供群体控制。她从上方俯冲而下，留下一条毁灭之路。",
+      "name": "Zephyr",
+      "code": "zh"
+    },
+    {
+      "description": "Управляйте силой ветра. Циклонические способности Зефир защищают её, наносят большой урон и обеспечивают контроль над толпой. Она налетает сверху и оставляет за собой разрушения.",
+      "name": "Зефир",
+      "code": "ru"
+    },
+    {
+      "description": "Zephyrは暴風の力を自在に操る。戦場で羽ばたく彼女は嵐を呼び自身を守り、高ダメージと制圧力を持つ。",
+      "name": "Zephyr",
+      "code": "ja"
+    },
+    {
+      "description": "Zawładnij wiatrem. Umiejętności Zephyr zwiększają jej mobilność, chronią przed atakami z dystansu i pozwalają jej siać zamęt w szeregach wrogów.",
+      "name": "Zephyr",
+      "code": "pl"
+    },
+    {
+      "description": "Comande o poder do vento. As habilidades ciclônicas da Zephyr a protegem, causam alto dano e fornecem controle de grupo. Ela ataca dos céus, deixando um rastro de destruição.",
+      "name": "Zephyr",
+      "code": "pt"
+    },
+    {
+      "description": "掌握風的力量。Zephyr 的旋風式技能可以保護她、造成高傷害，以及提供群控。她從高處俯衝而下並留下一條毀滅的痕跡。",
+      "name": "Zephyr",
+      "code": "tc"
+    },
+    {
+      "description": "Zephyr มีความสามารถในการควบคุมพลังแห่งสายลม สร้างพายุหมุนไซโคลนไว้คอยปกป้อง สร้างความเสียหายได้สูง และสามารถใช้ CC คอยควบคุมศัตรู บินถลาลงมาจากเบื้องบนและทิ้งหายนะที่ทุกข์ทนไปตามเส้นทางที่พัดผ่าน",
+      "name": "Zephyr",
+      "code": "th"
+    },
+    {
+      "description": "Rüzgarın gücüne hükmet. Zephyr'in rüzgar bazlı yetenekleri onu korur, yüksek hasar verir ve kitle kontrolü sağlar. Göklerden saldırır ve ardında yıkımdan oluşan bir yol bırakır.",
+      "name": "Zephyr",
+      "code": "tr"
+    },
+    {
+      "description": "Опановувачка сили вітрів. Здібності Зефіри захищають її, завдають великої шкоди ворогам та допомагають керувати натовпом. Вона налітає й залишає по собі руйнівний слід.",
+      "name": "Зефіра",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-bramma-71777b6b0f.png",
+  "name": "Kuva Bramma",
+  "description": "This Grineer bow delivers vengeance in the form of clusterbomb-tipped arrows that can be detonated mid-air or on impact. Low quiver capacity, arrows are recovered singly.",
+  "languages": [
+    {
+      "description": "Dieser Grineer Bogen übt Rache in Form von Streubomben-Pfeilen, die in der Luft oder beim Aufprall gezündet werden können. Niedrige Köcher-Kapazität, Pfeile werden einzeln geborgen.",
+      "name": "Kuva Bramma",
+      "code": "de"
+    },
+    {
+      "description": "Cet Arc Grineer est la vengeance incarnée sous la forme de flèches à pointe explosive pouvant détoner en l'air ou à l'impact. Faible capacité de carquois, mais les flèches sont récupérées une par une.",
+      "name": "Bramma Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Questo arco Grineer offre vendetta sotto forma di frecce con punte esplosive che possono esplodere a mezz'aria o all'impatto. Con la faretra dalla capacità ridotta, le frecce vengono recuperate singolarmente.",
+      "name": "Kuva Bramma",
+      "code": "it"
+    },
+    {
+      "description": "이 그리니어 활은 집속탄을 장착한 화살을 발사해 공중에서 또는 명중 시 폭발시켜 적들을 징벌할 수 있습니다. 낮은 화살 수용량을 가졌으며, 탄약 회복 아이템 하나 당 화살 한 개를 회수합니다.",
+      "name": "쿠바 브람마",
+      "code": "ko"
+    },
+    {
+      "description": "Este arco grineer ofrece venganza en forma de flechas de bombas de racimo que pueden ser detonadas en medio del aire o con un impacto. Poca capacidad de aljaba, las flechas se recuperan una por una.",
+      "name": "Bramma Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA BRAMMA）这把 Grineer 弓箭能射出尖端配有集束炸弹的复仇箭矢，可以在空中或遇到冲击时引爆。低箭袋容量，箭矢逐个恢复。",
+      "name": "赤毒·布拉玛",
+      "code": "zh"
+    },
+    {
+      "description": "Этот лук Гринир несёт мщение на кончиках стрел, которые являются кассетными бомбами, способными взрываться в воздухе или при ударе. Малая вместимость колчана, стрелы можно возобновить индивидуально.",
+      "name": "Брамма Кува",
+      "code": "ru"
+    },
+    {
+      "description": "このグリニア産の弓矢は矢先にクラスター爆弾を搭載しており、空中あるいは衝撃時に起爆が可能。矢筒の能力は低く、矢は単独で回復される。",
+      "name": "Kuva Bramma",
+      "code": "ja"
+    },
+    {
+      "description": "Ten łuk Grineer przynosi zemstę w postaci strzał zakończonych bombami kasetowymi, które mogą być detonowane w trakcie lotu lub po uderzeniu. Niska pojemność kołczanu, strzały są odzyskiwane pojedynczo.",
+      "name": "Bramma Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Este arco Grineer fornece vingança no formato de flechas com pontas explosivas, nas quais podem ser detonadas durante o percurso no ar ou durante o impacto. Possui baixa capacidade de aljava e as flechas retornam individualmente.",
+      "name": "Bramma Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA BRAMMA）這把 Grineer 之弓的箭矢前端裝有能在空中或受到衝擊時引爆的集束炸彈，藉此發動報復行動。低箭袋容量，箭矢會逐支恢復。",
+      "name": "赤毒 布拉瑪",
+      "code": "tc"
+    },
+    {
+      "description": "ธนู Grineer คันนี้จะส่งพลังล้างแค้นที่รุนแรงออกไปในรูปแบบของลูกธนูที่ตรงปลายติดคลัสเตอร์บอมบ์ซึ่งสามารถจุดชนวนได้ทั้งเมื่อลอยอยู่กลางอากาศหรือเมื่อโดนกระทบ แต่ที่เก็บลูกธนูมีความจุน้อย และสามารถเก็บกู้ลูกธนูได้แค่ทีละดอก",
+      "name": "Kuva Bramma",
+      "code": "th"
+    },
+    {
+      "description": "Bu Grineer yayı, havada veya çarptıktan sonra patlatılabilen parça tesirli uçlu oklar ile intikam alır. Düşük ok kapasitesi nedeniyle oklar tek tek yenilenir.",
+      "name": "Kuva Bramma",
+      "code": "tr"
+    },
+    {
+      "description": "Цей ґрінерський лук — ідеальна зброя для помсти: на його стріли замість наконечників причеплені касетні бомби, які вибухають під час зіткнення або в повітрі за командою. Стріл у сагайдаку мало, і підбирати їх доведеться по одній.",
+      "name": "Брама-кува",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clan-emblem-89545158f8.png",
+  "name": "Clan Emblem",
+  "description": "An insignia that projects a holographic image of the clan emblem. Requires your clan's Warlord to upload an image of the clan emblem.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das ein holographisches Bild deines Clan-Emblems projiziert. Der Kriegsherr des Clans muss zunächst ein Bild des Clan-Emblems hochladen.",
+      "name": "Emblem: Clan",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne qui projette une image holographique de votre emblème de Clan. Requiert que le Seigneur de Guerre de votre Clan ait téléchargé une image de l'emblème de Clan.",
+      "name": "Emblème de Clan",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma che proietta un'immagine olografica dell'emblema del tuo clan. È necessario che un Warlord del clan carichi un'immagine dell'emblema.",
+      "name": "Emblema Clan",
+      "code": "it"
+    },
+    {
+      "description": "클랜의 엠블럼을 투사하는 홀로그래픽 장치입니다. 클랜의 원수가 클랜 엠블럼의 이미지를 업로드 해야만 사용할 수 있습니다.",
+      "name": "클랜 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia que proyecta una imagen holográfica del emblema de tu clan. Esto requiere que el señor de la guerra suba la imagen del emblema del clan.",
+      "name": "Emblema de clan",
+      "code": "es"
+    },
+    {
+      "description": "一个投射氏族象征的全息图像徽记。需要你氏族的军阀上传图像作为氏族徽章。",
+      "name": "氏族徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, что проецирует голографическое изображение вашего клана. Военачальник клана должен предварительно загрузить изображение значка клана.",
+      "name": "Значок клана",
+      "code": "ru"
+    },
+    {
+      "description": "クランエンブレムのホログラム画像を投射する。クランのWarlordが、クランエンブレムとして画像をアップロードする必要があります。",
+      "name": "クランエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Hologram przedstawiający klanowe insygnia. Wymaga, by Wódz wgrał obraz klanowego emblematu.",
+      "name": "Emblemat: Klan",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia que projeta uma imagem holográfica do emblema de seu Clã. Requer o Senhor da Guerra do Clã subir a imagem com o emblema do Clã.",
+      "name": "Emblema: Clã",
+      "code": "pt"
+    },
+    {
+      "description": "一個投射氏族象徵的全息圖像徽記。需要你氏族的軍閥上傳圖像做為氏族徽章。",
+      "name": "氏族徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงภาพโฮโลแกรมของตราสัญลักษณ์แคลน จำเป็นต้องให้ขุนศึกในแคลนของคุณอัปโหลดภาพของตราสัญลักษณ์แคลน",
+      "name": "ตราสัญลักษณ์: แคลน",
+      "code": "th"
+    },
+    {
+      "description": "Klan ambleminin holografik görünüşünü yansıtan bir sembol. Klanınızın Savaş Lordunun bir klan amblemi yüklemesi gerekiyor.",
+      "name": "Klan Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Голограма кланового герба. Щоб використовувати, спочатку воєвода клану має вивантажити зображення герба клану.",
+      "name": "Герб клану",
+      "code": "uk"
+    }
+  ]
+}

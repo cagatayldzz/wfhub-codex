@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/AnimationSets/MaduraiAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/madurai-animation-set-05ff69a6aa.png",
+  "name": "Madurai Animation Set",
+  "description": "The Madurai animation set for your Operator.",
+  "languages": [
+    {
+      "description": "Das Animationsset: Madurai für deinen Operator.",
+      "name": "Animationsset: Madurai",
+      "code": "de"
+    },
+    {
+      "description": "Le Pack d'Animations Madurai pour votre Opérateur.",
+      "name": "Animation Madurai",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Madurai per il tuo Operatore.",
+      "name": "Set Animazione Madurai",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터가 사용할 마두라이 애니메이션 세트입니다.",
+      "name": "마두라이 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones Madurai para tu operador.",
+      "name": "Conjunto de animaciones Madurai",
+      "code": "es"
+    },
+    {
+      "description": "指挥官使用的 Madurai 站姿动作。",
+      "name": "Madurai 站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Набор анимаций Мадурай для оператора.",
+      "name": "Набор анимаций: Мадурай",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター用のMaduraiモーションセット。",
+      "name": "Madurai モーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw animacji Madurai dla Twojego Operatora.",
+      "name": "Zestaw Animacji Madurai",
+      "code": "pl"
+    },
+    {
+      "description": "Conjunto de animações da Madurai para o seu Operador.",
+      "name": "Animações: Madurai",
+      "code": "pt"
+    },
+    {
+      "description": "給指揮官使用的 Madurai 站姿",
+      "name": "Madurai 站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชันของ Madurai สำหรับโอเปอเรเตอร์ของคุณ",
+      "name": "เซตแอนิเมชัน Madurai",
+      "code": "th"
+    },
+    {
+      "description": "Operatörünüz için Madurai Animasyon Seti.",
+      "name": "Madurai Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір анімації шляху Мадурай для вашого оператора",
+      "name": "Набір анімації «Мадурай»",
+      "code": "uk"
+    }
+  ]
+}

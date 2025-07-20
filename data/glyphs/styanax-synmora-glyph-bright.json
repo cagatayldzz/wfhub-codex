@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageStyanaxAltBBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-synmora-glyph---bright-f30276ebde.png",
+  "name": "Styanax Synmora Glyph - Bright",
+  "description": "A glyph depicting Styanax Synmora on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Styanax Synmora vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Styanax Synmora (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Styanax Synmora sur un fond lumineux.",
+      "name": "Glyphe Styanax Synmora - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Styanax Synmora su uno sfondo chiaro.",
+      "name": "Glifo Styanax Synmora - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 스티아낙스 신모라를 묘사한 글리프입니다.",
+      "name": "스티아낙스 신모라 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Styanax Synmora sobre un fondo brillante.",
+      "name": "Glifo de Styanax Synmora - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Styanax 步兵团在明亮背景下的浮印。",
+      "name": "Styanax 步兵团浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Стинакса «Синмора» на светлом фоне.",
+      "name": "Глиф: Стинакс Синмора — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Styanax Synmora のグリフ。",
+      "name": "Styanax Synmora グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Styanax Synmora na jasnym tle.",
+      "name": "Glif Styanax Synmora — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Styanax Synmora em um fundo claro.",
+      "name": "Glifo: Styanax Synmora (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Styanax 辛莫拉在明亮背景下的浮印。",
+      "name": "Styanax 辛莫拉浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Styanax Synmora บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Styanax Synmora - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Styanax Synmora açık fonlu glif.",
+      "name": "Styanax Synmora Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Стейнекса в шоломі «Синмора» на світлому тлі.",
+      "name": "Яскравий гліф «Стейнекс „Синмора“»",
+      "code": "uk"
+    }
+  ]
+}

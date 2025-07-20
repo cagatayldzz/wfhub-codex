@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/ConcreteFrame/ConcreteFrameHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/qorvex-helmet-565926472f.png",
+  "name": "Qorvex Helmet",
+  "description": "The standard issue helmet for the Qorvex Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Qorvex Warframe.",
+      "name": "Qorvex-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Qorvex.",
+      "name": "Casque Qorvex",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Qorvex.",
+      "name": "Qorvex - Elmo",
+      "code": "it"
+    },
+    {
+      "description": "코르벡스 워프레임을 위한 기본 헬멧입니다.",
+      "name": "코르벡스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Qorvex.",
+      "name": "Casco de Qorvex",
+      "code": "es"
+    },
+    {
+      "description": "Qorvex 的标准头盔。",
+      "name": "Qorvex 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Корвекса.",
+      "name": "Шлем Корвекса",
+      "code": "ru"
+    },
+    {
+      "description": "Qorvexの標準型ヘルメット。",
+      "name": "Qorvex ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Qorvex.",
+      "name": "Qorvex: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão do Warframe Qorvex.",
+      "name": "Qorvex: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Qorvex 的標準頭盔。",
+      "name": "Qorvex 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Qorvex Warframe",
+      "name": "หมวกเหล็ก Qorvex",
+      "code": "th"
+    },
+    {
+      "description": "Qorvex Warframe için standart miğfer.",
+      "name": "Qorvex Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Корвекса.",
+      "name": "Шолом Корвекса",
+      "code": "uk"
+    }
+  ]
+}

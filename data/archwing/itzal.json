@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/itzal-a120d975d8.png",
+  "name": "Itzal",
+  "description": "Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.",
+  "armor": 50,
+  "languages": [
+    {
+      "description": "Der Itzal Archwing wurde für schnelle, lautlose Attacken konzipiert und schlägt aus der Dunkelheit des Alls zu.",
+      "name": "<ARCHWING> Itzal",
+      "code": "de"
+    },
+    {
+      "description": "Conçue pour de rapides attaques surprises, l'Archwing Itzal excelle dans le combat spatial en frappant depuis les zones obscures.",
+      "name": "<ARCHWING> Itzal",
+      "code": "fr"
+    },
+    {
+      "description": "Ideata per rapidi attacchi furtivi, l'Archwing Itzal eccelle nel colpire i nemici nell'oscurità dello spazio.",
+      "name": "<ARCHWING> Itzal",
+      "code": "it"
+    },
+    {
+      "description": "재빠른 은신 공격을 위하여 설계된 잇잘 아크윙은 우주의 어둠에 스며들어 기습할 때에 가장 뛰어난 성능을 보입니다.",
+      "name": "<ARCHWING> 잇잘",
+      "code": "ko"
+    },
+    {
+      "description": "Diseñadas para realizar rápidos ataques furtivos, el archwing Itzal destaca golpeando desde la oscuridad del espacio.",
+      "name": "<ARCHWING> Itzal",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ITZAL）专为隐匿行动而打造，这架曲翼擅长在太空的黑暗中进行突袭作战。",
+      "name": "<ARCHWING> 刺影",
+      "code": "zh"
+    },
+    {
+      "description": "Разработанный для скрытых атак, Итзал предназначен для нападений из тьмы космоса.",
+      "name": "<ARCHWING> Итзал",
+      "code": "ru"
+    },
+    {
+      "description": "素早い隠密攻撃のために開発されたこのアークウイングで、宇宙の暗闇からいきなり急襲をかけることができる。",
+      "name": "<ARCHWING> Itzal",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprojektowany do skrytych, precyzyjnych uderzeń, Archwing Itzal jest doskonały do nagłych, niespodziewanych ataków.",
+      "name": "<ARCHWING> Itzal",
+      "code": "pl"
+    },
+    {
+      "description": "Projetada para furtividade e capacidade de manobrar, esta Archwing excede em seus golpes vindos da escuridão do espaço.",
+      "name": "<ARCHWING> Itzal",
+      "code": "pt"
+    },
+    {
+      "description": "專為隱匿行動而打造，這架 Archwing 擅長在太空的黑暗中進行突襲作戰。",
+      "name": "<ARCHWING> Itzal",
+      "code": "tc"
+    },
+    {
+      "description": "Itzal Archwing ออกแบบมาเพื่อการลอบโจมตีอย่างรวดเร็ว โดดเด่นในการโจมตีจากด้านมืดของอวกาศ",
+      "name": "<archwing> Itzal",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı ve gizli saldırılar için dizayn edilen Itzal Archwingler uzayın karanlık noktalarından saldırmayı sevenler için.",
+      "name": "<ARCHWING> Itzal",
+      "code": "tr"
+    },
+    {
+      "description": "Арквінґ «Ітцаль» розроблений для швидких потаємних нападів. Ідеально підходить для раптових атак із темряви космосу.",
+      "name": "<ARCHWING> Ітцаль",
+      "code": "uk"
+    }
+  ]
+}

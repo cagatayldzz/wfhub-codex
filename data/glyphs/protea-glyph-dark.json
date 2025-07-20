@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageProteaDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/protea-glyph---dark-48c7774109.png",
+  "name": "Protea Glyph - Dark",
+  "description": "A glyph depicting Protea on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Protea vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Protea (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Protea sur un fond sombre.",
+      "name": "Glyphe Protea - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Protea su uno sfondo scuro.",
+      "name": "Glifo Protea - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 프로티아를 묘사한 글리프입니다.",
+      "name": "프로티아 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Protea sobre un fondo oscuro.",
+      "name": "Glifo de Protea - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Protea 在黑暗背景下的浮印。",
+      "name": "Protea 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Протеи на тёмном фоне.",
+      "name": "Глиф: Протея - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Protea のグリフ。",
+      "name": "Protea グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Protea na ciemnym tle.",
+      "name": "Glif Protea — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Protea em um fundo escuro.",
+      "name": "Glifo: Protea (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Protea 在黑暗背景下的浮印。",
+      "name": "Protea 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Protea บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Protea - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Protea koyu fonlu glif.",
+      "name": "Protea Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Протеї на темному тлі.",
+      "name": "Темний гліф «Протея»",
+      "code": "uk"
+    }
+  ]
+}

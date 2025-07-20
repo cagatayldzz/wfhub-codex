@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ThanoMechStatue",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necramech-statue-ec6372d314.png",
+  "name": "Necramech Statue",
+  "description": "Adorn your Orbiter with this decoration representing a Necramech.",
+  "languages": [
+    {
+      "description": "Schmücke deinen Orbiter mit dieser Dekoration, die einen Necramech darstellt.",
+      "name": "Statue: Necramech",
+      "code": "de"
+    },
+    {
+      "description": "Décorez votre Orbiteur avec cet objet représentant un Necramech.",
+      "name": "Statue de Necramech",
+      "code": "fr"
+    },
+    {
+      "description": "Decora il tuo Orbiter con questa decorazione rappresentante un Necramech.",
+      "name": "Statuetta - Necramech",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크의 모습을 나타내는 이 장식물로 여러분의 오비터를 장식하세요.",
+      "name": "네크라메크 스태츄",
+      "code": "ko"
+    },
+    {
+      "description": "Adorna tu orbitador con esta decoración que representa a Necramech.",
+      "name": "Estatua de Necramech",
+      "code": "es"
+    },
+    {
+      "description": "用这个代表殁世机甲的装饰来点缀你的飞行器。",
+      "name": "殁世机甲雕像",
+      "code": "zh"
+    },
+    {
+      "description": "Украсьте свой Орбитер этим предметом, представляющим Некрамеха.",
+      "name": "Статуя Некрамеха",
+      "code": "ru"
+    },
+    {
+      "description": "このネクロメカを象徴する装飾品をオービターに設置しよう。",
+      "name": "ネクロメカの彫像",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdób swój Orbiter tą dekoracją przedstawiającą Nekramecha.",
+      "name": "Statua Nekramecha",
+      "code": "pl"
+    },
+    {
+      "description": "Enfeite a sua Orbital com esta decoração representando o Necramech.",
+      "name": "Estátua do Necramech",
+      "code": "pt"
+    },
+    {
+      "description": "用這個代表亡骸機甲的裝飾來點綴你的飛行器。",
+      "name": "亡骸機甲雕像",
+      "code": "tc"
+    },
+    {
+      "description": "ประดับยานของคุณด้วยของตกแต่งที่เป็นตัวแทนของ Necramech",
+      "name": "รูปปั้น Necramech",
+      "code": "th"
+    },
+    {
+      "description": "Orbiterinizi, Necramech'i temsil eden bu dekorasyon ile güzelleştirin.",
+      "name": "Necramech Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Оздоблення для орбітра, яке зображає некрамеха.",
+      "name": "Статуетка «Некрамех»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaser",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nosam-cutter-382c3e1373.png",
+  "name": "Nosam Cutter",
+  "description": "Standard tool for cutting ore and gems out of stone.\n\nTravel far from Hub settlements for the best chance of mining rare minerals.",
+  "languages": [
+    {
+      "description": "Standardwerkzeug zum Abbauen von Erzen und Edelsteinen aus Gestein.\n\nWenn du dich weit genug von einem bewohnten Hub entfernst, hast du die beste Chance, seltene Mineralien zu finden.",
+      "name": "Nosam-Schneider",
+      "code": "de"
+    },
+    {
+      "description": "Outil standard pour couper le minerai et les gemmes dans la pierre.\n\nÉloignez-vous des villes pour augmenter vos chances d'extraire des minerais rares.",
+      "name": "Tailleur Nosam",
+      "code": "fr"
+    },
+    {
+      "description": "Strumento standard per estrarre minerali e gemme dalla pietra.\n\nPosizionati lontano dagli Hub per avere maggiori probabilità di estrarre minerali rari.",
+      "name": "Taglio Nosam",
+      "code": "it"
+    },
+    {
+      "description": "석재에서 광물이나 보석을 깎아내는 데 쓰이는 기본적인 도구입니다.\n\n희귀한 광물을 채굴할 수 있는 좋은 기회를 얻으려면 마을 허브 정착지로부터 멀리 떨어져야 합니다.",
+      "name": "노잠 커터",
+      "code": "ko"
+    },
+    {
+      "description": "Herramienta estándar para cortar minerales y gemas de las piedras.\n\nViaja lejos de los asentamientos centrales para aumentar las posibilidades de extraer minerales raros.",
+      "name": "Cortador Nosam",
+      "code": "es"
+    },
+    {
+      "description": "从石头中切割矿石和宝石的标准的工具。\n\n远离城镇中心，将有更高几率开采出稀有矿物。",
+      "name": "诺萨姆切割器",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный инструмент для резки руды и извлечения драгоценных камней из камня.\n\nОтходите подальше от поселений, чтобы увеличить шансы на добычу редких минералов.",
+      "name": "Нозамовый Резак",
+      "code": "ru"
+    },
+    {
+      "description": "鉱石や宝石を岩から切り出すための標準的ツール。\n\nレア鉱石はハブエリアから遠いほど見つかりやすい。",
+      "name": "ノサム カッター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe narzędzie do wydobywania rud i klejnotów z kamienia.\n\nSzansa napotkania rzadkich surowców jest największa daleko od Centrów.",
+      "name": "Wiertło Nosam",
+      "code": "pl"
+    },
+    {
+      "description": "Ferramenta padrão para extrair minério e gemas de pedras.\n\nViaje para longe dos assentamentos centrais para ter mais chances de encontrar minerais raros.",
+      "name": "Minerador Nosam",
+      "code": "pt"
+    },
+    {
+      "description": "從石頭中切割礦物和寶石的標準工具。\n\n遠離城鎮中心有更高機率開採稀有礦物。",
+      "name": "諾薩姆切割器",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องมือมาตรฐานสำหรับใช้ตัดแร่และอัญมณีออกจากหิน\n\nหากเดินทางออกไปไกลจากฐานที่ตั้งของศูนย์กลางจะทำให้มีโอกาสที่ดีที่สุดในการขุดแร่หายาก",
+      "name": "เครื่องตัด Nosam",
+      "code": "th"
+    },
+    {
+      "description": "Taştan cevher ve değerli taşları kesmek için standart alet.\n\nNadir mineralleri bulma şansını artırmak için Merkezi yerleşim yerlerinden uzaklaş.",
+      "name": "Nosam Kesicisi",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартне знаряддя для вирізання руди й самоцвітів із каменю.\n\nДля ліпшої імовірності видобутку рідкісніших мінералів рушайте якнайдалі від міст та поселень.",
+      "name": "Різак «Нозам»",
+      "code": "uk"
+    }
+  ]
+}

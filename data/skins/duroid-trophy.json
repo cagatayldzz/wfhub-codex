@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinRareA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duroid-trophy-1828bcd674.png",
+  "name": "Duroid Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "Trophäe: Duroid",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "Trophée Duroïde",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "Trofeo Duroid",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "듀로이드 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "Trofeo Duroide",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "韧铠灵鲷奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "Трофей: Дуроид",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "デュロイド トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "Trofeum: Duroida",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "Troféu: Duroid",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "杜羅鯣標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: Duroid",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "Duroid Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "Трофей: дюроїд",
+      "code": "uk"
+    }
+  ]
+}

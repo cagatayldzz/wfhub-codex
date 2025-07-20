@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/SpectreArmies/SilverSpectreArmy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/phase-specter-regiment-6545ac7934.png",
+  "name": "Phase Specter Regiment",
+  "description": "An army composed of phase-level Specter clones to be used in defense of the clan's Solar Rail. This Specter army will persist for two conflicts.",
+  "languages": [
+    {
+      "description": "Eine Armee, bestehend aus Phasenhaften Phantom-Klonen, genutzt um die Solarschienen des Clans zu verteidigen. Diese Phantom Armee besteht für zwei Konflikte.",
+      "name": "Phasenhaftes Phantom Regiment",
+      "code": "de"
+    },
+    {
+      "description": "Une armée composée de Spectres de Phase à utiliser pour la défense d'un Rail Solaire de Clan. Cette armée persistera pendant deux conflits.",
+      "name": "Régiment de Spectres de Phase",
+      "code": "fr"
+    },
+    {
+      "description": "Un esercito composto di cloni Spettri di livello Phase da utilizzare per difendere le Rotaie Solari del tuo Clan. Questo esercito durerà due conflitti.",
+      "name": "Reggimento Spettri Phase",
+      "code": "it"
+    },
+    {
+      "description": "페이즈 레벨의 스펙터 복제품들을 클랜의 솔라 레일 방어를 위해 군단화 한 것입니다. 이 스펙터 군단은 한 개의 전장에만 보낼 수 있습니다.",
+      "name": "페이즈 스펙터 레지먼트",
+      "code": "ko"
+    },
+    {
+      "description": "Un ejército compuesto de clones de espectro de nivel fase que puede ser usado para defender el raíl solar del clan. Este ejército de espectros persisitirá durante dos conflictos.",
+      "name": "Regimiento de espectros de Fase",
+      "code": "es"
+    },
+    {
+      "description": "一支由相位等级魅影复制人所组成的军团，用来防御氏族的星际轨道。这支魅影军团可以坚持两场战斗。",
+      "name": "魅影相位军团",
+      "code": "zh"
+    },
+    {
+      "description": "Армия из спектров-клонов фазового уровня, которые могут быть использованы для защиты солнечных монорельсов клана. Эта армия спектров будет использоваться в течение двух конфликтов.",
+      "name": "Полк фазовых спектров",
+      "code": "ru"
+    },
+    {
+      "description": "フェーズスペクターで結成されたクローン軍隊。クランのソーラー・レールを防衛するのに使用することができる。この軍隊は交戦2回分生き延びることができる。",
+      "name": "フェーズスペクター軍隊",
+      "code": "ja"
+    },
+    {
+      "description": "Armia złożona z Widm klasy 'phase', przeznaczona do wykorzystania w obronie Kolei Solarnych należących do klanu. Ta armia Widm będzie służyć przez okres dwóch konfliktów.",
+      "name": "Pułk Widm Phase",
+      "code": "pl"
+    },
+    {
+      "description": "Um exército composto por clones de Espectros do nível Fásico para serem usados na defesa do Trilho Solar do clã. Este exército de Espectros batalha durante dois conflitos.",
+      "name": "Brigada de Espectros (Fásico)",
+      "code": "pt"
+    },
+    {
+      "description": "一支由相位等級魅影複製體所組成的軍團，用來防禦氏族的星際軌道。這支魅影軍團可以堅持兩場戰鬥。",
+      "name": "魅影相位軍團",
+      "code": "tc"
+    },
+    {
+      "description": "กองทัพที่ประกอบด้วยโคลนสเปกเตอร์ระดับ phase เพื่อใช้ในการป้องกันโซลาร์เรลของแคลน กองทัพสเปกตอร์นี้จะคงอยู่สำหรับสองความขัดแย้ง",
+      "name": "กองทหารสเปกเตอร์ Phase",
+      "code": "th"
+    },
+    {
+      "description": "Phase-level Specter Klonlarından oluşan ve klanların Solar Rail defanslarında kullanılan bir ordu. to be used in defense of the clan's Solar Rail. Bu Specter ordusu 2 çatışma boyunca geçerlidir.",
+      "name": "Phase Specter Regiment",
+      "code": "tr"
+    },
+    {
+      "description": "Армія, що складається з фазових тіней, буде застосована для оборони кланової сонячної рейки. Армія такого рангу використовуватиметься впродовж 2 конфліктів.",
+      "name": "Полк фазових тіней",
+      "code": "uk"
+    }
+  ]
+}

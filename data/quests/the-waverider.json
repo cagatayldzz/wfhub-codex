@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/YareliQuest/YareliQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-waverider-a48273c5d2.png",
+  "name": "The Waverider",
+  "description": "When tragedy strikes, the Ventkids search for hope in a long-lost story.",
+  "languages": [
+    {
+      "description": "Ereignet sich eine Tragödie, suchen die Schachtkinder in einer längst verlorenen Geschichte nach Hoffnung.",
+      "name": "Der Wellenreiter",
+      "code": "de"
+    },
+    {
+      "description": "Lorsque le sort les accable, les Orphelins des Conduits puisent de l'espoir dans une histoire perdue depuis longtemps.",
+      "name": "Waverider",
+      "code": "fr"
+    },
+    {
+      "description": "Quando la tragedia colpisce, i Ventkid cercano speranza in una storia perduta da tempo.",
+      "name": "Waverider",
+      "code": "it"
+    },
+    {
+      "description": "비극이 닥쳐오는 때, 벤트키드들은 오래전 잃어버린 이야기에서 희망을 찾습니다.",
+      "name": "파도의 기수",
+      "code": "ko"
+    },
+    {
+      "description": "Ante la tragedia, los Ventkids buscan esperanza en una historia que se mantuvo perdida durante mucho tiempo.",
+      "name": "La Surfista",
+      "code": "es"
+    },
+    {
+      "description": "当悲剧突然降临时，通风小子在一个失传已久的故事中寻找希望。",
+      "name": "驭浪者",
+      "code": "zh"
+    },
+    {
+      "description": "Когда случается несчастье, Дети Труб ищут надежду в давно забытой истории.",
+      "name": "Укротительница волн",
+      "code": "ru"
+    },
+    {
+      "description": "悲劇が襲う時、ベントキッドは過去の物語から救いを求める。",
+      "name": "ウェーブライダー",
+      "code": "ja"
+    },
+    {
+      "description": "Kiedy dochodzi do tragedii, Nawiewniaki szukają nadziei w dawno zapomnianej historii.",
+      "name": "Surferka",
+      "code": "pl"
+    },
+    {
+      "description": "Quando uma tragédia acontece, os Órfãos dos Dutos buscam esperança em uma história há muito tempo perdida.",
+      "name": "A Surfista",
+      "code": "pt"
+    },
+    {
+      "description": "當悲劇發生時，通風小子在一篇遺失久遠的故事中尋找希望。",
+      "name": "乘浪者",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อเกิดโศกนาฏกรรม พวก Ventkid ก็ค้นหาความหวังในเรื่องเล่าที่สูญหายไปนาน",
+      "name": "เวฟไรเดอร์",
+      "code": "th"
+    },
+    {
+      "description": "Trajedi baş gösterdiğinde, Ventkid'ler çok uzun zamandır unutulmuş bir hikayede umut ararlar.",
+      "name": "The Waverider",
+      "code": "tr"
+    },
+    {
+      "description": "У скрутні часи вентижевжики шукають надію в давно загубленій історії.",
+      "name": "Підкорювачка Хвиль",
+      "code": "uk"
+    }
+  ]
+}

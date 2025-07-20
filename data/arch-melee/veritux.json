@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veritux-a2d86d183e.png",
+  "name": "Veritux",
+  "description": "Weightless space turns this impossibly massive sword into an agile instrument of destruction.",
+  "languages": [
+    {
+      "description": "Die Schwerelosigkeit macht aus diesem unmöglich massiven Schwert ein agiles Instrument der Zerstörung.",
+      "name": "<ARCHWING> Veritux",
+      "code": "de"
+    },
+    {
+      "description": "L'apesanteur de l'espace transforme cette énorme Épée en un instrument agile et mortel.",
+      "name": "<ARCHWING> Veritux",
+      "code": "fr"
+    },
+    {
+      "description": "L'assenza di peso nello spazio rendono questa pesantissima spada altrimenti inutilizzabile un'agile strumento di distruzione.",
+      "name": "<ARCHWING> Veritux",
+      "code": "it"
+    },
+    {
+      "description": " 상식을 벗어난 질량을 가진 검이 무중력의 우주 환경으로 인해 민첩하게 파괴를 연주하는 도구로 탈바꿈하였습니다.",
+      "name": "<ARCHWING> 베리턱스",
+      "code": "ko"
+    },
+    {
+      "description": "La ingravidez del espacio convierte esta enorme espada en un ágil instrumento de destrucción.",
+      "name": "<ARCHWING> Veritux",
+      "code": "es"
+    },
+    {
+      "description": " （英文：VERITUX）零重力的太空将这把大到难以想象的巨剑变成了敏捷的毁灭工具。",
+      "name": "<ARCHWING> 真理巨剑",
+      "code": "zh"
+    },
+    {
+      "description": "Невесомость космоса превращает этот невероятно тяжелый меч в гибкий инструмент разрушений.",
+      "name": "<ARCHWING> Веритакс",
+      "code": "ru"
+    },
+    {
+      "description": "重力のない宇宙空間であるからこそ、この巨大なソードを赤子の手をひねるがごとく扱える。",
+      "name": "<ARCHWING> Veritux",
+      "code": "ja"
+    },
+    {
+      "description": "Nieważkość zamienia ten niesamowicie wielki miecz w zwinny instrument zniszczenia.",
+      "name": "<ARCHWING> Veritux",
+      "code": "pl"
+    },
+    {
+      "description": "A ausência de peso do espaço transforma esta espada massiva em um instrumento ágil de destruição.",
+      "name": "<ARCHWING> Veritux",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：VERITUX）零重力的太空將這把大到難以想像的巨劍變成了敏捷的毀滅工具。",
+      "name": "<ARCHWING> 真理巨劍",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นที่ไร้น้ำหนักเปลี่ยนดาบขนาดใหญ่จนไม่น่าเชื่อนี้ให้กลายเป็นเครื่องมือทำลายล้างที่ว่องไว",
+      "name": "<ARCHWING> Veritux",
+      "code": "th"
+    },
+    {
+      "description": "Yerçekimsiz uzay bu iri yapılı ağır kılıcı hafif ve etkili bir ölüm makinesine dönüştürür.",
+      "name": "<ARCHWING> Veritux",
+      "code": "tr"
+    },
+    {
+      "description": "Космічна невагомість дозволяє перетворити цей неймовірно важкий клинок на жвавий інструмент руйнування.",
+      "name": "<ARCHWING> Верітукс",
+      "code": "uk"
+    }
+  ]
+}

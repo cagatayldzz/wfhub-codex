@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertSlowBombMoaAncientBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tar-mutalist-moa-emblem-39c29b3a1f.png",
+  "name": "Tar Mutalist Moa Emblem",
+  "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+  "languages": [
+    {
+      "description": "An Tenno verliehen, die an dem Event 'Übergriff der Mutalisten' teilgenommen haben.",
+      "name": "Emblem: Teer-Mutalist-MOA",
+      "code": "de"
+    },
+    {
+      "description": "Donné en récompense aux Tennos qui ont participé à l'événement des Incursions Mutalistes.",
+      "name": "Badge de Moa Mutaliste Gluant",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito ai Tenno che hanno partecipato all'evento Mutalist Incursion.",
+      "name": "Emblema Tar Mutalist Moa",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 인커젼 이벤트에 참여한 텐노에게 수여됩니다.",
+      "name": "타르 뮤탈리스트 MOA 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado a los tenno que participaron en el evento Incursiones mutalíticas.",
+      "name": "Emblema Moa Mutalítico Escupebrea",
+      "code": "es"
+    },
+    {
+      "description": "颁发给参与异融者侵入活动的 Tenno。",
+      "name": "异融焦油恐鸟徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Награда для Тэнно, участвовавших в событии «Вторжение Муталистов».",
+      "name": "Значок: Дёготь-муталист МОА",
+      "code": "ru"
+    },
+    {
+      "description": "ミュータリスト来寇イベントで作戦に貢献したテンノに贈られるエンブレム。",
+      "name": "タール・ミュータリストモア エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznany Tenno za udział w wydarzeniu 'Atak Mutalist'.",
+      "name": "Emblemat Smolny Moa Mutalist",
+      "code": "pl"
+    },
+    {
+      "description": "Premiado ao Tenno que participou do evento Incursões Mutalistas.",
+      "name": "Emblema: Moa Mutalista Grudenta",
+      "code": "pt"
+    },
+    {
+      "description": "頒發給參與感染者侵入活動的 Tenno。",
+      "name": "異融焦油恐鳥徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับ Tenno ที่เข้าร่วมอีเวนต์ Mutalist Incursions",
+      "name": "ตราสัญลักษณ์: Tar Mutalist Moa",
+      "code": "th"
+    },
+    {
+      "description": "Infested Etkinliğine katılan Tenno'lar için bir ödül",
+      "name": "Tar Mutalist Moa Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тенно, що брали активну участь у події «Вторгнення асимілянтів».",
+      "name": "Відзнака «Смоловий МОА-асимілянт»",
+      "code": "uk"
+    }
+  ]
+}

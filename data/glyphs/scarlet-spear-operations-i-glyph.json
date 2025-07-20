@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearOperationI",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarlet-spear-operations-i-glyph-b183043630.png",
+  "name": "Scarlet Spear Operations I Glyph",
+  "description": "Awarded for exemplary performance in Operation Scarlet Spear.",
+  "languages": [
+    {
+      "description": "Verliehen für vorbildliche Leistungen in der Operation: Scharlachroter Speer.",
+      "name": "Glyphe: Operation Scharlachroter Speer I",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour honorer des performances exemplaires lors de l'Opération: Incursion Écarlate.",
+      "name": "Glyphe d'Opération Incursion Écarlate I",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per la prestazione esemplare nell'Operazione Scarlet Spear.",
+      "name": "Glifo Operazioni Scarlet Spear I",
+      "code": "it"
+    },
+    {
+      "description": "스칼렛 스피어 작전에서 펼친 빼어난 활약에 대한 보상입니다.",
+      "name": "스칼렛 스피어 오퍼레이션즈 I 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por desempeño ejemplar en la Operación Lanza Escarlata.",
+      "name": "Glifo de Operaciones de Lanza Escarlata I",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些在《行动代号：猩红之矛》中有着突出表现的玩家。",
+      "name": "猩红之矛行动 I 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Награда за исключительные заслуги в Операции «Алое Копьё».",
+      "name": "Глиф: Алое Копье - Оперативный I",
+      "code": "ru"
+    },
+    {
+      "description": "「深紅の槍」作戦での称賛に値する功績に対し授与される。",
+      "name": "深紅の槍作戦 I グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznany za wybitne osiągnięcia w Operacji: Szkarłatna Włócznia.",
+      "name": "Glif Szkarłatnej Włóczni: Operacje I",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido por desempenho exemplar na Operação: Lança Escarlate.",
+      "name": "Glifo: Operação Lança Escarlate I",
+      "code": "pt"
+    },
+    {
+      "description": "授予行動代號：猩紅標槍中表現出色之人。",
+      "name": "猩紅標槍行動 I 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลสำหรับการดำเนินการที่น่ายกย่องในปฏิบัติการ Scarlet Spear",
+      "name": "ภาพสัญลักษณ์ปฏิบัติการ Scarlet Spear I",
+      "code": "th"
+    },
+    {
+      "description": "Scarlet Spear Operasyonunda üstün başarı gösterenlere verilir.",
+      "name": "Scarlet Spear Operasyonları I Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Видають тим, хто проявив себе як зразкові бійці під час операції «Багряний спис».",
+      "name": "Гліф «Багряний спис: за участь» I ступеня",
+      "code": "uk"
+    }
+  ]
+}

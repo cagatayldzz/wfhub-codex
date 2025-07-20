@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NezhaLeverianCape",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reshantur-cult-syandana-e8799f7ac4.png",
+  "name": "Reshantur Cult Syandana",
+  "description": "This humble Syandana is modeled on those worn by the Children of Reshantur, who formed into a clan devoted to Nezha in defense of their home.",
+  "languages": [
+    {
+      "description": "Dieses bescheidene Syandana ist denen der Kinder von Reshantur nachempfunden, die sich zu einem Nezha ergebenen Clan formierten, um ihre Heimat zu verteidigen.",
+      "name": "Reshantur Kult Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Cette Syandana simple est calquée sur celles portées par les Enfants de Reshantur, qui ont formé un clan consacré à Nezha pour défendre leur foyer.",
+      "name": "Syandana Culte de Reshantur",
+      "code": "fr"
+    },
+    {
+      "description": "Questa semplice Syandana è modellata su quelle indossate dai Bambini di Reshantur, che formarono un clan devoto a Nezha in difesa della loro casa.",
+      "name": "Syandana Reshantur Cult",
+      "code": "it"
+    },
+    {
+      "description": "이 초라한 샨다나는 자신들의 터전을 지키기 위해 나타를 섬기는 집단을 형성했던 레샨터의 아이들이 착용한 망토를 기반으로 만들어졌습니다.",
+      "name": "레샨터 교단 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Esta syandana simple está inspirada en el modelo de las que llevaban los Hijos de Reshantur, que formaron un clan dedicado a Nezha para defender su hogar.",
+      "name": "Syandana Culto de Reshantur",
+      "code": "es"
+    },
+    {
+      "description": "这件朴素的披饰是根据瑞圣途的孩子们曾穿戴过的样式设计而来的，那些孩子们组成了一支信奉 Nezha 的小型氏族来保卫他们的家园。",
+      "name": "瑞圣途教派披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Эта скромная Сандана, созданная по образцу тех, которые носили дети из культа «Решантур». Они создали клан, посвященный Нэчже, для защиты своих домов.",
+      "name": "Сандана: Культ Решантур",
+      "code": "ru"
+    },
+    {
+      "description": "自身を守ってくれるとNezhaを信教した「Reshanturの子供たち」が纏ったとされる聖衣をシャンダナとしてデザインしたもの。",
+      "name": "Reshantur Cult シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta skromna Syandana jest wzorowana na tych noszonych przez Dzieci Reshantur, które wcześniej stworzyły klan poświęcony Nezhie w obronie ich domu.",
+      "name": "Syandana Kultu Reshantur",
+      "code": "pl"
+    },
+    {
+      "description": "Esta humilde Syandana é inspirada no modelo usado pelos Filhos de Reshantur, que formaram um clã dedicado ao Nezha em defesa de seu lar.",
+      "name": "Syandana: Culto do Reshantur",
+      "code": "pt"
+    },
+    {
+      "description": "這件樸素的披飾是根據睿玄杜的孩童們所披戴的那種版本設計的，這群孩童組成了一個信奉 Nezha 的氏族來保衛他們的家園。",
+      "name": "睿玄杜教派披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่อ่อนช้อยนี้จำลองมาจากชุดที่เด็กแห่ง Reshantur สวมใส่ ผู้ก่อตั้งแคลนที่อุทิศให้กับ Nezha ที่ได้ปกป้องบ้านของพวกเขา",
+      "name": "ไซอันดานา Reshantur Cult",
+      "code": "th"
+    },
+    {
+      "description": "Bu mütevazi Syandana, Nezha'nın yuvalarını kurtarması sonrasında kendi klanlarını kuran Reshantur'un Çocukları tarafından giyilenlerden ilham alınarak modellenmiştir.",
+      "name": "Reshantur Cult Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Скромна сяндана, створена на зразок тих, які носили діти з культу «Решантур». Вони створили клан, присвячений Неджі, щоб захистити свої домівки.",
+      "name": "Сяндана «Культ „Решантур“»",
+      "code": "uk"
+    }
+  ]
+}

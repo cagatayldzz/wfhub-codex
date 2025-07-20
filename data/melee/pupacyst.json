@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Melee/Staff/InfStaff/InfStaff",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pupacyst-43e085006d.png",
+  "name": "Pupacyst",
+  "description": "A two-pronged attack; the bone-grafted cocoon at the tip of this polearm rends flesh, while the viral mass living within spreads itself into the wounds of each new victim.",
+  "languages": [
+    {
+      "description": "Ein zweigleisiger Angriff: Der aus Knochen zusammengesetzte Kokon dieser Stangenwaffe zerreißt das Fleisch, während die virale Masse, die im Inneren haust, durch die Wunden in jedes neue Opfer übertragen wird.",
+      "name": "Pupacyst",
+      "code": "de"
+    },
+    {
+      "description": "Une attaque en deux temps: le cocon muni d'os à l'extrémité de cette Arme d'Hast déchire la chair tandis que la masse virale vivant à l'intérieur se répand via les blessures de chacune de ses victimes.",
+      "name": "Pupacyste",
+      "code": "fr"
+    },
+    {
+      "description": "Un duplice attacco; l'innesto osseo del bozzolo nella punta di questa asta trancia la carne, mentre la massa virale che vive al suo interno si diffonde nelle ferite di ogni nuova vittima.",
+      "name": "Pupacyst",
+      "code": "it"
+    },
+    {
+      "description": "두 가닥의 공격. 이 폴암 끝에 접붙여진 뼈 고치가 또 다른 희생자의 살을 가를 때마다, 내부에 살아 숨쉬는 바이러스 덩어리가 상처로 침투합니다.",
+      "name": "퓨파시스트",
+      "code": "ko"
+    },
+    {
+      "description": "Un ataque a dos puntas; el injerto óseo envuelto en la punta de esta arma de asta desgarra la carne, mientras que la masa viral que vive dentro de él se esparce en las heridas de cada nueva víctima.",
+      "name": "Pupacyst",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PUPACYST）双管齐下的夹击；棍尖端包覆的带骨茧状物把血肉撕裂，而其中的病毒块则会扩散到每个新受害人的伤口。",
+      "name": "毒囊骨茧",
+      "code": "zh"
+    },
+    {
+      "description": "Двунаправленная атака; всверленный в кость кокон на кончике этого копья ранит тело, в то время как вирусная масса, живущая внутри, распространяется по ранам каждой новой жертвы.",
+      "name": "Пупацист",
+      "code": "ru"
+    },
+    {
+      "description": "このポールアームの先端の骨接ぎ繭は肉体を切り裂き、中身のウイルスの塊は新たな犠牲者の傷に広がる二面攻撃が可能。",
+      "name": "Pupacyst",
+      "code": "ja"
+    },
+    {
+      "description": "Atakuje podwójnie; kokon z kością na zakończeniu tej Broni drzewcowej rozdziera ciało, podczas gdy wirusowa masa żyjąca wewnątrz rozprzestrzenia się w ranie każdej swojej ofiary.",
+      "name": "Pasocyst",
+      "code": "pl"
+    },
+    {
+      "description": "Um ataque duplo; a extremidade de ossos na ponta da arma rasga a carne dos inimigos, enquanto a massa viral que habita o seu interior contamina as feridas das suas vítimas.",
+      "name": "Pupacyst",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PUPACYST）雙管齊下的攻擊；以長柄戰刃的尖端包覆的繭狀物撕裂肉體，且其中的大量病毒擴散到每個新受害者的傷口。",
+      "name": "毒囊骨繭",
+      "code": "tc"
+    },
+    {
+      "description": "โจมตีด้วยอาวุธที่มีสองง่าม รังไหมที่ได้รับการปลูกถ่ายกระดูกที่ส่วนปลายของหอกเล่มนี้จะแพร่ไวรัสเข้าไปในบาดแผลของเหยื่อรายใหม่แต่ละราย",
+      "name": "Pupacyst",
+      "code": "th"
+    },
+    {
+      "description": "İki yönlü bir saldırı; bu kargının ucundaki kemik dokulu kısım eti yırtarak parçalarken içerisindeki virüslü kitle ise yeni kurbanlarının yaralarında çoğalarak yayılır.",
+      "name": "Pupacyst",
+      "code": "tr"
+    },
+    {
+      "description": "Держакова зброя з двома видами шкоди: кістяний кокон на верхівці шматує плоть ворогів, а вірусна маса в ньому проникає в рани й заражає кожну жертву.",
+      "name": "Пупацист",
+      "code": "uk"
+    }
+  ]
+}

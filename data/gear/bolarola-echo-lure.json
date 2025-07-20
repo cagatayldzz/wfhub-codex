@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowArmadilloLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bolarola-echo-lure-3b734218ec.png",
+  "name": "Bolarola Echo-Lure",
+  "description": "Entice and attract nearby Bolarola with life-like animal calls. The Bolarola is most often found around the Mountainous areas of Orb Vallis.",
+  "languages": [
+    {
+      "description": "Ködere nahe Bolarolas und locke sie mit lebensechten Tierrufen an. Bolarolas sind am häufigsten in der Nähe der bergigen Gebiete vom Orbis-Tal zu finden.",
+      "name": "Echo-Köder: Bolarola",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Bolarolas se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes. Les Bolarolas restent majoritairement près des régions Montagneuses de la Vallée Orbis.",
+      "name": "Écho-Leurre Bolarola",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Bolarola vicini con dei richiami simili ai suoi. I Bolarola si trovano più frequentemente attorno all'area Montuosa di Orb Vallis.",
+      "name": "Richiamo Bolarola",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 볼라롤라를 꾀어 유인합니다. 볼라롤라는 오브 협곡의 산악 지역에서 자주 발견됩니다.",
+      "name": "볼라롤라 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a bolarola cercanos con llamados de animales similares a los naturales. Los bolarola son encontrados más frecuentemente alrededor  de las áreas montañosas de los Valles del Orbe.",
+      "name": "Eco-señuelo de Bolarola",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的波雷罗拉。通常可以在奥布山谷的有山的地方周围发现波雷罗拉。",
+      "name": "波雷罗拉回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Боларол поблизости, издавая идентичные настоящим животные зовы. Боларолы чаще всего встречаются около горных областей в Долине Сфер.",
+      "name": "Эхо-Манок Для Боларолы",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのボラロラを誘導する。 ボラロラはオーブ峡谷の山岳地帯で最もよく見られる。",
+      "name": "ボラロラ Echoルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskiego Stulacza, imitując odgłosy zwierząt. Stulacze są najczęściej spotykane wokół górskich obszarów Orb Vallis.",
+      "name": "Echo-Wabik Stulacza",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Bolarolas próximos utilizando sons semelhantes aos dos animais. Os Bolarolas são encontrados com frequência ao redor das Montanhas do Vallis das Orbes.",
+      "name": "Ecoisca de Bolarola",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的波雷羅。通常可以在奧布山谷的有山的地方周圍發現波雷羅拉。",
+      "name": "波雷羅拉迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องเลียนแบบเสียงร้องเสมือนจริงเพื่อหลอกล่อและดึงดูด Bolarola ที่อยู่ใกล้ ซึ่งจะพบ Bolarola ได้บ่อยที่สุดบริเวณที่เต็มไปด้วยภูเขาในออร์บวัลลิส",
+      "name": "เครื่องเลียนแบบเสียง Bolarola",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Bolarolaları gerçeğine çok benzeyen hayvan sesleriyle yanına çek. Bolarolar genelde Orb Vallis'in dağlık alanlarında bulunurlar.",
+      "name": "Bolarola Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює боларол поблизу реалістичною імітацією їхнього поклику. Болароли водяться в гірській місцевості Долині Куль.",
+      "name": "Еховабик на боларолу",
+      "code": "uk"
+    }
+  ]
+}

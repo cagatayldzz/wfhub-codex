@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/twin-krohkur-144b945fb3.png",
+  "name": "Twin Krohkur",
+  "description": "Battlefield butchery becomes all too easy with a Krohkur blade in each hand.",
+  "languages": [
+    {
+      "description": "Das Metzeln auf dem Schlachtfeld wird nur zu einfach, mit einer Krohkur-Klinge in jeder Hand.",
+      "name": "Zwillingskrohkur",
+      "code": "de"
+    },
+    {
+      "description": "La boucherie du champ de bataille devient beaucoup trop simple avec une lame de Krohkur dans chaque main.",
+      "name": "Krohkur Jumeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Macellare sul campo di battaglia diventa fin troppo facile con un lama Krohkur per mano.",
+      "name": "Twin Krohkur",
+      "code": "it"
+    },
+    {
+      "description": "양손에 있는 크로쿠르 칼날로 전장에서의 살육이 쉬워집니다.",
+      "name": "트윈 크로쿠르",
+      "code": "ko"
+    },
+    {
+      "description": "La carnicería del campo de batalla se vuelve fácil con una hoja Krohkur en cada mano.",
+      "name": "Krohkur Gemelas",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL KROHKUR）双手持有克鲁古尔之刃能让战场中的杀戮变得轻而易举",
+      "name": "双子克鲁古尔",
+      "code": "zh"
+    },
+    {
+      "description": "Резня на поле боя становится плевым делом, когда в обеих руках находятся клинки Крокур.",
+      "name": "Парные Крокуры",
+      "code": "ru"
+    },
+    {
+      "description": "戦場での虐殺も両手にKorhkurの刃を持てば何もかも簡単になる。",
+      "name": "Twin Krohkur",
+      "code": "ja"
+    },
+    {
+      "description": "Rzeźnia na polu bitwy staje się łatwiejsza z ostrzami Krohkur w dłoni.",
+      "name": "Krohkur Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Aniquilar no campo de batalha fica muito fácil com uma lâmina Krohkur em cada mão.",
+      "name": "Krohkurs Gêmeas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TWIN KROHKUR）持有克魯古爾之刃便能讓戰場中的殺戮顯得輕而易舉。",
+      "name": "雙子克魯古爾",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อถือดาบ Krohkur ไว้ในมือแต่ละข้างแล้วการฆ่าอย่างบ้าคลั่งในสมรภูมิรบก็ง่ายราวปลอกกล้วย",
+      "name": "Twin Krohkur",
+      "code": "th"
+    },
+    {
+      "description": "Savaş alanında katliam yapmak her elinde bir Korhkur bıçağı ile çok kolay olur.",
+      "name": "Twin Krohkur",
+      "code": "tr"
+    },
+    {
+      "description": "Коли маєш по Крокуру в кожній долоні, будь-яка сутичка стає кривавим побоїщем.",
+      "name": "Парні Крокури",
+      "code": "uk"
+    }
+  ]
+}

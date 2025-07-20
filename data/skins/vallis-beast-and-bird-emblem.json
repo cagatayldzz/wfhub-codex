@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ConservationBadgeBItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vallis-beast-and-bird-emblem-5a93133e95.png",
+  "name": "Vallis Beast And Bird Emblem",
+  "description": "Awarded for the diligent preservation of the Horrasques, Sawgaws and Stovers of the Orb Vallis.",
+  "languages": [
+    {
+      "description": "Ausgezeichnet für die gewissenhafte Erhaltung der Horrasque, Sawgaws und Heizer des Orbis-Tals.",
+      "name": "Emblem: Bestien und Vögel des Tals",
+      "code": "de"
+    },
+    {
+      "description": "Donné en récompense pour le dur labeur effectué en préservant les Horrasques, Sawgaws et Stovers de la Vallée Orbis.",
+      "name": "Badge Faune de la Vallée",
+      "code": "fr"
+    },
+    {
+      "description": "Un premio per la diligente conservazione di Horrasque, Sawgaw e Stover di Orb Vallis.",
+      "name": "Emblema Beast And Bird Vallis",
+      "code": "it"
+    },
+    {
+      "description": "오브 협곡의 호래스크, 소우고우 및 스토버를 부지런히 보존해준 텐노에게 수여된 배지입니다.",
+      "name": "발리스 비스트 앤 버드 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Recompensado por la preservación diligente de los horrasques, sawgaws y stovers de los Valles del Orbe.",
+      "name": "Emblema de Bestias y aves de los Valles",
+      "code": "es"
+    },
+    {
+      "description": "授予勤于保育奥布山谷的惑瓦斯克、梭歌以及炽托法之人。",
+      "name": "山谷野兽及禽鸟徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Награда за бережное сохранение хоррасков, пилопастей и плитников в Долине Сфер.",
+      "name": "Значок: Зверь И Птица Долины",
+      "code": "ru"
+    },
+    {
+      "description": "オーブ峡谷のホラスキュー、ソーゴー、ストーバーの保護に精を出したことをたたえるためのもの。",
+      "name": "峡谷 ビースト&バードエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za sumienną ochronę Poczwary, Rozpłatnicy i Rozgrzańców z Orb Vallis.",
+      "name": "Emblemat Bestii i Ptaków Vallis",
+      "code": "pl"
+    },
+    {
+      "description": "Recompensado aos que prezam pela preservação dos Horrasques, Sawgaws e Stovers do Vallis das Orbes.",
+      "name": "Emblema: Besta do Vallis e o Pássaro",
+      "code": "pt"
+    },
+    {
+      "description": "授予勤於保存奧布山谷的惑瓦廝克、梭歌以及熾託法之人。",
+      "name": "山谷野獸及禽鳥徽章",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลสำหรับความพากเพียรที่จะอนุรักษ์ Horrasque, Sawgaw และ Stover ที่อยู่ในออร์ปวัลลิส",
+      "name": "ตราสัญลักษณ์: สัตว์ป่าและนกในวัลลิส",
+      "code": "th"
+    },
+    {
+      "description": "Orb Vallis'in Horrasques, Sawgaws ve Stovers'larının özenli korunması karşılığında verilen ödül.",
+      "name": "Vallis Yaratığı Ve Kuş Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за старанне збереження популяції горрасків, совґовів і грубників із Долини Куль.",
+      "name": "Відзнака «Звірі й птиця Долини»",
+      "code": "uk"
+    }
+  ]
+}

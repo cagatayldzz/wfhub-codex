@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOperatorHoodDisplayDefault",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hood-display-teal-decoration-e4c39137c1.png",
+  "name": "Hood Display Teal Decoration",
+  "description": "A wooden frame to display a teal-colored hood of Quill design.",
+  "languages": [
+    {
+      "description": "Ein hölzerner Rahmen, um ein türkises Kapuzen-Design der Quill zu präsentieren.",
+      "name": "Dekoration: Türkise Kapuzen-Auslage",
+      "code": "de"
+    },
+    {
+      "description": "Un cadre en bois pour exposer une Capuche bleu sarcelle faite par les Plumes.",
+      "name": "Décoration Porte-Coiffe Bleu Sarcelle",
+      "code": "fr"
+    },
+    {
+      "description": "Un espositore con cornice in legno che mostra un cappuccio color tè blu dal design Quill.",
+      "name": "Decorazione Espositore Cappuccio Blu",
+      "code": "it"
+    },
+    {
+      "description": "퀼이 디자인한 청록색의 후드를 전시할 나무로 만든 장식입니다.",
+      "name": "청록색 후드 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un marco de madera para mostrar una capucha verde azulada de diseño Raquis.",
+      "name": "Decoración de mostrador de capucha verde azulada",
+      "code": "es"
+    },
+    {
+      "description": "用来展示墨绿色夜羽兜帽的木框。",
+      "name": "兜帽展示框青色装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Деревянная подставка для демонстрации сине-зелёной накидки перьев.",
+      "name": "Украшение: Подставка Для Накидки Сине-Зелёная",
+      "code": "ru"
+    },
+    {
+      "description": "クイル様式の青緑色のフードを展示するための木のフレーム。",
+      "name": "フード掛け（青緑）装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Drewniana rama do wyświetlania nakładki w kolorze morskim w stylu Quill.",
+      "name": "Dekoracja Morskiej Nakładki Wyświetlacza",
+      "code": "pl"
+    },
+    {
+      "description": "Uma moldura de madeira feita para exibir um capuz ciano de design Quill.",
+      "name": "Exibidor de Capuz Ciano",
+      "code": "pt"
+    },
+    {
+      "description": "用來展示墨綠色夜羽兜帽的木框。",
+      "name": "兜帽展示框青色裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "ราวไม้สำหรับแขวนผ้าคลุมศีรษะสีน้ำเงินอมเขียวในแบบของ Quill",
+      "name": "ของตกแต่ง: ราวแขวนฮู้ดสีน้ำเงินอมเขียว",
+      "code": "th"
+    },
+    {
+      "description": "Quill tasarımının cam göbeği rengi bir örtüsünü göstermek için tahtadan bir çerçeve.",
+      "name": "Başlık Sergisi Dekorasyonu (Cam Göbeği)",
+      "code": "tr"
+    },
+    {
+      "description": "Бірюзова накидка Писарів на дерев’яній підставці.",
+      "name": "Оздоблення: бірюзова накидка",
+      "code": "uk"
+    }
+  ]
+}

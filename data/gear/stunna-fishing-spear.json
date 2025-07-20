@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stunna-fishing-spear-28626dea62.png",
+  "name": "Stunna Fishing Spear",
+  "description": "Successful electromagnetic pulses radiate outward also disabling any nearby Servofish.\n\nObtained from The Business in Fortuna. This spear is most effective on Servofish found in the Orb Vallis (Venus). ",
+  "languages": [
+    {
+      "description": "Erfolgreiche elektromagnetische Impulse strahlen nach außen und machen auch alle Servofische in der Nähe kampfunfähig.\n\nZu erhalten von The Business in Fortuna. Diese Harpune ist am effektivsten bei Servofischen, die im Orbis-Tal (Venus) zu finden sind. ",
+      "name": "Harpune: Stunna",
+      "code": "de"
+    },
+    {
+      "description": "Les impulsions électromagnétiques efficaces rayonnent vers l'extérieur, ce qui désactive également tout Servopoisson à proximité.\n\nObtenu via Le Bizness à Fortuna. Ce Harpon est particulièrement efficace sur les Servopoissons de la Vallée Orbis (Vénus). ",
+      "name": "Harpon Stunna",
+      "code": "fr"
+    },
+    {
+      "description": "Gli impulsi elettromagnetici si irradiano verso l'esterno, disabilitando anche qualsiasi Servofish nelle vicinanze.\n\nOttenibile da The Business a Fortuna. Questa lancia è più efficace sui Servofish che si trovano su Orb Vallis (Venere). ",
+      "name": "Lancia da Pesca Stunna",
+      "code": "it"
+    },
+    {
+      "description": "전자기 펄스 방출에 성공할 시 바깥쪽으로도 내뿜어져 주위의 서보피쉬들 또한 망가뜨립니다.\n\n포르투나의 비즈니스로부터 획득할 수 있습니다. 이 작살은 오브 협곡 (금성) 에서 발견되는 서보피쉬들에게 가장 효과적입니다. ",
+      "name": "스터나 낚시 작살",
+      "code": "ko"
+    },
+    {
+      "description": "Los pulsos electromagnéticos exitosos se irradian hacia afuera y también inhabilitan a cualquier Servopez cercano.\n\nSe obtiene con The Business en Fortuna. Este arpón es más efectivo con los servopeces que se encuentran en los Valles del Orbe (Venus). ",
+      "name": "Arpón de Pesca Stunna",
+      "code": "es"
+    },
+    {
+      "description": "成功发射的电磁脉冲往外散发同时瘫痪任何附近的伺服鱼。\n\n从福尔图娜的 The Business 处获得。这根鱼叉对奥布山谷（金星）的伺服鱼最有效。 ",
+      "name": "电震波鱼叉",
+      "code": "zh"
+    },
+    {
+      "description": "Успешные электромагнитные импульсы распространяются наружу, дезактивируя также любую серворыбу поблизости.\n\nМестонахождение: у Бизнеса в Фортуне. Это копьё наиболее эффективно против серворыб, обитающих в Долине Сфер (Венера).",
+      "name": "Рыболовный Гарпун Станна",
+      "code": "ru"
+    },
+    {
+      "description": "EMPを放ち範囲内のサーボ魚を無力化する。\n\nフォーチュナー（金星）のThe Businessから入手可能。このモリはオーブ峡谷（金星）のサーボ魚に対して最も有効的。",
+      "name": "Stunna モリ",
+      "code": "ja"
+    },
+    {
+      "description": "Emitowane impulsy elektromagnetyczne promieniują na zewnątrz, wyłączając także wszelkie pobliskie serworyby. \n\nMoże zostać zakupiona od Biznesa w Fortunie. Ta włócznia jest najbardziej skuteczna w łapaniu serworyb w Orb Vallis (Wenus). ",
+      "name": "Włócznia Rybacka Stunna",
+      "code": "pl"
+    },
+    {
+      "description": "Emite um pulso eletromagnético, desativando Peixes-Servo nas redondezas.\n\nLocalização: obtido com o Business, em Fortuna. Esta lança é mais eficaz em Peixes-Servo encontrados no Vallis das Orbes, em Vênus. ",
+      "name": "Lança de Pesca Atordoante",
+      "code": "pt"
+    },
+    {
+      "description": "向外放射出一道完美的電磁脈衝，癱瘓附近所有的伺服魚。\n\n可以從福爾圖娜（金星）的 Business 取得。這個魚叉對奧布山谷（金星）的伺服魚最有效。",
+      "name": "史鈍那魚叉",
+      "code": "tc"
+    },
+    {
+      "description": "คลื่นแม่เหล็กไฟฟ้าที่สัมฤทธิ์ผลจะแผ่ออกไปด้านนอกและยังปิดการใช้งานคลื่นของเซอร์โวฟิชที่อยู่ในบริเวณใกล้เคียงอีกด้วย\n\nรับได้จาก The Business ในฟอร์ทูนา ซึ่งหอกนี้ใช้ได้ผลมากที่สุดกับเซอร์โวฟิชที่พบในออร์บวัลลิส (ดาวศุกร์) ",
+      "name": "หอกตกปลา Stunna",
+      "code": "th"
+    },
+    {
+      "description": "Başarılı elektromanyetik darbeler dışarıya doğru yayılır ve yakındaki tüm Servobalıkları etkisiz hale getirir.\n\nKaynak: Fortuna'da bulunan Business'tan temin edilir. Bu mızrak, Orb Vallis'te (Venüs) bulunan Servobalıklar üzerinde en etkili modeldir. ",
+      "name": "Stunna Balıkçı Mızrağı",
+      "code": "tr"
+    },
+    {
+      "description": "Успішний електромагнітний імпульс вражає будь-яку серворибу довкола цілі). \n\nМожна придбати в Бізнеса у Фортуні. Цей гарпун найдієвіший проти сервориби з Долини Куль (Венера). ",
+      "name": "Гарпун «Приголомшень»",
+      "code": "uk"
+    }
+  ]
+}

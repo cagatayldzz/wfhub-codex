@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/OstKonzuBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---konzu-392f1efcfa.png",
+  "name": "Noggle Statue - Konzu",
+  "description": "A small wobbly statue of Konzu.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Konzu.",
+      "name": "Noggle-Statue: Konzu",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Konzu.",
+      "name": "Statuette Noggle - Konzu",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Konzu con la testa tremolante.",
+      "name": "Statuetta Noggle - Konzu",
+      "code": "it"
+    },
+    {
+      "description": "콘주의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 콘주",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Konzu.",
+      "name": "Estatua Tambaleante - Konzu",
+      "code": "es"
+    },
+    {
+      "description": "一小座孔尊摇头娃娃。",
+      "name": "孔尊摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Конзу.",
+      "name": "Фигурка: Конзу",
+      "code": "ru"
+    },
+    {
+      "description": "Konzuのボブルヘッド人形。",
+      "name": "Konzu ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Konzu.",
+      "name": "Figurka Noggle — Konzu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Konzu.",
+      "name": "Estatueta: Konzu",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Konzu 的搖頭娃娃。",
+      "name": "Konzu 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Konzu ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Konzu",
+      "code": "th"
+    },
+    {
+      "description": "Konzu küçük oynar figür.",
+      "name": "Noggle Heykeli - Konzu",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Кондзу.",
+      "name": "Ноґл «Кондзу»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlHelmetStandard",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grearlance-helmet-15156e1a6a.png",
+  "name": "Grearlance Helmet",
+  "description": "A common helmet unifies Grineer brothers in arms.",
+  "languages": [
+    {
+      "description": "Ein üblicher Helm vereint Grineer Waffenbrüder.",
+      "name": "Helm: Grearlance",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque commun unifie les frères d'armes Grineers.",
+      "name": "Casque Grearlance",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo comune unisce i fratelli d'armi Grineer.",
+      "name": "Elmo Grearlance",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 전우들을 하나로 통일시키는 일반적인 헬멧입니다.",
+      "name": "그리어랜스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco común que unifica a los hermanos de armas grineer.",
+      "name": "Casco Grearlance",
+      "code": "es"
+    },
+    {
+      "description": "一顶共同的头盔让武装的 Grineer 兄弟们团结一心。",
+      "name": "肃绝枪兵头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем, объединяющий братьев-Гринир по оружию.",
+      "name": "Шлем: Греарланс",
+      "code": "ru"
+    },
+    {
+      "description": "戦友であるグリニアの兄弟内で統一されているヘルメット。",
+      "name": "Grearlance ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm jednoczący towarzyszy broni Grineer.",
+      "name": "Hełm Grearlance",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete em comum une os companheiros de guerra Grineers.",
+      "name": "Capacete: Grearlance",
+      "code": "pt"
+    },
+    {
+      "description": "團結 Grineer 兄弟們向心力的頭盔。",
+      "name": "戈槍頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กธรรมดาที่สหายร่วมรบฝ่าย Grineer ใช้",
+      "name": "หมวกเหล็ก Grearlance",
+      "code": "th"
+    },
+    {
+      "description": "Grineer kardeşlerini bir araya getiren sıradan bir miğfer.",
+      "name": "Grearlance Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом ґрінерських братів і сестер по зброї.",
+      "name": "Шолом «Могуть»",
+      "code": "uk"
+    }
+  ]
+}

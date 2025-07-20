@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NezhaEtchingsTablets",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reshantur-child's-tablet-de81d905a0.png",
+  "name": "Reshantur Child's Tablet",
+  "description": "Corpus surveyor Jena Xasparin unearthed these tablets from the site of the massacre of Reshantur. Drusus Leverian's history of Nezha reveals why a child's hand would have carved these designs.",
+  "languages": [
+    {
+      "description": "Jena Xasparin, Landvermesserin der Corpus, hat diese Tafeln am Ort des Massakers von Reshantur ausgegraben. Drusus Leverians Geschichte von Nezha zeigt, warum eine Kinderhand diese Muster geschnitzt hat.",
+      "name": "Reshantur Kinder-Tafeln",
+      "code": "de"
+    },
+    {
+      "description": "L'exploratrice Corpus Jena Xasparin a déterré ces tablettes sur le site du massacre de Reshantur. L'histoire racontée par Drusus Leverian explique pourquoi un enfant aurait sculpté ces formes.",
+      "name": "Tablette d'enfant de Reshantur",
+      "code": "fr"
+    },
+    {
+      "description": "L'ispettrice Corpus Jena Xasparin dissotterrò queste tavolette dal luogo del massacro di Reshantur. La storia di Nezha di Drusus Leverian rivela perché la mano di un bambino avrebbe scolpito questi disegni.",
+      "name": "Tavoletta del Bambino di Reshantur",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 감독관 예나 자스파린은 레샨터의 학살 현장에서 이 석판들을 발굴해냈다고 합니다. 드루수스 레베리안이 들려주는, 나타 워프레임에 대한 역사를 통해 왜 이 도안들이 어린아이의 손으로 새겨졌는지를 알 수 있지요.",
+      "name": "레샨터 아이의 석판",
+      "code": "ko"
+    },
+    {
+      "description": "La exploradora corpus Jena Xasparin desenterró estas tabletas del sitio de la masacre de Reshantur. La historia contada por Drusus Leverian explica el porqué la mano de un niño habría tallado estos diseños.",
+      "name": "Tableta del niño de Reshantur",
+      "code": "es"
+    },
+    {
+      "description": "Corpus 测量员杰娜·哈斯帕林从瑞圣途大屠杀遗址中发掘出这些石板。德枢·莱弗中的记载的 Nezha 事迹揭示了为什么这些刻画出来的图案会出自孩子的手。",
+      "name": "瑞圣途儿童石板",
+      "code": "zh"
+    },
+    {
+      "description": "Исследователь Корпуса Джена Заспарин откопала эти таблички на месте Решантурской резни. История Друзуса Левериана о Нэчже объясняет, почему дети вырезали эти надписи.",
+      "name": "Детская табличка из Решантура",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス検査官のJena XasparinはこのタブレットをReshanturの虐殺現場で発掘した。Drusus LeverianはNezhaの物語を通じこのデザインの重要性を語る。",
+      "name": "「Reshanturの子供たち」タブレット",
+      "code": "ja"
+    },
+    {
+      "description": "Inspektorka Corpus, Jena Xasparin, odkryła te tablice w miejscu masakry Reshantur. Opowieść Drususa Leveriana o Nezhy ujawnia, dlaczego te tabliczki mogły zostać stworzone przez dziecko.",
+      "name": "Tablet dziecka z Reshantur",
+      "code": "pl"
+    },
+    {
+      "description": "A pesquisadora Corpus Jena Xasparin desenterrou estas placas no local do massacre de Reshantur. A história de Drusus Leverian do Nezha revela o motivo pelo qual as mãos de uma criança teriam esculpido estes desenhos.",
+      "name": "Placa Infantil Reshantur",
+      "code": "pt"
+    },
+    {
+      "description": "Corpus 勘察員──Jena Xasparin 在睿玄杜大屠殺發生的地點挖掘出這些平板。Drusus Leverian 對 Nezha 的紀事中揭露了為什麼一名孩童的手能夠刻出這些圖案。",
+      "name": "睿玄杜兒童平板",
+      "code": "tc"
+    },
+    {
+      "description": "นักสำรวจ Corpus นามว่า Jena Xasparin แท็บเล็ตเหล่านี้จากสถานที่สังหารหมู่ที่ Reshantur ประวัติของ Nezha ตามที่ Drusus Leverian ได้เล่ามานั้นจะเผยให้เห็นว่าทำไมมือเด็กถึงแกะสลักลวดลายเหล่านี้",
+      "name": "แท็บเล็ตของเด็ก Reshantur",
+      "code": "th"
+    },
+    {
+      "description": "Corpus araştırmacısı Jena Xasparin, bu tabletlerin Reshantur katliamının olduğu yerden çıkardı. Drusus Leverian'ın Nezha hakkındaki tarihi, bu desenlerin hangi sebeple bir çocuğun elinden bu tür desenlerin yontulduğunu açıklıyor.",
+      "name": "Reshantur'lu Çocuğun Tableti",
+      "code": "tr"
+    },
+    {
+      "description": "Корпусівська геодезистка Джена Заспарін викопала ці таблички на місці Решантурської Різанини. Історія Друза Леверія про Неджу пояснює, чому саме діти вирізьбили ці написи.",
+      "name": "Дитячі таблички з Решантура",
+      "code": "uk"
+    }
+  ]
+}

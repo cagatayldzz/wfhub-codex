@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/RailJack/HullMaterialsDefault",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sigma-plating-f2ad611253.png",
+  "name": "Sigma Plating",
+  "description": "Standard issue Sigma Series plating.",
+  "languages": [
+    {
+      "description": "Standard-Beschichtung der Sigma-Serie.",
+      "name": "Sigma Beschichtung",
+      "code": "de"
+    },
+    {
+      "description": "Revêtement standard de la classe Sigma.",
+      "name": "Revêtement Sigma",
+      "code": "fr"
+    },
+    {
+      "description": "Corazza standard della Serie Sigma.",
+      "name": "Corazza Sigma",
+      "code": "it"
+    },
+    {
+      "description": "시그마 시리즈의 기본 장갑판입니다.",
+      "name": "시그마 플레이팅",
+      "code": "ko"
+    },
+    {
+      "description": "Revestimiento estándar de la serie Sigma.",
+      "name": "Revestimiento Sigma",
+      "code": "es"
+    },
+    {
+      "description": "标准配置的西格玛系列装甲。",
+      "name": "西格玛装甲",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартная обшивка серии Сигма.",
+      "name": "Обшивка: Сигма",
+      "code": "ru"
+    },
+    {
+      "description": "シグマシリーズの標準型プレーティング。",
+      "name": "シグマ・プレーティング",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe poszycie Serii Sigma.",
+      "name": "Poszycie: Sigma",
+      "code": "pl"
+    },
+    {
+      "description": "Revestimento padrão da Série Sigma.",
+      "name": "Revestimento Estrutural: Sigma",
+      "code": "pt"
+    },
+    {
+      "description": "西格瑪系列的標準船板。",
+      "name": "西格瑪船板",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นโลหะเคลือบมาตราฐานของซีรีส์ Sigma",
+      "name": "แผ่นเพลตเคลือบ Sigma",
+      "code": "th"
+    },
+    {
+      "description": "Standart Sigma serisi kaplama.",
+      "name": "Sigma Plating",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартне покриття серії «Сигма».",
+      "name": "Покриття «Сигма»",
+      "code": "uk"
+    }
+  ]
+}

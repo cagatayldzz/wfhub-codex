@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/archimedean-eye-sumdali-ebcb220306.png",
+  "name": "Archimedean Eye Sumdali",
+  "description": "An ornament awarded only to the most dedicated of researchers. Said by some to be representative of the eye of an ancient deity, sacrificed in return for wisdom.",
+  "languages": [
+    {
+      "description": "Eine Auszeichnung, die nur den engagiertesten Forschern verliehen wird. Einige behaupten, es stelle das Auge einer antiken Gottheit dar, die im Gegenzug für Weisheit geopfert wurde.",
+      "name": "Sumdali: Archimedisches Auge",
+      "code": "de"
+    },
+    {
+      "description": "Une décoration décernée uniquement aux chercheurs les plus dévoués. Certains disent qu'elle représente l'œil d'une ancienne divinité, sacrifiée en échange de sagesse.",
+      "name": "Sumdali Œil d'Archimédien",
+      "code": "fr"
+    },
+    {
+      "description": "Un ornamento assegnato solo ai ricercatori più dediti. Secondo alcuni rappresenta l'occhio di un'antica divinità, sacrificato in cambio della saggezza.",
+      "name": "Sumdali Occhio Archimedeo",
+      "code": "it"
+    },
+    {
+      "description": "가장 충실한 연구자들에게만 수여되는 장식물입니다. 혹자에 따르면 이 눈은 지혜를 얻기 위해 한쪽 눈을 희생한 어떤 고대 신의 눈을 상징화한 것이라고도 합니다.",
+      "name": "아르키메디안의 눈 숨달리",
+      "code": "ko"
+    },
+    {
+      "description": "Un ornamento otorgado sólo a los investigadores más dedicados. Algunos lo consideran representativo del ojo de una antigua deidad, sacrificado a cambio de sabiduría.",
+      "name": "Sumdali de Ojo arquimediano",
+      "code": "es"
+    },
+    {
+      "description": "只有最敬业的研究者才能获得的饰物。有人说，它代表了古代神灵的眼睛，为换取智慧而牺牲。",
+      "name": "阿基米德之眼船徽",
+      "code": "zh"
+    },
+    {
+      "description": "Орнамент, которым удостаиваются только самые преданные исследователи. Некоторые считают, что это глаз древнего божества, принесённого в жертву в обмен на мудрость.",
+      "name": "Сумдали: Око Архимедиан",
+      "code": "ru"
+    },
+    {
+      "description": "最も熱心な研究者にのみ与えられる勲章。知恵と引き換えに片目を犠牲にした古の神を表しているとも一部では言われている。",
+      "name": "アルキメデスの眼サムダリー",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdoba przyznawana tylko najbardziej oddanym badaczom. Niektórzy uważają, że reprezentuje oko starożytnego bóstwa, poświęcone w zamian za mądrość.",
+      "name": "Sumdali Oka Archimediana",
+      "code": "pl"
+    },
+    {
+      "description": "Ornamento concedido apenas aos pesquisadores mais dedicados, e considerado por alguns como a representação do olho de uma divindade ancestral, outrora foi sacrificado em troca de sabedoria.",
+      "name": "Sumdali do Olho Arquimediano",
+      "code": "pt"
+    },
+    {
+      "description": "此飾物只授予給最盡心盡力的研究員。傳言這個飾物代表著古老之神的眼睛，犧牲自我以換取智慧。",
+      "name": "探研之眼船標",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องประดับที่จะมอบให้แก่นักวิจัยผู้ทุ่มเทมากที่สุดเท่านั้น มีบางคนเคยกล่าวว่ามันเป็นสัญลักษณ์ของดวงตาแห่งเทพเจ้าโบราณผู้ที่เสียสละเพื่อแลกกับปัญญา",
+      "name": "Archimedean Eye Sumdali",
+      "code": "th"
+    },
+    {
+      "description": "Yalnızca kendini adamış araştırmacılara verilen bir süs. Bazıları tarafından bilgelik karşılığında kurban edilen kadim bir tanrının gözünün temsilcisi olduğu söylenir.",
+      "name": "Arşimet'in Gözü Sumdali",
+      "code": "tr"
+    },
+    {
+      "description": "Оздоблення, яке видається лише найвідданішим дослідникам. Подейкують, що це символ ока прадавньої сутності, що пожертвувала оком в обмін на мудрість.",
+      "name": "Самдалі «Око Архімедове»",
+      "code": "uk"
+    }
+  ]
+}

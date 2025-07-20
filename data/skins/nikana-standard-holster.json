@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/KatanaHipsL",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nikana-standard-holster-7034cd5d60.png",
+  "name": "Nikana Standard Holster",
+  "description": "Standard holster for Nikanas.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Nikanas.",
+      "name": "Nikana-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Nikanas.",
+      "name": "Port de Nikana standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per le Nikana.",
+      "name": "Rinfodero Nikana Standard",
+      "code": "it"
+    },
+    {
+      "description": "니카나 계열 무기의 기본 수납 방식입니다.",
+      "name": "니카나 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para nikanas.",
+      "name": "Enfundado estándar de Nikana",
+      "code": "es"
+    },
+    {
+      "description": "给侍刃所使用的标准收纳姿态。",
+      "name": "侍刃标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Никан.",
+      "name": "Стандартный Крепеж Никаны",
+      "code": "ru"
+    },
+    {
+      "description": "刀系武器の通常ホルスター。",
+      "name": "刀専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Nikan.",
+      "name": "Nikana Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para Nikanas.",
+      "name": "Nikanas: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "侍刃武器所使用的標準收納姿態。",
+      "name": "侍刃標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับดาบนิคานะ",
+      "name": "ซองดาบนิคานะมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Nikanalar için standart kılıf",
+      "name": "Nikana Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення нікан, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

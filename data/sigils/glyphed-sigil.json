@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwoToneSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glyphed-sigil-51bc86e5d6.png",
+  "name": "Glyphed Sigil",
+  "description": "This sigil resembles a mysterious glyph.",
+  "languages": [
+    {
+      "description": "Dieses Siegel gleicht einer mysteriösen Glyphe.",
+      "name": "Siegel: Glyphen",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau ressemble à un Glyphe mystérieux.",
+      "name": "Sceau Glyphé",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo rappresenta un misterioso simbolo.",
+      "name": "Sigillo Glyphed",
+      "code": "it"
+    },
+    {
+      "description": "신비한 상형문자 형태의 시질입니다.",
+      "name": "글리프드 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello se asemeja a un misterioso glifo.",
+      "name": "Sello Glífico",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章就像一个神秘的字形",
+      "name": "雕纹纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот сигил представляет собой таинственный знак.",
+      "name": "Сигил: Знак",
+      "code": "ru"
+    },
+    {
+      "description": "神秘的な絵文字のシジル",
+      "name": "グリフド・シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przypominający tajemniczy glif.",
+      "name": "Znak Glifu",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão representa um misterioso hieróglifo.",
+      "name": "Brasão: Pictográfico",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章就像一個神祕的字形",
+      "name": "雕紋紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้มีลักษณะคล้ายภาพสัญลักษณ์ที่ลึกลับ",
+      "name": "เครื่องหมาย: Glyphed",
+      "code": "th"
+    },
+    {
+      "description": "Bu mühür içerisinde gizemli bir glif içerir.",
+      "name": "Glyphed Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл нагадує таємничий символ.",
+      "name": "Сиґіл «Символ»",
+      "code": "uk"
+    }
+  ]
+}

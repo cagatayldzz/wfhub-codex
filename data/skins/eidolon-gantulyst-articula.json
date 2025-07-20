@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Vignettes/Enemies/TeralystBigAFItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eidolon-gantulyst-articula-b225230dcf.png",
+  "name": "Eidolon Gantulyst Articula",
+  "description": "A posable, scale model of the Eidolon Gantulyst!",
+  "languages": [
+    {
+      "description": "Ein bewegliches, maßstabgetreues Modell des Eidolon Gantulyst!",
+      "name": "Articula: Eidolon Gantulyst",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle réduit décoratif d'un Gantulyste Eidolon!",
+      "name": "Articula Gantulyste Eidolon",
+      "code": "fr"
+    },
+    {
+      "description": "Un modello in scala posizionabile dell'Eidolon Gantulyst!",
+      "name": "Eidolon Gantulyst Articula",
+      "code": "it"
+    },
+    {
+      "description": "포즈를 조정할 수 있는 아이돌론 간툴리스트의 실물 비례 모델입니다.",
+      "name": "아이돌론 간툴리스트 아티큘라",
+      "code": "ko"
+    },
+    {
+      "description": "¡Un modelo a escala articulado del Eidolon Gantulista!",
+      "name": "Eidolon Gantulista articulado",
+      "code": "es"
+    },
+    {
+      "description": "一个等比例缩小可动的夜灵巨力使模型。",
+      "name": "夜灵巨力使可动模型",
+      "code": "zh"
+    },
+    {
+      "description": "Настраиваемая масштабная модель Эйдолонского Гантулиста!",
+      "name": "Модель Эйдолонского Гантулиста",
+      "code": "ru"
+    },
+    {
+      "description": "ポーズを付けられるエイドロン ガンツリストのフィギュア！",
+      "name": "エイドロン ガンツリスト アーティクラ",
+      "code": "ja"
+    },
+    {
+      "description": "Pozowalny model w zmniejszonej skali Eidolona Gantulyst!",
+      "name": "Artikula Eidolon Gantulyst",
+      "code": "pl"
+    },
+    {
+      "description": "Um modelo em escala de um Eidolon Gantulista!",
+      "name": "Articula: Eidolon Gantulista",
+      "code": "pt"
+    },
+    {
+      "description": "一個等比例縮小可動的夜靈巨力使模型。",
+      "name": "夜靈巨力使可動式模型",
+      "code": "tc"
+    },
+    {
+      "description": "หุ่นจำลองของ Eidolon Gantulyst ที่จัดวางท่าได้!",
+      "name": "อาร์ติคูลา Eidolon Gantulyst",
+      "code": "th"
+    },
+    {
+      "description": "Poz verebilen, ölçekli bir Eidolon Gantulyst modeli!",
+      "name": "Eidolon Gantulyst Artikula",
+      "code": "tr"
+    },
+    {
+      "description": "Зменшена копія ґантулиста з можливістю зміни пози!",
+      "name": "Модель ґантулиста",
+      "code": "uk"
+    }
+  ]
+}

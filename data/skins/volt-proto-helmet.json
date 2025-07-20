@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-proto-helmet-1157e30d33.png",
+  "name": "Volt Proto Helmet",
+  "description": "Volt Proto's signature helmet.",
+  "languages": [
+    {
+      "description": "Volt Protos bevorzugter Helm.",
+      "name": "Volt-Helm: Proto",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Volt Proto.",
+      "name": "Casque Volt Proto",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Volt Proto.",
+      "name": "Elmo Volt Proto",
+      "code": "it"
+    },
+    {
+      "description": "볼트 프로토의 대표 헬멧입니다.",
+      "name": "볼트 프로토 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Volt Proto.",
+      "name": "Casco de Volt Proto",
+      "code": "es"
+    },
+    {
+      "description": "Volt 原型的标志性头盔。",
+      "name": "Volt 原型头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Вольта «Прото».",
+      "name": "Шлем Вольта: Прото",
+      "code": "ru"
+    },
+    {
+      "description": "Volt Protoのメインヘルメット。",
+      "name": "Volt Proto ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Volta Proto.",
+      "name": "Volt: Hełm Proto",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Volt Proto.",
+      "name": "Volt: Capacete Proto",
+      "code": "pt"
+    },
+    {
+      "description": "Volt 原型的標誌性頭盔。",
+      "name": "Volt 原型頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Volt Proto",
+      "name": "หมวกเหล็ก Volt Proto",
+      "code": "th"
+    },
+    {
+      "description": "Volt Proto'nun özel miğferi.",
+      "name": "Volt Proto Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Прото» для Вольта.",
+      "name": "Шолом «Прото» для Вольта",
+      "code": "uk"
+    }
+  ]
+}

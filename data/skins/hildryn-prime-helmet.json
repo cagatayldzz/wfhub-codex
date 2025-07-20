@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/HildrynPrimeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-prime-helmet-403c704c0f.png",
+  "name": "Hildryn Prime Helmet",
+  "description": "The standard issue helmet for the Hildryn Prime Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Hildryn Prime Warframe.",
+      "name": "Hildryn Prime Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Hildryn Prime.",
+      "name": "Casque Hildryn Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Hildryn Prime.",
+      "name": "Elmo Hildryn Prime",
+      "code": "it"
+    },
+    {
+      "description": "힐드린 프라임 워프레임을 위한 기본 헬멧입니다.",
+      "name": "힐드린 프라임 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Hildryn Prime.",
+      "name": "Casco de Hildryn Prime",
+      "code": "es"
+    },
+    {
+      "description": "Hildryn Prime 的标准头盔。",
+      "name": "Hildryn Prime 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Хильдрин Прайм.",
+      "name": "Шлем Хильдрин Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Hildryn Primeの標準型ヘルメット。",
+      "name": "Hildryn Prime ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Hildryn Prime.",
+      "name": "Hildryn Prime: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Hildryn Prime.",
+      "name": "Hildryn Prime: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Hildryn Prime 的標準頭盔。",
+      "name": "Hildryn Prime 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Hildryn Prime Warframe",
+      "name": "หมวกเหล็ก Hildryn Prime",
+      "code": "th"
+    },
+    {
+      "description": "Hildryn Prime Warframe için standart miğfer.",
+      "name": "Hildryn Prime Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Гільдрини-прайм.",
+      "name": "Шолом Гільдрини-прайм",
+      "code": "uk"
+    }
+  ]
+}

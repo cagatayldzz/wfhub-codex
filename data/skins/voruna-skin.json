@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Werewolf/WerewolfSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voruna-skin-b0cd37ca5a.png",
+  "name": "Voruna Skin",
+  "description": "The standard skin for the Voruna Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Voruna Warframe.",
+      "name": "Voruna-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Voruna.",
+      "name": "Aspect Voruna",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Voruna.",
+      "name": "Skin Voruna",
+      "code": "it"
+    },
+    {
+      "description": "보루나 워프레임을 위한 기본 스킨입니다.",
+      "name": "보루나 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Voruna.",
+      "name": "Diseño de Voruna",
+      "code": "es"
+    },
+    {
+      "description": "Voruna 的标准外观。",
+      "name": "Voruna 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Воруны.",
+      "name": "Скин Воруны",
+      "code": "ru"
+    },
+    {
+      "description": "Vorunaの標準型スキン。",
+      "name": "Voruna スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Voruna.",
+      "name": "Voruna: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Voruna.",
+      "name": "Voruna: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Voruna 的標準外觀。",
+      "name": "Voruna 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Voruna Warframe",
+      "name": "สกิน Voruna",
+      "code": "th"
+    },
+    {
+      "description": "Voruna Warframe için standart skin.",
+      "name": "Voruna Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для Воруни.",
+      "name": "Вигляд Воруни",
+      "code": "uk"
+    }
+  ]
+}

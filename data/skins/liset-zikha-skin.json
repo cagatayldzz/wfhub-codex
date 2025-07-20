@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinFlavourItemD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/liset-zikha-skin-e1ff7808b7.png",
+  "name": "Liset Zikha Skin",
+  "description": "A customized exterior for your Liset.",
+  "languages": [
+    {
+      "description": "Ein angepasstes Äußeres für deine Liset.",
+      "name": "Liset-Skin: Zikha",
+      "code": "de"
+    },
+    {
+      "description": "Un extérieur personnalisé pour votre Liset.",
+      "name": "Aspect Liset Zikha",
+      "code": "fr"
+    },
+    {
+      "description": "Esterni personalizzati per la tua Liset",
+      "name": "Skin Liset Zikha",
+      "code": "it"
+    },
+    {
+      "description": "당신의 리셋을 위한 맞춤형 외장 스킨입니다.",
+      "name": "리셋 지카 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un exterior personalizado para tu Liset.",
+      "name": "Diseño Zikha de Liset",
+      "code": "es"
+    },
+    {
+      "description": "给你的 Liset 自定义外观。",
+      "name": "Liset 羽冠外观",
+      "code": "zh"
+    },
+    {
+      "description": "Улучшенный экстерьер для вашего Лисета.",
+      "name": "Скин Лисета: Зика",
+      "code": "ru"
+    },
+    {
+      "description": "ライセットの外観をカスタマイズ。",
+      "name": "ライセット Zikha スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Niestandardowe poszycie dla Twojego Liset.",
+      "name": "Liset: Skórka Zikha",
+      "code": "pl"
+    },
+    {
+      "description": "Um exterior personalizado para sua Liset.",
+      "name": "Liset: Skin Zikha",
+      "code": "pt"
+    },
+    {
+      "description": "給你的 Liset 自訂外觀。",
+      "name": "Liset 羽冠外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินชั้นนอกที่ออกแบบมาเพื่อใช้กับ Liset ของคุณ",
+      "name": "สกิน Liset Zikha",
+      "code": "th"
+    },
+    {
+      "description": "Liset'inizin Dış Görünümü için bir özelleştirme",
+      "name": "Liset Zikha Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий зовнішній вигляд для десантного судна «Лісет».",
+      "name": "Вигляд «Зіха» для Лісета",
+      "code": "uk"
+    }
+  ]
+}

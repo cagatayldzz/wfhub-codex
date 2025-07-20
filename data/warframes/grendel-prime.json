@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Devourer/GrendelPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-prime-e23d41072d.png",
+  "name": "Grendel Prime",
+  "description": "Primal. Insatiable. Grendel Prime devours all who oppose him.",
+  "armor": 400,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Ursprünglich. Unersättlich. Grendel Prime verschlingt alle, die sich ihm entgegenstellen.",
+      "name": "Grendel Prime",
+      "code": "de"
+    },
+    {
+      "description": "Primitif. Insatiable. Grendel Prime dévore tous ceux qui s'opposent à lui.",
+      "name": "Grendel Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Primitivo. Insaziabile. Grendel Prime divora tutti coloro che gli si oppongono.",
+      "name": "Grendel Prime",
+      "code": "it"
+    },
+    {
+      "description": "만족할 줄 모르는 원초의 굶주림. 그렌델 프라임은 그의 앞을 막아서는 그 어떤 것이라도 먹어치워버립니다.",
+      "name": "그렌델 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Primitivo. Insaciable. Grendel Prime devora a todos los que se le oponen.",
+      "name": "Grendel Prime",
+      "code": "es"
+    },
+    {
+      "description": "原始。永不饱足。Grendel Prime 吞食所有反抗他的人。",
+      "name": "Grendel Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Первобытный. Ненасытный. Грендель Прайм пожирает всех, кто станет на его пути.",
+      "name": "Грендель Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "原初。貪食。Grendel Primeは敵対する者を皆喰い尽くす。",
+      "name": "Grendel Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Pierwotny. Nienasycony. Grendel Prime pożera wszystkich na swej drodze.",
+      "name": "Grendel Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Primitivo. Insaciável. O Grendel Prime devora todos os que se opõem a ele.",
+      "name": "Grendel Prime",
+      "code": "pt"
+    },
+    {
+      "description": "原始、極餓。Grendel Prime 吞食所有與他為敵的人。",
+      "name": "Grendel Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Grendel Prime นักรบผู้มีสัญชาติญาณดิบที่ไม่เคยอิ่ม จะกลืนกินทุกคนที่เป็นปรปักษ์",
+      "name": "Grendel Prime",
+      "code": "th"
+    },
+    {
+      "description": "İlkel. Doyumsuz. Grendel Prime, kendisine karşı çıkan herkesi ortadan kaldırır.",
+      "name": "Grendel Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Первісна лють. Ненажерливість. Ґрендель-прайм пожирає всіх, хто насмілиться протистояти.",
+      "name": "Ґрендель-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/InfestedWyrmBlood",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fass-residue-01209d7fd3.png",
+  "name": "Fass Residue",
+  "description": "PROCESSED FASS RESIDUE",
+  "languages": [
+    {
+      "description": "VERARBEITE FASS ÜBERRESTE",
+      "name": "Fass Überreste",
+      "code": "de"
+    },
+    {
+      "description": "RÉSIDU DE FASS TRAITÉ",
+      "name": "Résidu de Fass",
+      "code": "fr"
+    },
+    {
+      "description": "RESIDUO FASS PROCESSATO",
+      "name": "Residuo Fass",
+      "code": "it"
+    },
+    {
+      "description": "가공된 파스 잔여물",
+      "name": "파스 잔여물",
+      "code": "ko"
+    },
+    {
+      "description": "RESIDUO DE FASS PROCESADO",
+      "name": "Residuo de Fass",
+      "code": "es"
+    },
+    {
+      "description": "处理过的“混乱”残留物",
+      "name": "“混乱”残留物",
+      "code": "zh"
+    },
+    {
+      "description": "ОБРАБОТАННЫЕ ОСТАНКИ ФЭЗА",
+      "name": "Останки Фэза",
+      "code": "ru"
+    },
+    {
+      "description": "加工済みのFASS残余",
+      "name": "Fassの残余",
+      "code": "ja"
+    },
+    {
+      "description": "PRZETWORZONE RESZTKI FASS",
+      "name": "Resztki Fass",
+      "code": "pl"
+    },
+    {
+      "description": "RESÍDUO DE FASS PROCESSADO",
+      "name": "Resíduo Fass",
+      "code": "pt"
+    },
+    {
+      "description": "加工過的 FASS 殘餘物",
+      "name": "Fass 殘餘物",
+      "code": "tc"
+    },
+    {
+      "description": "เศษตกค้างของ FASS ที่แปรรูปแล้ว",
+      "name": "เศษตกค้างของ Fass",
+      "code": "th"
+    },
+    {
+      "description": "İŞLENMİŞ FASS KALINTISI",
+      "name": "Fass Kalıntısı",
+      "code": "tr"
+    },
+    {
+      "description": "ОБРОБЛЕНІ РЕШТКИ ФАССА",
+      "name": "Рештки Фасса",
+      "code": "uk"
+    }
+  ]
+}

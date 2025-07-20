@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/UnlockArbitrationKeyItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/unlock-arbitrations-6146599210.png",
+  "name": "Unlock Arbitrations",
+  "description": "Unlocks Arbitration Missions in the Alerts tab of the navigation menu.\nArbitrations are challenging endless missions variants with greater rewards.",
+  "languages": [
+    {
+      "description": "Schaltet Schiedsgericht-Missionen im Reiter 'Alarmierungen' des Navigationsmenüs frei.\nSchiedsgerichte sind herausfordernde Varianten von Endlosmissionen mit größeren Belohnungen.",
+      "name": "Schalte Schiedsgericht frei.",
+      "code": "de"
+    },
+    {
+      "description": "Débloque les missions d'Arbitrage dans l'onglet Alertes du menu de Navigation.\nLes Arbitrages sont des variantes de missions sans fin difficiles avec de meilleures récompenses.",
+      "name": "Débloquer les Arbitrages",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca le Missioni Arbitrato nella scheda Allerte del menu navigazione.\nGli Arbitrati sono varianti impegnative di missioni infinite con ricompense migliori.",
+      "name": "Sblocca gli Arbitrati",
+      "code": "it"
+    },
+    {
+      "description": "내비게이션 메뉴의 얼럿 탭에서 중재 미션을 해금합니다.\n중재 미션은 더욱 어려운 만큼 더 큰 보상을 제공하는 무한 미션 유형입니다.",
+      "name": "중재 해금",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea misiones de arbitraje en la pestaña de alertas en el menú de navegación.\nLos arbitrajes son variantes más difíciles de misiones sin fin con mayores recompensas.",
+      "name": "Desbloquea los Arbitramentos",
+      "code": "es"
+    },
+    {
+      "description": "在导航菜单的“警报”标签中解锁仲裁任务。\n仲裁是充满挑战的无尽任务变体，奖励更为丰厚。",
+      "name": "解锁仲裁",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает миссии Арбитража во вкладке «Сигналы тревог» в меню навигации.\nАрбитражи это усложнённые варианты бесконечных миссий с большими наградами.",
+      "name": "Доступ к Арбитражам",
+      "code": "ru"
+    },
+    {
+      "description": "ナビゲーション画面のアラートタブで仲裁ミッションを解放する。\n仲裁ミッションは大きな報酬が得られる高難易度のエンドレスミッションです。",
+      "name": "仲裁ミッションを解放する",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje misje Arbitrażu w zakładce Alarmów w ekranie Nawigacji.\nMisje Arbitrażu to wymagające, niekończące się warianty misji z cennymi nagrodami.",
+      "name": "Dostęp do misji Arbitrażu",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueará as missões de Arbitragem na aba de Alertas, no menu de navegação.\nAs Arbitragens são variantes desafiadoras de missões infinitas, com melhores recompensas.",
+      "name": "Desbloqueio das Arbitragens",
+      "code": "pt"
+    },
+    {
+      "description": "導航選單的警報分頁中可解鎖仲裁任務。\n仲裁是具有挑戰性的無盡任務變體，獎勵也更豐厚。",
+      "name": "解鎖仲裁",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกภารกิจการตัดสินชี้ชะตาในแท็บการแจ้งเตืองของเมนูแผนที่นำทาง\nภารกิจการตัดสินชี้ชะตาเป็นโหมดภารกิจท้าทายแบบไม่สิ้นสุดที่จะมอบรางวัลตอบแทนมากยิ่งขึ้น",
+      "name": "ปลดล็อกการตัดสินชี้ชะตา",
+      "code": "th"
+    },
+    {
+      "description": "Navigasyon menüsünün Alert Görevleri sekmesindeki Arbitrasyon Görevlerinin kilidini açar.\nArbitrasyonlar, daha büyük ödüller sunan zorlu, sonsuz görev çeşitleridir.",
+      "name": "Arbitrasyon Kilidini Aç",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує завдання Арбітражу на вкладці «Виклики» на зоряній мапі.\nАрбітражі — складні нескінченні варіанти завдань з ліпшими нагородами.",
+      "name": "Розблокування Арбітражу",
+      "code": "uk"
+    }
+  ]
+}

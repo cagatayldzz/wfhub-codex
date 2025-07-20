@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/Pistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lato-352acc2de0.png",
+  "name": "Lato",
+  "description": "The Lato is a highly accurate pistol used by the Tenno everywhere.",
+  "languages": [
+    {
+      "description": "Die Lato ist eine genaue Pistole, die von vielen Tenno benutzt wird.",
+      "name": "Lato",
+      "code": "de"
+    },
+    {
+      "description": "Le Lato est un Pistolet très précis, il est largement employé par les Tennos.",
+      "name": "Lato",
+      "code": "fr"
+    },
+    {
+      "description": "La Lato è una pistola precisa molto utilizzata dai Tenno.",
+      "name": "Lato",
+      "code": "it"
+    },
+    {
+      "description": "반자동 권총인 라토는 높은 정확도를 지닌 권총으로, 텐노들에게 널리 사용되고 있습니다.",
+      "name": "라토",
+      "code": "ko"
+    },
+    {
+      "description": "La Lato es una pistola altamente precisa usada por los tenno en todas partes.",
+      "name": "Lato",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LATO）拉托是一款被 Tenno 广泛使用的高精度手枪。",
+      "name": "拉托",
+      "code": "zh"
+    },
+    {
+      "description": "Лато - крайне точный пистолет, повсеместно используемый Тэнно.",
+      "name": "Лато",
+      "code": "ru"
+    },
+    {
+      "description": "高い精度を誇り、テンノの標準装備の1つとされているピストル。",
+      "name": "Lato",
+      "code": "ja"
+    },
+    {
+      "description": "Lato jest samopowtarzalnym pistoletem powszechnie używanym przez Tenno.",
+      "name": "Lato",
+      "code": "pl"
+    },
+    {
+      "description": "A Lato é uma pistola de alta precisão usada por Tennos em todos os lugares.",
+      "name": "Lato",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LATO）拉托是一款被 Tenno 廣泛使用的高精準度手槍。",
+      "name": "拉托",
+      "code": "tc"
+    },
+    {
+      "description": "Lato เป็นปืนพกที่มีความแม่นยำสูงซึ่ง Tenno สามารถเอาไปใช้ได้ในทุกที่",
+      "name": "Lato",
+      "code": "th"
+    },
+    {
+      "description": "Lato, Tenno tarafından her yerde kullanılan yüksek isabet oranlı bir tabancadır.",
+      "name": "Lato",
+      "code": "tr"
+    },
+    {
+      "description": "Високоточний пістолет, часто використовується тенно на різноманітних завданнях.",
+      "name": "Лато",
+      "code": "uk"
+    }
+  ]
+}

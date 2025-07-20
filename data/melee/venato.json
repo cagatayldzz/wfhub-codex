@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Sentients/SentJointedScythe/SentJointedScytheWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/venato-54532048ec.png",
+  "name": "Venato",
+  "description": "Caliban’s signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.",
+  "languages": [
+    {
+      "description": "Calibans bervorzugte Sense, geschmiedet aus einem Körperteil, das vor Jahrhunderten einem gefallenen Eidolon abgerissen wurde. Erhöht Nahkampfkombo-Konterchance, um 50 %, wenn sie von Caliban geführt wird.",
+      "name": "Venato",
+      "code": "de"
+    },
+    {
+      "description": "La Faux emblématique de Caliban, forgée à partir d'un membre arraché à un Eidolon tombé il y a des siècles. 50% de chances d'augmenter le Compteur de Combo supplémentaires quand elle est utilisée par Caliban.",
+      "name": "Venato",
+      "code": "fr"
+    },
+    {
+      "description": "La falce caratteristica di Caliban, forgiata da un arto strappato via secoli fa a un Eidolon abbattuto. Probabilità Contatore Combo aumentata del 50% quando viene impugnata da Caliban.",
+      "name": "Venato",
+      "code": "it"
+    },
+    {
+      "description": "오래전 쓰러진 아이돌론의 팔다리를 뜯어내 만들어낸 칼리반의 대표 낫입니다. 칼리반이 사용할 시 근접 연속기 카운터 증가 확률이 50% 증가합니다.",
+      "name": "베나토",
+      "code": "ko"
+    },
+    {
+      "description": "La guadaña distintiva de Caliban, forjada a partir de una extremidad arrancada de un Eidolon caído hace siglos. La probabilidad de contador de combo cuerpo a cuerpo incrementa en un 50 % cuando la usa Caliban.",
+      "name": "Venato",
+      "code": "es"
+    },
+    {
+      "description": "（英文：VENATO）Caliban 的标志性镰刀，由几个世纪前从一个倒下的夜灵身上扯下的肢体锻造而成。被 Caliban 挥舞时，有 50% 几率获得额外近战连击数。",
+      "name": "脉纹",
+      "code": "zh"
+    },
+    {
+      "description": "Особая коса Калибана, выкованная из оторванной конечности павшего много веков назад Эйдолона. Использование косы Калибаном добавляет 50% шанса увеличить счетчик комбо.",
+      "name": "Венато",
+      "code": "ru"
+    },
+    {
+      "description": "何世紀も前に倒れたエイドロンから引き千切られた四肢より鍛造された、Calibanを象徴する鎌。Calibanが装備する際は、50％の確率で近接コンボカウンターが追加される。",
+      "name": "Venato",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna dla Calibana kosa, wykuta z kończyny oderwanej od upadłego Eidolona wieki temu. Zwiększa o 50% szanse na zwiększenie Licznika Kombo Broni białej, gdy trzymana jest przez Calibana.",
+      "name": "Venato",
+      "code": "pl"
+    },
+    {
+      "description": "A foice tradicional do Caliban, forjada a partir de um membro arrancado de um Eidolon abatido há séculos. Concede 50% de Chance de aumentar o Contador do Combo Corpo a Corpo quando utilizada por Caliban.",
+      "name": "Venato",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：VENATO）Caliban 的標誌性鐮刀，從幾世紀前倒下的夜靈扭下的殘肢鍛造而成。由 Caliban 揮舞時，增加 50% 獲得近戰連擊數的機率。",
+      "name": "威拿托",
+      "code": "tc"
+    },
+    {
+      "description": "เคียวที่เป็นอาวุธประจำตัวของ Caliban หลอมจากแขนขาที่บิดออกจาก Eidolon ที่ร่วงหล่นเมื่อหลายศตวรรษก่อน หาก Caliban เป็นผู้ใช้อาวุธชิ้นนี้ก็จะเพิ่มโอกาสการนับคอมโบระยะประชิดขึ้น 50%",
+      "name": "Venato",
+      "code": "th"
+    },
+    {
+      "description": "Yüzyıllar önce alt edilmiş bir Eidolon'un kopan uzuvlarından dövülmüş karakteristik bir tırpan. Caliban'ın özel silahı. Caliban tarafından kullanıldığında Yakın Dövüş Kombo Sayısı Şansını %50 artırır.",
+      "name": "Venato",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна коса Калібана, викована з кінцівки, яку багато століть тому вирвали в ейдолона. У руках Калібана дає 50 % ймовірності збільшити лічильник серії ударів.",
+      "name": "Венато",
+      "code": "uk"
+    }
+  ]
+}

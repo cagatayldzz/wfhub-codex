@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/ArchonShardEphemeraB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shard-bane-ephemera-f85e3ce455.png",
+  "name": "Shard Bane Ephemera",
+  "description": "Express the Archon's fury. This Ephemera dynamically updates with your Warframe's installed Archon Shards.",
+  "languages": [
+    {
+      "description": "Offenbart die Wut der Archons. Dieses Ephemera ändert sich auf dynamische Weise, abhängig von den installierten Archon Scherben auf deinem Warframe.",
+      "name": "Ephemera: Scherbenfluch",
+      "code": "de"
+    },
+    {
+      "description": "Exprimez la fureur de l'Archonte. Cet Ephemera se met à jour dynamiquement avec les Fragments d'Archonte installés sur votre Warframe.",
+      "name": "Ephemera Fragment Cauchemar",
+      "code": "fr"
+    },
+    {
+      "description": "Esprimi la furia dell'Archon. Questa Ephemera si aggiorna dinamicamente con i Frammenti Archon installati nel tuo Warframe.",
+      "name": "Ephemera Shard Bane",
+      "code": "it"
+    },
+    {
+      "description": "집정관의 분노를 표출해 보세요. 이 이페메라는 해당 워프레임에 설치된 집정관 샤드를 실시간으로 반영합니다.",
+      "name": "샤드 베인 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Expresa la furia de los arcontes. Este efímero se actualiza dinámicamente con los Fragmentos de Arconte instalados en tu warframe.",
+      "name": "Efímero Fragmento Pesadilla",
+      "code": "es"
+    },
+    {
+      "description": "表现执刑官的怒火。这个幻纹会随着你战甲上安装的执刑官源力石进行动态更新。",
+      "name": "源力石克星幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Выразите ярость Архонта. Эта эфемера динамически обновляется с помощью установленных в вашем варфрейме Осколков Архонта.",
+      "name": "Эфемера «Осколок погибели»",
+      "code": "ru"
+    },
+    {
+      "description": "アルコンの怒りを表現せよ。このエフェメラは、WARFRAMEにインストールされているアルコンの欠片で動的に更新される。",
+      "name": "Shard Bane エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ucieleśnij furię Archona. Ta Efemera przedstawia Okruchy Archona zainstalowane w Twoim Warframe'ie.",
+      "name": "Efemera Okruchu Zguba",
+      "code": "pl"
+    },
+    {
+      "description": "Expresse a fúria do Arconte. Esta Efêmera é atualizada dinamicamente com os Fragmentos de Arconte instalados no seu Warframe.",
+      "name": "Efêmera: Fragmento Amaldiçoado",
+      "code": "pt"
+    },
+    {
+      "description": "展現執政官的憤怒。這個幻紋隨著你的 Warframe 上安裝的執政官靈石而動態更新。",
+      "name": "靈石厄禍紋幻",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความโกรธเกรี้ยวของ Archon ออกมาให้เห็น อิเฟมเมอราชุดนี้จะอัปเดตแบบไดนามิกตามเศษ Archon ที่ติดตั้งอยู่ในตัว Warframe",
+      "name": "อิเฟมเมอรา Shard Bane",
+      "code": "th"
+    },
+    {
+      "description": "Archon'un öfkesini dile getir. Bu Ephemera, Warframe'inde kurulu Archon Parçaları ile dinamik olarak güncellenir.",
+      "name": "Shard Bane Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Проявіть лють архонтів. Ефемера змінюється під впливом встановлених у ворфрейм архонтових уламків.",
+      "name": "Ефемера «Уламкова кара»",
+      "code": "uk"
+    }
+  ]
+}

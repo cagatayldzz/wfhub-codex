@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/KuvaSobek",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-sobek-083b987193.png",
+  "name": "Kuva Sobek",
+  "description": "The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.",
+  "languages": [
+    {
+      "description": "Aufgrund seiner außergewöhnlichen Nachladegeschwindigkeit, kritischen Trefferchance und Statuschance passt Kuva Sobek perfekt zum dominanten Geist eines Kuva Lich.",
+      "name": "Kuva Sobek",
+      "code": "de"
+    },
+    {
+      "description": "La Vitesse de Rechargement, les Chances de Critique et les Chances de Statut exceptionnelles du Sobek Kuva en font un choix naturel pour l'esprit dominant de la Liche Kuva.",
+      "name": "Sobek Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "L'eccezionale Velocità di Ricarica, Probabilità Critico e Probabilità Effetto del Kuva Sobek lo rendono un adattamento naturale allo spirito dominante del Kuva Lich.",
+      "name": "Kuva Sobek",
+      "code": "it"
+    },
+    {
+      "description": "쿠바 소벡의 뛰어난 재장전 속도, 치명타 확률 및 상태 이상 확률은 이 무기를 쿠바 리치의 지배적 정신에 딱 들어맞는 무기로 만듭니다.",
+      "name": "쿠바 소벡",
+      "code": "ko"
+    },
+    {
+      "description": "La velocidad de recarga, probabilidad crítica y probabilidad de estado excepcionales de la Sobek Kuva la vuelven una opción natural para el espíritu dominante del Lich de Kuva.",
+      "name": "Sobek Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA SOBEK）赤毒·鳄神出色的装填速度、暴击几率和触发几率，与赤毒玄骸的霸道风格高度契合。",
+      "name": "赤毒·鳄神",
+      "code": "zh"
+    },
+    {
+      "description": "Исключительная скорость перезарядки, шанс критического урона и шанс статуса Собека Кува делают его естественным образом подходящим для доминирующего духа личей кувы.",
+      "name": "Собек Кува",
+      "code": "ru"
+    },
+    {
+      "description": "Kuva Sobekの並外れたリロード速度、クリティカル率、状態異常確率はクバ・リッチの支配精神にぴったり合致している。",
+      "name": "Kuva Sobek",
+      "code": "ja"
+    },
+    {
+      "description": "Wyjątkowa Prędkość Przeładowania, Szansa na Obrażenia Krytyczne i Szansa Statusu sprawiają, że Sobek Kuvy idealnie pasuje do dominującego ducha Liczy Kuvy.",
+      "name": "Sobek Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "A Velocidade de Recarga, a Chance Crítica e a Chance de Status excepcionais da Sobek Kuva compactuam naturalmente com o espírito dominante do Kuva Lich.",
+      "name": "Sobek Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA SOBEK）赤毒鱷神的裝填速度、暴擊率以及狀態觸發機率皆相當出色，這也與赤毒巫妖想支配他人的性格不謀而合。",
+      "name": "赤毒 鱷神",
+      "code": "tc"
+    },
+    {
+      "description": "Kuva Sobek กระบอกนี้มีความเร็วในการรีโหลดกระสุน โอกาสคริติคอล และโอกาสสถานะที่ยอดเยี่ยมเหมาะกับนิสัยจอมบงการของ Kuva Lich",
+      "name": "Kuva Sobek",
+      "code": "th"
+    },
+    {
+      "description": "Kuva Sobek'in olağanüstü Yeniden Doldurma Hızı, Kritik Şansı ve Statü Şansı, onu Kuva Lich'in baskın ruhuna doğal bir uyum haline getiriyor.",
+      "name": "Kuva Sobek",
+      "code": "tr"
+    },
+    {
+      "description": "Себек-кува має виняткову швидкість перезаряджання, імовірність критичної шкоди та накладання ефекту стану, що робить зброю ідеальною для панівного духу кувових лічів.",
+      "name": "Себек-кува",
+      "code": "uk"
+    }
+  ]
+}

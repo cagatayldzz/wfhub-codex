@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Elitium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitus-essence-c81ca0b866.png",
+  "name": "Vitus Essence",
+  "description": "Awarded by the Arbiters of Hexis to the few Tenno capable of surviving Arbitration.\n\nLocation: Arbitration Missions",
+  "languages": [
+    {
+      "description": "Von den Arbiters of Hexis an wenige Tenno zuerkannt, die fähig genug sind, das Schiedsgericht zu überleben.\n\nQuelle: Schiedsgericht-Missionen",
+      "name": "Vitus-Essenz",
+      "code": "de"
+    },
+    {
+      "description": "Donnée en récompense par les Arbitres de Hexis aux rares Tennos capables de survivre à l'Arbitrage.\n\nLieu: Missions d'Arbitrage",
+      "name": "Essence Vitus",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito dagli Arbiters of Hexis ai pochi Tenno sopravvissuti all'Arbitrato.\n\nPosizione: Missioni Arbitrato",
+      "name": "Essenza Vitus",
+      "code": "it"
+    },
+    {
+      "description": "아비터즈 오브 헥시스가 중재를 견뎌낼 수 있는 텐노에게 수여하는 보상입니다.\n\n획득 가능 장소: 중재 미션",
+      "name": "바이터스 에센스",
+      "code": "ko"
+    },
+    {
+      "description": "Entregado por los Árbitros de Hexis a los pocos tenno capaces de sobrevivir el Arbitramento.\n\nUbicación: Misiones de Arbitramento",
+      "name": "Esencia Vitus",
+      "code": "es"
+    },
+    {
+      "description": "由均衡仲裁者授予少数能从仲裁中幸存的 Tenno。\n\n获取地点：仲裁任务",
+      "name": "生息精华",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается Арбитрами Гексиса тем немногим Тэнно, что смогли выжить в Арбитраже.\n\nМестонахождение: Миссии Арбитража.",
+      "name": "Эссенция Витус",
+      "code": "ru"
+    },
+    {
+      "description": "仲裁から生還した少数のテンノにアービターズ・オブ・ヘクシスから贈られる。\n\n場所：仲裁ミッション",
+      "name": "ビタス・エッセンス",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawana przez Arbitrów Hexis tym Tenno, którzy byli w stanie przetrwać Arbitraż.\n\nPołożenie: Misje Arbitrażu",
+      "name": "Esencja Vitus",
+      "code": "pl"
+    },
+    {
+      "description": "Recompensado pelos Árbitros do Hexis aos escolhidos Tennos capazes de sobreviver às Arbitragens.\n\nLocalização: Missões de Arbitragem.",
+      "name": "Essência Vitus",
+      "code": "pt"
+    },
+    {
+      "description": "由均衡仲裁者授予少數能從仲裁中倖存的 Tenno。\n\n地點：仲裁任務",
+      "name": "生息精華",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลที่ได้จาก Arbiters of Hexis มอบให้แก่ Tenno เพียงไม่กี่คนที่สามารถรอดชีวิตจากภารกิจตัดสินชี้ชะตาได้\n\nแหล่งที่พบ: ภารกิจตัดสินชี้ชะตา",
+      "name": "ไวทัสเอสเซนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Arbiters of the Hexis tarafından, Arbitrasyonda hayatta kalan az sayıda Tenno'ya verilen bir ödül.\n\nKonum: Arbitrasyon Görevleri",
+      "name": "Vitus Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагорода від «Арбітрів Гексису» тим небагатьом тенно, що змогли пережити Арбітраж.\n\nМожна здобути на завданнях Арбітражу.",
+      "name": "Есенція життя",
+      "code": "uk"
+    }
+  ]
+}

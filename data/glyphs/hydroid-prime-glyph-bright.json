@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageHydroidPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-prime-glyph---bright-97d14566af.png",
+  "name": "Hydroid Prime Glyph - Bright",
+  "description": "A glyph depicting Hydroid Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Hydroid Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Hydroid Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Hydroid Prime sur un fond lumineux.",
+      "name": "Glyphe Hydroid Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Hydroid Prime su uno sfondo chiaro.",
+      "name": "Glifo Hydroid Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 하이드로이드 프라임을 묘사한 글리프입니다.",
+      "name": "하이드로이드 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Hydroid Prime sobre un fondo brillante.",
+      "name": "Glifo de Hydroid Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid Prime 在明亮背景下的浮印。",
+      "name": "Hydroid Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гидроида Прайм на светлом фоне.",
+      "name": "Глиф: Гидроид Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたHydroid Primeのグリフ。",
+      "name": "Hydroid Prime グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Hydroid Prime na jasnym tle.",
+      "name": "Glif Hydroid Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Hydroid Prime em um fundo claro.",
+      "name": "Glifo: Hydroid Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Hydroid Prime 在明亮背景下的浮印。",
+      "name": "Hydroid Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Hydroid Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Hydroid Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Hydroid Prime açık fonlu glif.",
+      "name": "Hydroid Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гідроїда-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Гідроїд-прайм»",
+      "code": "uk"
+    }
+  ]
+}

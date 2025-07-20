@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/SWArresterVoltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-arrester-helmet-2f0737637a.png",
+  "name": "Volt Arrester Helmet",
+  "description": "A helmet for the Volt Warframe, designed by Rekkou.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Volt Warframe, entworfen von Rekkou.",
+      "name": "Volt-Helm: Arrester",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Volt, conçu par Rekkou.",
+      "name": "Casque Volt Parafoudre",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Volt, ideato da Rekkou.",
+      "name": "Elmo Volt Arrester",
+      "code": "it"
+    },
+    {
+      "description": "Rekkou에 의해 디자인된 볼트 워프레임을 위한 헬멧입니다.",
+      "name": "볼트 어레스터 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Volt, diseñado por Rekkou.",
+      "name": "Casco Arrester de Volt",
+      "code": "es"
+    },
+    {
+      "description": "Volt 战甲的头盔，由 Rekkou 设计。",
+      "name": "Volt 避雷头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Вольта, созданный Rekkou.",
+      "name": "Шлем Вольта: Разрядник",
+      "code": "ru"
+    },
+    {
+      "description": "Volt用のヘルメット。製作者：Rekkou。",
+      "name": "Volt Arrester ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Volt, zaprojektowany przez Rekkou.",
+      "name": "Volt: Hełm Arrester",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Volt, desenvolvido por Rekkou.",
+      "name": "Volt: Capacete Arrester",
+      "code": "pt"
+    },
+    {
+      "description": "Volt Warframe 的頭盔，由 Rekkou 所設計。",
+      "name": "Volt 避雷頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Volt Warframe ออกแบบโดย Rekkou",
+      "name": "หมวกเหล็ก Volt Arrester",
+      "code": "th"
+    },
+    {
+      "description": "Rekkou tarafından dizayn edilmiş Volt Warframe miğferi.",
+      "name": "Volt Arrester Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вольта, створений Rekkou.",
+      "name": "Шолом «Розрядник» для Вольта",
+      "code": "uk"
+    }
+  ]
+}

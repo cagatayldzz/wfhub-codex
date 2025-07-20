@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryVelimirEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/velimir-gemini-emote-f3e97d5e7e.png",
+  "name": "Velimir Gemini Emote",
+  "description": "Switch between Frost and Velimir's Gemini Skin with the Velimir Gemini Emote, even during missions.",
+  "languages": [
+    {
+      "description": "Wechsle mit dem Emote: Velimir Gemini zwischen Frost und Velimirs Gemini-Skin, auch während Missionen.",
+      "name": "Emote: Velimir Gemini",
+      "code": "de"
+    },
+    {
+      "description": "Basculez entre Frost et l'Aspect Velimir de la Série Gémeaux avec le Geste Velimir Gémeaux, même pendant les missions.",
+      "name": "Geste Velimir Gémeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Passa dalla Skin di Frost a quella Gemini di Velimir con l'Emote Velimir Gemini, anche durante le missioni.",
+      "name": "Emote Velimir Gemini",
+      "code": "it"
+    },
+    {
+      "description": "미션 도중 벨리미르 제미니 감정 표현을 사용해 벨리미르의 제미니 스킨과 프로스트 사이를 자유로이 전환할 수 있습니다.",
+      "name": "벨리미르 제미니 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Cambia entre Frost y el diseño Géminis de Velimir con el gesto Géminis de Velimir, incluso durante las misiones.",
+      "name": "Gesto de Velimir Géminis",
+      "code": "es"
+    },
+    {
+      "description": "使用维利米尔双子表情动作，在 Frost 和维利米尔的双子外观之间切换，即使是在任务期间。",
+      "name": "维利米尔双子表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Переключайтесь между Фростом и скином Велимира «Близнецы» с помощью жеста «Близнецы» Велимира, даже во время миссий.",
+      "name": "Жест Велимира: Близнецы",
+      "code": "ru"
+    },
+    {
+      "description": "Velimir Geminiエモートでミッション中FrostとVelimirを自由に切り替える。",
+      "name": "Velimir Gemini エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Przełączaj się między Skórką Frosta i Skórką Gemini Velimira za pomocą Gestu Gemini Velimira, nawet w trakcie misji.",
+      "name": "Gest Gemini Velimira",
+      "code": "pl"
+    },
+    {
+      "description": "Alterne entre o Frost e a Skin Gemini do Velimir com o Emote Gemini do Velimir, até mesmo durante suas missões.",
+      "name": "Emote Gemini do Velimir",
+      "code": "pt"
+    },
+    {
+      "description": "使用韋利米爾雙子表情動作來在 Frost 和韋利米爾的雙子外觀之間切換，即使在任務期間。",
+      "name": "韋利米爾雙子表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "สลับไปมาระหว่าง Frost กับสกิน Gemini ของ Velimir ด้วยอิโมต Velimir Gemini ซึ่งเปลี่ยนได้แม้จะอยู่ในระหว่างการทำภารกิจ",
+      "name": "อิโมต Velimir Gemini",
+      "code": "th"
+    },
+    {
+      "description": "Görevler sırasında, Velimir Gemini Gövde Hareketi ile Frost ve Velimir'in Gemini Skin'i arasında geçiş yapabilirsin.",
+      "name": "Velimir Gemini Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Перемикайтеся між виглядами Фроста та Велимира за допомогою жесту «Велимир „Двійнята”» навіть під час завдання.",
+      "name": "Жест «Велимир „Двійнята”»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kunai-355eb5dcab.png",
+  "name": "Kunai",
+  "description": "Kunai throwing daggers offer a silent alternative to the traditional side arm. Perfect for assassins.",
+  "languages": [
+    {
+      "description": "Die Kunai-Wurfdolche bieten eine geräuschlose Alternative zu traditionellen Sekundärwaffen. Perfekt für Attentäter.",
+      "name": "Kunai",
+      "code": "de"
+    },
+    {
+      "description": "Les Dagues de lancer Kunai offrent une alternative silencieuse aux armes de poing traditionnelles. Parfaites pour les assassins.",
+      "name": "Kunai",
+      "code": "fr"
+    },
+    {
+      "description": "I pugnali da lancio KUNAI offrono un'alternativa silenziosa alle pistole tradizionali. Perfetti per gli assassini.",
+      "name": "Kunai",
+      "code": "it"
+    },
+    {
+      "description": "쿠나이 투척용 단검은 기존의 보조 무기와 다르게 은밀함이 보장된 무기입니다. 암살자에게 최적입니다.",
+      "name": "쿠나이",
+      "code": "ko"
+    },
+    {
+      "description": "Las dagas arrojadizas Kunai ofrecen una alternativa silenciosa al arma secundaria tradicional. Perfectas para asesinos.",
+      "name": "Kunai",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUNAI）苦无以投掷用匕首替代传统次要武器的非静音攻击。暗杀首选。",
+      "name": "苦无",
+      "code": "zh"
+    },
+    {
+      "description": "Метательные кинжалы «Кунаи» представляют собой бесшумную альтернативу традиционному вооружению. Превосходны для ассасинов.",
+      "name": "Кунаи",
+      "code": "ru"
+    },
+    {
+      "description": "音もなく敵を処理できる小型の投てき暗器。敵の暗殺に最適。",
+      "name": "Kunai",
+      "code": "ja"
+    },
+    {
+      "description": "Kunai - sztylety do rzucania. Cicha alternatywa dla tradycyjnej broni krótkiej. Doskonała dla zabójców.",
+      "name": "Kunai",
+      "code": "pl"
+    },
+    {
+      "description": "Um jogo de facas de arremessar. Extremamente mortais nas mãos de um arremessador experiente",
+      "name": "Kunai",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUNAI）苦無以投擲用匕首替代傳統次要武器的非靜音攻擊。暗殺首選。",
+      "name": "苦無",
+      "code": "tc"
+    },
+    {
+      "description": "การขว้างมีดสั้น Kunai เป็นทางเลือกหนึ่งของอาวุธเก่าแก่ที่ไร้เสียง เหมาะสำหรับการลอบสังหาร",
+      "name": "Kunai",
+      "code": "th"
+    },
+    {
+      "description": "Kunai atış hançerleri geleneksel tek elle tutulan silahlara sessiz bir alternatif olarak sunulmuştur. Suikastçiler için mükemmeldir.",
+      "name": "Kunai",
+      "code": "tr"
+    },
+    {
+      "description": "Кидальні клинки — безшумна допоміжна зброя будь-якого тенно. Бездоганні для скрадних убивств.",
+      "name": "Кунаї",
+      "code": "uk"
+    }
+  ]
+}

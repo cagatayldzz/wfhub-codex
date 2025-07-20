@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/carcinnox.png",
+  "name": "Vidar Carcinnox Mk I",
+  "description": "Rapid-fire toxin cannon: damages enemy vessels with a toxic sludge that can penetrate hulls and cause crews to become confused, turning on their allies.",
+  "languages": [
+    {
+      "description": "Schnellfeuernde Giftkanone: schadet den Schiffen der Gegner mit giftigem Schlamm, der in die Hüllen eindringt und die Crew so verwirrt, dass sie ihre Verbündeten angreifen.",
+      "name": "Vidar Carcinnox MK I",
+      "code": "de"
+    },
+    {
+      "description": "Canon à toxines à tir rapide: endommage les vaisseaux ennemis avec un fluide toxique qui peut pénétrer les coques et semer la panique à bord, amenant ainsi l'ennemi à cibler ses propres alliés.",
+      "name": "Carcinnox Vidar MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Cannone tossico a fuoco rapido: danneggia le navi nemiche con un fango tossico che può penetrare negli scafi e causare confusione tra l'equipaggio, mettendoli uno contro l'altro.",
+      "name": "Vidar Carcinnox MK I",
+      "code": "it"
+    },
+    {
+      "description": "속사형 독소 캐논: 선체를 뚫고 탑승자들을 혼란에 빠뜨려 아군과 맞서게 만드는 독성 점액으로 적선에 피해를 줍니다.",
+      "name": "비다르 칼시녹스 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Cañón de toxina de disparo rápido: daña a las naves enemigas con un lodo tóxico que puede penetrar los cascos y hacer que las tripulaciones se confundan y se vuelvan contra sus aliados.",
+      "name": "Carcinnox Vidar MK I",
+      "code": "es"
+    },
+    {
+      "description": "速射毒素炮：发射毒素粘液来损坏敌方舰船，这种粘液能穿透船体，让敌方船员陷入混乱、自相残杀。",
+      "name": "Vidar 毒液穿甲炮 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Быстродействующая токсическая пушка: наносит урон вражеским судам токсической эмульсией, которая может проникать через фюзеляж внутрь и приводить экипаж в замешательство, из-за чего они могут атаковать своих союзников.",
+      "name": "Карциннокс: Вайдер MK I",
+      "code": "ru"
+    },
+    {
+      "description": "高速連射の毒素砲。敵船の船体を貫通する毒素のヘドロでダメージを与え、船内の敵が混乱し同士討ちを始める。",
+      "name": "ビダール・カルシノックス MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Szybkostrzelne, toksyczne działko: niszczy wrogie statki toksycznym osadem przenikającym przez kadłub, mogącym dezorientować załogę, zwracając ich przeciwko sobie.",
+      "name": "Karcinoks: Vidar MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Canhão tóxico de tiro rápido: danifica as naves inimigas com lama tóxica que pode penetrar suas fuselagens, fazendo com que as tripulações inimigas se confundam e ataquem seus próprios aliados.",
+      "name": "Carcinnox: Vidar (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CARCINNOX）急射毒素砲：發射毒泥破壞敵方戰艦，溶穿船身並使其人員混亂、自相殘殺。",
+      "name": "維達劇毒穿溶砲 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่ที่ยิงสารพิษอย่างรวดเร็ว: สร้างความเสียหายให้กับยานของศัตรูด้วยตะกอนพิษที่สามารถเจาะเข้ามาในตัวถังและทำให้ลูกเรือรู้สึกสับสน ทำให้หันไปหาฝ่ายพันธมิตรของพวกเขา",
+      "name": "Vidar Carcinnox MK I",
+      "code": "th"
+    },
+    {
+      "description": "Yaylım ateşli toksin topu: düşman gemilerine gövde içine sızan toksin bir atık ile hasar vererek mürettebatın kafasını karıştırır ve birbirlerine saldırmalarına yol açar.",
+      "name": "Vidar Carcinnox MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Швидкострільна токсична гармата: пошкоджує ворожі судна токсичним слизом, який проникає всередину й спантеличує ворогів, змушуючи їх атакувати союзників.",
+      "name": "Карциннокс «Відар» MK I",
+      "code": "uk"
+    }
+  ]
+}

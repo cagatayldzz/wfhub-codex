@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wisp/SWWispGraxxHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-graxx-helmet-775dfb58da.png",
+  "name": "Wisp Graxx Helmet",
+  "description": "A helmet for the Wisp Warframe, designed by Faven.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Wisp Warframe, entworfen von Faven",
+      "name": "Wisp-Helm: Graxx",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Wisp, conçu par Faven.",
+      "name": "Casque Wisp Graxx",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Wisp, ideato da Faven.",
+      "name": "Elmo Wisp Graxx",
+      "code": "it"
+    },
+    {
+      "description": "Faven에 의해 디자인된 위습 워프레임을 위한 헬멧입니다.",
+      "name": "위습 그락스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Wisp, diseñado por Faven.",
+      "name": "Casco Graxx de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 战甲的头盔，由 Faven 设计。",
+      "name": "Wisp G之风格头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Висп, созданный Faven.",
+      "name": "Шлем Висп: Граксс",
+      "code": "ru"
+    },
+    {
+      "description": "Wisp用のヘルメット。製作者：Faven。",
+      "name": "Wisp Graxx ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Wisp, zaprojektowany przez Faven.",
+      "name": "Wisp: Hełm Graxx",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Wisp, desenvolvido por Faven.",
+      "name": "Wisp: Capacete Graxx",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp Warframe 的頭盔，由 Faven 設計 。",
+      "name": "Wisp G之風格頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Wisp Warframe ออกแบบโดย Faven",
+      "name": "หมวกเหล็ก Wisp Graxx",
+      "code": "th"
+    },
+    {
+      "description": "Faven tarafından tasarlanmış bir Wisp Warframe miğferi.",
+      "name": "Wisp Graxx Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вісп, створений Faven.",
+      "name": "Шолом «Ґракс» для Вісп",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/venerdo-alloy-0699ce0e35.png",
+  "name": "Venerdo Alloy",
+  "description": "A compound formed from Venerol.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+  "languages": [
+    {
+      "description": "Eine aus Venerol gebildete Verbindung.\n\nQuelle: Blaupause erhältlich von Smokefinger in Fortuna auf der Venus.",
+      "name": "Venerdo-Legierung",
+      "code": "de"
+    },
+    {
+      "description": "Un composé formé à partir de Venerol.\n\nSchéma vendu par Smokefinger à Fortuna, sur Vénus.",
+      "name": "Alliage Venerdo",
+      "code": "fr"
+    },
+    {
+      "description": "Un composto formato da Venerol.\n\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
+      "name": "Lega di Venerdo",
+      "code": "it"
+    },
+    {
+      "description": "베네롤로 형성된 혼합물입니다.\n\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
+      "name": "베네르도 얼로이",
+      "code": "ko"
+    },
+    {
+      "description": "Un compuesto formado por venerol.\n\nEl plano lo vende Smokefinger en Fortuna en Venus.",
+      "name": "Aleación de Venerdo",
+      "code": "es"
+    },
+    {
+      "description": "由启明矿石形成的一种混合物。\n\n金星上福尔图娜的 Smokefinger 出售的蓝图。",
+      "name": "启明合金",
+      "code": "zh"
+    },
+    {
+      "description": "Сплав, полученный из венерола.\n\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
+      "name": "Венердовые сплавы",
+      "code": "ru"
+    },
+    {
+      "description": "ベネロールから作られた化合物。\n\n設計図の入手場所：フォーチュナー（金星）のSmokefinger。",
+      "name": "ベネロール鋼",
+      "code": "ja"
+    },
+    {
+      "description": "Związek utworzony z Venerolu.\n\nSchemat jest dostępny u Smokefingera w Fortunie na Wenus.",
+      "name": "Stop Venerdo",
+      "code": "pl"
+    },
+    {
+      "description": "Um composto formado a partir de Venerol.\n\nSeu diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
+      "name": "Liga Venerólica",
+      "code": "pt"
+    },
+    {
+      "description": "由啟明礦石形成的一種混合物。\n\n來源：藍圖由福爾圖娜（金星）上的 Smokefinger 販售。",
+      "name": "啟明合金",
+      "code": "tc"
+    },
+    {
+      "description": "สารประกอบที่เกิดจากเวเนโรล\n\nซื้อพิมพ์เขียวได้ที่ Smokefinger ในฟอร์ทูนา บนดาวศุกร์",
+      "name": "โลหะผสมเวเนอร์ดู",
+      "code": "th"
+    },
+    {
+      "description": "Venerol'den oluşan bir bileşik.\n\nKalıbı Venüs'te yer alan Fortuna'daki Smokefinger'dan satın alınabilir.",
+      "name": "Venerdo Alaşımı",
+      "code": "tr"
+    },
+    {
+      "description": "Міцний сплав із венеролу й домішок.\n\nКресленик можна придбати в Пальцедима в Фортуні (Венері).",
+      "name": "Венердовий сплав",
+      "code": "uk"
+    }
+  ]
+}

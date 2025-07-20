@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MacheteManicBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---manic-7b89efe512.png",
+  "name": "Noggle Statue - Manic",
+  "description": "A small wobbly statue of a Grineer Manic.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur eines Manischen Grineer.",
+      "name": "Noggle-Statue: Manisch",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Maniaque Grineer.",
+      "name": "Statuette Noggle - Maniaque Grineer",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Grineer Manic con la testa tremolante.",
+      "name": "Statuetta Noggle - Manic",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 매닉의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 매닉",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un maníaco grineer.",
+      "name": "Estatua Tambaleante - Maníaco",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Grineer 狂躁者摇头娃娃。",
+      "name": "狂躁者摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка безумного солдата Гринир.",
+      "name": "Фигурка: Безумный солдат",
+      "code": "ru"
+    },
+    {
+      "description": "マニックのボブルヘッド人形。",
+      "name": "マニック ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Maniaka Grineer.",
+      "name": "Figurka Noggle — Maniak",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Maníaco Grineer.",
+      "name": "Estatueta: Maníaco",
+      "code": "pt"
+    },
+    {
+      "description": "一小座狂躁 Grineer 的搖頭娃娃。",
+      "name": "狂躁者搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Grineer Manic ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Manic",
+      "code": "th"
+    },
+    {
+      "description": "Grineer Manic küçük oynar figür.",
+      "name": "Noggle Heykeli - Manic",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ґрінерського маніяка.",
+      "name": "Ноґл «Маніяк»",
+      "code": "uk"
+    }
+  ]
+}

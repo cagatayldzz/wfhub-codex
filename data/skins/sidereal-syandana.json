@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/LimboDeluxeCape",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sidereal-syandana-a8e891c320.png",
+  "name": "Sidereal Syandana",
+  "description": "A Syandana that dances upon the eddies of battle and void-currents alike.",
+  "languages": [
+    {
+      "description": "Ein Syandana, dass sowohl auf den Wirbeln des Kampfes, als auch auf den Strömen des Voids tanzt.",
+      "name": "Sidereal Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une Syandana qui valse autant sur les turbulences causées par les batailles que sur les courants du Néant.",
+      "name": "Syandana Sidereal",
+      "code": "fr"
+    },
+    {
+      "description": "Una Syandana che danza sui vortici della battaglia e sulle correnti del vuoto allo stesso modo.",
+      "name": "Syandana Sidereal",
+      "code": "it"
+    },
+    {
+      "description": "전장의 회오리 속에서도 보이드의 흐름에서와 같이 춤추는 샨다나입니다.",
+      "name": "사이드리얼 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana que baila tanto en los torbellinos de la batalla como en las corrientes del Vacío.",
+      "name": "Syandana Sidereal",
+      "code": "es"
+    },
+    {
+      "description": "一款在战场及虚空流电的旋涡上舞动的披饰。",
+      "name": "恒星披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Сандана, одинаково хорошо показывающая себе как в вихрях битвы, так и в потоках Бездны.",
+      "name": "Сандана: Сайдериал",
+      "code": "ru"
+    },
+    {
+      "description": "Voidを象徴するシャンダナ。",
+      "name": "Sidereal シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana, która tańczy w wirze walki i prądów Pustki. ",
+      "name": "Syandana Sidereal",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana que dança conforme o fluxo da batalha e do Void.",
+      "name": "Syandana: Sidereal",
+      "code": "pt"
+    },
+    {
+      "description": "一款在戰場及虛空流電的旋渦上舞動的披飾。",
+      "name": "恆星披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่โบกสะบัดเหนือกระแสการต่อสู้ที่ไหลวนและมีความคล้ายคลึงกับกระแสของวอยด์",
+      "name": "ไซอันดานา Sidereal",
+      "code": "th"
+    },
+    {
+      "description": "Void akıntılarında yüzer gibi savaşın girdabında dans eden bir Syandana.",
+      "name": "Sidereal Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Сяндана, що однаково майорить серед полум’я битви та у тиші порожнечі.",
+      "name": "Сяндана «Сидерична»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWTenebrusHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-tenebrus-helmet-8d1a310cce.png",
+  "name": "Revenant Tenebrus Helmet",
+  "description": "A helmet for the Revenant Warframe, designed by malaya and Awk'Q-Luz.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Revenant Warframe, entworfen von malaya und Awk'Q-Luz.",
+      "name": "Revenant-Helm: Tenebrus",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque unique pour la Warframe Revenant, conçu par malaya et Awk'Q-Luz.",
+      "name": "Casque Revenant Tenebrus",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Revenant, ideato da malaya e Awk'Q-Luz.",
+      "name": "Elmo Revenant Tenebrus",
+      "code": "it"
+    },
+    {
+      "description": "malaya와 Awk'Q-Luz에 의해 디자인된 레버넌트 워프레임을 위한 헬멧입니다.",
+      "name": "레버넌트 테네브루스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Revenant, diseñado por malaya y Awk'Q-Luz.",
+      "name": "Casco Tenebrus de Revenant",
+      "code": "es"
+    },
+    {
+      "description": "Revenant 战甲的头盔，由 malaya 和 Awk'Q-Luz 设计。",
+      "name": "Revenant 晦暗头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Ревенанта, созданный malaya и Awk'Q-Luz.",
+      "name": "Шлем Ревенанта: Тенебрус",
+      "code": "ru"
+    },
+    {
+      "description": "Revenat用のヘルメット。製作者：malaya＆Awk'Q-Luz。",
+      "name": "Revenant Tenebrus ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Revenant, zaprojektowany przez malaya i Awk'Q-Luz.",
+      "name": "Revenant: Hełm Tenebrus",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Revenant, desenvolvido por malaya e Awk'Q-Luz.",
+      "name": "Revenant: Capacete Tenebrus",
+      "code": "pt"
+    },
+    {
+      "description": "Revenant Warframe 的頭盔，由 malaya 以及 Awk'Q-Luz 設計。",
+      "name": "Revenant 幽暗頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Revenant Warframe ออกแบบโดย malaya และ Awk'Q-Luz",
+      "name": "หมวกเหล็ก Revenant Tenebrus",
+      "code": "th"
+    },
+    {
+      "description": "Revenant Warframe'i için malaya, ve Awk'Q-Luz tarafından dizayn edilmiş bir miğfer.",
+      "name": "Revenant Tenebrus Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ревенанта, створений malaya та Awk’Q-Luz.",
+      "name": "Шолом «Тенебр» для Ревенанта",
+      "code": "uk"
+    }
+  ]
+}

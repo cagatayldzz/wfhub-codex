@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamShieldTotem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/squad-shield-restore-(large)-eea970f3b8.png",
+  "name": "Squad Shield Restore (Large)",
+  "description": "Restores Shields to all squad members. Pulses 300 Shield every 7.5s for 30s.",
+  "languages": [
+    {
+      "description": "Stellt Schilde für alle Teammitgleider wieder her. Pulsiert 300 Schild jede 7.5s für 30s.",
+      "name": "Team Schildnachschub (Groß)",
+      "code": "de"
+    },
+    {
+      "description": "Restaure les Boucliers de tous les membres d'escouade. Impulsions de 300 points de Boucliers toutes les 7,5s pendant 30s.",
+      "name": "Kit d'Escouade - Boucliers (Grand)",
+      "code": "fr"
+    },
+    {
+      "description": "Fornisce Scudi a tutta la squadra. 300 Scudi ad impulso ogni 7.5s per 30s.",
+      "name": "Ricarica Scudi di Squadra (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "모든 분대원들의 실드를 회복시킵니다. 30초 동안 매 7.5초마다 300의 실드를 회복시키는 파동을 내보냅니다.",
+      "name": "분대용 실드 회복 키트 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura los escudos a todo el escuadrón. Escudos/Pulso: 300 de escudos cada 7.5s por 30s.",
+      "name": "Restaurador de escudos de escuadrón (grande)",
+      "code": "es"
+    },
+    {
+      "description": "恢复全团队的护盾值。每次脉冲恢复 300 点护盾。脉冲间隔 7.5 秒，共计 30 秒。",
+      "name": "团队护盾补给（大型）",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает щиты всем в отряде. Восполняет 300 ед. щитов каждые 7,5 с в течение 30 с.",
+      "name": "Восст. щитов отряда (большой)",
+      "code": "ru"
+    },
+    {
+      "description": "分隊のシールドを回復する。30秒の間7.5秒ごとに出るパルスごとに300シールド補充される。",
+      "name": "チームシールドリストア（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Odnawia Tarcze całemu zespołowi. Odnawia 300 Tarcz co 7.5s przez 30s.",
+      "name": "Odnowa Tarcz Zespołu (duża)",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura escudo para todos os membros do esquadrão. Pulsa 300 de escudo a cada 7.5s durante 30s.",
+      "name": "Gerador de Escudo - Esquadrão (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "恢復全團隊的護盾值。每次脈衝恢復 300 點護盾。脈衝間隔 7.5 秒，共計 30 秒。",
+      "name": "團隊護盾補給（大型）",
+      "code": "tc"
+    },
+    {
+      "description": "ฟื้นฟูโล่ให้กับสมาชิกในทีมทุกคน ซึ่งจะกระตุ้นให้สร้างโล่ 300 หน่วยทุก ๆ 7.5 วินาที เป็นเวลา 30 วินาที",
+      "name": "ฟื้นฟูโล่ให้ทีม (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Tüm takım üyelerinin Kalkanını yeniler. 30 saniye boyunca her 7.5 saniyede 300 Kalkan verir.",
+      "name": "Takım Kalkan Yenileme (Büyük)",
+      "code": "tr"
+    },
+    {
+      "description": "Кожні 7,5 с відновлює всім учасникам загону 300 щитів упродовж 30 с.",
+      "name": "Відновник щитів загону (великий)",
+      "code": "uk"
+    }
+  ]
+}

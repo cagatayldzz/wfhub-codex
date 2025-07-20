@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/NunchakuLowerBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nunchaku-standard-holster-09f961dcd8.png",
+  "name": "Nunchaku Standard Holster",
+  "description": "Standard holster for Nunchakus.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Nunchakus.",
+      "name": "Nunchaku-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Nunchakus.",
+      "name": "Port de Nunchaku standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per i Nunchaku.",
+      "name": "Rinfodero Nunchaku Standard",
+      "code": "it"
+    },
+    {
+      "description": "쌍절곤 계열 무기의 기본 수납 방식 입니다.",
+      "name": "쌍절곤 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para nunchakus.",
+      "name": "Enfundado estándar de nunchaku",
+      "code": "es"
+    },
+    {
+      "description": "给双截棍所使用的标准收纳姿态。",
+      "name": "双截棍标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Нунчак.",
+      "name": "Стандартный Крепеж Нунчак",
+      "code": "ru"
+    },
+    {
+      "description": "ヌンチャク系武器の通常ホルスター。",
+      "name": "ヌンチャク専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Nunchaku.",
+      "name": "Nunchaku Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para Nunchakus.",
+      "name": "Nunchakus: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "雙節棍武器所使用的標準收納姿態。",
+      "name": "雙節棍標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับกระบองสองท่อน",
+      "name": "ซองกระบองสองท่อนมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Mançıkalar için standart kılıf",
+      "name": "Nunçaku Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення нунчак, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/FeralCatbrowPattern",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moonless-kavat-pattern-1ff489a77c.png",
+  "name": "Moonless Kavat Pattern",
+  "description": "A kavat pattern ideal for the nighttime hunt.",
+  "languages": [
+    {
+      "description": "Ein Kavat-Fellmuster, ideal für die nächtliche Jagd.",
+      "name": "Fellmuster: Moonless",
+      "code": "de"
+    },
+    {
+      "description": "Un pelage de Kavat idéal pour la chasse nocturne.",
+      "name": "Kit de Masquage Génétique Kavat Sans-Lune",
+      "code": "fr"
+    },
+    {
+      "description": "Un pattern per i Kavat ideale per la caccia notturna.",
+      "name": "Pattern Kavat Senzaluna",
+      "code": "it"
+    },
+    {
+      "description": "야간 사냥에 이상적인 카밧의 무늬입니다.",
+      "name": "문리스 카밧 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de kavat ideal para la cacería nocturna.",
+      "name": "Patrón Nocturno de kavat",
+      "code": "es"
+    },
+    {
+      "description": "一种适合夜间狩猎的库娃花纹。",
+      "name": "无月库娃基因伪装包",
+      "code": "zh"
+    },
+    {
+      "description": "Шаблон для каватов, идеален для ночной охоты.",
+      "name": "Шаблон меха кавата: Безлунный",
+      "code": "ru"
+    },
+    {
+      "description": "夜中の狩猟に最適なキャバットのパターン。",
+      "name": "Moonless キャバットパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Idealny na nocne polowanie wzór futra dla Kavata.",
+      "name": "Wzór Kavata: Bezksiężycowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um estilo de kavat ideal para caçar a noite.",
+      "name": "Pelagem de Kavat: Moonless",
+      "code": "pt"
+    },
+    {
+      "description": "一種適合夜間狩獵的庫娃花紋。",
+      "name": "無月庫娃基因偽裝包",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขน Kavat เหมาะสำหรับการออกล่าในเวลากลางคืน",
+      "name": "ลาย Moonless Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Geceleyin avlanmak için son derece uygun bir kavat deseni.",
+      "name": "Aysız Kavat Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Ідеальне забарвлення кавата для нічного полювання.",
+      "name": "Вигляд хутра «Місяцелик» для кавата",
+      "code": "uk"
+    }
+  ]
+}

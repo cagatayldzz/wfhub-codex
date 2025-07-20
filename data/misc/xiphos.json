@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Ships/GyroscopeShip",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xiphos-d063a6f7f1.png",
+  "name": "Xiphos",
+  "description": "Featuring Sentry Gun air-support, this stylish landing craft is an asset in any battle.",
+  "languages": [
+    {
+      "description": "Mit Abwehrgeschütz-Luftdeckung ausgestattet, ist dieses stylische Landungsschiff ein Gewinn für jeden Kampf.",
+      "name": "Xiphos",
+      "code": "de"
+    },
+    {
+      "description": "Offrant le support aérien Mitrailleuse, cet élégant vaisseau de débarquement est un atout intéressant dans n'importe quelle bataille.",
+      "name": "Xiphos",
+      "code": "fr"
+    },
+    {
+      "description": "Con l'abilità del supporto aereo che schiera una Torretta Automatica, questa elegante navicella è una risorsa in qualsiasi battaglia.",
+      "name": "Xiphos",
+      "code": "it"
+    },
+    {
+      "description": "센트리 건 공중 지원 기능을 탑재한 이 세련된 착륙정은 그 어느 전투에서나 요긴한 자산으로써 활용됩니다.",
+      "name": "자이포스",
+      "code": "ko"
+    },
+    {
+      "description": "Con un arma guardiana de apoyo aéreo, esta elegante nave de desembarco es invaluable en cualquier batalla.",
+      "name": "Xiphos",
+      "code": "es"
+    },
+    {
+      "description": "装备有自动炮台的空中支援系统，这艘时尚的登陆艇在任何战斗中都是实用的座驾。",
+      "name": "Xiphos",
+      "code": "zh"
+    },
+    {
+      "description": "Имея в своём распоряжении поддержку с воздуха вида «Автоматическая турель», этот десантный корабль станет полезным в любой битве.",
+      "name": "Ксифос",
+      "code": "ru"
+    },
+    {
+      "description": "セントリーガンによる対地支援を主とするこの洗練されたランディングクラフトは、いかなる戦場においても役に立つ。",
+      "name": "シフォス",
+      "code": "ja"
+    },
+    {
+      "description": "Ten stylowy statek desantowy wyposażony w Działo Wartownicze, daje przewagę w każdej bitwie.",
+      "name": "Xiphos",
+      "code": "pl"
+    },
+    {
+      "description": "Com o apoio aéreo de Vigília Bélica, esta nave de pouso elegante é uma adição positiva em qualquer batalha.",
+      "name": "Xiphos",
+      "code": "pt"
+    },
+    {
+      "description": "裝備有自動砲臺的空中支援系統，這艘時尚的登陸艇在任何戰鬥中都是實用的座駕。",
+      "name": "Xiphos",
+      "code": "tc"
+    },
+    {
+      "description": "มีการสนับสนุนทางอากาศของ Sentry Gun ยานลงจอดที่มีสไตล์นี้จึงเป็นประโยชน์ในทุกการต่อสู้",
+      "name": "Xiphos",
+      "code": "th"
+    },
+    {
+      "description": "Sentry Gun hava desteği sağlayan bu özel stil gemi her savaşta olmazsa olmaz bir araçtır.",
+      "name": "Xiphos",
+      "code": "tr"
+    },
+    {
+      "description": "Стильне десантне судно, що стане в пригоді за будь-якої битви. Укомплектоване автоматичною туреллю для здійснення підтримки з повітря.",
+      "name": "Ксифос",
+      "code": "uk"
+    }
+  ]
+}

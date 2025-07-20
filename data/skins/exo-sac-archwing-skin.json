@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Archwing/GrendelArchwingSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/exo-sac-archwing-skin-c600e5f62a.png",
+  "name": "Exo-Sac Archwing Skin",
+  "description": "This alternative look for any Archwing is modeled on the exo-sac levitators that the glutton Karissh used to support his additional grafted-on stomachs.",
+  "languages": [
+    {
+      "description": "Dieser alternative Look für jeden Archwing ist den Exosack-Levitatoren nachempfunden, die der Vielfraß Karissh benutzte, um seine hinzugefügten Mägen zu stützen.",
+      "name": "Archwing-Skin: Exo-Sack",
+      "code": "de"
+    },
+    {
+      "description": "Ce look alternatif pour n'importe quelle Archwing est calqué sur les lévitateurs exo-sac que le glouton Karissh utilisait pour soutenir ses estomacs greffés supplémentaires.",
+      "name": "Aspect Archwing Exo-Sac",
+      "code": "fr"
+    },
+    {
+      "description": "Questo look alternativo per qualsiasi Archwing è modellato sui levitatori eso-sac che il ghiottone Karissh usava per sostenere i suoi stomaci innestati aggiuntivi.",
+      "name": "Skin Archwing Exo-Sac",
+      "code": "it"
+    },
+    {
+      "description": "모든 아크윙에 잘 어울리는 이 무시무시한 외형은 대식가 카리쉬가 그의 추가로 이식된 위장을 보조하는데 사용한 외부 기관 부양기를 모델로 만들어졌습니다.",
+      "name": "외부 기관 아크윙 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Este look alternativo para cualquier Archwing se basa en los levitadores exosacos que el glotón de Karissh usó para sostener sus estómagos injertados adicionales.",
+      "name": "Diseño Exo-Sac de Archwing",
+      "code": "es"
+    },
+    {
+      "description": "这款能让任何曲翼装备的替代外观，是仿照饕餮之徒卡里什用来支撑其额外植入的胃部外囊悬浮器而设计的。",
+      "name": "外囊曲翼外观",
+      "code": "zh"
+    },
+    {
+      "description": "Этот альтернативный скин для любого Арчвинга смоделирован по образцу левитаторов экзо-мешков, которые обжора Кариш использовал для поддержки своих дополнительных имплантированных желудков.",
+      "name": "Скин Арчвинга: Экзо-мешок",
+      "code": "ru"
+    },
+    {
+      "description": "暴食のKarisshの出た腹を支える浮遊装置をモデルにしたアークウイング専用のスキン。",
+      "name": "Exo-Sac アークウイングスキン",
+      "code": "ja"
+    },
+    {
+      "description": "Alternatywny wygląd dla każdego Archwinga, modelowany na lewiatatorach egzo-workowych, które były używane przez żarłoka Karissha dla jego wszczepionych żołądków.",
+      "name": "Archwing: Skórka Egzo-Workowa",
+      "code": "pl"
+    },
+    {
+      "description": "Este visual alternativo para qualquer Archwing é inspirado nos levitadores exo-estomacais que o glutão Karissh usou para sustentar seus estômagos adicionais enxertados.",
+      "name": "Archwing: Skin Exo-Estomacal",
+      "code": "pt"
+    },
+    {
+      "description": "這個給任何 Archwing 使用的另類外觀是模仿貪婪的 Karissh 的外部消化囊懸浮器，用於支撐他額外植入的腹部。",
+      "name": "Archwing 異囊外觀",
+      "code": "tc"
+    },
+    {
+      "description": "รูปลักษณ์สำรองสำหรับ Archwing ที่จำลองมาจากถุงกระเพาะภายนอกลอยตัวที่ Karissh คนตะกละตะกลามเคยใช้เพื่อรองรับการปลูกถ่ายอวัยวะส่วนท้องของเขาเพิ่มเติม",
+      "name": "สกิน Archwing Exo-Sac",
+      "code": "th"
+    },
+    {
+      "description": "Herhangi bir Archwing ile uyumlu bu alternatif görünüm, obur Karissh'in nakledilmiş ek midelerini desteklemesi için kullandığı exo-sac kaldıraçlarını baz alarak modellenmiştir.",
+      "name": "Exo-Sac Archwing Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний зовнішній вигляд для будь-якого арквінґа, створений за подобою екзоміхурів летунів, які ненажерливий Каріш використовував для підтримки додаткових шлунків.",
+      "name": "Вигляд «Екзоміхур» для арквінґа",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSlayBoardMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/slay-board-fcf7fa2626.jpg",
+  "name": "Slay Board",
+  "description": "On Directional Dismount:",
+  "languages": [
+    {
+      "description": [
+        "Bei gerichtetem Absprung:"
+      ],
+      "name": "Schlachtboard",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Sur Débarquement Directionnel:"
+      ],
+      "name": "Planche Tueuse",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "In Discesa Direzionale:"
+      ],
+      "name": "Slay Board",
+      "code": "it"
+    },
+    {
+      "description": [
+        "지정 방향으로 탑승 해제 시:"
+      ],
+      "name": "슬레이 보드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Al desmontar direccionalmente:"
+      ],
+      "name": "Tabla de asesinatos",
+      "code": "es"
+    },
+    {
+      "description": [
+        "定向卸板时："
+      ],
+      "name": "斩杀悬浮板",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При направленном спрыгивании:"
+      ],
+      "name": "Крушащая Доска",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "方向性ディスマウント時："
+      ],
+      "name": "Slay Board",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Przy Kierunkowym Zejściu:"
+      ],
+      "name": "Tnąca Deska",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ao Desmontar Direcionalmente:"
+      ],
+      "name": "Slay Board",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "定向卸板時："
+      ],
+      "name": "斬殺懸浮板",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อลงจากกระดานไปตามทาง:"
+      ],
+      "name": "Slay Board",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Yönlü İnişte: "
+      ],
+      "name": "Slay Board",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Після зістрибування:"
+      ],
+      "name": "Убивча дошка",
+      "code": "uk"
+    }
+  ]
+}

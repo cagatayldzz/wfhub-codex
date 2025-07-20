@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiEssenceBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loki-essence-glyph---bright-bfbef8d1cc.png",
+  "name": "Loki Essence Glyph - Bright",
+  "description": "A glyph depicting Loki Essence on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Loki Essence vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Loki Essence (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Loki Essence sur un fond lumineux.",
+      "name": "Glyphe Loki Essence - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Essence Loki su uno sfondo chiaro.",
+      "name": "Glifo Loki Essence - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 에센스 로키를 묘사한 글리프입니다.",
+      "name": "로키 에센스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Essence Loki sobre un fondo brillante.",
+      "name": "Glifo de Loki Essence - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Loki 本质在明亮背景下的浮印。",
+      "name": "Loki 本质浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Локи «Сущность» на светлом фоне.",
+      "name": "Глиф: Локи «Сущность» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Essence Loki のグリフ。",
+      "name": "Loki Essence グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Loki Essence na jasnym tle.",
+      "name": "Glif Loki Essence — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Loki Essence em um fundo claro.",
+      "name": "Glifo: Loki Essence (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Loki 本質在明亮背景下的浮印。",
+      "name": "Loki 本質浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Loki Essence บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Loki Essence - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Loki Essence açık fonlu glif.",
+      "name": "Loki Essence Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Локі в шоломі «Квінтесенція» на світлому тлі.",
+      "name": "Яскравий гліф «Локі „Квінтесенція“»",
+      "code": "uk"
+    }
+  ]
+}

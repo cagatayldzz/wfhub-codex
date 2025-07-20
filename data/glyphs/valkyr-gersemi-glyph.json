@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-gersemi-glyph-49520cf2a0.png",
+  "name": "Valkyr Gersemi Glyph",
+  "description": "A glyph depicting Valkyr Gersemi.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Valkyr Gersemi zeigt.",
+      "name": "Glyphe: Valkyr Gersemi",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Valkyr Gersemi.",
+      "name": "Glyphe Valkyr Gersemi",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gersemi Valkyr.",
+      "name": "Glifo Valkyr Gersemi",
+      "code": "it"
+    },
+    {
+      "description": "발키르 제르세미 스킨을 묘사한 글리프입니다.",
+      "name": "발키르 제르세미 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Valkyr Gersemi.",
+      "name": "Glifo de Valkyr Gersemi.",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Valkyr 璀璨外观的浮印。",
+      "name": "Valkyr 璀璨浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Валькирии «Герсеми».",
+      "name": "Глиф: Валькирия «Герсеми»",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyr Gersemiが描かれたグリフ。",
+      "name": "Gersemi Valkyr グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Valkyr Gersemi.",
+      "name": "Glif Valkyr Gersemi",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Valkyr Gersemi.",
+      "name": "Glifo: Valkyr Gersemi",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Valkyr 璀璨的浮印。",
+      "name": "Valkyr 璀璨浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Valkyr Gersemi",
+      "name": "ภาพสัญลักษณ์ Valkyr Gersemi",
+      "code": "th"
+    },
+    {
+      "description": "Gersemi Valkyr'i tasvir eden bir glif.",
+      "name": "Valkyr Gersemi Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Валькірії зі спорядженим виглядом «Ґерсемі».",
+      "name": "Гліф «Валькірія „Ґерсемі“»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Camo/GrakataCamo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grakata-desert-camo-skin-b50a7b7830.png",
+  "name": "Grakata Desert-Camo Skin",
+  "description": "Desert camouflage skin for the Grakata.",
+  "languages": [
+    {
+      "description": "Wüsten-Tarnanstrich für das Grakata.",
+      "name": "Grakata-Skin: Wüstentarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Désert pour le Grakata.",
+      "name": "Aspect Grakata Camouflage Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Desert-Camo per il Grakata.",
+      "name": "Skin Grakata Desert-Camo",
+      "code": "it"
+    },
+    {
+      "description": "그라카타를 위한 사막용 위장 스킨입니다.",
+      "name": "그라카타 데저트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje desértico para el Grakata.",
+      "name": "Diseño Camuflaje desértico de Grakata",
+      "code": "es"
+    },
+    {
+      "description": "给葛拉卡达使用的沙漠伪装迷彩。",
+      "name": "葛拉卡达 沙漠迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Пустынный камуфляж для Гракаты.",
+      "name": "Скин Гракаты: Пустынный камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "GRAKATA用の用の砂漠迷彩スキン。",
+      "name": "Grakata Desert-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka z pustynnym kamuflażem dla karabinu Grakata.",
+      "name": "Grakata: Skórka Kamuflaż Pustynny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem de deserto para a Grakata.",
+      "name": "Grakata: Skin Camuflagem Desértica",
+      "code": "pt"
+    },
+    {
+      "description": "給葛拉卡達使用的沙漠偽裝迷彩。",
+      "name": "葛拉卡達 沙漠迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางทะเลทรายสำหรับ Grakata",
+      "name": "สกิน Grakata Desert-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Grakata için çöl kamuflaj kıyafeti.",
+      "name": "Grakata Çöl-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Пустельно-тактичний вигляд для гвинтівки «Ґраката».",
+      "name": "Вигляд «Пустельний камуфляж» для Ґракати",
+      "code": "uk"
+    }
+  ]
+}

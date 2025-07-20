@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/1999ConquestBucks",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pix-chip-5648e0cec5.png",
+  "name": "Pix Chip",
+  "description": "Kaya Velasco in the Höllvania Mall accepts these Pix Chips in exchange for Peely Paks.\n\nLocation: Elite Temporal Archimedea (Höllvania) and duplicate Peely Pix.",
+  "languages": [
+    {
+      "description": "Kaya Velasco im Höllvania-Einkaufszentrum akzeptiert diese Pix-Chips im Austausch gegen Peely-Päckchen.\n\nFundort: Elite Temporale Archimede (Höllvania) und doppelte Peely Pix.",
+      "name": "Pix-Chip",
+      "code": "de"
+    },
+    {
+      "description": "Kaya Velasco, dans le Centre Commercial de Höllvanie, accepte ces Puces Pix en échange de Packs d'Autocollants.\n\nLieu: Archimédée Temporelle d'élite (Höllvanie) et doublons de Puces Pix.",
+      "name": "Puce Pix",
+      "code": "fr"
+    },
+    {
+      "description": "Kaya Velasco nel Centro Commerciale di Höllvania accetta questi Gettoni Pix in cambio di Pacchetti di Adesivi.\n\nPosizione: Archimedea Temporale Elite (Höllvania) e Adesivi Pix doppioni.",
+      "name": "Gettone Pix",
+      "code": "it"
+    },
+    {
+      "description": "홀바니아 쇼핑몰의 카야 벨라스코를 통해 픽스 칩을 필리 팩으로 교환할 수 있습니다.\n\n획득 장소: 엘리트 템포럴 아르키메디아 (홀바니아) 및 중복 필리 픽스.",
+      "name": "픽스 칩",
+      "code": "ko"
+    },
+    {
+      "description": "Kaya Velasco, en el centro comercial de Höllvania, acepta estos Pixitos a cambio de Pega Paks.\n\nUbicación: Arquimedea Temporal de élite (Höllvania) y Pega Pix duplicados.",
+      "name": "Pixito",
+      "code": "es"
+    },
+    {
+      "description": "霍瓦尼亚中央商场的卡娅·维拉斯科收取这些贴纸芯片，提供易撕贴纸包。\n\n获取地点：精英时光科研（霍瓦尼亚）和重复的易撕贴纸。",
+      "name": "贴纸芯片",
+      "code": "zh"
+    },
+    {
+      "description": "Кайя Веласко в Торговом центре Хёльвании принимает эти Чипсели в обмен на Наборы Пили.\n\nМестоположение: Элитная Временная Архимедия (Хёльвания) и дубликаты Пили-пиксов.",
+      "name": "Чипсель",
+      "code": "ru"
+    },
+    {
+      "description": "ホルバニアセントラルモールにいるKaya Velascoはこれらピクチャチップスをピーリーパックと交換してくれる。\n\n場所：上級次元アルキメデア（ホルバニア）と重複ピーリーピクチャ。",
+      "name": "ピクチャチップ",
+      "code": "ja"
+    },
+    {
+      "description": "Kaja Velasco w Centrum Handlowym Höllvanii przyjmuje Żetony Pix w zamian za Paki Peely.\n\nPołożenie: Elitarne Temporalne Archimedia (Höllvania) i duplikaty Peely Pix.",
+      "name": "Żeton Pix",
+      "code": "pl"
+    },
+    {
+      "description": "A Kaya Velasco, no Shopping Holvânia, aceita trocar esses Chips de Figurinhas por Pacotes de Figurinhas.\n\nLocalização: obtido na Arquimídia Temporal de Elite, em Holvânia, e em Figurinhas repetidas.",
+      "name": "Chip de Figurinha",
+      "code": "pt"
+    },
+    {
+      "description": "霍爾瓦尼亞中央購物中心的卡婭・維拉斯科會收這些變貼籌碼以交換變力包。\n\n地點：精英時空探研（霍爾瓦尼亞）以及重複的變力貼。",
+      "name": "變貼籌碼",
+      "code": "tc"
+    },
+    {
+      "description": "Kaya Velasco ในห้าง Höllvania Mall รับแลกชิป Pix กับแพ็ก Peely\n\nแหล่งที่พบ: การวิจัยอาร์คิมีเดียเชิงกาลเวลาขั้นสูง (Höllvania) และ Peely Pix ที่ซ้ำกัน",
+      "name": "ชิป Pix",
+      "code": "th"
+    },
+    {
+      "description": "Höllvania Alışveriş Merkezindeki Kaya Velasco, bu Çiplerini Çıkartma Paketleriyle takas ediyor.\n\nKonum: Elit Zamansal Arşimet (Höllvania) ve kopya Çıkartma.",
+      "name": "Pix Çipi",
+      "code": "tr"
+    },
+    {
+      "description": "Кая Веласко в торговельному центрі Голвенії за піксики може видати пачку липучок.\n\nМожна здобути в завданнях «Добірної часової архімедії» (Голвенія) й за дублікати липучок.",
+      "name": "Піксики",
+      "code": "uk"
+    }
+  ]
+}

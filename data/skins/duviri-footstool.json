@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Duviri2ndRelease/DUVxIntPropStoolA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-footstool-3d8a6ece9b.png",
+  "name": "Duviri Footstool",
+  "description": "Even the lowest Duviri citizen may need to reach a high spot from time to time.",
+  "languages": [
+    {
+      "description": "Selbst der unterste Bürgerschaft Duviris muss gelegentlich einen hohen Punkt erreichen.",
+      "name": "Fußhocker",
+      "code": "de"
+    },
+    {
+      "description": "Même le plus humble des citoyens de Duviri peut avoir besoin de prendre un peu de hauteur de temps en temps.",
+      "name": "Repose-pied de Duviri",
+      "code": "fr"
+    },
+    {
+      "description": "Anche il più umile cittadino Duviri potrebbe aver bisogno di raggiungere un punto alto di tanto in tanto.",
+      "name": "Poggiapiedi - Duviri",
+      "code": "it"
+    },
+    {
+      "description": "가장 낮은 처지의 두비리 시민이라도 때로는 높은 곳에 올라설 필요가 있기 마련입니다.",
+      "name": "두비리 발판",
+      "code": "ko"
+    },
+    {
+      "description": "Incluso el ciudadano más humilde de Duviri puede necesitar alcanzar un lugar alto de vez en cuando.",
+      "name": "Taburete de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "即使是最底层的双衍王境公民，时不时也需要到达一些高度。",
+      "name": "双衍王境脚凳",
+      "code": "zh"
+    },
+    {
+      "description": "Даже самому низкому в иерархии гражданину Дувири время от времени может понадобиться достичь высокого положения.",
+      "name": "Дувири: Подставка для ног",
+      "code": "ru"
+    },
+    {
+      "description": "どんな底辺なデュヴィリ市民であろうと、これで高い所に手が届くかもしれない。",
+      "name": "デュヴィリ 足置台",
+      "code": "ja"
+    },
+    {
+      "description": "Nawet najskromniejsi z obywateli Duviri czasem muszą sięgnąć nieba.",
+      "name": "Duviri: Podnóżek",
+      "code": "pl"
+    },
+    {
+      "description": "Até mesmo o cidadão mais humilde de Duviri pode precisar alcançar um ponto alto ocasionalmente.",
+      "name": "Banquinho de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "即使是最低層的渡域公民也可能時不時需要觸及更高的位置。",
+      "name": "渡域腳凳",
+      "code": "tc"
+    },
+    {
+      "description": "แม้แต่พลเมืองที่ต่ำต้อยที่สุดใน Duviri ก็อาจต้องเอื้อมไปอยู่จุดที่สูงบ้างเป็นบางครั้งบางคราว",
+      "name": "เก้าอี้วางเท้าใน Duviri",
+      "code": "th"
+    },
+    {
+      "description": "En mütevazi Duviri vatandaşının bile zaman zaman yüksek bir noktaya ulaşmak isteyebilir.",
+      "name": "Duviri Taburesi",
+      "code": "tr"
+    },
+    {
+      "description": "Навіть найнижчим мешканцям Дувірі потрібно час від часу досягати вершин.",
+      "name": "Дувірська підставка для ніг",
+      "code": "uk"
+    }
+  ]
+}

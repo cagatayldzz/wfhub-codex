@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Necro/NekrosPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nekros-prime-4f3e86be2a.png",
+  "name": "Nekros Prime",
+  "description": "Death's new master. Featuring altered mod polarities allow for greater customization.",
+  "armor": 135,
+  "languages": [
+    {
+      "description": "Des Todes neuer Meister. Beinhaltet alternative Mod-Polaritäten, die eine bessere Anpassung erlauben.",
+      "name": "Nekros Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le nouveau seigneur de la Mort, encore plus puissant grâce à ses polarités de mod modifiées.",
+      "name": "Nekros Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il nuovo signore della morte. Presenta polarità mod alterate per una maggiore personalizzazione.",
+      "name": "Nekros Prime",
+      "code": "it"
+    },
+    {
+      "description": "죽음의 새로운 주인. 일반 버전과는 다른 특별한 극성 슬롯 구성으로 더욱 용이한 차별화를 제공합니다.",
+      "name": "네크로스 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "El nuevo señor de la muerte. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+      "name": "Nekros Prime",
+      "code": "es"
+    },
+    {
+      "description": "死亡的新主人。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+      "name": "Nekros Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Новый хозяин Смерти. Имеет уникальные слоты полярности, позволяющие производить расширенную настройку модификаций.",
+      "name": "Некрос Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "死の新たな支配者。MOD極性が追加されているため、より多彩なカスタマイズを施すことができる。",
+      "name": "Nekros Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Śmierć ma nowego pana. Zmodyfikowane polaryzacje gniazd na mody pozwalają na lepszą konfigurację bojową.",
+      "name": "Nekros Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O novo mestre da morte. Apresentando polaridades de mod modificadas que permitem uma personalização maior.",
+      "name": "Nekros Prime",
+      "code": "pt"
+    },
+    {
+      "description": "死亡的新主人。擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+      "name": "Nekros Prime",
+      "code": "tc"
+    },
+    {
+      "description": "เจ้าแห่งความตายคนใหม่ปรากฏตัวแล้ว มีการปรับเปลี่ยนขั้ว Mod เพื่อช่วยให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Nekros Prime",
+      "code": "th"
+    },
+    {
+      "description": "Ölüm'ün yeni ustası. Daha geniş çaplı özelleştirmeye olanak sağlayan mod kutuplarına sahip.",
+      "name": "Nekros Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Новий господар смерті. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
+      "name": "Некрос-прайм",
+      "code": "uk"
+    }
+  ]
+}

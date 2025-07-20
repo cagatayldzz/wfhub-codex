@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/RelayEmberBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---ember-reprise-4e4eacd9a0.png",
+  "name": "Noggle Statue - Ember Reprise",
+  "description": "A small wobbly statue to commemorate the rise of our new relay.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur, um dem Aufbau unseres neuen Relais zu gedenken.",
+      "name": "Noggle-Statue: Ember Reprise",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante pour commémorer la renaissance de notre nouveau Relais.",
+      "name": "Statuette Noggle - Ember Reprise",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta tremolante per commemorare la nascita di una nuova stazione.",
+      "name": "Statuetta Noggle - Ember Reprise",
+      "code": "it"
+    },
+    {
+      "description": "새로운 릴레이의 건설 완료를 기념하는 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 엠버 리프라이즈",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua para conmemorar el alzamiento de nuestro nuevo Repetidor.",
+      "name": "Estatua Tambaleante – Ember Repetición",
+      "code": "es"
+    },
+    {
+      "description": "一小座记念我们的新中继站建筑完成的摇头娃娃。",
+      "name": "Ember 重奏摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка в честь восстановления реле.",
+      "name": "Фигурка: Эмбер Возрождение",
+      "code": "ru"
+    },
+    {
+      "description": "新たなリレーの建造記念のボブルヘッド人形。",
+      "name": "Ember Reprise ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka upamiętniająca powstanie nowego Przekaźnika.",
+      "name": "Figurka Noggle — Ember Reprise",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada para comemorar a construção do nosso novo relay.",
+      "name": "Estatueta: Ember Reprise",
+      "code": "pt"
+    },
+    {
+      "description": "一小座紀念我們的新中繼站建築完成的搖頭娃娃。",
+      "name": "Ember 重奏搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กที่ทำให้ระลึกถึงรีเลย์ใหม่ของเรา",
+      "name": "รูปปั้น Noggle - Ember Reprise",
+      "code": "th"
+    },
+    {
+      "description": "Yeni relayimizin doğuşu anısına küçük bir oynar figür.",
+      "name": "Noggle Heykeli - Ember Reprise",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка, присвячена відновленню нового реле.",
+      "name": "Ноґл «Відродження Ембер»",
+      "code": "uk"
+    }
+  ]
+}

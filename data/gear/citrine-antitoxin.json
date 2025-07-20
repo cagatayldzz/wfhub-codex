@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-antitoxin-31aea48b11.png",
+  "name": "Citrine Antitoxin",
+  "description": "This is a moderately effective antitoxin.",
+  "languages": [
+    {
+      "description": "Dies ist ein mäßig effektives Gegengift.",
+      "name": "Citrine Gegengift",
+      "code": "de"
+    },
+    {
+      "description": "Il s'agit d'une antitoxine moyennement efficace.",
+      "name": "Antitoxine Citrine",
+      "code": "fr"
+    },
+    {
+      "description": "Questa antitossina è moderatamente efficace.",
+      "name": "Antitossina Citrine",
+      "code": "it"
+    },
+    {
+      "description": "적당한 효과의 해독제입니다.",
+      "name": "시트린 안티톡신",
+      "code": "ko"
+    },
+    {
+      "description": "Es una antitoxina moderadamente efectiva.",
+      "name": "Antitoxina Citrino",
+      "code": "es"
+    },
+    {
+      "description": "这是一个比较有效的解毒剂。",
+      "name": "黄水晶解毒剂",
+      "code": "zh"
+    },
+    {
+      "description": "Это антитоксин средней эффективности.",
+      "name": "Антитоксин: Цитрин",
+      "code": "ru"
+    },
+    {
+      "description": "中程度強力な解毒剤。",
+      "name": "シトリン アンチトキシン",
+      "code": "ja"
+    },
+    {
+      "description": "Jest to umiarkowanie skuteczna antytoksyna.",
+      "name": "Antytoksyna Citrine",
+      "code": "pl"
+    },
+    {
+      "description": "Esta é uma antitoxina moderadamente eficaz.",
+      "name": "Antitoxina Citrino",
+      "code": "pt"
+    },
+    {
+      "description": "這是一個比較有效的解毒劑。",
+      "name": "黃水晶解毒劑",
+      "code": "tc"
+    },
+    {
+      "description": "นี่คือยาต้านพิษที่มีประสิทธิภาพปานกลาง",
+      "name": "ยาต้านพิษซิทริน",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek etkili bir antitoksin",
+      "name": "Citrine Antitoksin",
+      "code": "tr"
+    },
+    {
+      "description": "Помірна протиотрута.",
+      "name": "Протиотрута «Цитрин»",
+      "code": "uk"
+    }
+  ]
+}

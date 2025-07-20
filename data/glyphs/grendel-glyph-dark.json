@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrendelDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-glyph---dark-219f841680.png",
+  "name": "Grendel Glyph - Dark",
+  "description": "A glyph depicting Grendel on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Grendel vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Grendel (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Grendel sur un fond sombre.",
+      "name": "Glyphe Grendel - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Grendel su uno sfondo scuro.",
+      "name": "Glifo Grendel - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 그렌델을 묘사한 글리프입니다.",
+      "name": "그렌델 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Grendel sobre un fondo oscuro.",
+      "name": "Glifo de Grendel - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Grendel 在黑暗背景下的浮印。",
+      "name": "Grendel 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гренделя на тёмном фоне.",
+      "name": "Глиф: Грендель - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたGrendelのグリフ。",
+      "name": "Grendel グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Grendel na ciemnym tle.",
+      "name": "Glif Grendel — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Grendel em um fundo escuro.",
+      "name": "Glifo: Grendel (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Grendel 在黑暗背景下的浮印。",
+      "name": "Grendel 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Grendel บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Grendel - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Grendel koyu fonlu glif.",
+      "name": "Grendel Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґренделя на темному тлі.",
+      "name": "Темний гліф «Ґрендель»",
+      "code": "uk"
+    }
+  ]
+}

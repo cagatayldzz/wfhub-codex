@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/IceMeleeDangle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scyth-sugatra-47f62d3616.png",
+  "name": "Scyth Sugatra",
+  "description": "A crystallized companion to the Sibear hammer.",
+  "languages": [
+    {
+      "description": "Ein kristallisierte Verzierung für den Sibear Hammer.",
+      "name": "Scyth Sugatra",
+      "code": "de"
+    },
+    {
+      "description": "Un accessoire cristallin pour le Marteau Sibear.",
+      "name": "Sugatra Scyth",
+      "code": "fr"
+    },
+    {
+      "description": "Un compagno cristallizzato per il martello Sibear.",
+      "name": "Sugatra Scyth",
+      "code": "it"
+    },
+    {
+      "description": "시비어 해머와 같은 크리스탈 얼음 결정을 지닌 장식물입니다.",
+      "name": "사이드 수가트라",
+      "code": "ko"
+    },
+    {
+      "description": "Un acompañamiento cristalizado para el martillo Sibear.",
+      "name": "Sugatra Scyth",
+      "code": "es"
+    },
+    {
+      "description": "一具搭配西伯利亚战锤的水晶配件。",
+      "name": "冰晶坠饰",
+      "code": "zh"
+    },
+    {
+      "description": "Кристаллизованный компаньон молота «Сибирь».",
+      "name": "Сугатра: Скиф",
+      "code": "ru"
+    },
+    {
+      "description": "Sibearハンマー用の結晶を模した装飾。",
+      "name": "Scyth スガトラ",
+      "code": "ja"
+    },
+    {
+      "description": "Skrystalizowany kompan młota Sibear",
+      "name": "Sugatra Scyth",
+      "code": "pl"
+    },
+    {
+      "description": "Um item cristalizado que combina com o Martelo Sibear.",
+      "name": "Sugatra Scyth",
+      "code": "pt"
+    },
+    {
+      "description": "一具搭配西伯利亞戰鎚的水晶配件。",
+      "name": "冰晶墜飾",
+      "code": "tc"
+    },
+    {
+      "description": "ผลึกใสที่เข้ากันได้กับค้อน Sibear",
+      "name": "สุกัตรา Scyth",
+      "code": "th"
+    },
+    {
+      "description": "Sibear çekici için kristalize bir ortak",
+      "name": "Scyth Sugatra",
+      "code": "tr"
+    },
+    {
+      "description": "Кристалізований супутник для бойового молота «Сибір».",
+      "name": "Суґатра «Скіф»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/NotePacks/BardHipHopPackA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bombast-instruments-52ce9fff4c.png",
+  "name": "Bombast Instruments",
+  "description": "A themed instrument pack for Octavia's Mandachord.",
+  "languages": [
+    {
+      "description": "Ein thematisches Instrumentenpaket für Octavias Mandachord.",
+      "name": "Bombast-Instrumente",
+      "code": "de"
+    },
+    {
+      "description": "Un Pack d'instruments thématique pour le Mandaccord d'Octavia.",
+      "name": "Instruments Bombast",
+      "code": "fr"
+    },
+    {
+      "description": "Un pacchetto strumenti a tema con il Mandachord di Octavia.",
+      "name": "Bombast Instruments",
+      "code": "it"
+    },
+    {
+      "description": "옥타비아의 만다코드를 위한 테마별 악기 팩입니다.",
+      "name": "봄바스트 악기 모음",
+      "code": "ko"
+    },
+    {
+      "description": "Un paquete instrumental temático para el mandacordio de Octavia.",
+      "name": "Instrumentos rimbombantes",
+      "code": "es"
+    },
+    {
+      "description": "一个为 Octavia 的曼达和弦琴准备的主题乐器包。",
+      "name": "浮夸乐器",
+      "code": "zh"
+    },
+    {
+      "description": "Набор тематический инструментов для мендаккорда Октавии.",
+      "name": "Инструменты: Бомбаст",
+      "code": "ru"
+    },
+    {
+      "description": "OctaviaのMandachordのテーマ楽器パック。",
+      "name": "Bombast 楽器",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw tematycznych instrumentów dla Mandakordium Octavii.",
+      "name": "Instrumenty Bombast",
+      "code": "pl"
+    },
+    {
+      "description": "Um pacote de instrumentos temáticos para o Mandacorde da Octavia.",
+      "name": "Instrumentos Bombast",
+      "code": "pt"
+    },
+    {
+      "description": "一個為 Octavia 的曼達和弦琴準備的主題樂器包。",
+      "name": "誇奏樂器包",
+      "code": "tc"
+    },
+    {
+      "description": "แพ็กเครื่องดนตรีตามธีมสำหรับ Mandachord ของ Octavia",
+      "name": "เครื่องดนตรี Bombast",
+      "code": "th"
+    },
+    {
+      "description": "Octavia'nın Mandachord'u için temalı enstrüman paketi",
+      "name": "Bombast Enstrümanları",
+      "code": "tr"
+    },
+    {
+      "description": "Тематичний набір інструментів для мандакорда Октавії.",
+      "name": "Інструменти «Бомбаст»",
+      "code": "uk"
+    }
+  ]
+}

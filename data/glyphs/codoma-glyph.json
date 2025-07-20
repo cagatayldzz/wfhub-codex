@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCodoma",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/codoma-glyph-293d8f15ff.png",
+  "name": "Codoma Glyph",
+  "description": "A Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine Glyphe für dein Profil.",
+      "name": "Glyphe: Codoma",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour votre profil.",
+      "name": "Glyphe Codoma",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo per il tuo profilo.",
+      "name": "Glifo Codoma",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 글리프입니다.",
+      "name": "Codoma 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo para tu perfil.",
+      "name": "Glifo de Codoma",
+      "code": "es"
+    },
+    {
+      "description": "个人档案的浮印。",
+      "name": "Codoma 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф для вашего профиля.",
+      "name": "Глиф: Codoma",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用のグリフ。",
+      "name": "Codoma グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif dla Twojego profilu.",
+      "name": "Glif Codoma",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo para o seu perfil.",
+      "name": "Glifo: Codoma",
+      "code": "pt"
+    },
+    {
+      "description": "用於個人檔案的浮印。",
+      "name": "Codoma 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์ Codoma",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için bir Glif.",
+      "name": "Codoma Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вашого профілю.",
+      "name": "Гліф Codoma",
+      "code": "uk"
+    }
+  ]
+}

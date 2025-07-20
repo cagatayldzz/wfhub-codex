@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNezhaBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nezha-glyph---bright-ab8e77b27a.png",
+  "name": "Nezha Glyph - Bright",
+  "description": "A glyph depicting Nezha on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nezha vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nezha (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nezha sur un fond lumineux.",
+      "name": "Glyphe Nezha - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nezha su uno sfondo chiaro.",
+      "name": "Glifo Nezha - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 나타를 묘사한 글리프입니다.",
+      "name": "나타 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nezha sobre un fondo brillante.",
+      "name": "Glifo de Nezha - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nezha 在明亮背景下的浮印",
+      "name": "Nezha 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Нэчжи на светлом фоне.",
+      "name": "Глиф: Нэчжа - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたNezhaのグリフ。",
+      "name": "Nezha グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Nezha na jasnym tle.",
+      "name": "Glif Nezha — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Nezha em um fundo claro.",
+      "name": "Glifo: Nezha (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nezha 在明亮背景下的浮印。",
+      "name": "Nezha 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nezha บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nezha - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nezha açık fonlu glif.",
+      "name": "Nezha Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Неджи на світлому тлі.",
+      "name": "Яскравий гліф «Неджа»",
+      "code": "uk"
+    }
+  ]
+}

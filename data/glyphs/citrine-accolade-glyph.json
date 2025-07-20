@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCitrineAccoladeGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-accolade-glyph-821057a05e.png",
+  "name": "Citrine Accolade Glyph",
+  "description": "A glyph representing a feat of strength by community artist Kedemel.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen vom Community-Künstler Kedemel.",
+      "name": "Glyphe: Citrine Auszeichnung",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Kedemel.",
+      "name": "Glyphe Insigne de Citrine",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Kedemel.",
+      "name": "Glifo Riconoscimento Citrine",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 Kedemel의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+      "name": "시트린 어콜레이드 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Kedemel.",
+      "name": "Glifo Reconocimiento de Citrine",
+      "code": "es"
+    },
+    {
+      "description": "体现力量壮举的浮印，由社区艺术家 Kedemel 创作。",
+      "name": "Citrine 荣誉浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Kedemel.",
+      "name": "Глиф: Посвящение Цитрины",
+      "code": "ru"
+    },
+    {
+      "description": "偉業を表すグリフ。Kedemel作。",
+      "name": "Citrine Accolade グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Kedemel.",
+      "name": "Glif Odznaczenia Citrine",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo representando um feito de força, desenvolvido pelo artista da Comunidade, Kedemel.",
+      "name": "Glifo: Insígnia da Citrine",
+      "code": "pt"
+    },
+    {
+      "description": "一枚代表力量壯舉的浮印，由社群藝術家 Kedemel 創作。",
+      "name": "Citrine 讚譽浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Kedemel",
+      "name": "ภาพสัญลักษณ์ Citrine Accolade",
+      "code": "th"
+    },
+    {
+      "description": "Topluluk sanatçısı Kedemel tarafından tasarlanan ve gücü simgeleyen bir glif.",
+      "name": "Citrine Nişanı Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням прояву сили, створений Kedemel.",
+      "name": "Гліф «Схвалення Цитрини»",
+      "code": "uk"
+    }
+  ]
+}

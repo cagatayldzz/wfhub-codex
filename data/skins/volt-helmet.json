@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-helmet-165fc12f7a.png",
+  "name": "Volt Helmet",
+  "description": "The standard issue helmet for the Volt Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Volt Warframe.",
+      "name": "Volt-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Volt.",
+      "name": "Casque Volt",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Volt.",
+      "name": "Elmo Volt",
+      "code": "it"
+    },
+    {
+      "description": "볼트 워프레임을 위한 기본 헬멧입니다.",
+      "name": "볼트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Volt.",
+      "name": "Casco de Volt",
+      "code": "es"
+    },
+    {
+      "description": "Volt 的标准头盔。",
+      "name": "Volt 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Вольта.",
+      "name": "Шлем Вольта",
+      "code": "ru"
+    },
+    {
+      "description": "Voltの標準型ヘルメット。",
+      "name": "Volt ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Volt.",
+      "name": "Volt: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Volt.",
+      "name": "Volt: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Volt 標準頭盔。",
+      "name": "Volt 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Volt Warframe",
+      "name": "หมวกเหล็ก Volt",
+      "code": "th"
+    },
+    {
+      "description": "Volt Warframe için standart miğfer.",
+      "name": "Volt Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Вольта.",
+      "name": "Шолом Вольта",
+      "code": "uk"
+    }
+  ]
+}

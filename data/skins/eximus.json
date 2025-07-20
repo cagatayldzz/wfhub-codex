@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerEximus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eximus-4c48525c97.png",
+  "name": "Eximus",
+  "description": "A set of colors derived from the uniforms of Eximus adversaries.\n\nUnlocks additional color options for Warframe customization.",
+  "languages": [
+    {
+      "description": "Eine Zusammenstellung von Farben, inspiriert von den Uniformen der Eximus Widersacher. \n\nSchaltet zusätzliche Farben für die Anpassung deiner Ausrüstung frei.",
+      "name": "Eximus",
+      "code": "de"
+    },
+    {
+      "description": "Une palette de couleurs dérivées des uniformes d'adversaires Eximus.\n\nDéverrouille de nouvelles couleurs pour personnaliser l’apparence des Warframes.",
+      "name": "Eximus",
+      "code": "fr"
+    },
+    {
+      "description": "Una combinazioni di colori ispirata alle uniformi degli Eximus.\n\nSblocca ulteriori opzioni colore per la personalizzazione dell'armatura.",
+      "name": "Eximus",
+      "code": "it"
+    },
+    {
+      "description": "엑시무스 유니폼에서 얻어낸 색들입니다.\n\n워프레임을 꾸밀 때 사용하는 추가적인 색상들을 잠금 해제합니다.",
+      "name": "엑시무스",
+      "code": "ko"
+    },
+    {
+      "description": "Un conjunto de colores derivado de los uniformes de los adversarios Eximus.\n\nDesbloquea opciones de colores adicionales para la personalización del warframe.",
+      "name": "Eximus",
+      "code": "es"
+    },
+    {
+      "description": "一组从敌方卓越者的制服衍生而来的色彩包。\n\n解锁更多用于战甲的自定义色彩。",
+      "name": "卓越者",
+      "code": "zh"
+    },
+    {
+      "description": "Набор цветов, скопированных с униформ противников-эксимусов.\n\nОткрывает дополнительные опции для цветовой настройки варфреймов.",
+      "name": "Эксимус",
+      "code": "ru"
+    },
+    {
+      "description": "エクシマスをモチーフにしたカラーパレットです。\n\nカスタマイズ用追加カラーをアンロックする。",
+      "name": "Eximus",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw kolorów wywodzących się od przeciwników typu Eximus.\n\nOdblokowuje dodatkowe opcje personalizacji Warframe'a.",
+      "name": "Eximus",
+      "code": "pl"
+    },
+    {
+      "description": "Uma gama de cores derivadas do uniforme de adversários Eximus.\n\nDesbloqueia opções de cores adicionais para a personalização de Warframes.",
+      "name": "Eximus",
+      "code": "pt"
+    },
+    {
+      "description": "一組從敵方卓越者的制服衍生而來的色彩包。\n\n解鎖額外的裝備自訂色彩。",
+      "name": "卓越者",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดสีที่ได้มาจากเครื่องแบบของศัตรู Eximus\n\nปลดล็อกตัวเลือกสีเพิ่มเติมเพื่อใช้ปรับแต่ง Warframe",
+      "name": "Eximus",
+      "code": "th"
+    },
+    {
+      "description": "Eximus düşman üniforma renklerinden oluşan renk paleti\n\nWarframe özelleştirmeleri için ekstra renk seçeneklerini aktive eder.",
+      "name": "Eximus",
+      "code": "tr"
+    },
+    {
+      "description": "Набір кольорів спецодягу ексімів.\n\nДодаткова палітра кольорів задля урізнобарвлення гри.",
+      "name": "Ексім",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/circle-of-comrades-series-on-vhs-22b40e77d7.png",
+  "name": "\"Circle Of Comrades\" Series On Vhs",
+  "description": "The critically acclaimed 'Circle of Comrades' complete series on VHS. 6-Tape Boxed Set.",
+  "languages": [
+    {
+      "description": "Die von Kritikern hochgelobte komplette Serie 'Circle of Comrades' auf VHS. Schuber mit 6 Kassetten.",
+      "name": "\"Circle of Comrades\"-Serie auf VHS",
+      "code": "de"
+    },
+    {
+      "description": "La série complète 'Circle of Comrades', acclamée par la critique et en VHS. Coffret de 6 cassettes.",
+      "name": "Série \"Circle of Comrades\" sur VHS",
+      "code": "fr"
+    },
+    {
+      "description": "La serie completa 'Circle of Comrades', acclamata dalla critica, in VHS. Cofanetto da 6 cassette.",
+      "name": "Serie \"Circle of Comrades\" su VHS",
+      "code": "it"
+    },
+    {
+      "description": "비평가들의 극찬을 받은 '동지들의 인연' 전 시리즈를 VHS로 보실 수 있습니다. 한 세트에 6개의 테이프로 구성되어 있습니다.",
+      "name": "VHS로 보는 \"동지들의 인연\" 시리즈",
+      "code": "ko"
+    },
+    {
+      "description": "La serie completa de 'Círculo de camaradas', aclamada por la crítica, en formato VHS. Caja con 6 cintas.",
+      "name": "Serie \"Círculo de camaradas\" en VHS",
+      "code": "es"
+    },
+    {
+      "description": "广受好评的《战友结社》系列录像带。盒装内含 6 盘磁带。",
+      "name": "《战友结社》系列录像带",
+      "code": "zh"
+    },
+    {
+      "description": "Восхвалённый критиками сериал «Круг товарищей» на VHS. Набор из 6 кассет.",
+      "name": "Сериал «Круг товарищей» на VHS",
+      "code": "ru"
+    },
+    {
+      "description": "「Circle of Comrades：仲間の輪」の全話を6本のVHSに収録！",
+      "name": "「Circle of Comrades：仲間の輪」VHSシリーズ",
+      "code": "ja"
+    },
+    {
+      "description": "Uznany przez krytyków serial 'Krąg towarzyszy' na VHS. Zestaw 6 kaset.",
+      "name": "Seria \"Krąg towarzyszy\" na VHS",
+      "code": "pl"
+    },
+    {
+      "description": "A série completa de 'Círculo de Camaradas' aclamada pela crítica, agora em VHS. Caixa com 6 fitas.",
+      "name": "Série \"Círculo de Camaradas\" em VHS",
+      "code": "pt"
+    },
+    {
+      "description": "榮獲高度評價的全系列《戰友圈》影集登上家用錄影系統。經典盒裝（6 卷錄影帶）。",
+      "name": "《戰友圈》影集錄影帶",
+      "code": "tc"
+    },
+    {
+      "description": "ซีรีส์ 'Circle of Comrades' ที่ได้รับการยกย่องจากนักวิจารณ์มาแบบครบชุดในรูปแบบ VHS ชุดกล่องเทปมี 6 ม้วน",
+      "name": "วิดีโอเทป VHS ซีรีส์ \"Circle of Comrades\"",
+      "code": "th"
+    },
+    {
+      "description": "Eleştirmenlerce beğenilen 'Yoldaşlar Çemberi' dizisinin tamamı kaset formatında. 6 Kasetli Set içerir.",
+      "name": "\"Yoldaşlar Çemberi\" Dizisi artık kaset formatında",
+      "code": "tr"
+    },
+    {
+      "description": "Усі серії серіалу «Коло товаришів», схваленого критиками, на 6 відеокасетах у коробці.",
+      "name": "Відеокасета з серіалом «Коло товаришів»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/XakuPotF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gallixware-frit-plate-e8a39269d3.png",
+  "name": "Gallixware Frit Plate",
+  "description": "Orokin ceramic artist, Bren Terrasiam employed an old world glazing technique to give this plate a lustrous finish. Elites of the day admired his mastery of the ancient arts.",
+  "languages": [
+    {
+      "description": "Bren Terrasiam, Keramikkünstler der Orokin, verwendete eine Glasurtechnik der alten Welt, um diesem Teller eine glänzende Oberfläche zu verleihen. Die damaligen Eliten bewunderten seine Beherrschung der alten Künste.",
+      "name": "Gallixkeramik-Teller: Frit",
+      "code": "de"
+    },
+    {
+      "description": "L'artiste céramiste Orokin, Bren Terrasiam, a utilisé une technique de vitrage à l'ancienne pour donner à cette assiette une finition brillante. Les élites de l'époque admiraient sa maîtrise des arts anciens.",
+      "name": "Assiette Frit Gallixware",
+      "code": "fr"
+    },
+    {
+      "description": "L'artista Orokin della ceramica, Bren Terrasiam ha utilizzato una tecnica di smaltatura del vecchio mondo per dare a questo piatto una finitura brillante. L'élite dell'epoca ammirava la sua maestria nelle arti antiche.",
+      "name": "Piatto Gallixware Frit",
+      "code": "it"
+    },
+    {
+      "description": "오로킨의 도예가, 브렌 테라시암은 이 접시의 광택 마감에 구세계의 유약 기술을 이용했습니다. 당대의 엘리트들은 고대의 예술에 숙달한 그의 솜씨를 극찬했습니다.",
+      "name": "갈릭스웨어 프릿 접시",
+      "code": "ko"
+    },
+    {
+      "description": "El artista de cerámica orokin, Bren Terrasiam, ha utilizado una técnica de vidriado del viejo mundo para darle a este plato un acabado lustroso. La élite de la época admiraba su dominio de las artes antiguas.",
+      "name": "Plato Frita Gallixware",
+      "code": "es"
+    },
+    {
+      "description": "Orokin 陶瓷艺术家布伦·泰拉西姆采用旧世界的上釉技术为这个盘子赋予光泽。当时的精英们钦佩他对古代艺术的精通。",
+      "name": "高力士玻璃釉瓷盘",
+      "code": "zh"
+    },
+    {
+      "description": "Художник-керамист из Орокин Брен Террасиам использовал старую технику глазурования, чтобы придать этой тарелке сверкающую поверхность. Элита того времени восхищалась его познаниями в древних искусствах.",
+      "name": "Галликсвер: Фриттовая тарелка",
+      "code": "ru"
+    },
+    {
+      "description": "オロキンが誇る土器の名人、Bren Terrasiamは古代のグレイズ技術を用いりこの作品に独特な光沢をあげた。当時のエリート貴族は彼の再現性に見惚れたと言う。",
+      "name": "Gallixware Frit プレート",
+      "code": "ja"
+    },
+    {
+      "description": "Orokiński wirtuoz ceramiki, Bren Terrasiam wykorzystywał antyczną technikę szkliwienia, która nadała temu talerzowi błyszczące wykończenie. Ówczesne elity podziwiały jego mistrzostwo w tej sztuce.",
+      "name": "Gallixware: Talerz Frit",
+      "code": "pl"
+    },
+    {
+      "description": "O artista de cerâmica Orokin, Bren Terrasiam, usou uma antiga técnica de vitrificação para dar a este prato um acabamento lustroso. As elites da época admiravam seu domínio das artes antigas.",
+      "name": "Prato Frit Gallixware",
+      "code": "pt"
+    },
+    {
+      "description": "Orokin 製陶藝術家──Bren Terrasiam 採用了一種舊世界的上釉技術來給這個盤子最後一層光澤加工。當代的精英們都欽佩他對古老藝術的精湛技藝。",
+      "name": "高厲燒結陶盤",
+      "code": "tc"
+    },
+    {
+      "description": "Bren Terrasiam เป็นช่างทำเครื่องเซรามิกในยุค Orokin ที่ใช้เทคนิกการเคลือบแบบโบราณเพื่อให้จานใบนี้มีความเงางาม ชนชั้นสูงในสมัยนั้นต่างชื่นชมในความเชี่ยวชาญด้านศิลปะโบราณของเขา",
+      "name": "จาน Gallixware Frit",
+      "code": "th"
+    },
+    {
+      "description": "Orokin seramik sanatçısı Bren Terrasiam, bu tabağa parlak bir görünüm vermek için eski dünya sırlama tekniğini kullandı. Zamanın elitleri, antik sanatlardaki ustalığına hayran kaldılar.",
+      "name": "Gallixware Çini Tabak",
+      "code": "tr"
+    },
+    {
+      "description": "Брен Террасьям, орокінський митець і виробник керамічних виробів, використовував технології старого світу, щоб надати тарілці такого блиску. Тогочасна шляхта захоплювалася тим, як глибоко він опанував прадавнє мистецтво.",
+      "name": "Фріттова тарілка «Ґаліксвер»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePopsicleGrineerPurple",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dog-days-glyph-ee0563c404.png",
+  "name": "Dog Days Glyph",
+  "description": "Beat the heat with this unique Glyph.",
+  "languages": [
+    {
+      "description": "Vertreibt die Hitze mit dieser einzigartigen Glyphe.",
+      "name": "Glyphe: Hitzefrei",
+      "code": "de"
+    },
+    {
+      "description": "Venez à bout de cette chaleur grâce à ce Glyphe unique.",
+      "name": "Glyphe Bataille d'Eau",
+      "code": "fr"
+    },
+    {
+      "description": "Combatti il caldo con questo Glifo unico.",
+      "name": "Glifo Dog Days",
+      "code": "it"
+    },
+    {
+      "description": "이 특별한 글리프와 함께 뜨거운 여름을 시원하게 나 봅시다.",
+      "name": "도그 데이즈 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Vence al calor con este glifo único.",
+      "name": "Glifo de Canícula",
+      "code": "es"
+    },
+    {
+      "description": "通过这独特浮印来抵抗炎炎高温。",
+      "name": "三伏天浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Справьтесь с жарой с помощью этого уникального глифа.",
+      "name": "Глиф: Знойные Дни",
+      "code": "ru"
+    },
+    {
+      "description": "このユニークなグリフで熱さを乗り切ろう。",
+      "name": "ドッグ・デイズ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Pokonaj upał tym unikatowym Glifem.",
+      "name": "Glif Kanikuły",
+      "code": "pl"
+    },
+    {
+      "description": "Vença o calor com este Glifo único.",
+      "name": "Glifo: Dias de Cão",
+      "code": "pt"
+    },
+    {
+      "description": "透過這獨特紋章來來抵抗炎炎高溫。",
+      "name": "三伏天浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ดับร้อนด้วยภาพสัญลักษณ์ที่ไม่ซ้ำแบบใครนี้",
+      "name": "ภาพสัญลักษณ์ Dog Days",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşsiz Glif ile sıcağı yenin.",
+      "name": "Dog Days Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний гліф для тих, хто зміг пережити спеку.",
+      "name": "Гліф «Спекотні дні»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/CrpVenusHatchet/CrpVenusHatchet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kreska-27eae4fcab.png",
+  "name": "Kreska",
+  "description": "This unsophisticated Corpus survival tool does what it was designed for: hacking and splitting whatever it strikes.",
+  "languages": [
+    {
+      "description": "Dieses primitive Überlebenswerkzeug der Corpus wurde dafür entworfen alles zu zerhacken und spalten, was es trifft.",
+      "name": "Kreska",
+      "code": "de"
+    },
+    {
+      "description": "Cet outil de survie rudimentaire Corpus fait exactement ce pour quoi il a été conçu: trancher et découper tout ce qui se tient sur sa route.",
+      "name": "Kreska",
+      "code": "fr"
+    },
+    {
+      "description": "Questo rudimentale strumento di sopravvivenza Corpus fa ciò per cui è stato progettato: affettare e frammentare qualsiasi cosa colpisca.",
+      "name": "Kreska",
+      "code": "it"
+    },
+    {
+      "description": "이 단순한 코퍼스식 생존 도구는 의도된 기능을 효율적으로 수행합니다: 닿는 모든 것을 갈기갈기 찢어버리는 것.",
+      "name": "크레스카",
+      "code": "ko"
+    },
+    {
+      "description": "Esta poco sofisticada herramienta de supervivencia del Corpus hace lo que su diseño sugiere: machacar y cortar lo que golpea.",
+      "name": "Kreska",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KRESKA）这把简易的 Corpus 生存工具履行了它的设计目标：砍杀和分裂任何攻击对象。",
+      "name": "直镐",
+      "code": "zh"
+    },
+    {
+      "description": "Этот неприметный инструмент выживания Корпуса справляется со своей задачей: раскалывает и разламывает все, что им ударят.",
+      "name": "Креска",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス製の単純なサバイバルツール。攻撃した物の裁断や伐採を目的として設計されている。",
+      "name": "Kreska",
+      "code": "ja"
+    },
+    {
+      "description": "To niewyszukane narzędzie do przetrwania Corpus robi to, do czego zostało zaprojektowane: sieka i rozplata wszystko w co uderzy.",
+      "name": "Kreska",
+      "code": "pl"
+    },
+    {
+      "description": "Esta ferramenta rústica de sobrevivência Corpus faz o que deve fazer: fatiar e despedaçar tudo que encontrar.",
+      "name": "Kreska",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KRESKA）這把簡易的 Corpus 生存工具履行了它的設計目標：砍殺和分裂任何攻擊對象。",
+      "name": "克雷斯卡",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องมือเอาตัวรอดของ Corpus ที่ไม่ซับซ้อนนี้ทำในสิ่งที่ออกแบบมาสำหรับ: การแฮ็กและแยกอะไรก็ตามที่มันโจมตี",
+      "name": "Kreska",
+      "code": "th"
+    },
+    {
+      "description": "Bu sade Corpus yaşamsal aleti tasarlandığı şeyi yapar: vurduğu her şeyi kırıp parçalamak.",
+      "name": "Kreska",
+      "code": "tr"
+    },
+    {
+      "description": "Просте знаряддя Корпусу для виживання. Чудово порається зі своїм призначенням — розколює та розбиває все, чого торкнеться.",
+      "name": "Креска",
+      "code": "uk"
+    }
+  ]
+}

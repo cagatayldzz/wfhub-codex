@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnHopliteSpear/TnHopliteSpearGunWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/afentis-a053c519b8.png",
+  "name": "Afentis",
+  "description": "Styanax’s speargun matches his might. Throw Afentis to pin an enemy and nearby enemies will also be stunned. Throw Afentis onto the ground to buff nearby allies with Ballistarii Might. The buff increases reload speed, fire rate, and ammo pools and reduces recoil. Allies who kill enemies with Ballistarii Might maintain the buff temporarily when they move away from Afentis.",
+  "languages": [
+    {
+      "description": "Styanax' Speer entspricht seiner Macht. Wirf Afentis, um Gegner festzunageln und Gegner in der Nähe werden betäubt. Wirf Afentis auf den Boden, um Verbündete in der Nähe mit Ballistariis Macht zu stärken. Dieser Buff erhöht Nachladegeschwindigkeit, Feuerrate, Munitionsvorrat und reduziert Rückstoß. Verbündete, die Gegner töten, während Ballistariis Macht aktiv ist, behalten den Buff für kurze Zeit, nachdem sie sich von Afentis entfernen.",
+      "name": "Afentis",
+      "code": "de"
+    },
+    {
+      "description": "La Lance à Énergie de Styanax est à la hauteur de sa puissance. Lancez l'Afentis sur un ennemi et les ennemis proches seront également étourdis. Lancez l'Afentis au sol pour conférer Puissance Ballistarii aux alliés proches. Cela augmente la vitesse de rechargement, la cadence de tir, les réserves de munitions et réduit le recul. Les alliés qui éliminent des ennemis avec Puissance Ballistarii active conservent momentanément ses avantages quand ils s'éloignent de l'Afentis.",
+      "name": "Afentis",
+      "code": "fr"
+    },
+    {
+      "description": "La speargun di Styanax è all'altezza della sua potenza. Lancia l'Afentis per bloccare un nemico e stordire anche quelli vicini. Lancia l'Afentis a terra per potenziare gli alleati vicini con Ballistarii Might. Il potenziamento aumenta la velocità di ricarica, la cadenza di tiro, le munizioni e ne riduce il rinculo. Gli alleati che uccidono i nemici con Ballistarii Might mantengono temporaneamente il potenziamento quando si allontanano dall'Afentis.",
+      "name": "Afentis",
+      "code": "it"
+    },
+    {
+      "description": "스티아낙스의 스피어건은 그의 힘에 필적하는 무기입니다. 아펜티스를 투척하여 적을 꿰뚫을 경우 주변의 적들 역시 기절합니다. 아펜티스를 땅에 던지면 발리스타리 마이트 버프를 통해 아군을 강화시킬 수 있습니다. 이 버프는 재장전 속도, 연사력 및 탄약량을 증가시키고 반동을 감소시켜 줍니다. 발리스타리 마이트의 범위 내에서 적을 처치한 아군은 아펜티스로부터 멀어져도 잠시 동안 버프를 유지합니다.",
+      "name": "아펜티스",
+      "code": "ko"
+    },
+    {
+      "description": "La lanza de Styanax está a la altura de su poder. Lanza la Afentis para inmovilizar a un enemigo y los enemigos cercanos también quedarán aturdidos. Lanza la Afentis al suelo para potenciar a los aliados cercanos con Fortaleza Ballistarii. La bonificación aumenta la velocidad de recarga, la cadencia de fuego, las reservas de munición y reduce el retroceso. Los aliados afectados por Fortaleza Ballistarii que maten enemigos pueden mantener la bonificación temporalmente cuando se alején de la Afentis.",
+      "name": "Afentis",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AFENTIS）Styanax 的标枪与他的力量相匹配。投掷圣英来压制敌人，其附近的敌人也会被击晕。将圣英投掷到地上，可创造一个为友军带来增益的炮兵威能力场，可增加装填速度，射速，弹药最大值，并降低后坐力。当获得炮兵威能的友军击杀敌人后，炮兵威能效果则会在他们离开圣英力场后继续维持一小段时间。",
+      "name": "圣英",
+      "code": "zh"
+    },
+    {
+      "description": "Гарпун Стинакса соответствует его силе. Метнув Афентис, вы пригвоздите цель и ошеломите врагов поблизости. Если вонзить Афентис в землю, то вокруг создастся усилительное поле для союзников благодаря «Мощи баллистарии». Поле увеличивает скорость перезарядки, скорострельность, вместимость обоймы и уменьшает отдачу. Если союзник убьёт врага во время действия «Мощи баллистарии», усиление будет действовать ещё некоторое время и после выхода из поля действия Афентиса.",
+      "name": "Афентис",
+      "code": "ru"
+    },
+    {
+      "description": "Styanax のスピアガンは彼の力に匹敵する代物。Afentisを投げて敵を縫い止めると近くの敵もスタンし、Afentisを地面に突き刺すとBallistarii Mightで近くの味方を強化させる。このフィールド内ではリロード速度、発射速度、最大弾薬を増加させ、射撃反動を抑える。 Ballistarii Mightが有効な間に敵を倒した味方は、Afentisから離れても効果時間が短時間維持される。",
+      "name": "Afentis",
+      "code": "ja"
+    },
+    {
+      "description": "Włócznia Styanaxa dorównuje jego potędze. Rzucony Afentis przygwoździ przeciwnika oraz ogłusza innych wokół trafionego wroga. Wbity w ziemię Afentis tworzy obszar wzmacniający sojuszników Potęgą Balistariusza. Kiedy sojusznicy pod efektem Potęgi Balistariusza zabiją wroga, zachowują oni tę premię przez krótki czas nawet po wyjściu poza zasięg Afentisa.",
+      "name": "Afentis",
+      "code": "pl"
+    },
+    {
+      "description": "O cetro do Styanax faz jus à sua força. Arremesse a Afentis para prender um inimigo, e atordoar os demais inimigos próximos. Ao arremessar a Afentis ao chão, uma área que fortalece seus Aliados com a Ballistarii Might será criada. O efeito aumentará a Velocidade de Recarga, a Cadência de Tiro e as reservas de munição, além de reduzir o recuo. Aliados que eliminam inimigos com o efeito da Ballistarii ativo podem manter os seus benefícios temporariamente quando se afastam da Afentis.",
+      "name": "Afentis",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AFENTIS）Styanax 的標槍與他的力量互相匹配。投擲阿凡提來壓制一名敵人，附近的敵人也會被擊暈。將阿凡提投擲到地上來用標手威武增強附近友方。這個增益會增加裝填速度、射速，以及彈藥池並減少後坐力。透過標手威武擊殺敵人的友方當遠離阿凡提時會短暫保持增益。",
+      "name": "阿凡提",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนหอกของ Styanax นั้นเหมาะเจาะเข้าคู่กันกับพลังของเขายิ่งนัก หากขว้าง Afentis ไปปักหมุดศัตรู ก็จะทำให้ศัตรูที่อยู่ใกล้เคียงติดสตันทำให้เกิดอาการมึนงงไปด้วย หากขว้าง Afentis ลงบนพื้นก็จะสร้างบัฟด้วย Ballistarii Might ให้กับพันธมิตรที่อยู่ใกล้เคียงได้ บัฟนี้จะช่วยเพิ่มความเร็วในการบรรจุกระสุน อัตราการยิง จำนวนกระสุนและลดแรงถีบกลับของปืน เพื่อนร่วมทีมที่ฆ่าศัตรูด้วย Ballistarii Might จะรักษาบัฟได้ชั่วคราว แม้ว่าจะถอยห่างออกจาก Afentis",
+      "name": "Afentis",
+      "code": "th"
+    },
+    {
+      "description": "Styanax'ın zıpkınları, ihtişamına yakışıyor. Bir düşmanı durdurmak ve yakındaki düşmanları sersemletmek için Afentis'i fırlat. Müttefikleri güçlendiren bir alan oluşturmak için Ballistarii Might ile Afentis'i yere fırlat. Bu güçlendirme, doldurma hızını, atış hızını, ve cephaneyi artırarak geri tepmeyi azaltır. Ballistarii Might etkisi altındaki müttefikler düşmanı öldürdüklerinde; Afentis'in alanını terk ettikten kısa bir süre için güçlendirmeyi korurlar.",
+      "name": "Afentis",
+      "code": "tr"
+    },
+    {
+      "description": "Гарпун Стейнекса відповідає його силі. Жбурнувши Ефентіс, ви пришпилите ціль та ворогів поблизу й приголомшите їх. Якщо кинути його в землю, то посилите союзників Міццю балістарія. Це посилення збільшує швидкість заряджання й кількість набоїв, а також зменшує віддачу. Коли союзник уб’є ворога під час дії Міці балістарія, то вона діятиме ще певний час і на відстані від Ефентіса.",
+      "name": "Ефентіс",
+      "code": "uk"
+    }
+  ]
+}

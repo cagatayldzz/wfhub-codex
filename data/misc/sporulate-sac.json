@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sporulate-sac-28f1138dbc.png",
+  "name": "Sporulate Sac",
+  "description": "These pressurized repositories of Infested spores require careful extraction or explosive rupture and local contamination may occur.\n\nSource: Cut from Glutinox fish via Daughter in the Necralisk (Deimos). Catch Glutinox on the Cambion Drift surface during Vome.  Also drops from Requiem Obelisks and Infested Cysts in the Cambion Drift.",
+  "languages": [
+    {
+      "description": "Diese unter Druck stehenden Behälter Befallener Sporen müssen sehr vorsichtig entnommen werden, sonst könnten sie explodieren und eine lokale Verseuchung verursachen.\n\nQuelle: Tochter im Necralisk (Deimos) kann es aus den folgenden Fischen der Cambion-Drift entfernen:\nGlutinox (Kann während Vome auf der Oberfläche der Cambion-Drift gefangen werden.)\nKann auch von Requiem Obelisken und Befallenen Zysten in der Cambion-Drift erhalten werden.",
+      "name": "Sporen-Sack",
+      "code": "de"
+    },
+    {
+      "description": "Ces dépôts pressurisés de spores Infestées nécessitent une extraction minutieuse sous peine d'avoir une rupture explosive suivie d'une contamination locale.\n\nSource: récupérés des poissons Glutinox via la Fille dans le Necralisk (Deimos). Attrapez le Glutinox à la surface du Puy de Cambion pendant Vome. Tombe également des Obélisques Requiems et des Kystes Infestés du Puy de Cambion.",
+      "name": "Sporange",
+      "code": "fr"
+    },
+    {
+      "description": "Questi depositi pressurizzati di spore Infested richiedono un'estrazione attenta o una rottura esplosiva e potrebbe portare a una contaminazione locale.\n\nFonte: Ottenibili dal pesce Glutinox da Figlia nel Necralisk (Deimos). Cattura un Glutinox sulla superficie del Cambion Drift durante Vome. Vengono rilasciati anche dagli Obelischi Requiem e dalle Cisti Infested nel Cambion Drift.",
+      "name": "Sacca Sporulare",
+      "code": "it"
+    },
+    {
+      "description": "이 가압된 인페스티드 포자 저장 기관들은 폭발성 파열 및 국지 오염을 일으킬 위험이 있으므로 신중한 추출이 요구됩니다.\n\n획득 가능 장소: 네크랄리스크 (데이모스) 의 딸을 통해 글러티녹스 물고기를 해체하여 획득. 봄 주기 동안 캠비온 퇴적지의 표면에서 글러티녹스를 잡을 수 있습니다. 또한 캠비온 퇴적지의 레퀴엠 오벨리스크 및 인페스티드 낭종을 통해서도 드롭됩니다.",
+      "name": "포자낭",
+      "code": "ko"
+    },
+    {
+      "description": "Estos depósitos presurizados de esporas infestadas requieren una extracción cuidadosa o pueden provocar una ruptura explosiva y una contaminación local.\n\nFuente: Obtenidos al cortar el pez Glutinox con Hija en el Necralisk (Deimos). Captura Glutinox en la superficie de Deriva Cambion durante Vome. También se obtiene de los Obeliscos Réquiem y los quistes infestados en Deriva Cambion.",
+      "name": "Saco esporulado",
+      "code": "es"
+    },
+    {
+      "description": "这些存有感染孢子的加压储存囊需要被小心提取，否则就会炸裂并且可能造成局部污染。\n\n获取途径：通过殁世幽都（火卫二）的“女儿”从狍鸮胶蛳中切割获取。可在“秩序”期间的魔胎之境地面中捕捉狍鸮胶蛳。此外它还会从魔胎之境的安魂方尖碑和感染包囊掉落。",
+      "name": "孢子液囊",
+      "code": "zh"
+    },
+    {
+      "description": "Эти, находящиеся под давлением, хранилища спор заражённых требуют осторожного извлечения, чтобы избежать их взрыва и распространения заразы.\n\nМестонахождение: Добывается при разделке рыбы глютинокса через Дочь Некралиска (Деймос). Ловите глютинокса на поверхности Камбионского Дрейфа во время активности Воум. Также выпадает из Обелисков Реквиема и заражённых кист в Камбионском Дрейфе.",
+      "name": "Споровой Пузырек",
+      "code": "ru"
+    },
+    {
+      "description": "感染体の胞子を貯蔵しているこれらの器官は加圧されており、破裂して周辺を汚染する可能性があるため、抽出を行う際は慎重を期すことが求められる。\n\n場所：グラティノクスから切り取れる（ダイモス、ネクロリスクのDaughter）。グラティノクスはVome時のカンビオン荒地で獲れる。カンビオン荒地のRequiem オベリスクと感染体シストからもドロップ可能。",
+      "name": "胞子袋",
+      "code": "ja"
+    },
+    {
+      "description": "Te repozytoria zarodników Plagi pod ciśnieniem grożą wybuchowym pęknięciem i lokalnym skażeniem, dlatego wymagają delikatnej ekstrakcji. \n\nŹródła: Uzyskane przez filetowanie ryby Glutinoks przez Córkę w Necralisku (Deimos).  Na powierzchni Dryfu Kambionu w czasie czuwania Vome złapiesz Glutinoks. Wypada także z Obelisków Requiem i Torbieli Plagi w Dryfie Kambionu.",
+      "name": "Woreczek Zarodnikowy",
+      "code": "pl"
+    },
+    {
+      "description": "Estes depósitos pressurizados de esporos Infestados requerem uma extração cuidadosa, para que, desta forma, não ocorra uma ruptura explosiva e, por consequência, a contaminação local.\n\nLocalização: obtido através do corte do peixe Glutinox da Deriva de Cambion com a Filha no Necralisk, em Deimos. Capture o Glutinox na superfície da Deriva de Cambion durante o ciclo de Vome. Ele também poderá ser obtido em Obeliscos Réquiem e de Cistos Infestados na Deriva de Cambion.",
+      "name": "Bolsa Esporular",
+      "code": "pt"
+    },
+    {
+      "description": "這些處在高壓囊袋中的 Infested 孢子必須小心提取否則會發生爆炸性破裂並造成區域性汙染。\n\n來源：透過亡骸殿（火衛二）的女兒從古鰧魶所切下。\n古鰧魶可在 Vome 週期於魔裔禁地的地面捕獲。\n魔裔禁地的鎮魂方尖碑和感染囊胞也會掉落這個物品。",
+      "name": "孢子囊袋",
+      "code": "tc"
+    },
+    {
+      "description": "ถุงเก็บสปอร์ติดเชื้อที่อัดแน่นไปด้วยแรงดันเหล่านี้ต้องทำการสกัดอย่างระวัง มิฉะนั้นอาจแตกออกมา และทำให้พื้นที่ในบริเวณนั้นเกิดการปนเปื้อนได้\n\nแหล่งที่พบ: ได้มาจากการแล่ปลา Glutinox ผ่าน Daughter ในเนคราลิสก์ (เดมอส) โดยไปจับ Glutinox ที่อยู่บนพื้นผิวแคมบิออนดริฟต์ในระหว่างที่ Vome ออกมา นอกจากนี้ ยังรับจากเสาโอเบลิสก์ Requiem และ ซีสต์ Infested ในแคมบิออนดริฟต์ได้อีกด้วย",
+      "name": "ถุงสปอร์",
+      "code": "th"
+    },
+    {
+      "description": "Bu basınçlı Infested spor depoları dikkatli bir çıkarma gerektirir, aksi takdirde patlayıcı doğası gereği yerel kirlenme meydana gelebilir.\n\nKaynak: Necralisk'teki (Deimos) Kız Evlat aracılığıyla Glutinox balığından kesilerek çıkarılır. Cambion Drift'in yüzeyinde Vome sırasında Glutinox'u yakalayabilirsin. Ayrıca Cambion Drift'teki Requiem Obelisk'lerinden ve Infested Kistlerden düşer.",
+      "name": "Spor Üretici Kese",
+      "code": "tr"
+    },
+    {
+      "description": "Вмістища, де під тиском зберігаються спори зараження. Вимагають обережного видобутку, інакше внаслідок вибухового розриву може статися забруднення місцевості.\n\nМожна отримати з ґлютінокса від Доньки в Некраліску (Деймос). Ловіть ґлютінокса на поверхні Кембіонської течії, коли за нею наглядає Вом. Також можна отримати з обелісків Реквієму та заражених кіст у Кембіонській течії.",
+      "name": "Спороносний міхур",
+      "code": "uk"
+    }
+  ]
+}

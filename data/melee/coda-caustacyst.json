@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaCaustacyst/CodaCaustacyst",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-caustacyst-171c39f067.png",
+  "name": "Coda Caustacyst",
+  "description": "The Coda Caustacyst scythe is a force to be reckoned with, the Technocyte virus honing it with improved Damage, Status Chance, and Critical Damage, as well as acid pools with longer duration.",
+  "languages": [
+    {
+      "description": "Die Coda Caustacyst Sense ist eine mächtige Waffe, die durch den Technocyte-Virus erhöhten Schaden, Statuschance, Krit. Schaden und länger anhaltende Säurepfützen erhalten hat.",
+      "name": "Coda Caustacyst",
+      "code": "de"
+    },
+    {
+      "description": "La Faux Caustacyste Coda est une force avec laquelle il faut compter, le virus Technocyte l'affutant avec des Dégâts, une Chance de Statut et des Dégâts Critiques améliorés, ainsi que des réserves d'acide avec une durée accrue.",
+      "name": "Caustacyste Coda",
+      "code": "fr"
+    },
+    {
+      "description": "La falce Coda Caustacyst è una forza che è meglio non sottovalutare, e il virus Technocyte l'ha affinata migliorandone il Danno, Probabilità Effetto e Danno Critico, oltre alla possibilità di creare pozze acide di maggiore durata.",
+      "name": "Coda Caustacyst",
+      "code": "it"
+    },
+    {
+      "description": "코다 커스타시스트 낫은 무시무시한 위력을 지녔으며, 이를 개량하는 테크노사이트 바이러스는 이 무기를 일반형에 비해 피해, 상태 이상 확률, 치명타 피해 및 더 오래 남는 부식성 웅덩이로 향상시켰습니다.",
+      "name": "코다 커스타시스트",
+      "code": "ko"
+    },
+    {
+      "description": "La guadaña Caustacyst Coda es una fuerza a tener en cuenta, ya que el virus tecnocito la ha perfeccionado con daño, probabilidad de estado y daño crítico mejorados, así como depósitos de ácido de mayor duración.",
+      "name": "Caustacyst Coda",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CODA CAUSTACYST）终幕·灼蚀变体镰是一股不容小觑的力量，科技细胞病毒对其进行了改良，提高了伤害、触发几率和暴击伤害，并且具有持续时间更长的酸液池。",
+      "name": "终幕·灼蚀变体镰",
+      "code": "zh"
+    },
+    {
+      "description": "Коса Костацист Кода это сила, с которой нужно считаться, вирус Техноцит улучшает её, увеличивая урон, шанс статуса и критический урон, а также создавая кислотные лужи с увеличенной продолжительностью.",
+      "name": "Костацист Кода",
+      "code": "ru"
+    },
+    {
+      "description": "Coda Caustacystサイスはテクノサイトウイルスによって強化された。通常版に比べ高めのダメージ、状態異常率、クリティカルダメージを誇り、酸プールの持続時間が長くなっている。",
+      "name": "Coda Caustacyst",
+      "code": "ja"
+    },
+    {
+      "description": "Kosa Caustacyst stanowi potężną broń. Wariant Cody zyskuje poprawione statystyki Obrażeń, Szansy Statusu i Obr. Krytycznych, a wyrzucone przez nią kwasowe pociski tworzą kałuże kwasu, które pozostają przez dłuższy czas.",
+      "name": "Caustacyst Cody",
+      "code": "pl"
+    },
+    {
+      "description": "A foice Caustacista Coda representa uma força respeitável, com o vírus Tecnócito aprimorando-a com um aumento de Dano, Chance de Status e Dano Crítico, além de um ácido de maior duração.",
+      "name": "Caustacista Coda",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CODA CAUSTACYST）勾瘩灼蝕變體鐮是一股不可忽視的力量，技改細胞病毒對它進行了改良，提升了傷害、狀態效果，及暴擊傷害，並產生的酸液池持續時間更長。",
+      "name": "勾瘩 灼蝕變體鐮",
+      "code": "tc"
+    },
+    {
+      "description": "เคียว Coda Caustacyst คืออาวุธทรงพลังที่ยากจะเอาชนะ โดยมีไวรัส Technocyte มาช่วยเสริมพร้อมกับความเสียหาย โอกาสสถานะ และความเสียหายคริติคอลที่ได้รับการปรับปรุง รวมถึงกรดที่มีระยะเวลาใช้งานที่นานขึ้น",
+      "name": "Coda Caustacyst",
+      "code": "th"
+    },
+    {
+      "description": "Coda Caustacyst tırpanı, hesaba katılması gereken bir güçtür. Technocyte virüsü tarafından geliştirilmiş Hasar, Statü Şansı, Kritik Hasar ve daha uzun süreli asit havuzları sunar.",
+      "name": "Coda Caustacyst",
+      "code": "tr"
+    },
+    {
+      "description": "Косу не варто недооцінювати, а завдяки техноцитному вірусу й поготів. Зброя має поліпшені показники звичайної та критичної шкоди, імовірності накладання ефектів стану, а також утворює кислотні калюжі з подовженою тривалістю існування.",
+      "name": "Каустацист-кода",
+      "code": "uk"
+    }
+  ]
+}

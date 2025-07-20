@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aoi-gemini-emote-80a5306446.png",
+  "name": "Aoi Gemini Emote",
+  "description": "Switch between Mag and Aoi's Gemini Skin with the Aoi Gemini Emote, even during missions.",
+  "languages": [
+    {
+      "description": "Wechsle mit dem Emote: Aoi Gemini zwischen Mag und Aois Gemini-Skin, auch während Missionen.",
+      "name": "Emote: Aoi Gemini",
+      "code": "de"
+    },
+    {
+      "description": "Basculez entre Mag et l'Aspect Aoi de la Série Gémeaux avec le Geste Aoi Gémeaux, même pendant les missions.",
+      "name": "Geste Aoi Gémeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Passa dalla Skin di Mag a quella Gemini di Aoi con l'Emote Aoi Gemini, anche durante le missioni.",
+      "name": "Emote Aoi Gemini",
+      "code": "it"
+    },
+    {
+      "description": "미션 도중 아오이 제미니 감정 표현을 사용해 아오이의 제미니 스킨과 매그 사이를 자유로이 전환할 수 있습니다.",
+      "name": "아오이 제미니 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Cambia entre Mag y el diseño Géminis de Aoi con el gesto Géminis de Aoi, incluso durante las misiones.",
+      "name": "Gesto de Aoi Géminis",
+      "code": "es"
+    },
+    {
+      "description": "使用碧双子表情动作，在 Mag 和碧的双子外观之间切换，即使是在任务期间。",
+      "name": "碧双子表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Переключайтесь между Мэг и скином Аои «Близнецы» с помощью жеста «Близнецы» Аои, даже во время миссий.",
+      "name": "Жест Аои: Близнецы",
+      "code": "ru"
+    },
+    {
+      "description": "Aoi Geminiエモートでミッション中MagとAoiを自由に切り替える。",
+      "name": "Aoi Gemini エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Przełączaj się między Skórką Mag i Skórką Gemini Aoi za pomocą Gestu Gemini Aoi, nawet w trakcie misji.",
+      "name": "Gest Gemini Aoi",
+      "code": "pl"
+    },
+    {
+      "description": "Alterne entre a Mag e a Skin Gemini da Aoi com o Emote Gemini da Aoi, até mesmo durante suas missões.",
+      "name": "Emote Gemini da Aoi",
+      "code": "pt"
+    },
+    {
+      "description": "使用葵雙子表情動作來在 Mag 和葵的雙子外觀之間切換，即使在任務期間。",
+      "name": "葵雙子表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "สลับไปมาระหว่าง Mag กับสกิน Gemini ของ Aoi ด้วยอิโมต Aoi Gemini ซึ่งเปลี่ยนได้แม้จะอยู่ในระหว่างการทำภารกิจ",
+      "name": "อิโมต Aoi Gemini",
+      "code": "th"
+    },
+    {
+      "description": "Görevler sırasında, Aoi Gemini Gövde Hareketi ile Mag ve Aoi'nin Gemini Skin'i arasında geçiş yapabilirsin.",
+      "name": "Aoi Gemini Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Перемикайтеся між виглядами Меґ та Аой за допомогою жесту «Аой „Двійнята”» навіть під час завдання.",
+      "name": "Жест «Аой „Двійнята”»",
+      "code": "uk"
+    }
+  ]
+}

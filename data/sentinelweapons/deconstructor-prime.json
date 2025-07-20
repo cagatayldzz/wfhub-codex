@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deconstructor-prime-d0433f6f37.png",
+  "name": "Deconstructor Prime",
+  "description": "Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.",
+  "languages": [
+    {
+      "description": "Diese Waffe erlaubt es Helios Prime, sich auseinanderzubauen und in tödliche Geschosse zu verwandeln.",
+      "name": "Dekonstruktor Prime",
+      "code": "de"
+    },
+    {
+      "description": "Permet à Helios Prime de se désassembler avec violence et de se transformer en un projectile mortel.",
+      "name": "Déconstructeur Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Permette ad Helios Prime di disassemblarsi violentemente e diventare un proiettile mortale.",
+      "name": "Deconstructor Prime",
+      "code": "it"
+    },
+    {
+      "description": "헬리오스 프라임이 스스로를 해체해 몸의 부속 하나하나를 치명적인 탄환으로 만들 수 있도록 하는 무기입니다.",
+      "name": "디컨스트럭터 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Permite a Helios Prime desarmarse violentamente y convertirse en un proyectil mortal.",
+      "name": "Desarmador Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DECONSTRUCTOR PRIME）使赫利俄斯 Prime 剧烈拆卸，并将自身变化为一颗致命的发射体。",
+      "name": "分离 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Позволяет Гелиосу Прайм превращаться в смертельный снаряд.",
+      "name": "Деконструктор Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "センチネルを強力な射出物へと変える兵器。",
+      "name": "Deconstructor Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Umożliwia Heliosowi Prime gwałtowne rozczłonkowanie, zamieniające go w śmiercionośny pocisk.",
+      "name": "Dekonstruktor Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Permite que Helios Prime se desmonte violentamente e se torne um projétil mortal.",
+      "name": "Desconstrutora Prime",
+      "code": "pt"
+    },
+    {
+      "description": "使赫利俄斯 Prime 劇烈拆卸，並將自身變化為一顆致命的發射體。",
+      "name": "分離 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยให้ Helios Prime สามารถแยกชิ้นส่วนออกมาอย่างรุนแรงและเปลี่ยนตัวเองให้เป็นกระสุนปืนที่แสนอันตราย",
+      "name": "Deconstructor Prime",
+      "code": "th"
+    },
+    {
+      "description": "Helios Prime'ın kendisini parçalara ayırıp ölümcül bir mermiye dönüşmesini sağlar.",
+      "name": "Deconstructor Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Зброя, яка дозволяє Геліосу-прайм перезібрати себе й перетворитися на смертоносний снаряд.",
+      "name": "Розбирач-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Energy/ElectroProd",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prova-ecaec2190d.png",
+  "name": "Prova",
+  "description": "The Prova is a Melee Weapon that delivers a high-intensity shock to its target.",
+  "languages": [
+    {
+      "description": "Der Prova ist eine Nahkampfwaffe, die ihrem Ziel einen intensiven Stromschlag verpasst.",
+      "name": "Prova",
+      "code": "de"
+    },
+    {
+      "description": "Le Prova est une arme de Mêlée qui inflige un choc intense à sa victime.",
+      "name": "Prova",
+      "code": "fr"
+    },
+    {
+      "description": "Il Prova è un'arma Corpo a Corpo che infligge un colpo ad alta-tensione elettrica al suo bersaglio.",
+      "name": "Prova",
+      "code": "it"
+    },
+    {
+      "description": "프로바는 대상에게 강력한 전기충격을 주는 근접 무기입니다.",
+      "name": "프로바",
+      "code": "ko"
+    },
+    {
+      "description": "El Prova es un arma cuerpo a cuerpo que descarga una sacudida de alta tensión en su blanco.",
+      "name": "Prova",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PROVA）普罗沃是一把能对目标造成强大电击伤害的近战武器。",
+      "name": "普罗沃",
+      "code": "zh"
+    },
+    {
+      "description": "Прова - оружие ближнего боя, наносящее цели высокоинтенсивный электрический урон.",
+      "name": "Прова",
+      "code": "ru"
+    },
+    {
+      "description": "高圧電流を帯びた棍棒型近接武器。",
+      "name": "Prova",
+      "code": "ja"
+    },
+    {
+      "description": "Prova jest Bronią Białą, uwalniającą wstrząs o wysokim natężeniu w momencie uderzenia.",
+      "name": "Prova",
+      "code": "pl"
+    },
+    {
+      "description": "A Prova é uma Arma Branca que atinge seu alvo com um choque de alta intensidade.",
+      "name": "Prova",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PROVA）普羅沃是一把能對目標造成強大電擊傷害的近戰武器。",
+      "name": "普羅沃",
+      "code": "tc"
+    },
+    {
+      "description": "Prova เป็นอาวุธระยะประชิดที่ส่งแรงกระแทกความรุนแรงสูงไปยังเป้าหมาย",
+      "name": "Prova",
+      "code": "th"
+    },
+    {
+      "description": "Prova hedefine yüksek yoğunlukta şok dalgaları gönderen bir yakın menzil silahıdır.",
+      "name": "Prova",
+      "code": "tr"
+    },
+    {
+      "description": "Мачете, дозволяє показати ворогам справжню шокову терапію.",
+      "name": "Прова",
+      "code": "uk"
+    }
+  ]
+}

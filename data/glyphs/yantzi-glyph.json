@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageYantzi",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yantzi-glyph-cd8fc826c3.png",
+  "name": "Yantzi Glyph",
+  "description": "A Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine Glyphe für dein Profil.",
+      "name": "Glyphe: Yantzi",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour votre profil.",
+      "name": "Glyphe Yantzi",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo per il tuo profilo.",
+      "name": "Glifo Yantzi",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 글리프입니다.",
+      "name": "Yantzi 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo para tu perfil.",
+      "name": "Glifo de Yantzi",
+      "code": "es"
+    },
+    {
+      "description": "个人档案的浮印。",
+      "name": "Yantzi 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф для вашего профиля.",
+      "name": "Глиф: Yantzi",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用のグリフ。",
+      "name": "Yantzi グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif dla Twojego profilu.",
+      "name": "Glif Yantzi",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo para o seu perfil.",
+      "name": "Glifo: Yantzi",
+      "code": "pt"
+    },
+    {
+      "description": "用於個人檔案的浮印。",
+      "name": "Yantzi 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์ Yantzi",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için bir Glif.",
+      "name": "Yantzi Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вашого профілю.",
+      "name": "Гліф Yantzi",
+      "code": "uk"
+    }
+  ]
+}

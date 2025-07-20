@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/HildrynPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-prime-theme-93a8d6503a.png",
+  "name": "Hildryn Prime Theme",
+  "description": "Hildryn Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Hildryn Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Hildryn Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique de Hildryn Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Hildryn Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Hildryn Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Hildryn Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 힐드린 프라임의 대표 테마곡입니다.",
+      "name": "힐드린 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Hildryn Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Hildryn Prime",
+      "code": "es"
+    },
+    {
+      "description": "Hildryn Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Hildryn Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Хильдрин Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Хильдрин Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるHildryn Primeのテーマ曲。",
+      "name": "Hildryn Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Hildryn Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Hildryn Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional da Hildryn Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Hildryn Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Hildryn Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Hildryn Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Hildryn Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Hildryn Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Hildryn Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Hildryn Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Гільдрини-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Гільдрини-прайм",
+      "code": "uk"
+    }
+  ]
+}

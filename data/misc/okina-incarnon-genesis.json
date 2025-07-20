@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/OkinaIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/okina-incarnon-genesis-b577797b58.png",
+  "name": "Okina Incarnon Genesis",
+  "description": "Awaken this weapon's ability to spawn spectral daggers on kill. Daggers seek out enemies, applying max <DT_FREEZE_COLOR>Cold Status stacks.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe geisterhafte Dolche zu erzeugen bei Kills. Dolche suchen nach Feinden und wenden maximal <DT_FREEZE_COLOR>Kälte-Status-Stapel an.",
+      "name": "Incarnon-Genesis: Okina",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à faire apparaître des dagues spectrales lors des éliminations. Les dagues traquent les ennemis et appliquent des cumuls max de Statut de <DT_FREEZE_COLOR>Glace.",
+      "name": "Okina Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia la capacità di quest'arma di generare pugnali spettrali con le uccisioni. I pugnali ricercano i nemici, applicando le cariche massime di Effetto <DT_FREEZE_COLOR>Ghiaccio.",
+      "name": "Okina Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 적을 처치할 시 영체 단검을 생성합니다. 단검은 적을 추적해 최대 수치의 <DT_FREEZE_COLOR>냉기 상태 이상 스택을 적용합니다.",
+      "name": "오키나 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la habilidad de esta arma de generar dagas espectrales al matar. Las dagas buscan a los enemigos y aplican el máximo de acumulaciones de estado de <DT_FREEZE_COLOR>frío.",
+      "name": "Okina Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下击杀敌人会生成光谱匕首的能力。匕首会自动寻找敌人，造成最大的 <DT_FREEZE_COLOR>冰冻异常状态叠层。",
+      "name": "翁灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия вызывать спектральные кинжалы при убийстве. Кинжалы ищут врагов, накладывая максимум стаков статуса <DT_FREEZE_COLOR>Холода.",
+      "name": "Генезис Инкарнона: Окина",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、キル時にスペクトル ダガーを生み出す。ダガーは敵を狙って<DT_FREEZE_COLOR>冷気状態異常を最大スタックで与える。",
+      "name": "Okina インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która tworzy widmowe sztylety po zabiciu wroga. Te sztylety wyszukują pobliskich wrogów i nakładają maksymalną ilość instancji Statusu <DT_FREEZE_COLOR> Obr. od Zimna.",
+      "name": "Geneza Inkarnon: Okina",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de lançar adagas espectrais durante eliminações. As adagas rastrearão os inimigos, aplicando acúmulos máximos do Efeito de Status <DT_FREEZE_COLOR>Glacial.",
+      "name": "Encarnação Gênese da Okina",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下擊殺時可生成靈體匕首。匕首會追蹤敵人並觸發最高疊次的<DT_FREEZE_COLOR>冰凍狀態效果。",
+      "name": "翁應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ให้สร้างกริชเปล่งแสงเมื่อฆ่าศัตรู ซึ่งกริชจะค้นหาศัตรู และใช้กองสถานะ <DT_FREEZE_COLOR>น้ำแข็งสูงสุด",
+      "name": "Okina Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın öldürme sonrasında spektral hançerler ortaya çıkarma yeteneğini uyandır. Hançerler düşmanları arar ve maksimum <DT_FREEZE_COLOR>Buz Statüsü yığını uygular.",
+      "name": "Okina Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, щоби створювати примарні кинджали після вбивства. Кинджали шукатимуть ворогів, накладаючи максимальну кількість <DT_FREEZE_COLOR>крижаних ефектів стану.",
+      "name": "Інкарнонський генезис: Окіни",
+      "code": "uk"
+    }
+  ]
+}

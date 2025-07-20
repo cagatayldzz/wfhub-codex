@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Vignettes/Enemies/GrineerAFItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grineer-articula-be3e5de999.png",
+  "name": "Grineer Articula",
+  "description": "A posable, scale model of Grineer footsoldiers.",
+  "languages": [
+    {
+      "description": "Ein bewegliches, maßstabgetreues Modell eines Grineer Soldaten.",
+      "name": "Articula: Grineer",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle décoratif, à l'échelle, de soldat Grineer.",
+      "name": "Articula Grineer",
+      "code": "fr"
+    },
+    {
+      "description": "Un modello in scala posizionabile della fanteria Grineer.",
+      "name": "Grineer Articula",
+      "code": "it"
+    },
+    {
+      "description": "포즈를 조정할 수 있는 그리니어 보병의 실물 비례 모델입니다.",
+      "name": "그리니어 아티큘라",
+      "code": "ko"
+    },
+    {
+      "description": "Un modelo a escala de soldados grineer.",
+      "name": "Grineer articulado",
+      "code": "es"
+    },
+    {
+      "description": "一个可活动的 Grineer 步兵比例模型。",
+      "name": "Grineer 可动模型",
+      "code": "zh"
+    },
+    {
+      "description": "Настраиваемая масштабная модель солдат Гринир.",
+      "name": "Модель Гринир",
+      "code": "ru"
+    },
+    {
+      "description": "ポーズを付けられるグリニア歩兵のフィギュア！",
+      "name": "グリニア アーティクラ",
+      "code": "ja"
+    },
+    {
+      "description": "Pomniejszona figura piechoty Grineer.",
+      "name": "Artikula Grineer",
+      "code": "pl"
+    },
+    {
+      "description": "Um modelo customizável e articulado de soldados Grineer.",
+      "name": "Articula: Grineer",
+      "code": "pt"
+    },
+    {
+      "description": "一個等比例縮小可動的 Grineer 步兵模型。",
+      "name": "Grineer 可動式模型",
+      "code": "tc"
+    },
+    {
+      "description": "หุ่นจำลองของทหารราบ Grineer ที่จัดวางท่าได้",
+      "name": "อาร์ติคูลา Grineer",
+      "code": "th"
+    },
+    {
+      "description": "Poz verebilen, ölçekli bir Grineer modeli.",
+      "name": "Grineer Artikula",
+      "code": "tr"
+    },
+    {
+      "description": "Зменшена копія ґрінерських піхотинців із можливістю зміни пози.",
+      "name": "Модель ґрінерів",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/MagistarIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/magistar-incarnon-genesis-f7effb894e.png",
+  "name": "Magistar Incarnon Genesis",
+  "description": "Awaken this weapon's ability to increase Initial Combo and Wind Up Speed in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form die Start-Kombo und Aufladegeschwindigkeit zu erhöhen.",
+      "name": "Incarnon-Genesis: Magistar",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à augmenter le Combo initial et la Vitesse d'Élan sous Forme Incarnon.",
+      "name": "Magistar Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di incrementare la Combo Iniziale e la Velocità di Carica nella Forma Incarnon.",
+      "name": "Magistar Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 초기 연속기 카운트 및 강 공격 준비 속도가 증가합니다.",
+      "name": "마기스타 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para incrementar su combo inicial y velocidad de carga en su forma Incarnon.",
+      "name": "Magistar Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有提升初始连击和重击准备速度的能力。",
+      "name": "执法者灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия увеличивать начальное значение комбо и скорость тяжелой атаки в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Магистр",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは初期コンボとワインドアップ速度を上昇する。",
+      "name": "Magistar インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która zyskuje premię Początkowej wartości Kombo i Szybkości Ładowania Ciężkiego Ataku.",
+      "name": "Geneza Inkarnon: Magistar",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de aumentar o Combo Inicial e a Velocidade de Preparação do Ataque no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Magistar",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下增加起始連擊數及重擊蓄力速度。",
+      "name": "執法者應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะเพิ่มค่าคอมโบเริ่มต้นและความเร็วในการเหวี่ยง",
+      "name": "Magistar Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde silahın başlangıç Kombo Süresini artırmak ve Hazırlık Hızını artıran özelliğini uyandır.",
+      "name": "Magistar Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє збільшити початковий показник серії ударів та швидкість підготовки потужного удару.",
+      "name": "Інкарнонський генезис: Маґістар",
+      "code": "uk"
+    }
+  ]
+}

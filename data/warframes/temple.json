@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Temple/Temple",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-c3d2feb7ae.png",
+  "name": "Temple",
+  "description": "Blazing with glamor and armed with an Infested guitar, Lizzie, Temple’s power chords light the flames of revolution.",
+  "armor": 325,
+  "languages": [
+    {
+      "description": "Voller Glamour und bewaffnet mit deren Gitarre Lizzie, entzünden die mächtigen Akkorde von Temple die Flammen der Revolution.",
+      "name": "Temple",
+      "code": "de"
+    },
+    {
+      "description": "Brûlant de glamour et armé d'une guitare Infestée, Lizzie, Temple et ses accords puissants allument les flammes de la révolution.",
+      "name": "Temple",
+      "code": "fr"
+    },
+    {
+      "description": "Con un'eleganza risplendente e una chitarra Infested di nome Lizzie, gli accordi potenti di Temple accendono le fiamme della rivoluzione.",
+      "name": "Temple",
+      "code": "it"
+    },
+    {
+      "description": "화려함으로 불타오르는 인페스티드 기타인 리지로 무장한 템플의 강력한 화음은 혁명의 불꽃을 밝힙니다.",
+      "name": "템플",
+      "code": "ko"
+    },
+    {
+      "description": "Resplandeciente de glamour y con una guitarra infestada en mano, Lizzie, los acordes potentes de Temple encienden las llamas de la revolución.",
+      "name": "Temple",
+      "code": "es"
+    },
+    {
+      "description": "魅力四射的 Temple，手持他的感染吉他：丽兹，用强力的和弦点燃了革命的火焰。",
+      "name": "Temple",
+      "code": "zh"
+    },
+    {
+      "description": "Ослепительная и вооружённая заражённой гитарой Лиззи, Темпл зажигает пламя революции своими мощными аккордами.",
+      "name": "Темпл",
+      "code": "ru"
+    },
+    {
+      "description": "グラマラスな外見と感染されたギターLizzieと共に、Templeのパワーコードは革命の炎を焚き上げる。",
+      "name": "Temple",
+      "code": "ja"
+    },
+    {
+      "description": "Pełen blasku i uzbrojony w zainfekowaną gitarę, Lizzie, Temple rozpala płomienie rewolucji swoimi mocnymi akordami.",
+      "name": "Temple",
+      "code": "pl"
+    },
+    {
+      "description": "Com uma elegância resplandecente e em companhia de sua guitarra infestada, Lizzie, Temple toca poderosos acordes que acendem as chamas da revolução.",
+      "name": "Temple",
+      "code": "pt"
+    },
+    {
+      "description": "Temple 的魅力值爆表，手中握著一把感染吉他──莉慈，而他彈奏的强力和弦點燃革命之火。",
+      "name": "Temple",
+      "code": "tc"
+    },
+    {
+      "description": "เปล่งประกายด้วยเสน่ห์ร้อนแรงที่น่าดึงดูดและมีกีตาร์ติดเชื้อ Lizzie เป็นอาวุธติดตัวที่ Temple จะตีคอร์ดให้กระหึ่มเพื่อจุดไฟแห่งการปฏิวัติให้ลุกโชน",
+      "name": "Temple",
+      "code": "th"
+    },
+    {
+      "description": "Göz kamaştırıcı ışıltısı ve infested gitarı Lizzie ile kuşanan Temple'ın güçlü akorları devrimin ateşini yakıyor.",
+      "name": "Temple",
+      "code": "tr"
+    },
+    {
+      "description": "Храм запалює вогні революції в гламурному вбранні та з найвідданішою зараженою подругою — гітарою Ліззі.",
+      "name": "Храм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cabochon-embolos-261ef228d9.png",
+  "name": "Cabochon Embolos",
+  "description": "Convex and smooth, worked as a lens or for ornament.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Konvex und glatt, zu einer Linse oder einem Ornament geschliffen.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Cabochon Embolos",
+      "code": "de"
+    },
+    {
+      "description": "Convexe et lisse, travaillé comme lentille ou pour ornement.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Cabochon Embolos",
+      "code": "fr"
+    },
+    {
+      "description": "Convessa e liscia, lavorata come una lente o per essere utlizzata come ornamento.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Cabochon Embolos",
+      "code": "it"
+    },
+    {
+      "description": "볼록하고 매끄러우며, 렌즈 또는 장식용으로 사용되었습니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "카보숑 엠볼로스",
+      "code": "ko"
+    },
+    {
+      "description": "Convexa y lisa, trabajada para ser un lente u ornamento.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Embolos Cabujón",
+      "code": "es"
+    },
+    {
+      "description": "凸出且光滑，可被用作棱镜或装饰品。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "弧面型栓子凝石",
+      "code": "zh"
+    },
+    {
+      "description": "Выпуклый и гладкий, использовался в качестве линзы или для украшения.\n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Кабошонный эмболос",
+      "code": "ru"
+    },
+    {
+      "description": "レンズや装飾品に使われる凸面で滑らな物質。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "カボション・エンボロス",
+      "code": "ja"
+    },
+    {
+      "description": "Wypukły i gładki, wykorzystywany jako soczewka lub do ozdoby.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Wypolerowany Embolos",
+      "code": "pl"
+    },
+    {
+      "description": "Convexa e lisa, talhada em forma de lente ou de ornamento.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Embolos Cabuchão",
+      "code": "pt"
+    },
+    {
+      "description": "帶有凸面且光滑，可以用來當作透鏡或是裝飾物。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "凸面凝晶石",
+      "code": "tc"
+    },
+    {
+      "description": "มีลักษณะโค้งนูนและเรียบ ใช้ทำเป็นเลนส์หรือเครื่องประดับได้\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "เอมโบลอสรูปทรงหลังเบี้ย",
+      "code": "th"
+    },
+    {
+      "description": "Açılı ve pürüzsüz, mercek veya süs olarak kullanılabilir.\n\nKalıbı Deimos'ta yer alan Necralisk'teki Otak'tan satın alınabilir.",
+      "name": "Cabochon Embolos",
+      "code": "tr"
+    },
+    {
+      "description": "Опуклий і гладкий самоцвіт, використовувався як лінза чи оздоблення.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
+      "name": "Кабошон емболоса",
+      "code": "uk"
+    }
+  ]
+}

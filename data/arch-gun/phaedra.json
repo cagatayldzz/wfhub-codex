@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/phaedra-629ac9ffc2.png",
+  "name": "Phaedra",
+  "description": "Devastate free-space enemies with Phaedra, the Soma's big-sister.",
+  "languages": [
+    {
+      "description": "Vernichte Gegner im Weltraum mit der Phaedra, der großen Schwester der Soma.",
+      "name": "Phaedra",
+      "code": "de"
+    },
+    {
+      "description": "Éliminez des ennemis dans l'espace avec la Phaedra, la grande sœur du Soma.",
+      "name": "Phaedra",
+      "code": "fr"
+    },
+    {
+      "description": "Devasta nello spazio i nemici col Phaedra, la sorellona della Soma.",
+      "name": "Phaedra",
+      "code": "it"
+    },
+    {
+      "description": "소마의 자매기, 파이드라로 진공 공간의 적들을 한 순간에 파괴해보세요.",
+      "name": "파이드라",
+      "code": "ko"
+    },
+    {
+      "description": "Devasta enemigos en el espacio con Phaedra, la hermana mayor de la Soma.",
+      "name": "Phaedra",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PHAEDRA）借由这把菲德菈——月神最年长的姊妹——纵横太空尽情毁灭敌人。",
+      "name": "菲德菈",
+      "code": "zh"
+    },
+    {
+      "description": "Уничтожайте врагов в открытом космосе с помощью Федры, старшей сестры Сомы.",
+      "name": "Федра",
+      "code": "ru"
+    },
+    {
+      "description": "Soma の姉妹武器、Phaedra で宇宙空間の敵を蹴散らそう。",
+      "name": "Phaedra",
+      "code": "ja"
+    },
+    {
+      "description": "Zniszcz nieprzyjaciół w przestrzeni przy pomocy Phaedry, większej siostry Somy.",
+      "name": "Phaedra",
+      "code": "pl"
+    },
+    {
+      "description": "Acabe com os inimigos espaciais com a Phaedra, a irmã mais velha da Soma.",
+      "name": "Phaedra",
+      "code": "pt"
+    },
+    {
+      "description": "（原文：PHAEDRA）藉由這把菲德菈——月神最年長的姊妹——縱橫太空盡情毀滅敵人。",
+      "name": "菲德菈",
+      "code": "tc"
+    },
+    {
+      "description": "ทำลายล้างศัตรูในอวกาศด้วย Phaedra อาวุธที่ถือว่าเป็นพี่สาวคนโตของ Soma",
+      "name": "Phaedra",
+      "code": "th"
+    },
+    {
+      "description": "Soma'nın büyük kardeşi Phaedra ile düşmanları birer uzay enkazına dönüştürün.",
+      "name": "Phaedra",
+      "code": "tr"
+    },
+    {
+      "description": "Арк-гармата, старша сестра гвинтівки «Сома». Нищте ворогів у відкритому космосі.",
+      "name": "Федра",
+      "code": "uk"
+    }
+  ]
+}

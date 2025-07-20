@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-glyph---dark-08b7f0dedc.png",
+  "name": "Nova Glyph - Dark",
+  "description": "A glyph depicting Nova on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nova vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Nova (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nova sur un fond sombre.",
+      "name": "Glyphe Nova - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nova su uno sfondo scuro.",
+      "name": "Glifo Nova - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 노바를 묘사한 글리프입니다.",
+      "name": "노바 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nova sobre un fondo oscuro.",
+      "name": "Glifo de Nova - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Nova 在黑暗背景下的浮印。",
+      "name": "Nova 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Новы на тёмном фоне.",
+      "name": "Глиф: Нова — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Nova のグリフ。",
+      "name": "Nova グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Nova na ciemnym tle.",
+      "name": "Glif Nova — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Nova em um fundo escuro.",
+      "name": "Glifo: Nova (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nova 在黑暗背景下的浮印。",
+      "name": "Nova 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nova บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Nova - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Nova koyu fonlu glif.",
+      "name": "Nova Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нови на темному тлі.",
+      "name": "Темний гліф «Нова»",
+      "code": "uk"
+    }
+  ]
+}

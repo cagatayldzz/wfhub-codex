@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/ForestRodentLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuaka-echo-lure-2be84edc15.png",
+  "name": "Kuaka Echo-Lure",
+  "description": "Entice and attract nearby Kuaka with life-like animal calls. Kuaka inhabit the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Locke Kuakas in der Nähe an, mit diesen lebensechten Lockrufen. Kuakas bevölkern die Ebenen von Eidolon.",
+      "name": "Echo-Köder: Kuaka",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Kuakas se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes. Les Kuakas vivent dans les Plaines d'Eidolon.",
+      "name": "Écho-Leurre Kuaka",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Kuaka vicini con dei richiami simili ai suoi. Si trovano sulle Piane di Eidolon.",
+      "name": "Richiamo Kuaka",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 쿠아카를 꾀어 유인합니다. 쿠아카는 아이돌론의 평원에 서식합니다.",
+      "name": "쿠아카 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a kuaka cercanos con llamados similares a los que harían en realidad esos animales. Las kuaka habitan en las Llanuras de Eidolon.",
+      "name": "Eco-señuelo para Kuaka",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的库阿卡。库阿卡栖息在夜灵平野。",
+      "name": "库阿卡回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Куак поблизости, издавая идентичные настоящим животные зовы. Куаки обитают на Равнинах Эйдолона.",
+      "name": "Эхо-манок для куаки",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのクアカを誘導する。 クアカはエイドロンの草原にいる。",
+      "name": "クアカ Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskie Kuaki, imitując odgłosy tych zwierząt. Kuaka zamieszkuje Równiny Eidolon.",
+      "name": "Echo-Wabik Kuaki",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Kuakas próximos utilizando sons semelhantes aos dos animais. Kuakas habitam as Planícies de Eidolon.",
+      "name": "Ecoisca de Kuaka",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的庫阿卡。庫阿卡棲息在夜靈平野。",
+      "name": "庫阿卡回聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องเลียนแบบเสียงร้องเสมือนจริงเพื่อหลอกล่อและดึงดูด Kuaka ที่อยู่ใกล้ ซึ่ง Kuaka เป็นสัตว์ที่อาศัยอยู่บนที่ราบ Eidolon",
+      "name": "เครื่องเลียนแบบเสียง Kuaka",
+      "code": "th"
+    },
+    {
+      "description": "Gerçek hayvan ses ve çağrıları kullanarak yakınlardaki Kuaka'ları kendinize çekin. Kuaka, Eidolon Ovalarında yaşar.",
+      "name": "Kuaka Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює куак поблизу реалістичною імітацією їхнього поклику. Куаки водяться на Рівнинах Ейдолонів.",
+      "name": "Еховабик на куаку",
+      "code": "uk"
+    }
+  ]
+}

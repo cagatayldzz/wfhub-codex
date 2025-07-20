@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWAsakageArmor/SWAsakageA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/asakage-shoulder-armor-c64b68a678.png",
+  "name": "Asakage Shoulder Armor",
+  "description": "A unique shoulder armor for your Warframe, designed by BeastBuster.",
+  "languages": [
+    {
+      "description": "Eine einzigartige Schulterplatte für deinen Warframe, entworfen von BeastBuster.",
+      "name": "Schulterplatten: Asakage",
+      "code": "de"
+    },
+    {
+      "description": "Des Épaulières uniques pour votre Warframe, conçues par BeastBuster.",
+      "name": "Épaulières Asakage",
+      "code": "fr"
+    },
+    {
+      "description": "Uno spallaccio unico per il tuo Warframe, ideato da BeastBuster.",
+      "name": "Spallacci Asakage",
+      "code": "it"
+    },
+    {
+      "description": "BeastBuster에 의해 디자인된 워프레임을 위한 독특한 숄더 아머입니다.",
+      "name": "아사카게 숄더 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una hombrera de placas única para tu warframe, diseñada por BeastBuster.",
+      "name": "Hombreras Asakage",
+      "code": "es"
+    },
+    {
+      "description": "适用于战甲的独特肩甲，由 BeastBuster 设计。",
+      "name": "朝影肩甲",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальная наплечная броня для вашего варфрейма, созданная BeastBuster.",
+      "name": "Наплечники: Асакаж",
+      "code": "ru"
+    },
+    {
+      "description": "Warframe用のショルダーアーマー。製作者： BeastBuster。",
+      "name": "Asakage ショルダーアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy naramiennik dla Twojego Warframe'a, zaprojektowany przez BeastBuster.",
+      "name": "Naramienniki: Asakage",
+      "code": "pl"
+    },
+    {
+      "description": "Uma ombreira exclusiva para Warframe, desenvolvida por BeastBuster.",
+      "name": "Ombros: Asakage",
+      "code": "pt"
+    },
+    {
+      "description": "一件給 Warframe 使用的獨特肩甲，由 BeastBuster 設計。",
+      "name": "趨影肩甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะไหล่ที่ไม่เหมือนใครสำหรับ Warframe ของคุณ ออกแบบโดย BeastBuster",
+      "name": "เกราะไหล่ Asakage",
+      "code": "th"
+    },
+    {
+      "description": "Warframe için BeastBuster tarafından tasarlanmış özel bir omuz zırhı.",
+      "name": "Asakage Omuz Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний наплічник для ворфрейма, створений BeastBuster.",
+      "name": "Обладунки «Асакаґе»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoPlanterF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/piccha-planter-f0fb25a564.png",
+  "name": "Piccha Planter",
+  "description": "A decorative planter for the orbiter.",
+  "languages": [
+    {
+      "description": "Ein dekorativer Blumentopf für deinen Orbiter.",
+      "name": "Piccha Blumentopf",
+      "code": "de"
+    },
+    {
+      "description": "Une jardinière décorative pour l'Orbiteur.",
+      "name": "Jardinière Piccha",
+      "code": "fr"
+    },
+    {
+      "description": "Una fioriera decorativa per il tuo orbiter.",
+      "name": "Fioriera Piccha",
+      "code": "it"
+    },
+    {
+      "description": "착륙정을 위한 장식용 화분입니다.",
+      "name": "픽차 화분",
+      "code": "ko"
+    },
+    {
+      "description": "Una maceta decorativa para el orbitador.",
+      "name": "Maceta Piccha",
+      "code": "es"
+    },
+    {
+      "description": "一盆用于轨道飞行器的装饰花架。",
+      "name": "羽毛花架",
+      "code": "zh"
+    },
+    {
+      "description": "Декоративное растение для Вашего Орбитера.",
+      "name": "Растение: Пикка",
+      "code": "ru"
+    },
+    {
+      "description": "船内用の装飾プランター。",
+      "name": "Piccha プランター",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdobna sadzonka na Orbiter.",
+      "name": "Sadzonka Piccha",
+      "code": "pl"
+    },
+    {
+      "description": "Uma planta decorativa para sua Orbital.",
+      "name": "Planta Piccha",
+      "code": "pt"
+    },
+    {
+      "description": "一盆用於軌道飛行器的裝飾盆栽。",
+      "name": "羽毛盆栽",
+      "code": "tc"
+    },
+    {
+      "description": "กระถางที่ไว้ใช้ตกแต่งยานออร์บิเตอร์",
+      "name": "กระถาง Piccha",
+      "code": "th"
+    },
+    {
+      "description": "Dekoratif bir çiçeklik.",
+      "name": "Piccha Saksı",
+      "code": "tr"
+    },
+    {
+      "description": "Декоративна рослина для орбітра.",
+      "name": "Горщик із пікчею",
+      "code": "uk"
+    }
+  ]
+}

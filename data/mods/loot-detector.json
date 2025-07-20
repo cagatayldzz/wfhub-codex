@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerLootRadarAuraMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loot-detector-be95be0e41.jpg",
+  "name": "Loot Detector",
+  "description": "Minimap shows loot crates.",
+  "languages": [
+    {
+      "description": [
+        "Beutekisten werden auf der Minikarte angezeigt."
+      ],
+      "name": "Beutedetektor",
+      "code": "de"
+    },
+    {
+      "description": [
+        "La mini-carte affiche les caisses de butin."
+      ],
+      "name": "Détecteur de Butin",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Mostra le risorse nella Minimappa."
+      ],
+      "name": "Loot Detector",
+      "code": "it"
+    },
+    {
+      "description": [
+        "미니맵에 아이템 상자들의 위치를 표시합니다."
+      ],
+      "name": "루트 디텍터",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "El minimapa muestra cajas para saquear."
+      ],
+      "name": "Detector de saqueo",
+      "code": "es"
+    },
+    {
+      "description": [
+        "在小地图上显示战利品储存箱"
+      ],
+      "name": "战利品探测器",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Отмечает положение контейнеров на мини-карте."
+      ],
+      "name": "Детектор добычи",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ミニマップにアイテムボックスの場所を表示"
+      ],
+      "name": "Loot Detector",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Minimapa pokazuje skrzynki z łupem."
+      ],
+      "name": "Detektor Łupu",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "O Minimapa mostrará contêineres de recursos."
+      ],
+      "name": "Loot Detector",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "在小地圖上顯示戰利品"
+      ],
+      "name": "戰利品探測器",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "แผนที่ย่อแสดงลังเก็บไอเทม"
+      ],
+      "name": "Loot Detector",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Mini harita yağma sandıklarını gösterir."
+      ],
+      "name": "Loot Detector",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Показує на мінімапі контейнери."
+      ],
+      "name": "Виявляч здобичі",
+      "code": "uk"
+    }
+  ]
+}

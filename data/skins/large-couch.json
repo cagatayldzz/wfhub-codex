@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxCouchLrgA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/large-couch-83644a4a3b.png",
+  "name": "Large Couch",
+  "description": "A large three-seater couch.",
+  "languages": [
+    {
+      "description": "Ein großes Dreisitzersofa.",
+      "name": "Großes Sofa",
+      "code": "de"
+    },
+    {
+      "description": "Un grand canapé trois places.",
+      "name": "Grand canapé",
+      "code": "fr"
+    },
+    {
+      "description": "Un grande divano a tre posti.",
+      "name": "Divano grande",
+      "code": "it"
+    },
+    {
+      "description": "3인용 대형 소파입니다.",
+      "name": "대형 소파",
+      "code": "ko"
+    },
+    {
+      "description": "Un sofá grande de tres asientos.",
+      "name": "Sofá grande",
+      "code": "es"
+    },
+    {
+      "description": "一张三人座大沙发。",
+      "name": "大沙发",
+      "code": "zh"
+    },
+    {
+      "description": "Большой трёхместный диван.",
+      "name": "Большой диван",
+      "code": "ru"
+    },
+    {
+      "description": "3人掛けの大きなソファ。",
+      "name": "大きなソファ",
+      "code": "ja"
+    },
+    {
+      "description": "Duża kanapa na trzy osoby.",
+      "name": "Duża kanapa",
+      "code": "pl"
+    },
+    {
+      "description": "Um sofá grande de três lugares.",
+      "name": "Sofá Grande",
+      "code": "pt"
+    },
+    {
+      "description": "三人座的大型沙發。",
+      "name": "大型沙發",
+      "code": "tc"
+    },
+    {
+      "description": "โซฟาใหญ่ขนาดสามที่นั่ง",
+      "name": "โซฟาขนาดใหญ่",
+      "code": "th"
+    },
+    {
+      "description": "Büyük üçlü koltuk.",
+      "name": "Büyük Kanepe",
+      "code": "tr"
+    },
+    {
+      "description": "Величезний диван для трьох.",
+      "name": "Великий диван",
+      "code": "uk"
+    }
+  ]
+}

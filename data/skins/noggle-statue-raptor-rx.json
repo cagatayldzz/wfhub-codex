@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CCTeamBRaptorBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---raptor-rx-fc85c00ab5.png",
+  "name": "Noggle Statue - Raptor Rx",
+  "description": "A small wobbly statue of the Raptor RX.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Raptor RX.",
+      "name": "Noggle-Statue: Raptor Rx",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Raptor RX.",
+      "name": "Statuette Noggle - Raptor Rx",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Raptor RX con la testa tremolante.",
+      "name": "Statuetta Noggle - Raptor Rx",
+      "code": "it"
+    },
+    {
+      "description": "랩터 RX의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 랩터 Rx",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante del Raptor RX.",
+      "name": "Estatua Tambaleante - Raptor Rx",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Raptor RX 摇头娃娃。",
+      "name": "Raptor Rx 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Раптора RX.",
+      "name": "Фигурка: Раптор Rx",
+      "code": "ru"
+    },
+    {
+      "description": "Raptor RXのボブルヘッド人形。",
+      "name": "Raptor Rx ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Raptor RX.",
+      "name": "Figurka Noggle — Raptor Rx",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Raptor RX.",
+      "name": "Estatueta: Raptor Rx",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Raptor RX 的搖頭娃娃。",
+      "name": "Raptor Rx 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Raptor RX ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Raptor Rx",
+      "code": "th"
+    },
+    {
+      "description": "Raptor RX küçük oynar figür.",
+      "name": "Noggle Heykeli - Raptor Rx",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Раптора RX.",
+      "name": "Ноґл «Раптор RX»",
+      "code": "uk"
+    }
+  ]
+}

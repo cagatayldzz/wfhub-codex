@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunlight-dragonlily-aaeb487cc1.png",
+  "name": "Sunlight Dragonlily",
+  "description": "This uncommon plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Dragonlily plants that grow on Earth",
+  "languages": [
+    {
+      "description": "Diese ungewöhnliche Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Sonnenlicht Drachenlilien, die auf der Erde wachsen.",
+      "name": "Sonnenlicht Drachenlilie",
+      "code": "de"
+    },
+    {
+      "description": "Cette plante inhabituelle ne peut être trouvée que pendant la journée. \n\nLieu: obtenue en récoltant des Dragonlilys de Jour qui poussent sur Terre",
+      "name": "Dragonlily de Jour",
+      "code": "fr"
+    },
+    {
+      "description": "Questa pianta non comune può essere trovata solo di giorno. \n\nPosizione: Ottenuta raccogliendo le Piante Dragonlily Diurno che crescono sulla Terra",
+      "name": "Dragonlily Diurno",
+      "code": "it"
+    },
+    {
+      "description": "낮에만 발견할 수 있는 흔치 않은 식물입니다.\n\n획득 가능 장소: 지구에서 자라는 선라이트 드래곤릴리 식물을 수확해서 획득할 수 있습니다",
+      "name": "선라이트 드래곤릴리",
+      "code": "ko"
+    },
+    {
+      "description": "Esta planta poco común sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene recolectando las plantas de lirio de dragón solar que crecen en la Tierra",
+      "name": "Lirio de Dragón Solar",
+      "code": "es"
+    },
+    {
+      "description": "这种罕见的植物只能在白天找到。\n\n获取地点：通过采集地球上生长的日光龙百合植物获得。",
+      "name": "日光龙百合",
+      "code": "zh"
+    },
+    {
+      "description": "Это необычное растение можно увидеть только днём. \n\nМестонахождение: Солнечная драконья лилия растёт на Земле.",
+      "name": "Солнечная драконья лилия",
+      "code": "ru"
+    },
+    {
+      "description": "日の沈んでいる間にしか現れない、珍しい植物。\n\n場所：地球上に自生しているサンライト ドラゴンリリーを採取",
+      "name": "サンライト ドラゴンリリー",
+      "code": "ja"
+    },
+    {
+      "description": "Tę niepospolitą roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez podniesienie Słonecznej Smoczej Lilii, którą znaleźć można w lasach na Ziemi.",
+      "name": "Słoneczna Smocza Lilia",
+      "code": "pl"
+    },
+    {
+      "description": "Esta planta incomum só pode ser encontrada durante o dia. \n\nLocalização: obtida ao coletar Lírios do Dragão Diurno, na Terra.",
+      "name": "Lírio do Dragão Diurno",
+      "code": "pt"
+    },
+    {
+      "description": "這種罕見的植物只能在白天找到。 \n\n地點：透過採集生長在地球上的日光龍百合植物取得",
+      "name": "日光龍百合",
+      "code": "tc"
+    },
+    {
+      "description": "พืชที่ไม่ธรรมดาชนิดนี้สามารถพบได้ในช่วงกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นลิลลี่มังกรแสงตะวันที่เติบโตบนโลก",
+      "name": "ลิลลี่มังกรแสงตะวัน",
+      "code": "th"
+    },
+    {
+      "description": "Bu nadir olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Dragonlily bitkisi toplanarak elde edilebilir",
+      "name": "Sunlıght Dragonlıly",
+      "code": "tr"
+    },
+    {
+      "description": "Незвичайна рослина, яку можна знайти лише вдень і зібрати з денної драколілії.\n\nМожна здобути на Землі.",
+      "name": "Денна драколілія",
+      "code": "uk"
+    }
+  ]
+}

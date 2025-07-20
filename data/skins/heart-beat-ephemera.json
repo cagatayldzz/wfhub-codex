@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedLichEphemeraC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heart-beat-ephemera-f300ad77f8.png",
+  "name": "Heart-Beat Ephemera",
+  "description": "“In this heart break\nI'll be here fighting for you”\n\nEarned by defeating a Technocyte Coda.",
+  "languages": [
+    {
+      "description": "'In diesem gebrochenen Herzen werde ich hier sein und für dich kämpfen.'\n\nVon einem besiegten Technocyte Coda erhalten.",
+      "name": "Ephemera: Herzklopfen",
+      "code": "de"
+    },
+    {
+      "description": "'Dans ce cœur brisé\nJe serai là pour me battre pour toi'\n\nGagné en battant un Technocyte Coda.",
+      "name": "Ephemera Battements de Cœur",
+      "code": "fr"
+    },
+    {
+      "description": "“In this heart break\nI'll be here fighting for you”\n\nOttenuta sconfiggendo un Technocyte Coda.",
+      "name": "Ephemera Heart-Beat",
+      "code": "it"
+    },
+    {
+      "description": "'마음이 무너지는 이 순간\n나는 여기서 널 위해 싸우고 있을게'\n\n테크노사이트 코다를 물리쳐 획득할 수 있습니다.",
+      "name": "하트-비트 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "'En este desamor\nEstaré aquí luchando por ti'.\n\nSe obtiene al derrotar a un Tecnocito Coda.",
+      "name": "Efímero Latidos del corazón",
+      "code": "es"
+    },
+    {
+      "description": "♪遍体鳞伤\n依然为你而战♪\n\n通过击败科技细胞终幕者获得。",
+      "name": "心跳节拍幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "«В этой разбитой душе\nЯ буду здесь, сражаясь за тебя»\n\nЗарабатывается за победу над Техноцитом Кода.",
+      "name": "Эфемера: Сердцебиение",
+      "code": "ru"
+    },
+    {
+      "description": "♪In this heart break\nI'll be here fighting for you♪\n\nテクノサイト・コーダ討伐で入手。",
+      "name": "Heart-Beat エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "'Nawet ze złamanym sercem\nNadal będę walczyć u twojego boku'\n\nMożna ją zdobyć przez pokonanie Cody Technocytu.",
+      "name": "Efemera Bicia Serca",
+      "code": "pl"
+    },
+    {
+      "description": "'Nesta vastidão de tristeza \nestarei aqui, lutando por você'\n\nAdquirido ao derrotar um Tecnócito Coda.",
+      "name": "Efêmera: Batimento Cardíaco",
+      "code": "pt"
+    },
+    {
+      "description": "「在這心碎之中\n我會在這裡為你而戰」\n\n擊敗技改細胞勾瘩體以獲取。",
+      "name": "心跳幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "“In this heart break\nI'll be here fighting for you”\n\nรับได้จากการเอาชนะ Technocyte Coda",
+      "name": "อิเฟมเมอรา Heart-Beat",
+      "code": "th"
+    },
+    {
+      "description": "'Bu kalp kırıklığında\nSenin için savaşmak üzere burada olacağım'\n\nBir Technocyte Coda'yı alt ederek kazanılır.",
+      "name": "Kalp Atışı Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "«У бою за серця я битимуся за твоє».\n\nЗдобувається здоланням «Техноцитної Коди».",
+      "name": "Ефемера «Ритм серця»",
+      "code": "uk"
+    }
+  ]
+}

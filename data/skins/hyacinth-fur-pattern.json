@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/CatbrowPetPatternA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hyacinth-fur-pattern-ef693255ea.png",
+  "name": "Hyacinth Fur Pattern",
+  "description": "An intricate fur pattern for your Kavat.",
+  "languages": [
+    {
+      "description": "Ein aufwendiges Fellmuster für deine Kavat.",
+      "name": "Fellmuster: Hyacinth",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage complexe pour votre Kavat.",
+      "name": "Motif de Pelage Jacinthe",
+      "code": "fr"
+    },
+    {
+      "description": "Un intricato pattern per il pelo del tuo Kavat.",
+      "name": "Pattern Pelo Hyacinth",
+      "code": "it"
+    },
+    {
+      "description": "카밧을 위한 복잡한 털 패턴입니다.",
+      "name": "히아신스 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un intrincado patrón de pelaje para tu kavat.",
+      "name": "Patrón de pelaje Jacinto",
+      "code": "es"
+    },
+    {
+      "description": "给库娃使用的精致花纹",
+      "name": "风信子毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Замысловатый шаблон для меха вашего кавата.",
+      "name": "Шаблон меха кавата: Гиацинтовый",
+      "code": "ru"
+    },
+    {
+      "description": "キャバット用の複雑な毛色。",
+      "name": "Hyacinth ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Skomplikowany wzór futra dla Twojego Kavata.",
+      "name": "Wzór Futra: Hiacyntowy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pelagem elaborada para seu Kavat.",
+      "name": "Pelagem de Kavat: Hyacinth",
+      "code": "pt"
+    },
+    {
+      "description": "給庫娃使用的精緻花紋",
+      "name": "風信子毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่ทำขึ้นมาอย่างประณีตสำหรับ Kavat ของคุณ",
+      "name": "ลายขน Hyacinth",
+      "code": "th"
+    },
+    {
+      "description": "Kavatınız için alternatif bir kürk deseni.",
+      "name": "Hyacinth Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Вигадливий вигляд хутра для кавата.",
+      "name": "Вигляд хутра «Гіацинт»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deth-machine-rifle-prime-7b2e679d67.png",
+  "name": "Deth Machine Rifle Prime",
+  "description": "Signature default weapon of Dethcube Prime.",
+  "languages": [
+    {
+      "description": "Bevorzugte Standardwaffe für den Dethcube Prime.",
+      "name": "Deth-Maschinengewehr Prime",
+      "code": "de"
+    },
+    {
+      "description": "Arme favorite originale de Dethcube Prime.",
+      "name": "Fusil Machine de Mort Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Arma di default distintiva del Dethcube Prime.",
+      "name": "Fucile Automatico Deth Prime",
+      "code": "it"
+    },
+    {
+      "description": "데스큐브 프라임의 대표 기본 무기입니다.",
+      "name": "데스 머신 라이플 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Arma tradicional por defecto de Dethcube Prime.",
+      "name": "Rifle Deth Machine Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DETH MACHINE RIFLE PRIME）死亡魔方 Prime 的标志性武器。",
+      "name": "死亡机枪 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартное вооружение Куба Смерти Прайм.",
+      "name": "Пулемёт Смерти Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Dethcube Primeを象徴するデフォルト武器。",
+      "name": "Deth Machine Rifle Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Domyślna broń charakterystyczna dla Dethcube Prime.",
+      "name": "Karabin Maszynowy Deth Prime",
+      "code": "pl"
+    },
+    {
+      "description": "A arma padrão tradicional da Dethcube Prime.",
+      "name": "Rifle Deth Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DETH MACHINE RIFLE PRIME）死亡魔方 Prime 的標誌性武器。",
+      "name": "死亡機槍 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธเริ่มต้นที่เป็นอาวุธเฉพาะตัวของ Dethcube Prime",
+      "name": "Deth Machine Rifle Prime",
+      "code": "th"
+    },
+    {
+      "description": "Dethcube Prime'a ait özel bir silah.",
+      "name": "Deth Machine Rifle Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна стандартна зброя Смертокуба-прайм.",
+      "name": "Смертомет-прайм",
+      "code": "uk"
+    }
+  ]
+}

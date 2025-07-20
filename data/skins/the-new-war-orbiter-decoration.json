@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/OculystStatue",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-new-war-orbiter-decoration-688e0f908e.png",
+  "name": "The New War Orbiter Decoration",
+  "description": "Bestowed upon those who joined together in celebration at TennoCon 2020.",
+  "languages": [
+    {
+      "description": "Verliehen an diejenigen, die sich auf der TennoCon 2020 zum Feiern zusammengeschlossen haben.",
+      "name": "Dekoration: Der Neue Krieg",
+      "code": "de"
+    },
+    {
+      "description": "Accordé à ceux qui se sont rassemblés pour célébrer à la TennoCon 2020.",
+      "name": "Décoration d'Orbiteur de la Nouvelle Guerre",
+      "code": "fr"
+    },
+    {
+      "description": "Conferita a coloro che hanno partecipato alla celebrazione del TennoCon 2020.",
+      "name": "Decorazione Orbiter La Nuova Guerra",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2020 행사에서 축하연에 참석하기 위해 모인 텐노들에게 수여되었습니다.",
+      "name": "새로운 전쟁 오비터 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgada a aquellos que se unieron para celebrar juntos en la TennoCon 2020.",
+      "name": "Decoración de la Nueva Guerra para el Orbitador",
+      "code": "es"
+    },
+    {
+      "description": "授予一同参与欢庆 TennoCon 2020 的玩家。",
+      "name": "《新纪之战》轨道飞行器装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Дарован тем, кто присоединился к празднованию TennoCon 2020.",
+      "name": "Декорация Для Орбитера: Новая Война",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2020の祭典に共に参加した者たちに贈られる。",
+      "name": "「新たな大戦」オービター装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Podarowany w zamian za wspólne dołączenie do świętowania na TennoCon 2020.",
+      "name": "Dekoracja Orbitera Z Nowej Wojny",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido àqueles que se uniram para celebrar a TennoCon 2020.",
+      "name": "Decoração da Nova Guerra",
+      "code": "pt"
+    },
+    {
+      "description": "授予一同參與歡慶 TennoCon 2020 慶典的玩家。",
+      "name": "新世戰紀軌道飛行器裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่เข้าร่วมเฉลิมฉลองในงาน TennoCon 2020",
+      "name": "ของตกแต่งออร์บิเตอร์: ที่ระลึกจากสงครามใหม่",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2020 kutlamalarına katılan kullanıcılara armağan edilmiştir.",
+      "name": "The New War Orbiter Dekorasyonları",
+      "code": "tr"
+    },
+    {
+      "description": "Дарунок тим, хто приєднався до події «Теннокон 2020».",
+      "name": "Оздоблення: Нова війна",
+      "code": "uk"
+    }
+  ]
+}

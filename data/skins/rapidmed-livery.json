@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rapidmed-livery-665cbdc24e.png",
+  "name": "Rapidmed Livery",
+  "description": "Be first on the scene with this medic inspired Atomicycle livery.",
+  "languages": [
+    {
+      "description": "Sei als Erster vor Ort mit dieser von Medizinern inspirierten Atomkrad-Lackierung.",
+      "name": "Lackierung: Rasendsani",
+      "code": "de"
+    },
+    {
+      "description": "Soyez le premier sur les lieux avec ce modèle d'inspiration médicale.",
+      "name": "Modèle Rapidmed",
+      "code": "fr"
+    },
+    {
+      "description": "Arriva per primo sulla scena con questa livrea per Atomicycle ispirata ai medici.",
+      "name": "Livrea Rapidmed",
+      "code": "it"
+    },
+    {
+      "description": "이 의료병을 모티브로 한 아토미사이클 도장을 장착하고 현장에 첫 번째로 나타나 보세요.",
+      "name": "래피드메드 도장",
+      "code": "ko"
+    },
+    {
+      "description": "Sé el primero en llegar a la escena con esta librea de Atomicycle inspirada en los médicos.",
+      "name": "Librea Emergencias",
+      "code": "es"
+    },
+    {
+      "description": "用这款医疗主题的原子摩托车外观涂装率先到达现场。",
+      "name": "急救",
+      "code": "zh"
+    },
+    {
+      "description": "Будьте первыми на месте событий с этой ливреей атомицикла, вдохновлённой стилем медиков.",
+      "name": "Ливрея: Скоромед",
+      "code": "ru"
+    },
+    {
+      "description": "救急車にインスパイアされたアトミサイクルの塗装で、現場に真っ先に駆けつけよう。",
+      "name": "Rapidmed リバリー",
+      "code": "ja"
+    },
+    {
+      "description": "Bądź pierwszy na miejscu zdarzenia w Atomicykla pomalowanym na wzór karetki.",
+      "name": "Malowanie: Karetka",
+      "code": "pl"
+    },
+    {
+      "description": "Seja o primeiro a chegar com esta pintura médica para sua Atomimoto.",
+      "name": "Pintura: Emergencial",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個以緊急醫療服務為靈感的原拓密重機塗裝來第一抵達現場。",
+      "name": "急救",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นคนกลุ่มแรกที่ไปถึงที่เกิดเหตุก่อนด้วยลายรถ Atomicycle ที่ได้รับแรงบันดาลใจมาจากหน่วยแพทย์",
+      "name": "ลาย Rapidmed",
+      "code": "th"
+    },
+    {
+      "description": "Tıbbi araçtan ilham alan bu Atomisiklet tasarımıyla olay yerine ulaşan ilk sen ol.",
+      "name": "Tıbbi Araç Kaplama",
+      "code": "tr"
+    },
+    {
+      "description": "Прибувайте першими на місце події з медичним каркасом атомоцикла.",
+      "name": "Каркас «Швидкодопоможець»",
+      "code": "uk"
+    }
+  ]
+}

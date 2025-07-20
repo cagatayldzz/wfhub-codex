@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/BirdOfPreyLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/condroc-echo-lure-74707a47ca.png",
+  "name": "Condroc Echo-Lure",
+  "description": "Entice and attract nearby Condroc with life-like animal calls. Condroc inhabit the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Locke Condrocs in der Nähe an, mit diesen lebensechten Lockrufen. Condrocs bevölkern die Ebenen von Eidolon.",
+      "name": "Echo-Köder: Condroc",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Condrocs se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes. Les Condrocs vivent dans les Plaines d'Eidolon.",
+      "name": "Écho-Leurre Condroc",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Condroc vicini con dei richiami simili ai suoi. Si trovano sulle Piane di Eidolon.",
+      "name": "Richiamo Condroc",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 콘드록을 꾀어 유인합니다. 콘드록은 아이돌론의 평원에 서식합니다.",
+      "name": "콘드록 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a condroc cercanos con llamados similares a los que harían en realidad esos animales. Los condroc habitan en las Llanuras de Eidolon.",
+      "name": "Eco-señuelo para Condroc",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的秃鹰。秃鹰栖息在夜灵平野。",
+      "name": "秃鹰回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Кондроков поблизости, издавая идентичные настоящим животные зовы. Кондроки обитают на Равнинах Эйдолона.",
+      "name": "Эхо-манок для кондрока",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのコンドロクを誘導する。 コンドロクはエイドロンの草原にいる。",
+      "name": "コンドロク Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskie Kondroki, imitując odgłosy tych zwierząt. Kondrok zamieszkuje Równiny Eidolon.",
+      "name": "Echo-Wabik Kondroka",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Condrocs próximos utilizando sons semelhantes aos dos animais. Condrocs habitam as Planícies de Eidolon.",
+      "name": "Ecoisca de Condroc",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的禿鷹。禿鷹棲息在夜靈平野。",
+      "name": "禿鷹回聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องเลียนแบบเสียงร้องเสมือนจริงเพื่อหลอกล่อและดึงดูด Condroc ที่อยู่ใกล้ ซึ่ง Condroc เป็นสัตว์ที่อาศัยอยู่บนที่ราบ Eidolon",
+      "name": "เครื่องเลียนแบบเสียง Condroc",
+      "code": "th"
+    },
+    {
+      "description": "Gerçek hayvan ses ve çağrıları kullanarak yakınlardaki Condroc'ları kendinize çekin. Condroc, Eidolon Ovalarında yaşar.",
+      "name": "Condroc Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює кондроків поблизу реалістичною імітацією їхнього поклику. Кондроки водяться на Рівнинах Ейдолонів.",
+      "name": "Еховабик на кондрока",
+      "code": "uk"
+    }
+  ]
+}

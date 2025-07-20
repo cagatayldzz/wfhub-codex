@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heart-of-deimos-login-music-931cf57cef.png",
+  "name": "Heart Of Deimos Login Music",
+  "description": "The Heart of Deimos login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Herz von Deimos, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Herz von Deimos",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical du Cœur de Deimos à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Cœur de Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Cuore di Deimos da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Cuore di Deimos",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 데이모스의 심장 로그인 음원입니다.",
+      "name": "데이모스의 심장 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de Corazón de Deimos para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de Corazón de Deimos",
+      "code": "es"
+    },
+    {
+      "description": "《惊惧之心》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《惊惧之心》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Сердце Деймоса» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Сердце Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるダイモスの心臓のログインミュージック。",
+      "name": "ダイモスの心臓 ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Serce Deimosa, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Serce Deimosa",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'Coração de Deimos' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Coração de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞戰慄魔心的登入畫面背景音樂。",
+      "name": "戰慄魔心登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน Heart of Deimos ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Heart of Deimos Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Heart of Deimos giriş müziğinin keyfini çıkar.",
+      "name": "Heart of Deimos Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Серце Деймоса» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Серце Деймоса»",
+      "code": "uk"
+    }
+  ]
+}

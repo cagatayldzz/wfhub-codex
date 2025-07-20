@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Loki/LokiPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loki-prime-5b192774c4.png",
+  "name": "Loki Prime",
+  "description": "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.",
+  "armor": 135,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Verwirre, täusche und zerstöre mit Loki Prime. Bietet alternative Mod-Polaritäten für eine bessere Anpassung.",
+      "name": "Loki Prime",
+      "code": "de"
+    },
+    {
+      "description": "Semez la confusion, trompez et détruisez avec Loki Prime. Possède des polarités de mod altérées pour une meilleure personnalisation.",
+      "name": "Loki Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Confondi, manipola e distruggi con Loki Prime. Presenta polarità mod alterate per una maggiore personalizzazione.",
+      "name": "Loki Prime",
+      "code": "it"
+    },
+    {
+      "description": "로키 프라임을 통해 혼란, 기만 그리고 파괴를 퍼뜨리세요. 로키 프라임은 늘어난 추가 극성 슬롯을 통해 발전된 맞춤 개조를 구현 할 수 있습니다.",
+      "name": "로키 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Confunde, engaña y destruye con Loki Prime. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+      "name": "Loki Prime",
+      "code": "es"
+    },
+    {
+      "description": "混淆、误导与破坏是 Loki Prime 的代名词。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+      "name": "Loki Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Вносите смуту, обман и уничтожение в ряды противника с помощью Локи Прайм. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+      "name": "Локи Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "敵を混乱させあざむくのに長けたLoki Prime。初期値で極性が多く付与されておりカスタマイズがしやすい。",
+      "name": "Loki Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Zmyl, zwiedź i zniszcz przy pomocy Lokiego Prime. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+      "name": "Loki Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Confunda, engane e destrua com o Loki Prime. Inclusas polaridades alteradas de mods para uma maior personalização.",
+      "name": "Loki Prime",
+      "code": "pt"
+    },
+    {
+      "description": "混淆，誤導與破壞是 Loki Prime 的代名詞，擁有改造過的 MOD 極性槽，可提供更優秀的自訂性。",
+      "name": "Loki Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Loki Prime ผู้สร้างความสับสน หลอกลวง และทำลายล้าง มีการปรับเปลี่ยนขั้ว Mod เพื่อช่วยให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Loki Prime",
+      "code": "th"
+    },
+    {
+      "description": "Loki Prime ile şaşırtın, kandırın ve yok edin. Özel kutup yuvaları ile harika bir kombinasyon yaratır.",
+      "name": "Loki Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Майстер обману, плутанини й знищення. Має змінені полярності комірок модифікаторів задля гнучкості вдосконалення.",
+      "name": "Локі-прайм",
+      "code": "uk"
+    }
+  ]
+}

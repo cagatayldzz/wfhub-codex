@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageIvaraPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-prime-glyph---bright-913dce9bb7.png",
+  "name": "Ivara Prime Glyph - Bright",
+  "description": "A glyph depicting Ivara Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ivara Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Ivara Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ivara Prime sur un fond lumineux.",
+      "name": "Glyphe Ivara Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ivara Prime su uno sfondo chiaro.",
+      "name": "Glifo Ivara Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 이바라 프라임을 묘사한 글리프입니다.",
+      "name": "이바라 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ivara Prime sobre un fondo brillante.",
+      "name": "Glifo de Ivara Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Ivara Prime 在明亮背景下的浮印。",
+      "name": "Ivara Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ивары Прайм на светлом фоне.",
+      "name": "Глиф: Ивара Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたIvara Prime のグリフ。",
+      "name": "Ivara Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Ivara Prime na jasnym tle.",
+      "name": "Glif Ivara Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Ivara Prime em um fundo claro.",
+      "name": "Glifo: Ivara Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ivara Prime 在明亮背景下的浮印。",
+      "name": "Ivara Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ivara Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Ivara Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Prime açık fonlu glif.",
+      "name": "Ivara Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Івари-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Івара-прайм»",
+      "code": "uk"
+    }
+  ]
+}

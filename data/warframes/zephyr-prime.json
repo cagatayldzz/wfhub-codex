@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Tengu/ZephyrPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-prime-c777d1497b.png",
+  "name": "Zephyr Prime",
+  "description": "Take to the skies with this golden bird of destruction.",
+  "armor": 135,
+  "aura": "vazarin",
+  "languages": [
+    {
+      "description": "Erhebe dich in den Himmel mit diesem golden Vogel der Zerstörung.",
+      "name": "Zephyr Prime",
+      "code": "de"
+    },
+    {
+      "description": "Envolez-vous dans les cieux avec cet oiseau doré et destructeur.",
+      "name": "Zephyr Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Prendi il volo con questo uccello dorato di distruzione.",
+      "name": "Zephyr Prime",
+      "code": "it"
+    },
+    {
+      "description": "이 황금빛 파멸의 새와 함께 하늘로 날아오르세요.",
+      "name": "제피르 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Llega a los cielos con esta dorada ave de destrucción.",
+      "name": "Zephyr Prime",
+      "code": "es"
+    },
+    {
+      "description": "用这只富有破坏力的金色小鸟飞向天空。",
+      "name": "Zephyr Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Воспарите в небеса вместе с этой золотой птицей разрушения.",
+      "name": "Зефир Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "この黄金の破壊鳥で空へと繰り出せ。",
+      "name": "Zephyr Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Wzbij się w przestworza tym złotym ptakiem zniszczenia.",
+      "name": "Zephyr Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Vá aos céus com este pássaro dourado da destruição.",
+      "name": "Zephyr Prime",
+      "code": "pt"
+    },
+    {
+      "description": "用這隻富有破壞力的金色小鳥飛向天空。",
+      "name": "Zephyr Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ทะยานขึ้นสู่ท้องฟ้าไปกับนกสีทองที่มีพลังทำลายล้างรุนแรง",
+      "name": "Zephyr Prime",
+      "code": "th"
+    },
+    {
+      "description": "Bu altından yıkım kuşu ile çatışmayı göklere taşıyın.",
+      "name": "Zephyr Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Золотиста птаха руйнування, що літає високо в небі.",
+      "name": "Зефіра-прайм",
+      "code": "uk"
+    }
+  ]
+}

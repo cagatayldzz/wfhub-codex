@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sonicor-9245ce743a.png",
+  "name": "Sonicor",
+  "description": "Blasts targets with a massive wave of sonic energy. Results reported to be: 'Very Satisfying'.",
+  "languages": [
+    {
+      "description": "Beschieße Gegner mit massiven Wellen aus Schallenergie. Berichten zufolge ist dies 'Sehr Befriedigend'.",
+      "name": "Sonicor",
+      "code": "de"
+    },
+    {
+      "description": "Frappe ses cibles avec une décharge massive d'énergie sonique. Ceux qui s'en sont servis disent que cette arme est 'très satisfaisante'.",
+      "name": "Sonicor",
+      "code": "fr"
+    },
+    {
+      "description": "Fai esplodere i bersagli con una potente ondata di energia sonica. I risultati riportano essere: 'Veramente Soddisfacente'.",
+      "name": "Sonicor",
+      "code": "it"
+    },
+    {
+      "description": "대규모의 음파 에너지 파동으로 목표물을 날려버립니다. 보고된 사용 후기: '매우 만족스럽다.'",
+      "name": "소니코어",
+      "code": "ko"
+    },
+    {
+      "description": "Estalla a objetivos con una ola masiva de energía sónica. Los resultados reportados son: 'Muy satisfactorios'.",
+      "name": "Sonicor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SONICOR）以巨大的声波能量震飞目标。使用报告的结果是：非常爽。",
+      "name": "超音波冲击枪",
+      "code": "zh"
+    },
+    {
+      "description": "Бьет противника мощной звуковой волной. Результаты тестирования заявлены как «очень положительные».",
+      "name": "Соникор",
+      "code": "ru"
+    },
+    {
+      "description": "止め処もないエネルギー音波でターゲットをなぎ倒そう。上がっている報告によると「非常に満足」とのことだ。",
+      "name": "Sonicor",
+      "code": "ja"
+    },
+    {
+      "description": "Rozrywa cel potężną falą dźwiękową. Rezultaty zostały określone jako 'bardzo satysfakcjonujące'.",
+      "name": "Sonicor",
+      "code": "pl"
+    },
+    {
+      "description": "O canhão atira uma onda de Energia sônica massiva. Resultados relatados como: 'Muito Satisfatórios'.",
+      "name": "Sonicor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SONICOR）以巨大的聲波能量震飛目標。使用報告結果是：非常滿意。",
+      "name": "超音波衝擊槍",
+      "code": "tc"
+    },
+    {
+      "description": "โจมตีเป้าหมายด้วยคลื่นพลังงานโซนิคที่มีพลังมหาศาล และผลที่ได้รับคือ 'น่าพอใจมาก'",
+      "name": "Sonicor",
+      "code": "th"
+    },
+    {
+      "description": "Hedeflerini sonik enerji kullanarak havaya uçurur. Alınan sonuçlar ise daima tatmin edicidir.",
+      "name": "Sonicor",
+      "code": "tr"
+    },
+    {
+      "description": "Бластер, що вражає цілі потужною акустичною хвилею. Результати тестувань заявлені як «дуже задовільні».",
+      "name": "Сонікор",
+      "code": "uk"
+    }
+  ]
+}

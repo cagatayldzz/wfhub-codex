@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/SocialMenuFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/comms-segment-3b3739f6b2.png",
+  "name": "Comms Segment",
+  "description": "",
+  "languages": [
+    {
+      "description": "",
+      "name": "FUNK-SEGMENT",
+      "code": "de"
+    },
+    {
+      "description": "",
+      "name": "SEGMENT DE COMMUNICATIONS",
+      "code": "fr"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO COMUNICAZIONI",
+      "code": "it"
+    },
+    {
+      "description": "",
+      "name": "통신 장치",
+      "code": "ko"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO DE COMUNICACIONES",
+      "code": "es"
+    },
+    {
+      "description": "",
+      "name": "通讯模块",
+      "code": "zh"
+    },
+    {
+      "description": "",
+      "name": "СЕГМЕНТ СВЯЗИ",
+      "code": "ru"
+    },
+    {
+      "description": "",
+      "name": "コミュニケーション モジュール",
+      "code": "ja"
+    },
+    {
+      "description": "",
+      "name": "SEGMENT KOMUNIKACYJNY",
+      "code": "pl"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO DE COMUNICAÇÃO",
+      "code": "pt"
+    },
+    {
+      "description": "",
+      "name": "通信模塊",
+      "code": "tc"
+    },
+    {
+      "description": "",
+      "name": "เซกเมนต์การสื่อสาร",
+      "code": "th"
+    },
+    {
+      "description": "",
+      "name": "İLETİŞİM SEGMENTİ",
+      "code": "tr"
+    },
+    {
+      "description": "",
+      "name": "МОДУЛЬ ЗВ’ЯЗКУ",
+      "code": "uk"
+    }
+  ]
+}

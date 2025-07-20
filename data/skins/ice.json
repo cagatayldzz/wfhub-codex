@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerIceItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ice-d3ee9cf9fb.png",
+  "name": "Ice",
+  "description": "Cool off with these additional color options for Warframe customization.",
+  "languages": [
+    {
+      "description": "Kühle dich mit diesen zusätzlichen Farben für die Anpassung der Rüstung ab.",
+      "name": "Eis",
+      "code": "de"
+    },
+    {
+      "description": "Rafraîchissez-vous avec ces nouvelles couleurs pour personnaliser l’apparence des Warframes.",
+      "name": "Glace",
+      "code": "fr"
+    },
+    {
+      "description": "Divertiti con queste opzioni colore aggiuntive per la personalizzazione dell'armatura.",
+      "name": "Ghiaccio",
+      "code": "it"
+    },
+    {
+      "description": "워프레임을 꾸밀 때 사용하는 색들 중 추가적으로 시원한 색상들을 잠금 해제합니다.",
+      "name": "아이스 팔레트",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea opciones de color adicionales para la personalización del warframe.",
+      "name": "Hielo",
+      "code": "es"
+    },
+    {
+      "description": "解锁额外的装备自定义色彩。",
+      "name": "寒冰色",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует дополнительные цвета в меню настроек варфрейма.",
+      "name": "Цвет льда",
+      "code": "ru"
+    },
+    {
+      "description": "カスタマイズ用追加カラーをアンロックする。",
+      "name": "Ice",
+      "code": "ja"
+    },
+    {
+      "description": "Ochłoń przy dodatkowych kolorach służących do personalizacji Twoich Warframe'ów.",
+      "name": "Lodowe Kolory",
+      "code": "pl"
+    },
+    {
+      "description": "Refresque-se com essas opções de cores para a personalização de Warframe.",
+      "name": "Gelo",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖額外的裝備自訂色彩。",
+      "name": "寒冰",
+      "code": "tc"
+    },
+    {
+      "description": "คลายร้อนไปกับตัวเลือกสีเพิ่มเติมเหล่านี้เพื่อใช้ปรับแต่ง Warframe",
+      "name": "Ice",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'ini kişiselleştirirken ekstra Buz seçeneklerini kullanmak sizi ferahlatacaktır.",
+      "name": "Buz Renkleri",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова прохолодна палітра кольорів задля урізнобарвлення гри.",
+      "name": "Крига",
+      "code": "uk"
+    }
+  ]
+}

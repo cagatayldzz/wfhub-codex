@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBaro",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/domestik-ki'teer-drone-1099e1f336.png",
+  "name": "Domestik Ki'Teer Drone",
+  "description": "Reinvented from the ground up, the Ki’Teer Domestik is a revolution in sanitation and style.",
+  "languages": [
+    {
+      "description": "Die von Grund auf neu konzipierte Ki'Teer Haushalts-Drone ist eine Revolution in Sachen Hygiene und Stil.",
+      "name": "Haushalt-Drohne: Ki'Teer",
+      "code": "de"
+    },
+    {
+      "description": "Réinventé jusque dans les moindres détails, le Domestik Ki'Teer révolutionne l'entretien ménager avec style.",
+      "name": "Drone Domestik Ki'Teer",
+      "code": "fr"
+    },
+    {
+      "description": "Reinventato da zero, il Domestico Ki’Teer è una rivoluzione nel campo della pulizia e dello stile. ",
+      "name": "Drone Domestico Ki'Teer",
+      "code": "it"
+    },
+    {
+      "description": "근본에서부터 완전히 새로 재창조된 키'티어제 도메스틱은 청결과 스타일의 혁명 그 자체입니다.",
+      "name": "도메스틱 키'티어 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Reinventado desde cero, el Domestik Ki’Teer es una revolución en higiene y estilo.",
+      "name": "Dron Domestik Ki'Teer",
+      "code": "es"
+    },
+    {
+      "description": "经过了彻头彻尾的改造，Ki’Teer 内务无人机在环境卫生和样式风格领域掀起了一场革命。",
+      "name": "内务 Ki'Teer 无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Воссозданный с нуля, дрон-уборщик Ки'Тиира - это революционный компромисс гигиены и стиля.",
+      "name": "Дрон-уборщик Ки'Тиир",
+      "code": "ru"
+    },
+    {
+      "description": "コンセプトから見直されたKi'Teer ドメスティクは衛生とスタイルに革命をもたらす。 ",
+      "name": "Ki'Teer ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Zbudowany od podstaw, Doomestos Ki'Teer to prawdziwa rewolucja w sprawach higieny i stylu.",
+      "name": "Robot Doomestos: Ki'Teer",
+      "code": "pl"
+    },
+    {
+      "description": "Recriado do zero, o Drone Domestik Ki'Teer apresenta uma revolução no ramo de limpeza e estilo.",
+      "name": "Drone Domestik Ki'Teer",
+      "code": "pt"
+    },
+    {
+      "description": "從頭到腳重新打造，這款 Ki'Teer 內務無人機在衛生及風格上再進化。",
+      "name": "內務 Ki'Teer 無人機",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างสรรค์ขึ้นใหม่ตั้งแต่แรกเริ่ม Ki'Teer Domestik คือการปฏิวัติด้านสุขอนามัยและความมีสไตล์",
+      "name": "โดรน Domestik Ki'Teer",
+      "code": "th"
+    },
+    {
+      "description": "Sıfırdan yeniden tasarlanan Ki'Teer Domestik, temizlik ve stilde bir devrim yaratacak.",
+      "name": "Domestik Ki'Teer Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Версія дрона-прибиральника під назвою «Кі’Тір» — революційне переосмислення в прибиранні, що поєднує в собі фантастичну ефективність і неперевершений вигляд.",
+      "name": "Дрон-прибиральник «Кі’Тір»",
+      "code": "uk"
+    }
+  ]
+}

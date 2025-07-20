@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cycron-207a11874d.png",
+  "name": "Cycron",
+  "description": "Forgo ammunition with the regenerating energy disc in this plasma throwing pistol.",
+  "languages": [
+    {
+      "description": "Verzichte auf Munition mit der sich regenerierenden Energiescheibe dieser plasmawerfenden Pistole.",
+      "name": "Cycron",
+      "code": "de"
+    },
+    {
+      "description": "Dites adieu aux munitions grâce au disque d'énergie autosuffisant de ce Pistolet à plasma.",
+      "name": "Cycron",
+      "code": "fr"
+    },
+    {
+      "description": "Rinuncia alle munizioni con il rigenerante disco d'energia di questa pistola spara plasma.",
+      "name": "Cycron",
+      "code": "it"
+    },
+    {
+      "description": "자동으로 재생하는 이 플라즈마 방사 권총의 에너지 디스크와 함께라면 탄약과는 안녕.",
+      "name": "사이크론",
+      "code": "ko"
+    },
+    {
+      "description": "Renuncia a las municiones con el disco de energía que se regenera en esta pistola que dispara plasma.",
+      "name": "Cycron",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CYCRON）用这把装有能量恢复圆盘的等离子体发射手枪摆脱弹药的限制。",
+      "name": "循环离子枪",
+      "code": "zh"
+    },
+    {
+      "description": "С помощью восстанавливающего энергодиска этого плазменного пистолета вы можете забыть о пополнении боезапаса.",
+      "name": "Сикрон",
+      "code": "ru"
+    },
+    {
+      "description": "このプラズマ射出ピストルのエネルギー再生ディスクがあれば弾薬の心配はいらない。",
+      "name": "Cycron",
+      "code": "ja"
+    },
+    {
+      "description": "Dzięki regenerującemu energię dyskowi, w tym strzelającym plazmą pistolecie, możesz zapomnieć o uzupełnianiu amunicji.",
+      "name": "Cykron",
+      "code": "pl"
+    },
+    {
+      "description": "Abdique de munição com o disco regenerador de Energia nessa pistola lançadora de plasma.",
+      "name": "Cycron",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CYCRON）用這把裝有能量恢復圓盤的電漿體發射手槍擺脫彈藥的限制。",
+      "name": "循環離子槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพกพลาสมากระบอกนี้มีแผ่นพลังงานหมุนเวียนที่จะทำให้ลืมการบรรจุกระสุนไปเลย",
+      "name": "Cycron",
+      "code": "th"
+    },
+    {
+      "description": "Bu plazma tabancasının içindeki kendini yenileyen enerji diski ile mermi derdinizi unutun.",
+      "name": "Cycron",
+      "code": "tr"
+    },
+    {
+      "description": "Плазмовий пістолет із самовідновлювальним енергодиском. Годі перейматися кількістю набоїв!",
+      "name": "Цикрон",
+      "code": "uk"
+    }
+  ]
+}

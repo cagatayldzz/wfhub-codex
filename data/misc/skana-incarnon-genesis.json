@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/SkanaIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/skana-incarnon-genesis-f7b7beb3d7.png",
+  "name": "Skana Incarnon Genesis",
+  "description": "Awaken this weapon's ability to stun nearby enemies when it enters Incarnon Form and after Finisher attacks.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form Feinde in der Nähe zu betäuben, sowie nach Todesstoß-Angriffen.",
+      "name": "Incarnon-Genesis: Skana",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à étourdir les ennemis proches lorsqu'elle entre en Forme Incarnon et après les Coups de Grâce.",
+      "name": "Skana Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di stordire i nemici nelle vicinanze quando entra nella Forma Incarnon e dopo gli attacchi Esecuzione.",
+      "name": "Skana Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에 돌입할 때와 인카논 형태에서의 마무리 일격 직후 주변의 적을 기절시키는 능력이 추가됩니다.",
+      "name": "스카나 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para aturdir a los enemigos cercanos cuando entra en su forma Incarnon y después de los ataques de remate.",
+      "name": "Skana Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在进行灵化形态时和进行处决攻击后具有晕眩附近敌人的能力。",
+      "name": "空刃灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия оглушать ближайших врагов при переходе в инкарнонскую форму и после добиваний.",
+      "name": "Генезис Инкарнона: Скана",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム変身時とフィニッシャー攻撃後に付近の敵をスタンする。",
+      "name": "Skana インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która ogłusza pobliskich wrogów przy jej aktywacji i Dobiciach.",
+      "name": "Geneza Inkarnon: Skana",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de atordoar inimigos próximos ao ativar seu Aspecto Encarnado e ao realizar Finalizações.",
+      "name": "Encarnação Gênese da Skana",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，進入應感形態時以及處決攻擊後暈眩附近敵人。",
+      "name": "空刃應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form และหลังจากโจมตีด้วยท่าฟินิชเชอร์แล้วจะทำให้ศัตรูที่อยู่ใกล้มึนงง",
+      "name": "Skana Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilindeki her dönüşümünde ve Bitirici Saldırılarda çevredeki düşmanları sersemletme özelliğini uyandır.",
+      "name": "Skana Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє приголомшувати ворогів поблизу під час входу в інкарнонську форму та під час добивань.",
+      "name": "Інкарнонський генезис: Скана",
+      "code": "uk"
+    }
+  ]
+}

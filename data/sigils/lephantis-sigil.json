@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLephantis",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lephantis-sigil-b6712aa1b6.png",
+  "name": "Lephantis Sigil",
+  "description": "A sigil depicting the Lephantis.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Lephantis darstellt.",
+      "name": "Siegel: Lephantis",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Lephantis.",
+      "name": "Sceau de Lephantis",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Lephantis.",
+      "name": "Sigillo Lephantis",
+      "code": "it"
+    },
+    {
+      "description": "레펜티스가 묘사된 시질입니다.",
+      "name": "레펜티스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando a Lephantis.",
+      "name": "Sello de Lephantis",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着雷凡魔像的纹章。",
+      "name": "雷凡魔像纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Лефантиса.",
+      "name": "Сигил: Лефантис",
+      "code": "ru"
+    },
+    {
+      "description": "Lephantisを描いたシジル。",
+      "name": "Lephantisシジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Lephantisa.",
+      "name": "Znak Lephantisa",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o Lefântis.",
+      "name": "Brasão: Lefântis",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Lephantis 的紋章。",
+      "name": "Lephantis 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Lephantis",
+      "name": "เครื่องหมาย: Lephantis",
+      "code": "th"
+    },
+    {
+      "description": "Lephantis'i temsil eden bir mühür",
+      "name": "Lephantis Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Лефантиса.",
+      "name": "Сиґіл «Лефантис»",
+      "code": "uk"
+    }
+  ]
+}

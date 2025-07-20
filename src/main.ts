@@ -1,14 +1,15 @@
-import * as path from "path";
-import * as fs from "fs";
+import path from "path";
+import fs from "fs";
 
 import type { Locale } from "@wfcd/items";
 
 import { loadI18nData } from "./utils/i18n";
 import { Translatable } from "./utils/type";
+import { slugify } from "./utils/slugify";
 
 const I18N_FILE = "./node_modules/@wfcd/items/data/json/i18n.json";
 
-const CATEGORY = [
+const CATEGORIES = [
   "Arcanes",
   "Arch-Gun",
   "Arch-Melee",
@@ -33,63 +34,70 @@ const CATEGORY = [
   "Sigils",
   "Skins",
   "Warframes",
-];
+] as const;
 
-const DATA_CONFIG: { outputFile: string; category: string }[] = CATEGORY.map(
-  (category) => ({
-    outputFile: `./data/${category}.json`,
-    category,
-  }),
-);
+const CONFIG = CATEGORIES.map((category) => ({
+  inputFile: `./node_modules/@wfcd/items/data/json/${category}.json`,
+  outputDir: `./data/${slugify(category)}`,
+  category,
+}));
 
-async function filterData<T extends Translatable>(
+async function buildCategory(
   inputFile: string,
-  outputFile: string,
-  fields: (keyof T)[],
+  outputDir: string,
+  fields: (keyof Translatable)[],
   i18nMap: Record<
     string,
     Record<Locale, { description: string; name: string }>
   >,
 ): Promise<void> {
-  try {
-    const data: T[] = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
+  const data: Translatable[] = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
+  const used = new Set<string>();
 
-    const filteredData = data.map((item) => {
-      const result: Partial<Translatable & T> = {};
+  await fs.promises.mkdir(outputDir, { recursive: true });
 
-      fields.forEach((field) => {
+  for (const item of data) {
+    const result: Record<
+      string,
+      | { description?: string; name?: string; code: Locale }[]
+      | undefined
+      | string
+      | number
+    > = {};
+
+    for (const field of fields) {
+      const value = item[field];
+      if (field === "imageName" && typeof value === "string" && value) {
         result[field] =
-          field === "imageName" && item.imageName
-            ? (`https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/${item.imageName}` as T[keyof T])
-            : (item[field] ?? undefined);
-      });
-
-      const i18nEntry = i18nMap[item?.uniqueName];
-      result.languages = i18nEntry
-        ? Object.entries(i18nEntry).map(([code, value]) => ({
-            description: value.description ?? undefined,
-            name: value.name ?? undefined,
-            code: code as Locale,
-          }))
-        : [];
-
-      return result;
-    });
-
-    const outputDir = path.dirname(outputFile);
-    if (!fs.existsSync(outputDir)) {
-      console.log(`Creating directory: ${outputDir}`);
-      await fs.promises.mkdir(outputDir, { recursive: true });
+          `https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/${value}`;
+      } else {
+        result[field] = value as undefined | string | number;
+      }
     }
 
+    const i18nEntry = i18nMap[item.uniqueName];
+    result.languages = i18nEntry
+      ? Object.entries(i18nEntry).map(([code, value]) => ({
+          description: value.description ?? undefined,
+          name: value.name ?? undefined,
+          code: code as Locale,
+        }))
+      : [];
+
+    let slug = slugify(item.name);
+    if (used.has(slug)) {
+      const hash = Buffer.from(item.uniqueName)
+        .toString("base64url")
+        .slice(0, 6);
+      slug = `${slug}-${hash}`;
+    }
+    used.add(slug);
+
     fs.writeFileSync(
-      outputFile,
-      JSON.stringify(filteredData, null, 2),
+      path.join(outputDir, `${slug}.json`),
+      JSON.stringify(result, null, 2),
       "utf-8",
     );
-    console.log(`Filtered data written to "${outputFile}"`);
-  } catch (error) {
-    console.error(`Error processing data for "${outputFile}":`, error);
   }
 }
 
@@ -97,16 +105,14 @@ async function main(): Promise<void> {
   const i18nMap = loadI18nData(I18N_FILE);
 
   await Promise.all(
-    DATA_CONFIG.map(async ({ outputFile, category }) => {
-      const inputFile = `./node_modules/@wfcd/items/data/json/${category}.json`;
-
-      await filterData<Translatable>(
+    CONFIG.map(({ inputFile, outputDir }) =>
+      buildCategory(
         inputFile,
-        outputFile,
+        outputDir,
         ["uniqueName", "imageName", "name", "description", "armor", "aura"],
         i18nMap,
-      );
-    }),
+      ),
+    ),
   );
 }
 

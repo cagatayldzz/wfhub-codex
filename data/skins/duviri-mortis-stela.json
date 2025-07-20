@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Duviri2ndRelease/DUVxCemeteryMonumentA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-mortis-stela-66a9cdfd33.png",
+  "name": "Duviri Mortis Stela",
+  "description": "A replica of the cryptic monument that overshadows the many graves of Duviri.",
+  "languages": [
+    {
+      "description": "Die Nachbildung des mysteriösen Denkmals, das die vielen Gräber von Duviri überschattet.",
+      "name": "Duviri-Gedenkstele",
+      "code": "de"
+    },
+    {
+      "description": "Une réplique du monument cryptique qui éclipse les nombreuses tombes de Duviri.",
+      "name": "Stèle funéraire de Duviri",
+      "code": "fr"
+    },
+    {
+      "description": "Una replica del criptico monumento che sovrasta le numerose tombe di Duviri.",
+      "name": "Stele Funeraria - Duviri",
+      "code": "it"
+    },
+    {
+      "description": "두비리의 많은 무덤에 그림자를 드리우는 불가사의한 기념비의 복제품입니다.",
+      "name": "두비리 죽음의 묘비",
+      "code": "ko"
+    },
+    {
+      "description": "Una réplica del monumento críptico que se alza sobre las numerosas tumbas de Duviri.",
+      "name": "Estela funeraria de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "掩盖双衍王境众多坟墓的神秘墓碑复制品。",
+      "name": "双衍王境死灵石碑",
+      "code": "zh"
+    },
+    {
+      "description": "Копия загадочного монумента, закрывающего многочисленные могилы в Дувири.",
+      "name": "Дувири: Погребальная стела",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリの多くの墓の影を覆っている謎めいた記念碑のレプリカ。",
+      "name": "デュヴィリ 死墓碑",
+      "code": "ja"
+    },
+    {
+      "description": "Replika tajemniczego pomnika, przyćmiewającego wiele grobów Duviri.",
+      "name": "Duviri: Mortis Stela",
+      "code": "pl"
+    },
+    {
+      "description": "Uma réplica do monumento enigmático que ofusca as diversas sepulturas de Duviri.",
+      "name": "Estela Funerária de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "令渡域眾多墳墓黯然失色的神秘墓碑複製品。",
+      "name": "渡域亡靈墓碑",
+      "code": "tc"
+    },
+    {
+      "description": "แบบจำลองของอนุสาวรีย์ลึกลับที่ทอดเงาเหนือหลุมฝังศพหลายแห่งใน Duviri",
+      "name": "แผ่นศิลาจารึกในสุสาน Duviri",
+      "code": "th"
+    },
+    {
+      "description": "Duviri'nin birçok mezarını gölgede bırakan şifreli anıtın bir kopyası.",
+      "name": "Duviri Mortis Stela",
+      "code": "tr"
+    },
+    {
+      "description": "Відтворений пам’ятник зі склепу, який оздоблює багато могил у Дувірі.",
+      "name": "Дувірська надгробна стела",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTemple",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-prex-879999d734.png",
+  "name": "Temple Prex",
+  "description": "The Flame of Revolution",
+  "languages": [
+    {
+      "description": "Die Flamme der Revolution",
+      "name": "Temple Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Flamme de la Révolution",
+      "name": "Prex Temple",
+      "code": "fr"
+    },
+    {
+      "description": "La Fiamma della Rivoluzione",
+      "name": "Prex: Temple",
+      "code": "it"
+    },
+    {
+      "description": "혁명의 불꽃",
+      "name": "템플 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La llama de la revolución",
+      "name": "Prex de Temple",
+      "code": "es"
+    },
+    {
+      "description": "革命的火焰",
+      "name": "Temple Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Пламя Революции",
+      "name": "Прекс: Темпл",
+      "code": "ru"
+    },
+    {
+      "description": "革命の炎",
+      "name": "Temple プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Płomień Rewolucji",
+      "name": "Prex: Temple",
+      "code": "pl"
+    },
+    {
+      "description": "A Chama da Revolução",
+      "name": "Prex: Temple",
+      "code": "pt"
+    },
+    {
+      "description": "革命之火",
+      "name": "卡牌 — Temple",
+      "code": "tc"
+    },
+    {
+      "description": "เปลวไฟแห่งการปฏิวัติ",
+      "name": "ไพ่เพร็กซ์ Temple",
+      "code": "th"
+    },
+    {
+      "description": "Devrimin Alevi",
+      "name": "Temple Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Полум’я революції",
+      "name": "Прекс Храма",
+      "code": "uk"
+    }
+  ]
+}

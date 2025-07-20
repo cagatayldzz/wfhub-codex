@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnGlassShotgun/TnGlassShotgunGun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/astilla-c74cffb34c.png",
+  "name": "Astilla",
+  "description": "Blast enemies with glass slugs that devastate on impact. In Gara's hands, this signature weapon has a larger Ammo Pool.",
+  "languages": [
+    {
+      "description": "Beim Aufprall dieser Glasmunition erleben Gegner eine explosive Überraschung. Führt Gara diese bevorzugte Waffe, hat sie mehr Munition verfügbar.",
+      "name": "Astilla",
+      "code": "de"
+    },
+    {
+      "description": "Pulvérisez les ennemis avec des débris de verre dévastant tout sur leur passage. Dans les mains de Gara, cette arme associée possède un maximum de Munitions plus élevé.",
+      "name": "Astilla",
+      "code": "fr"
+    },
+    {
+      "description": "Devasta i nemici con lance di vetro che si frantumano all'impatto. Impugnata da Gara, la sua arma distintiva ha una maggiore Riserva di Munizioni.",
+      "name": "Astilla",
+      "code": "it"
+    },
+    {
+      "description": "충돌 시 가공할 만한 파괴력을 내는 유리 슬러그 탄으로 적을 싹 날려 보세요. 가라가 이 대표 무기를 사용할 시 최대 탄약량이 증가합니다.",
+      "name": "아스틸라",
+      "code": "ko"
+    },
+    {
+      "description": "Haz estallar a los enemigos con balas de vidrio que causan devastación al impactar. Esta es el arma distintiva de Gara. Cuando es portada por Gara, adquiere mayor capacidad de munición.",
+      "name": "Astilla",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ASTILLA）用玻璃弹头轰炸敌人，碰撞时将炸裂。当 Gara 手持这把的标志性武器时，其弹药上限会得到提升。",
+      "name": "碎裂者",
+      "code": "zh"
+    },
+    {
+      "description": "Подрывайте врагов стеклянной болванкой, детонирующей при контакте. Если используется Гарой - имеет больший боезапас.",
+      "name": "Астилла",
+      "code": "ru"
+    },
+    {
+      "description": "当たれば荒廃をもたらすガラスのスラグ弾で敵を吹き飛ばそう。Garaが携えたとき、より多くの弾薬を持ち運ぶことができる。",
+      "name": "Astilla",
+      "code": "ja"
+    },
+    {
+      "description": "Rozerwij przeciwników szklanymi pociskami, które pustoszą przy uderzeniu. W rękach Gary, ta charakterystyczna dla niej strzelba posiada większą ilość rezerwy amunicji.",
+      "name": "Astilla",
+      "code": "pl"
+    },
+    {
+      "description": "Destrua inimigos com projéteis de vidro que dizimam os alvos no impacto. Ao ser utilizada por Gara, sua arma tradicional apresenta uma Reserva de Munição ampliada.",
+      "name": "Astilla",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ASTILLA）以玻璃彈頭轟炸敵人，撞擊時將毀滅一切。Gara 手持這把標誌性武器時可提升備用的彈藥上限。",
+      "name": "碎裂者",
+      "code": "tc"
+    },
+    {
+      "description": "ระเบิดศัตรูด้วยกระสุนแก้วที่จะทำลายล้างเมื่อโดนกระทบ หาก Gara เป็นผู้ใช้อาวุธประจำตัวชิ้นนี้จะทำให้เก็บกระสุนได้มากกว่าเดิม",
+      "name": "Astilla",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlarınızı, isabet ettiğinde dağılan camdan saçmalar ile parçalayın. Bu özel silah, Gara'nın elindeyken daha geniş Cephane limitine sahiptir.",
+      "name": "Astilla",
+      "code": "tr"
+    },
+    {
+      "description": "Рушниця, що стріляє розривними скляними набоями. Має набагато більший запас набоїв, якщо нею користується Ґара.",
+      "name": "Астіла",
+      "code": "uk"
+    }
+  ]
+}

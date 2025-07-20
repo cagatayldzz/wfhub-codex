@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceHandsUp",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hands-up-1d3ee3ff69.png",
+  "name": "Hands Up",
+  "description": "Put your hands in the air.",
+  "languages": [
+    {
+      "description": "Hebe deine Hände in die Luft.",
+      "name": "Hände Hoch",
+      "code": "de"
+    },
+    {
+      "description": "Mettez les mains en l'air.",
+      "name": "Mains en l'air",
+      "code": "fr"
+    },
+    {
+      "description": "Porta in alto le mani.",
+      "name": "Mani in Alto",
+      "code": "it"
+    },
+    {
+      "description": "손을 머리 위 공중으로 올립니다.",
+      "name": "손을 높이",
+      "code": "ko"
+    },
+    {
+      "description": "Levanta las manos.",
+      "name": "Manos arriba",
+      "code": "es"
+    },
+    {
+      "description": "把你的双手举起来。",
+      "name": "高举双手",
+      "code": "zh"
+    },
+    {
+      "description": "Поднимите руки в воздух.",
+      "name": "Руки вверх",
+      "code": "ru"
+    },
+    {
+      "description": "両手を威勢よく宙に挙げる。",
+      "name": "ハンズ・アップ",
+      "code": "ja"
+    },
+    {
+      "description": "Wznieś ręce do góry.",
+      "name": "Rączki do góry",
+      "code": "pl"
+    },
+    {
+      "description": "Coloque suas mãos no ar.",
+      "name": "Levantar as mãos",
+      "code": "pt"
+    },
+    {
+      "description": "把手放在空中甩。",
+      "name": "高舉雙手",
+      "code": "tc"
+    },
+    {
+      "description": "ยกมือขึ้นกลางอากาศ",
+      "name": "ยกมือขึ้น",
+      "code": "th"
+    },
+    {
+      "description": "Ellerinizi havaya kaldır.",
+      "name": "Eller Yukarı",
+      "code": "tr"
+    },
+    {
+      "description": "Підіймання рук угору.",
+      "name": "Руки догори",
+      "code": "uk"
+    }
+  ]
+}

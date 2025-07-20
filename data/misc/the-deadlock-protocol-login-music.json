@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-deadlock-protocol-login-music-c1c3568cc1.png",
+  "name": "The Deadlock Protocol Login Music",
+  "description": "The Deadlock Protocol login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Das Deadlock-Protokoll, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Das Deadlock-Protokoll",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical de Protocole Exclusion à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Protocole Exclusion",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Il Protocollo Deadlock da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Il Protocollo Deadlock",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 교착 프로토콜 로그인 음원입니다.",
+      "name": "교착 프로토콜 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de El Protocolo Punto Muerto para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de El Protocolo Punto Muerto",
+      "code": "es"
+    },
+    {
+      "description": "《僵局协议》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《僵局协议》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Протокол: Мёртвая точка» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Протокол Мёртвая точка",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるデッドロック・プロトコルのログインミュージック。",
+      "name": "デッドロック・プロトコル ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Protokół: Martwy Punkt, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Protokół: Martwy Punkt",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'O Protocolo Deadlock' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Protocolo Deadlock",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞死鎖協定的登入畫面背景音樂。",
+      "name": "死鎖協定登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน Deadlock Protocol ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "The Deadlock Protocol Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Deadlock Protocol giriş müziğinin keyfini çıkar.",
+      "name": "The Deadlock Protocol Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Протокол „Мертва точка”» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Протокол „Мертва точка”»",
+      "code": "uk"
+    }
+  ]
+}

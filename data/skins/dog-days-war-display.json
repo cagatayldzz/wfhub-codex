@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/DogDays2024Poster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dog-days-war-display-4f18cf9b55.png",
+  "name": "Dog Days War Display",
+  "description": "We've got two words for ya: Soak it!",
+  "languages": [
+    {
+      "description": "Ich sage bloss: Wasserbomben!",
+      "name": "Display: Hitzefrei SCHLACHT",
+      "code": "de"
+    },
+    {
+      "description": "Nous avons deux mots pour vous: faites trempette !",
+      "name": "Affiche WAR Bataille d'Eau",
+      "code": "fr"
+    },
+    {
+      "description": "Abbiamo due parole per te: Vai a fontane!",
+      "name": "Display - GUERRA Dog Days",
+      "code": "it"
+    },
+    {
+      "description": "여러분에게 드릴 두 단어가 있습죠: 흠뻑 젖어보세요!",
+      "name": "도그 데이즈 워 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Tenemos dos palabras para ti: ¡agua va!",
+      "name": "Mostrador de GUERRA de Canícula",
+      "code": "es"
+    },
+    {
+      "description": "两个字：湿透！",
+      "name": "三伏天战争展示图",
+      "code": "zh"
+    },
+    {
+      "description": "У нас есть для вас два слова: замочите их!",
+      "name": "Дисплей: Знойные дни - Война",
+      "code": "ru"
+    },
+    {
+      "description": "ずぶぬれタイム！",
+      "name": "ドッグ・デイズ ウォーズ ディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Mamy dla was trzy słowa: Lać bez rozkazu!",
+      "name": "Wyświetlacz WOJNY Kanikuł",
+      "code": "pl"
+    },
+    {
+      "description": "Apenas duas palavras: encharque tudo!",
+      "name": "Exibidor da Guerra dos Dias de Cão",
+      "code": "pt"
+    },
+    {
+      "description": "我們送你兩個字：濕敗！",
+      "name": "三伏天戰爭展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "เรามีสองสามคำที่อยากบอก: สาดน้ำเลย!",
+      "name": "ภาพดิสเพลย์ Dog Days WAR",
+      "code": "th"
+    },
+    {
+      "description": "Yalnızca iki kelime: Islat gitsin!",
+      "name": "Dog Days SAVAŞ Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "У нас для вас лише два слова: освіжіть усіх!",
+      "name": "Дисплей «Спекотні дні „ВІЙНА”»",
+      "code": "uk"
+    }
+  ]
+}

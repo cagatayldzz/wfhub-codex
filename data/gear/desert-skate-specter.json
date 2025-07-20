@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/SkateBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/desert-skate-specter-7a9bd6a25a.png",
+  "name": "Desert Skate Specter",
+  "description": "Deploys a DESERT SKATE unit to fight for you.",
+  "languages": [
+    {
+      "description": "Setzt einen WÜSTENROCHEN ein, der für dich kämpft.",
+      "name": "Wüstenrochen-Phantom",
+      "code": "de"
+    },
+    {
+      "description": "Déploie une RAIE DU DÉSERT qui se bat pour vous.",
+      "name": "Spectre de Raie du Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega un DESERT SKATE che combatte al tuo fianco.",
+      "name": "Spettro Desert Skate",
+      "code": "it"
+    },
+    {
+      "description": "당신을 위해 싸워줄 데저트 스케이트를 배치합니다.",
+      "name": "데저트 스케이트 스펙터",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega una unidad de RAYA DEL DESIERTO para que luche por ti.",
+      "name": "Espectro de Raya del Desierto",
+      "code": "es"
+    },
+    {
+      "description": "设置一个为你战斗的沙漠鳐鱼魅影。",
+      "name": "沙漠鳐鱼魅影",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт ПЕСЧАНОГО СКАТА, который будет сражаться за вас.",
+      "name": "Спектр пустынного Ската",
+      "code": "ru"
+    },
+    {
+      "description": "デザートスケートを味方として出撃させる。",
+      "name": "デザートスケート スペクター",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy Pustynną Płaszczkę, która walczy po Twojej stronie.",
+      "name": "Widmo Pustynnej Płaszczki",
+      "code": "pl"
+    },
+    {
+      "description": "Posiciona uma unidade da ARRAIA DO DESERTO para lutar por você.",
+      "name": "Espectro da Arraia do Deserto",
+      "code": "pt"
+    },
+    {
+      "description": "設置一個為你戰鬥的沙漠鰩魚魅影。",
+      "name": "沙漠鰩魚魅影",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ยูนิตกระเบนทะเลทรายต่อสู้เพื่อคุณ",
+      "name": "สเปกเตอร์ Desert Skate",
+      "code": "th"
+    },
+    {
+      "description": "Sizin adınıza savaşması için bir DESERT SKATE yaratır.",
+      "name": "Desert Skate Specter",
+      "code": "tr"
+    },
+    {
+      "description": "Викликає пустельного ската, що битиметься на вашому боці.",
+      "name": "Тінь пустельного ската",
+      "code": "uk"
+    }
+  ]
+}

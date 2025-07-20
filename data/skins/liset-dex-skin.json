@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Liset/DexLisetSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/liset-dex-skin-ec6b2828b1.png",
+  "name": "Liset Dex Skin",
+  "description": "A gift from the Lotus to commemorate the anniversary of the first Tenno waking from Cryo statis.",
+  "languages": [
+    {
+      "description": "Ein Geschenk der Lotus, um dem ersten Tenno, der aus der Kryostasis erwachte, zu gedenken.",
+      "name": "Liset-Skin: Dex",
+      "code": "de"
+    },
+    {
+      "description": "Un présent de la part du Lotus pour célébrer l'anniversaire du premier Tenno se réveillant de cryostase.",
+      "name": "Aspect Liset Dex",
+      "code": "fr"
+    },
+    {
+      "description": "Un dono da Lotus per commemorare l'anniversario del risveglio del primo Tenno dalla Criostasi.",
+      "name": "Skin Liset Dex",
+      "code": "it"
+    },
+    {
+      "description": "첫 텐노가 동면장치에서 깨어난 지 6주년을 기념하기 위해 로터스가 당신에게 보낸 선물입니다.",
+      "name": "리셋 덱스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un regalo de Lotus para conmemorar el aniversario del primer tenno en despertar de crioestasis.",
+      "name": "Diseño Dex de Liset",
+      "code": "es"
+    },
+    {
+      "description": "这份来自 Lotus 的礼物是为了纪念第一位 Tenno 从冷冻催眠中醒来。",
+      "name": "Liset Dex 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Особый Дар Лотос, посвящённый шестой годовщине выхода из криосна первого Тэнно.",
+      "name": "Скин Лисета: Декс",
+      "code": "ru"
+    },
+    {
+      "description": "最初のテンノが冷凍睡眠より目覚めた日から6周年目を祝してLotusから贈られるスキン。",
+      "name": "ライセット Dex スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Dar od Lotus dla uczczenia rocznicy wybudzenia pierwszego Tenno z kriostazy.",
+      "name": "Liset: Skórka Deks",
+      "code": "pl"
+    },
+    {
+      "description": "Um presente da Lótus para comemorar o aniversário do primeiro Tenno que acordou da estase criogênica.",
+      "name": "Liset: Skin Dex",
+      "code": "pt"
+    },
+    {
+      "description": "這份來自 Lotus 的禮物是為了紀念第一位從冷凍催眠中醒來 Tenno。",
+      "name": "Liset Dex 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ของขวัญจาก Lotus เพื่อระลึกถึงวันครบรอบที่ Tenno คนแรกตื่นขึ้นจากการอยู่ในสภาวะแช่แข็ง",
+      "name": "สกิน Liset Dex",
+      "code": "th"
+    },
+    {
+      "description": "İlk Tenno'nun derin uykusundan uyanmasının yıldönümüne özel Lotus'un armağanı.",
+      "name": "Liset Dex Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Подарунок Лотос на честь річниці пробудження першого тенно зі стазису.",
+      "name": "Вигляд «Декс» для Лісета",
+      "code": "uk"
+    }
+  ]
+}

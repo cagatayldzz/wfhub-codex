@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bending-will-sigil-b5214402db.png",
+  "name": "Bending Will Sigil",
+  "description": "A sigil representing prestige gained with the Arbiters of Hexis.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei den Arbiters of Hexis repräsentiert.",
+      "name": "Siegel: Biegender Wille",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec les Arbitres de Hexis.",
+      "name": "Sceau du Désir",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Arbiter of Hexis.",
+      "name": "Sigillo Bending Will",
+      "code": "it"
+    },
+    {
+      "description": "아비터즈 오브 헥시스에서 얻은 명예를 대변하는 시질입니다.",
+      "name": "밴딩 윌 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los Árbitros de Hexis.",
+      "name": "Sello de la Voluntad doblegada",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了均衡仲裁者的威望。",
+      "name": "意志屈服纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Арбитров Гексиса.",
+      "name": "Сигил: Гибкая Воля",
+      "code": "ru"
+    },
+    {
+      "description": "アービターズ・オブ・ヘクシスから得た声望を表すシジル。",
+      "name": "Bending Will シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Arbitrów Hexis.",
+      "name": "Znak Ugiętej Woli",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com os Árbitros do Hexis.",
+      "name": "Brasão: Vontade Curvada",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了均衡仲裁者的威望。",
+      "name": "意志屈服紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Arbiters of Hexis",
+      "name": "เครื่องหมาย: Bending Will",
+      "code": "th"
+    },
+    {
+      "description": "Hexis efendilerinin prestijini sembolize eden bir mühür",
+      "name": "Bending Will Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Арбітри Гексису».",
+      "name": "Сиґіл «Гнучка воля»",
+      "code": "uk"
+    }
+  ]
+}

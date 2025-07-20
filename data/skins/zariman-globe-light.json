@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxGlobeLightOrbJustOrb",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-globe-light-28479d15bc.png",
+  "name": "Zariman Globe Light",
+  "description": "A portable globe light.",
+  "languages": [
+    {
+      "description": "Eine tragbare Kugellampe.",
+      "name": "Zariman Kugellampe",
+      "code": "de"
+    },
+    {
+      "description": "Un globe lumineux portatif.",
+      "name": "Zariman: Globe lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Una sfera di luce portatile.",
+      "name": "Sfera di Luce Zariman",
+      "code": "it"
+    },
+    {
+      "description": "휴대용 구체 조명입니다.",
+      "name": "자리만 구체 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Un globo de luz portátil.",
+      "name": "Globo de luz Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个便携式灯球。",
+      "name": "扎里曼灯球",
+      "code": "zh"
+    },
+    {
+      "description": "Переносной сферический светильник.",
+      "name": "Сферический светильник: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "携帯型のグローブライト。",
+      "name": "Zariman グローブライト",
+      "code": "ja"
+    },
+    {
+      "description": "Przenośny iluminator.",
+      "name": "Zariman: Iluminator",
+      "code": "pl"
+    },
+    {
+      "description": "Um globo de luz portátil.",
+      "name": "Globo de Luz da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "手提式燈球。",
+      "name": "扎日曼燈球",
+      "code": "tc"
+    },
+    {
+      "description": "โกลบไลต์แบบพกพา",
+      "name": "Zariman: โกลบไลต์",
+      "code": "th"
+    },
+    {
+      "description": "Taşınabilir bir küre ışığı.",
+      "name": "Zariman Küre Işık",
+      "code": "tr"
+    },
+    {
+      "description": "Переносна світлова куля.",
+      "name": "Світлова куля із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

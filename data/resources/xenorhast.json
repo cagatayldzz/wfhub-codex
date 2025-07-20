@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xenorhast-16a833c1c6.png",
+  "name": "Xenorhast",
+  "description": "A nodule of primordial matter, encysted within Infested flesh.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+  "languages": [
+    {
+      "description": "Ein Knoten aus Urmaterie, eingekapselt in befallenem Fleisch.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+      "name": "Xenorhast",
+      "code": "de"
+    },
+    {
+      "description": "Un nodule de matière primordiale, enchâssé dans la chair des Infestés.\n\nLieu: Puy de Cambion (Deimos) via le minage de Lésions bleues. Cette Gemme rare ne peut être extraite qu'avec le Tailleur Nosam Avancé ou la Perceuse à Plasma Sunpoint.",
+      "name": "Xénorhast",
+      "code": "fr"
+    },
+    {
+      "description": "Un nodulo di materia primordiale incassato dentro la carne infested.\n\nPosizione: Lesioni Minerarie Blu sul Cambion Drift (Deimos). Questa Gemma Rara può essere estratta solamente con il Taglio Nosam Avanzato o il Trapano Sunpoint Plasma.",
+      "name": "Xenorhast",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 살점으로 된 포낭에 싸인 원시물질의 단괴입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 병변에서 찾을 수 있습니다. 이 희귀한 보석은 어드밴스드 노잠 커터 혹은 썬포인트 플라즈마 드릴로만 채굴할 수 있습니다.",
+      "name": "제노라스트",
+      "code": "ko"
+    },
+    {
+      "description": "Un nódulo de materia primordial, enquistado dentro de carne infestada.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules. Esta gema rara sólo se puede extraer con el cortador Nosam avanzado o el taladro de plasma solar.",
+      "name": "Xenorhast",
+      "code": "es"
+    },
+    {
+      "description": "将原始物质包裹在感染肉体内的瘤。 \n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕。这种稀有宝石只能通过高级诺萨姆切割器或阳点等离子钻头开采。",
+      "name": "异源石",
+      "code": "zh"
+    },
+    {
+      "description": "Узелок первичной материи, заключенный в плоти Заражённого.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе. Этот редкий драгоценный камень можно добыть только с помощью усовершенствованного Нозамового резака или Сол-точечного плазменного бура.",
+      "name": "Ксенохраст",
+      "code": "ru"
+    },
+    {
+      "description": "感染組織に包まれた原形物質の結節。\n\n場所：カンビオン荒地（ダイモス）の青い鉱脈。この希少な宝石はアドバンスノサム カッターかサンポイント プラズマドリルでのみ採掘できる。",
+      "name": "ゼノラスト",
+      "code": "ja"
+    },
+    {
+      "description": "Guz pierwotnej materii otorbiony w zainfekowanym ciele.\n\nPołożenie: Niebieskie owrzodzenia w Dryfie Kambionu na Deimosie. Ten rzadki Klejnot może zostać wydobyty wyłącznie z użyciem Zaawansowanego Wiertła Nosam lub Wiertła Plazmowego Sunpoint.",
+      "name": "Ksenorast",
+      "code": "pl"
+    },
+    {
+      "description": "Uma massa nodular de matéria primordial, encistada em carne infestada.\n\nLocalização: em Lesões de Mineração Azuis na Deriva de Cambion, em Deimos. Pode ser extraída somente com o Minerador Nosam Avançado ou com a Broca de Plasma Solar.",
+      "name": "Xenorrasta",
+      "code": "pt"
+    },
+    {
+      "description": "原始物質的一顆結核物，形成胞囊生長在感染的血肉內。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶。這個稀有的寶石只能透過高級諾薩姆切割器或者索拉里斯採礦雷射來採掘。",
+      "name": "異骸石",
+      "code": "tc"
+    },
+    {
+      "description": "ก้อนสสารดึกดำบรรพ์ที่อัดแน่นอยู่ในเนื้อที่ติดเชื้อ\n\nแหล่งที่พบ: สายแร่สีน้ำเงินแคมบิออนดริฟต์ (ดาวเดมอส) อัญมณีหายากประเภทนี้สามารถขุดได้ด้วยเครื่องตัด Nosam ขั้นสูงหรือเครื่องเจาะ Sunpoint Plasma เท่านั้น",
+      "name": "ซีนอราสต์",
+      "code": "th"
+    },
+    {
+      "description": "Infested dokusunun içinde yer alan ilkel maddeden oluşan bir yumru.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarından bulunabilir. Bu Nadir Mücevher yalnızca Gelişmiş Nosam Kesici veya Sunpoint Plazma Kazıcısı ile çıkarılabilir.",
+      "name": "Xenorhast",
+      "code": "tr"
+    },
+    {
+      "description": "Частка первинної матерії, занурена в заражену плоть.\n\nМожна здобути з синіх лезій у Кембіонській течії (Деймос). Видобуток можливий лише за наявності поліпшеного різака «Нозам» або плазмового бура «Промінь».",
+      "name": "Ксенораст",
+      "code": "uk"
+    }
+  ]
+}

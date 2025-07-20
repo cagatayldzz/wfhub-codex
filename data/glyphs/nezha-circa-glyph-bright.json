@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNezhaAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nezha-circa-glyph---bright-52f145d533.png",
+  "name": "Nezha Circa Glyph - Bright",
+  "description": "A glyph depicting Nezha Circa on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nezha Circa vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nezha Circa (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nezha Circa sur un fond lumineux.",
+      "name": "Glyphe Nezha Circa - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Circa Nezha su uno sfondo chiaro.",
+      "name": "Glifo Nezha Circa - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 서카 나타를 묘사한 글리프입니다.",
+      "name": "나타 서카 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Circa de Nezha sobre un fondo brillante.",
+      "name": "Glifo de Nezha Circa - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nezha 奇尔卡在明亮背景下的浮印。",
+      "name": "Nezha 奇尔卡浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Нэчжи «Цирка» на светлом фоне.",
+      "name": "Глиф: Нэчжа Цирка - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Nezha Circa のグリフ。",
+      "name": "Nezha Circa グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Nezha Circa na jasnym tle.",
+      "name": "Glif Nezha Circa — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Nezha Circa em um fundo claro.",
+      "name": "Glifo: Nezha Circa (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nezha 奇爾卡在明亮背景下的浮印。",
+      "name": "Nezha 奇爾卡浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nezha Circa บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nezha Circa - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nezha Circa açık fonlu glif.",
+      "name": "Nezha Circa Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Неджи в шоломі «Цирка» на світлому тлі.",
+      "name": "Яскравий гліф «Неджа „Цирка“»",
+      "code": "uk"
+    }
+  ]
+}

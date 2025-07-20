@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/DeraIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dera-incarnon-genesis-8e5a4b4202.png",
+  "name": "Dera Incarnon Genesis",
+  "description": "Awaken this weapon's ability to fire high power beams and gain <DT_MAGNETIC_COLOR>Magnetic Damage.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe Hochleistungsstrahlen abzufeuern und <DT_MAGNETIC_COLOR>Magnetismusschaden zu verursachen.",
+      "name": "Incarnon-Genesis: Dera",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à tirer un puissant rayon et à générer des Dégâts <DT_MAGNETIC_COLOR>Magnétiques.",
+      "name": "Dera Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia la capacità di quest'arma di sparare raggi ad alta potenza e ottenere Danni <DT_MAGNETIC_COLOR>Magnetici.",
+      "name": "Dera Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 고화력의 빔을 발사할 수 있으며, <DT_MAGNETIC_COLOR>자성 피해를 적용받습니다.",
+      "name": "데라 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la habilidad de esta arma para disparar rayos de alta potencia y ganar daño <DT_MAGNETIC_COLOR>magnético.",
+      "name": "Dera Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有发射高能光束并造成 <DT_MAGNETIC_COLOR>磁力伤害的能力。",
+      "name": "德拉灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия стрелять мощными лучами и наносить <DT_MAGNETIC_COLOR>магнитный урон.",
+      "name": "Генезис Инкарнона: Дера",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、高出力のビームを発射し、<DT_MAGNETIC_COLOR>磁気ダメージを得る。",
+      "name": "Dera インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wystrzeliwuje potężne promienie zadające dodatkowe <DT_MAGNETIC_COLOR> Obr. Magnetyczne.",
+      "name": "Geneza Inkarnon: Dera",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de disparar feixes de alta potência e ganhar Dano <DT_MAGNETIC_COLOR>Magnético.",
+      "name": "Encarnação Gênese da Dera",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下發射高能量光束並獲得<DT_MAGNETIC_COLOR>磁力傷害。",
+      "name": "德拉應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ในการยิงลำแสงพลังสูงและสร้างความเสียหาย <DT_MAGNETIC_COLOR>แม่เหล็ก",
+      "name": "Dera Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın yüksek güçlü ışınlar ateşleme yeteneğini uyandır ve <DT_MAGNETIC_COLOR>Manyetik Hasarı kazan.",
+      "name": "Dera Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, щоб випускати потужні промені з <DT_MAGNETIC_COLOR>магнетичною шкодою.",
+      "name": "Інкарнонський генезис: Дера",
+      "code": "uk"
+    }
+  ]
+}

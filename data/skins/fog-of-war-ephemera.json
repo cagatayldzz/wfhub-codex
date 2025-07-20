@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/SmokeEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fog-of-war-ephemera-a3a155b696.png",
+  "name": "Fog Of War Ephemera",
+  "description": "Emerge from the fog of war unscathed.",
+  "languages": [
+    {
+      "description": "Erhebe dich unbeschadet aus dem Nebel des Krieges.",
+      "name": "Ephemera: Nebel des Krieges",
+      "code": "de"
+    },
+    {
+      "description": "Sortez indemne du brouillard de la guerre.",
+      "name": "Ephemera Brume de Guerre",
+      "code": "fr"
+    },
+    {
+      "description": "Emergi illeso dalla nebbia della guerra.",
+      "name": "Ephemera Fog of War",
+      "code": "it"
+    },
+    {
+      "description": "전쟁의 안개 속에서 흠집 하나 없이 모습을 드러내 보세요.",
+      "name": "포그 오브 워 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Emerge ileso de la niebla de la guerra.",
+      "name": "Efímero Niebla de guerra",
+      "code": "es"
+    },
+    {
+      "description": "毫发无伤地从战争迷雾中现身。",
+      "name": "战争迷雾幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Выйдите невредимыми из тумана войны.",
+      "name": "Эфемера: Туман войны",
+      "code": "ru"
+    },
+    {
+      "description": "このエフェメラを装備して、激しい戦いを生き延びよう。",
+      "name": "Fog of War エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Wyłoń się niedraśnięty z mgły wojny.",
+      "name": "Efemera Mgły Wojny",
+      "code": "pl"
+    },
+    {
+      "description": "Emerja ileso da névoa da guerra.",
+      "name": "Efêmera: Névoa da Guerra",
+      "code": "pt"
+    },
+    {
+      "description": "從戰爭迷霧之中毫髮無傷地現身。",
+      "name": "戰爭迷霧幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "โผล่ออกมาจากหมอกแห่งสงครามโดยไม่ได้รับบาดเจ็บอะไรเลย",
+      "name": "อิเฟมเมอรา Fog of War",
+      "code": "th"
+    },
+    {
+      "description": "Savaş sisinden yara almadan çık.",
+      "name": "Fog of War Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Виринайте неушкодженими з туману війни.",
+      "name": "Ефемера «Туман війни»",
+      "code": "uk"
+    }
+  ]
+}

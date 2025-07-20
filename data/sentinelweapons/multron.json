@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/multron-d133e0fc4e.png",
+  "name": "Multron",
+  "description": "Launches a volley of bomb darts that embed themselves in targets, exploding a short time later.",
+  "languages": [
+    {
+      "description": "Feuert eine Salve Bombenpfeile ab, die sich in Zielen einbetten und kurze Zeit später explodieren.",
+      "name": "Multron",
+      "code": "de"
+    },
+    {
+      "description": "Lance une volée de fléchettes explosives qui s'enfoncent dans les cibles et explosent peu de temps après.",
+      "name": "Multron",
+      "code": "fr"
+    },
+    {
+      "description": "Lancia una raffica di dardi esplosivi che si conficcano nei bersagli, esplodendo poco dopo.",
+      "name": "Multron",
+      "code": "it"
+    },
+    {
+      "description": "목표물에 박히고 잠시 후 폭발하는 다트 폭탄을 연발로 발사합니다.",
+      "name": "멀트론",
+      "code": "ko"
+    },
+    {
+      "description": "Lanza una ráfaga de dardos bomba que se incrustan en los objetivos y explotan poco tiempo después.",
+      "name": "Multron",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MULTRON）发射一连串炸弹飞镖，嵌入目标中并在短时间后爆炸。",
+      "name": "多连穿甲枪",
+      "code": "zh"
+    },
+    {
+      "description": "Выпускает залп дротиковых бомб, которые вонзаются в цели и взрываются через некоторое время.",
+      "name": "Мультрон",
+      "code": "ru"
+    },
+    {
+      "description": "標的に撃ち込まれ、しばらくして爆発する爆弾ダーツを一斉射撃する。",
+      "name": "Multron",
+      "code": "ja"
+    },
+    {
+      "description": "Wystrzeliwuje serię bomb, które wybuchają krótko po wbiciu się w cel.",
+      "name": "Multron",
+      "code": "pl"
+    },
+    {
+      "description": "Lançará uma saraivada de dardos explosivos que se cravam nos inimigos, explodindo logo em seguida.",
+      "name": "Multron",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MULTRON）連續發射爆炸型飛鏢，嵌入目標身上並於短時間內爆炸。",
+      "name": "多連穿甲槍",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงลูกดอกระเบิดออกมาเป็นชุดที่จะฝังอยู่ในตัวเป้าหมาย ก่อนที่จะระเบิดในเวลาไม่นานหลังจากนั้น",
+      "name": "Multron",
+      "code": "th"
+    },
+    {
+      "description": "Hedeflere saplanan ve kısa bir süre sonra patlayan bir dizi patlayıcı ok fırlatır.",
+      "name": "Multron",
+      "code": "tr"
+    },
+    {
+      "description": "Випускає залп дротиків, які впиваються в ціль і вибухають згодом.",
+      "name": "Мултрон",
+      "code": "uk"
+    }
+  ]
+}

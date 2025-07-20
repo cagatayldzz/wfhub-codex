@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/OdaliskSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/protea-skin-637904d71e.png",
+  "name": "Protea Skin",
+  "description": "The standard issue skin for the Protea Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Protea Warframe.",
+      "name": "Protea-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Protea.",
+      "name": "Aspect Protea",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Protea.",
+      "name": "Skin Protea",
+      "code": "it"
+    },
+    {
+      "description": "프로티아 워프레임을 위한 기본 스킨입니다.",
+      "name": "프로티아 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Protea.",
+      "name": "Diseño de Protea",
+      "code": "es"
+    },
+    {
+      "description": "Protea 的标准外观配置。",
+      "name": "Protea 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Протеи.",
+      "name": "Скин Протеи",
+      "code": "ru"
+    },
+    {
+      "description": "Proteaの標準型スキン。",
+      "name": "Protea スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Protea.",
+      "name": "Protea: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Protea.",
+      "name": "Protea: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Protea 的標準外觀配置。",
+      "name": "Protea 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Protea Warframe",
+      "name": "สกิน Protea",
+      "code": "th"
+    },
+    {
+      "description": "Protea Warframe için standart skin.",
+      "name": "Protea Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Протеї.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

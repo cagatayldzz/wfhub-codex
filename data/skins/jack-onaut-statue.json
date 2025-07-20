@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/JackONaughtBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jack-o'naut-statue-03b886d49f.png",
+  "name": "Jack O'Naut Statue",
+  "description": "A small Jack O'Naut Statue.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Jack O'Naut.",
+      "name": "Noggle-Statue: Jack O'Naut",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue de Jack O'Naut.",
+      "name": "Statue de Jack O'Naut",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola Statuetta di Jack O'Naut.",
+      "name": "Statuetta Jack O'Naut",
+      "code": "it"
+    },
+    {
+      "description": "작은 잭오넛 동상입니다.",
+      "name": "잭오넛 스태츄",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua de Jack O'Naut.",
+      "name": "Estatua de Jack O'Naut",
+      "code": "es"
+    },
+    {
+      "description": "一小座南瓜巨兽雕像。",
+      "name": "南瓜巨兽雕像",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Джека О'Наута.",
+      "name": "Статуя: Джек O'Наут",
+      "code": "ru"
+    },
+    {
+      "description": "小さなジャガノ=ランタンの彫像。",
+      "name": "ジャガノ=ランタン像",
+      "code": "ja"
+    },
+    {
+      "description": "Mała Statuetka Jack O'Naut.",
+      "name": "Statuetka Jack O'Naut",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pequena Estátua do Jack O'Naut.",
+      "name": "Estátua do Jack O'Naut",
+      "code": "pt"
+    },
+    {
+      "description": "小型的傑克南瓜雕像。",
+      "name": "傑克南瓜雕像",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้น Jack O'Naut ขนาดเล็ก",
+      "name": "รูปปั้น Jack O'Naut",
+      "code": "th"
+    },
+    {
+      "description": "Küçük bir Jack O'Naut Heykeli.",
+      "name": "Jack O'Naut Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Маленька статуетка Джека О’Навта.",
+      "name": "Статуетка «Джек О’Навт»",
+      "code": "uk"
+    }
+  ]
+}

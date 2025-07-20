@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rune-marrow-d8e84c9ef1.png",
+  "name": "Rune Marrow",
+  "description": "Rune Marrow erupts from Duviri’s core.\n\nLocation: The Undercroft in Duviri",
+  "languages": [
+    {
+      "description": "Runenmark bricht aus Duviris Innerstem hervor.\n\nQuelle: In der Gruft in Duviri",
+      "name": "Runenmark",
+      "code": "de"
+    },
+    {
+      "description": "La Rune de Moelle jaillit du noyau de Duviri.\n\nLieu: L'Hypogée, à Duviri",
+      "name": "Rune de Moelle",
+      "code": "fr"
+    },
+    {
+      "description": "Il Midollo Runico erutta dal nucleo di Duviri.\n\nPosizione: Ipogeo (Duviri)",
+      "name": "Midollo Runico",
+      "code": "it"
+    },
+    {
+      "description": "룬 골수는 두비리의 핵으로부터 솟아오릅니다.\n\n획득 가능 장소: 두비리의 지하실",
+      "name": "룬 골수",
+      "code": "ko"
+    },
+    {
+      "description": "La médula rúnica brota del núcleo de Duviri.\n\nUbicación: La Cripta en Duviri",
+      "name": "Médula rúnica",
+      "code": "es"
+    },
+    {
+      "description": "密印髓质从双衍王境的核心中喷出。\n\n获取地点：双衍王境地穴",
+      "name": "密印髓质",
+      "code": "zh"
+    },
+    {
+      "description": "Руническая сущность вырывается из ядра Дувири.\n\nМестонахождение: Подземелье в Дувири",
+      "name": "Руническая сущность",
+      "code": "ru"
+    },
+    {
+      "description": "ルーン・マロウはデュヴィリのコアから噴出する。\n\n場所：デュヴィリ（アンダークロフト）",
+      "name": "ルーン・マロウ",
+      "code": "ja"
+    },
+    {
+      "description": "Szpik Runiczny, który pochodzi z rdzenia Duviri.\n\nPołożenie: Podziemia w Duviri",
+      "name": "Szpik Runiczny",
+      "code": "pl"
+    },
+    {
+      "description": "A Medula Rúnica emana do núcleo de Duviri.\n\nLocalização: na Cripta, em Duviri",
+      "name": "Medula Rúnica",
+      "code": "pt"
+    },
+    {
+      "description": "盧恩骨髓從渡域的內核噴發。\n\n地點：渡域的地窟",
+      "name": "盧恩骨髓",
+      "code": "tc"
+    },
+    {
+      "description": "ไขกระดูกรูนที่หลุดออกมาจากแกนของ Duviri\n\nแหล่งที่พบ: อันเดอร์ครอฟต์ใน Duviri",
+      "name": "ไขกระดูกรูน",
+      "code": "th"
+    },
+    {
+      "description": "Runik İliği, Duviri'nin çekirdeğinden yüzeye çıkıyor.\n\nKonum: Yeraltı Dünyası, Duviri",
+      "name": "Runik İliği",
+      "code": "tr"
+    },
+    {
+      "description": "З ядра Дувірі виростає рунічне суцвіття.\n\nМожна здобути в Крипті (Дувірі).",
+      "name": "Рунічне суцвіття",
+      "code": "uk"
+    }
+  ]
+}

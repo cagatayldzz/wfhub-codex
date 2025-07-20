@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/paris-prime-0423f3edf6.png",
+  "name": "Paris Prime",
+  "description": "Discovered deep inside an ancient Orokin derelict, the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart.",
+  "languages": [
+    {
+      "description": "Der in einem Orokin Wrack gefundene Paris Prime erhöht die kinetische Energie jedes abgeschossenen Pfeils. Daher erzielt er höheren Schaden als sein weiter verbreitetes Gegenstück.",
+      "name": "Paris Prime",
+      "code": "de"
+    },
+    {
+      "description": "Découvert au fin fond d'un antique temple Orokin en ruine, le Paris Prime augmente l'énergie cinétique de chaque flèche qu'il tire, infligeant plus de Dégâts que son homologue plus commun.",
+      "name": "Paris Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Scoperto all'interno di un antico relitto Orokin, il Paris Prime aumenta l'energia cinetica di ogni dardo sparato, infliggendo un danno maggiore rispetto alla sua controparte più comune.",
+      "name": "Paris Prime",
+      "code": "it"
+    },
+    {
+      "description": "잊혀진 오로킨 유적지 깊숙한 곳에서 발견된 패리스 프라임은 어떠한 화살을 쏘더라도 더 향상된 물리능력을 보여줍니다, 일반적인 패리스보다 더 향상된 피해량를 가지고 있습니다.",
+      "name": "패리스 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Descubierto en las profundidades de un antiguo derrelicto orokin, el Paris Prime aumenta la energía cinética de cualquier flecha que dispara, causando más daño que su contraparte más común.",
+      "name": "Paris Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PARIS PRIME）从遗弃的古老 Orokin 船只的深处中发现的帕里斯 Prime，比原版提升了更多箭矢的动能，能造成更多的伤害。",
+      "name": "帕里斯 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Обнаруженный глубоко внутри древних руин Орокин, Парис Прайм значительно увеличивает кинетическую энергию выпущенных стрел, нанося больший урон, чем его обычная версия.",
+      "name": "Парис Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキンの遺跡奥深くに眠っていた古代の弓矢。通常のモデルより強力なエネルギーを帯びており、一層高い攻撃力を誇っている。",
+      "name": "Paris Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Odnaleziony głęboko wewnątrz starożytnych ruin Orokin, Paris Prime zwiększa energię kinetyczną każdego wystrzeliwanego pocisku i zadaje większe obrażenia niż popularny odpowiednik tej broni.",
+      "name": "Paris Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Descoberta em um local profundo em meio à antigos detritos Orokin, a Paris Prime aumenta a Energia cinética de qualquer flecha que dispara, causando maior dano do que sua versão comum.",
+      "name": "Paris Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PARIS PRIME）從遺棄的古老 Orokin 船隻的深處中發現的帕里斯 Prime，比原版提升了更多箭矢的動能，能造成更多的傷害。",
+      "name": "帕里斯 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ค้นพบอาวุธลึกลงไปในซาก Orokin โบราณที่ถูกทิ้งร้าง Paris Prime จะเพิ่มพลังงานจลน์ของลูกศรที่ยิงออกไป สร้างความเสียหายได้มากกว่าอาวุธธรรมดาที่คล้ายกัน",
+      "name": "Paris Prime",
+      "code": "th"
+    },
+    {
+      "description": "Antik bir Orokin harabesinin derinliklerinde keşfedilen Paris Prime, attığı kısa okun kinetik enerjisini yükseltir. Benzerlerinden daha fazla zarar verir.",
+      "name": "Paris Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Модифікована версія орокінського лука «Паріс». Уперше знайдений у глибинах прадавнього орокінського зорельота-блукача. Значно збільшує кінетичну енергію болтів, завдаючи більше шкоди.",
+      "name": "Паріс-прайм",
+      "code": "uk"
+    }
+  ]
+}

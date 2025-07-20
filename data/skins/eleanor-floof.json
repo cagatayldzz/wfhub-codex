@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eleanor-floof-f8ca204bf4.png",
+  "name": "Eleanor Floof",
+  "description": "Eleanor's cuddly replica, guaranteed not to get in your head or bare her fangs at you.",
+  "languages": [
+    {
+      "description": "Eleanors knuddelige Nachbildung, die garantiert nicht in deinem Kopf herumspukt oder ihre Zähne fletscht.",
+      "name": "Floof: Eleanor",
+      "code": "de"
+    },
+    {
+      "description": "La réplique câline d'Eleanor, elle ne rentrera pas dans votre tête et ne vous montrera pas ses crocs.",
+      "name": "Peluche Eleanor",
+      "code": "fr"
+    },
+    {
+      "description": "La replica coccolosa di Eleanor, che non ti entrerà nella testa né ti mostrerà i canini.",
+      "name": "Floof Eleanor",
+      "code": "it"
+    },
+    {
+      "description": "엘리노어의 포근한 복제 인형으로, 절대 여러분의 머릿속에 들어가거나 송곳니를 들이대지 않을 겁니다.",
+      "name": "엘레노어 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Esta adorable réplica de Eleanor no se meterá en tu cabeza ni te mostrará los dientes.",
+      "name": "Floof de Eleanor",
+      "code": "es"
+    },
+    {
+      "description": "埃莉诺的可爱复制品，保证不会钻入你的脑袋，也不会对你露出尖牙。",
+      "name": "埃莉诺玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Мягкая копия Элеоноры, которая гарантированно не залезет вам в голову и не обнажит на вас свои клыки.",
+      "name": "Пушистик: Элеонора",
+      "code": "ru"
+    },
+    {
+      "description": "Eleanorのかわいいレプリカ。頭の中に入り込んだり、牙を剥いたりしない保証付き。",
+      "name": "Eleanorのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Przytulna replika Eleanor, która z pewnością nie będzie szperać ci w głowie i nie pokaże ci kłów.",
+      "name": "Pluszak Eleanor",
+      "code": "pl"
+    },
+    {
+      "description": "A réplica fofinha da Eleanor, com garantia de não ler sua mente nem mostrar suas presas para você.",
+      "name": "Floof: Eleanor",
+      "code": "pt"
+    },
+    {
+      "description": "愛琳娜的可愛複製品，保證不會鑽入你的頭腦或向你露出尖牙。",
+      "name": "愛琳娜玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "ตุ๊กตาที่ถอดแบบมาจาก Eleanor ที่น่ารักน่ากอดตัวนี้ รับรองเลยว่าจะไม่แอบเข้าไปดูในหัวของคุณหรือขู่คุณด้วยคมเขี้ยวแน่นอน",
+      "name": "ตุ๊กตา Eleanor",
+      "code": "th"
+    },
+    {
+      "description": "Eleanor'un bu sevimli kopyası, kafana girmeyecek veya dişlerini sana göstermeyecek.",
+      "name": "Eleanor Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "М’якенька копія Елеонори, котра гарантовано не залізе вам у голову (і не відкусить її своїми іклами).",
+      "name": "Плюш «Елеонора»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kintsukuroi/KintsukuroiStaff",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bo-kintsugi-skin-d3164ed273.png",
+  "name": "Bo Kintsugi Skin",
+  "description": "Repaired with golden-alloys, this battle-scarred Bo has been transformed into an object of beauty.",
+  "languages": [
+    {
+      "description": "Mit einer Goldlegierung instandgesetzt, wurde dieser, vom Kampf gezeichnete Bo in ein Objekt der Schönheit verwandelt.",
+      "name": "Bo-Skin: Kintsugi",
+      "code": "de"
+    },
+    {
+      "description": "Réparé avec des alliages dorés, ce Bo marqué par la bataille a été transformé en objet de toute beauté.",
+      "name": "Aspect Bo Kintsugi",
+      "code": "fr"
+    },
+    {
+      "description": "Riparato con leghe d'oro, questo Bo segnato dalla battaglia è stato trasformato in un oggetto di bellezza.",
+      "name": "Skin Bo Kintsugi",
+      "code": "it"
+    },
+    {
+      "description": "금빛의 합금으로 수리된 전쟁의 흉터를 자랑하는 보가 그 아름다움을 간직한 미의 대상으로 다시 살아났습니다.",
+      "name": "보 킨츠기 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Reparada con aleación de oro, este Bo con cicatrices de batalla ha sido transformado en un objeto de belleza.",
+      "name": "Diseño Kintsugi de Bo",
+      "code": "es"
+    },
+    {
+      "description": "用金色合金修复后，这把战痕累累的玻之武杖已经转化为一件优美的物件。",
+      "name": "玻之武杖 金继外观",
+      "code": "zh"
+    },
+    {
+      "description": "Отремонтированный сплавами из золота, этот закалённый в боях Бо стал объектом восхищения.",
+      "name": "Скин Бо: Кинцуги",
+      "code": "ru"
+    },
+    {
+      "description": "金アロイで練成されたBoスキン。",
+      "name": "Bo Kintsugi スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Naprawiony dzięki złotym stopom, ten zaprawiony w boju Bo odzyskuje swoje piękno.",
+      "name": "Bo: Skórka Kintsugi",
+      "code": "pl"
+    },
+    {
+      "description": "Reparada com ligas de ouro, esta Bo foi transformada em um objeto de beleza.",
+      "name": "Bo: Skin Kintsugi",
+      "code": "pt"
+    },
+    {
+      "description": "利用金色合金修復後，這把戰痕累累的玻之武杖已經轉化為一件優美之物。",
+      "name": "玻之武杖 金繼外觀",
+      "code": "tc"
+    },
+    {
+      "description": "Bo ที่มีรอยถลอกมาจากการสู้รบได้รับการซ่อมแซมด้วยโลหะผสมทองคำ กลายเป็นวัตถุที่แสนงดงาม",
+      "name": "สกิน Bo Kintsugi",
+      "code": "th"
+    },
+    {
+      "description": "Altın alaşımlarla tamir edilmiş bu Bo silahı bir sanat eserine dönüştürüldü",
+      "name": "Bo Kintsugi Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Понівечений у боях посох «Бо» перетворився на предмет краси після лагодження поверхні золотими сплавами.",
+      "name": "Вигляд «Кінцуґі» для Бо",
+      "code": "uk"
+    }
+  ]
+}

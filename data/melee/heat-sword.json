@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heat-sword-63b607c569.png",
+  "name": "Heat Sword",
+  "description": "A strong blade capable of inflicting <DT_SLASH_COLOR>Slash Damage to its foes.",
+  "languages": [
+    {
+      "description": "Eine starke Klinge, die in der Lage dazu ist, <DT_SLASH_COLOR>Schnittschaden an den Gegnern zu verursachen.",
+      "name": "Hitzeschwert",
+      "code": "de"
+    },
+    {
+      "description": "Une lame solide capable d'infliger des Dégâts <DT_SLASH_COLOR>Tranchants à ses ennemis.",
+      "name": "Épée de Chaleur",
+      "code": "fr"
+    },
+    {
+      "description": "Una lama potente in grado di infliggere Danno <DT_SLASH_COLOR>Taglio ai suoi nemici.",
+      "name": "Heat Sword",
+      "code": "it"
+    },
+    {
+      "description": "적들에게 <DT_SLASH_COLOR>베기 피해를 가할 수 있는 강력한 검입니다.",
+      "name": "히트 소드",
+      "code": "ko"
+    },
+    {
+      "description": "Una poderosa espada capaz de infligir daño <DT_SLASH_COLOR>cortante a sus enemigos.",
+      "name": "Espada de calor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：HEAT SWORD）其强力的刀刃能对敌人造成 <DT_SLASH_COLOR>切割伤害。",
+      "name": "烈焰长剑",
+      "code": "zh"
+    },
+    {
+      "description": "Прочный клинок, наносящий целям <DT_SLASH_COLOR>разрезающий урон.",
+      "name": "Пылающий меч",
+      "code": "ru"
+    },
+    {
+      "description": "どんな敵にも <DT_SLASH_COLOR>切断ダメージを与える強力な刃。",
+      "name": "Heat Sword",
+      "code": "ja"
+    },
+    {
+      "description": "Mocne ostrze zdolne do zadawania wrogom obrażeń <DT_SLASH_COLOR>Tnących.",
+      "name": "Miecz Żaru",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lâmina forte capaz de aplicar Dano <DT_SLASH_COLOR>Cortante nos inimigos.",
+      "name": "Espada Ígnea",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：HEAT SWORD）其強力的刀刃能對敵人造成 <DT_SLASH_COLOR> 切割傷害。",
+      "name": "烈焰長劍",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบอันทรงพลังที่สามารถสร้างความเสียหายจาก <DT_SLASH_COLOR>การฟันให้กับศัตรูได้",
+      "name": "Heat Sword",
+      "code": "th"
+    },
+    {
+      "description": "Rakiplerine <DT_SLASH_COLOR>Kesme hasarı verebilen güçlü bir kılıç.",
+      "name": "Heat Sword",
+      "code": "tr"
+    },
+    {
+      "description": "Меч із загартованим клинком, завдає <DT_SLASH_COLOR>різальної шкоди.",
+      "name": "Вогнемеч",
+      "code": "uk"
+    }
+  ]
+}

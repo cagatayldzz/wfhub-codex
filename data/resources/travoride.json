@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/travoride-9447de114f.png",
+  "name": "Travoride",
+  "description": "A mineral hardened by the crushing pressure of the Venusian atmosphere.\n\nLocation: Orb Vallis (Venus) from Red Mining Veins and Resource Containers",
+  "languages": [
+    {
+      "description": "Ein Mineral, das durch den massiven Druck der Venusatmosphäre gehärtet wurde.\n\nQuelle: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
+      "name": "Travorid",
+      "code": "de"
+    },
+    {
+      "description": "Un minéral durci par la pression écrasante de l'atmosphère vénusienne.\n\nLieu: Vallée Orbis (Vénus), via le minage de Veines rouges et dans les conteneurs de Ressources",
+      "name": "Travoride",
+      "code": "fr"
+    },
+    {
+      "description": "Un minerale indurito dalla pressione estrema dell'atmosfera Venusiana.\n\nPosizione: Venature Minerarie Rosse e nei contenitori di risorse sparsi per Orb Vallis (Venere)",
+      "name": "Travoride",
+      "code": "it"
+    },
+    {
+      "description": "금성의 무거운 대기에 의해 굳어진 광물입니다.\n\n획득 가능 장소: 오브 협곡 (금성) 내 빨간 광맥과 협곡 전역의 자원 컨테이너에서 찾을 수 있습니다",
+      "name": "트래보라이드",
+      "code": "ko"
+    },
+    {
+      "description": "Un mineral endurecido por la aplastante presión de la atmósfera venusiana.\n\nUbicación: Valles del Orbe (Venus), en las vetas mineras rojas y en los contenedores de recursos",
+      "name": "Travorida",
+      "code": "es"
+    },
+    {
+      "description": "一种被金星的巨大气压硬化的矿物。\n\n获取地点：奥布山谷（金星）里的红色矿脉、资源储藏箱",
+      "name": "铁镍矿",
+      "code": "zh"
+    },
+    {
+      "description": "Минерал, закалённый сокрушительным давлением Венерианской атмосферы.\n\nМесто нахождения: месторождения красной руды Долины Сфер на Венере и в контейнерах.",
+      "name": "Траворид",
+      "code": "ru"
+    },
+    {
+      "description": "金星の高圧大気によって硬化した鉱物。 \n\n場所：オーブ峡谷（金星）の赤い鉱脈、地形上の素材コンテナ。",
+      "name": "トラボライド",
+      "code": "ja"
+    },
+    {
+      "description": "Minerał utwardzony przez miażdżący nacisk wenusjańskiej atmosfery.\n\nPołożenie: Złoża czerwonej rudy i pojemniki z zasobami w Orb Vallis na Wenus.",
+      "name": "Travoryt",
+      "code": "pl"
+    },
+    {
+      "description": "Um mineral fortalecido pela esmagadora pressão atmosférica venusiana.\n\nLocalização: em Veias de Mineração Vermelhas e contêineres de recursos espalhados pelo Vallis das Orbes, em Vênus.",
+      "name": "Travoride",
+      "code": "pt"
+    },
+    {
+      "description": "一種被金星的巨大大氣壓硬化的礦物。\n\n來源：奧布山谷（金星）上的紅色礦脈以及資源儲存容器。",
+      "name": "鐵鎳礦",
+      "code": "tc"
+    },
+    {
+      "description": "แร่ที่แข็งตัวจากแรงกดทับของชั้นบรรยากาศบนดาวศุกร์\n\nแหล่งที่พบ: พบได้จากสายแร่สีแดงและกล่องเก็บทรัพยากรในออร์บวัลลิส (ดาวศุกร์)",
+      "name": "ทราโวไรด์",
+      "code": "th"
+    },
+    {
+      "description": "Venüs atmosferinin ezici basıncıyla sertleşen bir mineral.\n\nLocation: Venüs'te yer alan Orb Vallis'teki Kızıl Maden Damarlarında ve kaynak konteynırlarında bulunabilir",
+      "name": "Travoride",
+      "code": "tr"
+    },
+    {
+      "description": "Мінерал, зміцнений надзвичайним атмосферним тиском Венери.\n\nМожна здобути з червоних жил та контейнерів з ресурсами у Долині Куль (Венера).",
+      "name": "Траворид",
+      "code": "uk"
+    }
+  ]
+}

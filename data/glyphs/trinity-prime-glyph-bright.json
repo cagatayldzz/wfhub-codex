@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trinity-prime-glyph---bright-4ca3233ae5.png",
+  "name": "Trinity Prime Glyph - Bright",
+  "description": "A glyph depicting Trinity Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Trinity Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Trinity Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Trinity Prime sur un fond lumineux.",
+      "name": "Glyphe Trinity Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Trinity Prime su uno sfondo chiaro.",
+      "name": "Glifo Trinity Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 트리니티 프라임을 묘사한 글리프입니다.",
+      "name": "트리니티 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Trinity Prime sobre un fondo brillante.",
+      "name": "Glifo de Trinity Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Trinity Prime 在明亮背景下的浮印。",
+      "name": "Trinity Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Тринити Прайм на светлом фоне.",
+      "name": "Глиф: Тринити Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Trinity Prime のグリフ。",
+      "name": "Trinity Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Trinity Prime na jasnym tle.",
+      "name": "Glif Trinity Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Trinity Prime em um fundo claro.",
+      "name": "Glifo: Trinity Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Trinity Prime 在明亮背景下的浮印。",
+      "name": "Trinity Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Trinity Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Trinity Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Trinity Prime açık fonlu glif.",
+      "name": "Trinity Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Трініті-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Трініті-прайм»",
+      "code": "uk"
+    }
+  ]
+}

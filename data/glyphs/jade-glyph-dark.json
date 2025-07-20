@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageJadeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-glyph---dark-b6ff5b4a5a.png",
+  "name": "Jade Glyph - Dark",
+  "description": "A glyph depicting Jade on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Jade vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Jade (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Jade sur un fond sombre.",
+      "name": "Glyphe Jade - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Jade su uno sfondo scuro.",
+      "name": "Glifo Jade - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 제이드를 묘사한 글리프입니다.",
+      "name": "제이드 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Jade sobre un fondo oscuro.",
+      "name": "Glifo de Jade - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Jade 在黑暗背景下的浮印。",
+      "name": "Jade 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Джейд на тёмном фоне.",
+      "name": "Глиф: Джейд — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたJadeのグリフ。",
+      "name": "Jade グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Jade na ciemnym tle.",
+      "name": "Glif Jade — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Jade em um fundo escuro.",
+      "name": "Glifo: Jade (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Jade 在黑暗背景下的浮印。",
+      "name": "Jade 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Jade บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Jade - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Jade koyu fonlu glif.",
+      "name": "Jade Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Джейд на темному тлі.",
+      "name": "Темний гліф «Джейд»",
+      "code": "uk"
+    }
+  ]
+}

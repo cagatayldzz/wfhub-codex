@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerPartC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mandachord-bridge-4343910df2.png",
+  "name": "Mandachord Bridge",
+  "description": "A crucial component of the Mandachord instrument.",
+  "languages": [
+    {
+      "description": "Eine entscheidende Komponente des Mandachord Instruments.",
+      "name": "Mandachord: Brücke",
+      "code": "de"
+    },
+    {
+      "description": "Un composant crucial de l'instrument Mandaccord.",
+      "name": "Chevalet de Mandaccord",
+      "code": "fr"
+    },
+    {
+      "description": "Un componente cruciale dello strumento Mandachord.",
+      "name": "Mandachord - Ponticello",
+      "code": "it"
+    },
+    {
+      "description": "만다코드 악기의 중요 부품입니다.",
+      "name": "만다코드 브릿지",
+      "code": "ko"
+    },
+    {
+      "description": "Un componente crucial del instrumento Mandacordio.",
+      "name": "Puente de Mandacordio",
+      "code": "es"
+    },
+    {
+      "description": "组成乐器曼达和弦琴的重要部件。",
+      "name": "曼达和弦琴琴马",
+      "code": "zh"
+    },
+    {
+      "description": "Ключевой компонент мендаккорда.",
+      "name": "Мендаккорд: Струнодержатель",
+      "code": "ru"
+    },
+    {
+      "description": "楽器のMandachordの重要なパーツ。",
+      "name": "Mandachord ブリッジ",
+      "code": "ja"
+    },
+    {
+      "description": "Kluczowy komponent instrumentu Mandakordium.",
+      "name": "Mandakordium: Mostek",
+      "code": "pl"
+    },
+    {
+      "description": "Um componente crucial para o instrumento Mandacorde.",
+      "name": "Mandacorde: Ponte",
+      "code": "pt"
+    },
+    {
+      "description": "組成曼達和弦琴樂器的重要部件。",
+      "name": "曼達和弦琴 琴馬",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบที่สำคัญของเครื่องดนตรี Mandachord",
+      "name": "Mandachord: หย่อง",
+      "code": "th"
+    },
+    {
+      "description": "Mandachord enstrümanı için önemli bir parça.",
+      "name": "Mandachord Köprü",
+      "code": "tr"
+    },
+    {
+      "description": "Важлива деталь мандакорда.",
+      "name": "Мандакорд: струнотримач",
+      "code": "uk"
+    }
+  ]
+}

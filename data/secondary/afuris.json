@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/afuris-c36c694ba4.png",
+  "name": "Afuris",
+  "description": "Furis pistols equipped in each hand. Twice the Magazine Capacity and slightly faster Fire Rate, but Accuracy and Reload Speed are lowered.",
+  "languages": [
+    {
+      "description": "Eine Furis in jeder Hand. Doppelte Magazingröße und eine leicht erhöhte Feuerrate, aber die Genauigkeit und die Nachladegeschwindigkeit sind reduziert.",
+      "name": "Afuris",
+      "code": "de"
+    },
+    {
+      "description": "Un Pistolet Furis dans chaque main. La quantité de munitions est doublée et la cadence de tir légèrement supérieure, le tout au détriment de la précision et de la vitesse de rechargement.",
+      "name": "Afuris",
+      "code": "fr"
+    },
+    {
+      "description": "Una pistola Furis in ciascuna mano. Capienza Caricatore raddoppiata e una Cadenza di Tiro leggermente aumentata, ma la precisione è ridotta e il tempo di ricarica è raddoppiato.",
+      "name": "Afuris",
+      "code": "it"
+    },
+    {
+      "description": "각 손에 장착하는 2자루의 퓨리스로, 기존의 퓨리스보다 두 배의 탄창 용량과 약간 빠른 연사력을 지닌 대신, 재장전 속도 및 정확도는 감소합니다.",
+      "name": "아퓨리스",
+      "code": "ko"
+    },
+    {
+      "description": "Pistolas Furis equipadas en cada mano. Capacidad duplicada de cargador y cadencia de fuego levemente mayor, pero con tiempo de recarga duplicado y precisión reducida.",
+      "name": "Afuris",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AFURIS）双手各装备一把盗贼手枪，具有两倍的弹匣容量与稍快的射速，但精准度会下降，且换弹的速度增长。",
+      "name": "盗贼双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Фурис в каждой руке. Вдвое больший магазин и немного большая скорострельность, однако точность снижена, а скорость перезарядки увеличена.",
+      "name": "Афурис",
+      "code": "ru"
+    },
+    {
+      "description": "「FURIS」フルオートピストルを両手に装備する。二倍の装弾数と僅かに高い連射力を誇るが、その分リロード速度と銃の精度が悪化する。",
+      "name": "Afuris",
+      "code": "ja"
+    },
+    {
+      "description": "Pistolety Furis w obydwu rękach. Dwukrotnie większa pojemność magazynka i nieznacznie większa szybkostrzelność, ale celność i prędkość przeładowania są obniżone.",
+      "name": "Afuris",
+      "code": "pl"
+    },
+    {
+      "description": "Pistolas Furis equipadas em cada mão. Compõe o dobro do tamanho do carregador e uma Cadência de Tiro ligeiramente mais rápida. Porém, a precisão e a Velocidade de recarregamento são reduzidos.",
+      "name": "Afuris",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AFURIS）雙手各裝備一把盜賊手槍，具有兩倍的彈匣容量與稍快的射速，但精準度會下降，且換彈的速度下降。",
+      "name": "盜賊雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพก Furis ที่ถือเอาไว้ในมือแต่ละข้าง มีความจุแม็กกาซีนเป็นสองเท่าและอัตราการยิงเร็วขึ้นเล็กน้อย แต่ความแม่นยำและความเร็วในการรีโหลดจะลดลง",
+      "name": "Afuris",
+      "code": "th"
+    },
+    {
+      "description": "Çift el kullanımı için iki adet Furis. Şarjör kapasitesi ve, Atış Oranı iki katına çıkartıldı fakat İsabet Oranı ve Yeniden Doldurma hızı düşürüldü.",
+      "name": "Afuris",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія пістолетів «Фуріс». Подвоєний магазин і дещо збільшена швидкострільність компенсується зниженою влучністю та швидкістю заряджання.",
+      "name": "Афуріс",
+      "code": "uk"
+    }
+  ]
+}

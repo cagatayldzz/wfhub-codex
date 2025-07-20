@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVitruvianGlyphE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/samat-glyph-31a932e1df.png",
+  "name": "Samat Glyph",
+  "description": "A Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine Glyphe für dein Profil.",
+      "name": "Glyphe: Samat",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour votre profil.",
+      "name": "Glyphe Samat",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo per il tuo profilo.",
+      "name": "Glifo Samat",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 글리프입니다.",
+      "name": "사맛 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo para tu perfil.",
+      "name": "Glifo de Samat",
+      "code": "es"
+    },
+    {
+      "description": "个人档案的浮印。",
+      "name": "Samat 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф для вашего профиля.",
+      "name": "Глиф: Самат",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用のグリフ。",
+      "name": "Samat グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif dla Twojego profilu.",
+      "name": "Glif Samat",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo para o seu perfil.",
+      "name": "Glifo: Samat",
+      "code": "pt"
+    },
+    {
+      "description": "用於個人檔案的浮印。",
+      "name": "Samat 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์สำหรับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์ Samat",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için bir Glif.",
+      "name": "Samat Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вашого профілю.",
+      "name": "Гліф «Самат»",
+      "code": "uk"
+    }
+  ]
+}

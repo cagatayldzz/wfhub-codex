@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TNWTeshinBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---the-new-war-teshin-89b0ddf11e.png",
+  "name": "Noggle Statue - The New War Teshin",
+  "description": "A small wobbly statue of Teshin from The New War.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Teshin aus Der Neue Krieg.",
+      "name": "Noggle-Statue: Der Neue Krieg Teshin",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Teshin, de La Nouvelle Guerre.",
+      "name": "Statuette Noggle - La Nouvelle Guerre - Teshin",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Teshin de La Nuova Guerra con la testa tremolante.",
+      "name": "Statuetta Noggle: La Nuova Guerra - Teshin",
+      "code": "it"
+    },
+    {
+      "description": "새로운 전쟁에서 등장하는 테신의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 새로운 전쟁 테신",
+      "code": "ko"
+    },
+    {
+      "description": "Una estatua tambaleante de Teshin, de 'La Nueva Guerra'.",
+      "name": "Estatua Tambaleante: La Nueva Guerra - Teshin",
+      "code": "es"
+    },
+    {
+      "description": "一小座《新纪之战》中 Teshin 的摇头娃娃。",
+      "name": "《新纪之战》Teshin 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Тешина из «Новой войны».",
+      "name": "Фигурка: Новая Война - Тешин",
+      "code": "ru"
+    },
+    {
+      "description": "『新たな大戦』よりTeshinのボブルヘッド人形。",
+      "name": "『新たな大戦』Teshin ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Teshina z Nowej Wojny.",
+      "name": "Figurka Noggle — Teshin Nowej Wojny",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Teshin da Nova Guerra.",
+      "name": "Estatueta: Teshin (A Nova Guerra)",
+      "code": "pt"
+    },
+    {
+      "description": "一小座《新世戰紀》Teshin 的搖頭娃娃。",
+      "name": "《新世戰紀》Teshin 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Teshin จากสงครามใหม่ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - The New War Teshin",
+      "code": "th"
+    },
+    {
+      "description": "The New War'da yer alan Teshin için küçük oynar figür.",
+      "name": "Noggle Heykeli - The New War Teshin",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Тешина з пригоди «Нова війна».",
+      "name": "Ноґл «Нова війна „Тешин“»",
+      "code": "uk"
+    }
+  ]
+}

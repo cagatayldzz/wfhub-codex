@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLaborAward",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/labor-of-love-glyph-a31fb2f2af.png",
+  "name": "Labor Of Love Glyph",
+  "description": "Commemoration of our 2017 Steam award.",
+  "languages": [
+    {
+      "description": "Zum Gedenken an unseren 2017 Steam Award.",
+      "name": "Glyphe: Labor Of Love",
+      "code": "de"
+    },
+    {
+      "description": "Commémoration de notre récompense Steam 2017.",
+      "name": "Glyphe Labor Of Love",
+      "code": "fr"
+    },
+    {
+      "description": "Commemorazione del nostro premio di Steam 2017.",
+      "name": "Glifo Atto d'Amore",
+      "code": "it"
+    },
+    {
+      "description": "2017 스팀 어워드 기념",
+      "name": "Labor of Love 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Conmemoración de nuestro premio de Steam 2017.",
+      "name": "Glifo Con Amor y Dedicación",
+      "code": "es"
+    },
+    {
+      "description": "纪念我们获得了 2017 Steam 大奖。",
+      "name": "爱的付出浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Памятный знак о «Steam Award - 2017».",
+      "name": "Глиф: Любимое дитя",
+      "code": "ru"
+    },
+    {
+      "description": "Steam アワード 2017の記念品。",
+      "name": "愛の為せる業で賞 グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Pamiątka przyznanej w 2017 roku nagrody Steam.",
+      "name": "Glif Owoc Miłości",
+      "code": "pl"
+    },
+    {
+      "description": "Comemoração do nosso prêmio da Steam de 2017.",
+      "name": "Glifo: Feito Com Amor",
+      "code": "pt"
+    },
+    {
+      "description": "紀念我們獲得了 2017 Steam 大獎。",
+      "name": "甜蜜的負擔浮印",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นที่ระลึกรางวัล Steam ประจำปี 2017 ของเรา",
+      "name": "ภาพสัญลักษณ์ Labor of Love",
+      "code": "th"
+    },
+    {
+      "description": "2017 Steam ödülümüzün şerefine.",
+      "name": "Aşkın Emeği Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака нашої нагороди «Steam 2017».",
+      "name": "Гліф «Зроблено з любов’ю»",
+      "code": "uk"
+    }
+  ]
+}

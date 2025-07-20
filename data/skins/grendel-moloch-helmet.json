@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Devourer/SWMolochHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-moloch-helmet-b849d42f41.png",
+  "name": "Grendel Moloch Helmet",
+  "description": "A helmet for the Grendel Warframe, designed by Vulbjorn.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Grendel Warframe, entworfen von Vulbjorn.",
+      "name": "Grendel-Helm: Moloch",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Grendel, conçu par Vulbjorn.",
+      "name": "Casque Grendel Moloch",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Grendel, ideato da Vulbjorn.",
+      "name": "Elmo Grendel Moloch",
+      "code": "it"
+    },
+    {
+      "description": "Vulbjorn에 의해 디자인된 그렌델 워프레임을 위한 헬멧입니다.",
+      "name": "그렌델 몰록 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Grendel, diseñado por Vulbjorn.",
+      "name": "Casco Moloch de Grendel",
+      "code": "es"
+    },
+    {
+      "description": "Grendel 战甲的头盔，由 Vulbjorn 设计。",
+      "name": "Grendel 摩洛克头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Грендель, созданный Vulbjorn.",
+      "name": "Шлем Гренделя: Молах",
+      "code": "ru"
+    },
+    {
+      "description": "Grendel用のヘルメット。製作者：Vulbjorn。",
+      "name": "Grendel Moloch ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Grendel, zaprojektowany przez Vulbjorn.",
+      "name": "Grendel: Hełm Moloch",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Grendel, desenvolvido por Vulbjorn.",
+      "name": "Grendel: Capacete Moloch",
+      "code": "pt"
+    },
+    {
+      "description": "Grendel Warframe 的頭盔，由 Vulbjorn 所設計。",
+      "name": "Grendel 摩洛克神頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Grendel Warframe ออกแบบโดย Vulbjorn",
+      "name": "หมวกเหล็ก Grendel Moloch",
+      "code": "th"
+    },
+    {
+      "description": "Vulbjorn tarafından Grendel Warframe'i için dizayn edilmiş özel bir miğfer.",
+      "name": "Grendel Moloch Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ґренделя, створений Vulbjorn.",
+      "name": "Шолом «Молох» для Ґренделя",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrendelAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-glutt-glyph---dark-5bc1126a83.png",
+  "name": "Grendel Glutt Glyph - Dark",
+  "description": "A glyph depicting Grendel Glutt on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Grendel Glutt vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Grendel Glutt (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Grendel Glutt sur un fond sombre.",
+      "name": "Glyphe Grendel Glutt - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Grendel Glutt su uno sfondo scuro.",
+      "name": "Glifo Grendel Glutt - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 그렌델 글러트를 묘사한 글리프입니다.",
+      "name": "그렌델 글러트 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Grendel Glutt sobre un fondo oscuro.",
+      "name": "Glifo de Grendel Glutt - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Grendel 暴食在黑暗背景下的浮印。",
+      "name": "Grendel 暴食浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гренделя в шлеме «Глатт» на тёмном фоне.",
+      "name": "Глиф: Грендель Глатт - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたGrendel Gluttのグリフ。",
+      "name": "Grendel Glutt グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Grendel Glutt na ciemnym tle.",
+      "name": "Glif Grendel Glutt — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Grendel Glutt em um fundo escuro.",
+      "name": "Glifo: Grendel Glutt (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Grendel 暴食在黑暗背景下的浮印。",
+      "name": "Grendel 暴食浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Grendel Glutt บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Grendel Glutt - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Grendel Glutt koyu fonlu glif.",
+      "name": "Grendel Glutt Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґренделя в шоломі «Ґлат» на темному тлі.",
+      "name": "Темний гліф «Ґрендель „Ґлат“»",
+      "code": "uk"
+    }
+  ]
+}

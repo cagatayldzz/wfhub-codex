@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/void-gate-sigil-45227351c4.png",
+  "name": "Void Gate Sigil",
+  "description": "Recalls the place that lies between two realities.",
+  "languages": [
+    {
+      "description": "Kündet vom Platz zwischen den Realitäten.",
+      "name": "Siegel: Voidtor",
+      "code": "de"
+    },
+    {
+      "description": "Rappelle la dimension qui demeure entre deux réalités.",
+      "name": "Sceau de Porte du Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Rievoca il luogo che giace tra due realtà.",
+      "name": "Sigillo Portale Void",
+      "code": "it"
+    },
+    {
+      "description": "두 개의 현실 사이에 놓인 장소를 떠올리게 하는 시질입니다.",
+      "name": "보이드 게이트 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Recuerda el lugar que se encuentra entre dos realidades.",
+      "name": "Sello de Compuerta del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "回忆起处于两个真实面之间的地方。",
+      "name": "虚空之门纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Напоминает о месте, находящемся меж двух реальностей.",
+      "name": "Сигил: Врата Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "2つの現実に横たわる場所を呼び覚ます",
+      "name": "Void ゲート シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Odwołuje miejsca istniejące pomiędzy dwoma wymiarami.",
+      "name": "Znak Wrót Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "Remonta ao lugar que está entre duas realidades.",
+      "name": "Brasão: Portal do Void",
+      "code": "pt"
+    },
+    {
+      "description": "回憶起處於兩個真實面之間的地方。",
+      "name": "虛空之門紋章",
+      "code": "tc"
+    },
+    {
+      "description": "หวนนึกถึงสถานที่ที่อยู่ระหว่างสองด้านของความเป็นจริง",
+      "name": "เครื่องหมาย: Void Gate",
+      "code": "th"
+    },
+    {
+      "description": "İki gerçeklik arasındaki noktayı anımsatır",
+      "name": "Void Gate Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадує про місце, що існує між двома вимірами.",
+      "name": "Сиґіл «Брама в Порожнечу»",
+      "code": "uk"
+    }
+  ]
+}

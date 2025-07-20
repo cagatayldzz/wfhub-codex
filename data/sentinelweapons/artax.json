@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/artax-40f5c3dbb9.png",
+  "name": "Artax",
+  "description": "Freeze targets in their tracks with this sentinel mounted ice-beam.",
+  "languages": [
+    {
+      "description": "Lasse Gegner in ihren Spuren erfrieren mit diesem Eisstrahl deines Wächters.",
+      "name": "Artax",
+      "code": "de"
+    },
+    {
+      "description": "Congèle les cibles sur place avec ce faisceau glacial pour Sentinelle.",
+      "name": "Artax",
+      "code": "fr"
+    },
+    {
+      "description": "Congela i bersagli sul posto con il raggio congelante di questa sentinella.",
+      "name": "Artax",
+      "code": "it"
+    },
+    {
+      "description": "센티넬에게 장착된 이 아이스 빔으로 경로 상의 적들을 얼려 보세요.",
+      "name": "아르탁스",
+      "code": "ko"
+    },
+    {
+      "description": "Congela en seco a enemigos con el rayo de hielo de este arma de centinela.",
+      "name": "Artax",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ARTAX）使用守护装有的冰冷光束将目标在行动路线上冻结。",
+      "name": "阿塔克斯",
+      "code": "zh"
+    },
+    {
+      "description": "Замораживайте любые движения цели ледяным лучом этого оружия стража.",
+      "name": "Артакс",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル専用の冷気ビームで敵を氷漬けに。",
+      "name": "Artax",
+      "code": "ja"
+    },
+    {
+      "description": "Marzyłeś, aby zostawić kogoś na lodzie? Teraz masz okazję, wystarczy użyć tego lodowego działka Strażnika.",
+      "name": "Artax",
+      "code": "pl"
+    },
+    {
+      "description": "Congele alvos em suas posições com este feixe de gelo acoplado na sentinela.",
+      "name": "Artax",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ARTAX）使用架置在守護的冰冷光束將目標在行動路線上凍結。",
+      "name": "阿塔克斯",
+      "code": "tc"
+    },
+    {
+      "description": "ตรึงเป้าหมายที่อยู่ตามรายทางด้วยลำแสงน้ำแข็งที่ติดอยู่กับอาวุธเซนติเนลกระบอกนี้",
+      "name": "Artax",
+      "code": "th"
+    },
+    {
+      "description": "Hedeflerinizi Sentinelinizdeki bu buz-lazeri ile dondurun.",
+      "name": "Artax",
+      "code": "tr"
+    },
+    {
+      "description": "Променева зброя для вартового, що здатна заморожувати ворогів.",
+      "name": "Артакс",
+      "code": "uk"
+    }
+  ]
+}

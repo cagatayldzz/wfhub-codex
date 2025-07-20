@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akbolto-6b0f3d7ac2.png",
+  "name": "Akbolto",
+  "description": "A Bolto equipped in each hand. Twice the Magazine Capacity and slightly faster Fire Rate, but reload time is doubled and accuracy is lowered.",
+  "languages": [
+    {
+      "description": "Eine Bolto in jeder Hand. Doppelte Magazingröße und eine leicht erhöhte Feuerrate, aber die Nachladezeit ist verdoppelt und die Genauigkeit reduziert.",
+      "name": "Akbolto",
+      "code": "de"
+    },
+    {
+      "description": "Un Bolto dans chaque main. La quantité de munitions est doublée et la cadence de tir légèrement supérieure. Par contre, la précision est moindre et le temps de rechargement est doublé.",
+      "name": "Akbolto",
+      "code": "fr"
+    },
+    {
+      "description": "Una Bolto in ciascuna mano. Capienza Caricatore raddoppiata e una Cadenza di Tiro leggermente aumentata, ma la precisione è ridotta e il tempo di ricarica è raddoppiato.",
+      "name": "Akbolto",
+      "code": "it"
+    },
+    {
+      "description": "각 손에 장착하는 2자루의 볼토로, 기존의 볼토보다 두 배의 탄창 용량과 약간 빠른 연사력을 지닌 대신, 재장전 시간이 두 배로 증가하며 정확도가 감소합니다.",
+      "name": "아크볼토",
+      "code": "ko"
+    },
+    {
+      "description": "Una Bolto equipada en cada mano. Capacidad duplicada de cargador y cadencia de fuego levemente mayor, pero con tiempo de recarga duplicado y precisión reducida.",
+      "name": "Akbolto",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKBOLTO）双手各装备一把螺钉手枪，具有两倍的弹匣容量与稍快的射速，但精准度会下降，且需两倍的换弹时间。",
+      "name": "螺钉双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Болто в каждой руке. Вдвое больший магазин и немного выше скорострельность, однако время перезарядки увеличено вдвое, а точность снижена.",
+      "name": "Акболто",
+      "code": "ru"
+    },
+    {
+      "description": "「BOLTO」ピストルを両手に装備する。二倍の装弾数と僅かに高い連射力を誇るが、その分リロード時間と銃の精度が悪化する。",
+      "name": "Akbolto",
+      "code": "ja"
+    },
+    {
+      "description": "Pistolety Bolto w obydwu rękach. Dwukrotnie większa pojemność magazynka i nieznacznie większa szybkostrzelność, ale dwukrotnie większy czas przeładowywania i mniejsza celność.",
+      "name": "Akbolto",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Bolto equipada em cada mão. Compõe o dobro do tamanho do carregador e uma Cadência de Tiro um pouco mais rápida. Porém, a precisão e o tempo de recarregamento são reduzidos.",
+      "name": "Akbolto",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AKBOLTO）雙手各裝備一把螺釘手槍，具有兩倍的彈匣容量與稍快的射速，但精準度會下降，且需兩倍的換彈時間。",
+      "name": "螺釘雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "Bolto ที่ถือเอาไว้ในมือแต่ละข้าง มีความจุแม็กกาซีนเป็นสองเท่าและอัตราการยิงเร็วขึ้นเล็กน้อย แต่เวลาในการรีโหลดก็จะเพิ่มขึ้นเป็นสองเท่า และมีความแม่นยำลดลง",
+      "name": "Akbolto",
+      "code": "th"
+    },
+    {
+      "description": "Her elde bir Bolto bulunur. İki kat daha fazla Şarjör Kapasitesi ve daha yüksek Atış Hızı sunar, fakat iki kat Yeniden Doldurma süresi ve daha düşük İsabet Oranı vardır.",
+      "name": "Akbolto",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія пістолетів «Болто». Подвоєний магазин та дещо збільшена швидкострільність компенсується зниженою влучністю та вдвічі повільнішою швидкістю заряджання.",
+      "name": "Акболто",
+      "code": "uk"
+    }
+  ]
+}

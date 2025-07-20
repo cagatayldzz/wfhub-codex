@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Runner/Runner",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauss-8060019853.png",
+  "name": "Gauss",
+  "description": "Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has strong survivability. Movement charges his powerful battery, so never stop moving.",
+  "armor": 185,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Übernimm die Kontrolle, mit dem Heiligen von Altra. Gauss ist schnell, verursacht hohen Schaden und hat eine starke Überlebensfähigkeit. Bewegung lädt seine mächtige Batterie auf, also bleib in Bewegung.",
+      "name": "Gauss",
+      "code": "de"
+    },
+    {
+      "description": "Prenez les choses en main avec le Conquérant d'Altra. Gauss est rapide, inflige des Dégâts importants et a une forte capacité de survie. Le mouvement charge sa puissante batterie, alors n'arrêtez jamais de bouger.",
+      "name": "Gauss",
+      "code": "fr"
+    },
+    {
+      "description": "Prendi la rincorsa col Redentore di Altra. Gauss è veloce, infligge danni elevati e ha un'elevata capacità di sopravvivenza. Il movimento carica la sua potente batteria, quindi non smettere mai di muoverti.",
+      "name": "Gauss",
+      "code": "it"
+    },
+    {
+      "description": "이 알트라의 성자를 통해 마음껏 폭주해 보세요. 가우스는 빠른 속도와 높은 피해를 자랑하며, 강한 생존성 역시 갖추고 있습니다. 움직일 때마다 그의 강력한 배터리가 충전되니, 멈추지 말고 계속 움직이세요.",
+      "name": "가우스",
+      "code": "ko"
+    },
+    {
+      "description": "Toma la iniciativa con el Santo de Altra. Gauss es rápido, inflige mucho daño y tiene una gran capacidad de supervivencia. El movimiento carga su poderosa batería, así que nunca dejes de moverte.",
+      "name": "Gauss",
+      "code": "es"
+    },
+    {
+      "description": "与阿尔特拉的圣者一同主宰战场。Gauss 速度快，伤害高，生存能力强。移动可以为他的强大电池充电，因此绝不停下脚步。",
+      "name": "Gauss",
+      "code": "zh"
+    },
+    {
+      "description": "Возьмите на себя ответственность за Покровителя Альтры. Гаусс быстр, наносит большой урон и обладает высокой выживаемостью. Движение заряжает его мощную батарею, поэтому он никогда не останавливается в движении.",
+      "name": "Гаусс",
+      "code": "ru"
+    },
+    {
+      "description": "アルトラの聖人で突撃せよ。Gaussはその高い機動力で自身のバッテリーをチャージし、ダメージと耐久性を底上げする。",
+      "name": "Gauss",
+      "code": "ja"
+    },
+    {
+      "description": "Przejmij dowodzenie ze Świętym z Altry. Gauss jest szybki, zadaje duże obrażenia i ma duże szanse na przeżycie. Ruszając się, ładuje swoją potężną baterię, więc nigdy się nie zatrzymuj.",
+      "name": "Gauss",
+      "code": "pl"
+    },
+    {
+      "description": "Assuma o controle com o Santo de Altra. O Gauss é rápido, causa alto dano e apresenta forte capacidade de sobrevivência. O movimento carrega sua poderosa bateria, então mantenha-se em constante movimento.",
+      "name": "Gauss",
+      "code": "pt"
+    },
+    {
+      "description": "透過阿爾特拉的聖者來親身上陣。Gauss 極快，造成高傷害，且有強大的生存能力。移動可以為他強大的電池充能，所以永遠不要停下來。",
+      "name": "Gauss",
+      "code": "tc"
+    },
+    {
+      "description": "Gauss คือนักบุญแห่ง Altra ที่มีความรวดเร็ว สร้างความเสียหายได้สูง และเอาตัวรอดได้ดี การเคลื่อนไหวจะคอยชาร์จแบตเตอรี่ให้มีพลังอยู่เสมอ ดังนั้นอย่าหยุดเคลื่อนไหวเป็นอันขาด",
+      "name": "Gauss",
+      "code": "th"
+    },
+    {
+      "description": "Altra'nın Azizi ile sorumluluğu üstlen. Gauss hızlıdır, yüksek hasar verir ve güçlü bir hayatta kalma kabiliyetine sahiptir. Hareket onun güçlü bataryasını şarj eder, bu yüzden asla hareket etmeyi bırakma.",
+      "name": "Gauss",
+      "code": "tr"
+    },
+    {
+      "description": "Покровитель Альтри. Ґаусс швидкий, завдає великої шкоди й дуже здібний у виживанні. Рух заряджає його місткі наснажувачі, тож він ніколи не зупиняється.",
+      "name": "Ґаусс",
+      "code": "uk"
+    }
+  ]
+}

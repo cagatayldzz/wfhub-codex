@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bonewidow-weapon-pod.png",
+  "name": "Bonewidow Weapon Pod",
+  "description": "Weapon Pod component for the Bonewidow Necramech.",
+  "languages": [
+    {
+      "description": "Waffenkapsel-Komponente für den Bonewidow Necramech.",
+      "name": "Bonewidow: Waffenkapsel",
+      "code": "de"
+    },
+    {
+      "description": "Le composant Nacelle d'arme du Necramech Bonewidow.",
+      "name": "Bonewidow - Nacelle d'Armes",
+      "code": "fr"
+    },
+    {
+      "description": "Il componente Capsula Arma per il Necramech Bonewidow.",
+      "name": "Bonewidow - Capsula Arma",
+      "code": "it"
+    },
+    {
+      "description": "본위도우 네크라메크의 웨폰 포드 부품입니다.",
+      "name": "본위도우 웨폰 포드",
+      "code": "ko"
+    },
+    {
+      "description": "Componente de la cápsula del arma del Necramech Bonewidow.",
+      "name": "Cápsula de Arma de Bonewidow",
+      "code": "es"
+    },
+    {
+      "description": "“骨骸寡妇”殁世机甲的武器舱组件。",
+      "name": "骨骸寡妇 武器舱",
+      "code": "zh"
+    },
+    {
+      "description": "Оружейная капсула для Костяной Вдовы.",
+      "name": "Костяная Вдова: Оружейная Капсула",
+      "code": "ru"
+    },
+    {
+      "description": "Bonewidowネクロメカ用の武器ポッドパーツ。",
+      "name": "Bonewidow 武器ポッド",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent kapsuły broni Nekramecha Bonewidow.",
+      "name": "Bonewidow: Kapsuła Broni",
+      "code": "pl"
+    },
+    {
+      "description": "Câmara de Arma componente do Necramech Bonewidow.",
+      "name": "Bonewidow: Câmara de Arma",
+      "code": "pt"
+    },
+    {
+      "description": "骨寡婦亡骸機甲的武器吊艙部件。",
+      "name": "骨寡婦 武器吊艙",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบพอดอาวุธสำหรับ Bonewidow Necramech",
+      "name": "Bonewidow: พอดอาวุธ",
+      "code": "th"
+    },
+    {
+      "description": "Bonewidow Necramech için Silah Haznesi bileşeni.",
+      "name": "Bonewidow Silah Bölmesi",
+      "code": "tr"
+    },
+    {
+      "description": "Деталі збройового відсіку для некрамеха «Кістяна Вдова».",
+      "name": "«Кістяна Вдова»: збройовий відсік",
+      "code": "uk"
+    }
+  ]
+}

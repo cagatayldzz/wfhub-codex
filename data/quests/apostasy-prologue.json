@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/apostasy-prologue-1e1c77967f.png",
+  "name": "Apostasy Prologue",
+  "description": "Inspect your personal quarters upon finishing the Chains of Harrow quest.",
+  "languages": [
+    {
+      "description": "Besuche deinen Wohnbereich, nachdem du die Quest \"Ketten des Harrow\" abgeschlossen hast.",
+      "name": "Apostasie Prolog",
+      "code": "de"
+    },
+    {
+      "description": "Inspectez vos Quartiers Personnels après avoir terminé la Quête \"Le Fardeau de Harrow\".",
+      "name": "Prologue Apostasie",
+      "code": "fr"
+    },
+    {
+      "description": "Ispeziona il tuo alloggio personale dopo aver completato la quest Catene di Harrow.",
+      "name": "Prologo dell'Apostasia",
+      "code": "it"
+    },
+    {
+      "description": "해로우의 사슬 퀘스트 완료 후에 개인실을 조사해 보세요.",
+      "name": "배교 프롤로그",
+      "code": "ko"
+    },
+    {
+      "description": "Investiga tu cuarto personal al finalizar la aventura Las Cadenas de Harrow.",
+      "name": "Prólogo de la Apostasía",
+      "code": "es"
+    },
+    {
+      "description": "完成 Harrow 系列任务后前去检查你的个人房间。",
+      "name": "变节序言",
+      "code": "zh"
+    },
+    {
+      "description": "Проверьте вашу личную комнату после завершения квеста «Цепи Харроу».",
+      "name": "Начало Отступничества",
+      "code": "ru"
+    },
+    {
+      "description": "個人部屋は「Harrowの鎖」クエストをクリアした後に調査できます。",
+      "name": "背信のプロローグ",
+      "code": "ja"
+    },
+    {
+      "description": "Zbadaj swoje Pomieszczenie Mieszkalne po zakończeniu zadania Okowy Harrowa.",
+      "name": "Apostazja Prolog",
+      "code": "pl"
+    },
+    {
+      "description": "Inspecione seus aposentos pessoais após a conclusão da jornada \"Correntes de Harrow\".",
+      "name": "Prólogo da Apostásia",
+      "code": "pt"
+    },
+    {
+      "description": "完成《Harrow 的枷鎖》系列任務後前去檢查你的個人房間。",
+      "name": "變節序言",
+      "code": "tc"
+    },
+    {
+      "description": "ตรวจสอบที่พักส่วนตัวเมื่อจบเควสต์พันธนาการของ Harrow",
+      "name": "เปิดฉากการละทิ้งความเชื่อ",
+      "code": "th"
+    },
+    {
+      "description": "Chains of Harrow questi ardından kişisel karargahınızı inceleyin.",
+      "name": "Apostasy Prologue",
+      "code": "tr"
+    },
+    {
+      "description": "Огляньте свою каюту після завершення пригоди «Ланцюги Гарроу».",
+      "name": "Зречення: пролог",
+      "code": "uk"
+    }
+  ]
+}

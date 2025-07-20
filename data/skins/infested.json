@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerInfestedItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infested-150f6a85cc.png",
+  "name": "Infested",
+  "description": "Unlocks a collection of colors inspired by Infested denizens.",
+  "languages": [
+    {
+      "description": "Schaltet ein Farbpaket frei, das von den Ungetümen der Befallenen inspiriert wurde.",
+      "name": "Befallene",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille une collection de couleurs inspirées des Infestés.",
+      "name": "Infesté",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori ispirati agli abitanti Infested.",
+      "name": "Infested",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드에 의해서 영감을 받은 색상들을 잠금 해제합니다.",
+      "name": "인페스티드",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores inspirada en seres infestados.",
+      "name": "Infestado",
+      "code": "es"
+    },
+    {
+      "description": "解锁来自感染者陆战队的颜色。",
+      "name": "Infested",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует специальный набор цветов от заражённых созданий.",
+      "name": "Заражённый",
+      "code": "ru"
+    },
+    {
+      "description": "感染体をモチーフしたカラーをアンロックする。",
+      "name": "Infested",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw kolorów zainspirowanych Plagą.",
+      "name": "Plaga",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava uma coleção de cores inspiradas em habitantes Infestados.",
+      "name": "Infestado",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖一系列靈感源自於 Infested 陸戰隊的色彩。",
+      "name": "Infested",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีที่ได้รับแรงบันดาลใจจากพลเมืองที่ติดเชื้อ",
+      "name": "Infested",
+      "code": "th"
+    },
+    {
+      "description": "İstilaya uğrayanlardan ilham alan renk yelpazesinin kilidini açar.",
+      "name": "Infested",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, натхненна зараженими.",
+      "name": "Заражені",
+      "code": "uk"
+    }
+  ]
+}

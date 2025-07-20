@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemNeuralSensor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/neural-sensor-decoration-a536e01ff2.png",
+  "name": "Neural Sensor Decoration",
+  "description": "A Neural Sensor resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von Neuralen Sensoren.",
+      "name": "Dekoration: Neurale Sensoren",
+      "code": "de"
+    },
+    {
+      "description": "Un Capteur Neuronal à placer dans votre Orbiteur.",
+      "name": "Décoration Capteurs Neuronaux",
+      "code": "fr"
+    },
+    {
+      "description": "Un Sensore Neurale decorativo da piazzare nel tuo Orbiter.",
+      "name": "Sensore Neurale - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 뉴럴 센서 드롭 아이템입니다.",
+      "name": "뉴럴 센서 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo del recurso de sensor neuronal para colocar en tu orbitador.",
+      "name": "Decoración de sensor neuronal",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的神经传感器拾取物。",
+      "name": "神经传感器装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Нейронные Датчики",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材の神経センサー。",
+      "name": "神経センサーの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Czujniki Neuronowe, które możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Sensor Neuronowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um coletável de sensor neural para colocar em sua Orbital.",
+      "name": "Sensor Neural",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的神經感測器拾取物。",
+      "name": "神經感測器裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "นิวรัลเซ็นเซอร์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: นิวรัลเซ็นเซอร์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Sinir Sensörü bileşeni dekorasyonu.",
+      "name": "Sinir Sensörü Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цей нейродавач на палубі орбітра.",
+      "name": "Оздоблення: нейродавач",
+      "code": "uk"
+    }
+  ]
+}

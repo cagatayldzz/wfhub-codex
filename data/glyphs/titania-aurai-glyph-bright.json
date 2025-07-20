@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTitaniaAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/titania-aurai-glyph---bright-5a6ba0c017.png",
+  "name": "Titania Aurai Glyph - Bright",
+  "description": "A glyph depicting Titania Aurai on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Titania Aurai vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Titania Aurai (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Titania Aurai sur un fond lumineux.",
+      "name": "Glyphe Titania Aurai - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Titania su uno sfondo chiaro.",
+      "name": "Glifo Titania Aurai - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 아우라이 티타니아를 묘사한 글리프입니다.",
+      "name": "티타니아 아우라이 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Titania Aurai sobre un fondo brillante.",
+      "name": "Glifo de Titania Aurai - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Titania 风之妖精在明亮背景下的浮印。",
+      "name": "Titania 风之妖精浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Титании «Аураи» на светлом фоне.",
+      "name": "Глиф: Титания «Аураи» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Titania Aurai のグリフ。",
+      "name": "Titania Aurai グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Titania 'Aurai' na jasnym tle.",
+      "name": "Glif Titania Aurai — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Titania Aurai em um fundo claro.",
+      "name": "Glifo: Titania Aurai (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Titania 風之妖精在明亮背景下的浮印。",
+      "name": "Titania 風之妖精浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Titania Aurai บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Titania Aurai - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Titania Aurai açık fonlu glif.",
+      "name": "Titania Aurai Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Титанії в шоломі «Авра» на світлому тлі.",
+      "name": "Яскравий гліф «Титанія „Авра“»",
+      "code": "uk"
+    }
+  ]
+}

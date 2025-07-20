@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/WeaponUtilityUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/exilus-weapon-adapter-b9cbd10f00.png",
+  "name": "Exilus Weapon Adapter",
+  "description": "Fuses with a compatible weapon to unlock its Exilus Mod Slot.",
+  "languages": [
+    {
+      "description": "Verschmilzt mit einer kompatiblen Waffe und schaltet den Exilus Mod-Slot frei.",
+      "name": "Waffen Exilus-Adapter",
+      "code": "de"
+    },
+    {
+      "description": "Fusionne avec une arme compatible pour débloquer son emplacement de Mod Exilus.",
+      "name": "Adaptateur Exilus pour Arme",
+      "code": "fr"
+    },
+    {
+      "description": "Si fonde con un'arma compatibile per sbloccare lo Slot Mod Exilus.",
+      "name": "Adattatore Exilus per Armi",
+      "code": "it"
+    },
+    {
+      "description": "호환 가능한 무기와 융합하여 엑실러스 모드 슬롯을 잠금 해제할 수 있습니다.",
+      "name": "엑실러스 웨폰 어댑터",
+      "code": "ko"
+    },
+    {
+      "description": "Se fusiona con un arma compatible para desbloquear su ranura de mod Exilus.",
+      "name": "Adaptador Exilus de arma",
+      "code": "es"
+    },
+    {
+      "description": "融入一把适用的武器来解锁其特殊功能槽。",
+      "name": "武器特殊功能槽连接器",
+      "code": "zh"
+    },
+    {
+      "description": "Сливается с совместимым оружием, чтобы разблокировать слот для эксилус-модов.",
+      "name": "Адаптер Эксилус для оружия",
+      "code": "ru"
+    },
+    {
+      "description": "対応武器に組み合わせることでエクシラスMODスロットを解放する。",
+      "name": "武器エクシラスアダプター",
+      "code": "ja"
+    },
+    {
+      "description": "Łączy się z kompatybilną Bronią, aby odblokować gniazdo modów Exilus.",
+      "name": "Adapter Exilus Broni",
+      "code": "pl"
+    },
+    {
+      "description": "Se funde com uma arma compatível para desbloquear o Espaço de Mod Exilus.",
+      "name": "Adaptador Exilus para Arma",
+      "code": "pt"
+    },
+    {
+      "description": "與一把相容的武器進行融合並解鎖其特殊功能 MOD 欄位。",
+      "name": "武器特殊功能槽連接器",
+      "code": "tc"
+    },
+    {
+      "description": "หลอมรวมกับอาวุธที่เข้ากันได้เพื่อปลดล็อกสล็อต Exilus Mod",
+      "name": "อะแดปเตอร์อาวุธ Exilus",
+      "code": "th"
+    },
+    {
+      "description": "Exilus Mod Yuvasının kilidini açmak için uyumlu bir silahla birleşir.",
+      "name": "Exilus Silah Adaptörü",
+      "code": "tr"
+    },
+    {
+      "description": "Кріпиться на сумісну зброю та відкриває комірку для ексилових модифікаторів.",
+      "name": "Ексилотримач для зброї",
+      "code": "uk"
+    }
+  ]
+}

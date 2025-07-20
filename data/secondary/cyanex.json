@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyanex-1c118ccf60.png",
+  "name": "Cyanex",
+  "description": "Sentient tech merges with Corpus design to deliver this lethal sidearm. Fully automatic, it fires ricocheting, homing projectiles that release small clouds of <DT_GAS_COLOR>Gas on impact. Alt-fire to release the entire magazine without homing as a single burst.",
+  "languages": [
+    {
+      "description": "Sentient Technologie vereint sich mit Corpus Design für diese tödliche Handfeuerwaffe. Vollautomatisch feuert sie abprallende, zielsuchende Projektile, die beim Einschlag kleine <DT_GAS_COLOR>Gaswolken freisetzen. Alternatives Feuer setzt das ganze Magazin in einem einzigen Ausstoß frei, ohne Zielsuchen.",
+      "name": "Cyanex",
+      "code": "de"
+    },
+    {
+      "description": "Un puissant Pistolet à tir automatique issu d'un mariage entre la technologie Sentient et la conception Corpus. Tire des projectiles à tête chercheuse qui ricochent et qui relâchent de petits nuages de <DT_GAS_COLOR>Gaz à l'impact. Le tir secondaire permet de vider le chargeur entier en une seule rafale, mais les projectiles ne seront pas guidés.",
+      "name": "Cyanex",
+      "code": "fr"
+    },
+    {
+      "description": "La tecnologia Sentient si fonde con il design Corpus per fornire questa pistola letale. Completamente automatica, spara proiettili rimbalzanti e autoguidati che rilasciano piccole nubi di <DT_GAS_COLOR>Gas all'impatto. Il fuoco secondario rilascia l'intero caricatore senza autoguida in una singola raffica.",
+      "name": "Cyanex",
+      "code": "it"
+    },
+    {
+      "description": "센티언트 기술과 코퍼스의 설계가 결합하여 이 치명적인 보조 무기를 만들어냅니다. 확산하며 유도되어 타격 시 작은 <DT_GAS_COLOR>가스 구름을 내뿜는 발사체를 발사하는 자동 권총입니다. 보조 발사를 사용하여 유도 기능 없이 탄창 전체를 한 번에 쏟아낼 수 있습니다.",
+      "name": "사이아넥스",
+      "code": "ko"
+    },
+    {
+      "description": "La tecnología consciente se mezcla con el diseño corpus para formar esta arma de fuego letal. Completamente automática, dispara proyectiles rebotantes dirigidos que liberan pequeñas nubes de <DT_GAS_COLOR>gas al impacto. El disparo alternativo descarga todo el cargador en una sola ráfaga sin guía.",
+      "name": "Cyanex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CYANEX）Sentient 科技与 Corpus 设计的结合，发展出这款致命的次要武器。该武器为全自动，可射出跳飞式、自动导引的弹幕，子弹在撞击时会释放出小一股 <DT_GAS_COLOR>毒气。次要射击为可在单次射击中释放剩余的弹药。",
+      "name": "氰毒",
+      "code": "zh"
+    },
+    {
+      "description": "Технологии Владеющих Разумом в исполнении Корпуса явили на свет этот смертоносный пистолет. Полностью автоматический, он выпускает рикошетные самонаводящиеся снаряды, распадающиеся на небольшие <DT_GAS_COLOR>газовые облака при попадании в цель. Альтернативный режим огня выпускает весь магазин одной очередью, но без самонаведения.",
+      "name": "Цианекс",
+      "code": "ru"
+    },
+    {
+      "description": "センティエントの技術とコーパスの設計が結びついて生まれた殺傷力の高い小型武器。フルオートであるこの武器は、跳弾し敵を追従する弾を発射し、着弾時には狭い範囲に<DT_GAS_COLOR>ガスを放出。オルトファイアを使用すると追従機能なしでマガジンの全弾を発射する。",
+      "name": "Cyanex",
+      "code": "ja"
+    },
+    {
+      "description": "Technologia Świadomych łączy się z projektami Corpus, aby dostarczyć tą zabójczą Broń boczną. W pełni automatyczna, wystrzeliwuje odbijające się, samonaprowadzające pociski, które uwalniają małe chmury <DT_GAS_COLOR> Gazu przy uderzeniu. Ogień alternatywny wystrzeliwuje pozostały magazynek w pojedynczej serii bez naprowadzania.",
+      "name": "Cyanex",
+      "code": "pl"
+    },
+    {
+      "description": "A tecnologia Sentient foi fundida com o design Corpus, criando este item bélico letal. Totalmente automática, esta arma dispara projéteis teleguiados que ricocheteiam, descarregando pequenas nuvens de Dano <DT_GAS_COLOR>Gasoso ao atingir o alvo. Utilize o Disparo Alternativo para abdicar dos projéteis teleguiados e descarregar a arma completamente em uma única rajada.",
+      "name": "Cyanex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CYANEX）Sentient 科技與 Corpus 設計的結合而洐生出這把致命的次要武器。全自動、它可射出彈跳式、自動導引的彈幕而子彈在撞擊時會釋放小朵<DT_GAS_COLOR>毒氣雲。次要射擊可在單次射擊中無導引並能發射整個彈匣中的彈藥。",
+      "name": "氰毒",
+      "code": "tc"
+    },
+    {
+      "description": "เทคโนโลยีของ Sentient ผสานเข้ากับการออกแบบของ Corpus ทำให้อาวุธข้างกายกระบอกนี้มีพลังที่รุนแรง สามารถยิงอัตโนมัติได้เต็มรูปแบบ ยิงกระสุนให้กระเด้งกระดอนออกไป และยิงกระสุนนำวิถีที่จะปล่อยกลุ่ม <DT_GAS_COLOR>แก๊สเล็ก ๆ ออกมาเมื่อโดนกระทบ หากยิงในโหมดสำรองจะยิงกระสุนทั้งหมดที่อยู่ในแม็กกาซีนให้ระเบิดออกมาเป็นชุดเดียว",
+      "name": "Cyanex",
+      "code": "th"
+    },
+    {
+      "description": "Sentient teknolojisi, Corpus tasarımı ile birleşerek bu ölümcül ikincil silahı yarattı. Tam otomatik olan bu silah, seken ve hedefini bulan mermiler ateşler. İsabet anında ufak <DT_GAS_COLOR>Gaz bulutları oluşturur. Alternatif atış modu kullanılarak tek bir tetiklemeyle tüm şarjörü boşaltılabilir.",
+      "name": "Cyanex",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматичний пістолет, що поєднує в собі технології Свідомих і конструкторський хист Корпусу. Стріляє самонавідними набоями, які вивільняють хмарки <DT_GAS_COLOR>газу, коли у щось влучають. Під час альтернативної атаки вистрілює увесь магазин однією чергою без автонаведення.",
+      "name": "Ціанекс",
+      "code": "uk"
+    }
+  ]
+}

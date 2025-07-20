@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Runner/RunnerAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauss-mag-helmet-dc875d108c.png",
+  "name": "Gauss Mag Helmet",
+  "description": "The signature helmet of Gauss.",
+  "languages": [
+    {
+      "description": "Der bevorzugte Helm von Gauss.",
+      "name": "Gauss-Helm: Mag",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque préféré de Gauss.",
+      "name": "Casque Gauss Mag",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Gauss.",
+      "name": "Elmo Gauss Mag",
+      "code": "it"
+    },
+    {
+      "description": "가우스의 대표 헬멧입니다.",
+      "name": "가우스 매그 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco distintivo de Gauss.",
+      "name": "Casco Mag de Gauss",
+      "code": "es"
+    },
+    {
+      "description": "Gauss 的标志性头盔。",
+      "name": "Gauss 磁力头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Гаусса.",
+      "name": "Шлем Гаусса: Мэг",
+      "code": "ru"
+    },
+    {
+      "description": "Gaussを象徴するヘルメット。",
+      "name": "Gauss Mag ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczny Hełm Gaussa.",
+      "name": "Gauss: Hełm Mag",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Gauss.",
+      "name": "Gauss: Capacete Mag",
+      "code": "pt"
+    },
+    {
+      "description": "Gauss 的標誌性頭盔。",
+      "name": "Gauss 磁力頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Gauss",
+      "name": "หมวกเหล็ก Gauss Mag",
+      "code": "th"
+    },
+    {
+      "description": "Gauss'a özel bir Miğfer.",
+      "name": "Gauss Mag Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом Ґаусса.",
+      "name": "Шолом «Меґ» для Ґаусса",
+      "code": "uk"
+    }
+  ]
+}

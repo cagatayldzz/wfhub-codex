@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/faithful-void-offering-4c7ad9ead7.png",
+  "name": "Faithful Void Offering",
+  "description": "Give unto The Void 10,000 credits.",
+  "languages": [
+    {
+      "description": "Gebe 10.000 Credits in den Void.",
+      "name": "Gewissenhaftes Void-Opfer",
+      "code": "de"
+    },
+    {
+      "description": "Accordez au Néant 10 000 Crédits.",
+      "name": "Offrande Fidèle au Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Dona al Void 10'000 crediti.",
+      "name": "Offerta Void Discreta",
+      "code": "it"
+    },
+    {
+      "description": "보이드에 10,000 크레딧을 헌금합니다.",
+      "name": "페이스풀 보이드 오퍼링",
+      "code": "ko"
+    },
+    {
+      "description": "Entregar al Vacío 10 000 créditos.",
+      "name": "Ofrenda Fiel del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "献给虚空的 10，000 元现金。",
+      "name": "忠诚的虚空捐献",
+      "code": "zh"
+    },
+    {
+      "description": "Предложение в 10 000 кредитов из Бездны.",
+      "name": "Умеренное предложение из Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "VOIDへ10,000クレジットを献金する。",
+      "name": "Void献上品（忠実）",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj Pustce 10 000 kredytów.",
+      "name": "Wierna Ofiara Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "Dê ao Void 10,000 créditos.",
+      "name": "Oferenda ao Void Dedicada",
+      "code": "pt"
+    },
+    {
+      "description": "獻給虛空的 10,000 元現金。",
+      "name": "忠誠的虛空捐獻",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้แก่วอยด์ 10,000 เครดิต",
+      "name": "ข้อเสนอวอยด์ที่เชื่อถือได้",
+      "code": "th"
+    },
+    {
+      "description": "10.000 kredi içeren kredi çipi",
+      "name": "İnançlı Void Teklifi",
+      "code": "tr"
+    },
+    {
+      "description": "Віддає в «Порожнечу» 10 000 кредитів.",
+      "name": "Щедра пропозиція Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

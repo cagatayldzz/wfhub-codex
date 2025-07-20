@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardGaruda",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-prex-4a2031173d.png",
+  "name": "Garuda Prex",
+  "description": "The Queen in Living Scarlet",
+  "languages": [
+    {
+      "description": "Die Königin in lebendigem Scharlachrot",
+      "name": "Garuda Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Reine Écarlate",
+      "name": "Prex Garuda",
+      "code": "fr"
+    },
+    {
+      "description": "La Regina Scarlatta",
+      "name": "Prex: Garuda",
+      "code": "it"
+    },
+    {
+      "description": "생명의 진홍을 두른 여왕",
+      "name": "가루다 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La Reina Escarlata",
+      "name": "Prex de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "鲜血女王",
+      "name": "Garuda Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Королева в багрянце жизни",
+      "name": "Прекс: Гаруда",
+      "code": "ru"
+    },
+    {
+      "description": "紅蓮の女王",
+      "name": "Garuda プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Królowa Żywego Szkarłatu",
+      "name": "Prex: Garuda",
+      "code": "pl"
+    },
+    {
+      "description": "A Rainha Escarlate",
+      "name": "Prex: Garuda",
+      "code": "pt"
+    },
+    {
+      "description": "血紅女皇",
+      "name": "卡牌 — Garuda",
+      "code": "tc"
+    },
+    {
+      "description": "ราชินีสีเลือด",
+      "name": "ไพ่เพร็กซ์ Garuda",
+      "code": "th"
+    },
+    {
+      "description": "Yaşayan Kızıl Kraliçe",
+      "name": "Garuda Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Королева живого багряника",
+      "name": "Прекс Ґаруди",
+      "code": "uk"
+    }
+  ]
+}

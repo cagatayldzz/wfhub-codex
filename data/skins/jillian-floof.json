@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyJillian",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jillian-floof-9433448f9f.png",
+  "name": "Jillian Floof",
+  "description": "This tough-as-nails Caliber Chick makes for a surprisingly snuggly floof.",
+  "languages": [
+    {
+      "description": "Dieses knallharte Caliber Chick ist ein überraschend kuscheliger Floof.",
+      "name": "Floof: Jillian",
+      "code": "de"
+    },
+    {
+      "description": "Cette Caliber Chick si coriace est une peluche étonnamment douce.",
+      "name": "Peluche Jillian",
+      "code": "fr"
+    },
+    {
+      "description": "Questa Caliber Chick, tosta come l'acciaio, è sorprendentemente soffice e coccolosa.",
+      "name": "Floof Jillian",
+      "code": "it"
+    },
+    {
+      "description": "강철처럼 강인한 칼리버 칙이지만, 이 플루프는 놀라울 정도의 포근함을 가지고 있습니다.",
+      "name": "질리안 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Esta Caliber Chick, dura como una roca, es un peluche sorprendentemente suave.",
+      "name": "Floof de Jillian",
+      "code": "es"
+    },
+    {
+      "description": "坚韧不拔的火力女兵竟然可以是个暖心玩偶。",
+      "name": "吉利安玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Эта крепкая как гвоздь героиня «Caliber Chick» стала на удивление уютным пушистиком.",
+      "name": "Пушистик: Джиллиан",
+      "code": "ru"
+    },
+    {
+      "description": "この強面のCalibur Chickも驚くほどフワフワになる。",
+      "name": "Jillianのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta twarda Caliber Chick jest zaskakująco miękką przytulanką.",
+      "name": "Pluszak Jillian",
+      "code": "pl"
+    },
+    {
+      "description": "Essa Caliber Chick durona resultou em uma pelúcia surpreendentemente fofinha.",
+      "name": "Floof: Jillian",
+      "code": "pt"
+    },
+    {
+      "description": "這名堅定的英豪戰姬玩偶意外地化身成適合依偎的玩偶。",
+      "name": "吉莉安玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "Caliber Chick ที่แข็งแกร่งสุด ๆ กลายเป็นตุ๊กตาที่น่ากอดอย่างน่าประหลาดใจ",
+      "name": "ตุ๊กตา Jillian",
+      "code": "th"
+    },
+    {
+      "description": "Bu sert Caliber Chick, şaşırtıcı derecede sevimli bir peluşa dönüştü.",
+      "name": "Jillian Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "З міцної, наче цвяхи, крутої дівчини вийшов навдивовижу м’який плюш.",
+      "name": "Плюш «Джиліан»",
+      "code": "uk"
+    }
+  ]
+}

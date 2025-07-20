@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/TnTwoHandedKatana/TnTwoHandedKatana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tatsu-7f0f58e9f0.png",
+  "name": "Tatsu",
+  "description": "Fearsome and noble, the elegant two-handed Nikana is the pride of any Arsenal. Kills build charges and seeking projectiles are unleashed with a Slide Attack to find and stun unwitting enemies. When Revenant wields this blade, Tatsu’s charge cap is increased.",
+  "languages": [
+    {
+      "description": "Angsteinflößend und edel, ist dieses zweihändige Nikana der Stolz jedes Arsenals. Das Töten von Gegnern füllt Ladungen auf, die bei einem Rutschangriff als zielsuchende Projektile freigesetzt werden und unwissende Gegner finden und betäuben. Wird diese Klinge von Revenant geführt, hat Tatsu eine höhere Ladungskapazität.",
+      "name": "Tatsu",
+      "code": "de"
+    },
+    {
+      "description": "Noble, redoutable et élégant, ce Nikana à deux mains fera la fierté de n'importe quel Arsenal. Les éliminations octroient des charges et des projectiles autoguidés sont libérés à l'aide d'une Attaque Glissée afin de trouver et étourdir les ennemis ne s'y attendant pas. Dans les mains de Revenant, le maximum de charges est augmenté.",
+      "name": "Tatsu",
+      "code": "fr"
+    },
+    {
+      "description": "Spaventosa e nobile, l'elegante Nikana a due mani è l'orgorglio di qualsiasi arsenale. Le uccisioni accumulano cariche e proiettili a ricerca che vengono sfoderati con un Attacco in Scivolata, i quali ricercano e stordiscono i nemici inconsapevoli. Quando Revenant impugna questa lama, le cariche aumentano.",
+      "name": "Tatsu",
+      "code": "it"
+    },
+    {
+      "description": "공포와 기품을 동시에 지닌, 이 품격있는 양손 니카나는 긍지의 무기입니다. 적을 처치할 때마다 차지를 축적하며 슬라이드 공격으로 유도 발사체가 방출하여 적들을 자신도 모르는 사이에 기절시킵니다. 레버넌트가 이 칼날을 휘두르면 최대 차지량이 증가합니다.",
+      "name": "타츠",
+      "code": "ko"
+    },
+    {
+      "description": "Temible y noble, la elegante nikana de dos manos es el orgullo de cualquier arsenal. Los asesinatos generan cargas y se liberan proyectiles buscadores con cada ataque deslizante que buscan y aturden enemigos. Cuando es portada por Revenant, aumenta el límite de cargas de Tatsu.",
+      "name": "Tatsu",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TATSU）尊贵而令人畏惧，这把优雅的双手侍刃是任何军械库里的骄傲。击杀可以蓄能，而在施展滑行攻击时，积蓄的能量会转化为投射物，追踪并击晕那些浑然不觉的敌人。在被 Revenant 使用时，龙辰的蓄能次数上限会得到提升。",
+      "name": "龙辰",
+      "code": "zh"
+    },
+    {
+      "description": "Устрашающая и величественная двуручная никана — предмет гордости любого арсенала. При убийстве создаются оглушающие врагов самонаводящиеся снаряды, выпускаемые при совершении атаки в подкате. Если используется Ревенантом — обладает увеличенным накоплением энергии.",
+      "name": "Татсу",
+      "code": "ru"
+    },
+    {
+      "description": "恐ろしくも高貴な、この洗練された両手刀はどんなアーセナルでも自慢になる。この武器によるキルで蓄積されるチャージを、スライドアタックで追尾する飛翔体として解き放ち、無警戒の敵を探知しスタンさせよう。Revenantが使用した際には、貯められるチャージの上限が増加する。",
+      "name": "Tatsu",
+      "code": "ja"
+    },
+    {
+      "description": "Przerażająca i szlachetna, elegancka dwuręczna Nikana jest ozdobą każdego arsenału. Zabójstwa budują ładunki, które są wypuszczane w postaci samokierujących się pocisków po Ataku w Ślizgu. Pociski są w stanie ogłuszyć nieświadomych wrogów. Kiedy Revenant dzierży to ostrze, zwiększa się maksymalna wartość ładunków Tatsu.",
+      "name": "Tatsu",
+      "code": "pl"
+    },
+    {
+      "description": "Nobre e temível, esta Nikana de duas mãos elegante é o orgulho de qualquer arsenal. Eliminações carregam esta arma, e faz com que projéteis atordoantes sejam disparados ao realizar um Ataque Deslizante. Quando utilizada pelo Revenant, a carga da Tatsu é aumentada.",
+      "name": "Tatsu",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TATSU）令人生畏既尊貴，這把優雅的雙手持侍刃是任何軍械庫裡的驕傲。擊殺可以蓄能，而在施展滑行攻擊時，積蓄的能量會轉化為投射物，追蹤並擊暈那些渾然不覺的敵人。在被 Revenant 使用時，龍辰的蓄能次數上限會得到提升。",
+      "name": "龍辰",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบนิคานะแบบถือสองมือที่สวยงามซึ่งแฝงไว้ทั้งความน่ากลัวและสง่างามคืออาวุธที่ทุกคนภาคภูมิใจจะบรรจุไว้ในคลังแสง การฆ่าจะสร้างชาร์จที่จะปล่อยกระสุนนำวิถีเมื่อทำการไถลตัวโจมตีเพื่อค้นหาและทำให้ศัตรูที่ไม่ทันตั้งตัวมึนงง เมื่อ Revenant เป็นผู้ใช้ดาบเล่มนี้ ก็จะเพิ่มการชาร์จให้ดาบ Tatsu มากขึ้นอีก",
+      "name": "Tatsu",
+      "code": "th"
+    },
+    {
+      "description": "Korkunç ve asil, bu şık iki-elli Nikana her Arsenal'in gururu. Habersiz düşmanları bulmak ve sersemletmek için öldürerek güç toplar ve kendine yönelen mermilerden kayarak saldırma ile korunur. Revenant tarafından bu kılıç kullanıldığında, Tatsu'nun şarj kapasitörünü arttırır.",
+      "name": "Tatsu",
+      "code": "tr"
+    },
+    {
+      "description": "Грізна, велична й елегантна дворучна нікана. Убиваючи нею ворогів, ви накопичуєте енергію, яка під час удару в ковзанні перетворюється на самонавідні снаряди, що приголомшують ворогів. У руках Ревенанта Татсу накопичує більше енергії.",
+      "name": "Татсу",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Powersuits/IronFrame/BlastWeaponPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/balefire-charger-prime-3a04b56f5e.png",
+  "name": "Balefire Charger Prime",
+  "description": "Charge and release powerful bolts of balefire.",
+  "languages": [
+    {
+      "description": "Lade verheerende Freudenfeuerbolzen auf und feuere sie ab.",
+      "name": "Freudenfeuerladung Prime",
+      "code": "de"
+    },
+    {
+      "description": "Charge et envoie de puissants fragments incandescents.",
+      "name": "Chargeur Incandescent Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Carica e rilascia potenti dardi della balefire.",
+      "name": "Balefire Charger Prime",
+      "code": "it"
+    },
+    {
+      "description": "강력한 베일파이어 덩어리를 충전 후 방출합니다.",
+      "name": "베일파이어 차저 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Carga y lanza poderosos clavos del Balefire.",
+      "name": "Cargador Balefire Prime",
+      "code": "es"
+    },
+    {
+      "description": "蓄力并放出闪电般的野火。",
+      "name": "野火充能 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Заряжает и выпускает заряды Погребального Огня.",
+      "name": "Зарядник Погребального Огня Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "チャージしリリースことで強力な炎を放つ。",
+      "name": "Balefire Charger Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Naładuj i uwolnij pożogę i ogień zniszczenia.",
+      "name": "Pożoga Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Carregará e disparará projéteis incandescentes.",
+      "name": "Disparador da Incandescência Prime",
+      "code": "pt"
+    },
+    {
+      "description": "蓄力並發射強大的疾速野火。",
+      "name": "野火充能 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ชาร์จและยิงกระแสไฟฟ้าของ Balefire ที่ทรงอานุภาพออกมา",
+      "name": "Balefire Charger Prime",
+      "code": "th"
+    },
+    {
+      "description": "Güçlü balya ateşi mühimmatını şarj et ve ateşle.",
+      "name": "Balefire Charger Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Заряджає й випускає потужні заряди Вогнестріла.",
+      "name": "Зарядник Вогнестріла-прайм",
+      "code": "uk"
+    }
+  ]
+}

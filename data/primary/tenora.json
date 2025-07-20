@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenora-0980845df3.png",
+  "name": "Tenora",
+  "description": "Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. When Octavia wields her signature rifle alt-fire Headshot Kills have a chance to instantly refill the magazine.",
+  "languages": [
+    {
+      "description": "Entlade ein schlagkräftiges Maschinengewehrfeuer oder triff den richtigen Nerv mit einem aufgeladenen Einzelschuss. Wenn Octavia ihre bevorzugte Waffe führt, dann haben Kopfschuss-Kills eine Chance, das Magazin sofort zu füllen.",
+      "name": "Tenora",
+      "code": "de"
+    },
+    {
+      "description": "Enchaînez un roulement percutant de tirs ou faites résonner la note finale avec un tir chargé. Dans les mains d'Octavia, les Tirs à la Tête fatals du tir alternatif de son Fusil emblématique ont une chance de renflouer instantanément le chargeur.",
+      "name": "Tenora",
+      "code": "fr"
+    },
+    {
+      "description": "Scarica una percussiva mitragliata di colpi o crea un accordo pesante con un solo colpo caricato. Quando Octavia impugna il suo fucile distintivo, le uccisioni con Colpi alla Testa effettuate con il fuoco secondario hanno una possibilità di ricaricare istantaneamente il caricatore.",
+      "name": "Tenora",
+      "code": "it"
+    },
+    {
+      "description": "맹렬한 드럼처럼 쏟아지는 머신건을 격발하거나, 단 한 발의 차지 샷으로 묵직한 화음을 때려넣어 보세요. 옥타비아가 이 대표 소총을 사용할 시 보조-발사로 헤드샷 처치가 즉시 탄창을 다시 채웁니다.",
+      "name": "테노라",
+      "code": "ko"
+    },
+    {
+      "description": "Dispara una ráfaga de balas al ritmo de la percusión o destrúyelos con un solo disparo cargado. Este es el arma distintiva de Octavia. Cuando es portada por Octavia, los asesinatos con disparos a la cabeza del disparo alternativo tienen una probabilidad de rellenar instantáneamente el cargador.",
+      "name": "Tenora",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENORA）释放出强大冲击力的机枪炮火，或者用单发充能射击进行重和弦攻击。当 Octavia 使用她的标志性步枪时，由次要射击所造成的爆头击杀有几率立即装填弹匣。",
+      "name": "双簧管",
+      "code": "zh"
+    },
+    {
+      "description": "Используйте ударный пулемётный огонь или выдайте мощный аккорд заряженным выстрелом. Если используется Октавией — убийства в голову с помощью дополнительного режима ведения огня имеют шанс мгновенно восполнить магазин.",
+      "name": "Тенора",
+      "code": "ru"
+    },
+    {
+      "description": "パーカッションのごとき弾丸の雨を降らせるか、一発のチャージショットで重いコードを刻むか。自らを象徴するライフルをOctaviaが使用すると、セカンダリ射撃によるヘッドショットキルが一定確率でマガジンに弾を即時補充する。",
+      "name": "Tenora",
+      "code": "ja"
+    },
+    {
+      "description": "Wyładuj salwę w przeciwnika tym precyzyjnym karabinem maszynowym lub uderz w niego jednym potężnym, ładowanym strzałem. Kiedy Octavia dzierży ten charakterystyczny dla niej karabin, zabójstwo strzałem w głowę wykonane z tej broni natychmiast uzupełnia magazynek.",
+      "name": "Tenora",
+      "code": "pl"
+    },
+    {
+      "description": "Descarregue disparos percussivos como uma metralhadora, ou ataque com um único disparo carregado. Quando utilizada pela Octavia, o Disparo Alternativo de sua arma tradicional apresenta uma chance de restaurar Munição ao eliminar inimigos com Acertos de Precisão.",
+      "name": "Tenora",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENORA）釋放出強大衝擊力的機槍炮火，或者用單發充能射擊進行重和弦攻擊。當 Octavia 使用她的招牌步槍時，由次要開火模式所造成的爆頭擊殺有機率立即裝填彈匣。",
+      "name": "雙簧管",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงกระสุนปืนกลไปตามจังหวะ หรือกระแทกคอร์ดหนัก ๆ ด้วยการชาร์จยิงเพียงนัดเดียว หาก Octavia เป็นผู้ใช้ปืนไรเฟิลกระบอกนี้ยิงโหมดสำรอง เมื่อยิงเฮดช็อตก็จะมีโอกาสที่จะเติมกระสุนในแม็กกาซีนทันที",
+      "name": "Tenora",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlarını makineli atış ile indir veya tek bir şarjlı atışta tüm gücünle ateş et. Octavia'nın özel silahı kullanıldığında, ikincil ateş ile Kafa Vuruşu Öldürmelerinde, şarjörü anında yeniden doldurma şansına sahiptir.",
+      "name": "Tenora",
+      "code": "tr"
+    },
+    {
+      "description": "Косіть ворогів ритмічним кулеметним вогнем або накопичуйте заряд і видавайте убивчий акорд. У руках Октавії ця гвинтівка миттєво перезаряджається в разі смертельного влучання ворогові в голову.",
+      "name": "Тенора",
+      "code": "uk"
+    }
+  ]
+}

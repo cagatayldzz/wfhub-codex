@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/BaruukPrimeEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vaaditum-prime-ephemera-c4d91e30eb.png",
+  "name": "Vaaditum Prime Ephemera",
+  "description": "Honor your serenity and that of others as you display Baruuk's symbol. In relays, temporarily bestow the Vaaditum Prime Ephemera upon others.",
+  "languages": [
+    {
+      "description": "Ehrt deine Gelassenheit und die der anderen, wenn du Baruuks Symbol trägst. Verleiht anderen vorübergehend das Ephemera: Vaaditum Prime.",
+      "name": "Ephemera: Vaaditum Prime",
+      "code": "de"
+    },
+    {
+      "description": "Honorez votre sérénité et celle des autres en arborant le symbole de Baruuk. Dans les Relais, faites profiter temporairement les autres de l'Ephemera Vaaditum Prime.",
+      "name": "Ephemera Vaaditum Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Onora la tua serenità e quella degli altri mentre mostri il simbolo di Baruuk. Nelle stazioni, conferisci temporaneamente l'Ephemera Vaaditum Prime agli altri.",
+      "name": "Ephemera Vaaditum Prime",
+      "code": "it"
+    },
+    {
+      "description": "바루크의 상징을 나타냄으로써 자신과 다른 이들의 평온을 존중해 주세요. 릴레이에서는 잠시 동안 다른 이들에게 바아디툼 프레임 이페메라의 효과를 부여할 수 있습니다.",
+      "name": "바아디툼 프라임 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Honra tu serenidad y la de los demás mientras exhibes el símbolo de Baruuk. En los Repetidores, otorga temporalmente a otros el efímero Vaaditum Prime.",
+      "name": "Efímero Vaaditum Prime",
+      "code": "es"
+    },
+    {
+      "description": "展示 Baruuk 的象征，尊重你与他人的宁静。在中继站中，可暂时将惟喜 Prime 幻纹赠予他人。",
+      "name": "惟喜 Prime 幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Прославляйте своё спокойствие и спокойствие других, демонстрируя символ Баруука. Во время пребывания в реле эфемера «Ваадитум Прайм» применяется и к окружающим.",
+      "name": "Эфемера «Ваадитум Прайм»",
+      "code": "ru"
+    },
+    {
+      "description": "Baruukが待つ平静の象徴を示そう。リレーでは周りのプレイヤーにVaaditum Primeエフェメラを施す。",
+      "name": "Vaaditum Prime エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Czcij spokój swój i innych, gdy wyświetlasz symbol Baruuka. Obdaruj tymczasowo innych Efemerą Vaaditum Prime w Przekaźnikach.",
+      "name": "Efemera Vaaditum Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Honre a sua serenidade e a dos demais ao exibir o símbolo do Baruuk. Conceda temporariamente a Efêmera Vaaditum Prime a outros em Relays.",
+      "name": "Efêmera: Vaaditum Prime",
+      "code": "pt"
+    },
+    {
+      "description": "當你展示 Baruuk 的象徵時，尊重你與他人的寧靜。在中繼站時，短暫地將隨喜 Prime 幻紋賜予他人。",
+      "name": "隨喜 Prime 幻纹",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงสัญลักษณ์ของ Baruuk เพื่อเป็นการให้เกียรติต่อความสงบเงียบในตัวคุณและผู้อื่น คุณสามารถมอบอิเฟมเมอรา Vaaditum Prime ให้กับคนอื่นในรีเลย์ได้ชั่วคราว",
+      "name": "อิเฟมเมอรา Vaaditum Prime",
+      "code": "th"
+    },
+    {
+      "description": "Baruuk'un sembolünü sergilerken kendi dinginliğini ve başkalarının huzurunu onurlandır. Relay'lerde, başkalarına Vaaditum Prime Ephemera'yı geçici olarak bahşet.",
+      "name": "Vaaditum Prime Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Вшануйте спокій свій та інших, демонструючи символ Баруука. Під час вашого перебування на реле ефемера «Ваадітум-прайм» застосовуватиметься до всіх.",
+      "name": "Ефемера «Спокій-прайм»",
+      "code": "uk"
+    }
+  ]
+}

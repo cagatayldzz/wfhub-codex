@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultDethcubePrimeSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dethcube-prime-skin-493cfb423c.png",
+  "name": "Dethcube Prime Skin",
+  "description": "The standard issue skin for the Dethcube Prime Sentinel.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Dethcube Prime Wächter.",
+      "name": "Dethcube Prime Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Sentinelle Dethcube Prime.",
+      "name": "Aspect Dethcube Prime",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per la Sentinella Dethcube Prime.",
+      "name": "Skin Dethcube Prime",
+      "code": "it"
+    },
+    {
+      "description": "데스큐브 프라임 센티넬을 위한 기본 스킨입니다.",
+      "name": "데스큐브 프라임 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el centinela Dethcube Prime.",
+      "name": "Diseño de Dethcube Prime",
+      "code": "es"
+    },
+    {
+      "description": "死亡魔方 Prime 的标准外观配置。",
+      "name": "死亡魔方 Prime 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для стража «Куб Смерти Прайм».",
+      "name": "Скин Куба Смерти Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Dethcube Primeの標準型スキン。",
+      "name": "Dethcube Prime スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Strażnika Dethcube Prime.",
+      "name": "Dethcube Prime: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão para a Sentinela Dethcube Prime.",
+      "name": "Dethcube Prime: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "死亡魔方 Prime 守護的標準外觀配置。",
+      "name": "死亡魔方 Prime 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับเซนติเนล Dethcube Prime",
+      "name": "สกิน Dethcube Prime",
+      "code": "th"
+    },
+    {
+      "description": "Dethcube Prime Sentinel'i için standart skin.",
+      "name": "Dethcube Prime Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для вартового Смертокуба-прайм.",
+      "name": "Праймовий вигляд",
+      "code": "uk"
+    }
+  ]
+}

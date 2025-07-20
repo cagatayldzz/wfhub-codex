@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/SomaIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soma-incarnon-genesis-980f2c3695.png",
+  "name": "Soma Incarnon Genesis",
+  "description": "Awaken this weapon's ability to gain increased Status Chance and Multishot while slowing fire rate in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form, erhöhte Statuschance und Mehrfachschuss bei verlangsamter Feuerrate zu erhalten.",
+      "name": "Incarnon-Genesis: Soma",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à augmenter les Chances de Statut et le Tir Multiple tout en ralentissant la cadence de tir sous Forme Incarnon.",
+      "name": "Soma Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di incrementare la Probabilità Critico e Sparo Multiplo mentre rallenta la cadenza di fuoco nella Forma Incarnon.",
+      "name": "Soma Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 연사력을 줄이는 대신 상태 이상 확률 및 멀티샷이 증가합니다.",
+      "name": "소마 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para obtener mayor probabilidad de estado y multidisparo mientras ralentiza la cadencia de fuego en su forma Incarnon.",
+      "name": "Soma Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有降低射速、增加触发几率和多重射击的能力。",
+      "name": "月神灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия получать повышенный шанс статуса и мультивыстрел при сниженной скорострельности в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Сома",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは発射速度を犠牲に状態異常率が上昇しマルチショットを得る。",
+      "name": "Soma インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która zyskuje premię Szansy Statusu i Wielostrzału kosztem Szybkostrzelności.",
+      "name": "Geneza Inkarnon: Soma",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de aumentar sua Chance de Status e Tiros Múltiplos enquanto reduz a Cadência de Tiro no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Soma",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下增加狀態觸發機率及多重射擊，但會降低射速。",
+      "name": "月神應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะทำให้โอกาสสถานะและมัลติช็อตเพิ่มขึ้นแต่อัตราการยิงจะช้าลง",
+      "name": "Soma Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde atış hızının azalması karşılığında Statü Şansının ve Çoklu Atış'ın artması özelliğini uyandır.",
+      "name": "Soma Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє отримувати збільшену ймовірність накладання ефекту стану та застосування мультипострілу, але ціною меншої швидкострільності.",
+      "name": "Інкарнонський генезис: Сома",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnWispRifle/TnWispRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fulmin-65c9477900.png",
+  "name": "Fulmin",
+  "description": "Strike with silent lightning or the pummeling drum of thunder. Alternate between stealthy short-range electrical discharge, and automatic lightning gun. Faster mode-switch when used by Wisp.",
+  "languages": [
+    {
+      "description": "Schlage mit der Stille von Blitzen oder dem Grollen des Donners zu. Wechsel zwischen heimlicher, elektrischer Entladung auf kurze Distanz und eines automatischen Blitzgewehrs. Schnellerer Moduswechsel wenn sie von Wisp geführt wird.",
+      "name": "Fulmin",
+      "code": "de"
+    },
+    {
+      "description": "Foudroyez silencieusement ou assourdissez avec du tonnerre. Alternez entre des décharges électriques de courte portée furtives et un Fusil automatique envoyant des éclairs. Le passage d'un mode de tir à l'autre se fait plus rapidement si utilisé par Wisp.",
+      "name": "Fulmin",
+      "code": "fr"
+    },
+    {
+      "description": "Attacca con un fulmine silenzioso o colpisci con un tuono. Alterna tra furtive scariche elettriche a corto raggio, ed una pistola a scarica elettrica automatica. La modalità di scambio è più veloce quando usata da Wisp.",
+      "name": "Fulmin",
+      "code": "it"
+    },
+    {
+      "description": "고요한 번개 또는 끊임없이 울리는 천둥으로 공격하세요. 짧은 사거리에서 은밀하게 방전되는 전기, 그리고 자동 전기 소총 모드를 번갈아 사용하세요. 위습이 사용할 시 모드 전환 속도가 빨라집니다.",
+      "name": "펄민",
+      "code": "ko"
+    },
+    {
+      "description": "Ataca con el silencio de un rayo o el estruendo de un trueno. Alterna entre una sigilosa descarga eléctrica de corto alcance y un arma de rayo automática. Cambio de modo más rápido cuando es usada por Wisp.",
+      "name": "Fulmin",
+      "code": "es"
+    },
+    {
+      "description": "（英文：FULMIN）用寂静或雷鸣般的闪电来攻击。可在隐秘的短距离放电和自动闪电枪两种模式中切换。在被 Wisp 使用时，武器的模式切换速度会更快。",
+      "name": "雷霆",
+      "code": "zh"
+    },
+    {
+      "description": "Атакуйте бесшумной молнией или же грохочущим ударом грома. Доступны два режима ведения огня: скрытный электрический разряд ближнего радиуса действия и автоматическая электрическая пушка. При использовании Висп смена режимов происходит быстрее.",
+      "name": "Фульмин",
+      "code": "ru"
+    },
+    {
+      "description": "無音の稲光、または轟く雷鳴。落雷を模したこのライフルは短射程ステルス銃とフルオート銃を切り替えられる。Wispが使うとモード変更が早くなる。",
+      "name": "Fulmin",
+      "code": "ja"
+    },
+    {
+      "description": "Burza i poprzedzająca ją cisza. Fulmin posiada dwa tryby ognia: ciche wyładowanie elektryczne na krótkim dystansie, oraz ogień automatyczny. Zmiana trybu jest przyspieszona, kiedy ta broń jest używana przez Wisp.",
+      "name": "Fulmin",
+      "code": "pl"
+    },
+    {
+      "description": "Ataque com raios silenciosos ou com o estrondo atordoante de um trovão. Alterne entre uma descarga elétrica furtiva de curto alcance e uma arma de raios automática. Possui troca do modo de disparo mais rápido se empunhada pela Wisp.",
+      "name": "Fulmin",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：FULMIN）以寂靜或雷鳴般的閃電來攻擊。可在隱密的短距離放電和自動閃電槍兩種模式中切換。Wisp 使用時，武器的模式切換速度會更快。",
+      "name": "雷霆",
+      "code": "tc"
+    },
+    {
+      "description": "โจมตีด้วยสายฟ้าที่ไร้เสียงหรือส่งเสียงฟ้าร้องดั่งกลองก้องคำราม สลับโหมดไปมาระหว่างลอบยิงไฟฟ้าระยะใกล้กับปืนที่ยิงสายฟ้าอัตโนมัติ หาก Wisp เป็นผู้ใช้จะทำให้สลับโหมดได้เร็วขึ้น",
+      "name": "Fulmin",
+      "code": "th"
+    },
+    {
+      "description": "Sessiz bir yıldırım ya da gök gürültüleri ile saldır. Kısa mesafede sinsi elektrik silahı veya otomatik yıldırım silahı arasında geçiş yap. Wisp tarafından kullanıldığında daha hızlı mod değiştirme imkanı sunar.",
+      "name": "Fulmin",
+      "code": "tr"
+    },
+    {
+      "description": "Електрогвинтівка, що може дуже тихо стріляти на близькій дистанції та, коли потрібно, вивільняти тривалий розряд убивчої потужності. У руках Вісп швидше перемикається між режимами вогню.",
+      "name": "Фульмін",
+      "code": "uk"
+    }
+  ]
+}

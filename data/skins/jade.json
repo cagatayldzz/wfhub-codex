@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerJadeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-134a9fd42f.png",
+  "name": "Jade",
+  "description": "Unlocks additional color options for Warframe customization.",
+  "languages": [
+    {
+      "description": "Schaltet zusätzliche Farben für die Anpassung der Warframes frei.",
+      "name": "Jade",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille de nouvelles couleurs pour personnaliser l’apparence des Warframes.",
+      "name": "Jade",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca ulteriori opzioni colore per la personalizzazione dell'armatura.",
+      "name": "Jade",
+      "code": "it"
+    },
+    {
+      "description": "워프레임을 꾸밀 때 사용하는 추가적인 색상들을 잠금 해제합니다.",
+      "name": "제이드",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea opciones de color adicionales para la personalización del warframe.",
+      "name": "Jade",
+      "code": "es"
+    },
+    {
+      "description": "解锁更多用于战甲的自定义色彩。",
+      "name": "翡翠",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует дополнительные цвета в меню настроек варфрейма.",
+      "name": "Нефрит",
+      "code": "ru"
+    },
+    {
+      "description": "カスタマイズ用追加カラーをアンロックする。",
+      "name": "Jade",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje dodatkowe kolory do personalizacji Warframe'a.",
+      "name": "Jadeit",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava opções de cores adicionais para a personalização de Warframe.",
+      "name": "Jade",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖額外的裝備自訂色彩。",
+      "name": "翡翠",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกตัวเลือกสีเพิ่มเติมเพื่อใช้ปรับแต่ง Warframe",
+      "name": "Jade",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'ini kişiselleştirmek için daha fazla canlı renk yelpazesinin kilidini açar.",
+      "name": "Yeşim",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів задля урізнобарвлення гри.",
+      "name": "Нефрит",
+      "code": "uk"
+    }
+  ]
+}

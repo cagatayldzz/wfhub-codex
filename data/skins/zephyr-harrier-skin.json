@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrDeluxeSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-harrier-skin-ce853e8238.png",
+  "name": "Zephyr Harrier Skin",
+  "description": "Ride the skies in breathtaking, windswept style.",
+  "languages": [
+    {
+      "description": "Fliege mit diesem atemberaubenden, windgepeitschten Stil durch die Wolken.",
+      "name": "Zephyr-Skin: Harrier",
+      "code": "de"
+    },
+    {
+      "description": "Parcourez les cieux au gré du vent avec un style époustouflant.",
+      "name": "Aspect Zephyr Harrier",
+      "code": "fr"
+    },
+    {
+      "description": "Cavalca i cieli con uno stile mozzafiato e aerodinamico.",
+      "name": "Skin Zephyr Harrier",
+      "code": "it"
+    },
+    {
+      "description": "숨이 턱 막힐 듯 거대한 바람을 두른 스타일로 하늘을 누벼 보세요.",
+      "name": "제피르 해리어 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Surca los cielos con un estilo aerodinámico e impresionante.",
+      "name": "Diseño Harrier de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "通过令人叹为观止的凌风外观来驰骋天际。",
+      "name": "Zephyr 鹞式外观",
+      "code": "zh"
+    },
+    {
+      "description": "Поднимитесь в небеса в захватывающем дух стиле ветра.",
+      "name": "Скин Зефир: Харриер",
+      "code": "ru"
+    },
+    {
+      "description": "息を呑むような風にさらされたスタイルで空中を自在に移動しよう。",
+      "name": "Zephyr Harrier スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Przemierzaj przestworza w smaganym wiatrem, zapierającym dech w piersiach stylu.",
+      "name": "Zephyr: Skórka Harrier",
+      "code": "pl"
+    },
+    {
+      "description": "Plane pelos céus com um estilo arrebatador e aerodinâmico.",
+      "name": "Zephyr: Skin Harrier",
+      "code": "pt"
+    },
+    {
+      "description": "以奪人心魄，威風凜然的外觀馳騁天際。",
+      "name": "Zephyr 鷂亞外觀",
+      "code": "tc"
+    },
+    {
+      "description": "โบยบินลอยเหนือลมบนท้องฟ้าในสไตล์ที่น่าทึ่ง",
+      "name": "สกิน Zephyr Harrier",
+      "code": "th"
+    },
+    {
+      "description": "Gökyüzünde nefes kesici, rüzgârlı bir tarz ile süzül.",
+      "name": "Zephyr Harrier Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Шугайте в небесах завдяки вигляду, народженому з вітру.",
+      "name": "Вигляд «Гаррієр» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

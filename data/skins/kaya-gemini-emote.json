@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryKayaEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kaya-gemini-emote-f7260d8e46.png",
+  "name": "Kaya Gemini Emote",
+  "description": "Switch between Nova and Kaya's Gemini Skin with the Kaya Gemini Emote, even during missions.",
+  "languages": [
+    {
+      "description": "Wechsle mit dem Emote: Kaya Gemini zwischen Nova und Kayas Gemini-Skin, auch während Missionen.",
+      "name": "Emote: Kaya Gemini",
+      "code": "de"
+    },
+    {
+      "description": "Basculez entre Nova et l'Aspect Kaya de la Série Gémeaux avec le Geste Kaya Gémeaux, même pendant les missions.",
+      "name": "Geste Kaya Gémeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Passa dalla Skin di Nova a quella Gemini di Kaya con l'Emote Kaya Gemini, anche durante le missioni.",
+      "name": "Emote Kaya Gemini",
+      "code": "it"
+    },
+    {
+      "description": "미션 도중 카야 제미니 감정 표현을 사용해 카야의 제미니 스킨과 노바 사이를 자유로이 전환할 수 있습니다.",
+      "name": "카야 제미니 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Cambia entre Nova y el diseño Géminis de Kaya con el gesto Géminis de Kaya, incluso durante las misiones.",
+      "name": "Gesto de Kaya Géminis",
+      "code": "es"
+    },
+    {
+      "description": "使用卡娅表情动作，在 Nova 和卡娅的双子外观之间切换，即使是在任务期间。",
+      "name": "卡娅双子表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Переключайтесь между Новой и скином Кайи «Близнецы» с помощью жеста «Близнецы» Кайи, даже во время миссий.",
+      "name": "Жест Кайи: Близнецы",
+      "code": "ru"
+    },
+    {
+      "description": "Kaya Geminiエモートでミッション中NovaとKayaを自由に切り替える。",
+      "name": "Kaya Gemini エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Przełączaj się między Skórką Novy i Skórką Gemini Kayi za pomocą Gestu Gemini Kayi, nawet w trakcie misji.",
+      "name": "Gest Gemini Kayi",
+      "code": "pl"
+    },
+    {
+      "description": "Alterne entre a Nova e a Skin Gemini da Kaya com o Emote Gemini da Kaya, até mesmo durante suas missões.",
+      "name": "Emote Gemini da Kaya",
+      "code": "pt"
+    },
+    {
+      "description": "使用卡婭雙子表情動作來在 Nova 和卡婭的雙子外觀之間切換，即使在任務期間。",
+      "name": "卡婭雙子表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "สลับไปมาระหว่าง Nova กับสกิน Gemini ของ Kaya ด้วยอิโมต Kaya Gemini ซึ่งเปลี่ยนได้แม้จะอยู่ในระหว่างการทำภารกิจ",
+      "name": "อิโมต Kaya Gemini",
+      "code": "th"
+    },
+    {
+      "description": "Görevler sırasında, Kaya Gemini Gövde Hareketi ile Nova ve Kaya'nın Gemini Skin'i arasında geçiş yapabilirsin.",
+      "name": "Kaya Gemini Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Перемикайтеся між виглядами Нови та Каї за допомогою жесту «Кая „Двійнята”» навіть під час завдання.",
+      "name": "Жест «Кая „Двійнята”»",
+      "code": "uk"
+    }
+  ]
+}

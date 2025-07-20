@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Horse/ErsatzHorseSaddleC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sohseki-saddle-36a01deace.png",
+  "name": "Sohseki Saddle",
+  "description": "Style and comfort meet in the Sohseki Saddle. Its padding provides stability and protection during jumps.",
+  "languages": [
+    {
+      "description": "Stil und Komfort kommen im Sohseki-Sattel zusammen. Seine Polsterung sorgt für Stabilität und Schutz bei Sprüngen.",
+      "name": "Sattel: Sohseki",
+      "code": "de"
+    },
+    {
+      "description": "Style et confort s'associent pour une expérience des plus confortables. Son rembourrage apporte stabilité et protection lors des sauts.",
+      "name": "Selle Sohseki",
+      "code": "fr"
+    },
+    {
+      "description": "Stile e comfort si incontrano nella Sella Sohseki. La sua imbottitura fornisce stabilità e protezione durante i salti.",
+      "name": "Sella Sohseki",
+      "code": "it"
+    },
+    {
+      "description": "스타일리시함과 편안함이 소세키 안장에서 한 데 어우러집니다. 이 안장의 완충재는 점프 시 안정성과 보호 기능을 제공해 줍니다.",
+      "name": "소세키 안장",
+      "code": "ko"
+    },
+    {
+      "description": "El estilo y la comodidad se encuentran en la silla Sohseki. Su acolchado proporciona estabilidad y protección durante los saltos.",
+      "name": "Silla Sohseki",
+      "code": "es"
+    },
+    {
+      "description": "杀生石马鞍兼具酷炫与舒适的特性。它的填充物在跳跃过程中具备很好的稳定性和保护性。",
+      "name": "杀生石马鞍",
+      "code": "zh"
+    },
+    {
+      "description": "Стиль и комфорт встречаются в седле «Сосеки». Его конструкция обеспечивает стабильность и защиту во время прыжков.",
+      "name": "Седло: Сосеки",
+      "code": "ru"
+    },
+    {
+      "description": "Sohsekiサドルはスタイルと快適性が合わさった一品。高く飛び上がり着地してもクッションが騎手を守る。",
+      "name": "Sohseki サドル",
+      "code": "ja"
+    },
+    {
+      "description": "Styl i komfort spotykają się w siodle Sohseki. Pogrubiona wyściółka zapewnia dodatkową stabilność i ochronę podczas skoków.",
+      "name": "Siodło: Sohseki",
+      "code": "pl"
+    },
+    {
+      "description": "Estilo e conforto se encontram na sela Sohseki. Seu acolchoamento proporciona estabilidade e proteção durante saltos.",
+      "name": "Sela Sohseki",
+      "code": "pt"
+    },
+    {
+      "description": "趨吉馬鞍同時兼具時尚與舒適的特質。它的填充物在跳躍過程中提供穩定性和保護。",
+      "name": "礎石馬鞍",
+      "code": "tc"
+    },
+    {
+      "description": "อาน Sohseki เป็นส่วนผสมที่ลงตัวระหว่างความมีสไตล์และความสบาย เบาะรองช่วยให้นั่งได้อย่างมั่นคงและช่วยป้องกันระหว่างที่ม้ากระโดดได้",
+      "name": "อาน Sohseki",
+      "code": "th"
+    },
+    {
+      "description": "Şıklık ve konfor Sohseki Eyerinde buluşuyor. Dolgusu, zıplamalar sırasında stabilite ve koruma sağlar.",
+      "name": "Sohseki Eyeri",
+      "code": "tr"
+    },
+    {
+      "description": "Маєте сідло «Сосекі» — знаєтеся на стилі й затишку. Його підкладка надає захист і стабільність під час стрибків.",
+      "name": "Сідло «Сосекі»",
+      "code": "uk"
+    }
+  ]
+}

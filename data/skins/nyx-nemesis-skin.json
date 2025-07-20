@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Jade/NyxNemesisSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nyx-nemesis-skin-b7965a1836.png",
+  "name": "Nyx Nemesis Skin",
+  "description": "A striking armor design of unknown origin. Extensive scans of the Orokin record reveal nothing.\n\n*Nyx not included.",
+  "languages": [
+    {
+      "description": "Ein beeindruckendes Rüstungsdesign von unbekannter Herkunft. Ausführliche Scans der Orokin Aufzeichnungen haben nichts ergeben.\n\n*Nyx nicht enthalten.",
+      "name": "Nyx-Skin: Nemesis",
+      "code": "de"
+    },
+    {
+      "description": "Un concept d'armure lourde d'origine inconnue. Les scans approfondis des dossiers de la période Orokin n'ont rien donné.\n\n*Nyx n'est pas incluse.",
+      "name": "Aspect Nyx Nemesis",
+      "code": "fr"
+    },
+    {
+      "description": "Un design impressionante di origini sconosciute per questa armatura. Dettagliate esaminazioni dei decumenti Orokin non hanno rivelato nulla.\n\n*Nyx non incluso.",
+      "name": "Skin Nyx Nemesis",
+      "code": "it"
+    },
+    {
+      "description": "제작자를 알 수 없는 디자인을 가진 공격용 아머로, 오로킨의 기록을 통한 스캔을 해봐도 아무것도 감지되지 않았습니다.\n\n*닉스는 포함되어 있지 않습니다.",
+      "name": "닉스 네메시스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño de armadura impresionante de un origen desconocido. Escaneos extensivos del registro orokin no revelan nada. \n\n*Nyx no incluida.",
+      "name": "Diseño Némesis de Nyx",
+      "code": "es"
+    },
+    {
+      "description": "引人注目的盔甲设计，其来源不明，大量检视 Orokin 纪录后仍未有所获。\n\n*本商品不含 Nyx 战甲。",
+      "name": "Nyx 复仇女神外观",
+      "code": "zh"
+    },
+    {
+      "description": "Атакующая броня неизвестного происхождения. Поверхностные сканирования записей Орокин не проясняют ничего.\n\n*Никс не включена.",
+      "name": "Скин Никс: Немезида",
+      "code": "ru"
+    },
+    {
+      "description": "由来ははっきりせず、著しいデザインを取り込んだ装甲スキン。オロキンの記録を何度も調べてもそれらしい記録は見つからない。\n\n※装着にはNyxが必要です。",
+      "name": "Nyx Nemesis スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Efektowny projekt pancerza nieznanego pochodzenia. Nie znaleziono żadnych danych w czasie szeroko zakrojonego skanowania rejestrów Orokin.\n\n*Nie zawiera Nyx.",
+      "name": "Nyx: Skórka Nemesis",
+      "code": "pl"
+    },
+    {
+      "description": "O projeto de uma Armadura impressionante de origem desconhecida. Extensas analises dos registros Orokin não revelaram nada.\n\n*Nyx não Inclusa.",
+      "name": "Nyx: Skin Nemesis",
+      "code": "pt"
+    },
+    {
+      "description": "引人注目的盔甲設計，其來源不明，大量檢視 Orokin 紀錄後仍未有所獲。\n\n*本商品不含 Nyx Warframe。",
+      "name": "Nyx 復仇女神外觀",
+      "code": "tc"
+    },
+    {
+      "description": "การออกแบบชุดเกราะอันโดดเด่นที่ไม่ทราบที่มา การสแกนบันทึก Orokin อย่างยาวนานกลับไม่เปิดเผยอะไรเลย\n\n*ไม่รวม Nyx",
+      "name": "สกิน Nyx Nemesis",
+      "code": "th"
+    },
+    {
+      "description": "Orokin kayıtlarında dahi geçmeyen bir türe ait bir vuruş zırh dizaynı. \n\n*Nyx dahil değildir.",
+      "name": "Nyx Nemesis Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Приголомшливий обладунок невідомого походження. Детальне зчитування орокінських записів не дало жодних результатів.\n\n*Сам ворфрейм Нікс не додається.",
+      "name": "Вигляд «Немезида» для Нікс",
+      "code": "uk"
+    }
+  ]
+}

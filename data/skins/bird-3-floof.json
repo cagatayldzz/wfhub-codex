@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/BirdPlush",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bird-3-floof-f9bdc7d0ef.png",
+  "name": "Bird 3 Floof",
+  "description": "'See, now your family is all together in your nest.' - Loid",
+  "languages": [
+    {
+      "description": "'Siehst du, jetzt ist deine Familie zusammen in deinem Nest.' - Loid",
+      "name": "Floof: Vogel 3",
+      "code": "de"
+    },
+    {
+      "description": "'Vous voyez, maintenant votre famille est ensemble, dans ce nid.' - Loid",
+      "name": "Peluche Oiseau-3",
+      "code": "fr"
+    },
+    {
+      "description": "'Ecco, adesso la tua famiglia è riunita nel tuo nido.' - Loid",
+      "name": "Floof Bird 3",
+      "code": "it"
+    },
+    {
+      "description": "'봐, 이제 가족 모두가 네 둥지 안에 함께 있잖나.' - 로이드",
+      "name": "새 3호 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "'Mira, ahora toda tu familia está reunida en tu nido'. - Loid",
+      "name": "Floof de Bird 3",
+      "code": "es"
+    },
+    {
+      "description": "“看，你的家人现在都在你的小窝里团聚了。”——洛德",
+      "name": "鸟三玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "«Видишь, теперь твоя семья вся вместе в твоём гнезде». - Лойд",
+      "name": "Пушистик: Птичка-3",
+      "code": "ru"
+    },
+    {
+      "description": "「ほら、貴方の家族がねぐらと共にいますよ。」~Loid",
+      "name": "Bird 3のぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "'Widzisz, teraz twoja rodzina jest razem w twoim gnieździe.' - Loid",
+      "name": "Pluszak Ptak-3",
+      "code": "pl"
+    },
+    {
+      "description": "Loid: 'veja, agora sua família está toda reunida em seu ninho'.",
+      "name": "Floof: Pássaro 3",
+      "code": "pt"
+    },
+    {
+      "description": "「看到了嗎，現在你的家庭全都聚在你的窩巢裡了。」──Loid",
+      "name": "鳥三玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "“ดูสิ ตอนนี้ครอบครัวมาอยู่รวมกันในรังของเจ้าแล้ว” - Loid",
+      "name": "ตุ๊กตา Bird 3",
+      "code": "th"
+    },
+    {
+      "description": "'Bak, artık ailen hep birlikte yuvanda.' - Loid",
+      "name": "Kuş 3 Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "«Бачиш, тепер уся твоя сім’я разом у твоєму гнізді», — Лойд.",
+      "name": "Плюш «Птах-3»",
+      "code": "uk"
+    }
+  ]
+}

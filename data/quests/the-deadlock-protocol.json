@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-deadlock-protocol-4b711b30b2.png",
+  "name": "The Deadlock Protocol",
+  "description": "A power struggle within the Corpus elite has erupted. Seeking control, Nef Anyo looks to the past... to the very origins of the Corpus itself.",
+  "languages": [
+    {
+      "description": "Ein Machtkampf ist innerhalb der Ränge der Corpus ausgebrochen. Um die Kontrolle zu erhalten, blickt Nef Anyo in die Vergangenheit ... zu den Anfängen der Corpus selbst.",
+      "name": "Das Deadlock-Protokoll",
+      "code": "de"
+    },
+    {
+      "description": "Une lutte interne déchire l'élite du Corpus. Avide de pouvoir, Nef Anyo se tourne vers le passé... et remonte jusqu'aux origines du Corpus lui-même.",
+      "name": "Le Protocole: Exclusion",
+      "code": "fr"
+    },
+    {
+      "description": "È scoppiata una lotta di potere all'interno dell'élite Corpus. Cercando il controllo, Nef Anyo guarda al passato... alle origini degli stessi Corpus.",
+      "name": "Il Protocollo Deadlock",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 엘리트층 내의 권력 투쟁이 시작되었습니다. 통제권을 노리는 네프 엔요는 과거를 되돌아보지요... 코퍼스 그 자체의 기원이 있는 시점까지 말입니다.",
+      "name": "교착 프로토콜",
+      "code": "ko"
+    },
+    {
+      "description": "Ha surgido una lucha de poder dentro del Corpus. En su deseo por obtener el control, Nef Anyo decide mirar al pasado... a los orígenes del propio corpus.",
+      "name": "Protocolo Punto muerto",
+      "code": "es"
+    },
+    {
+      "description": "Corpus 内部爆发了一场始于 Corpus 精英之间的权力斗争。为了夺取控制权的奈富·安尤着眼于过去……追溯到了 Corpus 自身的起源。",
+      "name": "僵局协议",
+      "code": "zh"
+    },
+    {
+      "description": "Борьба за власть внутри элиты Корпуса в самом разгаре. Желая взять руководство под свой контроль, Неф Эньо обратился к прошлому... к истинному происхождению Корпуса.",
+      "name": "Протокол «Мёртвая Точка»",
+      "code": "ru"
+    },
+    {
+      "description": "エリートコーパスたちの間で権力闘争が勃発した。Nef Anyoは主導権を握るため、過去に目を向ける…　コーパスの起源そのものに。",
+      "name": "デッドロック・プロトコル",
+      "code": "ja"
+    },
+    {
+      "description": "Wśród elit Corpus wybucha walka o władzę. Dążąc do przejęcia kontroli, Nef Anyo spogląda ku przeszłości... ku samym początkom Corpus.",
+      "name": "Protokół: Martwy Punkt",
+      "code": "pl"
+    },
+    {
+      "description": "Iniciou-se uma batalha pelo poder no interior da elite Corpus. Em busca do controle absoluto, Nef Anyo olha para o passado… para as próprias origens dos Corpus.",
+      "name": "O Protocolo Deadlock",
+      "code": "pt"
+    },
+    {
+      "description": "Corpus 精英內部的權力鬥爭一觸即發。企圖掌權，Nef Anyo 回首過去……一探 Corpus 最初起源。",
+      "name": "死鎖協定",
+      "code": "tc"
+    },
+    {
+      "description": "เกิดการแย่งชิงอำนาจภายในชนชั้นสูงของ Corpus ขึ้นแล้ว เมื่อมองหาวิธีที่จะยึดอำนาจ Nef Anyo ได้มองย้อนกลับไปในอดีต... ถึงต้นกำเนิดที่เป็นจุดเริ่มต้นของ Corpus",
+      "name": "เดดล็อกโพรโทคอล",
+      "code": "th"
+    },
+    {
+      "description": "Corpus seçkinleri arasında bir güç mücadelesi patlak verdi. Nef Anyo, kontrolü sağlamak için geçmişe... yani Corpus'un kendi kökenine başvuruyor.",
+      "name": "The Deadlock Protocol",
+      "code": "tr"
+    },
+    {
+      "description": "Керівна верхівка Корпусу потопає в політичних суперечках. Щоб загарбати владу, Неф Аньйо звертає свій погляд до минулого… до самого коріння Корпусу.",
+      "name": "Протокол «Мертва точка»",
+      "code": "uk"
+    }
+  ]
+}

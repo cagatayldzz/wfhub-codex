@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-prime-glyph---dark-3263ee1a90.png",
+  "name": "Gara Prime Glyph - Dark",
+  "description": "A glyph depicting Gara Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Gara Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Gara Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Gara Prime sur un fond sombre.",
+      "name": "Glyphe Gara Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gara Prime su uno sfondo scuro.",
+      "name": "Glifo Gara Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 가라 프라임을 묘사한 글리프입니다.",
+      "name": "가라 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Gara Prime sobre un fondo oscuro.",
+      "name": "Glifo de Gara Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Gara Prime 在黑暗背景下的浮印。",
+      "name": "Gara Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гары Прайм на темном фоне.",
+      "name": "Глиф: Гара Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたGara Primeのグリフ。",
+      "name": "Gara Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Gara Prime na ciemnym tle.",
+      "name": "Glif Gara Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Gara Prime em um fundo escuro.",
+      "name": "Glifo: Gara Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Gara Prime 在黑暗背景下的浮印。",
+      "name": "Gara Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Gara Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Gara Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Gara Prime'ı tasvir eden karanlık fonlu bir glif.",
+      "name": "Gara Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґари-прайм на темному тлі.",
+      "name": "Темний гліф «Ґара-прайм»",
+      "code": "uk"
+    }
+  ]
+}

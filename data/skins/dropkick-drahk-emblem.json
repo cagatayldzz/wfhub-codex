@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/DogDaysKubrowBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dropkick-drahk-emblem-1a075c37b9.png",
+  "name": "Dropkick Drahk Emblem",
+  "description": "You know what The Drahk is cooking.",
+  "languages": [
+    {
+      "description": "Du weisst, was der Drahk vor hat.",
+      "name": "Emblem: Dropkick Drahk",
+      "code": "de"
+    },
+    {
+      "description": "Vous savez ce que le Drahk mijote.",
+      "name": "Badge Drahk Dropkick",
+      "code": "fr"
+    },
+    {
+      "description": "Sai cosa sta cucinando il Drahk.",
+      "name": "Emblema Dropkick Drahk",
+      "code": "it"
+    },
+    {
+      "description": "드라크가 무슨 요리를 하는지는 다들 아시죠?",
+      "name": "드롭킥 드라크 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Ya sabes lo que trama el drahk.",
+      "name": "Emblema Drahk Dropkick",
+      "code": "es"
+    },
+    {
+      "description": "你知道爪喀在烹饪什么。",
+      "name": "飞踢爪喀徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Вы знаете, что задумал Драк.",
+      "name": "Эмблема: Атака Драка",
+      "code": "ru"
+    },
+    {
+      "description": "ドラークの猛攻は止まらない。",
+      "name": "ドロップキックドラーク エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Dobrze wiesz, co zgotował Drahk.",
+      "name": "Emblemat: Przyczajony Drahk",
+      "code": "pl"
+    },
+    {
+      "description": "Já sabe, né? O Drahk está aprontando.",
+      "name": "Emblema: Voadora do Drahk",
+      "code": "pt"
+    },
+    {
+      "description": "你知道 Drahk 在耍什麼花招。",
+      "name": "雙飛腿爪喀徽章",
+      "code": "tc"
+    },
+    {
+      "description": "รู้หรือเปล่าว่า Drahk กำลังปรุงอะไรอยู่",
+      "name": "ตราสัญลักษณ์ Dropkick Drahk",
+      "code": "th"
+    },
+    {
+      "description": "Drahk'ın ne pişirdiğini biliyorsun.",
+      "name": "Dropkick Drahk Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Ви знаєте, що запланував драк.",
+      "name": "Відзнака «Драк атакує»",
+      "code": "uk"
+    }
+  ]
+}

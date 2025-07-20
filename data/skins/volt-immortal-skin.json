@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltAlternateSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-immortal-skin-e04fd6e182.png",
+  "name": "Volt Immortal Skin",
+  "description": "The Immortal skin for the Volt Warframe.",
+  "languages": [
+    {
+      "description": "Der Unsterblich-Skin für den Volt Warframe.",
+      "name": "Volt-Skin: Unsterblich",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect Immortel pour la Warframe Volt.",
+      "name": "Aspect Volt Immortel",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Immortal per il Warframe Volt.",
+      "name": "Skin Volt Immortal",
+      "code": "it"
+    },
+    {
+      "description": "볼트 워프레임을 위한 이모탈 스킨입니다.",
+      "name": "볼트 이모탈 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño inmortal para el warframe Volt.",
+      "name": "Diseño Inmortal de Volt",
+      "code": "es"
+    },
+    {
+      "description": "Volt 战甲的不朽外观。",
+      "name": "Volt 不朽外观",
+      "code": "zh"
+    },
+    {
+      "description": "Скин «Бессмертный» для Вольта.",
+      "name": "Скин Вольта: Бессмертный",
+      "code": "ru"
+    },
+    {
+      "description": "Volt用のImmortal スキン。",
+      "name": "Volt Immortal スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka Immortal dla Warframe'a Volt.",
+      "name": "Volt: Skórka Immortal",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin Imortal para o Warframe Volt.",
+      "name": "Volt: Skin Imortal",
+      "code": "pt"
+    },
+    {
+      "description": "Volt Warframe 的不朽外觀。",
+      "name": "Volt 不朽外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินอมตะสำหรับ Volt Warframe",
+      "name": "สกิน Volt Immortal",
+      "code": "th"
+    },
+    {
+      "description": "Volt Warframe'i için Ölümsüzlük Skin'i",
+      "name": "Volt Ölümsüzlük Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд «Безсмертя» для ворфрейма Вольта.",
+      "name": "Вигляд «Безсмертя» для Вольта",
+      "code": "uk"
+    }
+  ]
+}

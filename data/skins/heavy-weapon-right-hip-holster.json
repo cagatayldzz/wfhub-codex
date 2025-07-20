@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/HeavyHipsR",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heavy-weapon-right-hip-holster-3f2417d2f3.png",
+  "name": "Heavy Weapon Right Hip Holster",
+  "description": "Heavy weapons are holstered at the right hip.",
+  "languages": [
+    {
+      "description": "Schwere Waffen werden an der rechten Hüfte geholstert.",
+      "name": "Schwere-Waffen-Holster: Hüfte, Rechts",
+      "code": "de"
+    },
+    {
+      "description": "Les Armes Lourdes sont portées à droite au niveau des hanches.",
+      "name": "Port d'Arme Lourde à la hanche (Droite)",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le armi Pesanti sul fianco destro.",
+      "name": "Rinfodero Arma Pesante Fianco Destro",
+      "code": "it"
+    },
+    {
+      "description": "중병기 계열 무기를 오른쪽 허벅지에 수납하는 수납 방식입니다.",
+      "name": "중병기 오른쪽 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las armas pesadas se enfundarán en la cadera derecha.",
+      "name": "Enfundado de cadera derecha de arma pesada",
+      "code": "es"
+    },
+    {
+      "description": "将重武器收纳至右腰处。",
+      "name": "重武器右腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Тяжелое оружие покоится на правом бедре.",
+      "name": "Набедренный Крепеж Тяжелого Оружия - Справа",
+      "code": "ru"
+    },
+    {
+      "description": "腰の右側にヘビー系武器を収納。",
+      "name": "ヘビー専用ヒップホルスター（右）",
+      "code": "ja"
+    },
+    {
+      "description": "Broń ciężka mocowana jest do prawego biodra.",
+      "name": "Broń Ciężka Mocowanie Do Prawego Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As armas pesadas são guardadas na cintura direita.",
+      "name": "Armas Pesadas: Coldre na Cintura (Direita)",
+      "code": "pt"
+    },
+    {
+      "description": "重型武器可收納於右腰。",
+      "name": "重型武器右腰收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธหนักที่ใส่ซองตรงสะโพกขวา",
+      "name": "ซองอาวุธหนักตรงสะโพกขวา",
+      "code": "th"
+    },
+    {
+      "description": "Ağır silahlar sağ kalçada taşınır.",
+      "name": "Ağır Silah Sağ Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Важка зброя кріпиться на правому стегні, коли в руках інша зброя.",
+      "name": "Важка зброя на правому стегні",
+      "code": "uk"
+    }
+  ]
+}

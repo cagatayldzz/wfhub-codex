@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/carbides-7a527a7e84.png",
+  "name": "Carbides",
+  "description": "Resilient components used to reinforce the plated sheets of metal strapped to Grineer Ships.\n\nLocation: Eximus units in the Grineer Shipyard Tileset, and Railjack missions in Earth, Saturn, and Veil Proximas",
+  "languages": [
+    {
+      "description": "Robuste Komponente, welche die gepanzerten Metallplatten an Grineer Schiffen verstärkt.\n\nQuelle: Von Eximus-Einheiten in den Levelsets: Grineer Schiffswerft und Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
+      "name": "Carbide",
+      "code": "de"
+    },
+    {
+      "description": "Composants résistants utilisés pour renforcer les plaques de métal des vaisseaux Grineers.\n\nLieu: Unités Eximus dans l'ensemble d'environnement du Chantier Spatial Grineer et missions Railjack dans les Proximas de la Terre, de Saturne et du Voile",
+      "name": "Carbures",
+      "code": "fr"
+    },
+    {
+      "description": "Componenti resilienti utilizzati per rinforzare le lamiere placcate di metallo legate alle Navi Grineer.\n\nPosizione: Unità Eximus nel Tileset Cantiere Navale Grineer, missioni Railjack sulla Terra, Saturno e Veil Proxima",
+      "name": "Carburi",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 함선에 부착된 금속판 보강에 사용되는 탄력있는 부품입니다.\n\n획득 가능 장소: 그리니어 조선소 타일셋의 엑시무스 유닛 및 지구, 토성 및 세레스 및 베일 프록시마의 레일잭 미션",
+      "name": "카바이드",
+      "code": "ko"
+    },
+    {
+      "description": "Componentes resistentes usados para reforzar las placas de metal sujetadas a las naves grineer.\n\nUbicación: Unidades Eximus en los niveles del astillero grineer y en las misiones de Railjack en Próxima Tierra, Saturno y Velo",
+      "name": "Carburos",
+      "code": "es"
+    },
+    {
+      "description": "用于加固绑在 Grineer 战舰上的镀金板的弹性部件。\n\n获取地点：Grineer 船坞场景中的卓越者单位、比邻星域（地球、土星、面纱）中的航道星舰任务",
+      "name": "碳化物",
+      "code": "zh"
+    },
+    {
+      "description": "Упругие компоненты, используемые для усиления покрытых металлом листов, которыми обшиты корабли Гринир.\n\nМестонахождение: эксимусы в локациях Верфи Гринир и миссии Рэйлджека в Проксимах Земли, Сатурна и Вуали.",
+      "name": "Карбиды",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア船に取り付けられた板金の補強に使われる弾力のある部材。\n\n場所：グリニア造船所タイルセットのエクシマス勢、レールジャックミッション（地球、土星、ヴェールプロキシマ）",
+      "name": "カーバイド",
+      "code": "ja"
+    },
+    {
+      "description": "Wytrzymałe komponenty używane do wzmocnienia pancernego poszycia Statków Grineer.\n\nPołożenie: Misje Railjacka w Proximach Ziemi, Saturna i Woalu, oraz po zabiciu jednostek Eximus w pomieszczeniach Stoczni Grineer",
+      "name": "Węgliki",
+      "code": "pl"
+    },
+    {
+      "description": "Componentes altamente resilientes, utilizados para reforçar os reparos metálicos encontrados em Naves Grineer.\n\nLocalização: ao derrotar Unidades Eximus no Cenário de Estaleiro Grineer ou em missões da Railjack na 'Próxima da Terra', 'Próxima de Saturno' ou 'Próxima do Véu'.",
+      "name": "Carbonetos",
+      "code": "pt"
+    },
+    {
+      "description": "富有韌性的元件，用於鞏固綁在 Grineer 船艦上的鍍金屬板。\n\n地點：Grineer 造船廠地圖裡的卓越者單位以及毗鄰星（地球、土星、面紗）的銳捷號任務",
+      "name": "碳化物",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบที่ยืดหยุ่นได้ ซึ่งใช้เพื่อเสริมแผ่นโลหะชุบที่ยึดยาน Grineer\n\nแหล่งที่พบ: หน่วย Eximus ในไทล์เซตอู่ต่อเรือ Grineer และภารกิจ Railjack ที่อยู่ในพร็อกซิมาโลก ดาวเสาร์ และเวล",
+      "name": "คาร์ไบด์",
+      "code": "th"
+    },
+    {
+      "description": "Grineer Gemilerinin gövdelerindeki metal kaplamayı güçlendirmek için kullanılan dayanıklı bileşenler.\n\nKonum: Grineer Tersanesi Haritasındaki Eximus birimleri ve Dünya, Satürn ve Veil Proxima'larındaki Railjack görevleri",
+      "name": "Carbides",
+      "code": "tr"
+    },
+    {
+      "description": "Стійкі еластичні складники для зміцнення металевих листів броні ґрінерських зорельотів.\n\nМожна здобути з ексімів на мапах «Ґрінерські зорелітні» й завданнях для рейкоджека на Проксимах Землі, Сатурна та Вуалі.",
+      "name": "Карбіди",
+      "code": "uk"
+    }
+  ]
+}

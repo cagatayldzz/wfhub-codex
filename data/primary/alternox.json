@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/GyreRifle/GyreRifleWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/alternox-448bc76586.png",
+  "name": "Alternox",
+  "description": "Gyre’s signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses <DT_ELECTRICITY_COLOR>Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.",
+  "languages": [
+    {
+      "description": "Die bevorzugte Waffe von Gyre hat zwei Feuermodi. Primärfeuer schockt Feinde mit elektrischen Kugeln. Alt. Feuer ist eine große Elektrizitätskugel, die an jeder Oberfläche haftet und <DT_ELECTRICITY_COLOR>elektrisch pulsiert, bevor sie explodiert. In Gyres Händen verfügt die Waffe über einige Mehrfachschüsse.",
+      "name": "Alternox",
+      "code": "de"
+    },
+    {
+      "description": "L'arme emblématique de Gyre a deux modes de tir. Le Tir principal choque les ennemis avec des orbes électriques. Le Tir alternatif est une grosse boule d'électricité qui colle à n'importe quelle surface et envoie des décharges <DT_ELECTRICITY_COLOR>Électriques avant d'exploser. Dans les mains de Gyre, l'arme a un petit avantage de Tir Multiple.",
+      "name": "Alternox",
+      "code": "fr"
+    },
+    {
+      "description": "L'arma caratteristica di Gyre ha due modalità di fuoco. Il fuoco primario colpisce i nemici con sfere elettriche. Il fuoco alternativo è una grande palla di elettricità che si attacca a qualsiasi superficie e pulsa di <DT_ELECTRICITY_COLOR>Elettricità prima di esplodere. Nelle mani di Gyre, l'arma ha una piccola quantità di Sparo Multiplo.",
+      "name": "Alternox",
+      "code": "it"
+    },
+    {
+      "description": "자이어의 특징적 무기에는 두 가지의 발사 모드가 있습니다. 기본 발사는 적 대상을 감전시키는 전격 구체를 발사합니다. 보조 발사는 지면에 달라붙어 <DT_ELECTRICITY_COLOR>전기 파동을 뿜어낸 후 폭발하는 커다란 구체를 발사합니다. 자이어가 사용할 시, 약간의 멀티샷 보정이 주어집니다.",
+      "name": "알터녹스",
+      "code": "ko"
+    },
+    {
+      "description": "El arma distintiva de Gyre tiene dos modos de disparo. El arma primaria sorprende a los enemigos con orbes eléctricos. El disparo alternativo consiste en una gran bola de electricidad que se adhiere a cualquier superficie y emite pulsos de <DT_ELECTRICITY_COLOR>electricidad antes de explotar. En las manos de Gyre, esta arma tiene una pequeña cantidad de multidisparo.",
+      "name": "Alternox",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ALTERNOX）Gyre 的标志性武器有两种射击模式。主要射击可通过带电球体攻击敌人。次要射击可产生一个大型带电球体，该球体可附着在任何表面并在爆炸之前产生 <DT_ELECTRICITY_COLOR>带电脉冲。被 Gyre 使用时，该武器可产生少量的多重射击。",
+      "name": "电幻步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Культовое оружие Джайры имеет два режима огня. Основной огонь шокирует врагов заряженными электричеством сферами. Альтернативный огонь стреляет большими шарами, наносящими урон <DT_ELECTRICITY_COLOR>электричеством, которые прилипают к любой поверхности, выпуская электрические импульсы, прежде чем взорвутся. В руках Джайры это оружие получает небольшой бонус мультивыстрела.",
+      "name": "Альтернокс",
+      "code": "ru"
+    },
+    {
+      "description": "Gyreを象徴する武器は二つの射撃モードがある。プライマリ射撃は電気のオーブで敵に感電させる。セカンダリ射撃は大型の電気球を放ち、球は着弾面に付着して<DT_ELECTRICITY_COLOR>電気パルスを放ってから爆発する。Gyreが装備した際は少量のマルチショットが追加される。",
+      "name": "Alternox",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna broń Gyre ma dwa tryby ognia. Ogień główny poraża wrogów piorunami kulistymi. Ogień alternatywny wystrzeliwuje duże kule elektryczności, które przylegają do każdej powierzchni, zadając wrogom <DT_ELECTRICITY_COLOR> Obr. od Elektryczności i wybuchając po czasie. W rękach Gyre ta broń zyskuje niewielki bonus Wielostrzału.",
+      "name": "Alternox",
+      "code": "pl"
+    },
+    {
+      "description": "A arma tradicional da Gyre possui dois modos de disparo: o primário dá choques nos inimigos com orbes elétricos. Já o alternativo, é um globo elétrico grande que gruda em superfícies e pulsa <DT_ELECTRICITY_COLOR>Eletricidade antes de explodir. Nas mãos da Gyre, a arma possui uma pequena quantidade de Tiro Múltiplo.",
+      "name": "Alternox",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ALTERNOX）Gyre 的標誌性武器有兩種發射模式。主要開火以帶電球電擊敵人。次要開火是一個巨大的球型電力，其會黏在任何表面上並爆炸前會發出<DT_ELECTRICITY_COLOR>電擊脈衝。Gyre 握持時，武器有小量的多重射擊。",
+      "name": "交電步槍",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธประจำตัวของ Gyre มีการยิงอยู่สองโหมด โหมดยิงหลักจะช็อตศัตรูด้วยลูกแก้วไฟฟ้า โหมดยิงสำรองจะยิงลูกบอลไฟฟ้าขนาดใหญ่ที่เกาะติดกับทุกพื้นผิวและปล่อยพัลส์ <DT_ELECTRICITY_COLOR>ไฟฟ้าออกมาก่อนที่มันจะระเบิด หาก Gyre เป็นผู้ใช้อาวุธชิ้นนี้จะสามารถยิงมัลติช็อตออกมาได้เล็กน้อย",
+      "name": "Alternox",
+      "code": "th"
+    },
+    {
+      "description": "Gyre'ın özel silahının iki atış modu vardır. Birincil atış modu düşmanları elektrik küreleriyle şok eder. Alternatif atış modu ise herhangi bir yüzeye yapışan ve etrafa düzenli <DT_ELECTRICITY_COLOR>Elektrik şokları yaydıktan sonra patlayan büyük bir elektrik topu ateşler. Gyre ile kullanıldığında küçük bir miktar çoklu atış kazanır.",
+      "name": "Alternox",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна гвинтівка Джайри з двома режимами стрільби. В основному режимі вражає ворогів електричними кулями. Під час альтернативної атаки запускає велетенську електричну кулю, що прилипає до будь-якої поверхні й випускає <DT_ELECTRICITY_COLOR>електричні імпульси, перш ніж вибухне. Якщо зброя в руках Джайри, то існує ймовірність мультипострілу.",
+      "name": "Альтернокс",
+      "code": "uk"
+    }
+  ]
+}

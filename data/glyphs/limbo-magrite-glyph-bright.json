@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGraeaeLimboBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-magrite-glyph---bright-64951ea598.png",
+  "name": "Limbo Magrite Glyph - Bright",
+  "description": "A glyph depicting Limbo Magrite on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Limbo Magrite vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Limbo Magrite (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Limbo Magrite sur un fond lumineux.",
+      "name": "Glyphe Limbo Magrite - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Limbo Magrite su uno sfondo chiaro.",
+      "name": "Glifo Limbo Magrite - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 마그리트 림보를 묘사한 글리프입니다.",
+      "name": "림보 마그리트 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Limbo Magrite sobre un fondo brillante.",
+      "name": "Glifo de Limbo Magrite - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Limbo 画家在明亮背景下的浮印。",
+      "name": "Limbo 画家浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Лимбо «Магрит» на светлом фоне.",
+      "name": "Глиф: Лимбо Магрит - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Limbo Magrite のグリフ。",
+      "name": "Limbo Magrite グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Limbo Magrite na jasnym tle.",
+      "name": "Glif Limbo Magrite — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Limbo Magrite em um fundo claro.",
+      "name": "Glifo: Limbo Magrite (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Limbo 畫家在明亮背景下的浮印。",
+      "name": "Limbo 畫家浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Limbo Magrite บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Limbo Magrite - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Limbo Magrite açık fonlu glif.",
+      "name": "Limbo Magrite Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лімбо в шоломі «Маґріт» на світлому тлі.",
+      "name": "Яскравий гліф «Лімбо „Маґріт“»",
+      "code": "uk"
+    }
+  ]
+}

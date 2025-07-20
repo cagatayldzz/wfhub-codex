@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xaku-skin-e0295216d9.png",
+  "name": "Xaku Skin",
+  "description": "The standard issue skin for the Xaku Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Xaku Warframe.",
+      "name": "Xaku-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Xaku.",
+      "name": "Aspect Xaku",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Xaku.",
+      "name": "Skin Xaku",
+      "code": "it"
+    },
+    {
+      "description": "자쿠 워프레임을 위한 기본 스킨입니다.",
+      "name": "자쿠 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Xaku.",
+      "name": "Diseño de Xaku",
+      "code": "es"
+    },
+    {
+      "description": "Xaku 的标准外观配置。",
+      "name": "Xaku 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Заку.",
+      "name": "Скин Заку",
+      "code": "ru"
+    },
+    {
+      "description": "Xakuの標準型スキン。",
+      "name": "Xaku スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Xaku.",
+      "name": "Xaku: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Xaku.",
+      "name": "Xaku: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Xaku 的標準外觀配置。",
+      "name": "Xaku 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Xaku Warframe",
+      "name": "สกิน Xaku",
+      "code": "th"
+    },
+    {
+      "description": "Xaku Warframe için standart skin.",
+      "name": "Xaku Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Заку.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

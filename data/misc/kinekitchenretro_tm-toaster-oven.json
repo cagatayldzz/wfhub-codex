@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinekitchenretro_tm-toaster-oven-6614aa8930.png",
+  "name": "Kinekitchen<Retro_tm> Toaster Oven",
+  "description": "The KineKitchen<RETRO_TM> Toaster Oven is perfect for those smaller kitchens or cooking on the go, where a full kitchen isn't available. It's amazing what you can make with it's broil and convection settings!",
+  "languages": [
+    {
+      "description": "Der KineKitchen<RETRO_TM>-Toasterofen ist perfekt für kleinere Küchen oder zum Kochen unterwegs, wenn keine voll ausgestattete Küche zur Verfügung steht. Es ist erstaunlich, was du mit den Grill- und Konvektionseinstellungen alles zubereiten kannst!",
+      "name": "KineKitchen<RETRO_TM>: Toasterofen",
+      "code": "de"
+    },
+    {
+      "description": "Le four grille-pain KineKitchen<RETRO_TM> est parfait pour les petites cuisines ou pour cuisiner sur le pouce, là où une cuisine complète n'est pas disponible. C'est incroyable ce que vous pouvez faire avec ses réglages de grill et de convection!",
+      "name": "Four grille-pain KineKitchen<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Il Fornellino Elettrico KineKitchen<RETRO_TM> è perfetto per le cucine più piccole o per cucinare in viaggio, dove non è disponibile una cucina completa. È incredibile cosa puoi preparare con le sue impostazioni di cottura alla griglia e a conduzione!",
+      "name": "Fornellino Elettrico KineKitchen<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네키친<RETRO_TM> 토스터 오븐은 작은 주방에서, 혹은 이동 중에 요리하기에 완벽한 도구입니다. 이 기계의 굽기와 가열 설정으로 무엇이든 만들 수 있다는 건 참 멋진 일입니다!",
+      "name": "키네키친<RETRO_TM> 토스터 오븐",
+      "code": "ko"
+    },
+    {
+      "description": "El horno tostador KineKitchen<RETRO_TM> es perfecto para cocinas pequeñas o para cocinar mientras viajas, donde no se dispone de una cocina completa. ¡Es increíble lo que se puede hacer con sus configuraciones de asado y convección!",
+      "name": "Horno tostador KineKitchen<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "即时烹<RETRO_TM>小烤箱非常适合小厨房或外出时使用，尤其是在没有完整厨房的情况下。使用它的烧烤和对流功能，你可以做出令人惊叹的美食！",
+      "name": "即时烹<RETRO_TM>小烤箱",
+      "code": "zh"
+    },
+    {
+      "description": "Тостерная печь «КинеКитчен»<RETRO_TM> идеально подходит для небольших кухонь или приготовления пищи на ходу, когда полноценная кухня недоступна. Удивительно, что можно приготовить с помощью её функций гриля и конвекции!",
+      "name": "Тостерная печь «КинеКитчен»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネキッチン<RETRO_TM> トースターオーブンは小さめのキッチンや外出先での料理に最適。これで従来の料理すべてが一件落着！",
+      "name": "キネキッチン<RETRO_TM> トースターオーブン",
+      "code": "ja"
+    },
+    {
+      "description": "Opiekacz KineKitchen<RETRO_TM> jest idealny do mniejszych kuchni lub pieczenia w podróży, gdzie nie ma dostępu do pełnej kuchni. To niesamowite, co można zrobić dzięki ustawieniom opiekania i konwekcji!",
+      "name": "KineKitchen<RETRO_TM> Opiekacz",
+      "code": "pl"
+    },
+    {
+      "description": "O Forno KineKitchen<RETRO_TM> é perfeito para cozinhas menores ou para cozinhar com agilidade, onde uma cozinha completa não está disponível. É incrível o que você pode fazer com suas configurações de grelhar e convecção!",
+      "name": "Forno KineKitchen<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "開廚<RETRO_TM>小烤箱非常適合小廚房或是戶外沒有完整廚房時烹飪食品。炙烤和對流加熱功能讓你烤出意想不到的美味佳肴！",
+      "name": "開廚<RETRO_TM>小烤箱",
+      "code": "tc"
+    },
+    {
+      "description": "เตาอบไฟฟ้า KineKitchen<RETRO_TM> เหมาะอย่างยิ่งสำหรับห้องครัวขนาดเล็กหรือการทำอาหารระหว่างเดินทางซึ่งไม่มีห้องครัวเต็มรูปแบบ การตั้งค่าแบบปิ้งย่างและแบบลมร้อนจะทำให้คุณสามารถทำอาหารได้มากมายอย่างน่าทึ่ง",
+      "name": "เตาอบไฟฟ้า KineKitchen<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "KineKitchen<RETRO_TM> Tost Fırını, tam bir mutfağın bulunmadığı küçük mutfaklar veya hareket halinde yemek pişirme ihtiyaçları için mükemmeldir. Izgara ve konveksiyon ayarlarıyla neler yapılabildiğine inanmayacaksınız!",
+      "name": "KineKitchen<RETRO_TM> Tost Fırını",
+      "code": "tr"
+    },
+    {
+      "description": "Піч ідеально підійде для невеличких кухонь або швидкого приготування, якщо вся кухня зайнята. Програми для смаження та налаштування обдуву робляться з продуктів дивовижні страви!",
+      "name": "Піч «Кінекухня»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

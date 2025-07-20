@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/damaged-necramech-casing.png",
+  "name": "Damaged Necramech Casing",
+  "description": "The damaged remains of a Necramech supporting frame.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift, and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+  "languages": [
+    {
+      "description": "Die beschädigten Überreste eines Necramechgestells.\n\nQuelle: Von feindlichen Necramechs in Isolationsgewölben, von Aufträgen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+      "name": "Necramech: Beschädigte Karkasse",
+      "code": "de"
+    },
+    {
+      "description": "Les restes endommagés d'un cadre de support de Necramech.\n\nLieu: Necramechs ennemis trouvés dans les Mises à Prix des Salles d'Isolement du Puy de Cambion et achat auprès de Loid dans le Necralisk (Deimos) après avoir terminé la Quête La Guerre Intérieure",
+      "name": "Châssis de Necramech Endommagé",
+      "code": "fr"
+    },
+    {
+      "description": "I resti danneggiati di un telaio portante di un Necramech.\n\nPosizione: Necramech Nemici trovati nelle Taglie Vault d'Isolamento sul Cambion Drift, e acquistati da Loid nel Necralisk (Deimos) dopo aver completato la quest La Guerra Interna",
+      "name": "Telaio Necramech Danneggiato",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크 지지틀의 손상된 잔해입니다.\n\n획득 가능 장소: 캠비온 퇴적지의 격리 금고 의뢰에서 발견되는 적 네크라메크에게서 드롭되거나, 혹은 내면의 전쟁 퀘스트를 완료한 후 네크랄리스크 (데이모스) 에 있는 로이드에게서 구매할 수 있습니다.",
+      "name": "손상된 네크라메크 케이싱",
+      "code": "ko"
+    },
+    {
+      "description": "Los restos dañados de una estructura de soporte de Necramech.\n\nUbicación: Necramechs enemigos encontrados en los contratos de la bóveda de aislamiento de Deriva Cambion y a la venta con Loid en el Necralisk (Deimos) después de completar la aventura de «La Guerra Interna»",
+      "name": "Cubierta de Necramech dañada",
+      "code": "es"
+    },
+    {
+      "description": "殁世机甲支撑框架的残骸，处于损坏状态。\n\n获取地点：魔胎之境（火卫二）隔离库赏金中的殁世机甲敌人、完成《内战》系列任务后从殁世幽都（火卫二）洛德处购得",
+      "name": "损坏的殁世机甲 外壳",
+      "code": "zh"
+    },
+    {
+      "description": "Повреждённые остатки несущей конструкции Некрамеха.\n\nМестоположение: Вражеские некрамехи, найденные в наградах за Изолированное хранилище на Камбионском дрейфе и купленные у Лойда в Некралиске (Деймос) после завершения квеста «Война внутри».",
+      "name": "Повреждённый каркас Некрамеха",
+      "code": "ru"
+    },
+    {
+      "description": "損傷したネクロメカのメインフレーム。\n\n場所：カンビオン荒地（ダイモス）の隔離保管庫依頼ミッションの敵のネクロメカ、『内なる紛争』クエスト完了後はネクロリスク（ダイモス）のLoidからも購入可",
+      "name": "損傷したネクロメカケーシング",
+      "code": "ja"
+    },
+    {
+      "description": "Uszkodzone pozostałości szkieletu Nekramecha.\n\nLokacja: Wrogie Nekramechy w Zleceniach Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie. Może zostać zakupiony od Loida w Nekralisku po ukończeniu zadania Wewnętrzna Wojna",
+      "name": "Uszkodzone Okrycie Nekramecha",
+      "code": "pl"
+    },
+    {
+      "description": "Os restos danificados da estrutura de um Necramech.\n\nLocalização: ao derrotar Necramechs nas Câmaras de Isolamento, na Deriva de Cambion, ou junto ao Loid, no Necralisk, em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
+      "name": "Necramech: Revestimento Danificado",
+      "code": "pt"
+    },
+    {
+      "description": "損毀的亡骸機甲支撐架構殘骸。\n\n地點：魔裔禁地（火衛二）上的隔離庫賞金任務中的敵方亡骸機甲或是完成《內戰》系列任務後在亡骸殿（火衛二）的 Loid 購得。",
+      "name": "損毀的亡骸機甲外殼",
+      "code": "tc"
+    },
+    {
+      "description": "ซากของโครง Necramech ที่เสียหาย\n\nแหล่งที่พบ: ศัตรู Necramech ที่พบในภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัวที่แคมบิออนดริฟต์ และซื้อได้จาก Loid ในเนคราลิสก์ (เดมอส) หลังจากทำเควสต์ 'สงครามภายใน' สำเร็จแล้ว",
+      "name": "โครงของ Necramech ที่เสียหาย",
+      "code": "th"
+    },
+    {
+      "description": "Necramech destek iskeletinin hasarlı kalıntıları.\n\nKonum: Cambion Drift'teki İzolasyon Kasası Görevlerinde bulunan Düşman Necramech'ler ve War Within görevini tamamladıktan sonra Necralisk'teki (Deimos) Loid'den satın alınabilir",
+      "name": "Hasarlı Necramech Şasesi",
+      "code": "tr"
+    },
+    {
+      "description": "Пошкоджені частини рами некрамеха.\n\nМожна здобути з ворожих некрамехів під час виконання контрактів «Камера ізоляції» в Кембіонській течії (Деймос) та придбати у Лойда в Некраліску (Деймос) по завершенню пригоди «Нова війна».",
+      "name": "Пошкоджений корпус некрамеха",
+      "code": "uk"
+    }
+  ]
+}

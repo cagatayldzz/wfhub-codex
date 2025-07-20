@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrineerExcavationBossBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---boril-357cdf81c9.png",
+  "name": "Noggle Statue - Boril",
+  "description": "A small wobbly statue of Boril, a Grineer Foreman.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Boril, einem Grineer Aufseher.",
+      "name": "Noggle-Statue: Boril",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Boril, un Contremaître Grineer.",
+      "name": "Statuette Noggle - Boril",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del caposquadra Grineer Boril con la testa tremolante.",
+      "name": "Statuetta Noggle - Boril",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 감독관 보릴의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 보릴",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Boril, un capataz grineer.",
+      "name": "Estatua Tambaleante - Boril",
+      "code": "es"
+    },
+    {
+      "description": "一小座Boril 摇头娃娃，是一名 Grineer 的领班。",
+      "name": "Boril 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка мастера Гринир.",
+      "name": "Фигурка: Борил",
+      "code": "ru"
+    },
+    {
+      "description": "グリニアの親方、Borilのボブルヘッド人形。",
+      "name": "Boril ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Borila, majstra Grineer.",
+      "name": "Figurka Noggle — Boril",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Boril, um capataz Grineer.",
+      "name": "Estatueta: Boril",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Boril 的搖頭娃娃，是一名 Grineer 的領班。",
+      "name": "Boril 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Boril หัวหน้าคนงาน Grineer ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Boril",
+      "code": "th"
+    },
+    {
+      "description": "Grineer Foreman, Boril, küçük oynar figür.",
+      "name": "Noggle Heykeli - Boril",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Борила, ґрінерського очільника.",
+      "name": "Ноґл «Борил»",
+      "code": "uk"
+    }
+  ]
+}

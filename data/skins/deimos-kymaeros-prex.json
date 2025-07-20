@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTennoConJ",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deimos-kymaeros-prex-2b3a2c5a93.png",
+  "name": "Deimos Kymaeros Prex",
+  "description": "A cave dwelling Fish of Deimos. Prex designed and illustrated by Shadrad!",
+  "languages": [
+    {
+      "description": "Ein Höhlen-Fisch von Deimos. Als Prex designt und illustriert von Shadrad!",
+      "name": "Deimos Kymaeros Prex",
+      "code": "de"
+    },
+    {
+      "description": "Un poisson vivant dans les grottes de Deimos. Prex conçu et illustré par Shadrad!",
+      "name": "Prex Kymaeros Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Un Pesce che vive nelle grotte di Deimos. Carta Prex ideata e illustrata da Shadrad!",
+      "name": "Prex: Deimos Kymaeros",
+      "code": "it"
+    },
+    {
+      "description": "동굴에 서식하는 데이모스의 물고기입니다. 프렉스의 디자인 및 삽화는 Shadrad님이 담당했습니다!",
+      "name": "데이모스 키마에로스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Un pez que vive en las cavernas de Deimos. ¡Prex diseñada e ilustrada por Shadrad!",
+      "name": "Prex de Quimaeros Deimos",
+      "code": "es"
+    },
+    {
+      "description": "一种栖息在火卫二洞穴中的鱼类。该 Prex 卡牌的构思和插图由 Shadrad 创作！",
+      "name": "火卫二高额异鳍 Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Пещерная рыба Деймоса. Прекс разработан и проиллюстрирован Shadrad!",
+      "name": "Прекс: Кимэрос Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "洞窟住居のダイモスの魚。プレックスは「Shadrad」氏によるデザインおよびイラストレーション。",
+      "name": "ダイモス キマエロス プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Mieszkająca w jaskiniach Deimosa Ryba. Prex zaprojektowany i zilustrowany przez Shadrad!",
+      "name": "Prex: Kimeros Deimos",
+      "code": "pl"
+    },
+    {
+      "description": "Um peixe das cavernas de Deimos. Prex desenvolvida e ilustrada por Shadrad!",
+      "name": "Prex: Kymaeros de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "居住在洞穴中的火衛二魚類。卡牌由 Shadrad 設計及繪製！",
+      "name": "卡牌 — 火衛二奇美鮥",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาที่อาศัยอยู่ในถ้ำในเดมอส ไพ่เพร็กซ์ที่ออกแบบและวาดภาพประกอบโดย Shadrad!",
+      "name": "ไพ่เพร็กซ์ Deimos Kymaeros",
+      "code": "th"
+    },
+    {
+      "description": "Mağara adamı tarzında bir Deimos Balığı. Prex, Shadrad tarafından tasarlandı ve resmedildi!",
+      "name": "Deimos Kymaeros Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Печерна риба Деймоса. Автор прекса: Shadrad!",
+      "name": "Прекс деймоського кимера",
+      "code": "uk"
+    }
+  ]
+}

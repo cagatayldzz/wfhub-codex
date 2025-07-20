@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeNagantaka/PrimeNagantakaWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nagantaka-prime-3505ebdbfa.png",
+  "name": "Nagantaka Prime",
+  "description": "A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause <DT_SLASH_COLOR>Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
+  "languages": [
+    {
+      "description": "Eine goldene Version von Garudas vielseitiger Armbrust, hergestellt von den besten Waffenschmieden der Orokin. Alt. Feuer, um eine Salve von Bolzen abzufeuern. Alle Bolzen haben eine Chance, <DT_SLASH_COLOR>Schnittstatus zu verursachen, und Kopfschuss-Kills haben eine Chance, die Nachladegeschwindigkeit zu erhöhen. Wird die Nagantaka von Garuda geführt, erhält sie eine leicht erhöhte Durchdringung.",
+      "name": "Nagantaka Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une version dorée de l'Arbalète polyvalente de Garuda, créée par les meilleurs armuriers Orokins. Le tir alternatif envoie un barrage de carreaux. Tous les carreaux ont une chance de causer un Effet de Statut <DT_SLASH_COLOR>Tranchant, et les éliminations sur Tirs à la tête augmentent la Vitesse de rechargement. Dans les mains de Garuda, le Nagantaka peut avoir une légère Pénétration.",
+      "name": "Nagantaka Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una versione dorata della versatile balestra di Garuda, modellata dai migliori armaioli Orokin. Utilizza il fuoco secondario per scatenare una raffica di dardi. Tutti i dardi hanno la possibilità di causare Effetto <DT_SLASH_COLOR>Taglio, mentre le uccisioni con Colpi alla Testa aumentano la Velocità di Ricarica. Quando impugnata da Garuda, la Nagantaka ottiene un leggero Attraversamento.",
+      "name": "Nagantaka Prime",
+      "code": "it"
+    },
+    {
+      "description": "가루다의 뛰어난 범용성을 갖춘 석궁의 황금빛 버전으로, 오로킨 최고의 무기 장인들이 만들어낸 그대로의 모습을 재현했습니다. 보조 발사를 통하여 화살 세례를 퍼부을 수 있습니다. 각각의 화살은 <DT_SLASH_COLOR>베기 상태를 유발할 확률이 있으며, 헤드샷으로 처치 시 재장전 속도가 빨라집니다. 가루다가 사용할 시 약간의 두께 꿰뚫기를 얻습니다.",
+      "name": "나간타카 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una versión dorada de la versátil ballesta de Garuda, diseñada por los mejores armeros orokin. El disparo alternativo deja salir una ráfaga de flechas. Todas las flechas tienen una probabilidad de causar estado <DT_SLASH_COLOR>cortante y los asesinatos por disparos a la cabeza aumentan la velocidad de recarga. Cuando la porta Garuda, la Nagantaka adquiere un poco de atravesar.",
+      "name": "Nagantaka Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：NAGANTAKA PRIME）Garuda 的标志性十字弓的镀金版本，由 Orokin 最优秀的工匠所锻造。次要射击能发射出弩矢弹幕；每支弩矢都有可能造成 <DT_SLASH_COLOR>切割异常状态，爆头击杀则可加快装填速度。在被 Garuda 使用时，噬蛇弩会获得少量的穿透效果。",
+      "name": "噬蛇弩 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Золочёная версия универсального арбалета Гаруды, созданная лучшими оружейниками эпохи Орокин. Обладает альтернативным режимом огня, чтобы выпустить шквал болтов. Все болты при попадании могут вызвать статус <DT_SLASH_COLOR>разрезания, а убийство попаданием в голову может увеличить скорость перезарядки. При использовании Гарудой Нагантака получает к характеристикам пронзание навылет.",
+      "name": "Нагантака Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン随一の武器職人の手により、金色の装いとなったGarudaの多芸なクロスボウ。オルトファイアは矢の雨を降らして矢は確率で<DT_SLASH_COLOR>切断状態異常を引き起こし、ヘッドショットキルでリロード速度を速める。Garudaが使用した際には、わずかに貫通距離を得る。",
+      "name": "Nagantaka Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Złota wersja wszechstronnej kuszy Garudy, stworzona przez najlepszych kowali Orokin. Ogień alternatywy uwalnia ogień zaporowy bełtów. Wszystkie bełty mają szansę wywołania Efektu Statusu <DT_SLASH_COLOR> Obr. Tnących, a Zabójstwa strzałem w głowę zwiększają Prędkość Przeładowania. W rękach Garudy bełty tej kuszy zyskują niewielkie Przebicie na wylot.",
+      "name": "Nagantaka Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma versão dourada da versátil besta da Garuda, desenvolvida pelos melhores artesãos Orokin. O disparo alternativo lançará uma rajada de flechas. Todas as flechas têm chance de causar o Efeito de Status <DT_SLASH_COLOR>Cortante, e os Acertos de Precisão terão a chance de aumentarem a Velocidade de Recarga. Quando utilizada pela Garuda, a arma receberá uma pequena quantia de Penetração.",
+      "name": "Nagantaka Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：NAGANTAKA PRIME）Garuda 靈活萬用十字弓的黃金版本，由 Orokin 最頂尖的武器工匠所打造。次要射擊模式能發射弩矢彈幕，且每支弩矢都有機率觸發<DT_SLASH_COLOR>切割狀態，爆頭擊殺敵人還可加快裝填速度。由 Garuda 使用時，噬蛇弩獲得少量的穿透效果。",
+      "name": "噬蛇弩 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "หน้าไม้อเนกประสงค์รุ่นสีทองนี้เป็นของ Garuda ที่สร้างตามการออกแบบของช่างตีอาวุธที่มีฝีมือดีที่สุดของ Orokin หากใช้โหมดยิงสำรองจะระดมยิงลูกศรออกมา ซึ่งลูกศรทั้งหมดมีโอกาสทำให้เกิดสถานะ <DT_SLASH_COLOR>เฉือนฟัน และการฆ่าโดยยิงเฮดช็อตมีโอกาสเพิ่มความเร็วในการบรรจุกระสุน หาก Garuda เป็นผู้ใช้ Nagantaka จะได้รับค่าเจาะทะลุเพิ่มขึ้นมาเล็กน้อย",
+      "name": "Nagantaka Prime",
+      "code": "th"
+    },
+    {
+      "description": "Orokin'in en iyi silah ustaları tarafından tasarlanan Garuda'nın çok fonksiyonlu arbaletinin altın versiyonu. Alternatif atış modu ile çok sayıda ok atarak yaylım ateşi açar. Bütün okların düşmanlarda <DT_SLASH_COLOR>Kesme Statü başlatması ihtimali bulunur ve Kafa Vuruşları Silah Doldurma Hızını artırır. Garuda tarafından kullanıldığında Nagantaka'nın kısmi bir Delip Geçme özelliği olur.",
+      "name": "Nagantaka Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Золота версія універсального арбалета Ґаруди — робота найліпших орокінських зброярів. Випущені з нього болти з великою ймовірністю накладають <DT_SLASH_COLOR>різальний ефект стану, а як поцілити в голову, то можна пришвидшити перезаряджання. Під час альтернативної атаки стріляє короткими чергами. Якщо цим арбалетом користується Ґаруда, болти матимуть незначне прострілювання.",
+      "name": "Наґантака-прайм",
+      "code": "uk"
+    }
+  ]
+}

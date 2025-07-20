@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/StalkerBackground",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stalker-background-edcc6309a2.png",
+  "name": "Stalker Background",
+  "description": "A custom UI background.",
+  "languages": [
+    {
+      "description": "Ein angepasster UI-Hintergrund.",
+      "name": "Hintergrund: Stalker",
+      "code": "de"
+    },
+    {
+      "description": "Un fond personnalisé pour l'interface.",
+      "name": "Fond Stalker",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sfondo personalizzato per l'interfaccia.",
+      "name": "Sfondo Stalker",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 배경화면입니다.",
+      "name": "스토커 배경화면",
+      "code": "ko"
+    },
+    {
+      "description": "Personalización de la interfaz",
+      "name": "Fondo de Stalker",
+      "code": "es"
+    },
+    {
+      "description": "一个用于自定义界面的背景",
+      "name": "追猎者背景",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный фон интерфейса.",
+      "name": "Фон: Сталкер",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIバックグラウンド。",
+      "name": "Stalker バックグラウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowane tło Interfejsu.",
+      "name": "Tło Stalkera",
+      "code": "pl"
+    },
+    {
+      "description": "Um plano de fundo de interface personalizado.",
+      "name": "Plano de Fundo do Stalker",
+      "code": "pt"
+    },
+    {
+      "description": "一個用於自訂介面的背景",
+      "name": "Stalker 背景",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นหลัง UI ที่กำหนดเอง",
+      "name": "พื้นหลัง Stalker",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir Kullanıcı Arayüzü arka planı.",
+      "name": "Stalker Arka Plan",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне тло інтерфейсу.",
+      "name": "Тло: Сталкер",
+      "code": "uk"
+    }
+  ]
+}

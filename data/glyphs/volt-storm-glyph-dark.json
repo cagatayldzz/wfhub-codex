@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltStormDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-storm-glyph---dark-ade5a4af14.png",
+  "name": "Volt Storm Glyph - Dark",
+  "description": "A glyph depicting Volt Storm on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Volt Storm vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Volt Storm (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Volt Storm sur un fond sombre.",
+      "name": "Glyphe Volt Storm - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Storm Volt su uno sfondo scuro.",
+      "name": "Glifo Volt Storm - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 스톰 볼트를 묘사한 글리프입니다.",
+      "name": "볼트 스톰 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Storm Volt sobre un fondo oscuro.",
+      "name": "Glifo de Volt Storm - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Volt 风暴在黑暗背景下的浮印。",
+      "name": "Volt 风暴浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вольта «Шторм» на тёмном фоне.",
+      "name": "Глиф: Вольт «Шторм» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Storm Volt のグリフ。",
+      "name": "Volt Storm グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Volt Storm na ciemnym tle.",
+      "name": "Glif Volt Storm — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Volt Storm em um fundo escuro.",
+      "name": "Glifo: Volt Storm (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Volt 風暴在黑暗背景下的浮印。",
+      "name": "Volt 風暴浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Volt Storm บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Volt Storm - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Volt Storm koyu fonlu glif.",
+      "name": "Volt Storm Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вольта в шоломі «Шторм» на темному тлі.",
+      "name": "Темний гліф «Вольт „Шторм“»",
+      "code": "uk"
+    }
+  ]
+}

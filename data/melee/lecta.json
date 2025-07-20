@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/Whip/CorpusWhipWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lecta-ab40fef450.png",
+  "name": "Lecta",
+  "description": "Half taser, half whip. The Corpus Lecta delivers a deadly shock to anything it touches.",
+  "languages": [
+    {
+      "description": "Halb Taser, halb Peitsche. Die Corpus Lecta entlädt einen tödlichen Schock gegen alles, was sie berührt.",
+      "name": "Lecta",
+      "code": "de"
+    },
+    {
+      "description": "Moitié taser, moitié fouet. Le Lecta Corpus inflige un choc mortel à tout ce qu'il touche.",
+      "name": "Lecta",
+      "code": "fr"
+    },
+    {
+      "description": "Metà taser, metà frusta. La Lecta dei Corpus infligge una scarica mortale a qualsiasi cosa tocchi.",
+      "name": "Lecta",
+      "code": "it"
+    },
+    {
+      "description": "반은 테이저이며 반은 채찍인 코퍼스의 렉타는 대상에게 닿는 순간 사망에 이를 수 있는 전기 충격을 가합니다.",
+      "name": "렉타",
+      "code": "ko"
+    },
+    {
+      "description": "Mitad láser, mitad látigo. El arma corpus Lecta suministra una descarga mortal a todo lo que toca.",
+      "name": "Lecta",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LECTA）一半电击器一半鞭子。这条 Corpus 的勒克塔会对接触到的任何东西发出致命电击。",
+      "name": "勒克塔",
+      "code": "zh"
+    },
+    {
+      "description": "Наполовину шокер, наполовину хлыст. Лекта Корпуса стегает смертельным разрядом всё, чего касается.",
+      "name": "Лекта",
+      "code": "ru"
+    },
+    {
+      "description": "スタンガンとムチのハイブリッド兵器。触れるものすべてに強力な電撃を浴びせる。",
+      "name": "Lecta",
+      "code": "ja"
+    },
+    {
+      "description": "W połowie taser a w połowie bat, Lecta razi zabójczym wstrząsem każdy swój cel.",
+      "name": "Lecta",
+      "code": "pl"
+    },
+    {
+      "description": "Metade taser, metade chicote. A Lecta Corpus descarrega um choque mortal em qualquer coisa que toque.",
+      "name": "Lecta",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LECTA）一半電擊器一半鞭子。 這條 Corpus 的勒克塔會對接觸到的任何東西發出致命電擊。",
+      "name": "勒克塔",
+      "code": "tc"
+    },
+    {
+      "description": "แส้ Lecta เป็นอาวุธที่ Corpus สร้างขึ้น ครึ่งหนึ่งเป็นเครื่องช็อตไฟฟ้า ครึ่งหนึ่งเป็นแส้ อะไรก็ตามที่มันสัมผัสจะโดนช็อตอย่างรุนแรง",
+      "name": "Lecta",
+      "code": "th"
+    },
+    {
+      "description": "Yarı elektrik şoku yarı kırbaç. Corpus Lecta dokunduğu her şeye ölümcül bir şok verir.",
+      "name": "Lecta",
+      "code": "tr"
+    },
+    {
+      "description": "Напівелектрошокер, напівбатіг Корпусу. Завдає смертельного удару струмом будь-кому, до кого доторкнеться.",
+      "name": "Лекта",
+      "code": "uk"
+    }
+  ]
+}

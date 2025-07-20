@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/SniperRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/snipetron-0f587c4490.png",
+  "name": "Snipetron",
+  "description": "Manufactured by the Corpus, the Snipetron is a powerful and accurate rifle that sports optical zoom capabilities. Perfect for long range engagements.",
+  "languages": [
+    {
+      "description": "Das von den Corpus gebaute Snipetron ein leistungsfähiges und zielgenaues Gewehr mit optischer Vergrößerung. Perfekt für den Kampf aus großer Distanz.",
+      "name": "Snipetron",
+      "code": "de"
+    },
+    {
+      "description": "Fabriqué par les Corpus, le Snipetron est un Fusil puissant et précis équipé d’un zoom optique. Parfait pour les affrontements à longue distance.",
+      "name": "Snipetron",
+      "code": "fr"
+    },
+    {
+      "description": "Fabbricato dai Corpus, lo Snipetron è un fucile potente e preciso che vanta uno zoom ottico. Perfetto per battaglie a lunga distanza.",
+      "name": "Snipetron",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스에 의해 제작된 반자동 저격총인 스나이프트론은 광학 줌렌즈가 부착된 매우 강력하고 정확한 소총으로, 장거리 전투에 안성맞춤입니다.",
+      "name": "스나이프트론",
+      "code": "ko"
+    },
+    {
+      "description": "Fabricado por el Corpus, el Snipetron es un rifle potente y preciso que cuenta con un zoom óptico. Perfecto para encuentros a largo alcance.",
+      "name": "Snipetron",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SNIPETRON）由 Corpus 加工，狙击特昂是一把具备变焦能力的强力精准步枪。适合远距离战斗。",
+      "name": "狙击特昂",
+      "code": "zh"
+    },
+    {
+      "description": "Снайптрон - мощная и точная винтовка производства Корпуса с возможностью оптического приближения. Идеально подходит для битв на дальних дистанциях.",
+      "name": "Снайптрон",
+      "code": "ru"
+    },
+    {
+      "description": "強力なコーパス製の狙撃銃。高倍率・高火力を誇る。",
+      "name": "Snipetron",
+      "code": "ja"
+    },
+    {
+      "description": "Produkowany przez Corpus Snipetron jest potężnym i dokładnym karabinem wyposażonym w lunetę. Doskonały do starć na dalekie odległości.",
+      "name": "Snipetron",
+      "code": "pl"
+    },
+    {
+      "description": "Manufaturado pela Corpus, o Snipetron é um poderoso e preciso rifle que possui luneta ótica. Perfeita para confrontos à longa distância.",
+      "name": "Snipetron",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SNIPETRON）由 Corpus 加工，狙擊特昂是一把具備變焦能力的強力精準步槍。適合遠距離戰鬥。",
+      "name": "狙擊特昂",
+      "code": "tc"
+    },
+    {
+      "description": "ปืน Snipetron เป็นอาวุธที่สร้างโดย Corpus เป็นปืนไรเฟิลที่ทรงพลังและมีความแม่นยำสูงซึ่งสามารถติดซูมออปติคอลได้ เหมาะสำหรับการยิงระยะไกล",
+      "name": "Snipetron",
+      "code": "th"
+    },
+    {
+      "description": "Snipetron, optik yakınlaştırma yeteneği olan güçlü ve isabetli bir tüfektir. Uzun mesafe atışları için mükemmeldir.",
+      "name": "Snipetron",
+      "code": "tr"
+    },
+    {
+      "description": "Снайперська гвинтівка з оптичним прицілом, створена Корпусом. Потужна й точна. Чудово пасує для бою на відстані.",
+      "name": "Снайптрон",
+      "code": "uk"
+    }
+  ]
+}

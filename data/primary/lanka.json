@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Energy/Railgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lanka-49355e9fbb.png",
+  "name": "Lanka",
+  "description": "The Lanka fires a high velocity projectile through magnetic induction.",
+  "languages": [
+    {
+      "description": "Die Lanka feuert ein Hochgeschwindigkeitsprojektil durch magnetische Induktion.",
+      "name": "Lanka",
+      "code": "de"
+    },
+    {
+      "description": "Le Lanka tire des projectiles à haute vélocité par induction magnétique.",
+      "name": "Lanka",
+      "code": "fr"
+    },
+    {
+      "description": "Il Lanka scaglia un proiettile ad alta velocità sfruttando l'induzione magnetica.",
+      "name": "Lanka",
+      "code": "it"
+    },
+    {
+      "description": "란카는 자기 유도를 이용해 빠른 속도로 탄환을 발사합니다.",
+      "name": "란카",
+      "code": "ko"
+    },
+    {
+      "description": "El Lanka dispara un proyectil a alta velocidad a través de inducción magnética.",
+      "name": "Lanka",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LANKA）兰卡使用电磁加速射出高速子弹。",
+      "name": "兰卡",
+      "code": "zh"
+    },
+    {
+      "description": "Ланка использует магнитную индукцию для стрельбы высокоскоростными снарядами.",
+      "name": "Ланка",
+      "code": "ru"
+    },
+    {
+      "description": "電磁誘導により超加速させた弾丸を発射する特殊兵器。",
+      "name": "Lanka",
+      "code": "ja"
+    },
+    {
+      "description": "Lanka używa pocisków o wysokiej prędkości, napędzanych przez indukcję magnetyczną.",
+      "name": "Lanka",
+      "code": "pl"
+    },
+    {
+      "description": "A Lanka dispara um projétil de alta velocidade por indução magnética.",
+      "name": "Lanka",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LANKA）蘭卡使用電磁加速射出高速子彈。",
+      "name": "蘭卡",
+      "code": "tc"
+    },
+    {
+      "description": "Lanka ยิงกระสุนปืนความเร็วสูงผ่านการเหนี่ยวนำแม่เหล็ก",
+      "name": "Lanka",
+      "code": "th"
+    },
+    {
+      "description": "Lanka silahı yüksek hızlı mermi ateşleyerek manyetik endüksiyonu harekete geçirir.",
+      "name": "Lanka",
+      "code": "tr"
+    },
+    {
+      "description": "Снайперська гвинтівка, стріляє високошвидкісними снарядами завдяки магнітній індукції.",
+      "name": "Ланка",
+      "code": "uk"
+    }
+  ]
+}

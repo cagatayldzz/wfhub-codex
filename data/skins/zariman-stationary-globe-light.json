@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxGlobeLightOrb",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-stationary-globe-light-9c7a4757bb.png",
+  "name": "Zariman Stationary Globe Light",
+  "description": "A globe light with a bracket.",
+  "languages": [
+    {
+      "description": "Eine Kugellampe mit einer Halterung.",
+      "name": "Zariman Stationäre Kugellampe",
+      "code": "de"
+    },
+    {
+      "description": "Un globe lumineux avec un support.",
+      "name": "Zariman: Globe lumineux fixe",
+      "code": "fr"
+    },
+    {
+      "description": "Una sfera di luce con un supporto.",
+      "name": "Sfera di Luce Fissa Zariman",
+      "code": "it"
+    },
+    {
+      "description": "버팀대가 있는 구체 조명입니다.",
+      "name": "자리만 고정형 구체 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Un globo de luz con un soporte.",
+      "name": "Globo de luz estacionario Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个带有支架的灯球。",
+      "name": "扎里曼固定式灯球",
+      "code": "zh"
+    },
+    {
+      "description": "Сферический светильник на подставке.",
+      "name": "Стационарный сферический светильник: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "ブラケット付きのグローブライト。",
+      "name": "Zariman 固定グローブライト",
+      "code": "ja"
+    },
+    {
+      "description": "Mały iluminator z podpórką.",
+      "name": "Zariman: Iluminator (nieruchomy)",
+      "code": "pl"
+    },
+    {
+      "description": "Um globo de luz com um suporte.",
+      "name": "Globo de Luz da Zariman (Fixo)",
+      "code": "pt"
+    },
+    {
+      "description": "帶支架的燈球。",
+      "name": "扎日曼固定式燈球",
+      "code": "tc"
+    },
+    {
+      "description": "โกลบไลต์พร้อมขาตั้ง",
+      "name": "Zariman: โกลบไลต์ที่อยู่กับที่",
+      "code": "th"
+    },
+    {
+      "description": "Braketli bir küre ışığı.",
+      "name": "Zariman Sabit Küre Işık",
+      "code": "tr"
+    },
+    {
+      "description": "Світлова куля з підпоркою.",
+      "name": "Підлогова світлова куля із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

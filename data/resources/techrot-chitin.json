@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/techrot-chitin-369d38a5d1.png",
+  "name": "Techrot Chitin",
+  "description": "This twisted husk barely resembles the electronic device it once was, consumed and reshaped by the Techrot’s relentless spread.\n\nLocation: 1999 (Höllvania)",
+  "languages": [
+    {
+      "description": "Diese verdrehte Hülle ähnelt kaum noch dem elektronischen Gerät, das sie einmal war, verschlungen und umgestaltet durch die unaufhaltsame Ausbreitung des Techrot.\n\nFundort: 1999 (Höllvania)",
+      "name": "Techrot-Chitin",
+      "code": "de"
+    },
+    {
+      "description": "Cette enveloppe tordue ressemble à peine à l'appareil électronique qu'elle était autrefois, consumée et remodelée par la propagation incessante du Techrot.\n\nLieu: 1999 (Höllvanie)",
+      "name": "Chitine Techrot",
+      "code": "fr"
+    },
+    {
+      "description": "Questo involucro distorto assomiglia a malapena al dispositivo elettronico che era una volta, consumato e rimodellato dall'implacabile diffusione del Techrot.\n\nPosizione: 1999 (Höllvania)",
+      "name": "Chitina Techrot",
+      "code": "it"
+    },
+    {
+      "description": "테크병의 끊임없는 확산에 의해 마모되고 변형된 이 뒤틀린 껍질에, 한 때 원본이었던 전자기기의 흔적은 희박합니다.\n\n획득 가능 장소: 1999 (홀바니아)",
+      "name": "테크병 키틴",
+      "code": "ko"
+    },
+    {
+      "description": "Este caparazón retorcido apenas se parece al dispositivo que era antes de que el Techrot lo cambiara.\n\nUbicación: 1999 (Höllvania)",
+      "name": "Quitina Techrot",
+      "code": "es"
+    },
+    {
+      "description": "这个扭曲的外壳已经不再像曾经的电子设备，它被科腐者的无情蔓延所吞噬并重塑。\n\n获取地点：霍瓦尼亚（1999 年）",
+      "name": "科腐者几丁质",
+      "code": "zh"
+    },
+    {
+      "description": "Эта искажённая оболочка едва напоминает электронное устройство, каким она была раньше, уничтоженное и переформированное неумолимым распространением Техрота.\n\nМестонахождение: 1999 (Хёльвания)",
+      "name": "Техротный Хитин",
+      "code": "ru"
+    },
+    {
+      "description": "このねじれた殻は、テックロットの容赦ない拡大に呑み込まれて変形し、もともとの電子機器とは似ても似つかない。\n\n場所：1999（ホルバニア）",
+      "name": "テックロット キチン",
+      "code": "ja"
+    },
+    {
+      "description": "Ta pokręcona skorupa ledwo przypomina urządzenie, którym kiedyś była, zanim została zmieniona przez Techrot.\n\nPołożenie: 1999 (Höllvania)",
+      "name": "Chityna Techrotu",
+      "code": "pl"
+    },
+    {
+      "description": "Esta casca retorcida mal se parece com o dispositivo eletrônico que era antes de ser consumido e remodelado pela disseminação implacável do Tecnovírus.\n\nLocalização: 1999 (Holvânia).",
+      "name": "Quitina do Tecnovírus",
+      "code": "pt"
+    },
+    {
+      "description": "這個扭曲的外殼幾乎不像原本的電子設備，經過無限蔓生的科腐者吞噬和改造。\n\n地點：霍爾瓦尼亞（1999 年）",
+      "name": "科腐幾丁質",
+      "code": "tc"
+    },
+    {
+      "description": "เปลือกที่มีรูปร่างบิดเบี้ยวนี้แทบจะไม่เหมือนอุปกรณ์อิเล็กทรอนิกส์อย่างที่เคยเป็นมาก่อน เพราะถูกการระบาดของ Techrot กัดกินและทำให้เปลี่ยนรูปร่างใหม่\n\nแหล่งที่พบ: 1999 (Höllvania)",
+      "name": "ไคทินของ Techrot",
+      "code": "th"
+    },
+    {
+      "description": "Bu bükülmüş kabuk, bir zamanlar olduğu elektronik cihaza neredeyse hiç benzemiyor, Techrot'un amansız yayılımıyla tüketiliyor ve yeniden şekilleniyor.\n\nKonum: 1999 (Höllvania)",
+      "name": "Techrot Chitin",
+      "code": "tr"
+    },
+    {
+      "description": "Химерно перекручена оболонка слабко нагадує електронний пристрій, яким вона колись була до поглинання невтомною техногниллю.\n\nМожна здобути в 1999 році (Голвенія).",
+      "name": "Техногнилий хітин",
+      "code": "uk"
+    }
+  ]
+}

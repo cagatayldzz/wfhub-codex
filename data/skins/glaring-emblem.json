@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/BaroKavatBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glaring-emblem-3a1b7ceeec.png",
+  "name": "Glaring Emblem",
+  "description": "An emblem representing your Kavat allegiance.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das deine Kavat-Zugehörigkeit zeigt.",
+      "name": "Emblem: Blendend",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge représentant la loyauté de votre Kavat.",
+      "name": "Badge Éblouissant",
+      "code": "fr"
+    },
+    {
+      "description": "Un'emblema che rappresenta la fedeltà del tuo Kavat.",
+      "name": "Emblema Glaring",
+      "code": "it"
+    },
+    {
+      "description": "카밧을 사랑하는 여러분의 변함없는 마음을 보여주는 엠블럼입니다.",
+      "name": "글레어링 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema que representa tu alianza con los kavat.",
+      "name": "Emblema Deslumbrante",
+      "code": "es"
+    },
+    {
+      "description": "一枚象征着你的库娃忠诚的徽章。",
+      "name": "耀目徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, символизирующий преданность Вашего Кавата.",
+      "name": "Значок: Ослепительный",
+      "code": "ru"
+    },
+    {
+      "description": "あなたのキャバットの忠誠を示すエンブレム。",
+      "name": "Glaring エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat reprezentujący Twoje przywiązanie do Kavatów.",
+      "name": "Emblemat: Łakome Spojrzenie",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema representando sua fidelidade aos Kavats.",
+      "name": "Emblema: Glaring",
+      "code": "pt"
+    },
+    {
+      "description": "一枚象徵著你的庫娃忠誠的徽章。",
+      "name": "耀目徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่แสดงถึงความจงรักภักดีของ Kavat",
+      "name": "ตราสัญลักษณ์: Glaring",
+      "code": "th"
+    },
+    {
+      "description": "Kavat bağlılığını temsil eden bir rozet.",
+      "name": "Glaring Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Знак вашої любові до каватів.",
+      "name": "Відзнака «Сяйво»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNezhaDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nezha-empyrean-glyph-f1205fdaf6.png",
+  "name": "Nezha Empyrean Glyph",
+  "description": "A glyph depicting Nezha Empyrean.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nezha Empyrean darstellt.",
+      "name": "Glyphe: Nezha Empyrean",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nezha Empyrean.",
+      "name": "Glyphe Nezha Empyrean",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nezha Empyrean.",
+      "name": "Glifo Nezha Empyrean",
+      "code": "it"
+    },
+    {
+      "description": "나타 엠피리언을 묘사한 글리프입니다.",
+      "name": "나타 엠피리언 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nezha Empíreo.",
+      "name": "Glifo de Nezha Empíreo",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Nezha 九霄外观的浮印。",
+      "name": "Nezha 九霄浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Нэчжи «Эмпирей».",
+      "name": "Глиф: Нэчжа Эмпирей",
+      "code": "ru"
+    },
+    {
+      "description": "Nezha Empyreanが描かれたグリフ。",
+      "name": "Nezha Empyrean グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Nezha Empyrean.",
+      "name": "Glif Nezha Empyrean",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando o Nezha Empyrean.",
+      "name": "Glifo: Nezha Empyrean",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nezha 九霄的浮印。",
+      "name": "Nezha 九霄浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nezha Empyrean",
+      "name": "ภาพสัญลักษณ์ Nezha Empyrean",
+      "code": "th"
+    },
+    {
+      "description": "Nezha Empyrean'ı temsil eden bir glif.",
+      "name": "Nezha Empyrean Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Неджи зі спорядженим виглядом «Емпірей».",
+      "name": "Гліф «Неджа „Емпірей“»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/HeavyLowerBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/heavy-weapon-lower-back-holster-d9c27d8cdb.png",
+  "name": "Heavy Weapon Lower Back Holster",
+  "description": "Heavy weapons are holstered across the lower back.",
+  "languages": [
+    {
+      "description": "Schwere Waffen werden am unteren Rücken geholstert.",
+      "name": "Schwere-Waffen-Holster: Rücken, Unten",
+      "code": "de"
+    },
+    {
+      "description": "Les Armes Lourdes sont portées le long du bas du dos.",
+      "name": "Port d'Arme Lourde au bas du dos",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Spade a Due Mani nella parte bassa della schiena.",
+      "name": "Rinfodero Arma Pesante Schiena Bassa",
+      "code": "it"
+    },
+    {
+      "description": "중병기 계열 무기를 등 하부에 수납하는 수납 방식입니다.",
+      "name": "중병기 등 하부 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las armas pesadas se enfundarán a través de la parte baja de la espalda.",
+      "name": "Enfundado de parte baja de la espalda de arma pesada",
+      "code": "es"
+    },
+    {
+      "description": "将重武器背在后腰处。",
+      "name": "重武器后背收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Тяжелое оружие крепится к пояснице.",
+      "name": "Поясничный Крепеж Тяжелого Оружия",
+      "code": "ru"
+    },
+    {
+      "description": "背中の下部分にヘビー系武器を収納。",
+      "name": "ヘビー専用ボトムバック ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Broń ciężka mocowana jest do lędźwi.",
+      "name": "Broń Ciężka Mocowanie Do Lędźwi",
+      "code": "pl"
+    },
+    {
+      "description": "As armas pesadas são guardadas na lombar.",
+      "name": "Armas Pesadas: Coldre Nas Costas (Inferior)",
+      "code": "pt"
+    },
+    {
+      "description": "重型武器可跨過下背收納。",
+      "name": "重型武器後腰收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธหนักที่ใส่ซองพาดหลังส่วนล่าง",
+      "name": "ซองอาวุธหนักด้านหลังส่วนล่าง",
+      "code": "th"
+    },
+    {
+      "description": "Ağır silahlar belin alt tarafında taşınır.",
+      "name": "Ağır Silah Alt Bel Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Важка зброя кріпиться на попереку, коли в руках інша зброя.",
+      "name": "Важка зброя на попереку",
+      "code": "uk"
+    }
+  ]
+}

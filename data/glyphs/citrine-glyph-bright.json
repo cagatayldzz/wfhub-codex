@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-glyph---bright-2a20d35846.png",
+  "name": "Citrine Glyph - Bright",
+  "description": "A glyph depicting Citrine on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Citrine vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Citrine (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Citrine sur un fond lumineux.",
+      "name": "Glyphe Citrine - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Citrine su uno sfondo chiaro.",
+      "name": "Glifo Citrine - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 시트린을 묘사한 글리프입니다.",
+      "name": "시트린 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Citrine sobre un fondo brillante.",
+      "name": "Glifo de Citrine - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Citrine 在明亮背景下的浮印。",
+      "name": "Citrine 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Цитрины на светлом фоне.",
+      "name": "Глиф: Цитрина - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたCitrineのグリフ。",
+      "name": "Citrine グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Citrine na jasnym tle.",
+      "name": "Glif Citrine — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Citrine em um fundo claro.",
+      "name": "Glifo: Citrine (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Citrine 在明亮背景下的浮印。",
+      "name": "Citrine 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Citrine บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Citrine - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Citrine açık fonlu glif.",
+      "name": "Citrine Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Цитрини на світлому тлі.",
+      "name": "Яскравий гліф «Цитрина»",
+      "code": "uk"
+    }
+  ]
+}

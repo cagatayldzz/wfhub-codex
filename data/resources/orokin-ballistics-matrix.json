@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingUncommonItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-ballistics-matrix-67ff6d4731.png",
+  "name": "Orokin Ballistics Matrix",
+  "description": "A mech matrix that assists with the machine’s weapon accuracy and control.\n\nLocation: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties",
+  "languages": [
+    {
+      "description": "Eine Mechmatrix, die die Waffengenauigkeit und -kontrolle der Maschine unterstützt.\n\nQuelle: Belohnung aus Isolationsgewölbe-Aufträgen in der Cambion-Drift (Deimos) und von feindlichen Necramechs, aus Stufe 2 Isolationsgewölbe-Aufträgen.",
+      "name": "OROKIN BALLISTIK-MATRIX",
+      "code": "de"
+    },
+    {
+      "description": "Une matrice pour mécha qui aide à la précision et au contrôle de l'arme de la machine.\n\nLieu: Récompenses des Mises à Prix des Salles d'Isolement du Puy de Cambion (Deimos) et des Necramechs ennemis trouvés dans les Mises à Prix des Salles d'Isolement de niveau 2",
+      "name": "MATRICE BALISTIQUE OROKIN",
+      "code": "fr"
+    },
+    {
+      "description": "Una matrice mech che aiuta nella precisione e nel controllo dell'arma della macchina.\n\nPosizione: Ricompense delle Taglie Vault d'Isolamento sul Cambion Drifter (Deimos), e dai Necramech Nemici trovati nelle Taglie Vault d'Isolamento di Livello 2",
+      "name": "MATRICE BALISTICA OROKIN",
+      "code": "it"
+    },
+    {
+      "description": "기계의 무기 정확도 및 제어를 지원하는 메크 매트릭스입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 에서 격리 금고 보상 및 격리 금고 의뢰 티어 2에서 발견되는 적 네크라메크",
+      "name": "오로킨 발리스틱스 매트릭스",
+      "code": "ko"
+    },
+    {
+      "description": "Una matriz mecha que ayuda en la precisión y el control del arma de la máquina.\n\nUbicación: Recompensas de los contratos de la bóveda de aislamiento en Deriva Cambion (Deimos) y con los Necramechs enemigos encontrados en los contratos de la bóveda de aislamiento de nivel 2",
+      "name": "MATRIZ DE BALÍSTICA OROKIN",
+      "code": "es"
+    },
+    {
+      "description": "一个用来辅助机甲武器精准度和操控性的机甲矩阵装置。\n\n获取地点：魔胎之境（火卫二）隔离库赏金奖励、等级 2 隔离库赏金中的殁世机甲敌人",
+      "name": "OROKIN 弹道矩阵装置",
+      "code": "zh"
+    },
+    {
+      "description": "Механическая матрица, обеспечивающая точность и контроль оружия машины.\n\nМестонахождение: награды за контракты в Изолированном Хранилище в Камбионском Дрейфе (Деймос) или от вражеских некрамехов, найденных в контрактах Изолированного Хранилища 2 уровня.",
+      "name": "МАТРИЦА ОРОКИН: БАЛЛИСТИКА",
+      "code": "ru"
+    },
+    {
+      "description": "武器の精度と操作性を補助するメカのマトリックス。\n\n 場所：カンビオン荒地（ダイモス）の隔離保管庫依頼ミッション、隔離庫依頼ミッションランク 2の敵のネクロメカ",
+      "name": "オロキン バリスティックマトリックス",
+      "code": "ja"
+    },
+    {
+      "description": "Matryca wspomagająca systemy celownicze i kontrolne uzbrojenia.\n\nPołożenie: Nagroda Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie, dowolne wrogie Nekramechy w Zleceniach Skarbców Izolacyjnych 2 poziomu",
+      "name": "MATRYCA BALISTYKI OROKIN",
+      "code": "pl"
+    },
+    {
+      "description": "Uma matriz mecânica, que auxilia na precisão e controle do armamento de um Necramech.\n\nLocalização: em Contratos das Câmaras de Isolamento ou ao derrotar Necramechs nas Câmaras de Isolamento de Nível 2, na Deriva de Cambion, em Deimos.",
+      "name": "MATRIZ DE BALÍSTICA OROKIN",
+      "code": "pt"
+    },
+    {
+      "description": "一種機甲源件用來協助武器精準度以及控制。\n\n地點：魔裔禁地（火衛二）上的隔離庫賞金任務以及階級 2 隔離庫賞金任務的敵方亡骸機甲",
+      "name": "OROKIN 心道源件",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบพื้นฐานของ Mech ที่ช่วยในเรื่องความแม่นยำและการควบคุมอาวุธของเครื่องจักร\n\nแหล่งที่พบ: ภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัวที่แคมบิออนดริฟต์ (เดมอส) และจากศัตรู Necramech ที่พบในภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัว ระดับที่ 2",
+      "name": "เมทริกซ์ OROKIN BALLISTICS",
+      "code": "th"
+    },
+    {
+      "description": "Makinenin silah isabet hassasiyeti ve kontrolüne yardımcı olan mekanik bir matris.\n\nKonum: Cambion Drift'teki (Deimos) İzolasyon Kasası Bounty ödülleri ve Seviye 2 İzolasyon Kasası Bounty Görevlerinde bulunan Düşman Necramech'ler",
+      "name": "OROKIN BALİSTİK MATRIX",
+      "code": "tr"
+    },
+    {
+      "description": "Дозволяє поліпшити влучність та керованість зброї некрамехів.\n\nМожна здобути як винагороду за контракти «Камери ізоляції» у Кембіонській течії (Деймос) та з ворожих некрамехів у контрактах 2-го рівня.",
+      "name": "ОРОКІНСЬКА БАЛІСТИЧНА МАТРИЦЯ",
+      "code": "uk"
+    }
+  ]
+}

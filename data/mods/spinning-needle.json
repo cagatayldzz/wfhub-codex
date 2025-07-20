@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbThreeMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spinning-needle-110cb49360.jpg",
+  "name": "Spinning Needle",
+  "description": "Swift stabs, twisting slashes.",
+  "languages": [
+    {
+      "description": [
+        "Schnelle Stiche und drehende Schnitte."
+      ],
+      "name": "Drehende Nadel",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Coups d'estoc rapides, coups de taille croisés."
+      ],
+      "name": "Aiguille Tourbillonnante",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Pugnalate veloci, fendenti roteanti."
+      ],
+      "name": "Spinning Needle",
+      "code": "it"
+    },
+    {
+      "description": [
+        "신속한 찌르기와 뒤틀린 베기로 구성된 공격법입니다."
+      ],
+      "name": "스피닝 니들",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Puñaladas rápidas, cortes retorcidos"
+      ],
+      "name": "Aguja giratoria",
+      "code": "es"
+    },
+    {
+      "description": [
+        "迅速刺击，扭转切割"
+      ],
+      "name": "旋压刺针",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Быстрые удары, крученые взмахи."
+      ],
+      "name": "Вращающаяся игла",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "高速な刺突、えぐるような斬撃。"
+      ],
+      "name": "Spinning Needle",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Błyskawiczne dźgnięcia, zawiłe cięcia."
+      ],
+      "name": "Tańcząca Igła",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Golpes rápidos, cortes em espiral."
+      ],
+      "name": "Spinning Needle",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "迅速刺擊，扭轉切割"
+      ],
+      "name": "旋壓刺針",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "แทงอย่างรวดเร็ว บิดแล้วฟัน"
+      ],
+      "name": "Spinning Needle",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Seri saplamalar, bükümlü kesmeler."
+      ],
+      "name": "Spinning Needle",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Плавні проколювальні атаки й обертові різальні удари."
+      ],
+      "name": "Верткі голки",
+      "code": "uk"
+    }
+  ]
+}

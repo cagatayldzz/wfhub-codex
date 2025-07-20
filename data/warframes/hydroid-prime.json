@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Pirate/HydroidPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-prime-718aec2104.png",
+  "name": "Hydroid Prime",
+  "description": "Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.",
+  "armor": 290,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Beherrscht die Wut des Ozeans mit dem gold-silbernen König. Abgeänderte Mod-Polaritäten bieten höhere Anpassungsmöglichkeiten.",
+      "name": "Hydroid Prime",
+      "code": "de"
+    },
+    {
+      "description": "Maîtrisez la furie de l'océan avec ce souverain d'or et d'argent. Hydroid Prime possède des polarités de mods altérées pour une meilleure personnalisation.",
+      "name": "Hydroid Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Comanda la furia dell'oceano con questo re d'oro e d'argento. Presenta polarità mod alterate per una maggiore personalizzazione.",
+      "name": "Hydroid Prime",
+      "code": "it"
+    },
+    {
+      "description": "금과 은의 왕으로서 군림하는 이 워프레임과 함께 대양의 분노를 다루어 보세요. 더욱 다채로운 특성화를 위한 추가 모드 극성을 가지고 있습니다.",
+      "name": "하이드로이드 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Comanda la furia del océano con este rey de oro y plata. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+      "name": "Hydroid Prime",
+      "code": "es"
+    },
+    {
+      "description": "以这金银之王号令大海的怒涛。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+      "name": "Hydroid Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Повелевайте яростью океана с этим королем из золота и серебра. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+      "name": "Гидроид Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "大海原の怒りをこの金と銀の王で操ろう。MOD極性が追加されているため、より多彩なカスタマイズを施すことができる。",
+      "name": "Hydroid Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Rozkazuj furii oceanu, wykorzystując tego króla złota i srebra. Posiada zmienione polaryzacje, dla większych możliwości personalizacji.",
+      "name": "Hydroid Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Comande a fúria do oceano com este rei de ouro e prata. Inclusas polaridades alteradas de mods para uma maior personalização.",
+      "name": "Hydroid Prime",
+      "code": "pt"
+    },
+    {
+      "description": "以這金銀之王號令大海的怒濤。擁有改造過的 MOD 極性槽，可提供更優秀的自訂空間。",
+      "name": "Hydroid Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ราชาที่มีทั้งเงินและทองผู้สามารถควบคุมความเกรี้ยวกราดของมหาสมุทรได้ มีการปรับเปลี่ยนขั้ว Mod เพื่อช่วยให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Hydroid Prime",
+      "code": "th"
+    },
+    {
+      "description": "Altın ve gümüşün kralı ile okyanusun öfkesini yönet. Daha geniş modlama için değiştirilmiş kutup sunuyor.",
+      "name": "Hydroid Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Король із золота і срібла, що править океанською люттю. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
+      "name": "Гідроїд-прайм",
+      "code": "uk"
+    }
+  ]
+}

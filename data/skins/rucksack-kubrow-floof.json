@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyRucksackKubrow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rucksack-kubrow-floof-250db98569.png",
+  "name": "Rucksack Kubrow Floof",
+  "description": "A very special Floof commemorating your participation in Tactical Alert: Dog Days. FOR SQUISHY HONOR!",
+  "languages": [
+    {
+      "description": "Ein spezieller Floof, der deine Teilnahme an der Taktischen Alarmierung: Hitzefrei feiert. FÜR SCHWAMMIGE EHRE!",
+      "name": "Floof: Rucksack Kubrow",
+      "code": "de"
+    },
+    {
+      "description": "Une peluche très spéciale pour vous rappeler de votre participation dans l'Alerte Tactique: Bataille d'eau. QUE VOTRE VICTOIRE TREMPÉE SOIT HONORABLE!",
+      "name": "Peluche Kubrow Sac à Dos",
+      "code": "fr"
+    },
+    {
+      "description": "Un Floof molto speciale che commemora la tua partecipazione all'Allerta Tattica: Dog Days. BAGNARE È ONORE, BAGNARSI È DOLORE!",
+      "name": "Floof Kubrow Zainetto",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 택티컬 얼럿: 도그 데이즈 참여를 기념하는 매우 특별한 플루프입니다. 물싸움의 영예를 위하여!",
+      "name": "럭색 쿠브로 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Un Floof muy especial que conmemora tu participación en la alerta táctica: Canícula. ¡POR NUESTRO HONOR CHAPOTEADO!",
+      "name": "Floof de kubrow de mochila",
+      "code": "es"
+    },
+    {
+      "description": "一个非常特别的玩偶，以纪念你在战术警报：三伏天中的参与。为了湿漉漉的荣誉！",
+      "name": "背包库狛玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Особенный Пушистик, в честь вашего участия в Тактической Тревоге: Знойные Дни. ВО ИМЯ ПУШИСТОСТИ!",
+      "name": "Пушистик: Кубрау в рюкзаке",
+      "code": "ru"
+    },
+    {
+      "description": "ハンターアラート「ドッグ・デイズ」に参加した記念として入手できる特別なぬいぐるみ。",
+      "name": "リュックサック・クブロウのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Wyjątkowy Pluszak upamiętniający Twój udział w Alarmie Taktycznym: Kanikuła. ZA WYGRANĄ!",
+      "name": "Pluszak Kubrowa Kauczukowego",
+      "code": "pl"
+    },
+    {
+      "description": "Um Floof muito especial que celebra a sua participação no Alerta Tático: Dias de Cão. PELA HONRA!",
+      "name": "Floof: Kubrow da Mochila de Alpinista",
+      "code": "pt"
+    },
+    {
+      "description": "一個非常特別的玩偶，以紀念你在戰術警報：三伏天中的參與。為了濕漉漉的榮譽！",
+      "name": "背包庫狛玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "ตุ๊กตาสุดพิเศษเป็นที่ระลึกจากการเข้าร่วมภารกิจแจ้งเตือนทางยุทธวิธี: Dog Days เพื่อเป็นเกียรติแก่ความนุ่มนิ่ม!",
+      "name": "ตุ๊กตา Rucksack Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Taktisel Alert'e katılımınızı hatırlatan çok özel bir Peluş: Dog Days. POFUDUK BİR ONUR NİŞANI!",
+      "name": "Sırt Çantası Kubrow Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий плюш, який нагадуватиме про участь у тактичному виклику «Спекотні дні». За вологу честь!",
+      "name": "Плюш «Пляжний куброу»",
+      "code": "uk"
+    }
+  ]
+}

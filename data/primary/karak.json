@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/karak-fa5ee22d86.png",
+  "name": "Karak",
+  "description": "Solid, dependable and deadly. The Karak is a standard issue rifle in many Grineer platoons.",
+  "languages": [
+    {
+      "description": "Solide, verlässlich und tödlich. Die Karak ist das Standard Gewehr vieler Grineer Platoons.",
+      "name": "Karak",
+      "code": "de"
+    },
+    {
+      "description": "Solide, fiable et mortel. Le Karak est un Fusil standard dans de nombreux pelotons Grineers.",
+      "name": "Karak",
+      "code": "fr"
+    },
+    {
+      "description": "Durevole, affidabile e letale. Il KARAK è un fucile d'ordinanza in molti plotoni Grineer.",
+      "name": "Karak",
+      "code": "it"
+    },
+    {
+      "description": "튼튼하고, 듬직하며 치명적입니다. 카락은 대부분의 그리니어 군에서 채용하고 있는 기본 소총입니다.",
+      "name": "카락",
+      "code": "ko"
+    },
+    {
+      "description": "Solido, fiable y mortal. El Karak es el rifle estándar de los pelotones grineer.",
+      "name": "Karak",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KARAK）结实、可靠又致命。卡拉克是很多Grineer小队的一把标准配置步枪。",
+      "name": "卡拉克",
+      "code": "zh"
+    },
+    {
+      "description": "Массивный, надежный и смертельный. Карак стоит на вооружении во многих взводах Гринир.",
+      "name": "Карак",
+      "code": "ru"
+    },
+    {
+      "description": "安定性、信頼性、殺傷力。 グリニア小隊に一般的に配備されているライフル銃である。",
+      "name": "Karak",
+      "code": "ja"
+    },
+    {
+      "description": "Solidny, godny zaufania, zabójczy. Karak jest podstawowym karabinem używanym w wielu jednostkach Grineer.",
+      "name": "Karak",
+      "code": "pl"
+    },
+    {
+      "description": "Sólida, confiável e mortal. A Karak é um rifle padrão em vários pelotões Grineer.",
+      "name": "Karak",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KARAK）堅固、可靠且致命。卡拉克是大部分Grineer小隊的標準配置步槍。",
+      "name": "卡拉克",
+      "code": "tc"
+    },
+    {
+      "description": "Karak เป็นอาวุธที่แข็งแกร่ง เชื่อถือได้ และทำลายล้างสูง เป็นปืนไรเฟิลรุ่นมาตรฐานที่ใช้กันในหมู่กองทหาร Grineer",
+      "name": "Karak",
+      "code": "th"
+    },
+    {
+      "description": "Sağlam, güvenilir ve ölümcül. Karak birçok Grineer birliği için standart saldırı tüfeğidir.",
+      "name": "Karak",
+      "code": "tr"
+    },
+    {
+      "description": "Громіздка, міцна й смертоносна гвинтівка. Перебуває на озброєнні в багатьох військових підрозділах ґрінерів.",
+      "name": "Карак",
+      "code": "uk"
+    }
+  ]
+}

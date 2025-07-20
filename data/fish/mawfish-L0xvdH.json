@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mawfish-afb1faf5ef.png",
+  "name": "Mawfish",
+  "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
+  "languages": [
+    {
+      "description": "Sein riesiges Maul erlaubt es ihm, kleinere Fische einzusaugen, während sie an ihm vorbeischwimmen.",
+      "name": "Maulfisch",
+      "code": "de"
+    },
+    {
+      "description": "Sa mâchoire béante lui permet de gober des poissons plus petits lorsqu'il nage à côté d'eux.",
+      "name": "Mawfish",
+      "code": "fr"
+    },
+    {
+      "description": "Le sue ampie fauci gli permettono di catturare pesci piccoli semplicemente nuotando.",
+      "name": "Mawfish",
+      "code": "it"
+    },
+    {
+      "description": "뻐끔거리는 커다란 입을 이용해 지나가는 주변의 작은 물고기들을 퍼올리듯 삼키는 물고기입니다.",
+      "name": "머우피쉬",
+      "code": "ko"
+    },
+    {
+      "description": "Sus boquiabiertas fauces le permiten tragar peces pequeños mientras nada tras ellos.",
+      "name": "Pez Bocón",
+      "code": "es"
+    },
+    {
+      "description": "它张大的嘴使得它游过其他小鱼时可以一口将之吞下。",
+      "name": "喉鱼",
+      "code": "zh"
+    },
+    {
+      "description": "Её огромная пасть позволяет ей проглатывать проплывающих мимо мелких рыб.",
+      "name": "Рыба-пасть",
+      "code": "ru"
+    },
+    {
+      "description": "胃袋を出し小魚を吸い込む。",
+      "name": "マーフィッシュ",
+      "code": "ja"
+    },
+    {
+      "description": "Ze swoją kłapiącą paszczęką, jest w stanie połykać mniejsze ryby, koło których przepływa.",
+      "name": "Rybokop",
+      "code": "pl"
+    },
+    {
+      "description": "Sua boca enorme permite que ele pegue peixes menores que nadam em sua direção.",
+      "name": "Mawfish",
+      "code": "pt"
+    },
+    {
+      "description": "它張大的嘴使得它遊過其他小魚時可以一口將之吞下。",
+      "name": "喉魚",
+      "code": "tc"
+    },
+    {
+      "description": "ปากที่อ้าปากค้างของมันช่วยให้สามารถตักปลาตัวเล็ก ๆ ขึ้นมาได้ในขณะที่ว่ายตามพวกมัน",
+      "name": "Mawfish",
+      "code": "th"
+    },
+    {
+      "description": "Büyük ağzı daha küçük balıkları zorlanmadan yutmasını kolaylaştırır.",
+      "name": "Mawfish",
+      "code": "tr"
+    },
+    {
+      "description": "Має велику відкриту пащу, яка дозволяє зачерпувати маленьких риб, що пропливають поруч.",
+      "name": "Пащерник",
+      "code": "uk"
+    }
+  ]
+}

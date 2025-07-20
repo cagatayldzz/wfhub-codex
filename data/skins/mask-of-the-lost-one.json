@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ostron/RevenantMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mask-of-the-lost-one-e23c9ca4a1.png",
+  "name": "Mask Of The Lost One",
+  "description": "Built to the Unum’s specifications, and fitted with prismatic lenses supplied by the Quill Onkko.",
+  "languages": [
+    {
+      "description": "Nach den Anweisungen der Unum hergestellt und mit einer prismatischen Linse von Quill Onkko ausgestattet.",
+      "name": "Maske des Verlorenen",
+      "code": "de"
+    },
+    {
+      "description": "Construit selon les spécifications de l'Unum et muni de lentilles prismatiques fournies par la Plume Onkko.",
+      "name": "Masque de l'Égaré",
+      "code": "fr"
+    },
+    {
+      "description": "Costruita secondo le specifiche dell'Unum, equipaggiata con le lenti prismatiche del Quill Onkko.",
+      "name": "Maschera del Perduto",
+      "code": "it"
+    },
+    {
+      "description": "우눔의 사양에 맞게 제작되었으며, 퀼 온코에 의해 제공된 프리즘 렌즈가 장착되어 있습니다.",
+      "name": "방황하는 자의 가면",
+      "code": "ko"
+    },
+    {
+      "description": "Construido bajo las especificaciones de Unum, y ajustado con lentes prismáticos proporcionados por el Raquis Onkko.",
+      "name": "Máscara del Desaparecido",
+      "code": "es"
+    },
+    {
+      "description": "按照乌努母神的标准打造并装有夜羽昂克所提供的棱镜晶体。",
+      "name": "迷失者的面具",
+      "code": "zh"
+    },
+    {
+      "description": "Создана по чертежам Унум и модифицирована призматическими линзами, установленными Пером Онкко.",
+      "name": "Маска Пропавшего",
+      "code": "ru"
+    },
+    {
+      "description": "Unumの設計図を組み立てて、クイルOnkkoから供給されたプリズムレンズをはめ込んでいる。",
+      "name": "失われた者の仮面",
+      "code": "ja"
+    },
+    {
+      "description": "Zbudowana zgodnie z wytycznymi Unum oraz wyposażona w soczewki pryzmatyczne dostarczone przez Quilla Onkko.",
+      "name": "Maska: Zaginiony",
+      "code": "pl"
+    },
+    {
+      "description": "Construída sob as especificações da Unum, e equipada com lentes prismáticas fornecidas por Onkko Quill.",
+      "name": "Máscara do Elo Perdido",
+      "code": "pt"
+    },
+    {
+      "description": "按照 Unum 的規格打造並裝有夜羽 Onkko 所提供的稜鏡式晶體。",
+      "name": "失落者的面具",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างขึ้นตามข้อกำหนดของ Unum และติดตั้งเลนส์ปริซึมที่จัดทำโดย Quill Onkko",
+      "name": "หน้ากากของผู้สูญหาย",
+      "code": "th"
+    },
+    {
+      "description": "Unum’un teknik özelliklerine göre inşa edilmiş ve Quill Onkko tarafından sağlanan prizmatik lenslerle donatılmıştır.",
+      "name": "Kayıp Olanın Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Створена на замовлення Унум та інкрустована призмовими лінзами, які надав писар Онкко.",
+      "name": "Маска «Загублений»",
+      "code": "uk"
+    }
+  ]
+}

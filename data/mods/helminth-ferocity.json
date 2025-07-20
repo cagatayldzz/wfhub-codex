@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/ChargerFinisherMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helminth-ferocity-052f42eea7.jpg",
+  "name": "Helminth Ferocity",
+  "description": "Allows the Kubrow to use Finisher attacks on an enemy.",
+  "languages": [
+    {
+      "description": [
+        "Erlaubt es dem Kubrow, Todesstöße gegen Gegner auszuführen."
+      ],
+      "name": "Helminth Bösartigkeit",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Autorise le Kubrow à utiliser un Coup de Grâce sur un ennemi"
+      ],
+      "name": "Férocité de Helminth",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Permette al Kubrow di effettuare Esecuzioni sui nemici."
+      ],
+      "name": "Helminth Ferocity",
+      "code": "it"
+    },
+    {
+      "description": [
+        "쿠브로가 적에게 마무리 일격을 가할 수 있게 됩니다."
+      ],
+      "name": "헬민스 페로시티",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Permite al kubrow usar ataques de remate en un enemigo."
+      ],
+      "name": "Ferocidad Helminto",
+      "code": "es"
+    },
+    {
+      "description": [
+        "让库狛能对敌人使出处决攻击。"
+      ],
+      "name": "Helminth 凶恶终结",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Позволяет кубрау использовать добивающие приемы на врагах."
+      ],
+      "name": "Гельминтова свирепость",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "クブロウが敵に対しフィニッシャー攻撃を仕掛ける。"
+      ],
+      "name": "Helminth Ferocity",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Pozwala Kubrowowi na wykonywanie ataków kończących na ofierze."
+      ],
+      "name": "Brutalność Helmintha",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Permite que o Kubrow realize finalizações em um inimigo."
+      ],
+      "name": "Helminth Ferocity",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "讓庫狛能對敵人使出終結攻擊。"
+      ],
+      "name": "Helminth 兇惡終結",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ทำให้ Kubrow สามารถใช้ฟินิชเชอร์โจมตีศัตรูได้"
+      ],
+      "name": "Helminth Ferocity",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Kubrow'un düşmanlar üzerinde Bitirici ataklar yapmasını sağlar."
+      ],
+      "name": "Helminth Ferocity",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Куброу добиватимуть ворогів."
+      ],
+      "name": "Гельмінтна лютість",
+      "code": "uk"
+    }
+  ]
+}

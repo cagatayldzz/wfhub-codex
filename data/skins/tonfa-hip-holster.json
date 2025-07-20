@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/TonfaHips",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tonfa-hip-holster-3dff182a1d.png",
+  "name": "Tonfa Hip Holster",
+  "description": "Tonfas are holstered at the hips.",
+  "languages": [
+    {
+      "description": "Tonfas sind an der Hüfte geholstert.",
+      "name": "Tonfa-Holster: Hüfte",
+      "code": "de"
+    },
+    {
+      "description": "Les Tonfas sont portés aux hanches.",
+      "name": "Port de Tonfa aux hanches",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Tonfa sui fianchi.",
+      "name": "Rinfodero Tonfa Fianco",
+      "code": "it"
+    },
+    {
+      "description": "톤파 계열 무기를 허벅지에 수납하는 수납 방식입니다.",
+      "name": "톤파 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las tonfas se enfundarán en las caderas.",
+      "name": "Enfundado de cadera de tonfas",
+      "code": "es"
+    },
+    {
+      "description": "将拐刃收纳于腰间。",
+      "name": "枴刃后腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Тонфы покоятся на бедрах.",
+      "name": "Набедренный Крепеж Тонф",
+      "code": "ru"
+    },
+    {
+      "description": "トンファーを腰付近に収納。",
+      "name": "トンファー専用ヒップホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Tonfy są mocowane do bioder.",
+      "name": "Tonfy: Mocowanie Do Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As Tonfas são guardadas na cintura.",
+      "name": "Tonfas: Coldre de Cintura",
+      "code": "pt"
+    },
+    {
+      "description": "拐刃武器可收納於腰部。",
+      "name": "拐刃腰部收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ทอนฟาที่ใส่ซองตรงสะโพก",
+      "name": "ซองทอนฟาตรงสะโพก",
+      "code": "th"
+    },
+    {
+      "description": "Tonfa'lar kalçalarda taşınır",
+      "name": "Tonfa Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Тонфи кріпляться на стегнах, коли в руках інша зброя.",
+      "name": "Тонфа на стегні",
+      "code": "uk"
+    }
+  ]
+}

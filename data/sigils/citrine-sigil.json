@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GeodeSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-sigil-f6dcc16fd2.png",
+  "name": "Citrine Sigil",
+  "description": "Pay adulation to Citrine and her last wish with this exclusive sigil.",
+  "languages": [
+    {
+      "description": "Huldige Citrine und ihrem letzten Wunsch mit diesem exklusiven Siegel.",
+      "name": "Siegel: Citrine",
+      "code": "de"
+    },
+    {
+      "description": "Rendez hommage à Citrine et à sa dernière volonté avec ce Sceau exclusif.",
+      "name": "Sceau de Citrine",
+      "code": "fr"
+    },
+    {
+      "description": "Rendi omaggio a Citrine e al suo ultimo desiderio con questo sigillo esclusivo.",
+      "name": "Sigillo Citrine",
+      "code": "it"
+    },
+    {
+      "description": "이 한정 시질로 시트린과 그녀의 마지막 소원에 찬사를 보내보세요.",
+      "name": "시트린 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Rinde homenaje a Citrine y su último deseo con este sello exclusivo.",
+      "name": "Sello de Citrine",
+      "code": "es"
+    },
+    {
+      "description": "用这个专属的纹章来向 Citrine 和她的遗愿致以敬意。",
+      "name": "Citrine 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Отдайте дань уважения Цитрине и её последнему желанию с помощью этого эксклюзивного сигила.",
+      "name": "Сигил: Цитрина",
+      "code": "ru"
+    },
+    {
+      "description": "この限定シジルでCitrineへ称賛を与えよう。",
+      "name": "Citrine シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj hołd Citrine i jej ostatniej woli dzięki temu ekskluzywnemu Znakowi.",
+      "name": "Znak Citrine",
+      "code": "pl"
+    },
+    {
+      "description": "Homenageie a Citrine e seu último desejo com este brasão exclusivo.",
+      "name": "Brasão: Citrine",
+      "code": "pt"
+    },
+    {
+      "description": "透過這枚專屬的紋章來向 Citrine 及她的遺願致以無上的敬意。",
+      "name": "Citrine 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "ยกย่อง Citrine และคำอธิษฐานสุดท้ายด้วยเครื่องหมายสุดพิเศษนี้",
+      "name": "เครื่องหมาย: Citrine",
+      "code": "th"
+    },
+    {
+      "description": "Bu özel mühür ile Citrine'e ve onun son dileğine övgüler yağdır.",
+      "name": "Citrine Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Спробуйте підлеститися Цитрині та її останньому бажанню, використовуючи цей неповторний сиґіл.",
+      "name": "Сиґіл «Цитрина»",
+      "code": "uk"
+    }
+  ]
+}

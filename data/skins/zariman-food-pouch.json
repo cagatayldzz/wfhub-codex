@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFoodPouchA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-food-pouch-d755d98295.png",
+  "name": "Zariman Food Pouch",
+  "description": "A high-nutrient meal pouch.",
+  "languages": [
+    {
+      "description": "Ein nährstoffreicher Nahrungs-Beutel.",
+      "name": "Zariman Nahrungs-Beutel",
+      "code": "de"
+    },
+    {
+      "description": "Une ration riche en nutriments.",
+      "name": "Zariman: Ration alimentaire",
+      "code": "fr"
+    },
+    {
+      "description": "Un sacchetto per alimenti ad alto contenuto nutritivo.",
+      "name": "Sacchetto per Alimenti Zariman",
+      "code": "it"
+    },
+    {
+      "description": "영양 만점의 식사가 담긴 주머니입니다.",
+      "name": "자리만 식품 파우치",
+      "code": "ko"
+    },
+    {
+      "description": "Una bolsa de comida rica en nutrientes.",
+      "name": "Bolsa de comida Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个高营养的餐袋。",
+      "name": "扎里曼袋装食品",
+      "code": "zh"
+    },
+    {
+      "description": "Пищевой пакетик с высокой питательной ценностью.",
+      "name": "Зариман: Пищевой пакетик",
+      "code": "ru"
+    },
+    {
+      "description": "栄養満載のポーチ。",
+      "name": "Zariman 食料ポーチ",
+      "code": "ja"
+    },
+    {
+      "description": "Saszetka pożywienia o wysokiej wartości odżywczej.",
+      "name": "Zariman: Saszetka pożywienia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma bolsa alimentar, rica em nutrientes.",
+      "name": "Bolsa Nutritiva da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "高營養餐袋。",
+      "name": "扎日曼食品袋",
+      "code": "tc"
+    },
+    {
+      "description": "ถุงใส่อาหารที่มีสารอาหารสูง",
+      "name": "Zariman: ถุงอาหาร",
+      "code": "th"
+    },
+    {
+      "description": "Besin değeri yüksek bir gıda torbası.",
+      "name": "Zariman Gıda Torbası",
+      "code": "tr"
+    },
+    {
+      "description": "Високопоживний пакетик їжі.",
+      "name": "Харчовий пакетик із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGlassAltHelmBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-virago-glyph---bright-de4e97ca5d.png",
+  "name": "Gara Virago Glyph - Bright",
+  "description": "A glyph depicting Gara Virago on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Gara Virago vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Gara Virago (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Gara Virago sur un fond lumineux.",
+      "name": "Glyphe Gara Virago - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gara Virago su uno sfondo chiaro.",
+      "name": "Glifo Gara Virago - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 가라 비라고를 묘사한 글리프입니다.",
+      "name": "가라 비라고 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Gara Virago sobre un fondo brillante.",
+      "name": "Glifo de Gara Virago - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Gara 悍妇在明亮背景下的浮印。",
+      "name": "Gara 悍妇浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гары в шлеме «Вираго» на светлом фоне.",
+      "name": "Глиф: Гара Вираго - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたGara Viragoのグリフ。",
+      "name": "Gara Virago グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Gara Virago na jasnym tle.",
+      "name": "Glif Gara Virago — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Gara Virago em um fundo claro.",
+      "name": "Glifo: Gara Virago (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Gara 悍婦在明亮背景下的浮印。",
+      "name": "Gara 悍婦浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Gara Virago บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Gara Virago - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Gara Virago açık fonlu glif.",
+      "name": "Gara Virago Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґари в шоломі «Віраґо» на світлому тлі.",
+      "name": "Яскравий гліф «Ґара „Віраґо“»",
+      "code": "uk"
+    }
+  ]
+}

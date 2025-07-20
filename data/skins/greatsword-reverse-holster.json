@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GreatSwordCrossed",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/greatsword-reverse-holster-2ff7de56ab.png",
+  "name": "Greatsword Reverse Holster",
+  "description": "Greatswords are holstered across the right shoulder.",
+  "languages": [
+    {
+      "description": "Zweihänder werden an der rechten Schulter geholstert.",
+      "name": "Zweihänder-Holster: Umgekehrt",
+      "code": "de"
+    },
+    {
+      "description": "Les Épées à deux mains sont portées derrière l'épaule droite.",
+      "name": "Port d'Épée à deux mains inversé",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Spade a Due Mani dietro la spalla destra.",
+      "name": "Rinfodero Spade a Due Mani Invertito",
+      "code": "it"
+    },
+    {
+      "description": "중도검 계열 무기를 우측 어깨에 수납하는 수납 방식입니다.",
+      "name": "중도검 리버스 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las espadas grandes se enfundarán a través del hombro derecho.",
+      "name": "Enfundado Invertido de espadas grandes",
+      "code": "es"
+    },
+    {
+      "description": "将巨剑跨右肩背在身上。",
+      "name": "巨剑反向收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Тяжелые клинки крепятся к правому плечу.",
+      "name": "Обратный Крепеж Тяжелого Клинка",
+      "code": "ru"
+    },
+    {
+      "description": "グレートソードを右肩に収納。",
+      "name": "グレートソード専用リバースホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Wielkie Miecze mocowane są na wskroś przez plecy.",
+      "name": "Wielki Miecz Mocowanie Odwrócone",
+      "code": "pl"
+    },
+    {
+      "description": "As espadas grandes são guardadas no ombro direito.",
+      "name": "Espadas Grandes: Coldre Reverso",
+      "code": "pt"
+    },
+    {
+      "description": "巨劍武器可跨過右肩收納。",
+      "name": "巨劍反向收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบใหญ่ที่ใส่ซองพาดไหล่ขวา",
+      "name": "ซองดาบใหญ่กลับด้าน",
+      "code": "th"
+    },
+    {
+      "description": "Şanlıkılıç'lar sağ omuz boyunca taşınır.",
+      "name": "Şanlıkılıç Ters Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Дворучні мечі кріпляться на правому плечі, коли в руках інша зброя.",
+      "name": "Дворучний меч на спині обернено",
+      "code": "uk"
+    }
+  ]
+}

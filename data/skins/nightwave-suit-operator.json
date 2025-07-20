@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitNightSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nightwave-suit-(operator)-4c4dc5c829.png",
+  "name": "Nightwave Suit (Operator)",
+  "description": "A suit for all of you Dreamers out there.",
+  "languages": [
+    {
+      "description": "Ein Anzug für alle Träumer da draußen.",
+      "name": "Anzug: Nightwave (Operator)",
+      "code": "de"
+    },
+    {
+      "description": "Une tenue pour vous tous, Rêveurs.",
+      "name": "Combinaison des Ondes Nocturnes (Opérateur)",
+      "code": "fr"
+    },
+    {
+      "description": "Una tuta per tutti i Sognatori là fuori.",
+      "name": "Tuta Nightwave (Operatore)",
+      "code": "it"
+    },
+    {
+      "description": "꿈꾸는 여러분들을 위한 수트입니다.",
+      "name": "나이트웨이브 수트 (오퍼레이터)",
+      "code": "ko"
+    },
+    {
+      "description": "Un traje para todos los Soñadores de allá afuera.",
+      "name": "Traje de Onda Nocturna (Operador)",
+      "code": "es"
+    },
+    {
+      "description": "适合你们所有梦回者的套服。",
+      "name": "午夜电波套服（指挥官）",
+      "code": "zh"
+    },
+    {
+      "description": "Костюм для всех сновидцев.",
+      "name": "Костюм «Ночная волна» (оператор)",
+      "code": "ru"
+    },
+    {
+      "description": "夢見るもの達へのスーツ。",
+      "name": "Nightwave スーツ（オペレーター）",
+      "code": "ja"
+    },
+    {
+      "description": "Kombinezon dla wszystkich Bezsennych.",
+      "name": "Kombinezon Gwiezdnego Szlaku (Operator)",
+      "code": "pl"
+    },
+    {
+      "description": "Um traje para todos os Sonhadores que andam por aí.",
+      "name": "Traje da Nightwave (Operador)",
+      "code": "pt"
+    },
+    {
+      "description": "給所有夢迴者的套服。",
+      "name": "午夜電波套服（指揮官）",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดสำหรับคนช่างฝันทุกคน",
+      "name": "ชุด Nightwave (โอเปอเรเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Dışarıdaki tüm Rüyacılar için bir kostüm.",
+      "name": "Nightwave Kostümü (Operatör)",
+      "code": "tr"
+    },
+    {
+      "description": "Убрання для всіх сновид.",
+      "name": "Убрання «Нічна хвиля» (оператор)",
+      "code": "uk"
+    }
+  ]
+}

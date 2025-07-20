@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-glyph---bright-4afc1a2777.png",
+  "name": "Temple Glyph - Bright",
+  "description": "A glyph depicting Temple on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Temple vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Temple (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Temple sur un fond lumineux.",
+      "name": "Glyphe Temple - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Temple su uno sfondo chiaro.",
+      "name": "Glifo Temple - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 템플을 묘사한 글리프입니다.",
+      "name": "템플 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Temple sobre un fondo brillante.",
+      "name": "Glifo de Temple - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Temple 在明亮背景下的浮印。",
+      "name": "Temple 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Темпл на светлом фоне.",
+      "name": "Глиф: Темпл — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたTempleのグリフ。",
+      "name": "Temple グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Temple na jasnym tle.",
+      "name": "Glif Temple — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Temple em um fundo claro.",
+      "name": "Glifo: Temple (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Temple 在明亮背景下的浮印。",
+      "name": "Temple 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Temple - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Temple açık fonlu glif.",
+      "name": "Temple Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Храма на світлому тлі.",
+      "name": "Яскравий гліф «Храм»",
+      "code": "uk"
+    }
+  ]
+}

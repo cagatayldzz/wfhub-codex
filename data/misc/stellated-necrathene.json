@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stellated-necrathene-01f1f64a22.png",
+  "name": "Stellated Necrathene",
+  "description": "A prismatic refinement of raw Necrathene, highly sought after.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Eine prismatische Veredelung von rohem Necrathan, sehr begehrt.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Sternenförmiges Necrathan",
+      "code": "de"
+    },
+    {
+      "description": "Un raffinement prismatique de Nécrathène brut, très recherché.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Nécrathène Stellé",
+      "code": "fr"
+    },
+    {
+      "description": "Un raffinamento prismatico e molto ricercato di Necrathene grezzo.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Necrathene Stellato",
+      "code": "it"
+    },
+    {
+      "description": "네크라씬 원석을 프리즘형으로 정제한 것으로, 수요가 많습니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "스텔레이티드 네크라씬",
+      "code": "ko"
+    },
+    {
+      "description": "Un refinamiento prismático de necratina pura, muy buscada.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Necratina Estrellada",
+      "code": "es"
+    },
+    {
+      "description": "备受追捧的精制棱柱形殁世烯。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "星形殁世烯",
+      "code": "zh"
+    },
+    {
+      "description": "Очищенный призматический некратин, пользующийся большим спросом.\n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Звездчатый некратин",
+      "code": "ru"
+    },
+    {
+      "description": "非常に珍重される、ネクラテンの原石をプリズム状に加工したもの。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "星形ネクロテン",
+      "code": "ja"
+    },
+    {
+      "description": "Wysoce pożądany, pryzmatyczny produkt rafinacji Nekratyny.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Gwiezdna Nekratyna",
+      "code": "pl"
+    },
+    {
+      "description": "Um refinamento prismático da joia bruta Necratena, muitíssimo cobiçada.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Necratena Estrelada",
+      "code": "pt"
+    },
+    {
+      "description": "透過分光式精煉未加工的亡骸石而形成，其高度被索求。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "星狀亡骸石",
+      "code": "tc"
+    },
+    {
+      "description": "เนคราธีนดิบที่ได้รับการขัดเกลาจนเป็นแท่งปริซึม ซึ่งเป็นที่ต้องการอย่างมาก\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "เนคราธีนรูปดาว",
+      "code": "th"
+    },
+    {
+      "description": "Saf Necrathene'nin prizmatik şekilde işlenmiş hali, yüksek talep görür.\n\nKalıbı Deimos'ta yer alan Necralisk'teki Otak'tan satın alınabilir.",
+      "name": "Stellated Necrathene",
+      "code": "tr"
+    },
+    {
+      "description": "Призмова витонченість дуже цінного сирого некратину.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
+      "name": "Зіркоподібний некратен",
+      "code": "uk"
+    }
+  ]
+}

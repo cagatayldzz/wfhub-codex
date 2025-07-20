@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-stranger's-hood-(operator)-b0a59d8f93.png",
+  "name": "The Stranger's Hood (Operator)",
+  "description": "You have seen this face before. You have never seen this face before.",
+  "languages": [
+    {
+      "description": "Du hast dieses Gesicht schon einmal gesehen. Du hast dieses Gesicht noch nie zuvor gesehen.",
+      "name": "Kapuze: Der Fremde (Operator)",
+      "code": "de"
+    },
+    {
+      "description": "Vous avez déjà vu ce visage. Vous n'avez jamais vu ce visage.",
+      "name": "Capuche de l'Étranger (Opérateur)",
+      "code": "fr"
+    },
+    {
+      "description": "Hai già visto questa faccia. Non hai mai visto questa faccia.",
+      "name": "Cappuccio dello Sconosciuto (Operatore)",
+      "code": "it"
+    },
+    {
+      "description": "어디선가 본 얼굴. 동시에 어디에서도 본 적 없는 얼굴입니다.",
+      "name": "이방인의 후드 (오퍼레이터)",
+      "code": "ko"
+    },
+    {
+      "description": "Ya has visto esa cara antes. Nunca has visto esa cara antes.",
+      "name": "Capucha del Extraño (Operador)",
+      "code": "es"
+    },
+    {
+      "description": "你以前见过这张脸。你以前从未见过这张脸。",
+      "name": "陌生人的头罩（指挥官）",
+      "code": "zh"
+    },
+    {
+      "description": "Вы уже видели это лицо. Вы никогда не видели этого лица.",
+      "name": "Капюшон незнакомца (оператор)",
+      "code": "ru"
+    },
+    {
+      "description": "見た事のある顔。見た事のない顔。",
+      "name": "よそ者のフード（オペレーター）",
+      "code": "ja"
+    },
+    {
+      "description": "Widziałeś już tę twarz. Nigdy wcześniej nie widziałeś tej twarzy.",
+      "name": "Kaptur Nieznajomego (Operator)",
+      "code": "pl"
+    },
+    {
+      "description": "Você já viu esse rosto antes. Você nunca viu esse rosto antes.",
+      "name": "Capuz do Estranho (Operador)",
+      "code": "pt"
+    },
+    {
+      "description": "你見過這張臉。你從未見過這張臉。",
+      "name": "陌生人的頭罩（指揮官）",
+      "code": "tc"
+    },
+    {
+      "description": "คุณเคยเห็นใบหน้านี้มาก่อน คุณไม่เคยเห็นใบหน้านี้มาก่อน",
+      "name": "ฮู้ดคลุมหัวของคนแปลกหน้า (โอเปอเรเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Bu yüzü daha önce de gördün. Bu yüzü daha önce hiç görmedin.",
+      "name": "Yabancının Başlığı (Operatör)",
+      "code": "tr"
+    },
+    {
+      "description": "Ви вже бачили це обличчя. Ви ніколи не бачили це обличчя.",
+      "name": "Головний убір «Незнайомець» (оператор)",
+      "code": "uk"
+    }
+  ]
+}

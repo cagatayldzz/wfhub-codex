@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/monquis-sigil-f169f70356.png",
+  "name": "Monquis Sigil",
+  "description": "This is a unique sigil depicting a mysterious creature of ancient Earth.",
+  "languages": [
+    {
+      "description": "Dieses einzigartige Siegel, dass eine mysteriöse Kreatur der Erde darstellt.",
+      "name": "Siegel: Monquis",
+      "code": "de"
+    },
+    {
+      "description": "Cet unique Sceau représente une mystérieuse créature vivant sur la Terre antique.",
+      "name": "Sceau Monquis",
+      "code": "fr"
+    },
+    {
+      "description": "Questo è un sigillo unico che rappresenta una misteriosa creatura della Terra antica.",
+      "name": "Sigillo Monquis",
+      "code": "it"
+    },
+    {
+      "description": "고대 지구에 존재했던 수수께끼의 생명체가 묘사된 독특한 시질입니다.",
+      "name": "몬키스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este es un sello único que representa a una misteriosa criatura de la antigua Tierra.",
+      "name": "Sello Monquis",
+      "code": "es"
+    },
+    {
+      "description": "这枚独特的纹章描绘着一只地球远古时期的神秘生物。",
+      "name": "猴爵纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот уникальный сигил изображает загадочное существо с древней Земли.",
+      "name": "Сигил: Монкис",
+      "code": "ru"
+    },
+    {
+      "description": "古代の地球の神秘的な生き物を描いた独特なシジル。",
+      "name": "Monquis シジル",
+      "code": "ja"
+    },
+    {
+      "description": "To unikatowy Znak przedstawiający tajemnicze stworzenie z pradawnej Ziemi.",
+      "name": "Znak Monquis",
+      "code": "pl"
+    },
+    {
+      "description": "Este é um brasão exclusivo retratando uma criatura misteriosa da antiga Terra.",
+      "name": "Brasão: Monquis",
+      "code": "pt"
+    },
+    {
+      "description": "這枚獨特的紋章描繪遠古時期在地球上的一隻神秘生物。",
+      "name": "猴爵紋章",
+      "code": "tc"
+    },
+    {
+      "description": "นี่คือเครื่องหมายที่เป็นเอกลักษณ์ซึ่งแสดงถึงสิ่งมีชีวิตลึกลับแห่งโลกโบราณ",
+      "name": "เครื่องหมาย: Monquis",
+      "code": "th"
+    },
+    {
+      "description": "Eski Dünya'nın gizemlerini simgeleyen eşsiz bir mühür",
+      "name": "Monquis Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Стародавній сиґіл із зображенням загадкової земної істоти з минулого.",
+      "name": "Сиґіл «Монкіз»",
+      "code": "uk"
+    }
+  ]
+}

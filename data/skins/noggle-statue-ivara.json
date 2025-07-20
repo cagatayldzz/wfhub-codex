@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/IvaraBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---ivara-3f4b54b29a.png",
+  "name": "Noggle Statue - Ivara",
+  "description": "A small wobbly statue of Ivara.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Ivara.",
+      "name": "Noggle-Statue: Ivara",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Ivara.",
+      "name": "Statuette Noggle - Ivara",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Ivara con la testa tremolante.",
+      "name": "Statuetta Noggle - Ivara",
+      "code": "it"
+    },
+    {
+      "description": "이바라의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 이바라",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Ivara.",
+      "name": "Estatua Tambaleante - Ivara",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Ivara 摇头娃娃。",
+      "name": "Ivara 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Ивары.",
+      "name": "Фигурка: Ивара",
+      "code": "ru"
+    },
+    {
+      "description": "Ivaraのボブルヘッド人形。",
+      "name": "Ivara ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Ivary.",
+      "name": "Figurka Noggle — Ivara",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Ivara.",
+      "name": "Estatueta: Ivara",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Ivara 的搖頭娃娃",
+      "name": "Ivara 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Ivara ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Ivara",
+      "code": "th"
+    },
+    {
+      "description": "Ivara küçük oynar figür.",
+      "name": "Noggle Heykeli - Ivara",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Івари.",
+      "name": "Ноґл «Івара»",
+      "code": "uk"
+    }
+  ]
+}

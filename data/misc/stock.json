@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/KahlCreds",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stock-96fc348387.png",
+  "name": "Stock",
+  "description": "Chipper's current Stock level. Raise his Stock level by completing Kahl's Break Narmer missions.",
+  "languages": [
+    {
+      "description": "Chippers aktueller Vorratsbestand. Erhöhe seinen Bestand, indem du Kahls 'Zerlege Narmer'-Missionen abschließt.",
+      "name": "Vorräte",
+      "code": "de"
+    },
+    {
+      "description": "Le niveau du Stock de Chipper. Augmentez-le en accomplissant les missions de Kahl 'Briser Narmer'.",
+      "name": "Stock",
+      "code": "fr"
+    },
+    {
+      "description": "L'attuale livello dello Stock di Chipper. Aumenta il livello completando le missioni Distruggi Narmer di Kahl.",
+      "name": "Stock",
+      "code": "it"
+    },
+    {
+      "description": "현재 치퍼가 보유한 재고 스톡 상황입니다. 칼의 나르메르 파괴 작전 미션을 완료해 재고 스톡 수를 높여주세요.",
+      "name": "스톡",
+      "code": "ko"
+    },
+    {
+      "description": "Nivel actual del Stock de Chipper. Aumenta su nivel de Stock completando las misiones 'Acabar con Narmer' de Kahl",
+      "name": "Stock",
+      "code": "es"
+    },
+    {
+      "description": "切片哥当前的存货储备量。通过完成卡尔的「击溃合一众」任务来增加他的存货储备量。",
+      "name": "存货储备",
+      "code": "zh"
+    },
+    {
+      "description": "Текущий уровень запаса Чиппера. Увеличивайте уровень запаса выполнением миссий Кахла «Взлом Нармера».",
+      "name": "Запас",
+      "code": "ru"
+    },
+    {
+      "description": "Chipperのストックレベル。Kahlのナルメル破壊ミッションをクリアしてストックのレベルを上げよう。",
+      "name": "ストック",
+      "code": "ja"
+    },
+    {
+      "description": "Obecny stan Prowiantu Chippera. Podnieś jego poziom Prowiantu, wykonując misje Kahla: 'Pokonaj Narmer'.",
+      "name": "Prowiant",
+      "code": "pl"
+    },
+    {
+      "description": "O nível atual de Provisões do Chipper. Aumente o seu nível de Provisões ao concluir as missões do Kahl de 'Destruição de Narmer'.",
+      "name": "Provisões",
+      "code": "pt"
+    },
+    {
+      "description": "Chipper 當前的庫存量。完成 Kahl 的「擊破那爾邁」任務來提升他的庫存量。",
+      "name": "庫存幣",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นระดับสต็อกของ Chipper ในปัจจุบัน เพิ่มระดับสต็อกขึ้นได้โดยทำภารกิจทำลาย Narmer ของ Kahl ให้สำเร็จ",
+      "name": "สต็อก",
+      "code": "th"
+    },
+    {
+      "description": "Chipper'ın mevcut Stok seviyesi. Kahl'ın 'Narmer'i Yok Et' görevlerini tamamlayarak Stok seviyesini yükselt.",
+      "name": "Stok",
+      "code": "tr"
+    },
+    {
+      "description": "Поточний рівень запасу Барахольника. Збільшуйте рівень запасу виконанням завдань Кала «Злам Нармера».",
+      "name": "Запас",
+      "code": "uk"
+    }
+  ]
+}

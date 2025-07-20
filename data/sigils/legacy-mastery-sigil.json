@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasterySigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/legacy-mastery-sigil-a528786f54.png",
+  "name": "Legacy Mastery Sigil",
+  "description": "This legacy sigil represents the pinnacle of mastery within the Tenno.",
+  "languages": [
+    {
+      "description": "Dieses Legacy Siegel repräsentiert den Höhepunkt der Meisterschaft unter den Tenno.",
+      "name": "Siegel: Legacy Meisterschaft",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau ancien représente le sommet de la maîtrise au sein des Tennos.",
+      "name": "Sceau de Maîtrise Ancien",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo legacy rappresenta il grado massimo di maestria tra i Tenno.",
+      "name": "Sigillo Maestria All'Antica",
+      "code": "it"
+    },
+    {
+      "description": "텐노의 내적 수양의 최고봉을 상징하는 레거시 시질입니다.",
+      "name": "레거시 마스터리 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello de legado representa el pináculo de la maestría de los tenno.",
+      "name": "Sello de Maestría de Legado",
+      "code": "es"
+    },
+    {
+      "description": "这枚传统纹章代表着 Tenno 中精通段位的巅峰。",
+      "name": "传统精通段位纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот исторический сигил демонстрирует вершины мастерства Тэнно.",
+      "name": "Сигил Мастерства: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "このレガシーシジルはテンノのマスタリーの頂点を表すもの。",
+      "name": "レガシー・マスタリーシジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten znak dziedzictwa reprezentuje szczyt Mistrzostwa wewnątrz Tenno.",
+      "name": "Znak Dziedzictwa Mistrzostwa",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão legado representa o auge da maestria entre os Tennos.",
+      "name": "Brasão: Legado de Maestria",
+      "code": "pt"
+    },
+    {
+      "description": "這枚傳統紋章代表著 Tenno 中精通段位的巔峰。",
+      "name": "傳統大師紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายดั้งเดิมนี้แทนความสุดยอดของความเชี่ยวชาญภายใน Tenno",
+      "name": "เครื่องหมาย: ความเชี่ยวชาญดั้งเดิม",
+      "code": "th"
+    },
+    {
+      "description": "Bu legacy mührü Tenno'lar arasında ustalığın zirvesini temsil eder.",
+      "name": "Legacy Mastery Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей традиційний сиґіл показує рівень майстерності тенно.",
+      "name": "Традиційний сиґіл майстерності",
+      "code": "uk"
+    }
+  ]
+}

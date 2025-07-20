@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponIS",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lacerten-9f21176710.png",
+  "name": "Lacerten",
+  "description": "Hound melee attacks devastate with <DT_IMPACT_COLOR>Impact and <DT_SLASH_COLOR>Slash Damage.",
+  "languages": [
+    {
+      "description": "Nahkampfangriffe des Jagdhunds fügen verheerenden <DT_IMPACT_COLOR>Einschlags- und <DT_SLASH_COLOR>Schnittschaden zu.",
+      "name": "Lacerten",
+      "code": "de"
+    },
+    {
+      "description": "Les attaques de Mêlée du Molosse dévastent tout, infligeant des Dégâts <DT_IMPACT_COLOR>d'Impact et <DT_SLASH_COLOR>Tranchants.",
+      "name": "Lacerten",
+      "code": "fr"
+    },
+    {
+      "description": "Gli attacchi corpo a corpo del Segugio devastano con Danno <DT_IMPACT_COLOR>Impatto e <DT_SLASH_COLOR>Taglio.",
+      "name": "Lacerten",
+      "code": "it"
+    },
+    {
+      "description": "<DT_IMPACT_COLOR>충격 및 <DT_SLASH_COLOR>베기 피해로 초토화시키는 하운드의 근접 공격 모듈입니다.",
+      "name": "라세르텐",
+      "code": "ko"
+    },
+    {
+      "description": "Los ataques cuerpo a cuerpo de los sabuesos devastan con daño de <DT_IMPACT_COLOR>impacto y <DT_SLASH_COLOR>cortante.",
+      "name": "Lacerten",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LACERTEN）猎犬近战攻击通过 <DT_IMPACT_COLOR>冲击和 <DT_SLASH_COLOR>切割伤害进行毁灭。",
+      "name": "莱斯腾",
+      "code": "zh"
+    },
+    {
+      "description": "Атаки гончей в ближнем бою разрушительны и наносят <DT_IMPACT_COLOR>ударный и <DT_SLASH_COLOR>режущий урон.",
+      "name": "Лацертэн",
+      "code": "ru"
+    },
+    {
+      "description": "ハウンドの近接攻撃で<DT_IMPACT_COLOR>衝撃と<DT_SLASH_COLOR>切断ダメージを与える。",
+      "name": "Lacerten",
+      "code": "ja"
+    },
+    {
+      "description": "Dewastujące Ataki w Walce wręcz Ogara w postaci <DT_IMPACT_COLOR>Obrażeń Miażdżących oraz <DT_SLASH_COLOR>Tnących.",
+      "name": "Lacerten",
+      "code": "pl"
+    },
+    {
+      "description": "Os ataques deste Predador exterminam seus alvos com Dano <DT_IMPACT_COLOR>Colisivo e <DT_SLASH_COLOR>Cortante.",
+      "name": "Lacerten",
+      "code": "pt"
+    },
+    {
+      "description": "獵犬近戰的攻擊將以<DT_IMPACT_COLOR>衝擊和<DT_SLASH_COLOR>切割傷害摧毀敵人。",
+      "name": "拉瑟騰",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธโจมตีระยะประชิดของสุนัขฮาวด์ที่จะทำลายล้างศัตรูด้วยความเสียหายจาก <DT_IMPACT_COLOR>แรงกระแทกและ <DT_SLASH_COLOR>การเฉือนฟัน",
+      "name": "Lacerten",
+      "code": "th"
+    },
+    {
+      "description": "Tazının yıkıcı yakın dövüş saldırıları <DT_IMPACT_COLOR>Darbe ve <DT_SLASH_COLOR>Kesme Hasarı verir.",
+      "name": "Lacerten",
+      "code": "tr"
+    },
+    {
+      "description": "Гончак розриває ворогів у ближньому бою й завдає <DT_IMPACT_COLOR>ударної та <DT_SLASH_COLOR>різальної шкоди.",
+      "name": "Лацертен",
+      "code": "uk"
+    }
+  ]
+}

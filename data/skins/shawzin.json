@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/ShawzinEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shawzin-942caf6d08.png",
+  "name": "Shawzin",
+  "description": "Strike this pose to begin playing the Shawzin.",
+  "languages": [
+    {
+      "description": "Nimm diese Pose ein und beginne die Shawzin zu spielen.",
+      "name": "Shawzin",
+      "code": "de"
+    },
+    {
+      "description": "Prenez cette pose pour jouer du Shawzin.",
+      "name": "Shawzin",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizza questa posa per iniziare a suonare lo Shawzin.",
+      "name": "Shawzin",
+      "code": "it"
+    },
+    {
+      "description": "샤진 연주를 시작하려면 이 포즈를 취하세요.",
+      "name": "샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Consigue esta pose para comenzar a tocar el Shawzin.",
+      "name": "Shawzin",
+      "code": "es"
+    },
+    {
+      "description": "摆出这个姿势来开始弹奏三线琴。",
+      "name": "三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Примите эту позу, чтобы начать играть Шазин.",
+      "name": "Шазин",
+      "code": "ru"
+    },
+    {
+      "description": "このポーズをとりShawzinを弾こう",
+      "name": "Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprezentuj się z najlepszej strony i zacznij grać na Shawzin.",
+      "name": "Shawzin",
+      "code": "pl"
+    },
+    {
+      "description": "Execute esta pose para começar a tocar o Shawzin.",
+      "name": "Shawzin",
+      "code": "pt"
+    },
+    {
+      "description": "擺出這個姿勢開始彈奏三線琴。",
+      "name": "三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ท่านี้เพื่อเริ่มเล่น Shawzin",
+      "name": "Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Shawzin çalmaya başlamak için bu pozu kullanın.",
+      "name": "Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Поза, в якій найзручніше грати на шодзіні.",
+      "name": "Шодзін",
+      "code": "uk"
+    }
+  ]
+}

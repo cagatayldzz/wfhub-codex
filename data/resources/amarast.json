@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amarast-72f2d07387.png",
+  "name": "Amarast",
+  "description": "A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers",
+  "languages": [
+    {
+      "description": "Ein violetter Edelstein, der durch das Kristallisieren von Nebenprodukten aus den Weinenden Türmen entsteht.\n\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
+      "name": "Amarast",
+      "code": "de"
+    },
+    {
+      "description": "Une gemme violette qui se forme par cristallisation des déchets rejetés par les Tours Suintantes.\n\nLieu: Vallée Orbis (Vénus) via les Veines bleues et les conteneurs de Ressources",
+      "name": "Amaraste",
+      "code": "fr"
+    },
+    {
+      "description": "Una gemma viola formata dalla cristallizzazione dei sottoprodotti espulsi dalle Torri Piangenti.\n\nPosizione: Venature Minerarie Blu e Contenitori di Risorse sparsi per Orb Vallis (Venere)",
+      "name": "Amarast",
+      "code": "it"
+    },
+    {
+      "description": "통곡의 탑에서 배출된 부산물의 결정체로부터 형성된 보라색 보석입니다.\n\n획득 가능 장소: 오브 협곡 (금성) 내 파란 광맥과 협곡 전역의 자원 컨테이너에서 찾을 수 있습니다",
+      "name": "아마라스트",
+      "code": "ko"
+    },
+    {
+      "description": "Una gema violeta formada a partir de la cristalización de los subproductos expulsados de las Torres Sollozantes.\n\nUbicación: Valles del Orbe (Venus), en las vetas mineras azules y en los contenedores de recursos",
+      "name": "Amarasto",
+      "code": "es"
+    },
+    {
+      "description": "一种紫罗兰色的宝石，由渗流之塔排出的副产物结晶而成。\n\n获取地点：奥布山谷（金星）里的蓝色矿脉、资源储藏箱",
+      "name": "紫苋石",
+      "code": "zh"
+    },
+    {
+      "description": "Фиолетовый камень, сформировавшийся в результате кристаллизации побочных продуктов из Плачущих Башен.\n\nМестонахождение: месторождения голубой руды Долины Сфер на Венере и в контейнерах с ресурсами.",
+      "name": "Амараст",
+      "code": "ru"
+    },
+    {
+      "description": "涙の塔から排出された副産物が結晶化してできた紫色の宝石。 \n\n場所：オーブ峡谷（金星）の青い鉱脈、地形上の素材コンテナ",
+      "name": "アマラスト",
+      "code": "ja"
+    },
+    {
+      "description": "Fioletowy klejnot, który powstaje z krystalizacji produktów ubocznych wydalanych z Płaczących Wież.\n\nPołożenie: Złoża niebieskiej rudy i pojemniki z zasobami w Orb Vallis na Wenus.",
+      "name": "Amarast",
+      "code": "pl"
+    },
+    {
+      "description": "Uma joia violeta, formada pela cristalização dos subprodutos expelidos das Torres das Lamentações.\n\nLocalização: em Veias de Mineração Azuis e contêineres de recursos espalhados pelo Vallis das Orbes, em Vênus.",
+      "name": "Amarasta",
+      "code": "pt"
+    },
+    {
+      "description": "一種紫羅蘭色的寶石，由滲流之塔排出的副產物結晶而成。\n\n來源：奧布山谷（金星）上的藍色礦脈以及資源儲存容器。",
+      "name": "紫莧石",
+      "code": "tc"
+    },
+    {
+      "description": "อัญมณีสีม่วงที่เกิดจากการตกผลึกของผลพลอยได้จากสิ่งที่ขับออกมาจากหอไหลซึม\n\nแหล่งที่พบ: พบได้จากสายแร่สีน้ำเงินและกล่องเก็บทรัพยากรในออร์บวัลลิส (ดาวศุกร์)",
+      "name": "อะมารัสต์",
+      "code": "th"
+    },
+    {
+      "description": "Ağlayan Kulelerden atılan yan ürünlerin kristalleşmesinden oluşan menekşe rengi değerli bir taş.\n\nKonum: Venüs'te yer alan Orb Vallis'teki Mavi Maden Damarlarından bulunabilir.",
+      "name": "Amarast",
+      "code": "tr"
+    },
+    {
+      "description": "Фіолетовий самоцвіт, сформований завдяки кристалізації біовідходів із Плакучих Веж.\n\nМожна здобути з синіх жил та контейнерів з ресурсами у Долині Куль (Венера).",
+      "name": "Амараст",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUTechToolD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-sampler-decoration-bb7718d101.png",
+  "name": "Solaris Sampler Decoration",
+  "description": "Used by geologists, technicians, plumbers, hydrologists, terraforming engineers, slurry monitors, sumpers, crud divers... A handy addition to any lander.",
+  "languages": [
+    {
+      "description": "Genutzt von Geologen, Technikern, Klempnern, Hydrologen, Terraforming-Ingenieuren, Schlickverwaltern, Sickergrubenarbeitern, Drecktauchern ... Eine nützliche Ergänzung für jedes Schiff.",
+      "name": "Dekoration: Solaris Gerät zum Probensammeln",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé par les géologues, techniciens, plombiers, hydrologues, ingénieurs de terraformation, préposés au refroidissement, puisatiers, déboucheurs de canalisation... Un ajout utile à n'importe quel vaisseau.",
+      "name": "Décoration Échantillonneur Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "Usato da geologi, tecnici, idraulici, idrologisti, ingegneri della terraformazione, controllori di liquami, minatori, netturbini... Un'utile aggiunta ad ogni navicella.",
+      "name": "Decorazione Campionatore Solaris",
+      "code": "it"
+    },
+    {
+      "description": "지질학자와, 기술자와, 배관공과, 수문학자와, 테라포밍 기술자와, 슬러리 감시 요원과, 하수구 인부와, 오물 운반수 등등이 쓰는... 어느 착륙정에나 유용한 추가 물품입니다.",
+      "name": "솔라리스 견본 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Usado por geologistas, técnicos, plomeros, hidrólogos, ingenieros terraformistas, monitores de lodos, los de los sumideros, buzos... Una útil adición para cualquier nave de desembarco.",
+      "name": "Decoración de muestras Solaris",
+      "code": "es"
+    },
+    {
+      "description": "被地质学家、技师、水管工、水文学家、地球化改造工程师、泥浆监视员、污水池操作工、污垢深潜员等等使用。着陆器中的实用装备。",
+      "name": "索拉里斯采样器装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Используется геологами, техниками, водопроводчиками, гидрологами, инженерами по терраформированию, инспекторами жижи, резервуарщиками, ныряльщиками в жижу ... Удобное дополнение для любого Корабля.",
+      "name": "Украшение: Сборщик Проб Солярис",
+      "code": "ru"
+    },
+    {
+      "description": "便利で様々な職種で使われる。地質学者、技術者、配管工、水文学者、テラフォーム技師、泥漿監視人、液溜め担当者、汚水潜水人などなど…船に置けば便利になること請け合い。",
+      "name": "ソラリス試料採取機の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Używany przez geologów, techników, hydraulików, hydrologów, inżynierów terraformingu, kontrolerów ścieków przemysłowych, szambonurków, błotników... Przydatny dodatek do każdego lądownika.",
+      "name": "Ozdoba: Próbobiorca Solaris",
+      "code": "pl"
+    },
+    {
+      "description": "Utilizado por geólogos, técnicos, encanadores, hidrólogos, engenheiros de terraformação, lubrificadores, monitores de fossas, mergulhadores… Uma adição bem útil para qualquer nave.",
+      "name": "Amostras Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "被地質學家、技師、水管工、水文學家、地球化改造工程師、泥漿監視員、污水池操作工、雜質駕駛員等等使用。登陸載具中的實用裝備。",
+      "name": "索拉里斯採樣器裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องมือชิ้นนี้ถูกใช้โดยนักธรณีวิทยา ช่างเทคนิค ช่างประปา นักอุทกวิทยา วิศวกรรมพื้นผิว นักตรวจสอบสารละลายข้น นักขุดบ่อ นักดำน้ำโคลน... เป็นอุปกรณ์เสริมที่มีประโยชน์สำหรับยานลงจอดทุกลำ",
+      "name": "ของตกแต่ง: เครื่องมือเก็บตัวอย่าง Solaris",
+      "code": "th"
+    },
+    {
+      "description": "Jeologlar, teknisyenler, tesisatçılar, subilimciler, yer biçimlendirme mühendisleri, akış gözetmenleri...ve daha birçok meslek tarafından kullanılan her Gemi'ye lazım bir alet.",
+      "name": "Solaris Örnekleyici Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Використовується геодезистами, техніками, сантехніками, гідрологами, інженерами з тераформування, дослідниками мулу, бурильниками, пірнальниками… Стане в пригоді на будь-якому зорельоті.",
+      "name": "Оздоблення: пробовідбірник Соляріса",
+      "code": "uk"
+    }
+  ]
+}

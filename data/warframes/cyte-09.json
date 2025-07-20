@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyte-09-62e778e37c.png",
+  "name": "Cyte-09",
+  "description": "Move like a shadow, strike with force. The Orokin created a Warframe that marries damage and stealth to eliminate sensitive problems, but he disappeared in the chaos of their demise. All that remains is a batch name: Cyte-09.",
+  "armor": 150,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Bewege dich wie ein Schatten, schlage mit Macht zu. Die Orokin haben einen Warframe entwickelt, der Schaden und Tarnung vereint, um sensible Probleme zu beseitigen, aber er verschwand im Chaos ihres Untergangs. Alles, was übrig bleibt, ist ein Serienname: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "de"
+    },
+    {
+      "description": "Bougez comme une ombre, frappez avec force. Les Orokins ont créé une Warframe qui allie Dégâts et furtivité pour éliminer les problèmes, mais elle a disparu dans le chaos de leur déclin. Il ne reste qu'un code de production: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "fr"
+    },
+    {
+      "description": "Muoviti come un'ombra, colpisci con forza. Gli Orokin crearono un Warframe che combinava danno e furtività per risolvere questioni delicate, ma scomparve nel caos della loro fine. Tutto ciò che rimane è solo un codice di produzione: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "it"
+    },
+    {
+      "description": "그림자처럼 움직여, 확실한 힘으로 제압하세요. 오로킨은 민감한 문제들을 처리할 수 있도록 피해와 은신을 결합한 워프레임을 만들어냈으나, 이 워프레임은 오로킨의 종말과 그로 인한 혼란 속에서 소실되고 말았습니다. 이제 남은 것은 실험군명인 Cyte-09뿐입니다.",
+      "name": "Cyte-09",
+      "code": "ko"
+    },
+    {
+      "description": "Muévete como una sombra, golpea con fuerza. Los orokin crearon un warframe que combinaba daño y sigilo para eliminar los problemas, pero desapareció en el caos de su declive. Sólo queda un código de producción: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "es"
+    },
+    {
+      "description": "身随影动，强势出击。Orokin 创造了一款结合了伤害和隐身的战甲用于解决掉一些敏感问题，但他在 Orokin 灭亡的混乱之中消失了。只剩下一个批次名称：Cyte-09。",
+      "name": "Cyte-09",
+      "code": "zh"
+    },
+    {
+      "description": "Двигайтесь, как тень, и наносите удар с силой. Орокин создали варфрейма, сочетающего мощь и скрытность для устранения деликатных проблем, но он исчез в хаосе их гибели. Всё, что осталось, это серийное название: Цит-09.",
+      "name": "Цит-09",
+      "code": "ru"
+    },
+    {
+      "description": "影のように動き、真なる一撃を。オロキンは特別部隊としてダメージとステルスを兼ね備えたWARFRAMEを作ったが、崩壊の混乱で消失したとされた。残ったのはバッチナンバー「Cyte-09」のみ。",
+      "name": "Cyte-09",
+      "code": "ja"
+    },
+    {
+      "description": "Poruszaj się jak cień, uderzaj z mocą. Orokin stworzyli Warframe'a, który łączy obrażenia i podstęp, aby wyeliminować dyskretnie problemy, ale zniknął w chaosie ich upadku. Pozostała tylko nazwa partii: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "pl"
+    },
+    {
+      "description": "Mova-se como uma sombra e ataque com uma força esmagadora. Os Orokin desenvolveram um Warframe que combina dano e furtividade para lidar com problemas específicos, que desapareceu após a queda do império. Tudo o que resta é o nome de seu lote: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "pt"
+    },
+    {
+      "description": "如暗影般行動且迅襲奪命。Orokin 創造了一個集破壞力和隱身能力於一體的 Warframe 來消滅棘手的狀況，然而他在帝國垮台的混亂之中一同消逝，僅留下一組名稱：Cyte-09。",
+      "name": "Cyte-09",
+      "code": "tc"
+    },
+    {
+      "description": "Orokin สร้าง Warframe ที่ผสมพลังในการสร้างความเสียหายกับการลอบโจมตีเข้าด้วยกันทำให้เคลื่อนไหวได้เหมือนเงาและเข้าโจมตีอย่างรุนแรงเพื่อกำจัดปัญหาให้พ้นทาง แต่ได้หายตัวไปในช่วงที่เกิดการล่มสลาย เหลือไว้เพียงชื่อในกลุ่มที่เรียกชุดนี้ว่า Cyte-09",
+      "name": "Cyte-09",
+      "code": "th"
+    },
+    {
+      "description": "Gölge gibi hareket et, güçle saldır. Orokin, hassas sorunları ortadan kaldırmak için hasar ve gizliliği birleştiren bir Warframe yarattı, ancak onların yok oluşunun kaosunda ortadan kayboldu. Geriye sadece bir üretim adı kaldı: Cyte-09.",
+      "name": "Cyte-09",
+      "code": "tr"
+    },
+    {
+      "description": "Рухайтеся непомітно, бийте потужно. Орокіни створили ворфрейма, який поєднує скрадання та вбивчу шкоду, щоб усувати проблеми. Однак він зник у хаосі їхньої загибелі. Усе, що лишилося, то це назва партії: Клітина-09.",
+      "name": "Клітина-09",
+      "code": "uk"
+    }
+  ]
+}

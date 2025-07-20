@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardDante",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante-prex-d22f823330.png",
+  "name": "Dante Prex",
+  "description": "Keeper of History",
+  "languages": [
+    {
+      "description": "Bewahrer der Geschichte",
+      "name": "Dante Prex",
+      "code": "de"
+    },
+    {
+      "description": "Gardien du Passé",
+      "name": "Prex Dante",
+      "code": "fr"
+    },
+    {
+      "description": "Custode della Storia",
+      "name": "Prex: Dante",
+      "code": "it"
+    },
+    {
+      "description": "역사의 수호자",
+      "name": "단테 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Guardián de la historia",
+      "name": "Prex de Dante",
+      "code": "es"
+    },
+    {
+      "description": "历史守护者",
+      "name": "Dante Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Хранитель истории",
+      "name": "Прекс: Данте",
+      "code": "ru"
+    },
+    {
+      "description": "歴史の記録者",
+      "name": "Dante プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Strażnik historii",
+      "name": "Prex: Dante",
+      "code": "pl"
+    },
+    {
+      "description": "Guardião da História",
+      "name": "Prex: Dante",
+      "code": "pt"
+    },
+    {
+      "description": "歷史的監護者",
+      "name": "卡牌 — Dante",
+      "code": "tc"
+    },
+    {
+      "description": "ผู้รักษาประวัติศาสตร์",
+      "name": "ไพ่เพร็กซ์ Dante",
+      "code": "th"
+    },
+    {
+      "description": "Tarihin Koruyucusu",
+      "name": "Dante Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Оберігач історії",
+      "name": "Прекс Данте",
+      "code": "uk"
+    }
+  ]
+}

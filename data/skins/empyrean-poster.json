@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EmpyreanPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/empyrean-poster-2d5ba7337a.png",
+  "name": "Empyrean Poster",
+  "description": "Decorate your Orbiter with this Empyrean-themed poster.",
+  "languages": [
+    {
+      "description": "Dekoriere deinen Orbiter mit diesem Empyrean-inspirierten Poster.",
+      "name": "Poster: Empyrean",
+      "code": "de"
+    },
+    {
+      "description": "Décorez votre Orbiteur avec ce poster centré sur Empyrée.",
+      "name": "Affiche Empyrée",
+      "code": "fr"
+    },
+    {
+      "description": "Decora il tuo Orbiter con questo poster a tema Empyrean.",
+      "name": "Poster Empyrean",
+      "code": "it"
+    },
+    {
+      "description": "이 엠피리언 테마 포스터로 오비터를 장식해보세요.",
+      "name": "Empyrean 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "Decora tu orbitador con este póster temático de Empíreo.",
+      "name": "Poster de Empíreo",
+      "code": "es"
+    },
+    {
+      "description": "用九重天主题的海报装饰你的轨道飞行器。",
+      "name": "九重天海报",
+      "code": "zh"
+    },
+    {
+      "description": "Украсьте свой Орбитер этим постером в стиле Эмпирей.",
+      "name": "Постер: Эмпирей",
+      "code": "ru"
+    },
+    {
+      "description": "このエンペリアン風ポスターをオービターに飾ろう。",
+      "name": "エンペリアンポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Udekoruj swój Orbiter tym plakatem z Empireum jako motywem przewodnim.",
+      "name": "Plakat Empireum",
+      "code": "pl"
+    },
+    {
+      "description": "Decore a sua Orbital com este temático pôster Empíreo.",
+      "name": "Pôster: Empíreo",
+      "code": "pt"
+    },
+    {
+      "description": "張貼這九重天主題的海報來裝飾你的軌道飛行器。",
+      "name": "九重天海報",
+      "code": "tc"
+    },
+    {
+      "description": "ตกแต่งออร์บิเตอร์ของคุณด้วยโปสเตอร์ธีม Empyrean นี้",
+      "name": "โปสเตอร์: Empyrean",
+      "code": "th"
+    },
+    {
+      "description": "Orbiterini, Empyrean-temalı bu poster ile dekore et.",
+      "name": "Empyrean Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Прикрасьте свій орбітр плакатом на тему оновлення «Емпірей».",
+      "name": "Плакат «Емпірей»",
+      "code": "uk"
+    }
+  ]
+}

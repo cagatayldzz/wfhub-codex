@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/natah-d2badc6411.png",
+  "name": "Natah",
+  "description": "Strange drones have appeared in the Origin System, help the Lotus find out what they are and who sent them.",
+  "languages": [
+    {
+      "description": "Seltsame Drohnen sind im Ursprungssystem aufgetaucht. Helfe der Lotus dabei, herauszufinden, was sie sind und wer sie gesendet hat.",
+      "name": "Natah",
+      "code": "de"
+    },
+    {
+      "description": "D'étranges drones sont apparus dans le Système Origine, aidez le Lotus à trouver ce qu'ils sont et qui les a envoyés.",
+      "name": "Natah",
+      "code": "fr"
+    },
+    {
+      "description": "Degli strani droni sono apparsi nel Sistema Origin, aiuta Lotus a scoprire chi sono e chi li ha inviati.",
+      "name": "Natah",
+      "code": "it"
+    },
+    {
+      "description": "수상한 드론들이 근원계에 출몰했습니다. 로터스를 도와 이들의 정체와 이들을 보낸 자가 누구인지 찾아내세요.",
+      "name": "나타",
+      "code": "ko"
+    },
+    {
+      "description": "Drones extraños han aparecido en el sistema Origen, ayuda a Lotus a descubrir que son y quién los ha enviado.",
+      "name": "Natah",
+      "code": "es"
+    },
+    {
+      "description": "行迹诡异的无人机出没于始源星系，协助 Lotus 追查出它们究竟是什么，又是谁派它们来的。",
+      "name": "Natah",
+      "code": "zh"
+    },
+    {
+      "description": "Странные дроны появились в Изначальной Системе, помогите Лотос выяснить, что они такое и кто их послал.",
+      "name": "Ната",
+      "code": "ru"
+    },
+    {
+      "description": "Origin太陽系に不審なドローンが現れた。Lotusが彼らが何で、誰から送り込まれたのかを調べるのを手伝おう。",
+      "name": "Natah",
+      "code": "ja"
+    },
+    {
+      "description": "Dziwne drony pojawiły się w Systemie Origin, pomóż Lotus dowiedzieć się czym są i kto je przysłał.",
+      "name": "Natah",
+      "code": "pl"
+    },
+    {
+      "description": "Drones estranhos apareceram no Sistema de origem. Ajude a Lótus a descobrir quem eles são e por quem foram enviados.",
+      "name": "Natah",
+      "code": "pt"
+    },
+    {
+      "description": "行跡詭異的無人機出沒於始源星系，協助 Lotus 追查出它們究竟是什麼，又是誰派他們來的。",
+      "name": "Natah",
+      "code": "tc"
+    },
+    {
+      "description": "โดรนแปลก ๆ ปรากฏตัวในระบบออริจิน ช่วย Lotus ค้นหาว่าพวกมันคืออะไรและใครเป็นคนส่งมา",
+      "name": "Natah",
+      "code": "th"
+    },
+    {
+      "description": "Garip drone robotları Origin Sistemde görülmeye başlandı, Lotus'a onları kimin gönderdiğini bulmasında yardımcı ol.",
+      "name": "Natah",
+      "code": "tr"
+    },
+    {
+      "description": "Дивні дрони з’явилися в Материнській системі. Допоможіть Лотос дізнатися, що вони шукають та звідки вони.",
+      "name": "НАТА",
+      "code": "uk"
+    }
+  ]
+}

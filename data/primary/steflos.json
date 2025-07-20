@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnoLotusPodShotgun/TnoLotusPodShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steflos-2444088d3f.png",
+  "name": "Steflos",
+  "description": "An energy projectile bursts forth from the Steflos and grows as it rushes toward enemies. The projectile's duration increases when it hits an enemy. When Citrine fires the Steflos, its projectile speed increases.",
+  "languages": [
+    {
+      "description": "Ein Energieprojektil wird von der Steflos abgefeuert, das wächst, während es auf das Ziel zurast. Die Dauer des Projektils verlängert sich beim Treffen von Gegnern. Nutzt Citrine die Waffe, so ist die Projektilgeschwindigkeit erhöht.",
+      "name": "Steflos",
+      "code": "de"
+    },
+    {
+      "description": "Un projectile d'énergie jaillit du Steflos et grandit en fonçant vers les ennemis. La durée du projectile augmente lorsqu'il touche un ennemi. Lorsque Citrine utilise le Steflos, sa vitesse de projectile augmente.",
+      "name": "Steflos",
+      "code": "fr"
+    },
+    {
+      "description": "Lo Steflos rilascia un proiettile di energia che aumenta di dimensione mentre si avvicina ai nemici. La durata del proiettile aumenta colpendo un nemico. Quando Citrine impugna l’arma, la velocità del proiettile aumenta.",
+      "name": "Steflos",
+      "code": "it"
+    },
+    {
+      "description": "스테플로스로 발사된 에너지 발사체는 점차 커지며 적을 향해 돌진합니다. 발사체의 지속 시간은 적에게 적중 시 증가합니다. 시트린이 스테플로스를 발사할 시, 발사체 속도가 증가합니다.",
+      "name": "스테플로스",
+      "code": "ko"
+    },
+    {
+      "description": "Un proyectil de energía sale disparado de la Steflos y aumenta de tamaño a medida que se acerca a los enemigos. La duración del proyectil aumenta cuando golpea a un enemigo. Cuando Citrine dispara la Steflos, la velocidad del proyectil aumenta.",
+      "name": "Steflos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：STEFLOS）石晶之花发射的能量弹会在飞向敌人时变大。当投射物击中敌人时，其飞行持续时间会增加。当 Citrine 使用石晶之花时，它的投射物速度会增加。",
+      "name": "石晶之花",
+      "code": "zh"
+    },
+    {
+      "description": "Энергетический заряд, выпущенный Стефлосом, становится больше по мере того, как он устремляется к врагам. Дальность поражения снарядом увеличивается с каждым попаданием в противника.\nВ руках Цитрины скорость снаряда Стефлоса увеличивается.",
+      "name": "Стефлос",
+      "code": "ru"
+    },
+    {
+      "description": "エネルギー弾がSteflosからバーストで放たれ、敵に向かって突進するにつれて大型化する。発射物が敵に命中すると、発射物の継続時間が伸びる。CitrineがSteflosを発射すると弾速が上昇する。",
+      "name": "Steflos",
+      "code": "ja"
+    },
+    {
+      "description": "Pocisk energetyczny wystrzelony ze Steflosa rośnie, gdy pędzi w kierunku wrogów. Zasięg pocisku wzrasta wraz z każdym trafionym wrogiem.\nW rękach Citrine prędkość pocisków Steflosa zostaje zwiększona.",
+      "name": "Steflos",
+      "code": "pl"
+    },
+    {
+      "description": "Um projétil de energia desponta da Steflos, aumentando à medida que avança em direção aos inimigos. A duração do projétil aumentará ao atingir um inimigo. Quando a Citrine disparar a Steflos, a Velocidade do Projétil aumentará.",
+      "name": "Steflos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：STEFLOS）一枚能量射彈從奇葩霰彈槍射出並在飛向敵人的同時增長。射彈擊中敵人時，持續時間會增加。Citrine 發射奇葩霰彈槍時，其射彈速度會增加。",
+      "name": "奇葩",
+      "code": "tc"
+    },
+    {
+      "description": "Steflos ยิงกระสุนพลังงานที่จะระเบิดออกมา และขยายใหญ่ขึ้นเมื่อพุ่งเข้าหาศัตรู เมื่อโดนศัตรูแล้วระยะเวลาของกระสุนที่ยิงออกไปจะเพิ่มขึ้น หาก Citrine เป็นผู้ใช้ Steflos ก็จะยิ่งเพิ่มความเร็วของกระสุนขึ้น",
+      "name": "Steflos",
+      "code": "th"
+    },
+    {
+      "description": "Steflos'tan bir enerji mermisi fırlar ve düşmanlara doğru büyüyerek ilerler. Bir düşmana çarptığında merminin süresi artar. Steflos'u Citrine ateşlediğinde mermi hızı artar.",
+      "name": "Steflos",
+      "code": "tr"
+    },
+    {
+      "description": "Енергетичні заряди вилітають із рушниці «Стефлос» і розростаються під час льоту до ворогів. Тривалість існування снаряда збільшується з кожним влучанням у ворога. У руках Цитрини швидкість польоту снарядів завжди підвищена.",
+      "name": "Стефлос",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/InfestedEphemeraA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spore-ephemera-8a1667bac0.png",
+  "name": "Spore Ephemera",
+  "description": "Infested spores emanate from your Warframe.",
+  "languages": [
+    {
+      "description": "Befallene Sporen strömen aus deinem Warframe.",
+      "name": "Ephemera: Sporen",
+      "code": "de"
+    },
+    {
+      "description": "Des spores infestées émanent de votre Warframe.",
+      "name": "Ephemera Spores",
+      "code": "fr"
+    },
+    {
+      "description": "Spore Infested emanate dal tuo Warframe.",
+      "name": "Ephemera Spore",
+      "code": "it"
+    },
+    {
+      "description": "워프레임에서 인페스티드 포자가 뿜어져 나옵니다.",
+      "name": "스포어 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Esporas infestadas que emanan de tu warframe",
+      "name": "Efímero Esporas",
+      "code": "es"
+    },
+    {
+      "description": "你的战甲身上会散发出感染孢子。",
+      "name": "孢子幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Ваш варфрейм испускает споры заражённых.",
+      "name": "Эфемера: Споры",
+      "code": "ru"
+    },
+    {
+      "description": "感染体の胞子がWARFRAMEから立ち上る。",
+      "name": "Spore エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Twój Warframe emanuje zainfekowanymi zarodnikami.",
+      "name": "Efemera Zarodników",
+      "code": "pl"
+    },
+    {
+      "description": "Esporos Infestados emanam do seu Warframe.",
+      "name": "Efêmera: Esporos",
+      "code": "pt"
+    },
+    {
+      "description": "你的 Warframe 身上會散發出 Infested 孢子。",
+      "name": "孢子幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "สปอร์ที่ติดเชื้อซึ่งออกมาจาก Warframe ของคุณ",
+      "name": "อิเฟมเมอรา Spore",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'inden infested sporlarının çıkmasını sağlar.",
+      "name": "Spore Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Ворфрейм лишає за собою слід заражених спор.",
+      "name": "Ефемера «Спори»",
+      "code": "uk"
+    }
+  ]
+}

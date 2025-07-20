@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionDeimos",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infested-deimos-glyph-3479ee333b.png",
+  "name": "Infested Deimos Glyph",
+  "description": "A glyph to represent the Infested Deimos faction.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die die Fraktion des Befallenen Deimos repräsentiert.",
+      "name": "Glyphe: Befallener Deimos",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour représenter la faction Infestée de Deimos.",
+      "name": "Glyphe Infestés Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che raffigura la fazione Infested presente su Deimos.",
+      "name": "Glifo Infested di Deimos",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 데이모스 진영을 묘사한 글리프입니다.",
+      "name": "인페스티드 데이모스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa la facción de Deimos infestado.",
+      "name": "Glifo de Deimos infestado",
+      "code": "es"
+    },
+    {
+      "description": "代表 Infested 火卫二派系的浮印。",
+      "name": "Infested 火卫二浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, символизирующий Фракцию Зараженных Деймоса.",
+      "name": "Глиф: Заражённые Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "ダイモスの感染体勢力を表すグリフ。",
+      "name": "ダイモス感染体 グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający frakcję Plagi Deimos.",
+      "name": "Glif Plagi Deimos",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a facção dos Infestados de Deimos.",
+      "name": "Glifo: Infestados de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "代表火衛二感染者派系的浮印。",
+      "name": "火衛二感染者浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงฝ่ายเดมอสที่ติดเชื้อ",
+      "name": "ภาพสัญลักษณ์ Infested Deimos",
+      "code": "th"
+    },
+    {
+      "description": "Infested Deimos fraksiyonunu temsil eden bir glif.",
+      "name": "Infested Deimos Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із символом заражених істот Деймоса.",
+      "name": "Гліф «Заражені Деймоса»",
+      "code": "uk"
+    }
+  ]
+}

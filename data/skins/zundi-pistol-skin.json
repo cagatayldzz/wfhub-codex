@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Pistols/TnSubmachinegunPistolSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zundi-pistol-skin-87a31eb3bf.png",
+  "name": "Zundi Pistol Skin",
+  "description": "As no Zundi weapons survive from the Old War this formidable pistol skin was created to honor them. Stout, distinctive and intimidating it is a reminder of times past.",
+  "languages": [
+    {
+      "description": "Da keine Zundi-Waffen den Alten Krieg überstanden haben, wurde dieser großartige Pistolen-Skin geschaffen, um sie zu ehren. Stark, charakteristisch und furchteinflößend, ist sie eine Erinnerung an vergangene Zeiten.",
+      "name": "Pistolen-Skin: Zundi",
+      "code": "de"
+    },
+    {
+      "description": "Comme aucune arme Zundi n'a survécu à l'Ancienne Guerre, ce formidable Aspect de Pistolet a été créé en leur honneur. Robuste, particulier et intimidant, il rappelle le passé.",
+      "name": "Aspect de Pistolet Zundi",
+      "code": "fr"
+    },
+    {
+      "description": "In quanto nessuna delle armi Zundi è sopravvissuta alla Vecchia Guerra, questa formidabile Skin per pistola è stata creata in loro onore. Forte, distintiva e minacciosa è un ricordo dei tempi passati.",
+      "name": "Skin Pistola Zundi",
+      "code": "it"
+    },
+    {
+      "description": "준디 무기들은 옛 전쟁 이후 모두 소실되었기에, 이 가공할 만한 권총 스킨은 그 무기들을 기리기 위해 만들어졌습니다. 튼튼하고, 독특하고도 위협적인 이 스킨은 옛 시절을 떠올리게 하는 매개체입니다.",
+      "name": "준디 권총 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Como ninguna arma Zundi sobrevivió a la Antigua Guerra, este formidable diseño de pistola fue creado para honrarlas. Fuerte, distintivo e intimidante como recordatorio de tiempos pasados.",
+      "name": "Diseño Zundi de pistola",
+      "code": "es"
+    },
+    {
+      "description": "由于没有尊谛武器从远古之战留存下来，这种令人敬畏的手枪外观被制作出来以作纪念。强力、与众不同，且又使人望而生畏，令人回想起过去的时代。",
+      "name": "尊谛手枪外观",
+      "code": "zh"
+    },
+    {
+      "description": "Поскольку никакое оружие Зандай не пережило Старой Войны, этот грозный скин для пистолета был создан в память о нём. Крепкий, самобытный и пугающий, как напоминание о прошлом.",
+      "name": "Скин Пистолета: Зандай",
+      "code": "ru"
+    },
+    {
+      "description": "古の大戦で全てのZundi武器が破壊されたため、このピストルスキンは敬意を示すため作られた。頑丈かつ特色があり、過去を思い出させる異様なデザイン。",
+      "name": "Zundi ピストル スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Ta niezwykła skórka została stworzona jako hołd, ponieważ żaden oręż Zundi nie przetrwał czasów Starej Wojny. Solidny, charakterystyczne i imponujące echo przeszłości.",
+      "name": "Pistolet: Skórka Zundi",
+      "code": "pl"
+    },
+    {
+      "description": "Tendo em mente que nenhum armamento Zundi sobreviveu à Guerra Ancestral, esta Skin formidável para pistolas foi criada para honrá-los. Robusta, diferenciada e intimidadora, ela é um lembrete dos tempos que passaram.",
+      "name": "Pistola: Skin Zundi",
+      "code": "pt"
+    },
+    {
+      "description": "由於沒有準提武器從遠古之戰中存留下來，因此這款傑出的手槍外觀被創造出來向其致敬。英勇、鮮明、威武──它是一個過去時代的記憶。",
+      "name": "手槍 準提外觀",
+      "code": "tc"
+    },
+    {
+      "description": "เนื่องจากไม่มีอาวุธ Zundi ใดที่รอดจากสงครามเก่า สกินปืนพกที่น่าเกรงขามนี้ถูกสร้างขึ้นเพื่อเป็นเกียรติแก่พวกมัน มีพลัง โดดเด่น และน่าเกรงขามเป็นเครื่องเตือนใจถึงช่วงเวลาที่ผ่านมา",
+      "name": "สกินปืนพก Zundi",
+      "code": "th"
+    },
+    {
+      "description": "Zundi silahlarının hiçbiri Eski Savaşın sonrasını göremediği için bu tabanca skin'i onları onurlandırmak için yaratıldı. Sağlam, belirgin ve göz korkutucu geçmiş zamanları temsil eder.",
+      "name": "Zundi Tabanca Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Оскільки жодна зброя Зунді не збереглася з часів Давньої війни, то для її вшанування створили цей вигляд для пістолета. Міцне, виразне й моторошне нагадування про минулі часи.",
+      "name": "Вигляд «Зунді» для пістолета",
+      "code": "uk"
+    }
+  ]
+}

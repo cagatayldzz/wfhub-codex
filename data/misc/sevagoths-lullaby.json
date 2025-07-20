@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/SevagothDeluxeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth's-lullaby-d28c434cc8.png",
+  "name": "Sevagoth's Lullaby",
+  "description": "A custom song for Sevagoth Glaukus that plays when his Shadow is in combat. It can also be played on the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Ein angepasster Song für Sevagoth Glaukus, der abgespielt wird, wenn sein Schatten kämpft. Er kann auch im Somachord auf deinem Orbiter abgespielt werden.",
+      "name": "Sevagoths Schlaflied",
+      "code": "de"
+    },
+    {
+      "description": "Une chanson personnalisée pour Sevagoth Glaukus qui joue lorsque son Ombre est au combat. Elle peut également être jouée via le Somaccord de votre Orbiteur.",
+      "name": "La berceuse de Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Una canzone personalizzata per Sevagoth Glaukus, che viene riprodotta quando la sua Ombra scende sul campo di battaglia. Può anche essere ascoltata tramite il Somachord nel tuo Orbiter.",
+      "name": "Ninna nanna di Sevagoth",
+      "code": "it"
+    },
+    {
+      "description": "세바고스가 섀도우 상태로 전투할 시 흐르는 전용 전투곡입니다. 또한 오비터 내 소마코드에서 재생할 수도 있습니다.",
+      "name": "세바고스의 자장가",
+      "code": "ko"
+    },
+    {
+      "description": "Una canción personalizada para Sevagoth Glaukus, que suena cuando su Sombra está en el campo de batalla. También se puede escuchar a través del Somacordio de tu orbitador.",
+      "name": "Sevagoth's Lullaby",
+      "code": "es"
+    },
+    {
+      "description": "一首为 Sevagoth 格劳克斯的幽影在战斗时播放的自定歌曲。也可以在轨道飞行器的身心和弦琴上播放这首歌曲。",
+      "name": "Sevagoth 的安眠曲",
+      "code": "zh"
+    },
+    {
+      "description": "Специальная песня Севагота Глаукуса, которая звучит, когда его Тень находится в бою. Её также можно играть на Сомакорде вашего Орбитера.",
+      "name": "Колыбельная Севагота",
+      "code": "ru"
+    },
+    {
+      "description": "Sevagoth GlaukassのShadow戦闘中に流れる専用BGM。オービターのSomachordでも再生可能。",
+      "name": "Sevagoth's Lullaby",
+      "code": "ja"
+    },
+    {
+      "description": "Niestandardowa utwór dla Sevagotha Glaukusa, który jest odgrywany, gdy jego Cień bierze udział w walce. Może być również odtwarzana na Somakordzie w Orbiterze.",
+      "name": "Kołysanka Sevagotha",
+      "code": "pl"
+    },
+    {
+      "description": "Uma música personalizada para o Sevagoth Glaukus, que será reproduzida para sua Sombra em combate. Também poderá ser tocada no Somacorde de sua Orbital.",
+      "name": "Cantiga do Sevagoth",
+      "code": "pt"
+    },
+    {
+      "description": "Sevagoth 格勞科斯的幻影在戰鬥時會播放的自訂歌曲。它也可以在軌道飛行器中的身心和弦琴上播放。",
+      "name": "Sevagoth 的搖籃曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลงที่กำหนดเองสำหรับ Sevagoth Glaukus ที่จะเล่นเมื่อร่างเงา Shadow อยู่ในระหว่างการต่อสู้ นอกจากนี้ยังสามารถเล่นบน Somachord ที่อยู่ในยานของคุณได้อีกด้วย",
+      "name": "Sevagoth's Lullaby",
+      "code": "th"
+    },
+    {
+      "description": "Sevagoth Glaukus'un Gölgesi savaştayken çalan özel bir şarkı. Ayrıca Orbiter'indeki Somachord'da da çalınabilir.",
+      "name": "Sevagoth'un Ninnisi",
+      "code": "tr"
+    },
+    {
+      "description": "Спеціальний трек для Севаґота Ґлавка, що гратиме як фонова музика під час бою в стані Тіні Севаґота, а також його можна відтворити в сомакорді на орбітрі.",
+      "name": "Колискова Севаґота",
+      "code": "uk"
+    }
+  ]
+}

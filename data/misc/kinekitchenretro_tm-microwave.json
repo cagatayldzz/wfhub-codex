@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinekitchenretro_tm-microwave-c248341e78.png",
+  "name": "Kinekitchen<Retro_tm> Microwave",
+  "description": "The KineKitchen<RETRO_TM> Microwave comes with brand-new patent-pending settings like SmartDefrost and Insta-Pop! Make popcorn in ten seconds or less with no burnt kernels - guaranteed!",
+  "languages": [
+    {
+      "description": "Die KineKitchen<RETRO_TM>-Mikrowelle verfügt über brandneue, zum Patent angemeldete Einstellungen wie SmartDefrost und Insta-Pop! Mach Popcorn in zehn Sekunden oder weniger ohne verbrannte Körner – garantiert!",
+      "name": "KineKitchen<RETRO_TM>: Mikrowelle",
+      "code": "de"
+    },
+    {
+      "description": "Le micro-ondes KineKitchen<RETRO_TM> est doté de nouveaux paramètres en instance de brevet comme SmartDefrost et Insta-Pop! Préparez du pop-corn en dix secondes ou moins sans grains brûlés!",
+      "name": "Micro-ondes KineKitchen<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Il Microonde KineKitchen<RETRO_TM> è dotato di nuovissime impostazioni in attesa di brevetto come SmartDefrost e Insta-Pop! Prepara i popcorn in circa dieci secondi e senza chicchi bruciati: garantito!",
+      "name": "Microonde KineKitchen<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네키친<RETRO_TM> 전자레인지는 스마트 해동 및 즉석 조리와 같은 완전히 새로운 특허 출원 기능이 제공됩니다. 10초 이내에 팝콘을 만들며 타지 않는 팝콘 알갱이를 보장합니다!",
+      "name": "키네키친<RETRO_TM> 전자레인지",
+      "code": "ko"
+    },
+    {
+      "description": "El microondas KineKitchen<RETRO_TM> viene con nuevas configuraciones con patente en trámite, como SmartDefrost e Insta-Pop. ¡Prepara palomitas de maíz en diez segundos o menos sin granos quemados, garantizado!",
+      "name": "Microondas KineKitchen<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "即时烹<RETRO_TM>微波炉配备专利申请中的新功能，如智能解冻和即刻爆米花！十秒内快速制作爆米花，且绝不焦糊！",
+      "name": "即时烹<RETRO_TM>微波炉",
+      "code": "zh"
+    },
+    {
+      "description": "Микроволновая печь «КинеКитчен»<RETRO_TM> оснащена новыми запатентованными функциями SmartDefrost и Insta-Pop! Приготовьте попкорн за десять секунд или меньше без единого сгоревшего зёрнышка — гарантировано!",
+      "name": "Микроволновая печь «КинеКитчен»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネキッチン<RETRO_TM> 電子レンジには特許出願中の「スマートデフロスト」解凍機能と、「インスタポップ」瞬間ポップコーンメーカー機能が搭載されています！",
+      "name": "キネキッチン<RETRO_TM> 電子レンジ",
+      "code": "ja"
+    },
+    {
+      "description": "Mikrofalówka KineKitchen<RETRO_TM> jest wyposażona w zupełnie nowe, zgłoszone do opatentowania ustawienia, takie jak SmartDefrost i Insta-Pop! Przygotowanie popcornu w dziesięć sekund lub mniej bez przypalonych ziaren - gwarantowane!",
+      "name": "KineKitchen<RETRO_TM>: Mikrofalówka",
+      "code": "pl"
+    },
+    {
+      "description": "O Micro-Ondas KineKitchen<RETRO_TM> vem com novas configurações, como SmartDefrost e Insta-Pop! Faça pipoca em 10 segundos ou menos, sem grãos queimados!",
+      "name": "Micro-Ondas KineKitchen<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "開廚<RETRO_TM>微波爐附帶全新專利未決功能，比如智慧解凍和即爆米花！十秒以內爆好米花，保證不帶焦粒！",
+      "name": "開廚<RETRO_TM>微波爐",
+      "code": "tc"
+    },
+    {
+      "description": "ไมโครเวฟ KineKitchen<RETRO_TM> มาพร้อมการตั้งค่าใหม่ล่าสุดที่รอการจดสิทธิบัตร เช่น SmartDefrost และ Insta-Pop รับประกันว่าสามารถทำป๊อปคอร์นได้ในเวลาไม่ถึงสิบวินาทีโดยที่เมล็ดไม่ไหม้",
+      "name": "ไมโครเวฟ KineKitchen<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "KineKitchen<RETRO_TM> Mikrodalga, Akıllı Buz Çözme ve Hızlı Mısır Patlatma gibi yepyeni patent bekleyen ayarlarla birlikte gelir! Yanmış taneler olmadan on saniye veya daha kısa sürede patlamış mısır yapma garantili!",
+      "name": "KineKitchen<RETRO_TM> Mikrodalga",
+      "code": "tr"
+    },
+    {
+      "description": "Мікрохвильова піч «Кінекухня»<RETRO_TM> містить новітні параметри, які очікують на патент, як-от як РозумнаРозморока та МиттєваКукурузка! Гарантоване десятисекундне приготування попкорну без підгорілих зерен!",
+      "name": "Мікрохвильова піч «Кінекухня»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

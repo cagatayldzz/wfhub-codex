@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Garuda/Garuda",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-5e3cc04493.png",
+  "name": "Garuda",
+  "description": "Death’s crimson maiden sharpens her talons. Garuda weaponizes the blood of her foes to deal high damage. Sanguine beauty complements her deadly power.",
+  "armor": 315,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Die purpurrote Maid Todes schärft ihre Klauen. Garuda verwandelt das Blut ihrer Feinde in eine Waffe und teilt hohen Schaden aus. Blutige Schönheit ergänzt ihre tödliche Kraft.",
+      "name": "Garuda",
+      "code": "de"
+    },
+    {
+      "description": "La jeune envoyée de la mort aiguise ses serres. Garuda fait couler le sang de ses ennemis et inflige des Dégâts importants. La beauté sanguinaire de la puissance mortelle.",
+      "name": "Garuda",
+      "code": "fr"
+    },
+    {
+      "description": "La fanciulla cremisi della morte affila gli artigli. Garuda utilizza come arma il sangue dei nemici per infliggere danni elevati. La sua bellezza sanguinaria affianca il suo potere mortale.",
+      "name": "Garuda",
+      "code": "it"
+    },
+    {
+      "description": "죽음의 진홍색 여인이 자신의 발톱을 더욱 날카롭게 갈고 닦습니다. 가루다는 자신의 적에게서 뽑아낸 피를 무기 삼아 높은 피해를 가합니다. 선혈의 심홍에서 오는 아름다움은 그녀의 치명적인 힘을 더욱 완벽하게 빛냅니다.",
+      "name": "가루다",
+      "code": "ko"
+    },
+    {
+      "description": "La doncella carmesí de la muerte afila sus garras. Garuda usa la sangre de sus enemigos como arma para causar un gran daño. La belleza sanguínea complementa su poder letal.",
+      "name": "Garuda",
+      "code": "es"
+    },
+    {
+      "description": "血之女王磨砺着她的利爪。Garuda 以敌人的血液为武器，造成高额伤害。血色的美丽与她致命的力量相得益彰。",
+      "name": "Garuda",
+      "code": "zh"
+    },
+    {
+      "description": "Алая дева смерти точит когти. Гаруда использует кровь врагов для нанесения большого урона. Кровавая красота дополняет её смертоносную силу.",
+      "name": "Гаруда",
+      "code": "ru"
+    },
+    {
+      "description": "真紅の死乙女は爪を研ぐ。Garudaは敵の血を武器にして大ダメージを与える。血に彩られた美しさが彼女の致命的な力を引き立てる。",
+      "name": "Garuda",
+      "code": "ja"
+    },
+    {
+      "description": "Szkarłatna dziewica śmierci ostrzy swoje szpony. Garuda wykorzystuje krew swoich wrogów, by zadawać wysokie obrażenia. Krwawe piękno uzupełnia jej zabójczą siłę.",
+      "name": "Garuda",
+      "code": "pl"
+    },
+    {
+      "description": "A dama escarlate da morte afia suas garras. A Garuda transforma o sangue de seus inimigos em uma arma para causar alto dano. Sua beleza sanguinária complementa seu poder mortal.",
+      "name": "Garuda",
+      "code": "pt"
+    },
+    {
+      "description": "死亡的緋紅少女磨快她的利爪。 Garuda 將敵人的鮮血武器化以造成高傷害。血色之美襯託她的致命威力。",
+      "name": "Garuda",
+      "code": "tc"
+    },
+    {
+      "description": "Garuda คือหญิงสาวที่มาพร้อมกับความตายสีเลือดที่คอยลับกรงเล็บให้คมอยู่เสมอ ใช้เลือดของศัตรูเป็นอาวุธเพื่อสร้างความเสียหายสูง ความงามจากโลหิตที่แดงก่ำช่วยเติมเต็มพลังแห่งความตาย",
+      "name": "Garuda",
+      "code": "th"
+    },
+    {
+      "description": "Ölümün kızıl prensesi pençelerini keskinleştiriyor. Garuda yüksek hasar vermek için düşmanlarının kanını silah olarak kullanır. İyimser güzelliği onun ölümcül gücünü tamamlar.",
+      "name": "Garuda",
+      "code": "tr"
+    },
+    {
+      "description": "Діва смерті з гострими пазурами. Ґаруда перетворює кров ворогів на зброю, щоб завдавати великої шкоди. Закривавлений вигляд доповнює її смертоносну силу.",
+      "name": "Ґаруда",
+      "code": "uk"
+    }
+  ]
+}

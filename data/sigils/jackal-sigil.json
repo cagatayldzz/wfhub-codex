@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilJackal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jackal-sigil-7ead03c340.png",
+  "name": "Jackal Sigil",
+  "description": "A sigil depicting the Jackal.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das den Jackal darstellt.",
+      "name": "Siegel: Jackal",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Jackal.",
+      "name": "Sceau du Jackal",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Jackal.",
+      "name": "Sigillo Jackal",
+      "code": "it"
+    },
+    {
+      "description": "자칼이 묘사된 시질입니다.",
+      "name": "자칼 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando al Jackal.",
+      "name": "Sello del Jackal",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着豺狼的纹章",
+      "name": "豺狼纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Шакала.",
+      "name": "Сигил: Шакал",
+      "code": "ru"
+    },
+    {
+      "description": "Jackalを描いたシジル。",
+      "name": "Jackal シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Szakala.",
+      "name": "Znak Szakala",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando Jackal.",
+      "name": "Brasão: Jackal",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪豺狼的紋章。",
+      "name": "豺狼紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Jackal",
+      "name": "เครื่องหมาย: Jackal",
+      "code": "th"
+    },
+    {
+      "description": "Jackal'ı temsil eden bir mühür",
+      "name": "Jackal Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Шакала.",
+      "name": "Сиґіл «Шакал»",
+      "code": "uk"
+    }
+  ]
+}

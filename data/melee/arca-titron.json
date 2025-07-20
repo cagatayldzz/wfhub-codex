@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arca-titron-b18e4d9e56.png",
+  "name": "Arca Titron",
+  "description": "Each successive kill from this massive electron hammer builds an electron charge that is unleashed on slam attacks.",
+  "languages": [
+    {
+      "description": "Jeder erfolgreiche Kill mit diesem massiven Elektronhammer baut eine Elektronladung auf, die mit einem Schmetterangriff freigesetzt wird.",
+      "name": "Arca Titron",
+      "code": "de"
+    },
+    {
+      "description": "Chaque élimination successive effectuée grâce à ce Marteau à électrons massif génère une charge d'électrons, relâchée lors des Frappes au Sol.",
+      "name": "Arca Titron",
+      "code": "fr"
+    },
+    {
+      "description": "Tutte le uccisioni consecutive eseguite con questo enorme martello ad elettroni caricano un colpo che viene rilasciato con gli Schianti a Terra.",
+      "name": "Arca Titron",
+      "code": "it"
+    },
+    {
+      "description": "이 거대한 전격 해머로 연속 처치를 이루어낼 경우 지면 강타를 이용해 발산할 수 있는 전하를 충전합니다.",
+      "name": "아르카 티트론",
+      "code": "ko"
+    },
+    {
+      "description": "Cada asesinato de este masivo martillo de electrones genera una carga que es soltada en golpes contra el suelo.",
+      "name": "Titron Arca",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ARCA TITRON）这柄巨型电子重锤的每一次连续击杀都会积累一重电荷，可以通过震地攻击将其释放出来。",
+      "name": "弧电振子锤",
+      "code": "zh"
+    },
+    {
+      "description": "Каждое убийство, совершенное этим массивным электромолотом, накапливает заряд, который может быть разряжен при использовании удара по земле.",
+      "name": "Арка Титрон",
+      "code": "ru"
+    },
+    {
+      "description": "この巨大な電磁ハンマーで敵を倒す事で電子をため、スラム攻撃で開放する。",
+      "name": "Arca Titron",
+      "code": "ja"
+    },
+    {
+      "description": "Każde kolejne zabójstwo tym masywnym elektronowym młotem Corpusu, buduje ładunek elektronów, który zostaje wypuszczony przy ciężkim uderzeniu w ziemię.",
+      "name": "Arca Titron",
+      "code": "pl"
+    },
+    {
+      "description": "Cada eliminação consecutiva deste martelo massivo carregará uma carga de elétrons, liberada em Ataques ao Solo.",
+      "name": "Arca Titron",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ARCA TITRON）這柄巨型電子重鎚的每一次連續擊殺都會積累一層電荷，可以透過震地攻擊將其釋放出來。",
+      "name": "弧電振子鎚",
+      "code": "tc"
+    },
+    {
+      "description": "การฆ่าด้วยค้อนอิเล็กตรอนขนาดใหญ่อย่างต่อเนื่องในแต่ละครั้งจะสร้างประจุอิเล็กตรอนที่จะปล่อยออกมาจากการโจมตีด้วยการทุบพื้น",
+      "name": "Arca Titron",
+      "code": "th"
+    },
+    {
+      "description": "Bu iri elektron çekici ile yapılan her başarılı öldürme daha sonra darbeli ataklarda kullanılmak üzere bir elektron şarjı depolar.",
+      "name": "Arca Titron",
+      "code": "tr"
+    },
+    {
+      "description": "Убиваючи ворогів цим величезним молотом, ви накопичуєте в ньому заряд, який можна вивільнити ударом об землю.",
+      "name": "Арка-Титрон",
+      "code": "uk"
+    }
+  ]
+}

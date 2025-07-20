@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/BekranZaftBucketBroom",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bekran-zaft's-equipment-1ceabd255f.png",
+  "name": "Bekran Zaft's Equipment",
+  "description": "A replica of the very mop and bucket Bekran Zaft was holding when she witnessed the transmutation of the remains of Archimedean Javi by Lavos. As detailed by Drusus Leverian.",
+  "languages": [
+    {
+      "description": "Eine Nachbildung des Mopps und Eimers, den Bekran Zaft in der Hand hielt, als sie Zeuge der Transmutation der Überreste von Archimede Javi durch Lavos wurde. Wie von Drusus Leverian beschrieben.",
+      "name": "Bekran Zafts Ausrüstung",
+      "code": "de"
+    },
+    {
+      "description": "Une réplique de la serpillière et du seau que Bekran Zaft tenait lorsqu'elle a été témoin de la transmutation des restes de l'Archimédien Javi par Lavos. Comme détaillé par Drusus Leverian.",
+      "name": "Équipement de Bekran Zaft",
+      "code": "fr"
+    },
+    {
+      "description": "Una replica degli stessi mocio e secchio che Bekran Zaft aveva in mano quando ha assistito alla trasmutazione dei resti dell'Archimedeo Javi da parte di Lavos. Esattamente come descritto da Drusus Leverian.",
+      "name": "Equipaggiamento di Bekran Zaft",
+      "code": "it"
+    },
+    {
+      "description": "라보스가 아르키메디안 야비의 잔해를 변성시키던 현장을 목격했을 당시 베크란 자프트가 들고 있었던 바로 그 대걸레와 양동이의 복제품입니다. 드루수스 레베리안의 상세한 설명에 기반하고 있습니다.",
+      "name": "베크란 자프트의 도구들",
+      "code": "ko"
+    },
+    {
+      "description": "Una réplica del trapeador y cubo que sostenía Bekran Zaft cuando presenció la transmutación de Lavos de los restos del arquimediano Javi. Exactamente como lo describe Drusus Leverian.",
+      "name": "Equipamiento de Bekran Zaft",
+      "code": "es"
+    },
+    {
+      "description": "这是贝克兰·扎夫特在她目睹 Lavos 对哲士哈维的遗体进行转化时，拿着拖把和水桶的复制品。德枢·莱弗对此有过详细描述。",
+      "name": "贝克兰·扎夫特的用具",
+      "code": "zh"
+    },
+    {
+      "description": "Копия той самой швабры и ведра, которые Бекран Зафт держал, когда стал свидетелем превращения останков архимедиана Джави Лавосом. Как подробно описано у Драсуса Левериана.",
+      "name": "Снаряжение Бекрана Зафта",
+      "code": "ru"
+    },
+    {
+      "description": "アルキメデス Javiの遺体をLavosが変成させるのをBerkan Zaftが目撃したとき、持っていたモップとバケツのレプリカ。Drusus Leverianが詳細を説明している。",
+      "name": "Berkan Zaftの用品",
+      "code": "ja"
+    },
+    {
+      "description": "Replika tego samego mopa oraz wiadra, które trzymała Bekran Zaft podczas bycia świadkiem transmutacji pozostałości Archimediana Javi przez Lavosa. Jak też szczegółowo opisał Drusus Leverian.",
+      "name": "Wyposażenie Bekran Zafty",
+      "code": "pl"
+    },
+    {
+      "description": "Uma réplica do próprio esfregão e balde que Bekran Zaft usava no momento em que testemunhou a transmutação dos restos mortais do Arquimediano Javi, realizada por Lavos, conforme descrito por Drusus Leverian.",
+      "name": "Equipamento de Bekran Zaft",
+      "code": "pt"
+    },
+    {
+      "description": "Bekran Zaft 當時見證 Lavos 轉換哲士 Javi 的遺骸時，她手中握著的拖把和水桶的複製品。正如 Drusus Leverian 所詳述。",
+      "name": "Bekran Zaft 的裝備",
+      "code": "tc"
+    },
+    {
+      "description": "แบบจำลองของไม้ถูพื้นและถังที่ Bekran Zaft ถืออยู่ในตอนที่เห็น Lavos ทำการเปลี่ยนสภาพซากอาร์คิมีดีน Javi ตามที่ Drusus Leverian ได้อธิบายรายละเอียดเอาไว้",
+      "name": "อุปกรณ์ของ Bekran Zaft",
+      "code": "th"
+    },
+    {
+      "description": "Arşimet Javi kalıntılarının Lavos tarafından dönüştürülmesine tanık olan Bekran Zaft'ın elindeki paspas ve kovanın bir kopyası. Drusus Leverian tarafından detaylı bilgi verilmiştir.",
+      "name": "Bekran Zaft'ın Ekipmanları",
+      "code": "tr"
+    },
+    {
+      "description": "Копія тих самих швабри й відра, що Бекран Зафт тримала, коли споглядала перетворення решток архімедівця Яві Лавосом. За словами Друза Леверія.",
+      "name": "Спорядження Бекран Зафт",
+      "code": "uk"
+    }
+  ]
+}

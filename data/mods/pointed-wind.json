@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pointed-wind-8f85db50c6.jpg",
+  "name": "Pointed Wind",
+  "description": "Spiral strikes, lifting combos.",
+  "languages": [
+    {
+      "description": [
+        "Wirbelschläge, hochhebende Kombos."
+      ],
+      "name": "Schnittiger Wind",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Frappes en spirale, combos portants."
+      ],
+      "name": "Vent Tranchant",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Colpi a spirale, combo aeree."
+      ],
+      "name": "Pointed Wind",
+      "code": "it"
+    },
+    {
+      "description": [
+        "나선형으로 위로 올려치는 연속기입니다."
+      ],
+      "name": "포인티드 윈드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Ataques en espiral, combos de levantamiento."
+      ],
+      "name": "Viento punzante",
+      "code": "es"
+    },
+    {
+      "description": [
+        "旋转打击，不断上升的连段。"
+      ],
+      "name": "尖锐之风",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Спиральные атаки, восходящие комбо."
+      ],
+      "name": "Острый ветер",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ねじり込むような攻撃と打ち上げコンボ"
+      ],
+      "name": "Pointed Wind",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Spiralne uderzenie, kombinacje wybijające."
+      ],
+      "name": "Spiczasty Wiatr",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ataques espirais, combos que levantam o inimigo."
+      ],
+      "name": "Pointed Wind",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "旋轉打擊，不斷上升的連段。"
+      ],
+      "name": "尖銳之風",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "โจมตีแบบหมุนตัวและเงื้อกริชขึ้นทำคอมโบ"
+      ],
+      "name": "Pointed Wind",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Dönüşlü saldırılar ve havalandırıcı kombolar"
+      ],
+      "name": "Pointed Wind",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Обертові удари з висхідною серією."
+      ],
+      "name": "Скеровний вітер",
+      "code": "uk"
+    }
+  ]
+}

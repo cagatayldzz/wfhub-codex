@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetKahl",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kahl-beacon-6497e71f81.png",
+  "name": "Kahl Beacon",
+  "description": "Calls Kahl and a retinue of his Brothers to assist you for a limited time. Subsequent uses heal Kahl's squad and add an additional Brother.",
+  "languages": [
+    {
+      "description": "Ruft für eine begrenzte Zeit Kahl und seine Brüder zu Hilfe. Weitere Einsätze heilen Kahl Truppe und fügen einen zusätzlichen Bruder hinzu.",
+      "name": "Kahl Signalfeuer",
+      "code": "de"
+    },
+    {
+      "description": "Appelez Kahl et ses Frères pour vous épauler au combat pendant une durée limitée. Les utilisations suivantes soignent l'escouade de Kahl et appellent un Frère supplémentaire.",
+      "name": "Balise de Kahl",
+      "code": "fr"
+    },
+    {
+      "description": "Chiama Kahl e un seguito dei suoi Fratelli ad assisterti per un periodo di tempo limitato. Gli utilizzi successivi curano la squadra di Kahl e aggiungono un ulteriore Fratello.",
+      "name": "Richiamo Kahl",
+      "code": "it"
+    },
+    {
+      "description": "칼과 그를 수행하는 형제들을 불러내 제한된 시간 동안 사용자를 보조합니다. 소환 중에 사용 시 칼의 분대를 치유하고 한 명의 형제를 추가로 배치합니다.",
+      "name": "칼 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Llama a Kahl y a una comitiva de sus hermanos para que te ayuden durante un tiempo limitado. Los usos posteriores curan al escuadrón de Kahl y agregan un hermano adicional.",
+      "name": "Baliza Kahl",
+      "code": "es"
+    },
+    {
+      "description": "召唤卡尔和他兄弟的随从们在限定的时间内协助你战斗。后续使用可以治疗卡尔的小队并为你增加一个额外的兄弟。",
+      "name": "卡尔信标",
+      "code": "zh"
+    },
+    {
+      "description": "Призывает Кахла и его братьев помочь вам в течение ограниченного времени. Последующие применения исцеляют отряд Кахла и добавляют ещё одного брата.",
+      "name": "Маяк Кахла",
+      "code": "ru"
+    },
+    {
+      "description": "Kahlと彼の兄弟達を一時的な援軍として呼ぶ。その後使用するとKahlの分隊が回復し、追加の兄弟が応戦する。",
+      "name": "Kahlビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Przyzywa Kahla wraz z oddziałem jego Braci, by wspomogli Cię w walce przez krótki czas. Kolejne użycia Boi uleczają oddział Kahla i przyzywają dodatkowego Brata.",
+      "name": "Wezwanie Kahla",
+      "code": "pl"
+    },
+    {
+      "description": "Convoque o Kahl e uma comitiva de seus Irmãos para ajudá-lo por um tempo limitado. Usos subsequentes curarão o Esquadrão do Kahl e adicionarão um Irmão ao grupo.",
+      "name": "Sinalizador do Kahl",
+      "code": "pt"
+    },
+    {
+      "description": "呼叫 Kahl 和他的隨從兄弟們在有限的時間內前來協助你。再次使用將治癒 Kahl 的小隊並新增多一名兄弟。",
+      "name": "Kahl 信標",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เรียก Kahl และกลุ่มผู้ติดตามพี่น้องของเขาให้มาช่วยต่อสู้ในเวลาจำกัด หลังจากนั้นก็ใช้มันฟื้นฟูพลังชีวิตให้กับทีมของ Kahl และเรียกพี่น้องมาเพิ่มได้อีกหนึ่งคน",
+      "name": "บีคอน Kahl",
+      "code": "th"
+    },
+    {
+      "description": "Sınırlı bir süre için Kahl'ı ve Kardeşlerinden birini çağırır. Sonraki kullanımlar Kahl'ın takımını iyileştirir ve ilave bir Kardeş ekler.",
+      "name": "Kahl İşareti",
+      "code": "tr"
+    },
+    {
+      "description": "Прикликає Кала та його братів вам на допомогу на певний час. Наступні використання зцілюють загін Кала й прикликають додаткового брата.",
+      "name": "Маяк Кала",
+      "code": "uk"
+    }
+  ]
+}

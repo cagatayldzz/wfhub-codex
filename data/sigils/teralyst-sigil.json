@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TeralystSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/teralyst-sigil-624060ae04.png",
+  "name": "Teralyst Sigil",
+  "description": "A sigil depicting a Sentient Teralyst.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das einen Sentient Teralyst darstellt.",
+      "name": "Siegel: Teralyst",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant un Teralyste Sentient.",
+      "name": "Sceau de Teralyste",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra il Sentient Teralyst.",
+      "name": "Sigillo Teralyst",
+      "code": "it"
+    },
+    {
+      "description": "센티언트 테랄리스트가 묘사된 시질입니다.",
+      "name": "테랄리스트 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa un consciente Terralista.",
+      "name": "Sello Terralista",
+      "code": "es"
+    },
+    {
+      "description": "描绘 Sentient 兆力使的纹章。",
+      "name": "兆力使纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, изображающий Владеющего Разумом Тералиста.",
+      "name": "Сигил: Тералист",
+      "code": "ru"
+    },
+    {
+      "description": "テラリストセンティエントが表示されたシジル。",
+      "name": "テラリスト シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak z wizerunkiem Świadomego Teralyst.",
+      "name": "Znak Teralyst",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando um Sentient Teralista.",
+      "name": "Brasão: Teralista",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Sentient 兆力使的紋章。",
+      "name": "兆力使紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Sentient Teralyst",
+      "name": "เครื่องหมาย: Teralyst",
+      "code": "th"
+    },
+    {
+      "description": "Teralyst Sentient'ini simgeleyen bir mühür.",
+      "name": "Teralyst Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням свідомого-тералиста.",
+      "name": "Сиґіл «Тералист»",
+      "code": "uk"
+    }
+  ]
+}

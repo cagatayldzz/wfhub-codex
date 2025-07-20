@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetBlackHole",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vortex-ebadd098b6.png",
+  "name": "Vortex",
+  "description": "Creates a whirling mass of energy that violently attracts nearby enemies, crushing their atoms into a tiny spec of matter.",
+  "languages": [
+    {
+      "description": "Erschafft eine wirbelnde Energiemasse, die nahe Gegner mit Gewalt anzieht und in die Bestandteile ihrer Atome zerlegt.",
+      "name": "Vortex",
+      "code": "de"
+    },
+    {
+      "description": "Crée une masse d'énergie tourbillonnante qui attire violemment les ennemis proches, broyant leurs atomes en de petites particules.",
+      "name": "Vortex",
+      "code": "fr"
+    },
+    {
+      "description": "Crea una turbinosa massa di energia che attrae violentemente i nemici vicini, comprimendone gli atomi in una minuscola sfera di materia",
+      "name": "Vortex",
+      "code": "it"
+    },
+    {
+      "description": "주변의 적을 강렬하게 빨아들여 원자단위로 조각내버리는 거대한 에너지의 소용돌이를 만들어냅니다.",
+      "name": "볼텍스",
+      "code": "ko"
+    },
+    {
+      "description": "Crea una masa giratoria de energía que atrae enemigos cercanos, aplastando sus átomos en un pequeño fragmento de materia.",
+      "name": "Vórtice",
+      "code": "es"
+    },
+    {
+      "description": "创造一个大规模旋转的能量，猛烈牵引附近敌人，粉碎他们的原子成微小物质。",
+      "name": "旋涡",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт энергетическую воронку, которая с чудовищной силой притягивает врагов, а затем сминает их в крохотный кусочек материи.",
+      "name": "Вихрь",
+      "code": "ru"
+    },
+    {
+      "description": "周囲の敵を引き寄せるエネルギーの塊を生成し、粒子レベルにまで粉砕する。",
+      "name": "Vortex",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy wirujące skupisko energii, która gwałtownie przyciąga pobliskich wrogów, miażdżąc ich ciała w drobne punkty materii.",
+      "name": "Wir",
+      "code": "pl"
+    },
+    {
+      "description": "Cria uma massa de Energia que atrai violentamente inimigos próximos, esmagando seus átomos em um pequeno fragmento de matéria.",
+      "name": "Vórtex",
+      "code": "pt"
+    },
+    {
+      "description": "創造一個大規模旋轉的能量，猛烈牽引附近敵人，粉碎他們的原子成微小物質。",
+      "name": "旋渦",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างมวลพลังงานหมุนวนที่ดูดศัตรูใกล้ ๆ ให้เข้ามา และบดขยี้จนอะตอมในร่างกลายเป็นสสารขนาดเล็ก",
+      "name": "Vortex",
+      "code": "th"
+    },
+    {
+      "description": "Yakın menzildeki düşmanlarının atomlarını bile parçalara ayırabilecek enerji dalgaları yaratır.",
+      "name": "Vortex",
+      "code": "tr"
+    },
+    {
+      "description": "Створює вихор енергії, який затягує ворогів поблизу та зминає в маленький шматок енергії.",
+      "name": "Магнітний вихор",
+      "code": "uk"
+    }
+  ]
+}

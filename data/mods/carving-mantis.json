@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbThreeMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/carving-mantis-9f3298b910.jpg",
+  "name": "Carving Mantis",
+  "description": "Strong slashes and quick stabs that keeps momentum forward.",
+  "languages": [
+    {
+      "description": [
+        "Kraftvolle Schnitte und schnelle Stiche treiben dich voran."
+      ],
+      "name": "Schnitzende Gottesanbeterin",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Des taillades redoutables et des coups rapides permettent de garder le mouvement vers l'avant."
+      ],
+      "name": "Taillade de Mante",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Potenti tagli e rapide pugnalate che non interrompono il momento."
+      ],
+      "name": "Carving Mantis",
+      "code": "it"
+    },
+    {
+      "description": [
+        "강력한 베기와 가속하며 전진하는 찌르기 공격입니다."
+      ],
+      "name": "카빙 맨티스",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Fuertes cortadas con puñaladas rápidas que mantienen el momentum."
+      ],
+      "name": "Cortada de mantis",
+      "code": "es"
+    },
+    {
+      "description": [
+        "强力的斩击和快速的戳刺，保持向前的动量。"
+      ],
+      "name": "雕斩螳螂",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Мощные взмахи и быстрые выпады с движением вперед."
+      ],
+      "name": "Секущий Богомол",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "力強い切り裂きと素早い刺突で前方へと進んでいく。"
+      ],
+      "name": "Carving Mantis",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Silne cięcia i szybkie pchnięcia utrzymują tempo naprzód."
+      ],
+      "name": "Strugana Modliszka",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Fortes cortes e estocadas velozes que mantém o impulso progressivo."
+      ],
+      "name": "Carving Mantis",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "不斷向前並施展強力的斬擊與快速的戳刺。"
+      ],
+      "name": "雕斬螳螂",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ฟาดฟันอย่างแรงและแทงอย่างรวดเร็วเพื่อช่วยให้มีแรงเหวี่ยงไปข้างหน้า"
+      ],
+      "name": "Carving Mantis",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Momentumu ileride tutan güçlü kesikler ve saplama saldırıları."
+      ],
+      "name": "Carving Mantis",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Сильні різальні та проколювальні удари, які підтримують рух уперед."
+      ],
+      "name": "Різьблення богомола",
+      "code": "uk"
+    }
+  ]
+}

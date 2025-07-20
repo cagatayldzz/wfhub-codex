@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SyndicateSMScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vaykor-syandana-db1ce2f39f.png",
+  "name": "Vaykor Syandana",
+  "description": "The Vaykor Syandana flares up whenever the Tenno takes damage.",
+  "languages": [
+    {
+      "description": "Das Vaykor Syandana flackert auf, wenn der Tenno Schaden nimmt.",
+      "name": "Vaykor Syandana",
+      "code": "de"
+    },
+    {
+      "description": "La Syandana Vaykor brille avec plus de force à chaque fois qu'un Tenno subit des dégâts.",
+      "name": "Syandana Vaykor",
+      "code": "fr"
+    },
+    {
+      "description": "I getti della Syandana Vaykor bruciano più forti quando il Tenno subisce danni.",
+      "name": "Syandana Vaykor",
+      "code": "it"
+    },
+    {
+      "description": "베이코어 샨다나의 빛은 텐노가 피해를 입을 때마다 맹렬하게 타오릅니다.",
+      "name": "베이코어 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La syandana Vaykor se enciende cada vez que el tenno recibe daño.",
+      "name": "Syandana Vaykor",
+      "code": "es"
+    },
+    {
+      "description": "勇气披饰会在 Tenno 受到伤害时燃烧起来。",
+      "name": "勇气披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Сандана «Вэйкор» пылает ярче каждый раз, когда Тэнно получает урон.",
+      "name": "Сандана: Вэйкор",
+      "code": "ru"
+    },
+    {
+      "description": "Vaykorシャンダナの輝きは、テンノがダメージを受けるたびに燃え上がる。",
+      "name": "Vaykor シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana Vaykor rozjaśnia się, kiedy gracz zostanie zraniony.",
+      "name": "Syandana Vaykor",
+      "code": "pl"
+    },
+    {
+      "description": "A Syandana Vaykor reluz cada vez que o Tenno recebe dano.",
+      "name": "Syandana: Vaykor",
+      "code": "pt"
+    },
+    {
+      "description": "勇氣披飾會在 Tenno 受到傷害時燃燒起來。",
+      "name": "勇氣披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานา Vaykor จะลุกเป็นไฟเมื่อใดก็ตามที่ Tenno ได้รับความเสียหาย",
+      "name": "ไซอันดานา Vaykor",
+      "code": "th"
+    },
+    {
+      "description": "Vaykor Syandana Tenno’nun her hasar alışında ışık saçar.",
+      "name": "Vaykor Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Спалахує, коли тенно отримує пошкодження.",
+      "name": "Сяндана «Вейкор»",
+      "code": "uk"
+    }
+  ]
+}

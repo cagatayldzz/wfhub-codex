@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEndlessItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tertium-5da207a45d.png",
+  "name": "Tertium",
+  "description": "Its power lies in its potential.\n\nLocation: Duviri",
+  "languages": [
+    {
+      "description": "Seine Macht liegt in seinem Potenzial.\n\nQuelle: Duviri",
+      "name": "Tertium",
+      "code": "de"
+    },
+    {
+      "description": "Sa puissance réside dans son potentiel.\n\nLieu: Duviri",
+      "name": "Tertium",
+      "code": "fr"
+    },
+    {
+      "description": "Il suo potere risiede nel suo stesso potenziale.\n\nPosizione: Duviri",
+      "name": "Tertium",
+      "code": "it"
+    },
+    {
+      "description": "이 물질의 힘은 그 잠재력 안에 내재되어 있습니다.\n\n획득 가능 장소: 두비리",
+      "name": "테르티움",
+      "code": "ko"
+    },
+    {
+      "description": "Su poder radica en su potencial.\n\nUbicación: Duviri",
+      "name": "Tertium",
+      "code": "es"
+    },
+    {
+      "description": "它的力量在于它的潜能。\n\n获取地点：双衍王境",
+      "name": "三形",
+      "code": "zh"
+    },
+    {
+      "description": "Его сила заключается в его потенциале.\n\nМестонахождение: Дувири",
+      "name": "Тертий",
+      "code": "ru"
+    },
+    {
+      "description": "その力は可能性にある。\n\n場所：デュヴィリ",
+      "name": "テルチウム",
+      "code": "ja"
+    },
+    {
+      "description": "Potęga tkwi w potencjale.\n\nPołożenie: Duviri",
+      "name": "Tert",
+      "code": "pl"
+    },
+    {
+      "description": "O poder dele está no próprio potencial.\n\nLocalização: Duviri",
+      "name": "Tértio",
+      "code": "pt"
+    },
+    {
+      "description": "它的力量在於它的潛力。\n\n地點：渡域",
+      "name": "三衍",
+      "code": "tc"
+    },
+    {
+      "description": "พลังของมันขึ้นอยู่กับศักยภาพที่มี\n\nแหล่งที่พบ: Duviri",
+      "name": "เทอร์เทียม",
+      "code": "th"
+    },
+    {
+      "description": "Gücü potansiyelinde yatıyor.\n\nKonum: Duviri",
+      "name": "Tertium",
+      "code": "tr"
+    },
+    {
+      "description": "Його сила криється в його можливостях.\n\nМожна здобути в Дувірі.",
+      "name": "Терцій",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/WaterFightBucks",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nakak-pearls-752f2b57d5.png",
+  "name": "Nakak Pearls",
+  "description": "Nakak in Cetus would probably like these. Maybe she'll trade something special for them.",
+  "languages": [
+    {
+      "description": "Nakak in Cetus würden sie vermutlich gefallen. Vielleicht tauscht sie sie für etwas Besonderes.",
+      "name": "Nakak-Perlen",
+      "code": "de"
+    },
+    {
+      "description": "Nakak à Cetus sera probablement intéressée. Peut-être qu'elle proposera quelque chose de spécial pour les obtenir.",
+      "name": "Perles de Nakak",
+      "code": "fr"
+    },
+    {
+      "description": "A Nakak, su Cetus, potrebbero piacere queste. Forse ti darà qualcosa in cambio.",
+      "name": "Perle Nakak",
+      "code": "it"
+    },
+    {
+      "description": "시터스의 나칵이 좋아할 만한 것들입니다. 어쩌면 뭔가 특별한 것으로 교환해 줄 지도요.",
+      "name": "나칵 진주",
+      "code": "ko"
+    },
+    {
+      "description": "Probablemente le gusten a Nakak en Cetus. Tal vez te intercambie algo especial por ellas.",
+      "name": "Perlas Nakak",
+      "code": "es"
+    },
+    {
+      "description": "希图斯的娜卡可能会喜欢这个。她可能会拿些特别的东西来和你交易。",
+      "name": "娜卡珍珠",
+      "code": "zh"
+    },
+    {
+      "description": "Наверняка они понравятся Накак из Цетуса. Возможно, она обменяет их на что-нибудь особенное.",
+      "name": "Жемчужины Накак",
+      "code": "ru"
+    },
+    {
+      "description": "シータスにいるNakakはおそらくこれを好むでしょう。そして彼女はこれらの真珠と交換に特別なものをくれるでしょう。",
+      "name": "Nakak真珠",
+      "code": "ja"
+    },
+    {
+      "description": "Na pewno spodobają się Nakak w Cetus. Może wymieni je na coś specjalnego.",
+      "name": "Perły Nakak",
+      "code": "pl"
+    },
+    {
+      "description": "Nakak em Cetus provavelmente gostaria dessas. Talvez ela troque algo especial por elas.",
+      "name": "Pérolas da Nakak",
+      "code": "pt"
+    },
+    {
+      "description": "希圖斯的 Nakak 可能會喜歡這些。她可能會拿一些特別的東西來和你交易。",
+      "name": "Nakak 珍珠",
+      "code": "tc"
+    },
+    {
+      "description": "Nakak ในซีตัสน่าจะชอบสิ่งเหล่านี้ บางทีนางอาจจะแลกเปลี่ยนบางสิ่งที่พิเศษสำหรับพวกมัน",
+      "name": "ไข่มุกของ Nakak",
+      "code": "th"
+    },
+    {
+      "description": "Cetus'taki Nakak muhtemelen bunları severdi. Belki bunların karşılığında özel bir şeyler takas eder.",
+      "name": "Nakak İncileri",
+      "code": "tr"
+    },
+    {
+      "description": "Імовірно, вони сподобаються Накак у Цетусі. Можливо, настільки, що вона обміняє їх на щось особливе.",
+      "name": "Перлина Накак",
+      "code": "uk"
+    }
+  ]
+}

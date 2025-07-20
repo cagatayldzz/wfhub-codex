@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lex-815d312d76.png",
+  "name": "Lex",
+  "description": "The Lex is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.",
+  "languages": [
+    {
+      "description": "Die Lex ist eine großkalibrige Pistole mit einer niedrigeren Feuerrate und kleinem Magazin. Äußerst effektiv über große Distanz.",
+      "name": "Lex",
+      "code": "de"
+    },
+    {
+      "description": "Bien que le Lex possède une faible cadence de tir et un chargeur de petite taille, il est très précis et offre une puissance de feu dévastatrice. Très efficace à longue portée.",
+      "name": "Lex",
+      "code": "fr"
+    },
+    {
+      "description": "La Lex è una pistola carente sul fronte Cadenza di Tiro e Capacità Caricatore, ma che compensa con la potenza e precisione dei suoi colpi. Molto efficace a lunga distanza.",
+      "name": "Lex",
+      "code": "it"
+    },
+    {
+      "description": "렉스는 강력하고 정확도가 높지만 연사력과 적은 탄창 용량을 가지고 있는 권총입니다. 장거리에서 매우 효과적입니다.",
+      "name": "렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La Lex es una pistola de gran potencia y precisión que tiene una baja cadencia de fuego y un cargador pequeño. Muy eficiente a largo alcance.",
+      "name": "Lex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LEX）雷克斯是大火力的手枪，射速和弹匣容量都很低，但每发伤害很高。",
+      "name": "雷克斯",
+      "code": "zh"
+    },
+    {
+      "description": "Лекс — мощный, высокоточный пистолет с малой скорострельностью и размером магазина. Очень эффективен на дальних дистанциях.",
+      "name": "Лекс",
+      "code": "ru"
+    },
+    {
+      "description": "発射速度と装弾数を犠牲に、単発の威力と精度を特化させたピストル。遠距離戦での運用が好まれる。",
+      "name": "Lex",
+      "code": "ja"
+    },
+    {
+      "description": "Lex jest potężnym, celnym pistoletem o niskiej szybkostrzelności i małym magazynku. Bardzo skuteczny na daleki zasięg.",
+      "name": "Lex",
+      "code": "pl"
+    },
+    {
+      "description": "A Lex é uma pistola de alta potência que apresenta menor Cadência de Tiro e menor tamanho do carregador, porém, isto é compensado pelo maior dano por tiro.",
+      "name": "Lex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LEX）雷克斯是一把強大且精準的手槍，雖然有著射速慢和彈匣小的缺點，但在遠距離作戰時非常出色。",
+      "name": "雷克斯",
+      "code": "tc"
+    },
+    {
+      "description": "Lex เป็นปืนพกที่ทรงพลังและแม่นยำ มีอัตราการยิงและมีความจุในแม็กกาซีนต่ำ หวังผลได้ดีในการยิงระยะไกล",
+      "name": "Lex",
+      "code": "th"
+    },
+    {
+      "description": "Lex düşük atış hızına ve şarjör hacmine sahip, güçlü, isabetli bir tabancadır. Uzun menzilde çok etkilidir.",
+      "name": "Lex",
+      "code": "tr"
+    },
+    {
+      "description": "Потужний і точний пістолет. Має низьку швидкострільність і малу місткість магазину. Дуже дієвий на великих відстанях.",
+      "name": "Лекс",
+      "code": "uk"
+    }
+  ]
+}

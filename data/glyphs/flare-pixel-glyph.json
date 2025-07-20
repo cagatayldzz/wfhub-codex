@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelFlare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flare-pixel-glyph-174d869107.png",
+  "name": "Flare Pixel Glyph",
+  "description": "Celebrate 1999's distinctive screen style with this glyph portraying Flare, the Temple protoframe!",
+  "languages": [
+    {
+      "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Flare, den Temple-Protoframe, darstellt!",
+      "name": "Glyphe: Flare Pixel",
+      "code": "de"
+    },
+    {
+      "description": "Célébrez le style distinctif de 1999 avec ce Glyphe représentant Flare, la Protoframe de Temple!",
+      "name": "Glyphe Pixel Flare",
+      "code": "fr"
+    },
+    {
+      "description": "Celebra lo stile dello schermo tipico del 1999 con questo glifo che raffigura Flare, il protoframe di Temple!",
+      "name": "Glifo Flare Pixel",
+      "code": "it"
+    },
+    {
+      "description": "템플의 프로토프레임인 플레어를 묘사한 이 글리프로 1999의 독특한 스타일을 축하해 보세요!",
+      "name": "플레어 픽셀 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "¡Celebra el estilo característico de 1999 con este glifo que representa a Flare, el protoframe de Temple!",
+      "name": "Glifo de Flare Pixelado",
+      "code": "es"
+    },
+    {
+      "description": "通过描绘着 Temple 的原型战甲——弗莱尔的浮印来庆祝 1999 年独特的银幕风格！",
+      "name": "弗莱尔像素浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Отпразднуйте характерный стиль 1999 года с этим глифом, изображающим Флэр, протофрейма Темпл!",
+      "name": "Глиф: Пиксельн. Флэр",
+      "code": "ru"
+    },
+    {
+      "description": "1999の独特なスタイルをTemple PROTOFRAMEのFlareを描いたグリフで祝おう！",
+      "name": "Flare ピクセル グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiającym Flare'a, Protoframe'a Temple'a!",
+      "name": "Glif Pikselowy Flare",
+      "code": "pl"
+    },
+    {
+      "description": "Celebre o estilo característico de 1999 com este glifo retratando o Flare, o Protoframe do Temple!",
+      "name": "Glifo: Flare Pixelado",
+      "code": "pt"
+    },
+    {
+      "description": "透過 Temple 的原型 Warframe──弗烈爾來懷念 1999 年的獨特螢幕風格！",
+      "name": "弗烈爾畫素浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ระลึกถึงรูปแบบหน้าจอที่ดูโดดเด่นในปี 1999 ด้วยภาพของ Flare Protoframe ของ Temple",
+      "name": "ภาพสัญลักษณ์ Flare Pixel",
+      "code": "th"
+    },
+    {
+      "description": "Flare, yani Temple protoframe'i tasvir eden bu glif ile 1999'un kendine özgü ekran stilini kutla!",
+      "name": "Flare Piksel Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Вшануйте характерні екрани 1999 року за допомогою гліфа із зображенням Флер — протофрейма для Храма!",
+      "name": "Гліф «Піксельна Флер»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeMercuryEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path-mercury-3f0bfe00e9.png",
+  "name": "The Steel Path: Mercury",
+  "description": "Awarded for completing The Steel Path: Mercury.",
+  "languages": [
+    {
+      "description": "Verliehen für das Beenden des Stählernen Pfads auf dem Merkur.",
+      "name": "Der Stählerne Pfad: Merkur",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour avoir terminé la Route de l'Acier: Mercure.",
+      "name": "La Route de l'Acier: Mercure",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per il completamento de Il Percorso d'Acciaio: Mercurio.",
+      "name": "Il Percorso d'Acciaio: Mercurio",
+      "code": "it"
+    },
+    {
+      "description": "수성에서 강철의 길을 완료할 시 수여되는 보상입니다.",
+      "name": "강철의 길: 수성",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por completar «El Camino de Acero: Mercurio».",
+      "name": "El Camino de Acero: Mercurio",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些完成「钢铁之路：水星」的玩家。",
+      "name": "钢铁之路：水星",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за прохождение Стального Пути «Меркурий».",
+      "name": "Стальной путь: Меркурий",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：水星」を完了すると授与される。",
+      "name": "鋼の道のり：水星",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za ukończenie Ścieżki Stali: Merkurego.",
+      "name": "Ścieżka Stali: Merkury",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido ao concluir o Percurso de Aço: Mercúrio.",
+      "name": "Percurso de Aço: Mercúrio",
+      "code": "pt"
+    },
+    {
+      "description": "完成鋼韌之道：水星而頒發的表情動作。",
+      "name": "鋼韌之道：水星",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการจบภารกิจเส้นทางเหล็กกล้า: ดาวพุธ",
+      "name": "เส้นทางเหล็กกล้า: ดาวพุธ",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path: Merkür tamamlama ödülü.",
+      "name": "Steel Path: Merkür",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за виконання всіх завдань на Меркурії в режимі «Шлях сталі».",
+      "name": "Шлях сталі: Меркурій",
+      "code": "uk"
+    }
+  ]
+}

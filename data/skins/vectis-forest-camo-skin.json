@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestVectis",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vectis-forest-camo-skin-ac35300bc3.png",
+  "name": "Vectis Forest-Camo Skin",
+  "description": "Forest camouflage skin for the Vectis.",
+  "languages": [
+    {
+      "description": "Waldtarnung-Skin für die Vectis.",
+      "name": "Vectis-Skin: Waldtarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Forêt pour le Vectis.",
+      "name": "Aspect Vectis Camouflage Forêt",
+      "code": "fr"
+    },
+    {
+      "description": "Skin mimetica forestale per il Vectis.",
+      "name": "Skin Vectis Forest-Camo",
+      "code": "it"
+    },
+    {
+      "description": "벡티스를 위한 숲 위장 스킨입니다.",
+      "name": "벡티스 포레스트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje de bosque para el Vectis.",
+      "name": "Diseño Camuflaje de bosque de Vectis",
+      "code": "es"
+    },
+    {
+      "description": "给守望者使用的森林伪装迷彩。",
+      "name": "守望者 森林迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Лесной камуфляж для Вектиса.",
+      "name": "Скин Вектиса: Лесной камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "VECTIS用森林迷彩スキン",
+      "name": "Vectis Forest-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Leśny kamuflaż dla karabinu Vectis.",
+      "name": "Vectis: Skórka Kamuflaż Leśny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem florestal para a Vectis.",
+      "name": "Vectis: Skin Camuflagem Florestal",
+      "code": "pt"
+    },
+    {
+      "description": "給守望者使用的森林偽裝迷彩。",
+      "name": "守望者 森林迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางป่าสำหรับ Vectis",
+      "name": "สกิน Vectis Forest-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Vectis için orman kamuflaj skin",
+      "name": "Vectis Orman-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд із лісовим камуфляжем для снайперської гвинтівки «Вектис».",
+      "name": "Вигляд «Лісовий камуфляж» для Вектиса",
+      "code": "uk"
+    }
+  ]
+}

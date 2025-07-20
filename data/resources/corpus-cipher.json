@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Research/CipherPlus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corpus-cipher-a346985bb0.png",
+  "name": "Corpus Cipher",
+  "description": "A cipher used to decode Corpus intel. Crafting component required to create a CORPUS VOID KEY",
+  "languages": [
+    {
+      "description": "Ein Dechiffrierer, der benutzt wird, um Corpus Aufklärungsdaten zu entschlüsseln. Eine Herstellungskomponente, die benötigt wird, um einen CORPUS VOID-SCHLÜSSEL zu bauen.",
+      "name": "Corpus Dechiffrierer",
+      "code": "de"
+    },
+    {
+      "description": "Un décodeur utilisé pour déchiffrer les renseignements Corpus. Composant nécessaire pour créer une CLÉ DU NÉANT CORPUS",
+      "name": "Décodeur Corpus",
+      "code": "fr"
+    },
+    {
+      "description": "Un cipher usato per decifrare informazioni Corpus. Componente richiesto per creare una VOID KEY CORPUS.",
+      "name": "Cipher Corpus",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 보이드 키를 만들기 위해서 필요한 재료입니다. 코퍼스의 정보를 해독하기 위한 정보를 담고 있습니다.",
+      "name": "코퍼스 해독기",
+      "code": "ko"
+    },
+    {
+      "description": "Un cifrador usado para decodificar información corpus. Componente requerido para construir una LLAVE DEL VACÍO CORPUS",
+      "name": "Cifrador corpus",
+      "code": "es"
+    },
+    {
+      "description": "一种用来破解Corpus 电脑密码的解码器。制造CORPUS 虚空钥匙组件所必要的组件。",
+      "name": "Corpus 解码器",
+      "code": "zh"
+    },
+    {
+      "description": "Дешифратор, используемый для декодирования разведданных Корпуса. Один из компонентов, необходимых для создания ключа бездны Корпуса.",
+      "name": "Дешифратор Корпуса",
+      "code": "ru"
+    },
+    {
+      "description": "コーパスの情報をデコードするために用いられるサイファー。 コーパス製 VOID キーの製作に必要。",
+      "name": "コーパス サイファー",
+      "code": "ja"
+    },
+    {
+      "description": "Dekoder służący łamaniu zabezpieczeń Corpus. Wymagany do stworzenia KLUCZA PUSTKI CORPUS",
+      "name": "Dekoder Corpus",
+      "code": "pl"
+    },
+    {
+      "description": "Um decodificador usado para decifrar Inteligência Corpus. Criando componente requerido para construir uma CHAVE DO VOID: CORPUS.",
+      "name": "Decodificador Corpus",
+      "code": "pt"
+    },
+    {
+      "description": "一種用來破解 Corpus 電腦密碼的解碼器。製造 CORPUS 虛空鑰匙組件所必要的組件。",
+      "name": "Corpus 破解器",
+      "code": "tc"
+    },
+    {
+      "description": "ไซเฟอร์สำหรับใช้ถอดรหัสข้อมูลภายในของ Corpus เป็นส่วนประกอบที่จำเป็นในการสร้างกุญแจวอยด์ CORPUS",
+      "name": "ไซเฟอร์ Corpus",
+      "code": "th"
+    },
+    {
+      "description": "Corpus istihbaratını çözmek için kullanılan şifre. Yapılan bileşenler ile CORPUS anahtarı oluşturulması gereklidir",
+      "name": "Corpus Şifresi",
+      "code": "tr"
+    },
+    {
+      "description": "Шифрувальник необхідний для розкодування розвідданих Корпусу. Є необхідним складником для створення КЛЮЧА ПОРОЖНЕЧІ КОРПУСУ.",
+      "name": "Шифрувальник Корпусу",
+      "code": "uk"
+    }
+  ]
+}

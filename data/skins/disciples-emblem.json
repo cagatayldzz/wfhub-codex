@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/disciple's-emblem-fbfeeb0fdf.png",
+  "name": "Disciple's Emblem",
+  "description": "This emblem signifies the wearer as being a Disciple within the Tenno ranks.",
+  "languages": [
+    {
+      "description": "Dieses Abzeichen kennzeichnet den Träger als Disciple unter den Tenno Rängen.",
+      "name": "Emblem: Disciple",
+      "code": "de"
+    },
+    {
+      "description": "Ce Badge désigne le porteur comme étant un Disciple parmi les Tennos.",
+      "name": "Badge de Disciple",
+      "code": "fr"
+    },
+    {
+      "description": "Questo emblema identifica chi la indossa come Discepolo all'interno dei ranghi dei Tenno.",
+      "name": "Emblema Disciple",
+      "code": "it"
+    },
+    {
+      "description": "이 엠블럼은 착용자가 디사이플 랭크의 텐노임을 상징합니다.",
+      "name": "디사이플의 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Este emblema indica que el portador es un Discípulo entre los rangos tenno.",
+      "name": "Emblema de Discípulo",
+      "code": "es"
+    },
+    {
+      "description": "这枚徽章代表着佩戴者是 Tenno 中的门徒阶级。",
+      "name": "门徒徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот значок идентифицирует носителя как ученика в иерархии Тэнно.",
+      "name": "Значок: Ученик",
+      "code": "ru"
+    },
+    {
+      "description": "ディサイプルランクに位置する戦士のみが身に付けることを許されたエンブレム。",
+      "name": "ディサイプル エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Ten emblemat wyróżnia noszącą go osobę jako Fundatora o randze 'Disciple'.",
+      "name": "Emblemat: Adept",
+      "code": "pl"
+    },
+    {
+      "description": "Este emblema representa o Tenno como Discípulo entre os Escalões Tenno.",
+      "name": "Emblema: Discípulo",
+      "code": "pt"
+    },
+    {
+      "description": "這枚徽章代表著佩戴者是 Tenno 中的門徒階級。",
+      "name": "門徒徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์นี้บ่งบอกว่าผู้สวมใส่อยู่ในฐานะลูกศิษย์ในการจัดอันดับของ Tenno",
+      "name": "ตราสัญลักษณ์: ลูกศิษย์",
+      "code": "th"
+    },
+    {
+      "description": "Bu amblemi, takan kişinin Tenno'lar arasında Öğrenci seviyesinde olduğunu gösterir.",
+      "name": "Öğrenci Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Власник цієї відзнаки є Послідовником у лавах тенно.",
+      "name": "Відзнака «Послідовник»",
+      "code": "uk"
+    }
+  ]
+}

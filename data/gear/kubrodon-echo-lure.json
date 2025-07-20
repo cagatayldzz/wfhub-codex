@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/LegendaryKubrowLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kubrodon-echo-lure-1f4dfc1362.png",
+  "name": "Kubrodon Echo-Lure",
+  "description": "Entice and attract nearby Kubrodon with life-like animal calls. The Kubrodon is most often found around the Craters in Orb Vallis.",
+  "languages": [
+    {
+      "description": "Locke Kubrodons in der Nähe an, mit diesen lebensechten Lockrufen. Kubrodons werden meistens in der Nähe des Kraters im Orbis-Tal gefunden. ",
+      "name": "Echo-Köder: Kubrodon",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Kubrodons se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes. Les Kubrodons sont majoritairement trouvés près des Cratères de la Vallée Orbis.",
+      "name": "Écho-Leurre Kubrodon",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Kubrodonti vicini con dei richiami simili ai suoi. I Kubrodonti si trovano più frequentemente attorno ai Crateri di Orb Vallis.",
+      "name": "Richiamo Kubrodonte",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 쿠브로돈을 꾀어 유인합니다. 쿠브로돈은 오브 협곡의 분화구 주변에서 자주 발견됩니다.",
+      "name": "쿠브로돈 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a kubrodones cercanos con llamados de animales similares a los naturales. Los kubrodones son encontrados más frecuentemente alrededor de los cráteres en los Valles del Orbe.",
+      "name": "Eco-señuelo para Kubrodon",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的库狛顿。库狛顿最常在奥布山谷的陨石坑周围被发现。",
+      "name": "库狛顿回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Кубродонов поблизости, издавая идентичные настоящим животные зовы. Кубродоны чаще всего встречаются около кратеров в Долине Сфер.",
+      "name": "Эхо-Манок Для Кубродона",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのクブロドンを誘導する。 クブロドンはオーブ峡谷のクレーターのあたりで最もよく見られる。",
+      "name": "クブロドン Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskiego Kubrodona, imitując odgłosy zwierząt. Kubrodon jest najczęściej spotykany w okolicach Kraterów w Orb Vallis.",
+      "name": "Echo-Wabik Kubrodona",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Kubrodons próximos utilizando sons semelhantes aos dos animais. Os Kubrodons são encontrados com frequência ao redor das Crateras do Vallis das Orbes.",
+      "name": "Ecoisca de Kubrodon",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的庫狛頓。通常可以在奧布山谷的隕石坑周圍發現庫狛頓。",
+      "name": "庫狛頓迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องเลียนแบบเสียงร้องเสมือนจริงเพื่อหลอกล่อและดึงดูด Kubrodon ที่อยู่ใกล้ ซึ่งจะพบ Kubrodon ได้บ่อยที่สุดบริเวณปล่องภูเขาไฟในออร์บวัลลิส",
+      "name": "เครื่องเลียนแบบเสียง Kubrodon",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Kubrodonları gerçeğine çok benzeyen hayvan sesleriyle yanına çek. Kubrodonlar genelde Orb Vallis'in kraterleri etrafında dolanırlar. ",
+      "name": "Kubrodon Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює кубродонів поблизу реалістичною імітацією їхнього поклику. Кубродони найчастіше водяться поруч із кратерами в Долині Куль.",
+      "name": "Еховабик на кубродона",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20SonGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/son-tennobaum-glyph-dfc509f26f.png",
+  "name": "Son Tennobaum Glyph",
+  "description": "All through the Drift, not a creature was stirring, not even a Predasite.",
+  "languages": [
+    {
+      "description": "Da regte sich in der Drift, niemand und nichts, nicht mal ein Predasit.",
+      "name": "Glyphe: Sohn Tennobaum",
+      "code": "de"
+    },
+    {
+      "description": "Et pas une âme ne bougeait ce soir-là dans le Puy, pas même un Prédasite.",
+      "name": "Glyphe Tennobaum du Fils",
+      "code": "fr"
+    },
+    {
+      "description": "In tutto il Drift, non si sentiva nessun movimento, nemmeno quello di un Predasite.",
+      "name": "Glifo Figlio Tennobaum",
+      "code": "it"
+    },
+    {
+      "description": "온 사방이 고요한 퇴적지 안, 움직이는 생물이라고는 프레데사이트 한 마리조차도 없네요.",
+      "name": "아들 텐노바움 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "En toda Deriva no se escuchaba ni un solo ruidito, ni tan siquiera el de un predásito.",
+      "name": "Glifo Tennobaum de Hijo",
+      "code": "es"
+    },
+    {
+      "description": "在整个魔胎之境，没有一个生物在萌动，甚至连一只扑猎达赛都没有。",
+      "name": "“儿子” Tennobaum 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Полночную тишь Дрейфа потревожить не смеет даже юркий Придазит.",
+      "name": "Глиф: Тэннобаум с сыном",
+      "code": "ru"
+    },
+    {
+      "description": "きよしこの夜、カンビオン荒地は静まり、プレデサイトさえも音を立てなくなったころでした。",
+      "name": "Son Tennobaum グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Cichej nocy na Dryfie, żadne zwierze się nie poruszało, nawet Predasyt.",
+      "name": "Glif Tennobaum Syna",
+      "code": "pl"
+    },
+    {
+      "description": "Em toda a Deriva, nenhuma criatura se movia, nem mesmo um Predasite.",
+      "name": "Glifo: Tennobaum do Filho",
+      "code": "pt"
+    },
+    {
+      "description": "橫跨整片魔裔禁地，沒有一個生物在竄動，甚至一隻孤生獸都沒有。",
+      "name": "兒子 Tennobaum 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ตลอดทั่วทั้งดริฟต์ ไม่มีสิ่งมีชีวิตใดเคลื่อนไหว แม้แต่ Predasite",
+      "name": "ภาพสัญลักษณ์ Son Tennobaum",
+      "code": "th"
+    },
+    {
+      "description": "Tüm Drift boyunca hiçbir yaratık kıpırdamıyordu; bir Predasite bile.",
+      "name": "Erkek Evlat Tennobaum Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Жодна істота по всій Кембіонські течії не ворушиться, навіть предазит.",
+      "name": "Гліф «Син „Теннобаум”»",
+      "code": "uk"
+    }
+  ]
+}

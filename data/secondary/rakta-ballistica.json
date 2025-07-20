@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rakta-ballistica-39303c333a.png",
+  "name": "Rakta Ballistica",
+  "description": "This modified ballistica is the weapon of choice used by Red Veil Assassins to take out high-priority marks.",
+  "languages": [
+    {
+      "description": "Diese modifizierte Ballistica wird vornehmlich von Red Veil Attentätern verwendet, um hochrangige Ziele auszuschalten.",
+      "name": "Rakta Ballistica",
+      "code": "de"
+    },
+    {
+      "description": "Cette Ballistica modifiée est l'arme de choix des assassins du Voile Rouge pour se débarrasser des cibles prioritaires.",
+      "name": "Ballistica Rakta",
+      "code": "fr"
+    },
+    {
+      "description": "Questa Ballistica modificata è l'arma preferita dagli assassini del Red Veil per uccidere i bersagli ad alta priorità.",
+      "name": "Rakta Ballistica",
+      "code": "it"
+    },
+    {
+      "description": "이 개조된 발리스티카는 레드 베일의 암살자들이 최우선 목표물을 제거할 때 주로 선택되는 무기입니다.",
+      "name": "락타 발리스티카",
+      "code": "ko"
+    },
+    {
+      "description": "Esta Ballistica modificada es el arma predilecta usada por los asesinos del Velo Rojo para eliminar objetivos altamente prioritarios.",
+      "name": "Ballistica Rakta",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RAKTA BALLISTICA）这把经过改造的布里斯提卡是血色面纱的刺客用来解决高度优先目标的首选武器。",
+      "name": "绯红·布里斯提卡",
+      "code": "zh"
+    },
+    {
+      "description": "Эта модифицированная Баллистика — выбор «Красной Вуали», когда им требуется устранить цель с высоким приоритетом.",
+      "name": "Ракта баллистика",
+      "code": "ru"
+    },
+    {
+      "description": "この改造したBallisticaはレッド・ベールのアサシンたちが要人を暗殺するための得物である。",
+      "name": "Rakta Ballistica",
+      "code": "ja"
+    },
+    {
+      "description": "Ta zmodyfikowana Ballistica jest bronią używaną przez asasynów Czerwonego Woalu do eliminowania celów o wysokim priorytecie.",
+      "name": "Ballistica Rakta",
+      "code": "pl"
+    },
+    {
+      "description": "Esta Ballistica modificada é a arma de escolha usada pelos Assassinos da Véu Rubro para derrubar alvos de alta prioridade.",
+      "name": "Ballistica Rakta",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RAKTA BALLISTICA）這把經過改造的布里斯提卡是血色面紗的刺客用來解決高度優先目標的首選武器。",
+      "name": "緋紅 布里斯提卡",
+      "code": "tc"
+    },
+    {
+      "description": "Ballistica ดัดแปลงนี้เป็นอาวุธที่มือสังหารฝ่าย Red Veil เลือกใช้เพื่อกำจัดเครื่องหมายที่มีลำดับความสำคัญสูง",
+      "name": "Rakta Ballistica",
+      "code": "th"
+    },
+    {
+      "description": "Red Veil Suikastçilerinin özel silahı olan bu geliştirilmiş Ballistica yüksek değerdeki düşmanlar için kullanılır.",
+      "name": "Rakta Ballistica",
+      "code": "tr"
+    },
+    {
+      "description": "Видозмінена Балістика, особлива зброя вбивць «Багряної Вуалі» для усунення високопріоритетних цілей.",
+      "name": "Балістика-ракта",
+      "code": "uk"
+    }
+  ]
+}

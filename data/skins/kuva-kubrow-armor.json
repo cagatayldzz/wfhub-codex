@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/GrineerQueenArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-kubrow-armor-b6b930f380.png",
+  "name": "Kuva Kubrow Armor",
+  "description": "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts.",
+  "languages": [
+    {
+      "description": "Drahks werden für die königliche Gefangenenjagd mit dieser Rüstung ausgestattet.",
+      "name": "Kubrow-Rüstung: Kuva",
+      "code": "de"
+    },
+    {
+      "description": "Les Drahks sont équipés de cette armure pour la chasse au prisonnier royale des Reines.",
+      "name": "Armure de Kubrow Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "I Drahk sono equipaggiati con questa armatura per la regale caccia ai prigionieri delle Regine.",
+      "name": "Armatura Kubrow Kuva",
+      "code": "it"
+    },
+    {
+      "description": "여왕이 친히 시행하는 죄수 사냥 때 쓰이는 드라크들은 이 아머로써 치장되곤 합니다.",
+      "name": "쿠바 쿠브로 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Los Drahks son vestidos con esta armadura para las cacerías reales de los prisioneros de las Reinas.",
+      "name": "Armadura Kuva de kubrow",
+      "code": "es"
+    },
+    {
+      "description": "爪喀需穿戴上这套护甲来参与女皇的皇家猎囚活动。",
+      "name": "赤毒库狛护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Драков украшают этой броней во время проведения охоты на королевских заключённых.",
+      "name": "Броня кубрау: Кува",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア両女帝の雅な捕虜狩りに付き添うドラークが着用するアーマー。",
+      "name": "クバ クブロウアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Drahki przyodziane w tą zbroje uczestniczyły w Królewskich polowaniach na więźniów.",
+      "name": "Zbroja Kubrowa: Kuva",
+      "code": "pl"
+    },
+    {
+      "description": "Drahks se vestem com esta Armadura para a caçada real aos prisioneiros das Rainhas.",
+      "name": "Armadura de Kubrow: Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "爪喀需穿戴上這套護甲來參與女皇的皇家獵囚活動。",
+      "name": "赤毒庫狛護甲",
+      "code": "tc"
+    },
+    {
+      "description": "Drahk สวมเกราะนี้เพื่อตามล่านักโทษของราชินี",
+      "name": "เกราะ Kuva Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Drahk'lar bu zırhı Kraliçelerin esir avlarında giyerlerdi.",
+      "name": "Kuva Kubrow Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Драків одягають в такі обладунки, коли випускають на полювання за королівськими в’язнями Королев.",
+      "name": "Обладунки «Кува» для куброу",
+      "code": "uk"
+    }
+  ]
+}

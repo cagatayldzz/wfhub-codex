@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeMoonItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moon-leader-emblem-21203fe0c4.png",
+  "name": "Moon Leader Emblem",
+  "description": "Designates the wearer as the highest ranking soldier amongst Moon-Tier Clans this era.",
+  "languages": [
+    {
+      "description": "Zeichnet den ranghöchsten Soldaten unter den Mond-Clans in dieser Ära aus.",
+      "name": "Emblem: Mond-Anführer",
+      "code": "de"
+    },
+    {
+      "description": "Désigne le porteur comme étant le soldat le plus respecté parmi les Clans Lune de cette ère.",
+      "name": "Emblème Chef Lune",
+      "code": "fr"
+    },
+    {
+      "description": "Designa il portatore come il soldato con il grado più elevato dei clan di livello Luna di questa era.",
+      "name": "Emblema Leader Luna",
+      "code": "it"
+    },
+    {
+      "description": "문 클랜중 가장 높은 클랜랭킹을 가진 병사에게 지급하는 물품입니다.",
+      "name": "문 리더 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Designa al portador como el soldado de mayor rango entre los clanes de clase Luna de esta era.",
+      "name": "Emblema de Líder Luna",
+      "code": "es"
+    },
+    {
+      "description": "表示佩戴者此时是月亮氏族中最高阶级的战士。",
+      "name": "月之领导者徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Обозначает носителя как солдата с наивысшим рангом среди Лунных кланов этой эры.",
+      "name": "Значок: Лидер лун",
+      "code": "ru"
+    },
+    {
+      "description": "ムーンクランにて、最高ランクに位置する戦士のみが身に付けることを許されたエンブレム。",
+      "name": "ムーンリーダーエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Oznacza osobę noszącą jako najwyższego stopniem żołnierza wśród Klanów Księżyca tej ery.",
+      "name": "Emblemat: Przywódca Księżyca",
+      "code": "pl"
+    },
+    {
+      "description": "Designa o usuário como soldado de maior patente entre os Clans Tier-Lunar desta era.",
+      "name": "Emblema: Líder Lunar",
+      "code": "pt"
+    },
+    {
+      "description": "表示佩戴者此時是月亮氏族中最高階級的戰士。",
+      "name": "月之領導者徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นตราที่บ่งบอกว่าผู้สวมใส่เป็นทหารในแคลนระดับจันทราที่มียศสูงสุดในยุคนี้",
+      "name": "ตราสัญลักษณ์: ผู้นำจันทรา",
+      "code": "th"
+    },
+    {
+      "description": "Taşıyan kişinin Ay Klan Seviyesindeki klanlar içinde en yüksek rütbeli olduğunu gösterir",
+      "name": "Ay Lider Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Вказує на те, що власник цієї відзнаки має найвищий ранг серед місячних кланів цієї ери як солдат.",
+      "name": "Відзнака «Місячний лідер»",
+      "code": "uk"
+    }
+  ]
+}

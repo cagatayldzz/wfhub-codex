@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cryptosuctus-5943cb825f.png",
+  "name": "Cryptosuctus",
+  "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
+  "languages": [
+    {
+      "description": "Während der Orokin Ära waren diese Fische ursprünglich Aasfresser, doch sind sie schon lange dem Befall vollständig verfallen und nun fressen sie gierig die schwebenden Sporen. Sie können überall auf Deimos Oberfläche gefunden werden.",
+      "name": "Cryptosuctus",
+      "code": "de"
+    },
+    {
+      "description": "Autrefois charognards Orokins, ces poissons ont succombé à l'Infestation il y a longtemps de cela et se régalent maintenant de spores flottantes. On les trouve partout sur la surface de Deimos.",
+      "name": "Cryptosuctus",
+      "code": "fr"
+    },
+    {
+      "description": "Precedentemente dei saprofagi Orokin, questi pesci hanno ceduto all'Infestazione molto tempo fa e ora si nutrono avidamente di spore galleggianti. Si trovano su tutta la superficie di Deimos.",
+      "name": "Cryptosuctus",
+      "code": "it"
+    },
+    {
+      "description": "청소부 역할을 하던 이 오로킨 물고기들은 오래 전 감염체에 굴복하여 이제는 떠다니는 포자를 탐욕스럽게 먹어 치우기만 할 뿐입니다. 이들은 데이모스의 표면 전역에서 발견할 수 있습니다",
+      "name": "크립토석터스",
+      "code": "ko"
+    },
+    {
+      "description": "Anteriormente carroñeros orokin, estos peces sucumbieron a la infestación hace mucho tiempo y ahora se alimentan ávidamente de las esporas flotantes. Se encuentran por toda la superficie de Deimos.",
+      "name": "Criptosucto",
+      "code": "es"
+    },
+    {
+      "description": "这些鱼类以前是 Orokin 时代的清道夫，很久以前就屈从感染者了；现在贪婪地吃着漂浮的孢子。它们在火卫二的地表随处可见。",
+      "name": "墓沼隐龙",
+      "code": "zh"
+    },
+    {
+      "description": "В эпоху Орокин они были падальщиками, эти рыбы давно стали жертвами заражения и теперь с жадностью поедают плавающие споры. Их можно найти по всей поверхности Деймоса.",
+      "name": "Криптозакт",
+      "code": "ru"
+    },
+    {
+      "description": "かつてはオロキンの清掃魚だったが、遥か昔に感染され今は貪欲に胞子を食べ続ける。ダイモスの表層で多々生息する。",
+      "name": "クリプトスクトゥス",
+      "code": "ja"
+    },
+    {
+      "description": "Dawniej padlinożercy Orokin, te ryby dawno temu uległy Pladze, a teraz łapczywie ucztują na pływających zarodnikach. Można je znaleźć na całej powierzchni Deimosa.",
+      "name": "Kryptossawek",
+      "code": "pl"
+    },
+    {
+      "description": "Outrora necrófagos Orokin, estes peixes sucumbiram à infestação há muito tempo e agora comem esporos flutuantes. São encontrados por toda a superfície de Deimos.",
+      "name": "Cryptosuctus",
+      "code": "pt"
+    },
+    {
+      "description": "這些魚的前身為 Orokin 拾荒者，很久以前被感染者侵襲後，牠們現在貪婪地以飄浮的孢子為生。火衛二的地面上都找得到牠們的存在。",
+      "name": "清道鯰",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาเหล่านี้เดิมเคยเป็นสัตว์กินของเน่าของ Orokin แต่ก็ติดเชื้อเมื่อนานมาแล้ว ในตอนนี้กลายเป็นปลาที่กินสปอร์ที่ลอยอยู่อย่างตะกละตะกลาม พบได้ทั่วไปตามพื้นผิวในเดมอส",
+      "name": "Cryptosuctus",
+      "code": "th"
+    },
+    {
+      "description": "Eskiden Orokin leş yiyicileri olan bu balıklar, uzun zaman önce Infestation'a yenik düştü ve şimdi tüm açgözlülükleriyle su yüzünde süzülen sporlarla ziyafet çekiyor. Bunlar Deimos'un her yerinde bulunurlar.",
+      "name": "Cryptosuctus",
+      "code": "tr"
+    },
+    {
+      "description": "Орокінська риба-падальник давнини. Піддалася зараженню й тепер жадібно харчується спорами. Зустрічається скрізь на поверхні Деймоса.",
+      "name": "Криптозукт",
+      "code": "uk"
+    }
+  ]
+}

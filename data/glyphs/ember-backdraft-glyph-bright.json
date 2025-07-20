@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBackdraftBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-backdraft-glyph---bright-2b74e22c7e.png",
+  "name": "Ember Backdraft Glyph - Bright",
+  "description": "A glyph depicting Ember Backdraft on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ember Backdraft vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Ember Backdraft (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ember Backdraft sur un fond lumineux.",
+      "name": "Glyphe Ember Backdraft - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Backdraft Ember su uno sfondo chiaro.",
+      "name": "Glifo Ember Backdraft - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 백드래프트 엠버를 묘사한 글리프입니다.",
+      "name": "엠버 백드래프트 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Backdraft Ember sobre un fondo brillante.",
+      "name": "Glifo de Ember Backdraft - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Ember 复燃在明亮背景下的浮印。",
+      "name": "Ember 复燃浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эмбер «Бэкдрафт» на светлом фоне.",
+      "name": "Глиф: Эмбер «Бэкдрафт» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたBackdraft Ember のグリフ。",
+      "name": "Ember Backdraft グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Ember 'Backdraft' na jasnym tle.",
+      "name": "Glif Ember Backdraft — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Ember Backdraft em um fundo claro.",
+      "name": "Glifo: Ember Backdraft (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ember 複燃在明亮背景下的浮印。",
+      "name": "Ember 複燃浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ember Backdraft บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Ember Backdraft - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Ember Backdraft açık fonlu glif.",
+      "name": "Ember Backdraft Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ембер у шоломі «Вогняний вихор» на світлому тлі.",
+      "name": "Яскравий гліф «Ембер „Вогняний вихор“»",
+      "code": "uk"
+    }
+  ]
+}

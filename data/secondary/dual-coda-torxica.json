@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/1999InfSporePistol/1999InfSporePistolWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-coda-torxica-5efb171272.png",
+  "name": "Dual Coda Torxica",
+  "description": "Get the job done right with a pair of spore flinging terror tools. Inflicts a spore that spreads to nearby enemies on death causing <DT_FREEZE_COLOR>Cold Status Effect and increased vulnerability to damage from the Torxica.",
+  "languages": [
+    {
+      "description": "Erledige die Arbeit richtig, mit einem Paar Sporen schleudernder Terrorwerkzeuge. Infiziert mit einer Spore, die sich beim Tod auf Feinde in der Nähe ausbreitet, <DT_FREEZE_COLOR>Kälte-Statuseffekt verursacht und die Anfälligkeit für Schaden durch die Torxica erhöht.",
+      "name": "Coda Dual-Torxica",
+      "code": "de"
+    },
+    {
+      "description": "Faites le travail correctement avec une paire d'outils de terreur qui lancent des spores. Inflige une spore qui se propage aux ennemis proches à sa mort, provoquant un Effet de Statut de <DT_FREEZE_COLOR>Glace et une vulnérabilité accrue aux Dégâts du Torxica.",
+      "name": "Doubles Torxicas Coda",
+      "code": "fr"
+    },
+    {
+      "description": "Fai il lavoro come si deve con un paio di strumenti di terrore lancia spore. Infliggono una spora che si propaga ai nemici nelle vicinanze prossimi alla morte, causando Effetto <DT_FREEZE_COLOR>Ghiaccio e una maggiore vulnerabilità ai danni dall'arma Torxica.",
+      "name": "Dual Coda Torxica",
+      "code": "it"
+    },
+    {
+      "description": "포자를 던져대는 이 테러의 도구 한 쌍으로 완벽하게 일을 끝마치세요. 이 무기로 적을 처치할 시 주변의 적들에게 포자를 퍼뜨려 <DT_FREEZE_COLOR>냉기 상태 이상을 부여함과 동시에 톡시카로 입는 피해에 더욱 취약해집니다.",
+      "name": "듀얼 코다 톡시카",
+      "code": "ko"
+    },
+    {
+      "description": "Haz bien el trabajo con un par de aterradoras herramientas lanzaesporas. Inflige una espora que se propaga a los enemigos cercanos al morir, lo que provoca un efecto de estado de <DT_FREEZE_COLOR>frío y una mayor vulnerabilidad al daño de Torxica.",
+      "name": "Torxicas Dobles Coda",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL CODA TORXICA）用这对令人胆寒的孢子发射器完成任务。孢子感染会在敌人死亡时传播到附近的敌人身上，造成 <DT_FREEZE_COLOR>冰冻异常状态，并且孢蚀双枪会更容易对这些敌人造成伤害。",
+      "name": "终幕·孢蚀双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Завершайте дело правильно с парой орудий ужаса, разбрасывающих споры. При попадании заражает врага спорой, которая при смерти распространяется на ближайших противников, накладывая статус <DT_FREEZE_COLOR>Холода и вызывая повышенную уязвимость к урону от Торксики.",
+      "name": "Парные Торксики Кода",
+      "code": "ru"
+    },
+    {
+      "description": "対胞子用のツールで任務を完璧にこなそう。この武器で敵を倒すと周りの敵に胞子が広がり、<DT_FREEZE_COLOR>冷気状態異常を付与しつつ、ダメージ耐性を下げる（Torxicaからのダメージが大きくなる）。",
+      "name": "Dual Coda Torxica",
+      "code": "ja"
+    },
+    {
+      "description": "Wykonaj swoją pracę dobrze dzięki parze narzędzi terroru miotających zarodniki. Trafienia rodzą zarodniki, które po śmierci wroga zarażają jego pobliskich sojuszników, zadając Efekt Statusu <DT_FREEZE_COLOR> Obr. od Zimna i zwiększając ich podatność na obrażenia od Torxici.",
+      "name": "Podwójna Torxica Cody",
+      "code": "pl"
+    },
+    {
+      "description": "Faça um trabalho bem feito com um par de ferramentas assoladoras. Ao eliminar o alvo, esta arma disparará um esporo que se espalhará para os inimigos próximos, infligindo o Efeito de Status <DT_FREEZE_COLOR>Glacial e aumentando a vulnerabilidade ao dano das Tórxicas.",
+      "name": "Tórxicas Duplas Coda",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL CODA TORXICA）透過這對駭人的孢子發射器來妥善完成任務。遭感染的敵人死亡時，孢子會傳播到附近敵人觸發<DT_FREEZE_COLOR>冰凍狀態效果並更易受到冰孢雙槍的傷害。",
+      "name": "勾瘩 冰孢雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องปล่อยสปอร์ที่น่ากลัวคู่นี้ทำงานที่ได้รับมอบหมายให้สำเร็จ เมื่อใช้อาวุธประเภทนี้กำจัดศัตรู ก็จะสร้างสปอร์ที่แพร่กระจายไปยังศัตรูที่อยู่ใกล้ ทำให้เกิดเอฟเฟกต์สถานะ <DT_FREEZE_COLOR>น้ำแข็งและเสี่ยงที่จะได้รับความเสียหายเพิ่มขึ้นจาก Torxica",
+      "name": "Dual Coda Torxica",
+      "code": "th"
+    },
+    {
+      "description": "Bir çift spor fırlatan terör aletiyle işi çabucak bitir. Ölüm anında yakındaki düşmanlara yayılan bir spor oluşturarak <DT_FREEZE_COLOR>Buz Statü Etkisi uygular ve aynı zamanda dirençli hedeflere karşı Torxica'nın hasar etkisini artırır.",
+      "name": "Dual Coda Torxica",
+      "code": "tr"
+    },
+    {
+      "description": "Виконайте роботу як належне за допомогою пари моторошних спорострільних знарядь. Постріли заселяють у ворогів спори, які поширюються після смерті носіїв і накладають <DT_FREEZE_COLOR>крижаний ефект стану та збільшують вразливість до іншої шкоди, особливо від Торксиків.",
+      "name": "Парні Торксики-кода",
+      "code": "uk"
+    }
+  ]
+}

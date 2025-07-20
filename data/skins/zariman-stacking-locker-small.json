@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateStackingMediumB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-stacking-locker-(small)-d96a4e7e28.png",
+  "name": "Zariman Stacking Locker (Small)",
+  "description": "A small stackable locker box.",
+  "languages": [
+    {
+      "description": "Eine kleine stapelbare Kiste.",
+      "name": "Zariman Stapel-Kiste (klein)",
+      "code": "de"
+    },
+    {
+      "description": "Un petit casier empilable.",
+      "name": "Zariman: Casier empilable (petit)",
+      "code": "fr"
+    },
+    {
+      "description": "Un piccolo armadietto impilabile.",
+      "name": "Armadietto Impilabile Zariman (Piccolo)",
+      "code": "it"
+    },
+    {
+      "description": "소형 적재용 저장고입니다.",
+      "name": "자리만 적재용 저장고 (소형)",
+      "code": "ko"
+    },
+    {
+      "description": "Un gabinete apilable pequeño.",
+      "name": "Gabinete apilable Zariman (pequeño)",
+      "code": "es"
+    },
+    {
+      "description": "一个小型可叠式储物柜。",
+      "name": "扎里曼堆叠柜（小）",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшой штабелируемый шкафчик.",
+      "name": "Зариман: шкафчик (маленький, штабелируемый)",
+      "code": "ru"
+    },
+    {
+      "description": "スタック可能な小さいロッカーボックス。",
+      "name": "Zariman スタッキングロッカー（小）",
+      "code": "ja"
+    },
+    {
+      "description": "Mały, układany w stosy schowek.",
+      "name": "Zariman: Schowek (mały, układany w stosy)",
+      "code": "pl"
+    },
+    {
+      "description": "Um guarda-volumes pequeno.",
+      "name": "Guarda-volumes da Zariman (Pequeno)",
+      "code": "pt"
+    },
+    {
+      "description": "小型可疊式櫃子。",
+      "name": "扎日曼堆疊櫃（小）",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ล็อกเกอร์เก็บของขนาดเล็กที่วางซ้อนกันได้",
+      "name": "Zariman: ล็อกเกอร์ซ้อน (เล็ก)",
+      "code": "th"
+    },
+    {
+      "description": "Küçük, istiflenebilir bir kilitli kutu.",
+      "name": "Zariman İstifleme Dolabı (Küçük)",
+      "code": "tr"
+    },
+    {
+      "description": "Невелика накладна шафка.",
+      "name": "Накладна шафка із «Заримена» (маленька)",
+      "code": "uk"
+    }
+  ]
+}

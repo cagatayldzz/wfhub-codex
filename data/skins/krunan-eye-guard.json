@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlEyepatchB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/krunan-eye-guard-3566402f74.png",
+  "name": "Krunan Eye-Guard",
+  "description": "An eye-guard for one who knows that those who demand fealty do not always deserve it.",
+  "languages": [
+    {
+      "description": "Ein Augenschutz für jemanden, der weiß, dass jene, die Treue einfordern, sie nicht immer verdienen.",
+      "name": "Augenschutz: Krunan",
+      "code": "de"
+    },
+    {
+      "description": "Un Protège-Œil pour celui qui sait que ceux qui exigent l'allégeance ne la méritent pas toujours.",
+      "name": "Protège-Œil Krunan",
+      "code": "fr"
+    },
+    {
+      "description": "Una protezione per occhio per chi sa che chi pretende fedeltà non sempre la merita.",
+      "name": "Occhiali di Sicurezza Krunan",
+      "code": "it"
+    },
+    {
+      "description": "충성을 요구하는 자들이 언제나 그에 합당한 자격을 갖춘 건 아니라는 점을 알고 있는 자들을 위한 아이-가드입니다.",
+      "name": "크루난 아이-가드",
+      "code": "ko"
+    },
+    {
+      "description": "Un protector ocular para alguien que sabe que quienes exigen lealtad no siempre la merecen.",
+      "name": "Protector ocular Krunan",
+      "code": "es"
+    },
+    {
+      "description": "给那些懂得此道理的人的一款护眼，道理就是那些要求效忠的人并不是总值得效忠。",
+      "name": "赤冠护眼",
+      "code": "zh"
+    },
+    {
+      "description": "Защита для глаз для того, кто знает, что требующие верности не всегда её заслуживают.",
+      "name": "Защита для глаз: Крунан",
+      "code": "ru"
+    },
+    {
+      "description": "忠誠を要求する者が、必ずしもそれに相応しいわけではないと知る者のための眼帯。",
+      "name": "Krunan アイガード",
+      "code": "ja"
+    },
+    {
+      "description": "Osłona-oko dla tego, który wie, że ci domagający się wierności nie zawsze na nią zasługują.",
+      "name": "Osłona-Oka Krunan",
+      "code": "pl"
+    },
+    {
+      "description": "Um Protetor Ocular para quem sabe que aqueles que exigem fidelidade nem sempre a merecem.",
+      "name": "Protetor Ocular: Krunan",
+      "code": "pt"
+    },
+    {
+      "description": "給那些有明白這番話的人的護眼，即要求忠誠之人不是每次都值得忠誠相待。",
+      "name": "昆男護眼",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นป้องกันตาของผู้ที่รู้ดีว่าผู้ที่ประสงค์ความจงรักภักดีอาจไม่ใช่ผู้ที่สมควรได้รับมันเสมอไป",
+      "name": "แผ่นป้องกันตา Krunan",
+      "code": "th"
+    },
+    {
+      "description": "Gözü pek olan, sadakat talep edenlerin bunu her zaman hak etmediğini bilir.",
+      "name": "Krunan Göz Koruması",
+      "code": "tr"
+    },
+    {
+      "description": "Подарунок тим, хто знає, що є люди, які вимагають відданості, але не заслуговують на неї.",
+      "name": "Захист ока «Крунан»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Halloween/Halloween2024DOTDSomaSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soma-day-of-the-dead-skin-ii-214b21404c.png",
+  "name": "Soma Day Of The Dead Skin Ii",
+  "description": "Celebrate the departed with this festive skin for the Soma.",
+  "languages": [
+    {
+      "description": "Feiere die Verstorbenen mit diesem festlichen Skin für das Soma.",
+      "name": "Soma-Skin: Tag der Toten II",
+      "code": "de"
+    },
+    {
+      "description": "Célébrez les disparus avec cet Aspect festif pour le Soma.",
+      "name": "Aspect Soma Jour des Morts II",
+      "code": "fr"
+    },
+    {
+      "description": "Celebra i defunti con questa skin festiva per il Soma.",
+      "name": "Skin Soma Giorno dei Morti II",
+      "code": "it"
+    },
+    {
+      "description": "소마를 위한 이 축체용 스킨으로 죽은 자들을 기려보세요.",
+      "name": "죽은 자의 날 소마 스킨 II",
+      "code": "ko"
+    },
+    {
+      "description": "Celebra a los difuntos con este diseño festivo para Soma.",
+      "name": "Diseño Día de los Muertos II de Soma",
+      "code": "es"
+    },
+    {
+      "description": "使用月神的这款节日外观来纪念逝者。",
+      "name": "月神亡灵节外观 II",
+      "code": "zh"
+    },
+    {
+      "description": "Почтите память ушедших с этим праздничным скином для Сомы.",
+      "name": "Скин Сомы: День мёртвых II",
+      "code": "ru"
+    },
+    {
+      "description": "Soma用の祝祭スキンを装備して、生と死を祝おう。",
+      "name": "Soma デイ・オブ・ザ・デッド スキン II",
+      "code": "ja"
+    },
+    {
+      "description": "Uczcij pamięć poległych dzięki tej świątecznej skórce dla broni Soma.",
+      "name": "Soma: Skórka Dnia Umarłych II",
+      "code": "pl"
+    },
+    {
+      "description": "Com esta Skin festiva para a Soma, homenageie aqueles que já partiram.",
+      "name": "Soma: Skin do Dia dos Mortos II",
+      "code": "pt"
+    },
+    {
+      "description": "透過月神的節慶外觀來追念逝者。",
+      "name": "月神 亡靈節外觀 II",
+      "code": "tc"
+    },
+    {
+      "description": "ร่วมระลึกถึงผู้ล่วงลับด้วยสกินฉลองเทศกาลสำหรับ Soma",
+      "name": "สกินวันแห่งความตายของ Soma II",
+      "code": "th"
+    },
+    {
+      "description": "Soma'ya özel bu festival skin'i ile ölüm festivalini kutla.",
+      "name": "Soma Day of the Dead Skin II",
+      "code": "tr"
+    },
+    {
+      "description": "Вшануйте померлих за допомогою святкового вигляду для Соми.",
+      "name": "Вигляд «День мертвих» II для Соми",
+      "code": "uk"
+    }
+  ]
+}

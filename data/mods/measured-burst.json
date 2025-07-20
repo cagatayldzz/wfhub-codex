@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TiberonLowRoFAiming",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/measured-burst-2f71ad280e.jpg",
+  "name": "Measured Burst",
+  "description": "When Aiming:",
+  "languages": [
+    {
+      "description": [
+        "Beim Zielen:"
+      ],
+      "name": "Gemessener Stoß",
+      "code": "de"
+    },
+    {
+      "description": [
+        "En Visant:"
+      ],
+      "name": "Rafale Contrôlée",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Durante la mira:"
+      ],
+      "name": "Measured Burst",
+      "code": "it"
+    },
+    {
+      "description": [
+        "조준 시:"
+      ],
+      "name": "메져드 버스트",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Cuando apuntas:"
+      ],
+      "name": "Ráfaga calculada",
+      "code": "es"
+    },
+    {
+      "description": [
+        "当瞄准时，"
+      ],
+      "name": "精准爆发",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При прицеливании:"
+      ],
+      "name": "Размеренная Очередь",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "エイム中："
+      ],
+      "name": "Measured Burst",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Podczas celowania:"
+      ],
+      "name": "Kontrolowana Seria",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ao Mirar:"
+      ],
+      "name": "Measured Burst",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "當瞄準時，"
+      ],
+      "name": "爆破計算",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อเล็ง:"
+      ],
+      "name": "Measured Burst",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Nişan Alırken:"
+      ],
+      "name": "Measured Burst",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Під час прицілювання:"
+      ],
+      "name": "Стримана черга",
+      "code": "uk"
+    }
+  ]
+}

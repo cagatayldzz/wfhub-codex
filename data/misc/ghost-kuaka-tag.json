@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagKuakaRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ghost-kuaka-tag-1e6daba9f8.png",
+  "name": "Ghost Kuaka Tag",
+  "description": "For saving a specimen of this subspecies.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Unterart gerettet.",
+      "name": "Marke: Geist-Kuaka",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Kuaka Fantôme",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa sottospecie.",
+      "name": "Etichetta Kuaka Fantasma",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "고스트 쿠아카 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta subespecie.",
+      "name": "Marcador de Kuaka Fantasma",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个亚种的一个样本。",
+      "name": "幽灵库阿卡标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого подвида.",
+      "name": "Жетон: Призрачная куака",
+      "code": "ru"
+    },
+    {
+      "description": "この変種を保護すると入手できるタグ。",
+      "name": "ゴースト クアカ タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Widmowej Kuaki",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Kuaka Fantasma",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存這個亞種的樣本。",
+      "name": "幽靈庫阿卡標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์ย่อยนี้",
+      "name": "แท็ก Ghost Kuaka",
+      "code": "th"
+    },
+    {
+      "description": "Bu alt-türün bir örneğini kurtardığın için.",
+      "name": "Hayalet Kuaka Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього підвиду.",
+      "name": "Жетон примарної куаки",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultK",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/smelter-mask-(drifter)-47eba75d8a.png",
+  "name": "Smelter Mask (Drifter)",
+  "description": "Drifter armor inspired by those Solaris who must work in searing heat. ",
+  "languages": [
+    {
+      "description": "Rüstung eines Drifters, inspiriert von jenen Solaris, die in sengender Hitze arbeiten müssen.",
+      "name": "Maske: Schmelzer (Drifter)",
+      "code": "de"
+    },
+    {
+      "description": "Armure pour Voyageur inspirée des Solaris qui doivent travailler sous la chaleur intense. ",
+      "name": "Masque de Métallurgiste (Voyageur)",
+      "code": "fr"
+    },
+    {
+      "description": "Armatura per il Drifter ispirata ai Solaris che devono lavorare nel calore bruciante. ",
+      "name": "Maschera Smelter (Drifter)",
+      "code": "it"
+    },
+    {
+      "description": "타는듯한 열기의 환경에서 작업해야 하는 솔라리스들에게서 영감을 받은 드리프터 아머입니다. ",
+      "name": "스멜터 마스크 (드리프터)",
+      "code": "ko"
+    },
+    {
+      "description": "Armadura de Viajero inspirada en aquellos solaris que deben trabajar en calores abrasadores. ",
+      "name": "Máscara Smelter (Viajero)",
+      "code": "es"
+    },
+    {
+      "description": "灵感来自那些必须在灼热环境下工作的索拉里斯人。 ",
+      "name": "冶炼技工面罩（漂泊者）",
+      "code": "zh"
+    },
+    {
+      "description": "Броня скитальца, вдохновлённая экипировкой Солярис, работающих при обжигающих температурах.",
+      "name": "Маска: Металлург (скиталец)",
+      "code": "ru"
+    },
+    {
+      "description": "焼けるような熱の中で働いているソラリス民に着想を得た漂流者用アーマー。 ",
+      "name": "Smelter マスク（漂流者）",
+      "code": "ja"
+    },
+    {
+      "description": "Kombinezon Włóczęgi inspirowany tymi z Solaris, którzy muszą pracować w piekącym upale.",
+      "name": "Maska: Smelter (Włóczęga)",
+      "code": "pl"
+    },
+    {
+      "description": "Armadura para Peregrino inspirada nas roupas utilizadas pelos Solaris que trabalham com altas temperaturas. ",
+      "name": "Máscara Smelter (Peregrino)",
+      "code": "pt"
+    },
+    {
+      "description": "靈感來自那些必須在灼熱環境下工作的索拉里斯人的漂泊者護甲。",
+      "name": "冶煉技工面罩（漂泊者）",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะของดริฟเตอร์ที่ได้รับแรงบัลดาลใจจากพวก Solaris ที่ต้องทำงานท่ามกลางความร้อนระอุ ",
+      "name": "หน้ากาก Smelter (ดริฟเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Kavurucu sıcakta çalışan Solaris'lerden esinlenmiş gezgin zırhı. ",
+      "name": "Smelter Maskesi (Gezgin)",
+      "code": "tr"
+    },
+    {
+      "description": "Убрання для мандрівника, на створення якого надихали солярійці, які працюють із небезпечно високими температурами. ",
+      "name": "Маска «Плавильник» (мандрівник)",
+      "code": "uk"
+    }
+  ]
+}

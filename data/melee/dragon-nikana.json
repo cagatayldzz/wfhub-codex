@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dragon-nikana-df8b6ef90a.png",
+  "name": "Dragon Nikana",
+  "description": "The Dragon Nikana is forged from ancient Tenno steel. This is a master's weapon, only the most worthy of Tenno may wield it.",
+  "languages": [
+    {
+      "description": "Das Drachen-Nikana wurde aus uraltem Stahl der Tenno geschmiedet. Dies ist die Waffe eines Meisters, nur die ehrhaftesten Tenno können sie führen.",
+      "name": "Drachen-Nikana",
+      "code": "de"
+    },
+    {
+      "description": "Le Nikana Dragon est forgé à partir d'un ancien acier Tenno. C'est une arme de maître, seul le plus digne des Tennos peut la manier.",
+      "name": "Nikana Dragon",
+      "code": "fr"
+    },
+    {
+      "description": "La Dragon Nikana è stata forgiata con l'antico metallo dei Tenno. Questa è l'arma di un vero maestro, solo i più meritevoli hanno il privilegio di impugnarla.",
+      "name": "Dragon Nikana",
+      "code": "it"
+    },
+    {
+      "description": "드래곤 니카나는 고대 텐노 강철로 만들어졌습니다. 이것은 오직 가장 위대한 텐노 마스터만이 휘두를 수 있는 무기입니다.",
+      "name": "드래곤 니카나",
+      "code": "ko"
+    },
+    {
+      "description": "La Nikana Dragón está forjada con antiguo acero tenno. Es el arma de un maestro, solo el más digno de los tenno puede empuñarla.",
+      "name": "Nikana Dragón",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DRAGON NIKANA）龙之侍刃是以古代 Tenno 特制的钢铁所铸成。这是大师的武器，只有武艺修为能与之相配的 Tenno 能使用它。",
+      "name": "龙之侍刃",
+      "code": "zh"
+    },
+    {
+      "description": "Никана Дракон выкована из древней стали Тэнно. Это истинное оружие мастера, лишь самые достойные Тэнно владеют этим оружием.",
+      "name": "Дракон Никана",
+      "code": "ru"
+    },
+    {
+      "description": "古代のテンノ製鋼鉄から鍛刀されたカタナ。達人の武器であり、所持するにふさわしいテンノのみが帯刀することを許される。",
+      "name": "Dragon Nikana",
+      "code": "ja"
+    },
+    {
+      "description": "Nikana Smoka jest wykuta ze starożytnej stali Tenno. To broń mistrza i tylko najbardziej godni spośród Tenno mogą ją dzierżyć.",
+      "name": "Nikana Smoka",
+      "code": "pl"
+    },
+    {
+      "description": "A Nikana Dracônica é forjada a partir de um antigo aço Tenno. Esta é uma arma de mestre; apenas os Tennos mais dignos podem empunhá-la.",
+      "name": "Nikana Dracônica",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DRAGON NIKANA）龍之侍刃是以古代 Tenno 特製的鋼鐵所鑄成。這是大師的武器，只有武藝修為能與之相配的 Tenno 能使用它。",
+      "name": "龍之侍刃",
+      "code": "tc"
+    },
+    {
+      "description": "Dragon Nikana ถูกหลอมมาจากเหล็ก Tenno โบราณ ซึ่งเป็นอาวุธของยอดฝีมือสำหรับ Tenno ที่คู่ควรที่สุดเท่านั้นที่จะใช้มันได้",
+      "name": "Dragon Nikana",
+      "code": "th"
+    },
+    {
+      "description": "Dragon Nikana kadim Tenno çeliğinden dövülmüştür. Bu ustalar için bir silahtır ve yalnızca onlara itaat eder.",
+      "name": "Dragon Nikana",
+      "code": "tr"
+    },
+    {
+      "description": "Викута з прадавньої сталі тенно нікана. Зброя майстрів — лише найдостойніші можуть володіти нею.",
+      "name": "Драконяча нікана",
+      "code": "uk"
+    }
+  ]
+}

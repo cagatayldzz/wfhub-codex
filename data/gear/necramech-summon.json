@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LoadoutTechSummon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necramech-summon-0c66e9064f.png",
+  "name": "Necramech Summon",
+  "description": "Summon a Necramech to the battlefield.",
+  "languages": [
+    {
+      "description": "Rufe einen Necramech auf das Schlachtfeld.",
+      "name": "Necramech-Ruf",
+      "code": "de"
+    },
+    {
+      "description": "Invoquez un Necramech sur le champ de bataille.",
+      "name": "Déploiement de Necramech",
+      "code": "fr"
+    },
+    {
+      "description": "Evoca un Necramech sul campo di battaglia.",
+      "name": "Richiamo Necramech",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크를 전장으로 소환합니다.",
+      "name": "네크라메크 소환",
+      "code": "ko"
+    },
+    {
+      "description": "Invoca un Necramech al campo de batalla.",
+      "name": "Invocador de Necramech",
+      "code": "es"
+    },
+    {
+      "description": "召唤一架殁世机甲到战场上。",
+      "name": "召唤殁世机甲",
+      "code": "zh"
+    },
+    {
+      "description": "Призовите Некрамеха на поле битвы.",
+      "name": "Запуск Некрамеха",
+      "code": "ru"
+    },
+    {
+      "description": "戦いの場にネクロメカを召喚する。",
+      "name": "ネクロメカ ランチャー",
+      "code": "ja"
+    },
+    {
+      "description": "Przyzywa Nekramecha na pole bitwy.",
+      "name": "Przyzwanie Nekramecha",
+      "code": "pl"
+    },
+    {
+      "description": "Invoca um Necramech para o campo de batalha.",
+      "name": "Invocador de Necramech",
+      "code": "pt"
+    },
+    {
+      "description": "在戰場上召喚一架亡骸機甲。",
+      "name": "召喚亡骸機甲",
+      "code": "tc"
+    },
+    {
+      "description": "เรียก Necramech ออกมาสู่สมรภูมิรบ",
+      "name": "เรียก Necramech ออกมา",
+      "code": "th"
+    },
+    {
+      "description": "Savaş alanına bir Necramech çağırır.",
+      "name": "Necramech Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Прикликає некрамеха на поле бою.",
+      "name": "Прикликання некрамеха",
+      "code": "uk"
+    }
+  ]
+}

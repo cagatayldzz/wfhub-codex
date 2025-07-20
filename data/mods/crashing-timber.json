@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPStavesStanceOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/crashing-timber-fe86e1cc4c.jpg",
+  "name": "Crashing Timber",
+  "description": "Fighting form devised for Conclave.",
+  "languages": [
+    {
+      "description": [
+        "Gefechtsform, entwickelt für die Conclave."
+      ],
+      "name": "Stürzender Balken",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Forme de combat réservée au Conclave."
+      ],
+      "name": "Rondin Écrasant",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Stile di combattimento ideato per il Conclave."
+      ],
+      "name": "Crashing Timber",
+      "code": "it"
+    },
+    {
+      "description": [
+        "콘클레이브를 위해 창안된 전투 자세입니다."
+      ],
+      "name": "크래슁 팀버",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Una forma de pelea creada para el Cónclave."
+      ],
+      "name": "Madera aplastante",
+      "code": "es"
+    },
+    {
+      "description": [
+        "为武形秘仪设计的战斗形式。"
+      ],
+      "name": "原木冲击",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Форма боя, созданная для конклава."
+      ],
+      "name": "Сокрушающее бревно",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンクレーブでの戦闘に特化された流儀。"
+      ],
+      "name": "Crashing Timber",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Styl walki stworzony na potrzeby Konklawe."
+      ],
+      "name": "Powalone Drzewo",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Forma de combate elaborada para o Conclave."
+      ],
+      "name": "Crashing Timber",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "為武形秘儀設計的戰鬥形式。"
+      ],
+      "name": "原木衝擊",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "รูปแบบการต่อสู้ที่คิดค้นขึ้นสำหรับคอนเคลฟ"
+      ],
+      "name": "Crashing Timber",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Conclave için planlanmış savaşma formu"
+      ],
+      "name": "Crashing Timber",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Техніка бою, розроблена для Конклаву."
+      ],
+      "name": "Звалене дерево",
+      "code": "uk"
+    }
+  ]
+}

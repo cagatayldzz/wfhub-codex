@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImagePagemasterBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante-glyph---bright-9e49fb3792.png",
+  "name": "Dante Glyph - Bright",
+  "description": "A glyph depicting Dante on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Dante vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Dante (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Dante sur un fond lumineux.",
+      "name": "Glyphe Dante - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dante su uno sfondo chiaro.",
+      "name": "Glifo Dante - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 단테를 묘사한 글리프입니다.",
+      "name": "단테 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dante sobre un fondo brillante.",
+      "name": "Glifo de Dante - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Dante 在明亮背景下的浮印。",
+      "name": "Dante 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Данте на светлом фоне.",
+      "name": "Глиф: Данте — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたDanteのグリフ。",
+      "name": "Dante グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Dante na jasnym tle.",
+      "name": "Glif Dante — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Dante em um fundo claro.",
+      "name": "Glifo: Dante (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dante 在明亮背景下的浮印。",
+      "name": "Dante 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Dante บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Dante - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Dante açık fonlu glif.",
+      "name": "Dante Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Данте на світлому тлі.",
+      "name": "Яскравий гліф «Данте»",
+      "code": "uk"
+    }
+  ]
+}

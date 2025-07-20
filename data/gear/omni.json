@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/RepairTool",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/omni-4d9f91bb65.png",
+  "name": "Omni",
+  "description": "An Omni is a multi-use Railjack tool for extinguishing fires, grounding electrical hazards, and repairing hull ruptures. Use outside the Railjack to instantly recall back to the ship.",
+  "languages": [
+    {
+      "description": "Das Omni ist ein multifunktionales Railjack-Werkzeug, das für das Löschen von Bränden, das Erden von elektrischen Störungen und für Reparaturen von Hüllendurchbrüchen verwendet wird. Außerhalb des Railjacks wird es für eine sofortigen Rückruf zum Schiff verwendet.",
+      "name": "Omni",
+      "code": "de"
+    },
+    {
+      "description": "Un outil polyvalent pour le Railjack pouvant éteindre des incendies, neutraliser des avaries électriques et réparer les brèches dans la coque. Utilisez-le à l'extérieur du Railjack afin de retourner instantanément au vaisseau.",
+      "name": "Omni",
+      "code": "fr"
+    },
+    {
+      "description": "L'Omni è uno strumento multifunzione Railjack che può essere utilizzato per spegnere incendi, controllare problemi elettrici, e riparare rotture dello scafo. Utilizzalo all'esterno del Railjack per tornare immediatamente alla nave.",
+      "name": "Omni",
+      "code": "it"
+    },
+    {
+      "description": "옴니는 화재 진압, 누전 위험 해결 및 선체 파열 수리에 사용할 수 있는 레일잭용 다용도 도구입니다. 레일잭 밖에서 사용하면 즉시 함선으로 귀환할 수 있습니다.",
+      "name": "옴니",
+      "code": "ko"
+    },
+    {
+      "description": "Un Omni es una herramienta de usos múltiples de Railjack para extinguir incendios, poner a tierra los riesgos eléctricos y reparar las roturas del casco. Úsalo fuera del Railjack para retirarte instantáneamente a la nave.",
+      "name": "Omni",
+      "code": "es"
+    },
+    {
+      "description": "万用工具是一种多功能的航道星舰工具，用于扑灭火灾、抢救电力事故，以及修复舰体破裂。在航道星舰外使用可立即被召回舰上。",
+      "name": "万用工具",
+      "code": "zh"
+    },
+    {
+      "description": "Омни - это многофункциональный инструмент Рэйлджека для тушения пожаров, зануления электрических помех и ремонта разрывов фюзеляжа. Используйте его снаружи Рэйлджека, чтобы мгновенно вернуться на борт корабля.",
+      "name": "Омни",
+      "code": "ru"
+    },
+    {
+      "description": "消火、電気器具の接続、船体損害の修理などを行えるレールジャック専用マルチツール。レールジャックの外で使用する事で瞬時にレールジャックへ帰還する。",
+      "name": "オムニ",
+      "code": "ja"
+    },
+    {
+      "description": "Omni to wielofunkcyjne narzędzie Railjacka do gaszenia pożarów, uziemiania zagrożeń elektrycznych i naprawy pęknięć kadłuba. Użyj poza Railjackiem, aby natychmiast powrócić do statku.",
+      "name": "Omni",
+      "code": "pl"
+    },
+    {
+      "description": "A Ferramenta Ômnica é um aparato multiúso da Railjack utilizada para extinguir incêndios, controlar problemas elétricos e reparar rupturas na fuselagem. Utilize-a fora da Railjack para retornar instantaneamente à nave.",
+      "name": "Ferramenta Ômnica",
+      "code": "pt"
+    },
+    {
+      "description": "奧寧是一個多功能銳捷號工具用來撲滅火勢、解除觸電危機，以及修復船身的破裂。在銳捷號外面使用來立即返回船艦上。",
+      "name": "奧寧",
+      "code": "tc"
+    },
+    {
+      "description": "ออมนิเป็นเครื่องมืออเนกประสงค์ของ Railjack เพื่อใช้ในการดับไฟ การต่อสายดินอันตรายจากไฟฟ้า และการซ่อมแซมรอยแตกของตัวถัง การใช้ภายนอก Railjack จะเรียกคืนกลับไปที่ยานทันที",
+      "name": "ออมนิ",
+      "code": "th"
+    },
+    {
+      "description": "Omni, yangın söndürmek, elektrik tehlikelerini topraklamak, ve gemi gövde hasarını onarmak için kullanılan çok amaçlı Railjack aletidir. Gemiye anında geri dönmek için Railjack'in dışındayken kullanın.",
+      "name": "Omni",
+      "code": "tr"
+    },
+    {
+      "description": "Знаряддя для гасіння пожеж, заземлення електричних розрядів та лагодження пошкоджень корпусу рейкоджека. Використовуйте поза рейкоджеком, щоб терміново повернутися на борт.",
+      "name": "Мультиінструмент",
+      "code": "uk"
+    }
+  ]
+}

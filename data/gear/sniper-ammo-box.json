@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SelfSniperAmmo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sniper-ammo-box-27eaff02e9.png",
+  "name": "Sniper Ammo Box",
+  "description": "Restores a bunch of sniper ammo.",
+  "languages": [
+    {
+      "description": "Enthält einen kleinen Vorrat an Scharfschützengewehrmunition.",
+      "name": "Munitionskiste: Scharfschützen",
+      "code": "de"
+    },
+    {
+      "description": "Restaure une bonne quantité de munitions de Sniper.",
+      "name": "Boîte de Muni. de Sniper",
+      "code": "fr"
+    },
+    {
+      "description": "Ripristina un buon numero di munizioni cecchino.",
+      "name": "Cassa Munizioni Cecchino",
+      "code": "it"
+    },
+    {
+      "description": "소지하고 있는 저격총의 모든 탄약을 채워줍니다.",
+      "name": "저격총 탄약 상자",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura un montón de munición de francotirador.",
+      "name": "Caja de munición de francotirador",
+      "code": "es"
+    },
+    {
+      "description": "补充全部狙击枪弹药。",
+      "name": "狙击枪弹药箱",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает часть снайперских боеприпасов.",
+      "name": "Коробка патронов для снайперской винтовки",
+      "code": "ru"
+    },
+    {
+      "description": "スナイパーライフルの弾薬を補充する。",
+      "name": "スナイパーライフル弾薬ボックス",
+      "code": "ja"
+    },
+    {
+      "description": "Przywraca część amunicji do karabinu snajperskiego.",
+      "name": "Amunicja snajperki",
+      "code": "pl"
+    },
+    {
+      "description": "Restaurará múltiplas munições de Rifle de Precisão.",
+      "name": "Caixa de Munição: Rifle de Precisão",
+      "code": "pt"
+    },
+    {
+      "description": "補充全部狙擊槍彈藥。",
+      "name": "狙擊槍彈藥箱",
+      "code": "tc"
+    },
+    {
+      "description": "เติมกระสุนปืนสไนเปอร์จำนวนหนึ่ง",
+      "name": "กล่องกระสุนปืนสไนเปอร์",
+      "code": "th"
+    },
+    {
+      "description": "Büyük miktarda Keskin Nişancı cephanesi doldurur.",
+      "name": "Keskin Nişancı Cephane Kutusu",
+      "code": "tr"
+    },
+    {
+      "description": "Відновлює певну кількість набоїв до снайперської гвинтівки.",
+      "name": "Набої до снайперської гвинтівки",
+      "code": "uk"
+    }
+  ]
+}

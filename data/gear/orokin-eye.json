@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetGoldenInstinct",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-eye-b2161ba1df.png",
+  "name": "Orokin Eye",
+  "description": "Ordis scans the area for rare items.",
+  "languages": [
+    {
+      "description": "Ordis scannt den Bereich nach seltenen Gegenständen.",
+      "name": "Orokin Auge",
+      "code": "de"
+    },
+    {
+      "description": "Ordis scanne la zone à la recherche d'objets rares.",
+      "name": "Œil Orokin",
+      "code": "fr"
+    },
+    {
+      "description": "Ordis scansiona l'area alla ricerca di oggetti rari.",
+      "name": "Orokin Eye",
+      "code": "it"
+    },
+    {
+      "description": "오디스가 구역을 스캔하여 희귀 아이템을 찾아냅니다.",
+      "name": "오로킨 아이",
+      "code": "ko"
+    },
+    {
+      "description": "Ordis escanea el área en busca de objetos raros.",
+      "name": "Ojo orokin",
+      "code": "es"
+    },
+    {
+      "description": "Ordis 扫描该区域以寻找稀有物品。",
+      "name": "Orokin 之眼",
+      "code": "zh"
+    },
+    {
+      "description": "Ордис сканирует местность в поисках редких предметов.",
+      "name": "Око Орокин",
+      "code": "ru"
+    },
+    {
+      "description": "Ordisは周囲をスキャンしてレアアイテムを探知する。",
+      "name": "Orokin Eye",
+      "code": "ja"
+    },
+    {
+      "description": "Ordis przeszukuje okolicę w poszukiwaniu rzadkich przedmiotów.",
+      "name": "Wzrok Orokin",
+      "code": "pl"
+    },
+    {
+      "description": "Ordis examina a área em busca de itens raros.",
+      "name": "Visão Orokin",
+      "code": "pt"
+    },
+    {
+      "description": "Ordis 掃描該區域的稀有物品。",
+      "name": "Orokin 之眼",
+      "code": "tc"
+    },
+    {
+      "description": "Ordis สแกนรอบ ๆ พื้นที่เพื่อหาไอเทมที่หายาก",
+      "name": "Orokin Eye",
+      "code": "th"
+    },
+    {
+      "description": "Ordis, alanı nadir eşyalar için tarar.",
+      "name": "Orokin Gözü",
+      "code": "tr"
+    },
+    {
+      "description": "Ордіс може зчитувати територію в пошуку рідкісних предметів.",
+      "name": "Орокінське око",
+      "code": "uk"
+    }
+  ]
+}

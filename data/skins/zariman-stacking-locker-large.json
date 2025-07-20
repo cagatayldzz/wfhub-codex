@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateStackingMediumC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-stacking-locker-(large)-c069142ff1.png",
+  "name": "Zariman Stacking Locker (Large)",
+  "description": "A large stackable locker box.",
+  "languages": [
+    {
+      "description": "Eine große, stapelbare Kiste.",
+      "name": "Zariman Stapel-Kiste (groß)",
+      "code": "de"
+    },
+    {
+      "description": "Un grand casier empilable.",
+      "name": "Zariman: Casier empilable (grand)",
+      "code": "fr"
+    },
+    {
+      "description": "Un armadietto impilabile grande.",
+      "name": "Armadietto Impilabile (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "대형 적재용 저장고입니다.",
+      "name": "자리만 적재용 저장고 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Un gabinete apilable grande.",
+      "name": "Gabinete apilable Zariman (grande)",
+      "code": "es"
+    },
+    {
+      "description": "一个大型可叠式储物柜。",
+      "name": "扎里曼堆叠柜（大）",
+      "code": "zh"
+    },
+    {
+      "description": "Большой штабелируемый шкафчик.",
+      "name": "Зариман: Шкафчик (большой, штабелируемый)",
+      "code": "ru"
+    },
+    {
+      "description": "スタック可能な大きいロッカーボックス。",
+      "name": "Zariman スタッキングロッカー（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Duży, układany w stosy schowek.",
+      "name": "Zariman: Schowek (duży, układany w stosy)",
+      "code": "pl"
+    },
+    {
+      "description": "Um guarda-volumes grande.",
+      "name": "Guarda-volumes da Zariman (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "大型可疊式櫃子。",
+      "name": "扎日曼堆疊櫃（大）",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ล็อกเกอร์เก็บของขนาดใหญ่ที่วางซ้อนกันได้",
+      "name": "Zariman: ล็อกเกอร์ซ้อน (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Büyük, istiflenebilir bir kilitli kutu.",
+      "name": "Zariman İstifleme Dolabı (Büyük Boy)",
+      "code": "tr"
+    },
+    {
+      "description": "Велика накладна шафка.",
+      "name": "Накладна шафка із «Заримена» (велика)",
+      "code": "uk"
+    }
+  ]
+}

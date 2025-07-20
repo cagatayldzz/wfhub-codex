@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AcolyteHeavyBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---malice-13a1356560.png",
+  "name": "Noggle Statue - Malice",
+  "description": "A small wobbly statue of Stalker's Acolyte, Malice.",
+  "languages": [
+    {
+      "description": "Ein kleine Wackelfigur vom Akolythen des Stalkers, Bosheit.",
+      "name": "Noggle-Statue: Bosheit",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Malice, un des disciples du Stalker.",
+      "name": "Statuette Noggle - Malice",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del discepolo dello Stalker, Malice, con la testa tremolante.",
+      "name": "Statuetta Noggle - Malice",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트, 맬리스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 맬리스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de uno de los discípulos de Stalker, Malicia.",
+      "name": "Estatua Tambaleante - Malicia",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者的追随者，怨恨摇头娃娃",
+      "name": "怨恨摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка последователя Сталкера, Порока.",
+      "name": "Фигурка: Порок",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの従者のボブルヘッド人形、Malice。",
+      "name": "Malice ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała chybotliwa figurka Akolity Stalkera: Zjadliwość.",
+      "name": "Figurka Noggle — Zjadliwość",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um discípulo do Stalker, Malevolência.",
+      "name": "Estatueta: Malevolência",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的追隨者－怨恨的搖頭娃娃。",
+      "name": "怨恨搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของผู้ช่วยเหลือ Stalker - Malice",
+      "name": "รูปปั้น Noggle - Malice",
+      "code": "th"
+    },
+    {
+      "description": "Stalker Acolyte, Malice küçük oynar figür.",
+      "name": "Noggle Heykeli - Malice",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка прибічника Сталкера на ім’я Злоба.",
+      "name": "Ноґл «Злоба»",
+      "code": "uk"
+    }
+  ]
+}

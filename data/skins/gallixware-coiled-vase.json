@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/XakuPotD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gallixware-coiled-vase-ca621906f0.png",
+  "name": "Gallixware Coiled Vase",
+  "description": "Bren Terrasiam lovingly fashioned and stacked clay coils to form this vase.",
+  "languages": [
+    {
+      "description": "Bren Terrasiam hat diese Vase aus liebevoll geformten und gestapelten Tonringen geformt.",
+      "name": "Gallixkeramik-Vase: Spirale",
+      "code": "de"
+    },
+    {
+      "description": "Bren Terrasiam a façonné et empilé avec amour des bobines d'argile pour former ce vase.",
+      "name": "Vase Enroulé Gallixware",
+      "code": "fr"
+    },
+    {
+      "description": "Bren Terrasiam ha amorevolmente modellato e impilato bobine di argilla per formare questo vaso.",
+      "name": "Vaso a Spirale Gallixware",
+      "code": "it"
+    },
+    {
+      "description": "브렌 테라시암은 점토 고리 하나하나마다 애정을 담아 빚고 쌓아 올림으로써 이 꽃병을 만들어냈습니다.",
+      "name": "갈릭스웨어 코일드 꽃병",
+      "code": "ko"
+    },
+    {
+      "description": "Bren Terrasiam moldeó y apiló con amor rollos de arcilla para formar este florero.",
+      "name": "Florero Espiral Gallixware",
+      "code": "es"
+    },
+    {
+      "description": "布伦·泰拉西姆用匠心和层叠的泥条盘筑成这个花瓶。",
+      "name": "高力士盘筑陶瓶",
+      "code": "zh"
+    },
+    {
+      "description": "Для создания этой вазы Брен Террасиам с любовью вылепил и сложил глиняные кольца.",
+      "name": "Галликсвер: Спиральная ваза",
+      "code": "ru"
+    },
+    {
+      "description": "Bren Terrasiamは愛情を込め粘土を巻きながらこの瓶を作ったと語られる。",
+      "name": "Gallixware Coiled 瓶",
+      "code": "ja"
+    },
+    {
+      "description": "Bren Terrasiam z miłością uformował i ułożył gliniane pierścienie, by utworzyć tę wazę.",
+      "name": "Gallixwave: Zawinięta Waza",
+      "code": "pl"
+    },
+    {
+      "description": "Bren Terrasiam cuidadosamente moldou e empilhou espirais de argila para formar este vaso.",
+      "name": "Vaso Espiral Gallixware",
+      "code": "pt"
+    },
+    {
+      "description": "Bren Terrasiam 精心地堆疊和盤繞陶土來製成這個陶瓶。",
+      "name": "高厲盤築陶瓶",
+      "code": "tc"
+    },
+    {
+      "description": "Bren Terrasiam บรรจงปั้นแจกันใบนี้พร้อมขึ้นรูปด้วยดินเหนียวที่ขดกันเป็นเกลียวอย่างพิถีพิถันและสวยงาม",
+      "name": "แจกัน Gallixware Coiled",
+      "code": "th"
+    },
+    {
+      "description": "Bren Terrasiam bu vazoyu yapmak için kil sarmallarını sevgiyle şekillendirdi ve düzenledi.",
+      "name": "Gallixware Sarmal Vazo",
+      "code": "tr"
+    },
+    {
+      "description": "Брен Террасьям із любов’ю надавав форму цим закрученим шматкам глини.",
+      "name": "Закручена ваза «Ґаліксвер»",
+      "code": "uk"
+    }
+  ]
+}

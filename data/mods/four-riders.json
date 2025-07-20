@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbThreeMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/four-riders-08a4d1b5e5.jpg",
+  "name": "Four Riders",
+  "description": "Fast strikes, powerful slams.",
+  "languages": [
+    {
+      "description": [
+        "Schnelle und kraftvolle Schläge."
+      ],
+      "name": "Vier Reiter",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Des frappes rapides avec de puissants coups au sol."
+      ],
+      "name": "Quatre Cavaliers",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Attacchi veloci, colpi potenti."
+      ],
+      "name": "Four Riders",
+      "code": "it"
+    },
+    {
+      "description": [
+        "빠른 강타, 강한 충격으로 구성된 공격입니다."
+      ],
+      "name": "포 라이더스",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Ataques rápidos, con poderosos golpes contra el suelo."
+      ],
+      "name": "Cuatro jinetes",
+      "code": "es"
+    },
+    {
+      "description": [
+        "快速的打击与强烈猛击。"
+      ],
+      "name": "天启异象",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Быстрые выпады, мощные удары."
+      ],
+      "name": "Четыре всадника",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "高速攻撃、強力なスラム。"
+      ],
+      "name": "Four Riders",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Szybkie ciosy, potężne uderzenia."
+      ],
+      "name": "Czterej Jeźdźcy",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ataques rápidos, batidas poderosas."
+      ],
+      "name": "Four Riders",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "快速的打擊與強烈猛擊。"
+      ],
+      "name": "天啟異象",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "จู่โจมอย่างรวดเร็ว ทุบพื้นอย่างทรงพลัง"
+      ],
+      "name": "Four Riders",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Hızlı saldırılar, güçlü etki."
+      ],
+      "name": "Four Riders",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Швидкі удари й потужні випади."
+      ],
+      "name": "Чотири вершники",
+      "code": "uk"
+    }
+  ]
+}

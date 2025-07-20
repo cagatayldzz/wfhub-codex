@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrineerHalberd/GrnHalberd",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kesheg-e418e25c28.png",
+  "name": "Kesheg",
+  "description": "Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians.",
+  "languages": [
+    {
+      "description": "Schneide dich durch Horden widerspenstiger Gegner mit dieser wilden Hellebarde, ein Markenzeichen der Kuva Garde.",
+      "name": "Kesheg",
+      "code": "de"
+    },
+    {
+      "description": "Tranchez à travers les foules d'ennemis indisciplinés avec cette féroce hallebarde ; l'arme de prédilection des Gardiennes Kuva.",
+      "name": "Kesheg",
+      "code": "fr"
+    },
+    {
+      "description": "Affetta folle di turbolenti nemici con questa feroce alabarda; l'arma caratteristica dei Kuva Guardians.",
+      "name": "Kesheg",
+      "code": "it"
+    },
+    {
+      "description": "쿠바 가디언들의 특징적인 험악한 할버드와 함께 제멋대로 날뛰는 적의 무리를 베어 가르세요.",
+      "name": "케쉐그",
+      "code": "ko"
+    },
+    {
+      "description": "Atraviesa y despedaza a una multitud de enemigos rebeldes con esta feroz alabarda, el arma tradicional de los Guardianes Kuva.",
+      "name": "Kesheg",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KESHEG）用这柄凶猛的长戟割开群魔乱舞的敌人；这是赤毒守卫者标志性的武器。",
+      "name": "怯薛",
+      "code": "zh"
+    },
+    {
+      "description": "Прорывайтесь сквозь ряды непокорных противников при помощи этой мощной алебарды; особое оружие Стражей Кувы.",
+      "name": "Кешег",
+      "code": "ru"
+    },
+    {
+      "description": "節操のない敵の雑兵をこの荒れ狂うハルバードでなます切りにしてやれ。クバ ガーディアンを象徴する武器。",
+      "name": "Kesheg",
+      "code": "ja"
+    },
+    {
+      "description": "Przecinaj się przez tłum nieposłusznych wrogów tą ostrą halabardą; broń będącą znakiem rozpoznawczym Straży Kuva.",
+      "name": "Kesheg",
+      "code": "pl"
+    },
+    {
+      "description": "Corte através de pilhas de inimigos rebeldes com esta alabarda feroz; a arma tradicional das Guardiãs Kuva.",
+      "name": "Kesheg",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KESHEG）用這柄兇猛的長戟割開群魔亂舞的敵人；這是赤毒守衛者標誌性的武器。",
+      "name": "怯薛",
+      "code": "tc"
+    },
+    {
+      "description": "ฟันศัตรูที่ดื้อด้านด้วยง้าวที่เป็นอาวุธประจำตัวของ Kuva Guardian เล่มนี้",
+      "name": "Kesheg",
+      "code": "th"
+    },
+    {
+      "description": "Kuva gardiyanlarının özel silahı olan bu azılı kargı ile düşmanlarınızı keserek ilerleyin.",
+      "name": "Kesheg",
+      "code": "tr"
+    },
+    {
+      "description": "Ця страшна алебарда з арсеналу кувових гвардійок прокладе вам шлях через найщільніший натовп ворогів.",
+      "name": "Кешек",
+      "code": "uk"
+    }
+  ]
+}

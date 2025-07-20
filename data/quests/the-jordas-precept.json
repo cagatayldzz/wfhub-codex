@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-jordas-precept-ed2a83d059.png",
+  "name": "The Jordas Precept",
+  "description": "Ordis is determined to help a fellow Cephalon overcome a ship wide infestation.",
+  "languages": [
+    {
+      "description": "Ordis ist entschlossen, einem anderen Cephalon bei der Bewältigung eines schiffsweiten Befalls zu helfen.",
+      "name": "Die Jordas-Regel",
+      "code": "de"
+    },
+    {
+      "description": "Ordis est déterminé à aider un camarade Céphalon à arrêter l'Infestation d'un vaisseau entier.",
+      "name": "Le Précepte de Jordas",
+      "code": "fr"
+    },
+    {
+      "description": "Ordis è determinato a voler aiutare un compagno Cephalon a sconfiggere l'infestazione dell'intera nave..",
+      "name": "Il Precetto di Jordas",
+      "code": "it"
+    },
+    {
+      "description": "오디스는 함선 전체에 퍼진 인페스티드들에 붙잡힌 동료 세팔론을 도와주기로 결심한 모양입니다.",
+      "name": "조르다스 수칙",
+      "code": "ko"
+    },
+    {
+      "description": "Ordis está decidido a ayudar a un compañero Céfalon superar una gran infestación en la nave.",
+      "name": "El Precepto de Jordas",
+      "code": "es"
+    },
+    {
+      "description": "Ordis 决意帮助一具中枢同伴压制一艘遭到广域性感染的船舰。",
+      "name": "Jordas 枢律",
+      "code": "zh"
+    },
+    {
+      "description": "Ордису предписано помочь бедному цефалону справиться с заражением на корабле.",
+      "name": "Протокол Джордаса",
+      "code": "ru"
+    },
+    {
+      "description": "Ordisは戦艦全体に感染が広がっている仲間のセファロンを救うことを決心した。",
+      "name": "Jordas の教訓",
+      "code": "ja"
+    },
+    {
+      "description": "Ordis jest zdeterminowany, by pomóc bratniemu Cefalonowi w pozbyciu się zmasowanego wybuchu Plagi ze statku.",
+      "name": "Instrukcja Jordasa",
+      "code": "pl"
+    },
+    {
+      "description": "Ordis está determinado a ajudar outro Cephalon a conter uma Infestação que dominou sua nave.",
+      "name": "O Preceito de Jordas",
+      "code": "pt"
+    },
+    {
+      "description": "Ordis 決意幫助一具中樞同伴壓制一艘遭到廣域性感染的船艦。",
+      "name": "Jordas 樞律",
+      "code": "tc"
+    },
+    {
+      "description": "Ordis มุ่งมั่นที่จะช่วยเพื่อน Cephalon ในการเอาชนะยานที่มีการติดเชื้อเป็นวงกว้าง",
+      "name": "กฎของ Jordas",
+      "code": "th"
+    },
+    {
+      "description": "Ordis arkadaşı Cephalon'a gemi boyunca yayılan istilada yardımcı olmak istiyor",
+      "name": "The Jordas Precept",
+      "code": "tr"
+    },
+    {
+      "description": "Ордіс сповнений рішучості допомогти своєму колезі-цефалону подолати поширення зараження.",
+      "name": "Настанова Джордеса",
+      "code": "uk"
+    }
+  ]
+}

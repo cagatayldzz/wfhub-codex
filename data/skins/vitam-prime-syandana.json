@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/VitamPrimeSyandana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitam-prime-syandana-391a8b8d50.png",
+  "name": "Vitam Prime Syandana",
+  "description": "Transmute the chaos of battle into golden triumph.",
+  "languages": [
+    {
+      "description": "Verwandele das Chaos der Schlacht in einen goldenen Triumph.",
+      "name": "Vitam Prime Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Transmutez le chaos de la bataille en triomphe doré.",
+      "name": "Syandana Vitam Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Trasforma il caos della battaglia in un trionfo dorato.",
+      "name": "Syandana Vitam Prime",
+      "code": "it"
+    },
+    {
+      "description": "전장의 혼란을 황금의 승리로 변성시켜 보세요.",
+      "name": "비탐 프라임 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Transmuta el caos de la batalla en un triunfo dorado.",
+      "name": "Syandana Vitam Prime",
+      "code": "es"
+    },
+    {
+      "description": "将战斗的混乱转化为金子般的胜利。",
+      "name": "命脉 Prime 披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Превратите хаос битвы в золотой триумф.",
+      "name": "Сандана: Витам Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "黄金が支配する戦場を錬成しよう。",
+      "name": "Vitam Prime シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Przekształć chaos bitwy w złoty triumf.",
+      "name": "Syandana Vitam Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Transmute o caos da batalha em seu triunfo áureo.",
+      "name": "Syandana: Vitam Prime",
+      "code": "pt"
+    },
+    {
+      "description": "將戰鬥的動亂轉換為金色的勝利。",
+      "name": "維生 Prime 披飾",
+      "code": "tc"
+    },
+    {
+      "description": "เปลี่ยนความโกลาหลในสนามรบให้กลายเป็นชัยชนะอันล้ำค่า",
+      "name": "ไซอันดานา Vitam Prime",
+      "code": "th"
+    },
+    {
+      "description": "Savaşın kaosunu altın zafere dönüştür.",
+      "name": "Vitam Prime Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Перетворіть хаос битви у золотистий тріумф.",
+      "name": "Сяндана «Вітам-прайм»",
+      "code": "uk"
+    }
+  ]
+}

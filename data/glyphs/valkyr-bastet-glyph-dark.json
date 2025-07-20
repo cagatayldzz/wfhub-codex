@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBastetDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-bastet-glyph---dark-9c61ce6456.png",
+  "name": "Valkyr Bastet Glyph - Dark",
+  "description": "A glyph depicting Valkyr Bastet on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Valkyr Bastet vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Valkyr Bastet (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Valkyr Bastet sur un fond sombre.",
+      "name": "Glyphe Valkyr Bastet - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Valkyr Bastet su uno sfondo scuro.",
+      "name": "Glifo Valkyr Bastet - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 바스테트 발키르를 묘사한 글리프입니다.",
+      "name": "발키르 바스테트 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Valkyr Bastet sobre un fondo oscuro.",
+      "name": "Glifo de Valkyr Bastet - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 芭丝特在黑暗背景下的浮印。",
+      "name": "Revenant 芭丝特浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Валькирии «Бастет» на тёмном фоне.",
+      "name": "Глиф: Валькирия Бастет - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Valkyr Bastet のグリフ。",
+      "name": "Valkyr Bastet グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Valkyr Bastet na ciemnym tle.",
+      "name": "Glif Valkyr Bastet — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Valkyr Bastet em um fundo escuro.",
+      "name": "Glifo: Valkyr Bastet (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Valkyr 芭絲特在黑暗背景下的浮印。",
+      "name": "Valkyr 芭絲特浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Valkyr Bastet บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Valkyr Bastet - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr Bastet koyu fonlu glif.",
+      "name": "Valkyr Bastet Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Валькірії в шоломі «Баст» на темному тлі.",
+      "name": "Темний гліф «Валькірія „Баст“»",
+      "code": "uk"
+    }
+  ]
+}

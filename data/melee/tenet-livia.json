@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/CrpBriefcase2HKatana/CrpBriefcase2HKatana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-livia-fe7274bd29.png",
+  "name": "Tenet Livia",
+  "description": "The sleek lines of the Granum Attaché case conceal an infinitely sharp two-handed blade. Blocked attacks have a chance to increase the blocking angle. Note: The Granum Attaché system pauses the combo timer when holstered.",
+  "languages": [
+    {
+      "description": "Der geradlinige Granum Attaché-Koffer verbirgt eine unendlich scharfe Zweihandklinge. Geblockte Angriffe haben eine Chance, den Blockwinkel zu erweitern. Hinweis: Das Granum Attaché-System pausiert den Kombo-Timer, wenn es im Holster getragen wird.",
+      "name": "Tenet Livia",
+      "code": "de"
+    },
+    {
+      "description": "Les lignes épurées de cette mallette 'Attaché Granum' dissimulent une lame à deux mains infiniment tranchante. Les attaques bloquées ont une chance d'augmenter l'angle de blocage. Note: le système 'Attaché Granum' met le compte à rebours des combos en pause lorsque l'arme est rangée dans son étui.",
+      "name": "Livia - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "Le linee eleganti della fondina Granum Attaché nascondono una lama a due mani infinitamente affilata. Gli attacchi bloccati hanno la possibilità di incrementare l'angolo di blocco. Nota: Il sistema Granum Attaché mette in pausa il timer combo quando viene riposto nella fondina.",
+      "name": "Tenet Livia",
+      "code": "it"
+    },
+    {
+      "description": "매끈한 윤곽의 그라넘 서류함 케이스 안에 한없이 예리한 양손검이 숨겨져 있습니다. 공격을 막을 시 확률적으로 막기 각도가 향상됩니다. 참고: 그라넘 서류함 시스템으로 수납 시 연속기 타이머가 일시 정지됩니다.",
+      "name": "테넷 리비아",
+      "code": "ko"
+    },
+    {
+      "description": "Las elegantes líneas del estuche Attaché Granum ocultan una hoja de dos manos infinitamente afilada. Los ataques bloqueados cuentan con la probabilidad de aumentar el ángulo de bloqueo. Nota: El sistema Attaché Granum pausa el temporizador de combo cuando está enfundada.",
+      "name": "Livia Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET LIVIA）格拉努公文包的流畅线条下隐藏着削铁如泥的双持利刃。格挡攻击有几率增加格挡角度。配备了获得专利批准的格拉努公文包系统，收起时暂停连击倒计时。",
+      "name": "信条·莉薇娅",
+      "code": "zh"
+    },
+    {
+      "description": "За гладкими линиями этого футляра системы Грэнума «Дипломат» скрывается бесконечно острое двуручное лезвие. У заблокированных атак есть шанс увеличить угол блокировки. Примечание: система Грэнума «Дипломат» приостанавливает обратный отсчёт комбо, когда оружие хранится в кобуре.",
+      "name": "Ливиа Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "収納型の両手剣。攻撃を防御する事で防御角度を拡張する。Granumアタッシュシステムにより収納時はコンボタイマーを停止させる。",
+      "name": "Tenet Livia",
+      "code": "ja"
+    },
+    {
+      "description": "Eleganckie linie Dyplomatki Granuma ukrywają nieskończenie ostre oburęczne ostrze. Zablokowane ataki mają szansę na powiększenie kąta blokowania. Notka: system Dyplomatki Granuma pauzuje licznik kombinacji broni białej, kiedy jest ona schowana.",
+      "name": "Livia Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "As linhas elegantes desta maleta e seu 'Sistema Adido de Granum' escondem uma lâmina de duas mãos infinitamente afiada. Ataques bloqueados com ela apresentam uma chance de aumentar o ângulo de bloqueio. Observação: o 'Sistema Adido de Granum' pausa o contador de combo quando a arma é colocada no coldre.",
+      "name": "Livia Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET LIVIA）Granum 公事包上的時髦線條下隱藏著無比銳利的雙手侍刃。格擋攻擊有機會增加格擋角度。注意：收納時，Granum 公事包系統會暫停連擊計時。",
+      "name": "教條 莉薇婭",
+      "code": "tc"
+    },
+    {
+      "description": "ลายเส้นที่สวยงามของเคส Granum Attaché ช่วยปกปิดความคมกริบของดาบที่ต้องถือสองมือเอาไว้ เมื่อบล็อกการโจมตีก็มีโอกาสที่จะเพิ่มมุมบล็อก หมายเหตุ: ระบบ Granum Attaché จะหยุดตัวจับเวลาคอมโบเมื่ออยู่ในซองเก็บอาวุธ",
+      "name": "Tenet Livia",
+      "code": "th"
+    },
+    {
+      "description": "Granum Attaché kasasının zarif çizgileri, sonsuz keskinlikte iki elli bir bıçağı gizler. Engellenen saldırıların engelleme açısını artırma şansı vardır. Not: Granum Attaché sistemi, kılıflandığında kombo sayacını duraklatır.",
+      "name": "Tenet Livia",
+      "code": "tr"
+    },
+    {
+      "description": "Футляр системи Ґранума «Дипломат», який за своїми гладкими лініями ховає завжди загострений дворучний меч. Заблоковані атаки мають імовірність збільшити кут блокування. Примітка: запатентована система Ґранума «Дипломат» зупиняє лічильник серії, коли зброя захована.",
+      "name": "Лівія-догмат",
+      "code": "uk"
+    }
+  ]
+}

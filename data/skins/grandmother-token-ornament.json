@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/GrandmotherTokenShipDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grandmother-token-ornament-98ad3b591b.png",
+  "name": "Grandmother Token Ornament",
+  "description": "A decorative replica of an Entrati family token.",
+  "languages": [
+    {
+      "description": "Ein dekoratives Replikat eines Andenkens der Entrati Familie.",
+      "name": "Ornament: Grossmutter Andenken",
+      "code": "de"
+    },
+    {
+      "description": "Une réplique décorative d'un Jeton de Famille des Entrati.",
+      "name": "Ornement de Grand-mère",
+      "code": "fr"
+    },
+    {
+      "description": "Una replica decorativa di Token della famiglia Entrati.",
+      "name": "Ornamento Token Nonna",
+      "code": "it"
+    },
+    {
+      "description": "엔트라티 가족 토큰의 장식용 복제품입니다.",
+      "name": "할머니 토큰 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una réplica decorativa de un símbolo de la familia Entrati.",
+      "name": "Ornamento del símbolo de Abuela",
+      "code": "es"
+    },
+    {
+      "description": "一件英择谛家族石印的装饰性复制品。",
+      "name": "“祖母”石印饰物",
+      "code": "zh"
+    },
+    {
+      "description": "Декоративная копия семейного знака Энтрати.",
+      "name": "Орнамент: Символ Бабушки",
+      "code": "ru"
+    },
+    {
+      "description": "エントラティ一家のトークンを模した複製装飾品。",
+      "name": "Grandmother トークン装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdobna replika żetonu rodziny Entrati.",
+      "name": "Żeton Ozdobny: Babcia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma réplica decorativa de um símbolo da família Entrati.",
+      "name": "Enfeite: Símbolo da Avó",
+      "code": "pt"
+    },
+    {
+      "description": "源拓氏家族源幣的裝飾性複製品。",
+      "name": "祖母源幣裝飾品",
+      "code": "tc"
+    },
+    {
+      "description": "ของตกแต่งที่จำลองมาจากโทเค็นของครอบครัว Entrati",
+      "name": "ของประดับ: โทเค็นของ Grandmother",
+      "code": "th"
+    },
+    {
+      "description": "Entrati ailesi rozetinin dekoratif bir replikası.",
+      "name": "Büyükanne Sembolü Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Декоративна копія сімейного медальйона Ентраті.",
+      "name": "Орнамент «Медальйон Бабусі»",
+      "code": "uk"
+    }
+  ]
+}

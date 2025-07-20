@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpLabSetC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-boiling-flask-6694316607.png",
+  "name": "Zariman Boiling Flask",
+  "description": "A boiling flask.",
+  "languages": [
+    {
+      "description": "Ein Kolbenglas zum Erhitzen.",
+      "name": "Zariman Kochkolben",
+      "code": "de"
+    },
+    {
+      "description": "Un ballon de chimie.",
+      "name": "Zariman: Ballon de chimie",
+      "code": "fr"
+    },
+    {
+      "description": "Un pallone di ebollizione.",
+      "name": "Pallone di Ebollizione Zariman",
+      "code": "it"
+    },
+    {
+      "description": "가열이 가능한 플라스크입니다.",
+      "name": "자리만 가열 플라스크",
+      "code": "ko"
+    },
+    {
+      "description": "Un matraz de ebullición.",
+      "name": "Matraz de ebullición Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个烧瓶.",
+      "name": "扎里曼烧瓶",
+      "code": "zh"
+    },
+    {
+      "description": "Кипящая колба.",
+      "name": "Зариман: Колба",
+      "code": "ru"
+    },
+    {
+      "description": "沸騰しているフラスコ。",
+      "name": "Zariman 沸騰フラスコ",
+      "code": "ja"
+    },
+    {
+      "description": "Kolba służąca do gotowania.",
+      "name": "Zariman: Kolba",
+      "code": "pl"
+    },
+    {
+      "description": "Um frasco de ebulição.",
+      "name": "Frasco de Ebulição da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "燒瓶。",
+      "name": "扎日曼燒瓶",
+      "code": "tc"
+    },
+    {
+      "description": "ขวดฟลาสก์",
+      "name": "Zariman: ขวดฟลาสก์",
+      "code": "th"
+    },
+    {
+      "description": "Bir kaynatma kabı.",
+      "name": "Zariman Kaynatma Kabı",
+      "code": "tr"
+    },
+    {
+      "description": "Лабораторна колба для кип’ятіння.",
+      "name": "Колба із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

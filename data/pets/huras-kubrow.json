@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/huras-kubrow-8d5f938fa0.png",
+  "name": "Huras Kubrow",
+  "description": "A stealthy ally, surprising enemies with impressive takedowns of explosive force.",
+  "armor": 300,
+  "languages": [
+    {
+      "description": "Ein heimlicher Verbündeter, der seine Feinde mit beeindruckenden Takedowns voller explosiver Kraft überrascht.",
+      "name": "Huras Kubrow",
+      "code": "de"
+    },
+    {
+      "description": "Un allié furtif, surprenant les ennemis avec des éliminations impressionnantes d'une force explosive.",
+      "name": "Kubrow Huras",
+      "code": "fr"
+    },
+    {
+      "description": "Un alleato furtivo che sorprende i nemici con impressionanti attacchi dotati di forza esplosiva.",
+      "name": "Huras Kubrow",
+      "code": "it"
+    },
+    {
+      "description": "은밀한 아군으로, 폭발적인 위력으로 적들을 놀라게 만드는 인상적인 제압 능력을 가지고 있습니다.",
+      "name": "휴라스 쿠브로",
+      "code": "ko"
+    },
+    {
+      "description": "Un aliado sigiloso que sorprende a los enemigos con impresionantes derribos de fuerza explosiva.",
+      "name": "Kubrow Huras",
+      "code": "es"
+    },
+    {
+      "description": "一个隐秘的伙伴，以惊人的爆炸力量出其不意地击倒敌人。",
+      "name": "匿踪型库狛",
+      "code": "zh"
+    },
+    {
+      "description": "Скрытый союзник, удивляющий врагов впечатляющими приёмами взрывной силы.",
+      "name": "Хурас кубрау",
+      "code": "ru"
+    },
+    {
+      "description": "爆発的な力の強烈なテイクダウンで敵を驚かせるステルス系の味方。",
+      "name": "Huras クブロウ",
+      "code": "ja"
+    },
+    {
+      "description": "Skryty sojusznik, atakujący wrogów niszczycielską siłą z zaskoczenia.",
+      "name": "Kubrow Huras",
+      "code": "pl"
+    },
+    {
+      "description": "Um aliado furtivo que surpreende os inimigos com impressionantes ataques repentinos.",
+      "name": "Kubrow Huras",
+      "code": "pt"
+    },
+    {
+      "description": "潛行的友方。敵方一不留心就會被牠們驚人的高超爆發力擊倒。",
+      "name": "匿蹤型庫狛",
+      "code": "tc"
+    },
+    {
+      "description": "เพื่อนคู่หูที่มักลอบซุ่มโจมตีศัตรูด้วยพลังระเบิดอันน่าทึ่ง",
+      "name": "Huras Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Gizlilik üzerine odaklı bir müttefik. Düşmanlarını etkileyici ve yıkıcı güçteki saldırılarla şaşırtır.",
+      "name": "Huras Kubrow",
+      "code": "tr"
+    },
+    {
+      "description": "Скрадливий союзник, який захоплює ворогів зненацька потужними ударами.",
+      "name": "Куброу хурас",
+      "code": "uk"
+    }
+  ]
+}

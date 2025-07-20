@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Glass/SWSilicaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-silica-helmet-3700391ff7.png",
+  "name": "Gara Silica Helmet",
+  "description": "A helmet for the Gara Warframe, designed by Arsenal.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Gara Warframe, entworfen von Arsenal.",
+      "name": "Gara-Helm: Silica",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Gara, conçu par Arsenal.",
+      "name": "Casque Gara Silica",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Gara, ideato da Arsenal.",
+      "name": "Elmo Gara Silica",
+      "code": "it"
+    },
+    {
+      "description": "Arsenal에 의해 디자인된 가라 워프레임을 위한 헬멧입니다.",
+      "name": "가라 실리카 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Gara, diseñado por Arsenal.",
+      "name": "Casco Silica de Gara",
+      "code": "es"
+    },
+    {
+      "description": "Gara 战甲的头盔，由 Arsenal 设计。",
+      "name": "Gara 石英头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Гара, созданный Arsenal.",
+      "name": "Шлем Гары: Силика",
+      "code": "ru"
+    },
+    {
+      "description": "Gara用のヘルメット。製作者：Arsenal。",
+      "name": "Gara Silica ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Gara, zaprojektowany przez Arsenal.",
+      "name": "Gara: Hełm Silica",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Gara, desenvolvido por Arsenal.",
+      "name": "Gara: Capacete Silica",
+      "code": "pt"
+    },
+    {
+      "description": "Gara Warframe 的頭盔，由 Arsenal 設計。",
+      "name": "Gara 石英頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Gara Warframe ออกแบบโดย Arsenal",
+      "name": "หมวกเหล็ก Gara Silica",
+      "code": "th"
+    },
+    {
+      "description": "Arsenal tarafından tasarlanmış bir Gara Warframe miğferi.",
+      "name": "Gara Silica Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ґари, створений Arsenal.",
+      "name": "Шолом «Кремній» для Ґари",
+      "code": "uk"
+    }
+  ]
+}

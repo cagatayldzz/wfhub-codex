@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/ElectricTether/ElectricTetherCannonTierB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vort.png",
+  "name": "Vort Mk Ii",
+  "description": "Electrical pulse projector: emits a volley of wide charged arcs that can knock out enemy systems.",
+  "languages": [
+    {
+      "description": "Elektrischer Impulsprojektor: Breite Salven geladener Bögen können feindliche Systeme ausschalten.",
+      "name": "Vort MK II",
+      "code": "de"
+    },
+    {
+      "description": "Projecteur d'impulsions électriques: émet une volée d'arcs larges et chargés qui peuvent désactiver les systèmes ennemis.",
+      "name": "Vort MK II",
+      "code": "fr"
+    },
+    {
+      "description": "Proiettore d'Impulsi Elettrici: emette una raffica di ampi archi elettrici in grado di mettere fuori uso i sistemi nemici.",
+      "name": "Vort MK II",
+      "code": "it"
+    },
+    {
+      "description": "전기 펄스 투사기: 넓은 호를 그리는 전류를 방출시켜 적 시스템을 정지시킬 수 있습니다.",
+      "name": "보르트 MK II",
+      "code": "ko"
+    },
+    {
+      "description": "Proyector de pulsos eléctricos: emite una ráfaga de arcos amplios y cargados que pueden derribar los sistemas enemigos.",
+      "name": "Vort MK II",
+      "code": "es"
+    },
+    {
+      "description": "电脉冲投射炮台：发出一连串大范围的电弧，可击溃敌方系统。",
+      "name": "威电炮台 MK II",
+      "code": "zh"
+    },
+    {
+      "description": "Электрический импульсный излучатель: испускает залп широких электрических дуг, способных вывести из строя вражеские системы.",
+      "name": "Ворт MK II",
+      "code": "ru"
+    },
+    {
+      "description": "電子パルス射出機。敵システムを容易く感電させる電流を流す。",
+      "name": "ヴォルト MK II",
+      "code": "ja"
+    },
+    {
+      "description": "Projektor impulsów elektrycznych: emituje salwę szerokich naładowanych łuków, które mogą zniszczyć systemy wroga.",
+      "name": "Vort: MK II",
+      "code": "pl"
+    },
+    {
+      "description": "Projetor de pulso elétrico: emite uma rajada de arcos eletrificados, capazes de desativar os sistemas dos inimigos.",
+      "name": "Vort (MK II)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：VORT）電化脈衝投射砲所齊發的寬廣電弧可以癱瘓敵方的系統。",
+      "name": "沃特脈衝 MK II",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องฉายพัลส์ไฟฟ้า: ระดมยิงออกไปในวงกว้างเป็นแนวโค้งซึ่งสามารถล้มระบบของศัตรูได้",
+      "name": "Vort MK II",
+      "code": "th"
+    },
+    {
+      "description": "Elektrik dalgası projektörü: Düşman sistemlerini devreden çıkarabilen geniş yüklü dalgalar yayar.",
+      "name": "Vort MK II",
+      "code": "tr"
+    },
+    {
+      "description": "Пускач електричних імпульсів: вивільнює чергу надзаряджених електричних дуг, які пошкоджують системи ворогів.",
+      "name": "Ворт MK II",
+      "code": "uk"
+    }
+  ]
+}

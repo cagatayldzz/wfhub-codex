@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gunsen-dea3aaced2.png",
+  "name": "Gunsen",
+  "description": "Lacerate attackers with two razor sharp warfans.",
+  "languages": [
+    {
+      "description": "Zerfetzt Angreifer mit diesen zwei scharfen Kriegsfächern.",
+      "name": "Gunsen",
+      "code": "de"
+    },
+    {
+      "description": "Lacérez les attaquants avec deux éventails de guerre acérés.",
+      "name": "Gunsen",
+      "code": "fr"
+    },
+    {
+      "description": "Lacera gli avventori con due ventagli affilati come rasoi.",
+      "name": "Gunsen",
+      "code": "it"
+    },
+    {
+      "description": "예민하게 날카로운 전투부채로 적을 베어버리세요.",
+      "name": "군센",
+      "code": "ko"
+    },
+    {
+      "description": "Lacera a los atacantes con estos dos abanicos de guerra filosos como cuchillas.",
+      "name": "Gunsen",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GUNSEN）用两把带有锐利剃刀的军扇来撕碎攻击者。",
+      "name": "军扇",
+      "code": "zh"
+    },
+    {
+      "description": "Раздирайте врагов в клочья с этими бритвенно-острыми веерами.",
+      "name": "Гансен",
+      "code": "ru"
+    },
+    {
+      "description": "攻撃者を2つの非常に鋭い軍扇で引き裂け。",
+      "name": "Gunsen",
+      "code": "ja"
+    },
+    {
+      "description": "Rozszarpuj napastników z dwoma ostrymi jak brzytwa wojennymi wachlarzami.",
+      "name": "Gunsen",
+      "code": "pl"
+    },
+    {
+      "description": "Lacere os inimigos com dois Leques de Batalha afiados.",
+      "name": "Gunsen",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GUNSEN）用兩把帶有銳利剃刀的軍扇來撕碎攻擊者。",
+      "name": "軍扇",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธพัดที่คมกริบคู่นี้จะเฉือนฟันผู้ที่เข้ามาโจมตีให้ขาดกระจุย",
+      "name": "Gunsen",
+      "code": "th"
+    },
+    {
+      "description": "Saldırganları son derece keskin iki savaş yelpazesiyle parçalayın.",
+      "name": "Gunsen",
+      "code": "tr"
+    },
+    {
+      "description": "Гострі, наче бритва, парні бойові віяла.",
+      "name": "Ґунсен",
+      "code": "uk"
+    }
+  ]
+}

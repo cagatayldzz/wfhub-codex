@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/StaffLowerBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/staff-lower-back-holster-f0ce71dc35.png",
+  "name": "Staff Lower Back Holster",
+  "description": "Staffs are holstered across the lower back.",
+  "languages": [
+    {
+      "description": "Stabwaffen werden am unteren Rücken geholstert.",
+      "name": "Stab-Holster: Rücken, Unten",
+      "code": "de"
+    },
+    {
+      "description": "Les Bâtons sont portés le long du bas du dos.",
+      "name": "Port de Bâton au bas du dos",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Staffe nella parte bassa della schiena.",
+      "name": "Rinfodero Staffa Schiena Bassa",
+      "code": "it"
+    },
+    {
+      "description": "스태프 계열 무기를 등 하부에 수납하는 수납 방식입니다.",
+      "name": "스태프 등 하부 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Los bastones se enfundarán a lo largo de la espalda baja.",
+      "name": "Enfundado de espalda baja de bastón",
+      "code": "es"
+    },
+    {
+      "description": "将棍棒武器跨肩收纳在背后。",
+      "name": "棍棒后背收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Посохи крепятся к пояснице.",
+      "name": "Поясничный Крепеж Посоха",
+      "code": "ru"
+    },
+    {
+      "description": "背中の下部分にスタッフ系武器を収納。",
+      "name": "スタッフ専用ボトムバックホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Kostur mocowane są do lędźwi.",
+      "name": "Kostur Mocowanie Do Lędźwi",
+      "code": "pl"
+    },
+    {
+      "description": "Os bastões são guardadas na lombar.",
+      "name": "Bastões: Coldre Nas Costas (Inferior)",
+      "code": "pt"
+    },
+    {
+      "description": "棍棒武器可跨過下背收納。",
+      "name": "棍棒後腰收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "กระบองที่ใส่ซองพาดหลังส่วนล่าง",
+      "name": "ซองกระบองด้านหลังส่วนล่าง",
+      "code": "th"
+    },
+    {
+      "description": "Asalar alt bel boyunca taşınır.",
+      "name": "Asa Alt Bel Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Посохи кріпляться на попереку, коли в руках інша зброя.",
+      "name": "Посох на попереку",
+      "code": "uk"
+    }
+  ]
+}

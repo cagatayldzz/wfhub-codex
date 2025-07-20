@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTennogenFabpsi",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/transfigure-glyph-19069d8421.png",
+  "name": "Transfigure Glyph",
+  "description": "A prize-winning glyph, designed by Fabpsi.",
+  "languages": [
+    {
+      "description": "Eine preisgekrönte Glyphe, entworfen von Fabpsi.",
+      "name": "Glyphe: Metamorphose",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe primé, conçu par Fabpsi.",
+      "name": "Glyphe Transfiguration",
+      "code": "fr"
+    },
+    {
+      "description": "Uno dei glifi vincitori, ideato da Fabpsi.",
+      "name": "Glifo Transfigure",
+      "code": "it"
+    },
+    {
+      "description": "Fabpsi에 의해 디자인된 콘테스트 입상작 글리프입니다.",
+      "name": "트랜스피규어 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo premiado, diseñado por Fabpsi.",
+      "name": "Glifo de Transfigurado",
+      "code": "es"
+    },
+    {
+      "description": "获胜的浮印，由 Fabpsi 设计。",
+      "name": "变脸浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Победитель в конкурсе глифов, созданный от Fabpsi.",
+      "name": "Глиф: Метаморфоза",
+      "code": "ru"
+    },
+    {
+      "description": "入賞したグリフ。製作者： Fabpsi。",
+      "name": "Transfigure グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zwycięski Glif, zaprojektowany przez gracza Fabpsi.",
+      "name": "Glif Transfiguracji",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo premiado, desenvolvido por Fabpsi.",
+      "name": "Glifo: Transfiguração",
+      "code": "pt"
+    },
+    {
+      "description": "獲勝的浮印，由 Fabpsi 所設計。",
+      "name": "變臉浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่ชนะการประกวด ออกแบบโดย Fabpsi",
+      "name": "ภาพสัญลักษณ์ Transfigure",
+      "code": "th"
+    },
+    {
+      "description": "Fabpsi tarafından dizayn edilmiş ödüllü bir glif.",
+      "name": "Transfigür Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Переможець конкурсу гліфів, створений Fabpsi.",
+      "name": "Гліф «Видозміна»",
+      "code": "uk"
+    }
+  ]
+}

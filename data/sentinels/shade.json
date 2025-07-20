@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/ShadePowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shade-fae1390837.png",
+  "name": "Shade",
+  "description": "With 'Revenge' and 'Ghost' as default Precepts, Shade is well suited for stealth gameplay. Shade also comes with a burst laser pistol.",
+  "armor": 80,
+  "languages": [
+    {
+      "description": "Mit 'Rache' und 'Geist' als Standard-Verhaltensregel, eignet sich Shade ideal für verdecktes Vorgehen. Shade verfügt außerdem über eine Feuerstoßlaserpistole.",
+      "name": "Shade",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Vengeance' et 'Fantôme' comme Préceptes de base, Shade est bien adapté à un style de jeu furtif. Shade est également fourni avec un Pistolet laser à rafale.",
+      "name": "Shade",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Revenge' e 'Ghost' come precetti base, Shade è ideale per un gameplay furtivo. Viene fornito con una pistola raffica laser.",
+      "name": "Shade",
+      "code": "it"
+    },
+    {
+      "description": "'리벤지' 및 '고스트'를 기본 프리셉트로 탑재한 셰이드는 잠입형 플레이에 매우 적합한 센티넬로, 주무기로 버스트 레이저 권총을 장비합니다.",
+      "name": "셰이드",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Venganza' y 'Fantasma' como preceptos predeterminados, Shade es muy útil para los jugadores sigilosos. Shade también viene con una pistola de ráfagas láser.",
+      "name": "Shade",
+      "code": "es"
+    },
+    {
+      "description": "以「复仇」和「幽灵」为预设指令，非常适合隐匿型玩法，并同时具备点放式激光手枪。",
+      "name": "阴影",
+      "code": "zh"
+    },
+    {
+      "description": "С заповедями «Месть» и «Призрак», Шейд отлично подходит для скрытной игры. Снаряжён лазерным пистолетом серийного огня.",
+      "name": "Шейд",
+      "code": "ru"
+    },
+    {
+      "description": "「Revenge」と「Ghost」を標準搭載しているShadeは、隠密行動に特化したセンチネルである。バーストファイアレーザーピストルを搭載し、援護を行う。",
+      "name": "Shade",
+      "code": "ja"
+    },
+    {
+      "description": "Z Instrukcjami 'Zemsta' i 'Duch', Shade jest dobrze przystosowany do skrytej rozgrywki. Jest uzbrojony w automatyczny pistolet laserowy.",
+      "name": "Shade",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Revenge' e 'Ghost' como preceitos padrões, a Shade se sobressai em missões que requerem furtividade. Ela vem equipada com a arma Rajada a Laser.",
+      "name": "Shade",
+      "code": "pt"
+    },
+    {
+      "description": "陰影以「復仇」和「幽靈」為預設指令，非常適合隱匿型玩法，並同時具備點放式雷射手槍。",
+      "name": "陰影",
+      "code": "tc"
+    },
+    {
+      "description": "Shade ที่มี 'Revenge' และ 'Ghost' เป็นคำสั่งเริ่มต้น เหมาะสำหรับการเล่นเกมแบบหลบ ๆ ซ่อน ๆ เป็นอย่างยิ่ง ซึ่ง Shade ยังมาพร้อมกับปืนพก Burst Laser อีกด้วย",
+      "name": "Shade",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergeleri 'Revenge' ve 'Ghost' ile beraber kullanıldığında, Shade gizli bir oyun için çok uygun hale gelir. Shade ayrıca Burst Laser Pistol silahı ile gelir.",
+      "name": "Shade",
+      "code": "tr"
+    },
+    {
+      "description": "Вартовий, який чудово пасує для скрадних завдань. Має стандартні настанови «Помста» й «Примара». Споряджений самозарядним лазерним пістолетом.",
+      "name": "Тінь",
+      "code": "uk"
+    }
+  ]
+}

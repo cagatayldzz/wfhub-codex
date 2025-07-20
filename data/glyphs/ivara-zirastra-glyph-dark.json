@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRangerZirastraDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-zirastra-glyph---dark-7bf4b3cd71.png",
+  "name": "Ivara Zirastra Glyph - Dark",
+  "description": "A glyph depicting Ivara Zirastra on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ivara Zirastra vor einem dunklem Hintergrund darstellt.",
+      "name": "Glyphe: Ivara Zirastra (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ivara Zirastra sur un fond sombre.",
+      "name": "Glyphe Ivara Zirastra - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ivara Zirastra su uno sfondo scuro.",
+      "name": "Glifo Ivara Zirastra - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 지라스트라 이바라를 묘사한 글리프입니다.",
+      "name": "이바라 지라스트라 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ivara Zirastra sobre un fondo oscuro.",
+      "name": "Glifo de Ivara Zirastra - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 头罩在黑暗背景下的浮印。",
+      "name": "Ivara 头罩浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ивары в шлеме «Зирастра» на темном фоне.",
+      "name": "Глиф: Ивара Зирастра - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたIvara Zirastraのグリフ。",
+      "name": "Ivara Zirastra グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Ivarę Zirastra na ciemnym tle.",
+      "name": "Glif Ivara Zirastra — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Ivara Zirastra em um fundo escuro.",
+      "name": "Glifo: Ivara Zirastra (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ivara 頭罩在黑暗背景下的浮印。",
+      "name": "Ivara 頭罩浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ivara Zirastra บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Ivara Zirastra - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Zirasta koyu fonlu glif.",
+      "name": "Ivara Zirastra Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Івари в шоломі «Зірастра» на темному тлі.",
+      "name": "Темний гліф «Івара „Зірастра“»",
+      "code": "uk"
+    }
+  ]
+}

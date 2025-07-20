@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Arcade",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ludoplex-7bbdbad0cc.png",
+  "name": "Ludoplex",
+  "description": "Play the finest games in the Origin System with this device. Comes pre-installed with Frame Fighter.",
+  "languages": [
+    {
+      "description": "Spielt auf diesem Gerät, die besten Spiele des Ursprungssystems! Frame Fighter ist bereits installiert.",
+      "name": "Ludoplex",
+      "code": "de"
+    },
+    {
+      "description": "Jouez aux jeux les plus prisés du Système Origine à partir de cet appareil. Le jeu Frame Fighter y est déjà préinstallé.",
+      "name": "Ludoplex",
+      "code": "fr"
+    },
+    {
+      "description": "Gioca i migliori giochi del Sistema Origin su questo dispositivo. Frame Fighter è già installato sul sistema.",
+      "name": "Ludoplex",
+      "code": "it"
+    },
+    {
+      "description": "이 장치로 근원계에서 가장 훌륭한 게임을 즐기세요. 프레임 파이터가 미리 설치되어 있습니다.",
+      "name": "루도플렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Juega los mejores juegos del Sistema Origen en este dispositivo. Viene con Frame Fighter preinstalado.",
+      "name": "Ludoplex",
+      "code": "es"
+    },
+    {
+      "description": "在此设备上游玩始源星系中最精彩的游戏。已预装战甲霸王。",
+      "name": "街机游戏",
+      "code": "zh"
+    },
+    {
+      "description": "Сыграйте в лучшие игры Изначальной Системы, используя это устройство. Имеет предустановленную Frame Fighter.",
+      "name": "Лудоплекс",
+      "code": "ru"
+    },
+    {
+      "description": "このデバイスでOrigin太陽系イチバンのゲームをプレイしよう。プリインストール版のFrame Fighter付き。",
+      "name": "ルドプレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Graj w najlepsze gry w Systemie Origin na tym urządzeniu. Frame Fighter jest już zainstalowany.",
+      "name": "Ludoplex",
+      "code": "pl"
+    },
+    {
+      "description": "Jogue os melhores jogos do Sistema Origem neste dispositivo. Já vem com o Frame Fighter instalado.",
+      "name": "Ludoplex",
+      "code": "pt"
+    },
+    {
+      "description": "在此設備上遊玩始源星系中最精彩的遊戲。",
+      "name": "街機遊戲",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้อุปกรณ์นี้เล่นเกมที่ดีที่สุดในระบบออริจิน มาพร้อมกับ Frame Fighter ที่ติดตั้งไว้ก่อนแล้ว",
+      "name": "Ludoplex",
+      "code": "th"
+    },
+    {
+      "description": "Bu cihazla Origin Sistemi'nin en iyi oyunlarını oyna. İçinde Frame Fighter yüklü olarak gelir.",
+      "name": "Ludoplex",
+      "code": "tr"
+    },
+    {
+      "description": "Грайте в найліпші ігри Материнської системи. Постачається одразу з грою Frame Fighter.",
+      "name": "Ігротека",
+      "code": "uk"
+    }
+  ]
+}

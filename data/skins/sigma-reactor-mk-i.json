@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/RailJack/ReactorClanA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sigma-reactor-mk-i-2b445c9331.png",
+  "name": "Sigma Reactor Mk I",
+  "description": "An upgraded reactor based on the standard issue Sigma series original.",
+  "languages": [
+    {
+      "description": "Ein verbesserter Reaktor, basierend auf der Standardausführung der originalen Sigma-Serie.",
+      "name": "Sigma Reaktor MK I",
+      "code": "de"
+    },
+    {
+      "description": "Un Réacteur amélioré basé sur les modèles originaux standards de la classe Sigma.",
+      "name": "Réacteur Sigma MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Un reattore potenziato basato sull'edizione d'ordinanza della Serie Sigma.",
+      "name": "Reattore Sigma MK I",
+      "code": "it"
+    },
+    {
+      "description": "기본 시그마 시리즈를 기반으로 한 업그레이드된 리액터입니다.",
+      "name": "시그마 리액터 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Un reactor mejorado basado en la edición estándar de la serie Sigma original.",
+      "name": "Reactor Sigma MK I",
+      "code": "es"
+    },
+    {
+      "description": "基于标准配置的西格玛系列原型升级的反应堆。",
+      "name": "西格玛反应堆 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Модернизированный реактор на базе стандартного реактора серии Сигма.",
+      "name": "Реактор: Сигма MK I",
+      "code": "ru"
+    },
+    {
+      "description": "通常型シグマシリーズをベースにしたモデルから改良されたリアクター。",
+      "name": "シグマ・リアクター MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Ulepszony reaktor wzorowany na oryginale serii Sigma.",
+      "name": "Reaktor: Sigma MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Um reator aprimorado baseado na versão original do modelo da Série Sigma.",
+      "name": "Reator: Sigma (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "根據西格瑪系列引擎原版的標准配置而的升級版反應爐。",
+      "name": "西格瑪反應爐 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องปฏิกรณ์ที่ได้รับการอัปเกรดจากแบบมาตรฐานของซีรีส์ Sigma ดั้งเดิม",
+      "name": "เครื่องปฏิกรณ์: Sigma MK I",
+      "code": "th"
+    },
+    {
+      "description": "Orijinal Standart Sigma serisi baz alınarak geliştirilmiş bir reaktör.",
+      "name": "Sigma Reaktörü MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Посилений реактор серії «Сигма».",
+      "name": "Реактор «Сигма» MK I",
+      "code": "uk"
+    }
+  ]
+}

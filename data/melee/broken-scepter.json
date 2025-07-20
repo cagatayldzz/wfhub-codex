@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/broken-scepter-0d9d345a91.png",
+  "name": "Broken Scepter",
+  "description": "A shattered talisman of the Grineer Elder Queen. It pulls health orbs from deceased enemies and energy orbs from destroyed robots.",
+  "languages": [
+    {
+      "description": "Ein zersprungener Talisman der Grineer Altkönigin. Es entzieht verstorbenen Gegnern Gesundheitskugeln und zerstörten Robotern Energiekugeln.",
+      "name": "Zerbrochenes Zepter",
+      "code": "de"
+    },
+    {
+      "description": "Un talisman brisé de la Reine Grineer Aînée. Il aspire des Orbes de Santé des ennemis morts et des Orbes d'Énergie des robots détruits.",
+      "name": "Sceptre Brisé",
+      "code": "fr"
+    },
+    {
+      "description": "Un frantumato talismano della Regina Grineer Maggiore. Estrae sfere di Salute dai nemici deceduti e sfere di Energia dai robot distrutti.",
+      "name": "Broken Scepter",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 언니 여왕의 부서진 호부로, 죽은 적들로부터 체력 오브를 끌어당기며, 파괴된 로봇들로부터 에너지 오브를 끌어당깁니다.",
+      "name": "브로큰 셉터",
+      "code": "ko"
+    },
+    {
+      "description": "Un talismán roto de la Reina Mayor grineer. Genera orbes de salud de los enemigos muertos y orbes de energía de los robots destruidos.",
+      "name": "Broken Scepter",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BROKEN SCEPTER）Grineer 大女皇的护身物，虽已破碎但仍具有神秘力量。能从死去敌人身上取得生命球，或从被破坏的机器人中取得能量球。",
+      "name": "破损珽杖",
+      "code": "zh"
+    },
+    {
+      "description": "Искаженный талисман старшей Королевы Гринир. Он вытягивает сферы здоровья из погибших врагов и сферы энергии из погибших роботов.",
+      "name": "Сломанный Скипетр",
+      "code": "ru"
+    },
+    {
+      "description": "破損した両女帝の護符。死体からヘルスオーブを吸収し、破壊された機械からエネルギーオーブを吸収する。",
+      "name": "Broken Scepter",
+      "code": "ja"
+    },
+    {
+      "description": "Roztrzaskany talizman Starszej Królowej Grineer. Przyciąga kule życia z poległych wrogów oraz kule energii ze zniszczonych robotów.",
+      "name": "Złamane Berło",
+      "code": "pl"
+    },
+    {
+      "description": "Um talismã despedaçado pertencente a Rainha Grineer Anciã. Ele atrai Orbes de Vida de inimigos abatidos, e Orbes de Energia de robôs destruídos.",
+      "name": "Cetro Quebrado",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BROKEN SCEPTER）Grineer 大女皇的護身物，雖已破碎但仍具有神秘力量。能從死去敵人身上取得生命球，或從被破壞的機器人中取得能量球。",
+      "name": "破損珽杖",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธชิ้นนี้เป็นเหมือนเครื่องรางของขลังของราชินีอาวุโสของ Grineer ซึ่งสามารถดึงเอาลูกเลือดพลังชีวิตออกมาจากศัตรูที่ตายแล้ว หรือดึงเอาลูกพลังงานมาจากหุ่นยนต์ที่ถูกทำลายได้",
+      "name": "Broken Scepter",
+      "code": "th"
+    },
+    {
+      "description": "Grineerlerin Yaşlı Kraliçesinin parçalanmış muskası. Ruhuna veda eden düşmanlardan sağlık kürelerini, devreleri yok edilen robotlardan da enerji kürelerini Warframe'inize çeker.",
+      "name": "Broken Scepter",
+      "code": "tr"
+    },
+    {
+      "description": "Розбитий символ влади Старшої Королеви ґрінерів. Витягує залишки життєвої сили з мертвих ворогів і енергію з потрощених роботів.",
+      "name": "Зламаний скіпетр",
+      "code": "uk"
+    }
+  ]
+}

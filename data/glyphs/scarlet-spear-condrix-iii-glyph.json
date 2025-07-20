@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundIII",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarlet-spear-condrix-iii-glyph-c0e8cb907e.png",
+  "name": "Scarlet Spear Condrix Iii Glyph",
+  "description": "Earned through ground assaults against the Sentient Condrix during Operation Scarlet Spear.",
+  "languages": [
+    {
+      "description": "Verdient durch Bodenangriffe gegen den Sentient Condrix, während der Operation: Scharlachroter Speer.",
+      "name": "Glyphe: Scharlachroter Speer Condrix III",
+      "code": "de"
+    },
+    {
+      "description": "Obtenu en participant aux assauts terrestres contre le Condrix Sentient lors de l'Opération: Incursion Écarlate.",
+      "name": "Glyphe de Condrix d'Incursion Écarlate III",
+      "code": "fr"
+    },
+    {
+      "description": "Guadagnato grazie agli assalti a terra contro le Condrix Sentient durante l'Operazione Scarlet Spear.",
+      "name": "Glifo Scarlet Spear Condrix III",
+      "code": "it"
+    },
+    {
+      "description": "스칼렛 스피어 작전 도중 센티언트 콘드릭스에 대한 지상 공격을 통해 얻을 수 있습니다.",
+      "name": "스칼렛 스피어 콘드릭스 III 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Obtenido al haber participado en ataques terrestres contra la Condrix consciente durante la Operación Lanza Escarlata.",
+      "name": "Glifo de Condrix de Lanza Escarlata III",
+      "code": "es"
+    },
+    {
+      "description": "在《行动代号：猩红之矛》期间，通过在地面强袭任务中与 Sentient 谍影登陆舰进行作战赢取的奖励。",
+      "name": "猩红之矛谍影 III 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "За сухопутные штурмы Кондрикса Владеющих Разумом во время Операции «Алое Копьё».",
+      "name": "Глиф: Алое Копье - Кондрикс III",
+      "code": "ru"
+    },
+    {
+      "description": "「深紅の槍」作戦の地上突撃戦でセンティエントコンドリックスに立ち向かうことで得られる。",
+      "name": "深紅の槍 コンドリックス III グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zdobyty poprzez naziemne szturmy przeciwko Kondriksom Świadomych podczas Operacji: Szkarłatna Włócznia.",
+      "name": "Glif Szkarłatnej Włóczni: Kondriks III",
+      "code": "pl"
+    },
+    {
+      "description": "Recebido através de ataques terrestres contra a Condrix Sentient durante a Operação: Lança Escarlate.",
+      "name": "Glifo: Lança Escarlate Condrix III",
+      "code": "pt"
+    },
+    {
+      "description": "在行動代號：猩紅標槍作戰期間，於地面作戰任務進攻 Sentient 勘地傳播艇得來的獎勵。",
+      "name": "猩紅標槍勘地傳播艇 III 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ได้รับจากการโจมตีภาคพื้นดินเพื่อสู้กับ Sentient Condrix ในระหว่างปฏิบัติการ Scarlet Spear",
+      "name": "ภาพสัญลักษณ์ Scarlet Spear Condrix III",
+      "code": "th"
+    },
+    {
+      "description": "Scarlet Spear Operasyonunda Sentient Condrix'ine karşı yapılan yer saldırılarında kazanılır.",
+      "name": "Scarlet Spear Condrix III Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за участь у штурмах кондріксів Свідомих на поверхні планет під час операції «Багряний спис».",
+      "name": "Гліф «Багряний спис: кондрікс» III ступеня",
+      "code": "uk"
+    }
+  ]
+}

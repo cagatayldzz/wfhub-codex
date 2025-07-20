@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/synoid-gammacor-02823b6001.png",
+  "name": "Synoid Gammacor",
+  "description": "Deployed by the Cephalon Suda, once a data-analyzing instrument the Gammacor main focus is defense.",
+  "languages": [
+    {
+      "description": "Entwickelt von Cephalon Suda, einst ein Gerät zur Datenanalyse liegt der Hauptfokus der Gammacor auf Verteidigung.",
+      "name": "Synoid Gammacor",
+      "code": "de"
+    },
+    {
+      "description": "Déployé par le Céphalon Suda, ce terrible dispositif d'analyse de données vaporise ses nanotechnologies pour extraire et/ou détruire des données cruciales.",
+      "name": "Gammacor Synoid",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiegato da Cephalon Suda, il Gammacor un tempo era uno strumento di analisi dei dati, mentre ora ha come obiettivo principale la difesa.",
+      "name": "Synoid Gammacor",
+      "code": "it"
+    },
+    {
+      "description": "세팔론 수다의 제식 장비인 이 감마코어는 한때 정보 분석 도구였으나 지금은 방어에 중점을 둔 무기입니다.",
+      "name": "사이노이드 감마코어",
+      "code": "ko"
+    },
+    {
+      "description": "Desplegado por el Céfalon Suda, este destructivo instrumento de análisis de datos vaporiza a su objetivo con el fin de extraer datos cruciales.",
+      "name": "Gammacor Synoid",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SYNOID GAMMACOR）由中枢苏达所设置，过去曾作为数据分析仪器，但现在已转为专用于自卫的武器。",
+      "name": "枢议·咖玛腕甲枪",
+      "code": "zh"
+    },
+    {
+      "description": "Предлагаемый цефалоном Суда, этот разрушительный аналитический инструмент распыляет свою цель ради получения важных данных.",
+      "name": "Синоидальный гаммакор",
+      "code": "ru"
+    },
+    {
+      "description": "セファロン・スーダが配備した元データ分析装置。Gammacorは主に防衛のために使用されている。",
+      "name": "Synoid Gammacor",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzone przez Cefalon Sudę, to niszczycielskie urządzenie analityczne rozbija swój cel na cząsteczki, by wyodrębnić z niego ważne dane.",
+      "name": "Gammacor Synoid",
+      "code": "pl"
+    },
+    {
+      "description": "Implantado pela Cephalon Suda, este instrumento destrutivo de análise de dados, vaporiza seu alvo para extrair dados cruciais.",
+      "name": "Gammacor Synoid",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SYNOID GAMMACOR）由中樞蘇達所設置，過去曾作為數據分析儀器，但現在已轉為專用於自衛的武器。",
+      "name": "樞議 咖瑪腕甲槍",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้งานโดย Cephalon Suda ครั้งหนึ่งมันเคยเป็นเครื่องมือวิเคราะห์ข้อมูล จุดสนใจหลักของ Gammacor คือการป้องกัน",
+      "name": "Synoid Gammacor",
+      "code": "th"
+    },
+    {
+      "description": "Bİr data analiz ayrıştırıcısı olarak üretilen bu silah savaş meydanında düşmanları buharlaştırmak için kullanılmaya başlandı.",
+      "name": "Synoid Gammacor",
+      "code": "tr"
+    },
+    {
+      "description": "Створений цефалонкою Судою пістолет. Використовувався як дослідницьке знаряддя, тепер застосовується для оборони.",
+      "name": "Гаммакор-синоїд",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Objects/Tenno/Props/TnoLisetTextProjector",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/note-beacon-c7f1d469a2.png",
+  "name": "Note Beacon",
+  "description": "A beacon capable of displaying custom messages.",
+  "languages": [
+    {
+      "description": "Ein Signal, dass eine angepasste Nachricht anzeigen kann.",
+      "name": "Nachrichten-Signal",
+      "code": "de"
+    },
+    {
+      "description": "Une balise pouvant afficher des messages personnalisés.",
+      "name": "Balise d'Annonces",
+      "code": "fr"
+    },
+    {
+      "description": "Un faretto in grado di proiettare messaggi personalizzati.",
+      "name": "Segnalatore Annunci",
+      "code": "it"
+    },
+    {
+      "description": "사용자 지정 메시지를 표시할 수 있는 비컨입니다.",
+      "name": "메모 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Una baliza capaz de mostrar mensajes personalizados.",
+      "name": "Baliza de notas",
+      "code": "es"
+    },
+    {
+      "description": "一台能显示自定信息的",
+      "name": "注释立标",
+      "code": "zh"
+    },
+    {
+      "description": "Маяк, который может отображать введённые сообщения.",
+      "name": "Маяк с Текстом",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムメッセージを配信できるビーコン。",
+      "name": "お知らせビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Sygnalizator umożliwiający wyświetlanie niestandardowych wiadomości.",
+      "name": "Znacznik Informacyjny",
+      "code": "pl"
+    },
+    {
+      "description": "Um sinalizador capaz de exibir mensagens customizadas.",
+      "name": "Sinalizador de Mensagens",
+      "code": "pt"
+    },
+    {
+      "description": "能夠顯示自訂訊息的標示。",
+      "name": "註解標示",
+      "code": "tc"
+    },
+    {
+      "description": "ไฟสัญญาณที่สามารถแสดงข้อความที่กำหนดเองได้",
+      "name": "ไฟสัญญาณแสดงข้อความ",
+      "code": "th"
+    },
+    {
+      "description": "Özel mesajları gösterebilen bir işaret ışığı",
+      "name": "Not Göstergesi",
+      "code": "tr"
+    },
+    {
+      "description": "Маяк, який може показувати різні сповіщення.",
+      "name": "Маяк із текстом",
+      "code": "uk"
+    }
+  ]
+}

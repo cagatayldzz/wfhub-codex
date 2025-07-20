@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ArmScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yomo-syandana-e7eb2da359.png",
+  "name": "Yomo Syandana",
+  "description": "A traditional garment, popular with high ranking Tenno.",
+  "languages": [
+    {
+      "description": "Ein traditionelles Gewand, sehr beliebt bei hochrangigen Tenno.",
+      "name": "Yomo Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Un vêtement traditionnel, populaire chez les Tennos de haut rang.",
+      "name": "Syandana Yomo",
+      "code": "fr"
+    },
+    {
+      "description": "Una decorazione tradizionale, diffusa tra i Tenno di alto rango.",
+      "name": "Syandana Yomo",
+      "code": "it"
+    },
+    {
+      "description": "고위 텐노에 의해서 유명해진 전통 의복입니다.",
+      "name": "요모 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Un atuendo tradicional, popular entre los tenno de alto rango.",
+      "name": "Syandana Yomo",
+      "code": "es"
+    },
+    {
+      "description": "一件传统服装，在高等 Tenno 中很受欢迎。",
+      "name": "四方披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Традиционное украшение, популярное среди высокопоставленных Тэнно.",
+      "name": "Сандана: Йомо",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの伝統的な衣装。高い地位にあるテンノが好んで身に付ける。",
+      "name": "Yomo シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Tradycyjny strój, popularny wśród Tenno wysokich stopniem.",
+      "name": "Syandana Yomo",
+      "code": "pl"
+    },
+    {
+      "description": "Uma tradicional vestimenta, popular com Tenno de altas patentes.",
+      "name": "Syandana: Yomo",
+      "code": "pt"
+    },
+    {
+      "description": "一件傳統服裝，在高等 Tenno 中很受歡迎。",
+      "name": "四方披飾",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องแต่งกายแบบดั้งเดิมที่ได้รับความนิยมจาก Tenno ระดับสูง",
+      "name": "ไซอันดานา Yomo",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek rütbeli Tenno'lar arasında popüler bir kıyafet.",
+      "name": "Yomo Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Традиційний елемент убрання, широко використовуваний тенно з великим рангом.",
+      "name": "Сяндана «Йомо»",
+      "code": "uk"
+    }
+  ]
+}

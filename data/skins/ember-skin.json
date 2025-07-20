@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-skin-69ff754594.png",
+  "name": "Ember Skin",
+  "description": "The standard issue skin for the Ember Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Ember Warframe.",
+      "name": "Ember-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Ember.",
+      "name": "Aspect Ember",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Ember.",
+      "name": "Skin Ember",
+      "code": "it"
+    },
+    {
+      "description": "엠버 워프레임을 위한 기본 스킨입니다.",
+      "name": "엠버 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Ember.",
+      "name": "Diseño de Ember",
+      "code": "es"
+    },
+    {
+      "description": "Ember 的标准外观配置。",
+      "name": "Ember 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Эмбер.",
+      "name": "Скин Эмбер",
+      "code": "ru"
+    },
+    {
+      "description": "Emberの標準型スキン。",
+      "name": "Ember スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Ember.",
+      "name": "Ember: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Ember.",
+      "name": "Ember: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Ember 的標準外觀配置。",
+      "name": "Ember 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Ember Warframe",
+      "name": "สกิน Ember",
+      "code": "th"
+    },
+    {
+      "description": "Ember Warframe için standart skin.",
+      "name": "Ember Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Ембер.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

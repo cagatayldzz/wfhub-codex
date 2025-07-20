@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/IndexEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-index-emblem-93d881b784.png",
+  "name": "The Index Emblem",
+  "description": "A memento of The Index.",
+  "languages": [
+    {
+      "description": "Ein Andenken an den Index",
+      "name": "Emblem: Der Index",
+      "code": "de"
+    },
+    {
+      "description": "Un souvenir de l'Index.",
+      "name": "Badge de l'Index",
+      "code": "fr"
+    },
+    {
+      "description": "Un cimelio dell'Index.",
+      "name": "Emblema Index",
+      "code": "it"
+    },
+    {
+      "description": "인덱스의 기념품입니다.",
+      "name": "인덱스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un recuerdo del Índice.",
+      "name": "Emblema del Índice",
+      "code": "es"
+    },
+    {
+      "description": "《指数之场》的纪念",
+      "name": "指数之场徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Сувенир Индекса.",
+      "name": "Значок: Индекс",
+      "code": "ru"
+    },
+    {
+      "description": "インデックスの記念の品物。",
+      "name": "インデックス エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Pamiątka Indeksu.",
+      "name": "Emblemat: Indeks",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lembrança do Index",
+      "name": "Emblema: O Index",
+      "code": "pt"
+    },
+    {
+      "description": "《指數之場》的紀念",
+      "name": "指數之場徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ของที่ระลึกถึงอินเด็กซ์",
+      "name": "ตราสัญลักษณ์: อินเด็กซ์",
+      "code": "th"
+    },
+    {
+      "description": "Bir Indeks Hatırası",
+      "name": "Indeks Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про гру в Індекс.",
+      "name": "Відзнака «Індекс»",
+      "code": "uk"
+    }
+  ]
+}

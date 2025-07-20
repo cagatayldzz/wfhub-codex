@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunlight-jadeleaf-db857bb828.png",
+  "name": "Sunlight Jadeleaf",
+  "description": "This rare plant can only be found during the day. \n\nLocation: Obtained by gathering Sunlight Jadeleaf plants that grow on Earth",
+  "languages": [
+    {
+      "description": "Diese seltene Pflanze kann nur tagsüber gefunden werden.\n\nQuelle: Erhältlich durch das Sammeln von Sonnenlicht Jadeblättern, die auf der Erde wachsen.",
+      "name": "Sonnenlicht Jadeblatt",
+      "code": "de"
+    },
+    {
+      "description": "Cette plante rare ne peut être trouvée que pendant la journée. \n\nLieu: obtenue en récoltant des Jadeleafs de Jour qui poussent sur Terre",
+      "name": "Jadeleaf de Jour",
+      "code": "fr"
+    },
+    {
+      "description": "Questa pianta rara può essere trovata solo di giorno. \n\nPosizione: Ottenuta raccogliendo le Piante Jadeleaf Diurno che crescono sulla Terra",
+      "name": "Jadeleaf Diurno",
+      "code": "it"
+    },
+    {
+      "description": "낮에만 발견할 수 있는 귀한 식물입니다. \n\n획득 가능 장소: 지구에서 자라는 선라이트 제이드리프 식물을 수확해서 획득할 수 있습니다",
+      "name": "선라이트 제이드리프",
+      "code": "ko"
+    },
+    {
+      "description": "Esta planta rara sólo se puede encontrar durante el día. \n\nUbicación: Se obtiene recolectando las plantas de hoja de jade solar que crecen en la Tierra",
+      "name": "Hoja de Jade Solar",
+      "code": "es"
+    },
+    {
+      "description": "这种稀有的植物只能在白天找到。 \n\n获取地点：通过采集地球上生长的日光玉叶植物获得。",
+      "name": "日光玉叶",
+      "code": "zh"
+    },
+    {
+      "description": "Это редкое растение можно увидеть только днём.\n\nМестонахождение: Солнечный зеленоцвет растёт на Земле.",
+      "name": "Солнечный зеленоцвет",
+      "code": "ru"
+    },
+    {
+      "description": "日の出ている間にしか現れない、非常にまれな植物。\n\n場所：地球上に自生しているサンライト ジェイドリーフを採取",
+      "name": "サンライト ジェイドリーフ",
+      "code": "ja"
+    },
+    {
+      "description": "Tę rzadką roślinę można znaleźć tylko w czasie dnia. \n\nPołożenie: Zdobywana przez podniesienie Słonecznego Jadeitowego Liścia, który znaleźć można w lasach na Ziemi",
+      "name": "Słoneczny Jadeitowy Liść",
+      "code": "pl"
+    },
+    {
+      "description": "Esta planta rara só pode ser encontrada durante o dia. \n\nLocalização: obtida ao coletar Folhas de Jade Diurna, na Terra.",
+      "name": "Folha de Jade Diurna",
+      "code": "pt"
+    },
+    {
+      "description": "這種稀有的植物只能在白天找到。\n\n地點：透過採集生長在地球上的日光玉葉植物取得",
+      "name": "日光玉葉",
+      "code": "tc"
+    },
+    {
+      "description": "พืชหายากชนิดนี้จะพบได้เฉพาะในตอนกลางวันเท่านั้น \n\nแหล่งที่พบ: ได้มาจากการรวบรวมต้นใบหยกแสงตะวันที่เติบโตบนโลก",
+      "name": "ใบหยกแสงตะวัน",
+      "code": "th"
+    },
+    {
+      "description": "Bu ender olarak bulunabilen bitki sadece gündüzleri ortaya çıkar. \n\nKonum: Dünya'da yetişen Sunlight Jadeleaf bitkisi toplanarak elde edilebilir",
+      "name": "Sunlıght Jadeleaf",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісна рослина, яку можна знайти лише вдень і зібрати з денного нефритолиста.\n\nМожна здобути на Землі.",
+      "name": "Денний нефритолист",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageAshPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ash-prime-glyph---bright-bc42bd8b3f.png",
+  "name": "Ash Prime Glyph - Bright",
+  "description": "A glyph depicting Ash Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ash Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Ash Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ash Prime sur un fond lumineux.",
+      "name": "Glyphe Ash Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ash Prime su uno sfondo chiaro.",
+      "name": "Glifo Ash Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 애쉬 프라임을 묘사한 글리프입니다.",
+      "name": "애쉬 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ash Prime sobre un fondo brillante.",
+      "name": "Glifo de Ash Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Ash Prime 在明亮背景下的浮印。",
+      "name": "Ash Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эша Прайм на светлом фоне.",
+      "name": "Глиф: Эш Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたAsh Prime のグリフ。",
+      "name": "Ash Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Ash Prime na jasnym tle.",
+      "name": "Glif Ash Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Ash Prime em um fundo claro.",
+      "name": "Glifo: Ash Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ash Prime 在明亮背景下的浮印。",
+      "name": "Ash Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ash Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Ash Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Ash Prime açık fonlu glif.",
+      "name": "Ash Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Еша-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Еш-прайм»",
+      "code": "uk"
+    }
+  ]
+}

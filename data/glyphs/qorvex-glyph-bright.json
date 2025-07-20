@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageQorvexBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/qorvex-glyph---bright-edd7d493d6.png",
+  "name": "Qorvex Glyph - Bright",
+  "description": "A glyph depicting Qorvex on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Qorvex vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Qorvex (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Qorvex sur un fond lumineux.",
+      "name": "Glyphe Qorvex - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Qorvex su uno sfondo chiaro.",
+      "name": "Glifo Qorvex - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 코르벡스를 묘사한 글리프입니다.",
+      "name": "코르벡스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Qorvex sobre un fondo brillante.",
+      "name": "Glifo de Qorvex - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Qorvex 在明亮背景下的浮印。",
+      "name": "Qorvex 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Корвекса на светлом фоне.",
+      "name": "Глиф: Корвекс - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたQorvexのグリフ。",
+      "name": "Qorvex グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Qorvexa na jasnym tle.",
+      "name": "Glif Qorvex — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Qorvex em um fundo claro.",
+      "name": "Glifo: Qorvex (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Qorvex 在明亮背景下的浮印。",
+      "name": "Qorvex 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Qorvex บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Qorvex - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Qorvex açık fonlu glif.",
+      "name": "Qorvex Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Корвекса на світлому тлі.",
+      "name": "Яскравий гліф «Корвекс»",
+      "code": "uk"
+    }
+  ]
+}

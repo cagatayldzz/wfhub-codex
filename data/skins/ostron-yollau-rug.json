@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstRugYellow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ostron-yollau-rug-8a756554e2.png",
+  "name": "Ostron Yollau Rug",
+  "description": "An Ostron rug featuring yellow bands.",
+  "languages": [
+    {
+      "description": "Ein Ostron Teppich mit gelben Bändern.",
+      "name": "Ostron Teppich: Yollau",
+      "code": "de"
+    },
+    {
+      "description": "Un tapis Ostron à rayures jaunes.",
+      "name": "Tapis Ostron Yollau",
+      "code": "fr"
+    },
+    {
+      "description": "Un tappeto di Ostron con fascette gialle.",
+      "name": "Tappeto Ostron Yollau",
+      "code": "it"
+    },
+    {
+      "description": "노란색 띠가 특징적인 오스트론풍 러그입니다.",
+      "name": "오스트론 욜라우 러그",
+      "code": "ko"
+    },
+    {
+      "description": "Una alfombra ostronita con bandas amarillas.",
+      "name": "Alfombra ostronita Yollau",
+      "code": "es"
+    },
+    {
+      "description": "一种有黄色带装饰的 Ostron 毯子",
+      "name": "Ostron 黄色毯子",
+      "code": "zh"
+    },
+    {
+      "description": "Остронский коврик, украшенный жёлтыми полосами.",
+      "name": "Остронский Коврик: Йоллау",
+      "code": "ru"
+    },
+    {
+      "description": "黄色いスジが特徴のオストロンのラグ。",
+      "name": "オストロン Yollau ラグ",
+      "code": "ja"
+    },
+    {
+      "description": "Ostroński dywan z żółtymi pasami.",
+      "name": "Dywan Ostron Yollau",
+      "code": "pl"
+    },
+    {
+      "description": "Um tapete de Ostron com fitas amarelas.",
+      "name": "Tapete: Ostron Yollau",
+      "code": "pt"
+    },
+    {
+      "description": "一種有黃色帶裝飾的 Ostron 毯子。",
+      "name": "Ostron 黃色小地毯",
+      "code": "tc"
+    },
+    {
+      "description": "พรม Ostron ที่มีแถบสีเหลือง",
+      "name": "พรม Ostron Yollau",
+      "code": "th"
+    },
+    {
+      "description": "Sarı şeritler barındıran Ostron kilimi.",
+      "name": "Ostron Yollau Kilim",
+      "code": "tr"
+    },
+    {
+      "description": "Остронський килимок із жовтими смугами.",
+      "name": "Остронський килимок «Йоллау»",
+      "code": "uk"
+    }
+  ]
+}

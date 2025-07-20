@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GaussTowerOfAltraDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grav-lifter-factory-645422ccbe.png",
+  "name": "Grav Lifter Factory",
+  "description": "A model Grav Lifter Factory, inspired by Yareli and her battle with the slave driver Vulgran, to save the children forced to work there. A story told in the first Waverider Graphica.",
+  "languages": [
+    {
+      "description": "Ein Modell der Grav-Heber Fabrik inspiriert von Yareli und ihrem Kampf mit dem Sklaventreiber Vulgran, um die Kinder zu retten, die dort zur Arbeit gezwungen werden. Eine Geschichte, die in der ersten Wellenreiter Graphika erzählt wird.",
+      "name": "Grav-Heber Fabrik",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle d'usine d'engins anti-gravité, inspiré par Yareli et sa bataille contre l'esclavagiste Vulgran afin de sauver les orphelins forcés d'y travailler. Une histoire racontée dans la Graphica Waverider.",
+      "name": "Usine d'engins anti-gravité",
+      "code": "fr"
+    },
+    {
+      "description": "Un modellino della Fabbrica di Grav Lifter, ispirato a Yareli e alla sua battaglia con lo schiavista Vulgran, per salvare i bambini costretti a lavorare lì. Una storia raccontata nella prima Graphica di Waverider.",
+      "name": "Fabbrica di Grav Lifter",
+      "code": "it"
+    },
+    {
+      "description": "야렐리와 그녀가 강제 노역에 시달리던 아이들을 구하기 위해 노예 감독관 벌그란과 벌였던 전투를 모티브로 삼아 제작된 중력 리프터 공장의 모델입니다. 첫 번째 파도의 기수 그래피카에 담긴 이야기지요.",
+      "name": "중력 리프터 공장",
+      "code": "ko"
+    },
+    {
+      "description": "Un modelo de fábrica de elevadores gravitacionales, inspirado en Yareli y su batalla con el esclavista Vulgran, para salvar a los niños obligados a trabajar allí. Una historia contada en la primera edición gráfica de Surfista.",
+      "name": "Fábrica de elevadores gravitacionales",
+      "code": "es"
+    },
+    {
+      "description": "一个反重力提升器工厂的模型，灵感来自 Yareli 为了拯救被迫在工厂里劳动的儿童而与奴隶主武戈兰战斗。第一篇刊登在驭浪者漫画图像的故事。",
+      "name": "反重力提升器工厂",
+      "code": "zh"
+    },
+    {
+      "description": "Модель завода по производству погрузчиков, вдохновлённая Ярели и её битвой с работорговцем Вулграном в попытке спасти юных рабов-гребцов. Эту историю можно узнать в графической серии «Укротительница волн».",
+      "name": "Завод по производству погрузчиков",
+      "code": "ru"
+    },
+    {
+      "description": "Yareliの伝説で登場した、奴隷商人Vulgranのグラビリフター・ファクトリーのモデル。ウェーブライダーコミックではYareliの武勇伝が語られる。",
+      "name": "グラビリフター・ファクトリー",
+      "code": "ja"
+    },
+    {
+      "description": "Model Fabryki Nośników Grawitacyjnych, zainspirowany Yareli i jej walką z nadzorcą niewolników, Vulgranem, by uwolnić dzieci zmuszone do pracy. Historia opowiedziana została w pierwszej Grafice Surferki.",
+      "name": "Fabryka Nośników Grawitacyjnych",
+      "code": "pl"
+    },
+    {
+      "description": "Um modelo de uma Fábrica de Elevadores Gravitacionais, inspirado na Yareli e em sua batalha contra o senhor de escravos, Vulgran, para salvar as crianças forçadas a trabalhar. Uma história contada na primeira edição da Gráfica da Surfista.",
+      "name": "Fábrica de Elevadores Gravitacionais",
+      "code": "pt"
+    },
+    {
+      "description": "重力舉升器工廠的模型，靈感來自 Yareli 及她為解救那些被奴役在廠內付出勞力的童工而不惜與奴工工頭──Vulgran 一戰的事跡。一篇在首發乘浪者漫畫冊中刊登的故事。",
+      "name": "重力舉升器工廠",
+      "code": "tc"
+    },
+    {
+      "description": "แบบจำลองโรงงานตัวยกแรงโน้มถ่วงซึ่งได้รับแรงบันดาลใจจาก Yareli ที่ต่อสู้กับ Vulgran คนคุมทาสเพื่อช่วยชีวิตเด็ก ๆ ที่ถูกบังคับให้ทำงานที่นั่น เป็นเรื่องราวที่เคยเล่าอยู่ในภาพกราฟิกของเวฟไรเดอร์ภาคแรก",
+      "name": "โรงงานตัวยกแรงโน้มถ่วง",
+      "code": "th"
+    },
+    {
+      "description": "Çocukları çalışmaya zorlayan köleci Vulgran ile Yareli'nin savaşını ilham alan bir Yerçekimi Kaldıracı Fabrikasının modeli. İlk Waverider Graphica'sında anlatılan bir hikaye.",
+      "name": "Yerçekimi Kaldıracı Fabrikası",
+      "code": "tr"
+    },
+    {
+      "description": "Модель заводу з виробництва тяжпідіймачів, натхненна Ярелі та її битвою з работоргівцем Вулґраном у спробі врятувати юних рабів-веслярів. Цю історію можна довідатися в ґрафіці «Підкорювачка Хвиль».",
+      "name": "Завод із виробництва тяжпідіймачів",
+      "code": "uk"
+    }
+  ]
+}

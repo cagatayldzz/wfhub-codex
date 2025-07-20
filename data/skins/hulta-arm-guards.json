@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/LokiDeluxeArmour/LokiDeluxeAArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hulta-arm-guards-842e0f0ffe.png",
+  "name": "Hulta Arm Guards",
+  "description": "Loki Knave’s looted armor.",
+  "languages": [
+    {
+      "description": "Loki Knaves geplünderte Rüstung.",
+      "name": "Schulterplatten: Hulta",
+      "code": "de"
+    },
+    {
+      "description": "L'armure pillée de Loki Knave.",
+      "name": "Brassards Hulta",
+      "code": "fr"
+    },
+    {
+      "description": "Armatura depredata di Loki Knave.",
+      "name": "Spallacci Hulta",
+      "code": "it"
+    },
+    {
+      "description": "로키 네이브가 약탈한 전리품입니다.",
+      "name": "헐타 암 가드",
+      "code": "ko"
+    },
+    {
+      "description": "Armadura de saqueador de Loki Knave.",
+      "name": "Protectores de brazo Hulta",
+      "code": "es"
+    },
+    {
+      "description": "Loki 无赖的掠夺物护甲",
+      "name": "隐匿护套",
+      "code": "zh"
+    },
+    {
+      "description": "Трофейная броня Локи «Плут».",
+      "name": "Наплечники: Хальта",
+      "code": "ru"
+    },
+    {
+      "description": "Loki Knaveの戦利品のアーマー。",
+      "name": "Hulta アームガード",
+      "code": "ja"
+    },
+    {
+      "description": "Skradziona zbroja należąca do Lokiego Knave.",
+      "name": "Naramienniki: Hulta",
+      "code": "pl"
+    },
+    {
+      "description": "A Armadura saqueada do Loki Knave.",
+      "name": "Ombros: Hulta",
+      "code": "pt"
+    },
+    {
+      "description": "Loki 無賴的掠奪物護甲",
+      "name": "隱匿護臂",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะที่โดนขโมยไปของ Loki Knave",
+      "name": "การ์ดแขน Hulta",
+      "code": "th"
+    },
+    {
+      "description": "Loki Knave yağma zırhı",
+      "name": "Hulta Kol Korumaları",
+      "code": "tr"
+    },
+    {
+      "description": "Трофейний обладунок «Шахрай» для ворфрейма Локі.",
+      "name": "Наплічник «Гальта»",
+      "code": "uk"
+    }
+  ]
+}

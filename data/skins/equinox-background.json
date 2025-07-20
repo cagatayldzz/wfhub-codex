@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/GradientBackground",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-background-2ef82668ed.png",
+  "name": "Equinox Background",
+  "description": "A custom UI background.",
+  "languages": [
+    {
+      "description": "Ein angepasster UI-Hintergrund.",
+      "name": "Hintergrund: Equinox",
+      "code": "de"
+    },
+    {
+      "description": "Un fond personnalisé pour l'interface.",
+      "name": "Fond Equinox",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sfondo personalizzato per l'interfaccia.",
+      "name": "Sfondo Equinox",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 배경화면입니다.",
+      "name": "이쿼녹스 배경화면",
+      "code": "ko"
+    },
+    {
+      "description": "Personalización de la interfaz",
+      "name": "Fondo de Equinox",
+      "code": "es"
+    },
+    {
+      "description": "一个用于自定义界面的背景",
+      "name": "Equinox 背景",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный фон интерфейса.",
+      "name": "Фон: Эквинокс",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIバックグラウンド。",
+      "name": "Equinox バックグラウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowane tło Interfejsu.",
+      "name": "Tło Equinox",
+      "code": "pl"
+    },
+    {
+      "description": "Um plano de fundo de interface personalizado.",
+      "name": "Plano de Fundo da Equinox",
+      "code": "pt"
+    },
+    {
+      "description": "一個用於自訂介面的背景",
+      "name": "Equinox 背景",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นหลัง UI ที่กำหนดเอง",
+      "name": "พื้นหลัง Equinox",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir Kullanıcı Arayüzü arka planı.",
+      "name": "Equinox Arka Plan",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне тло інтерфейсу.",
+      "name": "Тло: Еквінокс",
+      "code": "uk"
+    }
+  ]
+}

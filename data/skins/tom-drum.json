@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxStadiumDrumFloorTomA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tom-drum-636d7d7ee4.png",
+  "name": "Tom Drum",
+  "description": "A tom drum used in a drum kit.",
+  "languages": [
+    {
+      "description": "Ein Tom-Tom, das in einem Schlagzeug verwendet wird.",
+      "name": "Tom-Tom",
+      "code": "de"
+    },
+    {
+      "description": "Un tom utilisé avec une batterie.",
+      "name": "Tom",
+      "code": "fr"
+    },
+    {
+      "description": "Un tom utilizzato in una batteria.",
+      "name": "Tom",
+      "code": "it"
+    },
+    {
+      "description": "드럼 세트에 사용되는 탐 드럼입니다.",
+      "name": "탐 드럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un tambor tom usado en una batería.",
+      "name": "Tambor Tom",
+      "code": "es"
+    },
+    {
+      "description": "架子鼓中使用的嗵鼓。",
+      "name": "嗵鼓",
+      "code": "zh"
+    },
+    {
+      "description": "Том-барабан, используемый в ударной установке.",
+      "name": "Том-барабан",
+      "code": "ru"
+    },
+    {
+      "description": "ドラムキット用のトムドラム。",
+      "name": "トムドラム",
+      "code": "ja"
+    },
+    {
+      "description": "Tom-tom używany w zestawie perkusyjnym.",
+      "name": "Tom-tom",
+      "code": "pl"
+    },
+    {
+      "description": "Um tambor tom-tom utilizado em uma bateria.",
+      "name": "Tambor Tom-Tom",
+      "code": "pt"
+    },
+    {
+      "description": "鼓組中使用的筒鼓。",
+      "name": "筒鼓",
+      "code": "tc"
+    },
+    {
+      "description": "กลองทอมที่ใช้ในชุดกลอง",
+      "name": "กลองทอม",
+      "code": "th"
+    },
+    {
+      "description": "Bateri setinde kullanılan tom davul.",
+      "name": "Tom Bateri",
+      "code": "tr"
+    },
+    {
+      "description": "Невеличкий барабан для ударної установки.",
+      "name": "Том-том",
+      "code": "uk"
+    }
+  ]
+}

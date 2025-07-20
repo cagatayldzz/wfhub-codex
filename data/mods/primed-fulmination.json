@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-fulmination-eb86446d55.jpg",
+  "name": "Primed Fulmination",
+  "description": "Improves the Blast Radius of weapons with Radial Attacks.",
+  "languages": [
+    {
+      "description": [
+        "Verbessert den Explosionsradius von Waffen mit radialen Angriffen."
+      ],
+      "name": "Primed Detonation",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Améliore le rayon d'explosion des armes avec attaques radiales."
+      ],
+      "name": "Fulmination Accrue",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Migliora il Raggio di Esplosione delle armi con Attacchi Radiali."
+      ],
+      "name": "Primed Fulmination",
+      "code": "it"
+    },
+    {
+      "description": [
+        "범위 공격 무기의 폭발 반경을 향상시킵니다."
+      ],
+      "name": "프라임드 펄미네이션",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Mejora el radio de explosión de las armas con ataques radiales."
+      ],
+      "name": "Fulminación Prime",
+      "code": "es"
+    },
+    {
+      "description": [
+        "提高范围攻击武器的爆炸半径。"
+      ],
+      "name": "猛烈爆发 Prime",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Увеличивает радиус взрыва снарядов оружия с атакой по площади."
+      ],
+      "name": "Инициирование Прайм",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "範囲攻撃を持ち合わせる武器の爆破範囲を拡張。"
+      ],
+      "name": "Primed Fulmination",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Zwiększa Zasięg Wybuchu broni z Atakiem Radialnym."
+      ],
+      "name": "Fulminacja Prime",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Melhorará o Raio da Explosão das armas com Ataques Radiais."
+      ],
+      "name": "Primed Fulmination",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "增加範圍攻擊武器的爆裂半徑。"
+      ],
+      "name": "猛烈爆發 Prime",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ปรับปรุงรัศมีการระเบิดของอาวุธด้วยการโจมตีในแนวรัศมี"
+      ],
+      "name": "Primed Fulmination",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Radyal Saldırı yapan silahların Patlama Alanını arttırır."
+      ],
+      "name": "Primed Fulmination",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Збільшує радіус вибуху зброї, яка має атаку по площі."
+      ],
+      "name": "Праймована блискавиця",
+      "code": "uk"
+    }
+  ]
+}

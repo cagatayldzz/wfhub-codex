@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/VaubanPrimeBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---vauban-prime-11c398d884.png",
+  "name": "Noggle Statue - Vauban Prime",
+  "description": "A small wobbly statue of Vauban Prime.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Vauban Prime.",
+      "name": "Noggle-Statue: Vauban Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Vauban Prime.",
+      "name": "Statuette Noggle - Vauban Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Vauban Prime con la testa tremolante.",
+      "name": "Statuetta Noggle - Vauban Prime",
+      "code": "it"
+    },
+    {
+      "description": "바우반 프라임의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 바우반 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Vauban Prime.",
+      "name": "Estatua Tambaleante - Vauban Prime",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Vauban Prime 摇头娃娃。",
+      "name": "Vauban Prime 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Вобана Прайм.",
+      "name": "Фигурка: Вобан Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Vauban Primeのボブルヘッド人形。",
+      "name": "Vauban Prime ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Vaubana Prime.",
+      "name": "Figurka Noggle — Vauban Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Vauban Prime.",
+      "name": "Estatueta: Vauban Prime",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Vauban Prime 的搖頭娃娃。",
+      "name": "Vauban Prime 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Vauban Prime ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Vauban Prime",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Prime küçük oynar figür.",
+      "name": "Noggle Heykeli - Vauban Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Вобана-прайм.",
+      "name": "Ноґл «Вобан-прайм»",
+      "code": "uk"
+    }
+  ]
+}

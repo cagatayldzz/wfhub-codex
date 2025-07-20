@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodNorg",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/norg-mask-df6ddd2c7b.png",
+  "name": "Norg Mask",
+  "description": "A masterwork of the crafter's art, this exquisite headpiece captures the grace and noble bearing of the majestic Norg. Truly, the prince of fish.",
+  "languages": [
+    {
+      "description": "Dieser Kopfschmuck ist ein exquisites Meisterwerk der Handwerkskunst und stellt die Grazie und das edle Auftreten des majestätischen Norgs dar. Wahrlich, der Prinz der Fische.",
+      "name": "Maske: Norg",
+      "code": "de"
+    },
+    {
+      "description": "Chef-d'œuvre artisanal, ce Casque exquis capture la grâce et la posture majestueuse du Norg, vrai prince des poissons.",
+      "name": "Masque Norg",
+      "code": "fr"
+    },
+    {
+      "description": "Capolavoro di un mastro artigiano, questo straordinario copricapo cattura la grazia e il nobile portamento del maestoso Norg. Il vero principe dei pesci.",
+      "name": "Maschera Norg",
+      "code": "it"
+    },
+    {
+      "description": "장인의 솜씨가 만들어낸 걸작으로, 이 정교한 머리 장식은 위풍당당한 노그의 우아하고 고귀한 자태를 그대로 재현합니다. 그야말로 물고기의 군주라 할 만하죠.",
+      "name": "노그 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Una obra maestra del arte de las manualidades, esta bellísima máscara captura la gracia y el noble porte del majestuoso Norg. Verdaderamente, el príncipe de los peces.",
+      "name": "Máscara Norg",
+      "code": "es"
+    },
+    {
+      "description": "工匠艺术中的杰作，这款精致的头饰展现了雄伟诺格上优雅和高贵的风采。真正的鱼之王子。",
+      "name": "诺格面具",
+      "code": "zh"
+    },
+    {
+      "description": "Шедевр искусства ремесленника, этот изысканный головной убор воплощает в себе грацию и благородный облик величественной Норги. Поистине, принца рыб.",
+      "name": "Маска: Норга",
+      "code": "ru"
+    },
+    {
+      "description": "職人の芸術の傑作であるこの絶妙なヘッドピースは、雄大なノルグの優雅さと高貴さを表現している。",
+      "name": "Norg マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Arcydzieło sztuki rzemieślnika, to wyjątkowe nakrycie głowy oddaje wdzięk i szlachetną postawę majestatycznego Norga. Doprawdy, książę ryb.",
+      "name": "Maska: Norga",
+      "code": "pl"
+    },
+    {
+      "description": "Uma obra-prima de artesão, este requintado capacete capta a graça e a nobreza do majestoso Norg. Regiamente, o príncipe dos peixes.",
+      "name": "Máscara do Norg",
+      "code": "pt"
+    },
+    {
+      "description": "工匠藝術中的傑作，這款精緻的頭飾展現了雄偉諾格上優雅和高貴的風采。真正的魚之王子。",
+      "name": "諾格面具",
+      "code": "tc"
+    },
+    {
+      "description": "ผลงานศิลปะชิ้นเอกของช่างฝีมือ ชิ้นส่วนคลุมหัวอันวิจิตรงดงามชิ้นนี้สะท้อนถึงความงดงามและความสง่าของ Norg ผู้ยิ่งใหญ่ สมกับที่เป็นเจ้าชายแห่งปลา",
+      "name": "หน้ากาก Norg",
+      "code": "th"
+    },
+    {
+      "description": "Bir ustanın şaheseri olan bu mükemmel başlık, görkemli Norg'un zarif ve asil duruşunu ortaya çıkartır. Gerçekten, balık prensi.",
+      "name": "Norg Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Вишуканий головний убір, що передає велич і шляхетність норґа — справжнього принца риб.",
+      "name": "Маска «Норґ»",
+      "code": "uk"
+    }
+  ]
+}

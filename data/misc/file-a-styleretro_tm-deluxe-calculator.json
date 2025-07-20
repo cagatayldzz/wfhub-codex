@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/file-a-styleretro_tm-deluxe-calculator-359e8c3fe3.png",
+  "name": "File-A-Style<Retro_tm> Deluxe Calculator",
+  "description": "File-a-Style<RETRO_TM> Deluxe Calulator can now hold up to TWO previous functions in its memory, saving you precious time!",
+  "languages": [
+    {
+      "description": "Der File-a-Style<RETRO_TM>-Deluxe-Rechner kann jetzt bis zu ZWEI vorherige Funktionen im Speicher behalten, was dir wertvolle Zeit spart!",
+      "name": "File-a-Style<RETRO_TM>: Deluxe-Rechner",
+      "code": "de"
+    },
+    {
+      "description": "La calculatrice Deluxe File-a-Style<RETRO_TM> peut désormais contenir jusqu'à DEUX fonctions précédentes dans sa mémoire, vous faisant ainsi gagner un temps précieux!",
+      "name": "Calculatrice de luxe File-a-Style<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "La calcolatrice Deluxe di File-a-Style<RETRO_TM> ora può conservare fino a DUE funzioni precedenti in memoria, facendoti risparmiare tempo prezioso!",
+      "name": "Calcolatrice Deluxe File-a-Style<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "파일-어-스타일<RETRO_TM> 디럭스 계산기는 이제 이전에 입력한 함수를 최대 2개까지 메모리에 저장할 수 있게 되어 고객님의 귀중한 시간을 절약할 수 있습니다!",
+      "name": "파일-어-스타일<RETRO_TM> 디럭스 계산기",
+      "code": "ko"
+    },
+    {
+      "description": "La calculadora de lujo File-a-Style<RETRO_TM> ahora puede almacenar hasta DOS funciones previas en su memoria, ¡lo que te permitirá ahorrar tiempo valioso!",
+      "name": "Calculadora de lujo File-a-Style<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "文房雅玩<RETRO_TM>高级计算器现在可以在内存中保存多达两项先前的功能，为你节省宝贵的时间！",
+      "name": "文房雅玩<RETRO_TM>高级计算器",
+      "code": "zh"
+    },
+    {
+      "description": "Калькулятор «Файл-а-Стиль»<RETRO_TM> Делюкс теперь может хранить до ДВУХ предыдущих функций в памяти, экономя ваше драгоценное время!",
+      "name": "Калькулятор «Файл-а-Стиль»<RETRO_TM> Делюкс",
+      "code": "ru"
+    },
+    {
+      "description": "ファイル＝ア＝スタイル<RETRO_TM> デラックス電卓はメモリに2つのファンクションを保存可能で、作業効率アップ間違いなし！",
+      "name": "ファイル＝ア＝スタイル<RETRO_TM> デラックス電卓",
+      "code": "ja"
+    },
+    {
+      "description": "Kalulator Deluxe File-a-Style<RETRO_TM> może teraz przechowywać w pamięci do DWÓCH poprzednich funkcji, oszczędzając cenny czas!",
+      "name": "File-a-Style<RETRO_TM>: Kalkulator Deluxe",
+      "code": "pl"
+    },
+    {
+      "description": "A Calculadora Deluxe File-a-Style<RETRO_TM> agora pode armazenar até 2 funções anteriores em sua memória, economizando seu tempo precioso!",
+      "name": "Calculadora Deluxe File-a-Style<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "文寶<RETRO_TM>高級計算器現在可以在記憶體中存入最多前兩個函數，省下你的寶貴時間！",
+      "name": "文寶<RETRO_TM>高級計算器",
+      "code": "tc"
+    },
+    {
+      "description": "ตอนนี้เครื่องคิดเลขแบบดีลักซ์ File-a-Style<RETRO_TM> สามารถเก็บฟังก์ชันก่อนหน้าได้สูงสุด 2 รายการในหน่วยความจำ ช่วยให้คุณประหยัดเวลาอันมีค่าได้มากขึ้น",
+      "name": "เครื่องคิดเลขแบบดีลักซ์ File-a-Style<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "File-a-Style<RETRO_TM> Lüks Hesap Makinesi artık hafızasında önceki İKİ fonksiyonu tutabiliyor, böylece değerli zamanınızdan tasarruf edebiliyorsunuz!",
+      "name": "File-a-Style<RETRO_TM> Lüks Hesap Makinesi",
+      "code": "tr"
+    },
+    {
+      "description": "Добірний калькулятор «Файлостиль»<RETRO_TM> може запам’ятовувати ДВІ попередні функції в пам’яті, щоб економити ваш дорогоцінний час!",
+      "name": "Добірний калькулятор «Файлостиль»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

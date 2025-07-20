@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/InfestedTail",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thorax-sentinel-tail-05c81c96a2.png",
+  "name": "Thorax Sentinel Tail",
+  "description": "A stylish tail attachment for your sentinel pet.",
+  "languages": [
+    {
+      "description": "Ein schicker Schweif für deinen Wächter.",
+      "name": "Wächterschweif: Thorax",
+      "code": "de"
+    },
+    {
+      "description": "Une Queue stylée pour votre Sentinelle.",
+      "name": "Queue Thorax",
+      "code": "fr"
+    },
+    {
+      "description": "Una coda elegante per la tua sentinella.",
+      "name": "Coda Sentinella Thorax",
+      "code": "it"
+    },
+    {
+      "description": "센티넬 펫에 장착시킬 수 있는 스타일리쉬한 꼬리입니다.",
+      "name": "쏘락스 센티넬 테일",
+      "code": "ko"
+    },
+    {
+      "description": "Una cola elegante para tu mascota centinela.",
+      "name": "Cola Tórax",
+      "code": "es"
+    },
+    {
+      "description": "守护宠物的时髦尾部配件。",
+      "name": "胸廓守护尾部",
+      "code": "zh"
+    },
+    {
+      "description": "Стильный хвост для вашего стража.",
+      "name": "Хвост стража: Торакс",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル用の尻尾。",
+      "name": "Thorax センチネル テール",
+      "code": "ja"
+    },
+    {
+      "description": "Stylowy dodatek do ogona dla Twojego Strażnika",
+      "name": "Ogon Strażnika: Thorax",
+      "code": "pl"
+    },
+    {
+      "description": "Uma cauda estilosa como acessório para seu sentinela.",
+      "name": "Cauda de Sentinela: Thorax",
+      "code": "pt"
+    },
+    {
+      "description": "守護寵物的時髦尾部組件。",
+      "name": "胸廓守護尾部",
+      "code": "tc"
+    },
+    {
+      "description": "หางที่มีสไตล์เอาไว้ยึดติดกับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "หางเซนติเนล Thorax",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için şık bir kuyruk.",
+      "name": "Thorax Sentinel Kuyruğu",
+      "code": "tr"
+    },
+    {
+      "description": "Стильний хвіст для вашого вартового улюбленця.",
+      "name": "Хвіст «Торакс» для вартового",
+      "code": "uk"
+    }
+  ]
+}

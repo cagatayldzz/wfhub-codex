@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/ConqueraBackground",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/conquera-background-64ec4db3c5.png",
+  "name": "Conquera Background",
+  "description": "A custom UI background.",
+  "languages": [
+    {
+      "description": "Ein angepasster UI-Hintergrund.",
+      "name": "Hintergrund: Conquera",
+      "code": "de"
+    },
+    {
+      "description": "Un fond personnalisé pour l'interface.",
+      "name": "Fond Conquera",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sfondo personalizzato per l'interfaccia.",
+      "name": "Sfondo Conquera",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 배경화면입니다.",
+      "name": "컨커라 배경",
+      "code": "ko"
+    },
+    {
+      "description": "Personalización de la interfaz",
+      "name": "Fondo Conquera",
+      "code": "es"
+    },
+    {
+      "description": "一个用于自定义界面的背景",
+      "name": "征服背景",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный фон интерфейса.",
+      "name": "Фон: Победа",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIバックグラウンド。",
+      "name": "Conquera バックグラウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowane tło Interfejsu.",
+      "name": "Tło Conquera",
+      "code": "pl"
+    },
+    {
+      "description": "Um plano de fundo de interface personalizado.",
+      "name": "Plano de Fundo Conquera",
+      "code": "pt"
+    },
+    {
+      "description": "一個用於自訂介面的背景",
+      "name": "征服背景",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นหลัง UI ที่กำหนดเอง",
+      "name": "พื้นหลัง Conquera",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir Kullanıcı Arayüzü arka planı.",
+      "name": "Conquera Arka Plan",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне тло інтерфейсу.",
+      "name": "Тло: «Подолання»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultNautilusPrimeSentinelSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nautilus-prime-default-skin-71e4652622.png",
+  "name": "Nautilus Prime Default Skin",
+  "description": "The standard issue skin for the Nautilus Prime Sentinel.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Nautilus Prime Wächter.",
+      "name": "Nautilus Prime Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Sentinelle Nautilus Prime.",
+      "name": "Aspect par défaut de Nautilus Prime",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per la Sentinella Nautilus Prime.",
+      "name": "Skin Nautilus Prime",
+      "code": "it"
+    },
+    {
+      "description": "노틸러스 프라임 센티넬을 위한 기본 스킨입니다.",
+      "name": "노틸러스 프라임 기본 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el centinela Nautilus Prime.",
+      "name": "Diseño predeterminado de Nautilus Prime",
+      "code": "es"
+    },
+    {
+      "description": "鹦鹉螺 Prime 的标准外观配置。",
+      "name": "鹦鹉螺 Prime 默认外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для стража «Наутилус Прайм».",
+      "name": "Скин Наутилуса Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Nautilus Primeの標準型スキン。",
+      "name": "Nautilus Prime スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Strażnika Nautilus Prime.",
+      "name": "Nautilus Prime: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão da Sentinela Nautilus Prime.",
+      "name": "Nautilus Prime: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "鸚鵡螺 Prime 守護的標準外觀配置。",
+      "name": "鸚鵡螺 Prime 預設外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับเซนติเนล Nautilus Prime",
+      "name": "สกิน Nautilus Prime",
+      "code": "th"
+    },
+    {
+      "description": "Nautilus Prime Sentinel için standart skin.",
+      "name": "Nautilus Prime Varsayılan Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для вартового Наутилуса-прайм.",
+      "name": "Вигляд Наутілуса-прайм",
+      "code": "uk"
+    }
+  ]
+}

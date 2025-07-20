@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-seven-crimes-of-kullervo-login-music-31bd907cb9.png",
+  "name": "The Seven Crimes Of Kullervo Login Music",
+  "description": "The Seven Crimes of Kullervo login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Die sieben Verbrechen von Kullervo, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Die sieben Verbrechen von Kullervo",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical des Sept Crimes de Kullervo à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Sept Crimes de Kullervo",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento I Sette Crimini di Kullervo da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica I Sette Crimini di Kullervo",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 쿨레르보의 일곱 가지 죄 로그인 음원입니다.",
+      "name": "쿨레르보의 일곱 가지 죄 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de Los Siete Crímenes de Kullervo para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de Los Siete Crímenes de Kullervo",
+      "code": "es"
+    },
+    {
+      "description": "《Kullervo 之七宗罪》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《Kullervo 之七宗罪》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Сердце Деймоса» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Семь преступлений Куллерво",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるKullervo：7つの罪のログインミュージック。",
+      "name": "Kullervo：7つの罪 ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Siedem Zbrodni Kullervo, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Siedem Zbrodni Kullervo",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'Os Sete Crimes de Kullervo' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora dos Sete Crimes de Kullervo",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞 Kullervo 的七宗罪的登入畫面背景音樂。",
+      "name": "Kullervo 的七宗罪登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน The Seven Crimes of Kullervo ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "The Seven Crimes of Kullervo Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Seven Crimes of Kullervo giriş müziğinin keyfini çıkar.",
+      "name": "The Seven Crimes of Kullervo Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Сім гріхів Куллерво» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Сім гріхів Куллерво»",
+      "code": "uk"
+    }
+  ]
+}

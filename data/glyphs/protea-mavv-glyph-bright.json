@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageProteaAltTwoBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/protea-mavv-glyph---bright-808473b86b.png",
+  "name": "Protea Mavv Glyph - Bright",
+  "description": "A glyph depicting Protea Mavv on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Protea Mavv vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Protea Mavv (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Protea Mavv sur un fond lumineux.",
+      "name": "Glyphe Protea Mavv - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Protea Mavv su uno sfondo chiaro.",
+      "name": "Glifo Protea Mavv - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 프로티아 매브를 묘사한 글리프입니다.",
+      "name": "프로티아 매브 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Protea Mavv sobre un fondo brillante.",
+      "name": "Glifo de Protea Mavv - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Protea 面甲在明亮背景下的浮印。",
+      "name": "Protea 面甲浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Протеи «Мавв» на светлом фоне.",
+      "name": "Глиф: Протея Мавв - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Protea Mavv のグリフ。",
+      "name": "Protea Mavv グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Protea Mavv na jasnym tle.",
+      "name": "Glif Protea Mavv — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Protea Mavv em um fundo claro.",
+      "name": "Glifo: Protea Mavv (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Protea 裂口在明亮背景下的浮印。",
+      "name": "Protea 裂口浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Protea Mavv บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Protea Mavv - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Protea Mavv açık fonlu glif.",
+      "name": "Protea Mavv Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Протеї в шоломі «Мав» на світлому тлі.",
+      "name": "Яскравий гліф «Протея „Мав“»",
+      "code": "uk"
+    }
+  ]
+}

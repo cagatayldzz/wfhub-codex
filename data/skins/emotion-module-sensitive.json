@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/MoaPet/MoaPetPersonalityA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/emotion-module-sensitive--f11bc564ed.png",
+  "name": "Emotion Module: Sensitive ",
+  "description": "Overrides the default operating system with a caring empath-agent.",
+  "languages": [
+    {
+      "description": "Überschreibt das Standardbetriebssystem mit einem fürsorglichen Empathie-Vermittler.",
+      "name": "EMOTIONSMODUL: SENSIBEL",
+      "code": "de"
+    },
+    {
+      "description": "Remplace le système d'exploitation par défaut par un agent empathique attentionné.",
+      "name": "MODULE ÉMOTIONNEL: SENSIBLE",
+      "code": "fr"
+    },
+    {
+      "description": "Sovrascrive il sistema operativo predefinito con un agente empatico difensivo.",
+      "name": "MODULO EMOZIONI: SENSIBILE",
+      "code": "it"
+    },
+    {
+      "description": "배려적 감성 에이전트로 기본 운영 체제를 재정의합니다.",
+      "name": "감정 모듈: 세심한",
+      "code": "ko"
+    },
+    {
+      "description": "Sobreescribe el sistema operativo por defecto con un agente de empatía cariñoso.",
+      "name": "MÓDULO EMOCIONAL: SENSIBLE",
+      "code": "es"
+    },
+    {
+      "description": "以体贴入微的代理情感覆盖预设的作业系统。",
+      "name": "情感模组：善解人意",
+      "code": "zh"
+    },
+    {
+      "description": "Перезаписывает стандартную оперативную систему на заботливого эмпата-помощника.",
+      "name": "МОДУЛЬ ЭМОЦИЙ: ЧУТКОСТЬ",
+      "code": "ru"
+    },
+    {
+      "description": "デフォルトのOSを繊細型エンパス-エージェントで上書きする。",
+      "name": "感情モジュール： 繊細型",
+      "code": "ja"
+    },
+    {
+      "description": "Zastępuje domyślne systemy procedur opiekuńczym wzorcem zachowań.",
+      "name": "MODUŁ OSOBOWOŚCI: CZUŁY",
+      "code": "pl"
+    },
+    {
+      "description": "Substitui o sistema operacional padrão com um sistema de personalidade acolhedora.",
+      "name": "MÓDULO EMOCIONAL: SENSÍVEL",
+      "code": "pt"
+    },
+    {
+      "description": "以體貼入微的代理情感覆蓋預設的作業系統。",
+      "name": "情感模組：善解人意",
+      "code": "tc"
+    },
+    {
+      "description": "แทนที่ระบบปฏิบัติการเริ่มต้นด้วยเอเจนต์การใส่อารมณ์การดูแล",
+      "name": "โมดูลอารมณ์: ละเอียดอ่อน ",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan işletim sistemini daha yardımsever bir kişilik ile değiştirir.",
+      "name": "DUYGU MODÜLÜ: HASSAS",
+      "code": "tr"
+    },
+    {
+      "description": "Додає в дані операційної системи емоції дбайливості.",
+      "name": "МОДУЛЬ ЕМОЦІЙ: ЧУТЛИВІСТЬ ",
+      "code": "uk"
+    }
+  ]
+}

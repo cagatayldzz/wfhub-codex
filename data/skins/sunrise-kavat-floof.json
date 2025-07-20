@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyMorningKavat",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sunrise-kavat-floof-4d9244f0d9.png",
+  "name": "Sunrise Kavat Floof",
+  "description": "A very special Floof commemorating your participation in Tactical Alert: Dog Days. FOR SQUISHY HONOR!",
+  "languages": [
+    {
+      "description": "Ein spezieller Floof, der deine Teilnahme an der Taktischen Alarmierung: Hitzefrei feiert. FÜR SCHWAMMIGE EHRE!",
+      "name": "Floof: Morgenrot Kavat",
+      "code": "de"
+    },
+    {
+      "description": "Une peluche très spéciale pour vous rappeler de votre participation dans l'Alerte Tactique: Bataille d'eau. QUE VOTRE VICTOIRE TREMPÉE SOIT HONORABLE!",
+      "name": "Peluche Kavat Estival",
+      "code": "fr"
+    },
+    {
+      "description": "Un Floof molto speciale che commemora la tua partecipazione all'Allerta Tattica: Dog Days. BAGNARE È ONORE, BAGNARSI È DOLORE!",
+      "name": "Floof Kavat Alba",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 택티컬 얼럿: 도그 데이즈 참여를 기념하는 매우 특별한 플루프입니다. 물싸움의 영예를 위하여!",
+      "name": "선라이즈 카밧 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Un Floof muy especial que conmemora tu participación en la alerta táctica: Canícula. ¡POR NUESTRO HONOR CHAPOTEADO!",
+      "name": "Floof de kavat Amanecer",
+      "code": "es"
+    },
+    {
+      "description": "一个非常特别的玩偶，以纪念你在战术警报：三伏天中的参与。为了湿漉漉的荣誉！",
+      "name": "日出库娃玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Особенный Пушистик, в честь вашего участия в Тактической Тревоге: Знойные Дни. ВО ИМЯ ПУШИСТОСТИ!",
+      "name": "Пушистик: солнечный кават",
+      "code": "ru"
+    },
+    {
+      "description": "ハンターアラート「ドッグ・デイズ」に参加した記念として入手できる特別なぬいぐるみ。",
+      "name": "サンライズ・キャバットのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Wyjątkowy Pluszak upamiętniający Twój udział w Alarmie Taktycznym: Kanikuła. ZA WYGRANĄ!",
+      "name": "Pluszak Kavata Wschodzącego Słońca",
+      "code": "pl"
+    },
+    {
+      "description": "Um Floof muito especial que celebra a sua participação no Alerta Tático: Dias de Cão. PELA HONRA!",
+      "name": "Floof: Kavat do Amanhecer",
+      "code": "pt"
+    },
+    {
+      "description": "一個非常特別的玩偶，以紀念你在戰術警報：三伏天中的參與。為了濕漉漉的榮譽！",
+      "name": "日出庫娃玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "ตุ๊กตาสุดพิเศษเป็นที่ระลึกจากการเข้าร่วมภารกิจแจ้งเตือนทางยุทธวิธี: Dog Days เพื่อเป็นเกียรติแก่ความนุ่มนิ่ม!",
+      "name": "ตุ๊กตา Sunrise Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Taktisel Alert'e katılımınızı hatırlatan çok özel bir Peluş: Dog Days. POFUDUK BİR ONUR NİŞANI!",
+      "name": "Gün Doğumu Kavat Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий плюш, який нагадуватиме про участь у тактичному виклику «Спекотні дні». За вологу честь!",
+      "name": "Плюш «Сонячний кават»",
+      "code": "uk"
+    }
+  ]
+}

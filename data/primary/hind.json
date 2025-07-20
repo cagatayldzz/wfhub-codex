@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/BurstRifle/GrnBurstRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hind-833c41d865.png",
+  "name": "Hind",
+  "description": "A powerful mid-range rifle used by Grineer shock troops, the Hind fires in five round bursts.",
+  "languages": [
+    {
+      "description": "Das Hind, ein von Grineer Stoßtruppen verwendetes, schlagkräftiges Gewehr mit mittlerer Reichweite, feuert fünf Kugeln pro Feuerstoß.",
+      "name": "Hind",
+      "code": "de"
+    },
+    {
+      "description": "Puissant Fusil à moyenne portée utilisé par les troupes de choc Grineers, le Hind tire par rafales de cinq balles.",
+      "name": "Hind",
+      "code": "fr"
+    },
+    {
+      "description": "L'HIND è un potente fucile da media distanza usato dalle truppe shock dei Grineer che spara cinque proiettili per ogni raffica.",
+      "name": "Hind",
+      "code": "it"
+    },
+    {
+      "description": "하인드는 엘리트 그리니어 병사들의 표준 장비로 한순간에 5발을 점사 형식으로 쏟아부어 중거리에서 강력한 화력을 퍼붓는 데에 특화된 소총입니다.",
+      "name": "하인드",
+      "code": "ko"
+    },
+    {
+      "description": "Un poderoso rifle de medio alcance usado por las tropas de choque grineer, el Hind dispara en ráfagas de cinco rondas.",
+      "name": "Hind",
+      "code": "es"
+    },
+    {
+      "description": "（英文：HIND）由 Grineer 突击部队使用的强力中阶步枪，雌鹿一次射击就是五连发。",
+      "name": "雌鹿",
+      "code": "zh"
+    },
+    {
+      "description": "Мощная винтовка средней дальности, используемая штурмовыми подразделениями Гринир. Лань стреляет очередями по 5 выстрелов.",
+      "name": "Лань",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア強襲部隊が主に使用する5連射バーストファイアライフル。中距離での戦闘に特化している。",
+      "name": "Hind",
+      "code": "ja"
+    },
+    {
+      "description": "Potężny karabin automatyczny używany przez uderzeniowe jednostki szturmowe Grineer, Hind strzela pięcio-pociskowymi seriami.",
+      "name": "Hind",
+      "code": "pl"
+    },
+    {
+      "description": "Um rifle poderoso de media distância usado pelas tropas de choque Grineer, a Hind atira em rajadas de cinco tiros.",
+      "name": "Hind",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：HIND）由 Grineer 突擊部隊使用的強力中階步槍，雌鹿一次射擊就是五連發。",
+      "name": "雌鹿",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิลระยะกลางที่ทรงพลังกระบอกนี้เป็นปืนที่กองกำลังจู่โจม Grineer ใช้ โดยที่ปืน Hind จะยิงออกไปได้ชุดละห้านัด",
+      "name": "Hind",
+      "code": "th"
+    },
+    {
+      "description": "Grineer baskın birliklerinin kullandığı, orta vadede güçlü Hind, tek seferde beşli atış yapar.",
+      "name": "Hind",
+      "code": "tr"
+    },
+    {
+      "description": "Потужна гвинтівка середньої дальності. Стріляє чергами з 5 пострілів. Використовується штурмовими загонами ґрінерів.",
+      "name": "Лань",
+      "code": "uk"
+    }
+  ]
+}

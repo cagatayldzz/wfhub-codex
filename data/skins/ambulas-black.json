@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorVibrantB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ambulas-black-d6cdb58049.png",
+  "name": "Ambulas Black",
+  "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+  "languages": [
+    {
+      "description": "Spleiße die Gene deines Kubrow Haustieres, um die Farbe seines Fells zu verändern.",
+      "name": "Ambulas-Schwarz",
+      "code": "de"
+    },
+    {
+      "description": "Épisse les gènes de votre Kubrow de façon à changer la couleur de son pelage.",
+      "name": "Noir Ambulas",
+      "code": "fr"
+    },
+    {
+      "description": "Inietta i geni nel tuo Kubrow per cambiar colore al manto.",
+      "name": "Nero Ambulas",
+      "code": "it"
+    },
+    {
+      "description": "애완용 쿠브로의 유전자를 합성해 쿠브로의 털 색을 바꿉니다.",
+      "name": "앰뷸라스 블랙",
+      "code": "ko"
+    },
+    {
+      "description": "Empalma los genes de tu mascota kubrow para cambiar el color de su pelaje.",
+      "name": "Negro Ambulas",
+      "code": "es"
+    },
+    {
+      "description": "借由基因拼接来改变库狛毛皮的颜色。",
+      "name": "Ambulas 黑",
+      "code": "zh"
+    },
+    {
+      "description": "Комбинирует гены вашего кубрау для изменения цвета его шерсти.",
+      "name": "Амбулас-чёрный",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウの遺伝子をつなぎ合わせて、その毛色を変更する。",
+      "name": "Ambulas・ブラック",
+      "code": "ja"
+    },
+    {
+      "description": "Splata geny Twojego Kubrowa, by zmienić kolor jego futra.",
+      "name": "Czerń Ambulasa",
+      "code": "pl"
+    },
+    {
+      "description": "Divide os genes de seu Kubrow para mudar a cor do pelo dele.",
+      "name": "Preto Âmbula",
+      "code": "pt"
+    },
+    {
+      "description": "藉由基因拼接來改變庫狛毛皮的顏色。",
+      "name": "Ambulas 黑",
+      "code": "tc"
+    },
+    {
+      "description": "ตัดต่อยีนสัตว์เลี้ยง Kubrow ของคุณเพื่อเปลี่ยนสีขนของมัน",
+      "name": "Ambulas Black",
+      "code": "th"
+    },
+    {
+      "description": "Tüylerinin rengini değiştirmek için Kubrow genlerini birleştirir.",
+      "name": "Ambulas Siyahı",
+      "code": "tr"
+    },
+    {
+      "description": "Поєднуйте гени під час виведення куброу, щоб змінити колір забарвлення хутра.",
+      "name": "Амбуласово-чорний",
+      "code": "uk"
+    }
+  ]
+}

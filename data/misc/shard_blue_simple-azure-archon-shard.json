@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBoreal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shard_blue_simple-azure-archon-shard-d164a930fa.png",
+  "name": "<Shard_blue_simple> Azure Archon Shard",
+  "description": "A source of anti-entropic radiation ideal for empowering synthetic lifeforms, most notably Archons and Warframes.",
+  "languages": [
+    {
+      "description": "Eine Quelle anti-entropischer Strahlung, die sich ideal zur Stärkung synthetischer Lebensformen eignet, insbesondere Archons und Warframes.",
+      "name": "<SHARD_BLUE_SIMPLE> Azurne Archon Scherbe",
+      "code": "de"
+    },
+    {
+      "description": "Une source de radiations anti-entropiques idéales pour renforcer les formes de vie synthétiques, notamment les Archontes et les Warframes.",
+      "name": "<SHARD_BLUE_SIMPLE> Fragment d'Archonte Azur",
+      "code": "fr"
+    },
+    {
+      "description": "Una fonte di radiazioni antientropiche ideale per potenziare forme di vita sintetiche, in particolare Archon e Warframe.",
+      "name": "<SHARD_BLUE_SIMPLE> Frammento Archon Azzurro",
+      "code": "it"
+    },
+    {
+      "description": "합성 생명체, 특히 집정관과 워프레임을 강화하는 데에 이상적인 반 엔트로피성 방사선의 근원입니다.",
+      "name": "<SHARD_BLUE_SIMPLE> 청색 집정관 샤드",
+      "code": "ko"
+    },
+    {
+      "description": "Una fuente de radiación antientrópica ideal para potenciar formas de vida sintéticas, sobre todo de arcontes y warframes.",
+      "name": "<SHARD_BLUE_SIMPLE> Fragmento Celeste de Arconte",
+      "code": "es"
+    },
+    {
+      "description": "一种反熵辐射来源，用于强化合成生命体，尤其是执刑官和战甲。",
+      "name": "<SHARD_BLUE_SIMPLE>蔚蓝执刑官源力石",
+      "code": "zh"
+    },
+    {
+      "description": "Источник антиэнтропийного излучения, которое идеально подходит для усиления синтетических форм жизни, особенно архонтов и варфреймов.",
+      "name": "<SHARD_BLUE_SIMPLE> Лазурный осколок архонта",
+      "code": "ru"
+    },
+    {
+      "description": "アルコンやWARFRAMEなど、合成生命体の原動力となる反エントロピー放射能の源。",
+      "name": "<SHARD_BLUE_SIMPLE> アルコンの欠片「蒼天」",
+      "code": "ja"
+    },
+    {
+      "description": "Źródło promieniowana zapobiegającego entropii, działające ożywczo na syntetyczne formy życia, w szczególności na Archonów i Warframe'y.",
+      "name": "<SHARD_BLUE_SIMPLE> Okruch Archona: Lazurowy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma fonte de radiação anti-entrópica ideal para capacitar formas de vida sintéticas, principalmente Arcontes e Warframes.",
+      "name": "<SHARD_BLUE_SIMPLE> Fragmento de Arconte (Cerúleo)",
+      "code": "pt"
+    },
+    {
+      "description": "一種反熵輻射來源，用於強化合成生物，特別是執政官及 Warframe。",
+      "name": "<SHARD_BLUE_SIMPLE> 蔚藍執政官靈石",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นแหล่งกำเนิดรังสีต้านเอนโทรปิกที่เหมาะกับการเสริมพลังให้กับสิ่งมีชีวิตสังเคราะห์ โดยเฉพาะอย่างยิ่งกับ Archon และ Warframe",
+      "name": "<SHARD_BLUE_SIMPLE> เศษ Azure Archon",
+      "code": "th"
+    },
+    {
+      "description": "Başta Archon'lar ve Warframe'ler olmak üzere sentetik yaşam formlarını güçlendirmek için kullanılabilen ideal bir anti-entropik radyasyon kaynağı.",
+      "name": "<SHARD_BLUE_SIMPLE> Gökmavi Archon Parçası",
+      "code": "tr"
+    },
+    {
+      "description": "Джерело протиентропічної радіації, що чудово підсилює синтетичні життєві форми, особливо архонтів і ворфреймів.",
+      "name": "<SHARD_BLUE_SIMPLE> Блакитний архонтовий уламок",
+      "code": "uk"
+    }
+  ]
+}

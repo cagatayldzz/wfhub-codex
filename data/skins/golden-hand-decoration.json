@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropHandShrine",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/golden-hand-decoration-7797e29709.png",
+  "name": "Golden Hand Decoration",
+  "description": "A miniature of a Corpus shrine said to represent the hand of their Founder.",
+  "languages": [
+    {
+      "description": "Miniatur eines Corpus Schreins, die angeblich die Hand des Gründers darstellt.",
+      "name": "Dekoration: Goldene Hand",
+      "code": "de"
+    },
+    {
+      "description": "Un sanctuaire Corpus miniature censé représenter la main de leur fondateur.",
+      "name": "Décoration Main d'Or",
+      "code": "fr"
+    },
+    {
+      "description": "Una miniatura di un santuario Corpus che si dice rappresenti la mano del loro Fondatore.",
+      "name": "Decorazione Mano Dorata",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스를 창시한 자의 손을 본떠 만들었다고 알려진 코퍼스 제단의 미니어처입니다.",
+      "name": "황금의 손 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Miniatura de un santuario corpus que se dice representa la mano de su fundador.",
+      "name": "Decoración de la Mano Dorada",
+      "code": "es"
+    },
+    {
+      "description": "微型 Corpus 神龛，据说代表着他们创始人的手。",
+      "name": "黄金之手装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Миниатюра святилища Корпуса, выраженная рукой их Основателя.",
+      "name": "Украшение: Золотая Рука",
+      "code": "ru"
+    },
+    {
+      "description": "創始者の手を模したというコーパスの祭壇のミニチュア。",
+      "name": "黄金の手の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Miniatura kapliczki Corpus, która podobno reprezentuje rękę ich Założyciela.",
+      "name": "Ozdoba: Złotej Dłoni",
+      "code": "pl"
+    },
+    {
+      "description": "Uma miniatura de um santuário Corpus, cujos rumores afirmam que ela representava a mão do seu Fundador.",
+      "name": "Mão Dourada",
+      "code": "pt"
+    },
+    {
+      "description": "微型的 Corpus 聖所，據說代表著他們的創始人之手。",
+      "name": "金色之手裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "สิ่งศักดิ์สิทธิ์ของ Corpus ขนาดเล็กที่กล่าวกันว่าเป็นสิ่งแทนมือของผู้ก่อตั้ง",
+      "name": "ของตกแต่ง: รูปปั้นมือทองคำ",
+      "code": "th"
+    },
+    {
+      "description": "Bu Corpus mabet minyatürünün kendi Kurucularının elini temsil ettiği söylenir.",
+      "name": "Altın El Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Зменшена копія святині Корпусу, що втілює руку засновника.",
+      "name": "Оздоблення: золота рука",
+      "code": "uk"
+    }
+  ]
+}

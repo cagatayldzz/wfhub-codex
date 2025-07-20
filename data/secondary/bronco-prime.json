@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bronco-prime-22492b5f01.png",
+  "name": "Bronco Prime",
+  "description": "Infused with rare Orokin alloys, the Bronco Prime is a highly efficient weapon, trading an increased Magazine Capacity and damage for a lower rate of fire.",
+  "languages": [
+    {
+      "description": "Die Bronco Prime ist eine hocheffiziente Waffe, die mit Orokin Legierungen gebaut wurde. Sie hat ein größeres Magazin und verursacht mehr Schaden, feuert jedoch etwas langsamer.",
+      "name": "Bronco Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le Bronco Prime est une arme très efficace enrichie d'alliages Orokins rares. Le chargeur et les dégâts améliorés sont contrebalancés par une cadence de tir plus faible.",
+      "name": "Bronco Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Forgiato con rare leghe Orokin, il Bronco Prime è un'arma molto efficace che offre un danno elevato e una buona Capienza Caricatore a spese di una Cadenza di Tiro minore.",
+      "name": "Bronco Prime",
+      "code": "it"
+    },
+    {
+      "description": "희귀한 오로킨 금속으로 만들어져, 브롱코 프라임은 매우 효과적인 무기가 되었습니다. 더 낮아진 연사 속도를 대신하여 더 높은 피해량과 탄창 용량을 가지고 있습니다.",
+      "name": "브롱코 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Infundida con raras aleaciones orokin, la Bronco Prime es un arma altamente eficiente. Tiene un cargador más grande y daño aumentado a cambio de una menor cadencia de fuego.",
+      "name": "Bronco Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BRONCO PRIME）加入罕见的 Orokin 合金，野马 Prime 是一把高效能武器，以射速为代价，提高装弹量和伤害力。",
+      "name": "野马 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Созданное с применением редких металлов Орокин, Бронко Прайм — очень мощное оружие. Относительно невысокая скорострельность компенсируется повышенным уроном от снарядов и увеличенным магазином.",
+      "name": "Бронко Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン製特殊合金の銃身を持つ古代の拳銃。高い威力と装弾数を持つが、連射力が低めになっている。",
+      "name": "Bronco Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Dzięki wzmocnieniu rzadkimi stopami wykonanymi w technologii Orokin, Bronco Prime jest wysoce efektywną bronią. Ceną za zwiększoną pojemność magazynka oraz obrażenia jest obniżona szybkostrzelność.",
+      "name": "Bronco Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Criada com ligas raras de metal Orokin, a Bronco Prime é uma arma altamente eficiente. Apresenta maior dano e capacidade do carregador, mas possui uma Cadência de Tiro menor.",
+      "name": "Bronco Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BRONCO PRIME）加入罕見的 Orokin 合金，野馬 Prime 是一把高效能武器，以射速為代價，提高裝彈量和傷害力。",
+      "name": "野馬 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Bronco Prime ผสมเข้ากับโลหะผสมของ Orokin ที่หายาก ทำให้กลายเป็นอาวุธที่มีประสิทธิภาพสูง มีความจุแมกกาซีนและความเสียหายเพิ่มขึ้นแต่ต้องแลกกับอัตราการยิงที่ลดลง",
+      "name": "Bronco Prime",
+      "code": "th"
+    },
+    {
+      "description": "Nadir bulunan Orokin madenlerinden yapılan Bronco Prime, çok etkili bir silahtır. Artırılmış vuruş hacmi ile çalışır ve daha az ateş ederek daha fazla hasar verebilir.",
+      "name": "Bronco Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Модифікована версія пістолета-гармати «Бронко». Створений із рідкісних орокінських сплавів. Має збільшену шкоду та місткість магазину, але поступається швидкострільністю.",
+      "name": "Бронко-прайм",
+      "code": "uk"
+    }
+  ]
+}

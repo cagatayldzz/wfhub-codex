@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTenYearAnniversary",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/year-ten-anniversary-glyph-2200b399e5.png",
+  "name": "Year Ten Anniversary Glyph",
+  "description": "A glyph to commemorate ten years of Warframe.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, um das zehnte Jahr Warframe zu feiern.",
+      "name": "Glyphe: Zehntes Jubiläum",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour commémorer les dix ans de Warframe.",
+      "name": "Glyphe du 10e Anniversaire",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo per commemorare dieci anni di Warframe.",
+      "name": "Glifo Anniversario Dieci Anni",
+      "code": "it"
+    },
+    {
+      "description": "워프레임의 10년간을 기념하는 글리프입니다.",
+      "name": "10주년 기념 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que conmemora los diez años de Warframe.",
+      "name": "Glifo del Décimo Aniversario",
+      "code": "es"
+    },
+    {
+      "description": "Warframe 十周年纪念的浮印。",
+      "name": "十周年纪念浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф в ознаменование десятого юбилея Warframe.",
+      "name": "Глиф: Десятый юбилей",
+      "code": "ru"
+    },
+    {
+      "description": "Warframeの10周年を祝うグリフ。",
+      "name": "10周年記念グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif reprezentujący dziesięć lat Warframe.",
+      "name": "Glif Dziesiątej Rocznicy",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo para comemorar o aniversário de 10 anos do Warframe.",
+      "name": "Glifo: Aniversário de 10 Anos",
+      "code": "pt"
+    },
+    {
+      "description": "紀念 Warframe 十週年的浮印。",
+      "name": "十週年紀念浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์เพื่อรำลึกถึงวันครบรอบ 10 ปีของ Warframe",
+      "name": "ภาพสัญลักษณ์ครบรอบปีที่สิบ",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'in onuncu yılını simgeleyen bir glif.",
+      "name": "Onuncu Yıl Yıldönümü Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф, присвячений десятій річниці виходу Warframe.",
+      "name": "Гліф «10-та річниця»",
+      "code": "uk"
+    }
+  ]
+}

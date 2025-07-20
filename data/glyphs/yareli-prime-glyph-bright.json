@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-prime-glyph---bright-eaf5204032.png",
+  "name": "Yareli Prime Glyph - Bright",
+  "description": "A glyph depicting Yareli Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Yareli Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Yareli Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Yareli Prime sur un fond lumineux.",
+      "name": "Glyphe Yareli Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Yareli Prime su uno sfondo chiaro.",
+      "name": "Glifo Yareli Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 야렐리 프라임을 묘사한 글리프입니다.",
+      "name": "야렐리 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Yareli Prime sobre un fondo brillante.",
+      "name": "Glifo de Yareli Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Yareli Prime 在明亮背景下的浮印。",
+      "name": "Yareli Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ярели Прайм на светлом фоне.",
+      "name": "Глиф: Ярели Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたYareli Prime のグリフ。",
+      "name": "Yareli Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Yareli Prime na jasnym tle.",
+      "name": "Glif Yareli Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Yareli Prime em um fundo claro.",
+      "name": "Glifo: Yareli Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Yareli Prime 在明亮背景下的浮印。",
+      "name": "Yareli Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Yareli Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Yareli Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Yareli Prime'ı tasvir eden açık fonlu bir glif.",
+      "name": "Yareli Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ярелі-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Ярелі-прайм»",
+      "code": "uk"
+    }
+  ]
+}

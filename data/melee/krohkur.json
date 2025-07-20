@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/GrnEgyptSwdWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/krohkur-a0244d9499.png",
+  "name": "Krohkur",
+  "description": "This hooked blade rewards critical hits to those skilled enough to strike with finesse.",
+  "languages": [
+    {
+      "description": "Diese gezahnte Klinge belohnt jene, mit der notwendigen Finesse, mit kritischen Treffern.",
+      "name": "Krohkur",
+      "code": "de"
+    },
+    {
+      "description": "Cette lame crochet récompense les coups critiques de ceux qui sont suffisamment habiles pour frapper avec finesse.",
+      "name": "Krohkur",
+      "code": "fr"
+    },
+    {
+      "description": "Questa lama con un uncino ricompensa colpi critici a coloro abbastanza abili da colpire con eleganza.",
+      "name": "Krohkur",
+      "code": "it"
+    },
+    {
+      "description": "솜씨 있게 일격을 꽂아넣을 수 있는 사용자의 손에 쥐어졌을 때 이 갈고리 칼날은 치명적인 타격을 보장합니다.",
+      "name": "크로쿠르",
+      "code": "ko"
+    },
+    {
+      "description": "Esta hoja con forma de gancho recompensa con golpes críticos a aquellos lo suficientemente habilidosos para golpear con finura.",
+      "name": "Krohkur",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KROHKUR）这把钩刃能在拥有精湛技艺的人手里造成致命的打击。",
+      "name": "克鲁古尔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот клинок с крюком награждает критическими попаданиями тех, кто способен мастерски владеть им.",
+      "name": "Крокур",
+      "code": "ru"
+    },
+    {
+      "description": "このフックのついた刃は技術をもって攻撃できる者にクリティカルヒットを齎してくれる。",
+      "name": "Krohkur",
+      "code": "ja"
+    },
+    {
+      "description": "To zakrzywione ostrze nagradza trafieniami krytycznymi tych, którzy atakują z finezją.",
+      "name": "Krohkur",
+      "code": "pl"
+    },
+    {
+      "description": "Esta lâmina recompensa os usuários que são habilidosos o suficiente para atacar com delicadeza e causar acertos Críticos.",
+      "name": "Krohkur",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KROHKUR）這把鉤刃讓熟練的使用者能以精湛的技藝帶來致命的打擊。",
+      "name": "克魯古爾",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบที่มีรูปคล้ายตะขอเกี่ยวเล่มนี้จะมอบการโจมตีติดคริคอลให้กับผู้มีสกิลมากพอที่จะโจมตีอย่างมีชั้นเชิง",
+      "name": "Krohkur",
+      "code": "th"
+    },
+    {
+      "description": "Bu kancalı bıçak, kritik vuruşları ustalıkla vuracak kadar yetenekli olanları ödüllendirecektir.",
+      "name": "Krohkur",
+      "code": "tr"
+    },
+    {
+      "description": "Меч із гаком на клинку, що завдає неймовірної критичної шкоди, якщо вміти дати йому раду в бою.",
+      "name": "Крокур",
+      "code": "uk"
+    }
+  ]
+}

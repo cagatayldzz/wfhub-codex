@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSassyLotusGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sassy-lotus-glyph-8527d2c32a.png",
+  "name": "Sassy Lotus Glyph",
+  "description": "A glyph of the Lotus. Ignore your original objective, Tenno. Created by Community artist Searyn.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Lotus darstellt. Ignoriere dein ursprüngliches Ziel, Tenno. Erstellt vom Community-Künstler Searyn.",
+      "name": "Glyphe: Freche Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe du Lotus. Ignorez votre objectif initial, Tenno. Créé par l'artiste communautaire Searyn.",
+      "name": "Glyphe Lotus Insolent",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo di Lotus. Ignora il tuo obiettivo originale, Tenno. Creato dall'artista della Communità Searyn.",
+      "name": "Glifo Sassy Lotus",
+      "code": "it"
+    },
+    {
+      "description": "로터스의 모습을 그린 글리프입니다. 원래 목표는 무시하세요, 텐노. 커뮤니티 아티스트 Searyn에 의해 제작되었습니다.",
+      "name": "건방진 로터스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo de Lotus. Ignora tu objetivo original, tenno. Creado por la artista de la comunidad Searyn.",
+      "name": "Glifo de Lotus atrevida",
+      "code": "es"
+    },
+    {
+      "description": "Lotus 的浮印。Tenno，请忽略你最初的目标。由社区艺术家 Searyn 创作。",
+      "name": "活泼 Lotus 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф Лотос. Забудьте о своей изначальной цели, Тэнно. Создан художником сообщества Searyn.",
+      "name": "Глиф: Дерзкая Лотос",
+      "code": "ru"
+    },
+    {
+      "description": "Lotusのグリフ。任務を変更します、テンノ。コミュニティアーティストSearynによる作品。",
+      "name": "Sassy Lotus グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif Lotus. Zignoruj swój pierwotny cel, Tenno. Stworzony przez artystę społeczności Searyn.",
+      "name": "Glif Zadziornej Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da Lótus. Ignore seu objetivo original, Tenno. Desenvolvido pela artista da comunidade, Searyn.",
+      "name": "Glifo: Lótus Insolente",
+      "code": "pt"
+    },
+    {
+      "description": "Lotus 的浮印。Tenno，別管什麼原本的目標了。由社群藝術家──Searyn 創作。",
+      "name": "瀟灑 Lotus 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ Lotus แสดงออกทำนองว่าไม่ต้องสนใจเป้าหมายเดิมหรอก Tenno ออกแบบโดยศิลปินชุมชน Searyn",
+      "name": "ภาพสัญลักษณ์ Sassy Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'un bir glifi. Asıl amacını görmezden gel, Tenno. Topluluk sanatçısı Searyn tarafından tasarlandı.",
+      "name": "Alaycı Lotus Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лотос. Тенно, ігноруй свої початкові цілі. Створений Searyn.",
+      "name": "Гліф «Зухвала Лотос»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaToxinEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-toxin-ephemera-3d95cdcdac.png",
+  "name": "Vengeful Toxin Ephemera",
+  "description": "An ephemera of toxic miasma seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein Ephemera umhüllt von einer giftigen Wolke, von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächendes Gift",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera enveloppé d'un miasme toxique et récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Poison Vengeur",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera di miasma tossico estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Toxin",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은 독성 기류의 이페메라입니다.",
+      "name": "벤지풀 톡신 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero de miasma tóxico adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Toxina vengativa",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的毒性瘴气幻纹。",
+      "name": "复仇毒素幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Эфемера токсичной Миазмы изъята у трансформированного или побежденного Лича Кувы.",
+      "name": "Эфемера: Токсин мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた有毒な瘴気のエフェメラ。",
+      "name": "Vengeful Toxin エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Efemera emitująca toksyczne wyziewy skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwej Toksyny",
+      "code": "pl"
+    },
+    {
+      "description": "Uma efêmera de miasma tóxico obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Tóxica",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的劇毒瘴氣幻紋。",
+      "name": "復仇毒素幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่มีกลิ่นไอพิษ ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Toxin",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş bir zehirli miasma ephemera.",
+      "name": "Vengeful Toxin Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Отруйна ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстивий трунок»",
+      "code": "uk"
+    }
+  ]
+}

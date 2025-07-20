@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/WF1999FrostAuxHat",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/velimir's-coolant-tank-0a22971420.png",
+  "name": "Velimir's Coolant Tank",
+  "description": "Nobody is certain exactly what this canister contains, but it appears to complement the Frost Protoframe's abilities in some way. Velimir insists it keeps him 'minty fresh.'",
+  "languages": [
+    {
+      "description": "Niemand weiß genau, was dieser Kanister enthält, aber er scheint die Fähigkeiten des Frost-Protoframes in gewisser Weise zu ergänzen. Velimir betont, dass er ihn 'minzig frisch' hält.",
+      "name": "Velimirs Kühlmitteltank",
+      "code": "de"
+    },
+    {
+      "description": "Personne ne sait exactement ce que contient ce réservoir, mais il semble compléter les Pouvoirs de la Protoframe de Frost, d'une certaine manière. Velimir insiste sur le fait qu'il lui permet de rester 'frais comme de la menthe poivrée'.",
+      "name": "Réservoir de liquide de refroidissement de Velimir",
+      "code": "fr"
+    },
+    {
+      "description": "Nessuno sa esattamente cosa ci sia dentro questo serbatoio, ma sembra che sia in qualche modo collegato alle abilità del Protoframe di Frost. Velimir sostiene che lo mantiene 'fresco come la menta piperita'.",
+      "name": "Serbatoio Refrigerante di Velimir",
+      "code": "it"
+    },
+    {
+      "description": "아무도 이 통 안에 정확히 무엇이 들어 있는지는 확실히 모르지만, 어떤 식으로든 프로스트 프로토프레임의 어빌리티를 보완하는 듯 합니다. 벨리미르는 이 통의 내용물이 자신을 '민트처럼 상쾌하게' 유지한다고 주장합니다.",
+      "name": "벨리미르의 냉각수 탱크",
+      "code": "ko"
+    },
+    {
+      "description": "Nadie sabe con certeza qué hay en este contenedor, pero parece complementar las habilidades del protoframe de Frost de alguna manera. Velimir insiste en que lo mantiene fresco como la menta.",
+      "name": "Depósito de refrigerante de Velimir",
+      "code": "es"
+    },
+    {
+      "description": "没人知道这个罐子里到底装了什么，但它似乎在某种程度上增强了 Frost 原型战甲的能力。维利米尔坚持说它让他保持“醒脑提神”。",
+      "name": "维利米尔的冷却剂罐",
+      "code": "zh"
+    },
+    {
+      "description": "Никто точно не знает, что содержится в этом контейнере, но, похоже, он каким-то образом усиливает способности протофрейма Фроста. Велимир уверяет, что эта жидкость помогает ему оставаться «свежим, как мята».",
+      "name": "Система охлаждения Велимира",
+      "code": "ru"
+    },
+    {
+      "description": "この容器に実際何が入っているのか誰も知らないが、Frost PROTOFRAMEのアビリティを何らかの形で補助しているようだ。Velimirはそれで「ミントのフレッシュ感」をまとっていると主張する。",
+      "name": "Velimirの冷却タンク",
+      "code": "ja"
+    },
+    {
+      "description": "Nikt nie jest pewien zawartości tego pojemnika, ale zdaje się ona mieć pozytywny wpływ na umiejętności Protoframe Frosta. Velimir zarzeka się, że 'pomaga mu zachować świeżość'.",
+      "name": "Zbiornik Chłodziwa Velimira",
+      "code": "pl"
+    },
+    {
+      "description": "Ninguém sabe exatamente o que tem dentro deste tanque, mas parece complementar as habilidades do Protoframe do Frost de alguma forma. O Velimir insiste que ela o deixa 'geladinho como menta'.",
+      "name": "Tanque de Refrigeração do Velimir",
+      "code": "pt"
+    },
+    {
+      "description": "沒人確切知道這個罐子裡到底裝了什麼，但它似乎在某種程度上增強了 Frost 原型 Warframe 的能力。韋利米爾說它能夠讓他保持「清醒涼爽」。",
+      "name": "韋利米爾的冷卻液箱",
+      "code": "tc"
+    },
+    {
+      "description": "ไม่มีใครรู้แน่ชัดว่าข้างในกระป๋องนี้มีอะไรอยู่ แต่ดูเหมือนว่าจะช่วยเสริมความสามารถของ Frost Protoframe ได้ในระดับหนึ่ง ซึ่ง Velimir ยืนยันว่ามันทำให้เขารู้สึก 'สดชื่นเหมือนมิ้นต์'",
+      "name": "ถังน้ำหล่อเย็นของ Velimir",
+      "code": "th"
+    },
+    {
+      "description": "Hiç kimse bu kapsülün tam olarak ne içerdiğinden emin değil, ama bir şekilde Frost Protoframe'in yeteneklerini tamamlıyor gibi görünüyor. Velimir, bunun kendisini 'serin ve taze' tuttuğu konusunda ısrarlı.",
+      "name": "Velimir'in Soğutma Tankı",
+      "code": "tr"
+    },
+    {
+      "description": "Ніхто точно не знає про вміст балона, але якимось чином він доповнює здібності протофрейма Фроста. Велимир стверджує, що це дозволяє зберігати «м’ятну свіжість».",
+      "name": "Система охолодження Велимира",
+      "code": "uk"
+    }
+  ]
+}

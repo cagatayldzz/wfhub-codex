@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-0096642b50.png",
+  "name": "Kuva",
+  "description": "Kuva is an exceedingly rare red fluid coveted by the Grineer Queens. It can be obtained in Kuva Missions, and is used to Cycle Rivens or build rare blueprints.\n\nLocation: Kuva Siphon Missions and Taveuni (Kuva Fortress)",
+  "languages": [
+    {
+      "description": "Kuva ist eine überaus seltene, rote Flüssigkeit, die von den Grineer Königinnen begehrt wird. Sie kann in Kuva-Missionen erhalten werden und wird dazu benutzt, Riven umzuformen oder seltene Blaupausen herzustellen.\n\nQuelle: Kuva Siphon-Missionen und auf Taveuni aus der Kuva Festung.",
+      "name": "Kuva",
+      "code": "de"
+    },
+    {
+      "description": "Le Kuva est un fluide rouge extrêmement rare convoité par les Reines Grineers. Il peut être obtenu dans les missions Kuva et est utilisé pour le Recyclage des Rivens ou pour construire des Schémas rares.\n\nLieu: Missions Siphon à Kuva et Taveuni (Forteresse Kuva)",
+      "name": "Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Il Kuva è un liquido rosso estremamente raro, bramato dalle Regine Grineer. Può essere ottenuto dalle Missioni Kuva, ed è utilizzato per Reroll Riven o per costruire schemi rari.\n\nPosizione: Missioni Sifone Kuva e Taveuni (Fortezza Kuva)",
+      "name": "Kuva",
+      "code": "it"
+    },
+    {
+      "description": "쿠바는 그리니어의 두 여왕이 갈망하는, 매우 희귀한 붉은 액체입니다. 쿠바 미션에서 획득할 수 있으며, 리벤을 재순환시키거나 희귀한 설계도의 아이템을 제작하는 데 사용됩니다.\n\n획득 가능 장소: 쿠바 사이펀 미션 및 Taveuni (쿠바 요새)",
+      "name": "쿠바",
+      "code": "ko"
+    },
+    {
+      "description": "El Kuva es un fluido rojo extremadamente raro y codiciado por las Reinas grineer. Se puede obtener en las misiones de Kuva y se usa para variar mods Agrietados o para fabricar planos raros.\n\nUbicación: Misiones de Sifón de Kuva y Taveuni (Fortaleza Kuva)",
+      "name": "Kuva",
+      "code": "es"
+    },
+    {
+      "description": "赤毒是 Grineer 女皇梦寐以求的一种非常罕见的红色液体。它可以从赤毒任务中获得，用来循环裂罅 Mod 或者制造稀有蓝图。\n\n获取地点：赤毒虹吸任务、Taveuni（赤毒要塞）",
+      "name": "赤毒",
+      "code": "zh"
+    },
+    {
+      "description": "Кува — чрезвычайно редкая красная жидкость, желанная королевами Гринир. Кува используется для циклов Разлома и создания редких чертежей и её можно добыть в миссиях Кувы.\n\nМестонахождение: Миссии поглощения Кувы и в Taveuni (Крепость Кувы).",
+      "name": "Кува",
+      "code": "ru"
+    },
+    {
+      "description": "グリニアの両女帝が切望する赤く希少な液体。クバミッションから入手でき、Riven MODのサイクルやレアなアイテムの製作に使用される。\n\n場所：クバサイフォン、Taveuni（クバ要塞）",
+      "name": "クバ",
+      "code": "ja"
+    },
+    {
+      "description": "Kuva to niezwykle rzadki, czerwony płyn, pożądany przez Królowe Grineer. Można go zdobyć w misjach Kuvy i jest on używany do Cyklu Riven lub tworzenia rzadkich schematów.\n\nPołożenie: Misje Syfonu Kuvy i Taveuni (Forteca Kuva)",
+      "name": "Kuva",
+      "code": "pl"
+    },
+    {
+      "description": "Kuva é um líquido vermelho, extremamente raro, e muito cobiçado pelas Rainhas Grineer. Este recurso pode ser utilizado para Modificação de Rivens ou construção de diagramas raros.\n\nLocalização: em Taveuni, na Fortaleza Kuva, ou em Missões de Sifão de Kuva.",
+      "name": "Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "赤毒是極為稀有的紅色液體，由 Grineer 女皇們高度索求。它可以在赤毒任務中獲取並且用於循環裂罅 MOD 或製造稀有藍圖。\n\n地點：赤毒虹吸任務及 Taveuni 上的赤毒要塞",
+      "name": "赤毒",
+      "code": "tc"
+    },
+    {
+      "description": "คูวาคือของเหลวสีแดงที่หายากยิ่งที่ราชินี Grineer ปรารถนา สามารถรับไอเทมนี้ได้ในภารกิจคูวา และใช้สำหรับหมุนเวียน Riven หรือสร้างพิมพ์เขียวที่หายาก\n\nแหล่งที่พบ: ภารกิจคูวาไซฟอนและ Taveuni (ป้อมปราการคูวา)",
+      "name": "คูวา",
+      "code": "th"
+    },
+    {
+      "description": "Kuva, Grineer Kraliçelerinin imrendiği son derece nadir kırmızı bir sıvıdır. Kuva Görevlerinden elde edilebilir ve Riven'leri dönüştürmek veya nadir kalıpları üretebilmek için kullanılır.\n\nYer: Kuva Siphon Görevleri ve Taveuni (Kuva Kalesi)",
+      "name": "Kuva",
+      "code": "tr"
+    },
+    {
+      "description": "Загадкова червона рідина, яку так жадають Королеви ґрінерів. Використовується в перетворенні модифікаторів розколу, а також у майструванні рідкісних речей.\n\nМожна здобути на завданнях поглинання куви та в Тавеуні (Кувова фортеця).",
+      "name": "Кува",
+      "code": "uk"
+    }
+  ]
+}

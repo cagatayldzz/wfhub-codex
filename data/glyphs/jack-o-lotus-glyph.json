@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageHalloween2021Lotus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jack-o-lotus-glyph-2eedbc01d4.png",
+  "name": "Jack-O-Lotus Glyph",
+  "description": "A friend to all Tenno, and a lantern to keep evil at bay.",
+  "languages": [
+    {
+      "description": "Ein Freund aller Tenno und eine Laterne, die das Böse fernhält.",
+      "name": "Glyphe: Jack-O-Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Une amie pour tous les Tennos, et une lanterne pour éloigner le mal.",
+      "name": "Glyphe Lotus Naberus",
+      "code": "fr"
+    },
+    {
+      "description": "Un amico per tutti i Tenno, e una lanterna per tenere a bada il male.",
+      "name": "Glifo Jack-O-Lotus",
+      "code": "it"
+    },
+    {
+      "description": "모든 텐노의 친구이자 악의 존재들을 저지하는 랜턴입니다.",
+      "name": "잭-오-로터스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un amigo para todos los tenno y una linterna para mantener el mal a raya.",
+      "name": "Glifo de Lotus Calabaza",
+      "code": "es"
+    },
+    {
+      "description": "是所有 Tenno 的朋友，也是阻挡邪恶的灯笼。",
+      "name": "南瓜 Lotus 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Друг всех Тэнно и фонарь, отгоняющий зло.",
+      "name": "Глиф: Лотос Наберус",
+      "code": "ru"
+    },
+    {
+      "description": "全テンノの仲間、そして悪を阻むランタン。",
+      "name": "Jack-O-Lotus グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Przyjaciel wszystkich Tenno i latarnia, która trzyma zło na dystans.",
+      "name": "Glif Jack-O-Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Um amigo para todos os Tennos, e uma lanterna para afastar o mal.",
+      "name": "Glifo: Jack-O-Lótus",
+      "code": "pt"
+    },
+    {
+      "description": "象徵著與所有 Tenno 之間的友誼，也是驅惡避邪的一盞明燈。",
+      "name": "傑克-Lotus-南瓜浮印",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นเพื่อนกับ Tenno ทุกคน และเป็นตะเกียงที่คอยกันปีศาจให้ห่างออกไป",
+      "name": "ภาพสัญลักษณ์ Jack-O-Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Tenno’nun dostu ve şeytanı kıyıdan uzak tutan bir fener.",
+      "name": "Jack-O-Lotus Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Друг усіх тенно й ліхтар, що відганяє зло.",
+      "name": "Гліф «Ліхтар Лотос»",
+      "code": "uk"
+    }
+  ]
+}

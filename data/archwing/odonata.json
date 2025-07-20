@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/odonata-0425304f27.png",
+  "name": "Odonata",
+  "description": "The systems built into this Archwing balance offensive capabilities with defensive countermeasures.",
+  "armor": 100,
+  "languages": [
+    {
+      "description": "Die Systeme dieses Archwings bieten ein Gleichgewicht zwischen offensiven Fähigkeiten und defensiven Gegenmaßnahmen.",
+      "name": "<ARCHWING> Odonata",
+      "code": "de"
+    },
+    {
+      "description": "Les systèmes intégrés à cette Archwing ont été conçus pour équilibrer ses capacités offensives avec des contre-mesures défensives.",
+      "name": "<ARCHWING> Odonata",
+      "code": "fr"
+    },
+    {
+      "description": "I sistemi integrati in questa Archwing bilanciano capacità offensive con contromisure difensive.",
+      "name": "<ARCHWING> Odonata",
+      "code": "it"
+    },
+    {
+      "description": "이 아크윙에 내장된 시스템은 공격 능력과 방어 대책을 겸비한 밸런스를 유지합니다.",
+      "name": "<ARCHWING> 오도나타",
+      "code": "ko"
+    },
+    {
+      "description": "Los sistemas integrados en este archwing equilibran las capacidades ofensivas con contramedidas defensivas.",
+      "name": "<ARCHWING> Odonata",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ODONATA）这组曲翼的系统拥有均衡的攻防能力。",
+      "name": "<ARCHWING> 陨蜓",
+      "code": "zh"
+    },
+    {
+      "description": "Система, встроенная в этот арчвинг, обеспечивает равные возможности атаки и защиты.",
+      "name": "<ARCHWING> Одоната",
+      "code": "ru"
+    },
+    {
+      "description": "このアークウイングに組み込まれたシステムは攻撃力と防御力をバランスよく配分してある。",
+      "name": "<ARCHWING> Odonata",
+      "code": "ja"
+    },
+    {
+      "description": "Systemy wbudowane w ten model Archwinga są przykładem równowagi między zdolnościami ofensywnymi i defensywnymi.",
+      "name": "<ARCHWING> Odonata",
+      "code": "pl"
+    },
+    {
+      "description": "Os sistemas construídos nesta Archwing equilibram capacidades ofensivas com contramedidas defensivas.",
+      "name": "<ARCHWING> Odonata",
+      "code": "pt"
+    },
+    {
+      "description": "這組 Archwing 的系統擁有均衡的攻防能力。",
+      "name": "<ARCHWING> Odonata",
+      "code": "tc"
+    },
+    {
+      "description": "ระบบที่สร้างขึ้นใน Archwing นี้จะสร้างสมดุลระหว่างความสามารถในเชิงรุกและการตอบโต้เชิงป้องกัน",
+      "name": "<ARCHWING> Odonata",
+      "code": "th"
+    },
+    {
+      "description": "Bu Archwing'in barındırdığı sistem hem defans hemde saldırı tekniklerini eşit derecede içerir.",
+      "name": "<ARCHWING> Odonata",
+      "code": "tr"
+    },
+    {
+      "description": "Внутрішні системи цього арквінґа дозволяють тримати рівновагу між наступом та захистом.",
+      "name": "<ARCHWING> Одоната",
+      "code": "uk"
+    }
+  ]
+}

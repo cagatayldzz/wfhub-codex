@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaRarityBoost",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nexifera-pheromone-gland-b5c70c15cf.png",
+  "name": "Nexifera Pheromone Gland",
+  "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Nexifera.",
+  "languages": [
+    {
+      "description": "Einsetzen kurz bevor ein Echo-Köder benutzt wird, um die Chance zu erhöhen, eine seltenere Nexifera-Unterart anzulocken.",
+      "name": "PHEROMONDRÜSE: NEXIFERA",
+      "code": "de"
+    },
+    {
+      "description": "À déployer juste avant d'utiliser l'Écho-Leurre afin d'augmenter les chances d'attirer une sous-espèce de Nexifera plus rare.",
+      "name": "GLANDE DE PHÉROMONE DE NEXIFERA",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega prima di utilizzare il richiamo per avere maggiori possibilità di attrarre rare sottospeci di Nexifera.",
+      "name": "GHIANDOLA DI FEROMONI NEXIFERA",
+      "code": "it"
+    },
+    {
+      "description": "에코-루어 사용 직전에 배치하여 더욱 희귀한 넥시페라의 아종을 유인할 수 있는 확률을 증가시키세요.",
+      "name": "넥시페라 페로몬 분비선",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega justo antes de usar el eco-señuelo para aumentar la probabilidad de atraer a una subespecie rara de nexifera.",
+      "name": "GLÁNDULA DE FEROMONA DE NEXIFERA",
+      "code": "es"
+    },
+    {
+      "description": "在使用回声诱饵前部署可以提升吸引一种悬匿兽稀有亚种的几率。",
+      "name": "悬匿兽费洛蒙腺体",
+      "code": "zh"
+    },
+    {
+      "description": "Примените перед использованием эхо-манка, чтобы увеличить вероятность привлечения более редкого подвида Нексиферы.",
+      "name": "ФЕРОМОННАЯ ЖЕЛЕЗА НЕКСИФЕРЫ",
+      "code": "ru"
+    },
+    {
+      "description": "ECHOルアーを使用する直前に起動して、より希少なネクシフェラを引き寄せる確率を上げよう。",
+      "name": "ネクシフェラ フェロモン腺",
+      "code": "ja"
+    },
+    {
+      "description": "Skorzystaj z tego zaraz przed użyciem echo-wabika, aby zwiększyć szansę na zwabienie rzadszego okazu Neksyfery.",
+      "name": "GRUCZOŁ FEROMONÓW NEKSYFERY",
+      "code": "pl"
+    },
+    {
+      "description": "Utilize este item antes de utilizar a Ecoisca para aumentar a chance de atrair subespécies mais raras de Nexiferas.",
+      "name": "GLÂNDULA DE FEROMÔNIO DE NEXIFERA",
+      "code": "pt"
+    },
+    {
+      "description": "在使用迴聲誘餌前部署可以提升吸引到隱沒獸稀有亞種的機率。",
+      "name": "隱沒獸費洛蒙腺體",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้ก่อนที่จะใช้เครื่องเลียนแบบเสียง เพื่อเพิ่มโอกาสในการดึงดูดสายพันธุ์ย่อยที่หายากของ Nexifera",
+      "name": "NEXIFERA PHEROMONE GLAND",
+      "code": "th"
+    },
+    {
+      "description": "Eko-Çağırıcı kullanmadan önce yerleştirerek Nexifera'nın en nadir türlerinin dikkatini çekme şansını artır.",
+      "name": "NEXIFERA PHEROMONE GLAND",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте перед увімкненням еховабика, щоб із більшою ймовірністю приманити рідкісний різновид нексифер.",
+      "name": "ФЕРОМОННА ЗАЛОЗА НЕКСИФЕРИ",
+      "code": "uk"
+    }
+  ]
+}

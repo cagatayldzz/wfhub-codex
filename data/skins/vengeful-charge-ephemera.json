@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaLightningEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-charge-ephemera-6ebaab3752.png",
+  "name": "Vengeful Charge Ephemera",
+  "description": "A shocking ephemera seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein elektrisch geladenes Ephemera, von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächende Ladung",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera électrique récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Charge Vengeresse",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera elettrizzante estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Charge",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은 전류의 이페메라입니다.",
+      "name": "벤지풀 차지 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero electrizante adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Carga Vengativa",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的电击幻纹。",
+      "name": "复仇充电幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Электрическая эфемера изъята у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Заряд мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた電撃を放つエフェメラ。",
+      "name": "Vengeful Charge エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Elektryczna Efemera skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwego Ładunku",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera eletrizante obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Eletrizante",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的震蕩幻紋。",
+      "name": "復仇衝鋒幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่ทำให้เกิดไฟช็อต ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Charge",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş şok edici bir ephemera.",
+      "name": "Vengeful Charge Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Електрична ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстивий заряд»",
+      "code": "uk"
+    }
+  ]
+}

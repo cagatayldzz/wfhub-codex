@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Characters/Tenno/Accessory/Scarves/U17TnoCape/LotusCapeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nelumbo-syandana-0c7f8eb9d2.png",
+  "name": "Nelumbo Syandana",
+  "description": "Worn to honor The Lotus.",
+  "languages": [
+    {
+      "description": "Getragen zu Ehren der Lotus.",
+      "name": "Nelumbo Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Portée pour honorer le Lotus.",
+      "name": "Syandana Nelumbo",
+      "code": "fr"
+    },
+    {
+      "description": "Indossata per onorare Lotus.",
+      "name": "Syandana Nelumbo",
+      "code": "it"
+    },
+    {
+      "description": "로터스에게 경의를 표하기 위해 착용합니다.",
+      "name": "닐럼보 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Túnica para honrar a Lotus.",
+      "name": "Syandana Nelumbo",
+      "code": "es"
+    },
+    {
+      "description": "披挂上以荣耀 Lotus。",
+      "name": "莲花披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Носится в знак почета Лотос.",
+      "name": "Сандана: Нелумбо",
+      "code": "ru"
+    },
+    {
+      "description": "Lotusを敬う者が身につけるシャンダナ。",
+      "name": "Nelumbo シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Zakładana, aby uhonorować Lotus.",
+      "name": "Syandana Nelumbo",
+      "code": "pl"
+    },
+    {
+      "description": "Usado para honrar a Lótus.",
+      "name": "Syandana: Nelumbo",
+      "code": "pt"
+    },
+    {
+      "description": "披掛上以榮耀 Lotus。",
+      "name": "蓮花披飾",
+      "code": "tc"
+    },
+    {
+      "description": "สวมใส่เพื่อเป็นเกียรติแก่ Lotus",
+      "name": "ไซอันดานา Nelumbo",
+      "code": "th"
+    },
+    {
+      "description": "Lotusu onurlandırmak için giyilir",
+      "name": "Nelumbo Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Носіть на шану Лотос.",
+      "name": "Сяндана «Нелумбо»",
+      "code": "uk"
+    }
+  ]
+}

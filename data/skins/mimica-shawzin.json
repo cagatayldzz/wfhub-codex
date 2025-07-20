@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ShawzinPlayableBase",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mimica-shawzin-16dc85b5c9.png",
+  "name": "Mimica Shawzin",
+  "description": "Features an adaptive enamel that senses and mimics the coloring of any musician playing it. Play this instrument by equipping and using the included Shawzin Emote.",
+  "languages": [
+    {
+      "description": "Hat eine lernfähige Lackschicht, welche die Farbe desjenigen, der sie spielt, spürt und imitiert. Spiele dieses Instrument, indem du es ausrüstest und die enthaltene Shawzin-Emote benutzt.",
+      "name": "Shawzin: Imitator",
+      "code": "de"
+    },
+    {
+      "description": "Recouvert d'un vernis qui identifie et réplique les couleurs du musicien qui en joue. Jouez de cet instrument en équipant et en utilisant le Geste Shawzin inclus.",
+      "name": "Shawzin Mimica",
+      "code": "fr"
+    },
+    {
+      "description": "Presenta una vernice adattabile che percepisce e simula la colorazione di qualsiasi musicista che lo suona. Suona questo strumento equipaggiando e usando l'Emote Shawzin incluso.",
+      "name": "Shawzin Mimica",
+      "code": "it"
+    },
+    {
+      "description": "이 악기를 연주하는 그 어떤 악사의 감각이라도 감지하고 그 색깔을 따라하는 적응형 에나멜을 특징으로 합니다. 이 악기를 사용하려면 함께 지급되는 샤진 감정표현을 장착 뒤 사용해보세요.",
+      "name": "미미카 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Tiene un esmalte adaptativo que detecta y simula el color de cualquier músico que lo toca. Toca este instrumento equipando y usando el gesto incluido del Shawzin.",
+      "name": "Shawzin Mimica",
+      "code": "es"
+    },
+    {
+      "description": "具有适应性珐琅，可感知和模仿任何演奏它的音乐家的色彩。装备并使用内含的三线琴表情符号来弹奏这把乐器。",
+      "name": "拟态三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Особенностью адаптивной эмали является ощущение и имитация окраски любого играющего музыканта. Играйте на этом инструменте, экипировав и использовав Жесты Шазина.",
+      "name": "Шазин: Имитация",
+      "code": "ru"
+    },
+    {
+      "description": "演奏するミュージシャンの色を感知して模倣する適応型エナメルが特徴となっている。このアイテムに付いてくるShawzinエモートを装備して、楽器を演奏しよう。",
+      "name": "Mimica Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Posiada adaptacyjną emalię, która wyczuwa i naśladuje kolorystykę każdego muzyka, który na niej gra. Zagraj na tym instrumencie, wyposażając go i używając dołączonego Gestu Shawzin.",
+      "name": "Shawzin Mimik",
+      "code": "pl"
+    },
+    {
+      "description": "Apresenta um esmalte adaptável que detecta e imita a coloração de qualquer músico que o toca. Toque este instrumento equipando e usando o já incluído Emote Shawzin.",
+      "name": "Shawzin Mímica",
+      "code": "pt"
+    },
+    {
+      "description": "具有適應性琺瑯，可感知和模仿任何演奏它的音樂家的色彩。裝備並使用內含的三線琴表情符號來彈奏這把樂器。",
+      "name": "擬態三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "โดดเด่นด้วยเทคโนโลยีอีนาเมลที่สามารถตรวจจับและจำลองสีสันให้เหมือนกับนักดนตรีผู้ที่กำลังบรรเลงมันอยู่ เล่นเครื่องดนตรีชิ้นนี้โดยการติดตั้งและใช้อิโมตของ Shawzin ที่ให้มา",
+      "name": "Mimica Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Çalan herhangi bir müzisyenin rengini algılayan ve taklit eden özellik içerir. Bu enstrümanı ekte verilen Shawzin Emojisini kuşanıp kullanarak çalmaya başlayın.",
+      "name": "Mimica Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Шодзін, укритий технологічною емаллю, що відчуває музику й передає її кольором. Додайте шодзін у колесо жестів і застосуйте, щоб зіграти. ",
+      "name": "Шодзін «Імітація»",
+      "code": "uk"
+    }
+  ]
+}

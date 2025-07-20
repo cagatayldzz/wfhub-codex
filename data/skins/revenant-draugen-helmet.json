@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWDraugenHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-draugen-helmet-25ad37b99a.png",
+  "name": "Revenant Draugen Helmet",
+  "description": "A helmet for the Revenant Warframe, designed by Goosmo.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Revenant Warframe, entworfen von Goosmo.",
+      "name": "Revenant-Helm: Draugen",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Revenant, conçu par Goosmo.",
+      "name": "Casque Revenant Draugen",
+      "code": "fr"
+    },
+    {
+      "description": "Un Elmo per il Warframe Revenant, ideato da Goosmo.",
+      "name": "Elmo Revenant Draugen",
+      "code": "it"
+    },
+    {
+      "description": "Goosmo에 의해 디자인된 레버넌트 워프레임을 위한 헬멧입니다.",
+      "name": "레버넌트 드라우겐 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Revenant, diseñado por Goosmo.",
+      "name": "Casco Draugen de Revenant",
+      "code": "es"
+    },
+    {
+      "description": "Revenant 战甲的头盔，由 Goosmo 设计。",
+      "name": "Revenant 尸灵头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Ревенант, созданный Goosmo.",
+      "name": "Шлем Ревенанта: Дроген",
+      "code": "ru"
+    },
+    {
+      "description": "Revenant用のヘルメット。製作者：Goosmo。",
+      "name": "Revenant Draugen ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Revenant, zaprojektowany przez Goosmo.",
+      "name": "Revenant: Hełm Draugen",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Revenant, desenvolvido por Goosmo.",
+      "name": "Revenant: Capacete Draugen",
+      "code": "pt"
+    },
+    {
+      "description": "Revenant Warframe 的頭盔，由 Goosmo 所設計。",
+      "name": "Revenant 屍鬼頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Revenant Warframe ออกแบบโดย Goosmo",
+      "name": "หมวกเหล็ก Revenant Draugen",
+      "code": "th"
+    },
+    {
+      "description": "Goosmo tarafından Revenant Warframe'i için dizayn edilmiş özel bir miğfer.",
+      "name": "Revenant Draugen Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ревенанта, створений Goosmo.",
+      "name": "Шолом «Драуґр» для Ревенанта",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/RightHeartEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/right-hand-of-eros-b0f71e8803.png",
+  "name": "Right Hand Of Eros",
+  "description": "Two halves make a whole. Perform this emote with another Tenno's Left Hand of Eros to form a heart.",
+  "languages": [
+    {
+      "description": "Zwei Hälften ergeben ein Ganzes. Führe dieses Emote mit der linken Hand des Eros eines anderen Tenno aus, um ein Herz zu bilden.",
+      "name": "Rechte Hand des Eros",
+      "code": "de"
+    },
+    {
+      "description": "Deux moitiés font un tout. Effectuez ce Geste avec la Main gauche d'Eros d'un autre Tenno pour former un cœur.",
+      "name": "Main droite d'Eros",
+      "code": "fr"
+    },
+    {
+      "description": "Due metà formano un intero. Esegui questa emote con la Mano Sinistra di Eros di un altro Tenno per formare un cuore.",
+      "name": "Mano Destra di Eros",
+      "code": "it"
+    },
+    {
+      "description": "두 개의 반쪽이 만나 하나를 이룹니다. 이 감정 표현으로 다른 텐노가 표현하는 에로스의 왼손과 함께 하트를 만들어 보세요.",
+      "name": "에로스의 오른손",
+      "code": "ko"
+    },
+    {
+      "description": "Dos mitades hacen un todo. Ejecuta este gesto con la Mano izquierda de Eros de otro tenno para formar un corazón.",
+      "name": "Mano derecha de Eros",
+      "code": "es"
+    },
+    {
+      "description": "两个一半构成一个整体。与另一名拥有爱神的左手的 Tenno 一起合作该表情动作来比心。",
+      "name": "爱神的右手",
+      "code": "zh"
+    },
+    {
+      "description": "Две половинки составляют одно целое. Используйте эту эмоцию с эмоцией других Тэнно «Левая рука Эроса», чтобы показать сердце.",
+      "name": "Правая рука Эроса",
+      "code": "ru"
+    },
+    {
+      "description": "2つで1つを造る。このエモートを他のテンノのErosの左手と共に行うとハートが出来上がる。",
+      "name": "Erosの右手",
+      "code": "ja"
+    },
+    {
+      "description": "Dwie połówki tworzą całość. Wykonaj ten gest lewą dłonią Erosa z innym Tenno, aby uformować serce.",
+      "name": "Prawa dłoń Erosa",
+      "code": "pl"
+    },
+    {
+      "description": "Duas metades fazem um todo. Execute este Emote com a Mão Esquerda de Eros de outro Tenno para formar um coração.",
+      "name": "Mão Direita de Eros",
+      "code": "pt"
+    },
+    {
+      "description": "心心相惜。與另一名 Tenno 的「愛神的左手」表情動作來形成一顆完整的心。",
+      "name": "愛神的右手",
+      "code": "tc"
+    },
+    {
+      "description": "สองมือประกบกันให้ครบ ใช้อิโมตนี้พร้อมกับให้ Tenno อีกคนหนึ่งใช้มือซ้ายของ Eros เพื่อสร้างเป็นรูปหัวใจ",
+      "name": "มือขวาของ Eros",
+      "code": "th"
+    },
+    {
+      "description": "İki yarım bir bütün eder. Eros'un Sol Elini kullanan başka bir Tenno ile bu hareketi yaparak bir kalp oluşturabilirsin.",
+      "name": "Eros'un Sağ Eli",
+      "code": "tr"
+    },
+    {
+      "description": "Дві половинки складають одне ціле. Використайте цей жест із жестом «Ліва рука Ероса» іншого тенно, щоб сформувати серце.",
+      "name": "Права рука Ероса",
+      "code": "uk"
+    }
+  ]
+}

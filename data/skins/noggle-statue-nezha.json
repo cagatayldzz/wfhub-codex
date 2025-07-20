@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NezhaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---nezha-fac0db4923.png",
+  "name": "Noggle Statue - Nezha",
+  "description": "A small wobbly statue of Nezha.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Nezha.",
+      "name": "Noggle-Statue: Nezha",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Nezha.",
+      "name": "Statuette Noggle - Nezha",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Nezha con la testa tremolante.",
+      "name": "Statuetta Noggle - Nezha",
+      "code": "it"
+    },
+    {
+      "description": "나타의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 나타",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Nezha.",
+      "name": "Estatua Tambaleante - Nezha",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Nezha 摇头娃娃。",
+      "name": "Nezha 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Нэчжи.",
+      "name": "Фигурка: Нэчжа",
+      "code": "ru"
+    },
+    {
+      "description": "Nezhaのボブルヘッド人形。",
+      "name": "Nezha ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Nezhy.",
+      "name": "Figurka Noggle — Nezha",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Nezha.",
+      "name": "Estatueta: Nezha",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Nezha 的搖頭娃娃。",
+      "name": "Nezha 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Nezha ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Nezha",
+      "code": "th"
+    },
+    {
+      "description": "Nezha küçük oynar figür.",
+      "name": "Noggle Heykeli - Nezha",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Неджи.",
+      "name": "Ноґл «Неджа»",
+      "code": "uk"
+    }
+  ]
+}

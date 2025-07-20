@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/MercuryNavigationFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/galleon-nav-coordinates-7edaa5a0d1.png",
+  "name": "Galleon Nav Coordinates",
+  "description": "",
+  "languages": [
+    {
+      "description": "",
+      "name": "GALEONE NAVI-KOORDINATEN",
+      "code": "de"
+    },
+    {
+      "description": "",
+      "name": "COORD. NAV DE GALION",
+      "code": "fr"
+    },
+    {
+      "description": "",
+      "name": "COORDINATE NAV GALEONE",
+      "code": "it"
+    },
+    {
+      "description": "",
+      "name": "갤리온 내비 코디네이트",
+      "code": "ko"
+    },
+    {
+      "description": "",
+      "name": "COOR. DE NAV. DEL GALEÓN",
+      "code": "es"
+    },
+    {
+      "description": "",
+      "name": "帆船舰队导航坐标",
+      "code": "zh"
+    },
+    {
+      "description": "",
+      "name": "НАВИГАЦИОННЫЕ КООРДИНАТЫ ГАЛЕОНА",
+      "code": "ru"
+    },
+    {
+      "description": "",
+      "name": "ガレオンナビ座標",
+      "code": "ja"
+    },
+    {
+      "description": "",
+      "name": "KOORDYNATY NAWIGACYJNE GALEONU",
+      "code": "pl"
+    },
+    {
+      "description": "",
+      "name": "COORDENADAS NAV GALEÃO",
+      "code": "pt"
+    },
+    {
+      "description": "",
+      "name": "帆船艦隊導航座標",
+      "code": "tc"
+    },
+    {
+      "description": "",
+      "name": "พิกัดนำทางเรือแกลเลียน",
+      "code": "th"
+    },
+    {
+      "description": "",
+      "name": "MERKÜR NAVİGASYON MODÜLÜ",
+      "code": "tr"
+    },
+    {
+      "description": "",
+      "name": "НАВІГАЦІЙНІ КООРДИНАТИ ГАЛЕОНА",
+      "code": "uk"
+    }
+  ]
+}

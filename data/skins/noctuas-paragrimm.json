@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/PagemasterOwl",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noctua's-paragrimm-bf44bbe0c3.png",
+  "name": "Noctua's Paragrimm",
+  "description": "A Paragrimm ascends from Noctua's pages to accompany you in your Orbiter.",
+  "languages": [
+    {
+      "description": "Ein Paragrimm steigt aus Noctuas Seiten auf, um dich in deinem Orbiter zu begleiten.",
+      "name": "Noctuas Paragrimm",
+      "code": "de"
+    },
+    {
+      "description": "Un Paragrimme surgit des pages du Noctua pour vous accompagner dans votre Orbiteur.",
+      "name": "Paragrimme du Noctua",
+      "code": "fr"
+    },
+    {
+      "description": "Un Paragrimm emerge dalle pagine del Noctua per farti compagnia nel tuo Orbiter.",
+      "name": "Paragrimm del Noctua",
+      "code": "it"
+    },
+    {
+      "description": "녹투아의 페이지로부터 파라그림이 솟아올라 오비터 내에서 여러분과 함께합니다.",
+      "name": "녹투아의 파라그림",
+      "code": "ko"
+    },
+    {
+      "description": "Un Paragrimm emerge de las páginas de Noctua para acompañarte en tu orbitador.",
+      "name": "Paragrimm de Noctua",
+      "code": "es"
+    },
+    {
+      "description": "一只幽幽鹰从夜枭的书页中升起，在轨道飞行器中陪伴你。",
+      "name": "夜枭的幽幽鹰",
+      "code": "zh"
+    },
+    {
+      "description": "Парагримм сходит со страниц Ноктуа, чтобы сопровождать вас в вашем Орбитере.",
+      "name": "Парагримм Ноктуа",
+      "code": "ru"
+    },
+    {
+      "description": "Noctuaのページからパラグリムが舞い上がりオービター内で同行する。",
+      "name": "Noctuaのパラグリム",
+      "code": "ja"
+    },
+    {
+      "description": "Paragrimm rodzi się ze stron Noctua, aby towarzyszyć Ci na pokładzie Orbitera.",
+      "name": "Paragrimm Noctua",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Paragrime emergirá das páginas do Noctua para acompanhá-lo em sua Orbital.",
+      "name": "Paragrime do Noctua",
+      "code": "pt"
+    },
+    {
+      "description": "智典的頁中飛出一隻幽隼來在你的軌道飛行器中與你作伴。",
+      "name": "智典幽隼",
+      "code": "tc"
+    },
+    {
+      "description": "Paragrimm จะออกมาจากหน้าหนังสือ Noctua เพื่อเป็นเพื่อนร่วมทางบนยานของคุณ",
+      "name": "Paragrimm ของ Noctua",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'inde sana eşlik etmek için Noctua'nın sayfalarından bir Paragrimm yükseliyor.",
+      "name": "Noctua'nın Paragrimm'i",
+      "code": "tr"
+    },
+    {
+      "description": "Параґрім сходить зі сторінок Ноктуа, щоб супроводжувати вас на орбітрі.",
+      "name": "Параґрім Ноктуа",
+      "code": "uk"
+    }
+  ]
+}

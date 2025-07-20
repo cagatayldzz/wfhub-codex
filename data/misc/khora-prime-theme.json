@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khora-prime-theme-482d54fd1c.png",
+  "name": "Khora Prime Theme",
+  "description": "Khora Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Khora Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Khora Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique de Khora Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Khora Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Khora Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Khora Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 코라 프라임의 대표 테마곡입니다.",
+      "name": "코라 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Khora Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Khora Prime",
+      "code": "es"
+    },
+    {
+      "description": "Khora Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Khora Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Коры Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Кора Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるKhora Primeのテーマ曲。",
+      "name": "Khora Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Khory Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Khora Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional da Khora Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Khora Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Khora Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Khora Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Khora Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Khora Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Khora Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Khora Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Хори-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Хори-прайм",
+      "code": "uk"
+    }
+  ]
+}

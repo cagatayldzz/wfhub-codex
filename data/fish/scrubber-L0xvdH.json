@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAMediumItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scrubber-17312d7f8f.png",
+  "name": "Scrubber",
+  "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
+  "languages": [
+    {
+      "description": "Analysiert das Wachstum von Mikroben, die sich im Wassersystem befinden, um die Giftbelastung zu überwachen. Kann in den Höhlenteichen der Venus gefunden werden.",
+      "name": "Schrubber",
+      "code": "de"
+    },
+    {
+      "description": "Analyse le développement des microbes vivant dans l'écosystème aquatique pour surveiller le niveau de toxicité. Peut être trouvé dans les mares souterraines de Vénus.",
+      "name": "Scrubber",
+      "code": "fr"
+    },
+    {
+      "description": "Analizza la crescita dei microbi che abitano nei sistemi acquatici per monitorare i livelli di tossicità.  Può essere trovato negli stagni all'interno delle grotte di Venere.",
+      "name": "Scrubber",
+      "code": "it"
+    },
+    {
+      "description": "유체 시스템에 상주하는 미생물의 성장을 분석하여 독성 정도를 모니터링합니다. 금성의 동굴 웅덩이에서 발견됩니다.",
+      "name": "스크러버",
+      "code": "ko"
+    },
+    {
+      "description": "Analiza el crecimiento de microbios residentes en el sistema de agua para monitorizar niveles de toxicidad. Puede ser encontrado en las piscinas cavernosas en Venus.",
+      "name": "Fregón",
+      "code": "es"
+    },
+    {
+      "description": "分析居住在水系统中的微生物的生长情况，以监测毒性等级。可以在金星的洞穴池塘中找到。",
+      "name": "洗涤者",
+      "code": "zh"
+    },
+    {
+      "description": "Анализирует рост микробов в системах водообеспечения, чтобы определить уровень токсичности. Можно найти в пещерных водоёмах Венеры.",
+      "name": "Скребок",
+      "code": "ru"
+    },
+    {
+      "description": "水中システムに住む微生物の増殖を分析し、毒性レベルを監視する。 金星の洞窟の水溜まりで見つかる。",
+      "name": "スクラバー",
+      "code": "ja"
+    },
+    {
+      "description": "Analizuje przyrost drobnoustrojów żyjących w systemach wodnych w celu monitorowania poziomu toksyczności. Można go znaleźć w zbiornikach wodnych i w jaskiniach na Wenus.",
+      "name": "Płuczka",
+      "code": "pl"
+    },
+    {
+      "description": "Analisa o crescimento de micróbios que habitam os sistemas aquáticos, para assim monitorar os níveis de toxicidade. Pode ser encontrado nas cavernas de Vênus.",
+      "name": "Scrubber",
+      "code": "pt"
+    },
+    {
+      "description": "分析居住在水系統中的微生物的生長情況，以監測毒性別。可以在金星的洞穴池中找到牠。",
+      "name": "洗滌者",
+      "code": "tc"
+    },
+    {
+      "description": "วิเคราะห์การเติบโตของจุลินทรีย์ที่อาศัยอยู่ในระบบน้ำเพื่อตรวจสอบระดับความเป็นพิษ พบได้ในแอ่งน้ำในถ้ำบนดาวศุกร์",
+      "name": "Scrubber",
+      "code": "th"
+    },
+    {
+      "description": "Kirlenme seviyelerini izlemek için su sistemlerinde yaşayan mikropların büyümesini analiz eder. Venüs'teki mağara havuzlarında bulunabilir.",
+      "name": "Scrubber",
+      "code": "tr"
+    },
+    {
+      "description": "Аналізує розмноження мікробів в аквасистемі для контролю рівня отруйності. Трапляється у печерних ставках на Венері.",
+      "name": "Очисник",
+      "code": "uk"
+    }
+  ]
+}

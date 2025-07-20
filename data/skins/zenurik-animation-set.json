@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/AnimationSets/ZenurikAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zenurik-animation-set-e81bdddbcf.png",
+  "name": "Zenurik Animation Set",
+  "description": "The Zenurik animation set for your Operator.",
+  "languages": [
+    {
+      "description": "Das Animationsset: Zenurik für deinen Operator.",
+      "name": "Animationsset: Zenurik",
+      "code": "de"
+    },
+    {
+      "description": "Le Pack d'Animations Zenurik pour votre Opérateur.",
+      "name": "Animation Zenurik",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Zenurik per il tuo Operatore.",
+      "name": "Set Animazione Zenurik",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터가 사용할 제누릭 애니메이션 세트입니다.",
+      "name": "제누릭 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones Zenurik para tu operador.",
+      "name": "Conjunto de animaciones Zenurik",
+      "code": "es"
+    },
+    {
+      "description": "指挥官使用的 Zenurik 站姿动作。",
+      "name": "Zenurik 站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Набор анимаций Зенурик для оператора.",
+      "name": "Набор анимаций: Зенурик",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター用のZenurikモーションセット。",
+      "name": "Zenurik モーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw animacji Zenurik dla Twojego Operatora.",
+      "name": "Zestaw Animacji Zenurik",
+      "code": "pl"
+    },
+    {
+      "description": "Conjunto de animações da Zenurik para o seu Operador.",
+      "name": "Animações: Zenurik",
+      "code": "pt"
+    },
+    {
+      "description": "給指揮官使用的 Zenurik 站姿",
+      "name": "Zenurik 站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชัน Zenurik สำหรับโอเปอเรเตอร์ของคุณ",
+      "name": "เซตแอนิเมชัน Zenurik",
+      "code": "th"
+    },
+    {
+      "description": "Operatörünüz için Zenurik Animasyon Seti.",
+      "name": "Zenurik Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір анімації шляху Зенурік для вашого оператора.",
+      "name": "Набір анімації «Зенурік»",
+      "code": "uk"
+    }
+  ]
+}

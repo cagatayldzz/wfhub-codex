@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/DojoKey",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clan-key-1065fcf131.png",
+  "name": "Clan Key",
+  "description": "Unlocks access to your Clan's Dojo",
+  "languages": [
+    {
+      "description": "Ermöglicht Zugang zum Dojo deines Clans",
+      "name": "Clan-Schlüssel",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille l'accès au Dojo de votre Clan.",
+      "name": "Clé de Clan",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca l'accesso al Dojo del tuo Clan",
+      "name": "Chiave Clan",
+      "code": "it"
+    },
+    {
+      "description": "클랜 도장에 입장할 수 있습니다.",
+      "name": "클랜 키",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea el acceso a tu dojo del clan",
+      "name": "Llave de clan",
+      "code": "es"
+    },
+    {
+      "description": "解开进入氏族道场的权限",
+      "name": "氏族钥匙",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает доступ к клановому додзё.",
+      "name": "Клановый ключ",
+      "code": "ru"
+    },
+    {
+      "description": "クランDOJOへのアクセスを許可する。",
+      "name": "クランキー",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje dostęp do Dojo Twojego Klanu",
+      "name": "Klucz Klanowy",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava o acesso para o Dojo do Clã.",
+      "name": "Chave do Clã",
+      "code": "pt"
+    },
+    {
+      "description": "解開進入氏族道場的權限",
+      "name": "氏族鑰匙",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกการเข้าถึง Dojo ในแคลนของคุณ",
+      "name": "กุญแจแคลน",
+      "code": "th"
+    },
+    {
+      "description": "Klan Dojo'nuza girişi açın",
+      "name": "Klan Anahtarı",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує доступ до кланового доджьо.",
+      "name": "Клановий ключ",
+      "code": "uk"
+    }
+  ]
+}

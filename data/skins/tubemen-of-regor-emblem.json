@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/GrnSeaLabEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tubemen-of-regor-emblem-7fedfb49a8.png",
+  "name": "Tubemen Of Regor Emblem",
+  "description": "An emblem awarded the Tenno who fought to destroy Tyl Regor's cloning labs.",
+  "languages": [
+    {
+      "description": "Dieses Emblem wurde an Tenno verliehen, die für die Zerstörung von Tyl Regors Labore gekämpft haben.",
+      "name": "Emblem: Regors Retortenbabys",
+      "code": "de"
+    },
+    {
+      "description": "Un badge accordé aux Tennos ayant combattu pour détruire les laboratoires de clonage de Tyl Regor.",
+      "name": "Badge de Clones de Regor",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema conferito ai Tenno che hanno combattuto per distruggere i laboratori di clonazione di Tyl Regor.",
+      "name": "Emblema Tubemen di Regor",
+      "code": "it"
+    },
+    {
+      "description": "틸 레거의 복제 연구소를 파괴하기 위해 싸운 텐노에게 수여되는 엠블럼입니다.",
+      "name": "튜브맨 오브 레거 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema otorgado a los tenno quienes lucharon para destruir los laboratorios de clonación de Tyl Regor.",
+      "name": "Emblema de los Engendros de Regor",
+      "code": "es"
+    },
+    {
+      "description": "这枚徽章是颁发给成功打击破坏了泰尔·雷工的克隆实验室的 Tenno。",
+      "name": "雷工的克隆人徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, вручаемый Тэнно, сражавшихся за уничтожение лабораторий клонирования Тила Регора.",
+      "name": "Значок: Исследования Регора",
+      "code": "ru"
+    },
+    {
+      "description": "Tyl Regorのクローンラボの破壊のために戦ったテンノに贈られるエンブレムだ。",
+      "name": "Regorのクローンたちエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznawany Tenno, którzy brali udział w zniszczeniu laboraroriów klonujących Tyl Regora.",
+      "name": "Emblemat Eksperymentów Regora",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema premiado aos Tenno que lutaram para destruir os laboratórios de clonagem de Tyl Regor.",
+      "name": "Emblema: Clonados de Regor",
+      "code": "pt"
+    },
+    {
+      "description": "這枚徽章是頒發給成功打擊破壞了 Tyl Regor 的複製人實驗室的 Tenno。",
+      "name": "Regor 的複製人徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่มอบให้กับ Tenno ผู้ที่ต่อสู้เพื่อทำลายห้องทดลองโคลนนิ่งของ Tyl Regor",
+      "name": "ตราสัญลักษณ์: Tubemen of Regor",
+      "code": "th"
+    },
+    {
+      "description": "Tyl Regor'un klonlama laboratuvarlarındaki başarılarından dolayı Tenno'lara armağan edilmiştir.",
+      "name": "Tubemen Regor Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Присвячується тенно, що змогли знищити клонувальні лабораторії Тила Реґора.",
+      "name": "Відзнака «Експерименти Реґора»",
+      "code": "uk"
+    }
+  ]
+}

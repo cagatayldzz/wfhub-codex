@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-reverb-helmet-de9d86b137.png",
+  "name": "Arcane Reverb Helmet",
+  "description": "This helmet is worn by Banshee, and grants Max Energy Boost, with a reduction to Health.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Banshee getragen und erhöht die Energie, während er die Gesundheit reduziert.",
+      "name": "Arkaner Reverb Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Banshee. Il ajoute de l'Énergie, mais réduit la Santé.",
+      "name": "Casque Reverb Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmetto è indossato da Banshee, aumenta l'Energia Massima riducendo la Salute.",
+      "name": "Elmo Arcane Reverb",
+      "code": "it"
+    },
+    {
+      "description": "밴쉬 전용의 헬멧으로, 최대 체력량을 감소시키고 최대 에너지량을 증가시킵니다.",
+      "name": "아케인 리법 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Banshee y añade energía máxima, con una reducción de la salud.",
+      "name": "Casco Reverb Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔是由 Banshee 所装备，可增加能量上限，但会减少生命值。",
+      "name": "返响 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Банши. Он увеличивает энергию, но снижает здоровье.",
+      "name": "Мистический шлем: Реверб",
+      "code": "ru"
+    },
+    {
+      "description": "Banshee用ヘルメット。エネルギー容量を増加させるが、最大ヘルスが減少する。",
+      "name": "Arcane Reverb ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Warframe Banshee, zwiększa maks. pojemność Energii i zmniejsza Życie.",
+      "name": "Banshee: Hełm Arkanum Reverb",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete, quando utilizado pela Banshee, aumentará sua Energia Máxima, mas reduz sua Vida.",
+      "name": "Banshee: Capacete Reverb (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔是由Banshee所裝備，可增加能量上限，但會減少生命值。",
+      "name": "返響秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Banshee สวมหมวกใบนี้จะช่วยเพิ่มพลังงานสูงสุด แต่จะลดพลังชีวิตลง",
+      "name": "หมวกเหล็ก Arcane Reverb",
+      "code": "th"
+    },
+    {
+      "description": "Bu Miğfer Banshee tarafından kullanılır ve Sağlığı azaltarak Maksimum Enerji artışı sağlar.",
+      "name": "Arcane Reverb Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує максимальне накопичення енергії Банші, але зменшує її здоров’я.",
+      "name": "Містичний шолом «Післязвуччя»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/OpenArchwingSummon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/archwing-launcher-9f2237ab90.png",
+  "name": "Archwing Launcher",
+  "description": "Summons an Archwing for use during free roam missions.",
+  "languages": [
+    {
+      "description": "Ruft einen Archwing zur Verwendung bei freien Missionen herbei.",
+      "name": "Archwing Startrampe",
+      "code": "de"
+    },
+    {
+      "description": "Fait apparaître une Archwing pour être utilisée dans les missions d'exploration libre.",
+      "name": "Lanceur d'Archwing",
+      "code": "fr"
+    },
+    {
+      "description": "Richiama un Archwing per utilizzarlo durante una missione di esplorazione libera.",
+      "name": "Archwing Launcher",
+      "code": "it"
+    },
+    {
+      "description": "자유 탐험 미션 동안 사용하기 위한 아크윙을 소환합니다.",
+      "name": "아크윙 런처",
+      "code": "ko"
+    },
+    {
+      "description": "Llama un archwing para usarlo durante misiones de libre recorrido.",
+      "name": "Lanzador de Archwing",
+      "code": "es"
+    },
+    {
+      "description": "在自由漫游任务中召唤一架曲翼。",
+      "name": "曲翼发射器",
+      "code": "zh"
+    },
+    {
+      "description": "Призывает арчвинг для использования на миссиях со свободным перемещением.",
+      "name": "Запуск арчвинга",
+      "code": "ru"
+    },
+    {
+      "description": "自由行動ミッション中に使用できるアークウイングを召喚する。",
+      "name": "アークウイングランチャー",
+      "code": "ja"
+    },
+    {
+      "description": "Wzywa Archwing do użycia w czasie misji na otwartych mapach.",
+      "name": "Przyzwanie Archwinga",
+      "code": "pl"
+    },
+    {
+      "description": "Invoca uma Archwing para uso durante missões de percurso livre.",
+      "name": "Invocador de Archwing",
+      "code": "pt"
+    },
+    {
+      "description": "在自由探索任務中召唤一架 Archwing。",
+      "name": "Archwing 啟動器",
+      "code": "tc"
+    },
+    {
+      "description": "เรียก Archwing มาเพื่อใช้ในระหว่างภารกิจสัญจรอย่างอิสระ",
+      "name": "ตัวปล่อย Archwing",
+      "code": "th"
+    },
+    {
+      "description": "Serbest dolaşım görevlerinde kullanmak için bir Archwing çağrır.",
+      "name": "Archwing Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Прикликає арквінґа, яким можна користуватися під час мандрівних завдань.",
+      "name": "Запускач арквінґа",
+      "code": "uk"
+    }
+  ]
+}

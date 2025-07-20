@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/DuviriDragonDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orowyrm's-sanctum-display-a1184a3ee1.png",
+  "name": "Orowyrm's Sanctum Display",
+  "description": "An elegant depiction of the fabled Orowyrm.",
+  "languages": [
+    {
+      "description": "Eine elegante Darstellung des sagenumwobenen Orowyrm.",
+      "name": "Display: Orowyrms Heiligtum",
+      "code": "de"
+    },
+    {
+      "description": "Une représentation élégante du légendaire Orowyrm.",
+      "name": "Affiche - Sanctuaire de l'Orowyrm",
+      "code": "fr"
+    },
+    {
+      "description": "Un'elegante rappresentazione del leggendario Orowyrm.",
+      "name": "Display - Santuario dell'Orowyrm",
+      "code": "it"
+    },
+    {
+      "description": "전설적인 오로 용이 우아하게 묘사되어 있는 디스플레이입니다.",
+      "name": "오로 용의 성소 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Una elegante representación del legendario Orowyrm.",
+      "name": "Exhibidor de Santuario de Orowyrm",
+      "code": "es"
+    },
+    {
+      "description": "优雅地描绘了传说中的奥金魇龙。",
+      "name": "奥金魇龙的圣所展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Элегантное изображение легендарного Оровирма.",
+      "name": "Дисплей: Святилище Оровирма",
+      "code": "ru"
+    },
+    {
+      "description": "優美に表現された伝説のオロワーム。",
+      "name": "オロワームの聖域 ディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Legendarny Orożmij w eleganckiej formie.",
+      "name": "Wyświetlacz Sanktuarium Orożmija",
+      "code": "pl"
+    },
+    {
+      "description": "Uma representação elegante do lendário Orowyrm.",
+      "name": "Exibidor do Santuário de Orowyrm",
+      "code": "pt"
+    },
+    {
+      "description": "傳說中的奧金蛟龍的優雅描繪。",
+      "name": "奧金蛟龍的聖所展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพความสง่างามของ Orowyrm ในตำนาน",
+      "name": "ภาพดิสเพลย์ Orowyrm's Sanctum",
+      "code": "th"
+    },
+    {
+      "description": "Efsanevi Orowyrm'in zarif bir tasviri.",
+      "name": "Orowyrm'ın Kutsal Mekan Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Елегантне зображення славнозвісного орозмія.",
+      "name": "Дисплей «Священний орозмій»",
+      "code": "uk"
+    }
+  ]
+}

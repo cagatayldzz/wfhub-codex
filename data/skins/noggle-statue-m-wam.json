@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CCTeamCMoaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---m-wam-9d60c2978c.png",
+  "name": "Noggle Statue - M-Wam",
+  "description": "A small wobbly statue of M-WAM.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von M-WAM.",
+      "name": "Noggle-Statue: M-Wam",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de M-WAM.",
+      "name": "Statuette Noggle - M-Wam",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di M-WAM con la testa tremolante.",
+      "name": "Statuetta Noggle - M-Wam",
+      "code": "it"
+    },
+    {
+      "description": "M-WAM의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - M-Wam",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de M-WAM.",
+      "name": "Estatua Tambaleante - M-Wam",
+      "code": "es"
+    },
+    {
+      "description": "一小座 M-WAM 摇头娃娃。",
+      "name": "M-Wam 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка МШ-МОА.",
+      "name": "Фигурка: Мш-МОА",
+      "code": "ru"
+    },
+    {
+      "description": "M-WAMのボブルヘッド人形。",
+      "name": "M-Wam ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka M-W.A.M.",
+      "name": "Figurka Noggle — M-W.A.M.",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do M-WAM.",
+      "name": "Estatueta: M-Wam",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 M-WAM 的搖頭娃娃。",
+      "name": "M-Wam 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก M-WAM ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - M-Wam",
+      "code": "th"
+    },
+    {
+      "description": "M-WAM küçük oynar figür.",
+      "name": "Noggle Heykeli - M-Wam",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка «M-W.A.M.».",
+      "name": "Ноґл «M-W.A.M.»",
+      "code": "uk"
+    }
+  ]
+}

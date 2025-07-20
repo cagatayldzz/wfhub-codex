@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NovaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---nova-d690332094.png",
+  "name": "Noggle Statue - Nova",
+  "description": "A small wobbly statue of Nova.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Nova.",
+      "name": "Noggle-Statue: Nova",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Nova.",
+      "name": "Statuette Noggle - Nova",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Nova con la testa tremolante.",
+      "name": "Statuetta Noggle - Nova",
+      "code": "it"
+    },
+    {
+      "description": "노바의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 노바",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Nova.",
+      "name": "Estatua Tambaleante - Nova",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Nova 摇头娃娃。",
+      "name": "Nova 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Новы.",
+      "name": "Фигурка: Нова",
+      "code": "ru"
+    },
+    {
+      "description": "Novaのボブルヘッド人形。",
+      "name": "Nova ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Novy.",
+      "name": "Figurka Noggle — Nova",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Nova.",
+      "name": "Estatueta: Nova",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Nova 的搖頭娃娃。",
+      "name": "Nova 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Nova ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Nova",
+      "code": "th"
+    },
+    {
+      "description": "Nova küçük oynar figür.",
+      "name": "Noggle Heykeli - Nova",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Нови.",
+      "name": "Ноґл «Нова»",
+      "code": "uk"
+    }
+  ]
+}

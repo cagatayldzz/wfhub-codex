@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/BatWingsEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nyctalus-ephemera-6e60605570.png",
+  "name": "Nyctalus Ephemera",
+  "description": "Spread the membranous wings of night with this haunting Ephemera.",
+  "languages": [
+    {
+      "description": "Breitet die Membranflügel der Nacht aus, mit diesem eindringlichen Ephemera.",
+      "name": "Ephemera: Nyctalus",
+      "code": "de"
+    },
+    {
+      "description": "Déployez les ailes membraneuses de la nuit avec cet Ephemera obsédant.",
+      "name": "Ephemera Nyctalus",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega le ali membranose della notte con questa inquietante Ephemera.",
+      "name": "Ephemera Nyctalus",
+      "code": "it"
+    },
+    {
+      "description": "이 으시시한 이페메라와 함께 피막으로 된 밤의 날개를 펼쳐 보세요.",
+      "name": "닉탈루스 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Extiende las alas membranosas de la noche con este inquietante efímero.",
+      "name": "Efímero Nóctulo",
+      "code": "es"
+    },
+    {
+      "description": "用这款阴魂不散的幻纹来展开夜之翅膜。",
+      "name": "暗夜之翼幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Расправьте перепончатые крылья ночи с этой призрачной эфемерой.",
+      "name": "Эфемера: Никталус",
+      "code": "ru"
+    },
+    {
+      "description": "この恐ろしいエフェメラで夜の翼を広げよう。",
+      "name": "Nyctalus エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Rozwiń błoniaste skrzydła nocy używając tej nawiedzonej Efemery.",
+      "name": "Efemera: Nyktalus",
+      "code": "pl"
+    },
+    {
+      "description": "Abra as asas membranosas da noite com esta Efêmera assustadora.",
+      "name": "Efêmera: Nyctalus",
+      "code": "pt"
+    },
+    {
+      "description": "透過這款陰魂不散的幻紋來一展夜之膜翼。",
+      "name": "夜蝠幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "กางปีกที่มีลักษณะเป็นพังผืดในยามค่ำคืนด้วยอิเฟมเมอราสุดหลอนนี้",
+      "name": "อิเฟมเมอรา Nyctalus",
+      "code": "th"
+    },
+    {
+      "description": "Bu korkutucu Ephemera ile gecenin zarlı kanatlarını aç.",
+      "name": "Nyctalus Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Станьте жахом, що летить на крилах ночі.",
+      "name": "Ефемера «Вечірниця»",
+      "code": "uk"
+    }
+  ]
+}

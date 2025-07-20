@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Hydroid/SWKarkinosHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-karkinos-helmet-6ecf46ed43.png",
+  "name": "Hydroid Karkinos Helmet",
+  "description": "A helmet for the Hydroid Warframe, designed by Crackle2012 and Vulbjorn.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Hydroid Warframe, entworfen von Crackle2012 und Vulbjorn.",
+      "name": "Hydroid-Helm: Karkinos",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Hydroid, conçu par Crackle2012 et Vulbjorn.",
+      "name": "Casque Hydroid Karkinos",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Hydroid, ideato da Crackle2012 e Vulbjorn.",
+      "name": "Elmo Hydroid Karkinos",
+      "code": "it"
+    },
+    {
+      "description": "Crackle2012와 Vulbjorn에 의해 디자인된 하이드로이드 워프레임을 위한 헬멧입니다.",
+      "name": "하이드로이드 카르키노스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Hydroid, diseñado por Crackle2012 y Vulbjorn.",
+      "name": "Casco Karkinos de Hydroid",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid 战甲的头盔， 由 Crackle2012 和 Vulbjorn 设计。",
+      "name": "Hydroid 滨蟹头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Гидроид, созданный Crackle2012 и Vulbjorn.",
+      "name": "Шлем Гидроида: Каркинос",
+      "code": "ru"
+    },
+    {
+      "description": "Hydroid専用ヘルメット。Crackle2012とVulbjorn作。",
+      "name": "Hydroid Karkinos ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Hydroid, zaprojektowany przez Crackle2012 i Vulbjorn.",
+      "name": "Hydroid: Hełm Karkinos",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Hydroid, desenvolvido por Crackle2012 e Vulbjorn.",
+      "name": "Hydroid: Capacete Karkinos",
+      "code": "pt"
+    },
+    {
+      "description": "Hydroid Warframe 的頭盔， 由 Crackle2012 和 Vulbjorn 設計。",
+      "name": "Hydroid 濱蟹頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Hydroid Warframe ออกแบบโดย Crackle2012 และ Vulbjorn",
+      "name": "หมวกเหล็ก Hydroid Karkinos",
+      "code": "th"
+    },
+    {
+      "description": "Hydroid Warframe'i için Crackle2012 ve Vulbjorn tarafından dizayn edilen bir miğfer.",
+      "name": "Hydroid Karkinos Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Гідроїда, створений Crackle2012 та Vulbjorn.",
+      "name": "Шолом «Каркін» для Гідроїда",
+      "code": "uk"
+    }
+  ]
+}

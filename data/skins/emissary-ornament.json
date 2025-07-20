@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NoraSeasonTwoOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/emissary-ornament-e00fba2c9e.png",
+  "name": "Emissary Ornament",
+  "description": "The mark of Arlo’s devoted is displayed in this Orbiter decoration.",
+  "languages": [
+    {
+      "description": "Das Zeichen von Arlos Anhängern wird in dieser Orbiter-Dekoration dargestellt.",
+      "name": "Ornament: Botschafter",
+      "code": "de"
+    },
+    {
+      "description": "La marque des disciples d'Arlo se retrouve sur cette décoration d'Orbiteur.",
+      "name": "Ornement Émissaire",
+      "code": "fr"
+    },
+    {
+      "description": "Il marchio dei devoti di Arlo è mostrato in questa decorazione per l'Orbiter.",
+      "name": "Ornamento Emissary",
+      "code": "it"
+    },
+    {
+      "description": "알로의 추종자 문양을 표시한 오비터 장식물입니다.",
+      "name": "에미서리 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "La marca de los devotos de Arlo se muestra en esta decoración para el Orbitador.",
+      "name": "Ornamento del Emisario",
+      "code": "es"
+    },
+    {
+      "description": "用这个轨道飞行器装饰品来展现 Arlo 的信徒标记。",
+      "name": "使徒饰物",
+      "code": "zh"
+    },
+    {
+      "description": "Знак адепта Арло, изображенный на украшении Орбитера. ",
+      "name": "Орнамент: Эмиссар",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能なArloの献身的な信徒である印。",
+      "name": "Emissary オーナメント",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol wiernych Arlo ujęty w formę dekoracji Orbitera.",
+      "name": "Ornament Emisariusza",
+      "code": "pl"
+    },
+    {
+      "description": "O símbolo dos devotos de Arlo está exibido nesta decoração para a Orbital.",
+      "name": "Enfeite do Emissário",
+      "code": "pt"
+    },
+    {
+      "description": "用這個軌道飛行器裝飾品來展現 Arlo 的信徒標記。",
+      "name": "使徒裝飾品",
+      "code": "tc"
+    },
+    {
+      "description": "ของตกแต่งประดับยานชิ้นนี้แทนสัญลักษณ์ของผู้ติดตาม Arlo",
+      "name": "ของประดับ: Emissary",
+      "code": "th"
+    },
+    {
+      "description": "Arlo'nun bu sadık işareti Orbiter dekorasyonunda görüntülenir.",
+      "name": "Temsilci Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Знак відданості Арло.",
+      "name": "Оздоблення: Емісар",
+      "code": "uk"
+    }
+  ]
+}

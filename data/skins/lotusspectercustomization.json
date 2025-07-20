@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/LotusSpecterCustomization",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lotusspectercustomization-4b0e28e9c3.png",
+  "name": "Lotusspectercustomization",
+  "description": "Item to be infused",
+  "languages": [
+    {
+      "description": "Gegenstand wird aufgewertet",
+      "name": "LotusSpecterCustomization",
+      "code": "de"
+    },
+    {
+      "description": "Objet à infuser",
+      "name": "LotusSpecterCustomization",
+      "code": "fr"
+    },
+    {
+      "description": "Oggetto da infondere",
+      "name": "LotusSpecterCustomization",
+      "code": "it"
+    },
+    {
+      "description": "피부에 주입되는 아이템입니다.",
+      "name": "LotusSpecterCustomization",
+      "code": "ko"
+    },
+    {
+      "description": "Componente para ser infundado.",
+      "name": "LotusSpecterCustomization",
+      "code": "es"
+    },
+    {
+      "description": "选择要进行赋能的道具",
+      "name": "LotusSpecterCustomization",
+      "code": "zh"
+    },
+    {
+      "description": "Предмет для улучшения",
+      "name": "LotusSpecterCustomization",
+      "code": "ru"
+    },
+    {
+      "description": "アイテムを注入します",
+      "name": "LotusSpecterCustomization",
+      "code": "ja"
+    },
+    {
+      "description": "Przedmiot do nasycenia",
+      "name": "LotusSpecterCustomization",
+      "code": "pl"
+    },
+    {
+      "description": "Item a ser infundido",
+      "name": "LotusSpecterCustomization",
+      "code": "pt"
+    },
+    {
+      "description": "選擇要進行賦能的道具",
+      "name": "LotusSpecterCustomization",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมที่จะถูกใส่เข้าไป",
+      "name": "LotusSpecterCustomization",
+      "code": "th"
+    },
+    {
+      "description": "Kombine edilecek ürün",
+      "name": "LotusSpecterCustomization",
+      "code": "tr"
+    },
+    {
+      "description": "Предмет до поліпшення",
+      "name": "LotusSpecterCustomization",
+      "code": "uk"
+    }
+  ]
+}

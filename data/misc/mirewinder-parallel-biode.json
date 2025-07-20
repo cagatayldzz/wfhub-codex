@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirewinder-parallel-biode-22bd249a23.png",
+  "name": "Mirewinder Parallel Biode",
+  "description": "Controls the electrical flow throughout the circuitry within robotic organisms.\n\nSource: Dismantled from Mirewinder servofish via The Business in Fortuna (Venus). Catch Mirewinder in Orb Vallis caves during any weather. Also drops from resource containers across the Orb Vallis.",
+  "languages": [
+    {
+      "description": "Steuert den Stromfluss durch die Schaltkreise in Roboterorganismen.\n\nQuelle: Durch das Zerlegen von Suhlwicklern von The Business in Fortuna (Venus). Fange Suhlwickler bei jedem Wetter in den Höhlen des Orbis-Tals. Kann auch in Ressourcen-Containern im gesamten Orbis-Tal gefunden werden.",
+      "name": "Suhlwickler: Parallel-Biode",
+      "code": "de"
+    },
+    {
+      "description": "Contrôle le flux électrique qui traverse les circuits à l'intérieur des organismes robotiques.\n\nSource: récupéré des Servopoissons Mirewinders via Le Bizness à Fortuna Fortuna (Vénus). Attrapez le Mirewinder dans les grottes de la Vallée Orbis par tous les temps, et via les conteneurs de Ressources dans la Vallée Orbis.",
+      "name": "Biode Parallèle de Mirewinder",
+      "code": "fr"
+    },
+    {
+      "description": "Controlla il flusso elettrico attraverso i circuiti all'interno degli organismi robotici.\n\nFonte: Ottenibile smantellando i servofish Mirewinder da The Business a Fortuna (Venere). Cattura un Mirewinder nelle grotte di Orb Vallis con qualsiasi condizione atmosferica. Viene rilasciato anche dai contenitori di risorse a Orb Vallis.",
+      "name": "Biode Parallelo di Mirewinder",
+      "code": "it"
+    },
+    {
+      "description": "로봇 생명체 내의 회로 전체의 전기 흐름을 제어합니다.\n\n획득 가능 장소: 포르투나 (금성) 의 비즈니스를 통해 마이어와인더 서보피쉬를 분해하여 획득. 날씨에 상관없이 오브 협곡 동굴에서 마이어와인더를 잡을 수 있습니다. 또한 오브 협곡 전역의 자원 컨테이너를 통해서도 드롭됩니다.",
+      "name": "마이어와인더 패러랠 바이오드",
+      "code": "ko"
+    },
+    {
+      "description": "Controla el flujo eléctrico a través de la circuitería dentro de los organismos robóticos.\n\nFuente: Se obtiene al desarmar al servopez Lodobobina con The Business en Fortuna (Venus). Captura a Lodobobina en las cuevas de los Valles del Orbe durante cualquier clima. También se obtiene de los contenedores de recursos en los Valles del Orbe.",
+      "name": "Biodo paralelo de Lodobobina",
+      "code": "es"
+    },
+    {
+      "description": "控制生化机器人体内电路系统的电流。\n\n获取途径：通过福尔图娜（金星）的 The Business 从污泥环绕者伺服鱼中拆解获取。在任何天气下的奥布山谷洞穴中捕捉污泥环绕者。此外它还会从奥布山谷资源储藏箱中掉落。",
+      "name": "污泥绕环者并联生物二极体",
+      "code": "zh"
+    },
+    {
+      "description": "Управляет электрическим потоком по всей схеме внутри роботизированных организмов.\n\nМестонахождение: Извлекается из серворыбы тинокрута у Бизнеса в Фортуне (Венера). Ловите тинокрута в пещерах Долины сфер в любую погоду. Также выпадает из ресурсных контейнеров по всей Долине сфер.",
+      "name": "Параллельный Биод Тинокрута",
+      "code": "ru"
+    },
+    {
+      "description": "ロボット生命体内部の回路に流れる電流を制御する。\n\n場所：オーブ峡谷のマイアワインダーサーボ魚をフォーチュナー（金星）のThe Businessで分解することで入手可能。マイアワインダーはどの天候のオーブ峡谷の洞窟で捕まえられる。オーブ峡谷中にある素材コンテナからもドロップ可能。",
+      "name": "マイアワインダー パラレルバイオード",
+      "code": "ja"
+    },
+    {
+      "description": "Steruje przepływem elektrycznym w całym obwodzie w organizmach robotycznych.\n\nMoże zostać zdobyty przez rozłożenie Błotowkręta u Biznesa w Fortunie (Wenus). Serworyba Błotowkręt może zostać złowiona w jaskiniach Orb Vallis. Ten komponent wypada także z pojemników w Orb Vallis.",
+      "name": "Błotowkręt: Równoległa Bioda",
+      "code": "pl"
+    },
+    {
+      "description": "Controla o fluxo elétrico dos circuitos contidos dentro de organismos robóticos.\n\nLocalização: obtido através da desmontagem do Peixe-Servo Mirewinder com o Business em Fortuna, em Vênus. O Peixe-Servo Mirewinder pode ser pescado em cavernas do Vallis das Orbes durante qualquer clima. Este item também pode ser obtido de contêineres de recursos por todo o Vallis das Orbes.",
+      "name": "Biodo Paralelo de Mirewinder",
+      "code": "pt"
+    },
+    {
+      "description": "控制生化機器人體內電路系統的電流。\n\n來源：透過福爾圖娜（金星）的 Business 拆解污泥繞環者取得。\n污泥繞環者可在任何週期於奧布山谷的洞穴裡捕獲。\n奧布山谷的資源容器也會掉落這個物品。",
+      "name": "污泥繞環者並聯生物二極體",
+      "code": "tc"
+    },
+    {
+      "description": "ควบคุมการไหลของกระแสไฟฟ้าทั่วทั้งวงจรภายในระบบของสิ่งมีชีวิตที่เป็นหุ่นยนต์\n\nแหล่งที่พบ: ถอดชิ้นส่วนออกมาจากเซอร์โวฟิช Mirewinder ผ่าน The Business ในฟอร์ทูนา (ดาวศุกร์) ซึ่งสามารถจับปลาในถ้ำของออร์บวัลลิสได้ทุกสภาพอากาศ นอกจากนี้ยังรับได้จากกล่องทรัพยากรที่พบได้ทั่วออร์บวัลลิสอีกด้วย",
+      "name": "Mirewinder: พาราเลลไบโอด",
+      "code": "th"
+    },
+    {
+      "description": "Robotik organizmalar içindeki devre boyunca elektrik akışını kontrol eder.\n\nKaynak: Fortuna'daki (Venüs) Business aracılığıyla Mirewinder servobalığından çıkarılmıştır. Mirewinder'ı her türlü hava koşulunda Orb Vallis mağaralarında yakalayın. Ayrıca Orb Vallis'teki kaynak konteynerlerinden de düşer.",
+      "name": "Mirewinder Paralel Biyotu",
+      "code": "tr"
+    },
+    {
+      "description": "Контролює електричний потік усіх схем усередині роботизованих організмів.\n\nМожна отримати з пробов’юна в Бізнеса у Фортуні (Венера). Ловіть пробов’юна в печерах Долини Куль під час будь-якої погоди. Також можна отримати з контейнерів у Долині Куль.",
+      "name": "Паралельний біод пробов’юна",
+      "code": "uk"
+    }
+  ]
+}

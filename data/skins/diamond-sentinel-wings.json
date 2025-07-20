@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/DiamondWings",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/diamond-sentinel-wings-5e71656207.png",
+  "name": "Diamond Sentinel Wings",
+  "description": "A pair of wings for your sentinel pet.",
+  "languages": [
+    {
+      "description": "Ein Paar Schwingen für deinen Wächter.",
+      "name": "Wächterschwingen: Diamant",
+      "code": "de"
+    },
+    {
+      "description": "Une paire d'Ailes pour votre Sentinelle.",
+      "name": "Ailes de Sentinelle Diamant",
+      "code": "fr"
+    },
+    {
+      "description": "Un paio di ali per la tua sentinella.",
+      "name": "Ali Sentinella Diamond",
+      "code": "it"
+    },
+    {
+      "description": "센티넬 펫에 장착시킬 수 있는 한 쌍의 날개입니다.",
+      "name": "다이아몬드 센티넬 윙",
+      "code": "ko"
+    },
+    {
+      "description": "Un par de alas para tu mascota centinela.",
+      "name": "Alas Diamante de centinela",
+      "code": "es"
+    },
+    {
+      "description": "给守护宠物的一对飞翼。",
+      "name": "钻石守护飞翼",
+      "code": "zh"
+    },
+    {
+      "description": "Пара крыльев для вашего стража.",
+      "name": "Крылья стража: Алмазные",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル用の翼。",
+      "name": "Diamond センチネル ウイング",
+      "code": "ja"
+    },
+    {
+      "description": "Para skrzydeł dla twojego strażnika.",
+      "name": "Skrzydła Strażnika: Diamentowe",
+      "code": "pl"
+    },
+    {
+      "description": "Um par de asas para seu sentinela.",
+      "name": "Asas de Sentinela: Diamond",
+      "code": "pt"
+    },
+    {
+      "description": "給守護寵物的一對飛翼。",
+      "name": "鑽石飛翼",
+      "code": "tc"
+    },
+    {
+      "description": "ปีกคู่หนึ่งสำหรับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "ปีกเซนติเนล Diamond",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için bir çift kanat.",
+      "name": "Diamond Sentinel Kanatları",
+      "code": "tr"
+    },
+    {
+      "description": "Пара крил для вашого вартового улюбленця.",
+      "name": "Крила «Діамант» для вартового",
+      "code": "uk"
+    }
+  ]
+}

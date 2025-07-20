@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/StartingRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mk1-braton-c0c71253c0.png",
+  "name": "Mk1-Braton",
+  "description": "The MK1-Braton is the standard issue rifle for all Tenno. A versatile weapon that can be customized to support a wide variety of play styles.",
+  "languages": [
+    {
+      "description": "Das MK1-Braton ist ein vollautomatisches Gewehr und gehört zur Grundausrüstung für neue Tenno. Es ist vielseitig einsetzbar und kann den verschiedensten Spielstilen angepasst werden.",
+      "name": "MK1-Braton",
+      "code": "de"
+    },
+    {
+      "description": "Le MK1-Braton est le Fusil standard en vigueur chez les Tennos. Une arme polyvalente pouvant être personnalisée pour convenir à votre style de jeu.",
+      "name": "MK1-Braton",
+      "code": "fr"
+    },
+    {
+      "description": "Il fucile d'ordinanza Tenno è l'MK1-Braton. Un'arma versatile che può essere personalizzata per adattarsi a molti stili di combattimento.",
+      "name": "MK1-Braton",
+      "code": "it"
+    },
+    {
+      "description": "MK1-브래튼은 모든 텐노들에게 배급되는 표준 소총으로, 각양각색의 플레이 스타일을 지향할 수 있도록 고안된 다용도 무기입니다.",
+      "name": "MK1-브래튼",
+      "code": "ko"
+    },
+    {
+      "description": "El MK1-Braton es el rifle estándar para todos los tenno. Un arma versátil que puede ser personalizada para soportar una amplia variedad de estilos de combate.",
+      "name": "MK1-Braton",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MK1-BRATON）MK1-布莱顿是 Tenno 的标准配置步枪，是一把可被定制化以支援各种使用风格的多功能武器。",
+      "name": "MK1-布莱顿",
+      "code": "zh"
+    },
+    {
+      "description": "МК1-Брэйтон - стандартная винтовка Тэнно. Универсальное оружие, которое можно настроить для практически любого стиля боя.",
+      "name": "MK1-Брэйтон",
+      "code": "ru"
+    },
+    {
+      "description": "テンノが一般的に用いている汎用型ライフル。戦術に応じて様々なカスタマイズが施される。",
+      "name": "MK1-Braton",
+      "code": "ja"
+    },
+    {
+      "description": "Braton-MK1 jest standardową bronią używaną przez Tenno. Uniwersalna broń, którą można dopasować do własnego stylu walki.",
+      "name": "Braton-MK1",
+      "code": "pl"
+    },
+    {
+      "description": "A Braton-MK1 é o rifle padrão para todos os Tenno. Uma arma versátil que pode ser customizada para apoiar uma variedade de estilos de combate.",
+      "name": "Braton-MK1",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MK1-BRATON）MK1-布萊頓是 Tenno 的標準配置步槍，是把可供定製改造來支援各種使用風格的多功能武器。",
+      "name": "MK1-布萊頓",
+      "code": "tc"
+    },
+    {
+      "description": "MK1-Braton เป็นไรเฟิลมาตรฐานของเหล่า Tenno ซึ่งเป็นอาวุธอเนกประสงค์ที่สามารถปรับแต่งเพื่อรองรับสไตล์การเล่นที่หลากหลายได้",
+      "name": "MK1-Braton",
+      "code": "th"
+    },
+    {
+      "description": "MK1-Braton Tenno'ların başlangıç tüfeğidir. Bariz gücü veya zayıflığı olmayan çok yönlü bir silahtır.",
+      "name": "MK1-Braton",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартна гвинтівка тенно. Універсальна зброя, яку можна налаштувати під різноманітні стилі бою.",
+      "name": "Братон-MK1",
+      "code": "uk"
+    }
+  ]
+}

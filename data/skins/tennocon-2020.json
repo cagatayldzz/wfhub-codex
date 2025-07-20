@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2020BEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2020-d7a994aa92.png",
+  "name": "Tennocon 2020",
+  "description": "Bestowed upon those who joined together in celebration at TennoCon 2020.",
+  "languages": [
+    {
+      "description": "Verliehen an diejenigen, die sich auf der TennoCon 2020 zum Feiern zusammengeschlossen haben.",
+      "name": "TennoCon 2020",
+      "code": "de"
+    },
+    {
+      "description": "Décerné à ceux qui ont rejoint les célébrations de la TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "fr"
+    },
+    {
+      "description": "Conferita a coloro che hanno partecipato alla celebrazione del TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2020 축하 행사에 함께해준 이들에게 제공된 기념 감정 표현입니다.",
+      "name": "텐노콘 2020",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado a aquellos que se unieron para celebrar juntos en la TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "es"
+    },
+    {
+      "description": "授予一同参与欢庆 TennoCon 2020 的玩家。",
+      "name": "TennoCon 2020",
+      "code": "zh"
+    },
+    {
+      "description": "Дарован тем, кто присоединился к празднованию TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2020の祭典に共に参加した者たちに贈られる。",
+      "name": "TennoCon 2020",
+      "code": "ja"
+    },
+    {
+      "description": "Podarowany tym, którzy zebrali się wspólnie podczas TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido àqueles que se uniram para celebrar a TennoCon 2020.",
+      "name": "TennoCon 2020",
+      "code": "pt"
+    },
+    {
+      "description": "授予一同參與歡慶 TennoCon 2020 慶典的玩家。",
+      "name": "TennoCon 2020",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่เข้าร่วมเฉลิมฉลองในงาน TennoCon 2020",
+      "name": "TennoCon 2020",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2020 kutlamalarına katılan herkese armağan edilmiştir.",
+      "name": "TennoCon 2020",
+      "code": "tr"
+    },
+    {
+      "description": "Дарунок тим, хто приєднався до події «Теннокон 2020».",
+      "name": "Теннокон 2020",
+      "code": "uk"
+    }
+  ]
+}

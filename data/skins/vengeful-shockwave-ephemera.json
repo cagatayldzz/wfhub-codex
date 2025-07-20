@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaImpactEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-shockwave-ephemera-9263b65194.png",
+  "name": "Vengeful Shockwave Ephemera",
+  "description": "An ephemera that echoes punishing impacts, seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein Ephemera, das mit strafenden Schlägen widerhallt, erhalten von einem konvertierten oder vernichteten Kuva Lich.",
+      "name": "Ephemera: Rächende Schockwelle",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera répercutant des impacts punisseurs et récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Ondes de Choc Vengeresses",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera che fa eco agli impatti punitivi, sequestrati da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Shockwave",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은, 살인적인 충격의 파동을 반복하는 이페메라입니다.",
+      "name": "벤지풀 쇼크웨이브 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero que replica impactos punitivos, adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Onda de choque vengativa",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的惩戒性冲击回声幻纹。",
+      "name": "复仇震波幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Эфемера отголосков ударов изъята у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Ударная волна мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた、衝撃の反響するエフェメラ。",
+      "name": "Vengeful Shockwave エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Efemera odbijająca echem karzące ciosy skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwej Fali Uderzeniowej",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera que ecoa golpes bruscos, obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Brusca",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來，迴蕩著懲戒作用的幻紋。",
+      "name": "復仇震波幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่สะท้อนถึงการลงโทษด้วยการกระแทก ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Shockwave",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş cezalandırma etkileriyle yankılanan bir ephemera.",
+      "name": "Vengeful Shockwave Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Ударна ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстива ударна хвиля»",
+      "code": "uk"
+    }
+  ]
+}

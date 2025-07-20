@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPrimeWarframesItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prime-finish-1ff3819311.png",
+  "name": "Prime Finish",
+  "description": "The exquisite colors of the Prime collection.",
+  "languages": [
+    {
+      "description": "Die exquisiten Farben der Prime-Kollektion.",
+      "name": "Prime-Politur",
+      "code": "de"
+    },
+    {
+      "description": "Les couleurs exquises de la Collection Prime.",
+      "name": "Prime - Finition",
+      "code": "fr"
+    },
+    {
+      "description": "Gli splendidi colori della collezione Prime.",
+      "name": "Finitura Prime",
+      "code": "it"
+    },
+    {
+      "description": "프라임 컬렉션의 정교한 색상입니다.",
+      "name": "프라임 피니시",
+      "code": "ko"
+    },
+    {
+      "description": "Los exquisitos colores de la colección Prime.",
+      "name": "Acabado Prime",
+      "code": "es"
+    },
+    {
+      "description": "Prime 系列的精美色彩。",
+      "name": "Prime 饰面",
+      "code": "zh"
+    },
+    {
+      "description": "Изысканные цвета коллекции Прайм.",
+      "name": "Покрытие Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Primeコレクションからの絶妙な色彩。",
+      "name": "Prime Finish",
+      "code": "ja"
+    },
+    {
+      "description": "Wyśmienite kolory kolekcji Prime.",
+      "name": "Wykończenie Prime",
+      "code": "pl"
+    },
+    {
+      "description": "As cores requintadas da coleção Prime.",
+      "name": "Acabamento Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Prime 典藏的精選色彩。",
+      "name": "Prime 涂飾",
+      "code": "tc"
+    },
+    {
+      "description": "สีสันที่วิจิตรงดงามในคอลเลกชัน Prime",
+      "name": "Prime Finish",
+      "code": "th"
+    },
+    {
+      "description": "Prime koleksiyonunun seçkin renkleri.",
+      "name": "Prime Parıltısı",
+      "code": "tr"
+    },
+    {
+      "description": "Вишукані кольори праймових колекцій.",
+      "name": "Праймове покриття",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Melee/InfBoomerang/InfBoomerangWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pathocyst-7c3a6d4c28.png",
+  "name": "Pathocyst",
+  "description": "Each strike of this infested glaive infects its target with viral pathogens. Occasionally, it discharges the spores of rabid, enemy-seeking maggots, either in-flight or on contact with the enemy.",
+  "languages": [
+    {
+      "description": "Jeder Treffer mit dieser Befallenen Glaive infiziert den Gegner mit einem viralen Pathogen. Setzt gelegentlich bei Treffern oder in der Luft die Sporen von zielsuchenden, tollwütigen Maden frei.",
+      "name": "Pathocyst",
+      "code": "de"
+    },
+    {
+      "description": "Chaque frappe de ce glaive infesté contamine sa cible avec des agents pathogènes viraux. De temps en temps, il relâche des spores d'asticots enragés à la recherche d'ennemis, que ce soit dans les airs ou au contact de l'ennemi.",
+      "name": "Pathocyste",
+      "code": "fr"
+    },
+    {
+      "description": "Ogni colpo di questo glaive infested contagia il suo bersaglio con patogeni virali. Occasionalmente, scarica le spore di rabbiosi vermi che cercano e attaccano i nemici, sia in volo che una volta effettuato il contatto.",
+      "name": "Pathocyst",
+      "code": "it"
+    },
+    {
+      "description": "이 인페스티드 글레이브는 타격할 때마다 대상을 바이러스 병원체로 감염시킵니다. 또한 간혹 비행 중, 혹은 적과 접촉했을 시 광분하여 적을 찾아 날뛰는 마고트 포자를 발산합니다.",
+      "name": "패소시스트",
+      "code": "ko"
+    },
+    {
+      "description": "Cada golpe de esta glaive infestada inflige patógenos virales. Ocasionalmente, descarga las esporas de gusanos rabiosos que buscan enemigos, ya sea en vuelo o al contacto con el enemigo.",
+      "name": "Pathocyst",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PATHOCYST）这把感染战刃的每一次攻击都会让目标感染病原体。而在飞行或与敌人接触时，它偶尔还会释放出狂乱的孢子以及追踪敌人的蛆虫。",
+      "name": "病囊飞刃",
+      "code": "zh"
+    },
+    {
+      "description": "Каждый удар этой заражённой глефой заражает цель вирусными патогенами. Время от времени, при атаках или во время броска, глефа порождает неистовый рой кровожадных личинок, яростно атакующих ваших врагов.",
+      "name": "Патоцист",
+      "code": "ru"
+    },
+    {
+      "description": "この感染ブーメランの攻撃はターゲットへウイルス性病原菌を負わせる。飛行中または敵との接触時に、敵を追尾するマゴットの胞子を時々放出する。",
+      "name": "Pathocyst",
+      "code": "ja"
+    },
+    {
+      "description": "Każde trafienie tym zainfekowanym Glaivem nakłada patogeny wirusa. Czasami w czasie lotu lub przy kontakcie z wrogiem, wyrzuca z siebie zarodniki wściekłych, poszukujących przeciwników larw.",
+      "name": "Pathocyst",
+      "code": "pl"
+    },
+    {
+      "description": "Cada ataque desta glaive infestada contamina seu alvo com agentes patogênicos virais. Ocasionalmente, a arma dispara esporos e vermes teleguiados que atacam seus inimigos, seja durante sua trajetória ou durante o combate.",
+      "name": "Pathocista",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PATHOCYST）這把 Infested 的戰刃使用病毒性的病原體來感染它的目標。在飛行中或是接觸敵人時，偶而也會釋放猛烈且會追蹤敵人的蛆蟲孢子。",
+      "name": "病囊飛刃",
+      "code": "tc"
+    },
+    {
+      "description": "ทุกครั้งที่อาวุธเกลฟติดเชื้อทำการโจมตีก็จะแพร่เชื้อไวรัสให้กับเป้าหมาย ในบางครั้งก็จะปล่อยสปอร์ของตัวหนอนที่ติดเชื้อบ้าค้นหาศัตรู ไม่ว่าจะในระหว่างที่บินอยู่หรือเมื่อสัมผัสกับศัตรูก็ตาม",
+      "name": "Pathocyst",
+      "code": "th"
+    },
+    {
+      "description": "Bu infested glaive ile yapılan her bir saldırı hedefin viral patojenler ile enfekte olmasına yol açar. Nadiren kuduz sporları ve düşman arayan kurtçukları, uçuş sırasında veya düşmanla temas halindeyken yayar.",
+      "name": "Pathocyst",
+      "code": "tr"
+    },
+    {
+      "description": "Заражена метальна зброя, що залишає в крові ворога вірусні патогени. У польоті чи в разі влучання іноді може випускати хмарку ненажерливих личинок, що починають впиватися у плоть ворогів навколо.",
+      "name": "Патоцист",
+      "code": "uk"
+    }
+  ]
+}

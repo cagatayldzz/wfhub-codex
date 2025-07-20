@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ArloHealingLamp",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arlo's-flame-decoration-8758ebf543.png",
+  "name": "Arlo's Flame Decoration",
+  "description": "Never forget Arlo's metamorphosis with this decoration for the Orbiter.",
+  "languages": [
+    {
+      "description": "Mit dieser Dekoration für den Orbiter vergesst ihr nie Arlos Metamorphose.",
+      "name": "Dekoration: Arlos Flamme",
+      "code": "de"
+    },
+    {
+      "description": "N'oubliez jamais la métamorphose d'Arlo avec cette décoration pour votre Orbiteur.",
+      "name": "Décoration Flamme d'Arlo",
+      "code": "fr"
+    },
+    {
+      "description": "Non dimenticare mai la metamorfosi di Arlo con questa decorazione per il tuo Orbiter.",
+      "name": "Fiamma di Arlo - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "이 오비터를 위한 장식물로 알로의 '변모'를 잊지 말고 기억합시다.",
+      "name": "알로의 불꽃 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Nunca olvides la metamorfosis de Arlo con esta decoración para el orbitador.",
+      "name": "Decoración de Llama de Arlo",
+      "code": "es"
+    },
+    {
+      "description": "通过这件轨道飞行器装饰来铭记 Arlo 的变形。",
+      "name": "Arlo 之焰装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Никогда не забывайте о метаморфозе Арло, установив это украшение в вашем корабле.",
+      "name": "Украшение: Пламя Арло",
+      "code": "ru"
+    },
+    {
+      "description": "この船内に設置できる装飾品でArloの変転を記憶に刻もう。",
+      "name": "Arloの炎の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Nigdy nie zapomnij o metamorfozie Arlo dzięki tej dekoracji Orbitera.",
+      "name": "Ozdoba: Płomień Arlo",
+      "code": "pl"
+    },
+    {
+      "description": "Nunca se esqueça da transformação de Arlo com esta decoração para a Orbital.",
+      "name": "Chama de Arlo",
+      "code": "pt"
+    },
+    {
+      "description": "在軌道飛行器上擺設這件裝飾以銘記 Arlo 的蛻變。",
+      "name": "Arlo 之焰裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "จดจำการเปลี่ยนแปลงรูปร่างของ Arlo ด้วยของตกแต่งที่ใช้ประดับยานชิ้นนี้",
+      "name": "ของตกแต่ง: เปลวไฟของ Arlo",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'indeki bu dekorasyon ile Arlo'nun metamorfozunu asla unutma.",
+      "name": "Arlo'nun Alev Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "З цим оздобленням для орбітра ви ніколи не забудете перетворення Арло.",
+      "name": "Оздоблення: полум’я Арло",
+      "code": "uk"
+    }
+  ]
+}

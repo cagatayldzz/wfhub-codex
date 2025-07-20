@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/RelayHydroidBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---hydroid-reprise-4fc2da82e4.png",
+  "name": "Noggle Statue - Hydroid Reprise",
+  "description": "A smaller, wobblier version of the Hydroid statue found in the Relay.",
+  "languages": [
+    {
+      "description": "Eine kleine, wackeligere Version der Hydroid-Statue, die im Relais gefunden werden kann.",
+      "name": "Noggle-Statue: Hydroid Reprise",
+      "code": "de"
+    },
+    {
+      "description": "Une version plus petite et plus chancelante de la statue d'Hydroid présente dans les Relais.",
+      "name": "Statuette Noggle - Hydroid Reprise",
+      "code": "fr"
+    },
+    {
+      "description": "Una versione più piccola e traballante della statua di Hydroid che si trova nella Stazione.",
+      "name": "Statuetta Noggle - Hydroid Reprise",
+      "code": "it"
+    },
+    {
+      "description": "릴레이에서 볼 수 있는 하이드로이드 조각상의 더 작고, 갸웃거리는 버전입니다.",
+      "name": "노글 스태츄 - 하이드로이드 리프라이즈",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante versión de la estatua de Hydroid encontrada en los Repetidores.",
+      "name": "Estatua Tambaleante - Hydroid Repetición",
+      "code": "es"
+    },
+    {
+      "description": "于中继站内被发现的一尊小型 Hydroid 摇头娃娃。",
+      "name": "Hydroid 重奏摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка-копия статуи Гидроида из Реле.",
+      "name": "Фигурка: Гидроид Возрождение",
+      "code": "ru"
+    },
+    {
+      "description": "リレーに設置されているHydroid像の小型ボブルヘッド。",
+      "name": "Hydroid Reprise ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mniejsza, bardziej chybotliwa wersja statuetki Hydroida w Przekaźniku.",
+      "name": "Figurka Noggle – Hydroid Reprise",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Hydroid encontrada no Relay.",
+      "name": "Estatueta: Hydroid Reprise",
+      "code": "pt"
+    },
+    {
+      "description": "於中繼站內被發現的一尊小型 Hydroid 搖頭娃娃。",
+      "name": "Hydroid 重奏搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้น Hydroid รุ่นเล็กและสั่นคลอนที่พบในรีเลย์",
+      "name": "รูปปั้น Noggle - Hydroid Reprise",
+      "code": "th"
+    },
+    {
+      "description": "Relay'lerde bulunan Hydroid heykelinin biraz daha çok sallanan ve daha küçük versiyonu.",
+      "name": "Noggle Heykeli - Hydroid Reprise",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Гідроїда, знайдена на реле.",
+      "name": "Ноґл «Відродження Гідроїда»",
+      "code": "uk"
+    }
+  ]
+}

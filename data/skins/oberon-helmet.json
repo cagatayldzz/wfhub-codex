@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-helmet-1a43bf65a4.png",
+  "name": "Oberon Helmet",
+  "description": "The standard issue helmet for the Oberon Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Oberon Warframe.",
+      "name": "Oberon-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Oberon.",
+      "name": "Casque Oberon",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Oberon.",
+      "name": "Elmo Oberon",
+      "code": "it"
+    },
+    {
+      "description": "오베론 워프레임을 위한 기본 헬멧입니다.",
+      "name": "오베론 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Oberon.",
+      "name": "Casco de Oberon",
+      "code": "es"
+    },
+    {
+      "description": "Oberon 的标准头盔。",
+      "name": "Oberon 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Оберона.",
+      "name": "Шлем Оберона",
+      "code": "ru"
+    },
+    {
+      "description": "Oberonの標準型ヘルメット。",
+      "name": "Oberon ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Oberon.",
+      "name": "Oberon: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Oberon.",
+      "name": "Oberon: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "OBERON 標準頭盔",
+      "name": "Oberon 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Oberon Warframe",
+      "name": "หมวกเหล็ก Oberon",
+      "code": "th"
+    },
+    {
+      "description": "Oberon Warframe için standart miğfer.",
+      "name": "Oberon Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Оберона.",
+      "name": "Шолом Оберона",
+      "code": "uk"
+    }
+  ]
+}

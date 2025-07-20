@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TranslatorSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-translator-sigil-2350be9dea.png",
+  "name": "Tenno Translator Sigil",
+  "description": "An exclusive Sigil worn only by Tenno Translators.",
+  "languages": [
+    {
+      "description": "Ein exklusives Siegel, dass von Tenno Übersetzern getragen wird.",
+      "name": "Siegel: Tenno Übersetzer",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau exclusif porté seulement par les Tennos Traducteurs.",
+      "name": "Sceau de Traducteur Tenno",
+      "code": "fr"
+    },
+    {
+      "description": "Un Sigillo esclusivo indossato solo dai Tenno Translators.",
+      "name": "Sigillo Tenno Translator",
+      "code": "it"
+    },
+    {
+      "description": "텐노 번역자들만이 착용하는 전용 시질입니다.",
+      "name": "텐노 트랜슬레이터 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello exclusivo usado solamente por los Traductores Tenno.",
+      "name": "Sello de traductor tenno",
+      "code": "es"
+    },
+    {
+      "description": "由 Tenno 翻译者们所配戴的专属纹章。",
+      "name": "Tenno 翻译者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Эксклюзивный сигил, носимый лишь Тэнно-переводчиками.",
+      "name": "Сигил: Тэнно-переводчик",
+      "code": "ru"
+    },
+    {
+      "description": "テンノ翻訳者のみが付けられる特別なシジル。",
+      "name": "Tenno Translator シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ekskluzywny Znak noszony tylko przez Tłumaczy Tenno.",
+      "name": "Znak Tłumacza Tenno",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão exclusivo, utilizado apenas pelos Tradutores Tenno.",
+      "name": "Brasão: Tenno Tradutor",
+      "code": "pt"
+    },
+    {
+      "description": "由 Tenno 翻譯者們所配戴的專屬紋章。",
+      "name": "Tenno 翻譯者紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายพิเศษที่สวมใส่โดยนักแปล Tenno เท่านั้น",
+      "name": "เครื่องหมาย: Tenno Translator",
+      "code": "th"
+    },
+    {
+      "description": "Sadece Tenno Translatorlar tarafından giyilen özel bir mühür.",
+      "name": "Tenno Çevirmen Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий сиґіл, який видається лише тенно-перекладачам.",
+      "name": "Сиґіл «Тенно-перекладач»",
+      "code": "uk"
+    }
+  ]
+}

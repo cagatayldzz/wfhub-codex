@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyToOvershieldsOnSpawnMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/overcharged-76306453c6.jpg",
+  "name": "Overcharged",
+  "description": "On Respawn:",
+  "languages": [
+    {
+      "description": [
+        "Bei Respawn:"
+      ],
+      "name": "Überladen",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Sur réapparition:"
+      ],
+      "name": "Surchargé",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Al Rientro:"
+      ],
+      "name": "Overcharged",
+      "code": "it"
+    },
+    {
+      "description": [
+        "부활 시:"
+      ],
+      "name": "오버차지드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Al reaparecer:"
+      ],
+      "name": "Sobrecargado",
+      "code": "es"
+    },
+    {
+      "description": [
+        "重生后："
+      ],
+      "name": "能量超载",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При возрождении:"
+      ],
+      "name": "Перегруженный",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "リスポン時："
+      ],
+      "name": "Overcharged",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Przy Odrodzeniu się:"
+      ],
+      "name": "Przeładowanie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ao Remobilizar:"
+      ],
+      "name": "Overcharged",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "重生後："
+      ],
+      "name": "能量超載",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อเกิดใหม่:"
+      ],
+      "name": "Overcharged",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Dirildiğinde:"
+      ],
+      "name": "Overcharged",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "У разі відродження:"
+      ],
+      "name": "Надзарядка",
+      "code": "uk"
+    }
+  ]
+}

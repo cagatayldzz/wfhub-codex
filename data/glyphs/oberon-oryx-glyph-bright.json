@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOberonAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-oryx-glyph---bright-9a2567b7d5.png",
+  "name": "Oberon Oryx Glyph - Bright",
+  "description": "A glyph depicting Oberon Oryx on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Oberon Oryx vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Oberon Oryx (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Oberon Oryx sur un fond lumineux.",
+      "name": "Glyphe Oberon Oryx - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Oryx Oberon su uno sfondo chiaro.",
+      "name": "Glifo Oberon Oryx - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 오릭스 오베론을 묘사한 글리프입니다.",
+      "name": "오베론 오릭스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Oryx Oberon sobre un fondo brillante.",
+      "name": "Glifo de Oberon Oryx - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Oberon 羚羊在明亮背景下的浮印。",
+      "name": "Oberon 羚羊浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Оберона «Орикс» на светлом фоне.",
+      "name": "Глиф: Оберон Орикс - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたOryx Oberonのグリフ。",
+      "name": "Oberon Oryx グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Oberon Oryx na jasnym tle.",
+      "name": "Glif Oberon Oryx — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Oberon Oryx em um fundo claro.",
+      "name": "Glifo: Oberon Oryx (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Oberon 羚羊在明亮背景下的浮印。",
+      "name": "Oberon 羚羊浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Oberon Oryx บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Oberon Oryx - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Oryx Oberon açık fonlu glif.",
+      "name": "Oberon Oryx Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Оберона в шоломі «Орікс» на світлому тлі.",
+      "name": "Яскравий гліф «Оберон „Орікс“»",
+      "code": "uk"
+    }
+  ]
+}

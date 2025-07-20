@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAMediumItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tromyzon-831d6b8651.png",
+  "name": "Tromyzon",
+  "description": "Programmed to break down chemical byproducts leaked into the aqua system. It can be found in ponds around Venus.",
+  "languages": [
+    {
+      "description": "Zum Abbau von chemischen Nebenprodukten programmiert, die in den Wasserkreislauf gelangt sind. Er kann in Teichen der Venus gefunden werden.",
+      "name": "Tromyzon",
+      "code": "de"
+    },
+    {
+      "description": "Programmé pour désagréger les sous-produits chimiques qui se sont introduits dans l'écosystème aquatique. Il peut être trouvé dans les étangs sur Vénus. ",
+      "name": "Tromyzon",
+      "code": "fr"
+    },
+    {
+      "description": "Programmato per abbattere sottoprodotti chimici trapelati nei sistemi acquatici. Lo si può trovare negli stagni di Venere.",
+      "name": "Tromyzon",
+      "code": "it"
+    },
+    {
+      "description": "유체 시스템으로 유출된 화학 부산물을 분해하도록 프로그램 되어있습니다. 금성의 연못에서 발견됩니다.",
+      "name": "트로미존",
+      "code": "ko"
+    },
+    {
+      "description": "Programado para separar los subproductos químicos que se filtran a los sistemas de agua. Puede encontrarse en los estanques de Venus.",
+      "name": "Tromyzon",
+      "code": "es"
+    },
+    {
+      "description": "被设置用来分解渗入水环境的化学副产物。可以在金星的池塘中找到。",
+      "name": "多目鳗",
+      "code": "zh"
+    },
+    {
+      "description": "Запрограммирован на расщепление химикатов, попадающих в водную систему. Можно найти в прудах Венеры.",
+      "name": "Тромазон",
+      "code": "ru"
+    },
+    {
+      "description": "水中系に漏れ出した化学薬品の副産物を分解するようプログラムされている。金星の池で見つかる。",
+      "name": "トロミゾン",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprogramowane, aby oczyszczać produkty uboczne, które przeciekły w system filtracji.",
+      "name": "Tromyzon",
+      "code": "pl"
+    },
+    {
+      "description": "Programado para decompor os subprodutos químicos que vazaram no sistema marinho. Pode ser encontrado em lagoas ao redor de Vênus.",
+      "name": "Tromyzon",
+      "code": "pt"
+    },
+    {
+      "description": "被設置用來分解滲入水環境的化學副產物。可以在金星的池塘中找到。",
+      "name": "多目鰻",
+      "code": "tc"
+    },
+    {
+      "description": "โปรแกรมที่จะสลายผลพลอยได้ของสารเคมีที่รั่วไหลเข้าสู่ระบบน้ำ พบได้ในหนองน้ำบริเวณดาวศุกร์",
+      "name": "Tromyzon",
+      "code": "th"
+    },
+    {
+      "description": "Su sistemine sızdırılmış kimyasal ara maddeleri temizlemeye programlanmıştır. Venüs çevresindeki göletlerde bulunur.",
+      "name": "Tromyzon",
+      "code": "tr"
+    },
+    {
+      "description": "Розщеплює хімічні продукти, що потрапили в аквасистему. Трапляється в ставках Венери.",
+      "name": "Тромизон",
+      "code": "uk"
+    }
+  ]
+}

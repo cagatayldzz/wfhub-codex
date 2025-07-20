@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Events/EventGlyphCaviaBirdThree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bird-3-sketch-glyph-9f040a3cb9.png",
+  "name": "Bird 3 Sketch Glyph",
+  "description": "Present Loid's Bird 3 sketch as a Glyph for all to see.",
+  "languages": [
+    {
+      "description": "Präsentiere Loids Vogel 3-Skizze als Glyphe für alle sichtbar.",
+      "name": "Glyphe: Vogel 3-Skizze",
+      "code": "de"
+    },
+    {
+      "description": "Présente le croquis d'Oiseau-3 par Loid sous forme de Glyphe visible par tous.",
+      "name": "Glyphe de croquis d'Oiseau-3",
+      "code": "fr"
+    },
+    {
+      "description": "Mostra lo schizzo di Bird 3 fatto da Loid come Glifo affinché tutti possano vederlo.",
+      "name": "Glifo Schizzo Bird 3",
+      "code": "it"
+    },
+    {
+      "description": "로이드가 그린 새 3호의 스케치를 모두가 볼 수 있는 글리프로 선보여보세요.",
+      "name": "새 3호 스케치 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra el boceto de Bird 3 hecho por Loid como un glifo para que todos lo vean.",
+      "name": "Glifo Boceto de Bird 3",
+      "code": "es"
+    },
+    {
+      "description": "将洛德笔下的鸟三素描呈现为浮印，供大家欣赏。",
+      "name": "鸟三素描浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Представьте набросок Птички-3, сделанный Лойдом в виде глифа на всеобщее обозрение.",
+      "name": "Глиф: Набросок Птички-3",
+      "code": "ru"
+    },
+    {
+      "description": "Loidが描いたBird 3のスケッチをグリフとして提示しよう。",
+      "name": "Bird 3 スケッチグリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Pokaż szkic Ptaka-3 Loida jako Glif, aby wszyscy mogli go podziwiać.",
+      "name": "Glif Szkicu Ptaka-3",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba o esboço do Pássaro 3, feito pelo Loid, como um Glifo para que todos vejam.",
+      "name": "Glifo: Esboço do Pássaro 3",
+      "code": "pt"
+    },
+    {
+      "description": "將 Loid 的鳥三素描用作浮印給所有人看。",
+      "name": "鳥三素描浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพ Bird 3 ที่ Loid ร่างขึ้นมาเป็นภาพสัญลักษณ์ให้ทุกคนได้เห็น",
+      "name": "ภาพสัญลักษณ์ Bird 3 Sketch",
+      "code": "th"
+    },
+    {
+      "description": "Loid'in Kuş 3 çizimini herkesin görmesi için bir Glif olarak sergile.",
+      "name": "Kuş 3 Eskiz Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Можна побачити нарис Птахи-3 від Лойда у вигляді гліфа.",
+      "name": "Гліф «Нарис Птах-3»",
+      "code": "uk"
+    }
+  ]
+}

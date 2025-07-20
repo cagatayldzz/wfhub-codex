@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCitrineAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/citrine-kalite-glyph---dark-0e03dda315.png",
+  "name": "Citrine Kalite Glyph - Dark",
+  "description": "A glyph depicting Citrine Kalite on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Citrine Kalite vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Citrine Kalite (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Citrine Kalite sur un fond sombre.",
+      "name": "Glyphe Citrine Kalite - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Citrine Kalite su uno sfondo scuro.",
+      "name": "Glifo Citrine Kalite - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 시트린 칼라이트를 묘사한 글리프입니다.",
+      "name": "시트린 칼라이트 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Citrine Kalite sobre un fondo oscuro.",
+      "name": "Glifo de Citrine Kalite - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Citrine 在黑暗背景下的盐烁浮印。",
+      "name": "Citrine 盐烁浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Калит на тёмном фоне.",
+      "name": "Глиф: Калит - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたCitrine Kaliteのグリフ。",
+      "name": "Citrine Kaliteグリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Citrine Kalite na ciemnym tle.",
+      "name": "Glif Citrine Kalite — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Citrine Kalite em um fundo escuro.",
+      "name": "Glifo: Citrine Kalite (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Citrine 艷晶在黑暗背景下的浮印。",
+      "name": "Citrine 艷晶浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Citrine Kalite บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Kalite - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Citrine Kalite koyu fonlu glif.",
+      "name": "Citrine Kalite Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Цитрини в шоломі «Якість» на темному тлі.",
+      "name": "Темний гліф «Цитрина „Якість“»",
+      "code": "uk"
+    }
+  ]
+}

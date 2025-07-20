@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagath-ganceann-glyph---dark-639c13cf3e.png",
+  "name": "Dagath Ganceann Glyph - Dark",
+  "description": "A glyph depicting Dagath Ganceann on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Dagath Ganceann vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Dagath Ganceann (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Dagath Ganceann sur un fond sombre.",
+      "name": "Glyphe Dagath Ganceann - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dagath Ganceann su uno sfondo scuro.",
+      "name": "Glifo Dagath Ganceann - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 다가스 간칸을 묘사한 글리프입니다.",
+      "name": "다가스 간칸 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dagath Ganceann sobre un fondo oscuro.",
+      "name": "Glifo de Dagath Ganceann - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Dagath 无首在黑暗背景下的浮印。",
+      "name": "Dagath 无首浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Дагас Ганцианн на тёмном фоне.",
+      "name": "Глиф: Дагас Ганцианн - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたDagath Ganceannのグリフ。",
+      "name": "Dagath Ganceann グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Dagath Ganceann na ciemnym tle.",
+      "name": "Glif Dagath Ganceann — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Dagath Ganceann em um fundo escuro.",
+      "name": "Glifo: Dagath Ganceann (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dagath 首無在黑暗背景下的浮印。",
+      "name": "Dagath 首無浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Dagath Ganceann บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Dagath Ganceann - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Dagath Ganceann'ı koyu bir fonda temsil eden bir glif.",
+      "name": "Dagath Ganceann Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Даґат в шоломі «Безголова» на темному тлі.",
+      "name": "Темний гліф «Даґат „Безголова“»",
+      "code": "uk"
+    }
+  ]
+}

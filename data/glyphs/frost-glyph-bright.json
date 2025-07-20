@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-glyph---bright-296c7579aa.png",
+  "name": "Frost Glyph - Bright",
+  "description": "A glyph depicting Frost on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Frost vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Frost (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Frost sur un fond lumineux.",
+      "name": "Glyphe Frost - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Frost su uno sfondo chiaro.",
+      "name": "Glifo Frost - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 프로스트를 묘사한 글리프입니다.",
+      "name": "프로스트 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Frost sobre un fondo brillante.",
+      "name": "Glifo de Frost - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Frost 在明亮背景下的浮印。",
+      "name": "Frost 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Фроста на светлом фоне.",
+      "name": "Глиф: Фрост — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Frost のグリフ。",
+      "name": "Frost グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Frost na jasnym tle.",
+      "name": "Glif Frost — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Frost em um fundo claro.",
+      "name": "Glifo: Frost (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Frost 在明亮背景下的浮印。",
+      "name": "Frost 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Frost บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Frost - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Frost açık fonlu glif.",
+      "name": "Frost Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Фроста на світлому тлі.",
+      "name": "Яскравий гліф «Фрост»",
+      "code": "uk"
+    }
+  ]
+}

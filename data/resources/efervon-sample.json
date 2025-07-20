@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/efervon-sample-fcaab6b303.png",
+  "name": "Efervon Sample",
+  "description": "A sample of the corrosive substance that Scaldra use to purge Techrot. Handle with care.\n\nLocation: 1999 (Höllvania)",
+  "languages": [
+    {
+      "description": "Eine Probe der ätzenden Substanz, welche die Scaldra verwenden, um Techrot zu reinigen. Mit Vorsicht handhaben.\n\nFundort: 1999 (Höllvania)",
+      "name": "Efervon-Probe",
+      "code": "de"
+    },
+    {
+      "description": "Fluide corrosif concentré, utilisé par la Scaldra pour éliminer le Techrot. Utiliser avec prudence.\n\nLieu: 1999 (Höllvanie)",
+      "name": "Échantillon d'Efervon",
+      "code": "fr"
+    },
+    {
+      "description": "Un campione della sostanza corrosiva utilizzata dagli Scaldra per purificare il Techrot. Maneggiare con cura.\n\nPosizione: 1999 (Höllvania)",
+      "name": "Campione di Efervon",
+      "code": "it"
+    },
+    {
+      "description": "스칼드라가 테크병을 정화할 때 사용하는 부식성 물질의 샘플입니다. 취급 시 주의하세요.\n\n획득 가능 장소: 1999 (홀바니아)",
+      "name": "에퍼본 샘플",
+      "code": "ko"
+    },
+    {
+      "description": "Una muestra de la sustancia corrosiva que la Scaldra usa para purgar el Techrot. Manipular con cuidado.\n\nUbicación: 1999 (Höllvania)",
+      "name": "Muestra de Efervon",
+      "code": "es"
+    },
+    {
+      "description": "炽蛇军用来净化科腐者的腐蚀性物质样本。需小心处理。\n\n获取地点：霍瓦尼亚（1999 年）",
+      "name": "艾弗旺样本",
+      "code": "zh"
+    },
+    {
+      "description": "Образец коррозийного вещества, которое Скальдра использует для очищения Техрота. Обращаться с осторожностью.\n\nМестонахождение: 1999 (Хёльвания)",
+      "name": "Образец Эфервона",
+      "code": "ru"
+    },
+    {
+      "description": "スカルドラがテックロットを浄化するために使う腐食性物質のサンプル。取り扱い注意。\n\n場所：1999（ホルバニア）",
+      "name": "エフェルボン サンプル",
+      "code": "ja"
+    },
+    {
+      "description": "Próbka żrącej substancji używanej przez Scaldrę do wytępienia Techrotu. Zachowaj ostrożność.\n\nPołożenie: 1999 (Höllvania)",
+      "name": "Próbka Eferwonu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma amostra da substância corrosiva que a Scaldra utiliza para eliminar o Tecnovírus. Manuseie com cuidado.\n\nLocalização: 1999 (Holvânia).",
+      "name": "Amostra de Efervão",
+      "code": "pt"
+    },
+    {
+      "description": "清剿隊用於淨化科腐者的腐蝕性物質樣本。小心輕放。\n\n地點：霍爾瓦尼亞（1999 年）",
+      "name": "惡沸患樣本",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวอย่างสารกัดกร่อนที่ Scaldra ใช้ในการขับไล่ Techrot โปรดจัดการด้วยความระมัดระวัง\n\nแหล่งที่พบ: 1999 (Höllvania)",
+      "name": "ตัวอย่าง Efervon",
+      "code": "th"
+    },
+    {
+      "description": "Scaldra'nın Techrot'u temizlemek için kullandığı aşındırıcı maddenin bir örneği. Dikkatli kullan.\n\nKonum: 1999 (Höllvania)",
+      "name": "Efervon Örneği",
+      "code": "tr"
+    },
+    {
+      "description": "Зразок їдкої речовини, яка використовується «Скальдрою» для винищення техногнилі. Поводьтеся обережно.\n\nМожна здобути в 1999 році (Голвенія).",
+      "name": "Зразок ефервону",
+      "code": "uk"
+    }
+  ]
+}

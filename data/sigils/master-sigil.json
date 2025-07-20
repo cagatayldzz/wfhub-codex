@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/master-sigil-3f6bf43c95.png",
+  "name": "Master Sigil",
+  "description": "This sigil belongs to one of the founding masters of the Tenno.",
+  "languages": [
+    {
+      "description": "Dieses Siegel gehört einem Master-Founder der Tenno.",
+      "name": "Siegel: Master",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau appartient à un des maîtres fondateurs des Tennos.",
+      "name": "Sceau de Maître",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo appartiene ad uno dei Maestri fondatori dei Tenno.",
+      "name": "Sigillo Master",
+      "code": "it"
+    },
+    {
+      "description": "마스터 파운더를 위한 시질입니다.",
+      "name": "마스터 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello pertenece a uno de los maestros fundadores de los Tenno.",
+      "name": "Sello del Maestro",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章属于其中一位创始 Tenno 大师。",
+      "name": "大师纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот сигил принадлежит одному из мастеров Тэнно-основателей.",
+      "name": "Сигил: Мастер",
+      "code": "ru"
+    },
+    {
+      "description": "MASTERクラスのFOUNDERのテンノが所持しているシジル。",
+      "name": "マスター シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten Znak należy do Założyciela-Mistrza Tenno.",
+      "name": "Znak Mistrza",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão pertence a um dos mestres fundadores dos Tennos.",
+      "name": "Brasão: Mestre",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章屬於其中一位創始 Tenno 大師。",
+      "name": "大師紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้เป็นของหนึ่งในผู้เชี่ยวชาญผู้ก่อตั้ง Tenno",
+      "name": "เครื่องหมาย: ผู้เชี่ยวชาญ",
+      "code": "th"
+    },
+    {
+      "description": "Bu mühür Tenno master founder'larına aittir.",
+      "name": "Master Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл належить одному з магістрів тенно-засновників.",
+      "name": "Сиґіл «Магістр»",
+      "code": "uk"
+    }
+  ]
+}

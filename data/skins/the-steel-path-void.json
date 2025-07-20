@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyVoidBronze",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path---void-0ef9b11161.png",
+  "name": "The Steel Path - Void",
+  "description": "A signifier of walking The Steel Path in The Void",
+  "languages": [
+    {
+      "description": "Ein Symbol, dass du den Stählernen Pfad im Void beschritten hast",
+      "name": "Der Stählerne Pfad: Void",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole pour avoir parcouru La Route de l'Acier dans le Néant",
+      "name": "La Route de l'Acier - Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo del tuo passaggio attraverso Il Percorso d'Acciaio nel Void",
+      "name": "Il Percorso d'Acciaio - Void",
+      "code": "it"
+    },
+    {
+      "description": "보이드에서 강철의 길을 걸은 이들의 증표입니다.",
+      "name": "강철의 길 - 보이드",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo por haber recorrido El Camino de Acero en el Vacío",
+      "name": "El Camino de Acero - Vacío",
+      "code": "es"
+    },
+    {
+      "description": "踏上了虚空钢铁之路的象征。",
+      "name": "钢铁之路 — 虚空",
+      "code": "zh"
+    },
+    {
+      "description": "Символ прохождения Стального Пути в Бездне",
+      "name": "Стальной Путь: Бездна",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：VOID」を歩んだ証",
+      "name": "鋼の道のり：Void",
+      "code": "ja"
+    },
+    {
+      "description": "Element oznaczający kroczenie Ścieżką Stali w Pustce",
+      "name": "Ścieżka Stali — Pustka",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da conclusão do Percurso de Aço no Void",
+      "name": "O Percurso de Aço - Void",
+      "code": "pt"
+    },
+    {
+      "description": "長征虛空上鋼韌之道的象徵物",
+      "name": "鋼韌之道－虛空",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ที่บ่งบอกถึงการเดินทางบนเส้นทางเหล็กกล้าในวอยด์",
+      "name": "เส้นทางเหล็กกล้า - วอยด์",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path'i Void'de tamamlayanlar için bir simge",
+      "name": "Steel Path - Void",
+      "code": "tr"
+    },
+    {
+      "description": "Трофей за подолання «Шляху сталі» в Порожнечі.",
+      "name": "Шлях сталі: Порожнеча",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/WeaponPrimaryArcaneUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primary-arcane-adapter-52d642fd2a.png",
+  "name": "Primary Arcane Adapter",
+  "description": "Fuses with a Primary weapon to unlock the Arcane Slot.",
+  "languages": [
+    {
+      "description": "Fusioniert mit einer Primärwaffe, um den Arkana-Slot freizuschalten.",
+      "name": "PRIMÄRER ARKANA-ADAPTER",
+      "code": "de"
+    },
+    {
+      "description": "Fusionne avec une arme Principale pour déverrouiller l'emplacement des Arcanes.",
+      "name": "ADAPTATEUR D'ARCANE (ARME PRINCIPALE)",
+      "code": "fr"
+    },
+    {
+      "description": "Può essere fuso con un Arma Primaria per sbloccare lo Slot Arcane.",
+      "name": "ADATTATORE ARCANE PRIMARIO",
+      "code": "it"
+    },
+    {
+      "description": "주무기와 융합시켜 아케인 슬롯을 잠금 해제할 수 있습니다.",
+      "name": "주무기 아케인 어댑터",
+      "code": "ko"
+    },
+    {
+      "description": "Se fusiona con un arma primaria para desbloquear la ranura de Arcano.",
+      "name": "ADAPTADOR DE ARCANO PRIMARIO",
+      "code": "es"
+    },
+    {
+      "description": "融入一件主要武器来解锁赋能槽。",
+      "name": "主要武器赋能槽连接器",
+      "code": "zh"
+    },
+    {
+      "description": "Может быть объединён с основным оружием, чтобы разблокировать слот мистификатора.",
+      "name": "АДАПТЕР ДЛЯ МИСТИФИКАТОРА ОСНОВНОГО ОРУЖИЯ",
+      "code": "ru"
+    },
+    {
+      "description": "プライマリ武器に組み合わせることでアルケインスロットを解放できる。",
+      "name": "プライマリ・アルケインアダプター",
+      "code": "ja"
+    },
+    {
+      "description": "Łączy się z Bronią Główną, aby odblokować gniazdo Arkanów.",
+      "name": "ADAPTER ARKANUM BRONI GŁÓWNEJ",
+      "code": "pl"
+    },
+    {
+      "description": "Se funde com uma Arma Primária para desbloquear o Espaço de Arcanos.",
+      "name": "ADAPTADOR DE ARCANO (ARMA PRIMÁRIA)",
+      "code": "pt"
+    },
+    {
+      "description": "與一把主要武器進行融合並解鎖賦能欄位。",
+      "name": "主要武器賦能槽連接器",
+      "code": "tc"
+    },
+    {
+      "description": "หลอมรวมกับอาวุธหลักเพื่อปลดล็อกสล็อตของ Arcane",
+      "name": "อะแดปเตอร์ ARCANE (อาวุธหลัก)",
+      "code": "th"
+    },
+    {
+      "description": "Arcane Yuvasının kilidini açmak için Birincil Silahla füzyonlanır.",
+      "name": "BİRİNCİL ARCANE ADAPTÖRÜ",
+      "code": "tr"
+    },
+    {
+      "description": "Кріпиться на основну зброю та відкриває комірку для містифікаторів.",
+      "name": "Тримач містифікаторів для основної зброї",
+      "code": "uk"
+    }
+  ]
+}

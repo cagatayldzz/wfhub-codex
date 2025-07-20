@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/RailJack/ReactorVidarA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vidar-reactor-mk-i-16e9f026d2.png",
+  "name": "Vidar Reactor Mk I",
+  "description": "Vidar Reactors were optimized to increase the Railjack's ability Range.",
+  "languages": [
+    {
+      "description": "Vidar Reaktoren wurden optimiert, um die Fähigkeitenreichweite des Railjacks zu erhöhen.",
+      "name": "Vidar Reaktor MK I",
+      "code": "de"
+    },
+    {
+      "description": "Les Réacteurs Vidar ont été optimisés pour augmenter la portée des Pouvoirs du Railjack.",
+      "name": "Réacteur Vidar MK I",
+      "code": "fr"
+    },
+    {
+      "description": "I Reattori Vidar sono stati ottimizzati per aumentare la Portata Abilità del Railjack.",
+      "name": "Reattore Vidar MK I",
+      "code": "it"
+    },
+    {
+      "description": "비다르 리액터는 레일잭의 어빌리티 범위를 증가시키는 데 최적화된 리액터입니다.",
+      "name": "비다르 리액터 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Los reactores Vidar fueron optimizados para aumentar el rango de habilidad del Railjack.",
+      "name": "Reactor Vidar MK I",
+      "code": "es"
+    },
+    {
+      "description": "Vidar 反应堆为提升航道星舰的技能范围而进行了专项优化。",
+      "name": "Vidar 反应堆 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Реакторы Вайдер были оптимизированы для увеличения диапазона способностей Рэйлджека.",
+      "name": "Реактор: Вайдер MK I",
+      "code": "ru"
+    },
+    {
+      "description": "ビダール・リアクターはレールジャックのアビリティ範囲を拡大化するよう最適化されている。",
+      "name": "ビダール・リアクター MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Reaktory Vidar zostały zoptymalizowane pod kątem zwiększonego Zasięgu umiejętności Railjacka.",
+      "name": "Reaktor: Vidar MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Os Reatores Vidar foram otimizados para aumentar o Alcance das Habilidades da Railjack.",
+      "name": "Reator: Vidar (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "維達反應爐已進行最佳化來增加銳捷號的技能範圍。",
+      "name": "維達反應爐 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องปฏิกรณ์ Vidar ได้รับการปรับปรุงเพื่อขยายขอบเขตในการใช้พลังของ Railjack ",
+      "name": "เครื่องปฏิกรณ์: Vidar MK I",
+      "code": "th"
+    },
+    {
+      "description": "Vidar Reaktörleri, Railjack'in yetenek Menzilini artırmak için optimize edildi.",
+      "name": "Vidar Reaktörü MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Реактори дому Відар оптимізовані для подовження відстані дії здібностей рейкоджека.",
+      "name": "Реактор «Відар» MK I",
+      "code": "uk"
+    }
+  ]
+}

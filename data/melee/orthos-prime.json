@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orthos-prime-7045c30205.png",
+  "name": "Orthos Prime",
+  "description": "Orthos Prime is an ancient Orokin martial weapon, forged from the purest Rubedo making it extremely light-weight.",
+  "languages": [
+    {
+      "description": "Orthos Prime ist eine uralte Waffe der Orokin, die aus reinstem Rubedo geschmiedet wurde und daher extrem leicht ist.",
+      "name": "Orthos Prime",
+      "code": "de"
+    },
+    {
+      "description": "L'Orthos Prime est une arme martiale Orokin forgée à partir du Rubedo le plus pur, lui valant son poids extrêmement léger.",
+      "name": "Orthos Prime",
+      "code": "fr"
+    },
+    {
+      "description": "La Orthos Prime è un'antica arma marziale Orokin, forgiata con Rubedo purissimo, il quale la rende estremamente leggera.",
+      "name": "Orthos Prime",
+      "code": "it"
+    },
+    {
+      "description": "오르도스 프라임은 고대 오로킨 무술용 무기로 , 가장 순수한 루비도로 제련되어 매우 가벼운 무게를 자랑합니다.",
+      "name": "오르도스 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "La Orthos Prime es una antigua arma marcial orokin forjada con el rubedo más puro, volviéndola extremadamente ligera.",
+      "name": "Orthos Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ORTHOS PRIME）作为上古 Orokin 的军用武器，欧特鲁斯 Prime 由最纯净的红化结晶制成，因而极其轻盈。",
+      "name": "欧特鲁斯 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Ортос Прайм - древнее оружие ближнего боя Орокин, выкованное из чистейшего рубедо, что делает его крайне легким.",
+      "name": "Ортос Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "古代種族オロキンが用いた近接武器。 純度の高いルビドーから作られており、羽のように軽い。",
+      "name": "Orthos Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Orthos Prime to starożytna broń Orokin, przeznaczona do walki wręcz. Dzięki wykonaniu broni z najczystszego Rubedo jest ona niezwykle lekka.",
+      "name": "Orthos Prime",
+      "code": "pl"
+    },
+    {
+      "description": "A Orthos Prime é uma antiga arma marcial Orokin, forjada do mais puro dos Rubedos, o faz dela um equipamento extremamente leve.",
+      "name": "Orthos Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ORTHOS PRIME）作為上古 Orokin 的戰爭武器，歐特魯斯 Prime 使用了最純淨的紅化結晶製成而重量非常輕盈。",
+      "name": "歐特魯斯 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Orthos Prime เป็นอาวุธต่อสู้แบบ Orokin โบราณซึ่งสร้างขึ้นจากรูเบโดที่บริสุทธิ์ที่สุด ทำให้มีน้ำหนักเบามาก",
+      "name": "Orthos Prime",
+      "code": "th"
+    },
+    {
+      "description": "Orthos Prime antik bir Orokin savaşçı silahıdır. Rubedo metalinden dövülmüş olması sebebiyle çok hafif bir silahtır.",
+      "name": "Orthos Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Держакова зброя прадавніх орокінських воїнів. Важить надзвичайно мало, оскільки зроблена з найчистішого рубедо.",
+      "name": "Ортос-прайм",
+      "code": "uk"
+    }
+  ]
+}

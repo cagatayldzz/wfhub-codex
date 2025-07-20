@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/FlameThrower",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ignis-d9c0e80dba.png",
+  "name": "Ignis",
+  "description": "Ignis produces a stream of intense heat.",
+  "languages": [
+    {
+      "description": "Die Ignis produziert einen Strom intensiver Hitze.",
+      "name": "Ignis",
+      "code": "de"
+    },
+    {
+      "description": "L’Ignis produit un intense flux de chaleur.",
+      "name": "Ignis",
+      "code": "fr"
+    },
+    {
+      "description": "L'Ignis produce un intenso flusso di calore.",
+      "name": "Ignis",
+      "code": "it"
+    },
+    {
+      "description": "이그니스는 강렬한 열기의 흐름을 뿜어냅니다.",
+      "name": "이그니스",
+      "code": "ko"
+    },
+    {
+      "description": "El Ignis produce una corriente de intenso calor.",
+      "name": "Ignis",
+      "code": "es"
+    },
+    {
+      "description": "（英文：IGNIS）伊格尼斯能产生一股强烈的热浪。",
+      "name": "伊格尼斯",
+      "code": "zh"
+    },
+    {
+      "description": "Игнис выпускает поток испепеляющего огня.",
+      "name": "Игнис",
+      "code": "ru"
+    },
+    {
+      "description": "超加熱した物質を敵に放射する特殊兵器。",
+      "name": "Ignis",
+      "code": "ja"
+    },
+    {
+      "description": "Ignis wytwarza strumień intensywnego ciepła.",
+      "name": "Ignis",
+      "code": "pl"
+    },
+    {
+      "description": "A Ignis produz um jato de calor intenso.",
+      "name": "Ignis",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：IGNIS）伊格尼斯能產生一股強烈的熱浪。",
+      "name": "伊格尼斯",
+      "code": "tc"
+    },
+    {
+      "description": "Ignis จะปล่อยกระแสความร้อนที่รุนแรงออกมา",
+      "name": "Ignis",
+      "code": "th"
+    },
+    {
+      "description": "Ignis yoğun ısı dalgası yayar.",
+      "name": "İgnis",
+      "code": "tr"
+    },
+    {
+      "description": "Вогнемет, що випускає потужний спрямований вогняний струмінь.",
+      "name": "Іґніс",
+      "code": "uk"
+    }
+  ]
+}

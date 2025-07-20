@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileRedVeilTemple",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/red-veil-temple-simulacrum-d5df6626a0.png",
+  "name": "Red Veil Temple Simulacrum",
+  "description": "Hone your combat skills under the auspices of the Red Veil. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+  "languages": [
+    {
+      "description": "Verfeinere deine Kampffertigkeiten unter der Schirmherrschaft der Red Veil. Mit diesem Simulacrum kann der Schwierigkeitsgrad der Gegner um 25 Stufen über dem Standardmaximum eingestellt werden.",
+      "name": "Simulacrum: Red Veil Tempel",
+      "code": "de"
+    },
+    {
+      "description": "Perfectionnez vos compétences de combat sous les auspices du Voile Rouge. Ce Simulacre permet de régler la difficulté des ennemis 25 niveaux au-dessus du maximum normal.",
+      "name": "Le Temple du Voile Rouge du Simulacre",
+      "code": "fr"
+    },
+    {
+      "description": "Affina le tue abilità di combattimento sotto gli auspici di Red Veil. Questo simulacrum consente di impostare la difficoltà del nemico 25 livelli sopra il massimo standard.",
+      "name": "Simulacrum: Tempio Red Veil",
+      "code": "it"
+    },
+    {
+      "description": "레드 베일의 원조 아래 전투 기술을 연마해 보세요. 이 시뮬라크럼을 사용하면 적들의 난이도를 표준 최대치보다 25 레벨 높게 설정할 수 있습니다.",
+      "name": "레드 베일 사원 시뮬라크럼",
+      "code": "ko"
+    },
+    {
+      "description": "Afina tu habilidad de combate bajo el auspicio del Velo Rojo. Este simulacro permite establecer la dificultad del enemigo 25 niveles por encima del estándar máximo.",
+      "name": "Simulacro del Templo del Velo Rojo",
+      "code": "es"
+    },
+    {
+      "description": "在血色面纱的庇护下磨炼你的战斗技能。此模拟允许将敌人难度设置超出标准最大值 25 级。",
+      "name": "血色面纱神庙幻影装置",
+      "code": "zh"
+    },
+    {
+      "description": "Оттачивайте свои боевые навыки под покровительством Красной Вуали. Этот симулякрум позволяет установить уровень сложности врага на 25 уровней выше стандартного максимума.",
+      "name": "Симулякрум: Храм Красной Вуали",
+      "code": "ru"
+    },
+    {
+      "description": "レッド・ベールの戦闘スタイルをマスターしよう。シミュラクラムでは敵のレベルを通常上限より25上げることが可能。",
+      "name": "レッド・ベール寺・シミュラクラム",
+      "code": "ja"
+    },
+    {
+      "description": "Szlifuj swoje umiejętności bojowe pod auspicjami Czerwonego Woalu. Ta symulacja pozwala ustawić poziom trudności wroga o 25 poziomów powyżej standardowego maksimum.",
+      "name": "Symulakr Świątyni Czerwonego Woalu",
+      "code": "pl"
+    },
+    {
+      "description": "Aprimore suas habilidades de combate sob os auspícios do Véu Rubro. Este simulacro permite ajustar a dificuldade dos inimigos em 25 níveis acima do máximo padrão.",
+      "name": "Simulacro do Templo do Véu Rubro",
+      "code": "pt"
+    },
+    {
+      "description": "在血色面紗的護佑下磨煉你的戰鬥技巧。此幻影裝置設定的敵人難度能比標準設定的上限多 25 等。",
+      "name": "血色面紗殿堂幻影裝置",
+      "code": "tc"
+    },
+    {
+      "description": "ฝึกฝนทักษะการต่อสู้ภายใต้การอุปถัมภ์จาก Red Veil ซึ่งการจำลองนี้จะตั้งค่าระดับความยากของศัตรูให้สูงกว่าระดับมาตรฐานสูงสุด 25 ระดับ",
+      "name": "ห้องซิมูลาครัม: วิหาร Red Veil",
+      "code": "th"
+    },
+    {
+      "description": "Red Veil'in himayesinde savaş becerilerini geliştir. Bu simulacrum, düşman zorluğunun standart maksimum seviyenin 25 seviye üzerinde ayarlanmasına olanak tanır.",
+      "name": "Red Veil Tapınağı Simulacrum",
+      "code": "tr"
+    },
+    {
+      "description": "Шліфуйте свої вміння під наглядом «Багряної Вуалі». Цей симулякр дозволяє додати ворогам 25 рівнів понад звичайну верхню межу.",
+      "name": "Симулякр «Храм Багряної Вуалі»",
+      "code": "uk"
+    }
+  ]
+}

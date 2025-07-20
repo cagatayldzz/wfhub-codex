@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-glyph---bright-97a958f42d.png",
+  "name": "Zephyr Glyph - Bright",
+  "description": "A glyph depicting Zephyr on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Zephyr vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Zephyr (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Zephyr sur un fond lumineux.",
+      "name": "Glyphe Zephyr - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Zephyr su uno sfondo chiaro.",
+      "name": "Glifo Zephyr - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 제피르를 묘사한 글리프입니다.",
+      "name": "제피르 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Zephyr sobre un fondo brillante.",
+      "name": "Glifo de Zephyr - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 在明亮背景下的浮印。",
+      "name": "Zephyr 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Зефир на светлом фоне.",
+      "name": "Глиф: Зефир - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたZephyrのグリフ。",
+      "name": "Zephyr グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Zephyr na jasnym tle.",
+      "name": "Glif Zephyr — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Zephyr em um fundo claro.",
+      "name": "Glifo: Zephyr (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Zephyr 在明亮背景下的浮印。",
+      "name": "Zephyr 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Zephyr บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Zephyr - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr açık fonlu glif.",
+      "name": "Zephyr Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зефіри на світлому тлі.",
+      "name": "Яскравий гліф «Зефіра»",
+      "code": "uk"
+    }
+  ]
+}

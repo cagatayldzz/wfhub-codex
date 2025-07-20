@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gamma-beacon-eee0248955.png",
+  "name": "Gamma Beacon",
+  "description": "Locator beacon broadcasting on the gamma frequency",
+  "languages": [
+    {
+      "description": "Ein Signalfeuer, das auf der Gamma-Frequenz sendet",
+      "name": "Gamma-Signalfeuer",
+      "code": "de"
+    },
+    {
+      "description": "Balise de localisation émettant sur la fréquence Gamma",
+      "name": "Balise Gamma",
+      "code": "fr"
+    },
+    {
+      "description": "Localizzatore che trasmette sulla frequenza Gamma",
+      "name": "Localizzatore Gamma",
+      "code": "it"
+    },
+    {
+      "description": "감마 주파수를 보내고 있는 위치 신호기 입니다",
+      "name": "감마 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Baliza de localización emitiendo en frecuencia gamma",
+      "name": "Baliza Gamma",
+      "code": "es"
+    },
+    {
+      "description": "持续发送出 Gamma 频率的信标定位装置",
+      "name": "Gamma 信标",
+      "code": "zh"
+    },
+    {
+      "description": "Маяк, транслирующий на частоте гамма",
+      "name": "Маяк Гамма",
+      "code": "ru"
+    },
+    {
+      "description": "周波数ガンマで発信するロケータービーコン",
+      "name": "ガンマビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Radiolokalizator nadający na częstotliwości Gamma",
+      "name": "Radiolokalizator Gamma",
+      "code": "pl"
+    },
+    {
+      "description": "Transceptor Localizador Delta transmitindo na frequência Gamma",
+      "name": "Transmissor Gamma",
+      "code": "pt"
+    },
+    {
+      "description": "持續發送出 Gamma 頻率的信標定位裝置",
+      "name": "Gamma 信標",
+      "code": "tc"
+    },
+    {
+      "description": "สัญญาณระบุตำแหน่งที่ส่งสัญญาณด้วยคลื่นความถี่แกมมา",
+      "name": "บีคอนแกมมา",
+      "code": "th"
+    },
+    {
+      "description": "Konum belirleyici gamma freakansından yayın yapıyor",
+      "name": "Gamma İşareti",
+      "code": "tr"
+    },
+    {
+      "description": "Радіомаяк, що транслює на гамма-частоті.",
+      "name": "Радіомаяк «Гамма»",
+      "code": "uk"
+    }
+  ]
+}

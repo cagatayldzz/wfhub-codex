@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateSmallB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-extractor-unit-15b87bb0fa.png",
+  "name": "Zariman Extractor Unit",
+  "description": "A ventilation unit.",
+  "languages": [
+    {
+      "description": "Ein Lüftungsgerät.",
+      "name": "Zariman Extraktor-Einheit",
+      "code": "de"
+    },
+    {
+      "description": "Une unité de ventilation.",
+      "name": "Zariman: Unité d'extraction",
+      "code": "fr"
+    },
+    {
+      "description": "Un'unità di ventilazione.",
+      "name": "Unità d'Estrazione Zariman",
+      "code": "it"
+    },
+    {
+      "description": "환기 장치입니다.",
+      "name": "자리만 환기 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Una unidad de ventilación.",
+      "name": "Unidad extractora Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个通风装置。",
+      "name": "扎里曼排气扇装置",
+      "code": "zh"
+    },
+    {
+      "description": "Вентиляционная установка.",
+      "name": "Зариман: Экстрактор",
+      "code": "ru"
+    },
+    {
+      "description": "換気ユニット。",
+      "name": "Zariman 排気ユニット",
+      "code": "ja"
+    },
+    {
+      "description": "Jednostka wentylacyjna.",
+      "name": "Zariman: Wyciąg",
+      "code": "pl"
+    },
+    {
+      "description": "Uma unidade de ventilação.",
+      "name": "Ventilador da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "通風設備。",
+      "name": "扎日曼排風設備",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องระบายอากาศ",
+      "name": "Zariman: เครื่องดูดอากาศ",
+      "code": "th"
+    },
+    {
+      "description": "Bir havalandırma ünitesi.",
+      "name": "Zariman Aspiratör Ünitesi",
+      "code": "tr"
+    },
+    {
+      "description": "Вентиляційний пристрій.",
+      "name": "Видобувач із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

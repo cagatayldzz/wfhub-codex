@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/father-token-bdaae8db3f.png",
+  "name": "Father Token",
+  "description": "A symbol of Father's trust and confidence.\n\nObtained from Father in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Ein Symbol für Vaters Vertrauen und Zuversicht.\n\nQuelle: Erhalten von Vater im Necralisk auf Deimos.",
+      "name": "ANDENKEN: VATER",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole de la confiance du Père.\n\nLieu: Le Père, dans le Necralisk sur Deimos.",
+      "name": "JETON DU PÈRE",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo di fiducia e sicurezza da parte di Padre.\n\nPosizione: Padre nel Necralisk su Deimos.",
+      "name": "TOKEN PADRE",
+      "code": "it"
+    },
+    {
+      "description": "아버지로부터 받은 믿음과 신뢰의 상징입니다.\n\n데이모스의 네크랄리스크에 있는 아버지에게서 획득할 수 있습니다.",
+      "name": "아버지 토큰",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo de la confianza de Padre.\n\nSe obtiene con Padre en el Necralisk en Deimos.",
+      "name": "SÍMBOLO DE PADRE",
+      "code": "es"
+    },
+    {
+      "description": "一枚印记，代表着“父亲”的信任与信赖。\n\n从殁世幽都（火卫二）“父亲”处获得。",
+      "name": "“父亲”石印",
+      "code": "zh"
+    },
+    {
+      "description": "Знак уважения и доверия Отца.\n\nМожно получить у Отца в Некралиске (Деймос).",
+      "name": "СИМВОЛ: ОТЕЦ",
+      "code": "ru"
+    },
+    {
+      "description": "Fatherの信頼と信用の象徴。\n\nネクロリスク（ダイモス）のFatherから入手可能。",
+      "name": "FATHER トークン",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol zaufania i wiary Ojca.\n\nPołożenie: Pozyskaj od Ojca w Nekralisku na Deimosie.",
+      "name": "ŻETON: OJCIEC",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo de confiança do Pai.\n\nLocalização: obtido junto ao Pai, no Necralisk, em Deimos.",
+      "name": "SÍMBOLO: PAI",
+      "code": "pt"
+    },
+    {
+      "description": "代表父親的信任與信賴的象徵。\n\n從亡骸殿（火衛二）裡的父親獲得。",
+      "name": "父親源幣",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมที่เป็นสัญลักษณ์แห่งความไว้วางใจและความมั่นใจของ Father\n\nรับได้จาก Father ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "โทเค็นของ FATHER",
+      "code": "th"
+    },
+    {
+      "description": "Baba'nın güveninin ve kararlılığının sembolü.\n\nDeimos'taki Necralisk'te bulunan Babamız'dan alınır.",
+      "name": "BABA SEMBOLÜ",
+      "code": "tr"
+    },
+    {
+      "description": "Символ довіри Батька.\n\nМожна отримати в Батька в Некраліску (Деймос).",
+      "name": "МЕДАЛЬЙОН БАТЬКА",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinBootItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/crewman’s-boot-fd15bdb752.png",
+  "name": "Crewman’S Boot",
+  "description": "While the Vallis coolant has kept this finely engineered Corpus tactical boot remarkably well preserved, it is, nonetheless, entirely worthless.",
+  "languages": [
+    {
+      "description": "Während das Kühlmittel des Tales diesen gut gearbeiteten Stiefel bemerkenswert gut erhalten hat, ist er nichtsdestotrotz, absolut wertlos.",
+      "name": "Personalstiefel",
+      "code": "de"
+    },
+    {
+      "description": "Bien que le liquide de refroidissement de la Vallée ait gardé cette botte tactique de conception Corpus parfaitement intacte, elle est néanmoins complètement inutile. ",
+      "name": "Botte d'Homme d'équipage",
+      "code": "fr"
+    },
+    {
+      "description": "Nonostante il refrigerante di Vallis abbia conservato molto bene questo stivale tattico Corpus finemente ingegnerizzato, è, tuttavia, del tutto privo di valore.",
+      "name": "Stivale Crewman",
+      "code": "it"
+    },
+    {
+      "description": "협곡의 냉각수가 이 정교하게 설계된 코퍼스 전투 장화를 매우 잘 보존해 놓았지만, 역시 아무짝에도 쓸모 없는 물건입니다.",
+      "name": "크루맨 부츠",
+      "code": "ko"
+    },
+    {
+      "description": "A pesar de que el refrigerante de los Valles ha conservado extraordinariamente bien esta bota táctica corpus de gran precisión, ésta sigue siendo, completamente inútil.",
+      "name": "Bota de tripulante",
+      "code": "es"
+    },
+    {
+      "description": "虽然山谷冷却液将这精心设计的 Corpus 战靴保持得完好无缺，但它，仍没有一丝价值。",
+      "name": "船员的靴子",
+      "code": "zh"
+    },
+    {
+      "description": "Хоть хладагент Долин и сохранил этот тактический ботинок, чудо инженерной мысли Корпуса, в отличном состоянии, толку от него нет.",
+      "name": "Ботинок Корпуса",
+      "code": "ru"
+    },
+    {
+      "description": "峡谷の冷却液によりこのコーパスのタクティカルブーツの保存の質はいいが、ガラクタに変わりはない。",
+      "name": "クルーマンのブーツ",
+      "code": "ja"
+    },
+    {
+      "description": "Podczas gdy płyn chłodzący Vallis zakonserwował tak precyzyjnie zaprojektowany taktyczny But Załoganta Corpus, jest on całkowicie bezwartościowy.",
+      "name": "But Załoganta",
+      "code": "pl"
+    },
+    {
+      "description": "Apesar do fato de que o líquido refrigerador do Vallis preservou esta bota engenhosamente desenvolvida pelos Corpus perfeitamente, ela ainda assim não vale nada.",
+      "name": "Bota de Tripulante",
+      "code": "pt"
+    },
+    {
+      "description": "雖然山谷冷卻液將這精心設計的 Corpus 戰靴保持得完好無缺，但它，仍沒有一絲價值。",
+      "name": "船員的靴子",
+      "code": "tc"
+    },
+    {
+      "description": "ในขณะที่น้ำยาหล่อเย็นของวัลลิสยังคงรักษารองเท้าบูทยุทธวิธีของ Corpus ที่ได้รับการออกแบบมาอย่างประณีตนี้ไว้อย่างดีเยี่ยม แต่กระนั้นก็ยังไร้ค่าอย่างสิ้นเชิง",
+      "name": "รองเท้าบูทของลูกเรือ",
+      "code": "th"
+    },
+    {
+      "description": "Vallis soğutucu, bu ince tasarlanmış Corpus taktik botunu özel bir şekilde korumuş olsada, yine de tamamen değersiz parça.",
+      "name": "Crewman Botu",
+      "code": "tr"
+    },
+    {
+      "description": "Чудовий чобіт за дизайном Корпусу. Добре зберігся завдяки холодагенту. Проте абсолютно \n нікому не потрібний.",
+      "name": "Чобіт рядового з Корпусу",
+      "code": "uk"
+    }
+  ]
+}

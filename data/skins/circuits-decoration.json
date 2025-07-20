@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemCircuits",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/circuits-decoration-e36cee3781.png",
+  "name": "Circuits Decoration",
+  "description": "A Circuits resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von Schaltkreisen.",
+      "name": "Dekoration: Schaltkreise",
+      "code": "de"
+    },
+    {
+      "description": "Des Circuits à placer dans votre Orbiteur.",
+      "name": "Décoration Circuits",
+      "code": "fr"
+    },
+    {
+      "description": "Dei Circuiti decorativi da piazzare nel tuo Orbiter.",
+      "name": "Circuiti - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 서킷 드롭 아이템입니다.",
+      "name": "서킷 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo del recurso de circuitos para colocar en tu orbitador.",
+      "name": "Decoración de circuitos",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的电路拾取物。",
+      "name": "电路装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Схемы",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材の回路基板。",
+      "name": "回路基板の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Obwody, które możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Obwody",
+      "code": "pl"
+    },
+    {
+      "description": "Um coletável de circuitos para colocar em sua Orbital.",
+      "name": "Circuitos",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的電路拾取物。",
+      "name": "電路裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "แผงวงจรไฟฟ้าที่เอาไว้ตกแต่งจัดวางในยานของคุณ",
+      "name": "ของตกแต่ง: แผงวงจรไฟฟ้า",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Devre bileşeni dekorasyonu.",
+      "name": "Devre Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цю друковану плату на палубі орбітра.",
+      "name": "Оздоблення: плата",
+      "code": "uk"
+    }
+  ]
+}

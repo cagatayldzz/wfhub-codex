@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/KuvaLichSetB/KuvaLichArmourBArms",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-zevokk-shoulder-plates-89ee014d93.png",
+  "name": "Kuva Zevokk Shoulder Plates",
+  "description": "Grineer shoulder plates forged for a reborn Kuva Lich.",
+  "languages": [
+    {
+      "description": "Grineer Schulterplatten, geschmiedet für einen wiedergeborenen Kuva Lich.",
+      "name": "Schulterplatten: Kuva Zevokk",
+      "code": "de"
+    },
+    {
+      "description": "Des Épaulières Grineers forgées spécifiquement pour une Liche Kuva réanimée.",
+      "name": "Épaulières Zevokk Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Spallacci Grineer forgiati per un Kuva Lich rinato.",
+      "name": "Spallacci Kuva Zevokk",
+      "code": "it"
+    },
+    {
+      "description": "다시 태어난 쿠바 리치를 위해 제작된 그리니어 숄더 플레이트입니다.",
+      "name": "쿠바 제보크 숄더 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Hombreras de placas grineer forjadas para un Lich de Kuva renacido.",
+      "name": "Hombreras de placas Kuva Zevokk",
+      "code": "es"
+    },
+    {
+      "description": "为一个重生的赤毒玄骸打造的 Grineer 肩甲",
+      "name": "赤毒兹沃克肩甲",
+      "code": "zh"
+    },
+    {
+      "description": "Выкованные наплечники Гринир для возрожденного Лича Кувы.",
+      "name": "Наплечники: Кува Зевокк",
+      "code": "ru"
+    },
+    {
+      "description": "転生したクバ・リッチ用に鍛造されたグリニア式ショルダープレート。",
+      "name": "Zevokk クバ ショルダープレート",
+      "code": "ja"
+    },
+    {
+      "description": "Naramienniki Grineer wykute dla odrodzonego Licza Kuvy.",
+      "name": "Naramienniki: Kuva Zevokk",
+      "code": "pl"
+    },
+    {
+      "description": "Ombreiras Grineer forjadas para um Lich de Kuva renascido.",
+      "name": "Ombros: Kuva Zevokk",
+      "code": "pt"
+    },
+    {
+      "description": "為重生的赤毒巫妖所鍛造的 Grineer 肩甲。",
+      "name": "赤毒茲沃克肩甲",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นโลหะรองไหล่ของ Grineer ที่หลอมขึ้นเพื่อ Kuva Lich ที่เกิดใหม่",
+      "name": "เพลตไหล่ Kuva Zevokk",
+      "code": "th"
+    },
+    {
+      "description": "Yeniden doğmuş bir Kuva Lich için dövülmüş Grineer omuz plakaları.",
+      "name": "Kuva Zevokk Omuz Plakaları",
+      "code": "tr"
+    },
+    {
+      "description": "Ґрінерський наголінник, викуваний для відродженого кувового ліча.",
+      "name": "Наплічник «Кува „Зевок“»",
+      "code": "uk"
+    }
+  ]
+}

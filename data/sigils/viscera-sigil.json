@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/viscera-sigil-9c399b1da6.png",
+  "name": "Viscera Sigil",
+  "description": "A sigil representing prestige gained with the Red Veil.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim Red Veil repräsentiert.",
+      "name": "Siegel: Viszera",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Voile Rouge.",
+      "name": "Sceau de Viscères",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Red Veil.",
+      "name": "Sigillo Viscera",
+      "code": "it"
+    },
+    {
+      "description": "레드 베일로부터 받는 경외를 대변하는 시질입니다.",
+      "name": "비세라 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Velo Rojo.",
+      "name": "Sello Visceral",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了血色面纱的威望。",
+      "name": "脏器纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Красных Вуалей.",
+      "name": "Сигил: Внутренности",
+      "code": "ru"
+    },
+    {
+      "description": "レッド・ベールから得た声望を表すシジル。",
+      "name": "Viscera シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Czerwonego Woalu.",
+      "name": "Znak Wnętrzności",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto ao Véu Rubro.",
+      "name": "Brasão: Vísceras",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了血色面紗的威望。",
+      "name": "臟器紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Red Veil",
+      "name": "เครื่องหมาย: Viscera",
+      "code": "th"
+    },
+    {
+      "description": "Red Veil prestijini sembolize eden bir mühür",
+      "name": "Viscera Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Багряна Вуаль».",
+      "name": "Сиґіл «Нутрощі»",
+      "code": "uk"
+    }
+  ]
+}

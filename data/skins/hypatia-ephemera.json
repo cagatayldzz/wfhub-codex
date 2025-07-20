@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/CorpusLichEphemeraF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hypatia-ephemera-e81d02e542.png",
+  "name": "Hypatia Ephemera",
+  "description": "A radiant Ephemera seized from a converted or vanquished Sister of Parvos.",
+  "languages": [
+    {
+      "description": "Ein leuchtendes Ephemera, konfisziert von einer konvertierten oder besiegten Schwester von Parvos.",
+      "name": "Ephemera: Hypatia",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera radieux pris à une Sœur de Parvos convertie ou vaincue.",
+      "name": "Ephemera Hypatia",
+      "code": "fr"
+    },
+    {
+      "description": "Un'Ephemera radiante sequestrata ad una Sorella di Parvos convertita o sconfitta.",
+      "name": "Ephemera Hypatia",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 파보스의 자매에게서 빼앗은 방사성의 이페메라입니다.",
+      "name": "히파티아 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un radiante efímero arrebatado a una Hermana de Parvos convertida o derrotada.",
+      "name": "Efímero Hypatia",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的帕尔沃斯的姐妹处得到的辐射幻纹。",
+      "name": "睿哲幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Сияющая Эфемера, отобранная у обращенной или побежденной Сестры Парвоса.",
+      "name": "Эфемера: Гипатия",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したParvosシスターから手に入れた輝くエフェメラ。",
+      "name": "Hypatia エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Promienna Efemera skonfiskowana nawróconej lub pokonanej Siostrze Parvosa.",
+      "name": "Efemera Hypatia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera radiante obtida de uma Irmã de Parvos convertida ou derrotada.",
+      "name": "Efêmera: Hypatia",
+      "code": "pt"
+    },
+    {
+      "description": "從一名已皈依或被擊殺的 Parvos 的姊妹身上擄獲得來的輻射射線幻紋。",
+      "name": "海帕蒂婭幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่ดูเปล่งประกาย ซึ่งยึดเอามาจากน้องสาวของ Parvos ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Hypatia",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya infaz edilmiş bir Parvos'un Kız Kardeşinden alınan parlak bir Ephemera.",
+      "name": "Hypatia Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Промениста ефемера, вилучена в оберненої чи вбитої Сестри Парва.",
+      "name": "Ефемера «Гіпатія»",
+      "code": "uk"
+    }
+  ]
+}

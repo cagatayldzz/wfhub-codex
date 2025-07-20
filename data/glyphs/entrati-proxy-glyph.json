@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Drone",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-proxy-glyph-1b37b479b7.png",
+  "name": "Entrati Proxy Glyph",
+  "description": "A shielded custom chassis designed to protect a Cephalon's higher functions from damaging environmental effects.",
+  "languages": [
+    {
+      "description": "Ein geschütztes und angepasstes Gehäuse, das entworfen wurde, um die höheren Funktionen eines Cephalons vor Umwelteinflüssen zu schützen.",
+      "name": "Glyphe: Entrati Einheit",
+      "code": "de"
+    },
+    {
+      "description": "Un châssis renforcé et personnalisé conçu pour protéger les fonctions supérieures d'un Céphalon des influences environnementales.",
+      "name": "Glyphe Proxy Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Uno chassis personalizzato con schermature progettate per proteggere le funzioni principali di un Cephalon dagli effetti dannosi dell'ambiente.",
+      "name": "Glifo Entrati Proxy",
+      "code": "it"
+    },
+    {
+      "description": "세팔론의 상급 기능들을 해로운 환경적 영향으로부터 보호하기 위한 특수 차폐형 섀시입니다.",
+      "name": "엔트라티 프록시 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un chasis blindado y personalizado para proteger las funciones superiores de un céfalon de los efectos dañinos del medio ambiente.",
+      "name": "Glifo de proxy Entrati",
+      "code": "es"
+    },
+    {
+      "description": "具有护盾的定制机体，旨在保护中枢的高阶功能不受有害环境的影响。",
+      "name": "英择谛机械浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Экранированный каркас специального назначения для защиты высших функций цефалона от повреждающих факторов внешней среды.",
+      "name": "Глиф: Энтрати Прокси",
+      "code": "ru"
+    },
+    {
+      "description": "環境からセファロンの高度機能を守るために設計された装甲。",
+      "name": "エントラティ・プロキシ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Spersonalizowana, wyposażona w osłony powłoka zaprojektowana, by chronić wyższe funkcje Cefalona przed szkodliwymi czynnikami środowiskowymi.",
+      "name": "Glif Robotyki Entrati",
+      "code": "pl"
+    },
+    {
+      "description": "Um chassi blindado personalizado, projetado para proteger as funções superiores de um Cephalon contra efeitos ambientais danosos.",
+      "name": "Glifo: Proxy Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "帶有護罩的定製機體設計，用於保護中樞的高層次功能免於破壞性的環境效果。",
+      "name": "源拓氏代理浮印",
+      "code": "tc"
+    },
+    {
+      "description": "แชสซีแบบกำหนดเองที่มีเกราะป้องกันซึ่งออกแบบมาเพื่อปกป้องฟังก์ชันที่สูงขึ้นของ Cephalon จากผลกระทบที่สร้างความเสียหายต่อสิ่งแวดล้อม",
+      "name": "ภาพสัญลักษณ์ Entrati Proxy",
+      "code": "th"
+    },
+    {
+      "description": "Bir Cephalon'un işlemlerini tehlikeli ortamların etkilerinden korumak için tasarlanmış kalkanlı özel bir gövde.",
+      "name": "Entrati Proxy Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Екранований каркас спеціального виготовлення, який захищає важливі функції цефалона від шкідливого впливу навколишнього середовища.",
+      "name": "Гліф «Дрон Ентраті»",
+      "code": "uk"
+    }
+  ]
+}

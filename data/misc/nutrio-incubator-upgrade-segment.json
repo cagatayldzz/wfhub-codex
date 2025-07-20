@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/GeneticFoundryUpgradeFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nutrio-incubator-upgrade-segment-3b93d4d5fa.png",
+  "name": "Nutrio Incubator Upgrade Segment",
+  "description": "Upgrades the Orbiter's Incubator with the following features:\n\n- Regress genetic aging of mature companions\n- Egg incubation reduced by a day",
+  "languages": [
+    {
+      "description": "Verbessert den Inkubator des Orbiters mit den folgenden Funktionen:\n\n- Kehrt genetische Alterung von ausgewachsenen Begleitern um\n- Reduziert Inkubation eines Eis um einen Tag",
+      "name": "Inkubator-Segment: Nutrio-Upgrade",
+      "code": "de"
+    },
+    {
+      "description": "Améliore l'Incubateur de l'Orbiteur avec les fonctions suivantes:\n\n- Inversion du vieillissement génétique des compagnons matures\n- Incubation des œufs réduite d'un jour",
+      "name": "Segment d'Amélioration d'Incubateur Nutrio",
+      "code": "fr"
+    },
+    {
+      "description": "Migliora l'Incubatrice dell'Orbiter con le seguenti caratteristiche:\n\n- Inversione dell'Invecchiamento Genetico dei compagni maturi\n- Incubazione delle uova ridotta a un giorno",
+      "name": "Segmento Nutrio per Incubatrice",
+      "code": "it"
+    },
+    {
+      "description": "오비터의 인큐베이터를 업그레이드하여 다음의 기능들을 추가합니다:\n\n- 성체 동반자의 유전적 성장 퇴행\n- 알 인공 부화 기간 하루 단축",
+      "name": "뉴트리오 인큐베이터 업그레이드 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Mejora la incubadora del orbitador con las siguientes características:\n\n- Reversión del envejecimiento genético de los compañeros adultos\n- Incubación de huevos reducida a un día",
+      "name": "Segmento de actualización Nutrio de incubadora",
+      "code": "es"
+    },
+    {
+      "description": "升级轨道飞行器的孵化器来获得以下功能：\n\n- 回退受老化基因影响的成熟同伴\n- 孵化时间减少一天",
+      "name": "照育孵化器升级模块",
+      "code": "zh"
+    },
+    {
+      "description": "Дополняет инкубатор вашего Орбитера следующими улучшениями:\n\n- Способность регрессии генетического старения взрослого компаньона (превращается в детёныша)\n- Инкубация яиц сокращается на день",
+      "name": "Сегмент Улучшения Инкубатора: Нутрио",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内の孵化機の特徴を強化する:\n\n- 大人になったコンパニオンの遺伝子の老化を退行する\n- 卵の孵化が一日短くなる ",
+      "name": "Nutrio 孵化器アップグレードモジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Ulepsza Inkubator Orbitera o następujące funkcje:\n\n- Regresja starzenia genetycznego dorosłych towarzyszy\n- Czas inkubacji jaj skrócony o jeden dzień",
+      "name": "Segment Ulepszający Inkubator: Nutrio",
+      "code": "pl"
+    },
+    {
+      "description": "Aprimora a Incubadora da Orbital com as seguintes funções:\n\n- Reversão genética do amadurecimento de mascotes\n- Incubação do ovo reduzida em um dia",
+      "name": "Segmento de Nutrição da Incubadora",
+      "code": "pt"
+    },
+    {
+      "description": "升級軌道飛行器中的孵化器以獲得下列新功能：\n\n－逆育成熟同伴老化的基因\n－孵化時間縮短一天",
+      "name": "照育孵化器升級模組",
+      "code": "tc"
+    },
+    {
+      "description": "อัปเกรดเครื่องฟักไข่ของออร์บิเตอร์เพื่อใช้ฟีเจอร์ดังต่อไปนี้:\n\n- ย้อนวัยให้กับคู่หูที่โตเต็มวัย\n- ลดระยะเวลาการฟักไข่ลงหนึ่งวัน",
+      "name": "เซกเมนต์การอัปเกรดสารอาหารในเครื่องฟักไข่",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'in Kuluçkalayıcısını şu özellikler ile günceller:\n\n- Yetişkin yoldaşların genetik yaşlanmasını geri çevirme\n- Yumurta kuluçkalama süresini bir gün azaltma",
+      "name": "Nutrio Kuluçkalayıcı Geliştirme Segmenti",
+      "code": "tr"
+    },
+    {
+      "description": "Це поліпшення інкубатора:\n\n— додає можливість обернути дорослішання тварин у зворотний бік;\n— зменшує на день тривалість інкубації яйця.",
+      "name": "Живильний модуль поліпшення інкубатора",
+      "code": "uk"
+    }
+  ]
+}

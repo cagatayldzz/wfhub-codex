@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/VoidPlumeAOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-down-ornament-038657867f.png",
+  "name": "Voidplume Down Ornament",
+  "description": "A small Void Angel feather, fashioned into a harmless decoration.",
+  "languages": [
+    {
+      "description": "Eine kleine Void-Engel-Feder, die zu einer harmlosen Dekoration verarbeitet wurde.",
+      "name": "Ornament: Void-Daunenfeder",
+      "code": "de"
+    },
+    {
+      "description": "Une petite plume d'Ange du Néant, intégrée dans une décoration inoffensive.",
+      "name": "Plume du Néant - Décoration Duvet",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola piuma di Angelo del Void, modellata in una decorazione innocua.",
+      "name": "Ornamento Voidplume - Timoniera",
+      "code": "it"
+    },
+    {
+      "description": "무해한 장식으로 재가공된, 보이드 천사의 작은 깃털입니다.",
+      "name": "보이드 깃털 - 솜깃 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña pluma de un Ángel del Vacío, convertida en una decoración inofensiva.",
+      "name": "Ornamento de Cálamo de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "一根小的虚空天使羽毛，被塑造成无害的装饰物。",
+      "name": "虚空绒翎饰物",
+      "code": "zh"
+    },
+    {
+      "description": "Маленькое перо Ангела Бездны, превращённое в безобидное украшение.",
+      "name": "Орнамент: Перо Бездны - Пух",
+      "code": "ru"
+    },
+    {
+      "description": "Void天使の小さい羽を害のないデコレーションに仕立てたもの。",
+      "name": "ヴォイドプルーム ダウン オーナメント",
+      "code": "ja"
+    },
+    {
+      "description": "Małe pióro Anioła Pustki, przeistoczone w nieszkodliwą dekorację.",
+      "name": "Ozdoba Pióro Pustki: Puch",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pequena pena de um Anjo do Void, transformada em uma decoração inofensiva.",
+      "name": "Ornamento de Penacho de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "一根小的虛空天使羽毛，被塑造成無害的裝飾物。",
+      "name": "虛空絨羽飾品",
+      "code": "tc"
+    },
+    {
+      "description": "ขนนกเทวทูตแห่งวอยด์ขนาดเล็ก นำไปเป็นของตกแต่งที่ไม่เป็นอันตราย",
+      "name": "ของประดับ Voidplume: ขนอ่อน",
+      "code": "th"
+    },
+    {
+      "description": "Zararsız bir dekorasyona dönüştürülmüş küçük bir Void Meleği Tüyü.",
+      "name": "Void Tüyü Perçemi Aksesuarı",
+      "code": "tr"
+    },
+    {
+      "description": "Маленька пір’їнка янгола Порожнечі, перетворена на безпечну прикрасу.",
+      "name": "Оздоблення: підпір’я пера Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

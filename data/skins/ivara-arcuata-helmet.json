@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Archer/SWArcuataHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-arcuata-helmet-6166394fae.png",
+  "name": "Ivara Arcuata Helmet",
+  "description": "A helmet for the Ivara Warframe, designed by Stenchfury.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Ivara Warframe, entworfen von Stenchfury.",
+      "name": "Ivara-Helm: Arcuata",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Ivara, conçu par Stenchfury.",
+      "name": "Casque Ivara Arcuata",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Ivara, ideato da Stenchfury.",
+      "name": "Elmo Ivara Arcuata",
+      "code": "it"
+    },
+    {
+      "description": "Stenchfury에 의해 디자인된 이바라 워프레임을 위한 헬멧입니다.",
+      "name": "이바라 아르콰타 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Ivara, diseñado por Stenchfury.",
+      "name": "Casco Arcuata de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 战甲的头盔，由 Stenchfury 设计。",
+      "name": "Ivara 弓形头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Ивара, созданный Stenchfury.",
+      "name": "Шлем Ивары: Аркуата",
+      "code": "ru"
+    },
+    {
+      "description": "Ivara用のヘルメット。製作者：Stenchfury。",
+      "name": "Ivara Arcuata ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Ivara, zaprojektowany przez Stenchfury.",
+      "name": "Ivara: Hełm Arcuata",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para a Ivara, desenvolvido por Stenchfury.",
+      "name": "Ivara: Capacete Arcuata",
+      "code": "pt"
+    },
+    {
+      "description": "Ivara Warframe 的頭盔，由 Stenchfury 設計。",
+      "name": "Ivara 弓形頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Ivara Warframe ออกแบบโดย Stenchfury",
+      "name": "หมวกเหล็ก Ivara Arcuata",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Warframe'i için Stenchfury tarafından dizayn edilen bir miğfer.",
+      "name": "Ivara Arcuata Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Івари, створений Stenchfury.",
+      "name": "Шолом «Арката» для Івари",
+      "code": "uk"
+    }
+  ]
+}

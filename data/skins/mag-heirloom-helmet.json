@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHeirloomHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-heirloom-helmet-9579b33809.png",
+  "name": "Mag Heirloom Helmet",
+  "description": "Mag Heirloom's signature helmet.",
+  "languages": [
+    {
+      "description": "Mag Heirlooms bevorzugter Helm.",
+      "name": "Mag-Helm: Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Mag Héritage.",
+      "name": "Casque Mag Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Mag Heirloom.",
+      "name": "Elmo Mag Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "매그 에어룸의 대표 헬멧입니다.",
+      "name": "매그 에어룸 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Mag Legado.",
+      "name": "Casco Legado de Mag",
+      "code": "es"
+    },
+    {
+      "description": "Mag 传家宝的标志性头盔。",
+      "name": "Mag 传家宝头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Мэг «Наследие».",
+      "name": "Шлем Мэг: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Mag Heirloomのメインヘルメット。",
+      "name": "Mag Heirloom ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Pamiątkowej Mag.",
+      "name": "Mag: Hełm Pamiątkowy",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Mag do Legado.",
+      "name": "Mag: Capacete do Legado",
+      "code": "pt"
+    },
+    {
+      "description": "Mag 祖傳的標誌性頭盔。",
+      "name": "Mag 祖傳頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Mag Heirloom",
+      "name": "หมวกเหล็ก Mag Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Mag Heirloom'un özel miğferi.",
+      "name": "Mag Heirloom Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Спадок» для ворфрейма Меґ.",
+      "name": "Шолом «Спадок» для Меґ",
+      "code": "uk"
+    }
+  ]
+}

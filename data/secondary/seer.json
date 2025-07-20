@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/seer-afdd75b43d.png",
+  "name": "Seer",
+  "description": "Captain Vor's prized Orokin-Grineer hybrid pistol has an average rate of fire, but it has high damage and superior zoom capabilities.",
+  "languages": [
+    {
+      "description": "Captain Vors hochgeschätzte Hybridpistole, mit Orokin und Grineer Technologie, hat eine durchschnittliche Feuerrate, fügt aber über hohen Schaden zu und hat eine ausgezeichnete Zoom-Funktion.",
+      "name": "Seer",
+      "code": "de"
+    },
+    {
+      "description": "Ce Pistolet hybride Orokin-Grineer prisé du Capitaine Vor a une cadence de tir moyenne, mais ses Dégâts sont supérieurs et sa capacité de zoom supérieure.",
+      "name": "Seer",
+      "code": "fr"
+    },
+    {
+      "description": "La pistola ibrida Orokin-Grineer tanto adorata dal Capitano Vor ha una Cadenza di Tiro nella norma ma infligge danni elevati e possiede una capacità di zoom migliorata.",
+      "name": "Seer",
+      "code": "it"
+    },
+    {
+      "description": "캡틴 보어가 사용하는 오로킨-그리니어 하이브리드의 권총입니다. 일반적인 연사력을 가지지만 높은 피해량과 뛰어난 조준 능력을 갖추고 있습니다.",
+      "name": "시어",
+      "code": "ko"
+    },
+    {
+      "description": "La valorada pistola híbrida orokin-Grineer del capitán Vor tiene una cadencia de fuego media pero un alto daño y una gran capacidad de enfoque.",
+      "name": "Seer",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SEER）Orokin-Grineer 复合式手枪是沃尔上尉最重要的手枪，虽只有一般射速，但具有高杀伤力和卓越的狙击能力。",
+      "name": "预言者",
+      "code": "zh"
+    },
+    {
+      "description": "Любимый пистолет капитана Вора, гибрид технологий Орокин и Гринир. Имеет среднюю скорострельность, высокий урон и отличную увеличительную оптику.",
+      "name": "Пророк",
+      "code": "ru"
+    },
+    {
+      "description": "オロキンとグリニアの技術を掛けあわせたハイブリッドピストル。Captain Vorの至高の逸品と言われている。連射力は平凡だが、高火力と高倍率ズームを備えている。",
+      "name": "Seer",
+      "code": "ja"
+    },
+    {
+      "description": "Ceniony przez Kapitana Vora pistolet będący hybrydą technologii Orokin oraz Grineer. Posiada przeciętną szybkostrzelność, jednakże zadaje duże obrażenia oraz dysponuje potężnym przybliżeniem.",
+      "name": "Seer",
+      "code": "pl"
+    },
+    {
+      "description": "A querida pistola híbrida Grineer-Orokin do Capitão Vor possui uma Cadência de Tiro mediana, porém, tem alto poder de dano e capacidade de zoom superior.",
+      "name": "Seer",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SEER）Orokin-Grineer 複合式手槍是 Vor 上尉最重要的手槍，雖只有一般射速，但具有高殺傷力和卓越的狙擊能力。",
+      "name": "預言者",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพกลูกผสม Orokin-Grineer ที่เป็นปืนล้ำค่าของกัปตัน Vor มีอัตราการยิงปานกลางแต่สร้างความเสียหายได้สูงและมีความสามารถในการซูมที่ยอดเยี่ยม",
+      "name": "Seer",
+      "code": "th"
+    },
+    {
+      "description": "Kaptan Vor’un ödüllü Orokin-Grineer hibrit tabancası ortalama atış hızına sahiptir. Ancak yüksek hasar ve mükemmel yakınlaştırma özellikleri vardır.",
+      "name": "Seer",
+      "code": "tr"
+    },
+    {
+      "description": "Орокінсько-ґрінерський гібридний пістолет-трофей капітана Вора. Має середню швидкострільність, що компенсується значною шкодою та хорошими можливостями прицілювання.",
+      "name": "Провидець",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewLokaSyndicateOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/seed-sculpture-a28f6ead97.png",
+  "name": "Seed Sculpture",
+  "description": "A small icon of the New Loka to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine kleine Ikone der New Loka zum Platzieren in deinem Orbiter.",
+      "name": "Saat-Skulptur",
+      "code": "de"
+    },
+    {
+      "description": "Une petite icône du Nouveau Loka à placer dans votre Orbiteur.",
+      "name": "Sculpture de Graine",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola icona di New Loka da piazzare nell'Orbiter.",
+      "name": "Scultura Seed",
+      "code": "it"
+    },
+    {
+      "description": "뉴로카를 상징하는 작은 상징으로 오비터에 설치할 수 있습니다.",
+      "name": "시드 조각상",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño icono de Nuevo Loka para colocar en tu orbitador.",
+      "name": "Escultura de semilla",
+      "code": "es"
+    },
+    {
+      "description": "一小座可放置于飞船内的新世间标志。",
+      "name": "种子雕塑",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшое украшение Новой Локи, которое можно разместить на Орбитере.",
+      "name": "Скульптура - Семя",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能なニュー・ロカの小さな像。",
+      "name": "種子の彫像",
+      "code": "ja"
+    },
+    {
+      "description": "Mała ikona Nowej Loki do postawienia w Twoim Statku.",
+      "name": "Rzeźba Ziarna",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta do Neoloka para colocar na sua Orbital.",
+      "name": "Escultura: Seed",
+      "code": "pt"
+    },
+    {
+      "description": "一小座可放置於飛船內的新世間標誌。",
+      "name": "種子雕塑",
+      "code": "tc"
+    },
+    {
+      "description": "ไอคอนขนาดเล็กของ New Loka เพื่อเอาไปวางไว้ในออร์บิเตอร์ของคุณ",
+      "name": "ประติมากรรม Seed",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen küçük bir New Loka simgesi.",
+      "name": "Tohum Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий символ синдикату «Нова Лока».",
+      "name": "Скульптура «Зерно»",
+      "code": "uk"
+    }
+  ]
+}

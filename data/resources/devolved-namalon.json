@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/devolved-namalon-8e85fb663c.png",
+  "name": "Devolved Namalon",
+  "description": "Retrieved from its Infested state, restored to worth and utility.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Aus seinem befallenen Zustand geholt, nun wieder von Wert und Nutzen.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Entwickeltes Namalon",
+      "code": "de"
+    },
+    {
+      "description": "Ramené de son état Infesté, restauré à sa valeur et avec son utilité.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Namalon Dévolu",
+      "code": "fr"
+    },
+    {
+      "description": "Recuperata dal suo stato Infested, è stata ripristinata per darle valore e utilità.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Namalon Lavorato",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 상태에서 회복시켜 가치와 유용성을 띠는 물질로 복원했습니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "디볼브드 나말론",
+      "code": "ko"
+    },
+    {
+      "description": "Recuperada de su estado infestado, con valor y utilidad restaurados.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Namalon procesado",
+      "code": "es"
+    },
+    {
+      "description": "从它的感染状态回收，以恢复其价值和功用。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "粗加工纳莫石",
+      "code": "zh"
+    },
+    {
+      "description": "Извлечено из заражённых масс, переделано в ценности и полезности.\n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Сыпучий намалон",
+      "code": "ru"
+    },
+    {
+      "description": "感染状態から巻き戻され、価値と実用性を取り戻した物質。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "退化ナマロン",
+      "code": "ja"
+    },
+    {
+      "description": "Odzyskany z formy Plagi, przywrócony do wartości i użyteczności.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Obrobiony Namalon",
+      "code": "pl"
+    },
+    {
+      "description": "Extraído em seu estado infestado e restaurado para aprimorar sua utilidade e valor.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Námalo Degenerado",
+      "code": "pt"
+    },
+    {
+      "description": "從其 Infested 的狀態中取出並恢復價值及用途。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "退化擬模礦",
+      "code": "tc"
+    },
+    {
+      "description": "ได้รับการฟื้นฟูจากสภาพที่ติดเชื้อ กลับคืนไปเป็นแร่ที่มีมูลค่าและมีประโยชน์\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "นามาลอนที่เปลี่ยนสภาพแล้ว",
+      "code": "th"
+    },
+    {
+      "description": "Infested halinden kurtarılıp tekrardan değerli hale getirildi.\n\nKalıbı Deimos'ta yer alan Necralisk'teki Otak'tan satın alınabilir.",
+      "name": "Devolved Namalon",
+      "code": "tr"
+    },
+    {
+      "description": "Цінність і корисність відновлена після очищення від зараження.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
+      "name": "Обернений намалон",
+      "code": "uk"
+    }
+  ]
+}

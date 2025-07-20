@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/varida-sleeves-4851e9019e.png",
+  "name": "Varida Sleeves",
+  "description": "Sleeves for an Operator outfit.",
+  "languages": [
+    {
+      "description": "Die Ärmel eines Operator-Outfits.",
+      "name": "Ärmel: Varida",
+      "code": "de"
+    },
+    {
+      "description": "Les Manches pour une tenue d'Opérateur.",
+      "name": "Manches Varida",
+      "code": "fr"
+    },
+    {
+      "description": "Maniche per l'abbigliamento di un Operatore.",
+      "name": "Maniche Varida",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터 의상의 소매 부분입니다.",
+      "name": "바리다 슬리브",
+      "code": "ko"
+    },
+    {
+      "description": "Las mangas del atuendo de un operador.",
+      "name": "Mangas Varida",
+      "code": "es"
+    },
+    {
+      "description": "指挥官套装的袖件。",
+      "name": "瓦里达袖件",
+      "code": "zh"
+    },
+    {
+      "description": "Нарукавники оператора.",
+      "name": "Рукава: Варида",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター衣装のスリーブ。",
+      "name": "Varida スリーブ",
+      "code": "ja"
+    },
+    {
+      "description": "Rękawice do stroju Operatora.",
+      "name": "Rękawice Varida",
+      "code": "pl"
+    },
+    {
+      "description": "As mangas de um traje de operador.",
+      "name": "Mangas Varida",
+      "code": "pt"
+    },
+    {
+      "description": "指揮官套裝的袖件。",
+      "name": "瓦瑞達袖件",
+      "code": "tc"
+    },
+    {
+      "description": "แขนเสื้อสำหรับเครื่องแต่งกายของโอเปอเรเตอร์",
+      "name": "แขนเสื้อ Varida",
+      "code": "th"
+    },
+    {
+      "description": "Operatör kostümü için kollar",
+      "name": "Varida Kollar",
+      "code": "tr"
+    },
+    {
+      "description": "Рукави для вбрання оператора.",
+      "name": "Рукави «Варида»",
+      "code": "uk"
+    }
+  ]
+}

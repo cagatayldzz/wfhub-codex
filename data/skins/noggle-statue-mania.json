@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AcolyteRogueBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---mania-c542510204.png",
+  "name": "Noggle Statue - Mania",
+  "description": "A small wobbly statue of Stalker's Acolyte, Mania.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur vom Akolythen des Stalkers, Wahn.",
+      "name": "Noggle-Statue: Wahn",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Folie, un des disciples du Stalker.",
+      "name": "Statuette Noggle - Folie",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del discepolo dello Stalker, Mania, con la testa tremolante.",
+      "name": "Statuetta Noggle - Mania",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트, 매니아의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 매니아",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de uno de los discípulos de Stalker, Manía.",
+      "name": "Estatua Tambaleante - Manía",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者追随者躁狂摇头娃娃",
+      "name": "躁狂摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка последователя Сталкера, Мании.",
+      "name": "Фигурка: Мания",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの従者のボブルヘッド人形、Mania。",
+      "name": "Mania ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka akolity Stalkera: Mania.",
+      "name": "Figurka Noggle — Mania",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um discípulo do Stalker, Paranoia.",
+      "name": "Estatueta: Paranoia",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的追隨者－躁狂的搖頭娃娃。",
+      "name": "躁狂搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของผู้ช่วยเหลือ Stalker - Mania",
+      "name": "รูปปั้น Noggle - Mania",
+      "code": "th"
+    },
+    {
+      "description": "Stalker Acolyte, Mania küçük oynar figür.",
+      "name": "Noggle Heykeli - Mania",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка прибічника Сталкера на ім’я Манія.",
+      "name": "Ноґл «Манія»",
+      "code": "uk"
+    }
+  ]
+}

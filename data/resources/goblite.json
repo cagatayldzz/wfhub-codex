@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/goblite-57f20e67ee.png",
+  "name": "Goblite",
+  "description": "A strange crystal that grows inside the veins of extracted ore.\n\nLocation: Orb Vallis (Venus) from Blue Mining Veins",
+  "languages": [
+    {
+      "description": "Ein seltsamer Kristall, der in ausgebeuteten Erzadern wächst.\n\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern.",
+      "name": "Goblite",
+      "code": "de"
+    },
+    {
+      "description": "Un étrange cristal qui se forme à l'intérieur des veines du minerai extrait.\n\nLieu: Vallée Orbis (Vénus) via les Veines bleues",
+      "name": "Goblite",
+      "code": "fr"
+    },
+    {
+      "description": "Uno strano cristallo che cresce nelle venature di minerali estratti.\n\nPosizione: Venature Minerarie Blu sulle rocce di Orb Vallis (Venere)",
+      "name": "Goblite",
+      "code": "it"
+    },
+    {
+      "description": "추출된 광석의 정맥 안에서 자라는 이상한 결정체입니다.\n\n획득 가능 장소: 오브 협곡 (금성) 내 파란 광맥에서 찾을 수 있습니다.",
+      "name": "고블라이트",
+      "code": "ko"
+    },
+    {
+      "description": "Un extraño cristal que crece en las vetas de mineral extraído.\n\nUbicación: Valles del Orbe (Venus), en las vetas mineras azules",
+      "name": "Goblita",
+      "code": "es"
+    },
+    {
+      "description": "一种不可思议的宝石，生长在采出矿石的岩脉中。\n\n获取地点：奥布山谷（金星）里的蓝色矿脉",
+      "name": "填充细石",
+      "code": "zh"
+    },
+    {
+      "description": "Странный кристалл, образующийся внутри жил добытой руды.\n\nМесто нахождения: месторождения голубой руды Долины Сфер на Венере.",
+      "name": "Гоблит",
+      "code": "ru"
+    },
+    {
+      "description": "採掘鉱石の鉱脈中に成長する奇妙な結晶。 \n\n場所：オーブ峡谷（金星）の青い鉱脈、地形上の素材コンテナ",
+      "name": "ゴブライト",
+      "code": "ja"
+    },
+    {
+      "description": "Dziwny kryształ, który rośnie w żyłach wydobywanej rudy.\n\nPołożenie: Złoża niebieskiej rudy w Orb Vallis na Wenus.",
+      "name": "Goblyt",
+      "code": "pl"
+    },
+    {
+      "description": "Um cristal insólito que cresce nos depósitos de minérios extraídos.\n\nLocalização: em Veias de Mineração Azuis no Vallis das Orbes, em Vênus.",
+      "name": "Goblite",
+      "code": "pt"
+    },
+    {
+      "description": "一種不可思議的寶石，生長在採出礦石的岩脈中。\n\n來源：奧布山谷（金星）上的藍色礦脈以及資源儲存容器。",
+      "name": "填充細石",
+      "code": "tc"
+    },
+    {
+      "description": "ผลึกประหลาดที่งอกอยู่ภายในสายแร่ของแร่ที่สกัดออกมา\n\nแหล่งที่พบ: พบได้จากสายแร่สีน้ำเงินในออร์บวัลลิส (ดาวศุกร์)",
+      "name": "กอบไลต์",
+      "code": "th"
+    },
+    {
+      "description": "Çıkarılan cevherlerin damarlarında büyüyen garip bir kristal.\n\nKonum: Venüş'te yer alan Orb Vallis'teki Mavi Maden Damarlarından bulunabilir.",
+      "name": "Goblite",
+      "code": "tr"
+    },
+    {
+      "description": "Дивний кристал, який росте в жилах, де видобули всю руду.\n\nМожна здобути з синіх жил у Долині Куль (Венера).",
+      "name": "Ґобліт",
+      "code": "uk"
+    }
+  ]
+}

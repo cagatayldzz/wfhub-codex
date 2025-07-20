@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/medical-debt-bond-6d3fe7a692.png",
+  "name": "Medical Debt-Bond",
+  "description": "To get work you need mods. Then you need more work to pay for the mods, so you get more mods. And here we are.\n\nObtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Um zu arbeiten, braucht man Anpassungen. Um die Anpassungen abzuzahlen, muss man also mehr arbeiten, was wieder zu neuen Anpassungen führt. Und dies ist das Resultat.\n\nQuelle: Aus Aufträgen im Orbis-Tal auf der Venus oder kann von Ticker in Fortuna auf der Venus gekauft werden.",
+      "name": "SCHULDSCHEIN: MEDIZIN",
+      "code": "de"
+    },
+    {
+      "description": "Pour trouver du travail, ça prend des améliorations. Puis il faut encore plus de travail pour payer les améliorations, donc ça t'en prend plus. Et voilà comment on en est arrivé là.\n\nLieu: Mises à Prix dans la Vallée Orbis (Vénus), ou achat auprès de Ticker à Fortuna (Vénus).",
+      "name": "OBLIGATIONS DE DETTES MÉDICALES",
+      "code": "fr"
+    },
+    {
+      "description": "Per lavorare hai bisogno di mod. Per pagare i mod hai bisogno di lavorare di più, e quindi hai bisogno di più mod. E il ciclo si ripete.\n\nPosizione: Taglie su Orb Vallis (Venere), acquistato da Ticker a Fortuna (Venere).",
+      "name": "OBBLIGAZIONI MEDICHE",
+      "code": "it"
+    },
+    {
+      "description": "일을 하려면 개조가 필요합니다. 그리고 그 개조 비용을 지급하기 위해 더 많은 일을 해야 하죠, 그래야 더 많은 개조를 할 수 있으니까요. 그리곤 이 꼴이네요.\n\n오브 협곡 (금성) 의 의뢰를 통해 얻거나, 포르투나 (금성) 의 티커에게서 구매할 수 있습니다.",
+      "name": "의료 차용증서",
+      "code": "ko"
+    },
+    {
+      "description": "Para tener trabajo necesitas mejoras. Entonces necesitas trabajar más para pagar por las mejoras, para que así puedas tener más mejoras. Y bueno, aquí estamos.\n\nSe obtienen en los contratos de los Valles del Orbe (Venus), o se compran con Ticker en Fortuna (Venus).",
+      "name": "BONO DE DEUDA MÉDICA",
+      "code": "es"
+    },
+    {
+      "description": "要有更多工作，你需要改装。然后你需要更多的工作来支付改装，这样你才能得到更多的改装。所以我们现在才会这样。\n\n可从奥布山谷（金星）赏金中获得、或从福尔图娜（金星）Ticker 处购得",
+      "name": "医疗债务债券",
+      "code": "zh"
+    },
+    {
+      "description": "Чтобы начать работу, вам нужны моды. Затем вам нужна ещё работа, чтобы заплатить за моды, поэтому вы получаете ещё больше модов.\n\nМожно получить, выполняя задания в Долине сфер (Венера) или купить у Тикер в Фортуне (Венера).",
+      "name": "ДОЛГОВАЯ ОБЛИГАЦИЯ: МЕДИЦИНСКАЯ",
+      "code": "ru"
+    },
+    {
+      "description": "仕事を得るには、改造する必要がある。改造代金を支払うためにさらに仕事が必要なので、さらに改造が必要になる。その末路がこれだ。\n\nオーブ峡谷（金星）の依頼報酬として入手するか、フォーチュナー（金星）のTickerから購入する。",
+      "name": "医療型借用証",
+      "code": "ja"
+    },
+    {
+      "description": "Aby dostać pracę, potrzebujesz modyfikacji. Następnie potrzebujesz więcej pracy, aby zapłacić za modyfikacje, więc otrzymujesz więcej modyfikacji. I oto mamy efekt.\n\nPołożenie: Zlecenia w Orb Vallis lub sklep Ticker w Fortunie na Wenus.",
+      "name": "DŁUG WIĄŻĄCY: MEDYCZNY",
+      "code": "pl"
+    },
+    {
+      "description": "Para conseguir trabalho, é necessário ter modificações. Então, é preciso mais trabalho para pagar pelas modificações, para assim obter ainda mais modificações. Um ciclo sem fim.\n\nLocalização: Contratos no Vallis das Orbes ou junto à Ticker, em Fortuna, ambos em Vênus.",
+      "name": "TÍTULO-DÍVIDA: VIDA",
+      "code": "pt"
+    },
+    {
+      "description": "想要有更多工作前，你得需要改裝零件。 然後，你需要更多的工作來支付改裝零件，如此一來你才能得到更多改裝的零件。 所以我們現在才會這樣。\n\n來源：奧布山谷（金星）裡的賞金任務或者透過福爾圖娜（金星）裡的 Ticker 購得。",
+      "name": "醫療債務債券",
+      "code": "tc"
+    },
+    {
+      "description": "ในการทำงานคุณต้องมีการปรับเปลี่ยน จากนั้นก็ต้องทำงานมากขึ้นเพื่อจ่ายค่าดัดแปลง เพื่อจะได้ปรับเปลี่ยนได้มากขึ้น วนไป\n\nรับได้จากภารกิจล่ารางวัลในออร์บวัลลิส (ดาวศุกร์) หรือซื้อจาก Ticker ในฟอร์ทูนา (ดาวศุกร์)",
+      "name": "ตราสารหนี้ทางการแพทย์",
+      "code": "th"
+    },
+    {
+      "description": "İş almak için modlara ihtiyacın olur. Sonra bunları ödemek için daha fazla iş alman gerekir, ki böylece daha fazla mod alabilesin. Kısır bir döngü.\n\nOrb Vallis'teki (Venüs) Bounty Görevlerinden elde edilebilir veya Fortuna'daki (Venüs) Ticker'dan satın alınabilir.",
+      "name": "SAĞLIK BORÇ SENEDİ",
+      "code": "tr"
+    },
+    {
+      "description": "Щоби працювати, потрібно вдосконалюватися модифікаціями. Тоді можна працювати більше й заробити на ліпші модифікації. Щоби працювати більше й заробити ще ліпші модифікації.\n\nМожна здобути за контракти в Долині Куль (Венера) або придбати у Тікер у Фортуні (Венера).",
+      "name": "БОРГОВЕ ЗОБОВ’ЯЗАННЯ НА МЕДИЦИНУ",
+      "code": "uk"
+    }
+  ]
+}

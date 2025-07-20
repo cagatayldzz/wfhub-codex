@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Login650Glyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spectral-tide-glyph-03663de7d2.png",
+  "name": "Spectral Tide Glyph",
+  "description": "A symbol of the energy that ebbs and flows through all Tenno.",
+  "languages": [
+    {
+      "description": "Ein Symbol jener Energie, die durch alle Tenno fließt.",
+      "name": "Glyphe: Spektrale Flut",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole de l'Énergie fluctuante parcourant tous les Tennos.",
+      "name": "Glyphe Vague Spectrale",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo dell'energia che fluisce e scorre attraverso tutti i Tenno.",
+      "name": "Glifo Spectral Tide",
+      "code": "it"
+    },
+    {
+      "description": "모든 텐노의 안에서 밀물과 썰물처럼 파도치는 에너지를 상징하는 심볼입니다.",
+      "name": "스펙트럴 타이드 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo de energía que fluye a través de todos los tenno.",
+      "name": "Glifo de Ola Espectral",
+      "code": "es"
+    },
+    {
+      "description": "象征着在所有 Tenno 体内潮汐起伏的能量。",
+      "name": "光谱浪潮浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Символ энергии, протекающей через всех Тэнно.",
+      "name": "Глиф: Призрачный Прилив",
+      "code": "ru"
+    },
+    {
+      "description": "すべてのテンノに満ち引きするエネルギーのシンボル。",
+      "name": "Spectral Tide グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol energii, która wzbiera się i cofa w każdym z Tenno.",
+      "name": "Glif Spektralnej Fali",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da Energia que flui em todos os Tennos.",
+      "name": "Glifo: Onda Espectral",
+      "code": "pt"
+    },
+    {
+      "description": "象徵著在所有 Tenno 體內潮汐起伏的能量。",
+      "name": "光譜浪潮浮印",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ของพลังงานที่ลดลงและไหลผ่าน Tenno ทั้งหมด",
+      "name": "ภาพสัญลักษณ์ Spectral Tide",
+      "code": "th"
+    },
+    {
+      "description": "Bütün Tennoların içinden akıp giden enerjinin sembolü.",
+      "name": "Spectral Tide Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Символ енергії, що протікає у всіх тенно.",
+      "name": "Гліф «Фантомний приплив»",
+      "code": "uk"
+    }
+  ]
+}

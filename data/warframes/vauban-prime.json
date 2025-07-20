@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Trapper/TrapperPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-prime-f9c539bdde.png",
+  "name": "Vauban Prime",
+  "description": "Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization.",
+  "armor": 210,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Verwandelt das Schlachtfeld in eine Waffe, mit diesem vergoldeten Taktiker. Bietet einzigartige Mod-Polaritäten für erweiterte Anpassungsmöglichkeiten.",
+      "name": "Vauban Prime",
+      "code": "de"
+    },
+    {
+      "description": "Transformez le champ de bataille en arme avec ce tacticien hors pair. Cette Warframe possède des polarités de Mods uniques pour une personnalisation poussée.",
+      "name": "Vauban Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Trasforma il campo di battaglia in un'arma con questo stratega dorato. Presenta polarità mod alterate per una maggiore personalizzazione.",
+      "name": "Vauban Prime",
+      "code": "it"
+    },
+    {
+      "description": "금빛으로 빛나는 이 전술가와 함께 전장 그 자체를 당신의 무기로 만들어 보세요. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함되어 있습니다.",
+      "name": "바우반 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Transforma el campo de batalla en un arma con este estratega de oro. Cuenta con polaridades de mod alteradas para una mejor personalización.",
+      "name": "Vauban Prime",
+      "code": "es"
+    },
+    {
+      "description": "使用这位镀金的战术大师来将战场转变成你的武器吧！该战甲拥有​​着特化过的 MOD 极性槽来提供更佳的自定可能性。",
+      "name": "Vauban Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Обратите поле битвы в оружие с помощью этого закованного в золото тактика. Имеет уникальные слоты полярности, позволяющие производить расширенную настройку модификаций.",
+      "name": "Вобан Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "黄金の戦術家は戦場を兵器へと転じさせる。MOD極性が追加されているため、より多彩なカスタマイズを施すことができる。",
+      "name": "Vauban Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Przekształć pole bitwy w swoją broń dzięki temu ozłoconemu taktykowi. Cechują go unikatowe polaryzacje dla większej personalizacji.",
+      "name": "Vauban Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Use o campo de batalha a seu favor com este guerreiro tático. Com polaridades de Mod exclusivas para maior personalização.",
+      "name": "Vauban Prime",
+      "code": "pt"
+    },
+    {
+      "description": "使用這位鍍金的戰術大師來將戰場轉變成你的武器吧！該戰甲擁有​​著特化過的 MOD 極性槽來提供更佳的自訂可能性。",
+      "name": "Vauban Prime",
+      "code": "tc"
+    },
+    {
+      "description": "นักวางกลยุทธ์ที่เคลือบไปด้วยทองผู้นี้จะเปลี่ยนสนามรบให้กลายเป็นอาวุธ มาพร้อมกับขั้ว Mod ที่ไม่เหมือนใครเพื่อใช้ในการปรับแต่งเพิ่มเติม",
+      "name": "Vauban Prime",
+      "code": "th"
+    },
+    {
+      "description": "Savaş alanını kendi silahınız olarak kullanın. Özel Mod Kutupları ve ekstra özelleştirmeler içerir.",
+      "name": "Vauban Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Позолочений тактик, який перетворює поле бою на зброю. Має змінені полярності комірок модифікаторів задля гнучкості вдосконалення.",
+      "name": "Вобан-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidCamperItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/crisma-toroid-8fe557490c.png",
+  "name": "Crisma Toroid",
+  "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Crisma Toroids by defeating the Profit-Taker Orb on the Orb Vallis (Venus).",
+  "languages": [
+    {
+      "description": "Ein Gerät von unbestimmter Funktion und Herkunft. Wird von den Vox Solaris und den Quill geschätzt.\n\nErhalte Crisma-Toroide, indem du den Profiteintreiber im Orbis-Tal (Venus) besiegst.",
+      "name": "Crisma-Toroid",
+      "code": "de"
+    },
+    {
+      "description": "Un appareil dont la fonction et l'origine sont indéterminées. Décerné par Vox Solaris et les Plumes.\n\nGagnez des Tores Crismas en battant l'Orbis Preneur de Profit dans la Vallée Orbis (Vénus).",
+      "name": "Tore Crisma",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo con funzione e origine indeterminate. Apprezzato da Vox Solaris e Quill.\n\nPuoi ottenere i Toroidi Crisma sconfiggendo il Profit-Taker Orb su Orb Vallis (Venere).",
+      "name": "Toroide Crisma",
+      "code": "it"
+    },
+    {
+      "description": "복스 솔라리스 및 퀼들이 선망하는 기능 및 기원이 불분명한 장치입니다. \n\n크리스마 토로이드는 금성의 오브 협곡에서 프로핏-테이커 오브를 처치하여 획득할 수 있습니다.",
+      "name": "크리스마 토로이드",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo de función y origen indeterminado. Valorado por Vox Solaris y los Raquis.\n\nGana toroides Crisma al derrotar al Orbe Robaganancias en los Valles del Orbe (Venus).",
+      "name": "Toroide Crisma",
+      "code": "es"
+    },
+    {
+      "description": "一种功能和来源未定的装置。受到索拉里斯之声和夜羽的高度珍视。\n\n通过击败金星奥布山谷的利润收割者圆蛛来获取圣油环型装置。",
+      "name": "圣油环型装置",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство неустановленного происхождения и назначения. Ценится Гласом Солярис и перьями.\n\nСобирайте Тороиды Крисма, одерживая победу над Сферой Извлечения Прибыли в Долине Сфер (Венера).",
+      "name": "Тороид: Крисма",
+      "code": "ru"
+    },
+    {
+      "description": "機能と起源が不明な装置。Vox Solarisとクイル達に珍重されている。\n\nクリズマ トロイドはオーブ峡谷（金星）のプロフィット・テイカー オーブを倒す事で入手可能。",
+      "name": "クリズマ トロイド",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie o nieokreślonej funkcji i pochodzeniu. Cenione przez Vox Solaris i Quillów.\n\nToroidy Crisma mogą zostać zdobyte po pokonaniu Zyskobiorczyni w Orb Vallis na Wenus.",
+      "name": "Toroid Crisma",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo de origem e funções indeterminadas. Valorizado pelo Vox Solaris e pelos Plumas.\n\nObtenha Toróides Crisma ao derrotar a Orbe Beneficiária no Vallis das Orbes, em Vênus.",
+      "name": "Toróide Crisma",
+      "code": "pt"
+    },
+    {
+      "description": "一種功能及起源未知的裝置。索拉里斯之聲以及夜羽對其極度重視。\n\n聖油環型裝置可在金星的奧布山谷裡透過擊敗利潤收割者圓蛛獲得。",
+      "name": "聖油環型裝置",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ที่ไม่ทราบฟังก์ชันและที่มา เป็นของรางวัลจาก Vox Solaris และ Quills\n\nรับคริสมาโทรอยด์ได้จากการเอาชนะ Profit-Taker Orb ในออร์บวัลลิส (ดาวศุกร์)",
+      "name": "คริสมาโทรอยด์",
+      "code": "th"
+    },
+    {
+      "description": "İşlevi ve kaynağı belirlenemeyen bir cihaz. Vox Solaris ve Quills tarafından ödüllendirilmiştir.\n\nOrb Vallis'teki (Venüs) Profit-Taker Orb'u etkisiz hale getirerek Crisma Toroid'leri kazan.",
+      "name": "Crisma Toroid",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій невизначеного призначення й походження. Цінується Гласом солярійців і Писарями.\n\nТороїди «Кризма» можна заробити здоланням Привласнювачки у Долині Куль (Венера).",
+      "name": "Тороїд «Кризма»",
+      "code": "uk"
+    }
+  ]
+}

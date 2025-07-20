@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodDaxB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lark-bishamo-helmet-(operator)-3174869f69.png",
+  "name": "Lark Bishamo Helmet (Operator)",
+  "description": "Uphold the elite warrior tradition of Teshin and the Dax in the Bishamo Armor Set.",
+  "languages": [
+    {
+      "description": "Halte die Tradition von Elite-Kriegern wie Teshin und den Dax aufrecht, mit dem Rüstungsset: Bishamo.",
+      "name": "Helm: Bishamo Lerche (Operator)",
+      "code": "de"
+    },
+    {
+      "description": "Maintenez la tradition des guerriers d'élite de Teshin et des Dax avec l'Armure Bishamo.",
+      "name": "Casque Alouette Bishamo (Opérateur)",
+      "code": "fr"
+    },
+    {
+      "description": "Mantieni la tradizione dei guerrieri d'élite di Teshin e dei Dax con il Set Armatura Bishamo.",
+      "name": "Elmo Bishamo Lark (Operatore)",
+      "code": "it"
+    },
+    {
+      "description": "비샤모 아머 세트로 테신이 가르치는 정예 전사와 닥스의 전통을 이어가세요.",
+      "name": "라크 비샤모 헬멧 (오퍼레이터)",
+      "code": "ko"
+    },
+    {
+      "description": "Defiende la tradición de los guerreros de élite como Teshin y los Dax con el conjunto de armadura Bishamo.",
+      "name": "Casco Alondra Bishamo (operador)",
+      "code": "es"
+    },
+    {
+      "description": "身披军神护甲套装来秉承 Teshin 和禁卫精锐的传统。",
+      "name": "雀之军神头盔（指挥官）",
+      "code": "zh"
+    },
+    {
+      "description": "Поддержите элитные традиции Тешина и даксов с набором брони «Бишамо».",
+      "name": "Шлем: Бишамо Жаворонок (оператор)",
+      "code": "ru"
+    },
+    {
+      "description": "Bishamoアーマーセットで精鋭の戦士TeshinとDaxの伝統を引き継ごう。",
+      "name": "Lark Bishamo ヘルメット（オペレーター）",
+      "code": "ja"
+    },
+    {
+      "description": "Przywdziej Zestaw Pancerza Bishamo i kontynuuj tradycję elitarnych wojowników zapoczątkowaną przez Teshina i Daksów.",
+      "name": "Hełm: Bishamo Lark (Operator)",
+      "code": "pl"
+    },
+    {
+      "description": "Defenda a tradição guerreira de elite do Teshin e dos Dax com o Conjunto de Armaduras Bishamo.",
+      "name": "Capacete Bishamo Cotovia (Operador)",
+      "code": "pt"
+    },
+    {
+      "description": "裝備毘沙摩護甲套裝以秉承 Teshin 及禁衛的精英戰士傳統。",
+      "name": "雲雀毘沙摩頭盔（指揮官）",
+      "code": "tc"
+    },
+    {
+      "description": "สวมชุดเกราะ Bishamo เพื่อรักษาประเพณีของยอดนักรบ Teshin และ Dax ให้คงสืบไป",
+      "name": "หมวกเหล็ก Lark Bishamo (โอเปอเรเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Bishamo Zırh Seti ile Teshin ve Dax'ın elit savaşçı geleneğini sürdür.",
+      "name": "Lark Bishamo Miğferi (Operatör)",
+      "code": "tr"
+    },
+    {
+      "description": "Демонструйте відданість традиціям добірного воїнства Тешина й даксів, одягнувши обладунок «Бішамо „Жайворонок“».",
+      "name": "Шолом «Бішамо ­„Жайворонок“» (мандрівник)",
+      "code": "uk"
+    }
+  ]
+}

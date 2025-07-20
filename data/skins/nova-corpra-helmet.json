@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWCorpraHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-corpra-helmet-5db3940cc9.png",
+  "name": "Nova Corpra Helmet",
+  "description": "A helmet for the Nova Warframe, designed by FrellingHazmot.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Nova Warframe, entworfen von FrellingHazmot.",
+      "name": "Nova-Helm: Corpra",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nova, conçu par FrellingHazmot.",
+      "name": "Casque Nova Corpra",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nova, ideato da FrellingHazmot.",
+      "name": "Elmo Nova Corpra",
+      "code": "it"
+    },
+    {
+      "description": "FrellingHazmot에 의해 디자인된 노바 워프레임을 위한 헬멧입니다.",
+      "name": "노바 코프라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nova, diseñado por FrellingHazmot.",
+      "name": "Casco Corpra de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 战甲的头盔，由 FrellingHazmot 设计。",
+      "name": "Nova C之船员头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Нова, созданный FrellingHazmot.",
+      "name": "Шлем Новы: Корпра",
+      "code": "ru"
+    },
+    {
+      "description": "Nova用のヘルメット。製作者：FrellingHazmot。",
+      "name": "Nova Corpra ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Nova, zaprojektowany przez FrellingHazmot.",
+      "name": "Nova: Hełm Corpra",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete exclusivo para o Warframe Nova, desenvolvido por FrellingHazmot.",
+      "name": "Nova: Capacete Corpra",
+      "code": "pt"
+    },
+    {
+      "description": "Nekros Warframe 的外觀，由 Yatus 設計。",
+      "name": "Nova C之船員頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nova Warframe ออกแบบโดย FrellingHazmot",
+      "name": "หมวกเหล็ก Nova Corpra",
+      "code": "th"
+    },
+    {
+      "description": "FrellingHazmot tarafından dizayn edilen, bir Nova Warframe miğferi.",
+      "name": "Nova Corpra Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Нови, створений FrellingHazmot.",
+      "name": "Шолом «Корпра» для Нови",
+      "code": "uk"
+    }
+  ]
+}

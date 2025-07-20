@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnFlameSpear/GrnFlameSpear",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/javlok-d5d80c28db.png",
+  "name": "Javlok",
+  "description": "Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno.",
+  "languages": [
+    {
+      "description": "Verschieße extrem heiße Kugeln auf einzelne Feinde oder werfe die gesamte Waffe und entzünde ganze Gruppen an Gegnern in einem Feuerinferno.",
+      "name": "Javlok",
+      "code": "de"
+    },
+    {
+      "description": "Tirez des munitions surchauffées sur un ennemi, ou lancez l'arme entière pour mettre le feu à un groupe d'ennemis dans un enfer éclair.",
+      "name": "Javlok",
+      "code": "fr"
+    },
+    {
+      "description": "Lancia proiettili surriscaldati a singoli nemici, o scaglia l'intera arma ed infiamma gruppi di nemici in una vampata infernale.",
+      "name": "Javlok",
+      "code": "it"
+    },
+    {
+      "description": "단독 단위의 적에게 불꽃만큼 뜨거운 강타를 날리거나, 무기 자체를 휘둘러 여러 명의 적을 지옥과도 같은 불꽃으로 불태워 보세요.",
+      "name": "자블락",
+      "code": "ko"
+    },
+    {
+      "description": "Dispara tiros sobrecalentados a enemigos individuales o lanza el arma entera y enciende a grupos de enemigos en un destello infernal.",
+      "name": "Javlok",
+      "code": "es"
+    },
+    {
+      "description": "（英文：JAVLOK）对单个敌人发射极热的子弹。或者将整个武器掷出并在地狱火光中点燃成群的敌人。",
+      "name": "燃焰标枪",
+      "code": "zh"
+    },
+    {
+      "description": "Стреляйте раскаленными болванками в отдельных врагов, или же метните само оружие и подожгите группу врагов, устроив инферно из плоти и огня.",
+      "name": "Джавлок",
+      "code": "ru"
+    },
+    {
+      "description": "過熱状態のスラグ弾を敵に当てたり、武器自体を投げつけ敵集団を激しい炎で炎上させる。",
+      "name": "Javlok",
+      "code": "ja"
+    },
+    {
+      "description": "Wystrzel przegrzane pociski bezłuskowe w poszczególnych wrogów, lub rzuć bronią w grupę wrogów, wysyłając ich do ogniowego piekła.",
+      "name": "Javlok",
+      "code": "pl"
+    },
+    {
+      "description": "Lance projéteis superaquecidos em inimigos individuais ou arremesse a arma inteira e incendeie grupos de inimigos em um inferno instantâneo.",
+      "name": "Javlok",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：JAVLOK）對單個敵人發射極熱的子彈或者將整個武器擲出並在地獄火光中點燃成群的敵人。",
+      "name": "燃焰標槍",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงกระสุนความร้อนสูงใส่ศัตรูแต่ละตัว หรือขว้างอาวุธออกไปแล้วเผากลุ่มศัตรูให้ไหม้อยู่ในกองเพลิง",
+      "name": "Javlok",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlarınızı ister tek tek indirin istersenizde düşman gruplarını silahın tüm gücünü kullanarak tuzla buz edin!",
+      "name": "Javlok",
+      "code": "tr"
+    },
+    {
+      "description": "Списоподібна гвинтівка, що стріляє розжареними снарядами. Якщо її метнути, випускає справжній вир пекельного полум’я.",
+      "name": "Джавлок",
+      "code": "uk"
+    }
+  ]
+}

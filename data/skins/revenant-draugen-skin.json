@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWDraugenSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-draugen-skin-c2f3178a3a.png",
+  "name": "Revenant Draugen Skin",
+  "description": "A unique skin for the Revenant Warframe, designed by Goosmo.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Skin für den Revenant Warframe, entworfen von Goosmo.",
+      "name": "Revenant-Skin: Draugen",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect unique pour la Warframe Revenant, conçu par Goosmo.",
+      "name": "Aspect Revenant Draugen",
+      "code": "fr"
+    },
+    {
+      "description": "Una skin unica per il Warframe Revenant, ideata da Goosmo.",
+      "name": "Skin Revenant Draugen",
+      "code": "it"
+    },
+    {
+      "description": "Goosmo에 의해 디자인된 레버넌트 워프레임을 위한 독특한 스킨입니다.",
+      "name": "레버넌트 드라우겐 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño único para el warframe Revenant, diseñado por Goosmo.",
+      "name": "Diseño Draugen de Revenant",
+      "code": "es"
+    },
+    {
+      "description": "Revenant 战甲的独特外观，由 Goosmo 设计。",
+      "name": "Revenant 尸灵外观",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальный скин для варфрейма Ревенант, созданный Goosmo.",
+      "name": "Скин Ревенанта: Дроген",
+      "code": "ru"
+    },
+    {
+      "description": "Revenant用のスキン。製作者：Goosmo。",
+      "name": "Revenant Draugen スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowa skórka dla Warframe'a Revenant, zaprojektowana przez Goosmo.",
+      "name": "Revenant: Skórka Draugen",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin exclusiva para o Warframe Revenant, desenvolvida por Goosmo.",
+      "name": "Revenant: Skin Draugen",
+      "code": "pt"
+    },
+    {
+      "description": "Revenant Warframe 的獨特外觀，由 Goosmo 所設計。",
+      "name": "Revenant 屍鬼外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินสำหรับ Revenant Warframe ที่ไม่เหมือนใคร ออกแบบโดย Goosmo",
+      "name": "สกิน Revenant Draugen",
+      "code": "th"
+    },
+    {
+      "description": "Goosmo tarafından Revenant Warframe'i için dizayn edilmiş özel bir skin.",
+      "name": "Revenant Draugen Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний вигляд для ворфрейма Ревенанта, створений Goosmo.",
+      "name": "Вигляд «Драуґр» для Ревенанта",
+      "code": "uk"
+    }
+  ]
+}

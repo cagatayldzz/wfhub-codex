@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2019SimarisDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/display---tennocon-2019-sanctuary-showcase-aa3d532d09.png",
+  "name": "Display - Tennocon 2019 Sanctuary Showcase",
+  "description": "Awarded for unlocking final tier in the Sanctuary Showcase gameshow at TennoCon 2019.",
+  "languages": [
+    {
+      "description": "Vergeben für das Freischalten der letzten Stufe bei der Sanctuary Showcase Gameshow auf der TennoCon 2019.",
+      "name": "Display: TennoCon 2019 Sanctuary Showcase",
+      "code": "de"
+    },
+    {
+      "description": "Remis en récompense pour avoir atteint le dernier échelon du jeu 'Sanctuary Showcase' lors de la TennoCon 2019.",
+      "name": "Affiche - Sanctuary Showcase TennoCon 2019",
+      "code": "fr"
+    },
+    {
+      "description": "Il premio per aver sbloccato l'ultimo livello nel Sanctuary Showcase gameshow al TennoCon 2019.",
+      "name": "Display - Sanctuary Showcase TennoCon 2019",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2019 행사에서 생츄어리 쇼케이스의 마지막 티어를 해금할 시 수여됩니다.",
+      "name": "디스플레이 - 텐노콘 2019 생츄어리 쇼케이스",
+      "code": "ko"
+    },
+    {
+      "description": "Recompensado por desbloquear el ultimo rango en la exhibición de Sanctuary Showcase en TennoCon 2019.",
+      "name": "Mostrador - Exhibición del Santuario de TennoCon 2019",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些在 TennoCon 2019 中解锁圣殿展览最终等级的玩家。",
+      "name": "展示图－tennocon 2019 圣殿展览",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за разблокировку финального уровня игровой презентации Витрины Святилища на TennoCon 2019.",
+      "name": "Дисплей: TennoCon-2019: Витрина Святилища",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2019の「サンクチュアリ・ショーケース」ゲームショーで最終ティアーを解除すると贈与される景品。",
+      "name": "ディスプレイ - TennoCon 2019 「サンクチュアリ・ショーケース」",
+      "code": "ja"
+    },
+    {
+      "description": "Nagroda za osiągnięcie najwyższego poziomu podczas Pokazu Sanktuarium na TennoCon 2019.",
+      "name": "Wyświetlacz - TennoCon 2019 Pokaz Sanktuarium",
+      "code": "pl"
+    },
+    {
+      "description": "Oferecido como recompensa por alcançar a etapa final das competições do Santuário na TennoCon 2019",
+      "name": "Exibidor da Exposição do Santuário da TennoCon 2019",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給那些在 TennoCon 2019 中解鎖聖殿展覽最終等級的玩家。",
+      "name": "展示圖－TennoCon 2019 聖殿展覽",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการปลดล็อกระดับสุดท้ายในงานแสดงเกม Sanctuary Showcase ที่ TennoCon 2019",
+      "name": "ภาพดิสเพลย์ - TennoCon 2019 Sanctuary Showcase",
+      "code": "th"
+    },
+    {
+      "description": "Tennocon 2019'daki Sanctuary Showcase Gameshow'un son bölümünü açanlar için verilen ödül.",
+      "name": "Sergi - TennoCon 2019 Sanctuary Showcase",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто розблокував останній рівень вітрини Заповідника під час Теннокону 2019 року.",
+      "name": "Дисплей «Вітрина Заповідника з „Теннокон 2019“»",
+      "code": "uk"
+    }
+  ]
+}

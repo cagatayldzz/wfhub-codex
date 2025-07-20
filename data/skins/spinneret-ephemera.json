@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/WebEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spinneret-ephemera-aef3a663eb.png",
+  "name": "Spinneret Ephemera",
+  "description": "A rogue slinks, along a line\nDeadly patience its tactic\nIn sparkling moonlight eyes shine\nRuthless, skulking arachnid",
+  "languages": [
+    {
+      "description": "Ein Schurke schleicht, entlang am Faden,\ngeduldig, taktische und perfide,\ndie Augen funkeln, wie sie im Mondlicht baden,\nund gnadenlos nähert sich die Arachnide.",
+      "name": "Ephemera: Spinnendrüse",
+      "code": "de"
+    },
+    {
+      "description": "Un escarpe guette, au bout de sa ligne\nTout n'est que patience, tactique maligne.\nSes yeux étincellent, car la nuit est claire,\nVil aranéide, toile funéraire.",
+      "name": "Ephemera Spinneret",
+      "code": "fr"
+    },
+    {
+      "description": "Una canaglia sgattaiola seguendo una linea\nLa pazienza mortale è tattica\nUno sguardo che brilla alla luce della luna\nUn aracnide spietato e furtivo",
+      "name": "Ephemera Spinneret",
+      "code": "it"
+    },
+    {
+      "description": "불한당이 살금살금, 줄을 따라 움직인다\n지독하게 기다리는 참을성이 나의 무기\n반짝반짝 달빛 속에 여덟 눈은 번득이고\n자비 없이 숨어드는, 여덟 다리 덫사냥꾼",
+      "name": "스피네렛 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un bribón se escabulle, siguiendo una línea\nPaciencia mortal su táctica es\nMirada que brilla a la luz de la luna\nAl arácnido despiadado acechando le ves",
+      "name": "Efímero Hilera",
+      "code": "es"
+    },
+    {
+      "description": "离群恶棍线上渡\n夺命只需耐心足\n晶莹眼眸月光下\n网上蛛影祟祟伏",
+      "name": "盘丝幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Безжалостный жулик крадётся по нити\nТактически выверен горький исход\nВ глаза перед смертью его загляните\nЛуны отражение вас не спасёт",
+      "name": "Эфемера: Прядильщик",
+      "code": "ru"
+    },
+    {
+      "description": "待ち忍ぶ\n殺気抑えて\n獲物待つ\n月夜が隠す\n貼り巡る糸",
+      "name": "Spinneret エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Łotr przemyka się wzdłuż nici\nŚmiertelna cierpliwość jego domeną\nOczy błyszczą w świetle księżyca\nSkrada się bezlitosny pajęczak",
+      "name": "Efemera Spinneret",
+      "code": "pl"
+    },
+    {
+      "description": "Um maroto que se esgueira ao longo de sua teia\nPaciência mortal é a sua tática talentosa\nCom um olhar que brilha com o luar cintilante\nO aracnídeo sorrateiro executa o ataque impiedosamente",
+      "name": "Efêmera: Fieira",
+      "code": "pt"
+    },
+    {
+      "description": "潛遁惡徒沿線巡\n波粼月映複目明\n致命沈著帷幄間\n殘酷蜘蛛鬼祟行",
+      "name": "絲囊幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อันธพาลเดินหลีกไปตามสาย\nความอดทนสุดขีดคือกลอุบาย\nในแสงจันทร์ที่แพรวพราย นัยน์เนตรส่องรัศมี\nแมงมุมแอบซ่อน ไร้ความปราณี",
+      "name": "อิเฟมเมอรา Spinneret",
+      "code": "th"
+    },
+    {
+      "description": "Bir haydut saklanıyor, bir hat üzerinde\nÖlümcül sabırdır taktiği\nParıldayan ay ışığı gözlerinde\nAcımasız, sinsi örümcek",
+      "name": "Spinneret Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Кого скрадає оманлива тінь?\nТерпляче хто плете волосінь?\nМиготіння чиїх лякає очей?\nПавука, отрута чия пече.",
+      "name": "Ефемера «Павутинка»",
+      "code": "uk"
+    }
+  ]
+}

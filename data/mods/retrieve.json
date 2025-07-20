@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowLootPrecept",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/retrieve-b74b229ef5.jpg",
+  "name": "Retrieve",
+  "languages": [
+    {
+      "name": "Bring",
+      "code": "de"
+    },
+    {
+      "name": "Flair",
+      "code": "fr"
+    },
+    {
+      "name": "Retrieve",
+      "code": "it"
+    },
+    {
+      "name": "리트리브",
+      "code": "ko"
+    },
+    {
+      "name": "Recuperar",
+      "code": "es"
+    },
+    {
+      "name": "嗅索取物",
+      "code": "zh"
+    },
+    {
+      "name": "Сбор трофеев",
+      "code": "ru"
+    },
+    {
+      "name": "Retrieve",
+      "code": "ja"
+    },
+    {
+      "name": "Szukaj",
+      "code": "pl"
+    },
+    {
+      "name": "Retrieve",
+      "code": "pt"
+    },
+    {
+      "name": "嗅索取物",
+      "code": "tc"
+    },
+    {
+      "name": "Retrieve",
+      "code": "th"
+    },
+    {
+      "name": "Retrieve",
+      "code": "tr"
+    },
+    {
+      "name": "Пошук",
+      "code": "uk"
+    }
+  ]
+}

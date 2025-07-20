@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLokiDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loki-glyph---dark-8d60899038.png",
+  "name": "Loki Glyph - Dark",
+  "description": "A glyph depicting Loki on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Loki vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Loki (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Loki sur un fond sombre.",
+      "name": "Glyphe Loki - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Loki su uno sfondo scuro.",
+      "name": "Glifo Loki - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 로키를 묘사한 글리프입니다.",
+      "name": "로키 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Loki sobre un fondo oscuro.",
+      "name": "Glifo de Loki - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Loki 在黑暗背景下的浮印。",
+      "name": "Loki 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Локи на тёмном фоне.",
+      "name": "Глиф: Локи - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Loki のグリフ。",
+      "name": "Loki グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Loki na ciemnym tle.",
+      "name": "Glif Loki — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Loki em um fundo escuro.",
+      "name": "Glifo: Loki (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Loki 在黑暗背景下的浮印。",
+      "name": "Loki 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Loki บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Loki - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Loki koyu fonlu glif.",
+      "name": "Loki Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Локі на темному тлі.",
+      "name": "Темний гліф «Локі»",
+      "code": "uk"
+    }
+  ]
+}

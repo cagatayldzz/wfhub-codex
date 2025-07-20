@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Halloween/Halloween2024DagathBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagath-emblem-77b70c9e33.png",
+  "name": "Dagath Emblem",
+  "description": "An emblem worn in honor of the mirror that accuses.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das zu Ehren des anklagenden Spiegels getragen wird.",
+      "name": "Emblem: Dagath",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge porté en l'honneur du miroir qui accuse.",
+      "name": "Badge Dagath",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema indossato in onore dello specchio che accusa.",
+      "name": "Emblema Dagath",
+      "code": "it"
+    },
+    {
+      "description": "비난하는 거울을 기리기 위해 착용하는 엠블럼입니다.",
+      "name": "다가스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema usado en honor del espejo acusador.",
+      "name": "Emblema de Dagath",
+      "code": "es"
+    },
+    {
+      "description": "为纪念控诉之镜而佩戴的徽章。",
+      "name": "Dagath 徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Эмблема, носимая в честь зеркала, что обличает.",
+      "name": "Значок: Дагас",
+      "code": "ru"
+    },
+    {
+      "description": "「責め立てる鏡」を称えるエンブレム。",
+      "name": "Dagath エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat noszony na cześć lustra, które oskarża.",
+      "name": "Emblemat Dagath",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema usado em homenagem ao espelho acusador.",
+      "name": "Emblema: Dagath",
+      "code": "pt"
+    },
+    {
+      "description": "佩戴此徽章以致敬「譴責之鏡」。",
+      "name": "Dagath 徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่ใช้ติดเพื่อเป็นเกียรติแก่กระจกส่องความผิด",
+      "name": "ตราสัญลักษณ์: Dagath",
+      "code": "th"
+    },
+    {
+      "description": "Suçlayan aynanın şerefine takılan bir amblem.",
+      "name": "Dagath Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака на знак пошани дзеркала, що звинувачує.",
+      "name": "Відзнака «Даґат»",
+      "code": "uk"
+    }
+  ]
+}

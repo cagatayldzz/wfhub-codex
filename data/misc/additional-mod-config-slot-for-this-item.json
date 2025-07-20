@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/ModSlotUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/additional-mod-config-slot-for-this-item-7118038688.png",
+  "name": "Additional Mod Config Slot For This Item",
+  "description": "Unlocks an additional appearance config slot for this item, up to a maximum of 3 extra slots.",
+  "languages": [
+    {
+      "description": "Schaltet einen zusätzlichen optischen Konfigurations-Slot für diesen Gegenstand frei, maximal 3 extra Slots.",
+      "name": "zusätzlicher Mod Konfigurations-Slot für diesen Gegenstand",
+      "code": "de"
+    },
+    {
+      "description": "Débloque un emplacement de configuration d'apparence supplémentaire pour cet objet, jusqu'à un maximum de 3 emplacements supplémentaires.",
+      "name": "emplacement de configuration de Mods supplémentaire pour cet objet",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca uno slot personalizzazione aggiuntivo per questo oggetto, fino a un massimo di 3 slot extra.",
+      "name": "slot di configurazione mod aggiuntivo per questo oggetto",
+      "code": "it"
+    },
+    {
+      "description": "해당 아이템의 외형 슬롯을 최대 3개까지 추가로 잠금 해제합니다.",
+      "name": "이 아이템에 사용할 추가 모드 설정 슬롯",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una ranura de configuración de apariencia adicional para este componente, hasta un máximo de 3 ranuras adicionales.",
+      "name": "ranura adicional de configuración de mod para este componente",
+      "code": "es"
+    },
+    {
+      "description": "为这个物品解锁 1 个额外的外观配置槽位，最多 3 个额外槽位。",
+      "name": "为这件物品解锁额外的 MOD 配置槽位",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует дополнительный слот конфигурации внешнего вида. Максимум — до 3 дополнительных слотов.",
+      "name": "дополнительный слот конфигурации для этого предмета",
+      "code": "ru"
+    },
+    {
+      "description": "このアイテムに最大3つまで外装の設定スロットを追加できます。",
+      "name": "このアイテムのMOD設定スロットを追加します",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje dodatkowe gniazdo konfiguracji wyglądu dla tego przedmiotu, do maksimum 3 dodatkowych gniazd.",
+      "name": "dodatkowe gniazdo konfiguracji modów dla tego przedmiotu",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia um espaço de configuração de aparência adicional para este item, até um limite de 3 espaços adicionais.",
+      "name": "espaço de configuração de mods extra para este item",
+      "code": "pt"
+    },
+    {
+      "description": "為這個物品解鎖 1 個額外的外觀配置欄位，最多 3 個額外欄位。",
+      "name": "為這項道具擴充額外的 MOD 配置欄位",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกสล็อตการกำหนดค่ารูปลักษณ์เพิ่มเติมสำหรับไอเทมนี้ ซึ่งจะปลดล็อกสล็อตเพิ่มได้สูงสุด 3 ช่อง",
+      "name": "เพิ่มช่องสล็อตกำหนดค่า Mod สำหรับไอเทมนี้",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya için maksimum 3 adete kadar ekstra görünüm dizilim yuvası açar.",
+      "name": "bu eşya için fazladan mod ayar yuvası",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує додаткову комірку набору зовнішності для цього предмета. Максимум до 3 додаткових комірок.",
+      "name": "додаткова комірка набору модифікаторів для цього предмета",
+      "code": "uk"
+    }
+  ]
+}

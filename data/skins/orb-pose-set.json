@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/PoseSets/ArachnoidCamperPoseSet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orb-pose-set-21b18275ee.png",
+  "name": "Orb Pose Set",
+  "description": "A collection of poses for the Profit-Taker Orb Articula.",
+  "languages": [
+    {
+      "description": "Eine Posenkollektion für Articula Profiteintreiber.",
+      "name": "Posenset: Profiteintreiber",
+      "code": "de"
+    },
+    {
+      "description": "Une collection de poses pour l'Articula Orbis Preneur de Profit.",
+      "name": "Ensemble de Poses Orbis",
+      "code": "fr"
+    },
+    {
+      "description": "Una collezione di pose per l'Articula del Profit-Taker Orb.",
+      "name": "Set Pose Orb",
+      "code": "it"
+    },
+    {
+      "description": "프로핏-테이커 오브 아티큘라가 짓는 포즈를 모아둔 컬렉션입니다.",
+      "name": "오브 포즈 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Una colección de poses para orbes robaganancias articulados.",
+      "name": "Conjuntos de poses de orbes",
+      "code": "es"
+    },
+    {
+      "description": "利润收割者圆蛛的一系列站姿。",
+      "name": "圆蛛站姿组",
+      "code": "zh"
+    },
+    {
+      "description": "Набор поз для модели Сферы Извлекателя Прибыли.",
+      "name": "Набор Поз: Сфера",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィット・テイカーオーブのポーズ集。",
+      "name": "オーブポーズセット",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw póz dla Artikuli Orba Zyskobiorczyni.",
+      "name": "Zestaw Poz Orba",
+      "code": "pl"
+    },
+    {
+      "description": "Uma coleção de poses para a Orbe Beneficiária.",
+      "name": "Conjunto de Poses: Orbe Beneficiária",
+      "code": "pt"
+    },
+    {
+      "description": "利潤收割者圓蛛的一系列站姿。",
+      "name": "圓蛛姿勢組",
+      "code": "tc"
+    },
+    {
+      "description": "รวมท่าทางต่าง ๆ ของอาร์ติคูลา Profit-Taker Orb",
+      "name": "เซตท่าทาง: Orb",
+      "code": "th"
+    },
+    {
+      "description": "Profit-Taker Orb artikulası için bir poz koleksiyonu.",
+      "name": "Orb Poz Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір поз для моделі Привласнювачки.",
+      "name": "Набір поз для Привласнювачки",
+      "code": "uk"
+    }
+  ]
+}

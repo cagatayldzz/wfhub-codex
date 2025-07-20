@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-glyph---dark-21a1851ce8.png",
+  "name": "Banshee Glyph - Dark",
+  "description": "A glyph depicting Banshee on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Banshee vor einem dunkeln Hintergrund darstellt.",
+      "name": "Glyphe: Banshee (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Banshee sur un fond sombre.",
+      "name": "Glyphe Banshee - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Banshee su uno sfondo scuro.",
+      "name": "Glifo Banshee - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 코러스 밴쉬를 묘사한 글리프입니다.",
+      "name": "벤쉬 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Banshee sobre un fondo oscuro.",
+      "name": "Glifo de Banshee - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 在黑暗背景下的浮印。",
+      "name": "Banshee 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Банши на тёмном фоне.",
+      "name": "Глиф: Банши - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたBanshee のグリフ。",
+      "name": "Banshee グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Banshee na ciemnym tle.",
+      "name": "Glif Banshee — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Banshee em um fundo escuro.",
+      "name": "Glifo: Banshee (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Banshee 在黑暗背景下的浮印。",
+      "name": "Banshee 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Banshee บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Banshee - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Banshee koyu fonlu glif.",
+      "name": "Banshee Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Банші на темному тлі.",
+      "name": "Темний гліф «Банші»",
+      "code": "uk"
+    }
+  ]
+}

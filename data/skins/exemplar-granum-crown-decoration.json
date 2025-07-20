@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinGold",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/exemplar-granum-crown-decoration-a069b9d92d.png",
+  "name": "Exemplar Granum Crown Decoration",
+  "description": "An Exemplar Granum Crown replica for your Orbiter.",
+  "languages": [
+    {
+      "description": "Ein Replikat einer Vorbild Granum-Krone für deinen Orbiter.",
+      "name": "Dekoration: Vorbild Granum-Krone",
+      "code": "de"
+    },
+    {
+      "description": "Une réplique de Couronne Granum Exemplaire pour votre Orbiteur.",
+      "name": "Décoration Couronne Granum Exemplaire",
+      "code": "fr"
+    },
+    {
+      "description": "Una replica della Corona Granum Eccelsa per il tuo Orbiter.",
+      "name": "Decorazione Corona Granum Eccelsa",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 오비터를 위한 모범형 그라넘 주화 복제품입니다.",
+      "name": "모범형 그라넘 주화 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Una réplica de la Corona Granum Ejemplar para tu orbitador.",
+      "name": "Decoración de Corona Granum Ejemplar",
+      "code": "es"
+    },
+    {
+      "description": "一个给轨道飞行器的范本格拉努硬币复制品。",
+      "name": "范本格拉努硬币装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Копия Кроны Грэнума «Экземпляр» для вашего Орбитера.",
+      "name": "Украшение: Крона Грэнума «экземпляр»",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置できるExemplar Granum クラウンの複製装飾品。",
+      "name": "Exemplar Granum クラウン装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Dekoracja Wzorowej Korony Granuma dla Twojego Orbitera.",
+      "name": "Ozdoba: Wzorowa Korona Granuma",
+      "code": "pl"
+    },
+    {
+      "description": "Uma réplica da Coroa de Granum (Exemplar) para sua Orbital.",
+      "name": "Coroa de Granum (Exemplar)",
+      "code": "pt"
+    },
+    {
+      "description": "軌道飛行器的一個典範 Granum 冠幣複製品。",
+      "name": "典範 Granum 冠幣裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "แบบจำลองเหรียญมงกุฎ Exemplar Granum สำหรับออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: เหรียญมงกุฎ Exemplar Granum",
+      "code": "th"
+    },
+    {
+      "description": "Orbiteriniz için bir Exampler Granum Crown kopyası.",
+      "name": "Exemplar Granum Crown Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Копія зразкової крони Ґранума, якою можна прикрасити орбітр.",
+      "name": "Оздоблення: зразкова крона Ґранума",
+      "code": "uk"
+    }
+  ]
+}

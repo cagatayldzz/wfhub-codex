@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gallium-127519dba9.png",
+  "name": "Gallium",
+  "description": "Soft metal used in microelectronics and energy weapons.\n\nLocation: Mars and Uranus",
+  "languages": [
+    {
+      "description": "Weiches Metall, das in der Mikroelektronik und in Energiewaffen verwendet wird.\n\nQuelle: Mars und Uranus.",
+      "name": "Gallium",
+      "code": "de"
+    },
+    {
+      "description": "Métal malléable utilisé en microélectronique et dans les armes énergétiques.\n\nLieu: Mars et Uranus",
+      "name": "Gallium",
+      "code": "fr"
+    },
+    {
+      "description": "Metallo morbido utilizzato in microelettronica e armi a energia.\n\nPosizione: Marte e Urano",
+      "name": "Gallio",
+      "code": "it"
+    },
+    {
+      "description": "마이크로 전자 공학과 에너지 병기에 사용되는 연질 금속입니다.\n\n획득 가능 장소: 화성 및 천왕성",
+      "name": "갈륨",
+      "code": "ko"
+    },
+    {
+      "description": "Metal blando usado en la microelectrónica y en las armas de energía.\n\nUbicación: Marte y Urano",
+      "name": "Galio",
+      "code": "es"
+    },
+    {
+      "description": "用于微电子和能量武器的软金属。\n\n获取地点：火星和天王星",
+      "name": "镓",
+      "code": "zh"
+    },
+    {
+      "description": "Мягкий металл, используемый в микроэлектронике и энергетическом оружии.\n\nМестонахождение: Марс, Уран",
+      "name": "Галлий",
+      "code": "ru"
+    },
+    {
+      "description": "マイクロエレクトロニクスやエネルギー武器に使われる軽金属。\n\n場所：火星、天王星。",
+      "name": "ガリウム",
+      "code": "ja"
+    },
+    {
+      "description": "Miękki metal używany w mikroelektronice i broni energetycznej.\n\nPołożenie: Mars i Uran",
+      "name": "Gal",
+      "code": "pl"
+    },
+    {
+      "description": "Metal maleável utilizado em microeletrônica e armas energéticas.\n\nLocalização: Marte e Urano.",
+      "name": "Gálio",
+      "code": "pt"
+    },
+    {
+      "description": "用於微電子和能量武器的軟金屬。\n\n地點：火星和天王星",
+      "name": "鎵",
+      "code": "tc"
+    },
+    {
+      "description": "โลหะอ่อนที่ใช้ในอาวุธไมโครอิเล็กทรอนิกส์และอาวุธพลังงาน\n\nแหล่งที่พบ: ดาวอังคารและดาวยูเรนัส",
+      "name": "แกลเลียม",
+      "code": "th"
+    },
+    {
+      "description": "Mikroelektronik ve enerji silahlarında kullanılan yumuşak metal.\n\nKonum: Mars ve Uranüs",
+      "name": "Galyum",
+      "code": "tr"
+    },
+    {
+      "description": "М’який метал, використовується в мікроелектроніці та енергетичній зброї.\n\nМожна здобути на Марсі й Урані.",
+      "name": "Галій",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zymos-b070770a75.png",
+  "name": "Zymos",
+  "description": "Infect your foes with this spore-scattering pistol. Headshots burrow in and explode, releasing spore clouds that seek out nearby enemies.",
+  "languages": [
+    {
+      "description": "Infiziere deine Gegner mit dieser Sporen streuenden Pistole. Kopfschüsse graben sich ein, explodieren und setzen zusätzliche Sporenwolken frei, die Feinde in der Nähe suchen.",
+      "name": "Zymos",
+      "code": "de"
+    },
+    {
+      "description": "Infectez vos ennemis avec ce Pistolet diffuseur de spores. Les tirs à la tête pénètrent et explosent, libérant des nuages de spores qui recherchent les ennemis proches.",
+      "name": "Zymos",
+      "code": "fr"
+    },
+    {
+      "description": "Infetta i tuoi nemici con questa pistola a dispersione di spore. I colpi alla testa scavano il cranio del bersaglio ed esplodono, rilasciando nubi di spore che ricercano i nemici vicini.",
+      "name": "Zymos",
+      "code": "it"
+    },
+    {
+      "description": "포자를 흩뿌리는 이 권총으로 적들을 감염시켜 보세요. 헤드샷 시 탄이 적에게 파고들어가 폭발하며, 근처의 적을 추적하는 포자 구름이 살포됩니다.",
+      "name": "자이모스",
+      "code": "ko"
+    },
+    {
+      "description": "Infecta a tus enemigos con esta pistola dispersora de esporas. Los disparos a la cabeza penetran y explotan, liberando nubes de esporas que buscan enemigos cercanos.",
+      "name": "Zymos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ZYMOS）用这件散射孢子的手枪来感染你的敌人。爆头射击会钻入敌人的体内并爆炸，释放出飘向附近敌人的孢子云。",
+      "name": "邪莫斯",
+      "code": "zh"
+    },
+    {
+      "description": "Заразите врагов этим распыляющим споры пистолетом. При попадании в голову, они проникают внутрь и взрываются. Если этот выстрел оказался смертельным, появляются дополнительные облака спор, которые ищут ближайших врагов.",
+      "name": "Зимос",
+      "code": "ru"
+    },
+    {
+      "description": "胞子をばらまくこのピストルで敵を感染させよう。ヘッドショットは体内へ潜り込み爆発し、胞子が更に拡大し周囲の敵を襲います。",
+      "name": "Zymos",
+      "code": "ja"
+    },
+    {
+      "description": "Zarażaj swoich przeciwników tym rozrzucającym zarodniki pistoletem. Trafienia w głowę wbijają się i eksplodują, uwalniając chmury zarodników, które wyszukują pobliskich wrogów.",
+      "name": "Zymos",
+      "code": "pl"
+    },
+    {
+      "description": "Infeste os seus inimigos com esta pistola dispersora de esporos. Acertos de Precisão cravam e explodem os inimigos, liberando nuvens tóxicas que buscam os inimigos próximos.",
+      "name": "Zymos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ZYMOS）以這把孢子散射手槍感染敵人。爆頭射擊時孢子會鑽入腦中並爆炸，進而釋放出孢子雲，繼續追尋附近的敵人。",
+      "name": "宰魔",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพกกระบอกนี้จะแพร่สปอร์ที่ระเบิดได้ใส่ศัตรูของคุณ เมื่อยิงเฮดช็อตสปอร์จะเจาะเข้าไปข้างในแล้วระเบิด จากนั้นสปอร์ที่ปล่อยออกมาจะค้นหน้าศัตรูตัวอื่นที่อยู่ใกล้ต่อไป",
+      "name": "Zymos",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlarını bu spor saçan tabanca ile enfekte et. Kafa vuruşları delicidir ve içeride patlayarak yakındaki düşmanları hedef alan spor bulutları salarlar.",
+      "name": "Zymos",
+      "code": "tr"
+    },
+    {
+      "description": "Заражений пістолет, стріляє спорами. Влучивши в голову, снаряди зариваються вглиб і вибухають, випускаючи хмарку спор, які прямують до найближчих ворогів.",
+      "name": "Зим",
+      "code": "uk"
+    }
+  ]
+}

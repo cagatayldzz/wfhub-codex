@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityQorvex",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-qorvex-glyph-7bc05d0879.png",
+  "name": "Community Qorvex Glyph",
+  "description": "A community glyph depicting Qorvex in the style of community artist Veroz.",
+  "languages": [
+    {
+      "description": "Eine Community-Glyphe, die Qorvex im Stil des Community-Künstlers Veroz darstellt.",
+      "name": "Glyphe: Qorvex (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe Communautaire représentant Qorvex dans le style de l'artiste communautaire Veroz.",
+      "name": "Glyphe Communautaire de Qorvex",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante Qorvex nello stile dell'artista della comunità Veroz.",
+      "name": "Glifo Qorvex Comunità",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 Veroz의 스타일로 코르벡스를 묘사한 커뮤니티 글리프입니다.",
+      "name": "커뮤니티 코르벡스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo de la comunidad que representa a Qorvex, creado al estilo del artista de la comunidad, Veroz.",
+      "name": "Glifo de Qorvex de la comunidad",
+      "code": "es"
+    },
+    {
+      "description": "由社区艺术家 Veroz 创作的 Qorvex 社区浮印。",
+      "name": "社区 Qorvex 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф сообщества, изображающий Корвекса в стиле художника сообщества Veroz.",
+      "name": "Глиф сообщества: Корвекс",
+      "code": "ru"
+    },
+    {
+      "description": "Qorvexのコミュニティグリフ。Veroz作。",
+      "name": "Qorvex コミュニティグリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Qorvexa, wykonany w stylu artysty społeczności Veroz.",
+      "name": "Glif Społeczności: Qorvex",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da Comunidade retratando o Qorvex, desenvolvido por Veroz.",
+      "name": "Glifo: Qorvex (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Qorvex 的社群浮印，以社群藝術家──Veroz 的風格創作。",
+      "name": "社群 Qorvex 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Qorvex ในสไตล์การออกแบบของศิลปินชุมชน Veroz",
+      "name": "ภาพสัญลักษณ์ Community Qorvex",
+      "code": "th"
+    },
+    {
+      "description": "Topluluk sanatçısı Veroz tarafından Qorvex'i tasvir eden bir topluluk glifi.",
+      "name": "Topluluk Qorvex Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Корвекса, створений Veroz.",
+      "name": "Гліф спільноти «Корвекс»",
+      "code": "uk"
+    }
+  ]
+}

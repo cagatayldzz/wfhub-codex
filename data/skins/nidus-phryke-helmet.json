@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Infestation/NidusDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-phryke-helmet-b6bf7fc0b5.png",
+  "name": "Nidus Phryke Helmet",
+  "description": "Nidus Phryke's signature helmet.",
+  "languages": [
+    {
+      "description": "Nidus Phrykes bevorzugter Helm.",
+      "name": "Nidus-Helm: Phryke",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Nidus Phryke.",
+      "name": "Casque Nidus Phryke",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Nidus Phryke.",
+      "name": "Elmo Nidus Phryke",
+      "code": "it"
+    },
+    {
+      "description": "나이더스 프라이크의 대표 헬멧입니다.",
+      "name": "나이더스 프라이크 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Nidus Phryke.",
+      "name": "Casco de Nidus Phryke",
+      "code": "es"
+    },
+    {
+      "description": "Nidus 恐惧之神的标志性头盔",
+      "name": "Nidus 恐惧神头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Нидуса «Фрайк».",
+      "name": "Шлем Нидуса: Фрайк",
+      "code": "ru"
+    },
+    {
+      "description": "Nidus Phrykeのメインヘルメット。",
+      "name": "Nidus Phryke ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Nidusa Phryke.",
+      "name": "Nidus: Hełm Phryke",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Nidus Phryke.",
+      "name": "Nidus: Capacete Phryke",
+      "code": "pt"
+    },
+    {
+      "description": "Nidus 恐懼之神的標誌性頭盔。",
+      "name": "Nidus 恐懼之神頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Nidus Phryke",
+      "name": "หมวกเหล็ก Nidus Phryke",
+      "code": "th"
+    },
+    {
+      "description": "Nidus Phryke'ın özel miğferi.",
+      "name": "Nidus Phryke Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Фріке» для Нідуса.",
+      "name": "Шолом «Фріке» для Нідуса",
+      "code": "uk"
+    }
+  ]
+}

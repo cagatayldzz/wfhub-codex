@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/BurstonIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/burston-incarnon-genesis-3bd03393ef.png",
+  "name": "Burston Incarnon Genesis",
+  "description": "Awaken this weapon's ability to gain an Auto Fire mode and deal Radial <DT_FIRE_COLOR>Heat Damage with each shot in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form mit jedem Schuss radialen <DT_FIRE_COLOR>Hitzeschaden als automatisches Feuer abzufeuern.",
+      "name": "Incarnon-Genesis: Burston",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à obtenir un mode de tir automatique et à infliger des Dégâts de <DT_FIRE_COLOR>Feu Radiaux à chaque tir sous Forme Incarnon.",
+      "name": "Burston Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di ottenere una modalità Fuoco Automatico e infliggere Danno <DT_FIRE_COLOR>Fuoco Radiale con ogni colpo nella Forma Incarnon.",
+      "name": "Burston Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 자동 발사 모드 및 범위형 <DT_FIRE_COLOR>화염 피해가 추가됩니다.",
+      "name": "버스튼 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para obtener el modo de autodisparo y causar daño radial de <DT_FIRE_COLOR>calor con cada disparo en su forma Incarnon.",
+      "name": "Burston Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下每次射击具有自动射击模式和造成范围 <DT_FIRE_COLOR>火焰伤害的能力。",
+      "name": "伯斯顿灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия переходить в режим автоматического огня и наносить радиальный урон <DT_FIRE_COLOR>огнём с каждым выстрелом в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Бёрстон",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームはオート射撃を得て各ショットは範囲<DT_FIRE_COLOR>火炎ダメージを与える。",
+      "name": "Burston インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która strzela ogniem automatycznym i zadaje <DT_FIRE_COLOR> Obr. od Ognia w obszarze przy każdym strzale.",
+      "name": "Geneza Inkarnon: Burston",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de receber um modo de Disparo Automático e produzir Dano Radial <DT_FIRE_COLOR>Ígneo em cada disparo no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Burston",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下獲得自動開火模式並且每次射擊帶有範圍<DT_FIRE_COLOR>火焰傷害。",
+      "name": "伯斯頓應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะสามารถยิงในโหมดยิงอัตโนมัติและสร้างความเสียหาย <DT_FIRE_COLOR>ไฟที่แผ่รัศมีออกไป",
+      "name": "Burston Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde otomatik atış moduna değişmesi ve her atış ile Radyal <DT_FIRE_COLOR>Ateş Hasarı verme özelliğini uyandır.",
+      "name": "Burston Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє отримувати автоматичний режим стрільби та завдавати колової <DT_FIRE_COLOR>термічної шкоди з кожним пострілом.",
+      "name": "Інкарнонський генезис: Берстон",
+      "code": "uk"
+    }
+  ]
+}

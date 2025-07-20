@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetSoldier",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-armistice-helmet-1bb54fa682.png",
+  "name": "Vauban Armistice Helmet",
+  "description": "A uniquely-styled alternate helmet for Vauban.",
+  "languages": [
+    {
+      "description": "Ein einzigartig gestalteter, alternativer Helm für Vauban.",
+      "name": "Vauban-Helm: Armistice",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif dans un style unique pour Vauban.",
+      "name": "Casque Vauban Armistice",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Vauban dallo stile unico.",
+      "name": "Elmo Vauban Armistice",
+      "code": "it"
+    },
+    {
+      "description": "바우반 워프레임을 위한 독특한 스타일의 대체 헬멧입니다.",
+      "name": "바우반 아미스티스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Vauban.",
+      "name": "Casco Armistice de Vauban",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 的独特样式替换头盔",
+      "name": "Vauban 休战头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Вобана уникального стиля исполнения.",
+      "name": "Шлем Вобана: Перемирие",
+      "code": "ru"
+    },
+    {
+      "description": "ユニークな形をしたVAUBAN用ヘルメット。",
+      "name": "Vauban Armistice ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowo stylizowany hełm dla Warframe'a Vauban.",
+      "name": "Vauban: Hełm Armistice",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo estilizado unicamente para Vauban.",
+      "name": "Vauban: Capacete Armistice",
+      "code": "pt"
+    },
+    {
+      "description": "Vauban 的獨特樣式替換頭盔。",
+      "name": "Vauban 休戰頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองที่มีสไตล์เฉพาะตัวสำหรับ Vauban",
+      "name": "หมวกเหล็ก Vauban Armistice",
+      "code": "th"
+    },
+    {
+      "description": "Vauban için özel dizayn edilmiş bir alternatif miğfer",
+      "name": "Vauban Armistice Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом виняткового виконання для ворфрейма Вобана.",
+      "name": "Шолом «Перемир’я» для Вобана",
+      "code": "uk"
+    }
+  ]
+}

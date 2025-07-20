@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-vespa-helmet-dd66845c79.png",
+  "name": "Arcane Vespa Helmet",
+  "description": "This helmet is worn by Nyx, and adds Ability Efficiency, with a reduction to Armor.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Nyx getragen und verstärkt die Fähigkeitseffizienz, während Rüstung reduziert wird.",
+      "name": "Arkaner Vespa Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Nyx et ajoute de l'Efficacité de Pouvoir, avec une diminution de l'Armure.",
+      "name": "Casque Vespa Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Nyx, aggiunge Efficienza Abilità, ma riduce l'Armatura.",
+      "name": "Elmo Arcane Vespa",
+      "code": "it"
+    },
+    {
+      "description": "닉스 전용의 헬멧으로, 방어력을 감소시키고 어빌리티 효율을 증가시킵니다.",
+      "name": "아케인 베스퍼 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Nyx, añade eficiencia de habilidad pero reduce la armadura.",
+      "name": "Casco Vespa Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Nyx 佩戴，它能提升技能效率，但会降低护甲。",
+      "name": "黄蜂 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Никс. Он повышает эффективность способности, но ослабляет броню.",
+      "name": "Мистический шлем: Веспа",
+      "code": "ru"
+    },
+    {
+      "description": "Nyx用ヘルメット。アビリティ効率を上昇させるが、装甲値が減少する。",
+      "name": "Arcane Vespa ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Nyx, zwiększa Wydajność Umiejętności, ale zmniejsza Pancerz.",
+      "name": "Nyx: Hełm Arkanum Vespa",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete usado por Nyx adiciona Eficiência da Habilidade, mas reduz Armadura.",
+      "name": "Nyx: Capacete Vespa (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔由 Nyx 配戴，它能提升技能效率，但會降低護甲。",
+      "name": "黃蜂秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Nyx สวมหมวกใบนี้จะช่วยเพิ่มประสิทธิภาพในการใช้พลัง แต่จะลดเกราะลง",
+      "name": "หมวกเหล็ก Arcane Vespa",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Nyx tarafından giyilir ve Yetenek Verimliliğini arttırır, bunun yanında Zırhı azaltır.",
+      "name": "Arcane Vespa Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує ощадливість здібностей Нікс, але послаблює її захист.",
+      "name": "Містичний шолом «Оса»",
+      "code": "uk"
+    }
+  ]
+}

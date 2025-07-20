@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ObsidianIndraSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/obsidian-indra-sigil-f3389ad6c6.png",
+  "name": "Obsidian Indra Sigil",
+  "description": "A Sigil honoring the Boltor, a Tenno classic.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das die Boltor ehrt, ein gern genutzter Klassiker der Tenno.",
+      "name": "Siegel: Obsidian Indra",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau honorant le Boltor, un classique Tenno.",
+      "name": "Sceau Indra Obsidienne",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo in onore del Boltor, un classico dei Tenno.",
+      "name": "Sigillo Indra Obsidian",
+      "code": "it"
+    },
+    {
+      "description": "텐노의 전통, 볼터를 기리는 시질입니다.",
+      "name": "옵시디언 인드라 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello en honor a la Boltor, un clásico de los tenno.",
+      "name": "Sello Indra de Obsidiana",
+      "code": "es"
+    },
+    {
+      "description": "向 Tenno 的经典武器——螺钉步枪致敬的一枚纹章。",
+      "name": "黑曜石因陀罗纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, созданный в честь Болтора - классики Тэнно.",
+      "name": "Сигил: Индра Обсидиан",
+      "code": "ru"
+    },
+    {
+      "description": "テンノ伝統のBoltorを称したシジル。",
+      "name": "Obsidian Indra シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak honorujący Boltora, jedną z klasycznych broni Tenno.",
+      "name": "Znak Indra Obsydianowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão em homenagem à Boltor, uma clássica arma Tenno.",
+      "name": "Brasão: Indra de Obsidiana",
+      "code": "pt"
+    },
+    {
+      "description": "向螺釘步槍──Tenno 的經典武器致敬的一枚紋章。",
+      "name": "黑曜石印德拉紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงการให้เกียรติ Boltor อาวุธคลาสสิกของ Tenno",
+      "name": "เครื่องหมาย: Obsidian Indra",
+      "code": "th"
+    },
+    {
+      "description": "Bir Tenno klasiği olan Boltor'u onurlandıran bir Mühür.",
+      "name": "Obsidian Indra Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Шануйте гвинтівку «Болтор», класичну зброю тенно.",
+      "name": "Сиґіл «Обсидіановий індра»",
+      "code": "uk"
+    }
+  ]
+}

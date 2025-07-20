@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltDeluxeBHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-electrolyst-helmet-0285deff73.png",
+  "name": "Volt Electrolyst Helmet",
+  "description": "Volt as he would have been, had the Sentients created him.",
+  "languages": [
+    {
+      "description": "Volt, wie er gewesen wäre, hätten die Sentients ihn erschaffen.",
+      "name": "Volt-Helm: Electrolyst",
+      "code": "de"
+    },
+    {
+      "description": "Volt tel qu'il aurait été si les Sentients l'avaient créé.",
+      "name": "Casque Volt Électrolyste",
+      "code": "fr"
+    },
+    {
+      "description": "Come sarebbe stato Volt se fosse stato creato dai Sentient.",
+      "name": "Elmo Volt Electrolyst",
+      "code": "it"
+    },
+    {
+      "description": "센티언트의 손으로 창조되었을 때를 상정한 볼트의 모습입니다.",
+      "name": "볼트 일렉트롤리스트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Volt, si los conscientes lo hubieran creado.",
+      "name": "Casco Electrolyst de Volt",
+      "code": "es"
+    },
+    {
+      "description": "如果是 Sentient 创造了 Volt，他就会是这个样子。",
+      "name": "Volt 电击使头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Вольт, каким бы он был, если бы его создали Владеющие Разумом.",
+      "name": "Шлем Вольта: Электролист",
+      "code": "ru"
+    },
+    {
+      "description": "センティエントによって造られた仮定のVolt。",
+      "name": "Volt Electrolyst ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Volt, gdyby został stworzony przez Świadomych.",
+      "name": "Volt: Hełm Electrolyst",
+      "code": "pl"
+    },
+    {
+      "description": "Como o Volt teria sido, se os Sentients o tivessem criado.",
+      "name": "Volt: Capacete Electrolyst",
+      "code": "pt"
+    },
+    {
+      "description": "Volt 的原貌，倘若是 Sentient 創造了他。",
+      "name": "Volt 電力使頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "Volt เป็นอย่างที่ควรจะเป็น ถ้าพวก Sentient สร้างเขาขึ้นมา",
+      "name": "หมวกเหล็ก Volt Electrolyst",
+      "code": "th"
+    },
+    {
+      "description": "Volt, eğer Sentient tarafından yaratılsaydı bu şekli alacaktı.",
+      "name": "Volt Electrolyst Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Якби Вольта створили свідомі.",
+      "name": "Шолом «Електролист» для Вольта",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Focus/TacticLensGreater",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/greater-naramon-lens-ecca64324a.png",
+  "name": "Greater Naramon Lens",
+  "description": "Converts 3% of excess Affinity into Focus for the Naramon Way.",
+  "languages": [
+    {
+      "description": "Verwandelt 3 % von zusätzlicher Erfahrung in Fokus für den Naramon-Weg.",
+      "name": "Stärkere Naramon-Linse",
+      "code": "de"
+    },
+    {
+      "description": "Convertit 3% de l'Affinité excessive en Focus pour la Voie Naramon.",
+      "name": "Lentille Naramon Sup.",
+      "code": "fr"
+    },
+    {
+      "description": "Converte il 3% dell'Affinità in eccesso in Focus per il Percorso Naramon.",
+      "name": "Lente Naramon Maggiore",
+      "code": "it"
+    },
+    {
+      "description": "초과한 숙련도 중 3%를 나라몬 유파의 포커스로 변환합니다.",
+      "name": "그레이터 나라몬 렌즈",
+      "code": "ko"
+    },
+    {
+      "description": "Convierte un 3 % del exceso de afinidad en enfoque para el camino Naramon.",
+      "name": "Lente Naramon Superior",
+      "code": "es"
+    },
+    {
+      "description": "将 3% 超额的经验值转化为 Naramon 之道的专精。",
+      "name": "高级 Naramon 晶体",
+      "code": "zh"
+    },
+    {
+      "description": "Конвертирует 3% избыточного синтеза в фокус пути «Нарамон».",
+      "name": "Большая линза: Нарамон",
+      "code": "ru"
+    },
+    {
+      "description": "3％の超過アフィニティをNaramon道用のフォーカスへ変換する。",
+      "name": "グレイター Naramonレンズ",
+      "code": "ja"
+    },
+    {
+      "description": "Przekształca 3% Biegłości zdobytej na Maks. Randze w Fokus dla Szkoły Naramon.",
+      "name": "Soczewka Naramon Większa",
+      "code": "pl"
+    },
+    {
+      "description": "Converte 3% do excesso de Afinidade para o Foco na Arte Naramon.",
+      "name": "Lente Naramon (Superior)",
+      "code": "pt"
+    },
+    {
+      "description": "將 3% 超額的經驗值轉化為 Naramon 之道的專精。",
+      "name": "Naramon 高級晶體",
+      "code": "tc"
+    },
+    {
+      "description": "แปลงค่าแอฟฟินิตี้ 3% ที่เกินมาไปเป็นค่าโฟกัสสำหรับวิถีแห่ง Naramon",
+      "name": "เลนส์ Naramon ที่ดีกว่า",
+      "code": "th"
+    },
+    {
+      "description": "Naramon Yolu için XP'yi %3 oranla Fokus'a dönüştürür.",
+      "name": "Büyük Naramon Lens",
+      "code": "tr"
+    },
+    {
+      "description": "Перетворює 3 % надлишкової єдності в очки фокусу шляху Нарамон.",
+      "name": "Велика лінза Нарамона",
+      "code": "uk"
+    }
+  ]
+}

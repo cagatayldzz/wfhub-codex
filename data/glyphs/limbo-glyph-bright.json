@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-glyph---bright-a0eeeeed37.png",
+  "name": "Limbo Glyph - Bright",
+  "description": "A glyph depicting Limbo on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Limbo vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Limbo (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Limbo sur un fond lumineux.",
+      "name": "Glyphe Limbo - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Limbo su uno sfondo chiaro.",
+      "name": "Glifo Limbo - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 림보를 묘사한 글리프입니다.",
+      "name": "림보 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Limbo sobre un fondo brillante.",
+      "name": "Glifo de Limbo - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Limbo 在明亮背景下的浮印。",
+      "name": "Limbo 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Лимбо на светлом фоне.",
+      "name": "Глиф: Лимбо - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Limbo のグリフ。",
+      "name": "Limbo グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Limbo na jasnym tle.",
+      "name": "Glif Limbo — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Limbo em um fundo claro.",
+      "name": "Glifo: Limbo (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Limbo 在明亮背景下的浮印。",
+      "name": "Limbo 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Limbo บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Limbo - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Limbo açık fonlu glif.",
+      "name": "Limbo Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лімбо на світлому тлі.",
+      "name": "Яскравий гліф «Лімбо»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-brakk-2e49f213ac.png",
+  "name": "Kuva Brakk",
+  "description": "This Lich-variant semi-automatic hand cannon delivers a lot of punch in a small package. Higher fire rate, magazine capacity and reload speed. ",
+  "languages": [
+    {
+      "description": "Die Lich-Variante dieser Handkanone liefert große Schlagkraft im kleinen Paket. Höhere Feuerrate, Magazinkapazität und Nachladegeschwindigkeit. ",
+      "name": "Kuva Brakk",
+      "code": "de"
+    },
+    {
+      "description": "La variante Liche semi-auto de ce Pistolet embarque un sacré punch malgré sa petite taille. Cadence de tir améliorée, capacité de chargeur plus importante et meilleure vitesse de rechargement. ",
+      "name": "Brakk Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Questa variante Lich del cannone semi-automatico racchiude una grande forza in un formato compatto. Cadenza di Tiro, capienza caricatore e velocità di ricarica aumentati. ",
+      "name": "Kuva Brakk",
+      "code": "it"
+    },
+    {
+      "description": "이 개량형 리치 반자동 소형 화기는 적은 탄창 용량에도 불구하고 강력한 저지력을 가지고 있습니다. 기존보다 증가된 높은 연사력, 탄창 용량 및 재장전 속도를 가지고 있습니다. ",
+      "name": "쿠바 브락",
+      "code": "ko"
+    },
+    {
+      "description": "Esta variante Lich del cañón de mano semiautomático reparte una gran fuerza en un paquete pequeño. Mayor cadencia de fuego, capacidad del cargador y velocidad de recarga.",
+      "name": "Brakk Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA BRAKK）这把玄骸变体的半自动手枪，小型的枪身中却拥有强大的冲击力。它拥有更高的射速、更大的弹匣容量以及更快的装填速度 ",
+      "name": "赤毒·布拉克",
+      "code": "zh"
+    },
+    {
+      "description": "Этот вариант тяжелого пистолета Лича с полуавтоматическим режимом стрельбы имеет ощутимую ударную силу, вмещенную в компактный размер. Обладает более высокой скорострельностью, емкостью магазина и скоростью перезарядки. ",
+      "name": "Бракк Кува",
+      "code": "ru"
+    },
+    {
+      "description": "その小さな見た目に反し、恐るべき破壊力を秘めたリッチ専用セミオートハンドキャノン。通常に比べ高い発射速度、マガジン容量、そしてリロード速度を誇る。",
+      "name": "Kuva Brakk",
+      "code": "ja"
+    },
+    {
+      "description": "Ten zmodyfikowany dla Liczy półautomatyczny pistolet Brakk to imponująca siła w małym opakowaniu. Większa Szybkostrzelność, Pojemniejszy Magazynek i większą Prędkość Przeładowywania. ",
+      "name": "Brakk Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Esta variação Lich de um canhão semi-automático apresenta um alto poder de fogo em um formato compacto. Apresenta Cadência de Tiro, capacidade do carregador e velocidade de recarga aprimorados. ",
+      "name": "Brakk Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA BRAKK）巫妖的變體武器，這把半自動的手持加農砲能給敵人迎頭痛擊。其帶有更高的射速、更大的彈匣以及更快的換彈速度。 ",
+      "name": "赤毒 布拉克",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่ที่ถือด้วยมือกึ่งอัตโนมัติของ Lich ที่ดัดแปลงแล้วรุ่นนี้แม้มีขนาดเล็กแต่มีพลังโจมตีมหาศาล มีอัตราการยิงที่สูงขึ้น แม็กกาซีนมีความจุมากขึ้น และรีโหลดกระสุนได้เร็วขึ้น ",
+      "name": "Kuva Brakk",
+      "code": "th"
+    },
+    {
+      "description": "Yarı otomatik el topunun Lich versiyonu tek seferde çok fazla kuvvet uygulayabilir. Daha yüksek atış hızı, şarjör kapasitesine ve yenileme hızına sahiptir. ",
+      "name": "Kuva Brakk",
+      "code": "tr"
+    },
+    {
+      "description": "Попри компактність, ця самозарядна гармата може завдати нищівної шкоди. Має підвищену швидкострільність і більший магазин, швидше перезаряджається. ",
+      "name": "Брак-кува",
+      "code": "uk"
+    }
+  ]
+}

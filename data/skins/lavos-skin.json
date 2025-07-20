@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lavos-skin-751033b566.png",
+  "name": "Lavos Skin",
+  "description": "The standard issue skin for the Lavos Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Lavos Warframe.",
+      "name": "Lavos-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Lavos.",
+      "name": "Aspect Lavos",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Lavos.",
+      "name": "Skin Lavos",
+      "code": "it"
+    },
+    {
+      "description": "라보스 워프레임을 위한 기본 스킨입니다.",
+      "name": "라보스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Lavos.",
+      "name": "Diseño de Lavos",
+      "code": "es"
+    },
+    {
+      "description": "Lavos 的标准外观配置。",
+      "name": "Lavos 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Лавоса.",
+      "name": "Скин Лавоса",
+      "code": "ru"
+    },
+    {
+      "description": "Lavosの標準型スキン。",
+      "name": "Lavos スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Lavos.",
+      "name": "Lavos: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Lavos.",
+      "name": "Lavos: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Lavos 的標準外觀配置。",
+      "name": "Lavos 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Lavos Warframe",
+      "name": "สกิน Lavos",
+      "code": "th"
+    },
+    {
+      "description": "Lavos Warframe için standart skin.",
+      "name": "Lavos Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Лавоса.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

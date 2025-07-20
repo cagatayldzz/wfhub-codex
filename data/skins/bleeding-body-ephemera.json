@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/AvatarBloodA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bleeding-body-ephemera-f07dac8288.png",
+  "name": "Bleeding Body Ephemera",
+  "description": "A grisly blood effect emanates from your Warframe.",
+  "languages": [
+    {
+      "description": "Ein schauerlicher Bluteffekt, der von deinem Warframe ausgeht.",
+      "name": "Ephemera: Blutender Körper",
+      "code": "de"
+    },
+    {
+      "description": "Un effet sanglant épouvantable émane de votre Warframe.",
+      "name": "Ephemera Corps Sanglant",
+      "code": "fr"
+    },
+    {
+      "description": "Un macabro effetto sangue emanato dal tuo Warframe.",
+      "name": "Ephemera Bleeding Body",
+      "code": "it"
+    },
+    {
+      "description": "워프레임에서 소름끼치는 피 효과가 흘러나옵니다.",
+      "name": "블리딩 바디 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efecto de sangre espeluznante emana desde tu warframe.",
+      "name": "Efímero Cuerpo sangrante",
+      "code": "es"
+    },
+    {
+      "description": "让战甲散发出令人毛骨悚然的流血效果。",
+      "name": "淌血之躯幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "От варфрейма будет исходить скверное кровотечение.",
+      "name": "Эфемера: Кровоточащее тело",
+      "code": "ru"
+    },
+    {
+      "description": "Warframeからドクドクと血が噴き出す。",
+      "name": "Bleeding Body エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Przerażający efekt kapiącej krwi wydobywającej się z Twego Warframe'a.",
+      "name": "Efemera Krwawiącego Ciała",
+      "code": "pl"
+    },
+    {
+      "description": "Um aterrorizante efeito de sangue emana do seu Warframe.",
+      "name": "Efêmera: Corpo Ensanguentado",
+      "code": "pt"
+    },
+    {
+      "description": "讓 Warframe 散發出令人毛骨悚然的流血效果。",
+      "name": "淌血之軀 幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "เอฟเฟกต์เลือดอันน่าสยดสยองที่ไหลออกมาจาก Warframe ของคุณ",
+      "name": "อิเฟมเมอรา Bleeding Body",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'inden tüyler ürpertici kan efektleri çıkmasını sağlar.",
+      "name": "Kanayan Beden Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Гидкий ефект кровотечі на вашому ворфреймі.",
+      "name": "Ефемера «Криваве тіло»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Archer/IvaraDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-skathi-helmet-b294d103b6.png",
+  "name": "Ivara Skathi Helmet",
+  "description": "Ivara Skathi's signature helmet.",
+  "languages": [
+    {
+      "description": "Ivara Skathis bevorzugter Helm.",
+      "name": "Ivara-Helm: Skathi",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique d'Ivara Skathi.",
+      "name": "Casque Ivara Skathi",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Ivara Skathi.",
+      "name": "Elmo Ivara Skathi",
+      "code": "it"
+    },
+    {
+      "description": "이바라 스카디의 대표 헬멧입니다.",
+      "name": "이바라 스카디 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco distintivo de Ivara Skathi.",
+      "name": "Casco Skathi de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 冬之女神的标志性头盔。",
+      "name": "Ivara 冬之女神头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Ивары «Скатхи».",
+      "name": "Шлем Ивары: Скатхи",
+      "code": "ru"
+    },
+    {
+      "description": "Ivara Skathiを象徴するヘルメット。",
+      "name": "Ivara Skathi ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczny hełm dla Ivary Skathi.",
+      "name": "Ivara: Hełm Skathi",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Ivara Skathi.",
+      "name": "Ivara: Capacete Skathi",
+      "code": "pt"
+    },
+    {
+      "description": "Ivara 絲卡蒂的標誌性頭盔。",
+      "name": "Ivara 絲卡蒂頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Ivara Kaleida",
+      "name": "หมวกเหล็ก Ivara Skathi",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Skathi'nin özel miğferi.",
+      "name": "Ivara Skathi Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Скаді» для Івари.",
+      "name": "Шолом «Скаді» для Івари",
+      "code": "uk"
+    }
+  ]
+}

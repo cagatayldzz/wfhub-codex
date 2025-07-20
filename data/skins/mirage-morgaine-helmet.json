@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/SWMorgaineHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-morgaine-helmet-894cc89dfd.png",
+  "name": "Mirage Morgaine Helmet",
+  "description": "A helmet for the Mirage Warframe, designed by artarrwen.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Mirage Warframe, entworfen von artarrwen.",
+      "name": "Mirage-Helm: Morgaine",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Mirage, conçu par artarrwen.",
+      "name": "Casque Mirage Morgaine",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Mirage, ideato da artarrwen.",
+      "name": "Elmo Mirage Morgaine",
+      "code": "it"
+    },
+    {
+      "description": "artarrwen에 의해 디자인된 미라지 워프레임을 위한 헬멧입니다.",
+      "name": "미라지 모게인 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Mirage, diseñado por artarrwen.",
+      "name": "Casco Morgaine de Mirage",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 战甲的头盔，由 artarrwen 设计。",
+      "name": "Mirage 摩甘娜头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Мираж, созданный artarrwen.",
+      "name": "Шлем Мираж: Моргейн",
+      "code": "ru"
+    },
+    {
+      "description": "Mirage用のヘルメット。製作者：artarrwen。",
+      "name": "Mirage Morgaine ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Mirage, zaprojektowany przez artarrwen.",
+      "name": "Mirage: Hełm Morgaine",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Mirage, desenvolvido por artarrwen.",
+      "name": "Mirage: Capacete Morgaine",
+      "code": "pt"
+    },
+    {
+      "description": "Mirage Warframe 的頭盔，由 artarrwen 設計。",
+      "name": "Mirage 摩甘娜頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Mirage Warframe ออกแบบโดย artarrwen",
+      "name": "หมวกเหล็ก Mirage Morgaine",
+      "code": "th"
+    },
+    {
+      "description": "artarrwen tarafından dizayn edilmiş Mirage Warframe miğferi.",
+      "name": "Mirage Morgaine Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Міраж, створений artarrwen.",
+      "name": "Шолом «Морґана» для Міраж",
+      "code": "uk"
+    }
+  ]
+}

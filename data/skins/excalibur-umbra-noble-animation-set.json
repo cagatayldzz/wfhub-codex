@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburUmbraNobleAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/excalibur-umbra-noble-animation-set-07e8943ac3.png",
+  "name": "Excalibur Umbra Noble Animation Set",
+  "description": "The Noble Animation Set for Excalibur Umbra.",
+  "languages": [
+    {
+      "description": "Das noble Animationsset für Excalibur Umbra.",
+      "name": "Excalibur Umbra-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "L'Animation Noble d'Excalibur Umbra.",
+      "name": "Animation Excalibur Umbra Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Nobile per Excalibur Umbra.",
+      "name": "Set Animazione Nobile Excalibur Umbra",
+      "code": "it"
+    },
+    {
+      "description": "엑스칼리버 움브라의 기품있는 동작을 담은 애니메이션 세트입니다.",
+      "name": "엑스칼리버 움브라 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones nobles para Excalibur Umbra.",
+      "name": "Conjunto de animaciones nobles de Excalibur Umbra",
+      "code": "es"
+    },
+    {
+      "description": "Excalibur Umbra 的尊贵站姿。",
+      "name": "Excalibur Umbra 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Статный набор анимаций для Экскалибура «Умбра».",
+      "name": "Набор анимаций Экскалибура «Умбра»: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Excalibur Umbra用のノーブルモーションセット。",
+      "name": "Excalibur Umbra ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw dumnych animacji dla Excalibura Umbra.",
+      "name": "Animacje Excalibura Umbry: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Animações nobres para o Excalibur Umbra.",
+      "name": "Animações: Excalibur Umbra (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "Excalibur Umbra 的尊貴站姿。",
+      "name": "Excalibur Umbra 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชันที่ดูสง่างามสำหรับ Excalibur Umbra",
+      "name": "ชุดแอนิเมชันที่สง่างาม Excalibur Umbra",
+      "code": "th"
+    },
+    {
+      "description": "Excalibur Umbra için Noble Animasyon Seti.",
+      "name": "Excalibur Umbra Noble Animation Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір шляхетної анімації для Екскалібура Умбри.",
+      "name": "Екскалібур Умбра: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

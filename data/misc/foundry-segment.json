@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/FoundryFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/foundry-segment-8e1fa7c54d.png",
+  "name": "Foundry Segment",
+  "description": "",
+  "languages": [
+    {
+      "description": "",
+      "name": "SCHMIEDE-SEGMENT",
+      "code": "de"
+    },
+    {
+      "description": "",
+      "name": "SEGMENT DE FONDERIE",
+      "code": "fr"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO FUCINA",
+      "code": "it"
+    },
+    {
+      "description": "",
+      "name": "주조소 장치",
+      "code": "ko"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO DE FUNDICIÓN",
+      "code": "es"
+    },
+    {
+      "description": "",
+      "name": "铸造厂模块",
+      "code": "zh"
+    },
+    {
+      "description": "",
+      "name": "СЕГМЕНТ КУЗНИЦЫ",
+      "code": "ru"
+    },
+    {
+      "description": "",
+      "name": "ファウンドリ モジュール",
+      "code": "ja"
+    },
+    {
+      "description": "",
+      "name": "SEGMENT WARSZTATU",
+      "code": "pl"
+    },
+    {
+      "description": "",
+      "name": "SEGMENTO DA FORJA",
+      "code": "pt"
+    },
+    {
+      "description": "",
+      "name": "鑄造廠模組",
+      "code": "tc"
+    },
+    {
+      "description": "",
+      "name": "เซกเมนต์ของเตาหลอม",
+      "code": "th"
+    },
+    {
+      "description": "",
+      "name": "ATÖLYE SEGMENTİ",
+      "code": "tr"
+    },
+    {
+      "description": "",
+      "name": "МОДУЛЬ КУЗНІ",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/SibearIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sibear-incarnon-genesis-4bd3c74fbe.png",
+  "name": "Sibear Incarnon Genesis",
+  "description": "Awaken this weapon's ability to create a <DT_FREEZE_COLOR>Cold Blast Radius with Heavy Slams, slowing enemies and increasing Critical Damage in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form mit schweren Schmetterangriffen einen <DT_FREEZE_COLOR>Kälte-Explosionsradius zu erzeugen, der Gegner verlangsamt und Krit. Schaden erhöht.",
+      "name": "Incarnon-Genesis: Sibear",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à créer une zone de Dégâts de <DT_FREEZE_COLOR>Glace avec les Frappes au Sol Lourdes, ralentissant les ennemis et augmentant les Dégâts Critiques sous Forme Incarnon.",
+      "name": "Sibear Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di creare una zona di Danno <DT_FREEZE_COLOR>Ghiaccio con Schianti a Terra, rallentando i nemici e aumentando il Danno Critico nella Forma Incarnon.",
+      "name": "Sibear Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 지면 강타 강 공격 시 범위형 <DT_FREEZE_COLOR>냉기 폭발을 생성하여, 적을 느리게 만들고 치명타 피해를 증가시키는 능력이 추가됩니다.",
+      "name": "시비어 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para crear una zona de daño de <DT_FREEZE_COLOR>frío con golpes pesados contra el suelo, ralentizando a los enemigos y aumentando el daño crítico en su forma Incarnon.",
+      "name": "Sibear Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有在重型震地攻击时制造一片 <DT_FREEZE_COLOR>冰冻爆炸范围，还有减缓敌人速度和增加暴击伤害的能力。",
+      "name": "西伯利亚冰锤灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия создавать радиус <DT_FREEZE_COLOR>холодового взрыва с помощью тяжёлых ударов, замедляя врагов и усиливая критический урон в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Сибирь",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム中はヘビースラムで<DT_FREEZE_COLOR>冷気範囲攻撃を行い、敵の移動速度を下げターゲットが受けるクリティカルダメージが上昇する。",
+      "name": "Sibear インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, której Ciężkie Ataki zadają <DT_FREEZE_COLOR> Obr. od Zimna w obszarze, spowalniając wrogów i zwiększając Obrażenia Krytyczne w postaci Inkarnon.",
+      "name": "Geneza Inkarnon: Sibear",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de criar um Raio de Explosão <DT_FREEZE_COLOR>Glacial em Ataques Pesados ao Solo, o qual desacelerará os inimigos e aumentará o Dano Crítico no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Sibear",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下使用震地重擊可以創造一個能使敵人緩速的<DT_FREEZE_COLOR>冰凍爆裂範圍及增加暴擊傷害。",
+      "name": "西伯利亞冰鎚應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วเมื่อทุบพื้นอย่างแรงจะสร้างรัศมีระเบิดที่เกิดจากธาตุ <DT_FREEZE_COLOR>น้ำแข็ง ทำให้ศัตรูเคลื่อนไหวช้าลง และเพิ่มความเสียหายคริติคอล",
+      "name": "Sibear Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formunda Kritik Hasarı artırmak ve her bir Ağır Yere Çarpma Saldırısı ile <DT_FREEZE_COLOR>Buz Patlaması oluşturma özelliğini uyandır.",
+      "name": "Sibear Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє завдавати <DT_FREEZE_COLOR>крижаної шкоди потужними ударами по землі, що сповільнюватимуть ворогів, та збільшує критичну шкоду.",
+      "name": "Інкарнонський генезис: Сибір",
+      "code": "uk"
+    }
+  ]
+}

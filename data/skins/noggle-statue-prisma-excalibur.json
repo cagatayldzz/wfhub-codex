@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ExcaliburPrismaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---prisma-excalibur-2086e77318.png",
+  "name": "Noggle Statue - Prisma Excalibur",
+  "description": "A small wobbly statue of Prisma Excalibur.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Prisma Excalibur.",
+      "name": "Noggle-Statue: Prisma Excalibur",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Excalibur Prisma.",
+      "name": "Statuette Noggle - Excalibur Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Prisma Excalibur con la testa tremolante.",
+      "name": "Statuetta Noggle - Prisma Excalibur",
+      "code": "it"
+    },
+    {
+      "description": "프리즈마 엑스칼리버의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 프리즈마 엑스칼리버",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Excalibur Prisma.",
+      "name": "Estatua Tambaleante - Excalibur Prisma",
+      "code": "es"
+    },
+    {
+      "description": "一小座棱晶 EXCALIBUR 摇头娃娃。",
+      "name": "棱晶 Excalibur 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Экскалибура «Призма».",
+      "name": "Фигурка: Экскалибур Призма",
+      "code": "ru"
+    },
+    {
+      "description": "Excalibur Prismaのボブルヘッド人形。",
+      "name": "Excalibur Prisma ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Prisma Excalibura.",
+      "name": "Figurka Noggle — Excalibur Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Excalibur Prisma.",
+      "name": "Estatueta: Excalibur Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "一小座棱晶 Excalibur 的搖頭娃娃。",
+      "name": "棱晶 Excalibur 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Prisma Excalibur ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Prisma Excalibur",
+      "code": "th"
+    },
+    {
+      "description": "Prisma Excalibur küçük oynar figür.",
+      "name": "Noggle Heykeli - Prisma Excalibur",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка призмового Екскалібура.",
+      "name": "Ноґл «Призмовий Екскалібур»",
+      "code": "uk"
+    }
+  ]
+}

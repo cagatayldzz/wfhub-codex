@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/ArbitrationEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/illumina-judicium-4ea714a013.png",
+  "name": "Illumina Judicium",
+  "description": "Let Arbitration begin.",
+  "languages": [
+    {
+      "description": "Lasst das Schiedsgericht beginnen.",
+      "name": "Illumina Judicium",
+      "code": "de"
+    },
+    {
+      "description": "Que l'Arbitrage commence.",
+      "name": "Illumina Judicium",
+      "code": "fr"
+    },
+    {
+      "description": "Lascia iniziare l'Arbitrato.",
+      "name": "Illumina Judicium",
+      "code": "it"
+    },
+    {
+      "description": "중재를 시작하도록 하지요.",
+      "name": "일루미나 쥬디슘",
+      "code": "ko"
+    },
+    {
+      "description": "Que comience el Arbitramiento.",
+      "name": "Illumina Judicium",
+      "code": "es"
+    },
+    {
+      "description": "让仲裁的试炼开始吧。",
+      "name": "光明判决",
+      "code": "zh"
+    },
+    {
+      "description": "Да начнётся Арбитраж.",
+      "name": "Судейская иллюмина",
+      "code": "ru"
+    },
+    {
+      "description": "仲裁を始めよう。",
+      "name": "イラミナー・ジャディシアム",
+      "code": "ja"
+    },
+    {
+      "description": "Niech rozpocznie się Arbitraż.",
+      "name": "Illumina judicium",
+      "code": "pl"
+    },
+    {
+      "description": "Que comecem as Arbitragens.",
+      "name": "Judicium Illumina",
+      "code": "pt"
+    },
+    {
+      "description": "讓仲裁的試煉開始吧。",
+      "name": "光明判決",
+      "code": "tc"
+    },
+    {
+      "description": "เริ่มการตัดสินชี้ขาด",
+      "name": "Illumina Judicium",
+      "code": "th"
+    },
+    {
+      "description": "Arbitrasyon başlasın.",
+      "name": "Illumina Judicium",
+      "code": "tr"
+    },
+    {
+      "description": "Нехай розпочнеться арбітраж.",
+      "name": "Світле правосуддя",
+      "code": "uk"
+    }
+  ]
+}

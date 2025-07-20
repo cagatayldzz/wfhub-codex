@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/ORKxLabOttoman",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-ottoman-148ec75496.png",
+  "name": "Entrati Ottoman",
+  "description": "Relax, as Albrecht Entrati must have, with this timeless ottoman.",
+  "languages": [
+    {
+      "description": "Entspanne dich, wie es Albrecht Entrati getan haben muss, mit diesem zeitlosen Sitzkissen.",
+      "name": "Entrati Sitzkissen",
+      "code": "de"
+    },
+    {
+      "description": "Détendez-vous, comme Albrecht Entrati doit l'avoir fait, avec ce pouf intemporel.",
+      "name": "Ottoman Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Rilassati, come faceva Albrecht Entrati, con questo pouf senza tempo.",
+      "name": "Pouf Entrati",
+      "code": "it"
+    },
+    {
+      "description": "이 시대를 초월한 오토만 위에서, 알브레히트 엔트라티가 분명 그리했듯 휴식을 취해 보세요.",
+      "name": "엔트라티 오토만 의자",
+      "code": "ko"
+    },
+    {
+      "description": "Relájate, como debe haberlo hecho Albrecht Entrati, en esta otomana atemporal.",
+      "name": "Otomana Entrati",
+      "code": "es"
+    },
+    {
+      "description": "踏上这款经久不衰的脚凳放松身心，就像阿尔布雷希特·英择谛所做的一样。",
+      "name": "英择谛脚凳",
+      "code": "zh"
+    },
+    {
+      "description": "Расслабьтесь, как это, должно быть, делал Альбрехт Энтрати, с этим вневременным пуфиком.",
+      "name": "Энтрати: Пуфик",
+      "code": "ru"
+    },
+    {
+      "description": "Albrecht Entratiがしたように、この時を超越したオットマンでくつろごう。",
+      "name": "エントラティ オットマン",
+      "code": "ja"
+    },
+    {
+      "description": "Zrelaksuj się na tej ponadczasowej pufie, tak jak zrobił to Albrecht Entrati.",
+      "name": "Entrati: Pufa",
+      "code": "pl"
+    },
+    {
+      "description": "Relaxe, assim como Albrecht Entrati fez, com este banquinho otomano atemporal.",
+      "name": "Banquinho Otomano Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "踏在這張不過時的擱腳凳上來像阿爾布雷希特．源拓氏那樣休息放鬆。",
+      "name": "源拓氏擱腳凳",
+      "code": "tc"
+    },
+    {
+      "description": "ผ่อนคลายอย่างที่ Albrecht Entrati ชอบทำด้วยเก้าอี้ออตโตมันเหนือกาลเวลาตัวนี้",
+      "name": "เก้าอี้ออตโตมัน Entrati",
+      "code": "th"
+    },
+    {
+      "description": "Albrecht Entrati'nin olması gerektiği gibi bu zamansız iskemlede rahatla.",
+      "name": "Entrati İskemlesi",
+      "code": "tr"
+    },
+    {
+      "description": "Розслабтеся, як певно й не раз робив Альбрехт Ентраті, на цьому вічному пуфі.",
+      "name": "Пуф Ентраті",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Events/EventGlyphCaviaTagfer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tagfer-sketch-glyph-bfe0648a46.png",
+  "name": "Tagfer Sketch Glyph",
+  "description": "Present Loid's Tagfer sketch as a Glyph for all to see.",
+  "languages": [
+    {
+      "description": "Präsentiere Loids Tagfer-Skizze als Glyphe für alle sichtbar.",
+      "name": "Glyphe: Tagfer-Skizze",
+      "code": "de"
+    },
+    {
+      "description": "Présente le croquis de Tagfer par Loid sous forme de Glyphe visible par tous.",
+      "name": "Glyphe de croquis de Tagfer",
+      "code": "fr"
+    },
+    {
+      "description": "Mostra lo schizzo di Tagfer fatto da Loid come Glifo affinché tutti possano vederlo.",
+      "name": "Glifo Schizzo Tagfer",
+      "code": "it"
+    },
+    {
+      "description": "로이드가 그린 태그퍼의 스케치를 모두가 볼 수 있는 글리프로 선보여보세요.",
+      "name": "태그퍼 스케치 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra el boceto de Tagfer hecho por Loid como un glifo para que todos lo vean.",
+      "name": "Glifo Boceto de Tagfer",
+      "code": "es"
+    },
+    {
+      "description": "将洛德笔下的标弃素描呈现为浮印，供大家欣赏。",
+      "name": "标弃素描浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Представьте набросок Тагфера, сделанный Лойдом в виде глифа на всеобщее обозрение.",
+      "name": "Глиф: Набросок Тагфера",
+      "code": "ru"
+    },
+    {
+      "description": "Loidが描いたTagferのスケッチをグリフとして提示しよう。",
+      "name": "Tagfer スケッチグリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Pokaż szkic Tagfera Loida jako Glif, aby wszyscy mogli go podziwiać.",
+      "name": "Glif Szkicu Tagfera",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba o esboço do Tagfer, feito pelo Loid, como um Glifo para que todos vejam.",
+      "name": "Glifo: Esboço do Tagfer",
+      "code": "pt"
+    },
+    {
+      "description": "將 Loid 的汰廢素描用作浮印給所有人看。",
+      "name": "汰廢素描浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพ Tagfer ที่ Loid ร่างขึ้นมาเป็นภาพสัญลักษณ์ให้ทุกคนได้เห็น",
+      "name": "ภาพสัญลักษณ์ Tagfer Sketch",
+      "code": "th"
+    },
+    {
+      "description": "Loid'in Tagfer çizimini herkesin görmesi için bir Glif olarak sergile.",
+      "name": "Tagfer Eskiz Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Можна побачити нарис Таґфера від Лойда у вигляді гліфа.",
+      "name": "Гліф «Нарис Таґфера»",
+      "code": "uk"
+    }
+  ]
+}

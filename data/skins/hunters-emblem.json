@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/FoundersBadgeHunterItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hunter's-emblem-0de158286f.png",
+  "name": "Hunter's Emblem",
+  "description": "This emblem signifies the wearer as being a Hunter within the Tenno ranks.",
+  "languages": [
+    {
+      "description": "Dieses Abzeichen kennzeichnet den Träger als Hunter unter den Tenno Rängen.",
+      "name": "Emblem: Hunter",
+      "code": "de"
+    },
+    {
+      "description": "Ce Badge désigne le porteur comme étant un Chasseur parmi les Tennos.",
+      "name": "Badge de Chasseur",
+      "code": "fr"
+    },
+    {
+      "description": "Questo emblema identifica chi la indossa come Cacciatore all'interno dei ranghi dei Tenno.",
+      "name": "Emblema Hunter",
+      "code": "it"
+    },
+    {
+      "description": "이 엠블럼은 착용자가 헌터 랭크의 텐노임을 상징합니다.",
+      "name": "헌터의 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Este emblema indica que el portador es un Cazador entre los rangos tenno.",
+      "name": "Emblema de Cazador",
+      "code": "es"
+    },
+    {
+      "description": "这枚徽章代表着佩戴者是 Tenno 中的巡猎者阶级。",
+      "name": "巡猎者徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот значок идентифицирует носителя как охотника в иерархии Тэнно.",
+      "name": "Значок: Охотник",
+      "code": "ru"
+    },
+    {
+      "description": "ハンターランクに位置する戦士のみが身に付けることを許されたエンブレム。",
+      "name": "ハンター エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Ten emblemat wyróżnia noszącą go osobę jako Fundatora o randze 'Hunter'.",
+      "name": "Emblemat: Łowca",
+      "code": "pl"
+    },
+    {
+      "description": "Este emblema representa o Tenno como Caçador entre os Escalões Tenno.",
+      "name": "Emblema: Caçador",
+      "code": "pt"
+    },
+    {
+      "description": "這枚徽章代表著佩戴者是 Tenno 中的巡獵者階級。",
+      "name": "巡獵者徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์นี้บ่งบอกว่าผู้สวมใส่อยู่ในฐานะนักล่าในการจัดอันดับของ Tenno",
+      "name": "ตราสัญลักษณ์: นักล่า",
+      "code": "th"
+    },
+    {
+      "description": "Bu rozet sahibi Tenno'nun Hunter olduğunu gösterir",
+      "name": "Hunter Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Власник цієї відзнаки є Мисливцем у лавах тенно.",
+      "name": "Відзнака «Мисливець»",
+      "code": "uk"
+    }
+  ]
+}

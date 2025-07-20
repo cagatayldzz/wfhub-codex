@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/efv-8-mars-bda55bc38c.png",
+  "name": "Efv-8 Mars",
+  "description": "The standard issue personal Efervon projector, as sported by all ranks of Scaldra.",
+  "languages": [
+    {
+      "description": "Der standardmäßige persönliche Efervon-Projektor, wie ihn Scaldra aller Dienstgrade tragen.",
+      "name": "EFV-8 Mars",
+      "code": "de"
+    },
+    {
+      "description": "Le projecteur personnel standard Efervon, porté par tous les soldats de la Scaldra.",
+      "name": "EFV-8 Mars",
+      "code": "fr"
+    },
+    {
+      "description": "Il proiettore Efervon personale standard, indossato da tutti i soldati Scaldra.",
+      "name": "EFV-8 Mars",
+      "code": "it"
+    },
+    {
+      "description": "스칼드라의 모든 계급이 사용하는 표준형 개인 에퍼본 투사기입니다.",
+      "name": "EFV-8 마스",
+      "code": "ko"
+    },
+    {
+      "description": "El lanzador personal estándar de Efervon, usado por todos los soldados de la Scaldra.",
+      "name": "EFV-8 Mars",
+      "code": "es"
+    },
+    {
+      "description": "（英文：EFV-8 MARS）标准的单兵艾弗旺喷射器，各个军衔的炽蛇军都配有此武器。",
+      "name": "艾弗旺-8 火星",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный эфервонский пистолет, имеющийся у бойцов Скальдры всех рангов.",
+      "name": "ЭФВ-8 Марс",
+      "code": "ru"
+    },
+    {
+      "description": "スカルドラの全階級が標準装備する、個人用エフェルボン プロジェクター。",
+      "name": "EFV-8 Mars",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa, ręczna wyrzutnia Eferwonu, używana przez wszystkie stopnie żołnierzy Scaldry.",
+      "name": "EFV-8 Mars",
+      "code": "pl"
+    },
+    {
+      "description": "Um lançador de Efervão pessoal, utilizado por todos os escalões da Scaldra.",
+      "name": "EFV-8 Marte",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：EFV-8 MARS）這個惡沸患噴槍是全體清剿隊的標準配槍。",
+      "name": "惡沸患－8 火星",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องยิง Efervon ส่วนตัวแบบมาตรฐานที่ Scaldra ทุกระดับใช้",
+      "name": "EFV-8 Mars",
+      "code": "th"
+    },
+    {
+      "description": "Scaldra'nın tüm seviyeleri tarafından kullanılan standart kişisel Efervon projektörü.",
+      "name": "EFV-8 Mars",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний ефервонський пістолет, наявний у всіх бійців «Скальдри».",
+      "name": "ЕФВ-8 «Марс»",
+      "code": "uk"
+    }
+  ]
+}

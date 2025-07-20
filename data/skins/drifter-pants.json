@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drifter-pants-8f9dd734ee.png",
+  "name": "Drifter Pants",
+  "description": "Ragged leather pants and boots worn by The Drifter.",
+  "languages": [
+    {
+      "description": "Zerlumpte Lederhosen und Stiefel, die vom Drifter getragen wurden.",
+      "name": "Hosen: Drifter",
+      "code": "de"
+    },
+    {
+      "description": "Des bottes et un pantalon usés en cuir portés par le Voyageur.",
+      "name": "Pantalon du Voyageur",
+      "code": "fr"
+    },
+    {
+      "description": "Pantaloni e stivali di pelle logorata indossati dal Drifter.",
+      "name": "Pantaloni - Drifter",
+      "code": "it"
+    },
+    {
+      "description": "드리프터가 착용하는, 해진 가죽으로 된 바지와 부츠입니다.",
+      "name": "드리프터 팬츠",
+      "code": "ko"
+    },
+    {
+      "description": "Pantalones harapientos y botas de cuero usados por el Viajero.",
+      "name": "Pantalones del Viajero",
+      "code": "es"
+    },
+    {
+      "description": "漂泊者所穿的破旧皮裤和靴子。",
+      "name": "漂泊者裤装",
+      "code": "zh"
+    },
+    {
+      "description": "Ветхие кожаные штаны и сапоги, которые носил Скиталец.",
+      "name": "Штаны: Скиталец",
+      "code": "ru"
+    },
+    {
+      "description": "漂流者が着用するボロボロのレザーズボンとブーツ。",
+      "name": "漂流者のズボン",
+      "code": "ja"
+    },
+    {
+      "description": "Podarte, skórzane spodnie i buty noszone przez Włóczęgę.",
+      "name": "Spodnie Włóczęgi",
+      "code": "pl"
+    },
+    {
+      "description": "Calças de couro esfarrapadas e botas usadas pelo Peregrino.",
+      "name": "Calças do Peregrino",
+      "code": "pt"
+    },
+    {
+      "description": "漂泊者所穿的破舊皮革褲子和靴子。",
+      "name": "漂泊者褲子",
+      "code": "tc"
+    },
+    {
+      "description": "กางเกงหนังขาด ๆ และรองเท้าบูทที่ดริฟเตอร์สวมใส่",
+      "name": "กางเกงดริฟเตอร์",
+      "code": "th"
+    },
+    {
+      "description": "Gezgin tarafından giyilen, yırtık pırtık deri pantolonlar ve çizmeler.",
+      "name": "Gezgin Pantolonu",
+      "code": "tr"
+    },
+    {
+      "description": "Пошарпані шкіряні штани та чоботи мандрівника.",
+      "name": "Штани «Мандрівник»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/GolemRaidBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jordas-sekhara-49b997c336.png",
+  "name": "Jordas Sekhara",
+  "description": "A fragment of the Jordas Golem worn as a trophy by those who defeated him.",
+  "languages": [
+    {
+      "description": "Ein Fragment des Jordas Golems, von jenen als Trophäe getragen, die ihn besiegten.",
+      "name": "Jordas Sekhara",
+      "code": "de"
+    },
+    {
+      "description": "Un fragment du Golem Jordas porté comme Trophée par ceux qui l'ont vaincu.",
+      "name": "Sekhara Jordas",
+      "code": "fr"
+    },
+    {
+      "description": "Un frammento del Jordas Golem portato come trofeo da coloro che lo hanno sconfitto.",
+      "name": "Sekhara Jordas",
+      "code": "it"
+    },
+    {
+      "description": "조르다스 골렘을 쓰러뜨린 자들이 전리품으로써 착용하는 골렘의 조각입니다.",
+      "name": "조르다스 세카라",
+      "code": "ko"
+    },
+    {
+      "description": "Un fragmento del Golem Jordas equipado como trofeo por aquellos que lo han derrotado.",
+      "name": "Sekhara Jordas",
+      "code": "es"
+    },
+    {
+      "description": "将 Jordas 魔像的碎片佩戴在身上，作为击败他的战利品。",
+      "name": "Jordas 饰冠",
+      "code": "zh"
+    },
+    {
+      "description": "Фрагмент Голема Джордаса, носимый как награда теми, кто смог одолеть его.",
+      "name": "Секара: Джордас",
+      "code": "ru"
+    },
+    {
+      "description": "Jordas Golem の断片。この怪物を倒した者だけがトロフィーとして身に着けることができる。",
+      "name": "Jordas エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Część Golema Jordasa, noszona jako trofeum przez tych, którzy go zabili.",
+      "name": "Jordas Sekhara",
+      "code": "pl"
+    },
+    {
+      "description": "Fragmento do Jordas Golem usado como troféu por aqueles que o derrotaram.",
+      "name": "Sekhara: Jordas",
+      "code": "pt"
+    },
+    {
+      "description": "將 Jordas 魔像的碎片佩戴在身上，作為擊敗他的戰利品。",
+      "name": "Jordas 飾冠",
+      "code": "tc"
+    },
+    {
+      "description": "ชิ้นส่วนของ Jordas Golem ถือเป็นรางวัลของผู้ที่ปราบมันลงได้",
+      "name": "เสกขรา Jordas",
+      "code": "th"
+    },
+    {
+      "description": "Jordas Golem'i yenmeyi başaranlar tarafından takılan bir ganimet",
+      "name": "Jordas Sekhara",
+      "code": "tr"
+    },
+    {
+      "description": "Частина Джордесового ґолема, переможний трофей.",
+      "name": "Шекхара «Джордес»",
+      "code": "uk"
+    }
+  ]
+}

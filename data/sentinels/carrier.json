@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/CarrierPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/carrier-f4e5806f6e.png",
+  "name": "Carrier",
+  "description": "With 'Assault Mode' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.",
+  "armor": 80,
+  "languages": [
+    {
+      "description": "Mit 'Angriff' und 'Munitionskiste' als Standard-Verhaltensregel, ist Carrier ein Such-Wächter. Carrier ist ebenfalls mit einer Schrotflinte ausgestattet.",
+      "name": "Carrier",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Mode Assaut' et 'Caisse à Munitions' comme Préceptes de base, Carrier est une Sentinelle chercheuse. Carrier est également livré avec un Fusil à Pompe.",
+      "name": "Carrier",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Assault Mode' e 'Ammo Case' come Precetti base, Carrier è una Sentinella cercatrice. Carrier è anche equipaggiata con un fucile a pompa.",
+      "name": "Carrier",
+      "code": "it"
+    },
+    {
+      "description": "'어썰트 모드' 및 '애모 케이스'를 기본 프리셉트로 탑재한 캐리어는 탐색용 센티넬로, 주무기로 산탄총을 장비합니다.",
+      "name": "캐리어",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Modo de asalto' y 'Caja de munición' como preceptos predeterminados, Carrier es un centinela buscador. Carrier también viene con un arma de tipo escopeta.",
+      "name": "Carrier",
+      "code": "es"
+    },
+    {
+      "description": "以「突击模式」和「弹药储转箱」为预设指令，搬运者是一个前锋守护，并配备一把霰弹枪。",
+      "name": "搬运者",
+      "code": "zh"
+    },
+    {
+      "description": "С заповедями «Атакующий режим» и «Оружейный ящик», Носитель является стражем-ищейкой. Снаряжён дробовиком «Чистильщик».",
+      "name": "Носитель",
+      "code": "ru"
+    },
+    {
+      "description": "「Assault Mode」と「Ammo Case」を標準搭載したCarrierは、偵察行動に特化したセンチネルである。ショットガンを搭載し、援護射撃を行う。",
+      "name": "Carrier",
+      "code": "ja"
+    },
+    {
+      "description": "Z Instrukcjami 'Napastnik'i 'Pojemnik Amunicji', Carrier działa jako Strażnik-poszukiwacz. Standardowo uzbrojony jest w strzelbę.",
+      "name": "Carrier",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Assault Mode' e 'Ammo Case' como preceitos padrões, a Carrier é uma sentinela utilitária. Ela vem equipada com uma escopeta.",
+      "name": "Carrier",
+      "code": "pt"
+    },
+    {
+      "description": "以「突擊模式」和「彈藥儲轉箱」為預設指令，搬運者是一個前鋒守護，並配備一把霰彈槍。",
+      "name": "搬運者",
+      "code": "tc"
+    },
+    {
+      "description": "Carrier เป็นเซนติเนลค้นหา โดยมี 'Assault Mode' และ 'Ammo Case' เป็นคำสั่งเริ่มต้น นอกจากนี้ Carrier ยังมาพร้อมกับอาวุธปืนลูกซองอีกด้วย",
+      "name": "Carrier",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergeleri 'Assault Mode' ve 'Ammo Case' ile beraber kullanıldığında Carrier bir arama bulma Sentineline dönüşür. Carrier ayrıca bir pompalı tüfek ile beraber gelir.",
+      "name": "Carrier",
+      "code": "tr"
+    },
+    {
+      "description": "Вартовий-шукач, має стандартні настанови «Скриня з набоями» та «Штурмовий режим». Споряджений рушницею.",
+      "name": "Носій",
+      "code": "uk"
+    }
+  ]
+}

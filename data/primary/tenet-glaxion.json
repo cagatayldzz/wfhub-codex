@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEGlaxion/CrpBEGlaxion",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-glaxion-7236ec1e72.png",
+  "name": "Tenet Glaxion",
+  "description": "Advances in microelectronics have improved a Corpus classic. Tenet Glaxion’s photon beam strikes up to four enemies at once. It also boasts superior Damage, Critical Chance, and Status Chance.",
+  "languages": [
+    {
+      "description": "Fortschritte in der Mikroelektronik haben einen Corpus Klassiker verbessert. Der Photonenstrahl von Tenet Glaxion trifft bis zu vier Feinde gleichzeitig. Er bietet außerdem höhere Schadens-, Kritische und Statuschancen.",
+      "name": "Tenet Glaxion",
+      "code": "de"
+    },
+    {
+      "description": "Les progrès de la microélectronique ont amélioré un classique Corpus. Le faisceau de photons du Glaxion - Principe frappe jusqu'à quatre ennemis à la fois. Il offre également des Dégâts, des Chances de Critique et des Chances de Statut supérieurs.",
+      "name": "Glaxion - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "I progressi nella microelettronica hanno migliorato una classica arma Corpus. Il raggio fotonico del Tenet Glaxion colpisce fino a quattro nemici contemporaneamente. Vanta anche un aumento di Danno, Probabilità Critico ed Effetto.",
+      "name": "Tenet Glaxion",
+      "code": "it"
+    },
+    {
+      "description": "마이크로전자공학의 발전이 코퍼스의 고전적인 무기를 향상시켰습니다. 테넷 글랙시온의 광자 빔은 한 번에 최대 4명의 적들을 공격할 수 있으며, 또한 보다 우수한 피해, 치명타 확률 및 상태 이상 확률을 자랑합니다.",
+      "name": "테넷 글랙시온",
+      "code": "ko"
+    },
+    {
+      "description": "Los avances en la microelectrónica han mejorado al corpus clásico. El rayo de fotones del Glaxion Tenet alcanza a hasta cuatro enemigos a la vez. También ofrece mayor daño, probabilidad crítica y probabilidad de estado.",
+      "name": "Glaxion Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET GLAXION）微电子技术的进步改进了 Corpus 的经典武器。信条·冷冻光束步枪的光子束最多可以同时攻击四个敌人。它还拥有较高的伤害、暴击几率和触发几率。",
+      "name": "信条·冷冻光束步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Достижения в области микроэлектроники улучшили классику Корпуса. Фотонный луч Глаксиона класса «Догмат» поражает до четырёх врагов одновременно. Он также может похвастаться превосходными характеристиками наносимого урона, шансом критического урона и шансом статуса.",
+      "name": "Глаксион Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "超小型電気器具の発展によりコーパスの名作が改良された。Tenet Glaxionのフォトンビームは一度に最大4体の敵を攻撃する。なおかつ高次元のダメージ、クリティカル率、状態異常確率を誇る。",
+      "name": "Tenet Glaxion",
+      "code": "ja"
+    },
+    {
+      "description": "Postęp w dziedzinie mikroelektroniki pozwolił ulepszyć klasyczny Corpus. Wiązka fotonów Glaxionu Dogmatu razi do czterech wrogów jednocześnie. Oferuje także większe Obrażenia, Szansę na Obrażenia Krytyczne i Szansę Statusu.",
+      "name": "Glaxion Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "Os avanços na microeletrônica aprimoraram este armamento clássico dos Corpus. Além do feixe de fótons da Glaxion Tenet atingir até quatro inimigos ao mesmo tempo, esta arma também possui Dano, Chance Crítica e Chance de Status superiores.",
+      "name": "Glaxion Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET GLAXION）先進的微電子技術改良了 Corpus 的經典之作，教條冷凍光束步槍的光子束最多能同時攻擊四名敵人之外，還擁有優秀的傷害、暴擊率以及狀態觸發機率。",
+      "name": "教條 冷凍光束步槍",
+      "code": "tc"
+    },
+    {
+      "description": "ความก้าวหน้าด้านไมโครอิเล็กทรอนิกส์ได้ถูกนำไปปรับปรุงอาวุธของ Corpus รุ่นคลาสสิกทำให้เกิดเป็นอาวุธกระบอกนี้ขึ้นมา ซึ่งลำแสงโฟตอนของ Tenet Glaxion สามารถโจมตีศัตรูได้มากถึงสี่คนในคราวเดียว นอกจากนี้ยังมีอานุภาพสร้างความเสียหาย โอกาสคริติคอล และโอกาสสถานะที่เหนือชั้นกว่าอีกด้วย",
+      "name": "Tenet Glaxion",
+      "code": "th"
+    },
+    {
+      "description": "Mikroelektronikteki gelişmeler bir Corpus klasiğinin gelişmesini sağladı. Tenet Glaxion'un foton ışını aynı anda dört düşmana birden vurur. Ayrıca üstün Hasar, Kritik Şans ve Statü Şansına sahiptir.",
+      "name": "Tenet Glaxion",
+      "code": "tr"
+    },
+    {
+      "description": "Класична зброя Корпусу з поліпшеною мікроелектронною частиною. Фотонові промені Ґлаксіо-догмат уражають до чотирьох ворогів одразу. Також наявні підвищена шкода, імовірність критичної шкоди та накладання ефекту стану.",
+      "name": "Ґлаксіо-догмат",
+      "code": "uk"
+    }
+  ]
+}

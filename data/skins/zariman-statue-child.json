@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxStatueChildHeroicA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-statue-(child)-c36dbfea51.png",
+  "name": "Zariman Statue (Child)",
+  "description": "A golden statue celebrating the future of the Zariman colonists, their children.",
+  "languages": [
+    {
+      "description": "Eine goldene Statue, die die Zukunft der Zariman-Kolonisten feiert: Ihre Kinder.",
+      "name": "Zariman Statue (Kind)",
+      "code": "de"
+    },
+    {
+      "description": "Une statue dorée célébrant l'avenir des colons du Zariman, leurs enfants.",
+      "name": "Zariman: Statue (enfant)",
+      "code": "fr"
+    },
+    {
+      "description": "Una statua d'oro che celebra il futuro dei coloni Zariman, i loro figli.",
+      "name": "Statua Zariman (Bambino)",
+      "code": "it"
+    },
+    {
+      "description": "자리만 개척민들의 미래 그 자체인, 그들의 아이들을 기리는 황금빛 조각상입니다.",
+      "name": "자리만 스태츄 (어린이)",
+      "code": "ko"
+    },
+    {
+      "description": "Una estatua dorada que celebra el futuro de los colonos de Zariman: sus hijos.",
+      "name": "Estatua Zariman (niño)",
+      "code": "es"
+    },
+    {
+      "description": "一座金色雕像，庆祝扎里曼殖民者的未来——即其孩子。",
+      "name": "扎里曼雕像（儿童）",
+      "code": "zh"
+    },
+    {
+      "description": "Золотая статуя в память о будущем колонистов Заримана, их детей.",
+      "name": "Зариман: Статуя (ребёнок)",
+      "code": "ru"
+    },
+    {
+      "description": "Zariman入植者の未来である子供を祝う黄金の像。",
+      "name": "Zariman 像（子）",
+      "code": "ja"
+    },
+    {
+      "description": "Złota statua upamiętniająca przyszłość kolonistów Zarimana, ich dzieci.",
+      "name": "Zariman: Posąg (dziecko)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estátua dourada representando o futuro dos colonizadores da Zariman, os seus filhos.",
+      "name": "Estátua da Zariman (Criança)",
+      "code": "pt"
+    },
+    {
+      "description": "一座金色雕像，慶祝扎日曼殖民者的未來──即其孩子。",
+      "name": "扎日曼雕像（兒童）",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นทองคำเฉลิมฉลองให้กับอนาคตของชาวอาณานิคม Zariman ลูก ๆ ของพวกเขาเอง",
+      "name": "Zariman: รูปปั้น (เด็ก)",
+      "code": "th"
+    },
+    {
+      "description": "Zariman kolonistlerinin, çocuklarının geleceğini kutlayan altın bir heykel.",
+      "name": "Zariman Heykeli (Çocuk)",
+      "code": "tr"
+    },
+    {
+      "description": "Золота статуетка дитини, що позначає майбутнє колоністів «Заримена».",
+      "name": "Статуетка із «Заримена» (дитя)",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Venus/LakeContaminantTierB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/longwinder-bait-7fbf77bcde.png",
+  "name": "Longwinder Bait",
+  "description": "This bait is synthesized from beryzene that is known to attract Longwinders, a Servofish found in Orb Vallis lake hotspots during warm weather.\n\nObtained via The Business in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Dieser Köder wird aus Beryzen synthetisiert, das dafür bekannt ist, Langwickler anzuziehen, Servofische, die bei warmem Wetter in den Seen des Orbis-Tals zu finden ist.\n\nZu erhalten von The Business in Fortuna (Venus).",
+      "name": "Köder: Langwickler",
+      "code": "de"
+    },
+    {
+      "description": "Cet appât est synthétisé à partir de béryzène connu pour attirer les Longwinders. Ces Servopoissons peuvent être trouvés à des points d'affluence dans les lacs de la Vallée Orbis par temps chaud.\n\nObtenu via Le Bizness à Fortuna (Vénus).",
+      "name": "Appât pour Longwinder",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca è sintetizzata dal berizene che attrae i Longwinder, un tipo di Servofish che può essere trovato solo nei punti caldi dei laghi di Orb Vallis durante la stagione calda.\n\nAcquistabile da The Business su Fortuna (Venere).",
+      "name": "Esca Longwinder",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 오브 협곡의 따뜻한 날씨에 호수에서 발견되는 서보피쉬인 롱와인더를 유인하는 것으로 알려진 베리진으로 합성되었습니다.\n\n포르투나 (금성) 의 비즈니스로부터 획득할 수 있습니다.",
+      "name": "롱와인더 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta carnada está sintetizada de beryzeno que es conocido por atraer ampliabobinas, un servopez que se encuentra en zonas activas en los lagos de los Valles del Orbe durante el clima cálido.\n\nObtenido con The Business en Fortuna (Venus).",
+      "name": "Carnada de Ampliabobina",
+      "code": "es"
+    },
+    {
+      "description": "这种鱼饵由铍苯合成，用于吸引长型环绕者，一种可在温暖天气的湖泊中找到的伺服鱼。\n\n从福尔图娜（金星）的 The Business 处获得。",
+      "name": "长型环绕者鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта наживка синтезирована из беризена, известного тем, что он привлекает длиннокрутов — серворыбу, которую можно обнаружить в горячих точках озёр Долины Сфер во время тёплой погоды.\n\nМестонахождение: у Бизнеса в Фортуне (Венера).",
+      "name": "Приманка на длиннокрута",
+      "code": "ru"
+    },
+    {
+      "description": "このベイトは、温暖サイクル時にオーブ峡谷の湖のホットスポットで見つかるサーボ魚であるロングワインダーを引き寄せることで知られるベリゼンから合成された\n\nフォーチュナー (金星) のThe Businessから入手可能。",
+      "name": "ロングワインダー ・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta przynęta jest syntezowana z berezyny, która jest znana z właściwości wabiących Długowije, Serworyby występujące w jeziorach Orb Vallis podczas ciepłej pogody.\n\nMoże zostać zakupiona od Biznesa w Fortunie (Wenus).",
+      "name": "Przynęta Długowija",
+      "code": "pl"
+    },
+    {
+      "description": "Esta isca é sintetizada a partir de benzenos, conhecidos por atrair o Longwinder, um Peixe-Servo encontrado em locais de pesca dos lagos do Vallis das Orbes nos dias de clima quente.\n\nLocalização: obtido com o Business em Fortuna, em Vênus.",
+      "name": "Isca de Longwinder",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚餌由鈹苯合成，能夠吸引長型環繞者，一種在溫暖週期於奧布山谷湖泊魚點裡找到的伺服魚。\n\n可以從福爾圖娜（金星）的 Business 取得。",
+      "name": "長型環繞者魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อล่อชิ้นนี้สังเคราะห์จากเบอรีซีนที่สามารถดึงดูดปลา Longwinder ซึ่งเป็นเซอร์โวฟิชที่พบได้ในจุดฮอตสปอตที่มีปลาชุกชุมในทะเลสาบของออร์บวัลลิสในช่วงที่อากาศอบอุ่น\n\nรับได้จาก The Business ในฟอร์ทูนา (ดาวศุกร์)",
+      "name": "เหยื่อล่อ Longwinder",
+      "code": "th"
+    },
+    {
+      "description": "Bu yem, sıcak hava koşullarında göllerde bulunabilen bir Servobalık olan Longwinder'ları çekmek için beryzene'den sentezlenmiştir.\n\nKaynak: Fortuna'da (Venüs) bulunan Business'ten temin edilebilir.",
+      "name": "Longwinder Yemi",
+      "code": "tr"
+    },
+    {
+      "description": "Приманка синтезована з беризену, що приваблює довгов’юна — серворибу, яка трапляється в Долині Куль у певних місцях озер під час теплої погоди.\n\nМожна придбати в Бізнеса у Фортуні (Венера).",
+      "name": "Приманка на довгов’юна",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/Laser/Beam/VidarRailJackBeamWeaponTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/photor.png",
+  "name": "Vidar Photor Mk I",
+  "description": "Photon lance: two focused beams instantly sear enemy ships, often engulfing them in flame.",
+  "languages": [
+    {
+      "description": "Photon-Lanze: zwei fokussierte Strahlen versengen feindliche Schiffe und setzen sie oft in Brand.",
+      "name": "Vidar Photor MK I",
+      "code": "de"
+    },
+    {
+      "description": "Lance à photons: deux faisceaux focalisés convergent instantanément sur les vaisseaux ennemis, les transformant le plus souvent en boules de feu.",
+      "name": "Photor Vidar MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Lancia Fotonica: due raggi focalizzati bruciano immediatamente le navi nemiche, avvolgendole spesso tra le fiamme.",
+      "name": "Photor Vidar MK I",
+      "code": "it"
+    },
+    {
+      "description": "광자 랜스: 두 개의 집중된 빔을 발사해 적의 함선을 즉시 지지며 간혹 화염에 휩싸이게 합니다.",
+      "name": "비다르 포토어 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Lanza fotónica: dos rayos enfocados queman instantáneamente las naves enemigas, envolvíéndolas en llamas con frecuencia.",
+      "name": "Photor Vidar MK I",
+      "code": "es"
+    },
+    {
+      "description": "光子喷枪：两束高密度激光在转瞬间灼烧敌舰，常常将敌舰吞没在火焰中。",
+      "name": "Vidar 光子聚熔炮 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Фотонное копье: два сфокусированных луча начинают мгновенно прожигать вражеские корабли, часто вызывая пожар.",
+      "name": "Фотор: Вайдер MK I",
+      "code": "ru"
+    },
+    {
+      "description": "フォトンランス：　集中砲火された二つのビームで敵船を瞬時に炙り、時に燃焼させる。",
+      "name": "ビダール・フォトール MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Lanca fotonowa: dwa skupione promienie natychmiast palące wrogie statki, często je podpalając.",
+      "name": "Fotor: Vidar MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Lança de fótons: dois feixes instantaneamente focalizados que derretem naves inimigas, ocasionalmente incendiando-as.",
+      "name": "Photor: Vidar (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PHOTOR）兩束集中的光束可以立即灼燒敵軍船艦，通常使它們被大火吞噬。",
+      "name": "維達光子烈矛 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "โฟตอนแลนซ์: สองลำแสงโฟกัสที่จะเผาไหม้ยานของศัตรูทันที โดยมักจะกลืนพวกมันไปในเปลวไฟ",
+      "name": "Vidar Photor MK I",
+      "code": "th"
+    },
+    {
+      "description": "Photon lance: İki odaklanmış ışın düşman gemilerini anında yakar, çoğu zaman onları alevler içinde bırakır.",
+      "name": "Vidar Photor MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Фотонний спис: два концентровані промені нагрівають ворожі зорельоти, часто спричиняючи пожежу.",
+      "name": "Фотор «Відар» MK I",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FortunaSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lift-together-sigil-5a26952cc9.png",
+  "name": "Lift Together Sigil",
+  "description": "A sigil depicting the mark of Solaris United",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das Zeichen von Solaris United darstellt.",
+      "name": "Siegel: Gemeinsam Tragen",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant la marque de l'Union Solaris",
+      "name": "Sceau Soulevons Ensemble",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo raffigurante il marchio di Solaris United",
+      "name": "Sigillo Lift Together",
+      "code": "it"
+    },
+    {
+      "description": "솔라리스 연합의 문장이 묘사된 시질입니다.",
+      "name": "리프트 투게더 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa la marca de Solaris Unida",
+      "name": "Sello Trabajamos Juntos",
+      "code": "es"
+    },
+    {
+      "description": "一枚绘制了索拉里斯标志的纹章。",
+      "name": "共度时艰纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Объединения Солярис",
+      "name": "Сигил: Воспрянем Вместе",
+      "code": "ru"
+    },
+    {
+      "description": "ソラリス連合のシンボルを表するシジル",
+      "name": "Lift Together シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający oznaczenie Zjednoczonego Solaris.",
+      "name": "Znak Wspólnej Pracy",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando a marca da União Solaris",
+      "name": "Brasão: Unidos Ascendemos",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪索拉里斯聯盟標誌的紋章。",
+      "name": "患難與共紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึงสัญลักษณ์ของ Solaris United",
+      "name": "เครื่องหมาย: Lift Together",
+      "code": "th"
+    },
+    {
+      "description": "Solaris United'ı tasvir eden bir mühür.",
+      "name": "Bu Yük Hepimizin Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням емблеми «Солярійської єдності».",
+      "name": "Сиґіл «Нумо разом»",
+      "code": "uk"
+    }
+  ]
+}

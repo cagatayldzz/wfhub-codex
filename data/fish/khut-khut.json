@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khut-khut-d02c18bfdc.png",
+  "name": "Khut-Khut",
+  "description": "A poisonous fish protected by a hardened carapace around its skull.",
+  "languages": [
+    {
+      "description": "Ein giftiger Fisch, der von einer harten Kruste um seinen Schädel geschützt wird.",
+      "name": "Khut-Khut",
+      "code": "de"
+    },
+    {
+      "description": "Un poisson venimeux protégé d'une carapace endurcie enveloppant son crâne.",
+      "name": "Khut-Khut",
+      "code": "fr"
+    },
+    {
+      "description": "Un pesce velenoso protetto da un carapace robusto intorno al suo teschio.",
+      "name": "Khut-Khut",
+      "code": "it"
+    },
+    {
+      "description": "독성을 띤 이 물고기는 머리뼈 주변의 딱딱한 껍질로 자신을 보호합니다.",
+      "name": "쿳-쿳",
+      "code": "ko"
+    },
+    {
+      "description": "Un pez venenoso protegido por un caparazón endurecido alrededor de su cráneo.",
+      "name": "Khut-Khut",
+      "code": "es"
+    },
+    {
+      "description": "一种有毒的鱼，被其头骨外的坚硬外壳保护。",
+      "name": "库特-库特",
+      "code": "zh"
+    },
+    {
+      "description": "Ядовитая рыба, защищенная прочным костным наростом вокруг черепа.",
+      "name": "Кхут-кхут",
+      "code": "ru"
+    },
+    {
+      "description": "骸骨の周りにある甲羅で身を守る毒魚。",
+      "name": "クット・クット",
+      "code": "ja"
+    },
+    {
+      "description": "Trująca ryba chroniona przez wzmocniony pancerz na czaszce.",
+      "name": "Khut-Khut",
+      "code": "pl"
+    },
+    {
+      "description": "Um peixe venenoso protegido por uma carapaça endurecida ao redor de seu crânio.",
+      "name": "Khut-Khut",
+      "code": "pt"
+    },
+    {
+      "description": "一種有毒的魚，被其頭骨外的堅硬外殼保護。",
+      "name": "庫特-庫特",
+      "code": "tc"
+    },
+    {
+      "description": "ปลามีพิษที่หุ้มไว้ด้วยกระดองที่แข็งกระด้างรอบ ๆ กะโหลกของมัน",
+      "name": "Khut-Khut",
+      "code": "th"
+    },
+    {
+      "description": "Kafatası etrafındaki tabaka ile korunan zehirli bir balık.",
+      "name": "Khut-Khut",
+      "code": "tr"
+    },
+    {
+      "description": "Отруйна риба, захищена міцним панциром навколо черепа.",
+      "name": "Кхут-кхут",
+      "code": "uk"
+    }
+  ]
+}

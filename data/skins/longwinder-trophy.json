@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SolarisWarmRareFishATrophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/longwinder-trophy-ac1f33a7a1.png",
+  "name": "Longwinder Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "Trophäe: Langwickler",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "Trophée Longwinder",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "Trofeo Longwinder",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "롱와인더 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "Trofeo de Ampliabobina",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "长型环绕者奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "Трофей: Длиннокрут",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "ロングワインダー トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "Trofeum: Długowij",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "Troféu: Longwinder",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "長型環繞者標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: Longwinder",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "Longwinder Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "Трофей: довгов’юн",
+      "code": "uk"
+    }
+  ]
+}

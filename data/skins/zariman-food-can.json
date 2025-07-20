@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFoodCanB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-food-can-741f6ac32e.png",
+  "name": "Zariman Food Can",
+  "description": "A reusable food can.",
+  "languages": [
+    {
+      "description": "Eine wiederverwendbare Lebensmittel-Dose.",
+      "name": "Zariman Lebensmittel-Dose",
+      "code": "de"
+    },
+    {
+      "description": "Une boîte de conserve réutilisable.",
+      "name": "Zariman: Boîte de conserve",
+      "code": "fr"
+    },
+    {
+      "description": "Un lattina per alimenti riutilizzabile.",
+      "name": "Lattina per Alimenti Zariman",
+      "code": "it"
+    },
+    {
+      "description": "재사용 가능한 식품 캔입니다.",
+      "name": "자리만 식품 캔",
+      "code": "ko"
+    },
+    {
+      "description": "Una lata de comida reutilizable.",
+      "name": "Lata de comida Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个可重复使用的食品罐头。",
+      "name": "扎里曼食品罐头",
+      "code": "zh"
+    },
+    {
+      "description": "Пищевая банка для консервирования.",
+      "name": "Зариман: Банка консервов",
+      "code": "ru"
+    },
+    {
+      "description": "再利用可能な食料缶。",
+      "name": "Zariman 食料缶",
+      "code": "ja"
+    },
+    {
+      "description": "Konserwa wielokrotnego użytku.",
+      "name": "Zariman: Konserwa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lata reutilizável de comida.",
+      "name": "Lata de Comida da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "可再度使用的食品罐頭。",
+      "name": "扎日曼食品罐頭",
+      "code": "tc"
+    },
+    {
+      "description": "กระป๋องอาหารที่นำกลับมาใช้ซ้ำได้",
+      "name": "Zariman: กระป๋องอาหาร",
+      "code": "th"
+    },
+    {
+      "description": "Yeniden kullanılabilir bir gıda teneke kutusu.",
+      "name": "Zariman Gıda Teneke Kutusu",
+      "code": "tr"
+    },
+    {
+      "description": "Багаторазова банка для їжі.",
+      "name": "Харчова банка із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

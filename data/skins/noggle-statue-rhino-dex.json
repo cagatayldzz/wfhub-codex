@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/RhinoDexBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---rhino-dex-4d58a42e2c.png",
+  "name": "Noggle Statue - Rhino Dex",
+  "description": "A small wobbly statue of Rhino Dex.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Rhino Dex.",
+      "name": "Noggle-Statue: Rhino Dex",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Rhino Dex.",
+      "name": "Statuette Noggle - Rhino Dex",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Rhino Dex con la testa tremolante.",
+      "name": "Statuetta Noggle - Rhino Dex",
+      "code": "it"
+    },
+    {
+      "description": "라이노 덱스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 라이노 덱스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Rhino Dex.",
+      "name": "Estatua Tambaleante - Rhino Dex",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Rhino Dex 摇头娃娃。",
+      "name": "Rhino Dex 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Рино Декс.",
+      "name": "Фигурка: Рино Декс",
+      "code": "ru"
+    },
+    {
+      "description": "Rhino Dexのボブルヘッド人形。",
+      "name": "Rhino Dex ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Rhino Dex.",
+      "name": "Figurka Noggle — Rhino Dex",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Rhino Dex.",
+      "name": "Estatueta: Rhino Dex",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Rhino Dex 的搖頭娃娃。",
+      "name": "Rhino Dex 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Rhino Dex ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Rhino Dex",
+      "code": "th"
+    },
+    {
+      "description": "Rhino Dex küçük oynar figür.",
+      "name": "Noggle Heykeli - Rhino Dex",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Райно з виглядом «Декс».",
+      "name": "Ноґл «Райно „Декс“»",
+      "code": "uk"
+    }
+  ]
+}

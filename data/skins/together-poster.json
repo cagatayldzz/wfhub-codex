@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SolarisPosterF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/together-poster-42679a5b1c.png",
+  "name": "Together Poster",
+  "description": "One of the many posters found on the concourses of Fortuna.",
+  "languages": [
+    {
+      "description": "Eines der vielen Poster, die in den Hallen von Fortuna gefunden werden können.",
+      "name": "Poster: Gemeinsam",
+      "code": "de"
+    },
+    {
+      "description": "Une des nombreuses affiches trouvées dans les Halls de Fortuna.",
+      "name": "Affiche \"Together\"",
+      "code": "fr"
+    },
+    {
+      "description": "Uno dei tanti poster che si trovano negli atri di Fortuna.",
+      "name": "Poster Together",
+      "code": "it"
+    },
+    {
+      "description": "포르투나의 광장에서 찾을 수 있는 많은 포스터 중 하나입니다.",
+      "name": "Together 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "Uno de los muchos pósters encontrados en los vestíbulos de Fortuna.",
+      "name": "Póster \"Juntos\"",
+      "code": "es"
+    },
+    {
+      "description": "一幅在福尔图娜大厅上出现的海报。",
+      "name": "「一起来」海报",
+      "code": "zh"
+    },
+    {
+      "description": "Один из множества постеров, находящихся в общественных местах Фортуны.",
+      "name": "Постер: Вместе",
+      "code": "ru"
+    },
+    {
+      "description": "フォーチュナーで見つかるポスター。",
+      "name": "Together ポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Jeden z wielu plakatów znalezionych w halach Fortuny.",
+      "name": "Plakat Razem",
+      "code": "pl"
+    },
+    {
+      "description": "Um dos diversos pôsteres encontrados por Fortuna.",
+      "name": "Pôster: Juntos",
+      "code": "pt"
+    },
+    {
+      "description": "一幅在福爾圖娜大廳上出現的海報。",
+      "name": "「一起來」海報",
+      "code": "tc"
+    },
+    {
+      "description": "หนึ่งในโปสเตอร์จำนวนมากที่พบในห้องชุมนุมของฟอร์ทูนา",
+      "name": "โปสเตอร์: Together",
+      "code": "th"
+    },
+    {
+      "description": "Fortuna kurslarında görülen posterlerden bir tanesi.",
+      "name": "Birlikte Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Один із багатьох плакатів, які зазвичай розвішують у громадських місцях Фортуни.",
+      "name": "Плакат «Разом»",
+      "code": "uk"
+    }
+  ]
+}

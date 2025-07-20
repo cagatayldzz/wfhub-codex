@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHeirloomHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-heirloom-helmet-1097dd586f.png",
+  "name": "Ember Heirloom Helmet",
+  "description": "Ember Heirloom's signature helmet.",
+  "languages": [
+    {
+      "description": "Ember Heirlooms bevorzugter Helm.",
+      "name": "Ember-Helm: Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique d'Ember Héritage.",
+      "name": "Casque Ember Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Ember Heirloom.",
+      "name": "Elmo Ember Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "엠버 에어룸의 대표 헬멧입니다.",
+      "name": "엠버 에어룸 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Ember Legado.",
+      "name": "Casco Legado de Ember",
+      "code": "es"
+    },
+    {
+      "description": "Ember 传家宝的标志性头盔。",
+      "name": "Ember 传家宝头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Эмбер «Наследие».",
+      "name": "Шлем Эмбер: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Ember Heirloomのメインヘルメット。",
+      "name": "Ember Heirloom ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Pamiątkowej Ember.",
+      "name": "Ember: Hełm Pamiątkowy",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Legado da Ember.",
+      "name": "Ember: Capacete do Legado",
+      "code": "pt"
+    },
+    {
+      "description": "Ember 祖傳的標誌性頭盔。",
+      "name": "Ember 祖傳頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Ember Heirloom",
+      "name": "หมวกเหล็ก Ember Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Ember Heirloom'un özel miğferi.",
+      "name": "Ember Heirloom Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Спадок» для ворфрейма Ембер.",
+      "name": "Шолом «Спадок» для Ембер",
+      "code": "uk"
+    }
+  ]
+}

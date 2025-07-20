@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateTankMediumA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-fuel-cylinder-be8d74b23e.png",
+  "name": "Zariman Fuel Cylinder",
+  "description": "A fuel cylinder.",
+  "languages": [
+    {
+      "description": "Ein Kraftstoff-Zylinder.",
+      "name": "Zariman Kraftstoff-Zylinder",
+      "code": "de"
+    },
+    {
+      "description": "Un cylindre de carburant.",
+      "name": "Zariman: Cylindre de carburant",
+      "code": "fr"
+    },
+    {
+      "description": "Una bombola di carburante.",
+      "name": "Bombola di Carburante Zariman",
+      "code": "it"
+    },
+    {
+      "description": "연료 용기입니다.",
+      "name": "자리만 연료 용기",
+      "code": "ko"
+    },
+    {
+      "description": "Un cilindro de combustible.",
+      "name": "Cilindro de combustible Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个燃料瓶。",
+      "name": "扎里曼燃料瓶",
+      "code": "zh"
+    },
+    {
+      "description": "Топливный цилиндр.",
+      "name": "Топливный цилиндр: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "燃料シリンダー。",
+      "name": "Zariman 燃料シリンダー",
+      "code": "ja"
+    },
+    {
+      "description": "Zbiornik paliwa.",
+      "name": "Zariman: Zbiornik paliwa",
+      "code": "pl"
+    },
+    {
+      "description": "Um cilindro de combustível.",
+      "name": "Cilindro de Combustível da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "燃料瓶。",
+      "name": "扎日曼燃料瓶",
+      "code": "tc"
+    },
+    {
+      "description": "ถังน้ำมันเชื้อเพลิง",
+      "name": "Zariman: ถังน้ำมันเชื้อเพลิง",
+      "code": "th"
+    },
+    {
+      "description": "Bir yakıt silindiri.",
+      "name": "Zariman Yakıt Silindiri",
+      "code": "tr"
+    },
+    {
+      "description": "Паливний циліндр.",
+      "name": "Паливний циліндр із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

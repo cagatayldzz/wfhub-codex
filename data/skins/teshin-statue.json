@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TeshinBust",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/teshin-statue-45facbe2e3.png",
+  "name": "Teshin Statue",
+  "description": "Immortalize the master of The Conclave with this classical portrait.",
+  "languages": [
+    {
+      "description": "Verewige den Meister des Conklaves mit diesem klassischen Portrait",
+      "name": "Statue: Teshin",
+      "code": "de"
+    },
+    {
+      "description": "Immortalisez le maître du Conclave avec ce portrait classique.",
+      "name": "Statue de Teshin",
+      "code": "fr"
+    },
+    {
+      "description": "Immortala il maestro del Conclave con questo ritratto classicheggiante.",
+      "name": "Statua Teshin",
+      "code": "it"
+    },
+    {
+      "description": "이 고전 초상화로 콘클레이브의 마스터를 영원히 남기세요.",
+      "name": "테신 스태츄",
+      "code": "ko"
+    },
+    {
+      "description": "Inmortaliza al maestro del Cónclave con este retrato clásico.",
+      "name": "Estatua de Teshin",
+      "code": "es"
+    },
+    {
+      "description": "以这经典的肖像使武形秘仪的大师永生。",
+      "name": "Teshin 雕像",
+      "code": "zh"
+    },
+    {
+      "description": "Увековечьте мастера Конклава с этим классическим силуэтом.",
+      "name": "Статуя Тешина",
+      "code": "ru"
+    },
+    {
+      "description": "このクラシックなポートレートでコンクレーブの主を不朽の物にしよう。",
+      "name": "Teshinの像",
+      "code": "ja"
+    },
+    {
+      "description": "Uwieczniony w klasyczny sposób mistrz Konklawe.",
+      "name": "Statuetka Teshina",
+      "code": "pl"
+    },
+    {
+      "description": "Imortalize o mestre do Conclave com esta representação clássica.",
+      "name": "Estátua do Teshin",
+      "code": "pt"
+    },
+    {
+      "description": "以這經典的肖像使武形秘儀的大師永生。",
+      "name": "Teshin 雕像",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพวาดเหมือนสุดคลาสสิกนี้จะทำให้ปรมาจารย์ของคอนเคลฟคงอยู่เป็นอมตะ",
+      "name": "รูปปั้น Teshin",
+      "code": "th"
+    },
+    {
+      "description": "Conclave'in ustasını bu klasik portreyle ölümsüzleştir.",
+      "name": "Teshin Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Увічніть господаря Конклаву цим класичним портретом.",
+      "name": "Статуя Тешина",
+      "code": "uk"
+    }
+  ]
+}

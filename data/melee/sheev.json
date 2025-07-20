@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sheev-3606abced4.png",
+  "name": "Sheev",
+  "description": "Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease.",
+  "languages": [
+    {
+      "description": "Gebaut für den Nahkampf, schneidet die Plasma-Klinge des Sheev gleichermaßen mühelos durch Panzerung und Fleisch.",
+      "name": "Sheev",
+      "code": "de"
+    },
+    {
+      "description": "Conçue pour le combat rapproché, la lame plasma du Sheev découpe la chair et les Armures avec la même aisance.",
+      "name": "Sheev",
+      "code": "fr"
+    },
+    {
+      "description": "La lama al plasma della SHEEV eccelle nel combattimento ravvicinato, facendo a fette le corazze con la stessa facilità della carne.",
+      "name": "Sheev",
+      "code": "it"
+    },
+    {
+      "description": "근접전을 위해 제작된 쉬브의 플라즈마 칼날은 갑옷을 살점과도 같이, 살점을 공기와도 같이 베어냅니다.",
+      "name": "쉬브",
+      "code": "ko"
+    },
+    {
+      "description": "Creada para el combate cercano, la hoja de plasma de la Sheev corta a través de carne y armadura con idéntica facilidad.",
+      "name": "Sheev",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SHEEV）专为近身战斗设计，希芙的等离子刀刃能轻而易举切开肉体与护甲。",
+      "name": "希芙",
+      "code": "zh"
+    },
+    {
+      "description": "Созданный для ближнего боя, плазменный клинок «Шиив» разрезает плоть и броню с одинаковой легкостью.",
+      "name": "Шиив",
+      "code": "ru"
+    },
+    {
+      "description": "接近戦のために開発されたダガー。Sheev のプラズマブレードは、装甲をいともたやすく切断し肉体を確実に仕留める。",
+      "name": "Sheev",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzony do walki wręcz, plazmowe ostrze noża Sheev z równą łatwością przecina ciało jak i pancerz.",
+      "name": "Sheev",
+      "code": "pl"
+    },
+    {
+      "description": "Feita para combate corpo a corpo, a lâmina de plasma da Sheev corta através de carne e Armadura com a mesma facilidade.",
+      "name": "Sheev",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SHEEV）專為近身戰鬥設計，希芙的電漿刀刃能輕而易舉切開肉體與盔甲。",
+      "name": "希芙",
+      "code": "tc"
+    },
+    {
+      "description": "ใบมีดพลาสมาของ Sheev ออกแบบมาสำหรับการต่อสู้ระยะประชิด ซึ่งสามารถเฉือนเนื้อและเกราะได้อย่างง่ายดาย",
+      "name": "Sheev",
+      "code": "th"
+    },
+    {
+      "description": "Yakın dövüşler için üretilen Sheev'in plazma bıçağı et ve zırhları aynı kolaylıkla keser.",
+      "name": "Sheev",
+      "code": "tr"
+    },
+    {
+      "description": "Кинджал із плазмовим лезом, що з легкістю прорізає як плоть, так і обладунки. Створений для близького бою.",
+      "name": "Шив",
+      "code": "uk"
+    }
+  ]
+}

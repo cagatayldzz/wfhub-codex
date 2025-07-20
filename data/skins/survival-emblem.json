@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/SurvivalEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/survival-emblem-b6306470e5.png",
+  "name": "Survival Emblem",
+  "description": "An insignia awarded to the Tenno who proved themselves during Survival event.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das Tenno auszeichnet, die sich während des Überlebens-Wochenendes bewiesen haben.",
+      "name": "Emblem: Überleben",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné aux Tennos qui ont fait leurs preuves durant l'événement du week-end Survie.",
+      "name": "Badge de Survie",
+      "code": "fr"
+    },
+    {
+      "description": "Una medaglia conferita ai Tenno che si sono fatti valere durante l'evento Survival.",
+      "name": "Emblema Evento Survival",
+      "code": "it"
+    },
+    {
+      "description": "주말 생존 이벤트에서 자신을 증명한 텐노에게 수여하는 배지입니다.",
+      "name": "생존 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a los tenno que se probaron a sí mismos durante el evento de Superviviencia.",
+      "name": "Emblema Superviviencia",
+      "code": "es"
+    },
+    {
+      "description": "颁发徽章给在周末生存事件中证明自己的Tenno。",
+      "name": "生存徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, которым были награждены Тэнно, проявившие себя во время операции «Выживание».",
+      "name": "Значок: Выживший",
+      "code": "ru"
+    },
+    {
+      "description": "サバイバルイベントにて己の力を証明したテンノに授与された記章。",
+      "name": "サバイバル エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat nadawany Tenno którzy dowiedli swej wartości w czasie weekendowego wydarzenia 'Przetrwanie'.",
+      "name": "Emblemat: Przetrwanie",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos que provaram a si próprios durante o evento de Sobrevivência.",
+      "name": "Emblema: Sobrevivência",
+      "code": "pt"
+    },
+    {
+      "description": "頒發徽章給在周末生存事件中證明自己的Tenno。",
+      "name": "生存徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่ Tenno ผู้พิสูจน์ตนเองในกิจกรรมเอาตัวรอด",
+      "name": "ตราสัญลักษณ์: Survival",
+      "code": "th"
+    },
+    {
+      "description": "Hayatta Kalma Etkinliğinde kendini kanıtlayan Tenno'lara verilen nişan.",
+      "name": "Hayatta Kalma Etkinliği Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються тенно, що проявили себе під час події «Лишитися живим».",
+      "name": "Відзнака «Лишитися живим»",
+      "code": "uk"
+    }
+  ]
+}

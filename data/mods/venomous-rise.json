@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/PoisonParkourPvPMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/venomous-rise-404c32e242.jpg",
+  "name": "Venomous Rise",
+  "description": "Toxin FX on Bullet Jump",
+  "languages": [
+    {
+      "description": [
+        "Gifteffekte bei Projektilsprung"
+      ],
+      "name": "Giftiger Aufstieg",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Effets visuels de Poison sur le Saut Propulsé"
+      ],
+      "name": "Envolée Vénéneuse",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Scia di Tossina durante il Bullet Jump"
+      ],
+      "name": "Venomous Rise",
+      "code": "it"
+    },
+    {
+      "description": [
+        "불릿 점프 시 독성 특수효과"
+      ],
+      "name": "베노머스 라이즈",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Efectos especiales de toxina al hacer un salto bala."
+      ],
+      "name": "Alcance venenoso",
+      "code": "es"
+    },
+    {
+      "description": [
+        "旋身飞跃时产生毒素特效"
+      ],
+      "name": "剧毒升腾",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Визуальный эффект токсина во время прыжка-выстрела"
+      ],
+      "name": "Ядовитый восход",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "バレットジャンプ時に毒属性の視覚効果"
+      ],
+      "name": "Venomous Rise",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Efekt Obr. Toksycznych podczas Skoku Balistycznego"
+      ],
+      "name": "Toksyczne Wyniesienie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Adicionará um efeito visual Tóxico ao Salto-Bala."
+      ],
+      "name": "Venomous Rise",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "旋身飛躍時產生毒素特效"
+      ],
+      "name": "劇毒升騰",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "สร้างเอฟเฟกต์พิษเมื่อพุ่งกระโดด"
+      ],
+      "name": "Venomous Rise",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Mermi Zıplayışı Toksin Efekti"
+      ],
+      "name": "Venomous Rise",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Токсичний гвинтовий стрибок"
+      ],
+      "name": "Отруйне вознесіння",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ParazonPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/parazon-poster-c11f5569af.png",
+  "name": "Parazon Poster",
+  "description": "Mercy Or Convert? A poster for your Orbiter.",
+  "languages": [
+    {
+      "description": "Gnadenstoß oder konvertieren? Ein Poster für deinen Orbiter.",
+      "name": "Poster: Parazon",
+      "code": "de"
+    },
+    {
+      "description": "Miséricorde ou Conversion? Une affiche pour votre Orbiteur.",
+      "name": "Affiche Parazon",
+      "code": "fr"
+    },
+    {
+      "description": "Mercy o Conversione? Un poster per il tuo Orbiter.",
+      "name": "Poster Parazon",
+      "code": "it"
+    },
+    {
+      "description": "자비냐 전향이냐? 여러분의 오비터를 위한 포스터입니다.",
+      "name": "파라존 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "¿Misericordia o conversión? Un póster para tu orbitador.",
+      "name": "Póster de Parazon",
+      "code": "es"
+    },
+    {
+      "description": "怜悯之击还是感化？一张给轨道飞行器的海报。",
+      "name": "灭骸之刃海报",
+      "code": "zh"
+    },
+    {
+      "description": "Милосердие или Обращение? Постер для Вашего Орбитера.",
+      "name": "Постер: Паразон",
+      "code": "ru"
+    },
+    {
+      "description": "転向、またはMercyフィニッシャーをかける？　船内装飾用ポスター。",
+      "name": "「Parazon」 ポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Miłosierdzie czy Konwersja? Plakat do Twojego Orbitera.",
+      "name": "Plakat Parazonu",
+      "code": "pl"
+    },
+    {
+      "description": "Misericórdia ou Conversão? Um pôster para colocar em sua Orbital.",
+      "name": "Pôster: Parazon",
+      "code": "pt"
+    },
+    {
+      "description": "慈悲斬殺或皈依？給軌道飛行器的一張海報。",
+      "name": "萬靈袖刃海報",
+      "code": "tc"
+    },
+    {
+      "description": "ฆ่าอย่างเมตตา หรือแปลงให้เป็นพวกเดียวกัน? โปสเตอร์สำหรับออร์บิเตอร์ของคุณ",
+      "name": "โปสเตอร์: Parazon",
+      "code": "th"
+    },
+    {
+      "description": "Merhamet mi, yoksa Dönüşüm mü? Orbiter'in için bir poster.",
+      "name": "Parazon Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Помилувати чи обернути?",
+      "name": "Плакат «Паразон»",
+      "code": "uk"
+    }
+  ]
+}

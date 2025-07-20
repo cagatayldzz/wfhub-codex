@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/CatbrowPetPatternD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/krest-fur-pattern-0402334fbb.png",
+  "name": "Krest Fur Pattern",
+  "description": "An intricate fur pattern for your Kavat.",
+  "languages": [
+    {
+      "description": "Ein aufwendiges Fellmuster für deine Kavat.",
+      "name": "Fellmuster: Krest",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage complexe pour votre Kavat.",
+      "name": "Motif de Pelage Krest",
+      "code": "fr"
+    },
+    {
+      "description": "Un intricato pattern per la pelliccia del tuo Kavat.",
+      "name": "Pattern Pelo Krest",
+      "code": "it"
+    },
+    {
+      "description": "당신의 카밧을 위한 복잡한 털 패턴입니다.",
+      "name": "크레스트 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de pelaje intrincado para tu kavat.",
+      "name": "Patrón de pelaje Krest",
+      "code": "es"
+    },
+    {
+      "description": "给库娃使用的精致花纹",
+      "name": "克雷斯特毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Замысловатый шаблон для меха вашего кавата.",
+      "name": "Шаблон меха кавата: Крест",
+      "code": "ru"
+    },
+    {
+      "description": "複雑なキャバットのファーパターン。",
+      "name": "Krest ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Skomplikowany wzór futra dla Kavata.",
+      "name": "Wzór Futra: Krest",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pelagem elaborada para seu Kavat.",
+      "name": "Pelagem de Kavat: Krest",
+      "code": "pt"
+    },
+    {
+      "description": "給庫娃使用的精緻花紋",
+      "name": "克雷斯特毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่ทำขึ้นมาอย่างประณีตสำหรับ Kavat ของคุณ",
+      "name": "ลายขน Krest",
+      "code": "th"
+    },
+    {
+      "description": "Kavatınız için bir kürk deseni.",
+      "name": "Krest Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Вигадливий вигляд хутра для кавата.",
+      "name": "Вигляд хутра «Крест»",
+      "code": "uk"
+    }
+  ]
+}

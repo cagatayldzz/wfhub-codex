@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperSoldierDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-armistice-glyph---dark-e748cfd8e3.png",
+  "name": "Vauban Armistice Glyph - Dark",
+  "description": "A glyph depicting Vauban Armistice on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Vauban Armistice vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Vauban Armistice (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Vauban Armistice sur un fond sombre.",
+      "name": "Glyphe Vauban Armistice - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Armistice Vauban su sfondo chiaro.",
+      "name": "Glifo Vauban Armistice - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 아미스티스 바우반을 묘사한 글리프입니다.",
+      "name": "바우반 아미스티스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Armistice Vauban sobre un fondo oscuro.",
+      "name": "Glifo de Vauban Armistice - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 休战在黑暗背景下的浮印。",
+      "name": "Vauban 休战浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вобана «Перемирие» на тёмном фоне.",
+      "name": "Глиф: Вобан «Перемирие» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたArmistice Vaubanのグリフ",
+      "name": "Vauban Armistice グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Vauban Armistice na ciemnym tle.",
+      "name": "Glif Vauban Armistice — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Vauban Armistice em um fundo escuro.",
+      "name": "Glifo: Vauban Armistice (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Vauban 休戰在黑暗背景下的浮印。",
+      "name": "Vauban 休戰浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Vauban Armistice บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Vauban Armistice - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Armistice koyu fonlu glif.",
+      "name": "Vauban Armistice Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вобана в шоломі «Перемир’я» на темному тлі.",
+      "name": "Темний гліф «Вобан „Перемир’я“»",
+      "code": "uk"
+    }
+  ]
+}

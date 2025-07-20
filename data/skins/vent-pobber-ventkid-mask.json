@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodN",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vent-pobber-ventkid-mask-f58a5f768a.png",
+  "name": "Vent Pobber Ventkid Mask",
+  "description": "Operator Armor modeled on the workshop gear favored by Roky, leader of the industrious Vent Pobbers.",
+  "languages": [
+    {
+      "description": "Rüstung eines Operators, die auf der bevorzugten Werkstattausrüstung von Roky basiert, der Anführerin der emsigen Vent Pobbers.",
+      "name": "Maske: Vent Pobber Schachtkind",
+      "code": "de"
+    },
+    {
+      "description": "Une Armure pour Opérateurs basée sur l'équipement d'atelier favori de Roky, chef des courageux Pobbers des Conduits.",
+      "name": "Masque Orphelins Pobber",
+      "code": "fr"
+    },
+    {
+      "description": "Un'armatura dell'operatore che è stata modellata sull'equipaggiamento d'officina preferito da Roky, leader degli operosi Vent Pobber.",
+      "name": "Maschera Ventkid Vent Pobber",
+      "code": "it"
+    },
+    {
+      "description": "부지런한 벤트 포버들의 리더인 로키가 애용하는 작업 장비를 본 떠 만든 오퍼레이터 아머입니다.",
+      "name": "벤트 포버 벤트키드 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Armadura para el operador modelada en base al equipamiento del taller, preferida de Roky, líder de los Pobber de los Conductos.",
+      "name": "Máscara Ventkid Pobber de los Conductos",
+      "code": "es"
+    },
+    {
+      "description": "依勤劳的通风泡博领导人小洛最喜爱的工坊装备所仿制。",
+      "name": "通风泡博通风小子面罩",
+      "code": "zh"
+    },
+    {
+      "description": "Броня оператора, выполненная в духе снаряжения Роки, лидера усердных Трубных Побберов.",
+      "name": "Маска: Дети Труб - Трубный Поббер",
+      "code": "ru"
+    },
+    {
+      "description": "勤勉な通気口のポバーのリーダー、Rokyが好むオペレーター用アーマー。ワークショップギアをモデルにしている。",
+      "name": "ベントポバー ベントキッド マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Pancerz Operatora wzorowany na sprzęcie warsztatowym ulubionym przez Roky, liderkę pracowitych Nawiewnych Pobberów.",
+      "name": "Maska: Nawiewnego Pobbera",
+      "code": "pl"
+    },
+    {
+      "description": "Armadura para o Operador modelada com base no equipamento de oficina preferido de Roky, líder industrial dos Órfãos dos Dutos Pobbers.",
+      "name": "Máscara de Órfão dos Dutos (Pobber)",
+      "code": "pt"
+    },
+    {
+      "description": "根據勤勞的通風泡博領導人 Roky 最喜愛的工坊裝備所仿製。",
+      "name": "通風泡博通風小子面罩",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะของโอเปอเรเตอร์ที่จำลองตามอุปกรณ์เวิร์กชอปที่โปรดปรานของ Roky ผู้นำของ Vent Pobber ที่ขยันขันแข็ง",
+      "name": "หน้ากาก Vent Pobber Ventkid",
+      "code": "th"
+    },
+    {
+      "description": "Çalışkan Vent Pobberlar'ın lideri Roky tarafından tercih edilen atölye eşyasından modellenmiş bir Operatör Zırhı.",
+      "name": "Vent Pobber Ventkid Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Це вбрання оператора склали на основі улюбленого спорядження Рокі, лідерки підрозділу вентижевжиків «Поббер».",
+      "name": "Маска «Вентижевжиковий поббер»",
+      "code": "uk"
+    }
+  ]
+}

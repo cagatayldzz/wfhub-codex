@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OrbSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/buried-debts-sigil-2fb84810a6.png",
+  "name": "Buried Debts Sigil",
+  "description": "For those who have performed great works, safeguarding Fortuna against the ravages of the Exploiter and her thermia fractures.",
+  "languages": [
+    {
+      "description": "Für diejenigen, die Großes geleistet und Fortuna vor der Verheerung durch Ausbeuter und den thermischen Rissen beschützt haben.",
+      "name": "Siegel: Verborgene Schuld",
+      "code": "de"
+    },
+    {
+      "description": "En reconnaissance d'un travail bien fait, préservant Fortuna des ravages de l'Exploiteur et de ses crevasses de thermia.",
+      "name": "Sceau Dettes Ensevelies",
+      "code": "fr"
+    },
+    {
+      "description": "Per coloro che hanno fatto un ottimo lavoro salvaguardando Fortuna dalle devastazioni dell'Expoiter e le sue fratture thermia.",
+      "name": "Sigillo Buried Debts",
+      "code": "it"
+    },
+    {
+      "description": "익스플로이터와 그녀의 써미아 파열구가 일으키는 참화로부터 포르투나를 보호한 위대한 업적을 남긴 이들을 위한 시질입니다.",
+      "name": "베리드 뎁트 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Para aquellos que han hecho grandes obras, protegiendo Fortuna en contra del estrago de la Explotadora y sus fracturas thermia.",
+      "name": "Sello Deudas reprimidas",
+      "code": "es"
+    },
+    {
+      "description": "给予那些表现出色的人们，那些保护了福尔图娜免受剥削者和她的热美亚裂缝破坏的人们。",
+      "name": "雪藏的恩怨纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Для тех, кто трудился без устали, защищая Фортуну от нападок Эксплуататора и её разломов термии.",
+      "name": "Сигил: Погребённые Долги",
+      "code": "ru"
+    },
+    {
+      "description": "フォーチュナーをエクスプロイターとサーミアの裂け目から救うため多大な貢献を行った者へ。",
+      "name": "「埋もれた負債」シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Dla tych, którzy dokonali wielkiego dzieła, chroniąc Fortunę przed spustoszeniem Matki Wyzysku i jej pęknięciami termii.",
+      "name": "Znak Pogrzebane Długi",
+      "code": "pl"
+    },
+    {
+      "description": "Feita para aqueles que participaram em feitos magníficos, protegendo Fortuna contra a Orbe Usurpadora e suas Fraturas de Térmia.",
+      "name": "Brasão: Dívidas Enterradas",
+      "code": "pt"
+    },
+    {
+      "description": "給予那些表現出色的人們，那些保護了福爾圖娜免受剝削者和她的熱美亞裂縫破壞的人們。",
+      "name": "雪藏的恩怨紋章",
+      "code": "tc"
+    },
+    {
+      "description": "สำหรับผู้ที่ทำผลงานได้ยอดเยี่ยม ปกป้องฟอร์ทูนาจากการทำลายล้างของ Exploiter และรอยร้าวจากเทอร์เมียของนาง",
+      "name": "เครื่องหมาย: Buried Debts",
+      "code": "th"
+    },
+    {
+      "description": "Harika işler sergileyenler için, Exploter'in yağmacılarına ve onun termal çatlaklarına karşı koruma.",
+      "name": "Buried Debts Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Для тих, хто захищав Фортуну від спустошень Експлуататорки та її проривів термії.",
+      "name": "Сиґіл «Схоронені борги»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank01Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/initiate-mastery-slate-4002802be8.png",
+  "name": "Initiate Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 1 - Initiate.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 1 - Initiant zu ehren.",
+      "name": "Meisterschaft-Insignie: Initiand",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 1 - Initié.",
+      "name": "Ardoise de Maîtrise - Initié",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 1 - Iniziato.",
+      "name": "Targa Maestria - Iniziato",
+      "code": "it"
+    },
+    {
+      "description": "랭크 1 - 이니시에이트에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "이니시에이트 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango 1 - Iniciado.",
+      "name": "Placa de Maestría de Iniciado",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 1－启蒙者所打造的物品。",
+      "name": "启蒙者精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 1 - Неофит.",
+      "name": "Сланец Мастерства: Неофит",
+      "code": "ru"
+    },
+    {
+      "description": "イニシエートランク「マスタリーランク1」へ到達したテンノの成果を示す表彰楯。",
+      "name": "イニシエイト マスタリー 表彰盾",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 1 - Początkujący.",
+      "name": "Tablica Mistrzostwa Początkujący",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 1 - Noviço.",
+      "name": "Ardósia de Maestria: Noviço",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 1－啟蒙者的成就。",
+      "name": "啟蒙者精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 1 - เริ่มต้น",
+      "name": "กระดานชนวนความเชี่ยวชาญ: เริ่มต้น",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 1 - Çömez seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Çömez Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 1-го рівня майстерності — «Рекрут».",
+      "name": "Табличка «Рекрут»",
+      "code": "uk"
+    }
+  ]
+}

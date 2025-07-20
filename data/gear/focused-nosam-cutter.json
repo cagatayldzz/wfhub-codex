@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/focused-nosam-cutter-e24cb8232d.png",
+  "name": "Focused Nosam Cutter",
+  "description": "A more accurate variation of the Nosam Cutter.\n\nTravel far from Hub settlements for the best chance of mining rare minerals.",
+  "languages": [
+    {
+      "description": "Eine genauere Variante des Nosam-Schneiders.\n\nWenn du dich weit genug von einem bewohnten Hub entfernst, hast du die beste Chance, seltene Mineralien zu finden.",
+      "name": "Fokussierter Nosam-Schneider",
+      "code": "de"
+    },
+    {
+      "description": "Une variante plus précise du Tailleur Nosam.\n\nÉloignez-vous des villes pour augmenter vos chances d'extraire des minerais rares.",
+      "name": "Tailleur Nosam Concentré",
+      "code": "fr"
+    },
+    {
+      "description": "Una variante più accurata del Taglio Nosam.\n\nPosizionati lontano dagli Hub per avere maggiori probabilità di estrarre minerali rari.",
+      "name": "Taglio Nosam Focalizzato",
+      "code": "it"
+    },
+    {
+      "description": "일반 노잠 커터보다 더욱 정밀한 형태의 도구입니다.\n\n희귀한 광물을 채굴할 수 있는 좋은 기회를 얻으려면 마을 허브 정착지로부터 멀리 떨어져야 합니다.",
+      "name": "포커스드 노잠 커터",
+      "code": "ko"
+    },
+    {
+      "description": "Una variación más precisa del cortador Nosam.\n\nViaja lejos de los asentamientos centrales para aumentar las posibilidades de extraer minerales raros.",
+      "name": "Cortador Nosam Enfocado",
+      "code": "es"
+    },
+    {
+      "description": "一款更精准的诺萨姆切割器变体。\n\n远离城镇中心，将有更高几率开采出稀有矿物。",
+      "name": "聚焦诺萨姆切割器",
+      "code": "zh"
+    },
+    {
+      "description": "Более продвинутая версия Нозамового Резака.\n\nОтойдите подальше от поселений, чтобы увеличить шансы на добычу редких минералов.",
+      "name": "Фокусированный Нозамовый Резак",
+      "code": "ru"
+    },
+    {
+      "description": "ノサム カッターの精密度を高めたもの。\n\nレア鉱石はハブエリアから遠いほど見つかりやすい。",
+      "name": "フォーカスノサム カッター",
+      "code": "ja"
+    },
+    {
+      "description": "Dokładniejsza wersja Wiertła Nosam.\n\nSzansa napotkania rzadkich surowców jest największa daleko od Centrów.",
+      "name": "Precyzyjne Wiertło Nosam",
+      "code": "pl"
+    },
+    {
+      "description": "Uma variação mais precisa do Minerador Nosam.\n\nViaje para longe dos assentamentos centrais para ter mais chances de encontrar minerais raros.",
+      "name": "Minerador Nosam (Concentrado)",
+      "code": "pt"
+    },
+    {
+      "description": "另一款更加精準的諾薩姆切割器。\n\n遠離城鎮中心有更高機率開採稀有礦物。",
+      "name": "聚焦諾薩姆切割器",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องตัด Nosam รุ่นที่มีความแม่นยำขึ้น\n\nหากเดินทางออกไปไกลจากฐานที่ตั้งของศูนย์กลางจะทำให้มีโอกาสที่ดีที่สุดในการขุดแร่หายาก",
+      "name": "เครื่องตัด Nosam (โฟกัส)",
+      "code": "th"
+    },
+    {
+      "description": "Nosam Kesicisi'nin daha gelişmiş bir versiyonu.\n\nNadir mineralleri bulma şansını artırmak için Merkezi yerleşim yerlerinden uzaklaş.",
+      "name": "Odaklanmış Nosam Kesicisi",
+      "code": "tr"
+    },
+    {
+      "description": "Точніша версія різака «Нозам».\n\nДля ліпшої імовірності видобутку рідкісніших мінералів рушайте якнайдалі від міст та поселень.",
+      "name": "Точковий різак «Нозам»",
+      "code": "uk"
+    }
+  ]
+}

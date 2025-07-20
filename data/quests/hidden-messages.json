@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hidden-messages-81beae8ca6.png",
+  "name": "Hidden Messages",
+  "description": "Seek out the Warframe Mirage.",
+  "languages": [
+    {
+      "description": "Finde den Mirage Warframe.",
+      "name": "Versteckte Nachrichten",
+      "code": "de"
+    },
+    {
+      "description": "À la recherche de la Warframe Mirage.",
+      "name": "Messages Cachés",
+      "code": "fr"
+    },
+    {
+      "description": "Trova il Warframe Mirage.",
+      "name": "Messaggi Nascosti",
+      "code": "it"
+    },
+    {
+      "description": "워프레임 미라지를 찾아내세요.",
+      "name": "숨겨진 메시지들",
+      "code": "ko"
+    },
+    {
+      "description": "Busca a la warframe Mirage.",
+      "name": "Mensajes Ocultos",
+      "code": "es"
+    },
+    {
+      "description": "寻找 Mirage 战甲。",
+      "name": "被隐藏的信息",
+      "code": "zh"
+    },
+    {
+      "description": "Найдите варфрейм Мираж.",
+      "name": "Скрытые сообщения",
+      "code": "ru"
+    },
+    {
+      "description": "Mirageを探索。",
+      "name": "隠されたメッセージ",
+      "code": "ja"
+    },
+    {
+      "description": "Odszukaj Warframe Mirage.",
+      "name": "Ukryte Wiadomości",
+      "code": "pl"
+    },
+    {
+      "description": "Encontre o Warframe Mirage.",
+      "name": "Mensagens Ocultas",
+      "code": "pt"
+    },
+    {
+      "description": "尋找 Warframe Mirage。",
+      "name": "被隱藏的訊息",
+      "code": "tc"
+    },
+    {
+      "description": "ค้นหา Warframe Mirage",
+      "name": "ข้อความที่ซ่อนอยู่",
+      "code": "th"
+    },
+    {
+      "description": "Mirage Warframe'i Bul.",
+      "name": "Hidden Messages",
+      "code": "tr"
+    },
+    {
+      "description": "Потрібно знайти ворфрейма Міраж.",
+      "name": "Приховані послання",
+      "code": "uk"
+    }
+  ]
+}

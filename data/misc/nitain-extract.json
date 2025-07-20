@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nitain-extract-ba7ea3b2cf.png",
+  "name": "Nitain Extract",
+  "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.\n\nLocation: Nightwave Cred Offerings",
+  "languages": [
+    {
+      "description": "Jedes Fläschchen wird durch das akribische Ausdrücken von Milliarden seltener, in Ozeanschloten lebender Mikroorganismen gewonnen.\n\nQuelle: Diese Ressource kann aus den Nightwave-Angeboten erhalten werden.",
+      "name": "Nitain-Extrakt",
+      "code": "de"
+    },
+    {
+      "description": "Chaque flacon résulte de l'extraction laborieuse d'une substance issue de milliards de micro-organismes parcourant les cheminées volcaniques océaniques.\n\nLieu: Boutique des Ondes Nocturnes",
+      "name": "Extrait de Nitain",
+      "code": "fr"
+    },
+    {
+      "description": "Ogni fiala viene prodotta dalla certosina estrazione di miliardi di rari microorganismi che vivono presso le sorgenti idrotermali oceaniche.\n\nPosizione: Acquistabile dalle Offerte Nightwave",
+      "name": "Estratto Nitain",
+      "code": "it"
+    },
+    {
+      "description": "각 용기에는 대양 열수구에서만 사는 극히 희귀한 미생물로부터 공들인 추출 과정을 통해 얻어낸 물질이 들어있습니다.\n\n획득 가능 장소: 나이트웨이브 크레드 제공품에서 획득할 수 있습니다",
+      "name": "니테인 추출물",
+      "code": "ko"
+    },
+    {
+      "description": "Cada vial se produce meticulosamente al extraer miles de millones de microorganismos raros provenientes del fondo del océano.\n\nUbicación: Ofrendas de respeto de Onda Nocturna",
+      "name": "Extracto de Nitain",
+      "code": "es"
+    },
+    {
+      "description": "每一小瓶是由数十亿罕见的，栖息于海底喷管附近的微生物所制造的。\n\n获取地点：午夜电波的贡品",
+      "name": "泥炭萃取物",
+      "code": "zh"
+    },
+    {
+      "description": "Каждая пробирка добывается путём кропотливой выжимки миллиардов редких океанических микроорганизмов.\n\nМестонахождение: Предложения за доверие Ночной волны.",
+      "name": "Экстракт Нитаина",
+      "code": "ru"
+    },
+    {
+      "description": "この小瓶は、熱水噴出孔をすみかとする何億もの貴重な微生物を丹念に圧出することによって作り出された。\n\n場所：Nightwaveクレド提供品",
+      "name": "ニタン抽出物",
+      "code": "ja"
+    },
+    {
+      "description": "Wyprodukowanie każdej fiolki jest żmudnym procesem wymagającym użycia miliardów niezwykle rzadkich mikroorganizmów zamieszkujących oceaniczne kominy hydrotermalne.\n\nPołożenie: Oferta Gwiezdnego Szlaku",
+      "name": "Ekstrakt Nitain",
+      "code": "pl"
+    },
+    {
+      "description": "Cada frasco é produzido pela meticulosa manifestação de bilhões de microrganismos raros que habitam os oceanos.\n\nLocalização: Oferendas de Créditos da Nightwave.",
+      "name": "Extrato de Nitain",
+      "code": "pt"
+    },
+    {
+      "description": "每一小瓶是由數十億罕見的，棲息於海底噴管附近的微生物所製造的。\n\n地點：午夜電波奬勵",
+      "name": "泥炭萃取物",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมแต่ละขวดผลิตขึ้นมาอย่างพิถีพิถันจากการสกัดจุลินทรีย์หายากหลายพันล้านตัวที่อาศัยอยู่ในปล่องน้ำร้อนใต้มหาสมุทร\n\nแหล่งที่พบ: การเสนอขายใน Nightwave",
+      "name": "สารสกัดนิเทน",
+      "code": "th"
+    },
+    {
+      "description": "Her şişe milyarlarca nadir okyanus mikroorganizmasının özenle işlenmesiyle hazırlanmıştır.\n\nKonum: Nightwave Kredi Teklifleri",
+      "name": "Nitain Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Вміст кожного флакону — результат кропіткої роботи мільярдів рідкісних мікроорганізмів океану.\n\nМожна придбати в крамниці «Нічної хвилі».",
+      "name": "Нітаїнова витяжка",
+      "code": "uk"
+    }
+  ]
+}

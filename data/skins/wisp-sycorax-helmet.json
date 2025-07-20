@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wisp/SWSycoraxWispHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-sycorax-helmet-1db186a658.png",
+  "name": "Wisp Sycorax Helmet",
+  "description": "A helmet for the Wisp Warframe, designed by Vulbjorn.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Wisp Warframe, entworfen von Vulbjorn.",
+      "name": "Wisp-Helm: Sycorax",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Wisp, conçu par Vulbjorn.",
+      "name": "Casque Wisp Sycorax",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Wisp, ideato da Vulbjorn.",
+      "name": "Elmo Wisp Sycorax",
+      "code": "it"
+    },
+    {
+      "description": "Vulbjorn에 의해 디자인된 위습 워프레임을 위한 헬멧입니다.",
+      "name": "위습 시코락스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Wisp, diseñado por Vulbjorn.",
+      "name": "Casco Sycorax de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 战甲的头盔，由 Vulbjorn 设计。",
+      "name": "Wisp 天卫头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Висп, созданный Vulbjorn.",
+      "name": "Шлем Висп: Сикоракс",
+      "code": "ru"
+    },
+    {
+      "description": "Wisp用のヘルメット。製作者： Vulbjorn。",
+      "name": "Wisp Sycorax ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Wisp, zaprojektowany przez Vulbjorn.",
+      "name": "Wisp: Hełm Sycorax",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Wisp, desenvolvido por Vulbjorn.",
+      "name": "Wisp: Capacete Sycorax",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp Warframe 的頭盔，由 Vulbjorn 設計。",
+      "name": "Wisp 西考拉克斯頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกสำหรับ Wisp Warframe ออกแบบโดย Vulbjorn",
+      "name": "หมวกเหล็ก Wisp Sycorax",
+      "code": "th"
+    },
+    {
+      "description": "Vulbjorn tarafından Wisp Warframe için dizayn edilmiş bir miğfer.",
+      "name": "Wisp Sycorax Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вісп, створений Vulbjorn.",
+      "name": "Шолом «Сикоракс» для Вісп",
+      "code": "uk"
+    }
+  ]
+}

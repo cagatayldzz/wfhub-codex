@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/SWIonHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-ion-helmet-c352c344c9.png",
+  "name": "Valkyr Ion Helmet",
+  "description": "A helmet for the Valkyr Warframe, designed by Yatus.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Valkyr Warframe, entworfen von Yatus.",
+      "name": "Valkyr-Helm: Ion",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Valkyr, conçu par Yatus.",
+      "name": "Casque Valkyr Ion",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Valkyr, ideato da Yatus.",
+      "name": "Elmo Valkyr Ion",
+      "code": "it"
+    },
+    {
+      "description": "Yatus에 의해 디자인된 발키르 워프레임을 위한 헬멧입니다.",
+      "name": "발키르 이온 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Valkyr, diseñado por Yatus.",
+      "name": "Casco Ion de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 战甲的头盔，由 Yatus 设计。",
+      "name": "Valkyr 离子头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Валькирия, созданный Yatus.",
+      "name": "Шлем Валькирии: Ион",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyr用のヘルメット。製作者：Yatus。",
+      "name": "Valkyr Ion ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Valkyr, zaprojektowany przez Yatus.",
+      "name": "Valkyr: Hełm Ion",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Valkyr, desenvolvido por Yatus.",
+      "name": "Valkyr: Capacete Ion",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr Warframe 的頭盔，由 Yatus 設計。",
+      "name": "Valkyr 離子頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Valkyr Warframe ออกแบบโดย Yatus",
+      "name": "หมวกเหล็ก Valkyr Ion",
+      "code": "th"
+    },
+    {
+      "description": "Yatus tarafından dizayn edilen Valkyr Warframe miğferi.",
+      "name": "Valkyr Ion Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Валькірії, створений Yatus.",
+      "name": "Шолом «Йон» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

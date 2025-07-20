@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagCondrocCommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/common-condroc-tag-2f19c83241.png",
+  "name": "Common Condroc Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "Marke: Gewöhnlicher Condroc",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Condroc Commun",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "Etichetta Condroc Comune",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "커먼 콘드록 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "Marcador de Condroc Común",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "常见秃鹰标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "Жетон: Обычный кондрок",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "コモン コンドロク タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Kondroka Pospolitego",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Condroc Comum",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "常見禿鷹標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก Common Condroc",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "Yaygın Condroc Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "Жетон звичайного кондрока",
+      "code": "uk"
+    }
+  ]
+}

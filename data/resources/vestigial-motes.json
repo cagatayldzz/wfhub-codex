@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionResourceItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vestigial-motes-3a8ef5bbb6.png",
+  "name": "Vestigial Motes",
+  "description": "Remnants of Jade's light. Echoes of her power.\n\nObtained from Ascension missions on Brutus, Uranus.",
+  "languages": [
+    {
+      "description": "Überreste von Jades Licht. Echos ihrer Macht.\n\nErhältlich von Aufstieg-Missionen auf Brutus (Uranus).",
+      "name": "Spur-Partikel",
+      "code": "de"
+    },
+    {
+      "description": "Restes de la lumière de Jade. Échos de son pouvoir.\n\nTrouvés en accomplissant des missions d'Ascension sur Brutus, Uranus.",
+      "name": "Vestiges de Particules",
+      "code": "fr"
+    },
+    {
+      "description": "Resti della luce di Jade. Echi del suo potere.\n\nOttenibili nella missione Ascensione nel nodo Brutus su Urano.",
+      "name": "Particelle Vestigiali",
+      "code": "it"
+    },
+    {
+      "description": "제이드의 빛이 남긴 잔여물이자, 그녀의 힘을 담은 잔향입니다.\n\n천왕성의 Brutus 노드에서 상승 미션을 통해 획득할 수 있습니다.",
+      "name": "잔여 분진",
+      "code": "ko"
+    },
+    {
+      "description": "Restos de la Luz de Jade. Ecos de su poder.\n\nSe obtienen en las misiones de Ascensión en Brutus, Urano.",
+      "name": "Trizas vestigiales",
+      "code": "es"
+    },
+    {
+      "description": "Jade 之光的残留。她力量的回响。\n\n通过完成天王星布鲁图斯节点上的扬升任务获得。",
+      "name": "残存微粒",
+      "code": "zh"
+    },
+    {
+      "description": "Остатки света Джейд. Отголоски её силы.\n\nДобываются в ходе миссий Вознесения в локации Brutus, Уран.",
+      "name": "Рудиментарные частицы",
+      "code": "ru"
+    },
+    {
+      "description": "翡翠の光の残骸。Jadeの力の残響。\n\n天王星のBrutusステージにある昇天ミッションで入手。",
+      "name": "ベステジアル・モート",
+      "code": "ja"
+    },
+    {
+      "description": "Pozostałości światła Jade. Echa jej mocy.\n\nMogą zostać zdobyte przez ukończenie misji Wstąpienia na węźle Brutus, Uran.",
+      "name": "Szczątki Cząsteczek",
+      "code": "pl"
+    },
+    {
+      "description": "Restos de Luz da Jade, ecos do poder dela.\n\nLocalização: missões de Ascensão, em Brutus, em Urano.",
+      "name": "Partículas Vestigiais",
+      "code": "pt"
+    },
+    {
+      "description": "Jade 遺留的殘光。她力量的迴響。\n\n布魯圖斯（天王星）上的爬升任務中取得。",
+      "name": "殘餘微粒",
+      "code": "tc"
+    },
+    {
+      "description": "เศษของลำแสง Jade ที่เหลืออยู่ เป็นสิ่งที่สะท้อนถึงพลังของนาง\n\nได้รับจากการทำภารกิจ 'เลื่อนขึ้น' ที่ Brutus บนดาวยูเรนัส",
+      "name": "ผงธุลีตกค้าง",
+      "code": "th"
+    },
+    {
+      "description": "Yeşim ışığının kalıntıları. Jade'in gücünün yankıları.\n\nUranüs'teki Brütüs (Yükseliş) görevlerinden elde edilir.",
+      "name": "İşlevsiz Mote'lar",
+      "code": "tr"
+    },
+    {
+      "description": "Рештки нефритового світла, відлуння цієї сили.\n\nМожна отримати за виконання завдань «Сходження» на вузлі «Брут» (Уран).",
+      "name": "Залишкові порошинки",
+      "code": "uk"
+    }
+  ]
+}

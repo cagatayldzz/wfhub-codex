@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/HiveSabotageEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/breeding-grounds-emblem-e48595f5e0.png",
+  "name": "Breeding Grounds Emblem",
+  "description": "Awarded to Tenno for the contributions they made during the Breeding Grounds event.",
+  "languages": [
+    {
+      "description": "Verliehen an Tenno, für ihren Beitrag, den sie während des Brutstätten-Events geleistet haben.",
+      "name": "Emblem: Brutstätten",
+      "code": "de"
+    },
+    {
+      "description": "Décerné aux Tennos pour les contributions qu'ils ont apportées lors de l'opération Reproduction.",
+      "name": "Badge de la Reproduction",
+      "code": "fr"
+    },
+    {
+      "description": "Conferita ai Tenno che hanno preso parte all'evento Breeding Grounds",
+      "name": "Emblema Breeding Grounds",
+      "code": "it"
+    },
+    {
+      "description": "브리딩 그라운드 이벤트에 기여한 텐노에게 수여하는 배지입니다.",
+      "name": "브리딩 그라운드 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Concedida a los tenno por sus contribuciones durante el evento Caldos de cultivo.",
+      "name": "Emblema Caldos de cultivo",
+      "code": "es"
+    },
+    {
+      "description": "赠与 Tenno 以奖励他们在清巢行动徽章中做出的贡献。",
+      "name": "清巢行动徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Награда Тэнно, участвовавшим в операции «Плодородные земли».",
+      "name": "Значок: Плодородные земли",
+      "code": "ru"
+    },
+    {
+      "description": "増殖ハイブ駆除イベントで作戦に貢献したテンノに贈られるエンブレム。",
+      "name": "増殖ハイブ駆除 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznany Tenno za udział w operacji Breeding Grounds",
+      "name": "Emblemat: Wylęgarnie",
+      "code": "pl"
+    },
+    {
+      "description": "Premiado para Tennos por suas contribuições feitas durante a operação Terras de Procriação.",
+      "name": "Emblema: Terras de Procriação",
+      "code": "pt"
+    },
+    {
+      "description": "贈與 Tenno 以獎勵他們在清巢行動徽章中做出的貢獻。",
+      "name": "清巢行動徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับ Tenno ผู้มีส่วนร่วมในอีเวนต์ Breeding Grounds",
+      "name": "ตราสัญลักษณ์: Breeding Grounds",
+      "code": "th"
+    },
+    {
+      "description": "Breeding Grounds etkinliğinde gösterdiği büyük cesaret için Tenno'ya verilmiştir.",
+      "name": "Breeding Grounds Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Нагорода тенно за їхню допомогу в події «Розплідники».",
+      "name": "Відзнака «Розплідники»",
+      "code": "uk"
+    }
+  ]
+}

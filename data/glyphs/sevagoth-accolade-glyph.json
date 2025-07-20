@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth-accolade-glyph-1f1ae9f1fb.png",
+  "name": "Sevagoth Accolade Glyph",
+  "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die eine tapfere Leistung repräsentiert, entworfen von Community-Künstler Anavi_Ivy.",
+      "name": "Glyphe: Sevagoth Auszeichnung",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant un tour de force par l'artiste communautaire Anavi_Ivy.",
+      "name": "Glyphe Insigne de Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante una prova di forza dell'artista della comunità Anavi_Ivy.",
+      "name": "Glifo Riconoscimento Sevagoth",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 Anavi_Ivy의 스타일로 넘치는 힘을 묘사한 글리프입니다.",
+      "name": "세바고스 어콜레이드 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa una hazaña de fuerza, creado por la artista de la comunidad, Anavi_Ivy.",
+      "name": "Glifo Reconocimiento de Sevagoth",
+      "code": "es"
+    },
+    {
+      "description": "体现力量壮举的浮印，由社区艺术家 Anavi_Ivy 创作。",
+      "name": "Sevagoth 荣誉浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, олицетворяющий подвиг силы, созданный художником сообщества Anavi_Ivy.",
+      "name": "Глиф: Посвящение Севагота",
+      "code": "ru"
+    },
+    {
+      "description": "偉業を表すグリフ。Anavi_Ivy作。",
+      "name": "Sevagoth Accolade グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif symbolizujący wyczyn siły autorstwa artysty społeczności Anavi_Ivy.",
+      "name": "Glif Odznaczenia Sevagotha",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da comunidade representando um feito de força, desenvolvido por Anavi_Ivy.",
+      "name": "Glifo: Insígnia do Sevagoth",
+      "code": "pt"
+    },
+    {
+      "description": "一枚代表力量壯舉的浮印，由社群藝術家 Anavi_Ivy 創作。",
+      "name": "Sevagoth 讚譽浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงฝีมือที่ต้องอาศัยความแข็งแกร่งซึ่งออกแบบโดยศิลปินในชุมชน Anavi_Ivy",
+      "name": "ภาพสัญลักษณ์ Sevagoth Accolade",
+      "code": "th"
+    },
+    {
+      "description": "Topluluk sanatçısı Anavi_Ivy tarafından tasarlanan ve gücü simgeleyen bir glif.",
+      "name": "Sevagoth Nişanı Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням прояву сили, створений Anavi_Ivy.",
+      "name": "Гліф «Схвалення Севаґота»",
+      "code": "uk"
+    }
+  ]
+}

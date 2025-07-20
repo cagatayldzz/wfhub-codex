@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/LeaderBadgeStormItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/storm-leader-emblem-c1236c0ac2.png",
+  "name": "Storm Leader Emblem",
+  "description": "Designates the wearer as the highest ranking soldier amongst Storm-Tier Clans this era.",
+  "languages": [
+    {
+      "description": "Zeichnet den ranghöchsten Soldaten unter den Sturm-Clans in dieser Ära aus.",
+      "name": "Emblem: Sturm-Anführer",
+      "code": "de"
+    },
+    {
+      "description": "Désigne le porteur comme étant le soldat le plus respecté parmi les Clans Tempête de cette ère.",
+      "name": "Emblème Chef Tempête",
+      "code": "fr"
+    },
+    {
+      "description": "Designa il portatore come il soldato con il grado più elevato dei clan di livello Tempesta di questa era.",
+      "name": "Emblema Leader Tempesta",
+      "code": "it"
+    },
+    {
+      "description": "스톰 클랜중 가장 높은 클랜랭킹을 가진 병사에게 지급하는 물품입니다.",
+      "name": "스톰 리더 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Designa al portador como el soldado de mayor rango entre los clanes de clase Tormenta de esta era.",
+      "name": "Emblema de Líder Tormenta",
+      "code": "es"
+    },
+    {
+      "description": "表示佩戴者此时是风暴氏族中最高阶级的战士。",
+      "name": "岚之领导者徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Обозначает носителя как солдата с наивысшим рангом среди Штормовых кланов этой эры.",
+      "name": "Значок: Лидер штормов",
+      "code": "ru"
+    },
+    {
+      "description": "ストームクランにて、最高ランクに位置する戦士のみが身に付けることを許されたエンブレム。",
+      "name": "ストームリーダーエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Oznacza osobę noszącą jako najwyższego stopniem żołnierza wśród Klanów Burzy tej ery.",
+      "name": "Emblemat: Przywódca Burzy",
+      "code": "pl"
+    },
+    {
+      "description": "Designa o usuário como soldado de maior patente entre os Clans Tier-Tempestade desta era.",
+      "name": "Emblema: Líder Tempestade",
+      "code": "pt"
+    },
+    {
+      "description": "表示佩戴者此時是風暴氏族中最高階級的戰士。",
+      "name": "嵐之領導者徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นตราที่บ่งบอกว่าผู้สวมใส่เป็นทหารในแคลนระดับวายุที่มียศสูงสุดในยุคนี้",
+      "name": "ตราสัญลักษณ์: ผู้นำวายุ",
+      "code": "th"
+    },
+    {
+      "description": "Taşıyan kişinin Storm Klan Seviyesindeki klanlar içinde en yüksek rütbeli olduğunu gösterir.",
+      "name": "Fırtına Lider Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Вказує на те, що власник цієї відзнаки має найвищий ранг серед грозових кланів цієї ери як солдат.",
+      "name": "Відзнака «Грозовий лідер»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/PlagueStarBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plague-star-emblem-febb0f51eb.png",
+  "name": "Plague Star Emblem",
+  "description": "To commemorate Tenno who helped defend Cetus from the Infested scourge.",
+  "languages": [
+    {
+      "description": "In Erinnerung an die Tenno, die bei der Verteidigung von Cetus vor der Befallenen Plage geholfen haben.",
+      "name": "Emblem: Plagenstern",
+      "code": "de"
+    },
+    {
+      "description": "Pour rendre hommage aux Tennos ayant aidé à défendre Cetus des Infestés.",
+      "name": "Badge Fléau Céleste",
+      "code": "fr"
+    },
+    {
+      "description": "Per commemorare i Tenno che hanno aiutato a difendere Cetus dal flagello Infested.",
+      "name": "Emblema Plague Star",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드의 재앙으로부터 시터스를 지키는 데 도움을 준 텐노들을 기념하는 엠블럼입니다.",
+      "name": "플레이그 스타 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Para conmemorar a los tenno que ayudaron a defender Cetus del azote de la infestación.",
+      "name": "Emblema de la Operación Estrella Infestada",
+      "code": "es"
+    },
+    {
+      "description": "为了纪念在感染者天灾中守护了希图斯的 Tenno。",
+      "name": "瘟疫之星徽章",
+      "code": "zh"
+    },
+    {
+      "description": "В память о Тэнно, оборонявших Цетус от нашествия заражённых.",
+      "name": "Значок: Чумная звезда",
+      "code": "ru"
+    },
+    {
+      "description": "シータスを感染の災禍から護ったテンノを記念するための物。",
+      "name": "疫病の星 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Upamiętnienie Tenno, który pomógł bronić Cetus przed plagą Zarazy.",
+      "name": "Emblemat: Plaga z Gwiazd",
+      "code": "pl"
+    },
+    {
+      "description": "Para homenagear os Tennos que ajudaram a defender Cetus dos Infestados.",
+      "name": "Emblema: Praga Estelar",
+      "code": "pt"
+    },
+    {
+      "description": "為了紀念從 Infested 天災中守護了希圖斯的 Tenno。",
+      "name": "瘟疫之星徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เพื่อเป็นการระลึกถึง Tenno ที่ช่วยปกป้องซีตัสจากการติดเชื้อที่แพร่ระบาด",
+      "name": "ตราสัญลักษณ์: Plague Star",
+      "code": "th"
+    },
+    {
+      "description": "Cetus'u Infested belasından koruyan Tenno'lar için bir hatıra.",
+      "name": "Salgın Yıldızı Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Присвячується тенно, які допомагали захищати Цетус від навали зараження.",
+      "name": "Відзнака «Морова зірка»",
+      "code": "uk"
+    }
+  ]
+}

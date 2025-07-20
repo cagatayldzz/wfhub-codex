@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FormaSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/forma-sigil-d1a1d8cf25.png",
+  "name": "Forma Sigil",
+  "description": "Do you even?",
+  "languages": [
+    {
+      "description": "Hast du schon?",
+      "name": "Siegel: Forma",
+      "code": "de"
+    },
+    {
+      "description": "Tu connais?",
+      "name": "Sceau Forma",
+      "code": "fr"
+    },
+    {
+      "description": "Do you even?",
+      "name": "Sigillo Forma",
+      "code": "it"
+    },
+    {
+      "description": "당신도 그런가요?",
+      "name": "포르마 시질",
+      "code": "ko"
+    },
+    {
+      "description": "¿En serio?",
+      "name": "Sello Forma",
+      "code": "es"
+    },
+    {
+      "description": "你就这点程度？",
+      "name": "Forma 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Ты хотя бы?..",
+      "name": "Сигил: Форма",
+      "code": "ru"
+    },
+    {
+      "description": "こんなとこまで？",
+      "name": "フォーマ シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Czy Ty w ogóle?",
+      "name": "Znak Formy",
+      "code": "pl"
+    },
+    {
+      "description": "Você ao menos?",
+      "name": "Brasão: Forma",
+      "code": "pt"
+    },
+    {
+      "description": "你就這點程度？",
+      "name": "Forma 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "คุณเคยปรับให้สมดุลหรือยัง?",
+      "name": "เครื่องหมาย: Forma",
+      "code": "th"
+    },
+    {
+      "description": "Yoksa sen..?",
+      "name": "Forma Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Ви хоч знаєте?",
+      "name": "Сиґіл «Форма»",
+      "code": "uk"
+    }
+  ]
+}

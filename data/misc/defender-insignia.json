@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianUncommonDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/defender-insignia-1cb796582e.png",
+  "name": "Defender Insignia",
+  "description": "Medallion of the Steel Meridian syndicate. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Medaillon des Steel Meridian Syndikats. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Insigne: Verteidiger",
+      "code": "de"
+    },
+    {
+      "description": "Médaillon du Syndicat du Méridien d'Acier. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats localisés dans les Relais.",
+      "name": "Insigne de Défenseur",
+      "code": "fr"
+    },
+    {
+      "description": "Medaglione dell'associazione Steel Meridian. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Defender Insignia",
+      "code": "it"
+    },
+    {
+      "description": "스틸 메리디안의 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "디펜더 인시그니아",
+      "code": "ko"
+    },
+    {
+      "description": "Medallones del Meridiano de Acero. Pueden ser intercambiados en las salas de los sindicatos en los Repetidores por reputación adicional.",
+      "name": "Insignia de Defensor",
+      "code": "es"
+    },
+    {
+      "description": "钢铁防线集团的勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "防御者佩章",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон синдиката 'Стальной Меридиан'. Можно обменять в комнатах синдикатов в реле на репутацию.",
+      "name": "Инсигния Защитника",
+      "code": "ru"
+    },
+    {
+      "description": "シンジケートのスティール・メリディアンのメダリオン。リレーのシンジケートハブで追加の地位とトレードできる。",
+      "name": "擁護勲章",
+      "code": "ja"
+    },
+    {
+      "description": "Syndykatowy Medalion Stalowego Meridianu. Może zostać wymieniony za dodatkową reputację w pokojach syndykatowych na przekaźniku.",
+      "name": "Insygnia Obrońcy",
+      "code": "pl"
+    },
+    {
+      "description": "Medalhão do sindicato Meridiano de Aço. Pode ser negociado na sala de seu respectivo sindicato nos Relays em troca de reputação adicional.",
+      "name": "Insígnia de Defensor",
+      "code": "pt"
+    },
+    {
+      "description": "鋼鐵防線集團的獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "防禦者佩章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญของซินดิเคต Steel Meridian สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "Defender Insignia",
+      "code": "th"
+    },
+    {
+      "description": "Steel Meridian'ın madalyonu. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "Koruyucu Nişanı",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон синдикату «Сталевий Меридіан». Можна обміняти на додаткову репутацію в центрах синдикату на реле.",
+      "name": "Відзнака захисника",
+      "code": "uk"
+    }
+  ]
+}

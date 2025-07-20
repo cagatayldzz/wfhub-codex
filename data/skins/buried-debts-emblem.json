@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/OrbBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/buried-debts-emblem-ea3c59ae1d.png",
+  "name": "Buried Debts Emblem",
+  "description": "The mark of one who works to preserve Fortuna from the ravages of thermia fractures.",
+  "languages": [
+    {
+      "description": "Das Zeichen dessen, der daran arbeitet, Fortuna vor den Verwüstungen durch thermische Risse zu schützen. ",
+      "name": "Emblem: Verborgene Schuld",
+      "code": "de"
+    },
+    {
+      "description": "La marque de ceux ayant aidé à préserver Fortuna des ravages des crevasses de thermia.",
+      "name": "Badge Dettes Ensevelies",
+      "code": "fr"
+    },
+    {
+      "description": "Il simbolo di colui che lavora per preservare Fortuna dalle devastazioni delle fratture thermia.",
+      "name": "Emblema Buried Debts",
+      "code": "it"
+    },
+    {
+      "description": "써미아 파열구가 일으키는 참화로부터 포르투나를 보호하는 이들의 상징입니다.",
+      "name": "베리드 뎁트 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "La marca del que trabaja para preservar Fortuna de los estragos de las fracturas thermia.",
+      "name": "Emblema Deudas Reprimidas",
+      "code": "es"
+    },
+    {
+      "description": "致力于守护福尔图娜免受热美亚裂缝摧残的勇士们所佩戴的标志。",
+      "name": "雪藏的恩怨徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Метка для тех, кто трудится для защиты Фортуны от угроз разломов термии.",
+      "name": "Значок: Погребённые долги",
+      "code": "ru"
+    },
+    {
+      "description": "フォーチュナーをサーミアの割れ目の災禍から守った者の証。",
+      "name": "「埋もれた負債」エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Znak tego, który chroni Fortunę przed zniszczeniami wywołanymi Termią.",
+      "name": "Emblemat: Pogrzebane Długi",
+      "code": "pl"
+    },
+    {
+      "description": "A marca daquele que atuou para proteger Fortuna dos malefícios das Fraturas de Térmia.",
+      "name": "Emblema: Dívidas Enterradas",
+      "code": "pt"
+    },
+    {
+      "description": "在福爾圖娜致力於守護熱美亞裂縫免受他人破壞的標誌。",
+      "name": "雪藏的恩怨徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายของผู้ที่ปกป้องฟอร์ทูนาจากอันตรายที่เกิดจากรอยร้าวจากเทอร์เมีย",
+      "name": "ตราสัญลักษณ์: Buried Debts",
+      "code": "th"
+    },
+    {
+      "description": "Fortuna'yı termal çatlakların meydana getireceği yıkımdan korumaya çalışanların işareti.",
+      "name": "Buried Debts Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака тих, хто працював над збереженням Фортуни від спустошень внаслідок проривів термії.",
+      "name": "Відзнака «Схоронені борги»",
+      "code": "uk"
+    }
+  ]
+}

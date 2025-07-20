@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagMergooUncommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/woodland-mergoo-tag-8760d643ac.png",
+  "name": "Woodland Mergoo Tag",
+  "description": "For saving a specimen of this subspecies.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Unterart gerettet.",
+      "name": "Marke: Wald-Mergoo",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Mergoo Forestier",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa sottospecie.",
+      "name": "Etichetta Mergoo della Foresta",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "우드랜드 메르구 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta subespecie.",
+      "name": "Marcador de Mergoo del Bosque",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个亚种的一个样本。",
+      "name": "林地秋沙鸟标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого подвида.",
+      "name": "Жетон: Лесная мергу",
+      "code": "ru"
+    },
+    {
+      "description": "この変種を保護すると入手できるタグ。",
+      "name": "ウッドランド メルゴー タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Leśnego Mergoo",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Mergoo da Floresta",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存這個亞種的樣本。",
+      "name": "林地秋沙鳥標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์ย่อยนี้",
+      "name": "แท็ก Woodland Mergoo",
+      "code": "th"
+    },
+    {
+      "description": "Bu alt-türün bir örneğini kurtardığın için.",
+      "name": "Ormanlık Mergoo Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього підвиду.",
+      "name": "Жетон лісного мерґу",
+      "code": "uk"
+    }
+  ]
+}

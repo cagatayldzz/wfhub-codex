@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plasma-sword-1c0e836f2e.png",
+  "name": "Plasma Sword",
+  "description": "An advanced blade that delivers high-damage attacks. Delivers a high percentage of critical strikes.",
+  "languages": [
+    {
+      "description": "Eine fortschrittliche Klinge, die mit aufgeladenen Angriffen hohe Schäden verursacht. Hohe Chance auf kritische Treffer.",
+      "name": "Plasmaschwert",
+      "code": "de"
+    },
+    {
+      "description": "Une lame à la pointe de la technologie qui offre des attaques chargées aux Dégâts élevés. Offre un pourcentage élevé de Coups Critiques.",
+      "name": "Épée à Plasma",
+      "code": "fr"
+    },
+    {
+      "description": "Una lama avanzata i cui attacchi caricati infliggono ingenti danni. Infligge una percentuale elevata di attacchi critici.",
+      "name": "Plasma Sword",
+      "code": "it"
+    },
+    {
+      "description": "이 진보된 기술이 적용된 검은 차지 어택으로 높은 피해를 입힐 수 있을 뿐만 아니라, 높은 치명타 확률도 보유하고 있습니다.",
+      "name": "플라즈마 소드",
+      "code": "ko"
+    },
+    {
+      "description": "Una avanzada hoja que brinda altos daños en ataques cargados. Proporciona un gran porcentaje de golpes críticos.",
+      "name": "Espada de plasma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PLASMA SWORD）这是一把先进的武器，有着高蓄力伤害和暴击几率。",
+      "name": "等离子长剑",
+      "code": "zh"
+    },
+    {
+      "description": "Высокотехнологичный меч, сильные удары которого очень разрушительны. Имеет высокий шанс нанести критический урон.",
+      "name": "Плазменный меч",
+      "code": "ru"
+    },
+    {
+      "description": "強力なチャージ攻撃を繰り出す最新鋭の剣。\n高いクリティカル発生率を持つ。",
+      "name": "Plasma Sword",
+      "code": "ja"
+    },
+    {
+      "description": "Zaawansowane ostrze zadające duże obrażenia ciężkim atakiem. Duża szansa obrażeń krytycznych.",
+      "name": "Miecz Plazmowy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lâmina avançada que causa altos danos com um ataque carregado. Garante uma alta porcentagem de golpes Críticos.",
+      "name": "Espada de Plasma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PLASMA SWORD）一把擁有高傷害攻擊的先進刀刃，能夠造成高倍率的暴擊打擊。",
+      "name": "電漿長劍",
+      "code": "tc"
+    },
+    {
+      "description": "ใบมีดขั้นสูงที่ให้การโจมตีที่สร้างความเสียหายสูง มีเปอร์เซ็นต์การโจมตีคริติคอลสูง",
+      "name": "Plasma Sword",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek hasarlı saldırı yapabilen ileri düzey bıçak. Kritik saldırılarda yüksek yüzde sağlar.",
+      "name": "Plasma Sword",
+      "code": "tr"
+    },
+    {
+      "description": "Високотехнологічний меч, клинок якого завдає чималу шкоду з великою ймовірністю критичної шкоди.",
+      "name": "Плазмовий меч",
+      "code": "uk"
+    }
+  ]
+}

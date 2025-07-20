@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ScarletSpearPlanetDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/earth-console-274f55028f.png",
+  "name": "Earth Console",
+  "description": "A planet Earth projection for the Orbiter.",
+  "languages": [
+    {
+      "description": "Eine Projektion der Erde für den Orbiter.",
+      "name": "Konsole: Erde",
+      "code": "de"
+    },
+    {
+      "description": "Une projection de la planète Terre pour l'Orbiteur.",
+      "name": "Console Terre",
+      "code": "fr"
+    },
+    {
+      "description": "Una proiezione della Terra per il tuo Orbiter.",
+      "name": "Console Terra",
+      "code": "it"
+    },
+    {
+      "description": "오비터를 위한 지구 행성의 투영체입니다.",
+      "name": "지구 콘솔",
+      "code": "ko"
+    },
+    {
+      "description": "Una proyección del planeta Tierra para el orbitador.",
+      "name": "Consola de la Tierra",
+      "code": "es"
+    },
+    {
+      "description": "一个用于轨道飞行器的地球星球投影。",
+      "name": "地球控制台",
+      "code": "zh"
+    },
+    {
+      "description": "Проекция планеты Земли для Орбитера.",
+      "name": "Консоль Земли",
+      "code": "ru"
+    },
+    {
+      "description": "オービター専用の惑星地球のプロジェクション。",
+      "name": "地球 コンソール",
+      "code": "ja"
+    },
+    {
+      "description": "Projekcja planety Ziemia dla Orbitera.",
+      "name": "Konsola Ziemi",
+      "code": "pl"
+    },
+    {
+      "description": "Uma projeção do planeta Terra para a sua Orbital.",
+      "name": "Console Terrestre",
+      "code": "pt"
+    },
+    {
+      "description": "一個可放置於軌道飛行器的地球投影。",
+      "name": "地球控制臺",
+      "code": "tc"
+    },
+    {
+      "description": "การฉายภาพดาวเคราะห์โลกสำหรับออร์บิเตอร์",
+      "name": "คอลโซลโลก",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter için bir Dünya gezegeni projeksiyonu.",
+      "name": "Dünya Konsolu",
+      "code": "tr"
+    },
+    {
+      "description": "Проєкція Землі, якою можна прикрасити орбітр.",
+      "name": "Консоль Землі",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-994239dee1.png",
+  "name": "Kullervo",
+  "description": "Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.",
+  "armor": 550,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Kullervo steht für seine Sünden und die anderer ein. Seine Dolche und seine Nahkampffähigkeiten verursachen hohen Schaden. Ergreife die Macht des Verrats und stille den Durst nach Rache.",
+      "name": "Kullervo",
+      "code": "de"
+    },
+    {
+      "description": "Kullervo répond de ses péchés et des péchés des autres. Ses poignards et ses prouesses au corps à corps infligent des Dégâts importants. Utilisez le pouvoir de la trahison pour étancher sa soif de vengeance.",
+      "name": "Kullervo",
+      "code": "fr"
+    },
+    {
+      "description": "Kullervo risponde per i suoi peccati e per quelli degli altri. I suoi pugnali e la sua abilità nel corpo a corpo infliggono danni elevati. Sfrutta il potere del tradimento per placare la sua sete di vendetta.",
+      "name": "Kullervo",
+      "code": "it"
+    },
+    {
+      "description": "쿨레르보는 자신, 그리고 다른 이들의 죄까지도 짊어집니다. 그의 단검과 근접전에서의 기량은 높은 피해를 자랑합니다. 배반의 힘을 손에 넣어 복수에 목말라하는 쿨레르보의 갈증을 채워주세요.",
+      "name": "쿨레르보",
+      "code": "ko"
+    },
+    {
+      "description": "Kullervo responde por sus pecados y los pecados de otros. Sus dagas y destreza cuerpo a cuerpo causan un gran daño. Usa el poder de la traición para saciar su sed de venganza.",
+      "name": "Kullervo",
+      "code": "es"
+    },
+    {
+      "description": "Kullervo 背负着自己和他人的罪孽。他的匕首和近战能力可以造成高额伤害。抓住背叛的力量来满足他对复仇的渴望。",
+      "name": "Kullervo",
+      "code": "zh"
+    },
+    {
+      "description": "Куллерво отвечает за свои грехи и грехи других. Его кинжалы и мастерство ближнего боя наносят большой урон. Воспользуйтесь его силой, чтобы утолить жажду мести.",
+      "name": "Куллерво",
+      "code": "ru"
+    },
+    {
+      "description": "Kullervoは自身と皆の罪に応える。彼のダガーと近接能力は高いダメージを誇る。裏切りの力で復讐心を鎮める。",
+      "name": "Kullervo",
+      "code": "ja"
+    },
+    {
+      "description": "Kullervo płaci za grzechy swoje, jak i innych. Jego sztylety i umiejętności wręcz zadają wysokie obrażenia. Wykorzystaj moc zdrady, aby zaspokoić jego pragnienie zemsty.",
+      "name": "Kullervo",
+      "code": "pl"
+    },
+    {
+      "description": "O Kullervo responde pelos seus pecados e pelos dos outros. Suas adagas e proezas corpo a corpo causam alto dano. Use o poder da traição para saciar sua sede de vingança.",
+      "name": "Kullervo",
+      "code": "pt"
+    },
+    {
+      "description": "Kullervo 為自己及他人身負罪惡。他的匕首和高超的近戰本領可以造成很高的傷害。利用背叛的力量來緩解他對復仇的渴望。",
+      "name": "Kullervo",
+      "code": "tc"
+    },
+    {
+      "description": "Kullervo แบกรับบาปของตัวเองและบาปของผู้อื่น มีความสามารถในการใช้กริชที่สร้างความเสียหายได้สูง ผนึกพลังแห่งการทรยศหักหลังเอาไว้เพื่อดับความกระหายที่จะแก้แค้น",
+      "name": "Kullervo",
+      "code": "th"
+    },
+    {
+      "description": "Kullervo kendi ve başkalarının günahlarının kefaletini öder. Hançerleri ve yakın dövüşteki hüneri yüksek hasar verir. İntikam susuzluğunu gidermek için ihanetin gücünü kullan.",
+      "name": "Kullervo",
+      "code": "tr"
+    },
+    {
+      "description": "Куллерво відповідає за свої гріхи та гріхи інших. Його кинджали та майстерність ближнього бою завдають великої шкоди. Скористайтеся його підступними навичками, щоби вгамувати його жагу до помсти.",
+      "name": "Куллерво",
+      "code": "uk"
+    }
+  ]
+}

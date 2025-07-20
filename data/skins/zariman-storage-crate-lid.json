@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateMediumAOpenTop",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-storage-crate-lid-2dceec73cf.png",
+  "name": "Zariman Storage Crate Lid",
+  "description": "The lid of a storage crate.",
+  "languages": [
+    {
+      "description": "Der Deckel einer Lagerkiste.",
+      "name": "Zariman Deckel für Lagerkisten",
+      "code": "de"
+    },
+    {
+      "description": "Le couvercle d'une caisse de rangement.",
+      "name": "Zariman: Caisse de rangement (couvercle)",
+      "code": "fr"
+    },
+    {
+      "description": "Il coperchio di un contenitore.",
+      "name": "Contenitore Zariman - Coperchio",
+      "code": "it"
+    },
+    {
+      "description": "보관 상자의 뚜껑입니다.",
+      "name": "자리만 보관 상자 뚜껑",
+      "code": "ko"
+    },
+    {
+      "description": "La tapa de una caja de almacenamiento.",
+      "name": "Tapa de caja de almacenamiento Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个储存箱的盖子。",
+      "name": "扎里曼储存箱盖",
+      "code": "zh"
+    },
+    {
+      "description": "Крышка ящика для хранения.",
+      "name": "Зариман: Ящик для хранения - крышка",
+      "code": "ru"
+    },
+    {
+      "description": "収納箱のフタ。",
+      "name": "Zariman 保管クレートのフタ",
+      "code": "ja"
+    },
+    {
+      "description": "Pokrywa skrzyni magazynowej.",
+      "name": "Zariman: Skrzynka magazynowa (pokrywa)",
+      "code": "pl"
+    },
+    {
+      "description": "A tampa de um compartimento de armazenamento.",
+      "name": "Tampa do Compartimento de Armazenamento da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "儲存箱的箱蓋。",
+      "name": "扎日曼儲存箱蓋",
+      "code": "tc"
+    },
+    {
+      "description": "ฝาที่ใช้ปิดลังเก็บของ",
+      "name": "Zariman: ฝาปิดลังเก็บของ",
+      "code": "th"
+    },
+    {
+      "description": "Bir depolama sandığının kapağı.",
+      "name": "Zariman Depolama Sandığı Kapağı",
+      "code": "tr"
+    },
+    {
+      "description": "Кришка для коробки.",
+      "name": "Кришка для ящика із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

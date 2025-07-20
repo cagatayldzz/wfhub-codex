@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemIradite",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/iradite-nugget-a79d51d473.png",
+  "name": "Iradite Nugget",
+  "description": "A warmly-colored nugget of pure Iradite, reclaimed from the lowlands of the Eidolon Plains.",
+  "languages": [
+    {
+      "description": "Ein Klumpen aus purem Iradite in warmer Farbe, aus den Tiefen der Ebenen von Eidolon.",
+      "name": "Iradite-Klumpen",
+      "code": "de"
+    },
+    {
+      "description": "Une pépite d'Iradite pure aux couleurs chaleureuses, récupérée dans les basses terres des Plaines d'Eidolon.",
+      "name": "Pépite d'Iradite",
+      "code": "fr"
+    },
+    {
+      "description": "Una pepita di pura iradite dal colore caldo, recuperata dai bassipiani delle Piane di Eidolon.",
+      "name": "Pepita di Iradite",
+      "code": "it"
+    },
+    {
+      "description": "아이돌론 평원의 저지대에서 획득한 따뜻한 느낌의 색을 띈 순수한 이라다이트 덩어리입니다.",
+      "name": "이라다이트 덩어리",
+      "code": "ko"
+    },
+    {
+      "description": "Una pepita de Iradita pura con un cálido color, reclamada de las profundidades de las Llanuras de Eidolon.",
+      "name": "Pepita de iradita",
+      "code": "es"
+    },
+    {
+      "description": "一块暖色调的纯粹伊莱体块，从夜灵平野的低地中回收而来。",
+      "name": "伊莱体矿块",
+      "code": "zh"
+    },
+    {
+      "description": "Самородок чистого ирадита теплого цвета, добытый с низин Равнин Эйдолона.",
+      "name": "Самородок Ирадита",
+      "code": "ru"
+    },
+    {
+      "description": "エイドロンの草原の低地から持ち込まれた純イラダイトの暖色の塊。",
+      "name": "イラダイトの塊",
+      "code": "ja"
+    },
+    {
+      "description": "Ciepło barwna bryłka czystego Iradytu, pozyskana z nizin Równin Eidolon.",
+      "name": "Grudka Iradytu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pepita de Iradite puro, exibindo cores quentes, adquirida nas Planícies de Eidolon.",
+      "name": "Pepita de Iradite",
+      "code": "pt"
+    },
+    {
+      "description": "一塊暖色調的純粹伊萊體塊，從夜靈平野的低地中回收而來。",
+      "name": "伊萊體礦塊",
+      "code": "tc"
+    },
+    {
+      "description": "ก้อนอิราไดต์บริสุทธิ์ที่มีสีอบอุ่น ได้มาจากที่ราบลุ่มที่อยู่บนที่ราบ Eidolon",
+      "name": "ก้อนอิราไดต์",
+      "code": "th"
+    },
+    {
+      "description": "Ilık renkler saçan saf Iradit parçası, Eidolon Ovalarının alçak kesimlerinden elde edildi.",
+      "name": "Iradit Parçası",
+      "code": "tr"
+    },
+    {
+      "description": "Здобутий у низинах Рівнин Ейдолонів чистий самородок ірадиту з теплим відтінком.",
+      "name": "Самородок ірадиту",
+      "code": "uk"
+    }
+  ]
+}

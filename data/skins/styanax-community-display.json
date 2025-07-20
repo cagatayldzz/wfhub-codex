@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/StyanaxCommunityDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-community-display-968a0b0561.png",
+  "name": "Styanax Community Display",
+  "description": "A community-made fanart Display of Styanax for Veilbreaker. Art created by TBGkaru.",
+  "languages": [
+    {
+      "description": "Eine von der Community erstellte Fanart von Styanax für 'Schleierschnitter'. Kunst geschaffen von TBGkaru.",
+      "name": "Display: Styanax (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Une affiche fanart de Styanax provenant de la communauté pour 'Brise-Voile'. Une œuvre de TBGkaru.",
+      "name": "Affiche Communautaire Styanax",
+      "code": "fr"
+    },
+    {
+      "description": "Un Display fanart realizzato dalla comunità di Styanax per Veilbreaker. Arte creata da TBGkaru.",
+      "name": "Display Comunità - Styanax",
+      "code": "it"
+    },
+    {
+      "description": "워프레임 커뮤니티의 솜씨로 만들어진 베일 파괴자의 스티아낙스 팬아트 디스플레이입니다. 아티스트: TBGkaru",
+      "name": "스티아낙스 커뮤니티 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Una exposición artística de Styanax para Rompevelos. Arte creado por TBGkaru.",
+      "name": "Exhibidor de Styanax de la Comunidad",
+      "code": "es"
+    },
+    {
+      "description": "玩家社区为《破障者》制作的 Styanax 粉丝艺术展示图，由 TBGkaru 创作。",
+      "name": "Styanax 社区展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Созданный сообществом дисплей «Стинакс» по мотивам «Срывающего вуали». Автор: TBGkaru.",
+      "name": "Дисплей сообщества «Стинакс»",
+      "code": "ru"
+    },
+    {
+      "description": "コミュニティによってデザインされた『ベールブレイカー』よりStyanaxのファンアートディスプレイ。TBGkaru作。",
+      "name": "Styanax コミュニティディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Wykonany przez społeczność fanart na Wyświetlacz przedstawiający Warframe'a Styanax z Veilbreaker stworzony przez TBGkaru.",
+      "name": "Wyświetlacz Społeczności Styanax",
+      "code": "pl"
+    },
+    {
+      "description": "Um exibidor artístico do Styanax, criado pela Comunidade para a jornada 'Destrutor de Véus'. Arte desenvolvida por TBGkaru.",
+      "name": "Exibidor do Styanax (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "社群為《破冪者》創作的 Styanax 粉絲藝術展示圖。藝術由 TBGkaru 創作。",
+      "name": "Styanax 社群展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพแสดงแฟนอาร์ตของ Styanax ที่จัดทำโดยชุมชนสำหรับ Veilbreaker ศิลปะที่ออกแบบโดย TBGkaru",
+      "name": "ภาพดิสเพลย์ชุมชน Styanax",
+      "code": "th"
+    },
+    {
+      "description": "Veilbreaker için Styanax'ın topluluk tarafından hazırlanmış bir fan sanat Sergisi. TBGkaru tarafından tasarlanmış bir eser.",
+      "name": "Styanax Topluluk Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Дисплей «Стейнекс», створений спільнотою шанувальників для «Вуалелама». Намальований художником TBGkaru.",
+      "name": "Дисплей спільноти «Стейнекс»",
+      "code": "uk"
+    }
+  ]
+}

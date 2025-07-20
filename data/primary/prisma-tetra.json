@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-tetra-206f7886e9.png",
+  "name": "Prisma Tetra",
+  "description": "When bathed in Void energy and prisma crystal, the simple Tetra becomes a beacon of style and intimidation.",
+  "languages": [
+    {
+      "description": "Wenn in Void-Energie und Prismakristalle gehüllt, wird die simple Tetra zu einem Leuchtfeuer des Stils und der Einschüchterung.",
+      "name": "Prisma Tetra",
+      "code": "de"
+    },
+    {
+      "description": "Lorsqu'il est baigné dans de l'Énergie du Néant et imprégné de cristal prisma, le simple Tetra devient un signe ostentatoire de style et de puissance.",
+      "name": "Tetra Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Una volta immersa nell'energia dei Void ed arricchita di cristalli di Prisma, da semplice arma, il Tetra diventa un'icona di stile intimidatoria.",
+      "name": "Prisma Tetra",
+      "code": "it"
+    },
+    {
+      "description": "보이드 에너지와 프리즈마 크리스탈에 담가지면서, 단순한 테트라였던 물건은 이제 멋과 위협성을 동시에 소유하게 되었습니다.",
+      "name": "프리즈마 테트라",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando fue bañada en la energía del Vacío y en cristales prisma, la simple Tetra se convirtió en un foco de estilo e intimidación.",
+      "name": "Tetra Prisma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PRISMA TETRA）在浸泡过虚空能量与棱晶后，这把单纯的特拉能量步枪成为了威吓与风格的指标。",
+      "name": "棱晶·特拉",
+      "code": "zh"
+    },
+    {
+      "description": "Омытая энергией Бездны и украшенная призматическими кристаллами, даже простая Тетра может стать эталоном стиля и устрашения врагов.",
+      "name": "Тетра Призма",
+      "code": "ru"
+    },
+    {
+      "description": "VOID エネルギーとプリズマクリスタルに浸された時、シンプルな Tetraは恐怖のシンボルへと生まれ変わる。",
+      "name": "Prisma Tetra",
+      "code": "ja"
+    },
+    {
+      "description": "Tetra skąpana w energii pustki i kryształach prisma stała się wyznacznikiem stylu i onieśmielenia.",
+      "name": "Tetra Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Quando banhada em cristal Prisma e Energia Void, a simples Tetra se torna um farol de estilo e intimidação.",
+      "name": "Tetra Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PRISMA TETRA）在浸泡過虛空能量與棱水晶後，這把單純的特拉能量步槍成為了威嚇與風格的指標。",
+      "name": "棱晶 特拉",
+      "code": "tc"
+    },
+    {
+      "description": "Tetra ที่ดูธรรมดาเมื่อชุบพลังงานวอยด์และคริสตัลพริสมาเข้าไปก็กลายเป็นเครื่องบ่งบอกถึงรสนิยมและความน่าเกรงขาม",
+      "name": "Prisma Tetra",
+      "code": "th"
+    },
+    {
+      "description": "Prizma kristalleri ve void enerjisi ile yıkandığında basit bir Tetra, sağlam bir tarz göstergesi ve tehdit aracına dönüşür.",
+      "name": "Prisma Tetra",
+      "code": "tr"
+    },
+    {
+      "description": "Звичайна рушниця «Тетра», але оповита енергією Порожнечі та призмовим кристалом. Стала взірцем стилю та залякування.",
+      "name": "Тетра-призма",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shedu-d2d1c0c38d.png",
+  "name": "Shedu",
+  "description": "This arm-cannon, ripped from a Sentient, rapid-fires thermal pulses that explode in an electrical blast. Features an ammo-less quick charge capacitor, that emits a knock-back pulse and strips Sentient damage resistances when fully discharged.",
+  "languages": [
+    {
+      "description": "Diese Armkanone, einem Sentient entrissen, feuert schnelle thermale Pulse ab, die mit einer elektrischen Explosion einschlagen. Zeichnet sich durch einen munitionslosen, schnellladenen Kondensator aus, der einen Rückstoß-Puls freigibt und bei voller Aufladung die Schadensresistenz von Sentinets entfernt.",
+      "name": "Shedu",
+      "code": "de"
+    },
+    {
+      "description": "Ce Canon à bras, arraché à un Sentient, tire des impulsions thermiques rapides qui explosent en déflagrations électriques. Comprend un condensateur de charge rapide sans munitions qui émet une impulsion repoussant les ennemis et qui élimine la résistance aux Dégâts des Sentients une fois complètement chargé.",
+      "name": "Shedu",
+      "code": "fr"
+    },
+    {
+      "description": "Questo braccio cannone, strappato da un Sentient, spara impulsi termici che esplodono in una scarica elettrica. Presenta un condensatore a carica rapida senza munizioni che emette un impulso respingente e rimuove le resistenze ai danni dei Sentient quando è completamente scarico.",
+      "name": "Shedu",
+      "code": "it"
+    },
+    {
+      "description": "센티언트에게서 뜯어낸 이 암 캐논은 전격 폭발을 일으키며 터지는 열 펄스를 빠르게 발사합니다. 빠르게 충전되며 탄약이 필요 없는 축전기를 이용하며, 탄을 모두 소진했을 시 주변의 적을 쓰러뜨리고 센티언트의 피해 저항을 지우는 펄스를 방출합니다.",
+      "name": "세두",
+      "code": "ko"
+    },
+    {
+      "description": "Este cañón de brazo, arrancado de un consciente, dispara pulsos térmicos que estallan en una explosión eléctrica. Cuenta con un condensador de carga rápida sin munición, que emite un impulso de retroceso y elimina las resistencias de daño de los conscientes cuando está completamente descargado.",
+      "name": "Shedu",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SHEDU）这种从 Sentient 身上扯下来的手炮能快速射出热脉冲，并在电击中爆炸。它有一个不需要弹药的快充电容器，在完全放电时会发出回弹脉冲并解除 Sentient 的伤害抗性。",
+      "name": "舍杜",
+      "code": "zh"
+    },
+    {
+      "description": "Эта ручная пушка, оторванная от Владеющего Разумом, испускает быстрые термические импульсы, создающие электрический взрыв. Имеет беспатронный самозаряжающийся конденсатор, испускающий отталкивающий импульс и лишающий Владеющих Разумом выработанного сопротивления при полной разрядке.",
+      "name": "Шиду",
+      "code": "ru"
+    },
+    {
+      "description": "センティエントから引き裂かれたこのアーム砲は高速で爆破するサーマルパルスを連射する。弾薬を必要としない蓄電器を使用し、放射されるパルスを全て放つ事でセンティエントのダメージ耐性を取り除く。",
+      "name": "Shedu",
+      "code": "ja"
+    },
+    {
+      "description": "Szybkostrzelne działo odebrane Świadomemu, wystrzeliwuje impulsy termiczne powodujące wyładowania elektryczne. Posiada szybko ładujący się kondensator, który - po pełnym rozładowaniu - wyzwala odpychający, ogałacający Świadomych z odporności na obrażenia impuls.",
+      "name": "Shedu",
+      "code": "pl"
+    },
+    {
+      "description": "Este canhão de braço, arrancado de um Sentient, dispara pulsos térmicos que detonam com uma explosão elétrica. Apresenta um capacitor de carga rápida que não consome munição e que emite um repulso, além de remover as resistências variáveis dos Sentients ao ser totalmente descarregado.",
+      "name": "Shedu",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SHEDU）這個從 Sentient 撕裂下來的臂砲能速射電擊爆破的熱能脈衝。其內含一個無彈藥快充電容來放射一道衝擊脈衝並在完全放電時消除 Sentient 的傷害抗性。",
+      "name": "舍杜",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่ติดแขนที่ฉีกออกมาจาก Sentient กระบอกนี้สามาถยิงคลื่นพัลส์ความร้อนได้อย่างรวดเร็วซึ่งจะระเบิดไฟฟ้าออกมา มีตัวเก็บประจุที่ชาร์จเร็วโดยไม่ต้องเก็บกระสุน และเมื่อคายประจุจนหมดจะปล่อยคลื่นพัลส์ที่ทำให้ศัตรูต้องหงายหลังและลบล้างค่าต้านทานความเสียหายของ Sentient ออก",
+      "name": "Shedu",
+      "code": "th"
+    },
+    {
+      "description": "Bir Sentient'den kopartılmış bu kol topu, yüksek atış hızı ile elektriksel patlamalara yol açan termal dalgalar fırlatır. Mermisiz bir hızlı şarj kapasitörüne sahip olan bu top tamamen deşarj olduğunda düşmanı yere savurur ve Sentient hasar dayanıklılığını kaldırır.",
+      "name": "Shedu",
+      "code": "tr"
+    },
+    {
+      "description": "Швидкострільна наручна гармата Свідомих. Випускає високотемпературні промені, що вибухають електричними розрядами. Має конденсатор, що швидко відновлює заряд. Після повного розрядження випускає енергоімпульс, що відкидає ворогів і нівелює опір шкоді у Свідомих.",
+      "name": "Шеду",
+      "code": "uk"
+    }
+  ]
+}

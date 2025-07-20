@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Magician/UnlockMagicianNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-noble-animation-set-c71ae7df81.png",
+  "name": "Limbo Noble Animation Set",
+  "description": "This item lets you use Limbo's noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Limbos nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Limbo-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Nobles de Limbo avec n'importe quelle autre Warframe.",
+      "name": "Animation Limbo Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Limbo con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Limbo",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 림보의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "림보 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Limbo con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones nobles de Limbo",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Limbo 的尊贵站姿。",
+      "name": "Limbo 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Лимбо на любом другом варфрейме.",
+      "name": "Набор анимаций Лимбо: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Limboのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Limbo ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Limbo w każdym innym Warframe'ie.",
+      "name": "Animacje Limbo: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Limbo em qualquer Warframe de sua escolha.",
+      "name": "Animações: Limbo (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Limbo 的尊貴站姿。",
+      "name": "Limbo 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูสง่างามของ Limbo ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่สง่างามของ Limbo",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Limbo'nun noble animasyon setinin kullanımına izin verir.",
+      "name": "Limbo Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Лімбо до будь-якого ворфрейма.",
+      "name": "Лімбо: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

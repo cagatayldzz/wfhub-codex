@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/brakk-251ecec36e.png",
+  "name": "Brakk",
+  "description": "Simple but powerful. The semi-automatic Brakk hand cannon delivers a lot of punch in a small package.",
+  "languages": [
+    {
+      "description": "Einfach aber kraftvoll. Die halbautomatische Brakk Handfeuerwaffe bietet einen ordentlichen Bums in kleiner Verpackung.",
+      "name": "Brakk",
+      "code": "de"
+    },
+    {
+      "description": "Simple mais puissant. Le Canon à main semi-automatique Brakk offre beaucoup de puissance dans un petit format.",
+      "name": "Brakk",
+      "code": "fr"
+    },
+    {
+      "description": "Semplice ma potente. Il cannone portatile semi-automatico BRAKK offre enorme potenza in un'arma compatta.",
+      "name": "Brakk",
+      "code": "it"
+    },
+    {
+      "description": "간단하지만 강력한 반자동 소형 화기인 브락은 적은 탄창 용량에도 불구하고 강력한 저지력을 가지고 있습니다.",
+      "name": "브락",
+      "code": "ko"
+    },
+    {
+      "description": "Simple pero poderoso. Este cañón de mano semiautomático reparte una gran fuerza en un paquete pequeño.",
+      "name": "Brakk",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BRAKK）简单但威力强大，半自动布拉克手枪小型的枪身中却拥有强大的冲击火力。",
+      "name": "布拉克",
+      "code": "zh"
+    },
+    {
+      "description": "Простой, но убойный. Полуавтоматический тяжелый пистолет Бракк - серьезная сила в компактном корпусе.",
+      "name": "Бракк",
+      "code": "ru"
+    },
+    {
+      "description": "その小さな見た目に反し、恐るべき破壊力を秘めたセミオートハンドキャノン。",
+      "name": "Brakk",
+      "code": "ja"
+    },
+    {
+      "description": "Prosty, ale potężny. Samopowtarzalny pistolet Brakk to imponująca siła w małym opakowaniu.",
+      "name": "Brakk",
+      "code": "pl"
+    },
+    {
+      "description": "Simples, mas poderoso. O canhão de mão semi-automático Brakk é mais poderoso do que aparenta para seu tamanho.",
+      "name": "Brakk",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BRAKK）簡單但威力強大，半自動布拉克手槍小型的槍身中卻擁有強大的衝擊火力。",
+      "name": "布拉克",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่ที่ถือด้วยมือกึ่งอัตโนมัติ Brakk นั้นเรียบง่ายแต่ทรงพลัง แม้จะมีขนาดเล็กแต่ก็มีพลังโจมตีมหาศาล",
+      "name": "Brakk",
+      "code": "th"
+    },
+    {
+      "description": "Basit ama güçlü. Yarı otomatik Brakk el topu küçük bir silahta büyük bir vurucu güç içerir.",
+      "name": "Brakk",
+      "code": "tr"
+    },
+    {
+      "description": "Самозарядна ручна рушниця. Попри свій невеликий розмір, завдає значної шкоди. Проста, але потужна.",
+      "name": "Брак",
+      "code": "uk"
+    }
+  ]
+}

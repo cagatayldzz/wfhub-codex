@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/PoseSets/WarframeGunPoseSet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-gun-pose-set-e2f8ef81d5.png",
+  "name": "Tenno Gun Pose Set",
+  "description": "A collection of poses with guns.",
+  "languages": [
+    {
+      "description": "Eine Posenkollektion mit Feuerwaffen.",
+      "name": "Posenset: Tenno Feuerwaffen",
+      "code": "de"
+    },
+    {
+      "description": "Une collection de poses avec des Fusils.",
+      "name": "Ensemble de Poses Fusils Tennos",
+      "code": "fr"
+    },
+    {
+      "description": "Una collezione di pose con fucili.",
+      "name": "Set Pose Tenno Armato",
+      "code": "it"
+    },
+    {
+      "description": "총을 들고 있는 포즈를 모아둔 컬렉션입니다.",
+      "name": "텐노 건 포즈 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Una colección de poses con armas de fuego.",
+      "name": "Conjunto de poses de arma de fuego tenno",
+      "code": "es"
+    },
+    {
+      "description": "一组持枪姿势组合包。",
+      "name": "Tenno 持枪姿势组合",
+      "code": "zh"
+    },
+    {
+      "description": "Набор поз с оружием Тэнно.",
+      "name": "Набор Поз: Тэнно с Оружием",
+      "code": "ru"
+    },
+    {
+      "description": "銃を持ったポーズ集。",
+      "name": "テンノ ガンポーズセット",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw póz z bronią palną.",
+      "name": "Zestaw Póz z Bronią Palną",
+      "code": "pl"
+    },
+    {
+      "description": "Uma coleção de poses com armas.",
+      "name": "Conjunto de Poses: Tenno Armado",
+      "code": "pt"
+    },
+    {
+      "description": "持握槍械的一系列站姿",
+      "name": "Tenno 持槍姿勢組",
+      "code": "tc"
+    },
+    {
+      "description": "รวมการถือปืนด้วยท่าทางต่าง ๆ",
+      "name": "เซตท่าถือปืน: Tenno",
+      "code": "th"
+    },
+    {
+      "description": "Silahlı poz koleksiyonu.",
+      "name": "Tenno Silah Poz Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Колекція поз зі зброєю.",
+      "name": "Набір поз зі зброєю для тенно",
+      "code": "uk"
+    }
+  ]
+}

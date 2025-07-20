@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bonewidow-engine.png",
+  "name": "Bonewidow Engine",
+  "description": "Engine component for the Bonewidow Necramech.",
+  "languages": [
+    {
+      "description": "Antrieb-Komponente für den Bonewidow Necramech.",
+      "name": "Bonewidow: Antrieb",
+      "code": "de"
+    },
+    {
+      "description": "Le composant Moteur du Necramech Bonewidow.",
+      "name": "Bonewidow - Moteur",
+      "code": "fr"
+    },
+    {
+      "description": "Il componente Motore per il Necramech Bonewidow.",
+      "name": "Bonewidow - Motore",
+      "code": "it"
+    },
+    {
+      "description": "본위도우 네크라메크의 엔진 부품입니다.",
+      "name": "본위도우 엔진",
+      "code": "ko"
+    },
+    {
+      "description": "Componente del motor del Necramech Bonewidow.",
+      "name": "Motor de Bonewidow",
+      "code": "es"
+    },
+    {
+      "description": "骨骸寡妇殁世机甲的引擎组件。",
+      "name": "骨骸寡妇 引擎",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент некрамеха «Костяная вдова» — двигатель.",
+      "name": "Костяная Вдова: Двигатель",
+      "code": "ru"
+    },
+    {
+      "description": "Bonewidowネクロメカ用のエンジンパーツ。",
+      "name": "Bonewidow エンジン",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent silnika Nekramecha Bonewidow.",
+      "name": "Bonewidow: Silnik",
+      "code": "pl"
+    },
+    {
+      "description": "Motor componente do Necramech Bonewidow.",
+      "name": "Bonewidow: Motor",
+      "code": "pt"
+    },
+    {
+      "description": "骨寡婦亡骸機甲的引擎部件。",
+      "name": "骨寡婦 引擎",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบเครื่องยนต์สำหรับ Bonewidow Necramech",
+      "name": "Bonewidow: เครื่องยนต์",
+      "code": "th"
+    },
+    {
+      "description": "Bonewidow Necramech için Motor bileşeni.",
+      "name": "Bonewidow Motoru",
+      "code": "tr"
+    },
+    {
+      "description": "Деталі рушія для некрамеха «Кістяна Вдова».",
+      "name": "«Кістяна Вдова»: рушій",
+      "code": "uk"
+    }
+  ]
+}

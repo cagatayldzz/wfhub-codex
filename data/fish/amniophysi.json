@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amniophysi-0cb67aedd3.png",
+  "name": "Amniophysi",
+  "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
+  "languages": [
+    {
+      "description": "Diese Fische schlüpfen aus durchsichtigen Kapseln, die sich in den Höhlen unterhalb der befallenen Landschaft bilden. Sie schweben, um zu fressen.",
+      "name": "Amniophysi",
+      "code": "de"
+    },
+    {
+      "description": "Ces poissons éclosent de gousses translucides formées dans les cavernes souterraines du paysage Infesté. Ils planent pour se nourrir.",
+      "name": "Amniophysi",
+      "code": "fr"
+    },
+    {
+      "description": "Questi pesci nascono da baccelli traslucidi che si formano nelle caverne sotterranee del paesaggio Infested. Volano per nutrirsi.",
+      "name": "Amniophysi",
+      "code": "it"
+    },
+    {
+      "description": "이 물고기들은 인페스티드 지역 아래의 동굴에 형성된 반투명 꼬투리에서 부화합니다. 이들은 뜬 상태에서 먹이를 먹습니다.",
+      "name": "암니오피지",
+      "code": "ko"
+    },
+    {
+      "description": "Estos peces nacen de vainas translúcidas formadas en las cavernas debajo del paisaje infestado. Ellos flotan para alimentarse.",
+      "name": "Amniofisi",
+      "code": "es"
+    },
+    {
+      "description": "这些鱼类从感染地表下形成的半透明卵囊中孵化出来。它们悬游进食。",
+      "name": "针刺长鳄",
+      "code": "zh"
+    },
+    {
+      "description": "Эти рыбы рождаются из полупрозрачных стручков, образовавшихся в пещерах под заражённым ландшафтом. Им приходится парить, чтобы кормиться.",
+      "name": "Амниофиз",
+      "code": "ru"
+    },
+    {
+      "description": "この魚は感染体の地の下にある洞窟で半透明の繭から孵化する。エサを摂るために浮上する。",
+      "name": "アムニオフィジ",
+      "code": "ja"
+    },
+    {
+      "description": "Ryby te wykluwają się z przezroczystych kokonów utworzonych w jaskiniach pod krajobrazem pełnym Plagi. Unoszą się, by się pożywić.",
+      "name": "Amniofiz",
+      "code": "pl"
+    },
+    {
+      "description": "Estes peixes eclodem de casulos translúcidos, formados nas cavernas subterrâneas da paisagem infestada. Eles sobem para se alimentar.",
+      "name": "Amniophysi",
+      "code": "pt"
+    },
+    {
+      "description": "這些魚在 Infested 景觀底下洞穴中形成的半透明莢囊中孵出。牠們懸浮來進食。",
+      "name": "氨膜鯉",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาพวกนี้ฟักออกมาจากฝักโปร่งแสงที่ก่อตัวขึ้นอยู่ในถ้ำใต้พื้นที่ที่มีการติดเชื้อ มักโฉบขึ้นมาเพื่อกินอาหาร",
+      "name": "Amniophysi",
+      "code": "th"
+    },
+    {
+      "description": "Bu balıklar, Infested peyzajının altındaki mağaralarda oluşan yarı saydam bölmelerden çıkar. Beslenmek için havada süzülürler.",
+      "name": "Amniophysi",
+      "code": "tr"
+    },
+    {
+      "description": "Вилуплюється з напівпрозорих утворень у печерах під зараженими місцевостями. Для харчування ширяє в повітрі.",
+      "name": "Амніопсія",
+      "code": "uk"
+    }
+  ]
+}

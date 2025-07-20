@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardEmber",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-prex-b77749fba2.png",
+  "name": "Ember Prex",
+  "description": "The Eternal Flame",
+  "languages": [
+    {
+      "description": "Die Ewige Flamme",
+      "name": "Ember Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Flamme Éternelle",
+      "name": "Prex Ember",
+      "code": "fr"
+    },
+    {
+      "description": "La Fiamma Eterna",
+      "name": "Prex: Ember",
+      "code": "it"
+    },
+    {
+      "description": "영원한 불꽃",
+      "name": "엠버 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La Llama Eterna",
+      "name": "Prex de Ember",
+      "code": "es"
+    },
+    {
+      "description": "永恒之火",
+      "name": "Ember Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Вечное пламя",
+      "name": "Прекс: Эмбер",
+      "code": "ru"
+    },
+    {
+      "description": "永遠の炎",
+      "name": "Ember プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Wieczny Płomień",
+      "name": "Prex: Ember",
+      "code": "pl"
+    },
+    {
+      "description": "A Chama Eterna",
+      "name": "Prex: Ember",
+      "code": "pt"
+    },
+    {
+      "description": "不滅之燄",
+      "name": "卡牌 — Ember",
+      "code": "tc"
+    },
+    {
+      "description": "เปลวไฟที่คงอยู่ชั่วนิรันดร์",
+      "name": "ไพ่เพร็กซ์ Ember",
+      "code": "th"
+    },
+    {
+      "description": "Ebedi Alev",
+      "name": "Ember Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Вічне полум’я",
+      "name": "Прекс Ембер",
+      "code": "uk"
+    }
+  ]
+}

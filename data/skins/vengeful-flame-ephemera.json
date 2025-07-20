@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaFireEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-flame-ephemera-23e0da73ea.png",
+  "name": "Vengeful Flame Ephemera",
+  "description": "A fiery ephemera seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Ein feuriges Ephemera, von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächende Flamme",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera flamboyant récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Flamme Vengeresse",
+      "code": "fr"
+    },
+    {
+      "description": "Un'ephemera infuocata estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Flame",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은 화염의 이페메라입니다.",
+      "name": "벤지풀 플레임 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero ardiente adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Llama Vengativa",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的赤毒玄骸那里得到的炽烈幻纹。",
+      "name": "复仇火焰幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Огненная эфемера изъята у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Пламя мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた燃えるようなエフェメラ。",
+      "name": "Vengeful Flame エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ognista Efemera skonfiskowana nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwego Ognia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma efêmera de chamas obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Flamejante",
+      "code": "pt"
+    },
+    {
+      "description": "一個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的熾烈幻紋。",
+      "name": "復仇火焰幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่ลุกเป็นไฟ ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Flame",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya mağlup edilmiş Kuva Lich'ten ele geçirilmiş ateşli bir ephemera.",
+      "name": "Vengeful Flame Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Палка ефемера, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстиве полум’я»",
+      "code": "uk"
+    }
+  ]
+}

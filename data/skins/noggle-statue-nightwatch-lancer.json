@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrineerNightwatchMarineBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---nightwatch-lancer-c30136ce01.png",
+  "name": "Noggle Statue - Nightwatch Lancer",
+  "description": "A small wobbly statue of a Grineer Nightwatch Lancer.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur eines Nachtwache Sturmsoldaten.",
+      "name": "Noggle-Statue: Nachtwache Sturmsoldat",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Lancier Nightwatch.",
+      "name": "Statuette Noggle - Lancier Nightwatch",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Nightwatch Lancer con la testa tremolante.",
+      "name": "Statuetta Noggle - Nightwatch Lancer",
+      "code": "it"
+    },
+    {
+      "description": "나이트워치 랜서의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 나이트워치 랜서",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un lancero avizor nocturno grineer.",
+      "name": "Estatua Tambaleante - Lancero Avizor Nocturno",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Grineer 夜巡者枪兵摇头娃娃。",
+      "name": "夜巡者枪兵摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка солдата ночного дозора Гринир.",
+      "name": "Фигурка: Солдат Ночного дозора",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア ナイトウォッチ ランサーのボブルヘッド人形。",
+      "name": "ナイトウォッチ ランサー ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Szturmowca Nocnej Gwardii Grineer.",
+      "name": "Figurka Noggle — Szturmowiec Nocnej Gwardii",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Lanceiro da Patrulha Noturna Grineer.",
+      "name": "Estatueta: Lanceiro da Patrulha Noturna",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Grineer 夜巡槍兵的搖頭娃娃。",
+      "name": "夜巡槍兵搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Nightwatch Lancer ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Nightwatch Lancer",
+      "code": "th"
+    },
+    {
+      "description": "Nightwatch Lancer küçük oynar figür.",
+      "name": "Noggle Heykeli - Nightwatch Lancer",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ґрінерського штурмовика «Нічної варти».",
+      "name": "Ноґл «Штурмовик „Нічної варти“»",
+      "code": "uk"
+    }
+  ]
+}

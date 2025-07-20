@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureWallLockerSmallB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-wall-cabinet-(short)-1f55bf2d02.png",
+  "name": "Zariman Wall Cabinet (Short)",
+  "description": "A short wall mounted cabinet.",
+  "languages": [
+    {
+      "description": "Ein kurzer Wandschrank.",
+      "name": "Zariman Wandschrank (kurz)",
+      "code": "de"
+    },
+    {
+      "description": "Une armoire murale courte.",
+      "name": "Zariman: Armoire murale (courte)",
+      "code": "fr"
+    },
+    {
+      "description": "Un pensile corto.",
+      "name": "Pensile Zariman (Corto)",
+      "code": "it"
+    },
+    {
+      "description": "벽면에 고정된 짧은 보관장입니다.",
+      "name": "자리만 벽 보관장 (짧은)",
+      "code": "ko"
+    },
+    {
+      "description": "Un gabinete pequeño montado en la pared.",
+      "name": "Gabinete de pared Zariman (pequeño)",
+      "code": "es"
+    },
+    {
+      "description": "一个短型壁挂式储藏柜。",
+      "name": "短型扎里曼壁挂式储藏柜",
+      "code": "zh"
+    },
+    {
+      "description": "Короткий навесной шкаф.",
+      "name": "Зариман: Навесной шкаф (короткий)",
+      "code": "ru"
+    },
+    {
+      "description": "壁に取り付けられた短いキャビネット。",
+      "name": "Zariman 壁キャビネット（短）",
+      "code": "ja"
+    },
+    {
+      "description": "Krótka szafka naścienna.",
+      "name": "Zariman: Szafeczka naścienna (krótka)",
+      "code": "pl"
+    },
+    {
+      "description": "Um gabinete curto montado na parede.",
+      "name": "Gabinete de Parede da Zariman (Curto)",
+      "code": "pt"
+    },
+    {
+      "description": "短型壁掛櫃。",
+      "name": "短型扎日曼壁掛式貯藏櫃",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ติดผนังแบบสั้น",
+      "name": "Zariman: ตู้ติดผนัง (สั้น)",
+      "code": "th"
+    },
+    {
+      "description": "Duvara monte kısa çekmeceli bir dolap.",
+      "name": "Zariman Çekmeceli Duvar Dolabı (Kısa)",
+      "code": "tr"
+    },
+    {
+      "description": "Коротка навісна шафа.",
+      "name": "Настінна шафа із «Заримена» (коротка)",
+      "code": "uk"
+    }
+  ]
+}

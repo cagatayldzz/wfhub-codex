@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/SolarisBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-emblem-bd23a8cd64.png",
+  "name": "Solaris Emblem",
+  "description": "The emblem of the Solaris, the indebted workers of Fortuna. We all lift together.",
+  "languages": [
+    {
+      "description": "Das Emblem der Solaris, den verschuldeten Arbeitern von Fortuna. Wir tragen alle gemeinsam.",
+      "name": "Emblem: Solaris",
+      "code": "de"
+    },
+    {
+      "description": "Le Badge des Solaris, les travailleurs endettés de Fortuna. Nous nous soulevons tous ensemble.",
+      "name": "Badge Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "L'emblema di Solaris, gli indebitati lavoratori di Fortuna. Ci rialziamo tutti assieme.",
+      "name": "Emblema Solaris",
+      "code": "it"
+    },
+    {
+      "description": "포르투나의 채무 노동자, 솔라리스들의 엠블럼입니다. 우리 모두가 짊어지는 겁니다.",
+      "name": "솔라리스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "El emblema de solaris, los trabajadores endeudados de Fortuna. Todos trabajamos juntos.",
+      "name": "Emblema Solaris",
+      "code": "es"
+    },
+    {
+      "description": "福尔图娜负债工人－索拉里斯人民的徽章。我们共度时艰。",
+      "name": "索拉里斯徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок Солярис, рабочих-должников Фортуны. Воспрянем вместе.",
+      "name": "Значок: Солярис",
+      "code": "ru"
+    },
+    {
+      "description": "フォーチュナーの負債持ち労働民ソラリスのエンブレム。皆と共に。",
+      "name": "ソラリスエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie o nieokreślonej funkcji i pochodzeniu. Doceniany przez Vox Solaris i Quillów.",
+      "name": "Emblemat Solaris",
+      "code": "pl"
+    },
+    {
+      "description": "O emblema dos Solaris, os trabalhadores endividados de Fortuna. Unidos Ascendemos.",
+      "name": "Emblema: Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "福爾圖娜負債工人－索拉里斯人民的徽章。共舉時艱。",
+      "name": "索拉里斯徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ของ Solaris คนงานที่เป็นหนี้ในฟอร์ทูนา เราทุกคนร่วมมือกัน",
+      "name": "ตราสัญลักษณ์: Solaris",
+      "code": "th"
+    },
+    {
+      "description": "Solaris yani Fortunanın borçlu işçilerinin amblemi. Bu yük hepimizin.",
+      "name": "Solaris Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака Солярісу — робітників-боржників Фортуни. Разом ми можемо все.",
+      "name": "Відзнака «Соляріс»",
+      "code": "uk"
+    }
+  ]
+}

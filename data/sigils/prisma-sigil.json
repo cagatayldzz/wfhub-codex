@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeTraderSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-sigil-7ce1730a7b.png",
+  "name": "Prisma Sigil",
+  "description": "This exclusive sigil features prisma color gradients for maximum customization.",
+  "languages": [
+    {
+      "description": "Dieses exklusive Siegel bietet prismatische Farbwechsel für maximale Anpassung.",
+      "name": "Siegel: Prisma",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau exclusif dispose de gradients de couleurs Prisma pour une personnalisation ultime.",
+      "name": "Sceau Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo esclusivo dispone sfumature di colore Prisma per la massima personalizzazione.",
+      "name": "Sigillo Prisma",
+      "code": "it"
+    },
+    {
+      "description": "이 한정판 시질은 모든 이의 취향에 최대한 맞춘 프리즈마 색상 변화도가 특징입니다.",
+      "name": "프리즈마 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello exclusivo cuenta con colores prismáticos para lograr una máxima personalización.",
+      "name": "Sello Prisma",
+      "code": "es"
+    },
+    {
+      "description": "这枚特殊的纹章以能极高度自定的棱晶渐变色彩为其特色。",
+      "name": "棱晶纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот уникальный сигил исполнен в градиентах спектра Призмы для максимальной тонкой настройки.",
+      "name": "Сигил: Призма",
+      "code": "ru"
+    },
+    {
+      "description": "この限定シジルにはプリズマクリスタルのグラデーションカラーが施され、個性豊かにカスタマイズできる。",
+      "name": "Prisma シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten ekskluzywny znak posiada Pryzmatyczne gradienty, które wyśmienicie spersonalizują Twój wygląd.",
+      "name": "Znak Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão exclusivo apresenta cores gradientes Prisma para máxima personalização.",
+      "name": "Brasão: Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "這枚特殊的紋章以能極高度自訂的棱晶漸層色彩為其特色。",
+      "name": "棱晶紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายพิเศษนี้มีการไล่ระดับสีแบบปริซึมเพื่อการปรับแต่งสูงสุด",
+      "name": "เครื่องหมาย: Prisma",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşsiz mühür maksimum özelleştirme için Prizma renklerini kullanır",
+      "name": "Prisma Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний сиґіл, виконаний із використанням кольорової палітри «Призма».",
+      "name": "Призмовий сиґіл",
+      "code": "uk"
+    }
+  ]
+}

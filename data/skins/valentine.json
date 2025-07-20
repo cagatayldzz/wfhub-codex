@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valentine-c7a6876e45.png",
+  "name": "Valentine",
+  "description": "Unlocks a collection of lovely colors.",
+  "languages": [
+    {
+      "description": "Schaltet eine Auswahl lieblicher Farben frei.",
+      "name": "Valentinstag",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille une collection de couleurs agréables.",
+      "name": "Saint-Valentin",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di adorabili colori.",
+      "name": "Colori di San Valentino",
+      "code": "it"
+    },
+    {
+      "description": "사랑스러운 색상들을 잠금 해제합니다.",
+      "name": "발렌타인 팔레트",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores adorables.",
+      "name": "San Valentín",
+      "code": "es"
+    },
+    {
+      "description": "解锁可爱的色彩包。",
+      "name": "情人节色彩",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует коллекцию милых цветов.",
+      "name": "Цвета Валентина",
+      "code": "ru"
+    },
+    {
+      "description": "ラブリーなバレンタインカラーをアンロックする。",
+      "name": "Valentine",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw uroczych kolorów.",
+      "name": "Kolory Walentynkowe",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava uma coleção de cores adoráveis.",
+      "name": "Namorados",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖可愛的色彩包。",
+      "name": "情人節",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีที่ดูน่ารักสดใส",
+      "name": "Valentine",
+      "code": "th"
+    },
+    {
+      "description": "Aşk renkleri yelpazesinin kilidini açar.",
+      "name": "Sevgililer Günü",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, що уособлюють кохання.",
+      "name": "Валентин",
+      "code": "uk"
+    }
+  ]
+}

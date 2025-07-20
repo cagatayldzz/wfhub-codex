@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/InarosBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---inaros-14411349df.png",
+  "name": "Noggle Statue - Inaros",
+  "description": "A small wobbly statue of Inaros.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Inaros.",
+      "name": "Noggle-Statue: Inaros",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Inaros.",
+      "name": "Statuette Noggle - Inaros",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Inaros con la testa tremolante.",
+      "name": "Statuetta Noggle - Inaros",
+      "code": "it"
+    },
+    {
+      "description": "이나로스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 이나로스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de Inaros.",
+      "name": "Estatua Tambaleante de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Inaros 摇头娃娃。",
+      "name": "Inaros 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Инароса.",
+      "name": "Фигурка: Инарос",
+      "code": "ru"
+    },
+    {
+      "description": "Inarosのボブルヘッド人形。",
+      "name": "Inaros ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Inarosa.",
+      "name": "Figurka Noggle — Inaros",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Inaros.",
+      "name": "Estatueta: Inaros",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Inaros 的搖頭娃娃。",
+      "name": "Inaros 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Inaros ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Inaros",
+      "code": "th"
+    },
+    {
+      "description": "Inaros küçük oynar figür.",
+      "name": "Noggle Heykeli - Inaros",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Інара.",
+      "name": "Ноґл «Інар»",
+      "code": "uk"
+    }
+  ]
+}

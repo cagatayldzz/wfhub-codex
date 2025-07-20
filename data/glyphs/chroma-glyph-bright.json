@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chroma-glyph---bright-22b079d353.png",
+  "name": "Chroma Glyph - Bright",
+  "description": "A glyph depicting Chroma on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Chroma vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Chroma (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Chroma sur un fond lumineux.",
+      "name": "Glyphe Chroma - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Chroma su uno sfondo chiaro.",
+      "name": "Glifo Chroma - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 크로마를 묘사한 글리프입니다.",
+      "name": "크로마 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Chroma sobre un fondo brillante.",
+      "name": "Glifo de Chroma - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Chroma 在明亮背景下的浮印。",
+      "name": "Chroma 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Хромы на светлом фоне.",
+      "name": "Глиф: Хрома - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Chroma のグリフ。",
+      "name": "Chroma グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Chroma na jasnym tle.",
+      "name": "Glif Chroma — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Chroma em um fundo claro.",
+      "name": "Glifo: Chroma (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Chroma 在明亮背景下的浮印。",
+      "name": "Chroma 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Chroma บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Chroma - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Chroma açık fonlu glif.",
+      "name": "Chroma Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Хроми на світлому тлі.",
+      "name": "Яскравий гліф «Хрома»",
+      "code": "uk"
+    }
+  ]
+}

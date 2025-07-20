@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/SkullBadgeBronzeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bronze-skull-emblem-00158f1698.png",
+  "name": "Bronze Skull Emblem",
+  "description": "Awarded to Tenno who achieved a Bronze Rank on the retired Global Leaderboards.",
+  "languages": [
+    {
+      "description": "Den Tennos verliehen, die den Bronze-Rang in der globalen Killrangliste erreicht haben.",
+      "name": "Emblem: Bronzener Schädel",
+      "code": "de"
+    },
+    {
+      "description": "Décerné aux Tennos qui ont atteint la palme de Bronze sur les Classements Globaux passés.",
+      "name": "Badge Crâne de Bronze",
+      "code": "fr"
+    },
+    {
+      "description": "Ricompensa per i Tenno che hanno raggiunto il grado Bronzo nelle vecchie Classifiche Globali.",
+      "name": "Emblema Teschio Bronzo",
+      "code": "it"
+    },
+    {
+      "description": "글로벌 리더 보드에서 브론즈 랭크를 달성한 텐노에게 주어지는 포상입니다.",
+      "name": "브론즈 해골 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgada a los tenno que hayan logrado un rango de bronce en la antigua clasificación general.",
+      "name": "Emblema Calavera de Bronce",
+      "code": "es"
+    },
+    {
+      "description": "奖励给旧全球排行榜上获得铜牌的 Tenno。",
+      "name": "铜骷髅徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Выдается Тэнно, получившим бронзовый ранг в ныне убранных глобальных таблицах рекордов.",
+      "name": "Значок: Бронзовый череп",
+      "code": "ru"
+    },
+    {
+      "description": "グローバルランキングでブロンズランクを達成したことのあるテンノに与えられる。",
+      "name": "ブロンズスカル エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznana Tenno, którzy osiągnęli Brązową Rangę na wycofanych Globalnych Tabelach Wyników.",
+      "name": "Emblemat: Brązowa Czaszka",
+      "code": "pl"
+    },
+    {
+      "description": "Concebido ao Tenno que alcançou o escalão Bronze no Placar de Líderes encerrado.",
+      "name": "Emblema: Crânio (Bronze)",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給舊全球排行榜上獲得銅牌的 Tenno。",
+      "name": "銅骷髏徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับ Tenno ที่ได้รับอันดับบรอนซ์ในกระดานผู้นำระดับโลกที่เลิกใช้แล้ว",
+      "name": "ตราสัญลักษณ์: กะโหลกสีบรอนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Dünya çapındaki Lider Tahtasında Bronz Seviye kazanan Tennolara adanmıştır.",
+      "name": "Bronz Kafatası Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Присуджується тенно, які здобули бронзу в колишній загальній рейтинговій таблиці.",
+      "name": "Відзнака «Бронзовий череп»",
+      "code": "uk"
+    }
+  ]
+}

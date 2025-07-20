@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wraith/ReaperSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth's-shadow-skin-16a3bec469.png",
+  "name": "Sevagoth's Shadow Skin",
+  "description": "The standard issue skin for Sevagoth's Shadow.",
+  "languages": [
+    {
+      "description": "Der Standardskin für Sevagoth' Schatten.",
+      "name": "Sevagoth' Schatten-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour l'Ombre de Sevagoth.",
+      "name": "Aspect Ombre de Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Skin standard per l'Ombra di Sevagoth.",
+      "name": "Skin Ombra di Sevagoth",
+      "code": "it"
+    },
+    {
+      "description": "세바고스의 그림자를 위한 기본 스킨입니다.",
+      "name": "세바고스 섀도우 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para la Sombra de Sevagoth.",
+      "name": "Diseño de Sombra de Sevagoth",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth 幽影的标准外观配置。",
+      "name": "Sevagoth 幽影外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для тени Севагота.",
+      "name": "Скин Тени Севагота",
+      "code": "ru"
+    },
+    {
+      "description": "Sevagoth's Shadowの標準型スキン。",
+      "name": "Sevagoth's Shadow スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Cienia Sevagotha.",
+      "name": "Cień Sevagotha: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão para a Sombra do Sevagoth.",
+      "name": "Sombra do Sevagoth: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Sevagoth 幻影的標準外觀配置。",
+      "name": "Sevagoth 的幻影外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับร่างเงา Shadow ของ Sevagoth",
+      "name": "สกิน Sevagoth's Shadow",
+      "code": "th"
+    },
+    {
+      "description": "Sevagoth'un Gölgesi için standart skin.",
+      "name": "Sevagoth'un Gölgesi Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для Тіні Севаґота.",
+      "name": "Вигляд Тіні Севаґота",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Ranger/Ranger",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-d0be78df04.png",
+  "name": "Ivara",
+  "description": "The huntress draws her bow. Ivara is stealth itself. Her enemies live in fear of her sudden attacks.",
+  "armor": 105,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Die Jägerin spannt ihren Bogen. Ivara ist verkörperte List. Ihre Feinde leben in Angst vor ihren plötzlichen Angriffen.",
+      "name": "Ivara",
+      "code": "de"
+    },
+    {
+      "description": "La chasseresse bande son arc. Ivara est la furtivité incarnée. Ses ennemis vivent dans la crainte de ses attaques soudaines.",
+      "name": "Ivara",
+      "code": "fr"
+    },
+    {
+      "description": "La cacciatrice impugna il suo arco. Ivara è l'essenza stessa della furtività. I suoi nemici vivono nella paura dei suoi attacchi improvvisi.",
+      "name": "Ivara",
+      "code": "it"
+    },
+    {
+      "description": "사냥꾼이 자신의 활시위를 당깁니다. 이바라는 그 자체로 은신을 체현하며, 그녀의 적들은 언제 쇄도해올지 모를 그녀의 기습을 두려워하며 살아갑니다.",
+      "name": "이바라",
+      "code": "ko"
+    },
+    {
+      "description": "La cazadora saca su arco. Ivara es el sigilo mismo. Sus enemigos viven atemorizados por sus ataques repentinos.",
+      "name": "Ivara",
+      "code": "es"
+    },
+    {
+      "description": "女猎手拉动了她的弓箭。 Ivara 善于潜行。她的敌人时刻被她突袭的恐惧所笼罩。",
+      "name": "Ivara",
+      "code": "zh"
+    },
+    {
+      "description": "Охотница натягивает лук. Ивара - сама скрытность. Враги живут в постоянном страхе перед её внезапными атаками.",
+      "name": "Ивара",
+      "code": "ru"
+    },
+    {
+      "description": "女狩人が狙った獲物は明日を見ることはない。Ivaraはその高いステルス能力を活かし、奇襲攻撃に長けている。",
+      "name": "Ivara",
+      "code": "ja"
+    },
+    {
+      "description": "Podstępna łowczyni atakuje znienacka. Umiejętności Ivary pozwalają jej kontrolować wrogów, przemknąć się niepostrzeżenie i zadawać wysokie obrażenia.",
+      "name": "Ivara",
+      "code": "pl"
+    },
+    {
+      "description": "A caçadora empunha seu arco. A Ivara é a incarnação da furtividade, e seus inimigos vivem em constante medo de serem atacados.",
+      "name": "Ivara",
+      "code": "pt"
+    },
+    {
+      "description": "女獵手開弓。Ivara 即是潛影本身。她的敵人活在她突襲的恐懼之中。",
+      "name": "Ivara",
+      "code": "tc"
+    },
+    {
+      "description": "Ivara คือพรานสาวผู้ใช้ธนูเป็นอาวุธ มีความสามารถในการพรางตัว ศัตรูต้องอยู่อย่างหวาดกลัวเมื่อถูกโจมตีโดยไม่ทันตั้งตัว",
+      "name": "Ivara",
+      "code": "th"
+    },
+    {
+      "description": "Avcı kadın yayını geriyor. Ivara gizliliğin vücut bulmuş halidir. Düşmanları, onun ani saldırılarından korkarak yaşar.",
+      "name": "Ivara",
+      "code": "tr"
+    },
+    {
+      "description": "Мисливиця з луком, що ніколи не хибить. Івара — саме єство скрадання. Її вороги живуть у страху, очікуючи несподіваних атак.",
+      "name": "Івара",
+      "code": "uk"
+    }
+  ]
+}

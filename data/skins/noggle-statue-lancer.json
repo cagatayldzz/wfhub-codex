@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrineerMarineBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---lancer-7bf39ae3a7.png",
+  "name": "Noggle Statue - Lancer",
+  "description": "A small wobbly statue of a Grineer Lancer.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur eines Grineer Sturmsoldaten",
+      "name": "Noggle-Statue: Sturmsoldat",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Lancier Grineer.",
+      "name": "Statuette Noggle - Lancier Grineer",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Grineer Lancer con la testa tremolante.",
+      "name": "Statuetta Noggle - Grineer",
+      "code": "it"
+    },
+    {
+      "description": "그리니어 랜서의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 그리니어 랜서",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un lancero grineer.",
+      "name": "Estatua Tambaleante - Lancero grineer",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Gineer 枪兵摇头娃娃。",
+      "name": "枪兵摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка пехотинца Гринир.",
+      "name": "Фигурка: Пехотинец",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア ランサーのボブルヘッド人形。",
+      "name": "ランサー ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Żołnierza Grineer.",
+      "name": "Figurka Noggle — Żołnierz",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Lanceiro Grineer.",
+      "name": "Estatueta: Lanceiro",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Grineer 槍兵的搖頭娃娃。",
+      "name": "槍兵搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Grineer Lancer ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Lancer",
+      "code": "th"
+    },
+    {
+      "description": "Grineer Lancer küçük oynar figür.",
+      "name": "Noggle Heykeli - Lancer",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ґрінерського піхотинця.",
+      "name": "Ноґл «Піхотинець»",
+      "code": "uk"
+    }
+  ]
+}

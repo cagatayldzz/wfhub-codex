@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWGraxxNovaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-graxx-helmet-074cea4179.png",
+  "name": "Nova Graxx Helmet",
+  "description": "A helmet for the Nova Warframe, designed by Faven.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Nova Warframe, entworfen von Faven.",
+      "name": "Nova-Helm: Graxx",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nova, conçu par Faven.",
+      "name": "Casque Nova Graxx",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nova, ideato da Faven.",
+      "name": "Elmo Nova Graxx",
+      "code": "it"
+    },
+    {
+      "description": "Faven에 의해 디자인된 노바 워프레임을 위한 헬멧입니다.",
+      "name": "노바 그락스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nova, diseñado por Faven.",
+      "name": "Casco Graxx de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 战甲的头盔，由 Faven 设计。",
+      "name": "Nova G之风格头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Нова, созданный Faven.",
+      "name": "Шлем Новы: Граксс",
+      "code": "ru"
+    },
+    {
+      "description": "Nova用のヘルメット。製作者： Faven。",
+      "name": "Nova Graxx ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Nova, zaprojektowany przez Faven.",
+      "name": "Nova: Hełm Graxx",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Nova, desenvolvido por Faven.",
+      "name": "Nova: Capacete Graxx",
+      "code": "pt"
+    },
+    {
+      "description": "Nova Warframe 的頭盔，由 Faven 設計。",
+      "name": "Nova G之風格頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nova Warframe ออกแบบโดย Faven",
+      "name": "หมวกเหล็ก Nova Graxx",
+      "code": "th"
+    },
+    {
+      "description": "Nova için Faven tarafından dizayn edilen bir miğfer.",
+      "name": "Nova Graxx Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Нови, створений Faven.",
+      "name": "Шолом «Ґракс» для Нови",
+      "code": "uk"
+    }
+  ]
+}

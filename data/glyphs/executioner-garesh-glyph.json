@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGrineerChampionCharger",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/executioner-garesh-glyph-832eaa93e2.png",
+  "name": "Executioner Garesh Glyph",
+  "description": "A glyph of Executioner Garesh",
+  "languages": [
+    {
+      "description": "Eine Glyphe des Henkers Garesh",
+      "name": "Glyphe: Henker Garesh",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe du Bourreau Garesh",
+      "name": "Glyphe Bourreau Garesh",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo dell'Executioner Garesh",
+      "name": "Glifo Executioner Garesh",
+      "code": "it"
+    },
+    {
+      "description": "처형인 가레쉬를 묘사한 글리프입니다.",
+      "name": "처형인 가레쉬 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo del verdugo Garesh",
+      "name": "Glifo de Verdugo Garesh",
+      "code": "es"
+    },
+    {
+      "description": "一款行刑者加雷什的浮印",
+      "name": "行刑者加雷什的浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением палача Гареша",
+      "name": "Глиф: Палач Гареш",
+      "code": "ru"
+    },
+    {
+      "description": "執行人Gareshのグリフ",
+      "name": "執行人Garesh グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Egzekutora Garesha",
+      "name": "Glif Egzekutor Garesh",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo do Executor Garesh",
+      "name": "Glifo: Executor Garesh",
+      "code": "pt"
+    },
+    {
+      "description": "一款行刑者 Garesh 的浮印",
+      "name": "行刑者 Garesh 的浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของผู้สำเร็จโทษ Garesh",
+      "name": "ภาพสัญลักษณ์ผู้สำเร็จโทษ Garesh",
+      "code": "th"
+    },
+    {
+      "description": "Cellat Garesh Glif",
+      "name": "Cellat Garesh Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням ката Ґареша.",
+      "name": "Гліф «Кат Ґареш»",
+      "code": "uk"
+    }
+  ]
+}

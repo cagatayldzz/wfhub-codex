@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/synathid-ecosynth-analyzer-7d16a973c9.png",
+  "name": "Synathid Ecosynth Analyzer",
+  "description": "A processing unit that efficiently monitors environmental data.\n\nSource: Dismantled from Synathid servofish via The Business in Fortuna (Venus). Catch Synathid in Orb Vallis cave hotspots during any weather. Also drops from the Exploiter Orb in the Orb Vallis.",
+  "languages": [
+    {
+      "description": "Eine Verarbeitungseinheit, die Umweltdaten effizient überwacht.\n\nQuelle: Durch das Zerlegen von Synathiden von The Business in Fortuna (Venus). Fange Synathide bei jedem Wetter in Hotspots der Höhlen des Orbis-Tals. Kann auch vom Ausbeuter im Orbis-Tal fallen gelassen werden.",
+      "name": "Synathid: Ökosynth-Analysator",
+      "code": "de"
+    },
+    {
+      "description": "Une unité de traitement qui supervise efficacement les données environnementales.\n\nSource: récupérée des Servopoissons Synathides via Le Bizness à Fortuna Fortuna (Vénus). Attrapez des Synathides aux points d'affluence des grottes de la Vallée Orbis par tous les temps. Tombe également de l'Orbis Exploiteur dans la Vallée Orbis.",
+      "name": "Analyseur Écosynth de Synathide",
+      "code": "fr"
+    },
+    {
+      "description": "Un'unità di elaborazione che monitora in modo efficiente i dati ambientali.\n\nFonte: Ottenibile smantellando i servofish Synathid da The Business a Fortuna (Venere). Cattura un Synathid nei punti caldi della grotta di Orb Vallis con qualsiasi condizione atmosferica. Viene rilasciata anche dall'Exploiter Orb su Orb Vallis.",
+      "name": "Analizzatore Ecosynth di Synathid",
+      "code": "it"
+    },
+    {
+      "description": "환경 데이터를 효율적으로 모니터링하는 처리 장치입니다.\n\n획득 가능 장소: 포르투나 (금성) 의 비즈니스를 통해 시네티드 서보피쉬를 분해하여 획득. 날씨에 상관없이 오브 협곡의 동굴 핫스팟에서 시네티드를 잡을 수 있습니다. 또한 오브 협곡의 익스플로이터 오브를 통해서도 드롭됩니다.",
+      "name": "시네티드 에코신스 애널라이저",
+      "code": "ko"
+    },
+    {
+      "description": "Una unidad de procesamiento que monitorea eficientemente los datos ambientales.\n\nFuente: Se obtiene al desarmar al servopez Synathid con The Business en Fortuna (Venus). Captura al servopez Synathid en las zonas activas de las cuevas de los Valles del Orbe durante cualquier clima. También se obtiene de la Orbe Explotadora en los Valles del Orbe.",
+      "name": "Analizador ecosintético de Synathid",
+      "code": "es"
+    },
+    {
+      "description": "一个有效地监控环境数据的处理组件。\n\n获取途径：通过福尔图娜（金星）的 The Business 从海龙伺服鱼中拆解获取。在任何天气下的奥布山谷洞穴鱼点中捕捉海龙。此外它还会从奥布山谷剥削者圆蛛身上掉落。",
+      "name": "海龙环境合成分析器",
+      "code": "zh"
+    },
+    {
+      "description": "Процессор, который эффективно отслеживает данные об окружающей среде.\n\nМестонахождение: Извлекается из серворыбы синафиды у Бизнеса в Фортуне (Венера). Ловите синафид в горячих точках пещер Долины Сфер в любую погоду. Также выпадает из Сферы Эксплуатации в Долине Сфер.",
+      "name": "Экосинтетический анализатор Синафиды",
+      "code": "ru"
+    },
+    {
+      "description": "環境データを効率よくモニタリングする処理ユニット。\n\n場所：オーブ峡谷のシナシッドサーボ魚をフォーチュナー（金星）のThe Businessで分解することで入手可能。シナシッドはどの天候の中のオーブ峡谷の洞窟ホットスポットで捕まえられる。オーブ峡谷のエクスプロイター オーブからもドロップ可能。",
+      "name": "シナシッド Ecosynth アナライザー",
+      "code": "ja"
+    },
+    {
+      "description": "Procesor, który wydajnie monitoruje dane środowiskowe.\n\nMoże zostać zdobyty przez rozłożenie Synathida u Biznesa w Fortunie (Wenus). Serworyba Synathid może zostać złowiona w jaskiniach Orb Vallis. Ten komponent wypada także z Matki Wyzysku w Orb Vallis.",
+      "name": "Synathid: Analizator Ekosynth",
+      "code": "pl"
+    },
+    {
+      "description": "Uma unidade de processamento que monitora os dados ambientais de forma eficiente.\n\nLocalização: obtido através da desmontagem do Peixe-Servo Synathid com o Business em Fortuna, em Vênus. O Peixe-Servo Synathid pode ser pescado em locais de pesca em cavernas do Vallis das Orbes durante qualquer clima. Este item também pode ser obtido ao derrotar a Orbe Usurpadora no Vallis das Orbes.",
+      "name": "Analisador Ecosintético de Synathid",
+      "code": "pt"
+    },
+    {
+      "description": "一個有效地監控環境數據的處理組件。 \n\n來源：透過福爾圖娜（金星）的 Business 拆解海龍取得。\n海龍可在任何週期於奧布山谷的洞穴魚點裡捕獲。\n奧布山谷的剝削者圓蛛也會掉落這個物品。",
+      "name": "海龍環境合成分析器",
+      "code": "tc"
+    },
+    {
+      "description": "หน่วยประมวลผลที่ตรวจสอบข้อมูลสิ่งแวดล้อมได้อย่างมีประสิทธิภาพ\n\nแหล่งที่พบ: ถอดชิ้นส่วนออกมาจากเซอร์โวฟิช Synathid ผ่าน The Business ในฟอร์ทูนา (ดาวศุกร์) ซึ่งสามารถจับปลาตรงจุดฮอตสปอตที่มีปลาชุกชุมในถ้ำของออร์บวัลลิสได้ในทุกสภาพอากาศ นอกจากนี้ยังดรอปจาก Exploiter Orb ในออร์บวัลลิสอีกด้วย",
+      "name": "Synathid: อีโคซินธ์อนาไลเซอร์",
+      "code": "th"
+    },
+    {
+      "description": "Çevresel verileri verimli bir şekilde izleyen bir işleme birimi.\n\nKaynak: Fortuna'daki (Venüs) Business aracılığıyla Synathid servobalıktan çıkarılmıştır. Synathid'i her türlü hava koşulunda Orb Vallis mağara noktalarında yakalayın. Ayrıca Orb Vallis'teki Exploiter Orb'dan da düşer.",
+      "name": "Synathid Ecosynth Analizörü",
+      "code": "tr"
+    },
+    {
+      "description": "Блок обробки даних, який дієво зчитує екологічні показники.\n\nМожна отримати з еколярії в Бізнеса у Фортуні (Венера). Ловіть еколярію в певних місцях печер Долини Куль під час будь-якої погоди. Також можна отримати з Експлуататорки в Долині Куль.",
+      "name": "Екосинтетичний аналізатор еколярії",
+      "code": "uk"
+    }
+  ]
+}

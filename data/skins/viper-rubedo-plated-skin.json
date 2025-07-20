@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/viper-rubedo-plated-skin-bb5931c9ce.png",
+  "name": "Viper Rubedo Plated Skin",
+  "description": "This Viper has been adorned with a fine layer of Rubedo plating.",
+  "languages": [
+    {
+      "description": "Diese Viper wurde mit einer dünnen Schicht Rubedo verziert.",
+      "name": "Viper-Skin: Rubedo",
+      "code": "de"
+    },
+    {
+      "description": "Ce Viper a été orné d'une fine couche de placage en Rubedo.",
+      "name": "Aspect Viper plaqué Rubedo",
+      "code": "fr"
+    },
+    {
+      "description": "Questa Viper è stata rifinita con uno strato sottile di Rubedo.",
+      "name": "Skin Viper Placcata Rubedo",
+      "code": "it"
+    },
+    {
+      "description": "얇은 루비도 판금으로 도금한 바이퍼입니다.",
+      "name": "루비도 바이퍼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta Viper ha sido adornada con una fina capa de blindaje de rubedo.",
+      "name": "Diseño blindaje de rubedo de Viper",
+      "code": "es"
+    },
+    {
+      "description": "这把蝰蛇以镀上一层薄薄的红化结晶作为装饰。",
+      "name": "蝰蛇 电镀红晶外观",
+      "code": "zh"
+    },
+    {
+      "description": "Эта Гадюка украшена слоем из рубедо.",
+      "name": "Скин Гадюки: Рубедо",
+      "code": "ru"
+    },
+    {
+      "description": "薄いルビドーのプレートで装飾されたViper。",
+      "name": "Viper Rubedo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Viper ozdobiony cienką powłoką wykonaną z Rubedo.",
+      "name": "Viper: Skórka Platerowana Rubedo",
+      "code": "pl"
+    },
+    {
+      "description": "Essa Viper foi decorada com uma laminação fina de Rubedo.",
+      "name": "Viper: Skin Rubedo",
+      "code": "pt"
+    },
+    {
+      "description": "這把蝰蛇以鍍上一層薄薄的紅化結晶作為裝飾。",
+      "name": "蝰蛇 電鍍紅晶外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพก Viper กระบอกนี้ตกแต่งด้วยแผ่นเคลือบรูเบโดชั้นดี",
+      "name": "สกิน Viper Rubedo Plated",
+      "code": "th"
+    },
+    {
+      "description": "Bu Viper en kaliteli Rubedo kaplaması ile donatıldı.",
+      "name": "Viper Rubedo Kaplama Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Цю Гадюку вкрито витонченим шаром рубедо.",
+      "name": "Вигляд «Рубедове покриття» для Гадюки",
+      "code": "uk"
+    }
+  ]
+}

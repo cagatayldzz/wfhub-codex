@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpEngineGeneratorA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-portable-generator-110227802b.png",
+  "name": "Zariman Portable Generator",
+  "description": "A portable power generator.",
+  "languages": [
+    {
+      "description": "Ein tragbarer Generator.",
+      "name": "Zariman tragbarer Generator",
+      "code": "de"
+    },
+    {
+      "description": "Un groupe électrogène portable.",
+      "name": "Zariman: Générateur portatif",
+      "code": "fr"
+    },
+    {
+      "description": "Un generatore di energia portatile.",
+      "name": "Generatore Portatile Zariman",
+      "code": "it"
+    },
+    {
+      "description": "휴대용 발전기입니다.",
+      "name": "자리만 휴대용 발전기",
+      "code": "ko"
+    },
+    {
+      "description": "Un generador de energía portátil.",
+      "name": "Generador portátil Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个便携式发电机。",
+      "name": "扎里曼便携式发电机",
+      "code": "zh"
+    },
+    {
+      "description": "Портативный электрогенератор.",
+      "name": "Зариман: Переносной генератор",
+      "code": "ru"
+    },
+    {
+      "description": "携帯型のジェネレーター。",
+      "name": "Zariman 携帯型ジェネレーター",
+      "code": "ja"
+    },
+    {
+      "description": "Przenośny generator.",
+      "name": "Zariman: Przenośny generator",
+      "code": "pl"
+    },
+    {
+      "description": "Um gerador de energia portátil.",
+      "name": "Gerador Portátil da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "手提式發電機。",
+      "name": "扎日曼手提式發電機",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องปั่นไฟแบบพกพา",
+      "name": "Zariman: เครื่องปั่นไฟพกพา",
+      "code": "th"
+    },
+    {
+      "description": "Taşınabilir bir güç jeneratörü.",
+      "name": "Zariman Taşınabilir Jeneratör",
+      "code": "tr"
+    },
+    {
+      "description": "Переносний генератор для створення енергії.",
+      "name": "Переносний генератор із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

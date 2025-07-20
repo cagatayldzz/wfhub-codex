@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ayatan-cyan-star-c2bc1d10ec.png",
+  "name": "Ayatan Cyan Star",
+  "description": "Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo.",
+  "languages": [
+    {
+      "description": "Platziere diese Sterne in Ayatan-Skulpturen, um ihre Bewegung zu schüren. Sie könnten auch eine Quelle an Endo sein.",
+      "name": "Ayatan-Stern: Cyan",
+      "code": "de"
+    },
+    {
+      "description": "Placez ces étoiles dans des Sculptures Ayatans pour alimenter leur mouvement. Peut également être une source d'Endo.",
+      "name": "Étoile Ayatan Cyan",
+      "code": "fr"
+    },
+    {
+      "description": "Piazza queste stelle nelle Sculture Ayatan per permetterne il movimento. Può essere anche usata come fonte di Endo.",
+      "name": "Stella Ayatan Ciano",
+      "code": "it"
+    },
+    {
+      "description": "이 별들을 아야탄 조각상에 채우면 조각상을 움직이도록 만듭니다. 이 별은 엔도를 공급하는 데 사용할 수 있습니다.",
+      "name": "아야탄 사이안 별",
+      "code": "ko"
+    },
+    {
+      "description": "Inserta estas estrellas en esculturas Ayatan para estimular su movimiento. También puede ser una fuente de Endo",
+      "name": "Estrella Ayatan Cian",
+      "code": "es"
+    },
+    {
+      "description": "将这些星星置入阿耶檀识塑像之中为其提供动力。也可以作为内融核心的来源。",
+      "name": "阿耶檀识青蓝星",
+      "code": "zh"
+    },
+    {
+      "description": "Поместите эти звезды в скульптуры Аятан, чтобы привести их в движение. Они также могут содержать Эндо.",
+      "name": "Звезда Аятан: Циан",
+      "code": "ru"
+    },
+    {
+      "description": "スターをアヤタン像に付けることによって像の稼働を活性化させられる。Endoの源にもなる。",
+      "name": "Cyan アヤタンスター",
+      "code": "ja"
+    },
+    {
+      "description": "Umieść te gwiazdy w Rzeźbach Ayatan, by zasilić ich ruchy. Mogą stanowić także źródło Endo.",
+      "name": "Gwiazda Ayatan: Turkus",
+      "code": "pl"
+    },
+    {
+      "description": "Coloque as estrelas em esculturas Ayatan para dar vida a elas. Ela também é uma fonte de Endo.",
+      "name": "Estrela Ayatan Ciano",
+      "code": "pt"
+    },
+    {
+      "description": "將這些星星置入阿耶檀識塑像之中為其提供動力。也可以作為内融核心的來源。",
+      "name": "阿耶檀識青藍星",
+      "code": "tc"
+    },
+    {
+      "description": "วางดวงดาวเหล่านี้เข้าไปในประติมากรรม Ayatan เพื่อเพิ่มพลังในการเคลื่อนไหว อีกทั้งยังอาจเป็นแหล่งของ Endo ด้วย",
+      "name": "ดาว Ayatan Cyan",
+      "code": "th"
+    },
+    {
+      "description": "Bu yıldızları Ayatan heykellerine yerleştirerek hareket sistemini çalıştırabilirsiniz. Ayrıca Endo karşılığında satılabilir.",
+      "name": "Ayatan Cyan Yıldızı",
+      "code": "tr"
+    },
+    {
+      "description": "Ці зірки можна вставити в аятана-скульптуру, щоб запустити рухомі елементи. Містять енергію ендо.",
+      "name": "Блакитна аятана-зірка",
+      "code": "uk"
+    }
+  ]
+}

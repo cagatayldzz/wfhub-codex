@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/RapierHipsL",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rapier-standard-holster-c4840e7c2d.png",
+  "name": "Rapier Standard Holster",
+  "description": "Standard holster for Rapiers.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Rapiere.",
+      "name": "Rapier-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Rapières.",
+      "name": "Port de Rapière standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per gli Stocchi.",
+      "name": "Rinfodero Stocco Standard",
+      "code": "it"
+    },
+    {
+      "description": "레이피어 계열 무기를 위한 기본 수납 방식입니다.",
+      "name": "레이피어 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para estoques.",
+      "name": "Enfundado estándar para estoque",
+      "code": "es"
+    },
+    {
+      "description": "给细剑所使用的标准收纳姿态。",
+      "name": "细剑标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Рапир.",
+      "name": "Стандартный Крепеж Рапиры",
+      "code": "ru"
+    },
+    {
+      "description": "レイピア系武器の通常ホルスター。",
+      "name": "レイピア専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Rapierów.",
+      "name": "Rapier Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para Rapieiras.",
+      "name": "Rapieira: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "細劍武器所使用的標準收納姿態。",
+      "name": "細劍標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับกระบี่",
+      "name": "ซองกระบี่มาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Meçler için standart kılıf",
+      "name": "Meç Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення рапір, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

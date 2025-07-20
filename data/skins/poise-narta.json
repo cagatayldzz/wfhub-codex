@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Dance4Emote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/poise-narta-ba1a5f9740.png",
+  "name": "Poise Narta",
+  "description": "Display balance and finesse with these rhythmic movements.",
+  "languages": [
+    {
+      "description": "Stellt eure Balance und Finesse mit diesen rhythmischen Bewegungen zur Schau.",
+      "name": "Narta: Gelassen",
+      "code": "de"
+    },
+    {
+      "description": "Faites preuve d'aplomb et de finesse avec ces mouvements rythmés.",
+      "name": "Narta Équilibre",
+      "code": "fr"
+    },
+    {
+      "description": "Sfoggia equilibrio e finezza con questi ritmici movimenti.",
+      "name": "Poise Narta",
+      "code": "it"
+    },
+    {
+      "description": "리드미컬한 동작으로 균형과 솜씨를 선보여 보세요.",
+      "name": "포이즈 나르타",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra balance y finura con estos movimientos rítmicos.",
+      "name": "Narta del Equilibrio",
+      "code": "es"
+    },
+    {
+      "description": "用这些韵律动作展现平衡与技巧。",
+      "name": "平衡武式",
+      "code": "zh"
+    },
+    {
+      "description": "Покажите уравновешенность и искусность с этими ритмичными движениями.",
+      "name": "Нарта: Пуаз",
+      "code": "ru"
+    },
+    {
+      "description": "リズミカルな動きで技とバランスを披露する。",
+      "name": "ポイズ・アクション",
+      "code": "ja"
+    },
+    {
+      "description": "Wykaż się finezją i balansem, prezentując te rytmiczne ruchy.",
+      "name": "Narta Poise",
+      "code": "pl"
+    },
+    {
+      "description": "Demonstre equilíbrio e elegância com estes movimentos rítmicos.",
+      "name": "Narta Equilíbrio",
+      "code": "pt"
+    },
+    {
+      "description": "以這些韻律動作展現平衡與技巧。",
+      "name": "平衡武式",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความสมดุลและชั้นเชิงด้วยท่าเต้นตามจังหวะเหล่านี้",
+      "name": "Poise Narta",
+      "code": "th"
+    },
+    {
+      "description": "Denge ve ustalığınızı bu ritmik hareketlerle gösterin.",
+      "name": "Poise Narta",
+      "code": "tr"
+    },
+    {
+      "description": "Ці ритмічні рухи показують рівновагу й грацію.",
+      "name": "Нарта: Рівновага",
+      "code": "uk"
+    }
+  ]
+}

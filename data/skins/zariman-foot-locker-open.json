@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateStackingMediumAOpen",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-foot-locker-(open)-86027cabf3.png",
+  "name": "Zariman Foot Locker (Open)",
+  "description": "An open foot locker.",
+  "languages": [
+    {
+      "description": "Eine offene Truhe.",
+      "name": "Zariman Truhe (offen)",
+      "code": "de"
+    },
+    {
+      "description": "Une armoire à chaussures ouverte.",
+      "name": "Zariman: Armoire à chaussures (ouverte)",
+      "code": "fr"
+    },
+    {
+      "description": "Una scarpiera aperta.",
+      "name": "Scarpiera Zariman (Aperta)",
+      "code": "it"
+    },
+    {
+      "description": "열린 상태의 트렁크입니다.",
+      "name": "자리만 트렁크 (개방)",
+      "code": "ko"
+    },
+    {
+      "description": "Un zapatero abierto.",
+      "name": "Zapatero Zariman (abierto)",
+      "code": "es"
+    },
+    {
+      "description": "一个敞口的脚柜。",
+      "name": "扎里曼敞口脚柜",
+      "code": "zh"
+    },
+    {
+      "description": "Открытый обувной шкаф.",
+      "name": "Зариман: обувной шкаф (открытый)",
+      "code": "ru"
+    },
+    {
+      "description": "開いたフットロッカー。",
+      "name": "Zariman フットロッカー（開）",
+      "code": "ja"
+    },
+    {
+      "description": "Otwarty schowek.",
+      "name": "Zariman: Schowek (otwarty)",
+      "code": "pl"
+    },
+    {
+      "description": "Um armário aberto para calçados.",
+      "name": "Armário para Calçados da Zariman (Aberto)",
+      "code": "pt"
+    },
+    {
+      "description": "開啟的床腳櫃。",
+      "name": "開啟的扎日曼床腳櫃",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ล็อกเกอร์ที่ไว้เก็บรองเท้าแบบเปิด",
+      "name": "Zariman: ล็อกเกอร์รองเท้า (เปิด)",
+      "code": "th"
+    },
+    {
+      "description": "Açık bir ayakucu dolabı.",
+      "name": "Zariman Ayakucu Dolabı (Açık)",
+      "code": "tr"
+    },
+    {
+      "description": "Відчинена шафка для взуття.",
+      "name": "Шафка для взуття із «Заримена» (відчинена)",
+      "code": "uk"
+    }
+  ]
+}

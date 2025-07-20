@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinBlack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zenith-granum-crown-decoration-f0fda8c343.png",
+  "name": "Zenith Granum Crown Decoration",
+  "description": "A Zenith Granum Crown replica for your Orbiter.",
+  "languages": [
+    {
+      "description": "Ein Replikat einer Zenit Granum-Krone für deinen Orbiter.",
+      "name": "Dekoration: Zenit Granum-Krone",
+      "code": "de"
+    },
+    {
+      "description": "Une réplique de Couronne Granum Zénith pour votre Orbiteur.",
+      "name": "Décoration Couronne Granum Zénith",
+      "code": "fr"
+    },
+    {
+      "description": "Una replica della Corona Granum Zenith per il tuo Orbiter.",
+      "name": "Decorazione Corona Granum Zenith",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 오비터를 위한 정점형 그라넘 주화 복제품입니다.",
+      "name": "정점형 그라넘 주화 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Una réplica de la Corona Granum Zenith para tu orbitador.",
+      "name": "Decoración de Corona Granum Zenith",
+      "code": "es"
+    },
+    {
+      "description": "一个给轨道飞行器的顶级格拉努硬币复制品。",
+      "name": "顶级格拉努硬币装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Копия Кроны Грэнума «Зенит» для вашего Орбитера.",
+      "name": "Украшение: Крона Грэнума «зенит»",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置できるZenith Granum クラウンの複製装飾品。",
+      "name": "Zenith Granum クラウン装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Replika Zenitowej Korony Granuma dla Twojego Orbitera.",
+      "name": "Ozdoba: Zenitowa Korona Granuma",
+      "code": "pl"
+    },
+    {
+      "description": "Uma réplica da Coroa de Granum (Zênite) para sua Orbital.",
+      "name": "Coroa de Granum (Zênite)",
+      "code": "pt"
+    },
+    {
+      "description": "軌道飛行器的一個頂尖 Granum 冠幣複製品。",
+      "name": "頂尖 Granum 冠幣裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "แบบจำลองเหรียญมงกุฎ Zenith Granum สำหรับออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: เหรียญมงกุฎ Zenith Granum",
+      "code": "th"
+    },
+    {
+      "description": "Orbiteriniz için bir Zenith Granum Crown kopyası.",
+      "name": "Zenith Granum Crown Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Копія еталонної крони Ґранума, якою можна прикрасити орбітр.",
+      "name": "Оздоблення: еталонна крона Ґранума",
+      "code": "uk"
+    }
+  ]
+}

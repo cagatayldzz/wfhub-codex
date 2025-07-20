@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nekros-glyph---dark-d81a35570d.png",
+  "name": "Nekros Glyph - Dark",
+  "description": "A glyph depicting Nekros on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nekros vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Nekros (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nekros sur un fond sombre.",
+      "name": "Glyphe Nekros - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nekros su uno sfondo scuro.",
+      "name": "Glifo Nekros - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 네크로스를 묘사한 글리프입니다.",
+      "name": "네크로스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nekros sobre un fondo oscuro.",
+      "name": "Glifo de Nekros - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Nekros 在黑暗背景下的浮印。",
+      "name": "Nekros 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Некроса на тёмном фоне.",
+      "name": "Глиф: Некрос — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Nekros のグリフ。",
+      "name": "Nekros グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Nekros na ciemnym tle.",
+      "name": "Glif Nekros — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Nekros em um fundo escuro.",
+      "name": "Glifo: Nekros (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nekros 在黑暗背景下的浮印。",
+      "name": "Nekros 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nekros บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Nekros - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Nekros koyu fonlu glif.",
+      "name": "Nekros Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Некроса на темному тлі.",
+      "name": "Темний гліф «Некрос»",
+      "code": "uk"
+    }
+  ]
+}

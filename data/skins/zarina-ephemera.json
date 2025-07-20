@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/CorpusLichEphemeraB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zarina-ephemera-bb8dcbadb5.png",
+  "name": "Zarina Ephemera",
+  "description": "A blazingly regal Ephemera seized from a converted or vanquished Sister of Parvos.",
+  "languages": [
+    {
+      "description": "Ein flammendes und majestätisches Ephemera, konfisziert von einer konvertierten oder besiegten Schwester von Parvos.",
+      "name": "Ephemera: Zarina",
+      "code": "de"
+    },
+    {
+      "description": "Un Ephemera flamboyant et royal pris à une Sœur de Parvos convertie ou vaincue.",
+      "name": "Ephemera Zarina",
+      "code": "fr"
+    },
+    {
+      "description": "Un'Ephemera fiammeggiante sequestrata ad una Sorella di Parvos convertita o sconfitta.",
+      "name": "Ephemera Zarina",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 파보스의 자매에게서 빼앗은 불꽃과 같이 장엄한 이페메라입니다.",
+      "name": "자리나 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero increíblemente majestuoso arrebatado a una Hermana de Parvos convertida o derrotada.",
+      "name": "Efímero Zarina",
+      "code": "es"
+    },
+    {
+      "description": "从一个感化或消灭的帕尔沃斯的姐妹处得到的炽烈尊贵幻纹。",
+      "name": "辉耀幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Сияющая царственная Эфемера, захваченная у обращенной или побежденной Сестры Парвоса.",
+      "name": "Эфемера: Царина",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したParvosシスターから手に入れた高貴な炎を燃やすエフェメラ。",
+      "name": "Zarina エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Piekielnie królewska Efemera skonfiskowana nawróconej lub pokonanej Siostrze Parvosa.",
+      "name": "Efemera Zarina",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera flamejante majestosa obtida de uma Irmã de Parvos convertida ou derrotada.",
+      "name": "Efêmera: Zarina",
+      "code": "pt"
+    },
+    {
+      "description": "從一名已皈依或被擊殺的 Parvos 的姊妹身上擄獲得來的熾烈輝煌幻紋。",
+      "name": "扎莉娜幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่หรูหราเจิดจ้า ซึ่งยึดเอามาจากน้องสาวของ Parvos ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Zarina",
+      "code": "th"
+    },
+    {
+      "description": "Dönüştürülmüş veya infaz edilmiş bir Parvos'un Kız Kardeşinden alınan göz kamaştırıcı bir Ephemera.",
+      "name": "Zarina Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "По-царськи розкішна ефемера, вилучена в оберненої чи вбитої Сестри Парва.",
+      "name": "Ефемера «Зарина»",
+      "code": "uk"
+    }
+  ]
+}

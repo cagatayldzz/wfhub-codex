@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmalgam",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hostile-mergers-sigil-2ce11cae83.png",
+  "name": "Hostile Mergers Sigil",
+  "description": "This sigil commemorates the Tenno victory over the machinations of Alad V and his Amalgam Project.",
+  "languages": [
+    {
+      "description": "Dieses Siegel gedenkt dem Sieg der Tenno über die Machenschaften von Alad V und seinem Amalgam-Projekt.",
+      "name": "Siegel: Feindliche Verschmelzung",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau commémore la victoire des Tennos sur le complot d'Alad V et son Projet Amalgame.",
+      "name": "Sceau Fusion Hostile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo è per commemorare la vittoria dei Tenno contro le macchinazioni di Alad V e il suo Progetto Amalgam.",
+      "name": "Sigillo Hostile Mergers",
+      "code": "it"
+    },
+    {
+      "description": "이 시질은 알라드 V의 기계와 그의 아말감 프로젝트를 상대로 승리를 거둔 텐노를 기념합니다.",
+      "name": "호스타일 머저스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello conmemora la victoria de los tenno en contra de las maquinaciones de Alad V y su proyecto de Amalgamas.",
+      "name": "Sello de Incorporación Hostil",
+      "code": "es"
+    },
+    {
+      "description": "这个纹章是为了纪念 Tenno 战胜 Alad V 和他的并合计划的阴谋。",
+      "name": "恶意合并纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил в память о победе над махинациями Алада V и его проектом Амальгам.",
+      "name": "Сигил: Враждебное Слияние",
+      "code": "ru"
+    },
+    {
+      "description": "Alad Vの陰謀と彼の合成体計画に勝利したことを記念したエンブレム。",
+      "name": "敵対的合併 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten znak przypomina o zwycięstwie Tenno nad machinami Alada V i jego Projektem Amalgam.",
+      "name": "Znak Wrogiego Przejęcia",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão comemora a vitória do Tenno sobre as manobras de Alad V e seu Projeto Amálgama.",
+      "name": "Brasão: Fusões Hostis",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章是為了紀念 Tenno 戰勝 Alad V 和他的並合計劃的陰謀。",
+      "name": "惡意合併紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้เป็นการระลึกถึงชัยชนะของ Tenno เหนือเพทุบายของ Alad V และโครงการอมัลกัมของเขา",
+      "name": "เครื่องหมาย: Hostile Mergers",
+      "code": "th"
+    },
+    {
+      "description": "Tenno'nun Alad V ve onun Amalgam Projesi karşısındaki zaferini gösteren bir Mühür.",
+      "name": "Düşmancıl İttifak Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про перемогу тенно над махінаціями Алада В та його проєктом «Амальгама».",
+      "name": "Сиґіл «Агресивне поглинення»",
+      "code": "uk"
+    }
+  ]
+}

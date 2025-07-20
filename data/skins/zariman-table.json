@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropCabinTable",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-table-b78f51e232.png",
+  "name": "Zariman Table",
+  "description": "You never know when an unexpected guest will drop by.",
+  "languages": [
+    {
+      "description": "Man weiß nie, wann ein unerwarteter Gast vorbeikommt.",
+      "name": "Zariman: Tisch",
+      "code": "de"
+    },
+    {
+      "description": "Vous ne savez jamais quand un invité surprise passera.",
+      "name": "Table Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Non si sa mai quando potrebbe arrivare un ospite inaspettato.",
+      "name": "Tavolo Zariman",
+      "code": "it"
+    },
+    {
+      "description": "뜻밖의 손님이 언제 들를지 모르니까요.",
+      "name": "자리만 테이블",
+      "code": "ko"
+    },
+    {
+      "description": "Nunca se sabe cuándo podría llegar un invitado inesperado.",
+      "name": "Mesa Zariman",
+      "code": "es"
+    },
+    {
+      "description": "你永远不知道什么时候会有不速之客来访。",
+      "name": "扎里曼桌子",
+      "code": "zh"
+    },
+    {
+      "description": "Никогда не знаете, когда заглянет неожиданный гость.",
+      "name": "Стол: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "予期せぬ客が来るかもしれない。",
+      "name": "Zariman テーブル",
+      "code": "ja"
+    },
+    {
+      "description": "Nigdy nie wiesz, kiedy wpadnie niespodziewany gość.",
+      "name": "Stół Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "Você nunca sabe quando um convidado inesperado aparecerá para o jantar.",
+      "name": "Mesa da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "你永遠都不會知道不速之客什麼時候會登門造訪。",
+      "name": "扎日曼桌子",
+      "code": "tc"
+    },
+    {
+      "description": "คุณไม่มีทางรู้ว่าแขกที่ไม่คาดคิดจะแวะมาเมื่อไหร่",
+      "name": "โต๊ะ Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Beklenmedik bir misafirin ne zaman geleceğini asla bilemezsin.",
+      "name": "Zariman Masası",
+      "code": "tr"
+    },
+    {
+      "description": "Ніколи не вгадаєш, коли прийде несподіваний гість.",
+      "name": "Стіл із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulpaphyla-echo-lure-63a3453161.png",
+  "name": "Vulpaphyla Echo-Lure",
+  "description": "Entice and attract nearby Vulpaphyla with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Locke Vulpaphyla in der Nähe mit lebensechten Lockrufen an.",
+      "name": "ECHO-KÖDER: VULPAPHYLA",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire un Vulpaphyla se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "ÉCHO-LEURRE VULPAPHYLA",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Vulpaphyla vicini con dei richiami simili ai suoi.",
+      "name": "RICHIAMO VULPAPHYLA",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 불파파일라를 꾀어 유인합니다.",
+      "name": "불파파일라 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a vulpafilas cercanas con llamados realistas del animal.",
+      "name": "ECO-SEÑUELO DE VULPAFILA",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的狐帕菲拉。",
+      "name": "狐帕菲拉回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Вульпафил поблизости, издавая идентичные настоящим животные зовы.",
+      "name": "ЭХО-МАНОК ДЛЯ ВУЛЬПАФИЛЫ",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのバルパファイラを誘導する。",
+      "name": "バルパファイラ ECHOルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliską Lisafilę, imitując odgłosy zwierząt.",
+      "name": "ECHO-WABIK LISAFILI",
+      "code": "pl"
+    },
+    {
+      "description": "Seduza e atraia Vulpaphyla próximas, ao utilizá-la, com sons semelhantes aos dos animais.",
+      "name": "ECOISCA DE VULPAPHYLA",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的擬狐獸。",
+      "name": "擬狐獸回聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูด Vulpaphyla ที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง VULPAPHYLA",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Vulpaphyla'ları gerçeğine çok benzeyen hayvan sesleriyle yanına çek.",
+      "name": "VULPAPHYLA EKO-ÇAĞIRICI",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює вульпафил поблизу реалістичною імітацією їхнього поклику.",
+      "name": "ЕХОВАБИК НА ВУЛЬПАФИЛУ",
+      "code": "uk"
+    }
+  ]
+}

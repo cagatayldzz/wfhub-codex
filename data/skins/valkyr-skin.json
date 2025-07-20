@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-skin-b8e72a78ee.png",
+  "name": "Valkyr Skin",
+  "description": "The standard issue skin for the Valkyr Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Valkyr Warframe.",
+      "name": "Valkyr-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Valkyr.",
+      "name": "Aspect Valkyr",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Valkyr.",
+      "name": "Skin Valkyr",
+      "code": "it"
+    },
+    {
+      "description": "발키르 워프레임을 위한 기본 스킨입니다.",
+      "name": "발키르 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Valkyr.",
+      "name": "Diseño de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 的标准外观配置。",
+      "name": "Valkyr 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Валькирии.",
+      "name": "Скин Валькирии",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyrの標準型スキン。",
+      "name": "Valkyr スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe Valkyr.",
+      "name": "Valkyr: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Valkyr.",
+      "name": "Valkyr: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr 的標準外觀配置。",
+      "name": "Valkyr 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Valkyr Warframe",
+      "name": "สกิน Valkyr",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr Warframe için standart skin.",
+      "name": "Valkyr Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Валькірії.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

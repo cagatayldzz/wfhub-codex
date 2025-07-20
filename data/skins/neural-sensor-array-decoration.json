@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ContainerDecoItemSensorArray",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/neural-sensor-array-decoration-601d080905.png",
+  "name": "Neural Sensor Array Decoration",
+  "description": "A Neural Sensor Array resource container to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter einer Ansammlung Neuraler Sensoren.",
+      "name": "Dekoration: Neurale Sensoren Ansammlung",
+      "code": "de"
+    },
+    {
+      "description": "Un Réseau Neural à placer dans votre Orbiteur.",
+      "name": "Décoration Réseau Neural",
+      "code": "fr"
+    },
+    {
+      "description": "Una Matrice Neurale decorativa da piazzare nell'Orbiter.",
+      "name": "Matrice Neurale - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 뉴럴 센서 어레이 자원 컨테이너입니다.",
+      "name": "뉴럴 센서 어레이 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un contenedor de recursos de matriz de sensor neuronal para colocar en tu orbitador.",
+      "name": "Decoración de matriz de sensor neuronal",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的神经阵列。",
+      "name": "神经阵列装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Нейросенсорная Цепь",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材コンテナの神経センサーアレイ。",
+      "name": "神経センサーアレイの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Szereg Czujników Neuronowych, który możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Szereg Czujników Neuronowych",
+      "code": "pl"
+    },
+    {
+      "description": "Um contêiner de recursos de matriz de sensor neural para colocar em sua Orbital.",
+      "name": "Matriz de Sensor Neural",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的神經陣列。",
+      "name": "神經陣列裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องอาร์เรย์ของนิวรัลเซ็นเซอร์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: อาร์เรย์ของนิวรัลเซ็นเซอร์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Sinir Sensörü Dizilimi dekorasyonu.",
+      "name": "Sinir Sensörü Dizilimi Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цю купу нейродавачів на палубі орбітра.",
+      "name": "Оздоблення: нейромасив",
+      "code": "uk"
+    }
+  ]
+}

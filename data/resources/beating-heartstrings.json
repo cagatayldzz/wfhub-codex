@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceDefense",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/beating-heartstrings-b82f755ebb.png",
+  "name": "Beating Heartstrings",
+  "description": "These curious Techrot growths still quivered in sympathy with Temple’s music long after the gig was over.\n\nLocation: Stage Defense missions in Höllvania.",
+  "languages": [
+    {
+      "description": "Dieser eigenartige Techrot-Bewuchs bebte in Einklang mit Temples Musik, noch lange, nachdem der Auftritt vorbei war.\n\nFundort: Bühnen-Verteidigung-Missionen in Höllvania.",
+      "name": "Schlagende Herzensfäden",
+      "code": "de"
+    },
+    {
+      "description": "Ces curieuses excroissances Techrot tremblaient encore de sympathie pour la musique de Temple longtemps après la fin du concert.\n\nLieu: Missions de Défense de Scène en Höllvanie.",
+      "name": "Fibres Palpitantes",
+      "code": "fr"
+    },
+    {
+      "description": "Queste curiose escrescenze Techrot continuarono a fremere per la musica suonata da Temple anche molto tempo dopo la fine del concerto.\n\nPosizione: missioni Difesa in Scena (Höllvania).",
+      "name": "Corde del Cuore Palpitanti",
+      "code": "it"
+    },
+    {
+      "description": "이 기묘한 테크병 종양은 공연이 끝난 뒤에도 오랫동안 템플의 음악에 공명하며 떨고 있었습니다.\n\n획득 장소: 홀바니아 내 무대 방어 미션",
+      "name": "고동치는 심금",
+      "code": "ko"
+    },
+    {
+      "description": "Estos curiosos crecimientos del Techrot continuaron temblando al ritmo de la música que Temple tocaba mucho después de que el concierto terminara.\n\nUbicación: Misiones de Defensa escénica en Höllvania.",
+      "name": "Tendones palpitantes",
+      "code": "es"
+    },
+    {
+      "description": "即使演出早就结束了，这些奇怪的科腐者生长物仍然随着 Temple 的音乐而舞动。\n\n获取地点：霍瓦尼亚的舞台防御任务。",
+      "name": "律动心弦",
+      "code": "zh"
+    },
+    {
+      "description": "Эти любопытные наросты Техрота всё ещё трепетали в такт музыке Темпл, даже уже после завершения концерта.\n\nЛокация: миссии Защиты Сцены в Хёльвании.",
+      "name": "Сердечные Струны",
+      "code": "ru"
+    },
+    {
+      "description": "これらのテックロットはTempleの音楽に感化され、ショーが終わった後も共鳴を続けた。\n\n場所：ステージ防衛ミッション（ホルバニア）",
+      "name": "ビーティング・ハートストリング",
+      "code": "ja"
+    },
+    {
+      "description": "Te narośla Techrotu tętnią w rytm muzyki Temple'a, nawet długo po zakończeniu koncertu.\n\nPołożenie: Misje Obrony Sceny w Höllvanii.",
+      "name": "Bijące Serca",
+      "code": "pl"
+    },
+    {
+      "description": "Estes curiosos crescimentos do Tecnovírus ainda tremiam em simpatia com a música do Temple muito depois do show ter acabado.\n\nLocalização: obtido em missões de Defesa de Palco, em Holvânia.",
+      "name": "Cordas Palpitantes",
+      "code": "pt"
+    },
+    {
+      "description": "即使表演早已散場，這些奇怪的科腐者增生物仍隨著 Temple 的音樂同情顫動。\n\n地點：舞臺防禦任務（霍爾瓦尼亞）。",
+      "name": "跳動心弦",
+      "code": "tc"
+    },
+    {
+      "description": "เนื้องอก Techrot ที่น่าสงสัยเหล่านี้ยังคงสั่นสะเทือนไปตามความรู้สึกร่วมต่อเสียงดนตรีของ Temple แม้การแสดงจะจบลงไปแล้ว\n\nแหล่งที่พบ: ภารกิจป้องกันเวทีใน Höllvania",
+      "name": "เอ็นหัวใจเต้น",
+      "code": "th"
+    },
+    {
+      "description": "Bu ilginç Techrot tümörleri, konser bittikten uzun süre sonra bile Temple'ın müziğine sempati duyarak titremeye devam etti.\n\nKonum: Höllvania'daki Sahne Savunma görevleri.",
+      "name": "Canlı Kalp Kasları",
+      "code": "tr"
+    },
+    {
+      "description": "Ці дивовижні техногнилі нарости досі тремтять від захоплення музикою, зіграною Храмом дуже давно.\n\nМожна знайти на завданні «Оборона сцени» (Голвенія).",
+      "name": "Серцеві струни",
+      "code": "uk"
+    }
+  ]
+}

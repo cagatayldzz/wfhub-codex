@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-pulse-helmet-a335d7b0c8.png",
+  "name": "Arcane Pulse Helmet",
+  "description": "This helmet is worn by Volt, and adds Ability Duration, with a reduction to Shields.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Volt getragen und erhöht die Fähigkeitsdauer, während Schilde reduziert werden.",
+      "name": "Arkaner Pulse Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Volt et ajoute de la Durée de Pouvoir, avec une diminution des Boucliers.",
+      "name": "Casque Impulsion Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Volt, aggiunge Durata Abilità, ma riduce gli Scudi.",
+      "name": "Elmo Arcane Pulse",
+      "code": "it"
+    },
+    {
+      "description": "볼트 전용의 헬멧으로 실드 최대량을 감소시키고 어빌리티 지속 시간을 증가시킵니다.",
+      "name": "아케인 펄스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Volt, añade duración de habilidad pero reduce los escudos.",
+      "name": "Casco Pulse Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Volt 佩戴，它能提升技能持续时间，但会降低护盾值。",
+      "name": "脉冲 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Вольта. Он повышает длительность, но ослабляет щиты.",
+      "name": "Мистический шлем: Импульс",
+      "code": "ru"
+    },
+    {
+      "description": "Volt用ヘルメット。アビリティ効果時間を上昇させるが、シールドが減少する。",
+      "name": "Arcane Pulse ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Volta, zwiększa Czas Trwania Umiejętności, ale zmniejsza Tarcze.",
+      "name": "Volt: Hełm Arkanum Pulse",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete usado por Volt adiciona Duração da Habilidade, mas reduz Armadura.",
+      "name": "Volt: Capacete Pulse (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔由 Volt 配戴，它能提升技能持續時間，但會降低護盾值。",
+      "name": "脈衝秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Volt สวมหมวกใบนี้จะช่วยเพิ่มระยะเวลาในการใช้พลัง แต่จะลดโล่ลง",
+      "name": "หมวกเหล็ก Arcane Pulse",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Volt tarafından giyilir ve Yetenek Süresi ekler, bunun yanında Kalkanları azaltır.",
+      "name": "Arcane Pulse Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує тривалість дії здібностей Вольта, але зменшує його щити.",
+      "name": "Містичний шолом «Пульс»",
+      "code": "uk"
+    }
+  ]
+}

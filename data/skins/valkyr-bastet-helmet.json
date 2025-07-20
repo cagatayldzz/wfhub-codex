@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/BerserkerBastetHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-bastet-helmet-b2096b8e72.png",
+  "name": "Valkyr Bastet Helmet",
+  "description": "A uniquely-styled alternate helmet for Valkyr.",
+  "languages": [
+    {
+      "description": "Ein einzigartig gestalteter, alternativer Helm für Valkyr.",
+      "name": "Valkyr-Helm: Bastet",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif dans un style unique pour Valkyr.",
+      "name": "Casque Valkyr Bastet",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Valkyr dallo stile unico.",
+      "name": "Elmo Valkyr Bastet",
+      "code": "it"
+    },
+    {
+      "description": "발키르 워프레임을 위한 독특한 스타일의 대체 헬멧입니다.",
+      "name": "발키르 바스테트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Valkyr.",
+      "name": "Casco Bastet de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 的独特样式替换头盔。",
+      "name": "Valkyr 芭丝特头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Валькирии уникального стиля исполнения.",
+      "name": "Шлем Валькирии: Бастет",
+      "code": "ru"
+    },
+    {
+      "description": "ユニークな形をしたValkyr用ヘルメット。",
+      "name": "Valkyr Bastet ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowo stylizowany hełm dla Warframe Valkyr.",
+      "name": "Valkyr: Hełm Bastet",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo estilizado unicamente para Valkyr.",
+      "name": "Valkyr: Capacete Bastet",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr 的獨特樣式替換頭盔。",
+      "name": "Valkyr 芭絲特頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองที่มีสไตล์เฉพาะตัวสำหรับ Valkyr",
+      "name": "หมวกเหล็ก Valkyr Bastet",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr için dizayn edilmiş eşsiz bir alternatif miğfer",
+      "name": "Valkyr Bastet Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом виняткового виконання для ворфрейма Валькірії.",
+      "name": "Шолом «Баст» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

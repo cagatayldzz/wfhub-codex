@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-prime-glyph---dark-c825825bd4.png",
+  "name": "Limbo Prime Glyph - Dark",
+  "description": "A glyph depicting Limbo Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Limbo Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Limbo Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Limbo Prime sur un fond sombre.",
+      "name": "Glyphe Limbo Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Limbo Prime su uno sfondo scuro.",
+      "name": "Glifo Limbo Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 림보 프라임을 묘사한 글리프입니다.",
+      "name": "림보 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Limbo Prime sobre un fondo oscuro.",
+      "name": "Glifo de Limbo Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Limbo Prime 在黑暗背景下的浮印。",
+      "name": "Limbo Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Лимбо Прайм на тёмном фоне.",
+      "name": "Глиф: Лимбо Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたLimbo Primeのグリフ。",
+      "name": "Limbo Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Limbo Prime na ciemnym tle.",
+      "name": "Glif Limbo Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Limbo Prime em um fundo escuro.",
+      "name": "Glifo: Limbo Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Limbo Prime 在黑暗背景下的浮印。",
+      "name": "Limbo Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Limbo Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Limbo Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Limbo Prime koyu fonlu glif.",
+      "name": "Limbo Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лімбо-прайм на темному тлі.",
+      "name": "Темний гліф «Лімбо-прайм»",
+      "code": "uk"
+    }
+  ]
+}

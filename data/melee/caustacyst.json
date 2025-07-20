@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Melee/InfEmbolistScythe/InfestedScythe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/caustacyst-a2b014c8d4.png",
+  "name": "Caustacyst",
+  "description": "Heavy attacks from this scythe unleash a wave of acid that mutilates enemies and leaves a trail of corrosive sludge.",
+  "languages": [
+    {
+      "description": "Schwere Angriffe dieser Sense entfesseln eine Welle an Säure, welche die Gegner verstümmelt und eine korrosive Spur hinterlässt.",
+      "name": "Caustacyst",
+      "code": "de"
+    },
+    {
+      "description": "Les Attaques Lourdes de cette Faux projettent une vague d'acide qui mutile les ennemis et laisse une traînée de boue corrosive.",
+      "name": "Caustacyste",
+      "code": "fr"
+    },
+    {
+      "description": "Gli attacchi pesanti di questa falce rilasciano un'ondata di acido che mutila i nemici e lascia una scia di fanghi corrosivi.",
+      "name": "Caustacyst",
+      "code": "it"
+    },
+    {
+      "description": "이 낫으로 이루어지는 강 공격은 적의 신체를 훼손하는 산성 파동을 동반하며, 공격이 지나간 자리에 부식성 진흙 흔적이 남습니다.",
+      "name": "커스타시스트",
+      "code": "ko"
+    },
+    {
+      "description": "Los ataques pesados de esta guadaña desatan una onda de ácido que mutila a los enemigos y deja un rastro de lodo corrosivo.",
+      "name": "Caustacyst",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CAUSTACYST）这把镰刀的重击会释放出一道酸液，分解敌人并留下一条腐蚀的泥泞。",
+      "name": "灼蚀变体镰",
+      "code": "zh"
+    },
+    {
+      "description": "Тяжелые атаки этой косы будут выпускать кислотную волну, которая разъедает противников и оставляет за собой коррозийный след.",
+      "name": "Костацист",
+      "code": "ru"
+    },
+    {
+      "description": "ヘビー攻撃の際にこのサイスから敵を切り裂く酸と腐食性の汚泥の跡を撒き散らす。",
+      "name": "Caustacyst",
+      "code": "ja"
+    },
+    {
+      "description": "Ciężkie ataki tą kosą uwalniają falę kwasu, która okalecza wrogów i zostawia ścieżkę żrącego szlamu.",
+      "name": "Caustacyst",
+      "code": "pl"
+    },
+    {
+      "description": "Os Ataques Pesados desta foice liberam uma onda de ácido que mutila os inimigos e deixa um rastro de lama corrosiva.",
+      "name": "Caustacista",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CAUSTACYST）這把鐮刀的重擊會釋放出一道酸液，分解敵人並留下一條腐蝕的泥濘。",
+      "name": "灼蝕變體鐮",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เคียวเล่มนี้ทำการโจมตีหนักแล้วปล่อยคลื่นกรดทำลายศัตรูและทิ้งร่องรอยของตะกอนที่มีฤทธิ์กัดกร่อนเอาไว้",
+      "name": "Caustacyst",
+      "code": "th"
+    },
+    {
+      "description": "Bu tırpan ile yapılan ağır saldırılar düşmanı sakat bırakan asit dalgaları yayar ve arkasında tortu izlerini bırakır.",
+      "name": "Caustacyst",
+      "code": "tr"
+    },
+    {
+      "description": "Коса, потужні удари якої виплескують на ворогів пекучу кислоту й залишають за собою слід з їдкого слизу.",
+      "name": "Каустацист",
+      "code": "uk"
+    }
+  ]
+}

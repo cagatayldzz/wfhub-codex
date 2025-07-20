@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWRThreeStingerHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-stinger-helmet-9ff2b438b5.png",
+  "name": "Nova Stinger Helmet",
+  "description": "A helmet for the Nova Warframe, designed by Cheshire.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Helm für den Nova Warframe, entworfen von Cheshire.",
+      "name": "Nova-Helm: Stinger",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nova, conçu par Cheshire.",
+      "name": "Casque Nova Stinger",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nova, ideato da Cheshire.",
+      "name": "Elmo Nova Stinger",
+      "code": "it"
+    },
+    {
+      "description": "Cheshire에 의해 디자인된 노바 워프레임을 위한 헬멧입니다.",
+      "name": "노바 스팅어 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nova, diseñado por Cheshire.",
+      "name": "Casco Stinger de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 战甲的头盔，由 Cheshire 设计。",
+      "name": "Nova 毒刺头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Нова, созданный Cheshire.",
+      "name": "Шлем Новы: Жало",
+      "code": "ru"
+    },
+    {
+      "description": "Nova用のヘルメット。製作者：Cheshire。",
+      "name": "Nova Stinger ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Nova, zaprojektowana przez Cheshire.",
+      "name": "Nova: Hełm Stinger",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Nova, desenvolvido por Cheshire.",
+      "name": "Nova: Capacete Stinger",
+      "code": "pt"
+    },
+    {
+      "description": "Nova Warframe 的頭盔，由 Cheshire 所設計。",
+      "name": "Nova 毒刺頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nova Warframe ออกแบบโดย Cheshire",
+      "name": "หมวกเหล็ก Nova Stinger",
+      "code": "th"
+    },
+    {
+      "description": "Cheshire tarafından dizayn edilen Nova Warframe miğferi.",
+      "name": "Nova Stinger Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Нови, створений Cheshire.",
+      "name": "Шолом «Жало» для Нови",
+      "code": "uk"
+    }
+  ]
+}

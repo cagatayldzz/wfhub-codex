@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysKubrowSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dropkick-drahk-sigil-fc607093d9.png",
+  "name": "Dropkick Drahk Sigil",
+  "description": "The Drahk is poised for the takedown.",
+  "languages": [
+    {
+      "description": "Drahk ist bereit für den Takedown.",
+      "name": "Siegel: Dropkick Drahk",
+      "code": "de"
+    },
+    {
+      "description": "Le Drahk est prêt pour la bagarre.",
+      "name": "Sceau Drahk Dropkick",
+      "code": "fr"
+    },
+    {
+      "description": "Il Drahk è pronto a combattere.",
+      "name": "Sigillo Dropkick Drahk",
+      "code": "it"
+    },
+    {
+      "description": "이 드라크는 급습의 준비를 만반으로 갖춘 상태입니다.",
+      "name": "드롭킥 드라크 시질",
+      "code": "ko"
+    },
+    {
+      "description": "El Drahk está listo para la batalla.",
+      "name": "Sello Drahk Dropkick",
+      "code": "es"
+    },
+    {
+      "description": "爪喀已经做好了扑倒的准备。",
+      "name": "飞踢爪喀纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Драк готовится к атаке.",
+      "name": "Сигил: Атака драка",
+      "code": "ru"
+    },
+    {
+      "description": "ドラークがテイクダウンの構えをとっている。",
+      "name": "ドロップキックドラーク シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Drahk czający się na ofiarę.",
+      "name": "Znak: Przyczajony Drahk",
+      "code": "pl"
+    },
+    {
+      "description": "O Drahk está pronto para cair na porrada.",
+      "name": "Brasão: Voadora do Drahk",
+      "code": "pt"
+    },
+    {
+      "description": "爪喀準備要擒摔了。",
+      "name": "雙飛腿爪喀紋章",
+      "code": "tc"
+    },
+    {
+      "description": "Drahk ตั้งท่าเตรียมพร้อมสำหรับการต่อสู้",
+      "name": "เครื่องหมาย: Dropkick Drahk",
+      "code": "th"
+    },
+    {
+      "description": "Drahk rakibini alt edilmeye hazırlanıyor.",
+      "name": "Dropkick Drahk Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Драк вистежує здобич.",
+      "name": "Сиґіл «Драк атакує»",
+      "code": "uk"
+    }
+  ]
+}

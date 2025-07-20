@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Brawler/UnlockBrawlerNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-noble-animation-set-98c81bee82.png",
+  "name": "Atlas Noble Animation Set",
+  "description": "This item lets you use Atlas' noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Atlas' nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Atlas-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous permet d'utiliser les Animations Nobles d'Atlas avec n'importe quelle Warframe.",
+      "name": "Animation Atlas Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Atlas con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Atlas",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 아틀라스의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "아틀라스 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Atlas con cualquier warframe que tú elijas.",
+      "name": "Conjunto de animaciones nobles de Atlas",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Atlas 的尊贵站姿。",
+      "name": "Atlas 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Атласа на любом другом варфрейме.",
+      "name": "Набор анимаций Атласа: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Atlasのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Atlas ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Atlasa w każdym innym Warframe'ie.",
+      "name": "Animacje Atlasa: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Atlas em qualquer Warframe de sua escolha.",
+      "name": "Animações: Atlas (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Atlas 的尊貴站姿。",
+      "name": "Atlas 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูสง่างามของ Atlas ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่สง่างามของ Atlas",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Atlas'ın noble animasyon setinin kullanımına izin verir.",
+      "name": "Atlas Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Атласа до будь-якого ворфрейма.",
+      "name": "Атлас: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

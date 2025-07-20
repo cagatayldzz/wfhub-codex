@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/WispKavatArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sirocco-kavat-armor-e11d56b4c5.png",
+  "name": "Sirocco Kavat Armor",
+  "description": "Fluid and aerodynamic, the signature Kavat armor of Wisp.",
+  "languages": [
+    {
+      "description": "Flüssig und aerodynamisch, die bevorzugte Kavat-Rüstung von Wisp.",
+      "name": "Kavat-Rüstung: Sirocco",
+      "code": "de"
+    },
+    {
+      "description": "Fluide et aérodynamique, il s'agit de l'armure pour Kavat privilégiée par Wisp.",
+      "name": "Armure de Kavat Sirocco",
+      "code": "fr"
+    },
+    {
+      "description": "Fluida e aerodinamica, l'armatura distintiva per Kavat di Wisp.",
+      "name": "Armatura Kavat Sirocco",
+      "code": "it"
+    },
+    {
+      "description": "유연하고도 공기역학적인 위습의 대표 카밧 아머입니다.",
+      "name": "시로코 카밧 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Fluida y aerodinámica, la armadaura de kavat distintiva de Wisp.",
+      "name": "Armadura Sirocco de kavat",
+      "code": "es"
+    },
+    {
+      "description": "延展和流动，Wisp 的标志性库娃护甲。",
+      "name": "西洛可库娃护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Текучая и обтекаемая, особая броня кавата Висп.",
+      "name": "Броня кавата: Сирокко",
+      "code": "ru"
+    },
+    {
+      "description": "流れるように空気に従う、Wispのキャバットにぴったりのアーマー。",
+      "name": "Sirocco キャバットアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Płynny i opływowy, charakterystyczny pancerz Kavata Wisp.",
+      "name": "Zbroja Kavata: Sirocco",
+      "code": "pl"
+    },
+    {
+      "description": "Fluída e aerodinâmica, a armadura tradicional para Kavats da Wisp.",
+      "name": "Armadura de Kavat: Sirocco",
+      "code": "pt"
+    },
+    {
+      "description": "延展和流動，Wisp 的標誌性庫娃護甲。",
+      "name": "西洛可庫娃護甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะของ Kavat ที่เป็นซิกเนเจอร์ของ Wisp ที่มีความลื่นไหลและพริ้วไหวไปตามอากาศ",
+      "name": "เกราะ Sirocco Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Sıvı ve aerodinamik, Wisp'e ait özel Kavat zırhı.",
+      "name": "Sirocco Kavat Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Плавні, аеродинамічні визначні обладунки Вісп для кавата.",
+      "name": "Обладунки «Сироко» для кавата",
+      "code": "uk"
+    }
+  ]
+}

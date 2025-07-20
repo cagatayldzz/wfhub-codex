@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-glyph---bright-a870bb3db1.png",
+  "name": "Mirage Glyph - Bright",
+  "description": "A glyph depicting Mirage on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Mirage vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Mirage (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Mirage sur un fond lumineux.",
+      "name": "Glyphe Mirage - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Mirage su uno sfondo chiaro.",
+      "name": "Glifo Mirage - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 미라지를 묘사한 글리프입니다.",
+      "name": "미라지 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Mirage sobre un fondo brillante.",
+      "name": "Glifo de Mirage - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 在明亮背景下的浮印。",
+      "name": "Mirage 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Мираж на светлом фоне.",
+      "name": "Глиф: Мираж - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたMirageのグリフ。",
+      "name": "Mirage グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Mirage na jasnym tle.",
+      "name": "Glif Mirage — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Mirage em um fundo claro.",
+      "name": "Glifo: Mirage (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Mirage 在明亮背景下的浮印。",
+      "name": "Mirage 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Mirage บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Mirage - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Mirage açık fonlu glif.",
+      "name": "Mirage Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Міраж на світлому тлі.",
+      "name": "Яскравий гліф «Міраж»",
+      "code": "uk"
+    }
+  ]
+}

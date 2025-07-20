@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureWallLockerLongA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-wall-locker-(long)-1517d5cfd0.png",
+  "name": "Zariman Wall Locker (Long)",
+  "description": "A long wall mounted locker.",
+  "languages": [
+    {
+      "description": "Ein langer Wandspind.",
+      "name": "Zariman Wandspind (lang)",
+      "code": "de"
+    },
+    {
+      "description": "Un long casier mural.",
+      "name": "Zariman: Casier mural (long)",
+      "code": "fr"
+    },
+    {
+      "description": "Un armadietto a parete lungo.",
+      "name": "Armadietto a Parete Zariman (Lungo)",
+      "code": "it"
+    },
+    {
+      "description": "벽면에 고정된 긴 보관함입니다.",
+      "name": "자리만 벽 보관함 (긴)",
+      "code": "ko"
+    },
+    {
+      "description": "Un casillero grande montado en la pared.",
+      "name": "Casillero de pared Zariman (grande)",
+      "code": "es"
+    },
+    {
+      "description": "一个长型壁挂式储物柜。",
+      "name": "长型扎里曼壁挂式储物柜",
+      "code": "zh"
+    },
+    {
+      "description": "Длинный настенный шкафчик.",
+      "name": "Зариман: Настенный шкафчик (длинный)",
+      "code": "ru"
+    },
+    {
+      "description": "壁に取り付けられた長いロッカー。",
+      "name": "Zariman 壁ロッカー（長）",
+      "code": "ja"
+    },
+    {
+      "description": "Długa, naścienna szafka.",
+      "name": "Zariman: Szafka naścienna (długa)",
+      "code": "pl"
+    },
+    {
+      "description": "Um armário longo montado na parede.",
+      "name": "Armário de Parede da Zariman (Longo)",
+      "code": "pt"
+    },
+    {
+      "description": "長型壁掛櫃。",
+      "name": "長型扎日曼壁掛式置物櫃",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ล็อกเกอร์ติดผนังแบบยาว",
+      "name": "Zariman: ล็อกเกอร์ติดผนัง (ยาว)",
+      "code": "th"
+    },
+    {
+      "description": "Duvara monte uzun kilitli bir dolap.",
+      "name": "Zariman Kilitli Duvar Dolabı (Uzun)",
+      "code": "tr"
+    },
+    {
+      "description": "Довга навісна шафка.",
+      "name": "Настінна шафка із «Заримена» (довга)",
+      "code": "uk"
+    }
+  ]
+}

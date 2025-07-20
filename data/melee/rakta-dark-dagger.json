@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rakta-dark-dagger-e9aed7b23f.png",
+  "name": "Rakta Dark Dagger",
+  "description": "Infiltrate undetected; reduced visibility when held. Then strike with confidence; hits to irradiated targets restores shields and creates overshields.",
+  "languages": [
+    {
+      "description": "Schleicht euch unbemerkt ein und schlagt dann sicher zu. Dieser Dolch reduziert eure Sichtbarkeit, wenn ihr ihn haltet. Treffer bei verstrahlten Gegnern stellen eure Schilde wieder her und kreieren Zusatzschilde.",
+      "name": "Rakta Dunkeldolch",
+      "code": "de"
+    },
+    {
+      "description": "Infiltrez-vous sans vous faire détecter; réduit votre visibilité lorsque vous la tenez. Frappez ensuite avec confiance; frapper des cibles irradiées restaure les Boucliers et crée des Exoboucliers.",
+      "name": "Dague Sombre Rakta",
+      "code": "fr"
+    },
+    {
+      "description": "Infiltrati di nascosto; riduce la visibilità quando impugnata. Colpisci con sicurezza; attaccare i bersagli sotto l'effetto Radiazione ricarica gli scudi e genera scudi aggiuntivi.",
+      "name": "Rakta Dark Dagger",
+      "code": "it"
+    },
+    {
+      "description": "그 누구의 눈에도 띄지 않은 채 잠입해 확실한 일격을 꽂아 넣으세요. 손에 쥘 시 발각될 확률을 줄여 주며, 방사능 상태 이상에 걸린 적에게 타격할 경우 실드를 재충전하거나 오버실드를 생성해 줍니다.",
+      "name": "락타 다크 대거",
+      "code": "ko"
+    },
+    {
+      "description": "Infíltrate sin ser detectado; reduce visibilidad cuando está sostenida. Y después ataca con confianza; golpes a objetivos irradiados restaura escudos y produce escudos sobrecargados.",
+      "name": "Daga Oscura Rakta",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RAKTA DARK DAGGER）隐蔽入侵：持取时降低自身可见度。紧接着挥出自信一击：击中被辐射的目标可以恢复护盾并产生过载护盾。",
+      "name": "绯红·暗黑匕首",
+      "code": "zh"
+    },
+    {
+      "description": "Понижает вашу заметность, когда находится в руках и позволяет проникать скрытно. Атаки по облученным целям восстанавливают щиты и создают сверхщиты.",
+      "name": "Темный кинжал Ракта",
+      "code": "ru"
+    },
+    {
+      "description": "気付かれぬまま周囲に溶け込め。装備している際の視認性を落とす。そして確信と共に一撃を。混乱した相手に攻撃を加えるとシールドを回復し、オーバーシールドを生成する。",
+      "name": "Rakta Dark Dagger",
+      "code": "ja"
+    },
+    {
+      "description": "Skradaj się niezauważony; podczas trzymania redukuje widoczność wrogom. Po czym zadawaj śmiertelne ciosy; ataki na cele będące pod wpływem statusu radiacyjnego przywracają tarczę lub tworzą przeładowaną tarczę.",
+      "name": "Mroczny Sztylet Rakta",
+      "code": "pl"
+    },
+    {
+      "description": "Infiltre-se furtivamente: reduz a percepção inimiga quando empunhada. Depois, ataque com confiança: ataques em alvos afetados pelo Efeito de Radiação restauram os Escudos e concedem Sobre-Escudos.",
+      "name": "Adaga Soturna Rakta",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RAKTA DARK DAGGER）隱蔽入侵：持取時降低自身可見度。緊接著揮出自信一擊：擊中被輻射的目標可以回復護盾並產生超載護盾。",
+      "name": "緋紅 暗黑匕首",
+      "code": "tc"
+    },
+    {
+      "description": "แทรกซึมเข้าไปโดยไม่ถูกตรวจพบ ลดการมองเห็นเมื่อถืออาวุธ จากนั้นโจมตีด้วยความมั่นใจ เมื่อโจมตีเป้าหมายที่ถูกรังสีจะฟื้นฟูโล่และสร้างโล่พิเศษขึ้นมา",
+      "name": "Rakta Dark Dagger",
+      "code": "th"
+    },
+    {
+      "description": "Fark edilmeden düşmana yaklaşın ve saldırın; silah tutulduğunda görüş alanı düşer. Radyasyona maruz kalmış düşmanlara etki eder ve kalkanları yenileyerek aşırı kalkan oluşturur.",
+      "name": "Rakta Dark Dagger",
+      "code": "tr"
+    },
+    {
+      "description": "Кинджал, що зменшує вашу помітність. Напади на опромінені радіацією цілі відновлюють щити та створюють надщит.",
+      "name": "Темний кинджал-ракта",
+      "code": "uk"
+    }
+  ]
+}

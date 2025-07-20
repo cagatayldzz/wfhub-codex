@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/HoverboardSummon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/k-drive-launcher-db3b4a1f81.png",
+  "name": "K-Drive Launcher",
+  "description": "Summons a K-Drive for use during free roam missions",
+  "languages": [
+    {
+      "description": "Ruft für freie Erforschung-Missionen ein K-Drive herbei.",
+      "name": "K-Drive Startrampe",
+      "code": "de"
+    },
+    {
+      "description": "Fait apparaître un K-Drive pour être utilisé dans les missions d'exploration libre.",
+      "name": "Déploiement de K-Drive",
+      "code": "fr"
+    },
+    {
+      "description": "Richiama un K-Drive per utilizzarlo durante una missione di esplorazione libera",
+      "name": "K-Drive Launcher",
+      "code": "it"
+    },
+    {
+      "description": "자유 탐험 미션 동안 사용하기 위한 K-드라이브를 소환합니다.",
+      "name": "K-드라이브 런처",
+      "code": "ko"
+    },
+    {
+      "description": "Llama a una K-Drive para usar durante misiones de recorrido libre",
+      "name": "Lanzador de K-Drive",
+      "code": "es"
+    },
+    {
+      "description": "在自由漫游任务中召唤 K 式悬浮板使用",
+      "name": "K 式悬浮板发射器",
+      "code": "zh"
+    },
+    {
+      "description": "Призывает К-драйв для использования на миссиях со свободным перемещением.",
+      "name": "Запуск К-Драйва",
+      "code": "ru"
+    },
+    {
+      "description": "自由行動ミッション中に使用できるK-ドライブを召喚",
+      "name": "K-ドライブ ランチャー",
+      "code": "ja"
+    },
+    {
+      "description": "Przywołuje K-Drive do użycia podczas misji wędrownych",
+      "name": "Wyrzutnia K-Drive",
+      "code": "pl"
+    },
+    {
+      "description": "Invoca um K-Drive para uso durante missões de percurso livre.",
+      "name": "Invocador de K-Drive",
+      "code": "pt"
+    },
+    {
+      "description": "可以在自由探索任務中召喚一個 K 式懸浮板使用。",
+      "name": "K 式懸浮板啟動器",
+      "code": "tc"
+    },
+    {
+      "description": "เรียก K-Drive ออกมาเพื่อใช้ในระหว่างภารกิจสัญจรอย่างอิสระ",
+      "name": "ตัวปล่อย K-Drive",
+      "code": "th"
+    },
+    {
+      "description": "Özgür dolaşma görevlerinde kullanmanız için K-Drive'ınızı çağırır.",
+      "name": "K-Drive Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Прикликає к-драйв, яким можна користуватися під час мандрівних завдань.",
+      "name": "Запускач к-драйва",
+      "code": "uk"
+    }
+  ]
+}

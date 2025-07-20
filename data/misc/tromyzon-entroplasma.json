@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tromyzon-entroplasma-c324b3c3bd.png",
+  "name": "Tromyzon Entroplasma",
+  "description": "A solvent that reconstitutes waste product from the Weeping Towers into degenerated matter.\n\nSource: Dismantled from Tromyzon servofish via The Business in Fortuna (Venus). Catch Tromyzon in Orb Vallis Pond Hotspots during Cold weather. Also drops from the Exploiter Orb in the Orb Vallis.",
+  "languages": [
+    {
+      "description": "Ein Lösungsmittel, das Abfallprodukte der Weinenden Türme in degenerierte Materie umwandelt.\n\nQuelle: Durch das Zerlegen von Tromyzonen von The Business in Fortuna (Venus). Fange Tromyzone bei kaltem Wetter in Hotpsots der Teiche des Orbis-Tals. Kann auch vom Ausbeuter im Orbis-Tal fallen gelassen werden.",
+      "name": "Tromyzon: Entroplasma",
+      "code": "de"
+    },
+    {
+      "description": "Un solvant qui reforme les déchets produits par les Tours Suintantes en matière dégénérée.\n\nSource: récupéré des Servopoissons Tromyzons via Le Bizness à Fortuna (Vénus). Attrapez le Tromyzon dans les points d'affluence des étangs de la Vallée Orbis par temps froid. Récupéré également depuis l'Orbis Exploiteur dans la Vallée Orbis.",
+      "name": "Entroplasma de Tromyzon",
+      "code": "fr"
+    },
+    {
+      "description": "Un solvente che ricostituisce i prodotti di scarto delle Torri Piangenti in materia degenerata.\n\nFonte: Ottenibile smantellando i servofish Tromyzon da The Business a Fortuna (Venere). Puoi pescare i Tromyzon nei punti caldi degli stagni su Orb Vallis durante il Freddo. Rilasciato anche dall'Exploiter Orb su Orb Vallis.",
+      "name": "Entroplasma Tromyzon",
+      "code": "it"
+    },
+    {
+      "description": "통곡의 탑에서 배출된 폐기물을 축퇴 물질로 재구성하는 용액입니다.\n\n획득 가능 장소: 포르투나 (금성) 의 비즈니스를 통해 트로미존 서보피쉬를 분해하여 획득. 차가운 날씨동안 오브 협곡의 연못의 핫스팟에서 트로미존을 잡을 수 있습니다. 또한 오브 협곡의 익스플로이터 오브를 통해서도 드롭됩니다.",
+      "name": "트로미존 엔트로플라즈마",
+      "code": "ko"
+    },
+    {
+      "description": "Un solvente que reconstituye los desechos de las Torres sollozantes en materia degradada.\n\nFuente: Se obtiene al desarmar al servopez Tromyzon con The Business en Fortuna (Venus). Pesca al servopez Tromyzon en los estanques de los Valles del Orbe durante el clima frío. También se obtiene de la Orbe Explotadora en los Valles del Orbe.",
+      "name": "Entroplasma de Tromyzon",
+      "code": "es"
+    },
+    {
+      "description": "一种将渗流之塔的废弃物重建为简并物质的溶剂。\n\n获取途径：通过福尔图娜（金星）的 The Business 从多目鳗伺服鱼中拆解获取。在寒冷的奥布山谷池塘中捕捉多目鳗。此外它还会从奥布山谷剥削者圆蛛身上掉落。",
+      "name": "多目鳗熵离子体",
+      "code": "zh"
+    },
+    {
+      "description": "Растворитель, который восстанавливает отходы из Плачущих Башен в деградированное вещество.\n\nМестонахождение: Извлекается из серворыбы тромазона у Бизнеса в Фортуне (Венера). Ловите тромазона в Горячих прудах Долины сфер во время холодной погоды. Также выпадает из Сферы Эксплуатации в Долине Сфер.",
+      "name": "Энтроплазма Тромазона",
+      "code": "ru"
+    },
+    {
+      "description": "涙の塔から排出される廃棄物を分解済み物質に再構成する溶剤。\n\n場所：オーブ峡谷のトロミゾンサーボ魚をフォーチュナー（金星）のThe Businessで分解することで入手可能。トロミゾンは寒波な環境の中のオーブ峡谷の池のホットスポットで捕まえられる。オーブ峡谷のエクスプロイター オーブからもドロップ可能。",
+      "name": "トロミゾン エントロプラズマ",
+      "code": "ja"
+    },
+    {
+      "description": "Rozpuszczalnik, który odtwarza odpady z Płaczących Wież na zdegenerowaną materię.\n\nMoże zostać zdobyty przez rozłożenie Tromyzona u Biznesa w Fortunie (Wenus). Serworyba Tromyzon może zostać złowiona w jaskiniach Orb Vallis w miejscu wzburzonej wody podczas zimnej pogody. Ten komponent wypada także z Matki Wyzysku w Orb Vallis.",
+      "name": "Tromyzon: Entroplazma",
+      "code": "pl"
+    },
+    {
+      "description": "Um solvente que reconstitui dejetos da Torre das Lamentações em matéria degenerada.\n\nLocalização: obtido através da desmontagem do Peixe-Servo Tromyzon com o Business em Fortuna, em Vênus. O Peixe-Servo Tromyzon pode ser pescado em locais de pesca de lagoas e rios do Vallis das Orbes durante o clima frio. Este item também pode ser obtido ao derrotar a Orbe Usurpadora no Vallis das Orbes.",
+      "name": "Entroplasma de Tromyzon",
+      "code": "pt"
+    },
+    {
+      "description": "一種將滲流之塔的廢棄物重建為簡併物質的溶劑。 \n\n來源：透過福爾圖娜（金星）的 Business 拆解多目鰻取得。\n多目鰻可在寒冷週期於奧布山谷的池塘魚點中捕獲。\n奧布山谷的剝削者圓蛛也會掉落這個物品。",
+      "name": "多目鰻熵離子體",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวทำละลายที่ฟื้นฟูของเสียจากหอไหลซึมให้กลายเป็นสสารเสื่อมสภาพ\n\nแหล่งที่พบ: ถอดชิ้นส่วนออกมาจากเซอร์โวฟิช Tromyzon ผ่าน The Business ในฟอร์ทูนา (ดาวศุกร์) ซึ่งสามารถจับปลา Tromyzon ตรงจุดฮอตสปอตที่มีปลาชุกชุมในหนองน้ำของออร์บวัลลิสได้ในช่วงที่มีสภาพอากาศหนาวเย็น นอกจากนี้ยังดรอปจาก Exploiter Orb ในออร์บวัลลิสอีกด้วย",
+      "name": "Tromyzon: เอนโทรพลาสมา",
+      "code": "th"
+    },
+    {
+      "description": "Ağlayan Kulelerden gelen atık ürünü dejenere maddeye dönüştüren bir çözücü.\n\nKaynak: Fortuna'daki (Venüs) Business aracılığıyla Tromyzon servobalıktan çıkarılmıştır. Tromyzon, soğuk havalarda Orb Vallis Göletlerinin aktif noktalarında yakalanabilir. Ayrıca Orb Vallis'teki Exploiter Orb'dan da düşer.",
+      "name": "Tromyzon Entroplazma",
+      "code": "tr"
+    },
+    {
+      "description": "Розчинник, який перетворює відходи з Плакучих Веж на розкладену матерію.\n\nМожна отримати з тромизона в Бізнеса у Фортуні (Венера). Ловіть тромизона в печерах Долини Куль під час холодної погоди. Також можна отримати з Експлуататорки в Долині Куль.",
+      "name": "Ентроплазма тромизона",
+      "code": "uk"
+    }
+  ]
+}

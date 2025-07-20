@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ExcaliburUmbraBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauvan-umbra-sekhara-4c8f743285.png",
+  "name": "Gauvan Umbra Sekhara",
+  "description": "A symbol held sacred by a shadowy order of Tenno.",
+  "languages": [
+    {
+      "description": "Ein heiliges Symbol eines zwielichtigen Orden der Tenno.",
+      "name": "Gauvan Umbra Sekhara",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole tenu pour sacré par un ordre nébuleux de Tennos.",
+      "name": "Sekhara Gauvan Umbra",
+      "code": "fr"
+    },
+    {
+      "description": "Un sacro simbolo custodito da un oscuro ordine di Tenno.",
+      "name": "Sekhara Gauvan Umbra",
+      "code": "it"
+    },
+    {
+      "description": "어둠 속에 숨어있는 텐노 결사가 신성하게 여기는 심볼입니다.",
+      "name": "가우반 움브라 세카라",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo considerado sagrado por una orden de sombras de Tenno.",
+      "name": "Sekhara Gauvan Umbra",
+      "code": "es"
+    },
+    {
+      "description": "被遵循暗影之道的 Tenno 视为神圣的象征。",
+      "name": "高梵暗影饰冠",
+      "code": "zh"
+    },
+    {
+      "description": "Cимвол, носимый секретным орденом Тэнно.",
+      "name": "Секара: Гаван Умбра",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの暗躍により神聖に保たれてきたシンボル。",
+      "name": "Gauvan Umbra セカーラ",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol uznawany za święty przez mroczny zakon Tenno.",
+      "name": "Sekhara Gauvan Umbra",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo considerado sagrado por uma ordem obscura de Tenno.",
+      "name": "Sekhara: Gauvan Umbra",
+      "code": "pt"
+    },
+    {
+      "description": "被暗影秩序的 Tenno 視為神聖象徵之物。",
+      "name": "高梵暗影飾冠",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ครองความศักดิ์สิทธิ์ตามคำสั่งเงาของ Tenno",
+      "name": "เสกขรา Gauvan Umbra",
+      "code": "th"
+    },
+    {
+      "description": "Tenno'ların emri ile kutsal olarak saklanmış bir sembol",
+      "name": "Gauvan Umbra Sekhara",
+      "code": "tr"
+    },
+    {
+      "description": "Священний символ тіньового ордену тенно.",
+      "name": "Шекхара «Гаван-умбра»",
+      "code": "uk"
+    }
+  ]
+}

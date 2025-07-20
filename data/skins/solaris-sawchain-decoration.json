@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUTechToolA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-sawchain-decoration-9f51b6d860.png",
+  "name": "Solaris Sawchain Decoration",
+  "description": "Can be used as metal-cutter or filer. A handy addition to any lander.",
+  "languages": [
+    {
+      "description": "Ein nützliches Werkzeug. Wird von vielen Solaris zum Schneiden von Metall verwendet. Eine gute Ergänzung für jedes Schiff.",
+      "name": "Dekoration: Solaris Kettensäge",
+      "code": "de"
+    },
+    {
+      "description": "Peut être utilisée pour couper du métal ou comme lime. Un ajout utile à n'importe quel vaisseau.",
+      "name": "Décoration Tronçonneuse Solaris",
+      "code": "fr"
+    },
+    {
+      "description": "Può essere usata come taglia metallo o come lima. Un'utile aggiunta per ogni navicella.",
+      "name": "Decorazione Sawchain Solaris",
+      "code": "it"
+    },
+    {
+      "description": "금속 절단기나 줄칼로 쓰일 수 있습니다. 어느 착륙정에나 유용한 추가 물품입니다.",
+      "name": "솔라리스 톱 체인 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Puede usarse como cortador de metal o de pisapapeles. Una útil adición para cualquier nave de desembarco.",
+      "name": "Decoración de sierra de cadena Solaris",
+      "code": "es"
+    },
+    {
+      "description": "可以被用于金属切割或锉修。着陆器中的实用装备。",
+      "name": "索拉里斯锯条装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Может использоваться в качестве металлорежущего станка или напильника. Удобное дополнение для любого Корабля.",
+      "name": "Украшение: Пильная Цепь",
+      "code": "ru"
+    },
+    {
+      "description": "金属切断機や研磨機として使える。船に置けば便利になること請け合い。",
+      "name": "ソラリス ソーチェインの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Może być używany jako frez do metalu lub pilnik. Przydatny dodatek do każdego lądownika.",
+      "name": "Ozdoba: Piła Łańcuchowa Solaris",
+      "code": "pl"
+    },
+    {
+      "description": "Pode ser utilizado para cortar metal, ou como uma lima. Uma adição bem útil para qualquer nave.",
+      "name": "Serra-Corrente Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "可以被用於金屬切割或銼磨。著陸器中的實用裝備。",
+      "name": "索拉里斯鋸條裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "สามารถใช้เป็นเครื่องตัดโลหะหรือตะไบได้ เป็นอุปกรณ์เสริมที่มีประโยชน์สำหรับยานลงจอดทุกลำ",
+      "name": "ของตกแต่ง: เลื่อยโซ่ Solaris",
+      "code": "th"
+    },
+    {
+      "description": "Metal kesici ya da törpü olarak kullanılabilir. Her Gemi için kullanışlı bir eşya.",
+      "name": "Solaris Zincir Testere Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Цей ланцюг можна використати для розрізання металу чи для обмотування чогось. Стане в пригоді на будь-якому зорельоті.",
+      "name": "Оздоблення: ланцюг пили Соляріса",
+      "code": "uk"
+    }
+  ]
+}

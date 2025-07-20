@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/synthula-c2b5de283b.png",
+  "name": "Synthula",
+  "description": "Distilled fuel for stims.",
+  "languages": [
+    {
+      "description": "Destillierter Treibstoff für Stims.",
+      "name": "Synthula",
+      "code": "de"
+    },
+    {
+      "description": "Carburant distillé pour les stimulants.",
+      "name": "Synthula",
+      "code": "fr"
+    },
+    {
+      "description": "Carburante distillato per gli stim.",
+      "name": "Synthula",
+      "code": "it"
+    },
+    {
+      "description": "스팀에 사용되는 증류 연료입니다.",
+      "name": "신툴라",
+      "code": "ko"
+    },
+    {
+      "description": "Carburante destilado para estimulantes.",
+      "name": "Synthula",
+      "code": "es"
+    },
+    {
+      "description": "提炼而成的刺激剂原料。",
+      "name": "合成刺激质",
+      "code": "zh"
+    },
+    {
+      "description": "Очищенное сырье для стимуляторов.",
+      "name": "Синтула",
+      "code": "ru"
+    },
+    {
+      "description": "スティム用の蒸留燃料。",
+      "name": "シンスラ",
+      "code": "ja"
+    },
+    {
+      "description": "Destylowane paliwo do stym.",
+      "name": "Syntula",
+      "code": "pl"
+    },
+    {
+      "description": "Combustível destilado para estimulantes.",
+      "name": "Síntula",
+      "code": "pt"
+    },
+    {
+      "description": "蒸餾提煉出的刺激興奮物，用於刺激劑。",
+      "name": "合成刺激質",
+      "code": "tc"
+    },
+    {
+      "description": "น้ำมันที่กลั่นแล้วสำหรับ Stim",
+      "name": "ซินทูลา",
+      "code": "th"
+    },
+    {
+      "description": "Stim için damıtılmış yakıt",
+      "name": "Synthula",
+      "code": "tr"
+    },
+    {
+      "description": "Очищений вмісник для стимуляторів.",
+      "name": "Синтула",
+      "code": "uk"
+    }
+  ]
+}

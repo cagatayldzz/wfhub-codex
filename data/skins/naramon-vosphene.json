@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Operator/SchoolDecalNaramon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/naramon-vosphene-eb9861122e.png",
+  "name": "Naramon Vosphene",
+  "description": "A Vosphene Glyph of the Naramon symbol, usable as a decoration.",
+  "languages": [
+    {
+      "description": "Eine Vosphen-Glyphe des Naramon-Symbols, die als Dekoration verwendet werden kann.",
+      "name": "Vosphen: Naramon",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe de Vosphène du symbole Naramon, utilisable comme décoration.",
+      "name": "Vosphène Naramon",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo di Vosfene del simbolo Naramon, utilizzabile come decorazione.",
+      "name": "Vosfene Naramon",
+      "code": "it"
+    },
+    {
+      "description": "장식으로 사용할 수 있는, 나라몬 상징의 보스핀 글리프입니다.",
+      "name": "나라몬 보스핀",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo de vosfeno del símbolo Naramon, que puede usarse como decoración.",
+      "name": "Vosfeno Naramon",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘了 Naramon 符号的荧音浮印，可用作装饰。",
+      "name": "Naramon 荧音浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Восфеновый глиф символа Нарамон, его можно использовать в качестве украшения.",
+      "name": "Восфен: Нарамон",
+      "code": "ru"
+    },
+    {
+      "description": "Naramonシンボルのボスフェングリフ、装飾品として使用可能。",
+      "name": "Naramon ボスフェン",
+      "code": "ja"
+    },
+    {
+      "description": "Glif Wosfenu symbolu Naramon, można go wykorzystać jako dekoracje.",
+      "name": "Wosfen Naramon",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo Vosfeno do símbolo da Escola Naramon, que pode ser utilizado como decoração.",
+      "name": "Vosfeno Naramon",
+      "code": "pt"
+    },
+    {
+      "description": "Naramon 符號的虛光浮印，可充當裝飾物。",
+      "name": "Naramon 虛光",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพ Vosphene แทนแสดงสัญลักษณ์ของ Naramon สามารถนำไปใช้เป็นของตกแต่งได้",
+      "name": "Naramon Vosphene",
+      "code": "th"
+    },
+    {
+      "description": "Dekorasyon olarak kullanılabilecek Naramon sembolünün bir Vosphene Glifi.",
+      "name": "Naramon Vosphene",
+      "code": "tr"
+    },
+    {
+      "description": "Возфіновий гліф із символом Нарамона, використовується як оздоблення.",
+      "name": "Возфін «Нарамон»",
+      "code": "uk"
+    }
+  ]
+}

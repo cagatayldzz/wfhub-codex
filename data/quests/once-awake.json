@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/once-awake-c88d6a585a.png",
+  "name": "Once Awake",
+  "description": "Intercepted Grineer communications reveal that Grineer have been experimenting with some sort of bio weapon. You must investigate.",
+  "languages": [
+    {
+      "description": "Abgefangene Kommuniqués haben enthüllt, dass die Grineer mit einer Art Bio-Waffe experimentieren. Wir benötigen weitere Informationen.",
+      "name": "Einmal Erwacht",
+      "code": "de"
+    },
+    {
+      "description": "Des communications entre Grineers interceptées ont révélé que les Grineers ont fait des expériences avec une sorte d'arme biologique. Vous devez mener une enquête.",
+      "name": "Autrefois Éveillés",
+      "code": "fr"
+    },
+    {
+      "description": "Le intercettazioni radio ai Grineer ci hanno rivelato che stanno armeggiando con qualche sorta di arma biochimica. Devi investigare.",
+      "name": "Una Volta Sveglio",
+      "code": "it"
+    },
+    {
+      "description": "그리니어가 무언가의 생물병기를 실험하고 있다는 내용의 그리니어 통신을 감청했습니다. 이에 대해 조사해야 합니다.",
+      "name": "각성의 순간",
+      "code": "ko"
+    },
+    {
+      "description": "Las comunicaciones grineer interceptadas revelan que los grineer han estado experimentando con algún tipo de arma biológica. Debes investigar.",
+      "name": "Una Vez Despierto",
+      "code": "es"
+    },
+    {
+      "description": "拦截到的 Grineer 通讯显示，Grineer一直在试验某种生化武器，你必须调查清楚。",
+      "name": "悲剧的开端",
+      "code": "zh"
+    },
+    {
+      "description": "Перехваты переговоров Гринир указывают на то, что они продолжают проводить эксперименты с неким биологическим оружием. Вам необходимо провести полноценное расследование.",
+      "name": "После пробуждения",
+      "code": "ru"
+    },
+    {
+      "description": "傍受したグリニアの通信によると、グリニアは新しい生物兵器の実験を行っているようです。これを調査してください。",
+      "name": "博士の計略",
+      "code": "ja"
+    },
+    {
+      "description": "Przechwycone komunikaty Grineer wskazują, że eksperymentują oni z jakimś typem broni biologicznej. Musisz zbadać sytuację.",
+      "name": "Po Przebudzeniu",
+      "code": "pl"
+    },
+    {
+      "description": "Comunicações Grinner interceptadas revelam que os Grineer estiveram experimentando com algum tipo de arma biológica. Você deve investigar.",
+      "name": "Uma Vez Acordado",
+      "code": "pt"
+    },
+    {
+      "description": "攔截到的 Grineer 通訊顯示，Grineer 一直在試驗某種生化武器。你必須調查清楚。",
+      "name": "悲劇的開端",
+      "code": "tc"
+    },
+    {
+      "description": "จากการดักฟังการสื่อสารของ Grineer นั้นเผยให้เห็นว่า Grineer กำลังทดลองอาวุธชีวภาพบางประเภท เจ้าต้องตรวจสอบเรื่องนี้",
+      "name": "เมื่อตื่นจากความหลับใหล",
+      "code": "th"
+    },
+    {
+      "description": "Tarafımızdan algılanan ve engellenen mesajlardan alınan bilgilere göre Grineer'lar biyolojik bir silah üzerinde çalışıyor. Bu konuyu araştırman gerekiyor.",
+      "name": "Once Awake",
+      "code": "tr"
+    },
+    {
+      "description": "Перехоплені перемовини ґрінерів вказують на їхні експерименти з якимось новим видом зброї — біологічної. Потрібно все розвідати.",
+      "name": "Після пробудження",
+      "code": "uk"
+    }
+  ]
+}

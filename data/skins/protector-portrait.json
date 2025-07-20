@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/JadeShadowsFamilyPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/protector-portrait-f1db264ccc.png",
+  "name": "Protector Portrait",
+  "description": "A portrait of the Stalker: once a dark avenger, now a devoted father.",
+  "languages": [
+    {
+      "description": "Ein Porträt des Stalkers: Einst dunkler Rächer, heute hingebungsvoller Vater.",
+      "name": "Beschützer-Porträt",
+      "code": "de"
+    },
+    {
+      "description": "Un portrait du Stalker: un sombre vengeur devenu un père dévoué.",
+      "name": "Portrait Protecteur",
+      "code": "fr"
+    },
+    {
+      "description": "Un ritratto dello Stalker: un tempo un oscuro vendicatore, ora un padre devoto.",
+      "name": "Ritratto del Protettore",
+      "code": "it"
+    },
+    {
+      "description": "한 때 어둠의 복수자였으나, 이제는 헌신적인 아버지가 된 스토커의 초상입니다.",
+      "name": "수호자 초상화",
+      "code": "ko"
+    },
+    {
+      "description": "Un retrato del Stalker: antes un vengador oscuro, ahora un padre devoto.",
+      "name": "Retrato Protección",
+      "code": "es"
+    },
+    {
+      "description": "追猎者的肖像：曾是黑暗的复仇者，现在是一位尽职的父亲。",
+      "name": "保护者肖像",
+      "code": "zh"
+    },
+    {
+      "description": "Портрет Сталкера, некогда мрачного мстителя, ныне преданного отца.",
+      "name": "Портрет защитника",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの肖像画。かつての闇の復讐者。今は献身的な父親。",
+      "name": "守護者 肖像画",
+      "code": "ja"
+    },
+    {
+      "description": "Portret Stalkera: niegdyś mrocznego mściciela, teraz oddanego ojca.",
+      "name": "Portret Obrońcy",
+      "code": "pl"
+    },
+    {
+      "description": "Um retrato do Stalker: antes um vingador sombrio, agora um pai dedicado.",
+      "name": "Retrato da Proteção",
+      "code": "pt"
+    },
+    {
+      "description": "Stalker 的肖像。曾是黑暗復仇者，現是親愛的父親。",
+      "name": "親子肖像",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพของ Stalker ที่ครั้งหนึ่งเคยเป็นผู้มีแต่ความอาฆาตที่มืดมน แต่ปัจจุบันกลายมาเป็นพ่อผู้อุทิศตน",
+      "name": "ภาพผู้พิทักษ์",
+      "code": "th"
+    },
+    {
+      "description": "Stalker'ın portresi: Bir zamanlar karanlık bir intikamcı, artık sadık bir baba.",
+      "name": "Koruyucu Portresi",
+      "code": "tr"
+    },
+    {
+      "description": "Портрет Сталкера — колишнього темного месника, що став дбайливим батьком.",
+      "name": "Портрет «Захисник»",
+      "code": "uk"
+    }
+  ]
+}

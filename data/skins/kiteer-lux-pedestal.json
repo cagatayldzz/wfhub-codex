@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/BaroPedestal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ki'teer-lux-pedestal-ef88b3f98f.png",
+  "name": "Ki'Teer Lux Pedestal",
+  "description": "Showcase your treasures with pride on this stylish pedestal.",
+  "languages": [
+    {
+      "description": "Zeige deine Schätze auf diesem stilvollen Sockel mit Stolz.",
+      "name": "Ki'Teer Lux Sockel",
+      "code": "de"
+    },
+    {
+      "description": "Présentez vos trésors avec fierté sur ce piédestal élégant.",
+      "name": "Piédestal Ki'Teer de luxe",
+      "code": "fr"
+    },
+    {
+      "description": "Mostra i tuoi tesori con orgoglio su questo elegante piedistallo.",
+      "name": "Piedistallo Ki'Teer Lux",
+      "code": "it"
+    },
+    {
+      "description": "이 세련된 받침대 위에 여러분의 보물을 자랑스럽게 전시하세요.",
+      "name": "키'티어 럭스 받침대",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra tus tesoros con orgullo en este elegante pedestal.",
+      "name": "Pedestal Ki'Teer Lux",
+      "code": "es"
+    },
+    {
+      "description": "你可以在这个时尚的底座上自豪地展示宝物。",
+      "name": "Ki'Teer 明耀基座",
+      "code": "zh"
+    },
+    {
+      "description": "С гордостью продемонстрируйте свои сокровища на этом стильном пьедестале.",
+      "name": "Пьедестал: Ки'Тиир - роскошный",
+      "code": "ru"
+    },
+    {
+      "description": "このスタイリッシュな台座に自慢の宝物を飾ろう。",
+      "name": "Ki'Teer Lux ペダスタル",
+      "code": "ja"
+    },
+    {
+      "description": "Dumnie zaprezentuj swoje skarby dzięki temu stylowemu postumentowi.",
+      "name": "Postument Lux Ki'Teer",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba os seus tesouros com orgulho neste elegante pedestal.",
+      "name": "Pedestal Ki'Teer Lux",
+      "code": "pt"
+    },
+    {
+      "description": "在這個時尚的基座上自豪地展示你的珍寶。",
+      "name": "Ki'Teer 明耀基座",
+      "code": "tc"
+    },
+    {
+      "description": "จัดวางสมบัติของคุณบนฐานที่สวยล้ำนำสมัยนี้ด้วยความภาคภูมิใจ",
+      "name": "ฐานวาง Ki'Teer Lux",
+      "code": "th"
+    },
+    {
+      "description": "Hazinelerini bu şık tabanlık üzerinde gururla sergile.",
+      "name": "Ki'Teer Lux Tabanlığı",
+      "code": "tr"
+    },
+    {
+      "description": "З гордістю виставляйте свої скарби на цьому стильному постаменті.",
+      "name": "Розкішний постамент «Кі’Тір»",
+      "code": "uk"
+    }
+  ]
+}

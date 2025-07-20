@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceHarddrivePony",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lone-ranger-46bb77e984.png",
+  "name": "Lone Ranger",
+  "description": "Saddle up, partner. Earned from a Technocyte Coda.",
+  "languages": [
+    {
+      "description": "Sattel auf, Partner. Von einem Technocyte Coda erhalten.",
+      "name": "Lone Ranger",
+      "code": "de"
+    },
+    {
+      "description": "En selle, partenaire. Obtenu via un Technocyte Coda.",
+      "name": "Cavalier Solitaire",
+      "code": "fr"
+    },
+    {
+      "description": "In sella, compagno. Ottenuta da un Technocyte Coda.",
+      "name": "Cavaliere Solitario",
+      "code": "it"
+    },
+    {
+      "description": "안장에 오르세요, 파트너. 테크노사이트 코다로부터 획득할 수 있습니다.",
+      "name": "론 레인저",
+      "code": "ko"
+    },
+    {
+      "description": "Prepárate, compañero. Obtenido de un Tecnocito Coda.",
+      "name": "Llanero solitario",
+      "code": "es"
+    },
+    {
+      "description": "伙伴，准备出发。从科技细胞终幕者处获得。",
+      "name": "独行侠",
+      "code": "zh"
+    },
+    {
+      "description": "Садись, партнёр.\n\nМестонахождение: Техноциты Кода",
+      "name": "Одинокий рейнджер",
+      "code": "ru"
+    },
+    {
+      "description": "乗ってきな、相棒。テクノサイト・コーダから入手。",
+      "name": "ローン・レンジャー",
+      "code": "ja"
+    },
+    {
+      "description": "Siodłaj konia, kowboju. Zdobyte od Cody Technocytu.",
+      "name": "Samotny Jeździec",
+      "code": "pl"
+    },
+    {
+      "description": "Prepare-se, parceiro. Adquirido de um Tecnócito Coda.",
+      "name": "Cavaleiro Solitário",
+      "code": "pt"
+    },
+    {
+      "description": "備好馬鞍，夥伴。\n\n透過技改細胞勾瘩體獲取。",
+      "name": "獨行俠",
+      "code": "tc"
+    },
+    {
+      "description": "เตรียมตัวให้พร้อมนะเพื่อน - รับได้จาก Technocyte Coda",
+      "name": "Lone Ranger",
+      "code": "th"
+    },
+    {
+      "description": "Atla bakalım, ortak. Technocyte Coda'dan kazanılır.",
+      "name": "Yalnız Süvari",
+      "code": "tr"
+    },
+    {
+      "description": "У сідло, партнери.\n\nЗдобувається здоланням «Техноцитної Коди».",
+      "name": "Самотній вершник",
+      "code": "uk"
+    }
+  ]
+}

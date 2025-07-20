@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/narrow-spectrum-bait-073dba06b7.png",
+  "name": "Narrow-Spectrum Bait",
+  "description": "This endochlor/dionium melange attracts both Recasters and Eye-Eyes, Servofish found in Orb Vallis ponds. The Eye-Eye shows up during warm weather and Recasters shows up at Hot Spots during cool weather.\n\nObtained from The Business in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Diese Endochlor/Dionium-Mischung zieht sowohl Weitwerfer als auch Aug-Augs an, Servofische, die in den Teichen des Orbis-Tals vorkommen. Aug-Augs tauchen bei warmem Wetter auf und Weitwerfer tauchen bei kühlem Wetter auf.\n\nZu erhalten von The Business in Fortuna (Venus).",
+      "name": "Köder: Schmal-Spektrum",
+      "code": "de"
+    },
+    {
+      "description": "Ce mélange d'endochlore et de dionium attire à la fois les Recasters et les Eye-Eyes. Ces Servopoissons peuvent être trouvés dans les étangs de la Vallée Orbis. Les Eye-Eyes sont actifs par temps chaud, tandis que les Recasters ne se trouvent qu'aux points d'affluence par temps frais.\n\nObtenu via Le Bizness à Fortuna (Vénus).",
+      "name": "Appât à Spectre Restreint",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca composta da endochlor/dionium attrae sia Recaster che Eye-Eye, Servofish che possono essere trovati negli stagni di Orb Vallis. L'Eye-Eye appare durante la stagione calda, i Recaster appaiono nei Punti Caldi degli stagni durante la stagione fredda. \n\nAcquistabile da The Business su Fortuna (Venere).",
+      "name": "Esca Spettro Ristretto",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 오브 협곡의 연못에서 발견되는 서보피쉬인 아이-아이 및 리캐스터를 유인하는 것으로 알려진 엔도클로어와 디오늄으로 합성되었습니다. 아이-아이는 따뜻한 날씨에, 리캐스터는 서늘한 날씨에 핫스팟에서 나타납니다.\n\n포르투나 (금성) 의 비즈니스로부터 획득할 수 있습니다.",
+      "name": "내로우-스펙트럼 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta mezcla de endochlor/dionium atrae tanto a los repetidores como a los ojo-ojo, servopeces encontrados en los estanques de los Valles del Orbe. El ojo-ojo aparece en clima cálido y el repetidor aparece en las zonas activas en climas fríos.\n\nSe obtiene con The Business en Fortuna (Venus).",
+      "name": "Carnada de Espectro Concentrado",
+      "code": "es"
+    },
+    {
+      "description": "这种内型联氯 / 釱元素的混合物可以吸引续播机和目－目这类可以在池塘内找到的伺服鱼。目－目会在温暖天气时出现，续播机则在天气寒冷时出现在鱼点中。\n\n从福尔图娜（金星）的 The Business 处获得。",
+      "name": "窄谱鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта смесь эндохлора и диониума способна привлекать реккастеров и глаз-глазов — серворыб, обитающую в прудах Долины Сфер. Глаз-глазы появляются в тёплую погоду, а реккастеры появляются в горячих точках во время холодной погоды.\n\nМестонахождение: у Бизнеса в Фортуне (Венера)​",
+      "name": "Наживка узкого спектра",
+      "code": "ru"
+    },
+    {
+      "description": "このエンドクロルとジオニウムで合成された混合物は池で見つかるサーボ魚のリキャスターとアイ-アイを引き寄せる。アイ-アイは温暖サイクル、リキャスターは極寒サイクルのホットスポットで出現する。\n\nフォーチュナー (金星) のThe Businessから入手可能。",
+      "name": "狭帯域スペクトル・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta mieszanka endochloru/dionium wabi zarówno Recasterów, jak i Okularników, Serworyb występujących w jeziorach Orb Vallis. Okularnik pojawia się tylko podczas ciepłej pogody, a Recaster podczas chłodnej pogody.\n\nMoże zostać zakupiona od Biznesa w Fortunie (Wenus).",
+      "name": "Przynęta Wąskiego Spektrum",
+      "code": "pl"
+    },
+    {
+      "description": "Este composto atrai Recasters e Eye-Eyes, Peixes-Servo encontrados em lagoas do Vallis das Orbes. Porém, o Eye-Eye só aparece em dias de clima quente, e o Recaster em locais de pesca de lagoas em dias de clima frio.\n\nLocalização: obtido com o Business em Fortuna, em Vênus.",
+      "name": "Isca de Baixo-Espectro",
+      "code": "pt"
+    },
+    {
+      "description": "這種內氯／戴金屬混合物能夠吸引續播機和眼-眼，一種在奧布山谷池塘裡找到的伺服魚。眼-眼會在溫暖週期出現，而續播機則會在涼爽週期於魚點裡現在。\n\n可以從福爾圖娜（金星）的 Business 取得。",
+      "name": "窄譜魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อที่มีส่วนผสมระหว่างเอนโดคลอร์/ไดโอเนียมนี้จะดึงดูดเซอร์โวฟิชทั้ง Recaster และ Eye-Eye ที่พบในหนองน้ำในออร์บวัลลิส ซึ่ง Eye-Eye จะปรากฏขึ้นในช่วงที่อากาศอบอุ่น ส่วน Recaster จะปรากฏขึ้นในจุดฮอตสปอตที่มีปลาชุกชุมในช่วงที่อากาศเย็น\n\nรับได้จาก The Business ในฟอร์ทูนา (ดาวศุกร์)",
+      "name": "เหยื่อสเปกตรัมแคบ",
+      "code": "th"
+    },
+    {
+      "description": "Bu endoklor/dionium karışımı, göletlerde bulunan Recaster ve Eye-Eye türü Servobalıkları kendisine çeker. Eye-Eye türü ılık havalarda görülürken Recaster ise serin havalarda Sıcak Noktalarda bulunur.\n\nKaynak: Fortuna'da (Venüs) bulunan Business'ten temin edilebilir.",
+      "name": "Dar Spektrumlu Yem",
+      "code": "tr"
+    },
+    {
+      "description": "Ця ендохлор-діонієва суміш приваблює транслятку та спостережника — серворибу, яка трапляється в Долині Куль у ставках. Спостережник показується під час теплої погоди, а транслятка випливає лише під час холодної погоди, і лише в певних місцях.\n\nМожна придбати в Бізнеса у Фортуні (Венера).",
+      "name": "Приманка вузького застосування",
+      "code": "uk"
+    }
+  ]
+}

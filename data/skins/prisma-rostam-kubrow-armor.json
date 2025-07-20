@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/KubrowArmorPrisma",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-rostam-kubrow-armor-2b063dbb08.png",
+  "name": "Prisma Rostam Kubrow Armor",
+  "description": "A bold set of Kubrow armor coated in delicate Prisma crystals. ",
+  "languages": [
+    {
+      "description": "Ein kühner Satz Kubrow-Rüstungen, beschichtet mit filigranen Prisma-Kristallen. ",
+      "name": "Kubrow-Rüstung: Prisma Rostam",
+      "code": "de"
+    },
+    {
+      "description": "Une Armure audacieuse pour Kubrows, parée de délicats cristaux Prisma.",
+      "name": "Armure de Kubrow Prisma Rostam",
+      "code": "fr"
+    },
+    {
+      "description": "Un'audace set di armature Kubrow ricoperte da cristalli Prisma.",
+      "name": "Armatura Kubrow Rostam Prisma",
+      "code": "it"
+    },
+    {
+      "description": "정교한 프리즈마 크리스탈로 뒤덮여있는 대담한 쿠브로 아머 세트입니다.",
+      "name": "프리즈마 로스탐 쿠브로 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Un audaz conjunto de armadura kubrow cubierto en delicados cristales prisma.",
+      "name": "Armadura Rostam Prisma de kubrow",
+      "code": "es"
+    },
+    {
+      "description": "一组崭新大胆、用精致棱晶制成的库狛护甲。",
+      "name": "棱晶 洛斯塔姆库狛护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Набор броской, покрытой изысканными призматическими кристаллами брони для кубрау.",
+      "name": "Броня кубрау: Ростэм призма",
+      "code": "ru"
+    },
+    {
+      "description": "優雅なプリズマクリスタルでコーティングされた大胆なクブロウアーマーのセット。",
+      "name": "Prisma Rostam クブロウアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Śmiały zestaw zbroi Kubrowa pokryty delikatnymi kryształami Prisma.",
+      "name": "Kubrow: Zbroja Rostam Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Um conjunto robusto de uma Armadura de Kubrow revestida com Cristais Prisma.",
+      "name": "Armadura de Kubrow: Rostam Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "一組嶄新大膽、用精緻棱晶製成的庫狛護甲。",
+      "name": "棱晶洛斯塔姆庫狛護甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเกราะ Kubrow แบบหนาที่เคลือบด้วยคริสตัลพริสมาอย่างประณีต ",
+      "name": "เกราะ Prisma Rostam Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Prisma kristalleriyle kaplanmış cesur bir Kubrow zırh seti.",
+      "name": "Prisma Rostam Kubrow Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Сміливий набір обладунків для куброу, огорнутих витонченими призмовими кристалами. ",
+      "name": "Призмовий обладунок «Ростам» для куброу",
+      "code": "uk"
+    }
+  ]
+}

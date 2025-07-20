@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRetrorolystSyandana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/retrorolyst-syandana-7ab99f5e12.png",
+  "name": "Retrorolyst Syandana",
+  "description": "A syandana for your Warframe, designed by edwino22 and Erneix.",
+  "languages": [
+    {
+      "description": "Ein Syandana für deinen Warframe, entworfen von edwino22 und Erneix.",
+      "name": "Retrorolyst Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une Syandana pour votre Warframe, conçue par edwino22 et Erneix.",
+      "name": "Syandana Retrorolyst",
+      "code": "fr"
+    },
+    {
+      "description": "Una syandana per il tuo Warframe, ideata da edwino22 ed Erneix.",
+      "name": "Syandana Retrorolyst",
+      "code": "it"
+    },
+    {
+      "description": "edwino22와 Erneix에 의해 디자인된 워프레임을 위한 샨다나입니다.",
+      "name": "레트로롤리스트 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana para tu warframe, diseñada por edwino22 y Erneix.",
+      "name": "Syandana Retrorolyst",
+      "code": "es"
+    },
+    {
+      "description": "一件战甲所使用的披饰，由 edwino22 与 Erneix 设计。",
+      "name": "瑞拓使披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Сандана для вашего варфрейма, созданная edwino22 и Erneix.",
+      "name": "Сандана: Ретролист",
+      "code": "ru"
+    },
+    {
+      "description": "WARFRAME用のシャンダナ。製作者：edwino22＆Erneixn。",
+      "name": "Retrorolyst シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana dla Twojego Warframe'a, zaprojektowana przez edwino22 i Erneix.",
+      "name": "Syandana Retrorolyst",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana para o seu Warframe, desenvolvida por edwino22 e Erneix.",
+      "name": "Syandana: Retrorolyst",
+      "code": "pt"
+    },
+    {
+      "description": "一件給 Warframe 使用的披飾，由 edwino22 和 Erneix 設計。",
+      "name": "復古使披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาสำหรับ Warframe ของคุณ ออกแบบโดย edwino22 และ Erneix",
+      "name": "ไซอันดานา Retrorolyst",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'in için edwino22 ve Erneix tarafından tasarlanmış bir syandana.",
+      "name": "Retrorolyst Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Сяндана для ворфрейма, створена edwino22 and Erneix.",
+      "name": "Сяндана «Ретроролист»",
+      "code": "uk"
+    }
+  ]
+}

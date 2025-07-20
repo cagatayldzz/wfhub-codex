@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichMag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/conquest-07d4089cd7.png",
+  "name": "Conquest",
+  "description": "Unlocks a collection of colors favored by Kuva Liches.",
+  "languages": [
+    {
+      "description": "Schaltet eine Sammlung von Farben frei, bevorzugt von Kuva Lichs.",
+      "name": "Eroberung",
+      "code": "de"
+    },
+    {
+      "description": "Débloque une collection de couleurs de palettes prisées par les Liches Kuva.",
+      "name": "Conquête",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori prediletta dai Kuva Lich.",
+      "name": "Conquista",
+      "code": "it"
+    },
+    {
+      "description": "쿠바 리치들이 선호하는 색상을 잠금 해제합니다.",
+      "name": "컨퀘스트",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores inspirados por los Lich de Kuva.",
+      "name": "Conquista",
+      "code": "es"
+    },
+    {
+      "description": "解锁一组受到赤毒玄骸青睐的颜色包。",
+      "name": "征服",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует набор цветов, которыми пользуются Личи Кувы.",
+      "name": "Завоевание",
+      "code": "ru"
+    },
+    {
+      "description": "クバ・リッチが好むカラーパレットコレクションを解除する。",
+      "name": "Conquest",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw kolorów inspirowanych Liczami Kuvy.",
+      "name": "Podbój",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia uma coleção de cores inspiradas nos Lich de Kuva.",
+      "name": "Conquista",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖一系列赤毒巫妖所喜愛的顏色。",
+      "name": "征服",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกชุดสีที่ Kuva Lich ชื่นชอบ",
+      "name": "Conquest",
+      "code": "th"
+    },
+    {
+      "description": "Kuva Liches özellikli renk koleksiyonunu açar.",
+      "name": "Conquest",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, шанована кувовими лічами.",
+      "name": "Підкорення",
+      "code": "uk"
+    }
+  ]
+}

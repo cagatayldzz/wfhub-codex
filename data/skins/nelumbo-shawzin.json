@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropLotusMandolin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nelumbo-shawzin-5dbab6ff40.png",
+  "name": "Nelumbo Shawzin",
+  "description": "A sound like no other. Strum an ode to the Lotus with this unique sounding gold and violet Shawzin. Play this instrument by equipping and using the included Shawzin Emote.",
+  "languages": [
+    {
+      "description": "Ein Geräusch, wie kein anderes. Spiele ein Lied an die Lotus mit dieser einzigartig klingenden, goldenen und violetten Shawzin. Spiele das Instrument, indem du es ausrüstest und die enthaltene Shawzin-Emote benutzt.",
+      "name": "Shawzin: Nelumbo",
+      "code": "de"
+    },
+    {
+      "description": "Un son sans pareil. Lancez-vous pour une ode au Lotus avec ce Shawzin doré et violet. Jouez de cet instrument en l'équipant et en utilisant le Geste Shawzin inclus.",
+      "name": "Shawzin Nelumbo",
+      "code": "fr"
+    },
+    {
+      "description": "Un suono come nessun'altro. Strimpella un'ode a Lotus con questo Shawzin viola e oro. Suona questo strumento equipaggiando e utilizzando l'Emote Shawzin incluso.",
+      "name": "Shawzin Nelumbo",
+      "code": "it"
+    },
+    {
+      "description": "그 어느 것에도 비할 바 없는 소리. 이 특별한 음색을 지닌 금빛과 보랏빛의 샤진으로 로터스에게 노래를 헌정하세요. 이 악기를 사용하려면 함께 지급되는 샤진 감정표현을 장착 뒤 사용해보세요.",
+      "name": "닐럼보 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Un sonido como ningún otro. Rasguea una oda a Lotus con este Shawzin dorado y violeta. Toca este instrumento equipando y usando el gesto incluido del Shawzin.",
+      "name": "Shawzin Nelumbo",
+      "code": "es"
+    },
+    {
+      "description": "一种与众不同的声音。使用这把独特音响的金紫色的三线琴弹拨一首颂歌给 Lotus。装备并使用内含的三线琴表情符号来弹奏这把乐器。",
+      "name": "莲花三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Звук, ни на что не похожий. Исполните оду Лотос на этом, звучащем по-особенному золотом и фиолетовом Шазин. Играйте на этом инструменте, экипировав и используя входящий в комплект Жест Шазин.",
+      "name": "Шазин: Нелумбо",
+      "code": "ru"
+    },
+    {
+      "description": "他にはない音色を楽しもう。この金と紫のShawzinでLotusへのオードを奏でます。装備し含まれるShawzinエモートを使用して、この楽器を演奏しよう。",
+      "name": "Nelumbo Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Dźwięk jak żaden inny. Zagraj Odę do Lotus tą wyjątkowo brzmiącą, złoto-fioletową Shawzin. Zagraj na tym instrumencie, wyposażając go i używając dołączonego Gestu Shawzin.",
+      "name": "Shawzin Nelumbo",
+      "code": "pl"
+    },
+    {
+      "description": "Um som único. Toque uma ode à Lótus com este Shawzin único de cor violeta com dourado. Toque este instrumento equipando e usando o já incluído Emote Shawzin.",
+      "name": "Shawzin Nelumbo",
+      "code": "pt"
+    },
+    {
+      "description": "與眾不同的聲音。使用這把獨特音響的金紫色的三線琴彈撥一首頌歌給 Lotus。裝備並使用內含的三線琴表情符號來彈奏這把樂器。",
+      "name": "蓮花三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "เสียงที่ไม่เหมือนใคร ดีดบทกวีของ Lotus ด้วย Shawzin สีทองและสีม่วงที่เปล่งเสียงอันเป็นเอกลักษณ์ เล่นเครื่องดนตรีนี้โดยติดตั้งและใช้อิโมต Shawzin ที่ให้มา",
+      "name": "Nelumbo Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Benzersiz bir ses. Bu eşsiz altın ve mor Shawzin ile Lotus'a bir şarkı yazın. Bu enstrümanı ekte verilen Shawzin Emojisini kuşanıp kullanarak çalmaya başlayın.",
+      "name": "Nelumbo Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Золотий із ліловим шодзін, має неповторний звук, який просто надихає зіграти оду Лотос. Додайте шодзін у колесо жестів і застосуйте, щоб зіграти.",
+      "name": "Шодзін «Нелумбо»",
+      "code": "uk"
+    }
+  ]
+}

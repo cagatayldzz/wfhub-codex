@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hexenon-cd08831fa0.png",
+  "name": "Hexenon",
+  "description": "A reagent commonly used to produce highly combustible fuel.\n\nLocation: Jupiter",
+  "languages": [
+    {
+      "description": "Ein Reagenz, das üblicherweise dazu benutzt wird, hochexplosiven Treibstoff herzustellen.\n\nQuelle: Jupiter",
+      "name": "Hexenon",
+      "code": "de"
+    },
+    {
+      "description": "Un réactif couramment utilisé pour produire du carburant hautement combustible.\n\nLieu: Jupiter",
+      "name": "Hexenon",
+      "code": "fr"
+    },
+    {
+      "description": "Un reagente comunemente usato per produrre carburante altamente combustibile.\n\nPosizione: Giove",
+      "name": "Hexenon",
+      "code": "it"
+    },
+    {
+      "description": "가연성이 높은 연료를 생산하기 위해 흔히 사용되는 재료입니다.\n\n획득 가능 장소: 목성",
+      "name": "헥세논",
+      "code": "ko"
+    },
+    {
+      "description": "Un reactivo usado comúnmente para producir combustible altamente inflamable.\n\nUbicación: Júpiter",
+      "name": "Hexenon",
+      "code": "es"
+    },
+    {
+      "description": "一种通常用于生产超高可燃性燃料的试剂。\n\n获取地点：木星",
+      "name": "六醇燃剂",
+      "code": "zh"
+    },
+    {
+      "description": "Реагент, обычно используемый для получения высокогорючего топлива.\n\nМестонахождение: Юпитер",
+      "name": "Гексенон",
+      "code": "ru"
+    },
+    {
+      "description": "可燃性の高い燃料を作る際によく使用される試薬。 \n\n場所：木星",
+      "name": "ヘキセノン",
+      "code": "ja"
+    },
+    {
+      "description": "Odczynnik często używany do wytwarzania łatwopalnego paliwa.\n\nPołożenie: Jowisz",
+      "name": "Heksenon",
+      "code": "pl"
+    },
+    {
+      "description": "Um reagente utilizado com frequência na produção de combustíveis altamente inflamáveis.\n\nLocalização: Júpiter.",
+      "name": "Hexeno",
+      "code": "pt"
+    },
+    {
+      "description": "一種通常用於生產超高可燃性燃料的試劑。\n\n地點：木星",
+      "name": "六醇燃劑",
+      "code": "tc"
+    },
+    {
+      "description": "สารเคมีที่ใช้ในห้องปฏิบัติการสำหรับผลิตเชื้อเพลิงที่ติดไฟสูง\n\nแหล่งที่พบ: ดาวพฤหัสบดี",
+      "name": "เฮกซีนอน",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek dereceli yakıt üretmek için sıkça kullanılan bir reaktif.\n\nKonum: Jüpiter",
+      "name": "Hexenon",
+      "code": "tr"
+    },
+    {
+      "description": "Реагент, що зазвичай використовують для виробництва легкозаймистого пального.\n\nМожна здобути на Юпітері.",
+      "name": "Гексенон",
+      "code": "uk"
+    }
+  ]
+}

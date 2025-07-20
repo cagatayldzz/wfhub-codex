@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstHaulingBalloonD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reclamator-balloon-087ccad0c4.png",
+  "name": "Reclamator Balloon",
+  "description": "One of Cetus' signature sights, in miniature.",
+  "languages": [
+    {
+      "description": "Eine kleine Version von einer typischen Sehenswürdigkeit in Cetus.",
+      "name": "Reclamator-Ballon",
+      "code": "de"
+    },
+    {
+      "description": "Un des éléments typiques de Cetus, en miniature.",
+      "name": "Ballon Réclamateur",
+      "code": "fr"
+    },
+    {
+      "description": "Uno degli spettacoli caratteristici di Cetus, in miniatura.",
+      "name": "Reclamator Balloon",
+      "code": "it"
+    },
+    {
+      "description": "시터스의 명물 중 하나를 미니어처로 만든 특산품입니다.",
+      "name": "개척자 기구",
+      "code": "ko"
+    },
+    {
+      "description": "Una de las famosas vistas de Cetus, en miniatura.",
+      "name": "Globo reclamador",
+      "code": "es"
+    },
+    {
+      "description": "缩小的希图斯标志性景象之一。",
+      "name": "回收者气球",
+      "code": "zh"
+    },
+    {
+      "description": "Одна из достопримечательностей Цетуса - в миниатюре.",
+      "name": "Рекламационный воздушный шар",
+      "code": "ru"
+    },
+    {
+      "description": "シータスの著名な名所の1つのミニチュア版。",
+      "name": "Reclamator バルーン",
+      "code": "ja"
+    },
+    {
+      "description": "Jeden z zabytków Cetus, w miniaturze.",
+      "name": "Balon Pozyskiwaczy",
+      "code": "pl"
+    },
+    {
+      "description": "Um objeto tradicional de Cetus, em miniatura.",
+      "name": "Balão Reclamador",
+      "code": "pt"
+    },
+    {
+      "description": "縮小的希圖斯標誌性景象之一。",
+      "name": "開墾者氣球",
+      "code": "tc"
+    },
+    {
+      "description": "หนึ่งในสิ่งที่เห็นได้ทั่วไปในซีตัส ในขนาดย่อส่วน",
+      "name": "บอลลูน Reclamator",
+      "code": "th"
+    },
+    {
+      "description": "Cetus'un temsili bir görüntüsü, minyatür şeklinde.",
+      "name": "Reclamator Balloon",
+      "code": "tr"
+    },
+    {
+      "description": "Зменшена копія однієї з визначних пам’яток Цетусу.",
+      "name": "Куля збирача",
+      "code": "uk"
+    }
+  ]
+}

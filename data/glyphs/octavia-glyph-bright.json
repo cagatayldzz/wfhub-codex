@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOctaviaBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia-glyph---bright-2a46b96fc6.png",
+  "name": "Octavia Glyph - Bright",
+  "description": "A glyph depicting Octavia on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Octavia vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Octavia (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Octavia sur fond lumineux.",
+      "name": "Glyphe Octavia - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Octavia su uno sfondo chiaro.",
+      "name": "Glifo Octavia - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 옥타비아를 묘사한 글리프입니다.",
+      "name": "옥타비아 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Octavia sobre un fondo brillante.",
+      "name": "Glifo de Octavia - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Octavia 在明亮背景下的浮印。",
+      "name": "Octavia 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Октавии на светлом фоне.",
+      "name": "Глиф: Октавия - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたOctaviaのグリフ。",
+      "name": "Octavia グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Octavia na jasnym tle.",
+      "name": "Glif Octavia — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Octavia em um fundo claro.",
+      "name": "Glifo: Octavia (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Octavia 在明亮背景下的浮印。",
+      "name": "Octavia 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Octavia บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Octavia - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Octavia açık fonlu glif.",
+      "name": "Octavia Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Октавії на світлому тлі.",
+      "name": "Яскравий гліф «Октавія»",
+      "code": "uk"
+    }
+  ]
+}

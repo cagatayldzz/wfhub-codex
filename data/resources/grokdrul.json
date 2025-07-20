@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grokdrul-1753a06746.png",
+  "name": "Grokdrul",
+  "description": "A noxious mix of polysaccharides and long-chain polymers, Grokdrul is a standard chemical used in Grineer manufacturing.\n\nLocation: Plains of Eidolon on Earth",
+  "languages": [
+    {
+      "description": "Als schädliche Mischung aus Polysacchariden und langkettigen Polymeren, ist Grokdrul eine Chemikalie, die standardmäßig in der Grineer Produktion verwendet wird.\n\nQuelle: Ebenen von Eidolon auf der Erde",
+      "name": "Grokdrul",
+      "code": "de"
+    },
+    {
+      "description": "Un mélange nocif de polysaccharides avec des polymères à longues chaînes, le Grokdrul est un produit chimique standard utilisé dans les productions Grineers.\n\nLieu: Plaines d'Eidolon, sur Terre",
+      "name": "Grokdrul",
+      "code": "fr"
+    },
+    {
+      "description": "Un miscuglio nocivo di polisaccaderi e polimeri a catena lunga, il Grokdrul è uno standard chimico utilizzato nella produzione Grineer.\n\nPosizione: Piane di Eidolon (Terra)",
+      "name": "Grokdrul",
+      "code": "it"
+    },
+    {
+      "description": "다당류와 고분자 중합체의 유해한 화합물인 그록드룰은 그리니어 제조산업에서 전반적으로 사용되는 화학물질입니다.\n\n획득 가능 장소: 지구 내 아이돌론의 평원",
+      "name": "그록드룰",
+      "code": "ko"
+    },
+    {
+      "description": "Una mezcla tóxica de polisacáridos y polímeros de cadena larga, el Grokdul es un químico estándar usado en la fabricación grineer.\n\nUbicación: Llanuras de Eidolon en la Tierra",
+      "name": "Grokdrul",
+      "code": "es"
+    },
+    {
+      "description": "多醣类与长链聚合物的有毒混合物，葛克度是标准的 Grineer 工业化学材料。\n\n获取地点：夜灵平野（地球）",
+      "name": "葛克度",
+      "code": "zh"
+    },
+    {
+      "description": "Токсичная смесь из полисахаридов и многоцепных полимеров, Грокдрул - это стандартный химикат, применяемый Гринир в своих технологиях.\n\nМеста нахождения: Равнины Эйдолона (Земля)",
+      "name": "Грокдрул",
+      "code": "ru"
+    },
+    {
+      "description": "多糖類と長鎖高分子体の有害な化合物であるグロクドロルはグリニアの製造業で一般的に使われる化学薬品。\n\n場所：エイドロンの草原（地球）",
+      "name": "グロクドロル",
+      "code": "ja"
+    },
+    {
+      "description": "Ohydna mieszanka polisacharydów i długo-łańcuchowych polimerów, Grokdrul jest podstawowym substratem używanym w produkcji Grineer.\n\nPołożenie: Równiny Eidolon, Ziemia",
+      "name": "Grokdrul",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mistura nociva de polissacarídios e polímeros de cadeia longa, o Grokdrul é um produto químico padrão usado na fabricação Grineer.\n\nLocalização: Planícies de Eidolon, na Terra.",
+      "name": "Grokdrul",
+      "code": "pt"
+    },
+    {
+      "description": "葛克度是多醣類與長鏈聚合物的有毒混合物，為標準的 Grineer 工業化學材料。\n\n地點：夜靈平野（地球）",
+      "name": "葛克度",
+      "code": "tc"
+    },
+    {
+      "description": "โกรกดรุลเป็นสารเคมีมาตรฐานที่ Grineer นำไปใช้ในกระบวนการผลิต ซึ่งเป็นส่วนผสมของโพลีแซ็กคาไรด์และโพลีเมอร์สายยาวที่เป็นพิษ\n\nแหล่งที่พบ: ที่ราบ Eidolon บนโลก",
+      "name": "โกรกดรุล",
+      "code": "th"
+    },
+    {
+      "description": "Tehlikeli bir polisakkarit ve uzun zincirli polimerlerin zehirli bir karışımı olan Grokdrul, Grineer üretimindeki sıradan bir kimyasaldır.\n\nKonum: Eidolon Ovaları, Dünya",
+      "name": "Grokdrul",
+      "code": "tr"
+    },
+    {
+      "description": "Ґрокдрул — шкідлива суміш полісахаридів і довголанцюгових полімерів — стандартна хімічна речовина, яку ґрінери використовують у виробництві.\n\nМожна здобути на Рівнинах Ейдолонів (Земля).",
+      "name": "Ґрокдрул",
+      "code": "uk"
+    }
+  ]
+}

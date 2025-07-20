@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/KubrowPetCollarItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nai-zhen-kubrow-collar-4963591619.png",
+  "name": "Nai-Zhen Kubrow Collar",
+  "description": "Records the genetic memory and DNA sequence of a Kubrow, allowing it to be reconstructed in the Incubator.",
+  "languages": [
+    {
+      "description": "Zeichnet das genetische Gedächtnis und die DNA-Sequenz eines Kubrow auf und erlaubt, diese im Inkubator zu rekonstruieren.",
+      "name": "Kubrow-Halsband: Nai-Zhen",
+      "code": "de"
+    },
+    {
+      "description": "Enregistre la mémoire génétique ainsi que la séquence d'ADN d'un Kubrow, permettant sa reconstruction dans un Incubateur.",
+      "name": "Collier Kubrow Nai-Zhen",
+      "code": "fr"
+    },
+    {
+      "description": "Registra la memoria genetica e la sequenza del DNA di un Kubrow, permettendo così che possa essere riprodotto nell'Incubatrice.",
+      "name": "Collare Kubrow Nai-Zhen",
+      "code": "it"
+    },
+    {
+      "description": "쿠브로의 유전 기억과 DNA 순서를 기록하여 인큐베이터에서 다시 재구성 할 수 있도록 만듭니다.",
+      "name": "나이-젠 쿠브로 칼라",
+      "code": "ko"
+    },
+    {
+      "description": "Registra la memoria genética y la secuencia del ADN de un kubrow, lo que le permite ser reconstruido en el SEGMENTO DE INCUBADORA.",
+      "name": "Collar Nai-Zhen de kubrow",
+      "code": "es"
+    },
+    {
+      "description": "记录一只库狛的遗传记忆与DNA序列，使它能够在基因实验室中被重建。",
+      "name": "Nai-Zhen 库狛项圈",
+      "code": "zh"
+    },
+    {
+      "description": "Записывает генетическую память и последовательность ДНК кубрау, позволяя воспроизвести их в инкубаторе.",
+      "name": "Ошейник кубрау: Най-Жен",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウの遺伝子記憶とDNA序列を記録し、孵化器モジュールで再構成することができます。",
+      "name": "Nai-Zhen クブロウチョーカー",
+      "code": "ja"
+    },
+    {
+      "description": "Zapisuje pamięć genetyczną i sekwencję DNA Kubrowa, pozwalając na jego odtworzenie w INKUBATORZE.",
+      "name": "Kubrow: Obroża Nai-Zhen",
+      "code": "pl"
+    },
+    {
+      "description": "Grava a memória genética e sequência de DNA de um Kubrow, permitindo ela ser reconstruída no SEGMENTO DE INCUBAÇÃO.",
+      "name": "Nai-Zhen: Coleira Kubrow",
+      "code": "pt"
+    },
+    {
+      "description": "記錄一隻庫狛的遺傳記憶與DNA序列，使它能夠在基因實驗室中被重建。",
+      "name": "奈珍庫狛項圈",
+      "code": "tc"
+    },
+    {
+      "description": "บันทึกหน่วยความจำทางพันธุกรรมและลำดับ DNA ของ Kubrow เพื่อช่วยให้สร้างขึ้นมาใหม่ในเครื่องฟักไข่ได้",
+      "name": "ปลอกคอ Nai-Zhen Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow'un DNA yapısını ve içeriğini kayıt eder, bu şekilde INCUBATOR SEGMENT'da tekrar yapılabilmesini sağlar.",
+      "name": "Nai-Zhen Kubrow Tasması",
+      "code": "tr"
+    },
+    {
+      "description": "Зберігає генетичну пам’ять та послідовності ДНК куброу, дозволяючи відтворити їх в інкубаторі.",
+      "name": "Нашийник «Най Джень» для куброу",
+      "code": "uk"
+    }
+  ]
+}

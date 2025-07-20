@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/BragEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/boast-7de1289747.png",
+  "name": "Boast",
+  "description": "A celebratory display.",
+  "languages": [
+    {
+      "description": "Eine feierliche Vorführung.",
+      "name": "Prahlen",
+      "code": "de"
+    },
+    {
+      "description": "Une façon de montrer sa fierté.",
+      "name": "Fanfaronner",
+      "code": "fr"
+    },
+    {
+      "description": "Una dimostrazione di celebrazione.",
+      "name": "Vanto",
+      "code": "it"
+    },
+    {
+      "description": "자랑을 위한 동작입니다.",
+      "name": "뽐내기",
+      "code": "ko"
+    },
+    {
+      "description": "Una exhibición triunfal.",
+      "name": "Alardear",
+      "code": "es"
+    },
+    {
+      "description": "表示庆祝。",
+      "name": "吹嘘",
+      "code": "zh"
+    },
+    {
+      "description": "Показать всем свои достижения.",
+      "name": "Хвастовство",
+      "code": "ru"
+    },
+    {
+      "description": "誇らしい表情。",
+      "name": "自慢",
+      "code": "ja"
+    },
+    {
+      "description": "Pokaz radości.",
+      "name": "Przechwałka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma exibição comemorativa",
+      "name": "Vangloriar",
+      "code": "pt"
+    },
+    {
+      "description": "表示慶祝。",
+      "name": "吹噓",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงท่าทางโอ้อวดด้วยความภูมิใจ",
+      "name": "โม้",
+      "code": "th"
+    },
+    {
+      "description": "Kutlama görüntüsü.",
+      "name": "Böbürlenme",
+      "code": "tr"
+    },
+    {
+      "description": "Рух перемоги.",
+      "name": "Хвастощі",
+      "code": "uk"
+    }
+  ]
+}

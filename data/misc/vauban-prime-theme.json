@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-prime-theme-0d5e1505e5.png",
+  "name": "Vauban Prime Theme",
+  "description": "Vauban Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Vauban Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Vauban Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique de Vauban Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Vauban Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Vauban Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Vauban Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 바우반 프라임의 대표 테마곡입니다.",
+      "name": "바우반 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Vauban Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Vauban Prime",
+      "code": "es"
+    },
+    {
+      "description": "Vauban Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Vauban Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Вобана Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Вобан Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるVauban Primeのテーマ曲。",
+      "name": "Vauban Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Vaubana Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Vauban Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional do Vauban Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Vauban Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Vauban Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Vauban Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Vauban Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Vauban Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Vauban Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Vauban Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Вобана-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Вобана-прайм",
+      "code": "uk"
+    }
+  ]
+}

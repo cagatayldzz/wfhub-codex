@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-prime-glyph---dark-ce025645a8.png",
+  "name": "Ember Prime Glyph - Dark",
+  "description": "A glyph depicting Ember Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ember Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Ember Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ember Prime sur un fond sombre.",
+      "name": "Glyphe Ember Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ember Prime su uno sfondo scuro.",
+      "name": "Glifo Ember Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 엠버 프라임을 묘사한 글리프입니다.",
+      "name": "엠버 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ember Prime sobre un fondo oscuro.",
+      "name": "Glifo de Ember Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Ember Prime 在黑暗背景下的浮印。",
+      "name": "Ember Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эмбер Прайм на тёмном фоне.",
+      "name": "Глиф: Эмбер Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Ember Prime のグリフ。",
+      "name": "Ember Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Ember Prime na ciemnym tle.",
+      "name": "Glif Ember Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Ember Prime em um fundo escuro.",
+      "name": "Glifo: Ember Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ember Prime 在黑暗背景下的浮印。",
+      "name": "Ember Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Ember Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Ember Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Ember Prime koyu fonlu glif.",
+      "name": "Ember Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ембер-прайм на темному тлі.",
+      "name": "Темний гліф «Ембер-прайм»",
+      "code": "uk"
+    }
+  ]
+}

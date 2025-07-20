@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilFalseProfit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/false-profit-sigil-ecb561bf26.png",
+  "name": "False Profit Sigil",
+  "description": "This sigil commemorates the Tenno victory over the machinations of Nef Anyo.",
+  "languages": [
+    {
+      "description": "Dieses Siegel gedenkt des Triumphes der Tenno über Nef Anyo's Machenschaften.",
+      "name": "Siegel: Falscher Profit",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau commémore la victoire des Tennos contre la machination de Nef Anyo.",
+      "name": "Sceau de Faux Profit",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo celebra la vittoria dei Tenno sulle macchinazioni di Nef Anyo.",
+      "name": "Sigillo False Profit",
+      "code": "it"
+    },
+    {
+      "description": "네프 엔요의 술책에 대항한 텐노의 승리를 기념하기 위한 시질",
+      "name": "폴스 프로핏 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello conmemora la victoria de los tenno sobre las maquinaciones de Nef Anyo.",
+      "name": "Sello de Falso beneficio",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章纪念 Tenno 战胜了奈富·安尤的阴谋。",
+      "name": "变造利益行动纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил в память победы Тэнно над махинациями Нефа Эньо.",
+      "name": "Сигил: Ложная Прибыль",
+      "code": "ru"
+    },
+    {
+      "description": "Nef Anyoの陰謀を阻止することに成功した記念に贈られたシジル。",
+      "name": "偽りの資産シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten znak upamiętnia udaremnienie machinacji Nefa Anyo przez Tenno.",
+      "name": "Znak Fałszywego Zysku",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão comemora a vitória dos Tennos sobre as maquinações de Nef Anyo.",
+      "name": "Brasão: Lucro Falso",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章紀念 Tenno 戰勝了 Nef Anyo 的陰謀。",
+      "name": "變造利益行動紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้เป็นการระลึกถึงชัยชนะของ Tenno เหนือเพทุบายของ Nef Anyo",
+      "name": "เครื่องหมาย: False Profit",
+      "code": "th"
+    },
+    {
+      "description": "Tenno'nun Nef Anyo karşısındaki zaferini gösteren bir Mühür",
+      "name": "False Profit Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про перемогу тенно над махінаціями Нефа Аньйо.",
+      "name": "Сиґіл «Псевдоприбуток»",
+      "code": "uk"
+    }
+  ]
+}

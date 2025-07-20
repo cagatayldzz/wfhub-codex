@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/ConclaveCape",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/celestia-syandana-f992770964.png",
+  "name": "Celestia Syandana",
+  "description": "Displays Daily and Weekly Conclave Challenge and Mission progress, with a beam of light for each completed challenge or mission.",
+  "languages": [
+    {
+      "description": "Zeigt täglichen & wöchentlichen Fortschritt für Conclave-Herausforderung sowie Missionen, mit einem Lichtkegel für jede abgeschlossene Herausforderung.",
+      "name": "Celestia Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Affiche votre progression en Mission et dans les Défis Journaliers et Hebdomadaires de Conclave avec un rayon de lumière pour chaque mission ou défi terminé.",
+      "name": "Syandana Celestia",
+      "code": "fr"
+    },
+    {
+      "description": "Visualizza i progressi delle Sfide Conclave Giornaliere ed i progressi delle Missioni con un raggio di luce per ogni sfida o missione completata.",
+      "name": "Syandana Celestia",
+      "code": "it"
+    },
+    {
+      "description": "각 콘클레이브 일일 및 주간 도전 과제를 완료할 때마다 빛줄기를 내뿜어 도전 과제의 달성도를 표시해 줍니다.",
+      "name": "셀레스티아 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra el progreso de desafíos diarios y semanales del Cónclave y misiones en progreso, con un destello de luz por cada desafío o misión completada.",
+      "name": "Syandana Celestia",
+      "code": "es"
+    },
+    {
+      "description": "能够在每天和每周显示武形秘仪挑战和任务进程，每完成一项挑战或任务便会点亮一道光。",
+      "name": "天文披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Отображает прогресс в ежедневных и еженедельных испытаниях конклава и прогрессе миссий — за каждое выполненное испытание или миссию загорается новый луч света.",
+      "name": "Сандана: Целестия",
+      "code": "ru"
+    },
+    {
+      "description": "コンクレーブデイリーチャレンジやウイークリーチャレンジ、ミッションの各進捗状況を光の束で表す。",
+      "name": "Celestia シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Ukazuje postęp Dziennych i Tygodniowych Wyzwań Konklawe, wraz z progresją misji, rozbłyskiem światła, po każdym wykonanym zadaniu.",
+      "name": "Syandana Celestia",
+      "code": "pl"
+    },
+    {
+      "description": "Mostra o progresso dos Desafios e das Missões Diárias e Semanais de Conclave com um feixe de luz em cada um dos concluídos.",
+      "name": "Syandana: Celestia",
+      "code": "pt"
+    },
+    {
+      "description": "能夠在每天和每週顯示武形秘儀挑戰和任務進程，每完成一項挑戰或任務便會點亮一道光。",
+      "name": "天文披飾",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความคืบหน้าของภารกิจและความท้าทายในคอนเคลฟรายวันและรายสัปดาห์ และทุกครั้งที่สำเร็จภารกิจหรือความท้าทายก็จะมีลำแสงเปล่งออกมา",
+      "name": "ไซอันดานา Celestia",
+      "code": "th"
+    },
+    {
+      "description": "Günlük ve Haftalık Conclave meydan okuma ve Görev süreci ekranınızda tamamlanmış olanlar parlak olacak şekilde gösterilir.",
+      "name": "Celestia Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Кожне виконане завдання чи випробування запалює новий струмінь полум’я. Зображає щоденний та щотижневий поступ звичайних завдань та випробовувань Конклаву.",
+      "name": "Сяндана «Целеста»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/PickUps/Nightwave/CephalonFissureTimePointItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cephalite-resonance-2efe79d84b.png",
+  "name": "Cephalite Resonance",
+  "description": "Cephalite Resonance used to enter the Glassmaker's Weave",
+  "languages": [
+    {
+      "description": "Cephaliten-Resonanz, mit der man das Glas-Weave des Glasmachers betreten kann",
+      "name": "Cephaliten-Resonanz",
+      "code": "de"
+    },
+    {
+      "description": "Résonance de Céphalite utilisée pour entrer dans le Tissage du Chagall",
+      "name": "Résonance de Céphalite",
+      "code": "fr"
+    },
+    {
+      "description": "Risonanza Cephalite utilizzata per entrare nella Rete del Vetraio",
+      "name": "Risonanza Cephalite",
+      "code": "it"
+    },
+    {
+      "description": "글래스메이커의 타래에 들어가는 데 사용되는 세팔라이트 공명입니다.",
+      "name": "세팔라이트 공명",
+      "code": "ko"
+    },
+    {
+      "description": "Resonancia de cefalito usada para entrar al tejido del Artesano de Cristal",
+      "name": "Resonancia de cefalito",
+      "code": "es"
+    },
+    {
+      "description": "被用于进入玻璃匠织网的中枢人共鸣",
+      "name": "中枢人共鸣",
+      "code": "zh"
+    },
+    {
+      "description": "Резонанс Цефалита, необходимый для входа в Сплетение Стеклодува.",
+      "name": "Резонанс Цефалита",
+      "code": "ru"
+    },
+    {
+      "description": "グラスメイカーの集合体に入り込むのに使われるセファライトの共鳴",
+      "name": "セファライトの共鳴",
+      "code": "ja"
+    },
+    {
+      "description": "Rezonans Cefalitów używany do wejścia do Strumienia Danych Szklarza",
+      "name": "Rezonans Cefalitów",
+      "code": "pl"
+    },
+    {
+      "description": "Ressonância Cefalita, utilizada para entrar na Trama do Vidraceiro",
+      "name": "Ressonância Cefalita",
+      "code": "pt"
+    },
+    {
+      "description": "中樞人共鳴可用來進入玻璃工匠的織網",
+      "name": "中樞人共鳴",
+      "code": "tc"
+    },
+    {
+      "description": "เสียงสะท้อนของเซฟาไลต์ที่ใช้ในการเข้าสู่เครือข่ายข้อมูลของช่างทำแก้ว",
+      "name": "เสียงสะท้อนของเซฟาไลต์",
+      "code": "th"
+    },
+    {
+      "description": "Cephalite Renozansı Glassmaker'ın Sarmalına girmek için kullanılır",
+      "name": "Cephalite Rezonansı",
+      "code": "tr"
+    },
+    {
+      "description": "Резонанс цефалітів потрібен, щоб увійти до мережі Скляра",
+      "name": "Резонанс цефалітів",
+      "code": "uk"
+    }
+  ]
+}

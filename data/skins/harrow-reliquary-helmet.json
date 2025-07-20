@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Priest/HarrowDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/harrow-reliquary-helmet-eee6979827.png",
+  "name": "Harrow Reliquary Helmet",
+  "description": "Harrow Reliquary's signature helmet.",
+  "languages": [
+    {
+      "description": "Harrow Reliquarys bevorzugter Helm.",
+      "name": "Harrow-Helm: Reliquary",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque préféré de Harrow Reliquaire.",
+      "name": "Casque Harrow Reliquaire",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Harrow Reliquary.",
+      "name": "Elmo Harrow Reliquary",
+      "code": "it"
+    },
+    {
+      "description": "해로우 렐리쿼리의 대표 헬멧입니다.",
+      "name": "해로우 렐리쿼리 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Harrow Relicario.",
+      "name": "Casco Relicario de Harrow",
+      "code": "es"
+    },
+    {
+      "description": "Harrow 圣骨匣的标致性头盔。",
+      "name": "Harrow 圣骨匣头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Харроу «Реликварий».",
+      "name": "Шлем Харроу: Реликварий",
+      "code": "ru"
+    },
+    {
+      "description": "Harrow Reliquaryのメインヘルメット。",
+      "name": "Harrow Reliquary ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Relikwiarza Harrowa.",
+      "name": "Harrow: Hełm Relikwiarza",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Harrow Reliquary.",
+      "name": "Harrow: Capacete Reliquary",
+      "code": "pt"
+    },
+    {
+      "description": "Harrow 聖物匣的標誌性頭盔。",
+      "name": "Harrow 聖物匣頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Harrow Reliquary",
+      "name": "หมวกเหล็ก Harrow Reliquary",
+      "code": "th"
+    },
+    {
+      "description": "Harrow Reliquary'nın özel miğferi.",
+      "name": "Harrow Reliquary Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Релікварій» для Гарроу.",
+      "name": "Шолом «Релікварій» для Гарроу",
+      "code": "uk"
+    }
+  ]
+}

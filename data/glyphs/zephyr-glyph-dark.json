@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-glyph---dark-0872414e04.png",
+  "name": "Zephyr Glyph - Dark",
+  "description": "A glyph depicting Zephyr on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Zephyr vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Zephyr (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Zephyr sur un fond sombre.",
+      "name": "Glyphe Zephyr - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Zephyr su uno sfondo scuro.",
+      "name": "Glifo Zephyr - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 제피르를 묘사한 글리프입니다.",
+      "name": "제피르 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Zephyr sobre un fondo oscuro.",
+      "name": "Glifo de Zephyr - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 在黑暗背景下的浮印。",
+      "name": "Zephyr 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Зефир на тёмном фоне.",
+      "name": "Глиф: Зефир - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたZephyrのグリフ。",
+      "name": "Zephyr グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Zephyr na ciemnym tle.",
+      "name": "Glif Zephyr — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Zephyr em um fundo escuro.",
+      "name": "Glifo: Zephyr (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Zephyr 在黑暗背景下的浮印。",
+      "name": "Zephyr 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Zephyr บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Zephyr - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr koyu fonlu glif.",
+      "name": "Zephyr Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зефіри на темному тлі.",
+      "name": "Темний гліф «Зефіра»",
+      "code": "uk"
+    }
+  ]
+}

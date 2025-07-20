@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4OneYearSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cycle-one-sigil-7db06fa48b.png",
+  "name": "Cycle One Sigil",
+  "description": "Commemorates the Tenno who have honored the Lotus for one cycle.",
+  "languages": [
+    {
+      "description": "Zur Feier der Tenno, die der Lotus für einen Zyklus ihre Ehre erwiesen haben.",
+      "name": "Siegel: Zyklus Eins",
+      "code": "de"
+    },
+    {
+      "description": "Rend hommage aux Tennos qui ont honoré le Lotus pendant un cycle.",
+      "name": "Sceau du Premier Cycle",
+      "code": "fr"
+    },
+    {
+      "description": "Commemora i Tenno che hanno reso onore a Lotus per un ciclo.",
+      "name": "Sigillo Primo Ciclo",
+      "code": "it"
+    },
+    {
+      "description": "한 번의 주기동안 로터스를 명예롭게 했던 텐노에게 수여되는 기념품입니다.",
+      "name": "싸이클 원 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Conmemora a los tenno quienes han honrado a Lotus durante un ciclo.",
+      "name": "Sello del Primer Ciclo",
+      "code": "es"
+    },
+    {
+      "description": "以此纹章特別纪念已经为 Lotus 付出一周年的 Tenno。",
+      "name": "一周年纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак для Тэнно, восславляющего Лотос на протяжении одного цикла.",
+      "name": "Сигил: Первый Цикл",
+      "code": "ru"
+    },
+    {
+      "description": "1周年もの時をLotusを敬うテンノを祝して。",
+      "name": "Cycle One シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Reprezentuje Tenno którzy walczyli dla Lotus przez jeden cykl.",
+      "name": "Znak Pierwszego Cyklu",
+      "code": "pl"
+    },
+    {
+      "description": "Homenageia os Tennos que honraram a Lótus durante um ciclo.",
+      "name": "Brasão: Primeiro Ciclo",
+      "code": "pt"
+    },
+    {
+      "description": "以此紋章特別紀念 Tenno 已經為 Lotus 獻身付出一週年。",
+      "name": "一周年紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นอนุสรณ์แก่ Tenno ผู้นำเกียรติมาสู่ Lotus มาเป็นเวลาครบหนึ่งรอบแล้ว",
+      "name": "เครื่องหมาย: Cycle One",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'u bir yıldır onurlandıran Tenno'lara adanmıştır.",
+      "name": "Birinci Yıl Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Присвячується пам’яті тих тенно, що шанували Лотос упродовж першого циклу.",
+      "name": "Сиґіл «Перший цикл»",
+      "code": "uk"
+    }
+  ]
+}

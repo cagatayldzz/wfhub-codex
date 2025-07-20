@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-glyph---bright-09c4bd8aad.png",
+  "name": "Vauban Glyph - Bright",
+  "description": "A glyph depicting Vauban on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Vauban vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Vauban (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Vauban sur un fond lumineux.",
+      "name": "Glyphe Vauban - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Vauban su uno sfondo chiaro.",
+      "name": "Glifo Vauban - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 바우반을 묘사한 글리프입니다.",
+      "name": "바우반 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Vauban sobre un fondo brillante.",
+      "name": "Glifo de Vauban - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 在明亮背景下的浮印。",
+      "name": "Vauban 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вобана на светлом фоне.",
+      "name": "Глиф: Вобан — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Vauban のグリフ。",
+      "name": "Vauban グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Vauban na jasnym tle.",
+      "name": "Glif Vauban — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Vauban em um fundo claro.",
+      "name": "Glifo: Vauban (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Vauban 在明亮背景下的浮印。",
+      "name": "Vauban 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Vauban บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Vauban - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Vauban açık fonlu glif.",
+      "name": "Vauban Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вобана на світлому тлі.",
+      "name": "Яскравий гліф «Вобан»",
+      "code": "uk"
+    }
+  ]
+}

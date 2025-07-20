@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Characters/Tenno/Accessory/Scarves/PrimeScarfD/Cloth/PrimeScarfDItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cycuta-prime-syandana-c69196cfc7.png",
+  "name": "Cycuta Prime Syandana",
+  "description": "An ancient Syandana worn during Tenno purification meditation.",
+  "languages": [
+    {
+      "description": "Ein antikes Syandana, das während der Tenno Reinigungsmeditation getragen wurde.",
+      "name": "Cycuta Prime Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une ancienne Syandana, portée lors de méditations purificatrices Tennos.",
+      "name": "Syandana Cycuta Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Un'antica Syandana indossata dai Tenno durante la meditazione purificatrice.",
+      "name": "Syandana Cycuta Prime",
+      "code": "it"
+    },
+    {
+      "description": "텐노들의 정화 묵상 중 착용되었던 고대의 샨다나입니다.",
+      "name": "시큐타 프라임 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana antigua utilizada durante la meditación de purificación tenno.",
+      "name": "Syandana Cycuta Prime",
+      "code": "es"
+    },
+    {
+      "description": "Tenno 在仲裁仪式时所佩戴的一件古老的披饰。",
+      "name": "毒芹 Prime 披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Древняя сандана, носимая Тэнно во время очищающих медитаций.",
+      "name": "Сандана: Сикута Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "テンノが清めの瞑想を行う際に着用するいにしえのシャンダナ。",
+      "name": "Cycuta Prime シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Pradawna Syandana noszona przez Tenno podczas oczyszczającej medytacji.",
+      "name": "Syandana Cykuta Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana antiga usada na meditação de purificação dos Tennos.",
+      "name": "Syandana: Cycuta Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Tenno 在仲裁儀式時所佩戴的一件古老的披飾。",
+      "name": "毒芹 Prime 披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาโบราณที่สวมใส่ในระหว่างการทำสมาธิให้บริสุทธิ์ของ Tenno",
+      "name": "ไซอันดานา Cycuta Prime",
+      "code": "th"
+    },
+    {
+      "description": "Tenno meditasyonlarında giyilen kadim bir syandana",
+      "name": "Cycuta Prime Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Прадавня реліквія, яку вдягали тенно під час медитацій очищення.",
+      "name": "Сяндана «Цикута-прайм»",
+      "code": "uk"
+    }
+  ]
+}

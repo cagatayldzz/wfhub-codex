@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Devourer/DevourerAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-glutt-helmet-6dbc3308c8.png",
+  "name": "Grendel Glutt Helmet",
+  "description": "Dinner is served. An iconic helmet for Grendel.",
+  "languages": [
+    {
+      "description": "Das Abendessen ist angerichtet. Ein einzigartiger Helm für Grendel.",
+      "name": "Grendel-Helm: Glutt",
+      "code": "de"
+    },
+    {
+      "description": "À table. Un Casque emblématique pour Grendel.",
+      "name": "Casque Grendel Glutt",
+      "code": "fr"
+    },
+    {
+      "description": "La cena è servita. Un iconico elmo per Grendel.",
+      "name": "Elmo Grendel Glutt",
+      "code": "it"
+    },
+    {
+      "description": "만찬이 준비되었습니다. 그렌델의 상징적인 헬멧입니다.",
+      "name": "그렌델 글러트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "La cena está servida. Un casco icónico para Grendel.",
+      "name": "Casco Glutt de Grendel",
+      "code": "es"
+    },
+    {
+      "description": "晚餐已经准备好了。Grendel 的标志性头盔。",
+      "name": "Grendel 暴食头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Ужин подан. Особый шлем Гренделя.",
+      "name": "Шлем Гренделя: Глатт",
+      "code": "ru"
+    },
+    {
+      "description": "ごちそうの時間です。象徴的なGrendel用ヘルメット。",
+      "name": "Grendel Glutt ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Obiad podano. Kultowy hełm dla Grendela.",
+      "name": "Grendel: Hełm Glutt",
+      "code": "pl"
+    },
+    {
+      "description": "O jantar está servido. Um capacete icônico para o Grendel.",
+      "name": "Grendel: Capacete Glutt",
+      "code": "pt"
+    },
+    {
+      "description": "晚餐已準備好了。Grendel 的標誌性頭盔。",
+      "name": "Grendel 暴食頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "อาหารเย็นพร้อมเสิร์ฟแล้ว หมวกเหล็กที่มีเอกลักษณ์ที่โดดเด่นของ Grendel",
+      "name": "หมวกเหล็ก Grendel Glutt",
+      "code": "th"
+    },
+    {
+      "description": "Akşam yemeği hazır. Grendel için ikonik bir miğfer.",
+      "name": "Grendel Glutt Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Час обідати. Цей шолом втілює саму суть Ґренделя.",
+      "name": "Шолом «Ґлат» для Ґренделя",
+      "code": "uk"
+    }
+  ]
+}

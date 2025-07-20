@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-glyph---bright-c2ae7ef6a5.png",
+  "name": "Ember Glyph - Bright",
+  "description": "A glyph depicting Ember on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Ember vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Ember (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Ember sur un fond lumineux.",
+      "name": "Glyphe Ember - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Ember su uno sfondo chiaro.",
+      "name": "Glifo Ember - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 엠버를 묘사한 글리프입니다.",
+      "name": "엠버 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Ember sobre un fondo brillante.",
+      "name": "Glifo de Ember - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Ember 在明亮背景下的浮印。",
+      "name": "Ember 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эмбер на светлом фоне.",
+      "name": "Глиф: Эмбер — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Ember のグリフ。",
+      "name": "Ember グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Ember na jasnym tle.",
+      "name": "Glif Ember — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Ember em um fundo claro.",
+      "name": "Glifo: Ember (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Ember 在明亮背景下的浮印。",
+      "name": "Ember 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Ember บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Ember - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Ember açık fonlu glif.",
+      "name": "Ember Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ембер на світлому тлі.",
+      "name": "Яскравий гліф «Ембер»",
+      "code": "uk"
+    }
+  ]
+}

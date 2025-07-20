@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SandmanHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-helmet-1dcad1ae69.png",
+  "name": "Inaros Helmet",
+  "description": "The standard issue helmet for the Inaros Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Inaros Warframe.",
+      "name": "Inaros-Helm",
+      "code": "de"
+    },
+    {
+      "description": "La version standard du Casque de la Warframe Inaros.",
+      "name": "Casque Inaros",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Inaros.",
+      "name": "Elmo Inaros",
+      "code": "it"
+    },
+    {
+      "description": "이나로스 워프레임을 위한 기본 헬멧입니다.",
+      "name": "이나로스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Inaros.",
+      "name": "Casco de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 的标准头盔。",
+      "name": "Inaros 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем Инароса.",
+      "name": "Шлем Инароса",
+      "code": "ru"
+    },
+    {
+      "description": "Inarosの標準型ヘルメット。",
+      "name": "Inaros ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Inaros.",
+      "name": "Inaros: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Inaros.",
+      "name": "Inaros: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Inaros 標準頭盔",
+      "name": "Inaros 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Inaros Warframe",
+      "name": "หมวกเหล็ก Inaros",
+      "code": "th"
+    },
+    {
+      "description": "Inaros Warframe için standart miğfer.",
+      "name": "Inaros Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Інара.",
+      "name": "Шолом Інара",
+      "code": "uk"
+    }
+  ]
+}

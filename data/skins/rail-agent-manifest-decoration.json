@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUBookAOpen",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rail-agent-manifest-decoration-7cd00ac27b.png",
+  "name": "Rail Agent Manifest Decoration",
+  "description": "Logs of an unknown rail agent. A quaint addition to any lander.",
+  "languages": [
+    {
+      "description": "Protokolle eines unbekannten Schienenagenten. Eine kuriose Ergänzung für jeden Raumfahrer.",
+      "name": "Dekoration: Manifest eines Schienenagenten",
+      "code": "de"
+    },
+    {
+      "description": "Enregistrements d'un agent du rail inconnu. Un ajout pittoresque à n'importe quel vaisseau.",
+      "name": "Décoration Manifeste d'Agent du Rail",
+      "code": "fr"
+    },
+    {
+      "description": "Registri di un conducente sconosciuto. Una pittoresca aggiunta a qualsiasi navicella.",
+      "name": "Decorazione Registro del Conducente",
+      "code": "it"
+    },
+    {
+      "description": "알 수 없는 레일 요원의 로그입니다. 어느 착륙정에나 진기한 추가 물품입니다.",
+      "name": "레일 요원 목록 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Registros de un agente de riel desconocido. Una adición pintoresca para cualquier nave de desembarco.",
+      "name": "Decoración de manifiesto de agente de raíl",
+      "code": "es"
+    },
+    {
+      "description": "一位无名航道特工的日志。给着陆器平添了一份古雅。",
+      "name": "航道特工货物清单装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Логи неизвестного агента монорельса. Необычное приобретение для любого Корабля.",
+      "name": "Украшение: Манифест Агента Монорельса",
+      "code": "ru"
+    },
+    {
+      "description": "未知のレールエージェントのログ。着陸船に付ければ古風なおもむき。",
+      "name": "レールエージェント名簿の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Zapisy nieznanego agenta trakcyjnego. Relikt każdego lądownika.",
+      "name": "Ozdoba Solaris: Manifest Agenta Trakcyjnego",
+      "code": "pl"
+    },
+    {
+      "description": "Registros de um agente ferroviário desconhecido. Uma grande adição para qualquer nave.",
+      "name": "Manifesto de Agente Ferroviário",
+      "code": "pt"
+    },
+    {
+      "description": "一名未知軌道特工的日誌。給任何登陸載具平添了一份古怪。",
+      "name": "軌道特工貨物清單裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "บันทึกของเรลเอเจนต์ที่ไม่มีใครรู้จัก เสริมยานลงจอดให้ดูแปลกตาขึ้น",
+      "name": "ของตกแต่ง: บัญชีสินค้าของเรลเอเจนต์",
+      "code": "th"
+    },
+    {
+      "description": "Bilinmeyen bir ray ajanının kayıt defteri. Her inişçi için antika bir eşya.",
+      "name": "Ray Ajanı Kayıt Defteri Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Журнал невідомого агента рейки. Химерне доповнення для вашого орбітра.",
+      "name": "Оздоблення: документи агента рейки",
+      "code": "uk"
+    }
+  ]
+}

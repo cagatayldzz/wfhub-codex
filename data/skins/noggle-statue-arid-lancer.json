@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrineerMarineArcticBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---arid-lancer-fb31b08bef.png",
+  "name": "Noggle Statue - Arid Lancer",
+  "description": "A small wobbly statue of an Arid Lancer.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur eines Wüsten-Sturmsoldaten.",
+      "name": "Noggle-Statue: Wüsten-Sturmsoldaten",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Lancier Aride.",
+      "name": "Statuette Noggle - Lancier Aride",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Arid Lancer con la testa tremolante.",
+      "name": "Statuetta Noggle - Arid Lancer",
+      "code": "it"
+    },
+    {
+      "description": "애리드 랜서의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 애리드 랜서",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un lancero árido.",
+      "name": "Estatua Tambaleante - Lancero Árido",
+      "code": "es"
+    },
+    {
+      "description": "一小座沙漠枪兵摇头娃娃",
+      "name": "沙漠枪兵摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Пустынного Пехотинца.",
+      "name": "Фигурка: Пустынный Пехотинец",
+      "code": "ru"
+    },
+    {
+      "description": "アリッド ランサーのボブルヘッド人形。",
+      "name": "アリッド ランサー ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Pustynnego Żołnierza.",
+      "name": "Figurka Noggle — Pustynny Żołnierz Grineer",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Lanceiro Árido.",
+      "name": "Estatueta: Lanceiro Árido",
+      "code": "pt"
+    },
+    {
+      "description": "一小座沙漠槍兵的搖頭娃娃。",
+      "name": "沙漠槍兵搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Arid Lancer ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Arid Lancer",
+      "code": "th"
+    },
+    {
+      "description": "Arid Lancer küçük oynar figür.",
+      "name": "Noggle Heykeli - Arid Lancer",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка пустельного піхотинця.",
+      "name": "Ноґл «Пустельний піхотинець»",
+      "code": "uk"
+    }
+  ]
+}

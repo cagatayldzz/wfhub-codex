@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyZarimanBronze",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path---the-zariman-97b6cbd0e1.png",
+  "name": "The Steel Path - The Zariman",
+  "description": "A signifier of walking The Steel Path in The Zariman",
+  "languages": [
+    {
+      "description": "Ein Symbol, dass du den Stählernen Pfad in der Zariman beschritten hast",
+      "name": "Der Stählerne Pfad: Die Zariman",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole pour avoir parcouru La Route de l'Acier dans le Zariman",
+      "name": "La Route de l'Acier - Le Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo del tuo passaggio attraverso Il Percorso d'Acciaio nella Zariman",
+      "name": "Il Percorso d'Acciaio - La Zariman",
+      "code": "it"
+    },
+    {
+      "description": "자리만에서 강철의 길을 걸은 이들의 증표입니다.",
+      "name": "강철의 길 - 자리만",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo por haber recorrido El Camino de Acero en Zariman",
+      "name": "El Camino de Acero - Zariman",
+      "code": "es"
+    },
+    {
+      "description": "踏上了「扎里曼号」钢铁之路的象征。",
+      "name": "钢铁之路 —「扎里曼号」",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей за преодоление Стального пути на «Заримане».",
+      "name": "Стальной путь: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：Zariman」を歩んだ証",
+      "name": "鋼の道のり：Zariman",
+      "code": "ja"
+    },
+    {
+      "description": "Element oznaczający kroczenie Ścieżką Stali na Zarimanie",
+      "name": "Ścieżka Stali — Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da conclusão do Percurso de Aço na Zariman",
+      "name": "Percurso de Aço - A Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "長征扎日曼號上鋼韌之道的象徵物",
+      "name": "鋼韌之道－扎日曼號",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ที่บ่งบอกถึงการเดินบนเส้นทางเหล็กกล้าใน Zariman",
+      "name": "เส้นทางเหล็กกล้า - Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path'i Zariman'da tamamlayanlar için bir simge",
+      "name": "Steel Path - Zariman",
+      "code": "tr"
+    },
+    {
+      "description": "Трофей за подолання «Шляху сталі» на «Заримені».",
+      "name": "Шлях сталі: «Заримен»",
+      "code": "uk"
+    }
+  ]
+}

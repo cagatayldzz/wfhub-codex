@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistFist",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/desert-wind-ae3edba56b.png",
+  "name": "Desert Wind",
+  "description": "Baruuk channels the desert wind to turn his fists and feet into an exalted weapon.",
+  "languages": [
+    {
+      "description": "Baruuk kanalisiert den Wüstenwind, um seine Fäuste und Füße in eine erhabene Waffe zu verwandeln.",
+      "name": "Wüstenwind",
+      "code": "de"
+    },
+    {
+      "description": "Baruuk canalise les vents du désert afin de transformer ses poings et pieds en armes exaltées.",
+      "name": "Vents du Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Baruuk incanala il vento del deserto per trasformare i pugni e i piedi in un'arma exalted.",
+      "name": "Desert Wind",
+      "code": "it"
+    },
+    {
+      "description": "바루크가 사막의 바람을 불러일으켜 주먹과 발을 자신만의 특수 무기로 만듭니다.",
+      "name": "데저트 윈드",
+      "code": "ko"
+    },
+    {
+      "description": "Baruuk canaliza Viento Desértico para volver sus puños y pies en un arma exaltada.",
+      "name": "Viento Desértico",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DESERT WIND）Baruuk 把沙漠之风转移到他的双拳和脚掌，使之成为了一件显赫武器。",
+      "name": "沙漠之风",
+      "code": "zh"
+    },
+    {
+      "description": "Баруук повелевает пустынным ветром, чтобы превратить свои кулаки и ноги в величественное оружие.",
+      "name": "Пустынный Ветер",
+      "code": "ru"
+    },
+    {
+      "description": "Baruukは風嵐をチャネリングし拳と脚を武器へと変える。",
+      "name": "Desert Wind",
+      "code": "ja"
+    },
+    {
+      "description": "Baruuk przekierowuje moc Pustynnego Wiatru w swoje stopy i pięści, by uczynić z nich Egzaltowaną Broń.",
+      "name": "Pustynny Wiatr",
+      "code": "pl"
+    },
+    {
+      "description": "Baruuk canaliza o Vendaval Desértico para transformar seus punhos e pés em uma arma exaltada.",
+      "name": "Vendaval Desértico",
+      "code": "pt"
+    },
+    {
+      "description": "Baruuk 把沙漠之風轉移到他的雙拳和腳掌，成為一件顯赫的武器。",
+      "name": "沙漠之風",
+      "code": "tc"
+    },
+    {
+      "description": "Baruuk ใช้ Desert Wind เพื่อเปลี่ยนหมัดและเท้าให้กลายเป็นอาวุธขั้นสูง",
+      "name": "Desert Wind",
+      "code": "th"
+    },
+    {
+      "description": "Baruuk çöl fırtınasını kontrol ederek tekme ve yumruklarını bir kutsal silaha dönüştürür.",
+      "name": "Desert Wind",
+      "code": "tr"
+    },
+    {
+      "description": "За допомогою пустельного вітру кулаки й ноги Баруука перетворюються на величну зброю.",
+      "name": "Пустельний вітер",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/ShrineDiceShakeEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rolling-fates-emote-01e1fa8120.png",
+  "name": "Rolling Fates Emote",
+  "description": "Discover what fate has in store.",
+  "languages": [
+    {
+      "description": "Finde heraus, was das Schicksal bereithält.",
+      "name": "Emote: Schicksale werfen",
+      "code": "de"
+    },
+    {
+      "description": "Découvrez ce que le destin vous réserve.",
+      "name": "Geste Augures",
+      "code": "fr"
+    },
+    {
+      "description": "Scopri cosa ha in serbo per te il destino.",
+      "name": "Emote Rolling Fates",
+      "code": "it"
+    },
+    {
+      "description": "운명이 그 품 안에 무엇을 숨기고 있는지 알아보세요.",
+      "name": "굴리는 운명 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Descubre lo que te depara el destino.",
+      "name": "Gesto Destinos rodantes",
+      "code": "es"
+    },
+    {
+      "description": "探索命运的安排。",
+      "name": "命运掷骰表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Узнайте, что уготовила вам судьба.",
+      "name": "Жест «Решающий бросок»",
+      "code": "ru"
+    },
+    {
+      "description": "運命に身を任せよう。",
+      "name": "Rolling Fates エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Odkryj, co szykuje dla ciebie los.",
+      "name": "Gest Toczącego się losu",
+      "code": "pl"
+    },
+    {
+      "description": "Descubra o que o destino nos reserva.",
+      "name": "Emote dos Destinos Incertos",
+      "code": "pt"
+    },
+    {
+      "description": "查看命運的安排。",
+      "name": "骰運表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "เสี่ยงทายทำนายชะตาที่จะเกิดขึ้น",
+      "name": "อิโมต Rolling Fates",
+      "code": "th"
+    },
+    {
+      "description": "Kaderin sana neler getireceğini öğren.",
+      "name": "Yuvarlanan Kader Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Дізнайтеся, що припасла для вас доля.",
+      "name": "Жест «Перекочування Долі»",
+      "code": "uk"
+    }
+  ]
+}

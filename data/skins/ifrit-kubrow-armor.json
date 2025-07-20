@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kubrows/Armor/KubrowArmorC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ifrit-kubrow-armor-32d9ca389a.png",
+  "name": "Ifrit Kubrow Armor",
+  "description": "Decorative armor fitted for a Kubrow.",
+  "languages": [
+    {
+      "description": "Dekorative Rüstung für deinen Kubrow.",
+      "name": "Kubrow-Rüstung: Ifrit",
+      "code": "de"
+    },
+    {
+      "description": "Une armure décorative pour Kubrow.",
+      "name": "Armure de Kubrow Ifrit",
+      "code": "fr"
+    },
+    {
+      "description": "Un'armatura decorativa adattata per il Kubrow.",
+      "name": "Armatura Kubrow Ifrit",
+      "code": "it"
+    },
+    {
+      "description": "쿠브로를 위한 의장용 아이템입니다.",
+      "name": "이프리트 쿠브로 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una armadura decorativa para equipar a un kubrow.",
+      "name": "Armadura Ifrit de kubrow",
+      "code": "es"
+    },
+    {
+      "description": "库狛适用的装饰护甲。",
+      "name": "伊弗利特库狛护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Декоративная броня для кубрау.",
+      "name": "Броня кубрау: Ифрит",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウに適した装飾用アーマー",
+      "name": "Ifrit クブロウアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Dekoracyjna zbroja dopasowana do Kubrowa.",
+      "name": "Zbroja Kubrowa: Ifrit",
+      "code": "pl"
+    },
+    {
+      "description": "Armadura decorativa ajustada para um Kubrow.",
+      "name": "Armadura de Kubrow: Ifrit",
+      "code": "pt"
+    },
+    {
+      "description": "庫狛適用的裝飾護甲。",
+      "name": "伊芙利特庫狛護甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะสำหรับตกแต่งที่เหมาะจะใช้กับ Kubrow",
+      "name": "เกราะ Ifrit Kubrow",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow için dekoratif bir zırh",
+      "name": "Ifrit Kubrow Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Декоративний обладунок для вашого куброу.",
+      "name": "Обладунки «Іфрит» для куброу",
+      "code": "uk"
+    }
+  ]
+}

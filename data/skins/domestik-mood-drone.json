@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneColorFive",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/domestik-mood-drone-ea83880294.png",
+  "name": "Domestik Mood Drone",
+  "description": "Keep the Orbiter in spotless condition with the latest in Corpus sanitation technology.",
+  "languages": [
+    {
+      "description": "Halte den Orbiter blitzsauber mit der neuesten Corpus Reinigungstechnologie.",
+      "name": "Haushalt-Drohne: Mood",
+      "code": "de"
+    },
+    {
+      "description": "Faites briller votre Orbiteur avec la toute dernière technologie Corpus en matière de nettoyage.",
+      "name": "Drone Domestik Mood",
+      "code": "fr"
+    },
+    {
+      "description": "Mantieni il tuo Orbiter in condizioni perfette con l'ultimo ritrovato nella tecnologia igienica Corpus.",
+      "name": "Drone Domestico Mood",
+      "code": "it"
+    },
+    {
+      "description": "최신의 코퍼스 위생 기술로 오비터를 흠잡을 데 없는 상태로 유지하세요.",
+      "name": "도메스틱 무드 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Mantiene al Orbitador en una condición impecable con lo último en saneamiento corpus.",
+      "name": "Dron Domestik Mood",
+      "code": "es"
+    },
+    {
+      "description": "使用 Corpus 最先进的卫生科技来维持一尘不染的轨道飞行器环境。",
+      "name": "内务心绪宅无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Поддерживайте идеальную чистоту на Орбитере с помощью передовых разработок Корпуса в области санитарии.",
+      "name": "Дрон-уборщик: Муд",
+      "code": "ru"
+    },
+    {
+      "description": "コーパスの最新衛生技術で船内を清潔に保とう。",
+      "name": "ムード・ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Utrzymaj Orbiter w nienagannym stanie dzięki najnowszej technologii sanitarnej Corpus.",
+      "name": "Robot Doomestos: Mood",
+      "code": "pl"
+    },
+    {
+      "description": "Mantenha a Orbital brilhando com a tecnologia de última geração em higienização Corpus.",
+      "name": "Drone Domestik Mood",
+      "code": "pt"
+    },
+    {
+      "description": "使用 Corpus 最先進的衛生科技來維持軌道飛行器的環境一塵不染。",
+      "name": "內務心緒宅無人機",
+      "code": "tc"
+    },
+    {
+      "description": "รักษาออร์บิเตอร์ให้อยู่ในสภาพที่สะอาดปราศจากร่องรอยด้วยเทคโนโลยีสุขอนามัยล่าสุดของ Corpus",
+      "name": "โดรน Domestik Mood",
+      "code": "th"
+    },
+    {
+      "description": "Corpus temizlik teknolojisindeki en son yeniliklerle Orbiter'ı temiz tut.",
+      "name": "Domestik Mood Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Передові технології Корпусу допоможуть тримати ваш орбітр охайним і прибраним.",
+      "name": "Дрон-прибиральник «Муд»",
+      "code": "uk"
+    }
+  ]
+}

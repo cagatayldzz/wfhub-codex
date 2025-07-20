@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrTenguBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-tengu-glyph---bright-549824b0fe.png",
+  "name": "Zephyr Tengu Glyph - Bright",
+  "description": "A glyph depicting Zephyr Cierzo on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Zephyr Cierzo vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Zephyr Tengu (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Zephyr Cierzo sur un fond lumineux.",
+      "name": "Glyphe Zephyr Tengu - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Cierzo Zephyr su uno sfondo chiaro.",
+      "name": "Glifo Zephyr Tengu - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 셰르소 제피르를 묘사한 글리프입니다.",
+      "name": "제피르 텐구 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Cierzo Zephyr sobre un fondo brillante.",
+      "name": "Glifo de Zephyr Tengu - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 西熟风在明亮背景下的浮印。",
+      "name": "Zephyr 天狗浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Зефир «Сьерсо» на светлом фоне",
+      "name": "Глиф: Зефир Тэнгу - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたCierzo Zephyrのグリフ。",
+      "name": "Zephyr Tengu グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Zephyr Cierzo na jasnym tle.",
+      "name": "Glif Zephyr Tengu — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Zephyr Cierzo em um fundo claro.",
+      "name": "Glifo: Zephyr Tengu (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Zephyr 西熟風在明亮背景下的浮印。",
+      "name": "Zephyr 天狗浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Zephyr Cierzo บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Zephyr Tengu - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr Cierzo açık fonlu glif.",
+      "name": "Zephyr Tengu Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зефіри в шоломі «Сьєрзо» на світлому тлі.",
+      "name": "Яскравий гліф «Зефіра „Тенґу“»",
+      "code": "uk"
+    }
+  ]
+}

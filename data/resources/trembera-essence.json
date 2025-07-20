@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trembera-essence-df282a651c.png",
+  "name": "Trembera Essence",
+  "description": "A highly purified mineral compound prized for its strength, resiliency, and resistance to heat. Widely used in the construction of Tenno relays.",
+  "languages": [
+    {
+      "description": "Eine äußerst reine Mineralverbindung, geschätzt für ihre Stärke und Widerstandskraft, sowie ihre Resistenz gegen Hitze. Ein Hauptbestandteil für den Bau von Tenno Relais.",
+      "name": "Trembera-Essenz",
+      "code": "de"
+    },
+    {
+      "description": "Un composé minéral hautement purifié convoité pour sa solidité, sa résilience et sa résistance à la chaleur. Largement utilisé dans la construction des Relais Tennos.",
+      "name": "Essence Trembera",
+      "code": "fr"
+    },
+    {
+      "description": "Un composto minerale purificato apprezzato per la sua solidità, resilienza e resistenza al calore. Ampiamente utilizzato nella costruzione delle stazioni Tenno.",
+      "name": "Essenza Trembera",
+      "code": "it"
+    },
+    {
+      "description": "고도로 정제된 이 화합 광물은 높은 강도, 탄성 및 열에 대한 저항력으로 높게 평가됩니다. 텐노 릴레이의 건설에 널리 사용됩니다.",
+      "name": "트렘베라 에센스",
+      "code": "ko"
+    },
+    {
+      "description": "Un compuesto de mineral muy purificado que tiene valor por su fuerza, resiliencia y resistencia contra el calor. Utilizado en gran parte para la construcción de los Repetidores tenno.",
+      "name": "Esencia Trembera",
+      "code": "es"
+    },
+    {
+      "description": "高纯度矿物质化合物，因其强度，弹性和耐热性而备受推崇。广泛用于 Tenno 中继站的建造。",
+      "name": "战栗精华",
+      "code": "zh"
+    },
+    {
+      "description": "Высокоочищенное минеральное соединение, ценимое за его прочность, выносливость и теплостойкость. Широко используется в строительстве реле Тэнно.",
+      "name": "Эссенция Тремберы",
+      "code": "ru"
+    },
+    {
+      "description": "強度、弾力性、耐熱性に優れた高純度の無機化合物。テンノリレー建設で広く用いられる。",
+      "name": "トレンベラ・エッセンス",
+      "code": "ja"
+    },
+    {
+      "description": "Wysoce oczyszczony związek mineralny ceniony za wytrzymałość, sprężystość i odporność na ciepło. Szeroko stosowany w budowie przekaźników Tenno.",
+      "name": "Esencja Trembera",
+      "code": "pl"
+    },
+    {
+      "description": "Um mineral altamente purificado, valorizado por sua força, resiliência e resistência ao calor. Vastamente utilizado na construção de Relays dos Tenno.",
+      "name": "Essência Trembera",
+      "code": "pt"
+    },
+    {
+      "description": "高純度礦物質化合物，因其強度，彈性和耐熱性而備受推崇。廣泛用於 Tenno 中繼站的建造。",
+      "name": "戰慄精華",
+      "code": "tc"
+    },
+    {
+      "description": "สารประกอบแร่ที่มีความบริสุทธิ์สูงได้รับการยกย่องในด้านความแข็งแรง ความยืดหยุ่น และความทนทานต่อความร้อน ใช้กันอย่างแพร่หลายในการสร้างรีเลย์ Tenno",
+      "name": "เทรมเบราเอสเซนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Gücü, dayanıklılığı ve ateşe direnciyle ünlü, oldukça saflaştırılmış bir mineral bileşeni. Tenno relaylerinin yapımında geniş çapta kullanılır.",
+      "name": "Trembera Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Високоочищена мінеральна сполука, яка цінується за міцність, гнучкість та опір нагріванню. Застосовується в будівництві реле тенно.",
+      "name": "Есенція вуглециту",
+      "code": "uk"
+    }
+  ]
+}

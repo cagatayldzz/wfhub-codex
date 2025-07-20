@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeAuraMechaEmpowerMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mecha-empowered-37fc5d3e08.jpg",
+  "name": "Mecha Empowered",
+  "description": "Increased Pistol Ammo recovery.",
+  "languages": [
+    {
+      "description": [
+        "Mehr Munition für Pistolen erhalten."
+      ],
+      "name": "Mecha: Verstärkung",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Récupération accrue de munitions de Pistolet."
+      ],
+      "name": "Surcharge Mecha",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Recupero munizioni per pistola aumentato."
+      ],
+      "name": "Mecha Empowered",
+      "code": "it"
+    },
+    {
+      "description": [
+        "권총 탄약의 획득량을 증가시킵니다."
+      ],
+      "name": "메카 임파워드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Recuperación de munición de pistola aumentada."
+      ],
+      "name": "Potenciamiento de Mecha",
+      "code": "es"
+    },
+    {
+      "description": [
+        "增加拾起的手枪弹药"
+      ],
+      "name": "机甲 强化",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Увеличивает количество собираемых патронов для пистолета."
+      ],
+      "name": "Мех-Усиление",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ピストル弾薬取得時の回復量を増加"
+      ],
+      "name": "Mecha Empowered",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Zwiększenie odzysku amunicji do pistoletu."
+      ],
+      "name": "Mecha Wzmocnienie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Maior recuperação de Munição de Pistola."
+      ],
+      "name": "Mecha Empowered",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "增加拾起的手槍彈藥"
+      ],
+      "name": "機甲 強化",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เพิ่มการกู้คืนกระสุนปืนพก"
+      ],
+      "name": "Mecha Empowered",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Tabanca cephane yenilemesini hızlandırır."
+      ],
+      "name": "Mecha Empowered",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Збільшує кількість підібраних набоїв до пістолетів."
+      ],
+      "name": "Посилення меха",
+      "code": "uk"
+    }
+  ]
+}

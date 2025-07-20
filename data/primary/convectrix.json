@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/convectrix-32577a6926.png",
+  "name": "Convectrix",
+  "description": "When its twin-lasers converge on a target a circuit is created, frying the subject.",
+  "languages": [
+    {
+      "description": "Wenn sich ihre Zwillingslaser auf einem Ziel treffen, wird eine Verbindung geschaffen, die Gegner einäschert.",
+      "name": "Convectrix",
+      "code": "de"
+    },
+    {
+      "description": "Lorsque les lasers jumelés convergent sur une cible, un circuit est créé, faisant frire le sujet.",
+      "name": "Convectrix",
+      "code": "fr"
+    },
+    {
+      "description": "Quando i due laser convergono sul bersaglio si crea un circuito, friggendo il soggetto.",
+      "name": "Convectrix",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 트윈 레이저가 목표물에 집중되면 순환 회로가 생성되어 적을 통째로 구워버립니다.",
+      "name": "컨벡트릭스",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando el láser doble converge en un objetivo se crea un circuito que fríe al objetivo.",
+      "name": "Convectrix",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CONVECTRIX）当双道激光汇聚在目标上时，便会产生回路，将敌人给炸熟。",
+      "name": "导热聚焦枪",
+      "code": "zh"
+    },
+    {
+      "description": "Когда парные лазеры сходятся на цели, цепь замыкается, опаляя объект.",
+      "name": "Конвектрикс",
+      "code": "ru"
+    },
+    {
+      "description": "ツインレーザーの集束レーザー回路で離れた場所からでも敵を焼き焦がすことができる。",
+      "name": "Convectrix",
+      "code": "ja"
+    },
+    {
+      "description": "Gdy podwójne lasery zbiegną się na celu, zostanie utworzony obwód, który spali cel.",
+      "name": "Convectrix",
+      "code": "pl"
+    },
+    {
+      "description": "Quando esses lasers duplos convergem em um alvo, cria-se um circuito que frita o inimigo.",
+      "name": "Convectrix",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CONVECTRIX）當雙道雷射匯聚在目標上時，便會產生迴路，將敵人給炸熟。",
+      "name": "導熱聚焦槍",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อเลเซอร์คู่เจอกับเป้าหมาย ก็จะสร้างวงจรไฟฟ้าขึ้นมา เผาเป้าหมายให้เป็นจุณ",
+      "name": "Convectrix",
+      "code": "th"
+    },
+    {
+      "description": "İkili lazer hedefine kitlenir ve hedefi kızartma işlemi başlar!",
+      "name": "Convectrix",
+      "code": "tr"
+    },
+    {
+      "description": "Рушниця. Стріляє здвоєними лазерами, які після змикання підсмажують ціль.",
+      "name": "Конвектрікс",
+      "code": "uk"
+    }
+  ]
+}

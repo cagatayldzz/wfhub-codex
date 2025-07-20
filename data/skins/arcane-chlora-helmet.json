@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-chlora-helmet-45d15591f3.png",
+  "name": "Arcane Chlora Helmet",
+  "description": "This helmet is worn by Saryn, and increases velocity of parkour maneuvers, but reduces Ability Duration.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Saryn getragen und erhöht die Schnelligkeit von Parkourmanövern, während Fähigkeitsdauer reduziert wird.",
+      "name": "Arkaner Chlora Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Saryn et augmente la vitesse des manœuvres de parkour, mais réduit la Durée de Pouvoir.",
+      "name": "Casque Chlora Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Saryn, aggiunge velocità nelle manovre parkour, ma riduce la Durata Abilità.",
+      "name": "Elmo Arcane Chlora",
+      "code": "it"
+    },
+    {
+      "description": "새린 전용의 헬멧으로, 어빌리티 지속 시간을 감소시키고 파쿠르의 이동 속도를 증가시킵니다.",
+      "name": "아케인 클로라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Saryn, aumenta la velocidad de parkour pero reduce la duración de habilidad.",
+      "name": "Casco Chlora Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Saryn 佩戴，它能提升移跑酷机动的速度，但会降低技能持续时间。",
+      "name": "氯毒 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Сарины. Он повышает скорость маневров паркура, но снижает длительность.",
+      "name": "Мистический шлем: Хлора",
+      "code": "ru"
+    },
+    {
+      "description": "Saryn用ヘルメット。パルクール全般の速度を上昇させるが、アビリティ効果時間が減少する。",
+      "name": "Arcane Chlora ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Saryn, zwiększa Prędkość manewrów parkuru, ale zmniejsza Czas Trwania Umiejętności.",
+      "name": "Saryn: Hełm Arkanum Chlora",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete usado por Saryn adiciona velocidade a manobras de parkour, mas reduz a Duração da Habilidade.",
+      "name": "Saryn: Capacete Chlora (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔由 Saryn 配戴，它能提升跑酷時的機動性，但會降低技能持續時間。",
+      "name": "氯毒秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Saryn สวมหมวกใบนี้จะช่วยเพิ่มความเร็วในการหลบหลีกแบบปาร์กัวร์ แต่จะลดระยะเวลาในการใช้พลังลง",
+      "name": "หมวกเหล็ก Arcane Chlora",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Saryn tarafından giyilir ve parkur hareketlerinin hızını arttırır, ama Yetenek Süresini azaltır.",
+      "name": "Arcane Chlora Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом пришвидшує прийоми паркуру Зарини, але зменшує тривалість дії її здібностей.",
+      "name": "Містичний шолом «Хлора»",
+      "code": "uk"
+    }
+  ]
+}

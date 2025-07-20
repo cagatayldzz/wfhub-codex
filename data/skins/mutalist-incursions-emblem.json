@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/MutalistIncursionsBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mutalist-incursions-emblem-fa216cccbf.png",
+  "name": "Mutalist Incursions Emblem",
+  "description": "Awarded to Tenno who participated in the Mutalist Incursions event.",
+  "languages": [
+    {
+      "description": "Verliehen an Tenno, die am Übergriff der Mutalisten- Event teilgenommen haben.",
+      "name": "Emblem: Übergriff der Mutalisten",
+      "code": "de"
+    },
+    {
+      "description": "Donné en récompense aux Tennos qui ont participé aux opérations des Incursions Mutalistes.",
+      "name": "Badge des Incursions Mutalistes",
+      "code": "fr"
+    },
+    {
+      "description": "Assegnato a Tenno che hanno partecipato alla manifestazione Mutalist Incursioni.",
+      "name": "Emblema Mutalist Incursions",
+      "code": "it"
+    },
+    {
+      "description": "뮤탈리스트 인커젼 이벤트에 참여한 플레이어에게 제공됩니다.",
+      "name": "뮤탈리스트 인커젼 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado a los tenno que participaron en el evento Incursiones mutalíticas.",
+      "name": "Emblema Incursiones Mutalíticas",
+      "code": "es"
+    },
+    {
+      "description": "颁赠给参予了异融者入侵事件的 Tenno。",
+      "name": "异融者入侵徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Награда для Тэнно, участвовавших в событии «Вторжение Муталистов».",
+      "name": "Значок: Вторжение муталистов",
+      "code": "ru"
+    },
+    {
+      "description": "ミュータリスト来寇イベントで作戦に貢献したテンノに贈られるエンブレム。",
+      "name": "ミュータリスト来寇 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany Tenno, którzy wzięli udział w wydarzeniu Atak Mutalist.",
+      "name": "Emblemat: Atak Mutalist",
+      "code": "pl"
+    },
+    {
+      "description": "Premiado ao Tenno que participou do evento Incursões Mutalistas.",
+      "name": "Emblema: Incursões Mutalistas",
+      "code": "pt"
+    },
+    {
+      "description": "頒贈給參予了異融者入侵事件的 Tenno。",
+      "name": "異融者入侵徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับ Tenno ที่เข้าร่วมอีเวนต์ Mutalist Incursions",
+      "name": "ตราสัญลักษณ์: Mutalist Incursions",
+      "code": "th"
+    },
+    {
+      "description": "Mutalist Incursions etkinliğine katılan Tenno'lara ödül olarak verilir.",
+      "name": "Mutalist Incursions Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тенно, що брали активну участь у події «Вторгнення асимілянтів».",
+      "name": "Відзнака «Вторгнення асимілянтів»",
+      "code": "uk"
+    }
+  ]
+}

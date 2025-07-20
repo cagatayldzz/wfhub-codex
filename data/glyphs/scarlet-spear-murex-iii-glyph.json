@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearSpaceIII",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarlet-spear-murex-iii-glyph-56158ae740.png",
+  "name": "Scarlet Spear Murex Iii Glyph",
+  "description": "Earned through Railjack raids against the Sentient Murex during Operation Scarlet Spear.",
+  "languages": [
+    {
+      "description": "Verdient durch die Railjack-Überfälle auf den Sentient Murex, während der Operation: Scharlachroter Speer.",
+      "name": "Glyphe: Scharlachroter Speer Murex III",
+      "code": "de"
+    },
+    {
+      "description": "Obtenu en participant aux raids Railjack contre le Murex Sentient lors de l'Opération: Incursion Écarlate.",
+      "name": "Glyphe de Murex d'Incursion Écarlate III",
+      "code": "fr"
+    },
+    {
+      "description": "Guadagnato grazie ai raid Railjack contro le Murex Sentient durante l'Operazione Scarlet Spear.",
+      "name": "Glifo Scarlet Spear Murex III",
+      "code": "it"
+    },
+    {
+      "description": "스칼렛 스피어 작전 도중 센티언트 뮤렉스에 대한 레일잭 습격을 통해 얻을 수 있습니다.",
+      "name": "스칼렛 스피어 뮤렉스 III 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Obtenido al haber participado en ataques de Railjack contra la Murex consciente durante la Operación Lanza Escarlata.",
+      "name": "Glifo de Murex de Lanza Escarlata III",
+      "code": "es"
+    },
+    {
+      "description": "在《行动代号：猩红之矛》期间，通过在航道星舰突袭任务中与 Sentient 骨螺战舰进行作战赢取的奖励。",
+      "name": "猩红之矛骨螺 III 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "За рейды против Мюрекса Владеющих Разумом во время Операции «Алое Копьё».",
+      "name": "Глиф: Алое Копье - Мюрекс III",
+      "code": "ru"
+    },
+    {
+      "description": "「深紅の槍」作戦のミュレックス・レイドでセンティエントミュレックスに立ち向かうことで得られる。",
+      "name": "深紅の槍 ミュレックス III グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zdobyty poprzez najazdy na Mureksy Świadomych podczas Operacji: Szkarłatna Włócznia.",
+      "name": "Glif Szkarłatnej Włóczni: Mureks III",
+      "code": "pl"
+    },
+    {
+      "description": "Recebido através de invasões da Railjack contra a Murex Sentient durante a Operação: Lança Escarlate.",
+      "name": "Glifo: Lança Escarlate Murex III",
+      "code": "pt"
+    },
+    {
+      "description": "在行動代號：猩紅標槍作戰期間，於銳捷號突襲任務進攻 Sentient 骨螺母艦得來的獎勵。",
+      "name": "猩紅標槍骨螺母艦 III 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ได้รับจากการนำ Railjack บุกโจมตี Sentient Murex ในระหว่างปฏิบัติการ Scarlet Spear",
+      "name": "ภาพสัญลักษณ์ Scarlet Spear Murex III",
+      "code": "th"
+    },
+    {
+      "description": "Scarlet Spear Operasyonunda Sentient Murex'ine karşı yapılan Railjack akınlarında kazanılır.",
+      "name": "Scarlet Spear Murex III Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за участь у зорелітних битвах із мюрексами Свідомих під час операції «Багряний спис».",
+      "name": "Гліф «Багряний спис: мюрекс» III ступеня",
+      "code": "uk"
+    }
+  ]
+}

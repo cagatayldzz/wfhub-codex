@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePriestBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/harrow-glyph---bright-7a6f002aec.png",
+  "name": "Harrow Glyph - Bright",
+  "description": "A glyph depicting Harrow on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Harrow vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Harrow (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Harrow sur un fond lumineux.",
+      "name": "Glyphe Harrow - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Harrow su uno sfondo chiaro.",
+      "name": "Glifo Harrow - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 해로우를 묘사한 글리프입니다.",
+      "name": "해로우 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Harrow sobre un fondo brillante.",
+      "name": "Glifo de Harrow - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Harrow 在明亮背景下的浮印。",
+      "name": "Harrow 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Харроу на светлом фоне.",
+      "name": "Глиф: Харроу - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたHarrowのグリフ。",
+      "name": "Harrow グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Harrow na jasnym tle.",
+      "name": "Glif Harrow — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Harrow em um fundo claro.",
+      "name": "Glifo: Harrow (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Harrow 在明亮背景下的浮印。",
+      "name": "Harrow 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Harrow บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Harrow - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Harrow açık fonlu glif.",
+      "name": "Harrow Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гарроу на світлому тлі.",
+      "name": "Яскравий гліф «Гарроу»",
+      "code": "uk"
+    }
+  ]
+}

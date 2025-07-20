@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/HydroidDeluxeEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soaker-ephemera-505031dcc6.png",
+  "name": "Soaker Ephemera",
+  "description": "Jump in, the water’s fine.",
+  "languages": [
+    {
+      "description": "Spring rein, das Wasser ist herrlich.",
+      "name": "Ephemera: Soaker",
+      "code": "de"
+    },
+    {
+      "description": "Sautez, l'eau est bonne.",
+      "name": "Ephemera Halieutique",
+      "code": "fr"
+    },
+    {
+      "description": "Tuffati, l'acqua è perfetta.",
+      "name": "Ephemera Soaker",
+      "code": "it"
+    },
+    {
+      "description": "들어와 보세요. 이 물 괜찮다니까요.",
+      "name": "소커 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Sumérgete, el agua está perfecta.",
+      "name": "Efímero Zambullida",
+      "code": "es"
+    },
+    {
+      "description": "跳进去，水刚好。",
+      "name": "浸透幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Прыгайте, вода тёпленькая.",
+      "name": "Эфемера: Ливень",
+      "code": "ru"
+    },
+    {
+      "description": "穏やかな水で涼もう。",
+      "name": "Soaker エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Wskakuj, woda jest idealna.",
+      "name": "Efemera Przemoczenia",
+      "code": "pl"
+    },
+    {
+      "description": "Pode pular, a água tá uma maravilha.",
+      "name": "Efêmera: Enxurrada",
+      "code": "pt"
+    },
+    {
+      "description": "跳下去吧，水溫剛好。",
+      "name": "濕客幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "โดดลงไปสิ น้ำกำลังดีเลย",
+      "name": "อิเฟมเมอรา Soaker",
+      "code": "th"
+    },
+    {
+      "description": "Atla, su güzel.",
+      "name": "Soaker Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Застрибуйте, водиця — саме те.",
+      "name": "Ефемера «Замочений»",
+      "code": "uk"
+    }
+  ]
+}

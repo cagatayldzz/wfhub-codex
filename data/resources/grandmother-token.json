@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentRareA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grandmother-token-391e6651b4.png",
+  "name": "Grandmother Token",
+  "description": "A rare sign of Grandmother's favor.\n\nObtained from Grandmother in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Ein seltenes Zeichen der Gunst von Großmutter.\n\nQuelle: Erhalten von Großmutter im Necralisk auf Deimos.",
+      "name": "ANDENKEN: GROSSMUTTER",
+      "code": "de"
+    },
+    {
+      "description": "Un signe rare de l'appréciation de la Grand-mère.\n\nLieu: La Grand-mère, dans le Necralisk sur Deimos.",
+      "name": "JETON DE LA GRAND-MÈRE",
+      "code": "fr"
+    },
+    {
+      "description": "Un raro segno di benevolenza da parte di Nonna.\n\nPosizione: Nonna nel Necralisk su Deimos.",
+      "name": "TOKEN NONNA",
+      "code": "it"
+    },
+    {
+      "description": "할머니가 드물게 베푸는 호의의 표시입니다.\n\n데이모스의 네크랄리스크에 있는 할머니에게서 획득할 수 있습니다.",
+      "name": "할머니 토큰",
+      "code": "ko"
+    },
+    {
+      "description": "Una rara señal del favor de Abuela.\n\nSe obtiene con Abuela en el Necralisk en Deimos.",
+      "name": "SÍMBOLO DE ABUELA",
+      "code": "es"
+    },
+    {
+      "description": "一枚罕见的印记，代表着“祖母”的厚爱。\n\n从殁世幽都（火卫二）“祖母”处获得。",
+      "name": "“祖母”石印",
+      "code": "zh"
+    },
+    {
+      "description": "Редкий знак Бабушкиного расположения.\n\nМожно получить у Бабушки в Некралиске (Деймос).",
+      "name": "СИМВОЛ: БАБУШКА",
+      "code": "ru"
+    },
+    {
+      "description": "Grandmotherの好意の珍しい証。\n\nネクロリスク（ダイモス）のGrandmotherから入手可能。",
+      "name": "GRANDMOTHER トークン",
+      "code": "ja"
+    },
+    {
+      "description": "Rzadki znak przychylności Babci.\n\nPołożenie: Pozyskaj od Babci w Nekralisku na Deimosie.",
+      "name": "ŻETON: BABCIA",
+      "code": "pl"
+    },
+    {
+      "description": "Um raro gesto de benevolência da Avó.\n\nLocalização: obtido junto à Avó, no Necralisk, em Deimos.",
+      "name": "SÍMBOLO: AVÓ",
+      "code": "pt"
+    },
+    {
+      "description": "代表祖母的偏愛的罕見象徵。\n\n從亡骸殿（火衛二）裡的祖母獲得。",
+      "name": "祖母源幣",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมหายากซึ่งเป็นสัญลักษณ์แห่งความโปรดปรานของ Grandmother\n\nรับได้จาก Grandmother ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "โทเค็นของ GRANDMOTHER",
+      "code": "th"
+    },
+    {
+      "description": "Büyükanne'nin iyiliğinin nadir bir işareti.\n\nDeimos'taki Necralisk'te bulunan Büyükanneden satın alınabilir.",
+      "name": "BÜYÜKANNE SEMBOLÜ",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісний символ прихильності Бабусі.\n\nМожна здобути в Бабусі в Некраліску (Деймос).",
+      "name": "МЕДАЛЬЙОН БАБУСІ",
+      "code": "uk"
+    }
+  ]
+}

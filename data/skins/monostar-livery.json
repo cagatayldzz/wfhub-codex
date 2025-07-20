@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/monostar-livery-04da1d063b.png",
+  "name": "Monostar Livery",
+  "description": "An Atomicycle out of time.",
+  "languages": [
+    {
+      "description": "Ein Atomkrad außerhalb der Zeit.",
+      "name": "Lackierung: Monostern",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle hors du temps.",
+      "name": "Modèle Monostar",
+      "code": "fr"
+    },
+    {
+      "description": "Un Atomicycle avulso dal tempo.",
+      "name": "Livrea Monostar",
+      "code": "it"
+    },
+    {
+      "description": "시대를 초월한 아토미사이클 도색입니다.",
+      "name": "모노스타 도색",
+      "code": "ko"
+    },
+    {
+      "description": "Una Atomicycle fuera del tiempo.",
+      "name": "Librea Monoestelar",
+      "code": "es"
+    },
+    {
+      "description": "一款超脱时间的原子摩托车。",
+      "name": "孤星",
+      "code": "zh"
+    },
+    {
+      "description": "Атомицикл вне времени.",
+      "name": "Ливрея: Монозвезда",
+      "code": "ru"
+    },
+    {
+      "description": "時代を外したアトミサイクル。",
+      "name": "Monostar リバリー",
+      "code": "ja"
+    },
+    {
+      "description": "Atomicykl poza czasem.",
+      "name": "Malowanie: Monostar",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Atomimoto atemporal.",
+      "name": "Pintura: Estrela Singular",
+      "code": "pt"
+    },
+    {
+      "description": "穿越時空的原拓密重機塗裝。",
+      "name": "孤星",
+      "code": "tc"
+    },
+    {
+      "description": "รถ Atomicycle ที่เหนือกาลเวลา",
+      "name": "ลาย Monostar",
+      "code": "th"
+    },
+    {
+      "description": "Zamanın dışında bir Atomisiklet.",
+      "name": "Monostar Kaplama",
+      "code": "tr"
+    },
+    {
+      "description": "Каркас атомоцикла з прадавніх часів.",
+      "name": "Каркас «Монозірка»",
+      "code": "uk"
+    }
+  ]
+}

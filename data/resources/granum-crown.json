@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Tokens/GreedTokens/GreedTokenBlue",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/granum-crown-4f5637dd12.png",
+  "name": "Granum Crown",
+  "description": "An ancient token of esteem from the Corpus Founder himself.",
+  "languages": [
+    {
+      "description": "Ein uraltes Symbol des Ansehens vom Gründer der Corpus selbst.",
+      "name": "Granum-Krone",
+      "code": "de"
+    },
+    {
+      "description": "Une ancienne marque d'estime du Fondateur du Corpus lui-même.",
+      "name": "Couronne Granum",
+      "code": "fr"
+    },
+    {
+      "description": "Un antico segno di stima da parte del Fondatore Corpus in persona.",
+      "name": "Corona Granum",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 창시자 본인으로부터 직접 유래한, 그의 존엄을 상징하는 고대 주화입니다.",
+      "name": "일반형 그라넘 주화",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo antiguo valioso del mismísimo fundador del Corpus.",
+      "name": "Corona Granum",
+      "code": "es"
+    },
+    {
+      "description": "象征 Corpus 创始人本人尊严的古老代币。",
+      "name": "格拉努硬币",
+      "code": "zh"
+    },
+    {
+      "description": "Древний символ почёта, дарованный самим Основателем Корпуса.",
+      "name": "Крона Грэнума",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス創設者自身が評価する古のトークン。",
+      "name": "Granum クラウン",
+      "code": "ja"
+    },
+    {
+      "description": "Starożytny symbol szacunku od samego Założyciela Corpus.",
+      "name": "Korona Granuma",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo antigo e apreciado pelo próprio fundador dos Corpus.",
+      "name": "Coroa de Granum",
+      "code": "pt"
+    },
+    {
+      "description": "一枚來自 Corpus 創始人本人的古老代幣，象徵尊敬。",
+      "name": "Granum 冠幣",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญโบราณที่ได้รับความนิยมจากตัวผู้ก่อตั้ง Corpus เอง",
+      "name": "เหรียญมงกุฎ Granum",
+      "code": "th"
+    },
+    {
+      "description": "Corpus Kurucusuna ait antik bir saygı sembolü.",
+      "name": "Granum Crown",
+      "code": "tr"
+    },
+    {
+      "description": "Давній символ схвалення з боку самого Засновника Корпусу.",
+      "name": "Крона Ґранума",
+      "code": "uk"
+    }
+  ]
+}

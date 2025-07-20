@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWispBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-glyph---bright-31c0e6d4a2.png",
+  "name": "Wisp Glyph - Bright",
+  "description": "A glyph depicting Wisp on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wisp vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Wisp (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wisp sur un fond lumineux.",
+      "name": "Glyphe Wisp - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wisp su uno sfondo chiaro.",
+      "name": "Glifo Wisp - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 위습을 묘사한 글리프입니다.",
+      "name": "위습 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Wisp sobre un fondo brillante.",
+      "name": "Glifo de Wisp - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 在明亮背景下的浮印。",
+      "name": "Wisp 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Висп на светлом фоне.",
+      "name": "Глиф: Висп - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたWispのグリフ。",
+      "name": "Wisp グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Wisp na jasnym tle.",
+      "name": "Glif Wisp — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Wisp em um fundo claro.",
+      "name": "Glifo: Wisp (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wisp 在明亮背景下的浮印。",
+      "name": "Wisp 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์แสดงภาพ Wisp บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Wisp - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Wisp açık fonlu glif.",
+      "name": "Wisp Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вісп на світлому тлі.",
+      "name": "Яскравий гліф «Вісп»",
+      "code": "uk"
+    }
+  ]
+}

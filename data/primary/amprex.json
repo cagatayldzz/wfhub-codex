@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amprex-9e41d98a19.png",
+  "name": "Amprex",
+  "description": "The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at Crowd Control.",
+  "languages": [
+    {
+      "description": "Das Amprex Gewehr verschießt einen kontinuierlichen Strahl hochenergetischer Elektrizität, die von Gegner zu Gegner springt. Diese Waffe eignet sich ausgezeichnet zur Gruppenkontrolle.",
+      "name": "Amprex",
+      "code": "de"
+    },
+    {
+      "description": "L'Amprex envoie un rayon continu d'électricité à haut voltage qui peut s'arquer vers les ennemis à proximité. Cette arme est excellente pour le contrôle des foules.",
+      "name": "Amprex",
+      "code": "fr"
+    },
+    {
+      "description": "L'Amprex genera un raggio elettrico ad alto voltaggio in un flusso continuo, che rimbalza tra i nemici vicini. Quest'arma eccelle nel controllo di massa.",
+      "name": "Amprex",
+      "code": "it"
+    },
+    {
+      "description": "앰프렉스 소총은 높은 전압의 전류를 빔의 형태로 발사하여 주변의 적까지 감전시키는 무기입니다. 이 무기는 군중 제어에 특화되어 있습니다.",
+      "name": "앰프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "El Amprex es un rifle que dispara un rayo eléctrico continuo de alto voltaje que arquea entre los enemigos. Esta arma destaca en el control de masas.",
+      "name": "Amprex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AMPREX）安培克斯步枪可持续发射致命电光束并在敌人中形成电弧。这件武器在群体控制方面很优秀。",
+      "name": "安培克斯",
+      "code": "zh"
+    },
+    {
+      "description": "Винтовка «Ампрекс» выпускает луч электричества в цель, который перескакивает на ближайших к цели врагов. Это оружие позволяет контролировать группы врагов.",
+      "name": "Ампрекс",
+      "code": "ru"
+    },
+    {
+      "description": "このライフルは電撃ビームを発射し、連鎖的に近くにいる敵へショックを与えることができる。高電圧の武器で、クラウドコントロールの際に優位性を発揮する。",
+      "name": "Amprex",
+      "code": "ja"
+    },
+    {
+      "description": "Karabin Amprex strzela ciągłym strumieniem elektryczności, która tworzy łuki elektryczne pomiędzy sąsiadującymi wrogami. Ta broń doskonale sprawdza się w kontroli tłumu.",
+      "name": "Amprex",
+      "code": "pl"
+    },
+    {
+      "description": "O rifle Amprex emite um raio elétrico contínuo de alta voltagem que se curva entre os inimigos próximos. Esta arma se sobressai em controle de grupo.",
+      "name": "Amprex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AMPREX）安培克斯步槍能連續發射高壓電光束，在附近敵人身上造成連鎖電弧。這把武器對於複數敵人有出色的控制力。",
+      "name": "安培克斯",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิล Amprex จะยิงลำแสงไฟฟ้าแรงสูงออกไปอย่างต่อเนื่องเพื่อโจมตีศัตรูที่อยู่ใกล้ ๆ อาวุธชิ้นนี้มีความสามารถดีเยี่ยมด้านคราวด์คอลโทรล (CC)",
+      "name": "Amprex",
+      "code": "th"
+    },
+    {
+      "description": "Amprex tüfeği seri bir şekilde yüksek voltaj içeren mermiler atarak hem hedefi hemde etrafındakileri etkiler. Bu silah kalabalık kontrolü için birebirdir!.",
+      "name": "Amprex",
+      "code": "tr"
+    },
+    {
+      "description": "Гвинтівка, яка стріляє направленим високовольтним потоком енергії. Утворені від зіткнення електричні дуги вражають ворогів неподалік. Ця зброя перевершує контроль натовпу.",
+      "name": "Ампрекс",
+      "code": "uk"
+    }
+  ]
+}

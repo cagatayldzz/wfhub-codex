@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageCalibanBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/caliban-glyph---bright-fc8074baee.png",
+  "name": "Caliban Glyph - Bright",
+  "description": "A glyph depicting Caliban on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Caliban vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Caliban (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un glyphe représentant Caliban sur un fond lumineux.",
+      "name": "Glyphe Caliban - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Caliban su uno sfondo chiaro.",
+      "name": "Glifo Caliban - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 칼리반을 묘사한 글리프입니다.",
+      "name": "칼리반 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Caliban sobre un fondo brillante.",
+      "name": "Glifo de Caliban - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Caliban 在明亮背景下的浮印。",
+      "name": "Caliban 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Калибана на светлом фоне.",
+      "name": "Глиф: Калибан - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Caliban のグリフ。",
+      "name": "Caliban グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Caliban na jasnym tle.",
+      "name": "Glif Caliban — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando Caliban em um fundo claro.",
+      "name": "Glifo: Caliban (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Caliban 在明亮背景下的浮印。",
+      "name": "Caliban 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Caliban บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Caliban - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Caliban açık fonlu glif.",
+      "name": "Caliban Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Калібана на світлому тлі.",
+      "name": "Яскравий гліф «Калібан»",
+      "code": "uk"
+    }
+  ]
+}

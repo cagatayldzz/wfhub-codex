@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrapperAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-esprit-glyph---dark-97c2ae45be.png",
+  "name": "Vauban Esprit Glyph - Dark",
+  "description": "A glyph depicting Vauban Esprit on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Vauban Esprit vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Vauban Esprit (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Vauban Esprit sur un fond sombre.",
+      "name": "Glyphe Vauban Esprit - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Esprit Vauban su uno sfondo scuro.",
+      "name": "Glifo Vauban Esprit - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 에스피릿 바우반을 묘사한 글리프입니다.",
+      "name": "바우반 에스피릿 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Esprit Vauban sobre un fondo oscuro.",
+      "name": "Glifo de Vauban Esprit - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 机敏在黑暗背景下的浮印。",
+      "name": "Vauban 机敏浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вобана «Эспри» на тёмном фоне.",
+      "name": "Глиф: Вобан «Эспри» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Esprit Vauban のグリフ。",
+      "name": "Vauban Esprit グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Vauban Esprit na ciemnym tle.",
+      "name": "Glif Vauban Esprit — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Vauban Esprit em um fundo escuro.",
+      "name": "Glifo: Vauban Esprit (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Vauban 機敏在黑暗背景下的浮印。",
+      "name": "Vauban 機敏浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Vauban Esprit บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Vauban Esprit - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Esprit koyu fonlu glif.",
+      "name": "Vauban Esprit Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вобана в шоломі «Жвавість» на темному тлі.",
+      "name": "Темний гліф «Вобан „Жвавість“»",
+      "code": "uk"
+    }
+  ]
+}

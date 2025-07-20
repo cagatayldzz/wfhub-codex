@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWHisameHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-hisame-helmet-a405f64082.png",
+  "name": "Frost Hisame Helmet",
+  "description": "A helmet for the Frost Warframe, designed by malaya and AMO_017.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Helm für den Frost Warframe, entworfen von malaya und AMO_017.",
+      "name": "Frost-Helm: Hisame",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Frost, conçu par malaya et AMO_017.",
+      "name": "Casque Frost Hisame",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Frost, ideato da malaya e AMO_017.",
+      "name": "Elmo Frost Hisame",
+      "code": "it"
+    },
+    {
+      "description": "malaya와 AMO_017에 의해 디자인된 프로스트 워프레임을 위한 헬멧입니다.",
+      "name": "프로스트 히사메 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Frost, diseñado por malaya y AMO_017.",
+      "name": "Casco Hisame de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 战甲头盔，由 malaya 和 AMO_017 设计。",
+      "name": "Frost 冰雨头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Фрост, созданный malaya и AMO_017.",
+      "name": "Шлем Фроста: Хисаме",
+      "code": "ru"
+    },
+    {
+      "description": "Frost用のヘルメット。製作者：malaya＆AMO_017。",
+      "name": "Frost Hisame ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Frost, zaprojektowany przez malaya i AMO_017.",
+      "name": "Frost: Hełm Hisame",
+      "code": "pl"
+    },
+    {
+      "description": "Um Capacete para o Warframe Frost, desenvolvido por malaya e AMO_017.",
+      "name": "Frost: Capacete Hisame",
+      "code": "pt"
+    },
+    {
+      "description": "Frost Warframe 的頭盔，由 malaya 和 AMO_017 設計。",
+      "name": "Frost 冰雨頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Frost Warframe ออกแบบโดย malaya และ AMO_017",
+      "name": "หมวกเหล็ก Frost Hisame",
+      "code": "th"
+    },
+    {
+      "description": "malaya ve AMO_017 tarafından dizayn edilen bir Frost Warframe miğferi.",
+      "name": "Frost Hisame Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Фроста, створений malaya й AMO_017.",
+      "name": "Шолом «Гішаме» для Фроста",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TeshinBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---teshin-503a2f22f2.png",
+  "name": "Noggle Statue - Teshin",
+  "description": "A small wobbly statue of Teshin.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Teshin.",
+      "name": "Noggle-Statue: Teshin",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Teshin.",
+      "name": "Statuette Noggle - Teshin",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Teshin con la testa tremolante.",
+      "name": "Statuetta Noggle - Teshin",
+      "code": "it"
+    },
+    {
+      "description": "테신의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 테신",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Teshin.",
+      "name": "Estatua Tambaleante - Teshin",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Teshin 摇头娃娃。",
+      "name": "Teshin 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Тешина.",
+      "name": "Фигурка: Тешин",
+      "code": "ru"
+    },
+    {
+      "description": "Teshinのボブルヘッド人形。",
+      "name": "Teshin ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Teshina.",
+      "name": "Figurka Noggle — Teshin",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Teshin.",
+      "name": "Estatueta: Teshin",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Teshin 的搖頭娃娃。",
+      "name": "Teshin 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Teshin ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Teshin",
+      "code": "th"
+    },
+    {
+      "description": "Teshin'in sallanan küçük bir heykeli.",
+      "name": "Noggle Heykeli - Teshin",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Тешина.",
+      "name": "Ноґл «Тешин»",
+      "code": "uk"
+    }
+  ]
+}

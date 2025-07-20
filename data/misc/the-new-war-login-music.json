@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-new-war-login-music-79b0813a86.png",
+  "name": "The New War Login Music",
+  "description": "The New War login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Der Neue Krieg, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Der Neue Krieg",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical de la Nouvelle Guerre à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Nouvelle Guerre",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento La Nuova Guerra da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica La Nuova Guerra",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 새로운 전쟁 로그인 음원입니다.",
+      "name": "새로운 전쟁 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de La Nueva Guerra para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de La Nueva Guerra",
+      "code": "es"
+    },
+    {
+      "description": "《新纪之战》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《新纪之战》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Новая война» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Новая война",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞ける新たな大戦のログインミュージック。",
+      "name": "新たな大戦 ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Nowa Wojna, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Nowa Wojna",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'A Nova Guerra' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Nova Guerra",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞新世戰紀的登入畫面背景音樂。",
+      "name": "新世戰紀登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน The New War ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "The New War Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da New War giriş müziğinin keyfini çıkar.",
+      "name": "The New War Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Нова війна» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Нова війна»",
+      "code": "uk"
+    }
+  ]
+}

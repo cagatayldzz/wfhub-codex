@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankFour",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-friend-sigil-829b129400.png",
+  "name": "Entrati Friend Sigil",
+  "description": "A sigil representing prestige gained with the Entrati.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei den Entrati repräsentiert.",
+      "name": "Siegel: Entrati Freund",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec les Entrati.",
+      "name": "Sceau d'Ami Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con gli Entrati.",
+      "name": "Sigillo Amico Entrati",
+      "code": "it"
+    },
+    {
+      "description": "엔트라티로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "엔트라티 친구 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los Entrati.",
+      "name": "Sello Amigo de los Entrati",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了英择谛的威望。",
+      "name": "英择谛朋友纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение, достигнутое в семье Энтрати.",
+      "name": "Сигил: Энтрати - друг",
+      "code": "ru"
+    },
+    {
+      "description": "エントラティから得た声望を表すシジル。",
+      "name": "エントラティ友達 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Entrati.",
+      "name": "Znak Entrati: Przyjaciel",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com os Entrati.",
+      "name": "Brasão: Amigo dos Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了源拓氏的威望。",
+      "name": "源拓氏朋友紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Entrati",
+      "name": "เครื่องหมาย Entrati: เพื่อน",
+      "code": "th"
+    },
+    {
+      "description": "Entrati prestijini sembolize eden bir mühür.",
+      "name": "Entrati Arkadaş Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в родини Ентраті.",
+      "name": "Сиґіл «Ентраті: друг»",
+      "code": "uk"
+    }
+  ]
+}

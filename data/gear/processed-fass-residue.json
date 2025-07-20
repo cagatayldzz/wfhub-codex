@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/processed-fass-residue-4c105e537f.png",
+  "name": "Processed Fass Residue",
+  "description": "Matter from the body of the Wyrm Fass, purged of toxins, and rendered usefully. Used to attract Aquapulmo and Flagellocanth in Cambion Drift surface hotspots, Aquapulmo only during Vome.\n\nObtained from Daughter in the Necralisk (Deimos).",
+  "languages": [
+    {
+      "description": "Materie aus dem Körper des Lindwurms 'Fass', von Giftstoffen befreit und nutzbar gemacht. Wird verwendet, um Aquapulmo und Flagellocanth in Hotspots der Cambion-Drift an die Oberfläche zu locken (Aquapulmo nur während Vome).\n\nZu erhalten von Tochter im Necralisk (Deimos).",
+      "name": "Verarbeitete Fass Überreste",
+      "code": "de"
+    },
+    {
+      "description": "Matière provenant du corps du Wyrm Fass, purgée des toxines et rendue utile. Utilisée pour attirer l'Aquapulmo et le Flagellocanthe aux points d'affluence de la surface du Puy de Cambion, l'Aquapulmo uniquement pendant Vome.\n\nObtenue auprès de la Fille dans le Necralisk (Deimos).",
+      "name": "Résidu de Fass Traité",
+      "code": "fr"
+    },
+    {
+      "description": "Materia proveniente dal corpo del Wyrm Fass, epurata dalle tossine e resa utile. Utilizzata per attrarre Aquapulmo e Flagellocanth nei punti caldi della superficie del Cambion Drift, Aquapulmo solo durante Vome.\n\nOttenibile da Figlia nel Necralisk (Deimos).",
+      "name": "Residuo Fass Processato",
+      "code": "it"
+    },
+    {
+      "description": "독소 제거 후 유용한 소재로 사용이 가능하도록 가공된 고룡 파스의 잔해 물질입니다. 캠비온 퇴적지 표면 핫스팟 내 아쿠아펄모 및 플레젤로캔스, 봄 주기 동안에는 아쿠아펄모만 유인하는데 사용됩니다.\n\n네크랄리스크 (데이모스) 의 딸에게서 획득할 수 있습니다.",
+      "name": "가공된 파스 잔여물",
+      "code": "ko"
+    },
+    {
+      "description": "Materia del cuerpo del wyrm Fass, purgada de toxinas, convirtiéndola en algo útil. Se utiliza para atraer acuapulmos y flagelocantos en las zonas activas de la superficie de Deriva Cambion. Acuapulmos solo durante Vome.\n\nSe obtiene con Hija en el Necralisk (Deimos).",
+      "name": "Residuo de Fass procesado",
+      "code": "es"
+    },
+    {
+      "description": "来自于蛟龙“混乱”身上的物质，清除了毒素后变得有用了。可以用来吸引魔胎之境地面鱼点中的水肺和须腔棘鱼、“秩序”期间的水肺。\n\n从殁世幽都（火卫二）的“女儿”处获得。",
+      "name": "处理过的“混乱”残留物",
+      "code": "zh"
+    },
+    {
+      "description": "Материя из тела вирма Фэза, очищенная от токсинов и правильно обработанная. Нужна для привлечения аквапульм и флагеллокантов в горячих точках на поверхности Камбионского Дрейфа, аквапульмы только во время активности Воум.\n\nМестонахождение: у Дочери в Некралиске (Деймос).",
+      "name": "Обработанные Останки Фэза",
+      "code": "ru"
+    },
+    {
+      "description": "Fassの死骸から毒素を取り除いて、有用になった物質。カンビオン荒地の地表のホットスポット使うとアクアプルモとフラジェロカンスを引き寄せる。アクアプルモはVomeが見守っている間のみ引き寄せられる。\n\n場所：ネクロリスク（ダイモス）のDaughterから入手可能。",
+      "name": "加工済みの Fass残余",
+      "code": "ja"
+    },
+    {
+      "description": "Materia z ciała Wyrma Fass, oczyszczona z toksyn i użyteczna. Może służyć do zwabienia Akwenpulma oraz Flagelokanta na powierzchni Dryfu Kambionu, oraz Akwenpulmo w trakcie fazy Vome.\n\nMoże zostać zdobyta od Córki w Nekralisku (Deimos).",
+      "name": "Przetworzone Resztki Fass",
+      "code": "pl"
+    },
+    {
+      "description": "Matéria corporal do Wyrm Fass, purgada de toxinas e processada para maior utilidade. Utilizada para atrair os peixes Aquapulmo e Flagellocanth em locais de pesca na superfície da Deriva de Cambion. O Aquapulmo só é encontrado durante o ciclo de Vome.\n\nLocalização: obtida com a Filha no Necralisk, em Deimos.",
+      "name": "Resíduo de Fass Processado",
+      "code": "pt"
+    },
+    {
+      "description": "蛟龍 Fass 體內的物質，已除去毒素且變得可用。於魔裔禁地的地面魚點用來吸引液肺魩以及鞭棘鱇。液肺魩僅限 Vome 週期。\n\n可以從亡骸殿（火衛二）的女兒取得。",
+      "name": "加工過的 Fass 殘餘物",
+      "code": "tc"
+    },
+    {
+      "description": "สสารจากร่างของ Wyrm Fass ที่ล้างสารพิษออกแล้วนำมาทำให้ใช้ประโยชน์ได้ เอาไว้ใช้ล่อปลา Aquapulmo และ Flagellocanth ตรงจุดฮอตสปอตที่มีปลาชุกชุมบนพื้นผิวของแคมบิออนดริฟต์ ซึ่งจะพบ Aquapulmo ได้เฉพาะในช่วงเวลาของ Vome เท่านั้น\n\nรับได้จาก Daughter ในเนคราลิสก์ (ดาวเดมอส)",
+      "name": "เศษตกค้างของ Fass ที่แปรรูปแล้ว",
+      "code": "th"
+    },
+    {
+      "description": "Wyrm Fass'ın vücudundan gelen ve toksinlerden arındırılarak yararlı hale getirilmiş bir madde. Cambion Dift yüzeyindeki sıcak noktalarda bulunan Aquapulmo ve Flagellocanth'ı çekmek için kullanılır. Aquapulmo yalnızca Vome sırasında ortaya çıkar.\n\nKonum: Necralisk'teki (Deimos) Kız Evlattan elde edilir.",
+      "name": "İşlenmiş Fass Kalıntısı",
+      "code": "tr"
+    },
+    {
+      "description": "Очищений від токсинів матеріал із решток змія Фасса, придатний для вживання. Використовується для приманювання аквапульми та флаґеллоканта в певних ділянках поверхні Кембіонської течії, аквапульма ловиться лише під час нагляду Вом.\n\nМожна придбати в Доньки в Некраліску (Деймос).",
+      "name": "Оброблені рештки Фасса",
+      "code": "uk"
+    }
+  ]
+}

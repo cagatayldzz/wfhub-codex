@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorAccentsHyekka",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cargo-yellow-b3fb52f233.png",
+  "name": "Cargo Yellow",
+  "description": "Splices the genes in your pet Kavat to change the color of its fur.",
+  "languages": [
+    {
+      "description": "Spleiße die Gene deines Kavat Haustieres, um die Farbe seines Fells zu verändern.",
+      "name": "Cargogelb",
+      "code": "de"
+    },
+    {
+      "description": "Épisse les gènes de votre Kavat pour changer la couleur de sa fourrure.",
+      "name": "Jaune Cargo",
+      "code": "fr"
+    },
+    {
+      "description": "Combina i geni nel tuo Kavat domestico per cambiare il colore del suo pelo.",
+      "name": "Giallo Cargo",
+      "code": "it"
+    },
+    {
+      "description": "애완 카밧의 유전자를 접합하여 털 색상을 변경합니다.",
+      "name": "카고 옐로우",
+      "code": "ko"
+    },
+    {
+      "description": "Ajusta los genes en tu mascota kavat para cambiar el color de su pelaje.",
+      "name": "Amarillo fluorescente",
+      "code": "es"
+    },
+    {
+      "description": "通过基因拼接来改变库娃毛皮的颜色。",
+      "name": "货物黄",
+      "code": "zh"
+    },
+    {
+      "description": "Сплетает гены вашего питомца-кавата для изменения цвета его шерсти.",
+      "name": "Груз-жёлтый",
+      "code": "ru"
+    },
+    {
+      "description": "キャバットの遺伝子を組成して、毛皮の色を変更します。",
+      "name": "カーゴ・イエロー",
+      "code": "ja"
+    },
+    {
+      "description": "Splata geny Twojego Kavata, aby otrzymać inny kolor futra.",
+      "name": "Żółć Ładunku",
+      "code": "pl"
+    },
+    {
+      "description": "Combina os genes de seu Kavat para mudar a coloração da pelagem.",
+      "name": "Amarelo Carga",
+      "code": "pt"
+    },
+    {
+      "description": "藉由基因拼接來改變庫娃毛皮的顏色。",
+      "name": "貨物黃",
+      "code": "tc"
+    },
+    {
+      "description": "ตัดต่อยีนสัตว์เลี้ยง Kavat ของคุณเพื่อเปลี่ยนสีขนของมัน",
+      "name": "Cargo Yellow",
+      "code": "th"
+    },
+    {
+      "description": "Kavatınızdaki genleri birleştirerek kürk rengini değiştirir.",
+      "name": "Kargo Sarısı",
+      "code": "tr"
+    },
+    {
+      "description": "Поєднуйте гени під час виведення кавата, щоб змінити колір забарвлення хутра.",
+      "name": "Вантажно-жовтий",
+      "code": "uk"
+    }
+  ]
+}

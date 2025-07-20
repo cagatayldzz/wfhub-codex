@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ContainerDecoItemSalvage",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/compacted-salvage-decoration-6e84989a9e.png",
+  "name": "Compacted Salvage Decoration",
+  "description": "A Compacted Salvage resource decoration to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von verdichtetem Bergungsgut.",
+      "name": "Dekoration: Verdichtetes Bergungsgut",
+      "code": "de"
+    },
+    {
+      "description": "De la Récupération Compactée à placer dans votre Orbiteur.",
+      "name": "Décoration Récupération Compactée",
+      "code": "fr"
+    },
+    {
+      "description": "Dei Rottami Compattati decorativi da piazzare nell'Orbiter.",
+      "name": "Rottami Compattati - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 컴팩티드 샐비지 자원 장식입니다.",
+      "name": "컴팩티드 샐비지 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un bloque de restos compactados para colocar en tu orbitador.",
+      "name": "Decoración de restos compactados",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的压缩过的回收金属。",
+      "name": "压缩过的回收金属装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Спрессованное Вторсырье",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材装飾品の収納済サルベージ。",
+      "name": "収納済サルベージの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Sprasowany Złom, który możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Sprasowany Złom",
+      "code": "pl"
+    },
+    {
+      "description": "Um bloco de restos compactados para colocar em sua Orbital.",
+      "name": "Sucata Compactada",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的壓縮過的回收金屬。",
+      "name": "壓縮過的回收金屬裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "เศษโลหะที่อัดแน่นเอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: เศษโลหะที่อัดแน่น",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Yoğun Değerli Metal dekorasyonu.",
+      "name": "Yoğun Değerli Metal Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цей блок пресованого брухту на палубі орбітра.",
+      "name": "Оздоблення: пресований брухт",
+      "code": "uk"
+    }
+  ]
+}

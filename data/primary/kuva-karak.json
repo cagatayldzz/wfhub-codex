@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Karak/KuvaKarak",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-karak-7e2d8b29a9.png",
+  "name": "Kuva Karak",
+  "description": "The custom weapon of a fearsome Kuva Lich. It has greater reload speed, lower recoil and greater accuracy than the standard-issue Karak rifle.",
+  "languages": [
+    {
+      "description": "Eine angepasste Waffe eines furchterregenden Kuva Lichs. Sie hat eine höhere Nachladegeschwindigkeit, reduzierten Rückstoß und bessere Genauigkeit als die Standardausführung des Karak Gewehrs.",
+      "name": "Kuva Karak",
+      "code": "de"
+    },
+    {
+      "description": "Arme personnalisée d'une terrifiante Liche Kuva. Il a une plus grande Vitesse de Rechargement, un recul moindre et une meilleure précision que son modèle standard.",
+      "name": "Karak Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "L'arma personalizzata di un temibile Kuva Lich. Ha una velocità di ricarica superiore, un rinculo minore e una maggiore precisione rispetto al fucile Karak standard.",
+      "name": "Kuva Karak",
+      "code": "it"
+    },
+    {
+      "description": "무시무시한 쿠바 리치의 맞춤형 무기입니다. 기존보다 높은 재장전 속도 및 정확도 그리고 낮은 반동을 가지고 있습니다.",
+      "name": "쿠바 카락",
+      "code": "ko"
+    },
+    {
+      "description": "El arma personalizada de un temible Lich de Kuva. Tiene mayor velocidad de recarga, menor retroceso y mayor precisión que el rifle estándar Karak.",
+      "name": "Karak Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA KARAK）某位可怕的赤毒玄骸所使用的改装武器。相比于原版卡拉克步枪，它拥有更快的装填速度、更低的后座力以及更高的精准度。",
+      "name": "赤毒·卡拉克",
+      "code": "zh"
+    },
+    {
+      "description": "Изготовленное на заказ оружие грозного Лича Кувы. Обладает большей скоростью перезарядки, меньшей отдачей и большей точностью, чем стандартная автоматическая винтовка Карак.",
+      "name": "Карак Кува",
+      "code": "ru"
+    },
+    {
+      "description": "クバ・リッチ用にデザインされたカスタム武器。通常のKarakライフルに比べリロード速度、反動、制度が勝っている。",
+      "name": "Kuva Karak",
+      "code": "ja"
+    },
+    {
+      "description": "Spersonalizowana broń przerażającego Licza Kuvy. Posiada zwiększoną Prędkość Przeładowania, mniejszy odrzut i większą celność niż standardowy Karak.",
+      "name": "Karak Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma customizada de um temível Lich de Kuva. Apresenta velocidade de recarga, recuo e precisão aprimorados se comparados com os atributos base da Karak comum.",
+      "name": "Karak Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA KARAK）可怕的赤毒巫妖的客製化武器。相較於標準配置的卡拉克步槍，赤毒卡拉克具有更快的換彈速度、更低的後座力，以及更高的射擊精準度。",
+      "name": "赤毒 卡拉克",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธของ Kuva Lich ที่น่ากลัวแบบกำหนดเองกระบอกนี้มีความเร็วในการรีโหลดกระสุนที่ดีขึ้น มีแรงถีบที่ลดลง และมีความแม่นยำมากกว่าปืนไรเฟิล Karak รุ่นมาตรฐาน",
+      "name": "Kuva Karak",
+      "code": "th"
+    },
+    {
+      "description": "Korkutucu Kuva Lich'in özel versiyon silahı. Daha yüksek şarjör doldurma hızına, daha düşük tepmeye ve sıradan Karak tüfeğinden daha yüksek isabet oranına sahiptir.",
+      "name": "Kuva Karak",
+      "code": "tr"
+    },
+    {
+      "description": "Кувова модифікація гвинтівки «Карак», якою користуються кувові лічі. Швидше перезаряджається, точніше стріляє, має зменшену віддачу.",
+      "name": "Карак-кува",
+      "code": "uk"
+    }
+  ]
+}

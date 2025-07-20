@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Camo/GrnAkimboPistolsCamo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gremlins-desert-camo-skin-1751a481ef.png",
+  "name": "Gremlins Desert-Camo Skin",
+  "description": "Desert camouflage skin for the Gremlins.",
+  "languages": [
+    {
+      "description": "Wüsten-Tarnanstrich für die Gremlins.",
+      "name": "Gremlins-Skin: Wüstentarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Désert pour les Gremlins.",
+      "name": "Aspect Gremlins Camouflage Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Desert-Camo per le Gremlins.",
+      "name": "Skin Gremlins Desert-Camo",
+      "code": "it"
+    },
+    {
+      "description": "그렘린즈를 위한 사막용 위장 스킨입니다.",
+      "name": "그렘린즈 데저트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje desértico para las Gremlins.",
+      "name": "Diseño Camuflaje desértico de Gremlins",
+      "code": "es"
+    },
+    {
+      "description": "给小精灵使用的沙漠伪装迷彩。",
+      "name": "双子小精灵 沙漠迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Пустынный камуфляж для Гремлинов.",
+      "name": "Скин Гремлинов: Пустынный камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "GREMLINS用の砂漠迷彩スキン。",
+      "name": "Gremlins Desert-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka z pustynnym kamuflażem dla pistoletów Gremlin.",
+      "name": "Gremliny: Skórka Kamuflaż Pustynny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem de deserto para o Gremlins.",
+      "name": "Gremlins: Skin Camuflagem Desértica",
+      "code": "pt"
+    },
+    {
+      "description": "給小精靈使用的沙漠偽裝迷彩。",
+      "name": "雙子小精靈 沙漠迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางทะเลทรายสำหรับ Gremlins",
+      "name": "สกิน Gremlins Desert-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Gremlin'ler için çöl kamuflaj kıyafeti.",
+      "name": "Gremlins Çöl-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Пустельно-тактичний вигляд для пістолетів «Гремліни».",
+      "name": "Вигляд «Пустельний камуфляж» для Гремлінів",
+      "code": "uk"
+    }
+  ]
+}

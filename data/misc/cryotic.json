@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cryotic-0c63ca0f8d.png",
+  "name": "Cryotic",
+  "description": "Usually found in extreme sub-zero environments, Cryotic instantly freezes anything it contacts.\n\nLocation: Excavation Missions on Venus, Earth, Phobos, Europa, and Neptune",
+  "languages": [
+    {
+      "description": "Gewöhnlich in Gebieten mit extremen Minusgraden gefunden, gefriert Kryotik alles, was mit ihm in Berührung kommt.\n\nQuelle: Ausgrabung-Missionen auf Venus, Erde, Phobos, Europa und Neptun.",
+      "name": "Kryotik",
+      "code": "de"
+    },
+    {
+      "description": "Trouvée habituellement dans les environnements extrêmes à température négative, la Cryotique gèle instantanément tout ce qu'elle touche.\n\nLieu: Missions d'Excavations sur Vénus, Terre, Phobos, Europe et Neptune",
+      "name": "Cryotique",
+      "code": "fr"
+    },
+    {
+      "description": "Solitamente rinvenibile in ambienti sotto-zero, il Cryotic congela all'istante qualunque cosa tocchi.\n\nPosizione: Missioni Scavo su Venere, Terra, Phobos, Europa e Nettuno",
+      "name": "Cryotic",
+      "code": "it"
+    },
+    {
+      "description": "주로 극한의 영하 환경에서 발견되는 크라이오틱은 접촉하는 모든 것을 순식간에 얼어붙게 만듭니다.\n\n획득 가능 장소: 금성, 지구, 포보스, 유로파 및 해왕성의 발굴 미션",
+      "name": "크라이오틱",
+      "code": "ko"
+    },
+    {
+      "description": "Una sustancia encontrada en depósitos bajo cero en el interior de cavernas árticas naturales.\n\nUbicación: Misiones de excavación en Venus, Tierra, Fobos, Europa y Neptuno",
+      "name": "Criótica",
+      "code": "es"
+    },
+    {
+      "description": "通常在零度以下的极端环境中可以找到，永冻晶矿可以立即冰冻任何与它接触的东西。\n\n获取地点：金星，地球，火卫一，欧罗巴和海王星上的挖掘任务",
+      "name": "永冻晶矿",
+      "code": "zh"
+    },
+    {
+      "description": "Обычно может быть найден в среде с экстремально низкими температурами. Криотик мгновенно замораживает все, с чем он контактирует.\n\nМестонахождение: миссии раскопок на Венере, Земле, Фобосе, Европе, Нептуне",
+      "name": "Криотик",
+      "code": "ru"
+    },
+    {
+      "description": "通常氷点下の環境でのみ発掘されるクライオティックは、接触した物質を即時に凍結させる。\n\n場所：金星、地球、フォボス、エウロパ、海王星の発掘ミッション。",
+      "name": "クライオティック",
+      "code": "ja"
+    },
+    {
+      "description": "Zazwyczaj znajdowany w ekstremalnie mroźnych środowiskach, Kriotyk natychmiast zamraża wszystko, z czym wejdzie w kontakt.\n\nPołożenie: Misjach Wydobycia na Wenus, Ziemi, Fobosie, Europie oraz Neptunie. ",
+      "name": "Kriotyk",
+      "code": "pl"
+    },
+    {
+      "description": "Encontrado em ambientes extremos, normalmente em locais com temperaturas negativas, o Criótico congela instantaneamente qualquer coisa que entrar em contato.\n\nLocalização: Missões de Escavação na Terra, Vênus, Fobos, Europa e Netuno.",
+      "name": "Criótico",
+      "code": "pt"
+    },
+    {
+      "description": "通常在零度以下的極端環境中可以找到，永凍晶礦可以立即冰凍任何與它接觸的東西。\n\n地點：金星、地球、火衛一、歐羅巴和海王星上的挖掘任務",
+      "name": "永凍晶礦",
+      "code": "tc"
+    },
+    {
+      "description": "ปกติแล้วจะพบไครโอติกในสภาพแวดล้อมที่หนาวจัดมาก ทำให้ทุกสิ่งที่โดนสัมผัสแข็งตัวทันที\n\nแหล่งที่พบ: ภารกิจขุดเจาะบนดาวศุกร์ โลก ดาวโฟบอส ดาวยูโรปา และดาวเนปจูน",
+      "name": "ไครโอติก",
+      "code": "th"
+    },
+    {
+      "description": "Sıfırın altında ekstrem koşullarda bulunur, dokunduğu her şeyi dondurur.\n\nKonum: Venüs, Dünya, Phobos, Europa ve Neptün'deki Kazı görevleri",
+      "name": "Cryotic",
+      "code": "tr"
+    },
+    {
+      "description": "Ця речовина зазвичай зустрічається в середовищах з надзвичайно низькими температурами. Миттєво заморожує все, чого торкається.\n\nМожна здобути на завданнях із видобутку на Венері, Землі, Фобосі, Європі та Нептуні.",
+      "name": "Кріотик",
+      "code": "uk"
+    }
+  ]
+}

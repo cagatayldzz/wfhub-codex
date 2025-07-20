@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/reconifex-ad08aef093.png",
+  "name": "Reconifex",
+  "description": "Cyte-09's signature rifle is an ideal match for forceful gunners. A precisely timed reload increases reload speed and infuses the new magazine with Heat Damage.",
+  "languages": [
+    {
+      "description": "Das bevorzugte Gewehr von Cyte-09 ist ideal für energische Schützen. Ein präzise getimtes Nachladen erhöht die Nachladegeschwindigkeit und verleiht dem neuen Magazin Hitzeschaden.",
+      "name": "Reconifex",
+      "code": "de"
+    },
+    {
+      "description": "Le Fusil emblématique de Cyte-09 est idéal pour les tireurs énergiques. Un rechargement minuté avec précision augmente la Vitesse de rechargement et confère au nouveau Chargeur des Dégâts de Feu.",
+      "name": "Reconifex",
+      "code": "fr"
+    },
+    {
+      "description": "Il fucile distintivo di Cyte-09 è la scelta ideale per i tiratori più energici. Una precisa ricarica a tempo aumenta la Velocità di Ricarica e infonde il nuovo caricatore con Danno Fuoco.",
+      "name": "Reconifex",
+      "code": "it"
+    },
+    {
+      "description": "이 Cyte-09의 대표 소총은 강력한 사수와 이상적인 조합을 이룹니다. 정확한 타이밍에 재장전할 시 재장전 속도를 높이고 새로 장전한 탄창에 화염 피해가 주입됩니다.",
+      "name": "리코니펙스",
+      "code": "ko"
+    },
+    {
+      "description": "El rifle distintivo de Cyte-09 es la opción ideal para los tiradores más enérgicos. Una recarga en el momento preciso aumenta la velocidad de recarga e infunde daño de calor al nuevo cargador.",
+      "name": "Reconifex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RECONIFEX）Cyte-09 的标志性步枪是强力枪手的理想搭档。精确的装填可提高装填速度，并为下一个弹匣注入火焰伤害。",
+      "name": "侦察者",
+      "code": "zh"
+    },
+    {
+      "description": "Фирменная винтовка Цита-09, которая идеально подходит для сильных стрелков. Точно рассчитанная перезарядка происходит в ускоренном режиме и наполняет новый магазин огненным уроном.",
+      "name": "Реконифекс",
+      "code": "ru"
+    },
+    {
+      "description": "Cyte-09を象徴するライフルは、力強いガンナーに最適の組み合わせだ。正確なタイミングでリロードするとリロード速度が上がり、次のマガジンに火炎ダメージが付与される。",
+      "name": "Reconifex",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczny karabin Cyte-09 idealnie pasuje do strzelców o silnym charakterze. Precyzyjnie dopracowanie Przeładowanie zwiększa Prędkość Przeładowania i nakłada na nowy magazynek Obr. od Ognia.",
+      "name": "Reconifex",
+      "code": "pl"
+    },
+    {
+      "description": "O rifle tradicional do Cyte-09 é uma combinação ideal para atiradores precisos. Realizar uma recarga no momento correto aumentará a velocidade de recarga e infundirá o novo carregador com Dano Ígneo adicional.",
+      "name": "Reconifex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RECONIFEX）Cyte-09 的標誌性步槍是猛攻槍手的最佳夥伴。抓準時機裝填可提升裝填速度並對新彈匣注入火焰傷害。",
+      "name": "偵察佐",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิลประจำตัวของ Cyte-09 เหมาะอย่างยิ่งสำหรับมือปืนที่เน้นความแม่นยำ การรีโหลดกระสุนในเวลาที่เหมาะสมจะช่วยเพิ่มความเร็วในการรีโหลดกระสุน และยังเพิ่มพลังการสร้างความเสียหายด้วยไฟให้กับแม็กกาซีนชุดใหม่อีกด้วย",
+      "name": "Reconifex",
+      "code": "th"
+    },
+    {
+      "description": "Cyte-09'un özel tüfeği, güçlü nişancılar için ideal bir eştir. Yeniden doldurma hassas bir şekilde zamanlandığında, yeniden doldurma hızını artırır ve yeni şarjöre Ateş Hasarı verir.",
+      "name": "Reconifex",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна гвинтівка Клітини-09 ідеально пасує потужним стрільцям. Точно розрахований момент перезаряджання пришвидшує саме перезаряджання й насичує термічною шкодою набої з нового магазину.",
+      "name": "Розвідниця",
+      "code": "uk"
+    }
+  ]
+}

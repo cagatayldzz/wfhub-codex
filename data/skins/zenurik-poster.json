@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Focus/ZenurikPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zenurik-poster-3344925da2.png",
+  "name": "Zenurik Poster",
+  "description": "The Zenurik crystal, crowned with light, embodies domination over the inferior.",
+  "languages": [
+    {
+      "description": "Der mit Licht gekrönte Zenurik-Kristall verkörpert die Herrschaft über das Untergebene.",
+      "name": "Poster: Zenurik",
+      "code": "de"
+    },
+    {
+      "description": "Le cristal Zenurik, couronné de lumière, incarne la domination sur l'inférieur.",
+      "name": "Affiche Zenurik",
+      "code": "fr"
+    },
+    {
+      "description": "Il cristallo Zenurik, coronato di luce, incarna il dominio sull'inferiore.",
+      "name": "Poster Zanurik",
+      "code": "it"
+    },
+    {
+      "description": "빛으로 장식된 제누릭의 수정은 열등한 존재들에 대한 지배를 체현합니다.",
+      "name": "제누릭 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "El cristal Zenurik, coronado de luz, simboliza el dominio sobre la inferioridad.",
+      "name": "Póster Zenurik",
+      "code": "es"
+    },
+    {
+      "description": "Zenurik 之晶，以光为冕，统领弱者。",
+      "name": "Zenurik 海报",
+      "code": "zh"
+    },
+    {
+      "description": "Кристалл Зенурика, увенчанный светом, олицетворяет господство над низшим.",
+      "name": "Постер: Зенурик",
+      "code": "ru"
+    },
+    {
+      "description": "Zenurikの結晶がもたらす光は、劣等者に対する支配を体現する。",
+      "name": "Zenurik ポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Kryształ Zenurik, uwieńczony światłem, symbolizuje dominację nad niższością.",
+      "name": "Plakat Zenurik",
+      "code": "pl"
+    },
+    {
+      "description": "O cristal Zenurik, coroado com luz, encarna a dominação sobre os seres inferiores.",
+      "name": "Pôster da Escola Zenurik",
+      "code": "pt"
+    },
+    {
+      "description": "Zenurik 水晶以光為冠冕，體現了對劣者的支配。",
+      "name": "Zenurik 海報",
+      "code": "tc"
+    },
+    {
+      "description": "คริสตัล Zenurik ที่ประดับประดาด้วยแสง สะท้อนถึงการมีอำนาจเหนือผู้ที่ด้อยกว่า",
+      "name": "โปสเตอร์: Zenurik",
+      "code": "th"
+    },
+    {
+      "description": "Işıkla taçlanan Zenurik kristali, astlar üzerindeki hakimiyeti temsil eder.",
+      "name": "Zenurik Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Кристал Зенурік, осяяний світлом, уособлює панування над недолугими.",
+      "name": "Плакат «Зенурік»",
+      "code": "uk"
+    }
+  ]
+}

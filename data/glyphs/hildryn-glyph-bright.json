@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageIronFrameBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-glyph---bright-f7f4f8092c.png",
+  "name": "Hildryn Glyph - Bright",
+  "description": "A glyph depicting Hildryn on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Hildryn vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Hildryn (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Hildryn sur fond lumineux.",
+      "name": "Glyphe Hildryn - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Hildryn su uno sfondo chiaro.",
+      "name": "Glifo Hildryn - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 힐드린을 묘사한 글리프입니다.",
+      "name": "힐드린 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Hildryn sobre un fondo claro.",
+      "name": "Glifo de Hildryn - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Hildryn 在明亮背景下的浮印。",
+      "name": "Hildryn 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Хильдрин на светлом фоне.",
+      "name": "Глиф: Хильдрин - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたHildrynのグリフ。",
+      "name": "Hildryn グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Hildryn na jasnym tle.",
+      "name": "Glif Hildryn — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Hildryn em um fundo claro.",
+      "name": "Glifo: Hildryn (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Hildryn 在明亮背景下的浮印。",
+      "name": "Hildryn 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Hildryn บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Hildryn - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Hildryn açık fonlu glif.",
+      "name": "Hildryn Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гільдрини на світлому тлі.",
+      "name": "Яскравий гліф «Гільдрина»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/VoidTrader/PrismaGrakata",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-grakata-ae8f90655d.png",
+  "name": "Prisma Grakata",
+  "description": "Encased in plates refined from pure prisma crystals, this rare element gives this assault rifle a radiant luster.",
+  "languages": [
+    {
+      "description": "Eingefasst in Platten aus puren Prismakristallen, verleiht dieses seltene Element dem Sturmgewehr einen strahlenden Glanz.",
+      "name": "Prisma Grakata",
+      "code": "de"
+    },
+    {
+      "description": "Habillé de plaques raffinées à partir de cristaux Prisma, cet élément rare donne à ce Fusil d'assaut un lustre particulièrement rayonnant.",
+      "name": "Grakata Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Racchiuso in piastre di puri cristalli di Prisma raffinati, questo raro elemento dona una splendente lucentezza a questo fucile d'assalto.",
+      "name": "Prisma Grakata",
+      "code": "it"
+    },
+    {
+      "description": "희귀한 재료인 정제된 프리즈마 크리스탈 합판으로 감싸진 빛나는 광택을 가진 돌격 소총입니다.",
+      "name": "프리즈마 그라카타",
+      "code": "ko"
+    },
+    {
+      "description": "Encapsulado en placas refinadas a partir de cristales prisma puros, este elemento raro le da a este rifle de asalto un brillo radiante.",
+      "name": "Grakata Prisma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PRISMA GRAKATA）这把突击步枪镀上了一层纯净的棱晶，此种稀有元素赋予它闪耀动人的光泽。",
+      "name": "棱晶·葛拉卡达",
+      "code": "zh"
+    },
+    {
+      "description": "Покрытая пластинами, созданными из чистейших призматических кристаллов, эта штурмовая винтовка стала ослепляюще сиять.",
+      "name": "Граката Призма",
+      "code": "ru"
+    },
+    {
+      "description": "このアサルトライフルは純粋なプリズマクリスタルから精製されたプレートに包まれており、その稀有元素によって光り輝いている。",
+      "name": "Prisma Grakata",
+      "code": "ja"
+    },
+    {
+      "description": "Obłożony płytami rafinowanymi z czystych kryształów Prisma, ten rzadki pierwiastek nadaje karabinowi szturmowemu promiennego blasku.",
+      "name": "Grakata Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Envolto em placas refinadas de cristais de Prisma puro, este elemento raro dá a este rifle de assalto um brilho radiante.",
+      "name": "Grakata Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PRISMA GRAKATA）這把突擊步槍鍍上了一層純淨的棱水晶，此種稀有元素賦予它閃耀動人的光澤。",
+      "name": "棱晶 葛拉卡達",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิลจู่โจมกระบอกนี้มีส่วนประกอบหายากที่ทำจากแผ่นโลหะซึ่งผ่านการขัดเกลาจากคริสตัลพริสมาบริสุทธิ์ ทำให้อาวุธชิ้นนี้มีประกายแวววาว",
+      "name": "Prisma Grakata",
+      "code": "th"
+    },
+    {
+      "description": "Saf prizma kristallerinin kaplanması ile oluşan bu nadir element bu saldırı tüfeğine ışıldayan bir parlaklık kazandırır.",
+      "name": "Prisma Grakata",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматична гвинтівка, пластини якої вилиті з чистих призмових кристалів та осяйно блискотять.",
+      "name": "Ґраката-призма",
+      "code": "uk"
+    }
+  ]
+}

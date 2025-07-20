@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/UnlockMagAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-agile-animation-set-81886851c9.png",
+  "name": "Mag Agile Animation Set",
+  "description": "This item lets you use Mag's agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Mags agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Mag-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles de Mag avec n'importe quelle autre Warframe.",
+      "name": "Animation Mag Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Mag con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Mag",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 매그의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "매그 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Mag con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Mag",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Mag 的迅捷站姿。",
+      "name": "Mag 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Мэг на любом другом варфрейме.",
+      "name": "Набор анимаций Мэг: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Magのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Mag アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Mag w każdym innym Warframe'ie.",
+      "name": "Animacje Mag: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis da Mag em qualquer Warframe de sua escolha.",
+      "name": "Animações: Mag (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Mag 的迅捷站姿。",
+      "name": "Mag 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Mag ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Mag",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Mag'in agile animasyon setinin kullanımına izin verir.",
+      "name": "Mag Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Меґ до будь-якого ворфрейма.",
+      "name": "Меґ: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

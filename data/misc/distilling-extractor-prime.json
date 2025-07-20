@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Ship/AdvancedUcResourceDrone",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/distilling-extractor-prime-0551a78a4e.png",
+  "name": "Distilling Extractor Prime",
+  "description": "The Distilling Extractor Prime has an increased chance of acquiring uncommon and rare resources.\n\nDeploy this Extractor on a planet to collect large amounts of resources. It must be emptied regularly and monitored for damage.",
+  "languages": [
+    {
+      "description": "Der Destillier Extraktor Prime hat eine erhöhte Chance, ungewöhnliche und seltene Ressourcen zu erlangen.\n\nSetze diesen Extraktor auf Planeten ein, um große Mengen an Ressourcen zu sammeln. Er muss regelmäßig geleert und auf Schäden überwacht werden.",
+      "name": "Destillier Extraktor Prime",
+      "code": "de"
+    },
+    {
+      "description": "L'Extracteur Distillateur Prime a une chance plus grande d'acquérir des Ressources inhabituelles et rares.\n\nDéployez cet Extracteur sur une planète pour collecter de grandes quantités de Ressources. Il doit être vidé régulièrement et contrôlé en cas de dégâts.",
+      "name": "Extracteur Distillateur Prime",
+      "code": "fr"
+    },
+    {
+      "description": "L'Estrattore Distillatore Prime ha una probabilità maggiore di ottenere risorse non comuni e rare.\n\nDispiega questo Estrattore su un pianeta per raccogliere grandi quantità di risorse. Deve essere svuotato regolarmente e monitorato per i danni.",
+      "name": "Estrattore Distillatore Prime",
+      "code": "it"
+    },
+    {
+      "description": "디스틸링 프라임 추출기는 희귀하거나 드문 자원을 추출 할 확률이 높습니다.\n\n추출기를 행성으로 보내 많은 양의 자원을 수집하도록 할 수 있습니다. 가득 찰때마다 비워줘야 하며 피해 상태를 확인 해 줘야 합니다.",
+      "name": "디스틸링 추출기 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "El extractor de destilación Prime proporciona una mayor probabilidad de adquisición de recursos poco comunes y raros.\n\nDespliega este extractor en un planeta para recoger grandes cantidades de recursos. Debe vaciarse regularmente para supervisar los daños.",
+      "name": "Extractor de Destilación Prime",
+      "code": "es"
+    },
+    {
+      "description": "精粹采集机 PRIME 增加获得稀有资源的几率。\n\n部署采集机在星球收集大量资源 ，它必须定期清理并检查是否有损坏。",
+      "name": "精粹采集机 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Дистиллирующий экстрактор Прайм имеет увеличенный шанс на добычу необычных и редких ресурсов.\n\nРазверните этот экстрактор на планете для получения большого числа ресурсов. Для максимальной эффективности должен регулярно опустошаться и проверяться на повреждения.",
+      "name": "Дистиллирующий экстрактор Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "DISTILLING PRIME エクストラクターはアンコモンとレアな資源を入手しやすくなっている。\n\nこのエクストラクターを惑星に設置し大量の資源を収集する。定期的に内包物を回収し損傷を監視する必要がある。",
+      "name": "Distilling Prime エクストラクター",
+      "code": "ja"
+    },
+    {
+      "description": "Destylujący Ekstraktor Prime ma zwiększoną szansę zdobycia niespotykanych i rzadkich surowców.\n\nWyślij ten Ekstraktor na planetę, by zebrać dużą ilość surowców. Musi być regularnie opróżniany i sprawdzany pod kątem odniesionych obrażeń.",
+      "name": "Destylujący Ekstraktor Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O Extrator Purificador Prime aumenta a chance de adquirir recursos incomuns e raros.\n\nPosicione este Extrator em um planeta para coletar grandes quantidades de recursos. Deve ser esvaziado regularmente e monitorado para evitar danos.",
+      "name": "Extrator Purificador Prime",
+      "code": "pt"
+    },
+    {
+      "description": "精粹採集機 PRIME 增加獲得稀有資源的機率。 \n\n設置採集者在星球收集大量資源 ，它必須定期清理並檢查是否有損壞。",
+      "name": "精粹採集機 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องสกัด Distilling Prime จะเพิ่มโอกาสในการได้รับทรัพยากรที่ไม่ธรรมดาและหายากมากขึ้น\n\nปรับใช้เครื่องสกัดนี้บนดาวเคราะห์เพื่อรวบรวมทรัพยากรจำนวนมาก ต้องคอยเก็บทรัพยากรออกอย่างสม่ำเสมอและคอยตรวจสอบความเสียหาย",
+      "name": "เครื่องสกัด Distilling Prime",
+      "code": "th"
+    },
+    {
+      "description": "Ayrıştırıcı Madencisi Prime'ın nadir ve ender kaynakları bulma şansı yüksektir.\n\nAyrıştırıcı Prime Madencisini yüklü miktarda kaynak toplaması için görevlendirebilirsin. Sürekli deposu boşaltılmalı ve olası hasarlara karşı durumu takip edilmelidir.",
+      "name": "Ayrıştırıcı Madencisi Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій, який має збільшену ймовірність зібрати незвичайні й рідкісні ресурси.\n\nРозмістіть видобувач на планеті, щоби почати збір ресурсів. Не забувайте забирати ресурси із заповненого видобувача й слідкуйте за його цілісністю.",
+      "name": "Очищувальний видобувач-прайм",
+      "code": "uk"
+    }
+  ]
+}

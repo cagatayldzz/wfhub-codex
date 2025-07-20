@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/beryl-antitoxin-97b3b580be.png",
+  "name": "Beryl Antitoxin",
+  "description": "This is a mildly effective antitoxin.",
+  "languages": [
+    {
+      "description": "Dies ist ein weniger effektives Gegengift",
+      "name": "Beryl Gegengift",
+      "code": "de"
+    },
+    {
+      "description": "Il s'agit d'une antitoxine légèrement efficace.",
+      "name": "Antitoxine Beryl",
+      "code": "fr"
+    },
+    {
+      "description": "Questa antitossina è leggermente efficace.",
+      "name": "Antitossina Berillo",
+      "code": "it"
+    },
+    {
+      "description": "효과가 약한 해독제입니다.",
+      "name": "베릴 안티톡신",
+      "code": "ko"
+    },
+    {
+      "description": "Es una antitoxina moderadamente efectiva.",
+      "name": "Antitoxina Berilo",
+      "code": "es"
+    },
+    {
+      "description": "这是一个轻度有效的解毒剂。",
+      "name": "绿宝石解毒剂",
+      "code": "zh"
+    },
+    {
+      "description": "Антитоксин средней эффективности.",
+      "name": "Антитоксин: Берилл",
+      "code": "ru"
+    },
+    {
+      "description": "若干有効な解毒剤。",
+      "name": "ベリル アンチトキシン",
+      "code": "ja"
+    },
+    {
+      "description": "Jest to słabo skuteczna antytoksyna.",
+      "name": "Antytoksyna Beryl",
+      "code": "pl"
+    },
+    {
+      "description": "Essa é uma antitoxina suavemente efetiva.",
+      "name": "Antitoxina Berílio",
+      "code": "pt"
+    },
+    {
+      "description": "這是一個輕度有效的解毒劑。",
+      "name": "綠寶石解毒劑",
+      "code": "tc"
+    },
+    {
+      "description": "นี่คือยาต้านพิษที่มีประสิทธิภาพเล็กน้อย",
+      "name": "ยาต้านพิษเบริล",
+      "code": "th"
+    },
+    {
+      "description": "Bu hafif etkili bir antitoksindir",
+      "name": "Beryl Antitoksin",
+      "code": "tr"
+    },
+    {
+      "description": "Легка протиотрута.",
+      "name": "Протиотрута «Берил»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/SlingStoneEmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sling-stone-emblem-744512e9fb.png",
+  "name": "Sling Stone Emblem",
+  "description": "An insignia awarded to the Tenno Elite who proved themselves during Operation Sling-Stone.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das Elite Tenno für ihren herausragenden Einsatz während der Operation Sling-Stone erhielten.",
+      "name": "Emblem: Sling Stone",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné à l'élite des Tennos ayant fait leurs preuves lors de l'Opération Fronde.",
+      "name": "Emblème Fronde",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma assegnato ai Tenno d'élite che si sono fatti valere nell'operazione Sling-Stone.",
+      "name": "Emblema Sling Stone",
+      "code": "it"
+    },
+    {
+      "description": "슬링 스톤 작전중에 뛰어난 활약을 보인 엘리트 텐노에게 주어지는 메달입니다.",
+      "name": "슬링 스톤 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a la élite tenno que se probó a sí misma durante la operación Honda.",
+      "name": "Emblema de la Operación Honda",
+      "code": "es"
+    },
+    {
+      "description": "这枚徽章被授予给那些在机弦行动中证明了自己实力的 Tenno 精英。",
+      "name": "机弦徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, выдаваемый в качестве награды элите Тэнно за проявленные навыки во время операции «Праща».",
+      "name": "Значок: Праща",
+      "code": "ru"
+    },
+    {
+      "description": "SLING-STONE作戦で己の力を証明したテンノに送られるエンブレム。",
+      "name": "スリング・ストーン エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia nadawane Tenno, którzy dowiedli swej wartości w czasie Operacji Sling-Stone.",
+      "name": "Emblemat: Sling Stone",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos de Elite que provaram a si próprios durante a Operação Sling-Stone.",
+      "name": "Emblema: Sling Stone",
+      "code": "pt"
+    },
+    {
+      "description": "這枚徽章被授予給那些在機弦行動中證明了自己實力的 Tenno 菁英。",
+      "name": "機弦徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่สุดยอด Tenno ผู้พิสูจน์ตนเองในปฏิบัติการ Sling-Stone",
+      "name": "ตราสัญลักษณ์: Sling Stone",
+      "code": "th"
+    },
+    {
+      "description": "Sling Taşı Operasyonu esnasında kendilerini kanıtlayan Tenno'lara verilmiş rozet.",
+      "name": "Sling Taşı Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються найкращі з тенно, що проявили себе під час операції «Кидок Пращі».",
+      "name": "Відзнака «Кидок пращі»",
+      "code": "uk"
+    }
+  ]
+}

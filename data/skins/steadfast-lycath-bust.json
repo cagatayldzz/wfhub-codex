@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropWolfHeadStatueDDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steadfast-lycath-bust-eb2294d7af.png",
+  "name": "Steadfast Lycath Bust",
+  "description": "Display this statue in honor of Lycath's hunt.",
+  "languages": [
+    {
+      "description": "Stelle diese Statue zu Ehren von Lycaths Stärke zur Schau.",
+      "name": "Büste: Treuer Lycath",
+      "code": "de"
+    },
+    {
+      "description": "Exposez cette statue en l'honneur de la fidélité de Lycath.",
+      "name": "Buste Lycath Inébranlable",
+      "code": "fr"
+    },
+    {
+      "description": "Metti in mostra questa statua in onore della caccia di Lycath.",
+      "name": "Busto - Fedele Lycath",
+      "code": "it"
+    },
+    {
+      "description": "라이카스의 사냥을 기리며 이 조각상을 전시해 보세요.",
+      "name": "변함없는 라이카스 흉상",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra esta estatua en honor a la cacería de Lycath.",
+      "name": "Busto de Lycath Inquebrantable",
+      "code": "es"
+    },
+    {
+      "description": "这尊雕像用以纪念莱卡斯的狩猎。",
+      "name": "坚韧的莱卡斯半身铜像",
+      "code": "zh"
+    },
+    {
+      "description": "Покажите эту статую в честь охотничьего мастерства Ликата.",
+      "name": "Бюст: Стойкий Ликат",
+      "code": "ru"
+    },
+    {
+      "description": "Lycathの狩りを讃えるべくこの彫像を飾ろう。",
+      "name": "忠誠のLycath胸像",
+      "code": "ja"
+    },
+    {
+      "description": "Dumnie prezentuj tę statuę na cześć łowów Lycatha.",
+      "name": "Popiersie Niezłomnego Lycatha",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba esta estátua em homenagem à caçada de Lycath.",
+      "name": "Monumento do Lycath Inabalável",
+      "code": "pt"
+    },
+    {
+      "description": "展示這尊雕像以紀念 Dynar 的狩獵。",
+      "name": "堅毅的 Lycath 胸像",
+      "code": "tc"
+    },
+    {
+      "description": "จัดวางรูปปั้นชิ้นนี้เพื่อเป็นเกียรติให้กับการออกล่าของ Lycath",
+      "name": "รูปปั้นครึ่งตัว: Lycath ผู้มีใจเด็ดเดี่ยว",
+      "code": "th"
+    },
+    {
+      "description": "Bu heykeli Lycath'ın avının onuruna sergile.",
+      "name": "Steadfast Lycath Büstü",
+      "code": "tr"
+    },
+    {
+      "description": "Виставте цю статую, щоби вшанувати мисливські навички Ліката.",
+      "name": "Бюст «Непохитний Лікат»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wisp/SWCovenWispHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-coven-helmet-83522cb676.png",
+  "name": "Wisp Coven Helmet",
+  "description": "A helmet for the Wisp Warframe, designed by malaya and blazingcobalt.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Wisp Warframe, entworfen von malaya und blazingcobalt.",
+      "name": "Wisp-Helm: Coven",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Wisp, conçu par malaya et blazingcobalt.",
+      "name": "Casque Wisp Coven",
+      "code": "fr"
+    },
+    {
+      "description": "Un Elmo per il Warframe Wisp, ideato da malaya e blazingcobalt.",
+      "name": "Elmo Wisp Coven",
+      "code": "it"
+    },
+    {
+      "description": "malaya와 blazingcobalt에 의해 디자인된 위습 워프레임을 위한 헬멧입니다.",
+      "name": "위습 코븐 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Wisp, diseñado por malaya y blazingcobalt.",
+      "name": "Casco Coven de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 战甲的头盔，由 malaya 和 blazingcobalt 设计。",
+      "name": "Wisp 女巫头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Висп, созданный malaya and blazingcobalt.",
+      "name": "Шлем Висп: Ковен",
+      "code": "ru"
+    },
+    {
+      "description": "Wisp用のヘルメット。製作者： malaya、blazingcobalt。",
+      "name": "Wisp Coven ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Wisp, zaprojektowany przez malaya i blazingcobalt.",
+      "name": "Wisp: Hełm Coven",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Wisp, desenvolvido por malaya e blazingcobalt.",
+      "name": "Wisp: Capacete Coven",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp Warframe 的頭盔，由 malaya 和 blazingcobalt 設計。",
+      "name": "Wisp 邪巫頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกสำหรับ Wisp Warframe ออกแบบโดย malaya และ blazingcobalt",
+      "name": "หมวกเหล็ก Wisp Coven",
+      "code": "th"
+    },
+    {
+      "description": "malaya ve blazingcobalt tarafından Wisp Warframe için dizayn edilmiş bir miğfer.",
+      "name": "Wisp Coven Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вісп, створений malaya та blazingcobalt.",
+      "name": "Шолом «Завіт» для Вісп",
+      "code": "uk"
+    }
+  ]
+}

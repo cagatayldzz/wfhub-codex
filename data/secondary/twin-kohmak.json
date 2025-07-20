@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/twin-kohmak-f66cb319da.png",
+  "name": "Twin Kohmak",
+  "description": "Doubling their volley on each successive shot, the Twin Kohmaks decimate foes in seconds.",
+  "languages": [
+    {
+      "description": "Durch die Verdoppelung jeder aufeinanderfolgenden Salve, vernichten die Zwillingskohmaks Feinde in Sekunden.",
+      "name": "Zwillingskohmak",
+      "code": "de"
+    },
+    {
+      "description": "Doublant leur volée avec chaque tir réussi, les Kohmaks Jumeaux déciment les ennemis en quelques secondes.",
+      "name": "Kohmaks Jumeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Raddoppiando il volume di fuoco ad ogni colpo consecutivo, le Twin Kohmak decimano i nemici in pochi secondi.",
+      "name": "Twin Kohmak",
+      "code": "it"
+    },
+    {
+      "description": "두 개의 총구에서 연달아 발사되는 일제 사격이 특징인 트윈 코막은 눈앞의 적들을 수 초만에 모두 사살해버릴 수 있는 무기입니다.",
+      "name": "트윈 코막",
+      "code": "ko"
+    },
+    {
+      "description": "Duplicando su descarga en cada disparo sucesivo, las Khomak gemelas destrozan a los enemigos en segundos.",
+      "name": "Kohmak Gemelas",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TWIN KOHMAK）每次连续击发都有双倍的齐射子弹，双子寇恩霰机枪能够在数秒之内消灭敌人。",
+      "name": "双子寇恩霰机枪",
+      "code": "zh"
+    },
+    {
+      "description": "Удвоенная мощь смертоносной атаки парных Коммаков позволяет уничтожать врагов за мгновения.",
+      "name": "Парный Коммак",
+      "code": "ru"
+    },
+    {
+      "description": "継続射撃時の各斉射が倍増。Twin Kohmaks は数秒で敵を皆殺しにする。",
+      "name": "Twin Kohmak",
+      "code": "ja"
+    },
+    {
+      "description": "Podwajając ilość śrucin z każdym strzałem, Podwójny Kohmak szybko rozprawia się z wrogami.",
+      "name": "Kohmak Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Dobrando suas cadências de tiro a cada disparo sucessivo, as Kohmaks Gêmeas dizimam seus inimigos em segundos.",
+      "name": "Kohmaks Gêmeas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TWIN KOHMAK）每次連續擊發都有雙倍的齊射子彈，雙子寇恩霰機槍能夠在數秒之內消滅敵人。",
+      "name": "雙子寇恩霰機槍",
+      "code": "tc"
+    },
+    {
+      "description": "Twin Kohmak จะระดมยิงเป็นสองเท่าทุกครั้งที่ยิงติดต่อกัน ทำให้ทำลายล้างศัตรูได้ภายในเวลาไม่กี่วินาที",
+      "name": "Twin Kohmak",
+      "code": "th"
+    },
+    {
+      "description": "Her başarılı atışta ateşini iki katına çıkaran Twin Kohmaks ile toplu katliam kaçınılmaz.",
+      "name": "Twin Kohmak",
+      "code": "tr"
+    },
+    {
+      "description": "Парні рушниці, що знищують ворогів за лічені секунди. Кожен вдалий постріл подвоює їхню потужність.",
+      "name": "Парні Комаки",
+      "code": "uk"
+    }
+  ]
+}

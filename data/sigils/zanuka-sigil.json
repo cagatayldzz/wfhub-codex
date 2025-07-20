@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilZanuka",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zanuka-sigil-3b0e1b8dc8.png",
+  "name": "Zanuka Sigil",
+  "description": "A sigil depicting the emblem of the Zanuka Hunter.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das Emblem des Zanuka Jägers trägt.",
+      "name": "Siegel: Zanuka",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau illustrant l'emblème du Chasseur Zanuka.",
+      "name": "Sceau de Zanuka",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra l'emblema di Zanuka.",
+      "name": "Sigillo Zanuka",
+      "code": "it"
+    },
+    {
+      "description": "자누카 헌터의 엠블럼이 그려진 시질입니다.",
+      "name": "자누카 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el emblema del Cazador Zanuka.",
+      "name": "Sello de Zanuka",
+      "code": "es"
+    },
+    {
+      "description": "一枚绘制了 ZANUKA 标志的纹章。",
+      "name": "Zanuka 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, изображающий Зануку-Охотника.",
+      "name": "Сигил: Занука",
+      "code": "ru"
+    },
+    {
+      "description": "Zanukaハンターの紋様を写したシジル。",
+      "name": "Zanuka シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający emblemat Zanuki-Łowczyni.",
+      "name": "Znak Zanuki",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o emblema do Zanuka.",
+      "name": "Brasão: Zanuka",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Zanuka 獵犬徽章的紋章。",
+      "name": "Zanuka 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึงตราสัญลักษณ์ของ Zanuka Hunter",
+      "name": "เครื่องหมาย: Zanuka",
+      "code": "th"
+    },
+    {
+      "description": "Zanuka Hunter temalı bir mühür",
+      "name": "Zanuka Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням емблеми Зануки-мисливиці.",
+      "name": "Сиґіл «Занука»",
+      "code": "uk"
+    }
+  ]
+}

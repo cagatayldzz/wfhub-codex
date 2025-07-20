@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-veritux-b7348241ce.png",
+  "name": "Prisma Veritux",
+  "description": "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void’s energy.",
+  "languages": [
+    {
+      "description": "Ein seltenes Objekt der Schönheit, dieses Archwing Schwert wurde mit Prismakristallen überzogen und in Voidenergie getaucht.",
+      "name": "<ARCHWING> Prisma Veritux",
+      "code": "de"
+    },
+    {
+      "description": "D'une rare splendeur, cette Épée d'Archwing a été taillée dans du pur cristal Prisma et immergée dans de l'Énergie du Néant.",
+      "name": "<ARCHWING> Veritux Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Oggetto di rara bellezza, questa spada Archwing è stata ricoperta di cristalli prismatici e battezzata nell'energia del void.",
+      "name": "<ARCHWING> Prisma Veritux",
+      "code": "it"
+    },
+    {
+      "description": "이 희귀하고 아름다운 아크윙 소드는 프리즈마 크리스탈을 보이드 에너지에 담금질한 물건입니다.",
+      "name": "<ARCHWING> 프리즈마 베리턱스",
+      "code": "ko"
+    },
+    {
+      "description": "Un extraño objeto de belleza, esta espada para el archwing ha sido revestida con cristal prismático y bautizada en la energía del vacío.",
+      "name": "<ARCHWING> Veritux Prisma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PRISMA VERITUX）这把曲翼之剑包覆在棱晶之中且沐浴着虚空的能量，成为了稀有而美丽的存在。",
+      "name": "<ARCHWING> 棱晶·真理巨剑",
+      "code": "zh"
+    },
+    {
+      "description": "Редчайший образец изящества, этот меч для арчвинга был покрыт призматическими кристаллами и подвергнут воздействию энергии Бездны.",
+      "name": "<ARCHWING> Веритакс Призма",
+      "code": "ru"
+    },
+    {
+      "description": "このアークウイングソードはプリズマクリスタルに包まれ、VOIDエネルギーの洗礼を受けた美しく貴重な一品。",
+      "name": "<ARCHWING> Prisma Veritux",
+      "code": "ja"
+    },
+    {
+      "description": "Rzadki, przepiękny przedmiot - ten miecz używany z Archwingiem został pokryty kryształami Prisma i ochrzczony w energii Pustki.",
+      "name": "<ARCHWING> Veritux Prisma",
+      "code": "pl"
+    },
+    {
+      "description": "Um raro objeto de beleza, esta espada Archwing foi revestida de cristal prisma e batizada na Energia do void.",
+      "name": "<ARCHWING> Veritux Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PRISMA VERITUX）這把 Archwing 之劍包覆在棱型水晶之中且沐浴著虛空的能量，成為了稀有而美麗的存在。",
+      "name": "<ARCHWING> 棱晶 真理巨劍",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบ Archwing เล่มนี้เป็นดาบหายากที่แสนงดงาม ซึ่งถูกเคลือบด้วยคริสตัลพริสมาและถูกพลังงานวอยด์ชำระล้างให้บริสุทธิ์",
+      "name": "<archwing> Prisma Veritux",
+      "code": "th"
+    },
+    {
+      "description": "Nadir bir parça, bu Archwing kılıcı prizma kristallerinden dövülerek void enerjisi ile vaftiz edildi.",
+      "name": "<ARCHWING> Prisma Veritux",
+      "code": "tr"
+    },
+    {
+      "description": "Арквінґовий меч, рідкісний представник краси. Інкрустований призмовим кристалом та оповитий енергією Порожнечі.",
+      "name": "<ARCHWING> Верітукс-призма",
+      "code": "uk"
+    }
+  ]
+}

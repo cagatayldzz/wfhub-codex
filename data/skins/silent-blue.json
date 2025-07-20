@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/VideoWallBackdrops/ZarimanApartment/VideoWallBackDropH",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/silent-blue-10d04c33b6.png",
+  "name": "Silent Blue",
+  "description": "The blue Earth looms over Lua. A serene Vistagraph by Raff Seglass.",
+  "languages": [
+    {
+      "description": "Die blaue Erde geht über Lua auf. Ein ruhiges Digitalbild von Raff Seglass.",
+      "name": "Blaue Stille",
+      "code": "de"
+    },
+    {
+      "description": "La Terre bleue au-dessus de Lua. Un Vistagraphe serein de Raff Seglass.",
+      "name": "Bleu Silencieux",
+      "code": "fr"
+    },
+    {
+      "description": "La Terra blu incombe su Lua. Un sereno Vistagraph di Raff Seglass.",
+      "name": "Blu Silenzioso",
+      "code": "it"
+    },
+    {
+      "description": "루아 위로 푸른 빛 지구의 모습이 드리우고 있습니다. 라프 세글래스의 손으로 만들어진 평화로운 비스타그래프입니다.",
+      "name": "고요한 푸른 빛",
+      "code": "ko"
+    },
+    {
+      "description": "La Tierra azul se cierne sobre Lua. Un sereno vistagrafo de Raff Seglass.",
+      "name": "Azul silencioso",
+      "code": "es"
+    },
+    {
+      "description": "幽蓝的地球笼罩着月球。一副由拉夫·塞格拉斯设计的宁静景幕。",
+      "name": "寂静之蓝",
+      "code": "zh"
+    },
+    {
+      "description": "Голубая Земля нависает над Луа. Безмятежный вистаграф от Raff Seglass.",
+      "name": "Тишина синевы",
+      "code": "ru"
+    },
+    {
+      "description": "ルアの上に広がる青い地球。Raff Seglass氏による穏やかなビスタグラフ。",
+      "name": "静かなる青",
+      "code": "ja"
+    },
+    {
+      "description": "Błękitna Ziemia unosi się nad Lua. Spokojny Wistograf autorstwa Raffa Seglassa.",
+      "name": "Cichy Błękit",
+      "code": "pl"
+    },
+    {
+      "description": "A Terra azul paira sobre a Lua. Um Vistágrafo sereno feito pela Raff Seglass.",
+      "name": "Azul Sereno",
+      "code": "pt"
+    },
+    {
+      "description": "藍色的地球籠罩著月球。由 Raff Seglass 設計的寧靜擬景。",
+      "name": "寂靜之藍",
+      "code": "tc"
+    },
+    {
+      "description": "โลกสีน้ำเงินปรากฏขึ้นเหนือดาวลูอา ภาพทิวทัศน์อันเงียบสงบโดย Raff Seglass",
+      "name": "สีน้ำเงินที่เงียบงัน",
+      "code": "th"
+    },
+    {
+      "description": "Mavi Dünya, Lua'nın üzerinde beliriyor. Raff Seglass'ın sakin bir Vistagrafı.",
+      "name": "Sessiz Mavi",
+      "code": "tr"
+    },
+    {
+      "description": "Синя планета в небі над Луа. Спокійна відеошпалера від Рафи Сіґлас.",
+      "name": "Синя тиша",
+      "code": "uk"
+    }
+  ]
+}

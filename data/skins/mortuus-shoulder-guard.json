@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpShoulderArmor/CrpShoulderArmorL",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mortuus-shoulder-guard-e9007c7b45.png",
+  "name": "Mortuus Shoulder Guard",
+  "description": "The Taxman, taxed. With interest.",
+  "languages": [
+    {
+      "description": "Die Eintreiber, besteuert. Mit Zinsen.",
+      "name": "Schulterplatten: Mortuus",
+      "code": "de"
+    },
+    {
+      "description": "Le Fisc taxé. Et avec les intérêts.",
+      "name": "Épaulières Mortuus",
+      "code": "fr"
+    },
+    {
+      "description": "Gli Esattori, tassati. Con gli interessi.",
+      "name": "Spallaccio Mortuus",
+      "code": "it"
+    },
+    {
+      "description": "세금쟁이에게 세금이 부과되었습니다. 이자와 함께 말이죠.",
+      "name": "몰투스 숄더 가드",
+      "code": "ko"
+    },
+    {
+      "description": "El recaudador de impuestos, gravado. Con intereses.",
+      "name": "Hombrera Mortuus",
+      "code": "es"
+    },
+    {
+      "description": "税务官，被征税。还有利息。",
+      "name": "亡者护肩",
+      "code": "zh"
+    },
+    {
+      "description": "Налоговик, обложен налогом. С процентами.",
+      "name": "Наплечники: Мортуус",
+      "code": "ru"
+    },
+    {
+      "description": "徴税された収税吏。利子付きで。",
+      "name": "Mortuus ショルダーガード",
+      "code": "ja"
+    },
+    {
+      "description": "Poborca, opodatkowany. Z odsetkami.",
+      "name": "Naramienniki: Mortuus",
+      "code": "pl"
+    },
+    {
+      "description": "Corpus, cobrados. Com juros.",
+      "name": "Ombros: Mortuus",
+      "code": "pt"
+    },
+    {
+      "description": "稅務官，遭徵稅。變本加「利」。",
+      "name": "亡圖護肩",
+      "code": "tc"
+    },
+    {
+      "description": "คนเก็บภาษี เก็บภาษี พร้อมดอกเบี้ย",
+      "name": "การ์ดไหล่ Mortuus",
+      "code": "th"
+    },
+    {
+      "description": "Vergici'nin vergisi toplandı. Faizi ile.",
+      "name": "Mortuus Omuz Koruması",
+      "code": "tr"
+    },
+    {
+      "description": "Стягнули зі стягувача, ще й із надлишком.",
+      "name": "Наплічник «Мортус»",
+      "code": "uk"
+    }
+  ]
+}

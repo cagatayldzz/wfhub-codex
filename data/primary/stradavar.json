@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stradavar-0ff7688b1f.png",
+  "name": "Stradavar",
+  "description": "A high-capacity, high-damage enforcer, this weapon can switch between the high crit semi-automatic and full automatic firing modes.",
+  "languages": [
+    {
+      "description": "Als Vollstrecker hohen Schadens mit hoher Kapazität, kann diese Waffe zwischen halbautomatischem und vollautomatischem Feuermodus wechseln.",
+      "name": "Stradavar",
+      "code": "de"
+    },
+    {
+      "description": "Exécutrice à haute capacité, infligeant de lourds dégâts, cette arme peut permuter entre les modes de tir semi-automatique et automatique.",
+      "name": "Stradavar",
+      "code": "fr"
+    },
+    {
+      "description": "Quest'arma dall'ampio caricatore e danno elevato può passare dal fuoco semi-automatico con alta probabilità critico ad uno completamente automatico.",
+      "name": "Stradavar",
+      "code": "it"
+    },
+    {
+      "description": "강력한 피해를 자랑하는 고성능의 이 집행용 무기는 반자동과 완전 자동, 두 가지의 발사 모드를 오갈 수 있는 기능이 탑재되어 있습니다.",
+      "name": "스트라다바",
+      "code": "ko"
+    },
+    {
+      "description": "Una gran capacidad y daño devastador, esta arma puede cambiar entre los modos de disparo semiautomático y totalmente automático.",
+      "name": "Stradavar",
+      "code": "es"
+    },
+    {
+      "description": "（英文：STRADAVAR）一把兼具大容量弹匣和高伤害的杀器，这把武器可以在半自动和全自动开火模式间切换。",
+      "name": "斯特拉迪瓦",
+      "code": "zh"
+    },
+    {
+      "description": "Мощное оружие с высокими боезапасом и уроном и возможностью переключаться с полуавтоматического режима ведения огня на автоматический.",
+      "name": "Страдавар",
+      "code": "ru"
+    },
+    {
+      "description": "高容量で高いダメージを誇るこの武器はセミオートからフルオートモードに切り替えることが可能。",
+      "name": "Stradavar",
+      "code": "ja"
+    },
+    {
+      "description": "Pojemny, tęgi bandzior, ta broń może przełączać się między trybem samopowtarzalnym - posiadającym zwiększoną szansę na trafienie krytyczne, i automatycznym - umożliwiającym szybszą wymianę ognia.",
+      "name": "Stradavar",
+      "code": "pl"
+    },
+    {
+      "description": "Esta arma de alta capacidade e alto dano pode alternar entre os modos semiautomático e automático.",
+      "name": "Stradavar",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：STRADAVAR）一把兼具高容量彈匣和高傷害的殺人武器，這把武器可以在半自動和全自動開火模式間切換。",
+      "name": "斯特拉迪瓦",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธกระบอกนี้มีความจุสูง และสร้างความเสียหายได้รุนแรง สามารถสลับโหมดระหว่างโหมดยิงกึ่งอัตโนมัติคริติคอลสูง กับโหมดยิงอัตโนมัติเต็มรูปแบบได้",
+      "name": "Stradavar",
+      "code": "th"
+    },
+    {
+      "description": "Yüksek kapasite ve yüksek hasar özelliği sunan ağır darbeli Stradavar silahı ile düşmanlarınıza kıyamet gününü yaşatın.",
+      "name": "Stradavar",
+      "code": "tr"
+    },
+    {
+      "description": "Надпотужна автоматична гвинтівка з великим магазином. Здатна перемикатися між самозарядним та автоматичним режимами вогню.",
+      "name": "Страдавар",
+      "code": "uk"
+    }
+  ]
+}

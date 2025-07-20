@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefG",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/a-new-beginning-5e1f9f430f.png",
+  "name": "A New Beginning",
+  "description": "Money begets money.",
+  "languages": [
+    {
+      "description": "Geld gebiert Geld.",
+      "name": "Ein neuer Anfang",
+      "code": "de"
+    },
+    {
+      "description": "L'argent engendre l'argent.",
+      "name": "Un nouveau départ",
+      "code": "fr"
+    },
+    {
+      "description": "Il denaro genera denaro.",
+      "name": "Un Nuovo Inzio",
+      "code": "it"
+    },
+    {
+      "description": "돈은 다시 돈을 부르는 법.",
+      "name": "새로운 시작",
+      "code": "ko"
+    },
+    {
+      "description": "El dinero engendra dinero.",
+      "name": "Un Nuevo Comienzo",
+      "code": "es"
+    },
+    {
+      "description": "钱生钱。",
+      "name": "璀璨新生",
+      "code": "zh"
+    },
+    {
+      "description": "Деньги порождают деньги.",
+      "name": "Новое начало",
+      "code": "ru"
+    },
+    {
+      "description": "金が金を生む。",
+      "name": "新たな始まり",
+      "code": "ja"
+    },
+    {
+      "description": "Pieniądz rodzi pieniądz.",
+      "name": "Nowy początek",
+      "code": "pl"
+    },
+    {
+      "description": "Dinheiro gera dinheiro.",
+      "name": "Um Novo Começo",
+      "code": "pt"
+    },
+    {
+      "description": "錢滾錢。",
+      "name": "嶄新開始",
+      "code": "tc"
+    },
+    {
+      "description": "เงินก่อให้เกิดเงิน",
+      "name": "การเริ่มต้นใหม่",
+      "code": "th"
+    },
+    {
+      "description": "Para parayı çeker.",
+      "name": "Yeni Bir Başlangıç",
+      "code": "tr"
+    },
+    {
+      "description": "Гроші притягують гроші.",
+      "name": "Новий початок",
+      "code": "uk"
+    }
+  ]
+}

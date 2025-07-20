@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Camo/VulkarCamo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulkar-desert-camo-skin-6f9c63169f.png",
+  "name": "Vulkar Desert-Camo Skin",
+  "description": "Desert camouflage skin for the Vulkar.",
+  "languages": [
+    {
+      "description": "Wüsten-Tarnanstrich für die Vulkar.",
+      "name": "Vulkar-Skin: Wüstentarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Désert pour le Vulkar.",
+      "name": "Aspect Vulkar Camouflage Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Desert-Camo per il Vulkar.",
+      "name": "Skin Vulkar Desert-Camo",
+      "code": "it"
+    },
+    {
+      "description": "불카를 위한 사막용 위장 스킨입니다.",
+      "name": "불카 데저트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje desértico para el Vulkar.",
+      "name": "Diseño Camuflaje desértico de Vulkar",
+      "code": "es"
+    },
+    {
+      "description": "给金工火神使用的沙漠伪装迷彩。",
+      "name": "金工火神 沙漠迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Пустынный камуфляж для Вулкара.",
+      "name": "Скин Вулкара: Пустынный камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "VULKER用の砂漠迷彩スキン。",
+      "name": "Vulkar Desert-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka z pustynnym kamuflażem dla karabinu Vulkar.",
+      "name": "Vulkar: Skórka Kamuflaż Pustynny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem de deserto para o Vulkar.",
+      "name": "Vulkar: Skin Camuflagem Desértica",
+      "code": "pt"
+    },
+    {
+      "description": "給金工火神使用的沙漠偽裝迷彩。",
+      "name": "金工火神 沙漠迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางทะเลทรายสำหรับ Vulkar",
+      "name": "สกิน Vulkar Desert-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Vulkar için çöl kamuflaj kıyafeti.",
+      "name": "Vulkar Çöl-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Пустельно-тактичний вигляд для снайперської гвинтівки «Вулкар».",
+      "name": "Вигляд «Пустельний камуфляж» для Вулкара",
+      "code": "uk"
+    }
+  ]
+}

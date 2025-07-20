@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureTableA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-table-(large)-0466c20408.png",
+  "name": "Zariman Table (Large)",
+  "description": "A large table.",
+  "languages": [
+    {
+      "description": "Ein großer Tisch.",
+      "name": "Zariman Tisch (groß)",
+      "code": "de"
+    },
+    {
+      "description": "Une grande table.",
+      "name": "Zariman: Table (grande)",
+      "code": "fr"
+    },
+    {
+      "description": "Un tavolo grande.",
+      "name": "Tavolo Zariman (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "대형 테이블입니다.",
+      "name": "자리만 테이블 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesa grande.",
+      "name": "Mesa Zariman (grande)",
+      "code": "es"
+    },
+    {
+      "description": "一张大型桌子。",
+      "name": "扎里曼桌子（大）",
+      "code": "zh"
+    },
+    {
+      "description": "Большой стол.",
+      "name": "Стол: Зариман (большой)",
+      "code": "ru"
+    },
+    {
+      "description": "大きなテーブル。",
+      "name": "Zariman テーブル（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Duży stół.",
+      "name": "Zariman: Stół (duży)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mesa grande.",
+      "name": "Mesa da Zariman (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "大型桌子。",
+      "name": "扎日曼桌子",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะขนาดใหญ่",
+      "name": "Zariman: โต๊ะ (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir masa.",
+      "name": "Zariman Masa (Büyük)",
+      "code": "tr"
+    },
+    {
+      "description": "Великий стіл.",
+      "name": "Стіл із «Заримена» (великий)",
+      "code": "uk"
+    }
+  ]
+}

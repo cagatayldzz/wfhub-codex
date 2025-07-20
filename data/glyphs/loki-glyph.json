@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem8",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loki-glyph-3019d16ef3.png",
+  "name": "Loki Glyph",
+  "description": "Glyph portraying the Loki Warframe.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die den Loki Warframe darstellt.",
+      "name": "Glyphe: Loki",
+      "code": "de"
+    },
+    {
+      "description": "Glyphe représentant la Warframe Loki.",
+      "name": "Glyphe Loki",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra il Warframe Loki.",
+      "name": "Glifo Loki",
+      "code": "it"
+    },
+    {
+      "description": "로키 워프레임이 그려진 글리프입니다.",
+      "name": "로키 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa al warframe Loki.",
+      "name": "Glifo de Loki",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Loki 战甲的浮印。",
+      "name": "Loki 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением вафрейма Локи.",
+      "name": "Глиф: Локи",
+      "code": "ru"
+    },
+    {
+      "description": "Lokiを描いたグリフ。",
+      "name": "Loki グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Loki.",
+      "name": "Glif Loki",
+      "code": "pl"
+    },
+    {
+      "description": "Glifo retratando o Warframe Loki.",
+      "name": "Glifo: Loki",
+      "code": "pt"
+    },
+    {
+      "description": "描繪著 Loki Warframe 的浮印。",
+      "name": "Loki 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์แสดงภาพของ Loki Warframe",
+      "name": "ภาพสัญลักษณ์ Loki",
+      "code": "th"
+    },
+    {
+      "description": "Loki'yi betimleyen bir Glif",
+      "name": "Loki Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням ворфрейма Локі.",
+      "name": "Гліф «Локі»",
+      "code": "uk"
+    }
+  ]
+}

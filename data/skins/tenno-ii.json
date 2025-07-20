@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-ii-efb952cf89.png",
+  "name": "Tenno Ii",
+  "description": "Unlocks additional color options reflecting the default colors used on each standard Warframe.",
+  "languages": [
+    {
+      "description": "Schaltet zusätzliche Farboptionen frei, die die originalen Farben der Standard Warframes widerspiegeln.",
+      "name": "Tenno II",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille des options de couleurs supplémentaires représentant les couleurs par défaut utilisées sur chaque Warframe standard.",
+      "name": "Tenno II",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca opzioni di colore supplementari che riflettono i colori predefiniti usati su ogni Warframe.",
+      "name": "Tenno II",
+      "code": "it"
+    },
+    {
+      "description": "일반 워프레임에 사용된 기본 색상을 반영하여 추가적인 색상 옵션을 해금합니다.",
+      "name": "텐노 II",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea opciones de color adicionales que reflejan los colores predeterminados usados en cada warframe estándar.",
+      "name": "Tenno II",
+      "code": "es"
+    },
+    {
+      "description": "解锁额外的颜色选项，它们是每套战甲上所使用的预设颜色。",
+      "name": "Tenno II",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает возможность использовать дополнительные цвета к тем, которые доступны с каждым стандартным варфреймом по умолчанию.",
+      "name": "Тэнно II",
+      "code": "ru"
+    },
+    {
+      "description": "通常版WARFRAMEの初期カラーを元に設定されたカラーオプション。",
+      "name": "Tenno II",
+      "code": "ja"
+    },
+    {
+      "description": "Umożliwia dodatkowe opcje domyślnej kolorystyki na każdym standardowym Warframe'ie.",
+      "name": "Tenno II",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia opções de cores adicionais que refletem as cores padrão usadas em cada Warframe clássico.",
+      "name": "Tenno II",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖額外的顏色選項，它們是每套 Warframe 上所使用的預設顏色。",
+      "name": "Tenno II",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกตัวเลือกสีเพิ่มเติมที่สะท้อนถึงสีเริ่มต้นที่ใช้กับ Warframe มาตรฐานแต่ละตัว",
+      "name": "Tenno II",
+      "code": "th"
+    },
+    {
+      "description": "Her bir standart Warframe'de kullanılan varsayılan renkleri yansıtan yeni renk seçenekleri açar",
+      "name": "Tenno II",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра, яка містить кольори всіх звичайних ворфреймів.",
+      "name": "Тенно II",
+      "code": "uk"
+    }
+  ]
+}

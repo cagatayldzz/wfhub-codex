@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlArmourAridBackWithACUnit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhunr-back-armor-0178fb6d0e.png",
+  "name": "Rhunr Back Armor",
+  "description": "Attach this unit to remain cool in hot environments.",
+  "languages": [
+    {
+      "description": "Rüste dieses Gerät aus, um in heißen Umgebungen kühl zu bleiben.",
+      "name": "Rückenschutz: Rhunr",
+      "code": "de"
+    },
+    {
+      "description": "Avec cet appareil, vous resterez cool même dans les situations les plus intenses.",
+      "name": "Dossière Rhunr",
+      "code": "fr"
+    },
+    {
+      "description": "Equipaggiando questo dispositivo rimarrai fresco anche nelle situazioni più calde.",
+      "name": "Armatura Dorsale Rhunr",
+      "code": "it"
+    },
+    {
+      "description": "더운 환경에서 시원한 온도를 유지하려면 이 유닛을 장착해 보세요.",
+      "name": "런르 백 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Equipa esta unidad para mantenerte fresco en los ambientes cálidos.",
+      "name": "Armadura trasera Rhunr",
+      "code": "es"
+    },
+    {
+      "description": "佩戴这个装置以在炎热的环境中保持凉爽。",
+      "name": "排风背甲",
+      "code": "zh"
+    },
+    {
+      "description": "Используйте, чтобы не перегреться в жарких условиях.",
+      "name": "Наспинная броня: Рунр",
+      "code": "ru"
+    },
+    {
+      "description": "熱帯地帯でも冷静さを保とう。",
+      "name": "Rhunr バックアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Instalacja tego modułu pozwala zachować odpowiednią temperaturę w gorącym otoczeniu.",
+      "name": "Półpancerz: Rhunr",
+      "code": "pl"
+    },
+    {
+      "description": "Equipe esta unidade para manter-se refrescado em ambientes quentes.",
+      "name": "Costas: Rhunr",
+      "code": "pt"
+    },
+    {
+      "description": "裝上這個裝置以在炎熱的環境中保持涼爽。",
+      "name": "涼感背甲",
+      "code": "tc"
+    },
+    {
+      "description": "สวมชุดเกราะนี้เพื่อลดอุณหภูมิให้เย็นลงในที่อากาศร้อน",
+      "name": "เกราะหลัง Rhunr",
+      "code": "th"
+    },
+    {
+      "description": "Sıcak ortamlarda serin kalmak için bu üniteyi tak.",
+      "name": "Rhunr Sırt Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Приладнайте цей обладунок, щоб мати прохолоду в спекотному середовищі.",
+      "name": "Наспинник «Рунр»",
+      "code": "uk"
+    }
+  ]
+}

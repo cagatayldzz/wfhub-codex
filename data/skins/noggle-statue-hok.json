@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/OstHokBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---hok-fd658d3ace.png",
+  "name": "Noggle Statue - Hok",
+  "description": "A small wobbly statue of Hok.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Hok.",
+      "name": "Noggle-Statue: Hok",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Hok.",
+      "name": "Statuette Noggle - Hok",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Hok con la testa tremolante.",
+      "name": "Statuetta Noggle - Hok",
+      "code": "it"
+    },
+    {
+      "description": "호크의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 호크",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Hok.",
+      "name": "Estatua Tambaleante - Hok",
+      "code": "es"
+    },
+    {
+      "description": "一小座霍刻摇头娃娃。",
+      "name": "霍刻摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Хока.",
+      "name": "Фигурка: Хок",
+      "code": "ru"
+    },
+    {
+      "description": "Hokのボブルヘッド人形。",
+      "name": "Hok ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Hok.",
+      "name": "Figurka Noggle — Hok",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Hok.",
+      "name": "Estatueta: Hok",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Hok 的搖頭娃娃。",
+      "name": "Hok 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Hok ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Hok",
+      "code": "th"
+    },
+    {
+      "description": "Hok küçük oynar figür.",
+      "name": "Noggle Heykeli - Hok",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Гока.",
+      "name": "Ноґл «Гок»",
+      "code": "uk"
+    }
+  ]
+}

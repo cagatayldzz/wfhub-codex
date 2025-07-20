@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Deluxe/AshDeluxeIIBowSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/causta-bow-skin-bedbc47835.png",
+  "name": "Causta Bow Skin",
+  "description": "Born of heat and cold as death, this is the signature bow skin for Ash Shroud.",
+  "languages": [
+    {
+      "description": "Geboren aus Hitze und kalt wie der Tod, dies ist der bevorzugte Bogen-Skin von Ash Shrould.",
+      "name": "Bogen-Skin: Causta",
+      "code": "de"
+    },
+    {
+      "description": "Forgé dans les flammes, mais froid comme la mort, c'est l'Aspect d'Arc emblématique d'Ash Shroud.",
+      "name": "Aspect d'Arc Causta",
+      "code": "fr"
+    },
+    {
+      "description": "Nata dal calore e fredda come la morte, questa è la skin per archi simbolo di Ash Shroud.",
+      "name": "Skin Arco Causta",
+      "code": "it"
+    },
+    {
+      "description": "화염으로 태어나 죽음과도 같이 차가운 애쉬 슈라우드의 대표 활 스킨입니다.",
+      "name": "커스타 활 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Nacido del calor y el frío como la muerte, esta es el diseño distintivo para arcos de Ash Velo.",
+      "name": "Diseño Causta de arco",
+      "code": "es"
+    },
+    {
+      "description": "火热诞生却又带着死亡的寒意，这是 Ash 裹尸布的标志性弓箭外观。",
+      "name": "灼蚀之弓外观",
+      "code": "zh"
+    },
+    {
+      "description": "Рождённый в смертельном единстве пламени и льда, этот Скин лука — особый для Эша «Саван».",
+      "name": "Скин Лука: Кауста",
+      "code": "ru"
+    },
+    {
+      "description": "死のごとき熱と冷気から生まれた、Ash Shroudを象徴する弓スキン。",
+      "name": "Causta 弓 スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Zrodzona z ognia i zimna jak śmierć, to charakterystyczna skórka dla łuków Asha Shroud.",
+      "name": "Łuk: Skórka Causta",
+      "code": "pl"
+    },
+    {
+      "description": "Forjada do calor e do frio, assim como a morte, esta é a Skin tradicional para os Arcos do Ash Shroud.",
+      "name": "Arco: Skin Causta",
+      "code": "pt"
+    },
+    {
+      "description": "誕生於浴火中，寒如死亡之意，這是 Ash 裹屍布的標誌性弓箭外觀。",
+      "name": "弓箭 苛蝕外觀",
+      "code": "tc"
+    },
+    {
+      "description": "เกิดจากความร้อนและความเย็นเยือกราวกับความตาย นี่คือสกินธนูอันเป็นเอกลักษณ์ของ Ash Shroud",
+      "name": "สกินคันธนู Causta",
+      "code": "th"
+    },
+    {
+      "description": "Ölüm, ateş ve buz olarak doğdu, Ash Shroud için çok özel bir yay skin.",
+      "name": "Causta Yay Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний вигляд для лука Еша зі спорядженим виглядом «Плащаниця», народжений із гарячки та холоду смерті.",
+      "name": "Вигляд «Кауста» для лука",
+      "code": "uk"
+    }
+  ]
+}

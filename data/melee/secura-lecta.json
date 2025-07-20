@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/secura-lecta-ca3385188e.png",
+  "name": "Secura Lecta",
+  "description": "Whip the enemy out of their ill-gotten gains; double credit drops on kills.",
+  "languages": [
+    {
+      "description": "Prügelt euren Feinden das Geld aus den Taschen. Es gibt die doppelte Menge an Credits mit jedem tödlichen Schlag.",
+      "name": "Secura Lecta",
+      "code": "de"
+    },
+    {
+      "description": "Allégez les ennemis de leurs gains mal acquis; le double de Crédits est laissé lorsqu'un ennemi est éliminé.",
+      "name": "Lecta Secura",
+      "code": "fr"
+    },
+    {
+      "description": "Estrai dal nemico i suoi profitti illeciti; doppio drop di crediti dalle uccisioni.",
+      "name": "Secura Lecta",
+      "code": "it"
+    },
+    {
+      "description": "이 채찍으로 적들이 쌓은 부패한 재물을 털어내세요. 처치 시 드롭되는 크레딧이 두 배가 됩니다.",
+      "name": "세큐라 렉타",
+      "code": "ko"
+    },
+    {
+      "description": "Laza los lucros del enemigo; hallazgo doble de créditos con cada asesinato.",
+      "name": "Lecta Secura",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SECURA LECTA）把敌人的非法获益抽打出来；击杀时使现金掉落翻倍。",
+      "name": "保障·勒克塔",
+      "code": "zh"
+    },
+    {
+      "description": "Избавьте противника от нечестно полученных кредитов; враги, убитые этим оружием, оставляют после себя удвоенное количество кредитов.",
+      "name": "Секура Лекта",
+      "code": "ru"
+    },
+    {
+      "description": "腐敗した財源から敵をはたきおとせ。敵を倒した際に出るクレジットの量が2倍になる。",
+      "name": "Secura Lecta",
+      "code": "ja"
+    },
+    {
+      "description": "Wybiczuj wroga z jego niegodziwie zdobytych zysków; podwójne kredyty za zabójstwo.",
+      "name": "Lecta Secura",
+      "code": "pl"
+    },
+    {
+      "description": "Castigue os inimigos pelos ganhos ilícitos deles; adquira o dobro de créditos ao matá-los.",
+      "name": "Lecta Secura",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SECURA LECTA）把敵人的非法獲益抽打出來；擊殺時使現金掉落翻倍。",
+      "name": "保障 勒克塔",
+      "code": "tc"
+    },
+    {
+      "description": "ปัดศัตรูให้พ้นทางเพื่อไม่ให้รับผลกำไรที่ผิดกฎหมาย ซึ่งเครดิตจะดรอปเป็นสองเท่าเมื่อฆ่าศัตรูได้",
+      "name": "Secura Lecta",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanları hastalıklı varlıklarından bu kamçı ile ayırın, öldürmeler iki kat kredi verir.",
+      "name": "Secura Lecta",
+      "code": "tr"
+    },
+    {
+      "description": "Батіг, з яким можна вигнати з ворогів їхні нечесно отримані доходи. Подвоює випадіння кредитів з убитих ворогів.",
+      "name": "Лекта-секура",
+      "code": "uk"
+    }
+  ]
+}

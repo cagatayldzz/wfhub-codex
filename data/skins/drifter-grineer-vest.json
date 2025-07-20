@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultDrifterGrineer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drifter-grineer-vest-30ba9a67a0.png",
+  "name": "Drifter Grineer Vest",
+  "description": "Sneak behind enemy lines with this scavenged Grineer Lancer breast plate. Fitted for The Drifter.",
+  "languages": [
+    {
+      "description": "Schleiche dich hinter die feindlichen Linien mit dieser ergatterten Grineer Sturmsoldat Brustplatte. Für den Drifter angepasst.",
+      "name": "Wams: Grineer (Drifter)",
+      "code": "de"
+    },
+    {
+      "description": "Faufilez-vous derrière les lignes ennemies avec ce plastron récupéré sur un Lancier Grineer. Adapté pour le Voyageur.",
+      "name": "Veste Grineer du Voyageur",
+      "code": "fr"
+    },
+    {
+      "description": "Intrufolati dietro le linee nemiche con questa pettorina rubata a un Grineer Lancer. Adattata per il Drifter.",
+      "name": "Gilet Grineer - Drifter",
+      "code": "it"
+    },
+    {
+      "description": "폐품 중에서 건진 이 그리니어 랜서의 흉갑으로 적의 전선 뒤에 숨어들어가보세요. 드리프터를 위한 의복입니다.",
+      "name": "드리프터 그리니어 베스트",
+      "code": "ko"
+    },
+    {
+      "description": "Escóndete detrás de las líneas enemigas con esta pechera tomada de un lancero grineer. Adaptada para el Viajero.",
+      "name": "Chaleco grineer del Viajero",
+      "code": "es"
+    },
+    {
+      "description": "使用这套 Grineer 枪兵胸甲深入敌后。为漂泊者量身定制。",
+      "name": "漂泊者 Grineer 背心",
+      "code": "zh"
+    },
+    {
+      "description": "Пробирайтесь в тыл врага с этим нагрудником, захваченным у солдата Гринир. Подходит для cкитальца.",
+      "name": "Жилет Гринир: Скиталец",
+      "code": "ru"
+    },
+    {
+      "description": "グリニアランサーから奪った胸プレートで敵の背後を取ろう。漂流者専用。",
+      "name": "漂流者のグリニアベスト",
+      "code": "ja"
+    },
+    {
+      "description": "Zakradnij się za linie wroga dzięki odzyskanemu napierśnikowi Szturmowca Grineer. Dopasowany do Włóczęgi.",
+      "name": "Kamizelka Grineer Włóczęgi",
+      "code": "pl"
+    },
+    {
+      "description": "Esgueire-se atrás das linhas inimigas com esta placa de proteção peitoral recolhida de um Lanceiro Grineer. Adaptada para o Peregrino.",
+      "name": "Colete Grineer do Peregrino",
+      "code": "pt"
+    },
+    {
+      "description": "裝備這個回收來的 Grineer 槍兵胸甲來深入敵境。漂泊者適穿。",
+      "name": "漂泊者 Grineer 背心",
+      "code": "tc"
+    },
+    {
+      "description": "แอบอยู่หลังแนวศัตรูด้วยแผ่นรองหน้าอก Grineer Lancer ที่คุ้ยหามาได้นี้ เหมาะสำหรับดริฟเตอร์",
+      "name": "เสื้อกั๊ก Grineer ของดริฟเตอร์",
+      "code": "th"
+    },
+    {
+      "description": "Bu ele geçirilen Grineer Lancer göğüs plakası ile düşman hatlarının arkasına saklan. Gezgin için uyarlanmıştır.",
+      "name": "Gezgin Grineer Yeleği",
+      "code": "tr"
+    },
+    {
+      "description": "Прокрадайтеся в тилу ворога з цією нагрудною пластиною, відібраною в ґрінерського штурмовика. Викроєно під мандрівника.",
+      "name": "Ґрінерський жилет «Мандрівник»",
+      "code": "uk"
+    }
+  ]
+}

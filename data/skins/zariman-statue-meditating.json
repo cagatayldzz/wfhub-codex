@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxStatueMaleHeroicKneelA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-statue-(meditating)-4010199dc3.png",
+  "name": "Zariman Statue (Meditating)",
+  "description": "A golden statue depicting a Zariman colonist meditating on the glorious path ahead.",
+  "languages": [
+    {
+      "description": "Eine goldene Statue, die einen Zariman-Kolonisten darstellt, der über den glorreichen Weg vor ihm meditiert.",
+      "name": "Zariman Statue (Meditation)",
+      "code": "de"
+    },
+    {
+      "description": "Une statue dorée représentant un colon du Zariman en train de méditer sur le chemin glorieux qui l'attend.",
+      "name": "Zariman: Statue (méditation)",
+      "code": "fr"
+    },
+    {
+      "description": "Una statua d'oro raffigurante un colono Zariman che medita sul glorioso sentiero davanti a sé.",
+      "name": "Statua Zariman (Meditazione)",
+      "code": "it"
+    },
+    {
+      "description": "앞으로 펼쳐질 영광의 길을 명상하는 자리만의 개척민을 묘사한 황금빛 동상입니다.",
+      "name": "자리만 스태츄 (명상)",
+      "code": "ko"
+    },
+    {
+      "description": "Una estatua dorada de un colono de la Zariman meditando sobre el glorioso camino que tiene por delante.",
+      "name": "Estatua Zariman (meditación)",
+      "code": "es"
+    },
+    {
+      "description": "一座金色的雕像，描绘了一名正对未来光辉道路进行冥想的扎里曼殖民者。",
+      "name": "扎里曼雕像（冥想）",
+      "code": "zh"
+    },
+    {
+      "description": "Золотая статуя в память о колонисте Заримане, размышляющем о светлом будущем.",
+      "name": "Зариман: Статуя (медитирующая фигура)",
+      "code": "ru"
+    },
+    {
+      "description": "栄光の未来を瞑想するZariman入植者を表した黄金の像。",
+      "name": "Zariman 像（瞑想）",
+      "code": "ja"
+    },
+    {
+      "description": "Złota statua upamiętniająca kolonistę Zarimana medytującego nad świetlaną przyszłością.",
+      "name": "Zariman: Posąg (medytująca postać)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estátua dourada representando um colonizador da Zariman meditando sobre o percurso glorioso à frente.",
+      "name": "Estátua da Zariman (Meditação)",
+      "code": "pt"
+    },
+    {
+      "description": "這尊金色雕像描繪了一名正在為前方的光榮之道冥想的殖民者。",
+      "name": "扎日曼雕像（冥想）",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นทองคำที่วาดภาพชาวอาณานิคม Zariman กำลังนั่งสมาธิบนเส้นทางอันรุ่งโรจน์ที่รออยู่ข้างหน้า",
+      "name": "Zariman: รูปปั้น (นั่งสมาธิ)",
+      "code": "th"
+    },
+    {
+      "description": "Önündeki görkemli yol üzerinde meditasyon yapan bir Zariman kolonistini betimleyen altından yapılma bir heykel.",
+      "name": "Zariman Heykeli (Meditasyon)",
+      "code": "tr"
+    },
+    {
+      "description": "Золота статуетка колоніста із «Заримена», що розмірковує про славетний шлях уперед.",
+      "name": "Статуетка із «Заримена» (медитація)",
+      "code": "uk"
+    }
+  ]
+}

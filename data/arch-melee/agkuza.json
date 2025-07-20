@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/agkuza-ad630f8d41.png",
+  "name": "Agkuza",
+  "description": "Tear apart incoming enemies with this massive hooked blade.",
+  "languages": [
+    {
+      "description": "Zerteile deine Gegner mit dieser massiven Hakenklinge.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "de"
+    },
+    {
+      "description": "Mettez en pièces les ennemis en approche avec sa massive lame crochue.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "fr"
+    },
+    {
+      "description": "Fai a pezzi i nemici in arrivo con quest'enorme lama uncinata.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "it"
+    },
+    {
+      "description": "이 거대한 갈고리형 검으로 다가오는 적들을 조각내버리세요.",
+      "name": "<ARCHWING> 악쿠자",
+      "code": "ko"
+    },
+    {
+      "description": "Destroza a tus enemigos con este enorme garfio afilado.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AGKUZA）用这柄强大的钩状刀刃撕裂来袭的敌人。",
+      "name": "<ARCHWING> 驯象钩刃",
+      "code": "zh"
+    },
+    {
+      "description": "Разрывайте врагов на части с этим массивным клинком с крюком.",
+      "name": "<ARCHWING> Агкуза",
+      "code": "ru"
+    },
+    {
+      "description": "この巨大なフックブレードは迫りくる敵を一度に引き裂くことができる。",
+      "name": "<ARCHWING> Agkuza",
+      "code": "ja"
+    },
+    {
+      "description": "Rozedrzyj na strzępy zbliżających się wrogów, tym masywnym, harpunowym ostrzem.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "pl"
+    },
+    {
+      "description": "Rasgue os inimigos que se aproximam com esta enorme lâmina curvada.",
+      "name": "<ARCHWING> Agkuza",
+      "code": "pt"
+    },
+    {
+      "description": "（原文：AGKUZA）用這柄強大的鉤狀刀刃撕裂來襲的敵人。",
+      "name": "<ARCHWING> 馴象鉤刃",
+      "code": "tc"
+    },
+    {
+      "description": "ทำลายล้างศัตรูที่เข้ามาด้วยดาบตะขอขนาดใหญ่เล่มนี้",
+      "name": "<ARCHWING> Agkuza",
+      "code": "th"
+    },
+    {
+      "description": "Bu devasa kancalı bıçak ile gelen düşmanları parçalara ayırın",
+      "name": "<ARCHWING> Agkuza",
+      "code": "tr"
+    },
+    {
+      "description": "Гакоподібна холодна зброя для арквінґа, з допомогою якої ви рватимете ворогів на шмаття.",
+      "name": "<ARCHWING> Аґкуза",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/VenusBountyTrap",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/venus-bounty-trap-7fa61a1750.png",
+  "name": "Venus Bounty Trap",
+  "description": "A true hunter keeps their tools close at hand. A decoration for your Orbiter.",
+  "languages": [
+    {
+      "description": "Ein wahrer Jäger hat seine Werkzeuge immer griffbereit. Eine Dekoration für den Orbiter.",
+      "name": "Venusfalle",
+      "code": "de"
+    },
+    {
+      "description": "Un véritable chasseur garde toujours ses outils à portée de main. Une décoration pour votre Orbiteur.",
+      "name": "Piège Mise à Prix de Vénus",
+      "code": "fr"
+    },
+    {
+      "description": "Un vero cacciatore tiene i suoi strumenti a portata di mano. Una decorazione per il tuo Orbiter.",
+      "name": "Trappola Cacciatore di Venere",
+      "code": "it"
+    },
+    {
+      "description": "진정한 헌터는 손에서 도구를 놓지 않습니다. 오비터를 위한 장식물입니다.",
+      "name": "비너스 바운티 트랩",
+      "code": "ko"
+    },
+    {
+      "description": "Un verdadero cazador mantiene sus herramientas a la mano. Una decoración para tu orbitador.",
+      "name": "Trampa de contrato de Venus",
+      "code": "es"
+    },
+    {
+      "description": "一名真正的猎人将他们的工具放在身边。一个可置于轨道飞行器的装饰。",
+      "name": "金星赏金陷阱",
+      "code": "zh"
+    },
+    {
+      "description": "Настоящие охотники всегда держат своё снаряжение под рукой. Украшение для Вашего Орбитера.",
+      "name": "Ловушка Охотника За Головами Венеры",
+      "code": "ru"
+    },
+    {
+      "description": "真の狩人は道具を肌身離さず持つ。船内に設置可能な装飾品。",
+      "name": "金星依頼トラップ",
+      "code": "ja"
+    },
+    {
+      "description": "Prawdziwy łowca zawsze trzyma swoje narzędzia pod ręką. Dekoracja dla Twojego Orbitera.",
+      "name": "Wenusjańska Pułapka",
+      "code": "pl"
+    },
+    {
+      "description": "Um verdadeiro caçador sempre mantém suas ferramentas por perto. Uma decoração para sua Orbital.",
+      "name": "Armadilha de Vênus",
+      "code": "pt"
+    },
+    {
+      "description": "一名真正的獵人將他們的工具放在身邊。一個可置於軌道飛行器的裝飾。",
+      "name": "金星賞金陷阱",
+      "code": "tc"
+    },
+    {
+      "description": "นักล่าที่แท้จริงมักจะเก็บเครื่องมือไว้ใกล้มือ ของตกแต่งสำหรับออร์บิเตอร์ของคุณ",
+      "name": "กับดักนักล่ารางวัลบนดาวศุกร์",
+      "code": "th"
+    },
+    {
+      "description": "Gerçek bir avcı teçizhatlarını elinin altında bulundurur. Orbiter için bir dekorasyon.",
+      "name": "Venus Ödül Tuzağı",
+      "code": "tr"
+    },
+    {
+      "description": "Справжній мисливець завжди тримає своє знаряддя біля себе. Оздоблення для орбітра.",
+      "name": "Пастка мисливця на голови з Венери",
+      "code": "uk"
+    }
+  ]
+}

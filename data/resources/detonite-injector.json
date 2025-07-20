@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/detonite-injector-64a926ce31.png",
+  "name": "Detonite Injector",
+  "description": "Detonite injectors are the basis for explosive and incendiary weapons.\n\nLocation: Clan Research (Chem Lab in the Dojo) and Grineer Invasion Rewards",
+  "languages": [
+    {
+      "description": "Detonit-Injektoren sind die Basis für Explosiv- und Brandwaffen.\n\nQuelle: Clan-Forschung (Chemielabor im Dojo) und Belohnung nach Grineer Invasion",
+      "name": "Detonit-Injektor",
+      "code": "de"
+    },
+    {
+      "description": "Les injecteurs de Détonite sont la base des armes explosives et incendiaires.\n\nLieu: Recherches de Clan (Laboratoire de chimie du Dojo) et Récompenses d'Invasion Grineer",
+      "name": "Injecteur de Détonite",
+      "code": "fr"
+    },
+    {
+      "description": "Gli iniettori di detonite sono la base per le armi esplosive e incendiarie.\n\nPosizione: Ricerca Clan (Lab. Chimico nel Dojo) e Ricompense delle Invasioni Grineer",
+      "name": "Iniettore di Detonite",
+      "code": "it"
+    },
+    {
+      "description": "데토나이트 인젝터는 폭발물과 화염 무기들의 기반입니다.\n\n획득 가능 장소: 클랜 연구 (도장 내 화학 연구소) 및 그리니어 침공 보상",
+      "name": "데토나이트 인젝터",
+      "code": "ko"
+    },
+    {
+      "description": "Los inyectores de detonite son la base para las armas explosivas e incendiarias.\n\nUbicación: Investigación del clan (laboratorio de química en el dojo) y recompensas de Invasión grineer",
+      "name": "Inyector de Detonite",
+      "code": "es"
+    },
+    {
+      "description": "爆燃喷射器是爆炸和燃烧类武器的基础。\n\n获取地点：化学实验室（氏族道场）和 Grineer 入侵任务奖励",
+      "name": "爆燃喷射器",
+      "code": "zh"
+    },
+    {
+      "description": "Детонитовые инжекторы являются основой взрывного и зажигательного оружия.\n\nМестонахождение: Исследования клана (химическая лаборатория в додзё) и награды за Вторжение Гринир.",
+      "name": "Инжектор Детонита",
+      "code": "ru"
+    },
+    {
+      "description": "焼夷・爆発兵器に用いられる化学薬品を内包したパーツ。 \n\n場所：クラン研究（Dojoケミカル ラボ）、グリニア侵略",
+      "name": "デトナイト インジェクター",
+      "code": "ja"
+    },
+    {
+      "description": "Iniektory Detonitu są podstawą konstrukcji broni burzącej i zapalającej.\n\nPołożenie: Badania Klanu (Laboratorium chemiczne w Dojo) i nagrody z misji Inwazji Grineer",
+      "name": "Iniektor Detonitu",
+      "code": "pl"
+    },
+    {
+      "description": "Os injetores de Detonite são a base para explosivos e armas incendiárias.\n\nLocalização: nas Pesquisas do Clã, no Laboratório de Química do Dojo, e Recompensas em missões de Invasão Grineer.",
+      "name": "Injetor de Detonite",
+      "code": "pt"
+    },
+    {
+      "description": "爆燃噴射器為燃燒及爆破性武器之基礎。\n\n地點：化學實驗室（道場）裡的氏族研究以及 Grineer 入侵任務奬勵",
+      "name": "爆燃噴射器",
+      "code": "tc"
+    },
+    {
+      "description": "หัวฉีดเดโทไนต์เป็นวัสดุพื้นฐานในการใช้สร้างอาวุธระเบิดและเพลิงไหม้\n\nแหล่งที่พบ: การวิจัยในแคลน (ห้องแล็บเคมีใน Dojo) และรางวัลจากภารกิจบุกรุกของ Grineer",
+      "name": "หัวฉีดเดโทไนต์",
+      "code": "th"
+    },
+    {
+      "description": "Patlayıcı enjektörler; patlayıcı ve yakıcı silahların alt yapılarıdır.\n\nKonum: Klan Araştırması (Dojo'daki Kimya Laboratuvarı) ve Grineer İstilası Görevi Ödüllerinden elde edilebilir",
+      "name": "Patlayıcı Enjektör",
+      "code": "tr"
+    },
+    {
+      "description": "Детонітові впорскувачі — основні складові вибухової та запальної зброї.\n\nМожна здобути як нагороди завдань-вторгнень ґрінерів або через кланові дослідження (хімічна лабораторія у доджьо).",
+      "name": "Детонітовий упорскувач",
+      "code": "uk"
+    }
+  ]
+}

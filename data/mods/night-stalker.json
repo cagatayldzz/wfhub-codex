@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/night-stalker-e29de0ed8e.jpg",
+  "name": "Night Stalker",
+  "description": "On Hit:",
+  "languages": [
+    {
+      "description": [
+        "Bei Treffer:"
+      ],
+      "name": "Nachtpirscher",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Sur Coup:"
+      ],
+      "name": "Stalker Nocturne",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Quando colpisce:"
+      ],
+      "name": "Night Stalker",
+      "code": "it"
+    },
+    {
+      "description": [
+        "명중 시:"
+      ],
+      "name": "나이트 스토커",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Al golpear:"
+      ],
+      "name": "Acechador de la noche",
+      "code": "es"
+    },
+    {
+      "description": [
+        "击中后："
+      ],
+      "name": "暗夜追迹者",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При попадании:"
+      ],
+      "name": "Ночной Охотник",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ヒット時："
+      ],
+      "name": "Night Stalker",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Przy Trafieniu:"
+      ],
+      "name": "Nocny Łowca",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "No acerto:"
+      ],
+      "name": "Night Stalker",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "擊中後："
+      ],
+      "name": "暗夜追跡者",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อโจมตี:"
+      ],
+      "name": "Night Stalker",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Hasarda:"
+      ],
+      "name": "Night Stalker",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "У разі влучання:"
+      ],
+      "name": "Нічний переслідувач",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrendelBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---grendel-b5e4d72401.png",
+  "name": "Noggle Statue - Grendel",
+  "description": "A small wobbly statue of Grendel.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Grendel.",
+      "name": "Noggle-Statue: Grendel",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Grendel.",
+      "name": "Statuette Noggle - Grendel",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Grendel con la testa tremolante.",
+      "name": "Statuetta Noggle - Grendel",
+      "code": "it"
+    },
+    {
+      "description": "그렌델의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 그렌델",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Grendel.",
+      "name": "Estatua Tambaleante - Grendel",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Grendel 摇头娃娃。",
+      "name": "Grendel 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Гренделя.",
+      "name": "Фигурка: Грендель",
+      "code": "ru"
+    },
+    {
+      "description": "Grendelのボブルヘッド人形。",
+      "name": "Grendel ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Grendela.",
+      "name": "Figurka Noggle — Grendel",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Grendel.",
+      "name": "Estatueta: Grendel",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Grendel 的搖頭娃娃。",
+      "name": "Grendel 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Grendel ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Grendel",
+      "code": "th"
+    },
+    {
+      "description": "Grendel için küçük sallanan bir heykel.",
+      "name": "Noggle Heykeli - Grendel",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Ґренделя.",
+      "name": "Ноґл «Ґрендель»",
+      "code": "uk"
+    }
+  ]
+}

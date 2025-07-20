@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagKuakaCommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plains-kuaka-tag-73df2a975b.png",
+  "name": "Plains Kuaka Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "Marke: Ebenen-Kuaka",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Kuaka des Plaines",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "Etichetta Kuaka delle Piane",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "플레인스 쿠아카 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "Marcador de Kuaka de Las Llanuras",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "平野库阿卡标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "Жетон: Равнинная куака",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "プレイン クアカ タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Równinnej Kuaki",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Kuaka das Planícies",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "平野庫阿卡標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก Plains Kuaka",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "Ovalar Kuaka Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "Жетон рівнинної куаки",
+      "code": "uk"
+    }
+  ]
+}

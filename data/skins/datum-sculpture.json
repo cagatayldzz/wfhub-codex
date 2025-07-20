@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/datum-sculpture-d074677fd3.png",
+  "name": "Datum Sculpture",
+  "description": "A small icon of the Cephalon Suda to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine kleine Ikone der Cephalon Suda zum Platzieren in deinem Orbiter.",
+      "name": "Datenteil-Skulptur",
+      "code": "de"
+    },
+    {
+      "description": "Une petite icône du Céphalon Suda à placer dans votre Orbiteur.",
+      "name": "Sculpture de Prémisse",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola icona di Cephalon Suda da piazzare nell'Orbiter.",
+      "name": "Scultura Datum",
+      "code": "it"
+    },
+    {
+      "description": "세팔론 수다를 상징하는 작은 상징으로 오비터에 설치할 수 있습니다.",
+      "name": "데이텀 조각상",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño icono de céfalon Suda para colocar en tu orbitador.",
+      "name": "Escultura de dato",
+      "code": "es"
+    },
+    {
+      "description": "一小座可放置于飞船内的中枢苏达标志。",
+      "name": "论据雕塑",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшое украшение цефалона Суды, которое можно разместить на Орбитере.",
+      "name": "Скульптура - Исходная",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能なセファロン・スーダの小さな像。",
+      "name": "データの彫像",
+      "code": "ja"
+    },
+    {
+      "description": "Mała ikona Cefalon Sudy do postawienia w Twoim Statku.",
+      "name": "Rzeźba Dany",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta da Cephalon Suda para colocar em sua Orbital.",
+      "name": "Escultura: Datum",
+      "code": "pt"
+    },
+    {
+      "description": "一小座可放置於飛船內的中樞蘇達標誌。",
+      "name": "論據雕塑",
+      "code": "tc"
+    },
+    {
+      "description": "ไอคอนขนาดเล็กของ Cephalon Suda เพื่อเอาไปวางไว้ในออร์บิเตอร์ของคุณ",
+      "name": "ประติมากรรม Datum",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen küçük bir Cephalon Suda simgesi.",
+      "name": "Veri Heykeli",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий символ цефалонки Суди.",
+      "name": "Скульптура «Датум»",
+      "code": "uk"
+    }
+  ]
+}

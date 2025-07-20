@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/damaged-necramech-weapon-stock.png",
+  "name": "Damaged Necramech Weapon Stock",
+  "description": "The fractured back portion of a large Necramech weapon.\n\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+  "languages": [
+    {
+      "description": "Die zerbrochene hintere Komponente einer großen Necramech-Waffe.\n\nQuelle: Von feindlichen Necramechs in Isolationsgewölben und Geheimen Isolationsgwölbe, von Aufträgen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+      "name": "Necramech: Beschädigter Waffenschaft",
+      "code": "de"
+    },
+    {
+      "description": "La partie arrière brisée d'une grande arme de Necramech.\n\nLieu: Necramechs ennemis trouvés dans les Mises à Prix des Salles d'Isolement et d'Arcana du Puy de Cambion (Deimos) et achat auprès de Loid dans le Necralisk (Deimos) après avoir terminé la Quête La Guerre Intérieure",
+      "name": "Crosse d'Arme de Necramech Endommagée",
+      "code": "fr"
+    },
+    {
+      "description": "La parte posteriore spezzata di una grossa arma Necramech.\n\nPosizione: Taglie Vault d'Isolamento e Arcana sul Cambion Drift (Deimos), e acquistati da Loid nel Necralisk (Deimos) dopo aver completato la quest La Guerra Interna",
+      "name": "Calcio Arma Necramech Danneggiato",
+      "code": "it"
+    },
+    {
+      "description": "대형 네크라메크 무기의 부서진 뒷 부분입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 의 격리 금고 의뢰에서 발견되는 적 네크라메크에게서 드롭되거나, 혹은 내면의 전쟁 퀘스트를 완료한 후 네크랄리스크 (데이모스) 에 있는 로이드에게서 구매할 수 있습니다.",
+      "name": "손상된 네크라메크 웨폰 스톡",
+      "code": "ko"
+    },
+    {
+      "description": "La parte trasera fracturada de un arma de Necramech grande.\n\nUbicación: Contratos de la bóveda de aislamiento y bóveda de aislamiento Arcana en Deriva Cambion (Deimos) y a la venta con Loid en el Necralisk (Deimos) después de completar la aventura de «La Guerra Interna»",
+      "name": "Culata de arma de Necramech dañada",
+      "code": "es"
+    },
+    {
+      "description": "大型殁世机甲武器的后部，处于断裂状态。\n\n获取地点：魔胎之境（火卫二）隔离库赏金和奥秘隔离库赏金、完成《内战》系列任务后从殁世幽都（火卫二）洛德处购得",
+      "name": "损坏的殁世机甲武器 枪托",
+      "code": "zh"
+    },
+    {
+      "description": "Сломанная задняя часть крупного образца оружия некрамеха.\n\nМестонахождение: Награды за заказы Изолированного Хранилища / Секретные заказы на Камбионском дрейфе (Деймос) и у Лойда в Некралиске (Деймос) после завершения квеста «Война внутри».",
+      "name": "Повреждённый приклад оружия Некрамеха",
+      "code": "ru"
+    },
+    {
+      "description": "巨大なネクロメカ武器のサポート部分だった破損品。\n\n場所：カンビオン荒地（ダイモス）の隔離保管庫依頼ミッションとアルカナ依頼ミッションの敵のネクロメカ、『内なる紛争』クエスト完了後はネクロリスク（ダイモス）のLoidからも購入可",
+      "name": "損傷したネクロメカ武器ストック",
+      "code": "ja"
+    },
+    {
+      "description": "Uszkodzona tylna część broni Nekramecha.\n\nPołożenie: Zlecenia Skarbców Izolacyjnych i Arkanów w Dryfie Kambionu na Deimosie. Może zostać zakupiony od Loida w Nekralisku po ukończeniu zadania Wewnętrzna Wojna",
+      "name": "Uszkodzona Kolba Broni Nekramecha",
+      "code": "pl"
+    },
+    {
+      "description": "A parte traseira danificada de uma grande arma de um Necramech.\n\nLocalização: em Contratos das Câmaras de Isolamento (Comum e Arcana), na Deriva de Cambion, ou junto ao Loid, no Necralisk, ambos em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
+      "name": "Necramech: Coronha de Arma Danificada",
+      "code": "pt"
+    },
+    {
+      "description": "破裂的大型亡骸機甲武器背部。\n\n地點：魔裔禁地（火衛二）上的隔離庫賞金任務及奧義隔離庫賞金任務或是完成《內戰》系列任務後在亡骸殿（火衛二）的 Loid 購得。",
+      "name": "損毀的亡骸機甲武器槍托",
+      "code": "tc"
+    },
+    {
+      "description": "ชิ้นส่วนด้านหลังของอาวุธปืน Necramech ขนาดใหญ่ที่แตกหัก\n\nแหล่งที่พบ: ภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัวและภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัว Arcana ที่แคมบิออนดริฟต์ และซื้อได้จาก Loid ในเนคราลิสก์ (เดมอส) หลังจากทำเควสต์ 'สงครามภายใน' สำเร็จแล้ว",
+      "name": "สต็อกอาวุธของ Necramech ที่เสียหาย",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir Necramech silahının kırık arka bölümü.\n\nKonum: Cambion Drift'teki (Deimos) İzolasyon Kasası ve Arcana İzolasyon Kasası Bounty Görevlerinde ve War Within görevini tamamladıktan sonra Necralisk'teki (Deimos) Loid'den satın alınabilir",
+      "name": "Hasarlı Necramech Silah Kabzası",
+      "code": "tr"
+    },
+    {
+      "description": "Тріснута задня частина великої зброї некрамеха.\n\nМожна здобути з ворожих некрамехів під час виконання контрактів «Камера ізоляції» та «Містична ізоляція» в Кембіонській течії (Деймос) та придбати у Лойда в Некраліску (Деймос) по завершенню пригоди «Нова війна».",
+      "name": "Пошкоджене ложе зброї некрамеха",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxDiningTableA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dining-table-32fc4235f4.png",
+  "name": "Dining Table",
+  "description": "A long wooden dining table.",
+  "languages": [
+    {
+      "description": "Ein langer Esstisch aus Holz.",
+      "name": "Esstisch",
+      "code": "de"
+    },
+    {
+      "description": "Une longue table de salle à manger en bois.",
+      "name": "Table de salle à manger",
+      "code": "fr"
+    },
+    {
+      "description": "Un lungo tavolo da pranzo in legno.",
+      "name": "Tavolo da pranzo",
+      "code": "it"
+    },
+    {
+      "description": "목제로 된 긴 식탁입니다.",
+      "name": "식탁",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesa de comedor larga de madera.",
+      "name": "Mesa de comedor",
+      "code": "es"
+    },
+    {
+      "description": "一张长长的木制餐桌。",
+      "name": "餐桌",
+      "code": "zh"
+    },
+    {
+      "description": "Длинный деревянный обеденный стол.",
+      "name": "Обеденный стол",
+      "code": "ru"
+    },
+    {
+      "description": "木製の大きなダイニングテーブル。",
+      "name": "ダイニングテーブル",
+      "code": "ja"
+    },
+    {
+      "description": "Długi, drewniany stół.",
+      "name": "Stół",
+      "code": "pl"
+    },
+    {
+      "description": "Uma longa mesa de jantar de madeira.",
+      "name": "Mesa de Jantar",
+      "code": "pt"
+    },
+    {
+      "description": "長形的木製餐桌。",
+      "name": "餐桌",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะทานอาหารยาวทำด้วยไม้",
+      "name": "โต๊ะทานอาหาร",
+      "code": "th"
+    },
+    {
+      "description": "Ahşaptan yapılmış uzun bir yemek masası.",
+      "name": "Yemek masası",
+      "code": "tr"
+    },
+    {
+      "description": "Довгий дерев’яний стіл для трапезування.",
+      "name": "Обідній стіл",
+      "code": "uk"
+    }
+  ]
+}

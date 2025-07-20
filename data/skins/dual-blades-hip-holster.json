@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/DualSwordHips",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-blades-hip-holster-28628025cf.png",
+  "name": "Dual Blades Hip Holster",
+  "description": "Dual Blades are holstered at the hips.",
+  "languages": [
+    {
+      "description": "Dual-Klingen werden an der Hüfte geholstert.",
+      "name": "Dual-Klingen-Holster: Hüfte",
+      "code": "de"
+    },
+    {
+      "description": "Les Doubles Épées sont portées au niveau des hanches.",
+      "name": "Port de Doubles Épées aux hanches",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Doppie Lame sui fianchi.",
+      "name": "Rinfodero Doppie Lame Fianco",
+      "code": "it"
+    },
+    {
+      "description": "쌍수 도검 계열 무기를 허벅지에 수납하는 수납 방식입니다.",
+      "name": "쌍수 도검 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las espadas dobles se enfundarán en las caderas.",
+      "name": "Enfundado de cadera de espadas dobles",
+      "code": "es"
+    },
+    {
+      "description": "将双刀武器收纳至后腰。",
+      "name": "双刀后腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Парные клинки покоятся на бедрах.",
+      "name": "Набедренный Крепеж Парных Клинков",
+      "code": "ru"
+    },
+    {
+      "description": "デュアルブレードを腰付近に収納。",
+      "name": "デュアルブレード専用ヒップホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Podwójne Ostrza są mocowane do biodra.",
+      "name": "Ostrza Podwójne Mocowanie Do Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As lâminas duplas são guardadas na cintura.",
+      "name": "Lâminas Duplas: Coldre na Cintura",
+      "code": "pt"
+    },
+    {
+      "description": "雙刀武器可收納於後腰。",
+      "name": "雙刀腰部收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ใบมีดคู่ที่ใส่ซองตรงสะโพก",
+      "name": "ซองใบมีดคู่ตรงสะโพก",
+      "code": "th"
+    },
+    {
+      "description": "İkili bıçaklar kalçada taşınır",
+      "name": "İkili Bıçak Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Парні клинки кріпляться на стегнах, коли в руках інша зброя.",
+      "name": "Парні клинки на стегнах",
+      "code": "uk"
+    }
+  ]
+}

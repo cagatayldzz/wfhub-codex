@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/GrnFlameSpearPart",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/javlok-capacitor-07b498f28c.png",
+  "name": "Javlok Capacitor",
+  "description": "Used in the construction of Javloks",
+  "languages": [
+    {
+      "description": "Für die Herstellung von Javloks verwendet",
+      "name": "Javlok Kondensator",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé dans la construction de Javloks",
+      "name": "Condensateur Javlok",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzato nella costruzione dei Javlok",
+      "name": "Javlok - Condensatore",
+      "code": "it"
+    },
+    {
+      "description": "자블락을 제작하는 데 사용됩니다.",
+      "name": "자블락 커패시터",
+      "code": "ko"
+    },
+    {
+      "description": "Utilizado en la fabricación de Javloks",
+      "name": "Condensador Javlok",
+      "code": "es"
+    },
+    {
+      "description": "用于燃焰标枪的制造",
+      "name": "燃焰标枪电容器",
+      "code": "zh"
+    },
+    {
+      "description": "Используется при производстве джавлоков",
+      "name": "Конденсатор джавлока",
+      "code": "ru"
+    },
+    {
+      "description": "Javlokの作成に使う",
+      "name": "Javlok コンデンサー",
+      "code": "ja"
+    },
+    {
+      "description": "Używanie przy konstrukcji Javloka",
+      "name": "Kondensator Javloka",
+      "code": "pl"
+    },
+    {
+      "description": "Utilizado na construção de Javloks",
+      "name": "Javlok: Condensador",
+      "code": "pt"
+    },
+    {
+      "description": "用於燃焰標槍的製造",
+      "name": "燃焰標槍電容器",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ในการสร้าง Javlok",
+      "name": "ตัวเก็บประจุ Javlok",
+      "code": "th"
+    },
+    {
+      "description": "Javlok'ların inşaatında kullanılır.",
+      "name": "Javlok Kapasitör",
+      "code": "tr"
+    },
+    {
+      "description": "Необхідний для створення гарпуна «Джавлок».",
+      "name": "Конденсатор Джавлока",
+      "code": "uk"
+    }
+  ]
+}

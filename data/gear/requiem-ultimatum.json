@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/NemesisBait",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/requiem-ultimatum-e2acabd8eb.png",
+  "name": "Requiem Ultimatum",
+  "description": "Provokes an immediate confrontation with your Kuva Lich or Sister of Parvos: an insult which cannot be ignored.",
+  "languages": [
+    {
+      "description": "Provoziert eine sofortige Konfrontation mit deinem Kuva Lich oder den Schwestern von Parvos: eine Beleidigung, die nicht ignoriert werden kann.",
+      "name": "Requiem Ultimatum",
+      "code": "de"
+    },
+    {
+      "description": "Provoque une confrontation immédiate avec votre Liche Kuva ou votre Sœur de Parvos: une insulte qui ne peut être ignorée.",
+      "name": "Ultimatum Requiem",
+      "code": "fr"
+    },
+    {
+      "description": "Provoca uno scontro immediato con il tuo Kuva Lich o Sorella di Parvos: un insulto che non può essere ignorato.",
+      "name": "Requiem Ultimatum",
+      "code": "it"
+    },
+    {
+      "description": "쿠바 리치 및 파보스의 자매들과 즉각적인 대면을 유발합니다; 이는 무시할 수 없는 모욕입니다.",
+      "name": "레퀴엠 얼티메이텀",
+      "code": "ko"
+    },
+    {
+      "description": "Provoca un enfrentamiento inmediato con tu Lich de Kuva o Hermana de Parvos: un insulto que no puede ser ignorado.",
+      "name": "Ultimátum Réquiem",
+      "code": "es"
+    },
+    {
+      "description": "引发与你的赤毒玄骸或帕尔沃斯姐妹的直接对抗：这是一种不容忽视的侮辱。",
+      "name": "安魂通牒",
+      "code": "zh"
+    },
+    {
+      "description": "Вызывает немедленную конфронтацию с вашим Личом Кувы или Сестрой Парвоса: оскорбление, которое не может быть проигнорировано.",
+      "name": "Ультимативный реквием",
+      "code": "ru"
+    },
+    {
+      "description": "クバ・リッチ、Parvosシスターをおびき寄せ出現させる。",
+      "name": "レクイエム・アルティメイタム",
+      "code": "ja"
+    },
+    {
+      "description": "Prowokuje Licza Kuvy lub Siostrę Parvosa do natychmiastowej konfrontacji: zniewaga, której nie można zignorować.",
+      "name": "Ultimatum Requiem",
+      "code": "pl"
+    },
+    {
+      "description": "Provoca um confronto imediato com o seu Lich de Kuva ou Irmã de Parvos: um insulto que não pode ser ignorado.",
+      "name": "Ultimato Réquiem",
+      "code": "pt"
+    },
+    {
+      "description": "立即挑起你與赤毒巫妖或 Parvos 的姊妹之間的衝突，這是一種不容忽視的侮辱。",
+      "name": "鎮魂戰帖",
+      "code": "tc"
+    },
+    {
+      "description": "กระตุ้นการเผชิญหน้าทันทีกับ Kuva Lich หรือน้องสาวของ Parvos: การสบประมาทที่ไม่อาจละเลยได้",
+      "name": "เรเควียมอัลทิเมทัม",
+      "code": "th"
+    },
+    {
+      "description": "Kuva Lich'ini veya Parvos'un Kız Kardeşi ile ani bir yüzleşme için onu kışkırtır: göz ardı edilemeyecek bir hakaret.",
+      "name": "Requiem Ultimatum",
+      "code": "tr"
+    },
+    {
+      "description": "Образа, яку не зможуть проігнорувати ні кувовий ліч, ні сестра Парва. Ваш ворог одразу ж з’явиться, щоб відповісти кривднику.",
+      "name": "Реквіємова погроза",
+      "code": "uk"
+    }
+  ]
+}

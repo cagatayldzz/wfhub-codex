@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOroSigilMarker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/agkani-stone-9d9a93f7f0.png",
+  "name": "Agkani Stone",
+  "description": "A stone marker, miraculously preserved from the Orokin era, polished smooth by time and accented with tooled gold.",
+  "languages": [
+    {
+      "description": "Eine Steinmarkierung aus der Orokin Ära, die auf wundersame Weise überlebt hat, von der Zeit geglättet und poliert und mit Gold akzentuiert. ",
+      "name": "Agkani-Stein",
+      "code": "de"
+    },
+    {
+      "description": "Un marqueur en pierre de l'ère Orokin, miraculeusement préservé, poli par le temps et accentué d'or ouvragé.",
+      "name": "Pierre Agkani",
+      "code": "fr"
+    },
+    {
+      "description": "Un segnale in pietra, miracolosamente preservato dall'era Orokin, levigato dal tempo e accentato con oro lavorato.",
+      "name": "Pietra Agkani",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 시대부터 기적적으로 보존된 이 돌 마커는 시간이 흘러 매끄럽게 닦아졌고, 순금의 무늬가 새겨졌습니다.",
+      "name": "악카니 석",
+      "code": "ko"
+    },
+    {
+      "description": "Un hito de piedra, milagrosamente conservado de la era orokin, pulida por el tiempo y acentuada por oro grabado. ",
+      "name": "Piedra Agkani",
+      "code": "es"
+    },
+    {
+      "description": "一个石头记号，奇迹般地从 Orokin 时代保存下来，被时光打磨抛光，并被金子手工点缀。",
+      "name": "阿格卡尼界石",
+      "code": "zh"
+    },
+    {
+      "description": "Каменный указатель, чудом уцелевший со времен эры Орокин, отполированный временем и украшенный золотом.",
+      "name": "Камень Агкани",
+      "code": "ru"
+    },
+    {
+      "description": "オロキンの時代から奇跡的に残った石碑。時間によって滑らかに磨き上げられており、見事な金のアクセントが付けられている。",
+      "name": "Agkani 石",
+      "code": "ja"
+    },
+    {
+      "description": "Kamienny drogowskaz z okresu Orokin, zachowany w doskonałym stanie, zaakcentowany złotymi krawędziami i wypolerowany na gładko przez mijający czas.",
+      "name": "Kamień Agkani",
+      "code": "pl"
+    },
+    {
+      "description": "Um marcador de pedra, milagrosamente preservado desde a era Orokin, polido suavemente pelo tempo e acentuado com ouro.",
+      "name": "Pedra Agkani",
+      "code": "pt"
+    },
+    {
+      "description": "從 Orokin 時代奇蹟般地保存下來的一塊界石，歷經時間錘煉，並以加工後的金子點綴。",
+      "name": "阿格卡尼界石",
+      "code": "tc"
+    },
+    {
+      "description": "หลักหินที่ถูกเก็บรักษาไว้ได้อย่างน่าอัศจรรย์ตั้งแต่สมัย Orokin ได้รับการขัดเกลาตามกาลเวลาและประทับด้วยลวดลายจากทองคำ",
+      "name": "หิน Agkani",
+      "code": "th"
+    },
+    {
+      "description": "Taştan bir işaretleyici, mucizevi bir şekilde Orokin Çağından gelme, antiklik ve zaman tarafından cilalanmış",
+      "name": "Agkani Taşı",
+      "code": "tr"
+    },
+    {
+      "description": "Кам’яний вказівник орокінської епохи, відполірований до блиску часом і оздоблений обробленим золотом.",
+      "name": "Камінь аґкані",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temporal-dust-61196e77bb.png",
+  "name": "Temporal Dust",
+  "description": "The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.\n\nObtained from Murmur in Isleweaver missions (Duviri)",
+  "languages": [
+    {
+      "description": "Der Staub zerfallener Universen, reich an Entropie. Entratis Forschungen stellen die Theorie auf, dass dies der Antrieb für das albtraumhafte Raunen ist.\n\nZu erhalten vom Raunen in Inselweber-Missionen (Duviri)",
+      "name": "Temporaler Staub",
+      "code": "de"
+    },
+    {
+      "description": "La poussière des univers en décomposition, riche en entropie. Les recherches d'Entrati la considèrent comme l'agent animant le Murmure cauchemardesque.\n\nObtenue via le Murmure dans les missions de Toile Insulaire (Duviri)",
+      "name": "Poussière temporelle",
+      "code": "fr"
+    },
+    {
+      "description": "La polvere di universi decaduti, ricca di entropia. Le ricerche di Entrati la considerano l'agente animatore dell'incubo Murmur.\n\nOttenibile dai Murmur nelle missioni Tessitrice di Isole (Duviri)",
+      "name": "Polvere Temporale",
+      "code": "it"
+    },
+    {
+      "description": "쇠락한 우주들의 먼지로, 엔트로피가 풍부하게 함유되어 있습니다. 엔트라티의 연구에 따르면 그 악몽과 같은 속삭임들을 움직이는 원동력이 바로 이 물질로 추측됩니다.\n\n섬을 엮는 자 미션 (두비리) 도중 속삭임들에게서 획득할 수 있습니다.",
+      "name": "시간의 먼지",
+      "code": "ko"
+    },
+    {
+      "description": "El polvo de universos decadentes, ricos en entropía. La investigación de Entrati lo considera el agente animador de los aterradores murmullos.\n\nObtenido del murmullo en las misiones de «Tejedora de Islas» (Duviri)",
+      "name": "Polvo temporal",
+      "code": "es"
+    },
+    {
+      "description": "衰变宇宙的尘埃，富含熵。英择谛的研究推测，它正是如噩梦一般的低语者的驱动力。\n\n在《织屿人》任务（双衍王境）中从低语者处获得",
+      "name": "时光尘埃",
+      "code": "zh"
+    },
+    {
+      "description": "Пыль распавшихся вселенных, богатая энтропией. Исследования Энтрати постулируют, что это оживляющий агент кошмарного Шёпота.\n\nПолучается от Шёпота в миссиях в локации «Плетельщица островов» (Дувири)",
+      "name": "Темпоральная Пыль",
+      "code": "ru"
+    },
+    {
+      "description": "エントロピーを豊富に含んだ、崩壊した宇宙の塵。エントラティの研究では、これが悪夢のようなササヤキの原動力であると推測されている。\n\n島々を織りしものミッション（デュヴィリ）のササヤキから入手。",
+      "name": "テンポラル ダスト",
+      "code": "ja"
+    },
+    {
+      "description": "Pył opadł nad rozpadającym się światem, bogatym w entropie. Badania Entratiego zakładają, że jest on czynnikiem ożywiającym koszmarny Szept.\n\nMogą zostać zdobyte przez pokonanie Szeptu w misjach Tkaczki Światów (Duviri)",
+      "name": "Temporalny Pył",
+      "code": "pl"
+    },
+    {
+      "description": "A poeira de universos decadentes, rica em entropia. A pesquisa do Entrati a considera como o agente animador do horripilante Murmúrio.\n\nLocalização: obtida do Murmúrio em missões da Tecelã Insular, em Duviri.",
+      "name": "Poeira Temporal",
+      "code": "pt"
+    },
+    {
+      "description": "腐朽宇宙的塵埃，蘊含豐富熵能。源拓氏的研究推論其為噩夢般喃喃者的驅動因子。\n\n透過織島者任務（渡域）的喃喃者取得",
+      "name": "時塵",
+      "code": "tc"
+    },
+    {
+      "description": "ฝุ่นของจักรวาลที่เสื่อมสลายซึ่งอุดมไปด้วยเอนโทรปี การวิจัยของ Entrati สันนิษฐานว่ามันเป็นตัวการที่ปลุกชีพ Murmur ที่น่าสะพรึงกลัวขึ้นมา\n\nรับไอเทมนี้ได้จาก Murmur ในภารกิจ Isleweaver (Duviri)",
+      "name": "ฝุ่นธุลีแห่งกาลเวลา",
+      "code": "th"
+    },
+    {
+      "description": "Çürümüş evrenlerin tozu, entropi açısından zengin. Entrati'nin araştırması, bu şeyin korkunç Murmur'u canlandıran etken olduğunu varsayıyor.\n\nIsleweaver görevlerindeki Murmur'dan elde edilir (Duviri)",
+      "name": "Zamansal Toz",
+      "code": "tr"
+    },
+    {
+      "description": "Рештки зотлілих усесвітів, насичені ентропією. Дослідження Ентраті позначає його реагентом, котрий оживляє моторошні створіння Шепоту.\n\nМожна здобути за вбивство Шепоту під час виконання завдань «Ткалі островів» у Дувірі.",
+      "name": "Часовий пил",
+      "code": "uk"
+    }
+  ]
+}

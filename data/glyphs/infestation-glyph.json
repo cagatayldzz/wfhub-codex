@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Factions/GlyphFactionInfested",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infestation-glyph-73b7bcff9f.png",
+  "name": "Infestation Glyph",
+  "description": "A glyph to represent the Infestation faction.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die die Fraktion des Befalls repräsentiert.",
+      "name": "Glyphe: Befall",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe pour représenter la faction Infestée.",
+      "name": "Glyphe Infestation",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che raffigura la fazione Infestazione.",
+      "name": "Glifo Infestazione",
+      "code": "it"
+    },
+    {
+      "description": "감염체 진영을 묘사한 글리프입니다.",
+      "name": "감염체 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa la facción de la infestación.",
+      "name": "Glifo de infestación",
+      "code": "es"
+    },
+    {
+      "description": "代表 Infestation 派系的浮印。",
+      "name": "Infestation 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, символизирующий Фракцию Зараженных.",
+      "name": "Глиф: Заражение",
+      "code": "ru"
+    },
+    {
+      "description": "感染体勢力を表すグリフ。",
+      "name": "感染体 グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający frakcję Plagi.",
+      "name": "Glif Plagi",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a facção da Infestação.",
+      "name": "Glifo: Infestação",
+      "code": "pt"
+    },
+    {
+      "description": "代表感染者派系的浮印。",
+      "name": "感染者浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึงฝ่าย Infested",
+      "name": "ภาพสัญลักษณ์ Infestation",
+      "code": "th"
+    },
+    {
+      "description": "Infested fraksiyonunu temsil eden bir glif.",
+      "name": "Infested Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із символом заражених істот.",
+      "name": "Гліф «Зараження»",
+      "code": "uk"
+    }
+  ]
+}

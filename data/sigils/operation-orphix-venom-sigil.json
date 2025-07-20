@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MechEventSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/operation-orphix-venom-sigil-13568d0f92.png",
+  "name": "Operation Orphix Venom Sigil",
+  "description": "A sigil for veterans of Operation Orphix Venom.",
+  "languages": [
+    {
+      "description": "Ein Siegel für die Veteranen der Operation: Orphix Gift.",
+      "name": "Siegel: Operation Orphix Gift",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau pour les vétérans de l'Opération: Venin Orphix.",
+      "name": "Sceau d'Opération: Venin Orphix",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo per i veterani dell'Operazione Orphix Venom.",
+      "name": "Sigillo Operazione Orphix Venom",
+      "code": "it"
+    },
+    {
+      "description": "오르픽스 베놈 작전의 참전 용사들을 위한 엠블럼입니다.",
+      "name": "오퍼레이션 오르픽스 베놈 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello para los veteranos de la «Operación: Veneno de Orphix».",
+      "name": "Sello de la Operación Veneno de Orphix",
+      "code": "es"
+    },
+    {
+      "description": "授予《行动代号：奥影之毒》老兵的纹章。",
+      "name": "《行动代号：奥影之毒》纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил для ветеранов операции 'Яд Орфикса'.",
+      "name": "Сигил: Операция Яд Орфикса",
+      "code": "ru"
+    },
+    {
+      "description": "「オルフィクスの毒牙」作戦を生き抜いた戦士へ送られるシジル。",
+      "name": "「オルフィクスの毒牙」作戦シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak dla weteranów Operacji: Jad Orfiksa.",
+      "name": "Znak Operacji: Jad Orfiksa",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão para os veteranos da Operação Veneno Orphixiano.",
+      "name": "Brasão: Operação Veneno Orphixiano",
+      "code": "pt"
+    },
+    {
+      "description": "授予《行動代號：奧菲斯劇毒》的老兵的紋章。",
+      "name": "「行動代號：奧菲斯劇毒」紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายสำหรับผู้มีประสบการณ์จากปฏิบัติการ Orphix Venom",
+      "name": "เครื่องหมาย: ปฏิบัติการ Orphix Venom",
+      "code": "th"
+    },
+    {
+      "description": "Operasyon Orphix Venom ustaları için bir mühür.",
+      "name": "Operasyon Orphix Venom Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Видається ветеранам операції «Орфіксова отрута».",
+      "name": "Сиґіл операції «Орфіксова отрута»",
+      "code": "uk"
+    }
+  ]
+}

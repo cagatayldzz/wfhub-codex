@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/TwitchSentHeadMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/verv-sentrex-sentinel-mask-8783d356a2.png",
+  "name": "Verv Sentrex Sentinel Mask",
+  "description": "Your sentinel will dazzle with this mask attachment.",
+  "languages": [
+    {
+      "description": "Dein Wächter wird mit dieser Maske glänzen.",
+      "name": "Wächtermaske: Verv Sentrex",
+      "code": "de"
+    },
+    {
+      "description": "Votre Sentinelle va en jeter avec ce masque décoratif.",
+      "name": "Masque de Sentinelle Sentrex Verv",
+      "code": "fr"
+    },
+    {
+      "description": "La vostra sentinella farà faville con questa maschera.",
+      "name": "Maschera Sentinella Sentrex Verv",
+      "code": "it"
+    },
+    {
+      "description": "이 마스크 부착물과 함께라면 여러분의 센티넬이 눈부시게 빛날 겁니다.",
+      "name": "버브 센트렉스 센티넬 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Tu centinela deslumbrará con esta máscara.",
+      "name": "Máscara Sentrex Verv de centinela",
+      "code": "es"
+    },
+    {
+      "description": "你的守护会因配戴上这款面具配件而大放异彩。",
+      "name": "热忱圣塔斯守护面具",
+      "code": "zh"
+    },
+    {
+      "description": "Ваш страж будет ослепителен в этой маске.",
+      "name": "Маска стража: Сентрекс Верв",
+      "code": "ru"
+    },
+    {
+      "description": "このマスクでセンチネルを輝かせよう。",
+      "name": "Verv Sentrex センチネル マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Twój strażnik będzie oszałamiał w tej masce.",
+      "name": "Maska Strażnika: Sentrex Verv",
+      "code": "pl"
+    },
+    {
+      "description": "Sua sentinela deslumbrará com esta máscara.",
+      "name": "Máscara de Sentinela: Sentrex Verv",
+      "code": "pt"
+    },
+    {
+      "description": "你的守護會因為這個面具組件而燦爛耀眼。",
+      "name": "魄力巡守守護面具",
+      "code": "tc"
+    },
+    {
+      "description": "เซนติเนลของคุณจะส่งแสงเจิดจ้าเมื่อติดหน้ากากนี้เข้าไป",
+      "name": "หน้ากากเซนติเนล Verv Sentrex",
+      "code": "th"
+    },
+    {
+      "description": "Sentinelin bu maske eklentisiyle göz kamaştıracak.",
+      "name": "Verv Sentrex Sentinel Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Вартовий зачаровуватиме цією маскою.",
+      "name": "Маска «Сентрекс „Верв“» для вартового",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/StalkerBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---stalker-eeed028476.png",
+  "name": "Noggle Statue - Stalker",
+  "description": "A small wobbly statue of the Stalker.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur des Stalker.",
+      "name": "Noggle-Statue: Stalker",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante du Stalker.",
+      "name": "Statuette Noggle - Stalker",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta dello Stalker con la testa tremolante.",
+      "name": "Statuetta Noggle - Stalker",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 스토커",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Stalker.",
+      "name": "Estatua Tambaleante - Stalker",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者摇头娃娃。",
+      "name": "追猎者摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Сталкера.",
+      "name": "Фигурка: Сталкер",
+      "code": "ru"
+    },
+    {
+      "description": "STALKERのボブルヘッド人形。",
+      "name": "Stalker ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Stalkera.",
+      "name": "Figurka Noggle — Stalker",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Stalker.",
+      "name": "Estatueta: Stalker",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的搖頭娃娃。",
+      "name": "Stalker 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Stalker ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Stalker",
+      "code": "th"
+    },
+    {
+      "description": "Stalker küçük oynar figür.",
+      "name": "Noggle Heykeli - Stalker",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Сталкера.",
+      "name": "Ноґл «Сталкер»",
+      "code": "uk"
+    }
+  ]
+}

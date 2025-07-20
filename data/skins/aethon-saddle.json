@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Horse/GaussDeluxeHorseSaddle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aethon-saddle-dc5aa67125.png",
+  "name": "Aethon Saddle",
+  "description": "The Aethon Saddle's flames don't burn the skilled rider.",
+  "languages": [
+    {
+      "description": "Die Flammen des Sattel: Aethon verbrennen den erfahrenen Reiter nicht.",
+      "name": "Sattel: Aethon",
+      "code": "de"
+    },
+    {
+      "description": "Les flammes de la Selle Aethon ne brûlent pas le cavalier expérimenté.",
+      "name": "Selle Aethon",
+      "code": "fr"
+    },
+    {
+      "description": "Le fiamme della Sella Aethon non bruciano il cavaliere abile.",
+      "name": "Sella Aethon",
+      "code": "it"
+    },
+    {
+      "description": "숙련된 기수라면 아에톤 안장의 화염에 데이는 일은 없을 겁니다.",
+      "name": "아에톤 안장",
+      "code": "ko"
+    },
+    {
+      "description": "Las llamas de la silla Aethon no queman al jinete hábil.",
+      "name": "Silla Aethon",
+      "code": "es"
+    },
+    {
+      "description": "神驱马鞍上的火焰并不会灼伤熟练的骑手。",
+      "name": "神驱马鞍",
+      "code": "zh"
+    },
+    {
+      "description": "Пламя седла «Этон» не обожжёт опытного всадника.",
+      "name": "Седло: Этон",
+      "code": "ru"
+    },
+    {
+      "description": "Aethonサドルの炎は優れた騎手に危害を与えない。",
+      "name": "Aethon サドル",
+      "code": "ja"
+    },
+    {
+      "description": "Płomienie Siodła Aethon nie poparzą wprawnego jeźdźca.",
+      "name": "Siodło: Aethon",
+      "code": "pl"
+    },
+    {
+      "description": "As chamas da Sela Aethon não queimam o cavaleiro talentoso.",
+      "name": "Sela Aethon",
+      "code": "pt"
+    },
+    {
+      "description": "熾驅馬鞍的火焰不會灼傷老練的騎手。",
+      "name": "熾驅馬鞍",
+      "code": "tc"
+    },
+    {
+      "description": "นักขี่ม้าที่มีฝีมือจะไม่ถูกเปลวเพลิงจากอาน Aethon แผดเผา",
+      "name": "อาน Aethon",
+      "code": "th"
+    },
+    {
+      "description": "Aethon Eyerinin alevleri yetenekli binicisini yakmaz.",
+      "name": "Aethon Eyer",
+      "code": "tr"
+    },
+    {
+      "description": "Полум’я цього сідла не обпікає досвідченого вершника.",
+      "name": "Сідло «Етон»",
+      "code": "uk"
+    }
+  ]
+}

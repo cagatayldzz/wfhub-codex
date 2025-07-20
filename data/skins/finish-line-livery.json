@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/finish-line-livery-5912fccde7.png",
+  "name": "Finish Line Livery",
+  "description": "A race inspired livery for the Atomicycle.",
+  "languages": [
+    {
+      "description": "Eine vom Rennsport inspirierte Lackierung für das Atomkrad.",
+      "name": "Lackierung: Ziellinie",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle inspiré des courses pour votre Atomicycle.",
+      "name": "Modèle Finish Line",
+      "code": "fr"
+    },
+    {
+      "description": "Una livrea ispirata alle gare per Atomicycle.",
+      "name": "Livrea Finish Line",
+      "code": "it"
+    },
+    {
+      "description": "경주를 모티브로 한 아토미사이클용 도장입니다.",
+      "name": "피니쉬 라인 도장",
+      "code": "ko"
+    },
+    {
+      "description": "Una librea inspirada en las carreras para la Atomicycle.",
+      "name": "Librea Línea de Meta",
+      "code": "es"
+    },
+    {
+      "description": "灵感源自赛车的原子摩托车外观涂装。",
+      "name": "终点线",
+      "code": "zh"
+    },
+    {
+      "description": "Ливрея атомицикла, вдохновлённая гонками.",
+      "name": "Ливрея: Финиш",
+      "code": "ru"
+    },
+    {
+      "description": "レースにインスパイアされたアトミサイクルの塗装。",
+      "name": "Finish Line リバリー",
+      "code": "ja"
+    },
+    {
+      "description": "Malowanie Atomicykla inspirowane wyścigami.",
+      "name": "Malowanie: Meta",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pintura de corrida para sua Atomimoto.",
+      "name": "Pintura: Linha de Chegada",
+      "code": "pt"
+    },
+    {
+      "description": "原拓密重機的賽車塗裝。",
+      "name": "終點",
+      "code": "tc"
+    },
+    {
+      "description": "ลายรถ Atomicycle ที่ได้รับแรงบันดาลใจจากการแข่งขัน",
+      "name": "ลาย Finish Line",
+      "code": "th"
+    },
+    {
+      "description": "Atomisiklet için yarışlardan esinlenilmiş bir tasarım.",
+      "name": "Bitiş Çizgisi Kaplama",
+      "code": "tr"
+    },
+    {
+      "description": "Спортивне розфарбування каркаса для атомоцикла.",
+      "name": "Каркас «Фініш»",
+      "code": "uk"
+    }
+  ]
+}

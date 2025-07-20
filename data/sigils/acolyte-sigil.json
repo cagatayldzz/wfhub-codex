@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ProjectSinisterSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/acolyte-sigil-6f31268242.png",
+  "name": "Acolyte Sigil",
+  "description": "Never forget those who would defile the Tenno ways.",
+  "languages": [
+    {
+      "description": "Vergiss nie jene, die den Weg der Tenno beschmutzen.",
+      "name": "Siegel: Akolyth",
+      "code": "de"
+    },
+    {
+      "description": "N'oubliez jamais ceux qui voudraient souiller les voies des Tennos.",
+      "name": "Sceau d'Acolyte",
+      "code": "fr"
+    },
+    {
+      "description": "Mai dimenticare coloro che profaneranno i modi dei Tenno.",
+      "name": "Sigillo Accolite",
+      "code": "it"
+    },
+    {
+      "description": "텐노의 길을 더럽히려 하는 자들을 결코 잊지 말라.",
+      "name": "어콜라이트 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Nunca olvidar a aquellos que deshonran los caminos Tenno.",
+      "name": "Sello Acólito",
+      "code": "es"
+    },
+    {
+      "description": "铭记那些违抗 Tenno 之道的人。",
+      "name": "追随者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Никогда не забывайте тех, кто осквернил Пути Тэнно.",
+      "name": "Сигил: Послушник",
+      "code": "ru"
+    },
+    {
+      "description": "テンノ道を汚すような者たちは忘れまい。",
+      "name": "アコライト シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Nigdy nie zapomnij łotrów, pragnących zniweczyć godność Tenno.",
+      "name": "Znak Akolity",
+      "code": "pl"
+    },
+    {
+      "description": "Nunca se esqueça daqueles que desafiariam as Artes Tenno.",
+      "name": "Brasão: Acólito",
+      "code": "pt"
+    },
+    {
+      "description": "絕不要忘記那些可能在 Tenno 之道上留下污點的人。",
+      "name": "追隨者紋章",
+      "code": "tc"
+    },
+    {
+      "description": "ไม่เคยลืมผู้ที่ทำให้วิถี Tenno เป็นมลทิน",
+      "name": "เครื่องหมาย: Acolyte",
+      "code": "th"
+    },
+    {
+      "description": "Tenno Yollarına saygısızlık yapmış olanları asla unutma",
+      "name": "Acolyte Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Не забувайте тих, хто забруднює шляхи тенно.",
+      "name": "Сиґіл «Прибічник»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Syndicate/CSSurvivabilityEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cephalon-suda-endurance-emote-e3f9d48022.png",
+  "name": "Cephalon Suda Endurance Emote",
+  "description": "Dig in and get through anything with this crew-inspired emote.",
+  "languages": [
+    {
+      "description": "Mit diesem von der Crew inspirierten Emote kannst du alles durchstehen.",
+      "name": "Emote: Cephalon Suda Ausdauer",
+      "code": "de"
+    },
+    {
+      "description": "Plongez dans le feu de l'action et survivez avec ce Geste inspiré de votre équipage.",
+      "name": "Geste d'Endurance - Céphalon Suda",
+      "code": "fr"
+    },
+    {
+      "description": "Entra in azione e supera qualsiasi cosa con questa emote ispirata all'equipaggio.",
+      "name": "Emote Resistenza Cephalon Suda",
+      "code": "it"
+    },
+    {
+      "description": "승무원에게서 영감을 받은 이 감정 표현으로 무엇이든 버티며 헤쳐나가 보세요.",
+      "name": "세팔론 수다 내구 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Entra en acción y consíguelo todo con este gesto inspirado en los tripulantes.",
+      "name": "Gesto de Resistencia de Céfalon Suda",
+      "code": "es"
+    },
+    {
+      "description": "通过这款受舰员启发的表情动作来克服各种困难。",
+      "name": "中枢苏达耐力表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Преодолейте любые трудности с помощью этого жеста, вдохновлённого командой.",
+      "name": "Жест: Цефалон Суда - Выносливость",
+      "code": "ru"
+    },
+    {
+      "description": "クルーをモチーフにしたエモートで持ちこたえよう。",
+      "name": "セファロン・スーダ持久エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprzyj się mocno i wytrwaj wszystko dzięki temu inspirowanemu załogą gestowi.",
+      "name": "Gest Wytrwania Cefalon Sudy",
+      "code": "pl"
+    },
+    {
+      "description": "Seja o baluarte que suporta tudo com este emote inspirado em seus membros da tripulação.",
+      "name": "Emote: Resistência da Cephalon Suda",
+      "code": "pt"
+    },
+    {
+      "description": "透過這款以船員作靈感的表情動作來上刀山下油鍋。",
+      "name": "中樞蘇達生存表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "มุ่งมั่นและผ่านทุกสิ่งไปให้ได้ด้วยอิโมตที่ได้รับแรงบันดาลใจจากลูกเรือนี้",
+      "name": "อิโมต Cephalon Suda Endurance",
+      "code": "th"
+    },
+    {
+      "description": "Mürettebattan ilham alan bu hareketle mevzilen ve her zorluğun üstesinden gel.",
+      "name": "Cephalon Suda Dayanıklılık Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Ви витримаєте будь-які негаразди з жестом, на створення якого надихнув екіпаж.",
+      "name": "Витривалість цефалонки Суди",
+      "code": "uk"
+    }
+  ]
+}

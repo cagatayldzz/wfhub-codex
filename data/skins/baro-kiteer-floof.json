@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyBaro",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/baro-ki'teer-floof-fa4eebf00a.png",
+  "name": "Baro Ki'Teer Floof",
+  "description": "Baro returns from his latest foray into the Void in a softer, more huggable form.",
+  "languages": [
+    {
+      "description": "Baro kehrt von seinem letzten Streifzug im Void in einer weicheren, kuscheligeren Form zurück.",
+      "name": "Floof: Baro Ki'Teer",
+      "code": "de"
+    },
+    {
+      "description": "Baro revient de sa dernière incursion dans le Néant sous une forme plus douce et plus câline.",
+      "name": "Peluche Baro Ki'Teer",
+      "code": "fr"
+    },
+    {
+      "description": "Baro ritorna dalla sua ultima incursione nel Void in una forma più morbida e coccolabile.",
+      "name": "Floof Baro Ki'Teer",
+      "code": "it"
+    },
+    {
+      "description": "바로는 최근 보이드 속으로의 탐험 덕에, 더 부드럽고 껴안기 좋은 모습으로 돌아왔습니다.",
+      "name": "바로 키'티어 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Baro regresa de su última incursión en el Vacío en una forma más suave y abrazable.",
+      "name": "Floof de Baro Ki'Teer",
+      "code": "es"
+    },
+    {
+      "description": "Baro 从虚空之旅中归来，现在他的样子更加柔软，更能惹人喜爱。",
+      "name": "Baro Ki'Teer 玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Баро возвращается из своего последнего похода в Бездну в более мягком и уютном воплощении.",
+      "name": "Пушистик: Баро Ки'Тиир",
+      "code": "ru"
+    },
+    {
+      "description": "より柔らかい姿で戻ってきたVoid商人。",
+      "name": "Baro Ki'Teerのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Baro powraca ze swojej ostatniej wyprawy w Pustkę w bardziej przytulaśnej formie.",
+      "name": "Pluszak Baro Ki'Teera",
+      "code": "pl"
+    },
+    {
+      "description": "O Baro retorna de sua última incursão no Void em uma forma mais fofinha.",
+      "name": "Floof: Baro Ki'Teer",
+      "code": "pt"
+    },
+    {
+      "description": "Baro 以更適合擁抱的形態從虛空探險歸來。",
+      "name": "Baro Ki'Teer 玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "Baro ที่เพิ่งกลับมาจากการบุกเข้าไปในวอยด์ มาในรูปแบบที่นุ่มนิ่มและน่ารักน่ากอดยิ่งขึ้น",
+      "name": "ตุ๊กตา Baro Ki'Teer",
+      "code": "th"
+    },
+    {
+      "description": "Baro, Void'de yaptığı son yolculuktan daha yumuşak ve sevilebilir bir formla geri dönüyor.",
+      "name": "Baro Ki'Teer Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Баро повертається з далекої мандрівки в Порожнечі набагато м’якшим, аж хочеться обійняти.",
+      "name": "Плюш «Баро Кі’Тір»",
+      "code": "uk"
+    }
+  ]
+}

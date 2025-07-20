@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/DayUncommonFishBTrophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mortus-lungfish-trophy-617ba9c445.png",
+  "name": "Mortus Lungfish Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "Trophäe: Mortus Lungenfisch",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "Trophée Dipneuste Mortus",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "Trofeo Mortus Lungfish",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "몰터스 폐어 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "Trofeo de Dipnoi Mortus",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "摩图斯肺鱼奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "Трофей: Мортус Рогозуб",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "モータス・ラングフィッシュ トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "Trofeum: Dwudyszny Mortus",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "Troféu: Mortus Lungfish",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "摩圖斯肺魚標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: Mortus Lungfish",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "Mortus Lungfish Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "Трофей: мортус рогозуб",
+      "code": "uk"
+    }
+  ]
+}

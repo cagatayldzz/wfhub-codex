@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGrendelPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-prime-glyph---bright-f8c55dd9b9.png",
+  "name": "Grendel Prime Glyph - Bright",
+  "description": "A glyph depicting Grendel Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Grendel Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Grendel Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Grendel Prime sur un fond lumineux.",
+      "name": "Glyphe Grendel Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Grendel Prime su uno sfondo chiaro.",
+      "name": "Glifo Grendel Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 그렌델 프라임을 묘사한 글리프입니다.",
+      "name": "그렌델 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Grendel Prime sobre un fondo brillante.",
+      "name": "Glifo de Grendel Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Grendel Prime 在明亮背景下的浮印。",
+      "name": "Grendel Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гренделя Прайм на светлом фоне.",
+      "name": "Глиф: Грендель Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたGrendel Prime のグリフ。",
+      "name": "Grendel Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Grendel Prime na jasnym tle.",
+      "name": "Glif Grendel Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Grendel Prime em um fundo claro.",
+      "name": "Glifo: Grendel Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Grendel Prime 在明亮背景下的浮印。",
+      "name": "Grendel Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Grendel Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Grendel Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Grendel Prime'ı tasvir eden açık fonlu bir glif.",
+      "name": "Grendel Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґренделя-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Ґренделя-прайм»",
+      "code": "uk"
+    }
+  ]
+}

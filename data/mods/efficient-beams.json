@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/Arbitration/CrpSplitLaserArbitrationMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/efficient-beams-89d8226f7a.jpg",
+  "name": "Efficient Beams",
+  "description": "Only consume ammo when dealing damage.",
+  "languages": [
+    {
+      "description": [
+        "Verbraucht nur Munition, bei zugefügtem Schaden."
+      ],
+      "name": "Effiziente Strahlen",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Ne consomme les munitions que lorsque des dégâts sont infligés."
+      ],
+      "name": "Rayons efficaces",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Consuma munizioni solo quando infligge danno."
+      ],
+      "name": "Efficient Beams",
+      "code": "it"
+    },
+    {
+      "description": [
+        "피해를 입힐 시에만 탄약 소비"
+      ],
+      "name": "이피션트 빔즈",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Solo se consume munición cuando se inflige daño."
+      ],
+      "name": "Haces Eficientes",
+      "code": "es"
+    },
+    {
+      "description": [
+        "只有在造成伤害时才消耗弹药。"
+      ],
+      "name": "高效光束",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Боезапас расходуется только при нанесении урона."
+      ],
+      "name": "Эффективные Лучи",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "ダメージを与えている時にのみ弾薬を消費する。"
+      ],
+      "name": "Efficient Beams",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Zużywa amunicję tylko podczas zadawania obrażeń."
+      ],
+      "name": "Wydajne Promienie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Munição será consumida apenas ao causar dano."
+      ],
+      "name": "Efficient Beams",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "只有在造成傷害時才消耗彈藥。"
+      ],
+      "name": "高效光束",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "จะใช้กระสุนเมื่อสร้างความเสียหายเท่านั้น"
+      ],
+      "name": "Efficient Beams",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Sadece hasar verirken cephane tüketir."
+      ],
+      "name": "Efficient Beams",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Боєприпаси використовуються лише в разі завдавання шкоди."
+      ],
+      "name": "Дієві промені",
+      "code": "uk"
+    }
+  ]
+}

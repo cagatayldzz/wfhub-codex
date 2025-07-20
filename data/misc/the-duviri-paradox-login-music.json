@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/DuviriLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-duviri-paradox-login-music-84f973aa02.png",
+  "name": "The Duviri Paradox Login Music",
+  "description": "The Duviri Paradox login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Das Duviri-Paradox, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Das Duviri-Paradox",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical du Paradoxe Duviri à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Paradoxe Duviri",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Il Paradosso Duviri da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Il Paradosso Duviri",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 두비리의 역설 로그인 음원입니다.",
+      "name": "두비리의 역설 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de La Paradoja de Duviri para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de La Paradoja de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "《双衍悖论》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《双衍悖论》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Парадокс Дувири» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Парадокс Дувири",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるデュヴィリ・パラドックスのログインミュージック。",
+      "name": "デュヴィリ・パラドックス ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Paradoks Duviri, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Paradoks Duviri",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'O Paradoxo de Duviri' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Paradoxo de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞渡域悖論的登入畫面背景音樂。",
+      "name": "渡域悖論登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน The Duviri Paradox ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "The Duviri Paradox Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Duviri Paradox giriş müziğinin keyfini çıkar.",
+      "name": "The Duviri Paradox Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Парадокс Дувірі» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Парадокс Дувірі»",
+      "code": "uk"
+    }
+  ]
+}

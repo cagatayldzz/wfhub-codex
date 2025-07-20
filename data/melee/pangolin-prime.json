@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimePangolinSword/PrimePangolinSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pangolin-prime-92db7d4fde.png",
+  "name": "Pangolin Prime",
+  "description": "A classic Tenno blade, beautifully reimagined.",
+  "languages": [
+    {
+      "description": "Eine klassische Tenno Klinge, wunderschön neu gestaltet.",
+      "name": "Pangolin Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une lame Tenno classique, repensée de manière sublime.",
+      "name": "Pangolin Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una classica lama Tenno, reinventata magnificamente.",
+      "name": "Pangolin Prime",
+      "code": "it"
+    },
+    {
+      "description": "아름답게 재창조된 고전적 텐노 도검입니다.",
+      "name": "팽골린 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una espada clásica tenno, bellamente recreada.",
+      "name": "Pangolín Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PANGOLIN PRIME）Tenno 的经典剑刃，经过精美重制。",
+      "name": "鲮鲤剑 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Классический клинок Тэнно, красивый и продуманный.",
+      "name": "Панголин Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "古典的なテンノの刃を、美しく再構築した代物。",
+      "name": "Pangolin Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Klasyczne ostrze Tenno w piękniejszej odsłonie.",
+      "name": "Pangolin Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma clássica lâmina Tenno, majestosamente reinventada.",
+      "name": "Pangolin Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PANGOLIN PRIME）經典的 Tenno 刀刃，完美重現 。",
+      "name": "鯪鯉劍 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบของ Tenno สุดคลาสสิกที่ออกแบบขึ้นใหม่อย่างงดงาม",
+      "name": "Pangolin Prime",
+      "code": "th"
+    },
+    {
+      "description": "Özel olarak yeniden tasarlanmış klasik bir Tenno bıçağı.",
+      "name": "Pangolin Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Прекрасна модифікація класичного теннівського меча «Панґолін».",
+      "name": "Панґолін-прайм",
+      "code": "uk"
+    }
+  ]
+}

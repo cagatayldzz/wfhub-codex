@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Immortal/AntivirusTwoMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/worm-away-6fb03533c9.png",
+  "name": "Worm Away",
+  "description": "Get rid of malware, spyware, wetware and worms",
+  "languages": [
+    {
+      "description": [
+        "Befreie dich von Malware, Spyware, Wetware und Würmern"
+      ],
+      "name": "Wurm-Weg",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Débarrassez-vous des logiciels malveillants, des logiciels espions, des vers et autres"
+      ],
+      "name": "Vermifuge",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Sbarazzati di malware, spyware, wetware e worm"
+      ],
+      "name": "Worm Away",
+      "code": "it"
+    },
+    {
+      "description": [
+        "멀웨어, 스파이웨어, 웻웨어, 웜을 모조리 제거해 보세요"
+      ],
+      "name": "웜 어웨이",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Elimina malware, spyware, wetware y gusanos"
+      ],
+      "name": "Fuera bichos",
+      "code": "es"
+    },
+    {
+      "description": [
+        "清除恶意软件、间谍软件、植入软件和蠕虫"
+      ],
+      "name": "蠕虫驱逐",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Избавьтесь от вредоносных программ, шпионского ПО, вредоносного ПО и червей"
+      ],
+      "name": "Червегон",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "マルウェア、スパイウェア、ウェットウェア、ワームを駆除する"
+      ],
+      "name": "Worm Away",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Pozbądź się złośliwego oprogramowania, oprogramowania szpiegującego, oprogramowania typu wetware i robaków"
+      ],
+      "name": "Odpluskwiacz",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Elimine malware, spyware, wetware ou qualquer outro vírus!"
+      ],
+      "name": "Worm Away",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "驅除惡意軟體、間諜軟體、濕體軟體和蠕蟲"
+      ],
+      "name": "蠕蟲退散",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "กำจัดมัลแวร์ สปายแวร์ เว็ตแวร์ (สมอง) และเวิร์ม"
+      ],
+      "name": "Worm Away",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Kötü amaçlı yazılımlardan, casus yazılımlardan, iğrenç yazılımlardan ve solucanlardan kurtulun"
+      ],
+      "name": "Worm Away",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Позбудьтеся шкідливого й шпигунського ПЗ та хробаків"
+      ],
+      "name": "Хробакогін",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/EphemeraGaraPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/catena-prime-ephemera-49a6e78659.png",
+  "name": "Catena Prime Ephemera",
+  "description": "Levitating crystals weave a web of luminous connections. Gara Prime’s signature ephemera.",
+  "languages": [
+    {
+      "description": "Schwebende Kristalle, die ein Netz aus leuchtenden Verbindungen weben. Gara Primes charakteristisches Ephemera.",
+      "name": "Ephemera: Catena Prime",
+      "code": "de"
+    },
+    {
+      "description": "Les cristaux en suspension tissent un réseau de connexions lumineuses. L'Ephemera emblématique de Gara Prime.",
+      "name": "Ephemera Catena Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Dei cristalli fluttuanti tessono una rete di connessioni luminose. L'Ephemera simbolo di Gara Prime.",
+      "name": "Ephemera Catena Prime",
+      "code": "it"
+    },
+    {
+      "description": "부유하는 수정들이 서로 얽혀 빛으로 엮인 그물을 자아냅니다. 가라 프라임의 대표 이페메라입니다.",
+      "name": "카테나 프라임 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Los cristales levitantes tejen una red de conexiones luminosas. El efímero distintivo de Gara Prime.",
+      "name": "Efímero Catena Prime",
+      "code": "es"
+    },
+    {
+      "description": "轻盈的水晶编织出晶莹剔透的网。Gara Prime 的标志性幻纹。",
+      "name": "晶链 Prime 幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Парящие кристаллы плетут паутину светящихся связей. Особая эфемера Гары Прайм.",
+      "name": "Эфемера: Катэна Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "宙にたゆたう結晶は、きらめく光の網を織り成す。Gara Primeを象徴するエフェメラ。",
+      "name": "Catena Prime エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Lewitujące kryształy splatają sieć świetlistych połączeń. Charakterystyczna Efemera Gary Prime.",
+      "name": "Efemera Catena Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Cristais flutuantes que se entrelaçam em uma teia de conexões luminosas. A efêmera tradicional da Gara Prime.",
+      "name": "Efêmera: Catena Prime",
+      "code": "pt"
+    },
+    {
+      "description": "飄浮的水晶編織出銜接的發光網。Gara Prime 的標誌性幻紋。",
+      "name": "連璃 Prime 幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "คริสตัลที่ล่องลอยได้ถักทอสายใยแห่งสายสัมพันธ์ที่ส่องแสงสว่างไสว นี่คืออิเฟมเมอราที่เป็นซิกเนเจอร์ของ Gara Prime",
+      "name": "อิเฟมเมอรา Catena Prime",
+      "code": "th"
+    },
+    {
+      "description": "Havada dalgalanan kristaller, parıldayan bir ışık ağı örüyor. Gara Prime'ı simgeleyen bir Ephemera.",
+      "name": "Catena Prime Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна ефемера Ґари-прайм. Летючі кристали кружляють довкола ворфрейма й прядуть павутиння зі світла.",
+      "name": "Ефемера «Катена-прайм»",
+      "code": "uk"
+    }
+  ]
+}

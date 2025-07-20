@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/höllvania-central-mall-subway-74e4a3b54a.png",
+  "name": "HöLlvania Central Mall Subway",
+  "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+  "languages": [
+    {
+      "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+      "name": "Photora-Szene: U-Bahn des Höllvania-Einkaufszentrums",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+      "name": "Métro du Centre Commercial Central de Höllvanie",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+      "name": "Metropolitana del Centro Commerciale di Höllvania",
+      "code": "it"
+    },
+    {
+      "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+      "name": "홀바니아 중앙 쇼핑몰 지하철",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+      "name": "Metro del centro comercial de Höllvania",
+      "code": "es"
+    },
+    {
+      "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+      "name": "霍瓦尼亚中央商场地铁",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+      "name": "Хёльвания: Метро торгового центра",
+      "code": "ru"
+    },
+    {
+      "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+      "name": "ホルバニア セントラルモール・地下鉄",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+      "name": "Metro w Centrum Handlowym Höllvanii",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+      "name": "Metrô do Shopping Holvânia",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+      "name": "霍爾瓦尼亞中央購物中心中捷運",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+      "name": "สถานีรถไฟใต้ดิน Höllvania Central Mall",
+      "code": "th"
+    },
+    {
+      "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+      "name": "Höllvania AVM Metrosu",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+      "name": "Голвенійське метро торговельного центру",
+      "code": "uk"
+    }
+  ]
+}

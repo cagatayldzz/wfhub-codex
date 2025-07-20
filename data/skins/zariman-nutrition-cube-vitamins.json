@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenFoodRationE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-nutrition-cube-(vitamins)-737735cd82.png",
+  "name": "Zariman Nutrition Cube (Vitamins)",
+  "description": "A collection of essential vitamins and nutrients in one, easy-to-digest nutrition cube.",
+  "languages": [
+    {
+      "description": "Eine Zusammenstellung essenzieller Vitamine und Nährstoffe in einem leicht verdaulichen Nährstoffwürfel.",
+      "name": "Zariman Nährstoffwürfel (Vitamine)",
+      "code": "de"
+    },
+    {
+      "description": "Une collection de vitamines et de nutriments essentiels dans un seul cube nutritionnel facile à digérer.",
+      "name": "Zariman: Cube nutritionnel (vitamines)",
+      "code": "fr"
+    },
+    {
+      "description": "Una raccolta di vitamine e nutrienti essenziali in un unico cubo nutrizionale facile da digerire.",
+      "name": "Cubo Nutrizionale Zariman (Vitamine)",
+      "code": "it"
+    },
+    {
+      "description": "소화하기 쉬운 영양 큐브로, 필수 비타민과 영양소 모음이 이 큐브 하나에 담겨 있습니다.",
+      "name": "자리만 영양 큐브 (비타민)",
+      "code": "ko"
+    },
+    {
+      "description": "Una colección de vitaminas y nutrientes esenciales en un cubo de nutrición fácil de digerir.",
+      "name": "Cubo nutricional Zariman (vitaminas)",
+      "code": "es"
+    },
+    {
+      "description": "一个由必需维生素和营养素合成且易于消化的营养块。",
+      "name": "扎里曼营养块（维生素）",
+      "code": "zh"
+    },
+    {
+      "description": "Набор необходимых витаминов и питательных веществ в одном легко усваиваемом пищевом батончике.",
+      "name": "Зариман: Питательный батончик (витамины)",
+      "code": "ru"
+    },
+    {
+      "description": "体が必要とするビタミン全てを一つのキューブにまとめたもの。",
+      "name": "Zariman 栄養キューブ（ビタミン）",
+      "code": "ja"
+    },
+    {
+      "description": "Lekkostrawne pożywienie zawierające niezbędne witaminy i składniki odżywcze.",
+      "name": "Zariman: Baton odżywczy (witaminy)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma coleção de vitaminas e nutrientes essenciais em um cubo nutricional fácil de digerir.",
+      "name": "Cubo Nutricional da Zariman (Vitaminas)",
+      "code": "pt"
+    },
+    {
+      "description": "各種必需維生素和營養素集合在一顆易於消化的營養塊。",
+      "name": "扎日曼營養塊（維生素）",
+      "code": "tc"
+    },
+    {
+      "description": "ก้อนอาหารที่ย่อยง่าย เป็นแหล่งรวมวิตามินและสารอาหารที่จำเป็น",
+      "name": "Zariman: นิวทริชันคิวบ์ (วิตามิน)",
+      "code": "th"
+    },
+    {
+      "description": "Temel vitamin ve minerallerin karışımıyla oluşturulmuş sindirimi kolay bir besin küpü.",
+      "name": "Zariman Besin Küpü (Vitaminler)",
+      "code": "tr"
+    },
+    {
+      "description": "Харчовий куб із вмістом різноманітних важливих вітамінів та інших поживних речовин.",
+      "name": "Харчовий куб із «Заримена» (вітамінний)",
+      "code": "uk"
+    }
+  ]
+}

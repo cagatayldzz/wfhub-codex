@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/AntiSerumInjector",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zealot-derelict-code-a18a23129b.png",
+  "name": "Zealot Derelict Code",
+  "description": "Allows access to Infested Derelicts that have been rerouted to populated areas by Zealots.",
+  "languages": [
+    {
+      "description": "Gewährt Zugang zu befallenen Wracks, die von den Eiferern in bewohnte Gebiete umgelenkt wurden.",
+      "name": "Wrack-Code Der Eiferer",
+      "code": "de"
+    },
+    {
+      "description": "Permettent d'accéder aux Épaves Infestées déroutées vers des zones peuplées par les Fanatiques.",
+      "name": "Code de Zélote - Épave",
+      "code": "fr"
+    },
+    {
+      "description": "Consente l'accesso ai Relitti Infested che sono stati dirottati in aree popolate dagli Zealot.",
+      "name": "Codici Relitto Zealot",
+      "code": "it"
+    },
+    {
+      "description": "질럿들에 의해 항로가 재설정되어 인구 밀집 지역으로 향하는 인페스티드 폐함선으로의 접근을 허용합니다",
+      "name": "질럿 폐함선 코드",
+      "code": "ko"
+    },
+    {
+      "description": "Permite el acceso a derrelictos infestados que han sido redirigidos por los fanáticos a áreas pobladas.",
+      "name": "Código de Derrelicto de Fanático",
+      "code": "es"
+    },
+    {
+      "description": "进入感染者遗迹的权限，其已经被狂热者改道至人口稠密区域。",
+      "name": "狂热者遗迹密码",
+      "code": "zh"
+    },
+    {
+      "description": "Позволяет получить доступ к Руинам заражённых, перенаправленные в населенные районы Фанатиками.",
+      "name": "Код руин: Фанатик",
+      "code": "ru"
+    },
+    {
+      "description": "ゼロットが住みかとする感染遺跡へのアクセスコード",
+      "name": "ゼロット遺跡コード",
+      "code": "ja"
+    },
+    {
+      "description": "Pozwala na wejście do Wraku, który został przekierowany do obszarów zaludnionych przez Fanatyków.",
+      "name": "Kod Wraku Fanatyków",
+      "code": "pl"
+    },
+    {
+      "description": "Concede acesso às Naves Abandonadas Infestadas que foram redirecionadas para áreas povoadas por Fanáticos.",
+      "name": "Código da Nave Abandonada do Fanático",
+      "code": "pt"
+    },
+    {
+      "description": "允許通往至 Infested 遺跡，其已被狂熱者改道成通往人口密集區。",
+      "name": "狂熱者遺跡密碼",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยให้เข้าไปถึงซากถูกทิ้งที่ติดเชื้อซึ่งถูกพวก Zealot เปลี่ยนเส้นทางไปยังพื้นที่ที่มีประชากรหนาแน่น",
+      "name": "รหัส Zealot Derelict",
+      "code": "th"
+    },
+    {
+      "description": "Zealot'lar tarafından daha nüfuslu bölgelere yönlendirilen Infested Derelict'lerine erişim sağlar.",
+      "name": "Zealot Derelict Kodu",
+      "code": "tr"
+    },
+    {
+      "description": "Дає доступ до заражених зорельотів-блукачів, яких фанатики спрямували в заселені місця.",
+      "name": "Код зорельотів-блукачів фанатиків",
+      "code": "uk"
+    }
+  ]
+}

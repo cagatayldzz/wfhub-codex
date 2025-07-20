@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Guardian",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/guardian-b4a8b38df9.jpg",
+  "name": "Guardian",
+  "languages": [
+    {
+      "name": "Beschützer",
+      "code": "de"
+    },
+    {
+      "name": "Gardien",
+      "code": "fr"
+    },
+    {
+      "name": "Guardian",
+      "code": "it"
+    },
+    {
+      "name": "가디언",
+      "code": "ko"
+    },
+    {
+      "name": "Guardián",
+      "code": "es"
+    },
+    {
+      "name": "守护者",
+      "code": "zh"
+    },
+    {
+      "name": "Защитник",
+      "code": "ru"
+    },
+    {
+      "name": "Guardian",
+      "code": "ja"
+    },
+    {
+      "name": "Obrońca",
+      "code": "pl"
+    },
+    {
+      "name": "Guardian",
+      "code": "pt"
+    },
+    {
+      "name": "守護者",
+      "code": "tc"
+    },
+    {
+      "name": "Guardian",
+      "code": "th"
+    },
+    {
+      "name": "Guardian",
+      "code": "tr"
+    },
+    {
+      "name": "Захисник",
+      "code": "uk"
+    }
+  ]
+}

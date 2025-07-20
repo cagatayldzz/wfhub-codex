@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/IvaraPrimeArmor/IvaraPrimeCArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/anasa-ayatan-prime-chest-plate-3bc1b617df.png",
+  "name": "Anasa Ayatan Prime Chest Plate",
+  "description": "Inspired by the undulating design of the Anasa Ayatan sculpture, Ivara claims this as her signature armor set.",
+  "languages": [
+    {
+      "description": "Inspiriert vom schwungvollen Design der Anasa Ayatan-Skulptur, ist dies Ivaras bevorzugtes Rüstungsset.",
+      "name": "Brustplatte: Anasa Ayatan Prime",
+      "code": "de"
+    },
+    {
+      "description": "Inspirée des ondulations de la sculpture Ayatan Anasa, Ivara l'a choisie comme Armure emblématique.",
+      "name": "Plastron Ayatan Anasa Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Ispirata dal design ondulato della scultura Ayatan Anasa, Ivara rivendica questo set armatura come sua distintiva.",
+      "name": "Pettorina Ayatan Anasa Prime",
+      "code": "it"
+    },
+    {
+      "description": "물결처럼 위아래로 움직이는 아나사 아야탄 조각상의 디자인에서 영감을 받은 이 아머 세트를, 이바라는 자신의 대표 아머로써 자랑합니다.",
+      "name": "아나사 아야탄 프라임 체스트 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Inspirada en el diseño ondulante de la escultura Ayatan Anasa, Ivara la reclama como su armadura distintiva.",
+      "name": "Peto de placas Ayatan Anasa Prime",
+      "code": "es"
+    },
+    {
+      "description": "受到了阿耶檀识 Anasa 塑像波浪线设计的启发，Ivara 声称这是她的标志性护甲套装。",
+      "name": "Anasa 阿耶檀识 Prime 胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Вдохновлённый дизайном постоянного движения скульптуры Анаса Аятан, этот набор доспехов является особым для Ивары.",
+      "name": "Нагрудник: Анаса Аятан Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Anasa アヤタン像の起伏あるデザインに触発された、Ivaraを象徴するアーマー セット。",
+      "name": "Anasa Ayatan Prime チェストプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Zainspirowany nietuzinkowym projektem rzeźby Ayatan Anasa, zagarnięty przez Ivarę jako jej charakterystyczny zestaw pancerza.",
+      "name": "Napierśnik: Anasa Ayatan Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Inspirada no design ondulado da Escultura Ayatan Anasa, esta assume o posto de conjunto tradicional de armaduras da Ivara.",
+      "name": "Peitoral: Ayatan Anasa Prime",
+      "code": "pt"
+    },
+    {
+      "description": "透過阿耶檀識 Anasa 塑像波浪形設計所賦予的靈感，Ivara 聲稱這個護甲為她的標誌性護甲套裝。",
+      "name": "Anasa 阿耶檀識 Prime 胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "Ivara อ้างว่านี่คือชุดเกราะที่เป็นเอกลักษณ์ประจำตัว ซึ่งได้รับแรงบันดาลใจจากลายออกแบบที่เป็นลูกคลื่นในประติมากรรม Anasa Ayatan",
+      "name": "เพลตหน้าอก Anasa Ayatan Prime",
+      "code": "th"
+    },
+    {
+      "description": "Anasa Ayatan heykelinin dalgalı tasarımından esinlenilen bu zırh Ivara'nın özel seçim zırh setidir.",
+      "name": "Anasa Ayatan Prime Gögüs Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний набір оздоблювальних обладунків Івари, на створення якого надихнув образ аятана-скульптури «Анаса».",
+      "name": "Нагрудник «Аятана-Анаса-прайм»",
+      "code": "uk"
+    }
+  ]
+}

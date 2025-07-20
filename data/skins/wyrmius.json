@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Arcade/WyrmiusArcadeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wyrmius-6fa58b3e78.png",
+  "name": "Wyrmius",
+  "description": "Pilot Wyrm in a hectic, side-scrolling battle against the Corpus.",
+  "languages": [
+    {
+      "description": "Steuere Wyrm in diesem hektischen, side-scrolling Kampf gegen die Corpus.",
+      "name": "Wyrmius",
+      "code": "de"
+    },
+    {
+      "description": "Pilotez Wyrm dans une bataille 2D bourrée d'action contre le Corpus.",
+      "name": "Wyrmius",
+      "code": "fr"
+    },
+    {
+      "description": "Pilota Wyrm in una frenetica battaglia a scorrimento laterale contro i Corpus.",
+      "name": "Wyrmius",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스와의 정신없는 횡스크롤 전쟁에서 웜을 조종하세요.",
+      "name": "워미우스",
+      "code": "ko"
+    },
+    {
+      "description": "Pilota a Wyrm en una agitada batalla de desplazamiento lateral contra el Corpus.",
+      "name": "Wyrmius",
+      "code": "es"
+    },
+    {
+      "description": "驾驶 Wyrm 在一场激烈的横向卷轴战斗中对抗 Corpus。",
+      "name": "蛟龙巡航机",
+      "code": "zh"
+    },
+    {
+      "description": "Направьте Вирма в жаркий бой против Корпуса",
+      "name": "Wyrmius",
+      "code": "ru"
+    },
+    {
+      "description": "Wyrmを操ってコーパスとの熱い横スクロールバトルを切り抜けろ。",
+      "name": "Wyrmius",
+      "code": "ja"
+    },
+    {
+      "description": "Pokieruj Wyrmem w jego szaleńczej, dwuwymiarowej bitwie przeciw Corpus.",
+      "name": "Wyrmius",
+      "code": "pl"
+    },
+    {
+      "description": "Pilote Wyrm numa batalha frenética em 2D contra os Corpus.",
+      "name": "Wyrmius",
+      "code": "pt"
+    },
+    {
+      "description": "在一場激烈的橫向捲軸戰鬥中操控「蛟龍」來對抗 Corpus。",
+      "name": "蛟龍巡航機",
+      "code": "tc"
+    },
+    {
+      "description": "ควบคุม Wyrm เพื่อทำการต่อสู้ที่แสนวุ่นวายกับพวก Corpus แบบเลื่อนไปด้านข้าง",
+      "name": "Wyrmius",
+      "code": "th"
+    },
+    {
+      "description": "Corpus'a karşı telaşlı ve yana doğru kayan çatışmada Wyrm'i kontrol edin.",
+      "name": "Wyrmius",
+      "code": "tr"
+    },
+    {
+      "description": "Проведіть Змія крізь запеклий бій проти Корпусу.",
+      "name": "Wyrmius",
+      "code": "uk"
+    }
+  ]
+}

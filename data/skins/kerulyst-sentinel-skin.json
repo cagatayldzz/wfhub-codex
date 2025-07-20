@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/HeliosDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kerulyst-sentinel-skin-ec976e95e9.png",
+  "name": "Kerulyst Sentinel Skin",
+  "description": "Give your Sentinel the appearance of a Kerulyst, diminutive Sentients that evolved to become robust laborers in the Tau System.",
+  "languages": [
+    {
+      "description": "Verleihe deinem Wächter das Aussehen eines Kerulyst, einem zierlichen Sentient, der sich im Tau-System zu einem robusten Arbeiter entwickelt hat.",
+      "name": "Wächter-Skin: Kerulyst",
+      "code": "de"
+    },
+    {
+      "description": "Donnez à votre Sentinelle l'apparence d'un Kérulyste, de minuscules Sentients qui ont évolué pour devenir des ouvriers robustes dans le Système Tau.",
+      "name": "Aspect de Sentinelle Kérulyste",
+      "code": "fr"
+    },
+    {
+      "description": "Dai alla tua Sentinella l'aspetto di un Kerulyst, piccoli Sentient che si sono evoluti per diventare robusti lavoratori nel Sistema Tau.",
+      "name": "Skin Sentinella Kerulyst",
+      "code": "it"
+    },
+    {
+      "description": "타우 성계에서 튼튼한 일꾼으로 쓰이도록 진화한 소형 센티언트, 케룰리스트의 외형을 여러분의 센티넬에게 부여해 보세요.",
+      "name": "케룰리스트 센티넬 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Dale a tu centinela la apariencia de un Kerulista, conscientes diminutos que evolucionaron para convertirse en trabajadores fuertes del Sistema Tau.",
+      "name": "Diseño Kerulista de centinela",
+      "code": "es"
+    },
+    {
+      "description": "让你的守护拥有怪力使的外观，这些小型的 Sentient 已经进化成了 Tau 星系中坚韧的劳力。",
+      "name": "怪力使守护外观",
+      "code": "zh"
+    },
+    {
+      "description": "Придайте вашему Стражу вид Керулистов, миниатюрных Владеющих Разумом, которые развивались, чтобы стать надежными работниками в Системе Тау.",
+      "name": "Скин Стража: Керулист",
+      "code": "ru"
+    },
+    {
+      "description": "Tauでの労働力として作られたケルリストの容姿をセンチネルに与える。",
+      "name": "ケルリスト センチネルスキン",
+      "code": "ja"
+    },
+    {
+      "description": "Nadaj swojemu Strażnikowi wygląd Kerulysta, niewielkiego Świadomego, który ewoluował, by stać się wytrzymałym robotnikiem w Systemie Tau.",
+      "name": "Skórka Strażnika: Kerulyst",
+      "code": "pl"
+    },
+    {
+      "description": "Dê à sua Sentinela a aparência de um Kerulista, Sentients minúsculos que evoluíram para se tornarem trabalhadores robustos no Sistema Tau.",
+      "name": "Sentinela: Skin Kerulista",
+      "code": "pt"
+    },
+    {
+      "description": "給你的守護裝備苦力使的外觀造型，苦力使是卑微的 Sentient 已演化成 Tau 星系中的茁壯勞力。",
+      "name": "苦力使守護外觀",
+      "code": "tc"
+    },
+    {
+      "description": "มอบรูปลักษณ์ของ Kerulyst ให้กับเซนติเนลของคุณ เซนติเนลจิ๋วที่วิวัฒนาการจนกลายเป็นแรงงานที่แข็งแกร่งในระบบ Tau",
+      "name": "สกินเซนติเนล Kerulyst",
+      "code": "th"
+    },
+    {
+      "description": "Sentinel'ine, Tau Sisteminde güçlü işçilere evrimleşmiş, küçük bir Sentient olan Kerulyst görünümünü ver.",
+      "name": "Kerulyst Sentinel Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Зробіть вашого вартового схожим на керулистів — невеличких свідомих, які еволюціонували, щоб стати надійними працівниками системи Тау.",
+      "name": "Вигляд «Керулист» для вартового",
+      "code": "uk"
+    }
+  ]
+}

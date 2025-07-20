@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaJ",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bounty-sigil-fdcec95b88.png",
+  "name": "Bounty Sigil",
+  "description": "A sigil representing prestige gained with the New Loka.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim New Loka repräsentiert.",
+      "name": "Siegel: Prämie",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Nouveau Loka.",
+      "name": "Sceau de Générosité",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con New Loka.",
+      "name": "Sigillo Bounty",
+      "code": "it"
+    },
+    {
+      "description": "뉴 로카로부터 받은 찬사를 대변하는 시질입니다.",
+      "name": "바운티 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con Nuevo Loka.",
+      "name": "Sello de la Recompensa",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了新世间的威望。",
+      "name": "慷慨纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Новой Локи.",
+      "name": "Сигил: Щедрость",
+      "code": "ru"
+    },
+    {
+      "description": "ニュー・ロカから得た声望を表すシジル。",
+      "name": "Bounty シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Nowej Loki.",
+      "name": "Znak Daru",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto ao Neoloka.",
+      "name": "Brasão: Recompensa",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了新世間的威望。",
+      "name": "慷慨紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก New Loka",
+      "name": "เครื่องหมาย: Bounty",
+      "code": "th"
+    },
+    {
+      "description": "New Loka prestijini sembolize eden bir mühür",
+      "name": "Bounty Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Нова Лока».",
+      "name": "Сиґіл «Щедрість»",
+      "code": "uk"
+    }
+  ]
+}

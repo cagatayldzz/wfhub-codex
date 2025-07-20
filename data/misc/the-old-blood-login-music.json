@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-old-blood-login-music-14a2143ed7.png",
+  "name": "The Old Blood Login Music",
+  "description": "The Old Blood login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Das Alte Blut, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Das Alte Blut",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical du Sang Ancien à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Sang Ancien",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Il Sangue Antico da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Il Sangue Antico",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 오래된 피 로그인 음원입니다.",
+      "name": "오래된 피 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de La Sangre Ancestral para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de La Sangre Ancestral",
+      "code": "es"
+    },
+    {
+      "description": "《远古之血》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《远古之血》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Древняя кровь» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Древняя кровь",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞ける古き血統のログインミュージック。",
+      "name": "古き血統 ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Stara Krew, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Stara Krew",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'O Sangue Ancestral' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Sangue Ancestral",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞上古赤血的登入畫面背景音樂。",
+      "name": "上古赤血登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน The Old Blood ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "The Old Blood Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Old Blood giriş müziğinin keyfini çıkar.",
+      "name": "The Old Blood Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Прадавня кров» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Прадавня кров»",
+      "code": "uk"
+    }
+  ]
+}

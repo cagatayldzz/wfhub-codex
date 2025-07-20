@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fluctus-1e012e3298.png",
+  "name": "Fluctus",
+  "description": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.",
+  "languages": [
+    {
+      "description": "Eine Archwing Energiewaffe, die Wellen tödlichen Plasmas aussendet und in den Gegner einschlagen lässt.",
+      "name": "Fluctus",
+      "code": "de"
+    },
+    {
+      "description": "Une arme énergétique d'Archwing qui envoie des ondes de plasma létales s'écraser sur les ennemis.",
+      "name": "Fluctus",
+      "code": "fr"
+    },
+    {
+      "description": "Un'arma ad energia di classe Archwing che spedisce delle onde di plasma mortale dritti contro i nemici.",
+      "name": "Fluctus",
+      "code": "it"
+    },
+    {
+      "description": "치명적인 플라즈마 파동을 발사하여 적과 충돌시키는 아크윙 에너지 무기입니다.",
+      "name": "플럭투스",
+      "code": "ko"
+    },
+    {
+      "description": "Un arma de energía para el archwing que envía ondas de plasma letal contra los enemigos.",
+      "name": "Fluctus",
+      "code": "es"
+    },
+    {
+      "description": "（英文：FLUCTUS）一把能射出致命等离子波来击溃敌人的曲翼能量武器。",
+      "name": "巨浪",
+      "code": "zh"
+    },
+    {
+      "description": "Энергетическое оружие Арчвинга, стреляющее сгустками плазмы, расщепляющей врагов.",
+      "name": "Флактус",
+      "code": "ru"
+    },
+    {
+      "description": "アークウイング用エネルギー兵器。プラズマ波を浴びせかけて、敵を粉砕する。",
+      "name": "Fluctus",
+      "code": "ja"
+    },
+    {
+      "description": "Broń Archwinga, wysyłająca we wrogów fale zabójczej plazmy.",
+      "name": "Fluctus",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma de Energia da Archwing que envia ondas de plasma mortais para esmagar os inimigos.",
+      "name": "Fluctus",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：FLUCTUS）一把能射出致命電漿波來擊潰敵人的 Archwing 能量武器。",
+      "name": "巨浪",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธพลังงาน Archwing ที่ส่งคลื่นพลาสมาร้ายแรงพุ่งชนศัตรู",
+      "name": "Fluctus",
+      "code": "th"
+    },
+    {
+      "description": "Bir archwing ürünü olan bu silah düşmanlarına ölümcül plazma dalgaları gönderir.",
+      "name": "Fluctus",
+      "code": "tr"
+    },
+    {
+      "description": "Енергетична гармата арквінґа. Стріляє хвилями смертельної плазми, які зминають ворогів.",
+      "name": "Флукт",
+      "code": "uk"
+    }
+  ]
+}

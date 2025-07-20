@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/RivenIdentifier",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/veiled-riven-cipher-60ccf85aa8.png",
+  "name": "Veiled Riven Cipher",
+  "description": "Use this cipher to instantly complete one Veiled Riven Challenge at the cost of consuming the cipher.",
+  "languages": [
+    {
+      "description": "Benutze diesen Dechiffrierer, um die die Herausforderung einer Verschleierten Riven sofort abzuschließen. Dies verbraucht den Dechiffrierer.",
+      "name": "Dechiffrierer für Verschleierte Riven",
+      "code": "de"
+    },
+    {
+      "description": "Utilisez ce décodeur pour terminer instantanément un défi de Riven Voilé au prix de la consommation du décodeur.",
+      "name": "Décodeur de Riven Voilé",
+      "code": "fr"
+    },
+    {
+      "description": "Usa questo cipher per completare istantaneamente una Sfida Riven, consumandolo.",
+      "name": "Cipher Riven Non Identificato",
+      "code": "it"
+    },
+    {
+      "description": "이 해독기를 소모하여 미해금 리벤 도전 과제 하나를 즉시 완료할 수 있습니다.",
+      "name": "미해금 리벤 해독기",
+      "code": "ko"
+    },
+    {
+      "description": "Utiliza este cifrador para completar instantáneamente un desafío de mod Agrietado velado. El cifrador será consumido.",
+      "name": "Cifrador de mod Agrietado velado",
+      "code": "es"
+    },
+    {
+      "description": "使用并消耗破解器即可立即完成一项尚未揭开的裂罅 Mod 挑战。",
+      "name": "裂罅破解器",
+      "code": "zh"
+    },
+    {
+      "description": "Используйте этот шифр, чтобы мгновенно открыть закрытый мод Разлома.",
+      "name": "Дешифратор закрытых Модов Разлома",
+      "code": "ru"
+    },
+    {
+      "description": "このサイファーを消費することでベールRIVENチャレンジを瞬時にクリアする。",
+      "name": "ベールRIVEN サイファー",
+      "code": "ja"
+    },
+    {
+      "description": "Użyj szyfru, aby natychmiast ukończyć jedno wybrane Wyzwanie Ukrytego Moda Riven.",
+      "name": "Dekoder Ukrytego Modu Riven",
+      "code": "pl"
+    },
+    {
+      "description": "Utilize este Decodificador para completar instantaneamente o Desafio de um Riven Oculto. O Decodificador será consumido após ser utilizado.",
+      "name": "Decodificador de Riven Oculto",
+      "code": "pt"
+    },
+    {
+      "description": "使用這個破解器以立即完成一項尚未揭開的裂罅 MOD 挑戰，破解器於當下消耗。",
+      "name": "裂罅破解器",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ไซเฟอร์ชิ้นนี้ทำภารกิจท้าทายเพื่อปลดล็อก Riven หนึ่งครั้งแต่ก็ต้องแลกกับการเสียไซเฟอร์ชิ้นนี้ไป",
+      "name": "ไซเฟอร์ปลดล็อก Riven",
+      "code": "th"
+    },
+    {
+      "description": "Bu şifre çözücüyü kullanarak, şifre çözücüsünü tüketme pahasına bir Kapalı Riven'in Meydan Okumasını anında tamamla.",
+      "name": "Kapalı Riven Anahtarı",
+      "code": "tr"
+    },
+    {
+      "description": "Використайте цей шифрувальник, щоб миттєво розкрити прихований модифікатор розколу.",
+      "name": "Шифрувальник прихованих модифікаторів розколу",
+      "code": "uk"
+    }
+  ]
+}

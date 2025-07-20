@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/diligence-sigil-b8852f206d.png",
+  "name": "Diligence Sigil",
+  "description": "A sigil representing prestige gained with the Conclave.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige beim Conclave zeigt.",
+      "name": "Siegel: Fleiss",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant le prestige obtenu avec le Conclave.",
+      "name": "Sceau de la Diligence",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con il Conclave.",
+      "name": "Sigillo Diligence",
+      "code": "it"
+    },
+    {
+      "description": "콘클레이브에서 얻은 칭호를 대변하는 시질입니다.",
+      "name": "딜리전스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Cónclave.",
+      "name": "Sello de la Diligencia",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了武形秘仪的威望。",
+      "name": "勤勉纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю в Конклаве.",
+      "name": "Сигил: Усердие",
+      "code": "ru"
+    },
+    {
+      "description": "コンクレーブから得た声望を表すシジル。",
+      "name": "Diligence シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty w Konklawe.",
+      "name": "Znak Pracowitości",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com o Conclave.",
+      "name": "Brasão: Zelo",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了武形秘儀的威望。",
+      "name": "勤勉紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจากคอนเคลฟ",
+      "name": "เครื่องหมาย: Diligence",
+      "code": "th"
+    },
+    {
+      "description": "Kendisini taşıyan kişiye Conclave’lerde saygınlık kazandırır.",
+      "name": "Diligence Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в Конклаві.",
+      "name": "Сиґіл «Старанність»",
+      "code": "uk"
+    }
+  ]
+}

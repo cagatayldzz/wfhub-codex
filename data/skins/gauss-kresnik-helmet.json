@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Runner/GaussDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauss-kresnik-helmet-7c4db76f9b.png",
+  "name": "Gauss Kresnik Helmet",
+  "description": "Gauss Kresnik's signature helmet.",
+  "languages": [
+    {
+      "description": "Gauss Kresniks bevorzugter Helm.",
+      "name": "Gauss-Helm: Kresnik",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Gauss Kresnik.",
+      "name": "Casque Gauss Kresnik",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Gauss Kresnik.",
+      "name": "Elmo Gauss Kresnik",
+      "code": "it"
+    },
+    {
+      "description": "가우스 크레스니크의 대표 헬멧입니다.",
+      "name": "가우스 크레스니크 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Gauss Kresnik.",
+      "name": "Casco Kresnik de Gauss",
+      "code": "es"
+    },
+    {
+      "description": "Gauss 火神的标志性头盔。",
+      "name": "Gauss 火神头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Гаусса «Кресник».",
+      "name": "Шлем Гаусса: Кресник",
+      "code": "ru"
+    },
+    {
+      "description": "Gauss Kresnikのメインヘルメット。",
+      "name": "Gauss Kresnik ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Gaussa Kresnik.",
+      "name": "Gauss: Hełm Kresnik",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Gauss Kresnik.",
+      "name": "Gauss: Capacete Kresnik",
+      "code": "pt"
+    },
+    {
+      "description": "Gauss 炎君的標誌性頭盔。",
+      "name": "Gauss 炎君頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Gauss Kresnik",
+      "name": "หมวกเหล็ก Gauss Kresnik",
+      "code": "th"
+    },
+    {
+      "description": "Gauss Kresnik'in özel miğferi.",
+      "name": "Gauss Kresnik Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Креснік» для Ґаусса.",
+      "name": "Шолом «Креснік» для Ґаусса",
+      "code": "uk"
+    }
+  ]
+}

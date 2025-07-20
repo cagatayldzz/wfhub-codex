@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropWolfHeadStatueADeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steadfast-ulfrun-bust-665215efdd.png",
+  "name": "Steadfast Ulfrun Bust",
+  "description": "Display this statue in honor of Ulfrun's strength.",
+  "languages": [
+    {
+      "description": "Stelle diese Statue zu Ehren von Ulfruns Wildheit zur Schau.",
+      "name": "Büste: Treuer Ulfrun",
+      "code": "de"
+    },
+    {
+      "description": "Exposez cette statue en l'honneur de la force d'Ulfrun.",
+      "name": "Buste Ulfrun Inébranlable",
+      "code": "fr"
+    },
+    {
+      "description": "Metti in mostra questa statua in onore della forza di Ulfrun.",
+      "name": "Busto - Fedele Ulfrun",
+      "code": "it"
+    },
+    {
+      "description": "울프룬의 힘을 기리며 이 조각상을 전시해 보세요.",
+      "name": "변함없는 울프룬 흉상",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra esta estatua en honor a la fuerza de Ulfrun.",
+      "name": "Busto de Ulfrun Inquebrantable",
+      "code": "es"
+    },
+    {
+      "description": "这尊雕像用以纪念乌尔佛伦的力量。",
+      "name": "坚韧的乌尔佛伦半身铜像",
+      "code": "zh"
+    },
+    {
+      "description": "Покажите эту статую в честь силы Ульфруна.",
+      "name": "Бюст: Стойкий Ульфрун",
+      "code": "ru"
+    },
+    {
+      "description": "Ulfrunの力を讃えるべくこの彫像を飾ろう。",
+      "name": "忠誠のUlfrun胸像",
+      "code": "ja"
+    },
+    {
+      "description": "Dumnie prezentuj tę statuę na cześć siły Ulfruna.",
+      "name": "Popiersie Niezłomnego Ulfruna",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba esta estátua em homenagem à força de Ulfrun.",
+      "name": "Monumento do Ulfrun Inabalável",
+      "code": "pt"
+    },
+    {
+      "description": "展示這尊雕像以紀念 Ulfrun 的力量。",
+      "name": "堅毅的 Ulfrun 胸像",
+      "code": "tc"
+    },
+    {
+      "description": "จัดวางรูปปั้นชิ้นนี้เพื่อเป็นเกียรติให้กับความแข็งแกร่งของ Ulfrun",
+      "name": "รูปปั้นครึ่งตัว: Ulfrun ผู้มีใจเด็ดเดี่ยว",
+      "code": "th"
+    },
+    {
+      "description": "Bu heykeli Ulfrun’un gücünün onuruna sergile.",
+      "name": "Steadfast Ulfrun Büstü",
+      "code": "tr"
+    },
+    {
+      "description": "Виставте цю статую, щоби вшанувати міць Ульфрана.",
+      "name": "Бюст «Непохитний Ульфран»",
+      "code": "uk"
+    }
+  ]
+}

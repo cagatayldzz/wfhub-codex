@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Horse/ErsatzHorseSaddleA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dovin-saddle-d7fdb51786.png",
+  "name": "Dovin Saddle",
+  "description": "The Dovin Saddle’s deep curve and lightweight structure make for strong balance and gentle communication with the Kaithe.",
+  "languages": [
+    {
+      "description": "Die tiefe Krümmung und die leichte Struktur des Dovin-Sattels sorgen für ein starkes Gleichgewicht und eine sanfte Kommunikation mit dem Kaithe.",
+      "name": "Sattel: Dovin",
+      "code": "de"
+    },
+    {
+      "description": "La courbe profonde et la structure légère de la Selle Dovin permettent un équilibre solide et une communication douce avec le Kaithe.",
+      "name": "Selle Dovin",
+      "code": "fr"
+    },
+    {
+      "description": "La curva profonda e la struttura leggera della Sella Dovin creano un forte equilibrio e una comunicazione delicata con il Kaithe.",
+      "name": "Sella Dovin",
+      "code": "it"
+    },
+    {
+      "description": "도빈 안장의 깊은 곡선과 가벼운 구조는 강력한 균형을 이루며 케이스와의 원만한 소통에 도움을 줍니다.",
+      "name": "도빈 안장",
+      "code": "ko"
+    },
+    {
+      "description": "La curva profunda y la estructura liviana de la silla Dovin crean un fuerte equilibrio y una suave comunicación con el kaithe.",
+      "name": "Silla Dovin",
+      "code": "es"
+    },
+    {
+      "description": "迹语石马鞍深沉的曲线和轻巧的结构使得绝灵骥兼具良好的平衡性和易于与骑手交流。",
+      "name": "迹语石马鞍",
+      "code": "zh"
+    },
+    {
+      "description": "Глубокий изгиб и лёгкая конструкция седла «Довин» обеспечивают надёжный баланс и мягкое взаимодействие с кайтом.",
+      "name": "Седло: Довин",
+      "code": "ru"
+    },
+    {
+      "description": "Dovinサドルの深いカーブと軽量の構造は、ケイスとの穏やかなコミュニケーションを取りつつバランスを重視したデザインである。",
+      "name": "Dovin サドル",
+      "code": "ja"
+    },
+    {
+      "description": "Głęboki łuk i lekka konstrukcja siodła Dovin zapewniają mocną równowagę i delikatną komunikację z Kaithe.",
+      "name": "Siodło: Dovin",
+      "code": "pl"
+    },
+    {
+      "description": "A curva acentuada e a estrutura leve da Sela Dovin proporcionam o equilíbrio perfeito e uma comunicação compassiva com o Kaithe.",
+      "name": "Sela Dovin",
+      "code": "pt"
+    },
+    {
+      "description": "奪風馬鞍深凹的曲線及輕巧的結構造就了騎士與凱駿之間的優良平衡及輕柔緩衝。",
+      "name": "奪風馬鞍",
+      "code": "tc"
+    },
+    {
+      "description": "โครงสร้างของอาน Dovin ที่โค้งลึกและมีน้ำหนักเบานั้นจะช่วยให้ทรงตัวได้ดีและสื่อสารกับ Kaithe ได้อย่างนุ่มนวล",
+      "name": "อาน Dovin",
+      "code": "th"
+    },
+    {
+      "description": "Dovin Eyerin derin kıvrımı ve hafif yapısı, Kaithe ile güçlü bir denge ve yumuşak bir iletişim sağlar.",
+      "name": "Dovin Eyer",
+      "code": "tr"
+    },
+    {
+      "description": "Сідло «Довін» має легкий та великий вигин, що допомагає досягти впевненої рівноваги та тісного зв’язку з кайтом.",
+      "name": "Сідло «Довін»",
+      "code": "uk"
+    }
+  ]
+}

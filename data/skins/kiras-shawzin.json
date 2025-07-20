@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropShawzinZariman",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kira's-shawzin-85cf3c69c6.png",
+  "name": "Kira's Shawzin",
+  "description": "This instrument belonged to a much-loved member of the Holdfasts, who would often cheer up her companions with it.",
+  "languages": [
+    {
+      "description": "Dieses Instrument gehörte einem sehr geliebten Mitglied der Standhaften, die damit oft ihre Gefährten aufheiterte.",
+      "name": "Shawzin: Kira",
+      "code": "de"
+    },
+    {
+      "description": "Cet instrument appartenait à un membre très aimé des Irréductibles, qui égayait souvent ses compagnons avec cet objet.",
+      "name": "Shawzin de Kira",
+      "code": "fr"
+    },
+    {
+      "description": "Questo strumento apparteneva a un membro molto amato degli Holdfast, che spesso rallegrava i suoi compagni con esso.",
+      "name": "Shawzin di Kira",
+      "code": "it"
+    },
+    {
+      "description": "이 악기는 사수자들 사이에서도 많은 사랑을 받은 한 구성원의 것이었으며, 그녀는 종종 이 악기를 연주해 동료들을 격려하고자 했습니다.",
+      "name": "키라의 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Este instrumento pertenecía a un miembro muy querido de los Inquebrantables, que a menudo lo usaba para vitorear a sus camaradas.",
+      "name": "Shawzin de Kira",
+      "code": "es"
+    },
+    {
+      "description": "这件乐器曾属于坚守者中一位深受喜爱的成员，她经常会弹奏它来鼓舞同伴。",
+      "name": "吉拉的三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Этот инструмент принадлежал всеми любимому члену Неукротимых, который часто играл на нём своим товарищам.",
+      "name": "Шазин: Кира",
+      "code": "ru"
+    },
+    {
+      "description": "かつて皆から愛されたホールドファストの一員が所持していた楽器であり、数々の宴を盛り上げた。",
+      "name": "Kira Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Ten instrument należał do bardzo lubianej członkini Zatrzymanych, która często rozweselała nim swoich towarzyszy.",
+      "name": "Shawzin Kiry",
+      "code": "pl"
+    },
+    {
+      "description": "Este instrumento pertencia a uma integrante muito querida dos Indomáveis, que muitas vezes animava seus colegas com ele.",
+      "name": "Shawzin da Kira",
+      "code": "pt"
+    },
+    {
+      "description": "這個樂器屬於堅守者其中一名深受喜愛的成員，她經常會使用它來讓同伴感到振奮。",
+      "name": "Kira 的三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องดนตรีชิ้นนี้เป็นของสมาชิกอันเป็นที่รักคนหนึ่งใน Holdfast ที่มักจะเล่นมันเพื่อทำให้เพื่อน ๆ ของนางร่าเริงขึ้น",
+      "name": "Kira Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Bu enstrüman, genellikle onunla arkadaşlarını neşelendiren, Holdfast'lerin çok sevilen bir üyesine aitti.",
+      "name": "Kira'nın Shawzin'i",
+      "code": "tr"
+    },
+    {
+      "description": "Цей інструмент належав найулюбленішій членкині «Паланки», яка часто підбадьорювала товаришів віртуозною грою.",
+      "name": "Шодзін Кіри",
+      "code": "uk"
+    }
+  ]
+}

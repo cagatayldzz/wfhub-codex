@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardEmberHeirloom",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-heirloom-prex-194e4e7af1.png",
+  "name": "Ember Heirloom Prex",
+  "description": "A legacy immortalized in the beauty of molten rock and volcanic fire.",
+  "languages": [
+    {
+      "description": "Eine Legende, unsterblich gemacht durch die Schönheit von geschmolzenem Gestein und Vulkanfeuer.",
+      "name": "Ember Heirloom Prex",
+      "code": "de"
+    },
+    {
+      "description": "Un héritage immortalisé dans la beauté de la roche en fusion et du feu volcanique.",
+      "name": "Prex Ember Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "Un'eredità immortalata nella bellezza della pietra lavica e del fuoco vulcanico.",
+      "name": "Prex: Ember Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "용암과 화산불의 아름다움 속 불멸의 영광을 기려보세요.",
+      "name": "엠버 에어룸 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Un legado inmortalizado en la belleza de la roca fundida y el fuego volcánico.",
+      "name": "Prex de Ember Legado",
+      "code": "es"
+    },
+    {
+      "description": "在熔岩和火山之火的美丽中不朽的传承。",
+      "name": "Ember 传家宝 Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Наследие, увековеченное в красоте расплавленной породы и вулканическом огне.",
+      "name": "Прекс Эмбер: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "溶岩と噴火の美として永遠となった遺産。",
+      "name": "Ember Heirloom プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Dziedzictwo uwiecznione w pięknie magmy i wulkanicznego żaru.",
+      "name": "Prex: Pamiątkowa Ember",
+      "code": "pl"
+    },
+    {
+      "description": "Um legado imortalizado na beleza da rocha derretida e do fogo vulcânico.",
+      "name": "Prex: Legado da Ember",
+      "code": "pt"
+    },
+    {
+      "description": "在美麗的熔巖與烈燄之中永恆不滅的傳承。",
+      "name": "卡牌 — Ember 祖傳",
+      "code": "tc"
+    },
+    {
+      "description": "มรดกตกทอดที่คงไว้ซึ่งความเป็นอมตะในความงามของหินหลอมเหลวและไฟที่เกิดจากภูเขาไฟ",
+      "name": "ไพ่เพร็กซ์ Ember Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Erimiş kayaların ve volkanik ateşin ihtişamıyla ölümsüzleşen bir miras.",
+      "name": "Ember Heirloom Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Безсмертна краса перетопленого каменю та вулканічного вогню.",
+      "name": "Прекс Ембер «Спадок»",
+      "code": "uk"
+    }
+  ]
+}

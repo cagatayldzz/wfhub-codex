@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilSnake",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/snake-sigil-e9b71dc74e.png",
+  "name": "Snake Sigil",
+  "description": "This distinctive serpentine sigil adds venomous menace to any Warframe.",
+  "languages": [
+    {
+      "description": "Dieses charakteristische, schlangenartige Siegel verleiht jedem Warframe giftige Bedrohlichkeit.",
+      "name": "Siegel: Snake",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau reptilien distinctif ajoute une touche venimeuse à n'importe quelle Warframe.",
+      "name": "Sceau Snake",
+      "code": "fr"
+    },
+    {
+      "description": "Questo particolare sigillo serpentino aggiunge una minaccia velenosa a qualsiasi Warframe.",
+      "name": "Sigillo Snake",
+      "code": "it"
+    },
+    {
+      "description": "이 독특한 뱀 모양의 시질은 어떤 워프레임에게라도 독사의 위협적인 느낌을 더해줍니다.",
+      "name": "스네이크 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este distintivo sello serpentino agrega un toque venenoso a cualquier warframe.",
+      "name": "Sello de Snake",
+      "code": "es"
+    },
+    {
+      "description": "这款独特的蛇形纹章可为任意战甲增添毒蛇般的威胁。",
+      "name": "锰蛇纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот сигил змеи добавляет ядовитый характер любому варфрейму.",
+      "name": "Сигил: Змея",
+      "code": "ru"
+    },
+    {
+      "description": "この独特な蛇のようなシジルはWARFRAMEに毒々しい威迫を与える。",
+      "name": "スネーク シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten charakterystyczny znak węża dodaje jadowitej aury każdemu Warframe'owi.",
+      "name": "Znak Snake'a",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão distinto, em formato de serpente, é uma adição intimidante e perniciosa a qualquer Warframe.",
+      "name": "Brasão: Snake",
+      "code": "pt"
+    },
+    {
+      "description": "這款特殊的蛇形紋章為任何 Warframe 增加一種劇毒般的威脅。",
+      "name": "Snake 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่คล้ายกับงูเลื้อยไปมาที่ดูโดดเด่นชิ้นนี้จะช่วยให้ Warframe ดูมีพิษภัยอันตรายยิ่งขึ้น",
+      "name": "เครื่องหมาย: Snake",
+      "code": "th"
+    },
+    {
+      "description": "Bu ayırt edici kıvrımlı mühür, herhangi bir Warframe'e zehirli bir gözdağı ekler.",
+      "name": "Snake Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Виразний звивистий сиґіл, який додасть будь-якому ворфрейму вигляд отруйної загрози.",
+      "name": "Сиґіл «Змій»",
+      "code": "uk"
+    }
+  ]
+}

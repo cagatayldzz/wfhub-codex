@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Bows/DaxDuviriAsymetricalBow/DaxDuviriAsymmetricalLongBowPlayerWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cinta-50b4c86898.png",
+  "name": "Cinta",
+  "description": "The versatile Cinta can fire arrows in quick succession, quickly charge a shock wave, or fully charge a powerful focused shot.",
+  "languages": [
+    {
+      "description": "Der vielseitige Cinta kann schnell hintereinander Pfeile abfeuern, eine Schockwelle aufladen oder einen kraftvollen, fokussierten Schuss voll aufladen.",
+      "name": "Cinta",
+      "code": "de"
+    },
+    {
+      "description": "Le Cinta polyvalent peut tirer des flèches en succession rapide, charger rapidement une onde de choc ou charger complètement un puissant tir ciblé.",
+      "name": "Cinta",
+      "code": "fr"
+    },
+    {
+      "description": "La versatile Cinta può scoccare frecce in rapida successione, caricare velocemente un'onda d'urto o caricare completamente un colpo potente e preciso.",
+      "name": "Cinta",
+      "code": "it"
+    },
+    {
+      "description": "다양한 곳에서 유용성을 가진 신타는 연속해서 빠르게 화살을 쏘거나, 빠른 차징을 통해 충격파를 내보내거나, 완전 차징을 통해 한 점에 집중된 강력한 한 발을 쏘아 보낼 수 있습니다.",
+      "name": "신타",
+      "code": "ko"
+    },
+    {
+      "description": "La versátil Cinta puede disparar flechas en rápida sucesión, cargar rápidamente una onda de choque o cargar por completo para un disparo poderoso y preciso.",
+      "name": "Cinta",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CINTA）遂心的功能非常多样化，可以快速连续地射出箭矢，迅速充能释放冲击震波，或完全充能并进行威力强大的聚焦式射击。",
+      "name": "遂心",
+      "code": "zh"
+    },
+    {
+      "description": "Универсальный лук «Синта» может быстро выпускать рой стрел, заряжать и выпускать ударную волну или мощный заряженный выстрел.",
+      "name": "Синта",
+      "code": "ru"
+    },
+    {
+      "description": "Cintaは矢を連射でき、素早いチャージは衝撃波を放ち、フルチャージは集中された強力な一撃を放つ。",
+      "name": "Cinta",
+      "code": "ja"
+    },
+    {
+      "description": "Wszechstronna Cinta umożliwia szybki ostrzał. Częściowe naciągnięcie tworzy falę uderzeniową, a pełne naciągnięcie wystrzeliwuje potężną, precyzyjną strzałę.",
+      "name": "Cinta",
+      "code": "pl"
+    },
+    {
+      "description": "A versátil Cinta pode disparar flechas em rápida sucessão, carregar rapidamente uma onda de choque ou carregar completamente um poderoso disparo concentrado.",
+      "name": "Cinta",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CINTA）萬用的如意可以快速地連續射出箭矢，快速充能並釋放衝擊波，或完整充能以射出強大的聚焦射擊。",
+      "name": "如意",
+      "code": "tc"
+    },
+    {
+      "description": "Cinta เป็นอาวุธอเนกประสงค์ที่สามารถยิงธนูติดต่อกันได้อย่างรวดเร็ว ชาร์จคลื่นช็อกเวฟได้อย่างรวดเร็ว หรือชาร์จจนเต็มเพื่อยิงลูกดอกที่ทรงพลังออกไป",
+      "name": "Cinta",
+      "code": "th"
+    },
+    {
+      "description": "Çok yönlü Cinta art arda ok atabilir, bir şok dalgasını hızla şarj edebilir veya güçlü bir odaklanmış atışı tamamen şarj edebilir.",
+      "name": "Cinta",
+      "code": "tr"
+    },
+    {
+      "description": "Універсальний лук Цінта може швидко випускати рій стріл, а також заряджати й випускати ударну хвилю чи потужний заряджений постріл.",
+      "name": "Цінта",
+      "code": "uk"
+    }
+  ]
+}

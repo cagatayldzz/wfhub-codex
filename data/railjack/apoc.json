@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/MassDriver/AutoCannon/AutoCannon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/apoc.png",
+  "name": "Apoc",
+  "description": "Rapid-fire autocannon: launches high-velocity projectiles, puncturing and shredding the armor of enemy ships.",
+  "languages": [
+    {
+      "description": "Schnellfeuernde Autokanone: Verschießt Hochgeschwindkeitsprojektile, die die Panzerung von gegnerischen Schiffen durchschlagen und zerfetzen.",
+      "name": "Apoc",
+      "code": "de"
+    },
+    {
+      "description": "Canon automatique à tir rapide: tire des projectiles à grande vitesse, perforant et déchiquetant le blindage des vaisseaux ennemis.",
+      "name": "Apoc",
+      "code": "fr"
+    },
+    {
+      "description": "Cannone automatico a fuoco rapido: lancia proiettili ad alta velocità che perforano e distruggono l'armatura delle navi nemiche.",
+      "name": "Apoc",
+      "code": "it"
+    },
+    {
+      "description": "속사형 기관포: 고속의 발사체를 쏘아 적 함선의 장갑을 관통하고 파괴합니다.",
+      "name": "에이폭",
+      "code": "ko"
+    },
+    {
+      "description": "Cañón automático de fuego rápido: lanza proyectiles a gran velocidad, perforando y destrozando la armadura de las naves enemigas.",
+      "name": "Apoc",
+      "code": "es"
+    },
+    {
+      "description": "速射自动火炮：发射高速投射物，刺穿并粉碎敌舰的护甲。",
+      "name": "天启炮台",
+      "code": "zh"
+    },
+    {
+      "description": "Скорострельная автоматическая пушка: запускает высокоскоростные снаряды, пробивая и уничтожая броню вражеских кораблей.",
+      "name": "Апок",
+      "code": "ru"
+    },
+    {
+      "description": "高速連射オートキャノン：　高い機動力を持つ射出物を撃ち、敵の戦艦のシールドと装甲を貫通する。",
+      "name": "アポック",
+      "code": "ja"
+    },
+    {
+      "description": "Szybkostrzelne działko automatyczne: wystrzeliwuje pociski o dużej prędkości, przebijając i dewastując pancerz wrogich statków.",
+      "name": "Apoc",
+      "code": "pl"
+    },
+    {
+      "description": "Canhão automático de tiro rápido: dispara projéteis de alta velocidade, nos quais perfuram e retalham a armadura das naves inimigas.",
+      "name": "Apoc",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：APOC）速射自動機砲可以發射高速彈頭來穿刺並撕裂敵軍船艦的護甲。　 ",
+      "name": "末日機砲",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่อัตโนมัติที่ยิงอย่างรวดเร็ว: ยิงกระสุนความเร็วสูง เจาะและทำลายเกราะของยานศัตรู",
+      "name": "Apoc",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı ateşlenen otomatik top: Düşman gemilerinin zırhını delip parçalayan yüksek hızlı mermiler fırlatır.",
+      "name": "Apoc",
+      "code": "tr"
+    },
+    {
+      "description": "Швидкострільна гармата: запускає снаряди, які пробивають і чикрижать броню ворожих зорельотів.",
+      "name": "Апок",
+      "code": "uk"
+    }
+  ]
+}

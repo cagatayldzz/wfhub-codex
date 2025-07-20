@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrokenFrameAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xaku-kintsu-glyph---dark-949714095a.png",
+  "name": "Xaku Kintsu Glyph - Dark",
+  "description": "A glyph depicting Xaku Kintsu on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Xaku Kintsu vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Xaku Kintsu (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Xaku Kintsu sur un fond sombre.",
+      "name": "Glyphe Xaku Kintsu - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Xaku Kintsu su uno sfondo scuro.",
+      "name": "Glifo Xaku Kintsu - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 자쿠 킨츠를 묘사한 글리프입니다.",
+      "name": "자쿠 킨츠 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Xaku Kintsu sobre un fondo oscuro.",
+      "name": "Glifo de Xaku Kintsu - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Xaku 金缮在黑暗背景下的浮印。",
+      "name": "Xaku 金缮浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Заку «Кинцу» на темном фоне.",
+      "name": "Глиф: Заку Кинцу - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたXaku Kintsuのグリフ。",
+      "name": "Xaku Kintsu グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Xaku Kintsu na ciemnym tle.",
+      "name": "Glif Xaku Kintsu — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando os Xaku Kintsu em um fundo escuro.",
+      "name": "Glifo: Xaku Kintsu (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Xaku 親屬在黑暗背景下的浮印。",
+      "name": "Xaku 親屬浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Xaku Kintsu บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Xaku Kintsu - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Xaku Kintsu koyu fonlu glif.",
+      "name": "Xaku Kintsu Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Заку в шоломі «Кінцу» на темному тлі.",
+      "name": "Темний гліф «Заку „Кінцу“»",
+      "code": "uk"
+    }
+  ]
+}

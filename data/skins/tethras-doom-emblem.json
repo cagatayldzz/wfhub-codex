@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShipyardsEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tethra's-doom-emblem-b6be5351a3.png",
+  "name": "Tethra's Doom Emblem",
+  "description": "An insignia awarded to the Tenno who distinguished themselves during Tethra's Doom event.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das Tenno verliehen wurde, die sich während des Events Tethras Schicksal verdient gemacht haben.",
+      "name": "Emblem: Tethras Schicksal",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné aux Tennos ayant fait leurs preuves lors de l'événement le Châtiment de Tethra.",
+      "name": "Badge du Châtiment de Tethra",
+      "code": "fr"
+    },
+    {
+      "description": "Una medaglia conferita ai Tenno che si sono distinti nell'ambito dell'evento Tethra's Doom.",
+      "name": "Emblema Tethra's Doom",
+      "code": "it"
+    },
+    {
+      "description": "테쓰라의 파멸 이벤트에서 뛰어난 활약을 보인 엘리트 텐노에게 주어지는 메달입니다.",
+      "name": "테쓰라의 파멸 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a los tenno que se distinguieron durante el evento de la perdición de Tethra.",
+      "name": "Emblema de la Perdición de Tethra",
+      "code": "es"
+    },
+    {
+      "description": "奖励给在泰斯拉末日活动里表现杰出的 Tenno 的徽章",
+      "name": "泰斯拉末日徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, которым были награждены Тэнно, проявившие себя во время операции «Кара Тетры».",
+      "name": "Значок: Кара Тетры",
+      "code": "ru"
+    },
+    {
+      "description": "TETHRAの命運イベントで優秀な成果を残したテンノに贈られる勲章",
+      "name": "Tethraの命運 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia nadawane Tenno, którzy dowiedli swej wartości w czasie Operacji 'Zagłada Tethry'",
+      "name": "Emblemat: Operacja Zagłada Tethry",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos que se destacaram durante o evento Maldição de Tethra.",
+      "name": "Emblema: Maldição de Tethra",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給在泰斯拉末日活動裡表現傑出的 Tenno 的徽章",
+      "name": "泰斯拉末日徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่ Tenno ผู้สร้างชื่อเสียงให้กับตนเองในอีเวนต์ Tethra's Doom",
+      "name": "ตราสัญลักษณ์: Tethra's Doom",
+      "code": "th"
+    },
+    {
+      "description": "Tethra'nın Sonu etkinliğinde kendilerini kanıtlamış Tenno için bir hatıra sembolü.",
+      "name": "Tethra'nın Sonu Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються тенно, що проявили себе під час події «Кара Тетри».",
+      "name": "Відзнака «Кара Тетри»",
+      "code": "uk"
+    }
+  ]
+}

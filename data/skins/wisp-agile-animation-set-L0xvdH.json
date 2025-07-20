@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wisp/WispAgileAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-agile-animation-set-a5fa282be1.png",
+  "name": "Wisp Agile Animation Set",
+  "description": "The Agile Animation Set for Wisp.",
+  "languages": [
+    {
+      "description": "Das agile Animationsset für Wisp.",
+      "name": "Wisp-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "L'Animation Agile de Wisp.",
+      "name": "Animation Wisp Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Agile per Wisp.",
+      "name": "Set Animazione Agile Wisp",
+      "code": "it"
+    },
+    {
+      "description": "위습의 민첩한 동작을 담은 애니메이션 세트입니다.",
+      "name": "위습 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones ágiles para Wisp.",
+      "name": "Conjunto de animaciones ágiles de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 的迅捷站姿。",
+      "name": "Wisp 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Проворный набор анимаций для Висп.",
+      "name": "Набор анимаций Висп: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Wisp用のアジャイルモーションセット。",
+      "name": "Wisp アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw zwinnych animacji dla Warframe Wisp.",
+      "name": "Animacje Wisp: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Animações ágeis para a Wisp.",
+      "name": "Animações: Wisp (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp 的迅捷站姿。",
+      "name": "Wisp 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชันที่มีการเคลื่อนไหวอย่างคล่องแคล่วสำหรับ Wisp",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Wisp",
+      "code": "th"
+    },
+    {
+      "description": "Wisp için Agile Animasyon Seti",
+      "name": "Wisp Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір жвавої анімації для Вісп.",
+      "name": "Вісп: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

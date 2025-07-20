@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lobotriscid-dede58f209.png",
+  "name": "Lobotriscid",
+  "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
+  "languages": [
+    {
+      "description": "Der Lobotriscid ist ein kräftiger Fisch mit drei Schwanzflossen, der durch die Excocrine Dämpfe an der Oberfläche von Deimos zieht, wenn Vome vorherrscht.",
+      "name": "Lobotriscid",
+      "code": "de"
+    },
+    {
+      "description": "Poisson musclé à trois queues, le Lobotriscide traverse la vapeur Exocrine à la surface de Deimos lorsque Vome domine.",
+      "name": "Lobotriscide",
+      "code": "fr"
+    },
+    {
+      "description": "Il Lobotriscid, un muscoloso pesce a tre code, si trascina attraverso il vapore dell'Exocrine sulla superficie di Deimos in pieno Vome.",
+      "name": "Lobotriscid",
+      "code": "it"
+    },
+    {
+      "description": "세 개의 근육질 꼬리가 달린 로보트리시드는 봄이 데이모스를 지배할 때 데이모스의 표면에 퍼진 외분비 증기 사이를 샅샅이 돌아다닙니다.",
+      "name": "로보트리시드",
+      "code": "ko"
+    },
+    {
+      "description": "Lobotriscid, el muscular pez de tres colas, se arrastra a través del vapor exocrino por la superficie de Deimos cuando Vome es dominante.",
+      "name": "Lobotriscid",
+      "code": "es"
+    },
+    {
+      "description": "这是一种肌肉发达的三尾鱼，当“秩序”在天空中占主导地位时，三尾额叶鲤会通过外分泌雾化膜在火卫二的地面拖网捕食。",
+      "name": "额叶鲤",
+      "code": "zh"
+    },
+    {
+      "description": "Мускулистая треххвостая рыба, Лоботрисцид скользит по экзокринным парам поверхности Деймоса, когда доминирует Воум.",
+      "name": "Лоботрисцид",
+      "code": "ru"
+    },
+    {
+      "description": "ロボトリシドは筋肉質で3つの尾ひれがあり、Vomeの支配下ではダイモスの表層を外分泌液の蒸気を漂いながら移動する。",
+      "name": "ロボトリシド",
+      "code": "ja"
+    },
+    {
+      "description": "Muskularna ryba z trzema ogonami, Lobotrysid trałuje przez opary Egzokryny po powierzchni Deimos, gdy dominuje Vome.",
+      "name": "Lobotrysid",
+      "code": "pl"
+    },
+    {
+      "description": "Um peixe musculoso, de três caudas, o Lobotriscid se arrasta através do vapor Exócrino pela superfície de Deimos quando Vome está dominante.",
+      "name": "Lobotriscid",
+      "code": "pt"
+    },
+    {
+      "description": "臟葉鰼是結實的三尾魚。當 Vome 接管時，牠們會在遍佈火衛二地面的外分泌霧中游動。",
+      "name": "臟葉鰼",
+      "code": "tc"
+    },
+    {
+      "description": "Lobotriscid เป็นปลาสามหางที่มีกล้ามเนื้อ ลากอวนผ่านไอระเหยของต่อมมีท่อไปทั่วพื้นผิวเดมอสเมื่อ Vome มีอำนาจเหนือกว่า",
+      "name": "Lobotriscid",
+      "code": "th"
+    },
+    {
+      "description": "Kaslı, üç kuyruklu bir balık olan Lobotriscid, Vome hakim olduğunda Deimos'un yüzeyinde Ekzokrin buharı boyunca ilerler.",
+      "name": "Lobotriscid",
+      "code": "tr"
+    },
+    {
+      "description": "М’язиста трихвоста риба. Шугає серед екзокринних випаровувань над поверхнею Деймоса під наглядом Вом.",
+      "name": "Лоботрисцид",
+      "code": "uk"
+    }
+  ]
+}

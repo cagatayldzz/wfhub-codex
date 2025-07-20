@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/InarosCoffin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-sarcophagus-decoration-49bbfd49b3.png",
+  "name": "Inaros Sarcophagus Decoration",
+  "description": "Inaros feels welcome in any space that displays this protective sarcophagus.",
+  "languages": [
+    {
+      "description": "Inaros fühlt sich in jedem Raum willkommen, der diesen schützenden Sarkophag zur Schau stellt.",
+      "name": "Dekoration: Inaros' Sarkophag",
+      "code": "de"
+    },
+    {
+      "description": "Inaros se sent chez lui dans tout espace pourvu de ce sarcophage protecteur.",
+      "name": "Décoration Sarcophage d'Inaros",
+      "code": "fr"
+    },
+    {
+      "description": "Inaros si sente il benvenuto in ogni spazio che espone questo sarcofago protettivo.",
+      "name": "Decorazione Sarcofago di Inaros",
+      "code": "it"
+    },
+    {
+      "description": "이 보호의 석관이 놓여 있다면, 그 어떤 공간이라도 이나로스는 환영받는 기분을 느낄 겁니다.",
+      "name": "이나로스 석관 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Inaros se siente bienvenido en cualquier espacio que exhiba este sarcófago protector.",
+      "name": "Decoración de Sarcófago de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 在任何展示这种保护性石棺的空间里都会感到宾至如归。",
+      "name": "Inaros 石棺装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Инарос чувствует себя желанным гостем в любом месте, где находится этот защитный саркофаг.",
+      "name": "Украшение: Саркофаг Инароса",
+      "code": "ru"
+    },
+    {
+      "description": "Inarosは、どんな場所でもこの堅牢な石棺が置かれていると歓迎されていると感じる。",
+      "name": "Inarosの石棺 装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Inaros czuje się mile widziany w każdej przestrzeni, w której znajduje się ten ochronny sarkofag.",
+      "name": "Dekoracja: Sarkofag Inarosa",
+      "code": "pl"
+    },
+    {
+      "description": "O Inaros se sentirá em casa em qualquer espaço que exibir este sarcófago protetor.",
+      "name": "Decoração do Sarcófago do Inaros",
+      "code": "pt"
+    },
+    {
+      "description": "在任何有展示這種保護性石棺的空間裡，Inaros 都能感到賓至如歸。",
+      "name": "Inaros 石棺裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "Inaros จะรู้สึกเหมือนได้รับการต้อนรับเมื่อมีโลงหินคุ้มกันโลงนี้ตั้งอยู่",
+      "name": "ของตกแต่ง: โลงหินของ Inaros",
+      "code": "th"
+    },
+    {
+      "description": "Inaros, bu koruyucu lahitin sergilendiği her yerde hoş karşılanır.",
+      "name": "Inaros Lahiti Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Інар відчуває, що йому раді будь-де, де стоїть цей захисний саркофаг.",
+      "name": "Оздоблення «Саркофаг Інара»",
+      "code": "uk"
+    }
+  ]
+}

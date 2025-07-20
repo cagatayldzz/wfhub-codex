@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/AnkuIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/anku-incarnon-genesis-2f1e9f5da5.png",
+  "name": "Anku Incarnon Genesis",
+  "description": "Awaken this weapon's ability to temporarily increase Range and inflict guaranteed <DT_SLASH_COLOR>Slash Status for all attacks after a successful slide attack in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form mit jedem erfolgreichen Rutschangriff zeitweise die Reichweite zu erhöhen und <DT_SLASH_COLOR>Schnittstatus zu garantieren.",
+      "name": "Incarnon-Genesis: Anku",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à augmenter temporairement la Portée et à infliger un Effet de Statut <DT_SLASH_COLOR>Tranchant garanti pour toutes les attaques après une attaque glissée réussie sous Forme Incarnon.",
+      "name": "Anku Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di aumentare temporaneamente la Portata e infliggere un Effetto <DT_SLASH_COLOR>Taglio garantito per tutti gli attacchi dopo un attacco in scivolata riuscito nella Forma Incarnon.",
+      "name": "Anku Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 일시적으로 사거리가 증가하며 슬라이딩 공격에 1회 성공한 후 모든 공격에 확정적인 <DT_SLASH_COLOR>베기 상태 이상을 부여합니다.",
+      "name": "안쿠 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para aumentar temporalmente el rango e infligir un estado <DT_SLASH_COLOR>cortante garantizado para todos los ataques después de un ataque deslizante exitoso en su forma Incarnon.",
+      "name": "Anku Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这把武器的技能，在灵化形态下成功进行滑行攻击后，暂时增加攻击范围同时其所有攻击都可造成 <DT_SLASH_COLOR>切割异常状态。",
+      "name": "夺魂死神灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия временно увеличивать дальность и наносить гарантированный статус <DT_SLASH_COLOR>разрезания для всех атак после успешной атаки при скольжении в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Анку",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム中はスライディング攻撃を当てることで6秒間全攻撃の範囲を3m拡張し、攻撃は<DT_SLASH_COLOR>切断状態異常を付与する。",
+      "name": "Anku インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, by tymczasowo zyskać premię Zasięgu i nałożenia gwarantowanego Efektu Statusu <DT_SLASH_COLOR> Obr. Tnących dla wszystkich ataków po udanym ataku w ślizgu w Formie Inkarnon.",
+      "name": "Geneza Inkarnon: Anku",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de aumentar temporariamente o Alcance e infligir o Efeito de Status <DT_SLASH_COLOR>Cortante em todos os ataques após um Ataque Deslizante bem-sucedido no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Anku",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下成功的滑行攻擊可暫時增加攻擊範圍，並使所有攻擊必定造成<DT_SLASH_COLOR>切割狀態觸發。",
+      "name": "奪魂死神應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะเพิ่มระยะขอบเขตชั่วคราวและการโจมตีทั้งหมดจะรับประกันการติดสถานะ <DT_SLASH_COLOR>เฉือนฟันหลังจากที่ไถลตัวโจมตีสำเร็จ",
+      "name": "Anku Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Forumu dahilinde Menzili geçici olarak artırma ve başarılı bir kayma saldırısından sonra tüm saldırılar için garantili <DT_SLASH_COLOR>Kanama Statüsü uygulama özelliğini uyandır.",
+      "name": "Anku Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка тимчасово збільшує досяжність і накладає <DT_SLASH_COLOR>різальний ефект стану для всіх атак після успішної атаки під час ковзання.",
+      "name": "Інкарнонський генезис: Анку",
+      "code": "uk"
+    }
+  ]
+}

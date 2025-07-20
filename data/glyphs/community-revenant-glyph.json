@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityRevenant",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-revenant-glyph-d83bea3cf0.png",
+  "name": "Community Revenant Glyph",
+  "description": "A community glyph depicting Revenant in the style of community artist Kirdy.",
+  "languages": [
+    {
+      "description": "Eine Community-Glyphe, die Revenant im Stil des Community-Künstlers Kirdy darstellt.",
+      "name": "Glyphe: Revenant (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe Communautaire représentant Revenant dans le style de l'artiste communautaire Kirdy.",
+      "name": "Glyphe Communautaire de Revenant",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante Revenant nello stile dell'artista della comunità Kirdy.",
+      "name": "Glifo Revenant Comunità",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 Kirdy의 스타일로 레버넌트를 묘사한 커뮤니티 글리프입니다.",
+      "name": "커뮤니티 레버넌트 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo de la comunidad que representa a Revenant, creado al estilo del artista de la comunidad, Kirdy.",
+      "name": "Glifo de Revenant de la comunidad",
+      "code": "es"
+    },
+    {
+      "description": "由社区艺术家 Kirdy 创作的 Revenant 社区浮印。",
+      "name": "社区 Revenant 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф сообщества, изображающий Ревенанта в стиле художника сообщества Kirdy.",
+      "name": "Глиф сообщества: Ревенант",
+      "code": "ru"
+    },
+    {
+      "description": "Revenantのコミュニティグリフ。Kirdy作。",
+      "name": "コミュニティ Revenant グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Revenanta, wykonany w stylu artysty społeczności Kirdy.",
+      "name": "Glif Społeczności: Revenant",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da Comunidade retratando o Revenant, desenvolvido por Kirdy.",
+      "name": "Glifo: Revenant (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Revanant 的社群浮印，以社群藝術家──Kirdy 的風格創作。",
+      "name": "社群 Revenant 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Revenant ในสไตล์การออกแบบของศิลปินชุมชน Kirdy",
+      "name": "ภาพสัญลักษณ์ Community Revenant",
+      "code": "th"
+    },
+    {
+      "description": "Kirdy tarafından tasarlanan, Revenant tarzında tasvir edilen bir topluluk glifi.",
+      "name": "Topluluk Revenant Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ревенанта, створений Kirdy.",
+      "name": "Гліф спільноти «Ревенант»",
+      "code": "uk"
+    }
+  ]
+}

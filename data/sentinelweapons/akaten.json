@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponPS",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akaten-92fcdfd7f2.png",
+  "name": "Akaten",
+  "description": "Hound melee attacks eviscerate with <DT_PUNCTURE_COLOR>Puncture and <DT_SLASH_COLOR>Slash Damage.",
+  "languages": [
+    {
+      "description": "Nahkampfangriffe des Jagdhunds weiden Opfer mit <DT_PUNCTURE_COLOR>Durchschlags- und <DT_SLASH_COLOR>Schnittschaden aus.",
+      "name": "Akaten",
+      "code": "de"
+    },
+    {
+      "description": "Les attaques de Mêlée du Molosse éviscèrent les ennemis, infligeant des Dégâts de <DT_PUNCTURE_COLOR>Perforation et <DT_SLASH_COLOR>Tranchants.",
+      "name": "Akaten",
+      "code": "fr"
+    },
+    {
+      "description": "Gli attacchi corpo a corpo del Segugio eviscerano con Danno <DT_PUNCTURE_COLOR>Perforazione e <DT_SLASH_COLOR>Taglio.",
+      "name": "Akaten",
+      "code": "it"
+    },
+    {
+      "description": "<DT_PUNCTURE_COLOR>관통 및 <DT_SLASH_COLOR>베기 피해로 적을 조각내는 하운드의 근접 공격 모듈입니다.",
+      "name": "아카텐",
+      "code": "ko"
+    },
+    {
+      "description": "Los ataques cuerpo a cuerpo de los sabuesos destripan con daño de <DT_PUNCTURE_COLOR>perforación y <DT_SLASH_COLOR>cortante.",
+      "name": "Akaten",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKATEN）猎犬近战攻击通过 <DT_PUNCTURE_COLOR>穿刺和 <DT_SLASH_COLOR>切割伤害开膛剖腹。",
+      "name": "阿卡腾",
+      "code": "zh"
+    },
+    {
+      "description": "Атаки гончей в ближнем бою потрошат врагов, нанося <DT_PUNCTURE_COLOR>пронзающий и <DT_SLASH_COLOR>режущий урон.",
+      "name": "Акатэн",
+      "code": "ru"
+    },
+    {
+      "description": "ハウンドの近接攻撃で<DT_PUNCTURE_COLOR>貫通と<DT_SLASH_COLOR>切断ダメージを与える。",
+      "name": "Akaten",
+      "code": "ja"
+    },
+    {
+      "description": "Obdzierające Ataki w Walce wręcz w postaci <DT_PUNCTURE_COLOR>Obrażeń Przebijających oraz <DT_SLASH_COLOR>Tnących.",
+      "name": "Akaten",
+      "code": "pl"
+    },
+    {
+      "description": "Os ataques deste Predador evisceram seus inimigos com Dano <DT_PUNCTURE_COLOR>Perfurante e <DT_SLASH_COLOR>Cortante.",
+      "name": "Akaten",
+      "code": "pt"
+    },
+    {
+      "description": "獵犬近戰的攻擊將以<DT_PUNCTURE_COLOR>穿刺和<DT_SLASH_COLOR>切割傷害撕裂敵人。",
+      "name": "阿卡騰",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธโจมตีระยะประชิดของสุนัขฮาวด์ที่จะชำแหละศัตรูด้วยความเสียหายจาก <DT_PUNCTURE_COLOR>การเจาะและ <DT_SLASH_COLOR>การเฉือนฟัน",
+      "name": "Akaten",
+      "code": "th"
+    },
+    {
+      "description": "Tazının parçalayıcı yakın dövüş saldırıları <DT_PUNCTURE_COLOR>Delme ve <DT_SLASH_COLOR>Kesme Hasarı verir.",
+      "name": "Akaten",
+      "code": "tr"
+    },
+    {
+      "description": "Гончак патрає ворогів у ближньому бою й завдає <DT_PUNCTURE_COLOR>пробивної та <DT_SLASH_COLOR>різальної шкоди.",
+      "name": "Акатен",
+      "code": "uk"
+    }
+  ]
+}

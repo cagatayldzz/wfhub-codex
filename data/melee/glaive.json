@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Glaives/LightGlaive/LightGlaiveWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glaive-7b19031fa7.png",
+  "name": "Glaive",
+  "description": "Dating back to the time of the first Tenno, the Glaive is a uniquely deadly weapon. This multi-bladed disc is not only effective for melee combat; it can also be thrown like a boomerang to cut down enemies at a distance.",
+  "languages": [
+    {
+      "description": "Die Glaive ist eine einzigartig tödliche Waffe, die auf die ersten Tenno zurückzuführen ist. Diese mehrschneidige Waffe ist nicht nur im Nahkampf effektiv, sie kann ebenfalls wie ein Bumerang geworfen werden, um Feinde aus der Distanz zu erledigen.",
+      "name": "Glaive",
+      "code": "de"
+    },
+    {
+      "description": "Datant du temps des premiers Tennos, le Glaive est une arme d’une dangerosité unique. Ce disque à plusieurs lames n'est pas seulement efficace pour le combat en Mêlée, il peut également être lancé comme un boomerang afin de trancher les ennemis à distance.",
+      "name": "Glaive",
+      "code": "fr"
+    },
+    {
+      "description": "Risalente ai tempi dei primi Tenno, il Glaive è un'arma unica e mortale. Questo disco multi-lama è efficace sia nel combattimento corpo a corpo, sia lanciato come un boomerang per abbattere i nemici da lontano.",
+      "name": "Glaive",
+      "code": "it"
+    },
+    {
+      "description": "독특하고 치명적인 무기인 글레이브가 지닌 역사는 최초의 텐노의 시대까지 거슬러 오를 정도로 그 뿌리가 깊습니다. 이 다수의 칼날이 부착된 원반은 근접전에서 효과적일 뿐만 아니라, 멀리 떨어진 적을 향해 던져 베어버릴 수 있는 부메랑처럼 사용할 수 있습니다.",
+      "name": "글레이브",
+      "code": "ko"
+    },
+    {
+      "description": "Se remonta a la época del primer tenno, el Glaive es un arma única y mortal. Este disco con múltiples hojas no solo es efectivo en combate cercano, también puede ser lanzado como un bumerán para cortar enemigos a distancia.",
+      "name": "Glaive",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GLAIVE）在第一个 Tenno 的时代，战刃是一件奇怪而强大的武器。这多刀刃圆盘不单可用于近身战，更可如回力镖般使用，在一定距离外把敌人一分为二。",
+      "name": "战刃",
+      "code": "zh"
+    },
+    {
+      "description": "Существовавшая ещё во времена первых Тэнно, Глефа является уникальным и опасным оружием. Этот диск со множеством лезвий эффективен не только в ближнем бою - его можно использовать и в качестве бумеранга, разрубая врагов на расстоянии.",
+      "name": "Глефа",
+      "code": "ru"
+    },
+    {
+      "description": "GLAIVEは初代テンノが愛用したと伝わる近接武器。この異形の投てき刃は近距離での格闘はもちろん、ブーメランのように投げ飛ばすことで離れた敵をも両断する。",
+      "name": "Glaive",
+      "code": "ja"
+    },
+    {
+      "description": "Pochodzące z czasów pierwszego Tenno, Glaive jest wyjątkowo zabójczą bronią. Ten uzbrojony w kilka ostrzy dysk jest nie tylko efektywny w walce wręcz, ale także może być rzucany jak bumerang, rażąc wrogów na odległość.",
+      "name": "Glaive",
+      "code": "pl"
+    },
+    {
+      "description": "Datado do tempo do primeiro Tenno, a Glaive é uma arma de unicamente letal. Este disco múlti laminado não apenas é útil para combate corpo a corpo, mas também pode ser arremessado como um bumerangue para devastar inimigos à distância.",
+      "name": "Glaive",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GLAIVE）在第一個 Tenno 的時代，戰刃是一件奇怪而強大的武器。這多刀刃圓盤不單可用於近身戰，更可如回力鏢般使用，在一定距離外把敵人一分為二。",
+      "name": "戰刃",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อย้อนกลับไปยังช่วงที่ Tenno คนแรกถือกำเนิดขึ้นมา อาวุธ Glaive จัดได้ว่าเป็นอาวุธร้ายแรงที่ไม่เหมือนใคร เพราะมีใบมีดหลายเล่มที่ไม่เพียงจะส่งผลดีต่อการต่อสู้ระยะประชิดเท่านั้น แต่ยังสามารถขว้างออกไปได้เหมือนบูมเมอแรงที่ช่วยกำจัดศัตรูที่อยู่ไกลออกไปอีกด้วย",
+      "name": "Glaive",
+      "code": "th"
+    },
+    {
+      "description": "Geçmişi ilk Tenno’ya kadar uzanan Glaive, ender bulunan öldürücü silahlardandır. Bu çok bıçaklı disk, yakın dövüşlerde etkili olmasının yanı sıra bir bumerang gibi kullanıldığında uzak mesafedeki düşmanları da öldürebilir.",
+      "name": "Glaive",
+      "code": "tr"
+    },
+    {
+      "description": "Смертоносний диск із кількома клинками, використовується ще з часів перших тенно. Завдяки своїй будові підходить не лише для ближнього бою, а й для кидання — бумеранг, що розрізає ворогів на раз.",
+      "name": "Глефа",
+      "code": "uk"
+    }
+  ]
+}

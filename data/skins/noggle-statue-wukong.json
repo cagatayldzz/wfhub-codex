@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/WukongBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---wukong-098442dc12.png",
+  "name": "Noggle Statue - Wukong",
+  "description": "A small wobbly statue of Wukong.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Wukong.",
+      "name": "Noggle-Statue: Wukong",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Wukong.",
+      "name": "Statuette Noggle - Wukong",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Wukong con la testa tremolante.",
+      "name": "Statuetta Noggle - Wukong",
+      "code": "it"
+    },
+    {
+      "description": "오공의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 오공",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Wukong.",
+      "name": "Estatua Tambaleante - Wukong",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Wukong 摇头娃娃。",
+      "name": "Wukong 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Вуконга.",
+      "name": "Фигурка: Вуконг",
+      "code": "ru"
+    },
+    {
+      "description": "Wukongのボブルヘッド人形。",
+      "name": "Wukong ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Wukonga.",
+      "name": "Figurka Noggle — Wukong",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Wukong.",
+      "name": "Estatueta: Wukong",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Wukong 的搖頭娃娃。",
+      "name": "Wukong 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Wukong ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Wukong",
+      "code": "th"
+    },
+    {
+      "description": "Wukong küçük oynar figür.",
+      "name": "Noggle Heykeli - Wukong",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Вукона.",
+      "name": "Ноґл «Вукон»",
+      "code": "uk"
+    }
+  ]
+}

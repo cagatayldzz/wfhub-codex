@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DaybreakEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/daybreak-emote-530118f0ae.png",
+  "name": "Daybreak Emote",
+  "description": "Greet the new day with this brilliant emote.",
+  "languages": [
+    {
+      "description": "Grüße den neuen Tag mit diesem brillanten Emote.",
+      "name": "Emote: Morgendämmerung",
+      "code": "de"
+    },
+    {
+      "description": "Accueillez une nouvelle journée avec ce Geste brillant.",
+      "name": "Geste de l'Aube",
+      "code": "fr"
+    },
+    {
+      "description": "Saluta il nuovo giorno con questa emote brillante.",
+      "name": "Emote Daybreak",
+      "code": "it"
+    },
+    {
+      "description": "이 찬란한 감정 표현과 함께 새로운 하루를 맞이해 보세요.",
+      "name": "데이브레이크 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Saluda al nuevo día con este brillante gesto.",
+      "name": "Gesto Amanecer",
+      "code": "es"
+    },
+    {
+      "description": "用这一精彩表情迎接新的一天。",
+      "name": "破晓表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Встречайте новый день с помощью этого замечательного жеста.",
+      "name": "Жест: Рассвет",
+      "code": "ru"
+    },
+    {
+      "description": "この輝かしいエモートで朝日を迎えよう。",
+      "name": "Daybreak エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Przywitaj świt tym wspaniałym Gestem.",
+      "name": "Gest Brzasku",
+      "code": "pl"
+    },
+    {
+      "description": "Cumprimente o novo dia com este Emote brilhante.",
+      "name": "Emote do Amanhecer",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個燦爛的表情動作來迎接新的一天。",
+      "name": "破曉表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "ต้อนรับวันใหม่ด้วยอิโมติคอนที่แสนสดใส",
+      "name": "อิโมต Daybreak",
+      "code": "th"
+    },
+    {
+      "description": "Yeni günü bu harika gövde hareketi ile selamla.",
+      "name": "Şafak Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Вітайте прихід нового дня цим чудовим жестом.",
+      "name": "Жест «Світанок»",
+      "code": "uk"
+    }
+  ]
+}

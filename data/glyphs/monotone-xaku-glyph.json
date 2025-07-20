@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBadgeXaku",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/monotone-xaku-glyph-5b5283009c.png",
+  "name": "Monotone Xaku Glyph",
+  "description": "Showcase a Warframe with a pop of color.",
+  "languages": [
+    {
+      "description": "Präsentiere einen Warframe mit einem Tupfer Farbe.",
+      "name": "Glyphe: Monoton Xaku",
+      "code": "de"
+    },
+    {
+      "description": "Présentez une Warframe avec une touche de couleur.",
+      "name": "Glyphe Xaku Monotone",
+      "code": "fr"
+    },
+    {
+      "description": "Metti in esposizione un Warframe con un tocco di colore.",
+      "name": "Glifo Xaku Monotone",
+      "code": "it"
+    },
+    {
+      "description": "특징적인 색상으로 워프레임을 선보이세요.",
+      "name": "모노톤 자쿠 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra un warframe con un toque de color.",
+      "name": "Glifo de Xaku Monótono",
+      "code": "es"
+    },
+    {
+      "description": "通过一抹色彩展示战甲。",
+      "name": "Xaku 单色浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Продемонстрируйте свой яркий варфрейм.",
+      "name": "Глиф: Заку Монотон",
+      "code": "ru"
+    },
+    {
+      "description": "ポップなカラーでWARFRAMEを紹介する。",
+      "name": "Monotone Xaku グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zaprezentuj Warframe'a z kolorowym akcentem.",
+      "name": "Glif Jednotonowy Xaku",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba um Warframe com um toque de cor.",
+      "name": "Glifo: Xaku Monótono",
+      "code": "pt"
+    },
+    {
+      "description": "透過單一色調展示 Warframe。",
+      "name": "Xaku 單色調浮印",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงภาพ Warframe ที่มีสีสันสดใส",
+      "name": "ภาพสัญลักษณ์ Monotone Xaku",
+      "code": "th"
+    },
+    {
+      "description": "Bir Warframe'i renk patlamasıyla sergile.",
+      "name": "Monotone Xaku Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Явіть ворфрейма у яскравому кольорі.",
+      "name": "Однотонний гліф «Заку»",
+      "code": "uk"
+    }
+  ]
+}

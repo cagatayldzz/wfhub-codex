@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageDeadlockProtocolB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/founding-father-glyph-a6744afa96.png",
+  "name": "Founding Father Glyph",
+  "description": "A Corpus Glyph in the image of their industrious Founder, Parvos Granum.",
+  "languages": [
+    {
+      "description": "Eine Corpus Glyphe nach dem Ebenbild des emsigen Gründers, Parvos Granum.",
+      "name": "Glyphe: Gründungsvater",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe Corpus à l'image de leur fondateur, Parvos Granum.",
+      "name": "Glyphe Père Fondateur",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo Corpus a immagine del loro laborioso fondatore, Parvos Granum.",
+      "name": "Glifo Padre Fondatore",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 근면한 창시자, 파보스 그라넘의 모습을 형상화한 코퍼스 글리프입니다.",
+      "name": "파운딩 파더 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo corpus con la imagen de su diligente fundador, Parvos Granum.",
+      "name": "Glifo del Padre Fundador",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘 Corpus 勤奋创始人帕尔沃斯·格拉努形象的浮印。",
+      "name": "创始之父浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Символ Корпуса в образе их трудолюбивого основателя, Парвоса Грэнума",
+      "name": "Глиф: Отец-основатель",
+      "code": "ru"
+    },
+    {
+      "description": "勤勉なる始祖、Parvos Granumの姿をイメージしたコーパスのグリフ。",
+      "name": "創設の始祖 グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif Corpus przedstawiający ich pracowitego Założyciela, Parvosa Granum.",
+      "name": "Glif Ojca Założyciela",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo Corpus retratando a imagem do seu diligente Fundador, Parvos Granum.",
+      "name": "Glifo: Fundador Pai",
+      "code": "pt"
+    },
+    {
+      "description": "一枚根據 Corpus 勤奮創始人──Parvos Granum 的形像製造的浮印。",
+      "name": "創始之父浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ Corpus ในภาพของ Parvos Granum ผู้ก่อตั้งที่ขยันขันแข็ง",
+      "name": "ภาพสัญลักษณ์ Founding Father",
+      "code": "th"
+    },
+    {
+      "description": "Gayretli Kurucu, Parvos Granum imajı olan bir Corpus Glif.",
+      "name": "Kurucu Lider Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф Корпусу із зображенням їхнього працьовитого засновника, Парва Ґранума.",
+      "name": "Гліф «Батько-засновник»",
+      "code": "uk"
+    }
+  ]
+}

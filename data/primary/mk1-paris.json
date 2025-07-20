@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/MK1Series/MK1Paris",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mk1-paris-75283dc75d.png",
+  "name": "Mk1-Paris",
+  "description": "The MK1-Paris is the standard issue bow for all Tenno.",
+  "languages": [
+    {
+      "description": "Der MK1-Paris ist ein Standard Bogen für alle Tenno.",
+      "name": "MK1-Paris",
+      "code": "de"
+    },
+    {
+      "description": "Le MK1-Paris est l'Arc standard de tous les Tennos.",
+      "name": "MK1-Paris",
+      "code": "fr"
+    },
+    {
+      "description": "L'MK1-Paris è l'arco standard per tutti i Tenno.",
+      "name": "MK1-Paris",
+      "code": "it"
+    },
+    {
+      "description": "MK1 패리스는 보편적인 활로, 모든 텐노가 사용할 수 있습니다.",
+      "name": "MK1 패리스",
+      "code": "ko"
+    },
+    {
+      "description": "El MK1-Paris es el arco estándar para todos los tenno.",
+      "name": "MK1-Paris",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MK1-PARIS）MK1-帕里斯是给Tenno的标准配置弓箭。",
+      "name": "MK1-帕里斯",
+      "code": "zh"
+    },
+    {
+      "description": "МК1-Парис - стандартный лук для всех Тэнно.",
+      "name": "MK1-Парис",
+      "code": "ru"
+    },
+    {
+      "description": "MK1-Parisはテンノ用制式弓。",
+      "name": "MK1-Paris",
+      "code": "ja"
+    },
+    {
+      "description": "Paris-MK1 to podstawowy łuk dla wszystkich Tenno.",
+      "name": "Paris-MK1",
+      "code": "pl"
+    },
+    {
+      "description": "A Paris-MK1 é o arco padrão para todos Tennos.",
+      "name": "Paris-MK1",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MK1-PARIS）MK1-帕里斯 是給Tenno的標準配置弓箭。",
+      "name": "MK1-帕里斯",
+      "code": "tc"
+    },
+    {
+      "description": "MK1-Paris เป็นคันธนูมาตรฐานของ Tenno",
+      "name": "MK1-Paris",
+      "code": "th"
+    },
+    {
+      "description": "MK1-Paris tüm Tenno'lar için standart ok silahıdır.",
+      "name": "MK1-Paris",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний лук усіх тенно.",
+      "name": "Паріс-MK1",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirewinder-bait-2d5997f5ee.png",
+  "name": "Mirewinder Bait",
+  "description": "This bait is composed of aromatic tetraxin that is known to attract Mirewinders, a Servofish found in Orb Vallis cave hotspots.\n\nObtained via The Business in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Dieser Köder besteht aus aromatischem Tetraxin, das dafür bekannt ist, Suhlwickler anzulocken, Servofische, die in den Höhlen des Orbis-Tals vorkommen.\n\nZu erhalten von The Business in Fortuna (Venus).",
+      "name": "Köder: Suhlwickler",
+      "code": "de"
+    },
+    {
+      "description": "Cet appât est composé de tétraxine aromatique connue pour attirer les Mirewinders, un Servopoisson trouvé aux points d'affluence des grottes de la Vallée Orbis.\n\nObtenu via Le Bizness à Fortuna (Vénus).",
+      "name": "Appât pour Mirewinder",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca è composta da tetraxin aromatica, nota per la sua capacità di attrarre i Mirewinder, un Servofish che si trova nei punti caldi delle grotte di Orb Vallis.\n\nAcquistabile da The Business a Fortuna (Venere).",
+      "name": "Esca Mirewinder",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 오브 협곡 동굴의 핫스팟에서 발견되는 서보피쉬인 마이어와인더를 유인하는 것으로 알려진 테트락신으로 구성되었습니다.\n\n포르투나 (금성) 의 비즈니스로부터 획득할 수 있습니다.",
+      "name": "마이어와인더 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta carnada está compuesto de tetraxina aromática que se sabe que atrae a los Lodobobinas, un servopez que se encuentra en las zonas activas de las cuevas de los Valles del Orbe.\n\nObtenido con The Business en Fortuna (Venus).",
+      "name": "Carnada de Lodobobina",
+      "code": "es"
+    },
+    {
+      "description": "这种鱼饵由芳香性的四氢素组成，能够吸引污泥绕环者，一种出没于山洞鱼点中的伺服鱼。\n\n从福尔图娜（金星）的 The Business 处获得。",
+      "name": "污泥绕环者鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта наживка состоит из ароматического тетраксина, известного тем, что он привлекает тинокрутов — серворыбу, обитающую в горячих точках пещер Долины Сфер.\n\nМестонахождение: у Бизнеса в Фортуне (Венера).",
+      "name": "Наживка на тинокрута",
+      "code": "ru"
+    },
+    {
+      "description": "このベイトは、オーブ峡谷の洞窟のホットスポットで見つかるサーボ魚であるマイアワインダーを引き寄せることで知られる芳香族テトラキシンで構成されている。\n\nフォーチュナー (金星) のThe Businessから入手可能。",
+      "name": "マイアワインダー・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta przynęta zawiera aromatyczne tetraksyny, które są znane z właściwości wabiących Błotowkręty, Serworyby występujące w jaskiniach Orb Vallis.\n\nMoże zostać zakupiona od Biznesa w Fortunie (Wenus).",
+      "name": "Przynęta Błotowkręta",
+      "code": "pl"
+    },
+    {
+      "description": "Esta isca é composta de tetraxína aromática, conhecida por atrair o Mirewinder, um Peixe-Servo encontrado em locais de pesca nas cavernas do Vallis das Orbes.\n\nLocalização: obtido com o Business em Fortuna, em Vênus.",
+      "name": "Isca de Mirewinder",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚餌由芳香四環鑫組成，能夠吸引污泥繞環者，一種可於奧布山谷的洞穴魚點裡找到的伺服魚。\n\n可以從福爾圖娜（金星）的 Business 取得。",
+      "name": "污泥繞環者魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อล่อชิ้นนี้ประกอบด้วยสารเททราซินที่มีกลิ่นหอมสามารถดึงดูด Mirewinder ซึ่งเป็นปลาเซอร์โวฟิชที่พบได้ในจุดฮอตสปอตที่มีปลาชุกชุมในถ้ำออร์บวัลลิส\n\nรับได้จาก The Business ในฟอร์ทูนา (ดาวศุกร์)",
+      "name": "เหยื่อล่อ Mirewinder",
+      "code": "th"
+    },
+    {
+      "description": "Bu yem, mağaralardaki sıcak noktalarında bulunan bir Servobalık olan Mirewinder'ları çekmek için aromatik tetraxin'den sentezlenmiştir.\n\nKaynak: Fortuna'da (Venüs) bulunan Business'ten temin edilebilir.",
+      "name": "Mirewinder Yemi",
+      "code": "tr"
+    },
+    {
+      "description": "Приманка складається з ароматичного тетрацина, що приваблює пробов’юнів — серворибу, яка трапляється на в Долині Куль у печерних ставках.\n\nМожна придбати в Бізнеса у Фортуні (Венера).",
+      "name": "Приманка на пробов’юна",
+      "code": "uk"
+    }
+  ]
+}

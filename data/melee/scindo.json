@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/AxeWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scindo-b0dbd8a58b.png",
+  "name": "Scindo",
+  "description": "The Scindo is a heavy war axe crafted by the Tenno. Reduced speed and agility is balanced by heavy, devastating strikes capable of connecting with multiple targets at once.",
+  "languages": [
+    {
+      "description": "Die Scindo ist eine schwere Kriegsaxt, die von den Tenno hergestellt wurde. Durch ihre mächtigen und verheerenden Angriffe, die mehrere Ziele auf einmal treffen können, gleicht sie die verringerte Angriffsgeschwindigkeit und Beweglichkeit aus.",
+      "name": "Scindo",
+      "code": "de"
+    },
+    {
+      "description": "Le Scindo est une Hache de guerre lourde de conception Tenno. Peu maniable et peu rapide, elle est toutefois capable de frappes dévastatrices sur plusieurs cibles à la fois.",
+      "name": "Scindo",
+      "code": "fr"
+    },
+    {
+      "description": "La SCINDO è un'ascia da guerra pesante realizzata dai Tenno. La scarsa agilità e velocità è bilanciata da colpi pesanti e devastanti in grado di colpire più obiettivi contemporaneamente.",
+      "name": "Scindo",
+      "code": "it"
+    },
+    {
+      "description": "이 육중한 전투 도끼인 신도는 텐노들에 의해 제작되었습니다. 속도와 민첩성을 담보로 하여, 단 한 번의 공격만으로도 여러 명의 적들에게 괴멸적인 타격을 가할 수 있습니다.",
+      "name": "신도",
+      "code": "ko"
+    },
+    {
+      "description": "La Scindo es un hacha de guerra pesada fabricada por los tenno. Su reducida velocidad y agilidad son equilibradas con fuertes y devastadores ataques capaces de golpear varios objetivos a la vez.",
+      "name": "Scindo",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SCINDO）分裂斩斧是由 Tenno 精心设计的重型战斧。减少速度和灵活性加强重量，破坏性的攻击能够一次杀伤多个目标。",
+      "name": "分裂斩斧",
+      "code": "zh"
+    },
+    {
+      "description": "Сциндо - тяжёлая секира, созданная Тэнно. Низкая скорость и неповоротливость компенсируются огромной силой удара и возможностью наносить урон сразу нескольким целям.",
+      "name": "Сциндо",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの手により作られた重量級戦闘斧。その重量のために俊敏性は失われるが、会心の一撃で複数の敵をなぎ払うことができる。",
+      "name": "Scindo",
+      "code": "ja"
+    },
+    {
+      "description": "Scindo jest ciężkim toporem wojennym stworzonym przez Tenno. Zmniejszona szybkość i zwrotność jest rekompensowana przez mocne, niszczycielskie ataki, mogące ranić wielu wrogów naraz.",
+      "name": "Scindo",
+      "code": "pl"
+    },
+    {
+      "description": "O Scindo é um machado de guerra pesado, criado pelos Tenno. Agilidade e velocidade reduzida são equilibradas por ataques pesados, devastadoras capazes de se conectar com múltiplos alvos ao mesmo tempo.",
+      "name": "Scindo",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SCINDO）分裂斬斧是由 Tenno 精心設計的重型戰斧。減少速度和靈活性加強重量，破壞性的攻擊能夠一次殺傷多個目標。",
+      "name": "分裂斬斧",
+      "code": "tc"
+    },
+    {
+      "description": "Scindo เป็นขวานหนักที่ Tenno สร้างขึ้นมาใช้ในสงคราม ความเร็วและความว่องไวที่ลดลงแลกกับพลังโจมตีทำลายล้างที่หนักแน่นและรุนแรง สามารถสร้างความเสียหายให้กับเป้าหมายได้ทีละหลายคนในคราวเดียวกัน",
+      "name": "Scindo",
+      "code": "th"
+    },
+    {
+      "description": "Scindo, Tenno'lar tarafından yapılan ağır bir savaş baltasıdır. Azaltılmış hız ve çeviklik, birden fazla hedefi ağır ve yıkıcı vuruşlarla devirebilmesiyle dengelenir.",
+      "name": "Scindo",
+      "code": "tr"
+    },
+    {
+      "description": "Важка бойова сокира, виготовлена тенно. Знижені швидкість і спритність компенсуються важкими руйнівними ударами, здатними завдавати шкоди численним цілям одночасно.",
+      "name": "Скіндо",
+      "code": "uk"
+    }
+  ]
+}

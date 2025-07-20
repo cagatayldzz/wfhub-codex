@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/NotePacks/BardEDMPackA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/horos-instruments-f5fd466cbd.png",
+  "name": "Horos Instruments",
+  "description": "A themed instrument pack for Octavia's Mandachord.",
+  "languages": [
+    {
+      "description": "Ein thematisches Instrumentenpaket für Octavias Mandachord.",
+      "name": "Horos-Instrumente",
+      "code": "de"
+    },
+    {
+      "description": "Un Pack d'instruments thématique pour le Mandaccord d'Octavia.",
+      "name": "Instruments Horos",
+      "code": "fr"
+    },
+    {
+      "description": "Un pacchetto strumenti a tema con il Mandachord di Octavia.",
+      "name": "Strumenti Horos",
+      "code": "it"
+    },
+    {
+      "description": "옥타비아의 만다코드를 위한 테마별 악기 팩입니다.",
+      "name": "호로스 악기 팩",
+      "code": "ko"
+    },
+    {
+      "description": "Un paquete instrumental temático para el mandacordio de Octavia.",
+      "name": "Instrumentos Horos",
+      "code": "es"
+    },
+    {
+      "description": "一个为 Octavia 的曼达和弦琴准备的主题乐器包。",
+      "name": "Horos 乐器",
+      "code": "zh"
+    },
+    {
+      "description": "Набор тематический инструментов для мендаккорда Октавии.",
+      "name": "Инструменты: Хорос",
+      "code": "ru"
+    },
+    {
+      "description": "OctaviaのMandachordのテーマ楽器パック。",
+      "name": "Horos 楽器",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw tematycznych instrumentów dla Mandakordium Octavii.",
+      "name": "Instrumenty Horos",
+      "code": "pl"
+    },
+    {
+      "description": "Um pacote de instrumentos temáticos para o Mandacorde da Octavia.",
+      "name": "Instrumentos Horos",
+      "code": "pt"
+    },
+    {
+      "description": "一個為 Octavia 的曼達和弦琴準備的主題樂器包。",
+      "name": "Horos 樂器包",
+      "code": "tc"
+    },
+    {
+      "description": "แพ็กเครื่องดนตรีตามธีมสำหรับ Mandachord ของ Octavia",
+      "name": "เครื่องดนตรี Horos",
+      "code": "th"
+    },
+    {
+      "description": "Octavia'nın Mandachord'u için temalı enstrüman paketi",
+      "name": "Horos Enstrümanları",
+      "code": "tr"
+    },
+    {
+      "description": "Тематичний набір інструментів для мандакорда Октавії.",
+      "name": "Інструменти «Хорос»",
+      "code": "uk"
+    }
+  ]
+}

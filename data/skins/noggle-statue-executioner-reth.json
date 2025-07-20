@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrineerChampionsEngineerBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---executioner-reth-d18db8d06d.png",
+  "name": "Noggle Statue - Executioner Reth",
+  "description": "A small wobbly statue of an Executioner of the Rathuum.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von einem Henker des Rathuums.",
+      "name": "Noggle-Statue: Henker Reth",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Bourreau du Rathuum.",
+      "name": "Statuette Noggle - Bourreau Reth",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Esecutore del Rathuum con la testa tremolante.",
+      "name": "Statuetta Noggle - Executioner Reth",
+      "code": "it"
+    },
+    {
+      "description": "라툼의 처형인을 본딴 모습의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 처형인 레스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un verdugo de Rathuum.",
+      "name": "Estatua Tambaleante - Verdugo Reth",
+      "code": "es"
+    },
+    {
+      "description": "一小座来自死亡角斗场中的行刑者摇头娃娃。",
+      "name": "行刑者莱斯摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Палача Ратуума.",
+      "name": "Фигурка: Палач Рет",
+      "code": "ru"
+    },
+    {
+      "description": "Rathuum 死刑執行人 のボブルヘッド人形。",
+      "name": "執行人Reth ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Egzekutora Rathuum.",
+      "name": "Figurka Noggle — Egzekutor Reth",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um dos Executores do Rathuum.",
+      "name": "Estatueta: Executor Reth",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Rathuum 的行刑者的搖頭娃娃。",
+      "name": "行刑者 Reth 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกแทนตัวผู้สำเร็จโทษใน Rathuum ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - ผู้สำเร็จโทษ Reth",
+      "code": "th"
+    },
+    {
+      "description": "İnfazcı Rathuum küçük oynar figür.",
+      "name": "Noggle Heykeli - Cellat Reth",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ката з Ратуму.",
+      "name": "Ноґл «Кат Рет»",
+      "code": "uk"
+    }
+  ]
+}

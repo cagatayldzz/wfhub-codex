@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fieldron-sample-ba56f1aa31.png",
+  "name": "Fieldron Sample",
+  "description": "This destroyed Fieldron could further research into super-heated containment fields.\n\nLocation: Venus, Mars, Jupiter, Europa, Neptune, and Pluto",
+  "languages": [
+    {
+      "description": "Dieser zerstörte Fieldron könnte deine Erforschung zu supterheißen Eindämmungsfeldern voranbringen.\n\nFundorte: Venus, Mars, Jupiter, Europa, Neptun und Pluto.",
+      "name": "Fieldronprobe",
+      "code": "de"
+    },
+    {
+      "description": "Ce Fieldron détruit pourrait aider nos recherches sur les champs de confinement surchauffés.\n\nLieux: Vénus, Mars, Jupiter, Europe, Neptune et Pluton.",
+      "name": "Échantillon de Fieldron",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Fieldron distrutto potrebbe far progredire le nostre ricerche nel contenimento ad alte temperature.\n\nPosizione: Venere, Marte, Giove, Europa, Nettuno e Plutone.",
+      "name": "Campione Fieldron",
+      "code": "it"
+    },
+    {
+      "description": "이 부서진 필드론 조각을 통해 초 고열 봉쇄 장치에 대해 연구 할 수 있습니다.\n\n획득 가능 장소: 금성, 화성, 목성, 유로파, 해왕성 및 명왕성.",
+      "name": "필드론 샘플",
+      "code": "ko"
+    },
+    {
+      "description": "Este fieldron destruido podría promover la investigación en campos de contención sobrecalentados.\n\nUbicaciones: Venus, Marte, Júpiter, Europa, Neptuno, y Pluto.",
+      "name": "Muestra de Fieldron",
+      "code": "es"
+    },
+    {
+      "description": "借由损坏的电磁力场装置可促进有关高热能物质能量包围力场方面的研究。\n\n获取地点：金星，火星，木星，欧罗巴，海王星和冥王星。",
+      "name": "电磁力场装置样本",
+      "code": "zh"
+    },
+    {
+      "description": "Этот уничтоженный Филдрон может помочь в исследованиях сдерживающих сверхгорячих полей.\n\nМеста нахождения: Венера, Марс, Юпитер, Европа, Нептун, Плутон.",
+      "name": "Образец Филдрона",
+      "code": "ru"
+    },
+    {
+      "description": "破損したフィールドロンを研究し、新たな熱隔離フィールドの知識を得ることができる。\n\n場所：金星、火星、木星、エウロパ、海王星、冥王星。",
+      "name": "フィールドロン サンプル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten zniszczony Fieldron może posunąć nasze badania nad polami przetrzymującymi dla przegrzanych substancji.\n\nPołożenie: Wenus, Mars, Jowisz, Europa, Neptun i Pluton.",
+      "name": "Próbka Fieldronu",
+      "code": "pl"
+    },
+    {
+      "description": "Este Fieldron destruído pode ser útil para pesquisar mais profundamente os campos de contenção superaquecidos.\n\nLocalizações: Vênus, Marte, Júpiter, Europa, Netuno e Plutão.",
+      "name": "Amostra de Fieldron",
+      "code": "pt"
+    },
+    {
+      "description": "藉由損壞的電磁力場裝置可促進有關高熱能物質能量包圍力場方面的研究。\n\n地點：金星、火星、木星、歐羅巴、海王星和冥王星。",
+      "name": "電磁力場裝置樣本",
+      "code": "tc"
+    },
+    {
+      "description": "ฟิลด์รอนที่ถูกทำลายชิ้นนี้สามารถนำไปวิจัยเพิ่มเติมเกี่ยวกับเขตกักกันที่มีอุณหภูมิสูงได้\n\nแหล่งที่พบ: ดาวศุกร์ ดาวอังคาร ดาวพฤหัสบดี ดาวยูโรปา ดาวเนปจูน และดาวพลูโต",
+      "name": "ตัวอย่างฟิลด์รอน",
+      "code": "th"
+    },
+    {
+      "description": "Bu tahrip edilmiş Fieldron, aşırı ısıtılmış tutma alanları hakkında daha fazla araştırma sağlayabilir.\n\nKonumlar: Venüs, Mars, Jüpiter, Europa, Neptün ve Plüton.",
+      "name": "Fieldron Örneği",
+      "code": "tr"
+    },
+    {
+      "description": "Рештки полетрону, які можна використати в дослідженнях полів зі стримання надрозігрітих речовин.\n\nМожна здобути на Венері, Марсі, Юпітері, Європі, Нептуні та Плутоні.",
+      "name": "Зразок полетрону",
+      "code": "uk"
+    }
+  ]
+}

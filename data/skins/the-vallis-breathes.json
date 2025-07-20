@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/VideoWallBackdrops/ZarimanApartment/VideoWallBackDropE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-vallis-breathes-0ad2fe36ce.png",
+  "name": "The Vallis Breathes",
+  "description": "Raff Seglass' classic vision of the Orb Vallis is both calming and humbling.",
+  "languages": [
+    {
+      "description": "Raff Seglass' klassische Vision des Orbis-Tals ist sowohl beruhigend als auch demütigend.",
+      "name": "Das Tal atmet",
+      "code": "de"
+    },
+    {
+      "description": "La vision classique de Raff Seglass sur la Vallée Orbis apaise et rend humble tout à la fois.",
+      "name": "La Vallée Respire",
+      "code": "fr"
+    },
+    {
+      "description": "La visione classica di Raff Seglass su Orb Vallis è rassicurante e allo stesso tempo rende umili.",
+      "name": "Vallis Respira",
+      "code": "it"
+    },
+    {
+      "description": "라프 세글래스가 선보이는 고전적인 오브 협곡의 풍경은 차분하면서도 겸허한 모습입니다.",
+      "name": "숨쉬는 협곡",
+      "code": "ko"
+    },
+    {
+      "description": "La visión clásica de Raff Seglass de los Valles del Orbe calma y alecciona a la vez.",
+      "name": "Los valles respiran",
+      "code": "es"
+    },
+    {
+      "description": "拉夫·塞格拉斯眼中的奥布山谷既静谧又大气从容。",
+      "name": "山谷之息",
+      "code": "zh"
+    },
+    {
+      "description": "Классическое изображение долины Сфер от Raff Seglass, которое успокаивает и помогает смирению.",
+      "name": "Дыхание долины",
+      "code": "ru"
+    },
+    {
+      "description": "Raff Seglassが見る落ち着きのあるオーブ峡谷の古典的景色。",
+      "name": "峡谷の脈動",
+      "code": "ja"
+    },
+    {
+      "description": "Klasyczny obraz kojącego Orb Valls autorstwa Raffa Seglassa.",
+      "name": "Oddech Vallis",
+      "code": "pl"
+    },
+    {
+      "description": "A visão clássica da Raff Seglass do Vallis das Orbes estimula a calma e a humildade em simultâneo.",
+      "name": "O Vallis Respira",
+      "code": "pt"
+    },
+    {
+      "description": "Raff Seglass 對奧布山谷的經典想像既使人平靜又令人謙卑。",
+      "name": "山谷氣息",
+      "code": "tc"
+    },
+    {
+      "description": "มโนภาพสุดคลาสสิกของ Raff Seglass เกี่ยวกับออร์บวัลลิสนั้นทั้งสงบและเรียบง่าย",
+      "name": "ลมหายใจแห่งวัลลิส",
+      "code": "th"
+    },
+    {
+      "description": "Raff Seglass'ın Orb Vallis'e klasik bakışı rahatlatıcı ve ferahlatıcıdır.",
+      "name": "Vallis Fısıltıları",
+      "code": "tr"
+    },
+    {
+      "description": "Класичне зображення Долини Куль від Рафи Сіґлас. Водночас заспокоює й упокорює.",
+      "name": "Подих Долини",
+      "code": "uk"
+    }
+  ]
+}

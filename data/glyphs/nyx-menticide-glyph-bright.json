@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxMenticideBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nyx-menticide-glyph---bright-a5eb694c10.png",
+  "name": "Nyx Menticide Glyph - Bright",
+  "description": "A glyph depicting Nyx Menticide on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nyx Menticide vor einem hellen Hintergrund darstellt.",
+      "name": "Glphe: Nyx Menticide (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nyx Menticide sur un fond lumineux.",
+      "name": "Glyphe Nyx Menticide - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Menticide Nyx su uno sfondo chiaro.",
+      "name": "Glifo Nyx Menticide - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 멘터사이드 닉스를 묘사한 글리프입니다.",
+      "name": "닉스 멘터사이드 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Menticide Nyx sobre un fondo brillante.",
+      "name": "Glifo de Nyx Menticide - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nyx 灭神在明亮背景下的浮印。",
+      "name": "Nyx 灭神浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Никс «Ментицид» на светлом фоне.",
+      "name": "Глиф: Никс «Ментицид» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Menticide Nyx のグリフ。",
+      "name": "Nyx Menticide グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Nyx 'Menticide' na jasnym tle.",
+      "name": "Glif Nyx Menticide — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Nyx Menticide em um fundo claro.",
+      "name": "Glifo: Nyx Menticide (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nyx 滅神在明亮背景下的浮印。",
+      "name": "Nyx 滅神浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nyx Menticide บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nyx Menticide - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nyx Menticide açık fonlu glif.",
+      "name": "Nyx Menticide Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нікс у шоломі «Ментоцид» на світлому тлі.",
+      "name": "Яскравий гліф «Нікс „Ментоцид“»",
+      "code": "uk"
+    }
+  ]
+}

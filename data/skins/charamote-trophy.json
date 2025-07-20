@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/OrokinBothRareFishATrophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/charamote-trophy-1a74b29c69.png",
+  "name": "Charamote Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "Trophäe: Charamote",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "Trophée Charamote",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "Trofeo Charamote",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "차라모트 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "Trofeo de Charamote",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "重筑虾奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "Трофей: Карамот",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "キャラモート トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "Trofeum: Pyłkoczary",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "Troféu: Charamote",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "輪藻微粒標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: Charamote",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "Charamote Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "Трофей: креветун",
+      "code": "uk"
+    }
+  ]
+}

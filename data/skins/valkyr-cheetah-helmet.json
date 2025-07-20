@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/SWRFiveValkyrCheetahHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-cheetah-helmet-16bc59843b.png",
+  "name": "Valkyr Cheetah Helmet",
+  "description": "A helmet for the Valkyr Warframe, designed by Cheshire.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Valkyr Warframe, entworfen von Cheshire.",
+      "name": "Valkyr-Helm: Cheetah",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Valkyr, conçu par Cheshire.",
+      "name": "Casque Valkyr Cheetah",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Valkyr, ideato da Cheshire.",
+      "name": "Elmo Valkyr Cheetah",
+      "code": "it"
+    },
+    {
+      "description": "Cheshire에 의해 디자인된 발키르 워프레임을 위한 헬멧입니다.",
+      "name": "발키르 치타 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Valkyr, diseñado por Cheshire.",
+      "name": "Casco Cheetah de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 战甲的头盔，由 Cheshire 设计。",
+      "name": "Valkyr 猎豹头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Валькирия, созданный Cheshire.",
+      "name": "Шлем Валькирии: Гепард",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyr用のヘルメット。製作者：Cheshire。",
+      "name": "Valkyr Cheetah ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Valkyr, zaprojektowany przez Cheshire.",
+      "name": "Valkyr: Hełm Cheetah",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Valkyr, desenvolvido por Cheshire.",
+      "name": "Valkyr: Capacete Cheetah",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr Warframe 的頭盔，由 Cheshire 所設計。",
+      "name": "Valkyr 獵豹頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Valkyr Warframe ออกแบบโดย Cheshire",
+      "name": "หมวกเหล็ก Valkyr Cheetah",
+      "code": "th"
+    },
+    {
+      "description": "Cheshire tarafından dizayn edilen Valkyr Warframe miğferi.",
+      "name": "Valkyr Cheetah Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Валькірії, створений Cheshire.",
+      "name": "Шолом «Гепард» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sapcaddy-venedo-case-324958ac9c.png",
+  "name": "Sapcaddy Venedo Case",
+  "description": "A strong, metallic case that is resistant to fluctuations in environmental temperature.\n\nSource: Dismantled from Sapcaddy servofish via The Business in Fortuna (Venus). Catch Sapcaddy in the Orb Vallis lake during Cold weather. Also drops from resource containers across the Orb Vallis.",
+  "languages": [
+    {
+      "description": "Ein robustes Metallgehäuse, das Schwankungen der Umgebungstemperatur widersteht.\n\nQuelle: Durch das Zerlegen von Sapcaddys von The Business in Fortuna (Venus). Fange Sapcaddys bei kaltem Wetter in den Seen des Orbis-Tals. Kann auch in Ressourcen-Containern im gesamten Orbis-Tal gefunden werden.",
+      "name": "Sapcaddy: Venedo Gehäuse",
+      "code": "de"
+    },
+    {
+      "description": "Un boîtier métallique robuste qui résiste aux fluctuations de température ambiante.\n\nSource: récupéré des Servopoissons Sapcaddys via Le Bizness à Fortuna Fortuna (Vénus). Attrapez le Sapcaddy dans les lacs de la Vallée Orbis par temps froid, et via les conteneurs de Ressources dans la Vallée Orbis.",
+      "name": "Boîtier Venedo de Sapcaddy",
+      "code": "fr"
+    },
+    {
+      "description": "Un robusto involucro metallico resistente alle fluttuazioni della temperatura ambientale.\n\nFonte: Ottenibile smantellando i servofish Sapcaddy da The Business a Fortuna (Venere). Cattura Sapcaddy nel lago a Orb Vallis durante il Freddo. Viene rilasciata anche dai contenitori di risorse a Orb Vallis.",
+      "name": "Cassa Venedo di Sapcaddy",
+      "code": "it"
+    },
+    {
+      "description": "환경 온도의 변동에 저항할 수 있는 강한 금속 케이스입니다.\n\n획득 가능 장소: 포르투나 (금성) 의 비즈니스를 통해 샙캐디 서보피쉬를 분해하여 획득. 차가운 날씨동안 오브 협곡 호수 내에서 샙캐디를 잡을 수 있습니다. 또한 오브 협곡 전역의 자원 컨테이너를 통해서도 드롭됩니다.",
+      "name": "샙캐디 베네도 케이스",
+      "code": "ko"
+    },
+    {
+      "description": "Un fuerte contenedor metálico que es resistente a fluctuaciones en la temperatura ambiental.\n\nFuente: Se obtiene al desarmar al servopez Sapcaddy con The Business en Fortuna (Venus). Captura a Sapcaddy en el lago de los Valles del Orbe durante el clima frío. También se obtiene de los contenedores de recursos en los Valles del Orbe.",
+      "name": "Estuche de Venedo de Sapcaddy",
+      "code": "es"
+    },
+    {
+      "description": "一个坚固、金属制的箱子，能抵抗环境温度的波动。\n\n获取途径：通过福尔图娜（金星）的 The Business 从液集者伺服鱼中拆解获取。在寒冷的奥布山谷湖泊中捕捉液集者。此外它还会从奥布山谷资源储藏箱中掉落。",
+      "name": "液集者维内多箱",
+      "code": "zh"
+    },
+    {
+      "description": "Прочный металлический корпус, устойчивый к колебаниям температуры окружающей среды.\n\nМестонахождение: Извлекается из серворыбы сапкадди у Бизнеса в Фортуне (Венера). Ловите сапкадди в озёрах Долины Сфер во время холодной погоды. Также выпадает из ресурсных контейнеров по всей Долине сфер.",
+      "name": "Кейс Венедо Сапкадди",
+      "code": "ru"
+    },
+    {
+      "description": "環境気温の変動に耐えられる強靭な金属のケース。\n\n場所：オーブ峡谷のサプカディサーボ魚をフォーチュナー（金星）のThe Businessで分解することで入手可能。サプカディは寒波な環境の中のオーブ峡谷の湖で捕まえられる。オーブ峡谷中にある素材コンテナからもドロップ可能。",
+      "name": "サプカディ Venedo ケース",
+      "code": "ja"
+    },
+    {
+      "description": "Mocna, metalowa obudowa odporna na wahania temperatury otoczenia. \n\nMoże zostać zdobyty przez rozłożenie Torbacza u Biznesa w Fortunie (Wenus). Serworyba Torbacz może zostać złowiona w jeziorach Orb Vallis podczas zimnej pogody. Ten komponent wypada także z pojemników w Orb Vallis.",
+      "name": "Torbacz: Obudowa Venedo",
+      "code": "pl"
+    },
+    {
+      "description": "Um revestimento metálico, resistente a flutuações de temperatura ambiente.\n\nLocalização: obtido através da desmontagem do Peixe-Servo Sapcaddy com o Business em Fortuna, em Vênus. O Peixe-Servo Sapcaddy pode ser pescado no lago do Vallis das Orbes durante o clima frio. Este item também pode ser obtido de contêineres de recursos por todo o Vallis das Orbes.",
+      "name": "Revestimento Venedo de Sapcaddy",
+      "code": "pt"
+    },
+    {
+      "description": "一個堅固、金屬製的箱子，能抵抗環境溫度的波動。\n\n來源：透過福爾圖娜（金星）的 Business 拆解液集盒取得。\n液集盒可在寒冷週期於奧布山谷的湖泊裡捕獲。\n奧布山谷的資源容器也會掉落這個物品。",
+      "name": "集液盒維內多箱",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องโลหะที่แข็งแรงทนทานต่อความแปรปรวนของอุณหภูมิในสภาพแวดล้อม\n\nแหล่งที่พบ: ถอดชิ้นส่วนออกมาจากเซอร์โวฟิช Sapcaddy ผ่าน The Business ในฟอร์ทูนา (ดาวศุกร์) ซึ่งสามารถจับปลาในทะเลสาบของออร์บวัลลิสได้ในช่วงที่มีสภาพอากาศหนาวเย็น นอกจากนี้ยังรับได้จากกล่องทรัพยากรที่พบได้ทั่วออร์บวัลลิสอีกด้วย",
+      "name": "Sapcaddy: เคสเวเนโด",
+      "code": "th"
+    },
+    {
+      "description": "Çevre sıcaklığındaki dalgalanmalara dayanıklı, güçlü, metalik bir kasa.\n\nKaynak: Fortuna'daki (Venüs) Business aracılığıyla Sapcaddy servobalığından çıkarılmıştır. Soğuk havalarda Orb Vallis gölünde Sapcaddy yakalayın. Ayrıca Orb Vallis'teki kaynak konteynerlerinden de düşer.",
+      "name": "Sapcaddy Venedo Kasası",
+      "code": "tr"
+    },
+    {
+      "description": "Міцний металевий ящик, який не підлягає впливу змін температури навколишнього середовища.\n\nМожна отримати з пробосома в Бізнеса у Фортуні (Венера). Ловіть пробосома в озері Долини Куль під час холодної погоди. Також можна отримати з контейнерів у Долині Куль.",
+      "name": "Венедовий ящик пробосома",
+      "code": "uk"
+    }
+  ]
+}

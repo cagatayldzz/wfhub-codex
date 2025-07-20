@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Paladin/PaladinSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-skin-c29009c897.png",
+  "name": "Oberon Skin",
+  "description": "The standard issue skin for the Oberon Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Oberon Warframe.",
+      "name": "Oberon-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Oberon.",
+      "name": "Aspect Oberon",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Oberon.",
+      "name": "Skin Oberon",
+      "code": "it"
+    },
+    {
+      "description": "오베론 워프레임을 위한 기본 스킨입니다.",
+      "name": "오베론 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Oberon.",
+      "name": "Diseño de Oberon",
+      "code": "es"
+    },
+    {
+      "description": "Oberon 的标准外观配置。",
+      "name": "Oberon 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Оберона.",
+      "name": "Скин Оберона",
+      "code": "ru"
+    },
+    {
+      "description": "Oberonの標準型スキン。",
+      "name": "Oberon スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Oberon.",
+      "name": "Oberon: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Oberon.",
+      "name": "Oberon: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Oberon 的標準外觀配置。",
+      "name": "Oberon 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Oberon Warframe",
+      "name": "สกิน Oberon",
+      "code": "th"
+    },
+    {
+      "description": "Oberon Warframe için standart skin.",
+      "name": "Oberon Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Оберона.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

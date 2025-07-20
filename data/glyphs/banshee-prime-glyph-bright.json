@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBansheePrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-prime-glyph---bright-dab581ff77.png",
+  "name": "Banshee Prime Glyph - Bright",
+  "description": "A glyph depicting Banshee Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Banshee Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Banshee Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Banshee Prime sur un fond lumineux.",
+      "name": "Glyphe Banshee Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Banshee Prime su uno sfondo chiaro.",
+      "name": "Glifo Banshee Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 밴쉬 프라임을 묘사한 글리프입니다.",
+      "name": "밴시 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Banshee Prime sobre un fondo brillante.",
+      "name": "Glifo de Banshee Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Banshee Prime 在明亮背景下的浮印。",
+      "name": "Banshee Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Банши Прайм на светлом фоне.",
+      "name": "Глиф: Банши Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたBanshee Prime のグリフ。",
+      "name": "Banshee Prime グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Banshee Prime na jasnym tle.",
+      "name": "Glif Banshee Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Banshee Prime em um fundo claro.",
+      "name": "Glifo: Banshee Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Banshee Prime 在明亮背景下的浮印。",
+      "name": "Banshee Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Banshee Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Banshee Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Banshee Prime açık fonlu glif.",
+      "name": "Banshee Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Банші-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Банші-прайм»",
+      "code": "uk"
+    }
+  ]
+}

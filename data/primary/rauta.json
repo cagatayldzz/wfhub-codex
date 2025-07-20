@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PaxDuviricusShotgun/PaxDuviricusShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rauta-690de20bfb.png",
+  "name": "Rauta",
+  "description": "Kullervo's signature weapon boasts melee synergy. Every shot that lands increases the wielder's Melee Combo count. When Kullervo wields Rauta, it also increases his Melee Combo duration.",
+  "languages": [
+    {
+      "description": "Kullervos unverkennbare Waffe verfügt über Nahkampfsynergien. Jeder Schuss, der landet, erhöht die Anzahl der Nahkampf-Combos. Setzt Kullervo Rauta ein, erhöht sich auch die Dauer seiner Nahkampf-Kombo.",
+      "name": "Rauta",
+      "code": "de"
+    },
+    {
+      "description": "L'arme emblématique de Kullervo bénéficie d'une synergie de Mêlée. Chaque tir qui atteint son but augmente le nombre de combos de Mêlée. Lorsque Kullervo utilise le Rauta, cela augmente également la durée de son combo de Mêlée.",
+      "name": "Rauta",
+      "code": "fr"
+    },
+    {
+      "description": "L'arma distintiva di Kullervo vanta una sinergia Corpo a Corpo. Ogni colpo che va a segno aumenta il Contatore Combo Corpo a Corpo di chi lo impugna. Quando Kullervo brandisce il Rauta, aumenta anche la Durata Combo Corpo a Corpo.",
+      "name": "Rauta",
+      "code": "it"
+    },
+    {
+      "description": "근접전에서의 시너지를 자랑하는 쿨레르보의 대표 무기입니다. 사격을 명중시킬 때마다 사용자의 근접 연속기 카운트가 증가합니다. 쿨레르보가 라우타를 다룰 시, 근접 연속기 지속 시간 또한 증가합니다.",
+      "name": "라우타",
+      "code": "ko"
+    },
+    {
+      "description": "El arma distintiva de Kullervo cuenta con sinergia cuerpo a cuerpo. Cada disparo que aterriza aumenta el conteo de combo cuerpo a cuerpo del portador. Cuando Kullervo utiliza a Rauta, también aumenta la duración de su combo cuerpo a cuerpo.",
+      "name": "Rauta",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RAUTA）Kullervo 的标志性武器具有近战协同的优势。每次命中都会增加持枪者的近战连击数。当 Kullervo 使用锐铁时，它也会增加他的近战连击持续时间。",
+      "name": "锐铁",
+      "code": "zh"
+    },
+    {
+      "description": "Особое оружие Куллерво может похвастаться синергией ближнего боя. Каждый попавший выстрел увеличивает счётчик комбо ближнего боя. Когда Куллерво использует Рауту, это также увеличивает продолжительность комбо ближнего боя.",
+      "name": "Раута",
+      "code": "ru"
+    },
+    {
+      "description": "Kullervoを象徴する武器は近接とのシナジーを誇る。ショットがヒットする度に使用者のコンボカウントが上昇する。KullervoがRautaを装備した場合、近接コンボ時間が増加する。",
+      "name": "Rauta",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna broń Kullervo korzysta z synergii walki wręcz. Każdy strzał trafiający w cel zwiększa Licznik Kombo Broni Białej. Kiedy Kullervo używa Rauta, wydłuża to także Czas Trwania Kombo Broni Białej.",
+      "name": "Rauta",
+      "code": "pl"
+    },
+    {
+      "description": "A arma tradicional do Kullervo se beneficia da sinergia Corpo a Corpo. Cada disparo no alvo aumentará a Contagem do Combo Corpo a Corpo do usuário. Quando o Kullervo empunhar a Rauta, a Duração do seu Combo Corpo a Corpo também aumentará.",
+      "name": "Rauta",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RAUTA）Kullervo 的標誌性武器擁有與近戰武器相互搭配的特色，每次開火命中可增加近戰連擊數。由 Kullervo 使用牢銕時，還能強化近戰連擊時間。",
+      "name": "牢銕",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธประจำตัวของ Kullervo ที่มีการประสานพลังกับอาวุธระยะประชิด ทุกครั้งที่ยิงโดนจะเพิ่มตัวนับคอมโบให้กับอาวุธระยะประชิด หาก Kullervo เป็นผู้ใช้ปืน Rauta ก็จะเพิ่มระยะเวลาคอมโบให้กับอาวุธระยะประชิดอีกด้วย",
+      "name": "Rauta",
+      "code": "th"
+    },
+    {
+      "description": "Kullervo'nun bu özel silahı, yakın dövüş sinerjisine sahiptir. Hedefe yapılan her atış, kullananın Yakın Dövüş Kombo sayısını artırır. Kullervo, Rauta'yı kullandığında, aynı zamanda Yakın Dövüş Kombo süresini de artırır.",
+      "name": "Rauta",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна зброя Куллерво, що посилює синергію з холодною зброєю. Кожен влучний постріл збільшує лічильник серії ударів холодної зброї. Коли Куллерво тримає Рауту, то вона також збільшує тривалість серії.",
+      "name": "Раута",
+      "code": "uk"
+    }
+  ]
+}

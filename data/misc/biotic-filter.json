@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/biotic-filter-8094b48a8f.png",
+  "name": "Biotic Filter",
+  "description": "Sifting the glutinous Exocrine is an essential part of the survival process, and a reminder of the creature's original function.\n\nSource: Cut from Aquapulmo and Duroid fish via Daughter in the Necralisk (Deimos). Catch Aquapulmo in Cambion Drift surface hotspots during Vome, and Duroid in Cambion Drift cave hotspots during Fass and Vome. Also drops from Requiem Obelisks and Auroron Entrati Caskets in the Cambion Drift.",
+  "languages": [
+    {
+      "description": "Das Filtern des zähflüssigen Exocrine ist ein wichtiger Teil des Überlebensprozesses und eine Erinnerung an die ursprüngliche Funktion der Kreatur.\n\nQuelle: Tochter im Necralisk (Deimos) kann es aus den folgenden Fischen der Cambion-Drift entfernen:\nAquapulmo (Kann während Vome in Hotspots auf der Oberfläche der Cambion-Drift gefangen werden.)\nDuroid (Kann während Fass in Hotspots in Höhlen der Cambion-Drift gefangen werden.)\nKann auch von Requiem Obelisken und Auroron Entrati Urnen in der Cambion-Drift erhalten werden.",
+      "name": "Biotischer Filter",
+      "code": "de"
+    },
+    {
+      "description": "Tamiser l'Exocrine gluante est une partie essentielle du processus de survie et un rappel de la fonction originale de la créature.\n\nSource: récupérée des poissons Aquapulmos et Duroïdes via la Fille dans le Necralisk (Deimos). Attrapez l'Aquapulmo aux points d'affluence de surface du Puy de Cambion pendant Vome, et le Duroïde aux points d'affluence des grottes du Puy de Cambion pendant Fass et Vome. Tombe également des Obélisques Requiems et des Coffrets Entrati Auroron dans le Puy de Cambion.",
+      "name": "Filtre Biotique",
+      "code": "fr"
+    },
+    {
+      "description": "Setacciare l'Exocrine glutinoso è una parte essenziale del processo di sopravvivenza e un promemoria della funzione originale della creatura.\n\nFonte: Ottenibile dai pesci Aquapulmo e Duroid da Figlia nel Necralisk (Deimos). Cattura un Aquapulmo nei punti caldi della superficie del Cambion Drift durante Vome e un Duroid nei punti caldi della grotta del Cambion Drift durante Fass e Vome. Viene rilasciato anche dagli Obelischi Requiem e dalle Bare Auroron Entrati nel Cambion Drift.",
+      "name": "Filtro Biotico",
+      "code": "it"
+    },
+    {
+      "description": "점착성 내분비액을 분리하는 것은 생존 과정의 필수적인 부분이며, 생물체 본래의 기능을 상기시킵니다.\n\n획득 가능 장소: 네크랄리스크 (데이모스) 의 딸을 통해 아쿠아펄모 물고기를 해체하여 획득. 봄 주기 동안 캠비온 퇴적지 표면의 핫스팟에서 아쿠아펄모를, 파스 및 봄 주기 동안 동굴 핫스팟에서 듀로이드를 잡을 수 있습니다. 또한 캠비온 퇴적지의 레퀴엠 오벨리스크 및 오로론 엔트라티 관을 통해서도 드롭됩니다.",
+      "name": "생체 필터",
+      "code": "ko"
+    },
+    {
+      "description": "Tamizar el Exocrino glutinoso es una parte esencial del proceso de supervivencia y un recordatorio de la función original de la criatura.\n\nFuente: Obtenido de los peces Acuapulmo y Duroide con Hija en el Necralisk (Deimos). Captura a Acuapulmo en las zonas activas de la superficie de Deriva Cambion durante Vome, y a Duroide en las zonas activas de la cueva de Deriva Cambion durante Fass y Vome. También se obtiene de los Obeliscos de Réquiem y los Féretros Entrati Auroron en Deriva Cambion.",
+      "name": "Filtro biótico",
+      "code": "es"
+    },
+    {
+      "description": "筛分粘性的外分泌物是生存过程中必不可少的一部分，也是对生物原有功能的一种提醒。\n\n获取途径：通过殁世幽都（火卫二）的“女儿”从水肺和韧铠灵鲷中切割获取。 可在“秩序”期间的魔胎之境地面鱼点中捕捉水肺，在“混乱”和“秩序”期间的魔胎之境洞穴鱼点中捕捉韧铠灵鲷。此外它还会从魔胎之境的安魂方尖碑和幻金英择谛罐掉落。",
+      "name": "生物过滤组织",
+      "code": "zh"
+    },
+    {
+      "description": "Процеживание вязкого экзокрина является важной частью процесса выживания и напоминает о первоначальной функции существа.\n\nМестонахождение: Получается при разделке аквапульмы и дуроида у Дочери в Некралиске (Деймос). Ловите аквапульму в горячих точках на поверхности Камбионского Дрейфа во время активности Воум, а дуроида — в пещерных горячих точках Камбионского Дрейфа во время активности Фэза и Воум. Также выпадает из Обелисков Реквиема и урн Энтрати на Камбионском Дрейфе.",
+      "name": "Биотический Фильтр",
+      "code": "ru"
+    },
+    {
+      "description": "とろみのある外分泌液をフィルターするのに必要不可欠であり、生物本来の機能を思い浮かばせる。\n\n場所：ネクロリスク（ダイモス）のDaughterからアクアプルモとデュロイドを捌くことで入手可能。アクアプルモはVome時のカンビオン荒地地上ホットスポットで獲れる。デュロイドはVome・Fass時のカンビオン荒地の洞窟ホットスポットで獲れる。カンビオン荒地のRequiem オベリスクとオロロン エントラティキャスケットからもドロップ可能。",
+      "name": "バイオフィルター",
+      "code": "ja"
+    },
+    {
+      "description": "Przesączanie kleistej Egzokryny jest istotną częścią procesu przetrwania, jak również przypomnieniem pierwotnych funkcji stworzenia. \n\nŹródło: Uzyskane przez filetowanie ryb Akwenpulmo i Duroid przez Córkę w Nekralisku (Deimos). Na powierzchni wód Dryfu Kambionu w czasie czuwania Vome złapiesz Akwenpulmo i Duroid, a w czasie czuwania Fass złapiesz tylko Duroid. Wypadają także z Obelisków Requiem i Szkatuł Auroron Entrati w Dryfie Kambionu.",
+      "name": "Filtr Biotyczny",
+      "code": "pl"
+    },
+    {
+      "description": "Peneirar o Exócrino Glutinoso é parte essencial do processo de sobrevivência e uma evocação das funções originais da criatura.\n\nLocalização: obtido através do corte dos peixes Aquapulmo e Duroid da Deriva de Cambion com a Filha no Necralisk, em Deimos. Capture o Aquapulmo em locais de pesca da superfície na Deriva de Cambion durante o ciclo de Vome, e o Duroid em locais de pesca de cavernas durante o ciclo de Fass e Vome. Ele também poderá ser obtido em Obeliscos Réquiem e de Caixões Entrati Auroron na Deriva de Cambion.",
+      "name": "Filtro Biótico",
+      "code": "pt"
+    },
+    {
+      "description": "過濾濃稠的外分泌液是生存過程必要的一部份以及生物原本官能的一種提醒。\n\n來源：透過亡骸殿（火衛二）的女兒從液肺魩和杜羅鯣所切下。\n液肺魩可在 Vome 週期於魔裔禁地的地面魚點捕獲。\n杜羅鯣可在 Vome 和 Fass 週期於魔裔禁地的洞穴魚點捕獲。\n魔裔禁地的鎮魂方尖碑和金隆源拓氏匣子也會掉落這個物品。",
+      "name": "生物質過濾器",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวกรองสารเหนียวในต่อมมีท่อ ซึ่งเป็นส่วนสำคัญต่อกระบวนการดำรงชีวิต และเป็นเครื่องเตือนใจในฟังก์ชันการทำงานเดิมของสิ่งมีชีวิต\n\nแหล่งที่พบ: ได้มาจากการแล่ปลา Aquapulmo และ Duroid ผ่าน Daughter ในเนคราลิสก์ (เดมอส) ซึ่งสามารถจับปลา Aquapulmo ตรงจุดฮอตสปอตที่มีปลาชุกชุมบนพื้นผิวของแคมบิออนดริฟต์ได้ในช่วงเวลาของ Vome และจับ Duroid ตรงจุดฮอตสปอตที่มีปลาชุกชุมบนพื้นผิวของแคมบิออนดริฟต์ได้ในช่วงเวลาของ Fass และ Vome นอกจากนี้ยังเป็นไอเทมที่ดรอปจากเสาโอเบลิสก์ Requiem และหีบบรรจุ Auroron Entrati ในแคมบิออนดริฟต์อีกด้วย",
+      "name": "ไบโอติกฟิลเตอร์",
+      "code": "th"
+    },
+    {
+      "description": "Yapışkan Ekzokrini elemek, hayatta kalma sürecinin önemli bir parçası ve canlının orijinal işlevinin bir hatırlatıcısıdır.\n\nKaynak: Aquapulmo ve Duroid balıklarından Nekralisk'te (Deimos) bulunan Kız Evlat aracılığıyla kesilmiştir. Aquapulmo'yu Vome sırasında Cambion Drift yüzey sıcak noktalarında, Duroid'i ise Fass ve Vome sırasında Cambion Drift mağara sıcak noktalarında yakalayın. Ayrıca Cambion Drift'teki Requiem Obeliskleri ve Auroron Entrati Tabutlarından da düşer.",
+      "name": "Biyotik Filtre",
+      "code": "tr"
+    },
+    {
+      "description": "Проціджування в’язкого екзокрину — важлива частина виживання й нагадування про початкові функції істоти.\n\nМожна отримати з аквапульми й дюроїда від Доньки в Некраліску (Деймос). Ловіть аквапульму в певних ділянках поверхні Кембіонської течії, коли за нею наглядає Вом, а дюроїда — у печерах Кембіонської течії, коли за нею наглядають Вом і Фасс. Також можна отримати з обелісків Реквієму та ауроронських скриньок Ентраті в Кембіонській течії.",
+      "name": "Біофільтр",
+      "code": "uk"
+    }
+  ]
+}

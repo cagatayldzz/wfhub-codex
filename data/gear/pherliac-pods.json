@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pherliac-pods-525b03f2e4.png",
+  "name": "Pherliac Pods",
+  "description": "Creates 50x Pherliac Pods that releases powerful pheromones to attract the Infested.",
+  "languages": [
+    {
+      "description": "Baut 50 Pherliac-Kapseln, die starke Pheromone freisetzen, um Befallene anzulocken.",
+      "name": "Pherliac-Kapsel",
+      "code": "de"
+    },
+    {
+      "description": "Crée 50 Cocons Pherliac qui répandent de puissantes phéromones afin d'attirer les Infestés.",
+      "name": "Cocons Pherliac",
+      "code": "fr"
+    },
+    {
+      "description": "Crea 50x Capsule Pherliac che rilasciano potenti feromoni in grado di attrarre gli Infested.",
+      "name": "Capsule Pherliac",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드를 유인하는 강력한 페로몬을 발산하는 펄리악 포드를 50개 제작합니다.",
+      "name": "펄리악 포드",
+      "code": "ko"
+    },
+    {
+      "description": "Crea 50 vainas ferolíacas que lanzan poderosas feromonas para atraer a los infestados.",
+      "name": "Vainas ferolíacas",
+      "code": "es"
+    },
+    {
+      "description": "制造 50个 费洛髂荚囊，能释出强烈的费洛蒙吸引感染者。",
+      "name": "费洛髂荚囊",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт 50 капсул Ферлиака, испускающих мощные феромоны, привлекающие заражённых.",
+      "name": "Капсулы Ферлиака",
+      "code": "ru"
+    },
+    {
+      "description": "感染体を引き付けるフェリアックポッドを50個製作可能な設計図。",
+      "name": "フェリアックポッド",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy 50 Kokonów Ferliatycznych, które uwalniają potężne feromony, zwabiają pobliskich Zainfekowanych.",
+      "name": "Kokony Ferliatyczne",
+      "code": "pl"
+    },
+    {
+      "description": "Cria 50x Casulos de Ferlíaco, que liberam feromônios potentes para atrair Infestados.",
+      "name": "Casulos de Ferlíaco",
+      "code": "pt"
+    },
+    {
+      "description": "製造 50 個費洛髂莢囊，能釋出強烈的費洛蒙吸引 Infested。",
+      "name": "費洛髂莢囊",
+      "code": "tc"
+    },
+    {
+      "description": "สร้างฝักเฟอร์ลิแอก 50 ฝักที่จะปล่อยฟีโรโมนอันทรงพลังเพื่อดึงดูดพวก Infested",
+      "name": "ฝักเฟอร์ลิแอก",
+      "code": "th"
+    },
+    {
+      "description": "Infestedların dikkatini çekecek güçlü feromonlar yayan 50 adet Pherliac Kapsülü yaratır.",
+      "name": "Pherliac Kapsülleri",
+      "code": "tr"
+    },
+    {
+      "description": "Створює 50 ферліачних коконів, які випускають потужний феромон та приваблюють заражених.",
+      "name": "Ферліачні кокони",
+      "code": "uk"
+    }
+  ]
+}

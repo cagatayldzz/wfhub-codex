@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/ClanTech/Bio/BioWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/torid-76f7af07f3.png",
+  "name": "Torid",
+  "description": "Torid lobs a toxic payload.",
+  "languages": [
+    {
+      "description": "Torid verschießt eine giftige Ladung.",
+      "name": "Torid",
+      "code": "de"
+    },
+    {
+      "description": "Le Torid lance une charge toxique.",
+      "name": "Torid",
+      "code": "fr"
+    },
+    {
+      "description": "Il Torid scaglia una carica tossica.",
+      "name": "Torid",
+      "code": "it"
+    },
+    {
+      "description": "토리드는 독성물질을 투사합니다.",
+      "name": "토리드",
+      "code": "ko"
+    },
+    {
+      "description": "Torid lanza una carga tóxica.",
+      "name": "Torid",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TORID）托里德能抛射出剧毒榴弹。",
+      "name": "托里德",
+      "code": "zh"
+    },
+    {
+      "description": "Торид стреляет зарядом токсинов.",
+      "name": "Торид",
+      "code": "ru"
+    },
+    {
+      "description": "高圧縮された毒素を放射する特殊兵器。",
+      "name": "Torid",
+      "code": "ja"
+    },
+    {
+      "description": "Torid wyrzuca toksyczny ładunek.",
+      "name": "Torid",
+      "code": "pl"
+    },
+    {
+      "description": "A Torid dispara uma carga tóxica.",
+      "name": "Torid",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TORID）托里德能拋射出劇毒榴彈。",
+      "name": "托里德",
+      "code": "tc"
+    },
+    {
+      "description": "Torid ยิงระเบิดที่เป็นพิษ",
+      "name": "Torid",
+      "code": "th"
+    },
+    {
+      "description": "Torid toksin yüklü roketler fırlatır.",
+      "name": "Torid",
+      "code": "tr"
+    },
+    {
+      "description": "Гранатомет, що стріляє токсичними зарядами.",
+      "name": "Торид",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUSupplyCartB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/localized-air-purifier-decoration-6b27a59fe4.png",
+  "name": "Localized Air Purifier Decoration",
+  "description": "Off-gassed coolant can be fatal to those with organic respiratory systems. Add this decoration to your lander to evoke the smells of Fortuna.",
+  "languages": [
+    {
+      "description": "Kühlmittel-Abgase können für jene mit biologischen Atemwegen tödlich sein. Platziere diese Dekoration im Schiff, um an den Geruch von Fortuna zu erinnern.",
+      "name": "Dekoration: Lokal begrenzter Luftreiniger",
+      "code": "de"
+    },
+    {
+      "description": "Les émanations toxiques des liquides de refroidissement sont fatales aux systèmes respiratoires organiques. Ajoutez cette décoration dans votre vaisseau pour vous souvenir des bonnes odeurs de Fortuna.",
+      "name": "Décoration Purificateur d'Air Localisé",
+      "code": "fr"
+    },
+    {
+      "description": "L'inalazione del refrigerante può essere fatale per quelli con un sistema respiratorio organico. Aggiungi questa decorazione alla tua navicella per evocare gli odori di Fortuna.",
+      "name": "Decorazione Purificatore d'Aria Localizzato",
+      "code": "it"
+    },
+    {
+      "description": "배출된 냉각제는 유기적 호흡 기관을 가진 자들에게 치명적일 수 있습니다. 이 장식을 추가함으로써 당신의 랜더가 포르투나의 향기를 떠 올리게 해 보세요.",
+      "name": "국지적 공기 정화 장식",
+      "code": "ko"
+    },
+    {
+      "description": "El refrigerante sin gas puede ser fatal para aquellos con sistemas respiratorios orgánicos. Añade esta decoración a tu nave de desembarco para evocar los olores de Fortuna.",
+      "name": "Decoración de purificador de aire localizado",
+      "code": "es"
+    },
+    {
+      "description": "废气中的冷却液对于有机呼吸系统是致命的。把这个放在你的着陆器上可以唤起福尔图娜的气息。",
+      "name": "局部空气净化器装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Отработанный хладагент может быть смертоносен для тех, кто использует штатные дыхательные системы. Добавьте это украшение в свой Корабль, чтобы вызвать запах Фортуны.",
+      "name": "Украшение: Локализованный Очиститель Воздуха",
+      "code": "ru"
+    },
+    {
+      "description": "ガスとして排出される冷却材は有機呼吸系にとって劇物となる。この装飾品を船に置けばフォーチュナーの匂いを喚起させてくれる。",
+      "name": "地域調整済大気浄化機の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Zanieczyszczony płyn chłodzący może być śmiertelny dla osób z organicznymi układami oddechowymi. Dodaj tę dekorację do swojego lądownika, aby wywołać zapachy Fortuny.",
+      "name": "Ozdoba Solaris: Lokalny oczyszczacz powietrza",
+      "code": "pl"
+    },
+    {
+      "description": "Líquido resfriador em forma de gás pode ser fatal para aqueles com um sistema respiratório orgânico. Adicione esta decoração em sua nave para adicionar aquele aroma de Fortuna.",
+      "name": "Purificador de Ar Local",
+      "code": "pt"
+    },
+    {
+      "description": "廢氣中的冷卻劑對於有機呼吸系統是致命的。把這個放在你的登陸載具上可以喚起福爾圖娜的氣息。",
+      "name": "局部空氣淨化器裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "สารหล่อเย็นที่ปล่อยแก๊สออกมาอาจเป็นอันตรายต่อระบบทางเดินหายใจได้ ตกแต่งยานของคุณด้วยของประดับชิ้นนี้เพื่อชวนให้ได้กลิ่นอายของฟอร์ทูนา",
+      "name": "ของตกแต่ง: เครื่องฟอกอากาศเฉพาะที่",
+      "code": "th"
+    },
+    {
+      "description": "Soğutucu gazları organik solunum sistemi olanlar için ölümcül olabilir. Fortuna'nın kokularını anımsatmak için Gemi'ne bu dekorasyonu koy.",
+      "name": "Yerleşik Hava Temizleyici Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Відпрацьований газ може бути смертельним для осіб з органічною дихальною системою. Передайте своєму орбітру запах Фортуни.",
+      "name": "Оздоблення: очищувач повітря",
+      "code": "uk"
+    }
+  ]
+}

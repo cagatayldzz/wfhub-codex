@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/FootstepsEidolon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eidolon-ephemera-ac605aa3f4.png",
+  "name": "Eidolon Ephemera",
+  "description": "Move as the Eidolons and burn the ground coldly with footsteps of shimmering Void energy.",
+  "languages": [
+    {
+      "description": "Bewege dich wie ein Eidolon und hinterlasse mit jedem Schritt schimmernder Void-Energie frostig verbrannte Erde. ",
+      "name": "Ephemera: Eidolon",
+      "code": "de"
+    },
+    {
+      "description": "Déambulez tel un Eidolon et brûlez à froid le sol avec une foulée d'Énergie glaciale du Néant.",
+      "name": "Ephemera Eidolon",
+      "code": "fr"
+    },
+    {
+      "description": "Muoviti come gli Eidolon e brucia il terreno dal freddo con dei passi di luccicante energia Void.",
+      "name": "Ephemera Eidolon",
+      "code": "it"
+    },
+    {
+      "description": "아이돌론과 같이 움직이며 보이드 에너지를 진동시키는 발길로 땅을 차갑게 불태우세요.",
+      "name": "아이돌론 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Muévete como los eidolones y quema el suelo con frialdad con pasos de energía brillante del Vacío.",
+      "name": "Efímero Eidolon",
+      "code": "es"
+    },
+    {
+      "description": "像夜灵般移步，以闪烁的虚空能量，无情地践踏并焚烧地面。",
+      "name": "夜灵幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Шагайте словно Эйдолон, сжигая землю своими следами из холодной энергии Бездны.",
+      "name": "Эфемера: Эйдолонская поступь",
+      "code": "ru"
+    },
+    {
+      "description": "光を放つVoidエネルギーを帯びた足跡で、エイドロンになりきって大地を冷たくやこう。",
+      "name": "エイドロン エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Poruszaj się jak Eidolon i wypalaj zimną ziemię swoimi krokami migoczącej energii Pustki.",
+      "name": "Efemera Eidolona",
+      "code": "pl"
+    },
+    {
+      "description": "Mova-se como os Eidolons, e queime o chão que você pisar com estes passos de energia latente do Void.",
+      "name": "Efêmera: Eidolon",
+      "code": "pt"
+    },
+    {
+      "description": "像夜靈般移步，以閃爍的虛空能量，無情地踐踏並焚燒地面。",
+      "name": "夜靈幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "เคลื่อนไหวเหมือน Eidolon และแผดเผาพื้นดินที่หนาวเหน็บด้วยย่างก้าวที่เต็มไปด้วยพลังงานวอยด์ที่ส่องประกาย",
+      "name": "อิเฟมเมอรา Eidolon",
+      "code": "th"
+    },
+    {
+      "description": "Eidolon gibi hareket et ve parıldayan Void enerjisinin izleri ile soğuk toprağı yakın.",
+      "name": "Eidolon Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Ворфрейм лишає після себе слід, подібний до ейдолонового — випалену мерехтливими згустками енергії Порожнечі землю.",
+      "name": "Ефемера «Ейдолон»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/CloakingBuff",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/refract-stim-bd804e72f2.png",
+  "name": "Refract Stim",
+  "description": "Coats the target in a film that refracts light, allowing undetected movement.",
+  "languages": [
+    {
+      "description": "Bedeckt eine Zielperson mit einem lichtbrechenden Film, der Bewegung im Verborgenen ermöglicht.",
+      "name": "Refrak-Stim",
+      "code": "de"
+    },
+    {
+      "description": "Recouvre la cible d'une pellicule qui réfracte la lumière, permettant le déplacement furtif.",
+      "name": "Stimulant Réfractaire",
+      "code": "fr"
+    },
+    {
+      "description": "Ricopre il bersaglio in una pellicola che rifrange la luce, permettendo il movimento senza venir rilevati.",
+      "name": "Refract Stim",
+      "code": "it"
+    },
+    {
+      "description": "빛을 굴절시키는 필름으로 목표물을 감싸 들키지 않고 움직일 수 있도록 해 줍니다.",
+      "name": "리프랙트 스팀",
+      "code": "ko"
+    },
+    {
+      "description": "Cubre al objetivo con una capa que refleja la luz, permitiendo el movimiento indetectable.",
+      "name": "Estimulante Refractor",
+      "code": "es"
+    },
+    {
+      "description": "将目标包覆在一层折射光线的薄膜中，使移动变得无法被侦测。",
+      "name": "折光刺激剂",
+      "code": "zh"
+    },
+    {
+      "description": "Покрывает носителя пленкой, отражающей свет, позволяя передвигаться скрытно.",
+      "name": "Стимулятор: Рефракц",
+      "code": "ru"
+    },
+    {
+      "description": "対象を光を反射する膜で包み、移動を探知できないようにする。",
+      "name": "Refract スティム",
+      "code": "ja"
+    },
+    {
+      "description": "Powleka cel w cienką powłoką odbijającą świało, pozwalając na niewykrywalne poruszanie się.",
+      "name": "Refrakt Stym",
+      "code": "pl"
+    },
+    {
+      "description": "Reveste o alvo em uma película que refrata a luz, permitindo a movimentação indetectável.",
+      "name": "Estimulante Refrator",
+      "code": "pt"
+    },
+    {
+      "description": "將目標包覆在一層折射光線的薄膜中，使移動變得無法被偵測。",
+      "name": "折光刺激劑",
+      "code": "tc"
+    },
+    {
+      "description": "คลุมเป้าหมายด้วยฟิล์มที่หักเหแสงได้ ทำให้ไม่สามารถตรวจจับการเคลื่อนไหวได้",
+      "name": "Refract Stim",
+      "code": "th"
+    },
+    {
+      "description": "Hedefini ışığı kıran bir film ile kaplar ve fark edilmeden etrafından geçebilmenizi sağlar.",
+      "name": "Refract Stim",
+      "code": "tr"
+    },
+    {
+      "description": "Вкриває ціль оболонкою, що заломлює світло та дозволяє непомітно рухатися.",
+      "name": "Стимулятор «Заломлення»",
+      "code": "uk"
+    }
+  ]
+}

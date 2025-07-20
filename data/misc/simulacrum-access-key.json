@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/DangerRoomKey",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/simulacrum-access-key-17ff1697d7.png",
+  "name": "Simulacrum Access Key",
+  "description": "Grants access to the Simulacrum.\n\nIn the Simulacrum you can face mimeographs of enemies you have fully researched with the Codex.",
+  "languages": [
+    {
+      "description": "Gewährt Zugang zum Simulacrum.\n\nIm Simulacrum kannst du gegen Abbilder von Feinden antreten, die du vollständig in deinem Codex erforscht hast.",
+      "name": "Simulacrum-Schlüssel",
+      "code": "de"
+    },
+    {
+      "description": "Donne accès au Simulacre.\n\nDans le Simulacre, vous pourrez affronter des copies conformes des ennemis parfaitement analysés dans votre Codex.",
+      "name": "Clé d'accès au Simulacre",
+      "code": "fr"
+    },
+    {
+      "description": "Permette l'accesso al Simulacrum.\n\nNel Simulacrum puoi affrontare mimeografie dei nemici che hai ricercato con successo nel Codex.",
+      "name": "Chiave di Accesso Simulacrum",
+      "code": "it"
+    },
+    {
+      "description": "시뮬라크럼에 들어갈 권한을 주는 키입니다.\n\n시뮬라크럼에서는 코덱스 연구가 끝난 적의 복제품을 만나볼 수 있습니다.",
+      "name": "시뮬라크럼 접근 키",
+      "code": "ko"
+    },
+    {
+      "description": "Otorga acceso al Simulacro. \n\nEn el Simulacro puedes encontrarte con mimeografías de enemigos que has investigado completamente con el códice.",
+      "name": "Llave de acceso de Simulacro",
+      "code": "es"
+    },
+    {
+      "description": "授权使用幻影装置\n\n在幻影装置中你可以迎战已经调查完毕并写入数据库的敌方单位复制品。",
+      "name": "幻影装置存取密钥",
+      "code": "zh"
+    },
+    {
+      "description": "Дает доступ к Симулякруму.\n\nВ Симулякруме вы можете сражаться с мимеографами ваших врагов, полностью изученных в Кодексе.",
+      "name": "Ключ Симулякрума",
+      "code": "ru"
+    },
+    {
+      "description": "シミュラクラムへアクセスできます。\n\nシミュラクラムではコーデックススキャンを完了した敵のコピーを呼び出すことが可能です。",
+      "name": "シミュラクラム アクセスキー",
+      "code": "ja"
+    },
+    {
+      "description": "Daje dostęp do Symulakra.\n\nW Symulakrze można zmierzyć się z kopiami wrogów, którzy zostali w pełni zarchiwizowani w Kodeksie.",
+      "name": "Klucz dostępu do Symulakru",
+      "code": "pl"
+    },
+    {
+      "description": "Permite acesso ao Simulacro.\n\nNo Simulacro você pode enfrentar cópias de inimigos que você pesquisou completamente no Codex.",
+      "name": "Chave de Acesso Ao Simulacro",
+      "code": "pt"
+    },
+    {
+      "description": "授權使用幻影裝置\n\n在幻影裝置中你可以迎戰已經調查完畢並寫入資料庫的敵方單位複製品。",
+      "name": "幻影裝置存取金鑰",
+      "code": "tc"
+    },
+    {
+      "description": "ให้สิทธิ์ในการเข้าถึงห้องซิมูลาครัม\n\nคุณสามารถเผชิญหน้ากับภาพจำลองของศัตรูที่คุณได้ทำการค้นคว้าด้วยโคเด็กซ์ได้อย่างเต็มที่ในห้องซิมูลาครัม",
+      "name": "กุญแจเข้าถึงซิมูลาครัม",
+      "code": "th"
+    },
+    {
+      "description": "Simulacrum'a Erişim sağlar.\n\nSimulacrum'da Kodekste taradığınız düşmanların hologramları ile savaşabilirsiniz.",
+      "name": "Simulacrum Erişim Anahtarı",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує доступ до симулякра.\n\nУ ньому ви зустрінете копії своїх ворогів, які були повністю досліджені зчитуванням.",
+      "name": "Ключ від симулякра",
+      "code": "uk"
+    }
+  ]
+}

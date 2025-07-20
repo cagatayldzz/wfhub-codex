@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropNecraMechDrone",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necramite-627282846e.png",
+  "name": "Necramite",
+  "description": "The cooperative nature of this Necramite can be attributed to its omission from security protocols, and to the (almost) total absence of the Indifference from the Orbiter.",
+  "languages": [
+    {
+      "description": "Der kooperative Charakter dieses Necramiten ist darauf zurückzuführen, dass er in den Sicherheitsprotokollen nicht auftaucht und die Gleichgültigkeit im Orbiter (fast) völlig fehlt.",
+      "name": "Necramite",
+      "code": "de"
+    },
+    {
+      "description": "La nature coopérative de cette Necramite peut être attribuée à son omission dans les protocoles de sécurité, et à l'absence (presque) totale de l'Indifférence de l'Orbiteur.",
+      "name": "Necramite",
+      "code": "fr"
+    },
+    {
+      "description": "La natura cooperativa di questo Necramite può essere attribuita alla sua omissione dai protocolli di sicurezza e alla (quasi) totale assenza dell'Indifferenza dall'Orbiter.",
+      "name": "Necramite",
+      "code": "it"
+    },
+    {
+      "description": "이 네크라마이트의 협조적인 습성은 보안 프로토콜의 누락, 그리고 무심의 영향이 사실상 (거의) 없는 오비터 내의 환경 때문일 수도 있습니다.",
+      "name": "네크라마이트",
+      "code": "ko"
+    },
+    {
+      "description": "La naturaleza cooperativa de este necramito se puede atribuir a su omisión de los protocolos de seguridad y a la ausencia (casi) total de Indiferencia del orbitador.",
+      "name": "Necramito",
+      "code": "es"
+    },
+    {
+      "description": "这种殁世微灵的合作性质可以归因于它被排除在安全协议之外，以及轨道飞行器几乎完全没有虚空无情之物的存在。",
+      "name": "殁世微灵",
+      "code": "zh"
+    },
+    {
+      "description": "Кооперативный характер этого некрамита можно объяснить его отсутствием в протоколах безопасности и (почти) полным отсутствием Безразличия со стороны Орбитера.",
+      "name": "Некрамит",
+      "code": "ru"
+    },
+    {
+      "description": "このネクロマイトが協力的な特性は、セキュリティプロトコルから省略されていることと、オービターには無関心が（ほぼ）完全に不在であることに由来すると考えられる。",
+      "name": "ネクロマイト",
+      "code": "ja"
+    },
+    {
+      "description": "Zgodną naturę tego Nekramita można przypisać wykluczeniu go z protokołów bezpieczeństwa lub (niemal) całkowitej nieobecności Obojętności na pokładzie Orbitera.",
+      "name": "Nekramit",
+      "code": "pl"
+    },
+    {
+      "description": "A natureza cooperativa deste Necramita pode ser atribuída à sua omissão dos protocolos de segurança e à (quase) total ausência da Indiferença na Orbital.",
+      "name": "Necramita",
+      "code": "pt"
+    },
+    {
+      "description": "這款亡骸微靈的配合性質可歸因於安全協定中的疏漏，以及軌道飛行器中（幾乎）完全沒有漠然。",
+      "name": "亡骸微靈",
+      "code": "tc"
+    },
+    {
+      "description": "Necramite ที่มีลักษณะการร่วมมือกันแบบนี้อาจเกิดจากการละเลยมาตรการรักษาความปลอดภัย และ (เกือบ) ขาดความไม่สนใจบนยานออร์บิเตอร์",
+      "name": "Necramite",
+      "code": "th"
+    },
+    {
+      "description": "Bu Necramite'ın işbirlikçi doğası, güvenlik protokollerinin ihmal edilmesine ve Orbiter'e karşı (neredeyse) Kayıtsızlığın tamamen yokluğuna bağlanabilir.",
+      "name": "Necramite",
+      "code": "tr"
+    },
+    {
+      "description": "Товариська натура цього некраміта пояснюється його відсутністю в протоколах безпеки, а також повною (майже) відсутністю Байдужості на орбітрі.",
+      "name": "Некраміт",
+      "code": "uk"
+    }
+  ]
+}

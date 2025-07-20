@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Ember/Ember",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-338265ce88.png",
+  "name": "Ember",
+  "description": "Harness the power of fire. Ember’s heat deals high damage. She keeps a cool head when the battle is hot.",
+  "armor": 135,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Nutze die Macht des Feuers. Embers Hitze verursacht hohen Schaden. Sie behält einen kühlen Kopf, wenn die Hitze des Gefechts zunimmt.",
+      "name": "Ember",
+      "code": "de"
+    },
+    {
+      "description": "Exploitez la puissance du feu. La chaleur d'Ember inflige des Dégâts importants. Elle garde la tête froide dans le feu de l'action.",
+      "name": "Ember",
+      "code": "fr"
+    },
+    {
+      "description": "Sfrutta il potere del fuoco. Il calore di Ember infligge danni elevati. Mantiene il sangue freddo nell'ardore della battaglia.",
+      "name": "Ember",
+      "code": "it"
+    },
+    {
+      "description": "불의 힘을 자유자재로 다뤄보세요. 엠버의 화염은 높은 피해를 가하지만, 전투의 열기가 뜨거운 와중에도 그녀의 머리는 차가운 평정을 유지합니다.",
+      "name": "엠버",
+      "code": "ko"
+    },
+    {
+      "description": "Aprovecha el poder del fuego. El calor de Ember inflige gran daño. Mantiene la cabeza fría durante el calor de la batalla.",
+      "name": "Ember",
+      "code": "es"
+    },
+    {
+      "description": "操纵烈焰之力。Ember 的火焰会造成很高的伤害。即使战斗进入白热化时，她仍能保持冷静的头脑。",
+      "name": "Ember",
+      "code": "zh"
+    },
+    {
+      "description": "Обуздайте силу огня. Огонь Эмбер наносит большой урон. Однако даже в горячей битве она сохраняет хладнокровие.",
+      "name": "Эмбер",
+      "code": "ru"
+    },
+    {
+      "description": "炎の力を操ろう。Emberの火炎系アビリティは高いダメージを誇る。",
+      "name": "Ember",
+      "code": "ja"
+    },
+    {
+      "description": "Zawładnij potęgą ognia. Umiejętności Ember zadają wysokie obrażenia, jej żar jest zdolny stopić pociski oraz pancerz wrogów.",
+      "name": "Ember",
+      "code": "pl"
+    },
+    {
+      "description": "Domine o poder do fogo. A Ember usa seu poder Ígneo para causar alto dano. Ela mantém a cabeça fria no calor da batalha.",
+      "name": "Ember",
+      "code": "pt"
+    },
+    {
+      "description": "駕馭火焰的力量。Ember 的烈火造成高傷害。當戰鬥白熱化時，她的頭腦越發冷靜。",
+      "name": "Ember",
+      "code": "tc"
+    },
+    {
+      "description": "Ember สามารถควบคุมพลังเพลิงได้ สร้างความเสียหายจากธาตุไฟได้สูง สงบอารมณ์ให้เย็นลงได้ด้วยการทำให้สงครามร้อนระอุ",
+      "name": "Ember",
+      "code": "th"
+    },
+    {
+      "description": "Ateşin gücünden yararlan. Ember'ın ısısı yüksek hasar verir. Savaş kızıştığında soğukkanlılığını korur.",
+      "name": "Ember",
+      "code": "tr"
+    },
+    {
+      "description": "Сама сила вогню. Жар Ембер завдає великої шкоди, однак вона зберігає холодний спокій у найспекотніших боях.",
+      "name": "Ембер",
+      "code": "uk"
+    }
+  ]
+}

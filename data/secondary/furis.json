@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/furis-5bb7021b86.png",
+  "name": "Furis",
+  "description": "The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.",
+  "languages": [
+    {
+      "description": "Die Furis ist eine vollautomatische Pistole. Sie ist kompakt, bietet aber dennoch eine hohe Feuerrate.",
+      "name": "Furis",
+      "code": "de"
+    },
+    {
+      "description": "Le Furis inflige de gros Dégâts en peu de temps grâce à sa cadence de tir élevée.",
+      "name": "Furis",
+      "code": "fr"
+    },
+    {
+      "description": "La Furis è una pistola automatica che infligge rapidamente danno grazie all'elevata cadenza di tiro.",
+      "name": "Furis",
+      "code": "it"
+    },
+    {
+      "description": "퓨리스는 높은 연사력 덕분에 짧은 시간 내에 높은 피해를 뽑을 수 있는 자동 권총입니다.",
+      "name": "퓨리스",
+      "code": "ko"
+    },
+    {
+      "description": "La Furis otorga un gran daño en poco tiempo gracias a su elevada cadencia de fuego.",
+      "name": "Furis",
+      "code": "es"
+    },
+    {
+      "description": "（英文：FURIS）盗贼是一把自动手枪，这小东西拥有极高的射速。",
+      "name": "盗贼",
+      "code": "zh"
+    },
+    {
+      "description": "Фурис наносит большой урон за короткий промежуток времени благодаря своей высокой скорострельности.",
+      "name": "Фурис",
+      "code": "ru"
+    },
+    {
+      "description": "圧倒的な連射速度で高い瞬間火力を持つオートピストル。",
+      "name": "Furis",
+      "code": "ja"
+    },
+    {
+      "description": "Furis jest automatycznym pistoletem, zapewniającym wysoką szybkostrzelność, co przekłada się na wysokie obrażenia zadane w krótkim czasie.",
+      "name": "Furis",
+      "code": "pl"
+    },
+    {
+      "description": "A Furis inflige dano alto em pouco tempo, graças à sua alta taxa de disparo.",
+      "name": "Furis",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：FURIS）盜賊是一把自動手槍，這小東西擁有極高的射速。",
+      "name": "盜賊",
+      "code": "tc"
+    },
+    {
+      "description": "Furis มีอัตราการยิงสูง ซึ่งจะสร้างความเสียหายได้สูงในระยะเวลาอันสั้น",
+      "name": "Furis",
+      "code": "th"
+    },
+    {
+      "description": "Furis yüksek atış hızı sayesinde kısa bir zaman aralığında büyük hasar verir.",
+      "name": "Furis",
+      "code": "tr"
+    },
+    {
+      "description": "Невеликий пістолет, має високу швидкострільність. За короткий проміжок часу може завдати значної шкоди.",
+      "name": "Фуріс",
+      "code": "uk"
+    }
+  ]
+}

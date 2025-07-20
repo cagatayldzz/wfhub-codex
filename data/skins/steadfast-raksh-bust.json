@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropWolfHeadStatueBDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/steadfast-raksh-bust-450d201756.png",
+  "name": "Steadfast Raksh Bust",
+  "description": "Display this statue in honor of Raksh's ferocity.",
+  "languages": [
+    {
+      "description": "Stelle diese Statue zu Ehren von Rakshs Wachsamkeit zur Schau.",
+      "name": "Büste: Treuer Raksh",
+      "code": "de"
+    },
+    {
+      "description": "Exposez cette statue en l'honneur de la férocité de Raksh.",
+      "name": "Buste Raksh Inébranlable",
+      "code": "fr"
+    },
+    {
+      "description": "Metti in mostra questa statua in onore della ferocia di Raksh.",
+      "name": "Busto - Fedele Raksh",
+      "code": "it"
+    },
+    {
+      "description": "라크쉬의 격렬함을 기리며 이 조각상을 전시해 보세요.",
+      "name": "변함없는 라크쉬 흉상",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra esta estatua en honor a la ferocidad de Raksh.",
+      "name": "Busto de Raksh Inquebrantable",
+      "code": "es"
+    },
+    {
+      "description": "这尊雕像用以纪念亚克什的凶猛。",
+      "name": "坚韧的亚克什半身铜像",
+      "code": "zh"
+    },
+    {
+      "description": "Покажите эту статую в честь свирепости Ракша.",
+      "name": "Бюст: Стойкий Ракш",
+      "code": "ru"
+    },
+    {
+      "description": "Rakshの獰猛さを讃えるべくこの彫像を飾ろう。",
+      "name": "忠誠のRaksh胸像",
+      "code": "ja"
+    },
+    {
+      "description": "Dumnie prezentuj tę statuę na cześć zażartości Raksha.",
+      "name": "Popiersie Niezłomnego Raksha",
+      "code": "pl"
+    },
+    {
+      "description": "Exiba esta estátua em homenagem à ferocidade de Raksh.",
+      "name": "Monumento do Raksh Inabalável",
+      "code": "pt"
+    },
+    {
+      "description": "展示這尊雕像以紀念 Raksh 的勇猛。",
+      "name": "堅毅的 Raksh 胸像",
+      "code": "tc"
+    },
+    {
+      "description": "จัดวางรูปปั้นชิ้นนี้เพื่อเป็นเกียรติให้กับความดุร้ายของ Raksh",
+      "name": "รูปปั้นครึ่งตัว: Raksh ผู้มีใจเด็ดเดี่ยว",
+      "code": "th"
+    },
+    {
+      "description": "Bu heykeli Raksh'ın gaddarlığının onuruna sergile.",
+      "name": "Steadfast Raksh Büstü",
+      "code": "tr"
+    },
+    {
+      "description": "Виставте цю статую, щоби вшанувати лють Ракша.",
+      "name": "Бюст «Непохитний Ракш»",
+      "code": "uk"
+    }
+  ]
+}

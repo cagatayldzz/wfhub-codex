@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Anima/SWInsomniaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-insomnia-helmet-aa1c53ee3b.png",
+  "name": "Equinox Insomnia Helmet",
+  "description": "A helmet for the Equinox Warframe, designed by prosetisen.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Equinox Warframe, entworfen von prosetisen.",
+      "name": "Equinox-Helm: Insomnia",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Equinox, conçu par prosetisen.",
+      "name": "Casque Equinox Insomnia",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Equinox, ideato da prosetisen.",
+      "name": "Elmo Equinox Insomnia",
+      "code": "it"
+    },
+    {
+      "description": "prosetisen에 의해 디자인된 이쿼녹스 워프레임을 위한 헬멧입니다.",
+      "name": "이쿼녹스 인썸니아 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Equinox, diseñado por prosetisen.",
+      "name": "Casco Insomnia de Equinox",
+      "code": "es"
+    },
+    {
+      "description": "Equinox 战甲的头盔，由 prosetisen 设计。",
+      "name": "Equinox 不寐头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Эквинокс, созданный prosetisen.",
+      "name": "Шлем Эквинокс: Инсомния",
+      "code": "ru"
+    },
+    {
+      "description": "Equinox用のヘルメット。製作者： prosetisen。",
+      "name": "Equinox Insomnia ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Equinox, zaprojektowany przez Faven.",
+      "name": "Equinox: Hełm Insomnia",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Equinox, desenvolvido por prosetisen.",
+      "name": "Equinox: Capacete Insomnia",
+      "code": "pt"
+    },
+    {
+      "description": "Equinox Warframe 的頭盔，由 prosetisen 設計。",
+      "name": "Equinox 不寐頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Equinox Warframe ออกแบบโดย prosetisen",
+      "name": "หมวกเหล็ก Equinox Insomnia",
+      "code": "th"
+    },
+    {
+      "description": "Equinox için prosetisen tarafından dizayn edilen bir miğfer.",
+      "name": "Equinox Imsomnia Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Еквінокс, створений prosetisen.",
+      "name": "Шолом «Безсоння» для Еквінокс",
+      "code": "uk"
+    }
+  ]
+}

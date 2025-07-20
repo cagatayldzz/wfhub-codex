@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/AmalgamEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hostile-mergers-emblem-7bec8b0960.png",
+  "name": "Hostile Mergers Emblem",
+  "description": "Tenno bearing this insignia brought the fight to Alad V's monstrous Amalgam Project.",
+  "languages": [
+    {
+      "description": "Tenno, die dieses Abzeichen tragen, haben Alad Vs monströsem Amalgam-Projekt den Kampf angesagt.",
+      "name": "Emblem: Feindliche Verschmelzung",
+      "code": "de"
+    },
+    {
+      "description": "Les Tennos portant cet insigne sont allés combattre le projet Amalgame monstrueux d'Alad V.",
+      "name": "Badge Fusion Hostile",
+      "code": "fr"
+    },
+    {
+      "description": "I Tenno con questo emblema hanno sconfitto il Progetto Amalgam di Alad V.",
+      "name": "Emblema Hostile Mergers",
+      "code": "it"
+    },
+    {
+      "description": "이 휘장을 지닌 텐노는 알라드 V의 기괴한 아말감 프로젝트에 맞서 싸웠습니다.",
+      "name": "호스타일 머저스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Los tenno equipados con esta insignia trajeron la batalla al proyecto monstruosos de Amalgamas de Alad V.",
+      "name": "Emblema Incorporación Hostil",
+      "code": "es"
+    },
+    {
+      "description": "佩戴这款徽章的 Tenno 曾正面对抗过 Alad V 的骇人并合计划。",
+      "name": "恶意合并徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Тэнно, носящие этот знак отличия, дали бой зверскому проекту Амальгам.",
+      "name": "Значок: Враждебное слияние",
+      "code": "ru"
+    },
+    {
+      "description": "このシジルを身に着けたテンノはAlad Vの恐るべき合成体計画に戦いを挑んだ。",
+      "name": "敵対的合併 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Tenno noszący tę insygnię stawili czoła potwornemu Projektowi Amalgam Alada V.",
+      "name": "Emblemat: Wrogie Przejęcie",
+      "code": "pl"
+    },
+    {
+      "description": "Os Tennos que carregam esta insígnia são os que levaram a luta até o monstruoso Projeto Amálgama de Alad V.",
+      "name": "Emblema: Fusões Hostis",
+      "code": "pt"
+    },
+    {
+      "description": "佩戴這款徽章的 Tenno 曾正面對抗過 Alad V 的駭人並合計畫。",
+      "name": "惡意合併徽章",
+      "code": "tc"
+    },
+    {
+      "description": "Tenno ผู้ที่ติดเหรียญตรานี้คือผู้ที่สู้กับโครงการอมัลกัมที่แสนชั่วร้ายของ Alad V",
+      "name": "ตราสัญลักษณ์: Hostile Mergers",
+      "code": "th"
+    },
+    {
+      "description": "Bu amblemi taşıyan Tenno, Alad V'nın korkunç Amalgam Projesine savaşı getirdi.",
+      "name": "Hostile Mergers Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про перемогу тенно над махінаціями Алада В та його проєктом «Амальгама».",
+      "name": "Відзнака «Агресивне поглинення»",
+      "code": "uk"
+    }
+  ]
+}

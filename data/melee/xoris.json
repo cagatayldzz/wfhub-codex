@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xoris-92a3a5c63e.png",
+  "name": "Xoris",
+  "description": "An obscure glaive weapon of Corpus provenance, intrinsically linked to Specter technology. The Xoris strikes rapidly and with great devastation. It is capable of chaining combos infinitely.",
+  "languages": [
+    {
+      "description": "Als eine obskure Glaive-Waffe der Corpus, ist die Xoris grundlegend mit Phantom-Technologie verbunden. Die Xoris schlägt schnell und mit großer Verwüstung zu. Sie ist in der Lage, Kombos unendlich aneinander zu reihen.",
+      "name": "Xoris",
+      "code": "de"
+    },
+    {
+      "description": "Glaive obscur d'origine Corpus, intrinsèquement lié à la technologie des Spectres. Le Xoris frappe rapidement et inflige des dégâts importants. Peut enchaîner les Combos indéfiniment.",
+      "name": "Xoris",
+      "code": "fr"
+    },
+    {
+      "description": "Un'oscura arma glaive di provenienza Corpus, intrinsecamente legata alla tecnologia degli Spettri. La Xoris colpisce rapidamente e con grande devastazione. Può concatenare combo all'infinito.",
+      "name": "Xoris",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스에서 기원한 난해한 구조의 글레이브 무기로, 본질적으로 스펙터 기술에 연결되어 있습니다. 엄청난 파괴력으로 빠르게 공격하며, 무한정 연속기를 연계할 수 있습니다.",
+      "name": "조리스",
+      "code": "ko"
+    },
+    {
+      "description": "Una glaive desconocida de procedencia corpus, intrínsecamente ligada a la tecnología de Espectros. La Xoris ataca rápidamente y con gran devastación. Es capaz de unir combos de manera infinita.",
+      "name": "Xoris",
+      "code": "es"
+    },
+    {
+      "description": "（英文：XORIS）一件来源于 Corpus 且鲜为人知的战刃武器，与魅影技术有内在联系。「驱魔之刃」可以迅速进行打击，并拥有显著的破坏力。此外它可以无限进行连击。",
+      "name": "驱魔之刃",
+      "code": "zh"
+    },
+    {
+      "description": "Простое и эффективное оружие - глефа, созданная корпусом с использованием спектральных технологий. ЗОРИС действует быстро и с ошеломляющим опустошением, а также способен объединять комбо в цепочки бесконечно.",
+      "name": "Зорис",
+      "code": "ru"
+    },
+    {
+      "description": "根本でスペクター技術と繋がっているとされる、コーパス製の起源があいまいなブーメラン。 Xorisは素早く着弾して大きな破壊をもたらす。コンボを無限で連鎖できる。",
+      "name": "Xoris",
+      "code": "ja"
+    },
+    {
+      "description": "Mało znana broń typu glaive o pochodzeniu Corpus, nieodłącznie związana z technologią Widm. Xoris uderza szybko i z ogromną, dewastującą siłą. Jest zdolna do nieustannych kombinacji.",
+      "name": "Xoris",
+      "code": "pl"
+    },
+    {
+      "description": "Uma glaive obscura, de proveniência Corpus, intrinsecamente vinculada à tecnologia Espectral. A Xoris é um equipamento de ataques rápidos que resultam em devastações descomunais. É capaz de encadear combos infinitamente.",
+      "name": "Xoris",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：XORIS）這把難以莫測的戰刃武器源自 Corpus 的技術，本質上與魅影科技相連結。「索瑞絲」能予以迅速打擊並造成毀滅般的破壞。另外它還可以無限地連接連擊。",
+      "name": "索瑞絲",
+      "code": "tc"
+    },
+    {
+      "description": "Xoris เป็นอาวุธเกลฟที่มาจาก Corpus ซึ่งเชื่อมโยงกับเทคโนโลยีสเปกเตอร์ ซึ่งโจมตีได้รวดเร็วและทำลายล้างได้รุนแรง สามารถโจมตีคอมโบได้เรื่อย ๆ อย่างไม่จำกัด",
+      "name": "Xoris",
+      "code": "th"
+    },
+    {
+      "description": "Spectre teknolojisi baz alınarak üretilmiş gizli bir Corpus kökenli silah. Xoris hızlı ve büyük yıkım yaratan ataklarla vurur. Bu silah, sınırsız kombo zincirlemesi gerçekleştirebilir.",
+      "name": "Xoris",
+      "code": "tr"
+    },
+    {
+      "description": "Оповита таємницею метальна зброя Корпусу тісно повʼязана з технологією творення тіней. Зоріс бʼє швидко і на смерть, а ще ним можна робити нескінченні серії ударів.",
+      "name": "Зоріс",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/epsilon-instruments-9f0fd3bffa.png",
+  "name": "Epsilon Instruments",
+  "description": "A themed instrument pack for Octavia's Mandachord.",
+  "languages": [
+    {
+      "description": "Ein thematisches Instrumentenpaket für Octavias Mandachord.",
+      "name": "Epsilon-Instrumente",
+      "code": "de"
+    },
+    {
+      "description": "Un Pack d'instruments thématique pour le Mandaccord d'Octavia.",
+      "name": "Instruments Epsilon",
+      "code": "fr"
+    },
+    {
+      "description": "Un pacchetto strumenti a tema con il Mandachord di Octavia.",
+      "name": "Strumenti Epsilon",
+      "code": "it"
+    },
+    {
+      "description": "옥타비아의 만다코드를 위한 테마별 악기 팩입니다.",
+      "name": "엡실론 악기",
+      "code": "ko"
+    },
+    {
+      "description": "Un paquete instrumental temático para el mandacordio de Octavia.",
+      "name": "Instrumentos Epsilon",
+      "code": "es"
+    },
+    {
+      "description": "一个为 Octavia 的曼达和弦琴准备的主题乐器包。",
+      "name": "Epsilon 乐器",
+      "code": "zh"
+    },
+    {
+      "description": "Набор тематический инструментов для мендаккорда Октавии.",
+      "name": "Инструменты: Эпсилон",
+      "code": "ru"
+    },
+    {
+      "description": "OctaviaのMandachordのテーマ楽器パック。",
+      "name": "E 楽器",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw tematycznych instrumentów dla Mandakordium Octavii.",
+      "name": "Instrumenty Epsilon",
+      "code": "pl"
+    },
+    {
+      "description": "Um pacote de instrumentos temáticos para o Mandacorde da Octavia.",
+      "name": "Instrumentos Épsilon",
+      "code": "pt"
+    },
+    {
+      "description": "一個為 Octavia 的曼達和弦琴準備的主題樂器包。",
+      "name": "Epsilon 樂器包",
+      "code": "tc"
+    },
+    {
+      "description": "แพ็กเครื่องดนตรีตามธีมสำหรับ Mandachord ของ Octavia",
+      "name": "เครื่องดนตรี Epsilon",
+      "code": "th"
+    },
+    {
+      "description": "Octavia'nın Mandachord'u için temalı enstrüman paketi",
+      "name": "Epsilon Enstrümanları",
+      "code": "tr"
+    },
+    {
+      "description": "Тематичний набір інструментів для мандакорда Октавії.",
+      "name": "Інструменти «Епсілон»",
+      "code": "uk"
+    }
+  ]
+}

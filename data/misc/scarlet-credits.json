@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Events/OperationsCredits",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarlet-credits-8d3a343a0b.png",
+  "name": "Scarlet Credits",
+  "description": "Battle pay for Tenno fighting in Operation Scarlet Spear.",
+  "languages": [
+    {
+      "description": "Kampfsold für die Tenno, die in der Operation: Scharlachroter Speer kämpfen.",
+      "name": "Scharlachrote Credits",
+      "code": "de"
+    },
+    {
+      "description": "Prise de guerre pour les Tennos qui participent à l'Opération: Incursion Écarlate.",
+      "name": "Crédits Écarlates",
+      "code": "fr"
+    },
+    {
+      "description": "Compenso di battaglia per i Tenno che hanno combattuto nell'Operazione Scarlet Spear.",
+      "name": "Crediti Scarlet",
+      "code": "it"
+    },
+    {
+      "description": "스칼렛 스피어 작전 전투에 참여한 텐노에게 주어지는 전투 보상입니다.",
+      "name": "스칼렛 크레딧",
+      "code": "ko"
+    },
+    {
+      "description": "Pago de batalla para los tenno que lucharon en la Operación Lanza Escarlata.",
+      "name": "Créditos Escarlata",
+      "code": "es"
+    },
+    {
+      "description": "为在《行动代号：猩红之矛》中作战的 Tenno 准备的报酬。",
+      "name": "猩红代币",
+      "code": "zh"
+    },
+    {
+      "description": "Вознаграждение для Тэнно, сражающихся в Операции: Алое Копье.",
+      "name": "Алые Кредиты",
+      "code": "ru"
+    },
+    {
+      "description": "「深紅の槍」作戦任務に参加したテンノへ送られる戦果。",
+      "name": "深紅のクレジット",
+      "code": "ja"
+    },
+    {
+      "description": "Żołd dla Tenno za walkę na Operacji: Szkarłatna Włócznia.",
+      "name": "Szkarłatne Kredyty",
+      "code": "pl"
+    },
+    {
+      "description": "Remuneração de batalha para os Tennos que batalharam na Operação Lança Escarlate.",
+      "name": "Créditos Escarlate",
+      "code": "pt"
+    },
+    {
+      "description": "Tenno 在行動代號：猩紅標槍中戰鬥的戰役報酬。",
+      "name": "猩紅積分",
+      "code": "tc"
+    },
+    {
+      "description": "ค่าตอบแทนสำหรับการต่อสู้ของ Tenno ในปฏิบัติการ Scarlet Spear",
+      "name": "เครดิตสการ์เล็ต",
+      "code": "th"
+    },
+    {
+      "description": "Scarlet Spear Operasyonunda savaşan Tenno'lar için savaş ödemesi.",
+      "name": "Scarlet Kredileri",
+      "code": "tr"
+    },
+    {
+      "description": "Плата, яку отримують тенно за участь під час операції «Багряний спис».",
+      "name": "Багряні кредити",
+      "code": "uk"
+    }
+  ]
+}

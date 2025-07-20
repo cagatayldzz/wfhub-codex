@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DeepBowEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deep-bow-06718cfaf7.png",
+  "name": "Deep Bow",
+  "description": "A deep bow.",
+  "languages": [
+    {
+      "description": "Eine tiefe Verbeugung.",
+      "name": "Tiefe Verbeugung",
+      "code": "de"
+    },
+    {
+      "description": "Une profonde révérence.",
+      "name": "S'incliner bas",
+      "code": "fr"
+    },
+    {
+      "description": "Un'inchino lungo.",
+      "name": "Inchino Lungo",
+      "code": "it"
+    },
+    {
+      "description": "격식있는 인사를 합니다.",
+      "name": "격식 인사",
+      "code": "ko"
+    },
+    {
+      "description": "Una reverencia completa.",
+      "name": "Reverencia completa",
+      "code": "es"
+    },
+    {
+      "description": "深深地鞠躬。",
+      "name": "深鞠躬",
+      "code": "zh"
+    },
+    {
+      "description": "Низкий поклон.",
+      "name": "Низкий поклон",
+      "code": "ru"
+    },
+    {
+      "description": "お辞儀する。",
+      "name": "お辞儀",
+      "code": "ja"
+    },
+    {
+      "description": "Głęboki ukłon.",
+      "name": "Głęboki Ukłon",
+      "code": "pl"
+    },
+    {
+      "description": "Uma saudação profunda.",
+      "name": "Reverenciar",
+      "code": "pt"
+    },
+    {
+      "description": "深深地鞠躬。",
+      "name": "深鞠躬",
+      "code": "tc"
+    },
+    {
+      "description": "การโค้งคำนับแบบก้มไปถึงเอว",
+      "name": "โค้งคำนับแบบนอบน้อม",
+      "code": "th"
+    },
+    {
+      "description": "Derin bir baş selamı.",
+      "name": "Tam Eğilme",
+      "code": "tr"
+    },
+    {
+      "description": "Низький уклін.",
+      "name": "Низький уклін",
+      "code": "uk"
+    }
+  ]
+}

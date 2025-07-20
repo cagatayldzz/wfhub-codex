@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/InfNightWaveTail",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chitoid-sentinel-tail-8ecdf07a32.png",
+  "name": "Chitoid Sentinel Tail",
+  "description": "A stylish tail attachment for your sentinel pet.",
+  "languages": [
+    {
+      "description": "Ein schicker Schweif für deinen Wächter.",
+      "name": "Wächterschweif: Chitoid",
+      "code": "de"
+    },
+    {
+      "description": "Une Queue stylée pour votre Sentinelle.",
+      "name": "Queue de Sentinelle Chitoïde",
+      "code": "fr"
+    },
+    {
+      "description": "Una coda elegante per la tua sentinella.",
+      "name": "Coda Sentinella Chitoid",
+      "code": "it"
+    },
+    {
+      "description": "센티넬 펫에 장착시킬 수 있는 스타일리쉬한 꼬리입니다.",
+      "name": "키토이드 센티넬 테일",
+      "code": "ko"
+    },
+    {
+      "description": "Una cola elegante para tu mascota centinela.",
+      "name": "Cola Quitoide de centinela",
+      "code": "es"
+    },
+    {
+      "description": "守护宠物的时髦尾部配件。",
+      "name": "几丁质守护尾部",
+      "code": "zh"
+    },
+    {
+      "description": "Стильный хвост для вашего стража.",
+      "name": "Хвост Стража: Читоид",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル用の尻尾。",
+      "name": "Chitoid センチネルテール",
+      "code": "ja"
+    },
+    {
+      "description": "Stylowy dodatek do ogona dla Twojego Strażnika",
+      "name": "Ogon Strażnika: Chitoid",
+      "code": "pl"
+    },
+    {
+      "description": "Uma cauda estilosa como acessório para seu sentinela.",
+      "name": "Cauda de Sentinela: Chitoid",
+      "code": "pt"
+    },
+    {
+      "description": "守護寵物的時髦尾部組件。",
+      "name": "幾丁質守護尾部",
+      "code": "tc"
+    },
+    {
+      "description": "หางที่มีสไตล์เอาไว้ยึดติดกับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "หางเซนติเนล Chitoid",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için şık bir kuyruk.",
+      "name": "Chitoid Sentinel Kuyruğu",
+      "code": "tr"
+    },
+    {
+      "description": "Стильний хвіст для вашого вартового улюбленця.",
+      "name": "Хвіст «Хітоїд» для вартового",
+      "code": "uk"
+    }
+  ]
+}

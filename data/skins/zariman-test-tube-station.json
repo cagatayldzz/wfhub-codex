@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpLabSetA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-test-tube-station-688f69c65b.png",
+  "name": "Zariman Test Tube Station",
+  "description": "A set of test tubes.",
+  "languages": [
+    {
+      "description": "Eine Reihe von Reagenzgläsern.",
+      "name": "Zariman Reagenzglashalter",
+      "code": "de"
+    },
+    {
+      "description": "Un ensemble de tubes à essai.",
+      "name": "Zariman: Station de tubes à essai",
+      "code": "fr"
+    },
+    {
+      "description": "Un set di provette.",
+      "name": "Stazione Provette Zariman",
+      "code": "it"
+    },
+    {
+      "description": "시험관 세트입니다.",
+      "name": "자리만 시험관 거치대",
+      "code": "ko"
+    },
+    {
+      "description": "Un set de tubos de ensayo.",
+      "name": "Estación de tubos de ensayo Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一组试管。",
+      "name": "扎里曼试管架",
+      "code": "zh"
+    },
+    {
+      "description": "Набор пробирок.",
+      "name": "Зариман: стойка для пробирок",
+      "code": "ru"
+    },
+    {
+      "description": "試験管のセット。",
+      "name": "Zariman 試験管ステーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw probówek do testów.",
+      "name": "Zariman: Stanowisko probówek",
+      "code": "pl"
+    },
+    {
+      "description": "Um conjunto de tubos de ensaio.",
+      "name": "Estação de Tubos de Ensaio da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "一組試管。",
+      "name": "扎日曼試管架",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดหลอดทดลอง",
+      "name": "Zariman: ที่วางหลอดทดลอง",
+      "code": "th"
+    },
+    {
+      "description": "Bir dizi test tüpü.",
+      "name": "Zariman Test Tüpü İstasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Набір пробірок.",
+      "name": "Випробувальний набір із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

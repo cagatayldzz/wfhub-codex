@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rebellion-sigil-fcca64f283.png",
+  "name": "Rebellion Sigil",
+  "description": "A sigil representing prestige gained with the Steel Meridian.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei Steel Meridian repräsentiert.",
+      "name": "Siegel: Rebellion",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Méridien d'Acier.",
+      "name": "Sceau de Rébellion",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Steel Meridian.",
+      "name": "Sigillo Rebellion",
+      "code": "it"
+    },
+    {
+      "description": "스틸 메리디안으로부터 받는 존중을 대변하는 시질입니다.",
+      "name": "리벨리온 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Meridiano de Acero.",
+      "name": "Sello de la Rebelión",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了钢铁防线的威望。",
+      "name": "反叛纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Стального Меридиана.",
+      "name": "Сигил: Восстание",
+      "code": "ru"
+    },
+    {
+      "description": "スティール・メリディアンから得た声望を表すシジル。",
+      "name": "Rebellion シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Stalowego Meridianu.",
+      "name": "Znak Rebelii",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com o Meridiano de Aço.",
+      "name": "Brasão: Rebelião",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了鋼鐵防線的威望。",
+      "name": "反叛紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Steel Meridian",
+      "name": "เครื่องหมาย: Rebellion",
+      "code": "th"
+    },
+    {
+      "description": "Steel Meridian prestijini sembolize eden bir mühür",
+      "name": "Rebellion Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Сталевий Меридіан».",
+      "name": "Сиґіл «Повстання»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/BoltoRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/boltor-4e53e6186d.png",
+  "name": "Boltor",
+  "description": "The Boltor fires slow, heavy bolts that are capable of impaling enemies to walls.",
+  "languages": [
+    {
+      "description": "Das Boltor feuert langsame, schwere Bolzen ab, die Gegner an Wände nageln können.",
+      "name": "Boltor",
+      "code": "de"
+    },
+    {
+      "description": "Le Boltor tire des carreaux lents et lourds capables de clouer les ennemis sur les murs.",
+      "name": "Boltor",
+      "code": "fr"
+    },
+    {
+      "description": "Il Boltor spara dei dardi lenti e pesanti in grado di impalare i nemici alle pareti.",
+      "name": "Boltor",
+      "code": "it"
+    },
+    {
+      "description": "볼터는 낮은 연사력을 지닌 대신 적들을 벽에 박아버릴 수 있는 중형 볼트를 발사하는 자동 소총입니다.",
+      "name": "볼터",
+      "code": "ko"
+    },
+    {
+      "description": "El Boltor dispara lentos clavos pesados que pueden empalar a los enemigos en las paredes.",
+      "name": "Boltor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BOLTOR）螺钉步枪所发射出的的慢速重型螺钉足以将敌人钉在墙上。",
+      "name": "螺钉步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Болтор выпускает медленные, тяжелые болты, способные прибивать противников к стенам.",
+      "name": "Болтор",
+      "code": "ru"
+    },
+    {
+      "description": "大型のボルトを連射し、敵を串刺しにできる兵器。",
+      "name": "Boltor",
+      "code": "ja"
+    },
+    {
+      "description": "Boltor używa jako amunicji bełtów o dużej masie i małej prędkości, które pozwalają na przybijanie wrogów do ścian.",
+      "name": "Boltor",
+      "code": "pl"
+    },
+    {
+      "description": "A Boltor dispara dardos pesados e lentos, capazes de empalar os seus inimigos na parede.",
+      "name": "Boltor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BOLTOR）螺釘步槍所發射出的慢速重型螺釘足以將敵人釘在牆上。",
+      "name": "螺釘步槍",
+      "code": "tc"
+    },
+    {
+      "description": "Boltor จะยิงสลักปืนที่หนักหน่วงรุนแรง อย่างช้า ๆ ออกไป สามารถเสียบศัตรูทะลุไปติดกำแพงได้",
+      "name": "Boltor",
+      "code": "th"
+    },
+    {
+      "description": "Boltor düşmanları duvara yapıştırabilen yavaş ağır tüfek mermiler ateşler.",
+      "name": "Boltor",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматична гвинтівка. Стріляє повільними й громіздкими болтами, здатними прибити ворогів до стін.",
+      "name": "Болтор",
+      "code": "uk"
+    }
+  ]
+}

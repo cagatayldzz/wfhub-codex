@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpHallwayCenterDivideAPannelA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-wall-panel-759c377160.png",
+  "name": "Zariman Wall Panel",
+  "description": "A wall panel.",
+  "languages": [
+    {
+      "description": "Ein Wandpaneel.",
+      "name": "Zariman Wandpaneel",
+      "code": "de"
+    },
+    {
+      "description": "Un panneau mural.",
+      "name": "Zariman: Panneau mural",
+      "code": "fr"
+    },
+    {
+      "description": "Un pannello.",
+      "name": "Pannello Zariman",
+      "code": "it"
+    },
+    {
+      "description": "벽 패널입니다.",
+      "name": "자리만 벽 패널",
+      "code": "ko"
+    },
+    {
+      "description": "Un panel de pared.",
+      "name": "Panel de pared Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一块墙板。",
+      "name": "扎里曼墙板",
+      "code": "zh"
+    },
+    {
+      "description": "Стеновая панель.",
+      "name": "Зариман: Стеновая панель",
+      "code": "ru"
+    },
+    {
+      "description": "壁のパネル。",
+      "name": "Zariman 壁パネル",
+      "code": "ja"
+    },
+    {
+      "description": "Panel ścienny.",
+      "name": "Zariman: Panel ścienny",
+      "code": "pl"
+    },
+    {
+      "description": "Um painel de parede.",
+      "name": "Painel de Parede da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "牆板。",
+      "name": "扎日曼牆板",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นผนัง",
+      "name": "Zariman: แผ่นผนัง",
+      "code": "th"
+    },
+    {
+      "description": "Bir duvar paneli.",
+      "name": "Zariman Duvar Paneli",
+      "code": "tr"
+    },
+    {
+      "description": "Настінна панель.",
+      "name": "Настінна панель із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stela-a91c69c312.png",
+  "name": "Stela",
+  "description": "This Void-touched stone contains an ominous essence.\n\nLocation: Albrecht's Laboratories (Deimos)",
+  "languages": [
+    {
+      "description": "Dieser vom Void berührte Stein enthält eine unheilvolle Essenz.\n\nQuelle: Albrechts Labore (Deimos)",
+      "name": "Stela",
+      "code": "de"
+    },
+    {
+      "description": "Cette pierre imprégnée du Néant contient une essence inquiétante.\n\nLieu: Laboratoires d'Albrecht (Deimos)",
+      "name": "Stèle",
+      "code": "fr"
+    },
+    {
+      "description": "Questa pietra toccata dal Void contiene un'essenza minacciosa.\n\nPosizione: Laboratori di Albrecht (Deimos)",
+      "name": "Stele",
+      "code": "it"
+    },
+    {
+      "description": "이 보이드 깃든 돌에는 불길한 정수가 내포되어 있습니다.\n\n획득 가능 장소: 알브레히트의 연구실 (데이모스)",
+      "name": "석비",
+      "code": "ko"
+    },
+    {
+      "description": "Esta piedra tocada por el Vacío contiene una esencia siniestra.\n\nUbicación: Laboratorios de Albrecht (Deimos)",
+      "name": "Estela",
+      "code": "es"
+    },
+    {
+      "description": "这块虚空之石蕴含着不祥的本质。\n\n获取地点：阿尔布雷希特的实验室（火卫二）",
+      "name": "虚空石块",
+      "code": "zh"
+    },
+    {
+      "description": "Этот камень, затронутый влиянием Бездны содержит зловещую сущность.\n\nМестонахождение: Лаборатории Альбрехта (Деймос).",
+      "name": "Стела",
+      "code": "ru"
+    },
+    {
+      "description": "このVoidに触れた石は不気味なエッセンスを含む。\n\n場所：Albrechtの研究所（ダイモス）",
+      "name": "ステラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ten dotknięty Pustką kamień zawiera niepokojącą esencję.\n\nPołożenie: Laboratorium Albrechta (Deimos)",
+      "name": "Stela",
+      "code": "pl"
+    },
+    {
+      "description": "Esta pedra tocada pelo Void contém uma essência sinistra.\n\nLocalização: Laboratórios do Albrecht (Deimos)",
+      "name": "Estela",
+      "code": "pt"
+    },
+    {
+      "description": "這塊虛空觸及過的石頭蘊含著邪惡的本質。\n\n地點：阿爾布雷希特的實驗室（火衛二）",
+      "name": "石碑",
+      "code": "tc"
+    },
+    {
+      "description": "ข้างในหินที่เคยสัมผัสพลังวอยด์ก้อนนี้มีแก่นที่บรรจุสิ่งชั่วร้ายอยู่\n\nแหล่งที่พบ: ห้องทดลองของ Albrecht (เดมอส)",
+      "name": "สเตล่า",
+      "code": "th"
+    },
+    {
+      "description": "Void'in dokunduğu bu taş, kaygı verici bir öz içeriyor.\n\nKonum: Albrecht'in Laboratuvarı (Deimos)",
+      "name": "Stela",
+      "code": "tr"
+    },
+    {
+      "description": "Оповитий Порожнечею камінь містить зловісну сутність.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
+      "name": "Стела",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Harlequin/Harlequin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-83f6195ffb.png",
+  "name": "Mirage",
+  "description": "Mirage’s sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.",
+  "armor": 105,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Mirages Fingerfertigkeit komplementiert ihre Macht. Ihre geblendeten Feinde nehmen hohen Schaden. Doppelgänger, Laser und Fallen sind alle Teil ihrer Bühnenkunst.",
+      "name": "Mirage",
+      "code": "de"
+    },
+    {
+      "description": "Le Tour de Passe-Passe de Mirage complète sa puissance. Ses ennemis éblouis subissent de lourds Dégâts. Doubles, lasers et pièges font partie de la mise en scène.",
+      "name": "Mirage",
+      "code": "fr"
+    },
+    {
+      "description": "Il gioco di prestigio di Mirage completa la sua forza. I nemici abbagliati da lei subiscono gravi danni. Sosia, laser e trappole sono elementi della sua scenografia.",
+      "name": "Mirage",
+      "code": "it"
+    },
+    {
+      "description": "미라지의 교묘한 손재주는 그녀의 힘에 금상첨화로 빛나는 존재로, 그녀의 눈부신 빛에 눈이 먼 적들은 강력한 피해를 입게 됩니다. 꼭 닮은 거울상의 복제, 레이저, 그리고 함정이야말로 무대 위에서 그녀가 애용하는 기법 요소입니다.",
+      "name": "미라지",
+      "code": "ko"
+    },
+    {
+      "description": "El juego de manos de Mirage complementa su poder. Sus enemigos deslumbrados reciben grandes daños. Dobles, láseres y trampas son elementos de su arte escénico.",
+      "name": "Mirage",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 的戏法与她的实力相得益彰。被她搞得晕头转向的敌人会受到严重伤害。分身、激光和陷阱是她舞台艺术的要素。",
+      "name": "Mirage",
+      "code": "zh"
+    },
+    {
+      "description": "Ловкость рук Мираж дополняет её мощь. Её ослеплённые противники получают тяжёлый урон. Двойники, лазеры и ловушки — элементы её сценического мастерства.",
+      "name": "Мираж",
+      "code": "ru"
+    },
+    {
+      "description": "Mirageの手先の器用さは彼女の力を反映する。コピーやレーザー、トラップなどで劇場を仕込み敵を翻弄する。",
+      "name": "Mirage",
+      "code": "ja"
+    },
+    {
+      "description": "Kuglarstwo Mirage uzupełnia jej potęgę. Jej oszołomieni wrogowie otrzymują ciężkie obrażenia. Sobowtóry, lasery i pułapki to elementy jej sztuki scenicznej.",
+      "name": "Mirage",
+      "code": "pl"
+    },
+    {
+      "description": "O ilusionismo da Mirage complementa sua força. Seus inimigos ofuscados recebem alto dano. Cópias, lasers e armadilhas são elementos de sua encenação.",
+      "name": "Mirage",
+      "code": "pt"
+    },
+    {
+      "description": "Mirage 的手法與她的威力相輔相成。她的頭暈目眩的敵人會受到重大傷害。分身、雷射，及陷阱是她的拿手絕活的主要部分。",
+      "name": "Mirage",
+      "code": "tc"
+    },
+    {
+      "description": "พลัง Sleight of Hand ช่วยเสริมฤทธิ์เดชให้กับ Mirage ทำให้ศัตรูตาที่ตาพร่ามัวได้รับความเสียหายอย่างหนัก เมื่อรวมพลังการสร้างร่างแฝดที่เป็นตัวตายตัวแทน การใช้เลเซอร์ และการใช้กับดักเข้าไปด้วยก็จะกลายเป็นส่วนหนึ่งในการแสดงผลงานการเล่นกลที่ทรงพลัง",
+      "name": "Mirage",
+      "code": "th"
+    },
+    {
+      "description": "Mirage'ın el çabukluğu onun gücünü tamamlar. Gözü kamaşan düşmanlar ağır hasar alır. Klonlar, lazerler ve tuzaklar, onun sanatının unsurlarıdır.",
+      "name": "Mirage",
+      "code": "tr"
+    },
+    {
+      "description": "Спритниця, дурисвітка, майстриня ілюзій. Спритність рук Міраж доповнює її могутність. Приголомшені вороги зазнають великої шкоди. Майстерність її проявляється у двійниках, лазерах та пастках.",
+      "name": "Міраж",
+      "code": "uk"
+    }
+  ]
+}

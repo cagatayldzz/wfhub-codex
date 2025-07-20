@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardOraxia",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-prex-9da496cacc.png",
+  "name": "Oraxia Prex",
+  "description": "The Mistress of Fear",
+  "languages": [
+    {
+      "description": "Die Herrin der Angst",
+      "name": "Oraxia Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Maîtresse de la Peur",
+      "name": "Prex Oraxia",
+      "code": "fr"
+    },
+    {
+      "description": "La Dama della Paura",
+      "name": "Prex: Oraxia",
+      "code": "it"
+    },
+    {
+      "description": "공포의 여왕",
+      "name": "오락시아 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La Dama del Terror",
+      "name": "Prex de Oraxia",
+      "code": "es"
+    },
+    {
+      "description": "恐惧女王",
+      "name": "Oraxia Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Владычица страха",
+      "name": "Прекс: Ораксия",
+      "code": "ru"
+    },
+    {
+      "description": "恐怖の女王",
+      "name": "Oraxia プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Mistrzyni Strachu",
+      "name": "Prex: Oraxia",
+      "code": "pl"
+    },
+    {
+      "description": "A Mestra do Medo",
+      "name": "Prex: Oraxia",
+      "code": "pt"
+    },
+    {
+      "description": "恐懼女王",
+      "name": "卡牌 — Oraxia",
+      "code": "tc"
+    },
+    {
+      "description": "หญิงสาวแห่งความหวาดกลัว",
+      "name": "ไพ่เพร็กซ์ Oraxia",
+      "code": "th"
+    },
+    {
+      "description": "Korkunun Efendisi",
+      "name": "Oraxia Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Володарка Страху",
+      "name": "Прекс Ораксії",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfestationEventEmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/emblem-of-the-hunt-233bbea20c.png",
+  "name": "Emblem Of The Hunt",
+  "description": "An emblem awarded to the Tenno who hunted down Alad V.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, verliehen an jene Tenno, die Alad V zur Strecke gebracht haben.",
+      "name": "Emblem der Jagd",
+      "code": "de"
+    },
+    {
+      "description": "Un badge honorifique décerné aux Tennos qui ont pourchassé Alad V.",
+      "name": "Badge de Chasse",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema per i Tenno che hanno dato la caccia ad Alad V.",
+      "name": "Emblema Caccia Grossa",
+      "code": "it"
+    },
+    {
+      "description": "알라드 V를 사냥한 텐노를 위한 엠블럼입니다.",
+      "name": "사냥의 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema otorgado a los tenno que dieron caza a Alad V.",
+      "name": "Emblema de Caza",
+      "code": "es"
+    },
+    {
+      "description": "徽章颁发给追捕 Alad V 的 Tenno。",
+      "name": "狩猎徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, дарованный тем Тэнно, чья охота на Алада V увенчалась успехом.",
+      "name": "Значок: Охота",
+      "code": "ru"
+    },
+    {
+      "description": "Alad Vを狩り立てたテンノに贈られる勲章。",
+      "name": "狩人のエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznawany Tenno, którzy wzięli udział w łowach na Alada V.",
+      "name": "Emblemat Łowów",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema presenteado para os Tenno que caçaram Alad V.",
+      "name": "Emblema: Caçada",
+      "code": "pt"
+    },
+    {
+      "description": "徽章頒發給追捕 Alad V 的 Tenno。",
+      "name": "狩獵徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่มอบให้กับ Tenno ผู้ที่ตามล่า Alad V",
+      "name": "ตราสัญลักษณ์แห่งการล่า",
+      "code": "th"
+    },
+    {
+      "description": "Alad V'yi avlayıp yokeden Tennolar için bir gururla taşıyacakları bir rozet.",
+      "name": "Av Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Цією відзнакою нагороджені тенно, що успішно вполювали Алада В.",
+      "name": "Відзнака «Полювання»",
+      "code": "uk"
+    }
+  ]
+}

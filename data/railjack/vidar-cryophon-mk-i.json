@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/Laser/Blaster/VidarBlasterShotgunTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cryophon.png",
+  "name": "Vidar Cryophon Mk I",
+  "description": "Ice wave generator: slams enemy ships with waves of frozen particulate freezing enemy propulsion systems and slowing them to a standstill.",
+  "languages": [
+    {
+      "description": "Eiswellengenerator: Wellen aus Eispartikeln schmettern gegen die Schiffe der Gegner, frieren deren Antriebssysteme ein und bringen sie dadurch langsam zum Stillstand.",
+      "name": "Vidar Kryophon MK I",
+      "code": "de"
+    },
+    {
+      "description": "Générateur de Vagues de Glace: cingle les vaisseaux ennemis avec des vagues de particules gelées, incapacitant leurs systèmes de propulsion et les ralentissant avant de les arrêter complètement.",
+      "name": "Cryophon Vidar MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Generatore di onde di ghiaccio: colpisce le navi nemiche con ondate di particolato ghiacciato che congela i sistemi di propulsione nemica e li rallenta a un punto di stasi.",
+      "name": "Cryophon Vidar MK I",
+      "code": "it"
+    },
+    {
+      "description": "냉기 파동 생성기: 얼어붙은 입자의 파동으로 적선을 강타하여 적의 추진 시스템을 얼리고 적의 움직임을 둔화 및 정지시킵니다.",
+      "name": "비다르 크라이오폰 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Generador de ondas de hielo: golpea las naves enemigas con olas de partículas congeladas que congelan los sistemas de propulsión del enemigo y los ralentizan.",
+      "name": "Cryophon Vidar MK I",
+      "code": "es"
+    },
+    {
+      "description": "冰浪发生器：通过发射冰冷微粒所形成的波浪来打击敌舰，这种攻击能冻结敌舰的推进系统，使其动弹不得。",
+      "name": "Vidar 急冻粒子炮 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Генератор ледяных волн: ударяет противника волнами замороженных частиц, что приводит к замедлению двигательных установок вплоть до полной остановки.",
+      "name": "Криофон: Вайдер MK I",
+      "code": "ru"
+    },
+    {
+      "description": "冷却波動砲：　凍てつく波動で攻撃し、敵船の推進システムを凍らせる事で動きを遅くする。",
+      "name": "ビダール・クライオフォン MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Generator Lodowej Fali: uderza wrogi statek falą cząsteczek zamrażających systemy napędowe wroga i zatrzymując ich.",
+      "name": "Kriofon: Vidar MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Gerador de ondas congelantes: ataca naves inimigas com ondas de partículas que congelam os sistemas propulsores adversários e diminuem suas velocidades até que fiquem estagnados.",
+      "name": "Cryophon: Vidar (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CRYOPHON）冰浪產生器──透過發射急凍微粒所形成的冰浪來攻擊敵艦，能凍結敵艦的推進系統，使其動彈不得。",
+      "name": "維達急凍粒子砲 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องกำเนิดคลื่นน้ำแข็ง: กระแทกยานของศัตรูด้วยคลื่นอนุภาคเยือกแข็ง แช่แข็งระบบขับเคลื่อนของศัตรูและทำให้พวกมันช้าลงจนหยุดนิ่ง",
+      "name": "Vidar Cryophon MK I",
+      "code": "th"
+    },
+    {
+      "description": "Buz dalgası jeneratörü: düşman gemisine art arda vuran donmuş parçacıklar ile düşmanın itiş sistemlerini dondurup onları durma noktasına getirir.",
+      "name": "Vidar Cryophon MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Генератор крижаних хвиль: заливає ворожі зорельоти крижаними часточками, які заморожують рушії й сповільнюють рух до повного зупинення.",
+      "name": "Кріофон «Відар» MK I",
+      "code": "uk"
+    }
+  ]
+}

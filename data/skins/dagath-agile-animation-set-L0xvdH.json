@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Dagath/UnlockDagathAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagath-agile-animation-set-3485735603.png",
+  "name": "Dagath Agile Animation Set",
+  "description": "This item lets you use Dagath's agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Dagaths agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Dagath-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles de Dagath avec n'importe quelle autre Warframe.",
+      "name": "Animation Dagath Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Dagath con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Dagath",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 다가스의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "다가스 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Dagath con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Dagath",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Dagath 的迅捷站姿。",
+      "name": "Dagath 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Дагас на любом другом варфрейме.",
+      "name": "Набор анимаций Дагас: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Dagathのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Dagath アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Dagath w każdym innym Warframe'ie.",
+      "name": "Animacje Dagath: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis da Dagath em qualquer Warframe de sua escolha.",
+      "name": "Animações: Dagath (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Dagath 的迅捷站姿。",
+      "name": "Dagath 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Dagath ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Dagath",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Dagath'ın agile animasyon setinin kullanımına izin verir.",
+      "name": "Dagath Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Даґат до будь-якого ворфрейма.",
+      "name": "Даґат: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

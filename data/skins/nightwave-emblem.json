@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/RadioLegionBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nightwave-emblem-c5645079f7.png",
+  "name": "Nightwave Emblem",
+  "description": "For the Sleepless, the Dreamers.",
+  "languages": [
+    {
+      "description": "Für die Schlaflosen, die Träumer.",
+      "name": "Emblem: Nightwave",
+      "code": "de"
+    },
+    {
+      "description": "Pour les Veilleurs, les Rêveurs.",
+      "name": "Badge Ondes Nocturnes",
+      "code": "fr"
+    },
+    {
+      "description": "Per gli Insonni, i Sognatori.",
+      "name": "Emblema Nightwave",
+      "code": "it"
+    },
+    {
+      "description": "잠들지 못하는, 꿈꾸는 여러분을 위하여.",
+      "name": "나이트웨이브 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Para los que no duermen, los Soñadores.",
+      "name": "Emblema de Onda Nocturna",
+      "code": "es"
+    },
+    {
+      "description": "致不眠者，梦回者。",
+      "name": "午夜电波徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Для неспящих, для сновидцев.",
+      "name": "Значок: Ночная Волна",
+      "code": "ru"
+    },
+    {
+      "description": "眠り無き夢見るもの達へ。",
+      "name": "Nightwave エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Dla Bezsennych, dla Rozmarzonych.",
+      "name": "Emblemat: Gwiezdny Szlak",
+      "code": "pl"
+    },
+    {
+      "description": "Para os Insones, os Sonhadores.",
+      "name": "Emblema: Nightwave",
+      "code": "pt"
+    },
+    {
+      "description": "致不眠者，夢迴者。",
+      "name": "午夜電波徽章",
+      "code": "tc"
+    },
+    {
+      "description": "สำหรับผู้ที่นอนไม่หลับ ผู้ที่ชอบฝัน",
+      "name": "ตราสัญลักษณ์: Nightwave",
+      "code": "th"
+    },
+    {
+      "description": "Uykucular için, Rüyacılar için.",
+      "name": "Nightwave Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Для безсонних, для сновид.",
+      "name": "Відзнака «Нічна хвиля»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageWispPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-prime-glyph---dark-ed800c8c3a.png",
+  "name": "Wisp Prime Glyph - Dark",
+  "description": "A glyph depicting Wisp Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wisp Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Wisp Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wisp Prime sur un fond sombre.",
+      "name": "Glyphe Wisp Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wisp Prime su uno sfondo scuro.",
+      "name": "Glifo Wisp Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 위습 프라임을 묘사한 글리프입니다.",
+      "name": "위습 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Wisp Prime sobre un fondo oscuro.",
+      "name": "Glifo de Wisp Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Wisp Prime 在黑暗背景下的浮印。",
+      "name": "Wisp Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Висп Прайм на тёмном фоне.",
+      "name": "Глиф: Висп Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたWisp Prime のグリフ。",
+      "name": "Wisp Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Wisp Prime na ciemnym tle.",
+      "name": "Glif Wisp Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Wisp Prime em um fundo escuro.",
+      "name": "Glifo: Wisp Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wisp Prime 在黑暗背景下的浮印。",
+      "name": "Wisp Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Wisp Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Wisp Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Wisp Prime koyu fonlu glif.",
+      "name": "Wisp Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вісп-прайм на темному тлі.",
+      "name": "Темний гліф «Вісп-прайм»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVoltPulseDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-pulse-glyph---dark-745fda7d1a.png",
+  "name": "Volt Pulse Glyph - Dark",
+  "description": "A glyph depicting Volt Pulse on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Volt Pulse vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Volt Pulse (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Volt Pulse sur un fond sombre.",
+      "name": "Glyphe Volt Pulse - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Pulse Volt su uno sfondo scuro.",
+      "name": "Glifo Volt Pulse - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 펄스 볼트를 묘사한 글리프입니다.",
+      "name": "볼트 펄스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Pulse Volt sobre un fondo oscuro.",
+      "name": "Glifo de Volt Pulse - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Volt 脉冲在黑暗背景下的浮印。",
+      "name": "Volt 脉冲浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вольта «Импульс» на тёмном фоне.",
+      "name": "Глиф: Вольт «Импульс» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Pulse Volt のグリフ。",
+      "name": "Volt Pulse グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Volt Pulse na ciemnym tle.",
+      "name": "Glif Volt Pulse — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Volt Pulse em um fundo escuro.",
+      "name": "Glifo: Volt Pulse (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Volt 脈衝在黑暗背景下的浮印。",
+      "name": "Volt 脈衝浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Volt Pulse บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Volt Pulse - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Volt Pulse koyu fonlu glif.",
+      "name": "Volt Pulse Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вольта в шоломі «Імпульс» на темному тлі.",
+      "name": "Темний гліф «Вольт „Імпульс“»",
+      "code": "uk"
+    }
+  ]
+}

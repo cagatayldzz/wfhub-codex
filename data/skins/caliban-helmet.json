@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentient/SentientHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/caliban-helmet-616b878291.png",
+  "name": "Caliban Helmet",
+  "description": "The standard issue helmet for the Caliban Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Caliban Warframe.",
+      "name": "Caliban-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Caliban.",
+      "name": "Casque Caliban",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Caliban.",
+      "name": "Elmo Caliban",
+      "code": "it"
+    },
+    {
+      "description": "칼리반 워프레임을 위한 기본 헬멧입니다.",
+      "name": "칼리반 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Caliban.",
+      "name": "Casco de Caliban",
+      "code": "es"
+    },
+    {
+      "description": "Caliban 的标准头盔。",
+      "name": "Caliban 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Калибана.",
+      "name": "Шлем Калибана",
+      "code": "ru"
+    },
+    {
+      "description": "Calibanの標準型ヘルメット。",
+      "name": "Caliban ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Caliban.",
+      "name": "Caliban: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Caliban.",
+      "name": "Caliban: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Caliban 的標準頭盔。",
+      "name": "Caliban 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Caliban Warframe",
+      "name": "หมวกเหล็ก Caliban",
+      "code": "th"
+    },
+    {
+      "description": "Caliban Warframe için standart miğfer.",
+      "name": "Caliban Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Калібана.",
+      "name": "Шолом Калібана",
+      "code": "uk"
+    }
+  ]
+}

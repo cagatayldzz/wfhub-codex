@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultDjinnSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/djinn-skin-9a3d3546a6.png",
+  "name": "Djinn Skin",
+  "description": "The standard issue skin for the Djinn Sentinel.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Djinn Wächter.",
+      "name": "Djinn-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Sentinelle Djinn.",
+      "name": "Aspect Djinn",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per la Sentinella Djinn.",
+      "name": "Skin Djinn",
+      "code": "it"
+    },
+    {
+      "description": "진 센티넬을 위한 기본 스킨입니다.",
+      "name": "진 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el centinela Djinn.",
+      "name": "Diseño de Djinn",
+      "code": "es"
+    },
+    {
+      "description": "引灵的标准外观配置。",
+      "name": "引灵 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для стража «Джинн».",
+      "name": "Скин Джинна",
+      "code": "ru"
+    },
+    {
+      "description": "Djinnの標準型スキン。",
+      "name": "Djinn スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Strażnika Djinn.",
+      "name": "Djinn: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão para a Sentinela Djinn.",
+      "name": "Djinn: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "引靈守護的標準外觀配置。",
+      "name": "引靈外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับเซนติเนล Djinn",
+      "name": "สกิน Djinn",
+      "code": "th"
+    },
+    {
+      "description": "Djinn Sentinel'i için standart skin.",
+      "name": "Djinn Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для вартового Джина.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/son-token-9e9ce16c15.png",
+  "name": "Son Token",
+  "description": "A mark of Son's respect for services rendered.\n\nObtained from Son in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Ein Zeichen Respekts von Sohn für geleistete Dienste.\n\nQuelle: Erhalten von Sohn im Necralisk auf Deimos.",
+      "name": "ANDENKEN: SOHN",
+      "code": "de"
+    },
+    {
+      "description": "Une marque du respect du Fils pour les services rendus.\n\nLieu: Le Fils, dans le Necralisk sur Deimos.",
+      "name": "JETON DU FILS",
+      "code": "fr"
+    },
+    {
+      "description": "Un segno di rispetto da parte di Figlio per i servizi prestati.\n\nPosizione: Figlio nel Necralisk su Deimos.",
+      "name": "TOKEN FIGLIO",
+      "code": "it"
+    },
+    {
+      "description": "아들을 도운 대가로 받은 존중의 증표입니다.\n\n데이모스의 네크랄리스크에 있는 아들에게서 획득할 수 있습니다.",
+      "name": "아들 토큰",
+      "code": "ko"
+    },
+    {
+      "description": "Una marca del respeto de Hijo por los servicios prestados.\n\nSe obtiene con Hijo en el Necralisk en Deimos.",
+      "name": "SÍMBOLO DE HIJO",
+      "code": "es"
+    },
+    {
+      "description": "一枚印记，象征“儿子”对于所受到的帮助，表示的敬意。\n\n从殁世幽都（火卫二）“儿子”处获得。",
+      "name": "“儿子”石印",
+      "code": "zh"
+    },
+    {
+      "description": "Знак уважения Сына за предоставленные услуги.\n\nМожно получить у Сына в Некралиске (Деймос).",
+      "name": "СИМВОЛ: СЫН",
+      "code": "ru"
+    },
+    {
+      "description": "手助けの見返りのSonの尊敬の証。\n\nネクロリスク（ダイモス）のSonから入手可能。",
+      "name": "SON トークン",
+      "code": "ja"
+    },
+    {
+      "description": "Znak szacunku Syna za świadczone usługi.\n\nPołożenie: Pozyskaj od Syna w Nekralisku na Deimosie.",
+      "name": "ŻETON: SYN",
+      "code": "pl"
+    },
+    {
+      "description": "Uma marca de respeito do Filho pelos serviços prestados.\n\nLocalização: obtido junto ao Filho, no Necralisk, em Deimos.",
+      "name": "SÍMBOLO: FILHO",
+      "code": "pt"
+    },
+    {
+      "description": "代表兒子對於所提供之服務表示敬重的象徵。\n\n從亡骸殿（火衛二）裡的兒子獲得。",
+      "name": "兒子源幣",
+      "code": "tc"
+    },
+    {
+      "description": "ไอเทมจาก Son ที่เป็นเครื่องหมายแสดงความนับถือต่อบริการได้รับ\n\nรับได้จาก Son ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "โทเค็นของ SON",
+      "code": "th"
+    },
+    {
+      "description": "Sunulan hizmetler için Erkek Evladın saygı işareti.\n\nDeimos'taki Necralisk'te bulunan Son'dan satın alınabilir.",
+      "name": "ERKEK EVLAT SEMBOLÜ",
+      "code": "tr"
+    },
+    {
+      "description": "Символ поваги Сина за надані послуги.\n\nМожна отримати в Сина в Некраліску (Деймос).",
+      "name": "МЕДАЛЬЙОН СИНА",
+      "code": "uk"
+    }
+  ]
+}

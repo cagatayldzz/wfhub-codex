@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arca-plasmor-22aeed29c6.png",
+  "name": "Arca Plasmor",
+  "description": "Stagger targets with blasts from this Corpus engineered plasma shotgun. Surviving enemies are consumed with radiation.",
+  "languages": [
+    {
+      "description": "Bringt eure Ziele zum Taumeln mit den Schüssen dieser Plasma-Schrotflinte der Corpus. Überlebende Gegner werden von Strahlung verzehrt.",
+      "name": "Arca Plasmor",
+      "code": "de"
+    },
+    {
+      "description": "Étourdissez et mettez à terre vos cibles grâce aux tirs de plasma de ce Fusil à Pompe Corpus. Les ennemis y survivant seront consumés par les radiations.",
+      "name": "Arca Plasmor",
+      "code": "fr"
+    },
+    {
+      "description": "Fai tentennare gli obiettivi con le esplosioni di questo fucile a pompa al plasma di progettazione Corpus. I nemici sopravvissuti vengono consumati dalle radiazioni.",
+      "name": "Arca Plasmor",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 기술력으로 만들어진 이 플라즈마 산탄총이 쏘아내는 강한 폭발로 목표물을 휘청이게 하거나 넘어뜨려 보세요. 살아남는 적들은 방사능에 잠식됩니다.",
+      "name": "아르카 플라즈모어",
+      "code": "ko"
+    },
+    {
+      "description": "Haz tambalear y derriba a tus objetivos con disparos de esta escopeta de plasma de ingeniería corpus. Los enemigos que sobreviven serán consumidos por la radiación.",
+      "name": "Plasmor Arca",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ARCA PLASMOR）用这把 Corpus 设计的等离子霰弹枪来击倒你的目标。幸存下来的敌人会被辐射耗尽生命。",
+      "name": "弧电离子枪",
+      "code": "zh"
+    },
+    {
+      "description": "Ошеломляйте противников залпами из этого плазменного дробовика Корпуса. Выжившие враги будут преданы радиации.",
+      "name": "Арка Плазмор",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス技術で製作されたプラズマショットガンで敵を玉砕！　生き残った場合も放射線ダメージが敵を襲う。",
+      "name": "Arca Plasmor",
+      "code": "ja"
+    },
+    {
+      "description": "Wprowadź cel w osłupienie pociskami tej plazmowej strzelby stworzonej przez frakcję Corpus. Wróg który przeżyje, zostanie skonsumowany przez radiację.",
+      "name": "Arca Plasmor",
+      "code": "pl"
+    },
+    {
+      "description": "Atordoe alvos com as explosões desta escopeta desenvolvida pelos Corpus. Inimigos sobreviventes são consumidos pela radiação.",
+      "name": "Arca Plasmor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ARCA PLASMOR）用這把 Corpus 設計的電漿霰彈槍來擊倒你的目標。倖存下來的敵人會被輻射耗盡生命。",
+      "name": "弧電離子槍",
+      "code": "tc"
+    },
+    {
+      "description": "ทำให้เป้าหมายเซด้วยแรงระเบิดที่เกิดจากปืนลูกซองพลาสมาที่ออกแบบโดย Corpus ส่วนศัตรูที่รอดชีวิตจะถูกรังสีเผาผลาญ",
+      "name": "Arca Plasmor",
+      "code": "th"
+    },
+    {
+      "description": "Bu Corpus mühendisliği plazma pompalı tüfeği ile düşmanlarının dengesini boz. Hayatta kalan düşmanlar radyasyona maruz kalır.",
+      "name": "Arca Plasmor",
+      "code": "tr"
+    },
+    {
+      "description": "Плазмова рушниця Корпусу, що змушує ворога похитнутися. Тих, кому пощастило вижити після влучання з неї, згодом добиває радіація.",
+      "name": "Арка-Плазмор",
+      "code": "uk"
+    }
+  ]
+}

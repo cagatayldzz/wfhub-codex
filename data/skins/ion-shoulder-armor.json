@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWIonShoulderArmor/SWIonShoulderArmorA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ion-shoulder-armor-60b8919f0a.png",
+  "name": "Ion Shoulder Armor",
+  "description": "A unique shoulder armor for your Warframe, designed by Yatus and HugoPolo.",
+  "languages": [
+    {
+      "description": "Eine einzigartige Schulterplatte für deinen Warframe, entworfen von Yatus und HugoPolo.",
+      "name": "Schulterplatten: Ion",
+      "code": "de"
+    },
+    {
+      "description": "Des Épaulières uniques pour votre Warframe, conçues par Yatus et HugoPolo.",
+      "name": "Épaulières Ion",
+      "code": "fr"
+    },
+    {
+      "description": "Uno spallaccio unico per il tuo Warframe, ideato da Yatus e HugoPolo.",
+      "name": "Spallaccio Ion",
+      "code": "it"
+    },
+    {
+      "description": "Yatus와 HugoPolo에 의해 디자인된 워프레임을 위한 독특한 숄더 아머입니다.",
+      "name": "이온 숄더 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una hombrera de placas única para tu warframe, diseñada por Yatus y HugoPolo.",
+      "name": "Hombrera Ion",
+      "code": "es"
+    },
+    {
+      "description": "适用于战甲的独特肩甲，由 Yatus 和 HugoPolo 设计。",
+      "name": "离子肩甲",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальная наплечная броня для вашего варфрейма, созданная Yatus и HugoPolo.",
+      "name": "Наплечники: Ион",
+      "code": "ru"
+    },
+    {
+      "description": "Warframe用のショルダープレート。製作者：YatusとHugoPolo。",
+      "name": "Ion ショルダーアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy naramiennik dla Twojego Warframe'a, zaprojektowany przez Yatus i HugoPolo.",
+      "name": "Naramienniki: Ion",
+      "code": "pl"
+    },
+    {
+      "description": "Uma ombreira exclusiva para o seu Warframe, desenvolvida por Yatus e HugoPolo.",
+      "name": "Ombros: Ion",
+      "code": "pt"
+    },
+    {
+      "description": "一件給 Warframe 使用的獨特胸甲，由 Yatus 以及 HugoPolo 所設計。",
+      "name": "離子肩甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะไหล่ที่ไม่เหมือนใครสำหรับ Warframe ของคุณ ออกแบบโดย Yatus และ HugoPolo",
+      "name": "เกราะไหล่ Ion",
+      "code": "th"
+    },
+    {
+      "description": "Warframe için Yatus ve HugoPolo tarafından tasarlanmış özel bir omuz zırhı.",
+      "name": "Ion Omuz Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний наплічник для ворфрейма, створений Yatus та HugoPolo.",
+      "name": "Наплічник «Йон»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/NunchakuHips",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nunchaku-hip-holster-c45f5a4e54.png",
+  "name": "Nunchaku Hip Holster",
+  "description": "Nunchakus are holstered at the left hip.",
+  "languages": [
+    {
+      "description": "Nunchakus werden an der linken Hüfte geholstert.",
+      "name": "Nunchaku-Holster: Hüfte",
+      "code": "de"
+    },
+    {
+      "description": "Les Nunchakus sont portés sur la hanche gauche.",
+      "name": "Port de Nunchaku à la hanche",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera i Nunchaku sul fianco sinistro.",
+      "name": "Rinfodero Nunchaku Fianco",
+      "code": "it"
+    },
+    {
+      "description": "쌍절곤 계열 무기를 왼쪽 허벅지에 수납하는 수납 방식입니다.",
+      "name": "쌍절곤 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Los nunchakus se enfundarán en la cadera izquierda.",
+      "name": "Enfundado de cadera de nunchaku",
+      "code": "es"
+    },
+    {
+      "description": "将双截棍跨左肩背在身上。",
+      "name": "双截棍后腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Нунчаки покоятся на левом бедре.",
+      "name": "Набедренный Крепеж Нунчак",
+      "code": "ru"
+    },
+    {
+      "description": "腰の左側にヌンチャクを収納。",
+      "name": "ヌンチャク専用ヒップホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Nunchaku są mocowane do lewego biodra.",
+      "name": "Nunchaku Mocowanie Do Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "Os Nunchakus são guardados na cintura esquerda.",
+      "name": "Nunchakus: Coldre na Cintura",
+      "code": "pt"
+    },
+    {
+      "description": "雙節棍武器可收納於左腰。",
+      "name": "雙節棍腰部收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "กระบองสองท่อนที่ใส่ซองตรงสะโพกซ้าย",
+      "name": "ซองกระบองสองท่อนตรงสะโพก",
+      "code": "th"
+    },
+    {
+      "description": "Mançıkalar sol kalçada taşınır.",
+      "name": "Nunçaku Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Нунчаки кріпляться на лівому стегні, коли в руках інша зброя.",
+      "name": "Нунчаки на стегні",
+      "code": "uk"
+    }
+  ]
+}

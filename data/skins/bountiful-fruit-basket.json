@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCetusVegBasketC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bountiful-fruit-basket-e7761f3a4e.png",
+  "name": "Bountiful Fruit Basket",
+  "description": "A large seagrass basket filled with seasonal fruits from the markets of Cetus.",
+  "languages": [
+    {
+      "description": "Ein großer, aus Seegras gefertigter Korb, gefüllt mit saisonalen Früchten vom Markt aus Cetus.",
+      "name": "Großzügiger Obstkorb",
+      "code": "de"
+    },
+    {
+      "description": "Un grand panier en algues tressées rempli de fruits saisonniers provenant des marchés de Cetus.",
+      "name": "Panier de Fruits Généreux",
+      "code": "fr"
+    },
+    {
+      "description": "Un grande cesto costruito con erbe marine, pieno di frutta di stagione dei mercati a Cetus.",
+      "name": "Cesto di Frutta Abbondante",
+      "code": "it"
+    },
+    {
+      "description": "시터스의 시장에서 온 제철 과일이 담긴 큰 해초 바구니입니다.",
+      "name": "풍성한 과일 바구니",
+      "code": "ko"
+    },
+    {
+      "description": "Una gran canasta de algas llena de frutas de temporada del mercado de Cetus.",
+      "name": "Canasta de frutas abundante",
+      "code": "es"
+    },
+    {
+      "description": "一个大的海草编织篮中盛满了来自希图斯市场的时令水果。",
+      "name": "富足果篮",
+      "code": "zh"
+    },
+    {
+      "description": "Большая корзина, заполненная сезонными фруктами с рынка Цетуса.",
+      "name": "Большая Корзина с Фруктами",
+      "code": "ru"
+    },
+    {
+      "description": "シータスの市場にある季節の果物が積まれた大きな海草のバスケット。",
+      "name": "大型の果物バスケット",
+      "code": "ja"
+    },
+    {
+      "description": "Ogromny kosz, wykonany z trawy morskiej, zaopatrzony w sezonowe owoce z rynku Cetus.",
+      "name": "Obfity Kosz Owoców",
+      "code": "pl"
+    },
+    {
+      "description": "Uma cesta generosa feita com ervas marinhas, cheio de frutas sazonais dos mercados de Cetus.",
+      "name": "Cesto de Frutas Generoso",
+      "code": "pt"
+    },
+    {
+      "description": "一個大的海草編織籃中盛滿了來自希圖斯市場的時令水果。",
+      "name": "富足果籃",
+      "code": "tc"
+    },
+    {
+      "description": "ตะกร้าที่ทำจากหญ้าทะเลขนาดใหญ่ที่เต็มไปด้วยผลไม้ตามฤดูกาลจากตลาดในซีตัส",
+      "name": "ตะกร้าผลไม้ใบใหญ่",
+      "code": "th"
+    },
+    {
+      "description": "Cetus'un marketlerinden sezonluk meyvelerle dolu büyük, yosundan bir sepet.",
+      "name": "Cömert Meyve Sepeti",
+      "code": "tr"
+    },
+    {
+      "description": "Заповнений сезонними фруктами з Цетусу великий кошик, сплетений із водоростей.",
+      "name": "Великий кошик із фруктами",
+      "code": "uk"
+    }
+  ]
+}

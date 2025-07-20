@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntTracksCatwalks",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/höllvanian-subway-junction-scene-4a2a0a5898.png",
+  "name": "HöLlvanian Subway Junction Scene",
+  "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+  "languages": [
+    {
+      "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+      "name": "Photora-Szene: Höllvania U-Bahn-Knoten",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+      "name": "Scène de jonction du métro Höllvanien",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+      "name": "Scenario Raccordo Metropolitana Höllvaniana",
+      "code": "it"
+    },
+    {
+      "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+      "name": "홀바니아 지하철 교차점 배경",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+      "name": "Escena de Cruce de metro de Höllvania",
+      "code": "es"
+    },
+    {
+      "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+      "name": "霍瓦尼亚地铁站场景",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+      "name": "Сцена в метрополитене Хёльвании",
+      "code": "ru"
+    },
+    {
+      "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+      "name": "ホルバニア 地下鉄ジャンクション シーン",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+      "name": "Scena Złącza höllvańskiego Metra",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+      "name": "Cena: Cruzamento do Metrô de Holvânia",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+      "name": "霍爾瓦尼亞捷運站場景",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+      "name": "ฉากทางแยกรถไฟใต้ดิน Höllvanian",
+      "code": "th"
+    },
+    {
+      "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+      "name": "Höllvanian Metro Kavşağı Sahnesi",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+      "name": "Панорама: голвенійський метрополітен",
+      "code": "uk"
+    }
+  ]
+}

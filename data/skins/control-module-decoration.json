@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemControlModule",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/control-module-decoration-5622156ecb.png",
+  "name": "Control Module Decoration",
+  "description": "A Control Module resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form eines Steuermoduls.",
+      "name": "Dekoration: Steuermodul",
+      "code": "de"
+    },
+    {
+      "description": "Un Module de Contrôle à placer dans votre Orbiteur.",
+      "name": "Décoration Module de Contrôle",
+      "code": "fr"
+    },
+    {
+      "description": "Un Modulo di Controllo decorativo da piazzare nel tuo Orbiter.",
+      "name": "Modulo di Controllo - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 컨트롤 모듈 드롭 아이템입니다.",
+      "name": "컨트롤 모듈 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo del recurso de módulo de control para colocar en tu orbitador.",
+      "name": "Decoración de módulo de control",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的控制模块拾取物。",
+      "name": "控制模块装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Модуль Контроля",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材のコントロールモジュール。",
+      "name": "コントロールモジュールの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Moduł Sterujący, który możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Moduł Kontrolny",
+      "code": "pl"
+    },
+    {
+      "description": "Um coletável de módulo de controle para colocar em sua Orbital.",
+      "name": "Módulo de Controle",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的控制模組拾取物。",
+      "name": "控制模組裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "โมดูลควบคุมที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: โมดูลควบคุม",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Kontrol Modülü bileşeni dekorasyonu.",
+      "name": "Kontrol Modülü Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цей модуль управління на палубі орбітра.",
+      "name": "Оздоблення: модуль управління",
+      "code": "uk"
+    }
+  ]
+}

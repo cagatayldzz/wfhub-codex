@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/ShockFalcorSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/falcor-shock-camo-skin-4fb7ed5a0f.png",
+  "name": "Falcor Shock-Camo Skin",
+  "description": "The Shock-Camo skin for the Falcor.",
+  "languages": [
+    {
+      "description": "Schocktarnung-Skin für die Falcor.",
+      "name": "Falcor-Skin: Schocktarnung",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect Camouflage Choc pour le Falcor.",
+      "name": "Aspect Falcor Camouflage Choc",
+      "code": "fr"
+    },
+    {
+      "description": "La Skin Shock-Camo per il Falcor.",
+      "name": "Skin Falcor Shock-Camo",
+      "code": "it"
+    },
+    {
+      "description": "팔코어를 위한 쇼크 카모 스킨입니다.",
+      "name": "팔코어 쇼크-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño de camuflaje conmocionante para la Falcor.",
+      "name": "Diseño Camuflaje Conmocionante de Falcor",
+      "code": "es"
+    },
+    {
+      "description": "猎鹰轮的闪电迷彩外观。",
+      "name": "猎鹰轮 闪电迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Шоковый камуфляж для Фалкора.",
+      "name": "Скин Фалкора: Шоковый Камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "Falcorのショック迷彩スキン。",
+      "name": "Falcor Shock-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Wstrząsowy kamuflaż dla Falcor.",
+      "name": "Falcor: Skórka Kamuflaż Wstrząsowy",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin Camuflagem Elétrica para a Falcor.",
+      "name": "Falcor: Skin Camuflagem Elétrica",
+      "code": "pt"
+    },
+    {
+      "description": "獵鷹輪的閃電迷彩外觀。",
+      "name": "獵鷹輪 閃電迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางที่ทำให้ตะลึงงันสำหรับ Falcor",
+      "name": "สกิน Falcor Shock-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Falcor için Şok-Kamuflaj skin.",
+      "name": "Falcor Şok-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд з ударним камуфляжем для Фалкора.",
+      "name": "Вигляд «Ударний камуфляж» для Фалкора",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagath-glyph---bright-6a760a792d.png",
+  "name": "Dagath Glyph - Bright",
+  "description": "A glyph depicting Dagath on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Dagath vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Dagath (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Dagath sur un fond lumineux.",
+      "name": "Glyphe Dagath - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Dagath su uno sfondo chiaro.",
+      "name": "Glifo Dagath - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 다가스를 묘사한 글리프입니다.",
+      "name": "다가스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Dagath sobre un fondo brillante.",
+      "name": "Glifo de Dagath - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Dagath 在明亮背景下的浮印。",
+      "name": "Dagath 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Дагас на светлом фоне.",
+      "name": "Глиф: Дагас - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたDagathのグリフ。",
+      "name": "Dagath グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Dagath na jasnym tle.",
+      "name": "Glif Dagath — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Dagath em um fundo claro.",
+      "name": "Glifo: Dagath (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dagath 在明亮背景下的浮印。",
+      "name": "Dagath 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Dagath บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Dagath - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Dagath'ı parlak bir fonda temsil eden bir glif.",
+      "name": "Dagath Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Даґат на світлому тлі.",
+      "name": "Яскравий гліф «Даґат»",
+      "code": "uk"
+    }
+  ]
+}

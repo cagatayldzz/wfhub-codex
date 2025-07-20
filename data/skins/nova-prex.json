@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardNova",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-prex-d21f806360.png",
+  "name": "Nova Prex",
+  "description": "A miraculous example of harnessed antimatter.",
+  "languages": [
+    {
+      "description": "Ein wundersames Beispiel für nutzbar gemachte Antimaterie.",
+      "name": "Nova Prex",
+      "code": "de"
+    },
+    {
+      "description": "Un exemple miraculeux de maîtrise d'antimatière.",
+      "name": "Prex Nova",
+      "code": "fr"
+    },
+    {
+      "description": "Un miracoloso esempio della dominazione dell'antimateria.",
+      "name": "Prex: Nova",
+      "code": "it"
+    },
+    {
+      "description": "제어되는 반물질의 기적적인 예시입니다.",
+      "name": "노바 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Un ejemplo milagroso del control de antimateria.",
+      "name": "Prex de Nova",
+      "code": "es"
+    },
+    {
+      "description": "一个利用反物质的奇迹。",
+      "name": "Nova Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Чудесный пример использования антивещества.",
+      "name": "Прекс: Нова",
+      "code": "ru"
+    },
+    {
+      "description": "奇跡的とも言える、反物質の熟練。",
+      "name": "Nova プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Cudowny przykład okiełznanej antymaterii.",
+      "name": "Prex: Nova",
+      "code": "pl"
+    },
+    {
+      "description": "Um exemplo milagroso de antimatéria potencializada.",
+      "name": "Prex: Nova",
+      "code": "pt"
+    },
+    {
+      "description": "利用反物質的神奇例子。",
+      "name": "卡牌 — Nova",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวอย่างที่น่าอัศจรรย์ของปฏิสสารที่ถูกควบคุม",
+      "name": "ไพ่เพร็กซ์ Nova",
+      "code": "th"
+    },
+    {
+      "description": "Kuşanılabilen antimadde için mucizevi bir örnek.",
+      "name": "Nova Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Дивовижний приклад гартованої антиматерії.",
+      "name": "Прекс Нови",
+      "code": "uk"
+    }
+  ]
+}

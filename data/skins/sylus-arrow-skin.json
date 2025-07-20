@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Arrows/AlternateArrowB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sylus-arrow-skin-ec9068a0fd.png",
+  "name": "Sylus Arrow Skin",
+  "description": "A unique set of arrows, compatible with any bow.",
+  "languages": [
+    {
+      "description": "Ein einzigartiges Set von Pfeilen, mit jedem Bogen kompatibel.",
+      "name": "Pfeil-Skin: Sylus",
+      "code": "de"
+    },
+    {
+      "description": "Un jeu unique de flèches, compatibles avec l'Arc de votre choix.",
+      "name": "Aspect de Flèche Sylus",
+      "code": "fr"
+    },
+    {
+      "description": "Un set unico di frecce, compatibili con qualsiasi arco.",
+      "name": "Skin Freccia Sylus",
+      "code": "it"
+    },
+    {
+      "description": "어떤 활에도 사용할 수 있는 특별한 화살 묶음입니다.",
+      "name": "사일러스 애로우 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un paquete exclusivo de flechas, compatible con cualquier arco.",
+      "name": "Diseño Sylus de flecha",
+      "code": "es"
+    },
+    {
+      "description": "一组独一无二，适用于全弓类武器的箭矢。",
+      "name": "赛勒斯箭矢外观",
+      "code": "zh"
+    },
+    {
+      "description": "Набор уникальных стрел, совместимых с любым луком.",
+      "name": "Скин стрелы: Сайлус",
+      "code": "ru"
+    },
+    {
+      "description": "特殊な矢だが、すべての弓で使用することができる。",
+      "name": "Sylus Arrow スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy zestaw strzał, kompatybilnych z każdym łukiem.",
+      "name": "Skórka do Strzał: Sylus",
+      "code": "pl"
+    },
+    {
+      "description": "Um conjunto exclusivo de flechas compatíveis com qualquer arco.",
+      "name": "Flecha: Skin Sylus",
+      "code": "pt"
+    },
+    {
+      "description": "一組獨一無二，適用於全弓類武器的箭矢。",
+      "name": "箭矢 賽勒斯外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดลูกธนูที่ไม่เหมือนใคร เข้ากันได้กับคันธนูทุกแบบ",
+      "name": "สกินลูกศร Sylus",
+      "code": "th"
+    },
+    {
+      "description": "Her türlü yayla uyumlu eşsiz bir ok seti",
+      "name": "Sylus Ok Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний набір стріл, сумісних із будь-якими луками.",
+      "name": "Вигляд стріл «Сайлус»",
+      "code": "uk"
+    }
+  ]
+}

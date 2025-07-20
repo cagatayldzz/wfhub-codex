@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pustrels-aecf222492.png",
+  "name": "Pustrels",
+  "description": "A parasitic growth that often infects Eximus units operating in Infested environs.\n\nLocation: Eris",
+  "languages": [
+    {
+      "description": "Ein parasitärer Wuchs, der oft Eximus-Einheiten befällt, die in befallenen Umgebungen stationiert sind.\n\nQuelle: Eris",
+      "name": "Pustrels",
+      "code": "de"
+    },
+    {
+      "description": "Une excroissance parasite qui infecte souvent les unités Eximus opérant dans les environs Infestés.\n\nLieu: Éris",
+      "name": "Pustrules",
+      "code": "fr"
+    },
+    {
+      "description": "Una crescita parassitaria che infetta spesso le unità Eximus operanti in luoghi sopraffatti dall'Infestazione.\n\nPosizione: Eris",
+      "name": "Pustrels",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 환경에 서식하는 엑시무스 개체에 주로 감염되어 있는 기생체 종양입니다.\n\n획득 가능 장소: 에리스",
+      "name": "퍼스트렐",
+      "code": "ko"
+    },
+    {
+      "description": "Un crecimiento parasitario que a menudo infecta a las unidades Eximus que operan en ambientes infestados.\n\nUbicación: Eris",
+      "name": "Pustrels",
+      "code": "es"
+    },
+    {
+      "description": "在感染者环境中的卓越者单位经常受到的一种寄生物感染。\n\n获取地点：阋神星",
+      "name": "寄生脓疱",
+      "code": "zh"
+    },
+    {
+      "description": "Паразитические разрастания, которые часто возникают на Эксимусах в инфицированной обстановке.\n\nМестоположение: Эрида",
+      "name": "Пастрелы",
+      "code": "ru"
+    },
+    {
+      "description": "感染体の浸食した環境で活動するエクシマスユニットがよく感染している寄生性の生長体。\n\n場所：エリス",
+      "name": "パストレル",
+      "code": "ja"
+    },
+    {
+      "description": "Pasożytnicza narośl, która często zaraża jednostki Eximus w środowiskach występowania Plagi.\n\nLokalizacja: Eris",
+      "name": "Pustrele",
+      "code": "pl"
+    },
+    {
+      "description": "Um crescimento parasitário que, constantemente, infecta as unidades Eximus durante os seus trabalhos em zonas infestadas.\n\nLocalização: Éris",
+      "name": "Pústrulas",
+      "code": "pt"
+    },
+    {
+      "description": "一種通常會感染在 Infested 環境中行動的卓越者敵人的寄生物。\n\n地點：鬩神星",
+      "name": "寄生膿疱",
+      "code": "tc"
+    },
+    {
+      "description": "สิ่งที่งอกขึ้นมาเป็นปรสิตที่มักแพร่เชื้อในหน่วย Eximus ที่ทำงานอยู่ในสภาพแวดล้อมที่มีการติดเชื้อ\n\nแหล่งที่พบ: ดาวอีรีส",
+      "name": "พัสเทรลส์",
+      "code": "th"
+    },
+    {
+      "description": "Genellikle Infested bölgelerinde faaliyet gösteren Eximus birimlerini enfekte eden parazitik bir tümör.\n\nLokasyon: Eris",
+      "name": "Pustrel",
+      "code": "tr"
+    },
+    {
+      "description": "Паразитичне утворення, що часто чіпляється на ексімів на заражених територіях.\n\nМожна здобути на Ериді.",
+      "name": "Пустрелі",
+      "code": "uk"
+    }
+  ]
+}

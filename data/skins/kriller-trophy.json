@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/CorpusWarmUncommonFishATrophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kriller-trophy-066ae63dce.png",
+  "name": "Kriller Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "Trophäe: Kriller",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "Trophée Kriller",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "Trofeo Kriller",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "크릴러 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "Trofeo de Kriler",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "磷虾杀手奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "Трофей: Криллер",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "クリラー トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "Trofeum: Kriller",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "Troféu: Kriller",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "磷蝦殺手標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: Kriller",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "Kriller Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "Трофей: убивець",
+      "code": "uk"
+    }
+  ]
+}

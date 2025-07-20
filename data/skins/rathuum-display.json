@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/RathuumEventPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rathuum-display-d34c3a81c5.png",
+  "name": "Rathuum Display",
+  "description": "Gaze upon Kela De Thaym and her warriors of Rathuum.",
+  "languages": [
+    {
+      "description": "Bestaune Kela De Thaym und ihre Krieger des Rathuum.",
+      "name": "Display: Rathuum",
+      "code": "de"
+    },
+    {
+      "description": "Contemplez Kela De Thaym et ses guerriers du Rathuum.",
+      "name": "Affiche Rathuum",
+      "code": "fr"
+    },
+    {
+      "description": "Ammira Kela De Thaym e i suoi guerrieri del Rathuum.",
+      "name": "Display - Rathuum",
+      "code": "it"
+    },
+    {
+      "description": "켈라 드 싸임과 그녀의 라툼 전사들을 살펴보세요.",
+      "name": "라툼 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Contempla a Kela De Thaym y sus guerreros del Rathuum.",
+      "name": "Exhibidor de Rathuum",
+      "code": "es"
+    },
+    {
+      "description": "凝视 Kela De Thaym 和她的死亡角斗场战士。",
+      "name": "死亡角斗场展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Отдайте дань уважения Келе Де Тэйм и её воинам Ратуума.",
+      "name": "Дисплей: Ратуум",
+      "code": "ru"
+    },
+    {
+      "description": "Kela  De Thaymと彼女のRathuumの戦士を見渡そう。",
+      "name": "Rathuum ディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj hołd Keli De Thaym i jej wojownikom Rathuum.",
+      "name": "Wyświetlacz Rathuum",
+      "code": "pl"
+    },
+    {
+      "description": "Contemple a Kela De Thaym e seus guerreiros do Rathuum.",
+      "name": "Exibidor do Rathuum",
+      "code": "pt"
+    },
+    {
+      "description": "注視 Kela De Thaym 以及她的 Rathuum 戰士。",
+      "name": "Rathuum 展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "จ้องมอง Kela De Thaym และเหล่านักรบแห่ง Rathuum",
+      "name": "ภาพดิสเพลย์ Rathuum",
+      "code": "th"
+    },
+    {
+      "description": "Kela De Thaym'a ve onun Rathuum savaşçılarına bak.",
+      "name": "Rathuum Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Помилуйтеся Келою де Тейм та її бійцями Ратуму.",
+      "name": "Дисплей «Ратум»",
+      "code": "uk"
+    }
+  ]
+}

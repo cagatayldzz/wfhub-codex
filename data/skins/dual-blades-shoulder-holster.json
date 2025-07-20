@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/DualSwordStraight",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-blades-shoulder-holster-7c91bf16c9.png",
+  "name": "Dual Blades Shoulder Holster",
+  "description": "Dual Blades are holstered on each shoulder.",
+  "languages": [
+    {
+      "description": "Eine Dual-Klinge wird auf jeder Schulter geholstert.",
+      "name": "Dual-Klingen-Holster: Schulter",
+      "code": "de"
+    },
+    {
+      "description": "Les Doubles Épées sont portées au niveau des épaules.",
+      "name": "Port de Doubles Épées aux épaules",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Doppie Lame sulle spalle.",
+      "name": "Rinfodero Doppie Lame Spalla",
+      "code": "it"
+    },
+    {
+      "description": "쌍수 도검 계열 무기를 양쪽 어깨에 수납하는 수납 방식입니다.",
+      "name": "쌍수 도검 어깨 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las espadas dobles se enfundarán en cada hombro.",
+      "name": "Enfundado de hombro de espadas dobles",
+      "code": "es"
+    },
+    {
+      "description": "将双刀武器分别收纳至肩膀两侧。",
+      "name": "双刀肩部收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Парные клинки крепятся к плечам.",
+      "name": "Плечевой Крепеж Парных Клинков",
+      "code": "ru"
+    },
+    {
+      "description": "デュアルブレードを両肩に収納。",
+      "name": "デュアルブレード専用ショルダーホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Podwójne Ostrza mocowane do obu ramion.",
+      "name": "Ostrza Podwójne Mocowanie Do Ramienia",
+      "code": "pl"
+    },
+    {
+      "description": "As lâminas duplas são guardadas em cada ombro.",
+      "name": "Lâminas Duplas: Coldre no Ombro",
+      "code": "pt"
+    },
+    {
+      "description": "雙刀武器可收納於各肩膀上。",
+      "name": "雙刀肩部收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ใบมีดคู่ที่ใส่ซองตรงไหล่แต่ละข้าง",
+      "name": "ซองใบมีดคู่ที่ไหล่",
+      "code": "th"
+    },
+    {
+      "description": "İkili bıçak her iki omuzda taşınır.",
+      "name": "İkili Bıçak Omuz Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Парні клинки кріпляться на кожному плечі, коли в руках інша зброя.",
+      "name": "Парні клинки на плечах",
+      "code": "uk"
+    }
+  ]
+}

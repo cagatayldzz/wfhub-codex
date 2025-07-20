@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/CatbrowGeneticSignatureStarterPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kavat-genetic-code-8b117c2312.png",
+  "name": "Kavat Genetic Code",
+  "description": "Contains the genetic code sequence of a Kavat. \n\nLocation: Obtained by using a Codex Scanner on Feral Kavats that roam the Orokin Derelict on Deimos",
+  "languages": [
+    {
+      "description": "Enthält die genetische Codesequenz einer Kavat.\n\nQuelle: Erhältlich, indem man einen Codex-Scanner bei wilde Kavats nutzt, die durch das Orokin Wrack auf Deimos streifen.",
+      "name": "Genetischer Code: Kavat",
+      "code": "de"
+    },
+    {
+      "description": "Contient la séquence du code génétique d'un Kavat. \n\nLieu: Sur Deimos, en utilisant un Scanneur du Codex sur des Kavats Sauvages de l'Épave Orokin",
+      "name": "Code Génétique de Kavat",
+      "code": "fr"
+    },
+    {
+      "description": "Contiene la sequenza del codice genetico di un Kavat. \n\nPosizione: Ottenibile scannerizzando col Codex Scanner i Kavat selvatici che vagano per il Relitto Orokin su Deimos.",
+      "name": "Codice Genetico Kavat",
+      "code": "it"
+    },
+    {
+      "description": "카밧의 유전자 코드 배열이 들어있습니다. \n\n획득 가능 장소: 데이모스의 오로킨 폐함선을 배회하는 야생 카밧에게 코덱스 스캐너를 사용하여 획득할 수 있습니다.",
+      "name": "카밧 유전자 코드",
+      "code": "ko"
+    },
+    {
+      "description": "Contiene la secuencia del código genético de un kavat. \n\nUbicación: Se obtiene al usar un escáner del códice en los kavats salvajes que deambulan por los derrelictos orokin en Deimos",
+      "name": "Código genético de kavat",
+      "code": "es"
+    },
+    {
+      "description": "包含库娃的遗传密码序列。\n\n获取地点：通过对漫游在火卫二 Orokin 遗迹中的野生库娃使用资料库扫描仪获得",
+      "name": "库娃遗传密码",
+      "code": "zh"
+    },
+    {
+      "description": "Содержит последовательность генетического кода кавата. \n\nМестонахождение: Можно получить, сканируя одичавших каватов, которые бродят по руинам Орокин на Деймосе.",
+      "name": "Генетический код кавата",
+      "code": "ru"
+    },
+    {
+      "description": "キャバットの遺伝子コードシークエンス。\n\n場所：ダイモスのオロキン遺跡に生息する野生のキャバットをコーデックススキャナーでスキャンする。",
+      "name": "キャバット遺伝子コード",
+      "code": "ja"
+    },
+    {
+      "description": "Zawiera kod sekwencji genetycznej Kavata. \n\nPołożenie: Zdobywane przez skanowanie Dzikich Kavatów na pokładzie Wraku Orokin na Deimosie",
+      "name": "Kod genetyczny Kavata",
+      "code": "pl"
+    },
+    {
+      "description": "Contém a sequência de código genético de um Kavat. \n\nLocalização: obtido ao utilizar um Escâner do Codex em Kavats Selvagens nas Naves Abandonadas Orokin, em Deimos.",
+      "name": "Código Genético Kavat",
+      "code": "pt"
+    },
+    {
+      "description": "包含庫娃的遺傳密碼序列。\n\n地點：透過對火衛二上的 Orokin 遺跡內徘徊的野生庫娃使用資料庫掃描器來取得",
+      "name": "庫娃遺傳密碼",
+      "code": "tc"
+    },
+    {
+      "description": "มีลำดับรหัสพันธุกรรมของ Kavat บรรจุอยู่ \n\nแหล่งที่พบ: ไอเทมชิ้นนี้ได้มาจากการใช้เครื่องสแกนโคเด็กซ์สแกน Kavat ป่าที่เดินทางท่องไปตามซากยานร้างของ Orokin บนดาวเดมอส",
+      "name": "รหัสพันธุกรรม Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Kavat genetik kodunu içerir. \n\nKonum: Deimos'taki Orokin Derelict'te dolaşan Feral Kavat'lar üzerinde Kodeks Tarayıcı kullanılarak elde edilebilir.",
+      "name": "Kavat Genetik Kodu",
+      "code": "tr"
+    },
+    {
+      "description": "Містить послідовність генетичного коду кавата. \n\nМожна здобути за допомогою використання зчитувача збірника знань на диких каватах, що блукають орокінськими зорельотами-блукачами на Деймосі.",
+      "name": "Генетичний код кавата",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrineerTurbines/GrineerTurbinesChestArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/harkonar-chest-guard-2159d02d7f.png",
+  "name": "Harkonar Chest Guard",
+  "description": "A decorative breastplate for your Warframe.",
+  "languages": [
+    {
+      "description": "Eine dekorative Brustplatte für deinen Warframe.",
+      "name": "Brustplatte: Harkonar",
+      "code": "de"
+    },
+    {
+      "description": "Un Plastron décoratif pour votre Warframe.",
+      "name": "Plastron Harkonar",
+      "code": "fr"
+    },
+    {
+      "description": "Una corazza decorativa per il tuo Warframe.",
+      "name": "Pettorina Harkonar",
+      "code": "it"
+    },
+    {
+      "description": "워프레임을 위한 가슴 의장용 아이템입니다.",
+      "name": "하르코나르 체스트가드",
+      "code": "ko"
+    },
+    {
+      "description": "Una coraza decorativa para tu warframe.",
+      "name": "Coselete Harkonar",
+      "code": "es"
+    },
+    {
+      "description": "装饰性的战甲胸甲。",
+      "name": "哈库那护胸",
+      "code": "zh"
+    },
+    {
+      "description": "Декоративный нагрудник для вашего варфрейма.",
+      "name": "Нагрудник: Харконар",
+      "code": "ru"
+    },
+    {
+      "description": "胸部に着ける装飾用アーマープレート。",
+      "name": "Harkonar チェストガード",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdobny napierśnik dla Twojego Warframe'a.",
+      "name": "Napierśnik: Harkonar",
+      "code": "pl"
+    },
+    {
+      "description": "Um peitoral decorativo para seu Warframe.",
+      "name": "Peitoral: Harkonar",
+      "code": "pt"
+    },
+    {
+      "description": "一件裝飾性的 Warframe 胸甲。",
+      "name": "哈庫那胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะหุ้มหน้าอกที่ใช้ตกแต่ง Warframe ของคุณ",
+      "name": "เกราะป้องกันหน้าอก Harkonar",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'in için dekoratif bir göğüs zırhı.",
+      "name": "Harkonar Göğüs Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Декоративний нагрудник для ворфрейма.",
+      "name": "Нагрудник «Гарконар»",
+      "code": "uk"
+    }
+  ]
+}

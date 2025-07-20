@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardKoumei",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koumei-prex-2ca841e5c4.png",
+  "name": "Koumei Prex",
+  "description": "The Dice-Maiden",
+  "languages": [
+    {
+      "description": "Die Würfel-Maid",
+      "name": "Koumei Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Maîtresse des Dés",
+      "name": "Prex Koumei",
+      "code": "fr"
+    },
+    {
+      "description": "La Padrona dei Dadi",
+      "name": "Prex: Koumei",
+      "code": "it"
+    },
+    {
+      "description": "주사위의 무녀",
+      "name": "코우메이 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La doncella de los dados",
+      "name": "Prex de Koumei",
+      "code": "es"
+    },
+    {
+      "description": "掷骰巫女",
+      "name": "Koumei Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Госпожа Судьбы",
+      "name": "Прекс: Комея",
+      "code": "ru"
+    },
+    {
+      "description": "賽の乙女",
+      "name": "Koumei プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Pani Kości",
+      "name": "Prex: Koumei",
+      "code": "pl"
+    },
+    {
+      "description": "A Senhora dos Dados",
+      "name": "Prex: Koumei",
+      "code": "pt"
+    },
+    {
+      "description": "骰卜少女",
+      "name": "卡牌 — Koumei",
+      "code": "tc"
+    },
+    {
+      "description": "เทพธิดาผู้ใช้ลูกเต๋าพยากรณ์",
+      "name": "ไพ่เพร็กซ์ Koumei",
+      "code": "th"
+    },
+    {
+      "description": "Zarların Asil Kızı",
+      "name": "Koumei Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Діва з кісточками",
+      "name": "Прекс «Кумей»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Solaris/AnimalTagSawgawRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frogmouthed-sawgaw-tag-bf7bce2770.png",
+  "name": "Frogmouthed Sawgaw Tag",
+  "description": "For saving a specimen of this subspecies.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Unterart gerettet.",
+      "name": "Marke: Froschmaul-Sawgaw",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Sawgaw à Large Bec",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa sottospecie.",
+      "name": "Etichetta Sawgaw Podargo",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "프로그마우스드 소우고우 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta subespecie.",
+      "name": "Marcador de Sawgaw pico escarchado",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个亚种的一个样本。",
+      "name": "蛙嘴梭歌标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого подвида.",
+      "name": "Жетон: Лягушкоротая Пилопасть",
+      "code": "ru"
+    },
+    {
+      "description": "この変種を保護すると入手できるタグ。",
+      "name": "ガマグチ ソーゴー タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Rozpłatnicy Żabodziobej",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Sawgaw Boca-de-Sapo",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存這個亞種的樣本。",
+      "name": "蛙嘴梭歌標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์ย่อยนี้",
+      "name": "แท็ก Frogmouthed Sawgaw",
+      "code": "th"
+    },
+    {
+      "description": "Bu alt-türün bir örneğini kurtardığın için.",
+      "name": "Kurbağa Ağızlı Sawgaw Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього підвиду.",
+      "name": "Жетон жаборотого совґова",
+      "code": "uk"
+    }
+  ]
+}

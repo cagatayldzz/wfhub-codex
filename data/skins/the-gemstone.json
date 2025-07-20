@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-gemstone-3657bb289d.png",
+  "name": "The Gemstone",
+  "description": "Contentment is idleness. Desire inspires action. Nurture all desires.",
+  "languages": [
+    {
+      "description": "Behagen ist Untätigkeit. Sehnsucht bringt Taten. Nähre alle Sehnsüchte.",
+      "name": "Der Edelstein",
+      "code": "de"
+    },
+    {
+      "description": "Le contentement est l'oisiveté. Le désir inspire l'action. Nourrissez tous vos désirs.",
+      "name": "La gemme",
+      "code": "fr"
+    },
+    {
+      "description": "Soddisfazione significa ozio. Il Desiderio ispira l'azione. Coltiva tutti i desideri.",
+      "name": "La Gemma",
+      "code": "it"
+    },
+    {
+      "description": "만족이란 곧 나태. 욕망이야말로 행동의 씨앗이로다. 모든 욕망을 소중히 기르라.",
+      "name": "보석",
+      "code": "ko"
+    },
+    {
+      "description": "La conformidad es ociosidad. El deseo inspira a la acción. Alimenta todos los deseos.",
+      "name": "La Gema",
+      "code": "es"
+    },
+    {
+      "description": "知足就意味着懒惰。欲望会激发实际行动。滋养所有的欲望。",
+      "name": "智慧结晶",
+      "code": "zh"
+    },
+    {
+      "description": "Удовлетворение - это лень. Желание есть причина действия. Питай свои желания.",
+      "name": "Драгоценный камень",
+      "code": "ru"
+    },
+    {
+      "description": "充足するのは怠惰と同じ。欲望が行動を引き起こす。あらゆる欲望を育むのだ。",
+      "name": "宝石",
+      "code": "ja"
+    },
+    {
+      "description": "Zadowolenie jest gnuśnością. Pożądanie wzbudza działanie. Pielęgnuj wszystkie pragnienia.",
+      "name": "Kamień",
+      "code": "pl"
+    },
+    {
+      "description": "Contentamento gera ociosidade. Vontade inspira atitude. Cultive todos os seus desejos.",
+      "name": "A Joia",
+      "code": "pt"
+    },
+    {
+      "description": "知足即是怠惰；慾望則會喚醒實際行動。滋養一切的慾望吧！",
+      "name": "珍貴寶石",
+      "code": "tc"
+    },
+    {
+      "description": "ความมักน้อยคือความเกียจคร้าน ความปรารถนาสร้างแรงบันดาลใจก่อให้เกิดการกระทำ ที่จะหล่อเลี้ยงความปรารถนาทั้งหมด",
+      "name": "หินอัญมณี",
+      "code": "th"
+    },
+    {
+      "description": "Memnuniyet tembelliktir. Arzu harekete ilham verir. Tüm arzuları besle.",
+      "name": "Değerli Taş",
+      "code": "tr"
+    },
+    {
+      "description": "Вдоволеність — лінощі. Прагнення закликає до дій. Підживлюй усі прагнення.",
+      "name": "Коштовне каміння",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/CrpCubinatorScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flox-syandana-be0e6093e5.png",
+  "name": "Flox Syandana",
+  "description": "A Corpus-inspired Syandana that responds to the wearer's well-being, unfolding in response to damage. As you endure the Flox unfolds.",
+  "languages": [
+    {
+      "description": "Ein von den Corpus inspiriertes Syandana, dass auf das Wohlbefinden des Trägers reagiert und sich bei Schaden entfaltet. Während du aushältst, öffnet sich Flox.",
+      "name": "Flox Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une Syandana d'inspiration Corpus qui résonne avec le bien-être de son porteur, s'épanouissant lors de la réception de dégâts. Plus vous encaissez, plus la Flox s'ouvre.",
+      "name": "Syandana Flox",
+      "code": "fr"
+    },
+    {
+      "description": "Una Syandana ispirata ai Corpus la quale risponde al benessere di chi la indossa, dispiegandosi in risposta al danno. Più crediti accumuli e più il Flox si dispiega.",
+      "name": "Syandana Flox",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스에게서 영감을 받은 이 샨다나는 착용자의 상태에 반응하며, 오래 버티며 피해를 입을수록 펼쳐집니다.",
+      "name": "플록스 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana inspirada en los corpus que responde al bienestar de quien la usa, se despliega en respuesta al daño. Mientras sobrevives la Flox se despliega.",
+      "name": "Syandana Flox",
+      "code": "es"
+    },
+    {
+      "description": "一款受 Corpus 所启发的披饰，反映穿着者的状态，受到伤害时披饰展开。",
+      "name": "弗洛克斯披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Вдохновлённая Корпусом сандана, которая показывает благосостояние владельца, разворачиваясь в ответ на повреждение. Вы выдерживаете испытание, а Флокс - разворачивается.",
+      "name": "Сандана: Флокс",
+      "code": "ru"
+    },
+    {
+      "description": "装着した者の健康状態に反応する、コーパスをイメージしたシャンダナ。ダメージに対して反応して展開する。",
+      "name": "Flox シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana zainspirowana frakcją Corpus, zmienia się na podstawie samopoczucia jej właściciela, otwierając się podczas otrzymania obrażeń – wytrwałość aktywuje tą funkcję.",
+      "name": "Syandana Flox",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana com temática Corpus que reage ao seu usuário, se desdobrando conforme recebe dano. Quanto mais seu usuário aguentar, mais a Flox se desdobrará.",
+      "name": "Syandana: Flox",
+      "code": "pt"
+    },
+    {
+      "description": "一個受 Corpus 所啟發的披飾，反映穿著者的狀態，傷害時披飾展開。反之弗洛克斯披飾便會折起。",
+      "name": "弗洛克斯披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่ได้รับแรงบันดาลใจจาก Corpus ตอบสนองต่อสภาพของผู้สวมใส่ จะกางออกเมื่อได้รับความเสียหาย Flox ก็จะคลี่อออกเมื่อคุณยังยืนหยัด",
+      "name": "ไซอันดานา Flox",
+      "code": "th"
+    },
+    {
+      "description": "Kullanıcısının durumuna göre tepki veren Corpus temalı bir Syandana. Flox, hasar alınması sonucu açılmaya başlar.",
+      "name": "Flox Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Сяндана, створена за мотивами Корпусу. Розгортається, коли власник отримує шкоду. Ви тримаєтеся — «Флокс» розгортається.",
+      "name": "Сяндана «Флокс»",
+      "code": "uk"
+    }
+  ]
+}

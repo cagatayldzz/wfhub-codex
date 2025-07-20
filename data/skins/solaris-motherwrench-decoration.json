@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/SUTechToolB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solaris-motherwrench-decoration-95289e0cd9.png",
+  "name": "Solaris Motherwrench Decoration",
+  "description": "Primarily used in the opening and closing of coolant sluices. A handy addition to any lander.",
+  "languages": [
+    {
+      "description": "Hauptsächlich zum Öffnen und Schließen von Kühlmittelschleusen. Eine nützliche Ergänzung für jedes Schiff.",
+      "name": "Dekoration: Solaris Torschlüssel",
+      "code": "de"
+    },
+    {
+      "description": "Utilisée principalement pour l'ouverture et la fermeture des drains de liquide de refroidissement. Un ajout utile à n'importe quel vaisseau.",
+      "name": "Décoration Clé à Molette Universelle",
+      "code": "fr"
+    },
+    {
+      "description": "Precedentemente usato nell'apertura e nella chiusura delle chiuse di refrigerante. Un'utile aggiunta per ogni navicella.",
+      "name": "Decorazione Motherwrench Solaris",
+      "code": "it"
+    },
+    {
+      "description": "주로 냉각 수문을 열고 닫는데 쓰입니다. 어느 착륙정에나 유용한 추가 물품입니다.",
+      "name": "솔라리스 마더렌치 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Usado primariamente en la apertura y cierre de las esclusas de refrigerante. Una útil adición para cualquier nave de desembarco.",
+      "name": "Decoración de llave madre Solaris",
+      "code": "es"
+    },
+    {
+      "description": "主要用于打开或关闭冷却液水闸。着陆器中的实用装备。",
+      "name": "索拉里斯扳手装饰",
+      "code": "zh"
+    },
+    {
+      "description": "В особенности используется при открытии и закрытии шлюзов охлаждающей жидкости. Удобное дополнение для любого Корабля.",
+      "name": "Украшение: Мастер-Ключ Солярис",
+      "code": "ru"
+    },
+    {
+      "description": "主に冷却液の水門を開閉させるために使われてきた。船に置けば便利になること請け合い。",
+      "name": "ソラリス マザーレンチの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Głównie używany do otwierania i zamykania śluzy chłodziwa. Przydatny dodatek do każdego lądownika.",
+      "name": "Ozdoba: Przykręt Solaris",
+      "code": "pl"
+    },
+    {
+      "description": "Utilizado principalmente na abertura e no fechamento de comportas de resfriamento. Uma adição bem útil para qualquer nave.",
+      "name": "Chave Mestra Solaris",
+      "code": "pt"
+    },
+    {
+      "description": "主要用於打開或關閉冷卻劑水閘。登陸載具中的實用裝備。",
+      "name": "索拉里斯扳手裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "หน้าที่หลัก ๆ คือใช้สำหรับไขเพื่อเปิดและปิดระบบล็อกของทางระบายสารหล่อเย็น เป็นอุปกรณ์เสริมที่มีประโยชน์สำหรับยานลงจอดทุกลำ",
+      "name": "ของตกแต่ง: Solaris Motherwrench",
+      "code": "th"
+    },
+    {
+      "description": "Asıl olarak soğutucu kapaklarını açıp kapamada kullanılır. Her Gemi için kullanışlı bir eşya.",
+      "name": "Solaris Açık Ağızlı Anahtar Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Зазвичай використовується для відчинення й зачинення шлюзу для холодоагентів. Стане в пригоді на будь-якому зорельоті.",
+      "name": "Оздоблення: майстер-ключ Соляріса",
+      "code": "uk"
+    }
+  ]
+}

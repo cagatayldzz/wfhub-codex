@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBECycron/CrpBECycron",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenet-cycron-2d3f1b3281.png",
+  "name": "Tenet Cycron",
+  "description": "This reengineered Cycron features a refracting energy disc that can split off the main target, hitting up to 2 additional nearby targets.",
+  "languages": [
+    {
+      "description": "Diese überarbeitete Cycron verfügt über eine sich teilende Energiescheibe, die das Hauptziel spalten kann und bis zu 2 zusätzliche Ziele in der Nähe trifft.",
+      "name": "Tenet Cycron",
+      "code": "de"
+    },
+    {
+      "description": "Ce Cycron repensé dispose d'un disque d'énergie à réfraction qui peut se diviser pour frapper jusqu'à 2 cibles supplémentaires à proximité de la cible principale.",
+      "name": "Cycron - Principe",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Cycron riprogettato è dotato di un disco ad energia rifrangente che si può dividere colpendo il bersaglio principale, raggiungendo fino a 2 bersagli vicini aggiuntivi.",
+      "name": "Tenet Cycron",
+      "code": "it"
+    },
+    {
+      "description": "이 개량된 사이크론은 주 목표물로부터 분산되어 추가로 주변 목표물 2체를 타격할 수 있는 굴절 에너지 디스크를 갖추고 있습니다.",
+      "name": "테넷 사이크론",
+      "code": "ko"
+    },
+    {
+      "description": "Esta Cycron rediseñada presenta un disco de energía refractante que puede separarse del objetivo principal, golpeando hasta a dos objetivos cercanos adicionales.",
+      "name": "Cycron Tenet",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TENET CYCRON）这款重新设计的循环离子枪拥有一个折射能量盘，光束射击可以从主要目标上分离，最多击中附近的两个额外目标。",
+      "name": "信条·循环离子枪",
+      "code": "zh"
+    },
+    {
+      "description": "Этот модернизированный Сикрон оснащён энергетическим диском, который может раскалываться при поражении основной цели, после чего поразить до 2 дополнительных ближайших целей.",
+      "name": "Сикрон Догмат",
+      "code": "ru"
+    },
+    {
+      "description": "最新技術を施したCycronから放たれるエネルギーディスクはメインターゲットに着弾後に分かれ、更に2体のターゲットを攻撃できるように。",
+      "name": "Tenet Cycron",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przeprojektowany Cykron jest wyposażony w refrakcyjny dysk energetyczny, umożliwiający rozproszenie głównej wiązki po trafieniu celu i ranienie do dwóch pobliskich wrogów.",
+      "name": "Cykron Dogmatu",
+      "code": "pl"
+    },
+    {
+      "description": "Esta Cycron reprojetada apresenta um disco de energia de refração capaz de se separar de seu alvo primário, permitindo que esta arma atinja até 2 alvos próximos adicionais.",
+      "name": "Cycron Tenet",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TENET CYCRON）這一種重新改良過的循環離子槍裝有折射的能量盤，使電漿體將從主要目標分散。能額外攻擊最多 2 名附近的目標。",
+      "name": "教條 循環離子槍",
+      "code": "tc"
+    },
+    {
+      "description": "Cycron ที่ปรับโครงสร้างใหม่กระบอกนี้มีแผ่นพลังงานหักเหซึ่งสามารถแยกตัวออกจากเป้าหมายหลัก แล้วไปโจมตีเป้าหมายใกล้ ๆ เพิ่มได้อีกสูงสุดถึง 2 เป้าหมาย",
+      "name": "Tenet Cycron",
+      "code": "th"
+    },
+    {
+      "description": "Yeniden tasarlanan bu Cycron, birincil hedeften ayrılıp ek olarak en fazla iki yakın hedefi vurabilen parçalanabilen bir enerji diskine sahip.",
+      "name": "Tenet Cycron",
+      "code": "tr"
+    },
+    {
+      "description": "Перероблений пістолет. Його енергетичний диск може розділятися після влучання в головну ціль і завдати шкоди ще двом ворогам поблизу.",
+      "name": "Цикрон-догмат",
+      "code": "uk"
+    }
+  ]
+}

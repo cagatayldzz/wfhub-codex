@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedKdriveRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/white-velocipod-tag-e34cad52ce.png",
+  "name": "White Velocipod Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "Marke: Weisser Velocipod",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "Jeton Vélocipode Blanc",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "Etichetta Velocipodo Bianco",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "화이트 벨로시포드 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "Marcador de Velocípodo Blanco",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "白色迅敏节虫标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "Жетон: Белый Велоципод",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "ホワイト ベロシポッド タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "Plakietka Białego Welocypoda",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "Marcador: Velocípede Branco",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "白色暴速翼蟲標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก Velocipod สีขาว",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "Beyaz Velocipod Etiketi",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "Жетон білого велоципода",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/HardmodePlutoEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path-pluto-1c1539b24c.png",
+  "name": "The Steel Path: Pluto",
+  "description": "Awarded for completing The Steel Path: Pluto.",
+  "languages": [
+    {
+      "description": "Verliehen für das Beenden des Stählernen Pfads auf Pluto.",
+      "name": "Der Stählerne Pfad: Pluto",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour avoir terminé la Route de l'Acier: Pluton.",
+      "name": "La Route de l'Acier: Pluton",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per il completamento de Il Percorso d'Acciaio: Plutone.",
+      "name": "Il Percorso d'Acciaio: Plutone",
+      "code": "it"
+    },
+    {
+      "description": "명왕성에서 강철의 길을 완료할 시 수여되는 보상입니다.",
+      "name": "강철의 길: 명왕성",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por completar «El Camino de Acero: Plutón».",
+      "name": "El Camino de Acero: Plutón",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些完成「钢铁之路：冥王星」的玩家。",
+      "name": "钢铁之路：冥王星",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за прохождение Стального Пути «Плутон».",
+      "name": "Стальной путь: Плутон",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：冥王星」を完了すると授与される。",
+      "name": "鋼の道のり：冥王星",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za ukończenie Ścieżki Stali: Plutona.",
+      "name": "Ścieżka Stali: Pluton",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido ao concluir o Percurso de Aço: Plutão.",
+      "name": "Percurso de Aço: Plutão",
+      "code": "pt"
+    },
+    {
+      "description": "完成鋼韌之道：冥王星而頒發的表情動作。",
+      "name": "鋼韌之道：冥王星",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการจบภารกิจเส้นทางเหล็กกล้า: ดาวพลูโต",
+      "name": "เส้นทางเหล็กกล้า: ดาวพลูโต",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path: Plüton tamamlama ödülü.",
+      "name": "Steel Path: Plüton",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за виконання всіх завдань на Плутоні в режимі «Шлях сталі».",
+      "name": "Шлях сталі: Плутон",
+      "code": "uk"
+    }
+  ]
+}

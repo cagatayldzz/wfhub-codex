@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/DataFragment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tethra-data-fragments-82d79fa4c6.png",
+  "name": "Tethra Data Fragments",
+  "description": "Intercepted encrypted fragment of Grineer communications.",
+  "languages": [
+    {
+      "description": "Abgefangene, verschlüsselte Fragmente der Grineer Kommunikation.",
+      "name": "Tethra-Datenfragmente",
+      "code": "de"
+    },
+    {
+      "description": "Fragment crypté intercepté des communications Grineers.",
+      "name": "Fragments de Données Tethra",
+      "code": "fr"
+    },
+    {
+      "description": "Frammenti intercettati crittografati di comunicazioni Grineer.",
+      "name": "Frammenti Dati Tethra",
+      "code": "it"
+    },
+    {
+      "description": "암호화 되어 있으며 감청된 그리니어의 통신 데이터 조각",
+      "name": "테쓰라 데이터 조각",
+      "code": "ko"
+    },
+    {
+      "description": "Fragmento encriptado e interceptado de comunicaciones grineer.",
+      "name": "Fragmentos de datos Tethra",
+      "code": "es"
+    },
+    {
+      "description": "被拦截 Grineer 通信的加密碎片。",
+      "name": "泰斯拉数据碎片",
+      "code": "zh"
+    },
+    {
+      "description": "Перехваченный дешифрованный фрагмент переговоров Гринир.",
+      "name": "Фрагменты данных Тетры",
+      "code": "ru"
+    },
+    {
+      "description": "傍受できた暗号化されたグリニアの通信の断片。",
+      "name": "Tethraの断片情報",
+      "code": "ja"
+    },
+    {
+      "description": "Przechwycone, zakodowane fragmenty wiadomości Grineer.",
+      "name": "Fragmenty danych Tethry",
+      "code": "pl"
+    },
+    {
+      "description": "Fragmento de comunicações encriptado Grineer interceptado.",
+      "name": "Fragmentos de Dados Tethra",
+      "code": "pt"
+    },
+    {
+      "description": "被攔截的 Grineer 通訊加密片段訊息。",
+      "name": "泰斯拉資料碎片",
+      "code": "tc"
+    },
+    {
+      "description": "ชิ้นส่วนข้อมูลบันทึกการสื่อสารของ Grineer ที่ถูกดักฟังและเข้ารหัสไว้",
+      "name": "ชิ้นส่วนข้อมูล Tethra",
+      "code": "th"
+    },
+    {
+      "description": "Grineer iletişiminin şifresi çözülmüş bilgi parçacıkları",
+      "name": "Tethra Data Parçaları",
+      "code": "tr"
+    },
+    {
+      "description": "Перехоплені зашифровані уривки перемовин ґрінерів.",
+      "name": "Уривок даних Тетри",
+      "code": "uk"
+    }
+  ]
+}

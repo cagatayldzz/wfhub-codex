@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlEyepatchE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/massehtt-mask-97c58c622b.png",
+  "name": "Massehtt Mask",
+  "description": "Protected from nose to neck.",
+  "languages": [
+    {
+      "description": "Geschützt, von Nase bis zum Nacken.",
+      "name": "Maske: Massehtt",
+      "code": "de"
+    },
+    {
+      "description": "Protégé du nez au cou.",
+      "name": "Masque Massehtt",
+      "code": "fr"
+    },
+    {
+      "description": "Protetto dal naso al collo.",
+      "name": "Maschera Masshett",
+      "code": "it"
+    },
+    {
+      "description": "코부터 목까지를 보호합니다.",
+      "name": "매시트 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Protegido de la nariz al cuello.",
+      "name": "Máscara Massehtt",
+      "code": "es"
+    },
+    {
+      "description": "从鼻子武装到脖子。",
+      "name": "嚼肌面具",
+      "code": "zh"
+    },
+    {
+      "description": "Защита от носа до шеи.",
+      "name": "Маска: Массетт",
+      "code": "ru"
+    },
+    {
+      "description": "鼻から首を守る。",
+      "name": "Massehtt マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Ochrona od nosa po szyję.",
+      "name": "Maska: Massehtt",
+      "code": "pl"
+    },
+    {
+      "description": "Proteção do nariz ao pescoço.",
+      "name": "Máscara: Massehtt",
+      "code": "pt"
+    },
+    {
+      "description": "鼻子到脖子都受到保護。",
+      "name": "馬士面具",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยป้องกันตั้งแต่จมูกจนถึงคอ",
+      "name": "หน้ากาก Massehtt",
+      "code": "th"
+    },
+    {
+      "description": "Burundan boyuna kadar korumalı.",
+      "name": "Massehtt Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Захищає від носа до шиї.",
+      "name": "Маска «Маззетт»",
+      "code": "uk"
+    }
+  ]
+}

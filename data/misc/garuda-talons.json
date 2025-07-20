@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Garuda/GarudaClaws",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-talons-e6687e1b78.png",
+  "name": "Garuda Talons",
+  "description": "These nasty things come out when Garuda forgoes a melee weapon.",
+  "languages": [
+    {
+      "description": "Diese bösartigen Dinger erscheinen, wenn Garuda auf eine Nahkampfwaffe verzichtet.",
+      "name": "Garuda Klauen",
+      "code": "de"
+    },
+    {
+      "description": "Ces Serres dangereuses sont utilisées lorsque Garuda décide d'abandonner son arme de Mêlée.",
+      "name": "Serres de Garuda",
+      "code": "fr"
+    },
+    {
+      "description": "Queste brutte cose escono quando Garuda rinuncia ad un'arma corpo a corpo.",
+      "name": "Artigli Garuda",
+      "code": "it"
+    },
+    {
+      "description": "이 무시무시한 것들은 가루다가 근접 무기 사용을 중단할 때 생성됩니다.",
+      "name": "가루다 탈론즈",
+      "code": "ko"
+    },
+    {
+      "description": "Estas desagradables cosas salen cuando Garuda renuncia a su arma cuerpo a cuerpo.",
+      "name": "Garras de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "当 Garuda 舍弃近战武器时，这些讨厌的东西便会出现。",
+      "name": "Garuda 之爪",
+      "code": "zh"
+    },
+    {
+      "description": "Эти мерзкие штуки идут в дело, когда Гаруда не использует оружие ближнего боя.",
+      "name": "Когти Гаруды",
+      "code": "ru"
+    },
+    {
+      "description": "このぞっとさせるような武器はGarudaが近接武器を持ち合わせてない時に出てくる。",
+      "name": "Garuda Talons",
+      "code": "ja"
+    },
+    {
+      "description": "Te paskudne rzeczy pojawiają się, gdy Garuda nie posiada broni do walki w zwarciu.",
+      "name": "Szpony Garudy",
+      "code": "pl"
+    },
+    {
+      "description": "Estas coisas horrendas entram em ação quando Garuda deixa de lado sua arma branca.",
+      "name": "Garras da Garuda",
+      "code": "pt"
+    },
+    {
+      "description": "當 Garuda 捨棄近戰武器時，這些殘暴的東西便會現身。",
+      "name": "Garuda 利爪",
+      "code": "tc"
+    },
+    {
+      "description": "สิ่งที่น่าสะพรึงคู่นี้ก็จะโผล่ออกมาเมื่อ Garuda ลืมติดอาวุธระยะประชิด",
+      "name": "Garuda Talons",
+      "code": "th"
+    },
+    {
+      "description": "Garuda yakın silahı yoksa pençeleri ile keserek ilerler.",
+      "name": "Garuda Pençeleri",
+      "code": "tr"
+    },
+    {
+      "description": "Коли Ґаруда не використовує холодну зброю, то з’являються ці огидні крихітки.",
+      "name": "Пазурі Ґаруди",
+      "code": "uk"
+    }
+  ]
+}

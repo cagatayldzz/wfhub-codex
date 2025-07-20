@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerBeach",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/beach-40fcf9c0bc.png",
+  "name": "Beach",
+  "description": "Unlocks additional color options for Warframe customization.",
+  "languages": [
+    {
+      "description": "Schaltet zusätzliche Farben für die Anpassung der Rüstung frei.",
+      "name": "Strand",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille de nouvelles couleurs pour personnaliser l’apparence des Warframes.",
+      "name": "Plage",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca ulteriori opzioni colore per la personalizzazione dell'armatura.",
+      "name": "Spiaggia",
+      "code": "it"
+    },
+    {
+      "description": "워프레임을 꾸밀 때 사용하는 추가적인 색상들을 잠금 해제합니다.",
+      "name": "비치",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea opciones de color adicionales para la personalización del warframe.",
+      "name": "Playa",
+      "code": "es"
+    },
+    {
+      "description": "解锁更多用于战甲的自定义色彩。",
+      "name": "海滩",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует дополнительные цвета в меню настроек варфрейма.",
+      "name": "Пляж",
+      "code": "ru"
+    },
+    {
+      "description": "カスタマイズ用追加カラーをアンロックする。",
+      "name": "Beach",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje dodatkowe kolory do personalizacji Warframe'a.",
+      "name": "Plaża",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava opções de cores adicionais para a personalização de Warframe.",
+      "name": "Praia",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖額外的裝備自訂色彩。",
+      "name": "海灘",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกตัวเลือกสีเพิ่มเติมเพื่อใช้ปรับแต่ง Warframe",
+      "name": "Beach",
+      "code": "th"
+    },
+    {
+      "description": "Warframe'ini kişiselleştirmek için ekstra renk yelpazesinin kilidini açar.",
+      "name": "Kumsal",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів задля урізнобарвлення гри.",
+      "name": "Пляж",
+      "code": "uk"
+    }
+  ]
+}

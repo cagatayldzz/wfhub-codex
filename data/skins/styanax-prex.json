@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardStyanax",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-prex-32b41c6bac.png",
+  "name": "Styanax Prex",
+  "description": "Shield of the Innocent",
+  "languages": [
+    {
+      "description": "Schild der Unschuldigen",
+      "name": "Styanax Prex",
+      "code": "de"
+    },
+    {
+      "description": "Bouclier de l'Innocent",
+      "name": "Prex Styanax",
+      "code": "fr"
+    },
+    {
+      "description": "Scudo dell'Innocente",
+      "name": "Prex Styanax",
+      "code": "it"
+    },
+    {
+      "description": "무고한 자들의 방패",
+      "name": "스티아낙스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Escudo del inocente",
+      "name": "Prex de Styanax",
+      "code": "es"
+    },
+    {
+      "description": "无罪之盾",
+      "name": "Styanax Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Щит невинных",
+      "name": "Прекс: Стинакс",
+      "code": "ru"
+    },
+    {
+      "description": "潔白の盾",
+      "name": "Styanax プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Tarcza Niewinnych",
+      "name": "Prex: Styanax",
+      "code": "pl"
+    },
+    {
+      "description": "Escudo dos Inocentes",
+      "name": "Prex: Styanax",
+      "code": "pt"
+    },
+    {
+      "description": "純真之盾",
+      "name": "卡牌 — Styanax",
+      "code": "tc"
+    },
+    {
+      "description": "โล่ปกป้องผู้บริสุทธิ์",
+      "name": "ไพ่เพร็กซ์ Styanax",
+      "code": "th"
+    },
+    {
+      "description": "Masumların Kalkanı",
+      "name": "Styanax Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Щит невинності",
+      "name": "Прекс Стейнекса",
+      "code": "uk"
+    }
+  ]
+}

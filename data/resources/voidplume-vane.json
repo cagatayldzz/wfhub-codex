@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagUncommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-vane-bbe6afc03d.png",
+  "name": "Voidplume Vane",
+  "description": "A metallic plume from a Void Angel's wing.\n\nLocation: Zariman",
+  "languages": [
+    {
+      "description": "Eine metallische Feder aus dem Flügel eines Void-Engels.\n\nQuelle: Zariman",
+      "name": "Void-Feder: Schirm",
+      "code": "de"
+    },
+    {
+      "description": "Une plume métallique de l'aile d'un Ange du Néant.\n\nLieu: Zariman",
+      "name": "Plume du Néant - Vexille",
+      "code": "fr"
+    },
+    {
+      "description": "Una piuma metallica dell'ala di un Angelo del Void.\n\nPosizione: Zariman",
+      "name": "Voidplume - Vessillo",
+      "code": "it"
+    },
+    {
+      "description": "보이드 천사의 날개에서 떨어진 금속성의 깃털입니다.\n\n획득 가능 장소: 자리만",
+      "name": "보이드 깃털 - 털깃",
+      "code": "ko"
+    },
+    {
+      "description": "Una pluma metálica del ala de un Ángel del Vacío.\n\nUbicación: Zariman",
+      "name": "Barba de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "虚空天使翅膀上的一片金属羽毛。\n\n获取地点：扎里曼号",
+      "name": "虚空翼翎",
+      "code": "zh"
+    },
+    {
+      "description": "Металлическое перо из крыла ангела Бездны.\n\nМестонахождение: «Зариман»",
+      "name": "Перо Бездны: Флюгер",
+      "code": "ru"
+    },
+    {
+      "description": "Voidの天使の翼にあった金属質の羽毛。\n\n場所：Zariman",
+      "name": "ヴォイドプルーム ベーン",
+      "code": "ja"
+    },
+    {
+      "description": "Metaliczne pióra ze skrzydła Anioła Pustki.\n\nPołożenie: Zariman",
+      "name": "Pióro Pustki: Chorągiewka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pluma metálica da asa de um Anjo do Void.\n\nLocalização: Zariman",
+      "name": "Palheta de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "來自虛空天使翅膀的金屬羽片。\n\n地點：扎日曼號",
+      "name": "虛空片羽",
+      "code": "tc"
+    },
+    {
+      "description": "ขนนกที่เป็นโลหะจากปีกของเทวทูตแห่งวอยด์\n\nแหล่งที่พบ: Zariman",
+      "name": "Voidplume Vane",
+      "code": "th"
+    },
+    {
+      "description": "Bir Void Meleğinin kanadından çıkan metalik bir tüy.\n\nKonum: Zariman",
+      "name": "Void Tüyü Kanatçığı",
+      "code": "tr"
+    },
+    {
+      "description": "Шмат металу з крила янгола Порожнечі.\n\nМожна знайти на «Заримені».",
+      "name": "Стяг із пер Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

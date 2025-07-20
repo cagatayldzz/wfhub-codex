@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinemantikretro_tm-digital-phone-783c932135.png",
+  "name": "Kinemantik<Retro_tm> Digital Phone",
+  "description": "Kinemantik<RETRO_TM> Digital Phones are guaranteed to have service absolutely everywhere!",
+  "languages": [
+    {
+      "description": "Mit Kinemantik<RETRO_TM>-Digital-Telefonen ist der Empfang absolut überall garantiert!",
+      "name": "Kinemantik<RETRO_TM>: Digital-Telefon",
+      "code": "de"
+    },
+    {
+      "description": "Les téléphones numériques Kinemantik<RETRO_TM> garantissent un service absolument partout!",
+      "name": "Téléphone numérique Kinemantik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "I Telefoni Digitali Kinemantik<RETRO_TM> garantiscono ricezione assolutamente ovunque!",
+      "name": "Telefono Digitale Kinemantik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네만틱<RETRO_TM> 디지털 폰은 어디에서나 터지는 전파를 보장합니다!",
+      "name": "키네만틱<RETRO_TM> 디지털 폰",
+      "code": "ko"
+    },
+    {
+      "description": "¡Se garantiza que los teléfonos digitales Kinemantik<RETRO_TM> tendrán servicio en todas partes!",
+      "name": "Teléfono digital Kinemantik<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "即时通<RETRO_TM>数字电话保证走到哪里都在服务区！",
+      "name": "即时通<RETRO_TM>数字电话",
+      "code": "zh"
+    },
+    {
+      "description": "Цифровые телефоны «Кинемантик»<RETRO_TM> гарантируют связь абсолютно везде!",
+      "name": "Цифровой телефон «Кинемантик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネマンティック<RETRO_TM> デジタルフォンでどこからでも接続しよう！",
+      "name": "キネマンティック<RETRO_TM> デジタルフォン",
+      "code": "ja"
+    },
+    {
+      "description": "Smartfony Kinemantik<RETRO_TM> gwarantują dostęp do usług absolutnie wszędzie!",
+      "name": "Kinemantik<RETRO_TM>: Smartfon",
+      "code": "pl"
+    },
+    {
+      "description": "Os Telefones Digitais Kinemantik<RETRO_TM> têm garantia de serviço em qualquer lugar!",
+      "name": "Telefone Digital Kinemantik<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "開映<RETRO_TM>數位電話保證去到哪都絕對有服務訊號！",
+      "name": "開映<RETRO_TM>數位電話",
+      "code": "tc"
+    },
+    {
+      "description": "โทรศัพท์แบบดิจิทัล Kinemantik<RETRO_TM> รับรองได้เลยว่าจะให้บริการครบทุกที่อย่างแน่นอน",
+      "name": "โทรศัพท์ดิจิทัล Kinemantik<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Kinemantik<RETRO_TM> Dijital Telefonların her yerde kesintisiz hizmet vermesi garantidir!",
+      "name": "Kinemantik<RETRO_TM> Dijital Telefon",
+      "code": "tr"
+    },
+    {
+      "description": "Цифрові телефони «Кінематик»<RETRO_TM> гарантовано працюють за будь-яких умов!",
+      "name": "Цифровий телефон «Кінематик»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

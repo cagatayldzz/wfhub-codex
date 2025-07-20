@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fish-scales-2e05965e5a.png",
+  "name": "Fish Scales",
+  "description": "A material used in tailoring clothes and cultivating synthetics.\n\nSource: Cut from all Plains of Eidolon Fish via Fisher Hai-Luk in Cetus (Earth).",
+  "languages": [
+    {
+      "description": "Ein Material, das zum Schneidern von Kleidung und zur Herstellung synthetischer Stoffe verwendet wird.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) geschnitten, aus allen Fischen der Ebenen von Eidolon.",
+      "name": "Fischschuppen",
+      "code": "de"
+    },
+    {
+      "description": "Un matériau utilisé dans la confection de vêtements et la culture de matières synthétiques.\n\nSource: découpé des poissons des Plaines d'Eidolon via la Pêcheuse Hai-Luk à Cetus (Terre).",
+      "name": "Écailles de poisson",
+      "code": "fr"
+    },
+    {
+      "description": "Un materiale utilizzato per confezionare abiti e coltivare materiali sintetici.\n\nFonte: Ottenibile da tutti i Pesci nelle Piane di Eidolon tramite la Pescivendola Hai-Luk a Cetus (Terra).",
+      "name": "Squame di Pesce",
+      "code": "it"
+    },
+    {
+      "description": "옷 재단이나 합성을 일구는 재료로 사용되어집니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 아무 아이돌론의 평원 물고기나 해체하면 획득할 수 있습니다.",
+      "name": "생선 비늘",
+      "code": "ko"
+    },
+    {
+      "description": "Un material utilizado para confeccionar ropa y cultivar productos sintéticos.\n\nFuente: Obtenido de todos los peces de las Llanuras de Eidolon a través de la Pescadora Hai-Luk en Cetus (Tierra).",
+      "name": "Escamas de pescado",
+      "code": "es"
+    },
+    {
+      "description": "这种材料被用来裁制衣物和培育合成物。\n\n获取途径：通过希图斯（地球）的渔人海露从各种夜灵平野鱼类中切割获取。",
+      "name": "鱼鳞",
+      "code": "zh"
+    },
+    {
+      "description": "Материал, используемый для пошива одежды и выращивания синтетики.\n\nМестонахождение: Получается при разделке любой рыбы с Равнин Эйдолона у рыбачки Хай-Лук в Цетусе (Земля).",
+      "name": "Рыбья Чешуя",
+      "code": "ru"
+    },
+    {
+      "description": "装飾品や人工素材の製作に使用される。\n\n場所：エイドロンの草原で獲れる全ての魚から切り取れる（シータスの釣り師Hai-Luk）。",
+      "name": "魚鱗",
+      "code": "ja"
+    },
+    {
+      "description": "Materiał używany do krawiectwa ubrań i produkowania syntetyków.\n\nMoże zostać zdobyte przez filetowanie dowolnych ryb Równin Eidolon u Rybaczki Hai-Luk w Cetus (Ziemia).",
+      "name": "Rybie Łuski",
+      "code": "pl"
+    },
+    {
+      "description": "Um material usado na confecção de roupas e no cultivo de sintéticos.\n\nLocalização: obtido através do corte de todos os peixes com a Pescadora Hai-Luk em Cetus, na Terra.",
+      "name": "Escamas de Peixe",
+      "code": "pt"
+    },
+    {
+      "description": "這種材料被用來裁製衣物和培育合成物。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開所有希圖斯（地球）的魚類取得。",
+      "name": "魚鱗",
+      "code": "tc"
+    },
+    {
+      "description": "วัสดุที่ใช้ในการตัดเย็บเสื้อผ้าและการผลิตสิ่งทอสังเคราะห์\n\nแหล่งที่พบ: ได้จากการแล่ปลาทุกชนิดในที่ราบ Eidolon ผ่านชาวประมง Hai-Luk ในซีตัส (โลก)",
+      "name": "เกล็ดปลา",
+      "code": "th"
+    },
+    {
+      "description": "Terzilikte ve sentetik yapımında kullanılan bir materyal.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Eidolon Ovalarındaki tüm Balıklardan kesilir.",
+      "name": "Balık Pulu",
+      "code": "tr"
+    },
+    {
+      "description": "З луски можна шити одяг або вирощувати синтетичні волокна.\n\nМожна отримати з усіх риб Рівнин Ейдолонів у рибалки Гай-Люк у Цетусі (Земля).",
+      "name": "Луска риби",
+      "code": "uk"
+    }
+  ]
+}

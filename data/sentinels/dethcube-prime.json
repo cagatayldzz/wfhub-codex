@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeDethCubePowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dethcube-prime-568b4f3c87.png",
+  "name": "Dethcube Prime",
+  "description": "With 'Assault Mode' and 'Vaporize' as default precepts, Dethcube Prime is the apex of lethal support. Comes loaded with Deth Machine Rifle Prime weapon.",
+  "armor": 150,
+  "languages": [
+    {
+      "description": "Mit 'Angriff' und 'Verdampfen' als Standard-Verhaltensregel, ist der Dethcube Prime die ultimative Unterstützung. Ist mit dem Deth-Maschinengewehr Prime ausgestattet.",
+      "name": "Dethcube Prime",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Mode Assaut' et 'Vaporisation' comme préceptes par défaut, Dethcube Prime est le nec plus ultra du soutien offensif. Il est déjà muni du Fusil Machine de Mort Prime.",
+      "name": "Dethcube Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Assault Mode' e 'Vaporize' come precetti base, Dethcube Prime è l'apice del supporto letale, con tanto di fucile Deth Machine Prime in dotazione.",
+      "name": "Dethcube Prime",
+      "code": "it"
+    },
+    {
+      "description": "'어썰트 모드' 및 '베이퍼라이즈'를 기본 프리셉트로 탑재한 데스큐브 프라임은 치명적 서포트의 정점을 차지합니다. 주무기로 데스 머신 라이플 프라임을 장비하고 있습니다.",
+      "name": "데스큐브 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Modo de asalto' y 'Vaporizar' como preceptos predeterminados, Dethcube Prime es la cumbre del apoyo letal. Viene armado con el rifle Deth Machine Prime.",
+      "name": "Dethcube Prime",
+      "code": "es"
+    },
+    {
+      "description": "以「突击模式」和「汽化」作为预设指令，死亡魔方 Prime 是致命支援的巅峰。其标配武器为死亡机枪 Prime。",
+      "name": "死亡魔方 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "С заповедями «Атакующий режим» и «Испаритель», Куб Смерти Прайм действует как беспощадная машина убийства. Снаряжён пулемётом Смерти Прайм.",
+      "name": "Куб Смерти Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "「Assault Mode」と「Vaporize」を標準搭載したDethcube Primeはその名の通り、死をもたらす恐るべきセンチネルである。主兵装にDeth Machine Primeライフルを搭載。",
+      "name": "Dethcube Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Z instrukcjami „Tryb Szturmowy” i „Zwęglenie”, Dethcube Prime jest szczytem zabójczego wsparcia. Dethcube Prime jest wyposażony w Karabin Maszynowy Deth Prime.",
+      "name": "Dethcube Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Assault Mode' e 'Vaporize' como preceitos padrões, a Dethcube Prime é o ápice do suporte letal. Ela vem equipada com a arma Rifle Deth Prime.",
+      "name": "Dethcube Prime",
+      "code": "pt"
+    },
+    {
+      "description": "以「突擊模式」和「汽化」作為預設指令，死亡魔方 Prime 是致命支援的巔峰。已安裝在死亡機槍 Prime 武器。",
+      "name": "死亡魔方 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Dethcube Prime เป็นสุดยอดผู้ช่วยที่ร้ายกาจ โดยมี 'Assault Mode' และ 'Vaporize' เป็นคำสั่งเริ่มต้น มาพร้อมอาวุธ Deth Machine Rifle Prime",
+      "name": "Dethcube Prime",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergeleri 'Assault Mode' ve 'Vaporize' ile beraber kullanıldığında Dethcube Prime ölümcül desteğin zirvesine ulaşır. Dethcube Prime'ı aldığınızda Deth Makinalı Tüfek Prime silahı ile gelir.",
+      "name": "Dethcube Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Вартовий, який посів найвище місце в ланцюжку смертоносної підтримки. Має стандартні настанови «Штурмовий режим» і «Випарник», споряджений кулеметом «Смертомет-прайм».",
+      "name": "Смертокуб-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lavos-cordatus-helmet-4f3daaea55.png",
+  "name": "Lavos Cordatus Helmet",
+  "description": "An alternate helmet for Lavos, emblematic of the master transmuter's search for wisdom.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Lavos getragen und verkörpert die Suche des Umwandlers nach Weisheit.",
+      "name": "Lavos-Helm: Cordatus",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif pour Lavos qui représente la quête de la sagesse des maîtres alchimistes.",
+      "name": "Casque Lavos Cordatus",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Lavos, emblema della ricerca di saggezza del maestro trasmutatore.",
+      "name": "Elmo Lavos Cordatus",
+      "code": "it"
+    },
+    {
+      "description": "변성술사가 가진 지식에 대한 갈망을 상징하는, 라보스를 위한 대체 헬멧입니다.",
+      "name": "라보스 코르다투스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo para Lavos, emblema de la búsqueda de la sabiduría del maestro transmutador.",
+      "name": "Casco Cordatus de Lavos",
+      "code": "es"
+    },
+    {
+      "description": "Lavos 的替换头盔，象征着大师级炼制术师对智慧的追寻。",
+      "name": "Lavos 明智头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Лавоса, символизирующий поиски мудрости этим мастером трансмутации.",
+      "name": "Шлем Лавоса: Кордатус",
+      "code": "ru"
+    },
+    {
+      "description": "変換の知恵の探求を象徴するLavos専用の別ヘルメット。",
+      "name": "Lavos Cordatus ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Alternatywny hełm Lavosa, symbolizujący dążenie transmutatora do mądrości.",
+      "name": "Lavos: Hełm Cordatus",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo para o Lavos, simbolismo emblemático da busca do mestre transmutador pela sabedoria.",
+      "name": "Lavos: Capacete Cordatus",
+      "code": "pt"
+    },
+    {
+      "description": "Lavos 的替換用頭盔，象徵著轉換大師對智慧的追求。",
+      "name": "Lavos 精智頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองของ Lavos เป็นสัญลักษณ์แห่งการค้นหาภูมิปัญญาของนักเล่นแร่แปรธาตุที่ช่ำชอง",
+      "name": "หมวกเหล็ก Lavos Cordatus",
+      "code": "th"
+    },
+    {
+      "description": "Lavos için alternatif bir miğfer, dönüşüm üstadı'nın bilgelik arayışını simgeler.",
+      "name": "Lavos Cordatus Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом для ворфрейма Лавоса, який символізує для цього майстра перетворення пошуки мудрості.",
+      "name": "Шолом «Кордатус» для Лавоса",
+      "code": "uk"
+    }
+  ]
+}

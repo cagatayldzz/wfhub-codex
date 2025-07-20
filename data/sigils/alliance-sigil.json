@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilBasic",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/alliance-sigil-bfb47122ca.png",
+  "name": "Alliance Sigil",
+  "description": "This sigil is worn by the members united within an Alliance.",
+  "languages": [
+    {
+      "description": "Dieses Siegel wird von Mitgliedern eine Allianz getragen.",
+      "name": "Siegel: Allianz",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau est porté par les membres unis au sein d'une Alliance.",
+      "name": "Sceau d'Alliance",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo è indossato dai membri uniti in un'Alleanza.",
+      "name": "Sigillo Alleanza",
+      "code": "it"
+    },
+    {
+      "description": "얼라이언스에 소속된 멤버가 사용하는 시질입니다.",
+      "name": "얼라이언스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello es usado por los miembros unidos de una alianza.",
+      "name": "Sello de Alianza",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章是由联盟内团结一致的成员所配戴。",
+      "name": "联盟纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот сигил используется членами Альянса.",
+      "name": "Сигил Альянса",
+      "code": "ru"
+    },
+    {
+      "description": "このシジルは連盟に加入したメンバーが着用している。",
+      "name": "連盟シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten Znak noszony jest przez członków zrzeszonych w Sojuszu.",
+      "name": "Znak Sojuszu",
+      "code": "pl"
+    },
+    {
+      "description": "Este Brasão é usado pelos membros unidos dentro de uma Aliança.",
+      "name": "Brasão: Aliança",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章是由聯盟內團結一致的成員所配戴。",
+      "name": "聯盟紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้สวมใส่โดยสมาชิกที่เป็นหนึ่งเดียวกันในกลุ่มพันธมิตร",
+      "name": "เครื่องหมาย: Alliance",
+      "code": "th"
+    },
+    {
+      "description": "Bu mühür bir ittifakta bulunan üyeler tarafından takılır",
+      "name": "İttifak Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл, що відзначає членів одного альянсу.",
+      "name": "Сиґіл альянсу",
+      "code": "uk"
+    }
+  ]
+}

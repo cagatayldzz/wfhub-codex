@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/VoidAngelEphemeraB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/seraphayre-ephemera-8482950f8a.png",
+  "name": "Seraphayre Ephemera",
+  "description": "Walk in the echo of an ethereal song.",
+  "languages": [
+    {
+      "description": "Wandle im Echo eines ätherischen Liedes.",
+      "name": "Ephemera: Seraphayre",
+      "code": "de"
+    },
+    {
+      "description": "Marchez dans l'écho d'une chanson éthérée.",
+      "name": "Ephemera Seraphayre",
+      "code": "fr"
+    },
+    {
+      "description": "Cammina nell'eco di una canzone eterea.",
+      "name": "Ephemera Seraphayre",
+      "code": "it"
+    },
+    {
+      "description": "의식 깊은 곳에서 은은히 울리는 노래의 잔향 속에서 걸어 보세요.",
+      "name": "세라페이어 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Camina en el eco de una canción etérea.",
+      "name": "Efímero Seraphayre",
+      "code": "es"
+    },
+    {
+      "description": "走进空灵歌曲的回声中。",
+      "name": "六翼天使幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Идите сквозь эхо божественной песни.",
+      "name": "Эфемера: Серафайра",
+      "code": "ru"
+    },
+    {
+      "description": "阿求の歌が鳴り響く道を進もう。",
+      "name": "Seraphayre エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Krocz z echem eterycznej pieśni.",
+      "name": "Efemera Seraphayre",
+      "code": "pl"
+    },
+    {
+      "description": "Caminhe no eco de uma canção etérea.",
+      "name": "Efêmera: Seráfica",
+      "code": "pt"
+    },
+    {
+      "description": "步入空靈又飄渺歌曲的迴聲之中。",
+      "name": "六翼熾天使幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "เดินอยู่ท่ามกลางเสียงก้องกังวานของเพลงที่ไร้ตัวตน",
+      "name": "อิเฟมเมอรา Seraphayre",
+      "code": "th"
+    },
+    {
+      "description": "Sonsuz bir şarkının yankısında yürü.",
+      "name": "Seraphayre Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Пройдіться у відлунні неземної пісні.",
+      "name": "Ефемера «Серафейр»",
+      "code": "uk"
+    }
+  ]
+}

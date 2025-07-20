@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageCorpusOsprey",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/osprey-glyph-beec735edf.png",
+  "name": "Osprey Glyph",
+  "description": "A glyph of a Corpus Osprey",
+  "languages": [
+    {
+      "description": "Glyphe einer Corpus Drohne",
+      "name": "Glyphe: Drohnen",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant un Osprey Corpus",
+      "name": "Glyphe Osprey",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo di un Corpus Osprey",
+      "name": "Glifo Osprey",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 오스프리를 묘사한 글리프입니다.",
+      "name": "오스프리 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a un halieto corpus",
+      "name": "Glifo de Halieto",
+      "code": "es"
+    },
+    {
+      "description": "鱼鹰的浮印",
+      "name": "鱼鹰浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением дрона Корпуса",
+      "name": "Глиф: Дрон",
+      "code": "ru"
+    },
+    {
+      "description": "コーパスオスプレイのグリフ",
+      "name": "オスプレイ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Drona Corpus",
+      "name": "Glif Drona",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo de um Gavião Corpus",
+      "name": "Glifo: Gavião",
+      "code": "pt"
+    },
+    {
+      "description": "魚鷹的浮印",
+      "name": "魚鷹浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ Corpus Osprey",
+      "name": "ภาพสัญลักษณ์ Osprey",
+      "code": "th"
+    },
+    {
+      "description": "Corpus Osprey için glif",
+      "name": "Osprey Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням дрона Корпусу.",
+      "name": "Гліф «Дрон»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-cierzo-helmet-9c36072395.png",
+  "name": "Zephyr Cierzo Helmet",
+  "description": "A uniquely-styled alternate helmet for Zephyr.",
+  "languages": [
+    {
+      "description": "Ein einzigartig gestalteter, alternativer Helm für Zephyr.",
+      "name": "Zephyr-Helm: Cierzo",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif dans un style unique pour Zephyr.",
+      "name": "Casque Zephyr Cierzo",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Zephyr dallo stile unico.",
+      "name": "Elmo Zephyr Cierzo",
+      "code": "it"
+    },
+    {
+      "description": "제피르 워프레임을 위한 독특한 스타일의 대체 헬멧입니다.",
+      "name": "제피르 셰르소 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Zephyr.",
+      "name": "Casco Cierzo de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 的独特样式替换头盔。",
+      "name": "Zephyr 西熟风头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Зефир уникального стиля исполнения.",
+      "name": "Шлем Зефир: Сьерсо",
+      "code": "ru"
+    },
+    {
+      "description": "ユニークな形をしたZephyr用ヘルメット",
+      "name": "Zephyr Cierzo ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowo stylizowany hełm dla Warframe Zephyr.",
+      "name": "Zephyr: Hełm Cierzo",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo estilizado unicamente para Zephyr.",
+      "name": "Zephyr: Capacete Cierzo",
+      "code": "pt"
+    },
+    {
+      "description": "Zephyr 的獨特樣式替換頭盔。",
+      "name": "Zephyr 西熟風頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองที่มีสไตล์เฉพาะตัวสำหรับ Zephyr",
+      "name": "หมวกเหล็ก Zephyr Cierzo",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr için dizayn edilmiş eşsiz bir alternatif miğfer",
+      "name": "Zephyr Cierzo Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом виняткового виконання для ворфрейма Зефіри.",
+      "name": "Шолом «Сьєрзо» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

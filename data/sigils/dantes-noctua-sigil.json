@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante's-noctua-sigil-cab247da92.png",
+  "name": "Dante's Noctua Sigil",
+  "description": "A sigil depicting Dante's treasured Tome.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Dantes geschätzten Foliant darstellt.",
+      "name": "Siegel: Dantes Noctua",
+      "code": "de"
+    },
+    {
+      "description": "Un sceau représentant le précieux Volume de Dante.",
+      "name": "Sceau du Noctua de Dante",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo raffigurante il prezioso Tomo di Dante.",
+      "name": "Sigillo Noctua di Dante",
+      "code": "it"
+    },
+    {
+      "description": "단테의 귀중한 서책이 묘사된 시질입니다.",
+      "name": "단테의 녹투아 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el preciado tomo de Dante.",
+      "name": "Sello del Noctua de Dante",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着 Dante 宝贵典籍的纹章。",
+      "name": "Dante 的夜枭纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Символ, изображающий заветный фолиант Данте.",
+      "name": "Сигил: Ноктуа Данте",
+      "code": "ru"
+    },
+    {
+      "description": "Danteの秘蔵書を描いたシジル。",
+      "name": "Dante's Noctua シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający cenną Księgę Dantego.",
+      "name": "Znak Noctua Dantego",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o precioso Manuscrito do Dante.",
+      "name": "Brasão: Noctua do Dante",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Dante 的寶貴書籍的紋章。",
+      "name": "Dante 的智典紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึงหนังสือล้ำค่าของ Dante",
+      "name": "เครื่องหมาย: Dante's Delight",
+      "code": "th"
+    },
+    {
+      "description": "Dante'nin değerli Kitabını tasvir eden bir mühür.",
+      "name": "Dante'nin Noctua Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням дорогоцінного фоліанта Данте.",
+      "name": "Сиґіл «Ноктуа Данте»",
+      "code": "uk"
+    }
+  ]
+}

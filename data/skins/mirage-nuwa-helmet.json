@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-nuwa-helmet-908222bb20.png",
+  "name": "Mirage Nuwa Helmet",
+  "description": "Mirage Nuwa's signature helmet.",
+  "languages": [
+    {
+      "description": "Mirage Nuwas bevorzugter Helm.",
+      "name": "Mirage-Helm: Nuwa",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Mirage Nuwa.",
+      "name": "Casque Mirage Nuwa",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Mirage Nuwa.",
+      "name": "Elmo Mirage Nuwa",
+      "code": "it"
+    },
+    {
+      "description": "미라지 여와의 대표 헬멧입니다.",
+      "name": "미라지 여와 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Mirage Nuwa.",
+      "name": "Casco Nuwa de Mirage",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 女娲的标志性头盔。",
+      "name": "Mirage 女娲头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Мираж Нува.",
+      "name": "Шлем Мираж: Нува",
+      "code": "ru"
+    },
+    {
+      "description": "Mirage Nuwaのメインヘルメット。",
+      "name": "Mirage Nuwa ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Mirage Nuwa.",
+      "name": "Mirage: Hełm Nuwa",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Mirage Nuwa.",
+      "name": "Mirage: Capacete Nuwa",
+      "code": "pt"
+    },
+    {
+      "description": "Mirage 女媧的標誌性頭盔。",
+      "name": "Mirage 女媧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Mirage Nuwa",
+      "name": "หมวกเหล็ก Mirage Nuwa",
+      "code": "th"
+    },
+    {
+      "description": "Mirage Nuwa'nın özel miğferi.",
+      "name": "Mirage Nuwa Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Нюйва» для Міраж.",
+      "name": "Шолом «Нюйва» для Міраж",
+      "code": "uk"
+    }
+  ]
+}

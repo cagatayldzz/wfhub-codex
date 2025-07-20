@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Necramech/TefilahIridosHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/iridos-voidrig-necramech-helmet-628da95c5f.png",
+  "name": "Iridos Voidrig Necramech Helmet",
+  "description": "A chromatic variant of the Voidrig’s signature helmet.",
+  "languages": [
+    {
+      "description": "Eine chromatische Variante des bevorzugten Helms des Voidrigs.",
+      "name": "Necramech-Helm: Voidrig Iridos",
+      "code": "de"
+    },
+    {
+      "description": "Une variante chromatique du Casque emblématique de Voidrig.",
+      "name": "Casque Necramech Voidrig Iridos",
+      "code": "fr"
+    },
+    {
+      "description": "Una variante cromatica dell'Elmo distintivo di Voidrig.",
+      "name": "Elmo Necramech Voidrig Iridos",
+      "code": "it"
+    },
+    {
+      "description": "보이드리그의 대표 헬멧에 색채를 가미한 버전입니다.",
+      "name": "이리도스 보이드리그 네크라메크 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Una variante cromática del casco característico del Voidrig.",
+      "name": "Diseño Iridos de casco de Necramech Voidrig",
+      "code": "es"
+    },
+    {
+      "description": "虚空锐将标志性头盔的色彩变体。",
+      "name": "虚空锐将殁世机甲炫彩头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Хроматический вариант особого шлема Войдрига.",
+      "name": "Шлем Некрамеха: Иридос Войдриг",
+      "code": "ru"
+    },
+    {
+      "description": "Voidrigのメインヘルメットにクローム加工を施したもの。",
+      "name": "Voidrig Iridos ネクロメカヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Chromatyczny wariant standardowego hełmu Nekramecha Voidrig.",
+      "name": "Nekramech: Hełm Voidrig Iridos",
+      "code": "pl"
+    },
+    {
+      "description": "Uma variante cromática do capacete tradicional do Voidrig.",
+      "name": "Voidrig: Capacete Iridos",
+      "code": "pt"
+    },
+    {
+      "description": "彩色變化版的虛空魂標誌性頭盔。",
+      "name": "亡骸機甲 虛空魂虹彩頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กรุ่นที่มีสีที่เป็นซิกเนเจอร์ของ Voidrig",
+      "name": "หมวกเหล็ก Iridos Voidrig Necramech",
+      "code": "th"
+    },
+    {
+      "description": "Voidrig'in özel miğferinin kromatik bir çeşidi.",
+      "name": "Iridos Voidrig Necramech Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Хромована варіація визначного шолому «Бура Порожнечі».",
+      "name": "Шолом «Іридій» для некрамеха «Бур Порожнечі»",
+      "code": "uk"
+    }
+  ]
+}

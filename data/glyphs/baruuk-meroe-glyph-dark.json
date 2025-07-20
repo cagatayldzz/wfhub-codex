@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePacifistAltHelmDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/baruuk-meroe-glyph---dark-f7f1a86957.png",
+  "name": "Baruuk Meroe Glyph - Dark",
+  "description": "A glyph depicting Baruuk Meroe on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Baruuk Meroe vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Baruuk Meroe (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Baruuk Meroe sur un fond sombre.",
+      "name": "Glyphe Baruuk Meroe - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Baruuk Meroe su uno sfondo scuro.",
+      "name": "Glifo Baruuk Meroe - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 바루크 메로에를 묘사한 글리프입니다.",
+      "name": "바루크 메로에 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Baruuk Meroe sobre un fondo oscuro.",
+      "name": "Glifo de Baruuk Meroe - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Baruuk 麦罗埃在黑暗背景下的浮印。",
+      "name": "Baruuk 麦罗埃浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Баруука «Мероэ» на темном фоне.",
+      "name": "Глиф: Баруук Мероэ - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたBaruuk Meroe のグリフ。",
+      "name": "Baruuk Meroe グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif pokazujący Baruuka na ciemnym tle.",
+      "name": "Glif Baruuk Meroe — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Baruuk Meroe em um fundo escuro.",
+      "name": "Glifo: Baruuk Meroe (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Baruuk 麥羅埃在黑暗背景下的浮印。",
+      "name": "Baruuk 麥羅埃浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Baruuk Meroe บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Baruuk Meroe - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Baruuk Meroe koyu fonlu glif.",
+      "name": "Baruuk Meroe Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Баруука в шоломі «Мерое» на темному тлі.",
+      "name": "Темний гліф «Баруук „Мерое“»",
+      "code": "uk"
+    }
+  ]
+}

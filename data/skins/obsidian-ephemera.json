@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/ObsidianEphemeraA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/obsidian-ephemera-fbfa44e22e.png",
+  "name": "Obsidian Ephemera",
+  "description": "A next-generation Ephemera.",
+  "languages": [
+    {
+      "description": "Ein Ephemera der nächsten Generation.",
+      "name": "Ephemera: Obsidian",
+      "code": "de"
+    },
+    {
+      "description": "Ephemera nouvelle génération.",
+      "name": "Ephemera Obsidienne",
+      "code": "fr"
+    },
+    {
+      "description": "Un'Ephemera di nuova generazione.",
+      "name": "Ephemera Obsidian",
+      "code": "it"
+    },
+    {
+      "description": "차세대 이페메라입니다.",
+      "name": "옵시디언 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Un efímero de última generación.",
+      "name": "Efímero Obsidiana",
+      "code": "es"
+    },
+    {
+      "description": "一个次世代的幻纹。",
+      "name": "黑曜石幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Эфемера нового поколения.",
+      "name": "Эфемера: Обсидиан",
+      "code": "ru"
+    },
+    {
+      "description": "次世代のエフェメラ。",
+      "name": "Obsidian エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Efemera następnej generacji.",
+      "name": "Efemera Obsydianu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Efêmera de última geração.",
+      "name": "Efêmera: Obsidiana",
+      "code": "pt"
+    },
+    {
+      "description": "一個次世代幻紋。",
+      "name": "黑曜石幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอรารุ่นใหม่",
+      "name": "อิเฟมเมอรา Obsidian",
+      "code": "th"
+    },
+    {
+      "description": "Yeni nesil bir Ephemera.",
+      "name": "Obsidian Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Ефемера наступного покоління.",
+      "name": "Обсидіанова ефемера",
+      "code": "uk"
+    }
+  ]
+}

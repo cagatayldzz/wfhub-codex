@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grustrag-three-beacon-7b4873b694.png",
+  "name": "Grustrag Three Beacon",
+  "description": "Lures the Grustrag Three out of hiding. One-time use gear item that can only be used in locations where the assassins would normally appear.",
+  "languages": [
+    {
+      "description": "Lockt das Grustrag Trio aus seinem Versteck. Kann nur einmal und bloß in Missionen verwendet werden, in denen der Attentäter normalerweise auftaucht.",
+      "name": "Köder: Grustrag Trio",
+      "code": "de"
+    },
+    {
+      "description": "Attire le Trio Grustrag hors de leur cachette. Ce matériel consommable, utilisable une seule fois, ne fonctionne que dans les endroits où des assassins pourraient normalement apparaître.",
+      "name": "Balise pour le Trio Grustrag",
+      "code": "fr"
+    },
+    {
+      "description": "Attira allo scoperto il Trio Grustrag. Una dotazione monouso che può essere utilizzata solo nei luoghi in cui possono apparire normalmente.",
+      "name": "Esca Trio Grustrag",
+      "code": "it"
+    },
+    {
+      "description": "숨어 있던 그러스트래그 삼총사를 꾀어냅니다. 이 아이템은 소모성 1회용이며, 일반 상황에서 암살자가 나타날 수 있는 미션에서만 사용할 수 있습니다.",
+      "name": "그러스트래그 삼총사 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Atrae a los tres Grustrag fuera de su escondite. Una herramienta que solo se puede utilizar una vez en lugares donde aparece normalmente el asesino.",
+      "name": "Baliza de los Tres Grustrag",
+      "code": "es"
+    },
+    {
+      "description": "吸引「Grustrag 三霸」现身的物品。为一次性道具，仅能使用在刺客一般会出没的场景中。",
+      "name": "Grustrag 三霸信标",
+      "code": "zh"
+    },
+    {
+      "description": "Приманка для Грастрагской тройки. После использования исчезает, может быть применена только на миссиях, где могут появиться убийцы.",
+      "name": "Маячок: Грастрагская тройка",
+      "code": "ru"
+    },
+    {
+      "description": "Grustrag隊を陰から誘い出せ。刺客がいつも現れるであろう場所で使用可能な1回限りのギアアイテム。",
+      "name": "Grustrag隊 ビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Zmusza Trio Grustrag do przybycia. Przedmiot jednorazowego użytku, który można wykorzystać w miejscu, gdzie normalnie może pojawić się zabójca.",
+      "name": "Wabik Trio Grustrag",
+      "code": "pl"
+    },
+    {
+      "description": "Atrai o Trio Grustrag para fora de seu esconderijo. Item consumível que só pode ser usado uma vez em locais onde estes assassinos costumam aparecer.",
+      "name": "Sinalizador do Trio Grustrag",
+      "code": "pt"
+    },
+    {
+      "description": "吸引 GRUSTRAG 三霸現身的物品。為一次性道具，僅能使用在刺客一般會出沒的場景。",
+      "name": "Grustrag 三霸信標",
+      "code": "tc"
+    },
+    {
+      "description": "หลอกล่อ Grustrag Three ให้ออกมาจากที่ซ่อน ไอเทมแบบใช้ได้ครั้งเดียวที่ใช้ได้เฉพาะในสถานที่ที่นักฆ่ามักจะมาปรากฏตัว",
+      "name": "บีคอน Grustrag Three",
+      "code": "th"
+    },
+    {
+      "description": "Grustrug Three'yi saklandığı yerden çıkmaya teşvik eder. Bir kullanımlık bu ürün sadece suikastçinin normalde belirdiği lokasyonlarda kullanılabilir.",
+      "name": "Grustrag Three İşareti",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій, який виманює Трьох із Ґрастраґу зі сховку. Одноразовий предмет, можна використати лише в тих завданнях, де ці вбивці зазвичай з’являються.",
+      "name": "Сигнал для Трьох із Ґрастраґу",
+      "code": "uk"
+    }
+  ]
+}

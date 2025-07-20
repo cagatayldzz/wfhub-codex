@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akarius-2009d8750f.png",
+  "name": "Akarius",
+  "description": "Bombard legions of enemies with target seeking rockets. These dual launchers reload faster while sprinting, even more so in Gauss’ hands. Rockets arm after reaching a safe distance.",
+  "languages": [
+    {
+      "description": "Bombardiere Legionen von Feinden mit zielsuchenden Raketen. Diese Dual-Werfer laden beim Sprinten schneller nach und noch schneller in Gauss' Händen. Die Raketen werden erst scharf nach einer gewissen Entfernung.",
+      "name": "Akarius",
+      "code": "de"
+    },
+    {
+      "description": "Engagez des légions d'ennemis avec des roquettes à tête chercheuse. Ces lanceurs doubles se rechargent plus facilement en sprintant, surtout dans les mains de Gauss. Les missiles s'arment après une distance de sécurité.",
+      "name": "Akarius",
+      "code": "fr"
+    },
+    {
+      "description": "Bombarda legioni di nemici con razzi che rintracciano l'obiettivo. Questi lanciarazzi si ricaricano più velocemente mentre corri, soprattutto se impugnati da Gauss. I razzi vengono armati dopo aver raggiunto una distanza di sicurezza.",
+      "name": "Akarius",
+      "code": "it"
+    },
+    {
+      "description": "목표를 쫓아 날아가는 로켓으로 적 군단을 폭격해 보세요. 이 양손 런처는 달리는 동안 더 빠르게 재장전되며, 가우스가 사용할 경우 그 효과는 더욱 증대됩니다. 로켓들은 안전을 위해 일정 거리 밖으로 나간 뒤에 폭발합니다.",
+      "name": "아카리우스",
+      "code": "ko"
+    },
+    {
+      "description": "Bombardea legiones de enemigos con proyectiles dirigidos. Estos lanzadores duales recargan más rápido mientras corres, y más aún si están en manos de Gauss.",
+      "name": "Akarius",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKARIUS）使用目标追踪火箭弹轰击成群的敌人。冲刺时可以更快地装填弹匣，在 Gauss 手里效果更加显著。火箭会在离开安全距离后爆炸。",
+      "name": "阿利乌双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Бомбардируйте легионы врагов самонаводящимися ракетами. Эти двойные установки перезаряжаются быстрее во время бега, и ещё быстрее в руках Гаусса. Ракеты взрываются при отходе на безопасное расстояние.",
+      "name": "Акариус",
+      "code": "ru"
+    },
+    {
+      "description": "目標検知追随装置付きのロケットを使って敵の大群に狙いを定めよ。デュアルランチャーのリロード速度はダッシュ中上昇して、Gaussが装備していると更に速くなる。安全を保つために安全地帯に到達した後ロケットは武装される。",
+      "name": "Akarius",
+      "code": "ja"
+    },
+    {
+      "description": "Bombarduj legiony wrogów dzięki namierzającym wroga rakietom. Te podwójne wyrzutnie mają szybsze przeładowanie w sprincie, zwłaszcza w rękach Gaussa. Ze względów bezpieczeństwa rakiety uzbroją się po przebyciu odpowiedniego dystansu.",
+      "name": "Akarius",
+      "code": "pl"
+    },
+    {
+      "description": "Bombardeie legiões de inimigos com foguetes perseguidores. Estes lança-foguetes duplos recarregam mais rápido ao correr, ainda mais nas mãos de Gauss. Os foguetes se armam após atingirem uma distância segura.",
+      "name": "Akarius",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AKARIUS）以自動追擊的火箭彈轟擊成群的敵人。衝刺時加快裝填彈匣的速度，Gauss 使用時的效果更顯著。阿利烏雙槍設有防護機制，火箭只會在安全射程時引爆。",
+      "name": "阿利烏雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "ระดมยิงกองทหารของศัตรูด้วยปืนยิงจรวดนำวิถี ปืนพกคู่นี้จะรีโหลดกระสุนเร็วขึ้นในขณะที่กำลังวิ่งเร็ว และจะยิ่งรีโหลดเร็วขึ้นอีกหาก Gauss เป็นผู้ใช้ ควรยิงขีปนาวุธหลังจากอยู่ในจุดที่เป็นระยะปลอดภัย",
+      "name": "Akarius",
+      "code": "th"
+    },
+    {
+      "description": "Hedef güdümlü füzelerle düşman birliklerini bombalayın. Bu çift fırlatıcıların özellikle Gauss'un ellerinde, sprint yaparak yeniden şarj edilmesi daha kolaydır. Füzeler güvenli bir mesafeye ulaştıktan sonra devreye girer.",
+      "name": "Akarius",
+      "code": "tr"
+    },
+    {
+      "description": "Парні мініракетомети, що стріляють самонавідними ракетами. Швидше перезаряджаються під час бігу, особливо у руках Ґаусса. Задля безпеки власника боєголовки ракет зводяться лише на безпечній відстані.",
+      "name": "Акарій",
+      "code": "uk"
+    }
+  ]
+}

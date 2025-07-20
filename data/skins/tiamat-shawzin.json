@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropMandolinSentient",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tiamat-shawzin-0b4c00f207.png",
+  "name": "Tiamat Shawzin",
+  "description": "Compose ballads of old threats risen anew, with this shawzin.",
+  "languages": [
+    {
+      "description": "Komponiere mit dieser Shawzin Balladen über alte Bedrohungen, die erneut auferstanden sind.",
+      "name": "Shawzin: Tiamat",
+      "code": "de"
+    },
+    {
+      "description": "Composez des ballades d'anciennes menaces faisant à nouveau surface grâce à ce Shawzin.",
+      "name": "Shawzin Tiamat",
+      "code": "fr"
+    },
+    {
+      "description": "Componi ballate di vecchie minacce risorte a nuova vita con questo shawzin.",
+      "name": "Shawzin Tiamat",
+      "code": "it"
+    },
+    {
+      "description": "이 샤진으로 되살아나는 옛 위협의 발라드를 연주하세요.",
+      "name": "티아마트 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Con este Shawzin, compón baladas de amenazas antiguas que han vuelto a surgir.",
+      "name": "Shawzin Tiamat",
+      "code": "es"
+    },
+    {
+      "description": "用这把三线琴谱写旧时威胁再次崛起的民谣。",
+      "name": "提亚马特三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Сочиняйте баллады про то, как старые угрозы становятся явью с этим Шазином.",
+      "name": "Шазин: Тиамат",
+      "code": "ru"
+    },
+    {
+      "description": "このShawzinで蘇る古の脅威のバラードを奏でよう。",
+      "name": "Tiamat Shawzin",
+      "code": "ja"
+    },
+    {
+      "description": "Chwyć tę Shawzin i komponuj ballady o zmartwychwstałych, pradawnych zagrożeniach.",
+      "name": "Shawzin Tiamat",
+      "code": "pl"
+    },
+    {
+      "description": "Componha melodias de ameaças passadas que se emergem com este shawzin.",
+      "name": "Shawzin Tiamat",
+      "code": "pt"
+    },
+    {
+      "description": "透過這把三線琴來編曲關於舊威脅重新崛起的民謠。",
+      "name": "提亞馬特三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "แต่งเพลงบัลลาดเกี่ยวกับอดีตภัยคุกคามที่หวนคืนมาใหม่ด้วย Shawzin นี้",
+      "name": "Tiamat Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Bu shawzin ile eski tehditleri barındıran nağmeler yeniden doğuyor.",
+      "name": "Tiamat Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Складайте балади про те, як старі вороги знову підняли голову. Додайте шодзін у колесо жестів і застосуйте, щоб зіграти.",
+      "name": "Шодзін «Тіамат»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nikana-prime-b28a0c7525.png",
+  "name": "Nikana Prime",
+  "description": "An ancient blade predating the fall of the Orokin Empire. Forged using techniques lost over the centuries, the edge remains sharper than that of any modern Nikana.",
+  "languages": [
+    {
+      "description": "Eine uraltes Schwert aus den Zeiten vor dem Fall des Orokin Imperiums. Geschmiedet mit Hilfe von Techniken, die über die Jahrhunderte in das Vergessen gerieten, blieb dessen Klinge dennoch schärfer als die jedes modernen Nikanas.",
+      "name": "Nikana Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une ancienne épée datant d'avant la chute de l'Empire Orokin ayant été forgée à l'aide de techniques perdues depuis des siècles. Son fil est beaucoup plus aiguisé qu'un Nikana moderne.",
+      "name": "Nikana Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una lama antica antecedente la caduta dell'Impero Orokin. Forgiata tramite tecniche perdute nei secoli, la lama rimane più affilata di qualsiasi Nikana moderna.",
+      "name": "Nikana Prime",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 제국이 몰락하기 전 만들어진 고대의 검인 니카나 프라임의 검날은 수세기를 넘어 실전된 제작 기법과 다르게 여전히 그 어떤 현대의 니카나의 날보다 날카롭습니다.",
+      "name": "니카나 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una hoja antigua antecediendo la caída del imperio orokin. Forjada usando técnicas perdidas a lo largo de los siglos, su borde es más cortante que cualquier otra Nikana moderna.",
+      "name": "Nikana Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：NIKANA PRIME）远在 Orokin 帝国灭亡之前即存在的古老刀刃。以失落的技术所锻冶之刀锋，至今仍比当代各型侍刃来的锐利。",
+      "name": "侍刃 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Древний клинок, предшествующий закату империи Орокин. Используя техники ковки, утерянные на протяжении веков, лезвие удалось сделать острее, чем у любой современной Никаны.",
+      "name": "Никана Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン皇帝が崩御する以前のいにしえの刃。それは何世紀に及び失われた技術で鍛造され、現存のどのNikanaよりも刃先が鋭い。",
+      "name": "Nikana Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Starożytne ostrze sprzed upadku Imperium Orokin. Wykute przy użyciu technik utraconych na przestrzeni wieków, krawędź pozostaje ostrzejsza niż w każdej nowoczesnej Nikanie.",
+      "name": "Nikana Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma antiga lâmina que antecede a queda do Império Orokin. Forjada usando técnicas perdidas ao longo dos séculos, o fio de corte permanece mais afiado que aquele de qualquer Nikana moderna.",
+      "name": "Nikana Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：NIKANA PRIME）遠在 Orokin 帝國滅亡之前即存在的古老刀刃。以失落數百年的技術所鍛冶之刀鋒，至今仍比當代各型侍刃來的銳利。",
+      "name": "侍刃 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบโบราณที่สร้างขึ้นก่อนการล่มสลายของจักรวรรดิ Orokin ซึ่งใช้เทคนิคที่สูญหายไปหลายศตวรรษแล้วสร้างขึ้นมา ทำให้ดาบยังคงคมกริบกว่าดาบ Nikana ยุคใหม่",
+      "name": "Nikana Prime",
+      "code": "th"
+    },
+    {
+      "description": "Orokin İmparatorluğu günlerine dayanan kadim bir kılıç. Yüzyıllar önce kullanılan bir teknikle dövülen bu kılıç, diğer modern Nikana'lara göre çok daha keskindir.",
+      "name": "Nikana Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Прадавній меч часів падіння Орокінської імперії. Викуваний за загубленою у віках технологією клинок гостріший за будь-яку сучасну нікану.",
+      "name": "Нікана-прайм",
+      "code": "uk"
+    }
+  ]
+}

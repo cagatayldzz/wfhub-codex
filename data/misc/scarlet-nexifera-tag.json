@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedNexiferaRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarlet-nexifera-tag-6e9771084a.png",
+  "name": "Scarlet Nexifera Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "MARKE: SCHARLACHROTE NEXIFERA",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "JETON NEXIFERA ÉCARLATE",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "ETICHETTA SCARLET NEXIFERA",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "스칼렛 넥시페라 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "MARCADOR DE NEXIFERA ESCARLATA",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "猩红悬匿兽标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "ЖЕТОН: АЛАЯ НЕКСИФЕРА",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "スカーレット ネクシフェラ タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "PLAKIETKA NEKSYFERY SZKARŁATNEJ",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "MARCADOR: NEXIFERA ESCARLATE",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "猩紅隱沒獸標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก SCARLET NEXIFERA",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "SCARLET NEXIFERA ETİKETİ",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "ЖЕТОН БАГРЯНОЇ НЕКСИФЕРИ",
+      "code": "uk"
+    }
+  ]
+}

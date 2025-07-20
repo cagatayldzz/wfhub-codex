@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Bow/InfCernosBow/InfCernos",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mutalist-cernos-9c41c757fc.png",
+  "name": "Mutalist Cernos",
+  "description": "Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit.",
+  "languages": [
+    {
+      "description": "Überwältigt vom Befall, schießt dieser Bogen Pfeile, die bei Aufprall giftige Verseuchung verbreiten.",
+      "name": "Mutalist Cernos",
+      "code": "de"
+    },
+    {
+      "description": "Imprégnées de l'Infestation, les flèches de cet Arc diffusent une substance toxique sur toute surface qu'elles touchent.",
+      "name": "Cernos Mutaliste",
+      "code": "fr"
+    },
+    {
+      "description": "Ormai sopraffatte dall'Infestazione, le frecce di questo arco diffondono un'infezione velenosa su qualsiasi superficie colpiscano.",
+      "name": "Mutalist Cernos",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드에 의해 완전히 감염된 이 활의 화살은 꽂힌 곳 어디에라도 강력한 독성을 흩뿌립니다.",
+      "name": "뮤탈리스트 세르노스",
+      "code": "ko"
+    },
+    {
+      "description": "Superada por la infestación, las flechas de este arco ahora esparcen un contagio venenoso en cualquier superficie que golpeen.",
+      "name": "Cernos Mutalítica",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MUTALIST CERNOS）受到感染者的侵蚀后，这把弓的箭矢能够在击中的任何表面散播病毒。",
+      "name": "异融西诺斯",
+      "code": "zh"
+    },
+    {
+      "description": "Заражённые сверх меры, стрелы этого лука переносят токсичную заразу на любую поверхность при попадании.",
+      "name": "Муталист Кернунн",
+      "code": "ru"
+    },
+    {
+      "description": "感染体に取り込まれたこの禍々しい弓は、あらゆる物体を蝕む有毒物質を含む矢を放つ。",
+      "name": "Mutalist Cernos",
+      "code": "ja"
+    },
+    {
+      "description": "Przeżarty Plagą łuk, którego strzały przenoszą trującą zarazę na każdą powierzchnię, w którą trafią.",
+      "name": "Cernos Mutalist",
+      "code": "pl"
+    },
+    {
+      "description": "As flechas deste arco Infestado espalham veneno contagioso em qualquer superfície que atingem.",
+      "name": "Cernos Mutalista",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MUTALIST CERNOS）受到感染的侵蝕後，這把弓的箭矢能夠在擊中的任何表面散播病毒。",
+      "name": "異融西諾斯",
+      "code": "tc"
+    },
+    {
+      "description": "ธนูคันนี้ถูกการติดเชื้อเข้าครอบงำ ทำให้ในตอนนี้จะยิงลูกศรแพร่กระจายพิษไปยังทุกพื้นผิวที่สัมผัส",
+      "name": "Mutalist Cernos",
+      "code": "th"
+    },
+    {
+      "description": "Infestedlardan kurtulun, bu yay’ın okları temas ettikleri her yüzeye zehirli bir salgın bırakır.",
+      "name": "Mutalist Cernos",
+      "code": "tr"
+    },
+    {
+      "description": "Здоланий зараженням лук, стріли якого ширять отруйну пошесть за будь-якого контакту з поверхнею.",
+      "name": "Цернос-муталіст",
+      "code": "uk"
+    }
+  ]
+}

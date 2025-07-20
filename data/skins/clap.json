@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/ClapEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clap-5171c2e328.png",
+  "name": "Clap",
+  "description": "A clap of approval.",
+  "languages": [
+    {
+      "description": "Ein Klatschen der Zustimmung.",
+      "name": "Klatschen",
+      "code": "de"
+    },
+    {
+      "description": "Un applaudissement d'approbation.",
+      "name": "Applaudissement",
+      "code": "fr"
+    },
+    {
+      "description": "Un applauso di approvazione.",
+      "name": "Applauso",
+      "code": "it"
+    },
+    {
+      "description": "인정을 담은 박수를 칩니다.",
+      "name": "박수",
+      "code": "ko"
+    },
+    {
+      "description": "Un aplauso de aprobación.",
+      "name": "Aplaudir",
+      "code": "es"
+    },
+    {
+      "description": "拍手鼓掌以表示赞许。",
+      "name": "鼓掌",
+      "code": "zh"
+    },
+    {
+      "description": "Знак одобрения.",
+      "name": "Аплодировать",
+      "code": "ru"
+    },
+    {
+      "description": "賛成の意を示し拍手する。",
+      "name": "拍手",
+      "code": "ja"
+    },
+    {
+      "description": "Oklaski pochwały.",
+      "name": "Klaskanie",
+      "code": "pl"
+    },
+    {
+      "description": "Palmas em aprovação.",
+      "name": "Aplaudir",
+      "code": "pt"
+    },
+    {
+      "description": "讚許而拍手鼓掌。",
+      "name": "鼓掌",
+      "code": "tc"
+    },
+    {
+      "description": "การปรบมือแสดงความเห็นชอบ",
+      "name": "ปรบมือ",
+      "code": "th"
+    },
+    {
+      "description": "Onaylama Alkışı",
+      "name": "Alkış",
+      "code": "tr"
+    },
+    {
+      "description": "Схвальні оплески.",
+      "name": "Оплески",
+      "code": "uk"
+    }
+  ]
+}

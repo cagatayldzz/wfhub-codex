@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corrupted-bombard-specter-34d1c2afa4.png",
+  "name": "Corrupted Bombard Specter",
+  "description": "Deploys a CORRUPTED BOMBARD unit to fight for you.",
+  "languages": [
+    {
+      "description": "Setzt eine KORRUMPIERTE BOMBARDIER Einheit ein, die für dich kämpft.",
+      "name": "Korrumpiertes Bombardier-Phantom",
+      "code": "de"
+    },
+    {
+      "description": "Déploie une unité BOMBARDIER CORROMPU qui combat pour vous.",
+      "name": "Spectre Bombardier Corrompu",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega uno CORRUPTED BOMBARD per combattere al tuo fianco.",
+      "name": "Spettro Corrupted Bombard",
+      "code": "it"
+    },
+    {
+      "description": "당신을 위해 싸워줄 커럽티드 봄버드를 배치합니다.",
+      "name": "커럽티드 봄버드 스펙터",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega a una unidad de BOMBARDERO CORRUPTO para pelear por ti.",
+      "name": "Espectro de Bombardero Corrupto",
+      "code": "es"
+    },
+    {
+      "description": "部置一名堕落轰击者单位为你战斗。",
+      "name": "堕落轰击者魅影",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт Порабощённого Бомбардировщика, который сражается на Вашей стороне.",
+      "name": "Спектр: Порабощённый бомбардировщик",
+      "code": "ru"
+    },
+    {
+      "description": "コラプト ボンバード を味方として出撃させる。",
+      "name": "コラプト ボンバード スペクター",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy Skażonego Kanoniera, który walczy po Twojej stronie.",
+      "name": "Widmo Skażonego Kanoniera",
+      "code": "pl"
+    },
+    {
+      "description": "Posiciona uma unidade do BOMBARDEIRO CORROMPIDO para lutar por você.",
+      "name": "Espectro do Bombardeiro Corrompido",
+      "code": "pt"
+    },
+    {
+      "description": "部置一名墮落轟擊者單位為你戰鬥。",
+      "name": "墮落轟擊者魅影",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้หน่วย CORRUPTED BOMBARD เพื่อช่วยคุณสู้",
+      "name": "สเปกเตอร์ Corrupted Bombard",
+      "code": "th"
+    },
+    {
+      "description": "Sizin adınıza savaşması için CORRUPTED BOMBARD oluşturur.",
+      "name": "Corrupted Bombard Specter",
+      "code": "tr"
+    },
+    {
+      "description": "Розміщує на полі бою уярмленого бомбардувальника, який допомагатиме вам.",
+      "name": "Тінь уярмленого бомбардувальника",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yogwun-1f0eb08609.png",
+  "name": "Yogwun",
+  "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
+  "languages": [
+    {
+      "description": "Dieser langsame Fisch schlängelt sich durch das Wasser und wird häufig von größeren Raubtieren gejagt.",
+      "name": "Yogwun",
+      "code": "de"
+    },
+    {
+      "description": "Ce poisson lent vagabonde au travers des eaux, souvent pris pour cible par de plus grands prédateurs.",
+      "name": "Yogwun",
+      "code": "fr"
+    },
+    {
+      "description": "Questo lento pesce nuota tra le acque e viene spesso preso di mira da predatori più grandi.",
+      "name": "Yogwun",
+      "code": "it"
+    },
+    {
+      "description": "이 느린 물고기는 물 속을 구불구불하게 헤엄쳐 다니며, 종종 더 큰 포식자들의 먹이가 됩니다.",
+      "name": "요그운",
+      "code": "ko"
+    },
+    {
+      "description": "Este lento pez serpentea a través de las aguas y es usualmente cazado por predadores más grandes.",
+      "name": "Yogwun",
+      "code": "es"
+    },
+    {
+      "description": "这种缓慢地鱼在水体间游荡，时常被更大的捕食者捕食。",
+      "name": "约格温",
+      "code": "zh"
+    },
+    {
+      "description": "Эта неповоротливая рыба блуждает в водах и часто становится жертвой более крупных хищников.",
+      "name": "Йогвун",
+      "code": "ru"
+    },
+    {
+      "description": "動きの鈍いこの魚は他の魚に捕食される。",
+      "name": "ヨグウン",
+      "code": "ja"
+    },
+    {
+      "description": "Ta powolna ryba meandruje pośród wód i często poluje na większych od siebie drapieżników.",
+      "name": "Yogwun",
+      "code": "pl"
+    },
+    {
+      "description": "Este peixe lento vaga pelas águas, e muitas vezes é atacado por predadores maiores.",
+      "name": "Yogwun",
+      "code": "pt"
+    },
+    {
+      "description": "這種動作緩慢的魚類在水間遊蕩，時常被更大的捕食者所捕食。",
+      "name": "約格溫",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาที่เชื่องช้านี้คดเคี้ยวไปตามน่านน้ำ และมักจะตกเป็นเหยื่อของนักล่าขนาดใหญ่",
+      "name": "Yogwun",
+      "code": "th"
+    },
+    {
+      "description": "Bu yavaş balık suların içinden kıvrılarak geçer ve çoğunlukla büyük yırtıcılara yem olur.",
+      "name": "Yogwun",
+      "code": "tr"
+    },
+    {
+      "description": "Повільна риба, що блукає водами й часто стає жертвою більших хижаків.",
+      "name": "Йоґвун",
+      "code": "uk"
+    }
+  ]
+}

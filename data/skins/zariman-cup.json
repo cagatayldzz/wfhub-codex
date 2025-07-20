@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFoodDrinkB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-cup-d24d916a03.png",
+  "name": "Zariman Cup",
+  "description": "A cup.",
+  "languages": [
+    {
+      "description": "Ein Becher.",
+      "name": "Zariman Becher",
+      "code": "de"
+    },
+    {
+      "description": "Une tasse.",
+      "name": "Zariman: Tasse",
+      "code": "fr"
+    },
+    {
+      "description": "Una tazza.",
+      "name": "Tazza Zariman",
+      "code": "it"
+    },
+    {
+      "description": "컵입니다.",
+      "name": "자리만 컵",
+      "code": "ko"
+    },
+    {
+      "description": "Una taza.",
+      "name": "Taza Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个杯子。",
+      "name": "扎里曼杯子",
+      "code": "zh"
+    },
+    {
+      "description": "Чашка.",
+      "name": "Зариман: чашка",
+      "code": "ru"
+    },
+    {
+      "description": "コップ。",
+      "name": "Zariman コップ",
+      "code": "ja"
+    },
+    {
+      "description": "Kubek.",
+      "name": "Zariman: Kubek",
+      "code": "pl"
+    },
+    {
+      "description": "Um copo.",
+      "name": "Copo da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "杯子。",
+      "name": "扎日曼杯子",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วย",
+      "name": "Zariman: ถ้วย",
+      "code": "th"
+    },
+    {
+      "description": "Bir kupa.",
+      "name": "Zariman Kupası",
+      "code": "tr"
+    },
+    {
+      "description": "Просто чашка.",
+      "name": "Чашка із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPSwordWhipStanceOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tainted-hydra-5d4d715a0c.jpg",
+  "name": "Tainted Hydra",
+  "description": "Fighting form devised for Conclave.",
+  "languages": [
+    {
+      "description": [
+        "Gefechtsform, entwickelt für die Conclave."
+      ],
+      "name": "Vergiftete Hydra",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Forme de combat réservée au Conclave."
+      ],
+      "name": "Hydre Entachée",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Stile di combattimento ideato per il Conclave."
+      ],
+      "name": "Tainted Hydra",
+      "code": "it"
+    },
+    {
+      "description": [
+        "콘클레이브를 위해 창안된 전투 자세입니다."
+      ],
+      "name": "테인티드 히드라",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Una forma de pelea creada para el Cónclave."
+      ],
+      "name": "Hydra corrompida",
+      "code": "es"
+    },
+    {
+      "description": [
+        "为武形秘仪设计的战斗形式。"
+      ],
+      "name": "污染水螅",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Форма боя, созданная для конклава."
+      ],
+      "name": "Заразная гидра",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンクレーブでの戦闘に特化された流儀。"
+      ],
+      "name": "Tainted Hydra",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Styl walki stworzony na potrzeby Konklawe."
+      ],
+      "name": "Splamiona Hydra",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Forma de combate elaborada para o Conclave."
+      ],
+      "name": "Tainted Hydra",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "為武形秘儀設計的戰鬥形式。"
+      ],
+      "name": "污染水螅",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "รูปแบบการต่อสู้ที่คิดค้นขึ้นสำหรับคอนเคลฟ"
+      ],
+      "name": "Tainted Hydra",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Conclave için planlanmış savaşma formu"
+      ],
+      "name": "Tainted Hydra",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Техніка бою, розроблена для Конклаву."
+      ],
+      "name": "Заражена гідра",
+      "code": "uk"
+    }
+  ]
+}

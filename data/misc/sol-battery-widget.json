@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerRechargeUpgrade",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sol-battery-widget-5e9f322ebf.png",
+  "name": "Sol-Battery Widget",
+  "description": "Recharges Synthesis Scanner charges.",
+  "languages": [
+    {
+      "description": "Füllt die Ladungen des Synthese-Scanners wieder auf",
+      "name": "Sol-Batterie Vorrichtung",
+      "code": "de"
+    },
+    {
+      "description": "Rétablit les charges du Scanneur de Synthèse.",
+      "name": "Dispositif Photovoltaïque",
+      "code": "fr"
+    },
+    {
+      "description": "Ricarica lo Scanner Sintetizzatore.",
+      "name": "Widget Batteria Solare",
+      "code": "it"
+    },
+    {
+      "description": "신디시스 스캐너의 용량을 재충전시킵니다.",
+      "name": "솔-배터리 위젯",
+      "code": "ko"
+    },
+    {
+      "description": "Recarga las cargas del escáner de síntesis.",
+      "name": "Widget Batería-Solar",
+      "code": "es"
+    },
+    {
+      "description": "为结合扫描器充电。",
+      "name": "太阳能电池改造器",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает заряд сканера синтеза.",
+      "name": "Сол-батарейный виджет",
+      "code": "ru"
+    },
+    {
+      "description": "シンセシススキャナーを消費しなくなる。",
+      "name": "Sol-Battery ウィジェット",
+      "code": "ja"
+    },
+    {
+      "description": "Odnawia ładunki Skanera Syntezy.",
+      "name": "Widget Baterii Słonecznej",
+      "code": "pl"
+    },
+    {
+      "description": "Repõe as cargas do Escâner de Síntese.",
+      "name": "Dispositivo de Bateria Solar",
+      "code": "pt"
+    },
+    {
+      "description": "為結合掃描器充電。",
+      "name": "太陽能電池改造器",
+      "code": "tc"
+    },
+    {
+      "description": "รีชาร์จการชาร์จเครื่องสแกนการสังเคราะห์",
+      "name": "วิดเจ็ต Sol-Battery",
+      "code": "th"
+    },
+    {
+      "description": "Sentez tarayıcıyı şarj eder.",
+      "name": "Sol-Battery Widget",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматично перезаряджає зчитувач синтезу.",
+      "name": "Розширення «Сонячні акумулятори»",
+      "code": "uk"
+    }
+  ]
+}

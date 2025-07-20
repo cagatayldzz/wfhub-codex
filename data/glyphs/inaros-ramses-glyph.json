@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageInarosDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-ramses-glyph-3b31748843.png",
+  "name": "Inaros Ramses Glyph",
+  "description": "A glyph depicting Inaros Ramses.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Inaros Ramses darstellt.",
+      "name": "Glyphe: Inaros Ramses",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Inaros Ramses.",
+      "name": "Glyphe Inaros Ramses",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Inaros Ramses.",
+      "name": "Glifo Inaros Ramses",
+      "code": "it"
+    },
+    {
+      "description": "이나로스 람세스를 묘사한 글리프입니다.",
+      "name": "이나로스 람세스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo representando a Inaros Ramsés.",
+      "name": "Glifo de Inaros Ramsés",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Inaros 拉美西斯外观的浮印。",
+      "name": "Inaros 拉美西斯浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Инароса «Рамсес».",
+      "name": "Глиф: Инарос Рамсес",
+      "code": "ru"
+    },
+    {
+      "description": "Inaros Ramsesが描かれたグリフ。",
+      "name": "Inaros Ramses グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Inarosa Ramses.",
+      "name": "Glif Inaros Ramses",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Inaros Ramses.",
+      "name": "Glifo: Inaros Ramses",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Inaros 拉美西斯的浮印。",
+      "name": "Inaros 拉美西斯浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Inaros Ramses",
+      "name": "ภาพสัญลักษณ์ Inaros Ramses",
+      "code": "th"
+    },
+    {
+      "description": "Inaros Ramses'i temsil eden bir Glif.",
+      "name": "Inaros Ramses Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Інара зі спорядженим виглядом «Рамзес».",
+      "name": "Гліф «Інар „Рамзес“»",
+      "code": "uk"
+    }
+  ]
+}

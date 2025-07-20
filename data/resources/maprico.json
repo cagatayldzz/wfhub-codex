@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/maprico-35a9f7f622.png",
+  "name": "Maprico",
+  "description": "This hardy fruit is thick-skinned to withstand harsh conditions, concealing a mouthful of sweet pulp within.\n\nLocation: Plains of Eidolon on Earth",
+  "languages": [
+    {
+      "description": "Diese zähe Frucht hat eine dicke Haut, um rauen Witterungen zu widerstehen. Das Innere besteht jedoch aus saftigem Fruchtfleisch.\n\nQuelle: Ebenen von Eidolon auf der Erde",
+      "name": "Maprico",
+      "code": "de"
+    },
+    {
+      "description": "Ce fruit dur a la peau épaisse afin de pouvoir résister aux conditions extrêmes, cachant à l'intérieur une pulpe fruitée.\n\nLieu: Plaines d'Eidolon, sur Terre",
+      "name": "Maprico",
+      "code": "fr"
+    },
+    {
+      "description": "Questo frutto robusto ha una buccia spessa per resistere a condizioni estreme, ma all'interno racchiude un boccone di dolce polpa.\n\nPosizione: Piane di Eidolon (Terra)",
+      "name": "Maprico",
+      "code": "it"
+    },
+    {
+      "description": "이 단단한 과일은 가혹한 환경에서도 버틸 수 있는 두꺼운 껍질으로 안의 달콤한 과육을 감추고 있습니다.\n\n획득 가능 장소: 지구 내 아이돌론의 평원",
+      "name": "마프리코",
+      "code": "ko"
+    },
+    {
+      "description": "Esta resistente fruta tiene una gruesa cáscara para resistir duras condiciones, ocultando dentro un bocado de dulce pulpa.\n\nUbicación: Llanuras de Eidolon en la Tierra",
+      "name": "Maprico",
+      "code": "es"
+    },
+    {
+      "description": "这种顽强的植物有着坚硬的外皮以抵抗严峻的环境，将饱满的甜美果肉隐藏在其中。\n\n获取地点：夜灵平野（地球）",
+      "name": "马利可",
+      "code": "zh"
+    },
+    {
+      "description": "Этот неприхотливый плод имеет толстую кожуру для защиты от внешних факторов и нежную, сочную мякоть внутри.\n\nМеста нахождения: Равнины Эйдолона (Земля)",
+      "name": "Маприко",
+      "code": "ru"
+    },
+    {
+      "description": "この硬い果物は過酷な環境にも耐える厚い皮を持っており、中には一口分の甘い果肉が隠されている。\n\n場所：エイドロンの草原（地球）",
+      "name": "マプリコ",
+      "code": "ja"
+    },
+    {
+      "description": "Ten twardy owoc posiada grubą skórę, zdolną wytrzymać naprawdę wiele, pod nią natomiast skrywa się cała masa słodkiego miąższu.\n\nPołożenie: Równiny Eidolon, Ziemia",
+      "name": "Mapriko",
+      "code": "pl"
+    },
+    {
+      "description": "Esta fruta resistente tem uma camada externa grossa para suportar condições extremas, escondendo uma polpa doce em seu interior.\n\nLocalização: Planícies de Eidolon, na Terra.",
+      "name": "Maprico",
+      "code": "pt"
+    },
+    {
+      "description": "這種頑強的果實有著能抵抗嚴苛環境的堅硬外皮，將飽滿的甜美果肉隱藏其中。\n\n地點：夜靈平野（地球）",
+      "name": "馬利可",
+      "code": "tc"
+    },
+    {
+      "description": "ผลไม้ชนิดนี้มีเปลือกหนาเพื่อให้ทนต่อสภาวะที่รุนแรง แต่ซ่อนเนื้อหวานฉ่ำไว้ข้างใน\n\nแหล่งที่พบ: ที่ราบ Eidolon บนโลก",
+      "name": "มาพริโค",
+      "code": "th"
+    },
+    {
+      "description": "Bu dayanıklı meyve kalın kabuğu sayesinde sert koşullara dayanır. İçi çok tatlıdır.\n\nKonum: Eidolon Ovaları, Dünya",
+      "name": "Maprico",
+      "code": "tr"
+    },
+    {
+      "description": "Цей стійкий фрукт має товсту скоринку, щоби вберегти солодкий м’якуш від жорстких умов середовища.\n\nМожна здобути на Рівнинах Ейдолонів (Земля).",
+      "name": "Мапріко",
+      "code": "uk"
+    }
+  ]
+}

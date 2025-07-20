@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-loxley-helmet-4adcb8ffd7.png",
+  "name": "Ivara Loxley Helmet",
+  "description": "An homage to hunters of the ancient past.",
+  "languages": [
+    {
+      "description": "Eine Huldigung an die Jäger der antiken Vergangenheit.",
+      "name": "Ivara-Helm: Loxley",
+      "code": "de"
+    },
+    {
+      "description": "En hommage aux chasseurs du passé.",
+      "name": "Casque Ivara Loxley",
+      "code": "fr"
+    },
+    {
+      "description": "Un omaggio ai cacciatori dell'antico passato.",
+      "name": "Elmo Ivara Loxley",
+      "code": "it"
+    },
+    {
+      "description": "고대의 옛 사냥꾼들에 대한 경의를 표하는 헬멧입니다.",
+      "name": "이바라 록슬리 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un homenaje a los cazadores de tiempos antiguos.",
+      "name": "Casco Loxley de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "向远古的猎手们致敬。",
+      "name": "Ivara 洛克斯利头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Дань уважения охотникам древней эпохи.",
+      "name": "Шлем Ивары: Локсли",
+      "code": "ru"
+    },
+    {
+      "description": "いにしえの時代のハンターに敬意を表して。",
+      "name": "Ivara Loxley ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hołd ku czci łowców z dalekiej przeszłości.",
+      "name": "Ivara: Hełm Loxley",
+      "code": "pl"
+    },
+    {
+      "description": "Uma homenagem aos caçadores de um passado remoto.",
+      "name": "Ivara: Capacete Loxley",
+      "code": "pt"
+    },
+    {
+      "description": "向遠古的獵手們致敬。",
+      "name": "Ivara 洛克斯利頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความเคารพต่อนักล่าในอดีตกาล",
+      "name": "หมวกเหล็ก Ivara Loxley",
+      "code": "th"
+    },
+    {
+      "description": "Eski zamanlardan gelen bir avcı saygı duruşu",
+      "name": "Ivara Loxley Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шана мисливцям сивої давнини.",
+      "name": "Шолом «Локслі» для Івари",
+      "code": "uk"
+    }
+  ]
+}

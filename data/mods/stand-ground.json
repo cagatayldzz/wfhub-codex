@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/AbilityDamageBlockMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stand-ground-e5154036a2.jpg",
+  "name": "Stand Ground",
+  "languages": [
+    {
+      "name": "Position Halten",
+      "code": "de"
+    },
+    {
+      "name": "Prise de Terre",
+      "code": "fr"
+    },
+    {
+      "name": "Stand Ground",
+      "code": "it"
+    },
+    {
+      "name": "스탠드 그라운드",
+      "code": "ko"
+    },
+    {
+      "name": "Postura sólida",
+      "code": "es"
+    },
+    {
+      "name": "坚守",
+      "code": "zh"
+    },
+    {
+      "name": "Заземление",
+      "code": "ru"
+    },
+    {
+      "name": "Stand Ground",
+      "code": "ja"
+    },
+    {
+      "name": "Utrzymanie Pozycji",
+      "code": "pl"
+    },
+    {
+      "name": "Stand Ground",
+      "code": "pt"
+    },
+    {
+      "name": "堅守",
+      "code": "tc"
+    },
+    {
+      "name": "Stand Ground",
+      "code": "th"
+    },
+    {
+      "name": "Stand Ground",
+      "code": "tr"
+    },
+    {
+      "name": "Опорний пункт",
+      "code": "uk"
+    }
+  ]
+}

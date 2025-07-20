@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/OroFungusAPlantItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cerulean-fungus-extract-89018bbe7f.png",
+  "name": "Cerulean Fungus Extract",
+  "description": "Extracted from a Cerulean Fungus colony.",
+  "languages": [
+    {
+      "description": "Von einer Kolonie himmelblauer Fungi entnommen.",
+      "name": "Extrakt: Himmelblauer Fungus",
+      "code": "de"
+    },
+    {
+      "description": "Extrait d'une colonie de Fongus Céruléens.",
+      "name": "Extrait de Fongus Céruléen",
+      "code": "fr"
+    },
+    {
+      "description": "Estratto da una colonia di Muffa Cerulea.",
+      "name": "Estratto Muffa Cerulea",
+      "code": "it"
+    },
+    {
+      "description": "세룰리안 펑거스 균락에서 추출된 추출물입니다.",
+      "name": "세룰리안 펑거스 추출물",
+      "code": "ko"
+    },
+    {
+      "description": "Extraido de una colonia de hongos cerúleo.",
+      "name": "Extracto de Hongo Cerúleo",
+      "code": "es"
+    },
+    {
+      "description": "从蔚蓝菌群中萃取出的精华物。",
+      "name": "蔚蓝菌群萃取物",
+      "code": "zh"
+    },
+    {
+      "description": "Экстракт из лазурной плесени.",
+      "name": "Экстракт лазурной плесени",
+      "code": "ru"
+    },
+    {
+      "description": "セリュラン・ファンがスから抽出。",
+      "name": "セリュラン・ファンがス抽出物",
+      "code": "ja"
+    },
+    {
+      "description": "Pozyskany z kolonii Grzybów Ceruliańskich.",
+      "name": "Ekstrakt Grzyba Ceruliańskiego",
+      "code": "pl"
+    },
+    {
+      "description": "Extraído de uma colônia de Fungo Ceruleano.",
+      "name": "Extrato de Fungo Ceruleano",
+      "code": "pt"
+    },
+    {
+      "description": "從蔚藍菌群中萃取出的精華物。",
+      "name": "蔚藍菌群萃取物",
+      "code": "tc"
+    },
+    {
+      "description": "สกัดออกมาจากดงเห็ดราซีรูเลียน",
+      "name": "สารสกัดจากเห็ดราซีรูเลียน",
+      "code": "th"
+    },
+    {
+      "description": "Cerulean Fungus kolonisinden çıkartıldı",
+      "name": "Cerulean Fungus Özü",
+      "code": "tr"
+    },
+    {
+      "description": "Добувається з колонії лазурних грибів.",
+      "name": "Витяжка лазурного гриба",
+      "code": "uk"
+    }
+  ]
+}

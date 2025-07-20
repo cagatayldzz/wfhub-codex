@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GunbladeUpperBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gunblade-standard-holster-f03c3c4bd2.png",
+  "name": "Gunblade Standard Holster",
+  "description": "Standard holster for Gunblades.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Gunblades.",
+      "name": "Gunblade-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Pistolames.",
+      "name": "Port de Pistolame standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per le Gunblade.",
+      "name": "Rinfodero Gunblade Standard",
+      "code": "it"
+    },
+    {
+      "description": "건블레이드 계열 무기의 기본 수납 방식입니다.",
+      "name": "건블레이드 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para sables-pistola.",
+      "name": "Enfundado estándar de sable-pistola",
+      "code": "es"
+    },
+    {
+      "description": "给枪刃武器所使用的标准收纳姿态。",
+      "name": "枪刃标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Ганблэйдов.",
+      "name": "Стандартный Крепеж Ганблэйда",
+      "code": "ru"
+    },
+    {
+      "description": "ガンブレード系武器の通常ホルスター。",
+      "name": "ガンブレード専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Pistoleto-ostrz.",
+      "name": "Pistoleto-Ostrze Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para Lâmina-Armas.",
+      "name": "Lâmina-Armas: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "槍刃武器所使用的標準收納姿態。",
+      "name": "槍刃標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับดาบปืน",
+      "name": "ซองดาบปืนมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Süngülü Silah için standart kılıf",
+      "name": "Süngülü Silah Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення мечестрілів, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

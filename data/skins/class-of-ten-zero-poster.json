@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/BoredTennoPoster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/class-of-ten-zero-poster-96eb61f77d.png",
+  "name": "Class Of Ten Zero Poster",
+  "description": "Reluctant Tenno students study the latest assignment from their Cephalon Teacher, little knowing what awaits them.",
+  "languages": [
+    {
+      "description": "Zögernde Tenno Schüler lernen die letzte Aufgabe ihres Cephalon-Lehrers, ohne zu wissen, was sie erwartet.",
+      "name": "Poster: Klasse von Ten-Zero",
+      "code": "de"
+    },
+    {
+      "description": "Des étudiants Tennos réticents étudient le dernier devoir de leur professeur Céphalon, ne se doutant pas de ce qui les attend.",
+      "name": "Poster de la Classe du Ten Zero",
+      "code": "fr"
+    },
+    {
+      "description": "Gli studenti Tenno riluttanti studiano l'ultimo compito assegnato dal loro Insegnante Cephalon, senza sapere cosa li aspetta.",
+      "name": "Poster Class Of Ten Zero",
+      "code": "it"
+    },
+    {
+      "description": "앞으로 무슨 미래가 닥쳐올지는 알지 못한 채, 세팔론 선생님이 새로 내 준 과제를 어거지로 하고 있는 텐노 학생들입니다.",
+      "name": "10-0호 교실 포스터",
+      "code": "ko"
+    },
+    {
+      "description": "Los alumnos tenno renuentes estudian la última tarea de su maestro céfalon, sin saber lo que les espera.",
+      "name": "Póster de la Clase de Ten Zero",
+      "code": "es"
+    },
+    {
+      "description": "Tenno 学生们正不情愿地从他们的中枢老师那里学习着最新的课业，浑然不知即将着等待他们的会是什么。",
+      "name": "「10—0 班」海报",
+      "code": "zh"
+    },
+    {
+      "description": "Ученики Тэнно без особого энтузиазма занимаются последним заданием от своего цефалона-учителя, даже не подозревая, что их ждет.",
+      "name": "Постер: Класс Десять-Ноль",
+      "code": "ru"
+    },
+    {
+      "description": "勉学に気が進まないテンノ生徒はセファロン教師が繰り出す難題に渋々挑む。迫る運命など知ることもなく。",
+      "name": "「Class Of Ten Zero」ポスター",
+      "code": "ja"
+    },
+    {
+      "description": "Niechętni uczniowie Tenno studiują najnowsze zadanie od swojego nauczyciela, Cefalona, nie wiedząc, co ich wkrótce spotka.",
+      "name": "Plakat Klasy Ten Zero",
+      "code": "pl"
+    },
+    {
+      "description": "Alunos Tenno relutantes estudando a última tarefa de seu professor Cephalon, sem saberem o que lhes aguarda.",
+      "name": "Pôster: Classe 10-0",
+      "code": "pt"
+    },
+    {
+      "description": "Tenno 學員不情不願地學習他們的中樞導師最新授的課，殊不知即將要面臨什麼樣的潛藏災害。",
+      "name": "「10－0 之班」海報",
+      "code": "tc"
+    },
+    {
+      "description": "นักเรียน Tenno ที่ไม่เต็มใจจะศึกษางานที่ได้รับมอบหมายล่าสุดจากอาจารย์ Cephalon ของพวกเขา โดยไม่รู้ว่าอะไรกำลังรอพวกเขาอยู่",
+      "name": "โปสเตอร์: Class Of Ten Zero",
+      "code": "th"
+    },
+    {
+      "description": "İsteksiz Tenno öğrencileri, Cephalon Öğretmenlerinin en son ödevini, kendilerini neyin beklediğini bilmeden çalışırlar.",
+      "name": "Ten Zero Sınıf Posteri",
+      "code": "tr"
+    },
+    {
+      "description": "Неохочі тенно-учні займаються останнім завданням від свого цефалона-вчителя й не підозрюють, що їх чекає попереду.",
+      "name": "Плакат «Клас десять-нуль»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/MechEventEmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/operation-orphix-venom-emblem-20579eaf69.png",
+  "name": "Operation Orphix Venom Emblem",
+  "description": "An emblem for veterans of the Operation: Orphix Venom.",
+  "languages": [
+    {
+      "description": "Ein Emblem für die Veteranen der Operation: Orphix Gift.",
+      "name": "Emblem: Operation: Orphix Gift",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge pour les vétérans de l'Opération: Venin Orphix.",
+      "name": "Badge de l'Opération: Venin Orphix",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema per i veterani dell'Operazione: Orphix Venom.",
+      "name": "Emblema Operazione Orphix Venom",
+      "code": "it"
+    },
+    {
+      "description": "오르픽스 베놈 작전의 참전 용사들을 위한 엠블럼입니다.",
+      "name": "오퍼레이션 오르픽스 베놈 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema para los veteranos de la «Operación: Veneno de Orphix».",
+      "name": "Emblema de la Operación: Veneno de Orphix",
+      "code": "es"
+    },
+    {
+      "description": "授予《行动代号：奥影之毒》老兵的徽章。",
+      "name": "《行动代号：奥影之毒》徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок для ветеранов Операции: Яд Орфикса.",
+      "name": "Значок: Операция - яд Орфикса",
+      "code": "ru"
+    },
+    {
+      "description": "「オルフィクスの毒牙」作戦を生き抜いた戦士へ送られるエンブレム。",
+      "name": "「オルフィクスの毒牙」作戦エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat dla weteranów Operacji: Jad Orfiksa.",
+      "name": "Emblemat: Jad Orfiksa",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema para os veteranos da Operação: Veneno Orphixiano.",
+      "name": "Emblema: Operação Veneno Orphixiano",
+      "code": "pt"
+    },
+    {
+      "description": "授予《行動代號：奧菲斯劇毒》的老兵的徽章。",
+      "name": "「行動代號：奧菲斯劇毒」徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์สำหรับผู้มีประสบการณ์ในปฏิบัติการ: Orphix Venom",
+      "name": "ตราสัญลักษณ์: ปฏิบัติการ Orphix Venom",
+      "code": "th"
+    },
+    {
+      "description": "Operasyon gazileri için bir amblem: Orphix Venom.",
+      "name": "Operasyon Orphix Venom Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається ветеранам операції «Орфіксова отрута».",
+      "name": "Відзнака операції «Орфіксова отрута»",
+      "code": "uk"
+    }
+  ]
+}

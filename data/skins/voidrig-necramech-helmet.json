@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechVoidRigDefaultHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidrig-necramech-helmet-564fdc53f6.png",
+  "name": "Voidrig Necramech Helmet",
+  "description": "Voidrig's signature helmet.",
+  "languages": [
+    {
+      "description": "Voidrigs bevorzugter Helm.",
+      "name": "Necramech-Helm: Voidrig",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Voidrig.",
+      "name": "Casque Necramech Voidrig",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo distintivo del Necramech Voidrig.",
+      "name": "Elmo Necramech Voidrig",
+      "code": "it"
+    },
+    {
+      "description": "보이드리그의 대표 헬멧입니다.",
+      "name": "보이드리그 네크라메크 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Voidrig.",
+      "name": "Casco de Necramech Voidrig",
+      "code": "es"
+    },
+    {
+      "description": "虚空锐将的标志性头盔。",
+      "name": "虚空锐将殁世机甲头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Войдрига.",
+      "name": "Шлем Некрамеха: Войдриг",
+      "code": "ru"
+    },
+    {
+      "description": "Voidrigのメインヘルメット。",
+      "name": "Voidrig ネクロメカ ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Nekramecha Voidrig.",
+      "name": "Nekramech: Hełm Voidrig",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Necramech Voidrig.",
+      "name": "Voidrig: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "虛空魂的標誌性頭盔。",
+      "name": "亡骸機甲 虛空魂頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Voidrig",
+      "name": "หมวกเหล็ก Voidrig Necramech",
+      "code": "th"
+    },
+    {
+      "description": "Voidrig'in imza miğferi.",
+      "name": "Voidrig Necramech Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом некрамеха «Бур Порожнечі».",
+      "name": "Шолом «Бур Порожнечі» для некрамеха",
+      "code": "uk"
+    }
+  ]
+}

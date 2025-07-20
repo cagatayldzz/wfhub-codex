@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Soma/SomaDualKamas",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-raza-d9c1b54e7e.png",
+  "name": "Dual Raza",
+  "description": "Razor sharp battle-hatchets, designed to compliment the Soma.",
+  "languages": [
+    {
+      "description": "Rasiermesserscharfe Kampfbeile, als perfekte Ergänzung zum Soma entworfen.",
+      "name": "Dual-Raza",
+      "code": "de"
+    },
+    {
+      "description": "Hachettes de combat aiguisées comme des rasoirs, conçues pour imiter le design du Soma.",
+      "name": "Doubles Razas",
+      "code": "fr"
+    },
+    {
+      "description": "Accette da battaglia affilate come rasoi, disegnate per complementare il Soma.",
+      "name": "Dual Raza",
+      "code": "it"
+    },
+    {
+      "description": "소마를 보안하기 위해 설계된 날카로운 날을 가진 전투용 손도끼입니다.",
+      "name": "듀얼 라자",
+      "code": "ko"
+    },
+    {
+      "description": "Hachas de batalla afiladas como cuchillas, diseñadas para complemetar a la Soma.",
+      "name": "Raza Dobles",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL RAZA）这组锐利战斧是为了配合月神而设计的。",
+      "name": "锋月双斧",
+      "code": "zh"
+    },
+    {
+      "description": "Бритвенно-острые боевые топоры, созданные для дополнения Сомы.",
+      "name": "Парные Разы",
+      "code": "ru"
+    },
+    {
+      "description": "かみそりの刃のように鋭い切れ味の戦闘用ハチェット。Somaシリーズをコンプリートするためにデザインされた。",
+      "name": "Dual Raza",
+      "code": "ja"
+    },
+    {
+      "description": "Ostre jak brzytwa toporki bojowe, zaprojektowane, by wyglądem dopełnić Somę.",
+      "name": "Raza Podwójna",
+      "code": "pl"
+    },
+    {
+      "description": "Machadinhas de batalha extremamente afiadas, destinadas a complementar a Soma.",
+      "name": "Razas Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL RAZA）這組銳利戰斧是為了配合月神而設計的。",
+      "name": "鋒月雙斧",
+      "code": "tc"
+    },
+    {
+      "description": "ขวานรบที่คมกริบ ซึ่งถูกออกแบบมาให้เข้าคู่กับปืน Soma",
+      "name": "Dual Raza",
+      "code": "th"
+    },
+    {
+      "description": "Somaya uyumlu olarak dizayn edilmiş savaş baltaları",
+      "name": "Dual Raza",
+      "code": "tr"
+    },
+    {
+      "description": "Гострі бойові сокирки, створені за подобою гвинтівки «Сома».",
+      "name": "Парні Рази",
+      "code": "uk"
+    }
+  ]
+}

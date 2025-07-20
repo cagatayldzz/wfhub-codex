@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidrig-casing.png",
+  "name": "Voidrig Casing",
+  "description": "Casing component for the Voidrig Necramech.",
+  "languages": [
+    {
+      "description": "Karkasse-Komponente für den Voidrig Necramech.",
+      "name": "Voidrig: Karkasse",
+      "code": "de"
+    },
+    {
+      "description": "Le composant Châssis du Necramech Voidrig.",
+      "name": "Voidrig - Châssis",
+      "code": "fr"
+    },
+    {
+      "description": "Il componente Telaio per il Necramech Voidrig.",
+      "name": "Voidrig - Telaio",
+      "code": "it"
+    },
+    {
+      "description": "보이드리그 네크라메크의 케이싱 부품입니다.",
+      "name": "보이드리그 케이싱",
+      "code": "ko"
+    },
+    {
+      "description": "Componente de la cubierta del Necramech Voidrig.",
+      "name": "Cubierta de Voidrig",
+      "code": "es"
+    },
+    {
+      "description": "虚空锐将殁世机甲的外壳组件。",
+      "name": "虚空锐将 外壳",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент некрамеха «Войдриг» — каркас.",
+      "name": "Войдриг: Каркас",
+      "code": "ru"
+    },
+    {
+      "description": "Voidrigネクロメカ用のケーシングパーツ。",
+      "name": "Voidrig ケーシング",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent okrycia Nekramecha Voidrig.",
+      "name": "Voidrig: Okrycie",
+      "code": "pl"
+    },
+    {
+      "description": "Revestimento componente do Necramech Voidrig.",
+      "name": "Voidrig: Revestimento",
+      "code": "pt"
+    },
+    {
+      "description": "虛空魂亡骸機甲的外殼部件。",
+      "name": "虛空魂 外殼",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบโครงสำหรับ Voidrig Necramech",
+      "name": "Voidrig: โครง",
+      "code": "th"
+    },
+    {
+      "description": "Voidrig Necramech için Şase bileşeni.",
+      "name": "Voidrig Şasesi",
+      "code": "tr"
+    },
+    {
+      "description": "Деталі корпуса для некрамеха «Бур Порожнечі».",
+      "name": "«Бур Порожнечі»: корпус",
+      "code": "uk"
+    }
+  ]
+}

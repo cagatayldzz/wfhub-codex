@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ZarimanSupporterPackSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-sigil-1ce895e979.png",
+  "name": "Zariman Sigil",
+  "description": "Represent the Zariman spirit of comradery and ingenuity.",
+  "languages": [
+    {
+      "description": "Repräsentiere die Einstellung der Zariman für Kameradschaft und Einfallsreichtums.",
+      "name": "Siegel: Zariman",
+      "code": "de"
+    },
+    {
+      "description": "Représente l'esprit de camaraderie et d'ingéniosité Zariman.",
+      "name": "Sceau Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Rappresenta lo spirito di cameratismo e ingegno della Zariman.",
+      "name": "Sigillo Zariman",
+      "code": "it"
+    },
+    {
+      "description": "자리만의 연대와 독창성의 정신을 나타냅니다.",
+      "name": "자리만 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Representa el espíritu de camaradería e ingenio de Zariman.",
+      "name": "Sello Zariman",
+      "code": "es"
+    },
+    {
+      "description": "代表了扎里曼的同志和匠心精神。",
+      "name": "扎里曼纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Представляет дух товарищества и новаторства Заримана.",
+      "name": "Сигил: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "Zarimanの団結と創意工夫の精神を体現する。",
+      "name": "Zariman シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Reprezentuj ducha koleżeństwa i pionierstwa Zarimana.",
+      "name": "Znak Zarimana",
+      "code": "pl"
+    },
+    {
+      "description": "Represente o espírito de camaradagem e engenhosidade da Zariman.",
+      "name": "Brasão: Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "代表扎日曼的情誼和獨創精神。",
+      "name": "扎日曼紋章",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงถึงจิตวิญญาณแห่งมิตรภาพและความเฉลียวฉลาดของ Zariman",
+      "name": "เครื่องหมาย: Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Zariman'ın yoldaşlık ve ustalık ruhunu temsil eder.",
+      "name": "Zariman Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Позначення духу товаризькості та винахідливості на «Заримені».",
+      "name": "Сиґіл «Заримен»",
+      "code": "uk"
+    }
+  ]
+}

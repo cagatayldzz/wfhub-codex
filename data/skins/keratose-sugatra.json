@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/InfShellSugatraMeleeDangle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/keratose-sugatra-c9723deb3f.png",
+  "name": "Keratose Sugatra",
+  "description": "This Infested sugatra is a benign cellular growth self-protected by chitinous plates.",
+  "languages": [
+    {
+      "description": "Dieses befallene Sugatra ist eine gutartige Zellmasse, die sich selbst durch Chitinplatten schützt.",
+      "name": "Keratose Sugatra",
+      "code": "de"
+    },
+    {
+      "description": "Cette sugatra Infestée est une excroissance cellulaire bénigne protégée par des plaques chitineuses.",
+      "name": "Sugatra Keratose",
+      "code": "fr"
+    },
+    {
+      "description": "Questa sugatra Infested è un accrescimento cellulare protetto da placche chitinose.",
+      "name": "Sugatra Keratose",
+      "code": "it"
+    },
+    {
+      "description": "이 인페스티드 수가트라는 키틴질 갑각으로 스스로 보호하고 있는 양성 세포 종양입니다.",
+      "name": "케라토스 수가트라",
+      "code": "ko"
+    },
+    {
+      "description": "La sugatra infestada es un crecimiento celular benigno autoprotegido por plagas quitinosas.",
+      "name": "Sugatra Keratose",
+      "code": "es"
+    },
+    {
+      "description": "这件感染坠饰是一个被几丁质甲壳所包裹的良性细胞组织。",
+      "name": "角质坠饰",
+      "code": "zh"
+    },
+    {
+      "description": "Эта заражённая сугатра представляет собой доброкачественный нарост, защищенный хитиновыми чешуйками.",
+      "name": "Сугатра: Кератоз",
+      "code": "ru"
+    },
+    {
+      "description": "この感染体スガトラは、キチン質のプレートで自らを保護する良性の細胞が増殖しできたもの。",
+      "name": "Keratose スガトラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta sugatra Plagi jest nieszkodliwą naroślą chronioną przez chitynowe płytki.",
+      "name": "Sugatra Keratose",
+      "code": "pl"
+    },
+    {
+      "description": "Esta Sugatra infestada é composta de um tumor celular benigno, protegido por placas de quitina.",
+      "name": "Sugatra Keratose",
+      "code": "pt"
+    },
+    {
+      "description": "這件 Infested 墜飾是一個被幾丁質甲殼所包裹的良性細胞組織。",
+      "name": "角質墜飾",
+      "code": "tc"
+    },
+    {
+      "description": "สุกัตราที่ติดเชื้อนี้เป็นการเจริญเติบโตของเซลล์ที่ไม่อันตราย มีการปกป้องตนเองด้วยแผ่นไคตินัส",
+      "name": "สุกัตรา Keratose",
+      "code": "th"
+    },
+    {
+      "description": "Bu Infested sugatra, kendini kitin kaplamalarla koruyan zararsız bir hücre yığınıdır.",
+      "name": "Keratose Sugatra",
+      "code": "tr"
+    },
+    {
+      "description": "Заражена суґатра — доброякісна пухлина, вкрита хітиновими захисними пластинками.",
+      "name": "Суґатра «Керато»",
+      "code": "uk"
+    }
+  ]
+}

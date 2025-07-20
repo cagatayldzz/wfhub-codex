@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowPredatorLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/horrasque-echo-lure-34ef5f162f.png",
+  "name": "Horrasque Echo-Lure",
+  "description": "Entice and attract nearby Horrasque with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Ködere nahe Horrasque und locke sie mit lebensechten Tierrufen an.",
+      "name": "Echo-Köder: Horrasque",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Horrasques se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "Écho-Leurre Horrasque",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae gli Horrasque vicini con dei richiami simili ai suoi.",
+      "name": "Richiamo Horrasque",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 호래스크를 꾀어 유인합니다.",
+      "name": "호래스크 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a horrasque cercanos con llamados de animales similares a los naturales.",
+      "name": "Eco-señuelo para Horrasque",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的惑瓦斯克。",
+      "name": "惑瓦斯克回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Хоррасков поблизости, издавая идентичные настоящим животные зовы. ",
+      "name": "Эхо-Манок Для Хорраска",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのホラスキューを誘導する。",
+      "name": "ホラスキュー Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliską Poczwarę, imitując odgłosy zwierząt.",
+      "name": "Echo-Wabik Poczwary",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Horrasques próximos utilizando sons semelhantes aos dos animais.",
+      "name": "Ecoisca de Horrasque",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的惑瓦廝克。",
+      "name": "惑瓦廝克迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูด Horrasque ที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง Horrasque",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Horrasqueleri gerçeğine çok benzeyen hayvan sesleriyle yanına çek.",
+      "name": "Horrasque Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює горрасків поблизу реалістичною імітацією їхнього поклику.",
+      "name": "Еховабик на горраска",
+      "code": "uk"
+    }
+  ]
+}

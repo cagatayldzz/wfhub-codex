@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowRodentLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pobbers-echo-lure-143ceab621.png",
+  "name": "Pobbers Echo-Lure",
+  "description": "Entice and attract nearby Pobbers with life-like animal calls. The Pobbers is most often found around the Mushroom Fields of Orb Vallis.",
+  "languages": [
+    {
+      "description": "Ködere nahe Pobber und locke sie mit lebensechten Tierrufen an. Pobber sind am häufigsten in der Nähe der Pilzfelder vom Orbis-Tal zu finden.",
+      "name": "Echo-Köder: Pobber",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Pobbers se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes. Les Pobbers sont majoritairement trouvés près des Forêts de Champignons de la Vallée Orbis.",
+      "name": "Écho-Leurre Pobbers",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Pobber vicini con dei richiami simili ai suoi. I Pobber si trovano più frequentemente attorno ai Campi Fungini di Orb Vallis.",
+      "name": "Richiamo Pobber",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 포버를 꾀어 유인합니다. 포버는 오브 협곡의 버섯 들판 주변에서 자주 발견됩니다.",
+      "name": "포버 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a pobbers cercanos con llamados de animales similares a los naturales. Los pobbers son encontrados más frecuentemente alrededor de los campos de hongos de los Valles del Orbe",
+      "name": "Eco-señuelo para Pobbers",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的泡博。通常可以在奥布山谷有蘑菇的地域周围发现泡博。",
+      "name": "泡博回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Побберов поблизости, издавая идентичные настоящим животные зовы. Побберы чаще всего встречаются около грибных полей в Долине Сфер.",
+      "name": "Эхо-Манок Для Поббера",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのポバーを誘導する。ポバーはオーブ峡谷のキノコ平野で最もよく見られる。",
+      "name": "ポバー Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliskie Pobbery, imitując odgłosy zwierząt. Pobbery są najczęściej spotykane wokół Grzybowych Pól w Orb Vallis.",
+      "name": "Echo-Wabik Pobbera",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Pobbers próximos utilizando sons semelhantes aos dos animais. Os Virminks são encontrados com frequência ao redor dos Campos de Fungos do Vallis das Orbes.",
+      "name": "Ecoisca de Pobbers",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的泡博。通常可以在奧布山谷有蘑菇的地域周圍發現泡博。",
+      "name": "泡博迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เครื่องเลียนแบบเสียงร้องเสมือนจริงเพื่อหลอกล่อและดึงดูด Pobber ที่อยู่ใกล้ ซึ่งจะพบ Pobber ได้บ่อยที่สุดตรงบริเวณทุ่งเห็ดในออร์บวัลลิส",
+      "name": "เครื่องเลียนแบบเสียง Pobber",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Pobbersleri gerçeğine çok benzeyen hayvan sesleriyle yanına çek. Pobbersler Orb Vallis'in mantar alanlarında bulunur. ",
+      "name": "Pobbers Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює побберів поблизу реалістичною імітацією їхнього поклику. Поббери найчастіше водяться в низинах Долини Куль.",
+      "name": "Еховабик на поббера",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/AngstrumIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/angstrum-incarnon-genesis-c193a62744.png",
+  "name": "Angstrum Incarnon Genesis",
+  "description": "Awaken this weapon's ability to launch target-seeking fireballs that ricochet toward enemies in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form, zielsuchende Feuerbälle abzufeuern, die von Gegnern abprallen.",
+      "name": "Incarnon-Genesis: Angstrum",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à lancer des boules de feu à la recherche de cibles et qui ricochent vers les ennemis sous Forme Incarnon.",
+      "name": "Angstrum Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di sparare delle palle di fuoco che ricercano i bersagli e rimbalzano verso i nemici nella Forma Incarnon.",
+      "name": "Angstrum Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 적을 향해 튕겨나가는 유도형 화염구를 발사할 수 있습니다.",
+      "name": "앙스트럼 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para disparar bolas de fuego que buscan objetivos y rebotan en los enemigos en su forma Incarnon.",
+      "name": "Angstrum Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有发射自动瞄准并弹向敌人的火球的能力。",
+      "name": "安格斯壮灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия запускать самонаводящиеся огненные шары, которые рикошетят к врагам в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Ангстрем",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは敵に向かって反射する火炎玉を放つ。",
+      "name": "Angstrum インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która umożliwi jej strzelanie namierzającymi kulami ognia, które odbijają się od wrogów.",
+      "name": "Geneza Inkarnon: Angstrum",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de lançar bolas de fogo guiadas que ricocheteiam em direção aos inimigos no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Angstrum",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下發射彈向敵人的目標追蹤火球。",
+      "name": "安格斯壯應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะยิงลูกไฟค้นหาเป้าหมายที่จะกระดอนไปหาศัตรู",
+      "name": "Angstrum Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde düşmanlara doğru sekerek hedeflerine güdümlü giden ateş topları fırlatma yeteneğini uyandır.",
+      "name": "Angstrum Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє вистрілювати вогняними кулями, що шукають цілі й рикошетять у бік інших ворогів.",
+      "name": "Інкарнонський генезис: Анґструм",
+      "code": "uk"
+    }
+  ]
+}

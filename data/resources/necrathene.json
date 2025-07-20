@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necrathene-8263b107ec.png",
+  "name": "Necrathene",
+  "description": "Impacted within Infested husks, preserved for millennia.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions and Requiem Obelisks.",
+  "languages": [
+    {
+      "description": "Eingeklemmt in befallenen Hüllen, seit Jahrtausenden konserviert.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen und Requiem Obelisken.",
+      "name": "Necrathan",
+      "code": "de"
+    },
+    {
+      "description": "Enfoncés dans les enveloppes Infestées, conservés pendant des millénaires.\n\nLieu: Puy de Cambion (Deimos), via le minage de Lésions bleues et les Obélisques Requiem.",
+      "name": "Nécrathène",
+      "code": "fr"
+    },
+    {
+      "description": "Incastonata all'interno di gusci Infested, preservata per millenni.\n\nPosizione: Lesioni Minerarie Blu e Obelischi Requiem nel Cambion Drift (Deimos).",
+      "name": "Necrathene",
+      "code": "it"
+    },
+    {
+      "description": "감염된 겉껍질 안에 뭉친 채로 수천년 동안 보존되어 온 보석입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 채광 병변 및 레퀴엠 오벨리스크에서 찾을 수 있습니다.",
+      "name": "네크라씬",
+      "code": "ko"
+    },
+    {
+      "description": "Incrustada en los caparazones infestados y preservada durante milenios.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules y en los obeliscos Réquiem.",
+      "name": "Necratina",
+      "code": "es"
+    },
+    {
+      "description": "这些宝石受到冲击，被嵌入了感染外壳，并保存了数千年。\n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕、安魂方尖碑",
+      "name": "殁世烯",
+      "code": "zh"
+    },
+    {
+      "description": "Продукт взаимодействия с панцирями заражённых, хранившийся тысячелетиями.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе и Обелиски Реквиема.",
+      "name": "Некратин",
+      "code": "ru"
+    },
+    {
+      "description": "感染外殻に詰め込まれ、何千年もの間保存されていた物質。\n\n場所：カンビオン荒地（ダイモス）の青い鉱脈、レクイエムオベリスク。",
+      "name": "ネクロテン",
+      "code": "ja"
+    },
+    {
+      "description": "Ściskana wewnątrz łusek Plagi, zachowana na tysiąclecia.\n\nPołożenie: Niebieskie owrzodzenia i Obeliski Requiem w Dryfie Kambionu na Deimosie.",
+      "name": "Nekratyna",
+      "code": "pl"
+    },
+    {
+      "description": "Formada em casulos infestados e preservada por milênios.\n\nLocalização: em Lesões de Mineração Azuis e Obeliscos Réquiem, na Deriva de Cambion, em Deimos.",
+      "name": "Necratena",
+      "code": "pt"
+    },
+    {
+      "description": "在感染莢殼內緊緊壓縮並保存超過數千年。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶以及鎮魂方尖碑。",
+      "name": "亡骸石",
+      "code": "tc"
+    },
+    {
+      "description": "อัดแน่นอยู่ในเปลือกที่ติดเชื้อ ซึ่งคงสภาพอยู่ในนั้นเป็นเวลานับพันปี\n\nแหล่งที่พบ: พบได้จากสายแร่ที่เป็นรอยสีน้ำเงินและเสาโอเบลิสก์ Requiem ในแคมบิออนดริฟต์ (ดาวเดมอส)",
+      "name": "เนคราธีน",
+      "code": "th"
+    },
+    {
+      "description": "Infested kabukların içinde binlerce yıldır korunmuş bir kütle.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarından ve Requiem Obelisklerden elde edilebilir.",
+      "name": "Necrathene",
+      "code": "tr"
+    },
+    {
+      "description": "Результат тисячолітнього перебування в панцирах заражених.\n\nМожна здобути з синіх лезій та обелісків Реквієму у Кембіонській течії (Деймос).",
+      "name": "Некратен",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/Gunblade/CrpGunBlade/CrpGunbladeWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stropha-7e14214568.png",
+  "name": "Stropha",
+  "description": "A short-blade melee weapon with an ace up its sleeve. Send nearby enemies flying with a powerful short-range shockwave.",
+  "languages": [
+    {
+      "description": "Eine Nahkampfwaffe mit kurzer Klinge und einem Ass im Ärmel. Schleudere Gegner in der Nähe mit einer mächtigen Stoßwelle mit kurzer Reichweite weg.",
+      "name": "Stropha",
+      "code": "de"
+    },
+    {
+      "description": "Une arme de mêlée à lame courte ayant plus d'un tour dans son sac. Envoyez valser les ennemis proches d'une puissante onde de choc à courte portée.",
+      "name": "Stropha",
+      "code": "fr"
+    },
+    {
+      "description": "Un'arma corpo a corpo a lama corta con un asso nella manica. Manda in orbita i nemici vicini con una potente onda d'urto a corto raggio.",
+      "name": "Stropha",
+      "code": "it"
+    },
+    {
+      "description": "짧은 칼날 끝에 비장의 한 수가 숨겨진 근접 무기입니다. 단거리에서 강력한 충격파를 일으키며 적을 날려버립니다.",
+      "name": "스트로파",
+      "code": "ko"
+    },
+    {
+      "description": "Un arma cuerpo a cuerpo de hoja corta con un as bajo la manga. Manda a volar a los enemigos cercanos con una poderosa onda de choque de corto alcance.",
+      "name": "Stropha",
+      "code": "es"
+    },
+    {
+      "description": "（英文：STROPHA）一件暗藏玄机的短刃近战武器。通过强大的短程冲击波来击飞附近的敌人。",
+      "name": "诡计之刃",
+      "code": "zh"
+    },
+    {
+      "description": "Короткий клинок с тузом в рукаве. Отправляйте ближайших врагов в полет с помощью мощной ударной волны ближнего действия.",
+      "name": "Строфа",
+      "code": "ru"
+    },
+    {
+      "description": "短い刃先にトリックが仕込まれた近接武器。短距離で強力な衝撃波を繰り出し敵を吹っ飛ばす。",
+      "name": "Stropha",
+      "code": "ja"
+    },
+    {
+      "description": "Ta Broń biała o krótkim ostrzu ma asa w rękawie. Potężna fala uderzeniowa krótkiego zasięgu pozwala odrzucić pobliskich wrogów.",
+      "name": "Stropha",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma branca, de lâmina curta, com uma carta de Ás na manga. Envie os seus inimigos próximos para dar uma volta pelos ares com uma poderosa onda de choque de curto alcance.",
+      "name": "Stropha",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：STROPHA）一把隱藏妙計的短刃近戰武器。用一陣短距離的強力震波打飛附近的敵人。",
+      "name": "詭詐鋒刃",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธระยะประชิดใบมีดสั้นที่มีอาวุธลับซ่อนอยู่ สามารถกระแทกศัตรูให้กระเด็นออกไปด้วยคลื่นช็อกเวฟระยะใกล้ที่ทรงพลัง",
+      "name": "Stropha",
+      "code": "th"
+    },
+    {
+      "description": "Bu kısa bıçaklı yakın dövüş silahı ile yakın mesafedeki düşmanları güçlü kısa menzilli şok dalgaları ile havaya uçurun.",
+      "name": "Stropha",
+      "code": "tr"
+    },
+    {
+      "description": "Ця холодна зброя з коротким клинком може вмить розкидати ворогів поблизу потужною ударною хвилею.",
+      "name": "Строфа",
+      "code": "uk"
+    }
+  ]
+}

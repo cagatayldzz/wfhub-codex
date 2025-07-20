@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Zariman/Melee/HeavyScythe/ZarimanHeavyScythe/ZarimanHeavyScytheWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thalys-046b42a5ff.png",
+  "name": "Thalys",
+  "description": "The Thalys played a ceremonial role in the Zariman harvest festival, and was intended to reap the first fruits of Tau. Now twisted from this purpose, it plants Void shards in enemy flesh instead. Each new shard planted causes existing shards to inflict damage on their hosts.",
+  "languages": [
+    {
+      "description": "Die Thalys spielte beim Erntefest auf der Zariman eine zeremonielle Rolle und sollte die ersten Früchte von Tau ernten. Dieser Zweck wurde jedoch missbraucht und sie sät stattdessen Void-Scherben in das Fleisch ihrer Feinde. Jede neu gepflanzte Scherbe führt dazu, dass vorhandene Scherben ihren Wirten Schaden zufügen.",
+      "name": "Thalys",
+      "code": "de"
+    },
+    {
+      "description": "Le Thalys jouait un rôle cérémoniel lors de la fête des récoltes du Zariman et était censé récolter les premiers fruits de Tau. Désormais détourné de cette fonction, il plante des éclats du Néant dans la chair ennemie. Chaque nouvelle graine plantée inflige des Dégâts aux hôtes via les éclats existants.",
+      "name": "Thalys",
+      "code": "fr"
+    },
+    {
+      "description": "La Thalys svolgeva un ruolo cerimoniale nella festa del raccolto della Zariman, e aveva lo scopo di raccogliere i primi frutti di Tau. Ora, distolta da questo scopo, pianta schegge Void nella carne del nemico. Ogni nuova scheggia piantata fa sì che quelle esistenti infliggano danni ai loro ospiti.",
+      "name": "Thalys",
+      "code": "it"
+    },
+    {
+      "description": "탈리스는 자리만 선내의 수확 축제에서 의식적인 역할을 수행했으며, 동시에 타우에서 맺는 첫 결실을 수확할 용도로 준비되어 있었습니다. 이제 그 목적으로부터 뒤틀린 길로 벗어난 이 낫은, 대신 적의 육신에 보이드의 조각을 씨앗처럼 심습니다. 새롭게 조각이 심어질 때마다 기존의 조각이 숙주에게 피해를 입힙니다.",
+      "name": "탈리스",
+      "code": "ko"
+    },
+    {
+      "description": "La Thalys desempeñaba un papel ceremonial en el festival de la cosecha de la Zariman, y su objetivo era recoger los primeros frutos de Tau. Ahora, desviado de este propósito, siembra fragmentos del Vacío en la carne del enemigo. Cada nuevo fragmento sembrado provoca que los fragmentos existentes inflijan daño a sus anfitriones.",
+      "name": "Thalys",
+      "code": "es"
+    },
+    {
+      "description": "（英文：THALYS）大力士曾在扎里曼收获节中扮演仪式性的角色，原本用来收获 Tau 星系的最初成果。而如今，它的用途已被扭曲，转而在敌人的肉体中播种虚空碎片。每种下一块新碎片，现有的碎片便会对宿主造成伤害。",
+      "name": "大力士",
+      "code": "zh"
+    },
+    {
+      "description": "Талис была отведена церемониальная роль в празднике урожая Заримана, при сборе первых плодов Тау. Теперь, утратив эту роль, она вместо этого засаживает осколки Бездны во вражескую плоть. Каждый новый посажёный осколок заставляет существующие осколки наносить урон своим хозяевам.",
+      "name": "Талис",
+      "code": "ru"
+    },
+    {
+      "description": "ThalysはZarimanの収穫祭において儀式的な役割を果たし、Tauで栽培した初の果実を収穫することを目的としていた。しかし、今ではその目的から逸脱し、敵の肉体にVoidの破片を植える武器と化した。新たな破片が埋め込められるたびに、既存の破片が宿主にダメージを与える。",
+      "name": "Thalys",
+      "code": "ja"
+    },
+    {
+      "description": "Thalys odgrywał rolę ceremonialną podczas festiwalu żniw na Zarimanie i miał zebrać pierwsze owoce Tau. Teraz, wypaczony z tego celu, zasiewa odłamki Pustki w ciele wroga. Każdy nowy odłamek powoduje, że istniejące odłamki zadają obrażenia już zranionym wrogom.",
+      "name": "Thalys",
+      "code": "pl"
+    },
+    {
+      "description": "A Thalys desempenhava um papel cerimonial no festival de colheita da Zariman, visando colher os primeiros frutos de Tau. Agora, desviada deste propósito, ela planta fragmentos do Void nos inimigos. Cada fragmento plantado fará com que os existentes causem dano aos seus hospedeiros.",
+      "name": "Thalys",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：THALYS）泰力在扎日曼豐收祭中扮演儀式性的角色，原意為收成 Tau 的初果。現卻偏離了本意，轉而於敵人血肉中植入虛空碎片。每植入新碎片，就會讓現有的碎片對其宿主造成傷害。",
+      "name": "泰力",
+      "code": "tc"
+    },
+    {
+      "description": "Thalys มีบทบาทในพิธีกรรมในเทศกาลเก็บเกี่ยวของ Zariman และตั้งใจที่จะใช้สิ่งนี้เก็บเกี่ยวผลผลิตแรกของ Tau แต่บัดนี้จุดประสงค์นี้ได้เปลี่ยนไปแล้ว จึงได้ฝังเศษชิ้นส่วนวอยด์ลงในเนื้อของศัตรูแทน และทุกครั้งที่ฝังเศษชิ้นส่วนใหม่เข้าไปจะทำให้เศษชิ้นส่วนที่มีอยู่เดิมสร้างความเสียหายต่อสิ่งมีชีวิตที่เป็นโฮสต์",
+      "name": "Thalys",
+      "code": "th"
+    },
+    {
+      "description": "Thalys, Zariman hasat festivalinde törensel bir rol oynuyordu ve Tau'nun ilk meyvelerini toplamayı amaçlıyordu. Şimdi bu amacından saptırılarak, bunun yerine düşman etine Void parçaları ekiyor. Ekilen her yeni parça, mevcut parçaların konaklarına hasar vermesine neden olur.",
+      "name": "Thalys",
+      "code": "tr"
+    },
+    {
+      "description": "Талис відігравала церемоніальну роль на зарименському святі врожаю й мала скосити перші плоди Тау. Змінивши призначення, вона насичує Порожнечею плоть ворогів. Кожен новий посаджений уламок змушує інші завдавати шкоди носіям.",
+      "name": "Талис",
+      "code": "uk"
+    }
+  ]
+}

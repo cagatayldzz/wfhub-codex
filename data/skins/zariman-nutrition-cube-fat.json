@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenFoodRationD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-nutrition-cube-(fat)-ebd34e8e03.png",
+  "name": "Zariman Nutrition Cube (Fat)",
+  "description": "A collection of healthy fats comprise this nutrition cube.",
+  "languages": [
+    {
+      "description": "Eine Zusammenstellung gesunder Fette umfasst diesen Nahrungswürfel.",
+      "name": "Zariman Nährstoffwürfel (Fett)",
+      "code": "de"
+    },
+    {
+      "description": "Un cube nutritionnel de graisses saines.",
+      "name": "Zariman: Cube nutritionnel (graisse)",
+      "code": "fr"
+    },
+    {
+      "description": "Questo cubo contiene grassi sani.",
+      "name": "Cubo Nutrizionale Zariman (Grassi)",
+      "code": "it"
+    },
+    {
+      "description": "이 영양 큐브는 건강한 지방의 집합체로 구성되어 있습니다.",
+      "name": "자리만 영양 큐브 (지방)",
+      "code": "ko"
+    },
+    {
+      "description": "Un cubo nutricional que contiene grasas saludables.",
+      "name": "Cubo nutricional Zariman (grasa)",
+      "code": "es"
+    },
+    {
+      "description": "一个由多种健康脂肪加工而成的营养块。",
+      "name": "扎里曼营养块（脂肪）",
+      "code": "zh"
+    },
+    {
+      "description": "Этот питательный батончик содержит набор полезных жиров.",
+      "name": "Зариман: Питательный батончик (жир)",
+      "code": "ru"
+    },
+    {
+      "description": "キューブ状に加工された健康的な油分。",
+      "name": "Zariman 栄養キューブ（脂肪）",
+      "code": "ja"
+    },
+    {
+      "description": "Pożywienie zawierające wiele zdrowych tłuszczów.",
+      "name": "Zariman: Baton odżywczy (tłuszcz)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma seleção de gorduras saudáveis compõem este cubo nutricional.",
+      "name": "Cubo Nutricional da Zariman (Gorduras)",
+      "code": "pt"
+    },
+    {
+      "description": "多種健康脂肪構成了這種營養塊。",
+      "name": "扎日曼營養塊（脂肪）",
+      "code": "tc"
+    },
+    {
+      "description": "ก้อนอาหารนี้ประกอบไปด้วยไขมันที่ดีต่อสุขภาพ",
+      "name": "Zariman: นิวทริชันคิวบ์ (ไขมัน)",
+      "code": "th"
+    },
+    {
+      "description": "Bu besin küpü sağlıklı yağlardan oluşan bir derleme oluşturur.",
+      "name": "Zariman Besin Küpü (Yağlı)",
+      "code": "tr"
+    },
+    {
+      "description": "Харчовий куб із вмістом різноманітних поживних жирів.",
+      "name": "Харчовий куб із «Заримена» (жировий)",
+      "code": "uk"
+    }
+  ]
+}

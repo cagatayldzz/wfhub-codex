@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageIronFrameDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-glyph---dark-5bca514e9f.png",
+  "name": "Hildryn Glyph - Dark",
+  "description": "A glyph depicting Hildryn on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Hildryn vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Hildryn (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Hildryn sur un fond sombre.",
+      "name": "Glyphe Hildryn - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Hildryn su uno sfondo scuro.",
+      "name": "Glifo Hildryn - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 힐드린을 묘사한 글리프입니다.",
+      "name": "힐드린 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Hildryn sobre un fondo oscuro.",
+      "name": "Glifo de Hildryn - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Hildryn 在黑暗背景下的浮印。",
+      "name": "Hildryn 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Хильдрин на тёмном фоне.",
+      "name": "Глиф: Хильдрин - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたHildrynのグリフ。",
+      "name": "Hildryn グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Hildryn na ciemnym tle.",
+      "name": "Glif Hildryn — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Hildryn em um fundo escuro.",
+      "name": "Glifo: Hildryn (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Hildryn 在黑暗背景下的浮印。",
+      "name": "Hildryn 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Hildryn บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Hildryn - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Hildryn koyu fonlu glif.",
+      "name": "Hildryn Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гільдрини на темному тлі.",
+      "name": "Темний гліф «Гільдрина»",
+      "code": "uk"
+    }
+  ]
+}

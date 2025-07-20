@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20MotherGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mother-tennobaum-glyph-8a2307b376.png",
+  "name": "Mother Tennobaum Glyph",
+  "description": "She’s making a list of Bounties and checking it twice.",
+  "languages": [
+    {
+      "description": "Während sie eine Liste mit Aufträgen macht, liegen Geschenke und Rute parat. Wart ihr artig oder frech?",
+      "name": "Glyphe: Mutter Tennobaum",
+      "code": "de"
+    },
+    {
+      "description": "Elle fait une liste de Mises à prix et la vérifie deux fois.",
+      "name": "Glyphe Tennobaum de la Mère",
+      "code": "fr"
+    },
+    {
+      "description": "Sta facendo una lista di Taglie, controllandola due volte.",
+      "name": "Glifo Madre Tennobaum",
+      "code": "it"
+    },
+    {
+      "description": "어머니가 의뢰 목록을 만들고 다시 한 번 점검하고 계시네요.",
+      "name": "어머니 텐노바움 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Ella está haciendo una lista de los Contratos y la revisa dos veces.",
+      "name": "Glifo Tennobaum de Madre",
+      "code": "es"
+    },
+    {
+      "description": "她正在列出一张赏金任务的清单，并反复对其检查。",
+      "name": "“母亲” Tennobaum 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Десять раз в неделю меняет заказов списки, чтоб зажглись скорее лутом обелиски.",
+      "name": "Глиф: Тэннобаум с матерью",
+      "code": "ru"
+    },
+    {
+      "description": "Motherは依頼リストを作って、間違わないように見直しています。",
+      "name": "Mother Tennobaum グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Matka robi listę Zleceń i sprawdza ją dwa razy.",
+      "name": "Glif Tennobaum Matki",
+      "code": "pl"
+    },
+    {
+      "description": "Ela está fazendo uma lista de Contratos e a verificando duas vezes.",
+      "name": "Glifo: Tennobaum da Mãe",
+      "code": "pt"
+    },
+    {
+      "description": "她正在草議一份賞金任務的清單並再三校對。",
+      "name": "母親 Tennobaum 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "นางกำลังทำรายการการล่ารางวัลและตรวจสอบมันถึงสองครั้ง",
+      "name": "ภาพสัญลักษณ์ Mother Tennobaum",
+      "code": "th"
+    },
+    {
+      "description": "Ödül listesi yapıyor ve iki kez kontrol ediyor.",
+      "name": "Anne Tennobaum Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Вона складає список контрактів і двічі його перевіряє.",
+      "name": "Гліф «Мати „Теннобаум”»",
+      "code": "uk"
+    }
+  ]
+}

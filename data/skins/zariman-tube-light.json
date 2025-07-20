@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxGlowStickLightA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-tube-light-4aaf81429d.png",
+  "name": "Zariman Tube Light",
+  "description": "A portable light source.",
+  "languages": [
+    {
+      "description": "Eine tragbare Lichtquelle.",
+      "name": "Zariman Leuchtröhre",
+      "code": "de"
+    },
+    {
+      "description": "Une source de lumière portative.",
+      "name": "Zariman: Tube lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Una lampada portatile.",
+      "name": "Lampada a Tubo Zariman",
+      "code": "it"
+    },
+    {
+      "description": "휴대용 광원입니다.",
+      "name": "자리만 튜브 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Una fuente de luz portátil.",
+      "name": "Tubo de luz Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个便携式光源。",
+      "name": "扎里曼灯管",
+      "code": "zh"
+    },
+    {
+      "description": "Переносной источник света.",
+      "name": "Люминесцентная лампа: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "携帯型の照明。",
+      "name": "Zariman チューブライト",
+      "code": "ja"
+    },
+    {
+      "description": "Przenośne źródło światła.",
+      "name": "Zariman: Świetlówka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma fonte de luz portátil.",
+      "name": "Lâmpada Tubular da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "手提式光源。",
+      "name": "扎日曼燈管",
+      "code": "tc"
+    },
+    {
+      "description": "แหล่งกำเนิดแสงแบบพกพา",
+      "name": "Zariman: หลอดไฟ",
+      "code": "th"
+    },
+    {
+      "description": "Taşınabilir bir ışık kaynağı.",
+      "name": "Zariman Tüp Işık",
+      "code": "tr"
+    },
+    {
+      "description": "Переносне джерело світла.",
+      "name": "Світлова туба із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

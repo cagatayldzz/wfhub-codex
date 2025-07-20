@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnKusarigama/GrnKusarigamaWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jat-kusar-ff6110cbdc.png",
+  "name": "Jat Kusar",
+  "description": "Overwhelm hostiles with this jet-powered sickle and razor-chain weapon. Charged strikes ignite an explosive blast at range.",
+  "languages": [
+    {
+      "description": "Überwältige Gegner mit dieser lodernden Kettensichel. Aufgeladene Angriffe entzünden eine Explosion auf Distanz.",
+      "name": "Jat Kusar",
+      "code": "de"
+    },
+    {
+      "description": "Dominez vos ennemis avec cette faucille et cette chaîne barbelée à propulsion. Les attaques chargées provoquent une explosion à distance.",
+      "name": "Jat Kusar",
+      "code": "fr"
+    },
+    {
+      "description": "Annienta i nemici con questa falce jet con una catena affilata come un rasoio. Gli attacchi caricati creano un'esplosione dove colpisce.",
+      "name": "Jat Kusar",
+      "code": "it"
+    },
+    {
+      "description": "이 제트 추진식 낫 & 칼날 사슬 무기로 적들을 압도해 보세요. 차지 공격 시 먼 거리에 폭발하는 일격을 가할 수 있습니다.",
+      "name": "젯 쿠사르",
+      "code": "ko"
+    },
+    {
+      "description": "Abruma a los hostiles con esta arma de hoz propulsada a jet con cadena afilada. Los ataques cargados crean un estallido explosivo en el rango.",
+      "name": "Jat Kusar",
+      "code": "es"
+    },
+    {
+      "description": "（英文：JAT KUSAR）用这把喷气动力的镰刀和锋利锁链武器击垮你的敌人。蓄力攻击可以点燃一次远距离的爆破。",
+      "name": "喷射锁镰",
+      "code": "zh"
+    },
+    {
+      "description": "Дайте отпор силам врага с этим реактивным оружием, состоящим из косы и режущей цепи. Заряженные атаки вызывают взрыв в месте удара.",
+      "name": "Джат Кусар",
+      "code": "ru"
+    },
+    {
+      "description": "このジェット噴射のカマと鋭い鎖の武器で敵を圧倒しよう。チャージ攻撃で遠くに爆発を起こす。",
+      "name": "Jat Kusar",
+      "code": "ja"
+    },
+    {
+      "description": "Stłamś wrogów, wykorzystując ten zasilany silnikiem rakietowym sierp i tnący łańcuch. Ataki ładowane wywołują zapłon ładunku wybuchowego na dalszym zasięgu.",
+      "name": "Jat Kusar",
+      "code": "pl"
+    },
+    {
+      "description": "Prevaleça contra inimigos hostis com esta arma de foice e corrente cortante. Ataques carregados incendeiam uma explosão calorosa à distância.",
+      "name": "Jat Kusar",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：JAT KUSAR）用這把噴射動力的鐮刀和鋒利鎖鏈武器擊垮你的敵人。蓄力攻擊可以點燃一次遠距離的爆破。",
+      "name": "噴射鎖鐮",
+      "code": "tc"
+    },
+    {
+      "description": "เอาชนะศัตรูด้วยเคียวที่มีพลังไอพ่นและอาวุธโซ่ใบมีดโกน การพุ่งชาร์จโจมตีจะจุดชนวนระเบิดขึ้นมา",
+      "name": "Jat Kusar",
+      "code": "th"
+    },
+    {
+      "description": "Jet gücüyle donatılmış bu orak ve jilet gibi zincirlere sahip silah ile düşmanlarınızın üstesinden gelin. Şarjlı saldırılar belirli bir mesafeye kadar patlamayı ateşleyecektir.",
+      "name": "Jat Kusar",
+      "code": "tr"
+    },
+    {
+      "description": "Оснащений реактивними прискорювачами серп і ударне ядро, зʼєднані ланцюгом. Викликає вибухи на відстані, якщо вкласти в удар достатньо сили.",
+      "name": "Джат Кусар",
+      "code": "uk"
+    }
+  ]
+}

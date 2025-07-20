@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/FurisIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/furis-incarnon-genesis-0619c9b272.png",
+  "name": "Furis Incarnon Genesis",
+  "description": "Awaken this weapon's ability to project a wide <DT_FIRE_COLOR>Heat Damage beam in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form einen breiten <DT_FIRE_COLOR>Hitzeschaden-Strahl zu erzeugen.",
+      "name": "Incarnon-Genesis: Furis",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à projeter un large faisceau infligeant des Dégâts de <DT_FIRE_COLOR>Feu sous Forme Incarnon.",
+      "name": "Furis Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di proiettare un ampio raggio Danno <DT_FIRE_COLOR>Fuoco nella Forma Incarnon.",
+      "name": "Furis Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 발사를 길게 누를 시 넓은 범위의 <DT_FIRE_COLOR>화염 피해 빔을 발사하는 능력이 추가됩니다.",
+      "name": "퓨리스 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para proyectar un rayo amplio de daño de <DT_FIRE_COLOR>calor en su forma Incarnon.",
+      "name": "Furis Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有发射一束广范围 <DT_FIRE_COLOR>火焰伤害光束的能力。",
+      "name": "盗贼灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия излучать широкий луч, наносящий урон <DT_FIRE_COLOR>огнём в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Фурис",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム中に広範囲の<DT_FIRE_COLOR>火炎ダメージビームを放つ。",
+      "name": "Furis インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wystrzeliwuje szeroki promień, zadający <DT_FIRE_COLOR> Obr. od Ognia.",
+      "name": "Geneza Inkarnon: Furis",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de projetar um feixe amplo de Dano <DT_FIRE_COLOR>Ígneo no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Furis",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下射出寬廣的<DT_FIRE_COLOR>火焰傷害光束。",
+      "name": "盜賊應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะฉายลำแสงที่สร้างความเสียหายธาตุ <DT_FIRE_COLOR>ไฟเป็นวงกว้าง",
+      "name": "Furis Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilindeki her atışta geniş <DT_FIRE_COLOR>Ateş Hasarı veren ışınlar ateşleme özelliğini uyandır.",
+      "name": "Furis Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє вистрілювати широким променем із <DT_FIRE_COLOR>термічною шкодою.",
+      "name": "Інкарнонський генезис: Фуріс",
+      "code": "uk"
+    }
+  ]
+}

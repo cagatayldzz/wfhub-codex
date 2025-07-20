@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kavasa-white-9b784f9437.png",
+  "name": "Kavasa White",
+  "description": "Splices the genes in your pet Kubrow to change the color of its fur.",
+  "languages": [
+    {
+      "description": "Spleiße die Gene deines Kubrow Haustieres, um die Farbe seines Fells zu verändern.",
+      "name": "Kavasa-Weiss",
+      "code": "de"
+    },
+    {
+      "description": "Épisse les gènes de votre Kubrow de façon à changer la couleur de son pelage.",
+      "name": "Blanc Kavasa",
+      "code": "fr"
+    },
+    {
+      "description": "Inietta i geni nel tuo Kubrow per cambiar colore al manto.",
+      "name": "Bianco Kavasa",
+      "code": "it"
+    },
+    {
+      "description": "애완용 쿠브로의 유전자를 합성해 쿠브로의 털 색을 바꿉니다.",
+      "name": "카바사 화이트",
+      "code": "ko"
+    },
+    {
+      "description": "Empalma los genes de tu mascota kubrow para cambiar el color de su pelaje.",
+      "name": "Blanco kavasa",
+      "code": "es"
+    },
+    {
+      "description": "借由基因拼接来改变库狛毛皮的颜色。",
+      "name": "喀婆萨 白",
+      "code": "zh"
+    },
+    {
+      "description": "Комбинирует гены вашего кубрау для изменения цвета его шерсти.",
+      "name": "Каваса-белый",
+      "code": "ru"
+    },
+    {
+      "description": "クブロウの遺伝子をつなぎ合わせて、その毛色を変更する。",
+      "name": "カバサ・ホワイト",
+      "code": "ja"
+    },
+    {
+      "description": "Splata geny Twojego Kubrowa, by zmienić kolor jego futra.",
+      "name": "Biel Kavasa",
+      "code": "pl"
+    },
+    {
+      "description": "Divide os genes de seu Kubrow para mudar a cor do pelo dele.",
+      "name": "Branco Kavasa",
+      "code": "pt"
+    },
+    {
+      "description": "藉由基因拼接來改變庫狛毛皮的顏色。",
+      "name": "喀婆薩白",
+      "code": "tc"
+    },
+    {
+      "description": "ตัดต่อยีนสัตว์เลี้ยง Kubrow ของคุณเพื่อเปลี่ยนสีขนของมัน",
+      "name": "Kavasa White",
+      "code": "th"
+    },
+    {
+      "description": "Tüylerinin rengini değiştirmek için Kubrow genlerini birleştirir.",
+      "name": "Kavasa Beyazı",
+      "code": "tr"
+    },
+    {
+      "description": "Поєднуйте гени під час виведення куброу, щоб змінити колір забарвлення хутра.",
+      "name": "Кавасово-білий",
+      "code": "uk"
+    }
+  ]
+}

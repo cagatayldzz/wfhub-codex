@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Pride2023Display",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pride-display-ii-d12bf68f55.png",
+  "name": "Pride Display Ii",
+  "description": "This Display celebrates Pride. Designed by ViperMenace.",
+  "languages": [
+    {
+      "description": "Dieses Display zelebriert Pride. Entworfen von ViperMenace.",
+      "name": "Anzeige: Pride II",
+      "code": "de"
+    },
+    {
+      "description": "Cette Affiche célèbre la Fierté. Créée par ViperMenace.",
+      "name": "Affiche de la Fierté II",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Display celebra il Pride. Ideato da ViperMenace.",
+      "name": "Display - Pride II",
+      "code": "it"
+    },
+    {
+      "description": "프라이드를 기념하는 디스플레이입니다. ViperMenace에 의해 디자인되었습니다.",
+      "name": "프라이드 디스플레이 II",
+      "code": "ko"
+    },
+    {
+      "description": "Este mostrador celebra el Orgullo. Diseñado por ViperMenace.",
+      "name": "Exhibidor del Orgullo II",
+      "code": "es"
+    },
+    {
+      "description": "庆祝骄傲月的展示图。由 ViperMenace 设计。",
+      "name": "骄傲展示图 II",
+      "code": "zh"
+    },
+    {
+      "description": "Этот дисплей демонстрирует поддержку Прайда. Создан ViperMenace.",
+      "name": "Дисплей: Прайд II",
+      "code": "ru"
+    },
+    {
+      "description": "Prideを祝うディスプレイ。ViperMenace作。",
+      "name": "Pride ディスプレイ II",
+      "code": "ja"
+    },
+    {
+      "description": "Wyświetlacz na cześć Dumy. Zaprojektowany przez ViperMenace.",
+      "name": "Wyświetlacz Dumy II",
+      "code": "pl"
+    },
+    {
+      "description": "Este Exibidor, criado por ViperMenace, celebra o Orgulho LGBTQIA+.",
+      "name": "Exibidor do Orgulho LGBTQIA+ II",
+      "code": "pt"
+    },
+    {
+      "description": "以這個展示圖來慶祝同志驕傲。由 ViperMenace 所設計。",
+      "name": "同志驕傲展示圖 II",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพดิสเพลย์นี้ใช้เพื่อฉลองเทศกาล Pride ออกแบบโดย ViperMenace",
+      "name": "ภาพดิสเพลย์ Pride II",
+      "code": "th"
+    },
+    {
+      "description": "Bu Sergi Pride'ı kutluyor. ViperMenace tarafından tasarlanmıştır.",
+      "name": "Pride Sergisi II",
+      "code": "tr"
+    },
+    {
+      "description": "Дисплей на підтримку Прайду, створений ViperMenace.",
+      "name": "Дисплей «Прайд» II",
+      "code": "uk"
+    }
+  ]
+}

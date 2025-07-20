@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenSaladSpinner",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-salad-spinner-4d62039214.png",
+  "name": "Zariman Salad Spinner",
+  "description": "Wash fresh leafy greens from the agri-biomes.",
+  "languages": [
+    {
+      "description": "Wasche frisches Blattgemüse aus den Agrarbiomen.",
+      "name": "Zariman Salatschleuder",
+      "code": "de"
+    },
+    {
+      "description": "Lavez les légumes à feuilles frais des agro-biomes.",
+      "name": "Zariman: Essoreuse à salade",
+      "code": "fr"
+    },
+    {
+      "description": "Lava le fresche verdure a foglia verde dei biomi agricoli.",
+      "name": "Centrifuga per Insalata Zariman",
+      "code": "it"
+    },
+    {
+      "description": "농경 생태실에서 수확한 잎 많고 신선한 채소를 씻는 데 사용됩니다.",
+      "name": "자리만 샐러드 탈수기",
+      "code": "ko"
+    },
+    {
+      "description": "Lava las verduras de hoja verde frescas de los agrobiomas.",
+      "name": "Escurridor de ensalada Zariman",
+      "code": "es"
+    },
+    {
+      "description": "清洗产于农业生物群落的新鲜绿叶蔬菜。",
+      "name": "扎里曼沙拉脱水器",
+      "code": "zh"
+    },
+    {
+      "description": "Вымойте свежие листья зелени, собранные в агро-биомах.",
+      "name": "Зариман: центрифуга для салата",
+      "code": "ru"
+    },
+    {
+      "description": "農業バイオームで採れた野菜を洗う。",
+      "name": "Zariman サラダスピナー",
+      "code": "ja"
+    },
+    {
+      "description": "Myj świeże, zielone warzywa liściaste z agro-biomów.",
+      "name": "Zariman: Wirówka do sałaty",
+      "code": "pl"
+    },
+    {
+      "description": "Lave e seque as folhas verdes frescas dos agrobiomas.",
+      "name": "Escorredor de Salada da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "清洗來自農業生物群落的綠葉蔬菜。",
+      "name": "扎日曼沙拉脫水器",
+      "code": "tc"
+    },
+    {
+      "description": "เอาไว้ล้างผักใบเขียวสดจากไบโอมเกษตร",
+      "name": "Zariman: เครื่องปั่นผักสลัด",
+      "code": "th"
+    },
+    {
+      "description": "Tarımsal biyomlardan toplanan taze yapraklı yeşillikleri yıka.",
+      "name": "Zariman Salata Kurutucu",
+      "code": "tr"
+    },
+    {
+      "description": "Вимивайте свіже листя салату із сільськогосподарських біомів.",
+      "name": "Салатна центрифуга із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

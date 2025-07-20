@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Primary/BoarIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/boar-incarnon-genesis-dc5057673e.png",
+  "name": "Boar Incarnon Genesis",
+  "description": "Awaken this weapon's ability to fire three short-range beams that chain link enemies in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form, drei Strahlen mit kurzer Reichweite abzufeuern, die Feinde miteinander verbinden.",
+      "name": "Incarnon-Genesis: Boar",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à tirer trois rayons à courte portée qui relient les ennemis sous Forme Incarnon.",
+      "name": "Boar Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di sparare tre raggi a breve portata che collegano a catena i nemici nella Forma Incarnon.",
+      "name": "Boar Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 적을 연쇄적으로 공격하는 세 개의 단거리 빔을 발사할 수 있습니다.",
+      "name": "보어 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para disparar tres rayos de corto alcance que encadenan a los enemigos en su forma Incarnon.",
+      "name": "Boar Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下发射三道短程光束链接敌人的能力。",
+      "name": "野猪灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия стрелять тремя лучами короткого диапазона, которые связывают врагов в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Вепрь",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは敵に連鎖する短距離のビーム3本を撃つ。",
+      "name": "Boar インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wystrzeliwuje trzy, przeskakujące między wrogami, promienie o krótkim zasięgu.",
+      "name": "Geneza Inkarnon: Boar",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de disparar três feixes de curto alcance que se conectam aos inimigos no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Boar",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下射出三束連接敵人的短程光束。",
+      "name": "野豬應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะยิงลำแสงระยะใกล้สามลำแสงเพื่อโจมตีศัตรูต่อ ๆ กันไปเป็นลูกโซ่",
+      "name": "Boar Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde düşmanlar arası bağlantı kuran, kısa menzilli üçlü ışınlar ateşleme özelliğini uyandır.",
+      "name": "Boar Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє вистрілювати трьома короткими променями з ланцюговим ефектом дії.",
+      "name": "Інкарнонський генезис: Вепр",
+      "code": "uk"
+    }
+  ]
+}

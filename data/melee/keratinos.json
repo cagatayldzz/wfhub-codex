@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/Melee/InfTransformClaw/InfTransformClawsWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/keratinos-5879a3bd4d.png",
+  "name": "Keratinos",
+  "description": "Leave your mark with these infected claws with increased heavy attack range. Heavy attack at max combo to keep the extended range and slam radius for 3 minutes.",
+  "languages": [
+    {
+      "description": "Hinterlasse deine Spuren mit diesen infizierten Klauen und erhöhe die Reichweite deiner Schweren Angriffe. Greife bei max. Kombo mit Schwerem Angriff an, um die erhöhte Reichweite und den Radius des Schmetterangriffs für 3 Minuten zu behalten.",
+      "name": "Keratinos",
+      "code": "de"
+    },
+    {
+      "description": "Laissez votre marque avec ces griffes infectées qui offrent une portée d'Attaque Lourde Accrue. Faites une Attaque Lourde au combo max pour garder la portée et le rayon de Frappe au Sol étendus pendant 3 minutes.",
+      "name": "Keratinos",
+      "code": "fr"
+    },
+    {
+      "description": "Lascia il segno con questi artigli infetti che offrono una maggiore portata per gli Attacchi Pesanti. Eseguili al massimo della combo per aumentare la gittata degli attacchi e del raggio d'azione degli schianti a terra per 3 minuti.",
+      "name": "Keratinos",
+      "code": "it"
+    },
+    {
+      "description": "증가된 강 공격 범위를 가진 이 감염된 클로로 지워지지 않는 흉터를 새기세요. 최대 연속기 상태에서 강 공격 시 사거리 및 지면 강타 공격의 범위가 3분 동안 증가합니다.",
+      "name": "케라티노스",
+      "code": "ko"
+    },
+    {
+      "description": "Deja tu marca con estas garras infectadas con un rango de ataque pesado incrementado. El ataque pesado con un combo máximo mantiene el rango extendido y el radio de golpe por 3 minutos.",
+      "name": "Keratinos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KERATINOS）这些感染利爪可以在更大的重击范围内留下你的印记。达到最高连击数时进行重击，可以保持持续三分钟的、更大的攻击范围和震地半径。",
+      "name": "卡提努之爪",
+      "code": "zh"
+    },
+    {
+      "description": "Оставьте свою метку этими заражёнными когтями с увеличенной дальностью тяжелой атаки. Используйте тяжелую атаку в максимальном значении комбо для сохранения увеличенного диапазона и радиуса удара в течение 3-х минут.",
+      "name": "Кератинос",
+      "code": "ru"
+    },
+    {
+      "description": "ヘビー攻撃範囲が拡張されたこの感染体クローで消えない傷を残そう。最大コンボでヘビー攻撃を行う事で拡張された攻撃範囲とスラム範囲を3分間保てます。",
+      "name": "Keratinos",
+      "code": "ja"
+    },
+    {
+      "description": "Zostaw ślad tymi pazurami Plagi o zwiększonym zasięgu ciężkich ataków. Użyj silnego ataku przy maksymalnym liczniku kombo, aby utrzymać zwiększony zasięg i zasięg ataku obszarowego przez 3 minuty.",
+      "name": "Keratinos",
+      "code": "pl"
+    },
+    {
+      "description": "Deixe a sua marca com estas garras infectadas que possuem um maior alcance de Ataque Pesado. Realize um Ataque Pesado no combo máximo para manter o alcance estendido e o raio de impacto por 3 minutos.",
+      "name": "Keratinos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KERATINOS）使用這對延長重擊範圍的感染之爪來留下你的痕跡。在最高連擊數時進行重擊，可以維持加長的攻擊範圍和震地攻擊半徑效果，持續 3 分鐘。",
+      "name": "鋒角之爪",
+      "code": "tc"
+    },
+    {
+      "description": "กรงเล็บติดเชื้อที่ขยายระยะขอบเขตในการโจมตีหนักคู่นี้จะฝากรอยแผลทิ้งเอาไว้ หากโจมตีหนักด้วยค่าคอมโบสูงสุดจะรักษาระยะที่ขยายออกไปและรัศมีที่เกิดจากการทุบพื้นไว้ได้เป็นเวลา 3 นาที",
+      "name": "Keratinos",
+      "code": "th"
+    },
+    {
+      "description": "Artırılmış ağır saldırı menziline sahip bu enfekte pençelerle izini bırak. Genişletilmiş menzili ve yere çarpma alanını 3 dakika boyunca korumak için kombo sayacın maksimumda iken ağır saldırı yap.",
+      "name": "Keratinos",
+      "code": "tr"
+    },
+    {
+      "description": "Заражені кігті, що залишать на ворогах глибокі шрами. Потужні удари з максимальним лічильником серії ударів збільшують дальність і радіус удару по землі впродовж трьох хвилин.",
+      "name": "Кератини",
+      "code": "uk"
+    }
+  ]
+}

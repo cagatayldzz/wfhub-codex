@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/RazorbackCipher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/razorback-cipher-342ddc8b9d.png",
+  "name": "Razorback Cipher",
+  "description": "Used to bypass security systems that protect the Razorback's holding cell.",
+  "languages": [
+    {
+      "description": "Wird benutzt, um die Sicherheitssysteme der Razorback Haltezellen zu umgehen.",
+      "name": "Razorback Dechiffrierer",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé pour contourner le système de sécurité qui protège la cellule d'attente du Razorback.",
+      "name": "Décodeur Razorback",
+      "code": "fr"
+    },
+    {
+      "description": "Usato per aggirare i sistemi di sicurezza che proteggono la cella del Razorback",
+      "name": "Cipher Razorback",
+      "code": "it"
+    },
+    {
+      "description": "레이저백의 수용소를 지키고 있는 보안 시스템을 우회하기 위해 사용됩니다.",
+      "name": "레이저백 해독기",
+      "code": "ko"
+    },
+    {
+      "description": "Usado para sobrepasar los sistemas de seguridad que protegen la celda de contención del Razorback.",
+      "name": "Cifrador Razorback",
+      "code": "es"
+    },
+    {
+      "description": "用来绕开保护利刃豺狼收容室的安保系统。",
+      "name": "利刃豺狼密码",
+      "code": "zh"
+    },
+    {
+      "description": "Используется для обхода систем защиты ячейки хранения Секача.",
+      "name": "Шифр Секача",
+      "code": "ru"
+    },
+    {
+      "description": "Razorback保管庫のセキュリティを解除する装置。",
+      "name": "Razorback サイファー",
+      "code": "ja"
+    },
+    {
+      "description": "Wymagany, by obejść systemy bezpieczeństwa celi Razorbacka.",
+      "name": "Dekoder Razorback",
+      "code": "pl"
+    },
+    {
+      "description": "Utilizado para burlar os sistemas de segurança que protegem a cela do Razorback.",
+      "name": "Decodificador Razorback",
+      "code": "pt"
+    },
+    {
+      "description": "用來繞開保護利刃豺狼收容室的保全系統。",
+      "name": "利刃豺狼破解器",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เพื่อเลี่ยงระบบรักษาความปลอดภัยที่ป้องกันห้องขังของ Razorback",
+      "name": "ไซเฟอร์ของ Razorback",
+      "code": "th"
+    },
+    {
+      "description": "Razorback'in tutuklu hücresinin güvenlik sistemlerini hacklemek için kullanılır",
+      "name": "Razorback Anahtarı",
+      "code": "tr"
+    },
+    {
+      "description": "Використовується для зламу систем безпеки камери, що утримує іклана.",
+      "name": "Шифрувальник іклана",
+      "code": "uk"
+    }
+  ]
+}

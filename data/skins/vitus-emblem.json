@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/EliteAlertBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitus-emblem-531d5dccb6.png",
+  "name": "Vitus Emblem",
+  "description": "A symbol of survival. Worn by those who have entered Arbitration and lived.",
+  "languages": [
+    {
+      "description": "Ein Symbol des Überlebens. Getragen von denen, die das Schiedsgericht betraten und lebten.",
+      "name": "Emblem: Vitus",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole de survie. Porté par ceux qui ont participé à l'Arbitrage et survécu.",
+      "name": "Badge Vitus",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo di sopravvivenza. Indossato dai partecipanti sopravvissuti all'Arbitrato.",
+      "name": "Emblema Vitus",
+      "code": "it"
+    },
+    {
+      "description": "중재에 들어서 살아남은 자들이 착용하는 생존의 상징입니다.",
+      "name": "바이터스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo de supervivencia. Portado por aquellos que han entrado en el Arbitramento y sobrevivido.",
+      "name": "Emblema Vitus",
+      "code": "es"
+    },
+    {
+      "description": "幸存的标志。由那些经历仲裁并存活之人佩戴。",
+      "name": "生息徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Символ победы над смертью. Предназначен для тех, кто предстал перед Арбитражем и выжил.",
+      "name": "Значок: Витус",
+      "code": "ru"
+    },
+    {
+      "description": "生還の象徴。仲裁の場から生きて帰ってきた者が装着する。",
+      "name": "ビタス・エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol przetrwania. Noszone przez tych, którzy weszli do Arbitrażu i przeżyli.",
+      "name": "Emblemat Vitus",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo de sobrevivência. Usado por aqueles que entraram na Arbitragem e saíram para contar sua história.",
+      "name": "Emblema: Vitus",
+      "code": "pt"
+    },
+    {
+      "description": "倖存的標誌，由那些經歷仲裁並存活之人所佩戴。",
+      "name": "生息徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นสัญลักษณ์แห่งการอยู่รอด สวมโดยผู้ที่เข้าสู่การตัดสินชี้ชะตาในการทดสอบของตุลาการและยังเอาตัวรอดมาได้",
+      "name": "ตราสัญลักษณ์: Vitus",
+      "code": "th"
+    },
+    {
+      "description": "Hayatta kalmanın bir sembolü. Bunları Arbitrasyon'a girip hayatta kalanlar takar.",
+      "name": "Vitus Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Символ життя. Носять ті, хто зміг ступити до Арбітражу та вижити.",
+      "name": "Відзнака «Життя»",
+      "code": "uk"
+    }
+  ]
+}

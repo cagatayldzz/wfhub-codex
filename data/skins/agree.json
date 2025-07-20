@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/AgreeEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/agree-c198843fef.png",
+  "name": "Agree",
+  "description": "A quick head nod.",
+  "languages": [
+    {
+      "description": "Ein schnelles Kopfnicken.",
+      "name": "Zustimmen",
+      "code": "de"
+    },
+    {
+      "description": "Un rapide hochement de tête.",
+      "name": "Accepter",
+      "code": "fr"
+    },
+    {
+      "description": "Un cenno rapido della testa.",
+      "name": "Ok",
+      "code": "it"
+    },
+    {
+      "description": "가볍게 머리를 끄덕입니다.",
+      "name": "동의",
+      "code": "ko"
+    },
+    {
+      "description": "Una rápida inclinación de cabeza.",
+      "name": "Asentir",
+      "code": "es"
+    },
+    {
+      "description": "快速的点头",
+      "name": "同意",
+      "code": "zh"
+    },
+    {
+      "description": "Быстрый кивок головой",
+      "name": "Согласие",
+      "code": "ru"
+    },
+    {
+      "description": "頷く。",
+      "name": "同意",
+      "code": "ja"
+    },
+    {
+      "description": "Szybkie kiwnięcie głową.",
+      "name": "Zgoda",
+      "code": "pl"
+    },
+    {
+      "description": "Um sinal rápido com a cabeça",
+      "name": "Concordar",
+      "code": "pt"
+    },
+    {
+      "description": "快速的點頭",
+      "name": "同意",
+      "code": "tc"
+    },
+    {
+      "description": "พยักหน้าอย่างรวดเร็ว",
+      "name": "ตกลง",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı bir kafa selamı.",
+      "name": "Kabul",
+      "code": "tr"
+    },
+    {
+      "description": "Швидке кивання головою.",
+      "name": "Згода",
+      "code": "uk"
+    }
+  ]
+}

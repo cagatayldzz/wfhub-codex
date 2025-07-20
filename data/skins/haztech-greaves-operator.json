@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Armour/Apparatist/ApparatistArmourLegs",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/haztech-greaves-(operator)-7a3c0fed81.png",
+  "name": "Haztech Greaves (Operator)",
+  "description": "When coolant offgasses or a fusion-gen gets cracked it's everybody out. Everybody except the haztechs. Operator armor modeled on the daredevils of Fortuna's maintanaince crews.",
+  "languages": [
+    {
+      "description": "Wenn Kühlmittel verdampfen oder ein Fusionsgenerator einen Riss bekommt heißt es, alle Mann in Deckung. Alle, außer den Haztechs. Diese Rüstung eines Operators wurde denen der Teufelskerle von Fortunas Wartungscrews nachempfunden.",
+      "name": "Beinschienen: Haztech (Operator)",
+      "code": "de"
+    },
+    {
+      "description": "Tout le monde s'en va lorsque le liquide de refroidissement s'évapore, ou qu'un générateur à fusion craque. Tout le monde sauf les Haztechs. Armure pour Opérateur inspirée des têtes brûlées des équipes de maintenance de Fortuna.",
+      "name": "Jambières Haztech (Opérateur)",
+      "code": "fr"
+    },
+    {
+      "description": "Quando c'è una fuga di gas di raffreddamento o scoppia un generatore a fusione, tutti se la danno a gambe. Tutti tranne gli haztech. Armatura per l'Operatore modellata sul temerario staff di meccanici di Fortuna.",
+      "name": "Gambali Haztech (Operatore)",
+      "code": "it"
+    },
+    {
+      "description": "냉각수가 배출되거나 핵융합 발전기에 균열이 생기면 헤즈테크를 제외한 모두가 자리를 피해야 합니다. 포르투나 보수 인부들의 무모한 모습을 본 떠 만든 오퍼레이터 아머입니다.",
+      "name": "헤즈테크 그리브 (오퍼레이터)",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando el refrigerante se vaporiza o un generador de fusión se rompe todo el mundo corre. Excepto los técnicos de riesgos. Armadura de operador inspirada en el intrépido equipo de mantenimiento de Fortuna.",
+      "name": "Grebas Haztech (Operador)",
+      "code": "es"
+    },
+    {
+      "description": "当冷却液废气或是合成液破裂时，这时所有人都得停工，除了危难技术人员必须留下。依福尔图娜敢死维修工所仿制。",
+      "name": "危难技工护胫（指挥官）",
+      "code": "zh"
+    },
+    {
+      "description": "Когда возникает утечка хладагента или синтез-генератор даёт трещину - всех эвакуируют. Всех, кроме ликвидаторов. В основу этой брони для оператора легла экипировка отчаянных техников Фортуны.",
+      "name": "Поножи: Ликвидатор (оператор)",
+      "code": "ru"
+    },
+    {
+      "description": "冷却材の排出ガス機や融合発電機にヒビが入ると皆逃げていく。Haztechを除いた皆が。向こう見ずなフォーチュナーの整備士をモデルとしたオペレーター用アーマー。",
+      "name": "Haztech グリーブ（オペレーター）",
+      "code": "ja"
+    },
+    {
+      "description": "Kiedy dochodzi do wycieku chłodziwa lub nieszczelności generatora fuzyjnego wszyscy ewakuują się. Wszyscy poza Haztech. Zbroja Operatora wzorowana na śmiałkach ekip konserwacyjnych Fortuny.",
+      "name": "Nagolenniki: Haztech (Operator)",
+      "code": "pl"
+    },
+    {
+      "description": "Quando o líquido de resfriamento vaza ou quando um módulo de fusão racha, todos saem correndo. Todos, exceto haztechs. Armadura para Operador inspirada nos mecânicos arrojados de Fortuna.",
+      "name": "Grevas Haztech (Operador)",
+      "code": "pt"
+    },
+    {
+      "description": "當冷卻液廢氣或是合成液破裂時，這時所有人都得停工，除了危難技術人員必須留下。依福爾圖娜敢死維修工所仿製的指揮官護甲。",
+      "name": "危難技工護脛（指揮官）",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อมีแก๊สหล่อเย็นหรือเครื่องพลังงานฟิวชันรั่วไหล ทุกคนยกเว้นพวก Haztech ต้องรีบออกจากตรงนั้นทันที นี่คือเกราะของโอเปอเรเตอร์ที่จำลองมาจากลูกทีมซ่อมบำรุงของฟอร์ทูนาที่กล้าหาญ",
+      "name": "เกราะหุ้มขา Haztech (โอเปอเรเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Soğutucu gaz kaçağı olduğunda ya da füzyon jeneratörü çatladığında herkes bölgeyi tahliye eder. Tehlikeli madde teknisyenleri hariç herkes. Fortuna'nın gözü pek bakım mürettebatından esinlenilmiş bir Operatör zırhı.",
+      "name": "Haztech Bacak Zırhı (Operatör)",
+      "code": "tr"
+    },
+    {
+      "description": "Убрання для оператора, створене за лекалами спецодягу для бригад техобслуговування Фортуни. Ліквідатори — єдині, хто можуть залатати тріщини в термоядерному реакторі чи усунути наслідки викиду холодоагенту.",
+      "name": "Штани «Ліквідатор» (оператор)",
+      "code": "uk"
+    }
+  ]
+}

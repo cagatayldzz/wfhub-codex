@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Necro/UnlockNecroAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nekros-agile-animation-set-6cf494a5b1.png",
+  "name": "Nekros Agile Animation Set",
+  "description": "This item lets you use Nekros' agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Nekros' agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Nekros-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles de Nekros avec n'importe quelle autre Warframe.",
+      "name": "Animation Nekros Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Nekros con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Nekros",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 네크로스의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "네크로스 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Nekros con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Nekros",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Nekros 的迅捷站姿。",
+      "name": "Nekros 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Некроса на любом другом варфрейме.",
+      "name": "Набор анимаций Некроса: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Nekrosのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Nekros アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Nekrosa w każdym innym Warframe'ie.",
+      "name": "Animacje Nekrosa: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis do Nekros em qualquer Warframe de sua escolha.",
+      "name": "Animações: Nekros (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Nekros 的迅捷站姿。",
+      "name": "Nekros 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Nekros ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Nekros",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Nekros'un agile animasyon setinin kullanımına izin verir.",
+      "name": "Nekros Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Некроса до будь-якого ворфрейма.",
+      "name": "Некрос: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

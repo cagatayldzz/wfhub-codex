@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Oraxia/OraxiaHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-helmet-789f88a2f3.png",
+  "name": "Oraxia Helmet",
+  "description": "The standard issue helmet for the Oraxia Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Oraxia Warframe.",
+      "name": "Oraxia-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Oraxia.",
+      "name": "Casque Oraxia",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Oraxia.",
+      "name": "Elmo Oraxia",
+      "code": "it"
+    },
+    {
+      "description": "오락시아 워프레임을 위한 기본 헬멧입니다.",
+      "name": "오락시아 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Oraxia.",
+      "name": "Casco de Oraxia",
+      "code": "es"
+    },
+    {
+      "description": "Oraxia 的标准头盔。",
+      "name": "Oraxia 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для варфрейма Ораксия.",
+      "name": "Шлем Ораксии",
+      "code": "ru"
+    },
+    {
+      "description": "Oraxiaの標準型ヘルメット。",
+      "name": "Oraxia ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Oraxia.",
+      "name": "Oraxia: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão do Warframe Oraxia.",
+      "name": "Oraxia: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Oraxia 的標準頭盔。",
+      "name": "Oraxia 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Oraxia Warframe",
+      "name": "หมวกเหล็ก Oraxia",
+      "code": "th"
+    },
+    {
+      "description": "Oraxia Warframe için standart miğfer.",
+      "name": "Oraxia Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Ораксії.",
+      "name": "Шолом Ораксії",
+      "code": "uk"
+    }
+  ]
+}

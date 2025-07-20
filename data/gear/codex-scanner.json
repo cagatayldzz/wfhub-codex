@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/Scanner",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/codex-scanner-71a0bbc323.png",
+  "name": "Codex Scanner",
+  "description": "Samples a target of interest for later analysis in your Codex (25 charges).",
+  "languages": [
+    {
+      "description": "Sammelt Daten eines Ziels für die spätere Analyse im Codex.",
+      "name": "Scanner",
+      "code": "de"
+    },
+    {
+      "description": "(25 Charges) Scanne une cible d'intérêt pour analyse ultérieure dans votre Codex.",
+      "name": "Scanneur du Codex",
+      "code": "fr"
+    },
+    {
+      "description": "Campiona un obiettivo di interesse per successiva analisi nel tuo Codex (25 cariche).",
+      "name": "Codex Scanner",
+      "code": "it"
+    },
+    {
+      "description": "조사 대상을 스캔하고 나중에 코덱스를 통해서 볼 수 있도록 해주는 장치입니다.",
+      "name": "코덱스 스캐너",
+      "code": "ko"
+    },
+    {
+      "description": "Recoge muestras de un objetivo de interés para su posterior análisis en el códice (25 cargas).",
+      "name": "Escáner del Códice",
+      "code": "es"
+    },
+    {
+      "description": "抽样扫描感兴趣的目标到资料库，用于日后分析。（25个装）",
+      "name": "扫描器",
+      "code": "zh"
+    },
+    {
+      "description": "Собирает образец материалов цели для последующего анализа в Кодексе.",
+      "name": "Сканер",
+      "code": "ru"
+    },
+    {
+      "description": "対象を解析し、コーデックスに情報を追加登録する（25回分）。",
+      "name": "コーデックス スキャナー",
+      "code": "ja"
+    },
+    {
+      "description": "Analizuje wskazany obiekt i zachowuje go w Kodeksie (25 ładunków).",
+      "name": "Skaner Kodeksu",
+      "code": "pl"
+    },
+    {
+      "description": "Faz amostras de um alvo de interesse para análise futura em seu Codex (25 usos)",
+      "name": "Escâner do Codex",
+      "code": "pt"
+    },
+    {
+      "description": "掃描感興趣的目標到資料庫，用於日後分析。(25個裝)",
+      "name": "資料庫掃描器",
+      "code": "tc"
+    },
+    {
+      "description": "สแกนตัวอย่างของเป้าหมายที่น่าสนใจเก็บไว้ในโคเด็กซ์ของคุณเพื่อทำการวิเคราะห์ในภายหลัง (ชาร์จได้ 25 ครั้ง)",
+      "name": "เครื่องสแกนโคเด็กซ์",
+      "code": "th"
+    },
+    {
+      "description": "Daha sonra Kodeks'ten inceleyebilmeniz için hedeften örnekler toplar (25 yük).",
+      "name": "Kodeks Tarayıcısı",
+      "code": "tr"
+    },
+    {
+      "description": "Зчитує дані цілей для подальшого дослідження та зберігання відомостей у збірнику знань. Має 25 зарядів.",
+      "name": "Зчитувач збірника знань",
+      "code": "uk"
+    }
+  ]
+}

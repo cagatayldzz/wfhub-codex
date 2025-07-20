@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerKiteerItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/void-trader-996be7957a.png",
+  "name": "Void Trader",
+  "description": "A color palette inspired by Baro Ki’Teer, the debonair Void Trader.",
+  "languages": [
+    {
+      "description": "Eine Farbpalette, inspiriert von Baro Ki'Teer, dem eleganten Void-Händler.",
+      "name": "Void-Händler",
+      "code": "de"
+    },
+    {
+      "description": "Une palette de couleurs inspirée de Baro Ki'Teer, le débonnaire Marchand du Néant.",
+      "name": "Marchand du Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Una tavolozza di colori ispirata a Baro Ki'Teer, il disinvolto Mercante Void.",
+      "name": "Mercante Void",
+      "code": "it"
+    },
+    {
+      "description": "멋지고 당당한 보이드 상인 바로 키'티어에게서 영감을 받은 색상 팔레트입니다.",
+      "name": "보이드 상인",
+      "code": "ko"
+    },
+    {
+      "description": "Una paleta de colores inspirada en Baro Ki’Teer, el gallardo Comerciante del Vacío.",
+      "name": "Comerciante del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "一款灵感来自风度翩翩的虚空商人 Baro Ki’Teer 的调色盘。",
+      "name": "虚空商人",
+      "code": "zh"
+    },
+    {
+      "description": "Цветовая палитра, вдохновлённая Баро Ки'Тииром, жизнерадостным торговцем из Бездны.",
+      "name": "Торговец из Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "華やかなるVoid商人、Baro Ki'Teerをモチーフにしたカラーパレット。",
+      "name": "Void商人",
+      "code": "ja"
+    },
+    {
+      "description": "Paleta kolorów inspirowana Baro Ki'Teerem, wytwornym Handlarzem Pustki.",
+      "name": "Handlarz Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "Uma paleta de cores inspirada no Baro Ki'Teer, o carismático Negociante do Void.",
+      "name": "Mercador do Void",
+      "code": "pt"
+    },
+    {
+      "description": "靈感來自瀟灑的虛空商人──Baro Ki'Teer 的調色盤。",
+      "name": "虛空商人",
+      "code": "tc"
+    },
+    {
+      "description": "พาเลตต์สีที่ได้รับแรงบันดาลใจจาก Baro Ki'Teer พ่อค้าของจากวอยด์ที่แสนสุภาพ",
+      "name": "Void Trader",
+      "code": "th"
+    },
+    {
+      "description": "Neşeli Void Tüccarı Baro Ki'Teer'den ilham alınarak hazırlanmış bir renk paleti.",
+      "name": "Void Tüccarı",
+      "code": "tr"
+    },
+    {
+      "description": "Палітра кольорів, на створення якої надихнув Баро Кі’Тір, галантний торговець із Порожнечі.",
+      "name": "Торговець із Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

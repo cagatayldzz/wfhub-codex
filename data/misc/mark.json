@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/RedVeilDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mark-4dc0d06a96.png",
+  "name": "Mark",
+  "description": "Medallion of Red Veil syndicate. Can be traded in on relay syndicate hubs for additional standing.",
+  "languages": [
+    {
+      "description": "Medaillon des Red Veil Syndikats. Kann auf Relais für zusätzliches Ansehen eingetauscht werden.",
+      "name": "Mal",
+      "code": "de"
+    },
+    {
+      "description": "Médaillon du Syndicat du Voile Rouge. Peut être échangé contre de la Réputation supplémentaire auprès des Syndicats localisés dans les Relais.",
+      "name": "Marque",
+      "code": "fr"
+    },
+    {
+      "description": "Medaglione dell'associazione Red Veil. Può essere scambiato nelle stanze delle Associazioni sulle Stazioni per reputazione aggiuntiva.",
+      "name": "Mark",
+      "code": "it"
+    },
+    {
+      "description": "레드 베일의 메달리온입니다. 릴레이의 신디케이트 허브에서 추가 평판으로 교환하실 수 있습니다.",
+      "name": "마크",
+      "code": "ko"
+    },
+    {
+      "description": "Medallones del Velo Rojo. Pueden ser intercambiados en las salas de los sindicatos en los Repetidores por reputación adicional.",
+      "name": "Marca",
+      "code": "es"
+    },
+    {
+      "description": "血色面纱集团的勋章。可以在中继站的集团房间中交换额外的声望。",
+      "name": "印痕",
+      "code": "zh"
+    },
+    {
+      "description": "Медальон синдиката 'Красная Вуаль'. Можно обменять в комнатах синдикатов в реле на репутацию.",
+      "name": "Отметка",
+      "code": "ru"
+    },
+    {
+      "description": "シンジケートのレッド・ベールのメダリオン。リレーのシンジケートハブで追加の地位とトレードできる。",
+      "name": "刻印",
+      "code": "ja"
+    },
+    {
+      "description": "Syndykatowy Medalion Czerwonego Woalu. Może zostać wymieniony za dodatkową reputację w pokojach syndykatowych na przekaźniku.",
+      "name": "Znak",
+      "code": "pl"
+    },
+    {
+      "description": "Medalhão do sindicato Véu Rubro. Pode ser negociado na sala de seu respectivo sindicato, nos Relays, em troca de reputação adicional.",
+      "name": "Marca",
+      "code": "pt"
+    },
+    {
+      "description": "血色面紗集團的獎章。可以在中繼站的集團房間中交換額外的聲望。",
+      "name": "印痕",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญของซินดิเคต Red Veil สามารถเอาไปแลกเปลี่ยนกับซินดิเคตที่อยู่ในรีเลย์ได้เพื่อแลกกับชื่อเสียงเพิ่มเติม",
+      "name": "Mark",
+      "code": "th"
+    },
+    {
+      "description": "Red Veil'in madalyonu. Relay'lardaki sendika odalarında Mevki'ye dönüştürülebilir.",
+      "name": "İşaret",
+      "code": "tr"
+    },
+    {
+      "description": "Медальйон синдикату «Багряна Вуаль». Можна обміняти на додаткову репутацію в центрах синдикату на реле.",
+      "name": "Знак",
+      "code": "uk"
+    }
+  ]
+}

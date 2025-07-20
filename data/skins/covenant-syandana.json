@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWCovenantScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/covenant-syandana-a3888f5301.png",
+  "name": "Covenant Syandana",
+  "description": "A syandana for your Warframe, designed by FrellingHazmot.",
+  "languages": [
+    {
+      "description": "Ein Syandana für deinen Warframe, entworfen von FrellingHazmot.",
+      "name": "Covenant Syandana",
+      "code": "de"
+    },
+    {
+      "description": "Une Syandana pour votre Warframe, conçue par FrellingHazmot.",
+      "name": "Syandana Covenant",
+      "code": "fr"
+    },
+    {
+      "description": "Una syandana per il tuo Warframe, ideata da FrellingHazmot.",
+      "name": "Syandana Covenant",
+      "code": "it"
+    },
+    {
+      "description": "FrellingHazmot에 의해 디자인된 워프레임을 위한 샨다나입니다.",
+      "name": "코베난트 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "Una syandana para tu warframe, diseñada por FrellingHazmot.",
+      "name": "Syandana Covenant",
+      "code": "es"
+    },
+    {
+      "description": "一件战甲所使用的披饰，由 FrellingHazmot 设计。",
+      "name": "盟约披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Сандана для вашего варфрейма, созданная FrellingHazmot.",
+      "name": "Сандана: Ковенант",
+      "code": "ru"
+    },
+    {
+      "description": "Warframe用のシャンダナ。製作者：FrellingHazmot。",
+      "name": "Covenant シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana dla Twojego Warframe'a, zaprojektowana przez FrellingHazmot.",
+      "name": "Syandana Covenant",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Syandana para o seu Warframe, desenvolvida por FrellingHazmot.",
+      "name": "Syandana: Covenant",
+      "code": "pt"
+    },
+    {
+      "description": "一件給 Warframe 使用的披飾，由 FrellingHazmot 所設計。",
+      "name": "盟約披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาสำหรับ Warframe ของคุณ ออกแบบโดย FrellingHazmot",
+      "name": "ไซอันดานา Covenant",
+      "code": "th"
+    },
+    {
+      "description": "Warframe için FrellingHazmot tarafından tasarlanmış bir syandana.",
+      "name": "Covenant Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Сяндана для ворфрейма, створена FrellingHazmot.",
+      "name": "Сяндана «Завіт»",
+      "code": "uk"
+    }
+  ]
+}

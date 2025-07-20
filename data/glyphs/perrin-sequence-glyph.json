@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSyndicatePS",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/perrin-sequence-glyph-9ff1c13c39.png",
+  "name": "Perrin Sequence Glyph",
+  "description": "A glyph of the Perrin Sequence",
+  "languages": [
+    {
+      "description": "Eine Glyphe der Perrin Sequence",
+      "name": "Glyphe: Perrin Sequence",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe de la Séquence Perrin",
+      "name": "Glyphe de la Séquence Perrin",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo di Perrin Sequence",
+      "name": "Glifo Perrin Sequence",
+      "code": "it"
+    },
+    {
+      "description": "페린 시퀀스를 묘사한 글리프입니다.",
+      "name": "페린 시퀀스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a la Secuencia Perrin",
+      "name": "Glifo de Secuencia Perrin",
+      "code": "es"
+    },
+    {
+      "description": "佩兰数列的浮印",
+      "name": "佩兰数列浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Последовательности Перрина",
+      "name": "Глиф: Последовательность Перрина",
+      "code": "ru"
+    },
+    {
+      "description": "ペリン・シークエンスのグリフ",
+      "name": "ペリン・シークエンス グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Sekwencje Perrin",
+      "name": "Glif Sekwencji Perrin",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da Sequência de Perrin",
+      "name": "Glifo: Sequência de Perrin",
+      "code": "pt"
+    },
+    {
+      "description": "佩蘭數列的浮印",
+      "name": "佩蘭數列浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ Perrin Sequence",
+      "name": "ภาพสัญลักษณ์ Perrin Sequence",
+      "code": "th"
+    },
+    {
+      "description": "Perrin Sequence'ı temsil eden bir glif",
+      "name": "Perrin Sequence Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням синдикату «Послідовність Перрена».",
+      "name": "Гліф «Послідовність Перрена»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxArcadeRacingA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcade-racing-machine-8c71f33cdd.png",
+  "name": "Arcade Racing Machine",
+  "description": "A racing game typically found in an arcade.",
+  "languages": [
+    {
+      "description": "Ein Rennspiel, wie man es normalerweise in Spielhallen findet.",
+      "name": "Arkade-Rennautomat",
+      "code": "de"
+    },
+    {
+      "description": "Un jeu de course que l'on trouve généralement dans une salle d'arcade.",
+      "name": "Jeu de course d'arcade",
+      "code": "fr"
+    },
+    {
+      "description": "Un gioco di corse che si trova solitamente nelle sale giochi.",
+      "name": "Cabinato Gioco di Corse",
+      "code": "it"
+    },
+    {
+      "description": "일반적으로 오락실에서 볼 수 있는 레이싱 게임입니다.",
+      "name": "오락실 레이싱 기계",
+      "code": "ko"
+    },
+    {
+      "description": "Un juego de carreras que normalmente se encuentra en una sala de juegos.",
+      "name": "Máquina arcade de carreras",
+      "code": "es"
+    },
+    {
+      "description": "一种常见于游戏厅的街机赛车。",
+      "name": "街机赛车",
+      "code": "zh"
+    },
+    {
+      "description": "Гоночная игра, обычно встречающаяся в игровых залах.",
+      "name": "Аркадная гоночная машина",
+      "code": "ru"
+    },
+    {
+      "description": "アーケードなどでよく見かけるレーシングゲーム。",
+      "name": "アーケード レーシングマシン",
+      "code": "ja"
+    },
+    {
+      "description": "Gra wyścigowa, często znajdowana w salonach gier.",
+      "name": "Automat do gry wyścigowej",
+      "code": "pl"
+    },
+    {
+      "description": "Um jogo de corrida de fliperama.",
+      "name": "Máquina de Corrida de Fliperama",
+      "code": "pt"
+    },
+    {
+      "description": "通常可以在電子遊樂場中找到的賽車遊戲。",
+      "name": "街機賽車遊戲",
+      "code": "tc"
+    },
+    {
+      "description": "เกมแข่งรถที่มักพบในอาร์เคด",
+      "name": "ตู้เกมแข่งรถ",
+      "code": "th"
+    },
+    {
+      "description": "Genellikle oyun salonlarında bulunan bir yarış oyunu.",
+      "name": "Yarış Oyunu Makinesi",
+      "code": "tr"
+    },
+    {
+      "description": "Автомат з грою в перегони, зазвичай трапляється в ігрових залах.",
+      "name": "Автомат «Перегони»",
+      "code": "uk"
+    }
+  ]
+}

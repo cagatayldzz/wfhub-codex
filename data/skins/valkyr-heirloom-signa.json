@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Crowns/HeirloomValkyrCrown",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-heirloom-signa-1808cb191e.png",
+  "name": "Valkyr Heirloom Signa",
+  "description": "This crowning signa of gilded spikes creates beauty out of suffering.",
+  "languages": [
+    {
+      "description": "Dieses krönende Signa aus vergoldeten Spitzen verwandelt Leid in Schönheit.",
+      "name": "Signa: Valkyr Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Cette Signa parsemée de pointes dorées fait surgir de la beauté à partir de la souffrance.",
+      "name": "Signa Valkyr Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "Questa signa dalle punte dorate a forma di corona crea bellezza dalla sofferenza.",
+      "name": "Signa Valkyr Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "금장의 가시가 왕관을 이루는 이 웅장한 시그나는 고통 속에서도 아름다움을 창조해 냅니다.",
+      "name": "발키르 에어룸 시그나",
+      "code": "ko"
+    },
+    {
+      "description": "Esta signa de puntas doradas y forma de corona crea belleza a partir del sufrimiento.",
+      "name": "Signa Legado de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "这带有金色尖刺的头环以苦难铸就瑰丽。",
+      "name": "Valkyr 传家宝头环",
+      "code": "zh"
+    },
+    {
+      "description": "Эта венчающая сигна, усыпанная позолоченными шипами, рождает красоту из страдания.",
+      "name": "Сигна Валькирии «Наследие»",
+      "code": "ru"
+    },
+    {
+      "description": "金に縁取られた棘のシグナは美を苦しみから生み出す。",
+      "name": "Valkyr Heirloom シグナ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta korona z pozłacanych kolców tworzy piękno z cierpienia.",
+      "name": "Signa: Pamiątkowa Valkyr",
+      "code": "pl"
+    },
+    {
+      "description": "Esta signa suntuosa de pontas douradas cria beleza a partir do sofrimento.",
+      "name": "Signa: Legado da Valkyr",
+      "code": "pt"
+    },
+    {
+      "description": "金刺頭冕於苦中作美。",
+      "name": "Valkyr 祖傳頭冕",
+      "code": "tc"
+    },
+    {
+      "description": "ซิกนายอดแหลมประดับทองชิ้นนี้สร้างความงามจากความทุกข์ทรมาน",
+      "name": "ซิกนา Valkyr Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Yaldızlı sivri uçlardan oluşan bu taçlandırıcı signa, acıdan güzellik yaratır.",
+      "name": "Valkyr Heirloom Signa",
+      "code": "tr"
+    },
+    {
+      "description": "Сіґна-корона з позолоченими зубцями створює страждальну красу.",
+      "name": "Сіґна «Спадок» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

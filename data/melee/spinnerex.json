@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Whips/SpiderWhip/SpiderWhipWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spinnerex-cbb8de4920.png",
+  "name": "Spinnerex",
+  "description": "Each lash of Oraxia's whip injects its victim with a dose of deadly toxin. Upon death, afflicted enemies have a chance to burst, damaging nearby enemies and spreading the poison.",
+  "languages": [
+    {
+      "description": "Jeder Schlag mit Oraxias Peitsche injiziert die Opfer mit einer Dosis tödlichen Giftes. Beim Tod haben betroffene Feinde eine Chance zu platzen, wodurch Gegner in der Nähe Schaden nehmen und das Gift weiter verbreiten.",
+      "name": "Spinnerex",
+      "code": "de"
+    },
+    {
+      "description": "Chaque coup de fouet d'Oraxia injecte à sa victime une dose de toxine mortelle. À leur mort, les ennemis affectés ont une chance d'exploser, infligeant des Dégâts aux ennemis proches et répandant le poison.",
+      "name": "Spinnerex",
+      "code": "fr"
+    },
+    {
+      "description": "Ogni colpo di frusta di Oraxia inietta nella vittima una dose di tossina mortale. Alla morte, i nemici colpiti hanno la possibilità di esplodere, danneggiando i nemici nelle vicinanze e diffondendo il veleno.",
+      "name": "Spinnerex",
+      "code": "it"
+    },
+    {
+      "description": "오락시아의 채찍은 한 번 휘둘러질 때마다 피격당하는 적에게 치명적인 독을 주입합니다. 영향을 받은 적이 사망할 시, 일정 확률로 폭발하여 주변 적에게 피해를 입히고 독을 퍼뜨립니다.",
+      "name": "스피너렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Cada latigazo de Oraxia inyecta a su víctima una dosis de toxina mortal. Al morir, los enemigos afectados pueden explotar, dañando a los enemigos cercanos y propagando el veneno.",
+      "name": "Spinnerex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SPINNEREX）Oraxia 的每一次鞭打都会将致命毒素注入敌人体内，受影响的敌人死亡时爆发毒素，对附近的敌人造成伤害并扩散毒素。",
+      "name": "丝蛛皇",
+      "code": "zh"
+    },
+    {
+      "description": "Каждый удар кнута Ораксии вводит в жертву дозу смертельного токсина. После смерти поражённые враги имеют шанс взорваться, нанося урон ближайшим врагам и распространяя яд.",
+      "name": "Спиннерекс",
+      "code": "ru"
+    },
+    {
+      "description": "Oraxiaのムチの一撃ごとに敵に猛毒が注入される。毒に侵された敵が倒れると確率で爆破し、付近の敵にダメージを与え毒を拡散させる。",
+      "name": "Spinnerex",
+      "code": "ja"
+    },
+    {
+      "description": "Każde uderzenie biczem Oraxii nasyca ofiarę dawką toksyny. Po śmierci dotknięci wrogowie mają szansę wybuchnąć, zadając obrażenia pobliskim wrogom i rozprzestrzeniając truciznę.",
+      "name": "Spinnerex",
+      "code": "pl"
+    },
+    {
+      "description": "Cada chicotada da Oraxia injeta em sua vítima uma dose letal de toxina. Ao morrer, os inimigos atingidos têm chance de explodir, espalhando o veneno, e causando dano aos demais inimigos próximos.",
+      "name": "Spinnerex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SPINNEREX）Oraxia 的每次鞭擊都會對獵物注入致命毒劑。中毒的敵人死亡時，有機率爆開，進而傷害並毒害附近敵人。",
+      "name": "旋織者",
+      "code": "tc"
+    },
+    {
+      "description": "แส้ของ Oraxia ที่หวดไปแต่ละครั้งจะฉีดพิษร้ายแรงเข้าไปในตัวเหยื่อ เมื่อเหยื่อตาย ศัตรูที่ได้รับเอฟเฟกต์มีโอกาสที่จะระเบิด ทำให้ศัตรูที่อยู่ใกล้ได้รับความเสียหายและพิษจะแพร่กระจายออกไป",
+      "name": "Spinnerex",
+      "code": "th"
+    },
+    {
+      "description": "Oraxia'nın kırbacının her darbesi, kurbanına ölümcül dozda toksin enjekte eder. Etki altında ölen düşmanlar, belirli bir şans ile patlayarak yakındaki düşmanlara zarar verir ve zehri yayar.",
+      "name": "Spinnerex",
+      "code": "tr"
+    },
+    {
+      "description": "Кожен удар батогом Ораксії впорскує смертельну отруту в тіло жертви. Після смерті заражені вороги можуть вибухнути, завдаючи шкоди ворогам поблизу й поширюючи отруту далі.",
+      "name": "Спіннерекс",
+      "code": "uk"
+    }
+  ]
+}

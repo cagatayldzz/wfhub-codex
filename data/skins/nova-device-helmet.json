@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWRThreeDeviceHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-device-helmet-ee3c4632e6.png",
+  "name": "Nova Device Helmet",
+  "description": "A helmet for the Nova Warframe, designed by prosetisen.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Helm für den Nova Warframe, entworfen von prosetisen.",
+      "name": "Nova-Helm: Device",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nova, conçu par prosetisen.",
+      "name": "Casque Nova Device",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nova, ideato da prosetisen.",
+      "name": "Elmo Nova Device",
+      "code": "it"
+    },
+    {
+      "description": "prosetisen에 의해 디자인된 노바 워프레임을 위한 헬멧입니다.",
+      "name": "노바 디바이스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nova, diseñado por prosetisen.",
+      "name": "Casco Device de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 战甲的头盔，由 prosetisen 设计。",
+      "name": "Nova 计谋头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Нова, созданный prosetisen.",
+      "name": "Шлем Новы: Изобретение",
+      "code": "ru"
+    },
+    {
+      "description": "Nova用のヘルメット。製作者：prosetisen。",
+      "name": "Nova Device ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Nova, zaprojektowana przez prosetisen.",
+      "name": "Nova: Hełm Device",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Nova, desenvolvido por prosetisen.",
+      "name": "Nova: Capacete Device",
+      "code": "pt"
+    },
+    {
+      "description": "Nova Warframe 的頭盔，由 prosetisen 所設計。",
+      "name": "Nova 計謀頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nova Warframe ออกแบบโดย prosetisen",
+      "name": "หมวกเหล็ก Nova Device",
+      "code": "th"
+    },
+    {
+      "description": "prosetisen tarafından dizayn edilen Nova Warframe miğferi.",
+      "name": "Nova Device Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Нови, створений prosetisen.",
+      "name": "Шолом «Витівка» для Нови",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quatz-ef293ab5be.png",
+  "name": "Quatz",
+  "description": "A compact four-barreled design packing a self-charging capacitor that discharges upon every reload from empty. Features auto hip-fire and aimed fire is semi-auto, four-shot instant burst.",
+  "languages": [
+    {
+      "description": "Ein kompaktes, vierläufiges Design mit einem selbstladenden Kondensator, der sich bei jedem Nachladen bei leerem Magazin entlädt. Hat automatisches Feuer aus der Hüfte, gezieltes Feuer ist eine semi-auto, vier-Schuß-Salve.",
+      "name": "Quatz",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle compact à quatre canons comprenant un condensateur autonome qui envoie une décharge à chaque rechargement. Le tir à la hanche est automatique tandis que le tir visé semi-automatique décoche une rafale de 4 coups.",
+      "name": "Quatz",
+      "code": "fr"
+    },
+    {
+      "description": "Un compatto design a canna quadrupla con un condensatore che una volta vuoto si ricarica automaticamente emettendo una scossa. Offre un fuoco automatico standard, mentre durante la mira offre un fuoco semi-automatico rilasciando una raffica da quattro colpi.",
+      "name": "Quatz",
+      "code": "it"
+    },
+    {
+      "description": "4배럴식으로 디자인된 작고 편리한 총으로, 빈 탄창을 재장전 할 때 방출되는 자체 충전 커패시터를 가지고 있습니다. 조준 없는 난사 스타일의 자동 발사를 지원하나, 조준하여 사격 시 4발의 즉각적인 점사 사격을 할 수 있습니다.",
+      "name": "콰츠",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño compacto de cuatro cañones con un capacitor autorecargable que descarga al recargar el arma cuando se queda sin balas. Como característica adicional, sin apuntar es una pistola automática, mientras se apunta es semiautomática y suelta una ráfaga instantánea de cuatro balas. ",
+      "name": "Quatz",
+      "code": "es"
+    },
+    {
+      "description": "（英文：QUATZ）拥有紧凑的四管设计且装有一个自充电电容器，会在空枪装填时释放电流。腰射时为自动模式，瞄准时为瞬间射出四发子弹模式。",
+      "name": "夸兹",
+      "code": "zh"
+    },
+    {
+      "description": "Компактное четырёхствольное оружие с самозаряжающимся механизмом, разряжающийся при каждой перезарядке из состояния пустого магазина. Имеет автоматический режим огня при стрельбе от бедра, а при прицеливании — серию из четырёх выстрелов.",
+      "name": "Кватц",
+      "code": "ru"
+    },
+    {
+      "description": "弾薬が尽きた際にリロードすると放電するキャパシタを積んだ小型4重バレル銃。構えず撃てばオート、エイムしながらだと4連バースト射撃を行うのが特徴。",
+      "name": "Quatz",
+      "code": "ja"
+    },
+    {
+      "description": "Kompaktowy, czterolufowy pistolet, posiadający samoładujący się kondensator, który wyładowuje się przy przeładowaniu po opróżnieniu magazynka. Ostrzał ciągły z biodra, a podczas celowania półautomatyczny, cztero-pociskowy wystrzał.",
+      "name": "Quatz",
+      "code": "pl"
+    },
+    {
+      "description": "Um design compacto de quatro canos, com um capacitor de carga automática que é descarregado sempre que for esvaziado. Pode ser disparado de forma automática, sem mirar, e apresenta um disparo de quatro projéteis quando disparado ao mirar.",
+      "name": "Quatz",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：QUATZ）擁有緊湊的四管設計且裝有一個自充電容，會在空槍裝填時釋放電流。腰射時為自動模式，瞄準時為瞬間射出四發子彈模式。",
+      "name": "夸茲",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนขนาดกะทัดรัดสี่ลำกล้องที่มีตัวเก็บประจุแบบชาร์จตัวเอง ซึ่งจะปล่อยประจุออกมาทุกครั้งที่รีโหลดกระสุนจากแม็กกาซีนที่ว่างเปล่า มีโหมดท่ายิงระดับสะโพกอัตโนมัติ และโหมดยิงแบบเล็งกึ่งอัตโนมัติที่จะยิงสี่นัดพร้อมกันทันที",
+      "name": "Quatz",
+      "code": "th"
+    },
+    {
+      "description": "Kendi kendine yenilenen kapasitöre sahip, dört-namlulu olarak tasarlanmış bu tabanca, şarjörünüz bittiğinde, biriktirdiği yükü ateşleyen bir mekanizmaya sahiptir. Nişan alınmadığı durumlarda otomatik atış yaparken, nişan alındığında ise yarı otomatik dörderli atışlar halinde ateş eder.",
+      "name": "Quatz",
+      "code": "tr"
+    },
+    {
+      "description": "Компактний чотириствольний автоматичний пістолет із самозарядним конденсатором. Вивільняє круговий електричний розряд після повного розрядження. У разі прицілювання стріляє з чотирьох стволів одночасно.",
+      "name": "Квац",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNidusPrionBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-prion-glyph---bright-dd0adfce50.png",
+  "name": "Nidus Prion Glyph - Bright",
+  "description": "A glyph depicting Nidus Prion on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nidus Prion vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nidus Prion (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nidus Prion sur un fond lumineux.",
+      "name": "Glyphe Nidus Prion - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nidus Prion su uno sfondo chiaro.",
+      "name": "Glifo Nidus Prion - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 프리온 나이더스를 묘사한 글리프입니다.",
+      "name": "나이더스 프리온 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nidus Prion sobre un fondo brillante.",
+      "name": "Glifo de Nidus Prion - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nidus 朊毒在明亮背景下的浮印。",
+      "name": "Nidus 朊毒浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Нидуса «Прион» на светлом фоне.",
+      "name": "Глиф: Нидус «Прион» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Prion Nidus のグリフ。",
+      "name": "Nidus Prion グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Nidus Prion na jasnym tle.",
+      "name": "Glif Nidus Prion — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Nidus Prion em um fundo claro.",
+      "name": "Glifo: Nidus Prion (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nidus 朊毒在明亮背景下的浮印。",
+      "name": "Nidus 朊毒浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nidus Prion บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nidus Prion - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nidus Prion açık fonlu glif.",
+      "name": "Nidus Prion Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нідуса в шоломі «Пріон» на світлому тлі.",
+      "name": "Яскравий гліф «Нідус „Пріон“»",
+      "code": "uk"
+    }
+  ]
+}

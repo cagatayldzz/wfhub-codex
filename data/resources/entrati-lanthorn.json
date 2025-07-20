@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLanthornBundle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-lanthorn-9da3e67342.png",
+  "name": "Entrati Lanthorn",
+  "description": "A ceremonial beacon used to map Void locations on to real space.\n\nLocation: Albrecht's Laboratories (Deimos) and Zariman",
+  "languages": [
+    {
+      "description": "Ein zeremonielles Leuchtfeuer, das verwendet wird, um Void-Standorte im realen Raum abzubilden.\n\nQuelle: Albrechts Labore (Deimos) und Zariman",
+      "name": "Entrati Latorne",
+      "code": "de"
+    },
+    {
+      "description": "Une balise cérémonielle utilisée pour cartographier les emplacements du Néant dans l'espace réel.\n\nLieu: Laboratoire d'Albrecht (Deimos) et Zariman",
+      "name": "Lanterne Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Un segnalatore cerimoniale utilizzato per mappare le località del Void nello spazio reale.\n\nPosizione: Laboratori di Albrecht (Deimos) e Zariman",
+      "name": "Lanterna Entrati",
+      "code": "it"
+    },
+    {
+      "description": "보이드의 위치를 현실 공간에서 보여주는 데 쓰였던 의식용 비컨입니다.\n\n획득 가능 장소: 알브레히트의 연구실 (데이모스) 및 자리만",
+      "name": "엔트라티 랜턴",
+      "code": "ko"
+    },
+    {
+      "description": "Una baliza ceremonial utilizada para mapear ubicaciones del Vacío en el espacio real.\n\nUbicación: Laboratorios de Albrecht (Deimos) y Zariman",
+      "name": "Linterna Entrati",
+      "code": "es"
+    },
+    {
+      "description": "用于将虚空地点映射到真实空间的仪式信标。\n\n获取地点：阿尔布雷希特的实验室（火卫二）和扎里曼号",
+      "name": "英择谛灯笼",
+      "code": "zh"
+    },
+    {
+      "description": "Церемониальный маячок, используемый для отображения локаций Бездны в реальном пространстве.\n\nМестонахождение: Лаборатории Альбрехта (Деймос) и Зариман",
+      "name": "Лампа Энтрати",
+      "code": "ru"
+    },
+    {
+      "description": "Voidの位置を実空間にマッピングするために使いる儀式用ビーコン。\n\n場所：Albrechtの研究所（ダイモス）、Zariman",
+      "name": "エントラティ ランソーン",
+      "code": "ja"
+    },
+    {
+      "description": "Ceremonialny znacznik wykorzystywany do mapowania lokalizacji Pustki w rzeczywistej przestrzeni.\n\nPołożenie: Laboratoria Albrechta na Deimosie i Zariman",
+      "name": "Latarnia Entrati",
+      "code": "pl"
+    },
+    {
+      "description": "Um farol cerimonial utilizado para mapear locais do Void no espaço real.\n\nLocalização: na Zariman ou nos Laboratórios do Albrecht, em Deimos.",
+      "name": "Farol Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "用來將虛空位置映射到真實空間的儀式信標。\n\n地點：阿爾布雷希特的實驗室（火衛二）及扎日曼號",
+      "name": "源拓氏燈籠",
+      "code": "tc"
+    },
+    {
+      "description": "ดวงประทีปประกอบงานพิธีที่ใช้ระบุตำแหน่งวอยด์บนพื้นที่จริง\n\nแหล่งที่พบ: ห้องทดลองของ Albrecht (ดาวเดมอส) และ Zariman",
+      "name": "โคมไฟ Entrati",
+      "code": "th"
+    },
+    {
+      "description": "Void konumlarını gerçek uzaya eşlemek için kullanılan bir tören işareti.\n\nKonum: Albrecht'in Laboratuvarları (Deimos) ve Zariman",
+      "name": "Entrati Lanthorn",
+      "code": "tr"
+    },
+    {
+      "description": "Церемоніальний світильник, який використовується для позначення місцевості Порожнечі відповідно до реального світу.\n\nМожна знайти в лабораторіях Альбрехта (Деймос) та на «Заримені».",
+      "name": "Лампа Ентраті",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaHema",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-hema-eda9bfa56a.png",
+  "name": "Coda Hema",
+  "description": "The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.",
+  "languages": [
+    {
+      "description": "Der Technocyte-Virus hat nichts an dem Blutdurst der Hema geändert, außer ihn zu steigern. Hat erhöhte Feuerrate, Magazingröße, Krit. Chance, Krit. Schaden, Statuschance und Schaden.",
+      "name": "Coda Hema",
+      "code": "de"
+    },
+    {
+      "description": "Le virus Technocyte n'a fait qu'augmenter la soif de sang de l'Hema. Avec une augmentation de la Cadence de Tir, de la Taille du Chargeur, des Chances de Critique, des Dégâts Critiques, des Chances de Statut et des Dégâts.",
+      "name": "Hema Coda",
+      "code": "fr"
+    },
+    {
+      "description": "Il virus Technocyte non ha fatto altro che aumentare la sete di sangue dell'arma Hema. Presenta una maggiore Cadenza di Tiro, Capienza Caricatore, Probabilità Critico, Danno Critico, Probabilità Effetto e Danno.",
+      "name": "Coda Hema",
+      "code": "it"
+    },
+    {
+      "description": "테크노사이트 바이러스는 피를 향한 헤마의 갈망을 더욱 강화시켰을 뿐입니다. 일반형에 비해 연사력, 탄창 용량, 치명타 확률, 치명타 피해, 상태 이상 확률 및 피해가 증가합니다.",
+      "name": "코다 헤마",
+      "code": "ko"
+    },
+    {
+      "description": "El virus tecnocito no hizo más que aumentar la sed de sangre del Hema. Con mayor cadencia de fuego, tamaño del cargador, probabilidad crítica, daño crítico, probabilidad de estado y daño.",
+      "name": "Hema Coda",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CODA HEMA）科技细胞病毒没有起到什么作用，只是增加了血肢的嗜血性。具有更高的射速、弹匣容量、暴击几率、暴击伤害、触发几率和伤害。",
+      "name": "终幕·血肢",
+      "code": "zh"
+    },
+    {
+      "description": "Вирус Техноцита не сделал ничего, лишь увеличил кровожадность Гемы. С увеличением скорострельности, ёмкости магазина, шанса критического урона, критическим уроном, шанса статуса и урона.",
+      "name": "Гема Кода",
+      "code": "ru"
+    },
+    {
+      "description": "テクノサイトウイルスは、Hemaの血への渇望を増大させた。通常版に比べ高めの発射速度、マガジン容量、クリティカル率、クリティカルダメージ、状態異常率、ダメージを誇る。",
+      "name": "Coda Hema",
+      "code": "ja"
+    },
+    {
+      "description": "Wirus Technocytu tylko zwiększył pragnienie krwi broni Hema. Wariant Cody zyskuje poprawione statystyki Szybkostrzelności, Pojemności Magazynka, Szansy Obr. Krytycznych, Obr. Krytycznych, Szansy Statusu i Obrażeń.",
+      "name": "Hema Cody",
+      "code": "pl"
+    },
+    {
+      "description": "O vírus Tecnócito não fez nada além de aumentar a sede de sangue da Hema. Apresenta um aumento na Cadência de Tiro, Tamanho do Carregador, Chance Crítica, Dano Crítico, Chance de Status e Dano.",
+      "name": "Hema Coda",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CODA HEMA）技改細胞病毒只增強了血肢嗜血的渴望。具有更高的射速、彈匣容量、暴擊機率、暴擊傷害、狀態觸發機率，及傷害。",
+      "name": "勾瘩 血肢",
+      "code": "tc"
+    },
+    {
+      "description": "ไวรัส Technocyte ทำให้ความกระหายเลือดของ Hema เพิ่มขึ้นพร้อมทั้งมีอัตราการยิง ขนาดแม็กกาซีน โอกาสคริติคอล ความเสียหายคริติคอล โอกาสสถานะ และความเสียหายเพิ่มขึ้น",
+      "name": "Coda Hema",
+      "code": "th"
+    },
+    {
+      "description": "Technocyte virüsü Hema'nın kana olan susuzluğunu artırdı. Artırılmış Atış Oranı, Şarjör Boyutu, Kritik Şansı, Kritik Hasar, Statü Şansı ve Hasar sunar.",
+      "name": "Coda Hema",
+      "code": "tr"
+    },
+    {
+      "description": "Техноцитний вірус посилив кровожерливість Геми. Зброя має поліпшені показники шкоди, швидкострільності, місткості магазину, імовірності та величини критичної шкоди, імовірності накладання ефекту стану.",
+      "name": "Гема-кода",
+      "code": "uk"
+    }
+  ]
+}

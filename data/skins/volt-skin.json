@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-skin-e405406223.png",
+  "name": "Volt Skin",
+  "description": "The standard issue skin for the Volt Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Volt Warframe.",
+      "name": "Volt-Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Warframe Volt.",
+      "name": "Aspect Volt",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per il Warframe Volt.",
+      "name": "Skin Volt",
+      "code": "it"
+    },
+    {
+      "description": "볼트 워프레임을 위한 기본 스킨입니다.",
+      "name": "볼트 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el warframe Volt.",
+      "name": "Diseño de Volt",
+      "code": "es"
+    },
+    {
+      "description": "Volt 的标准外观配置。",
+      "name": "Volt 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для Вольта.",
+      "name": "Скин Вольта",
+      "code": "ru"
+    },
+    {
+      "description": "Voltの標準型スキン。",
+      "name": "Volt スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Warframe'a Volt.",
+      "name": "Volt: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão do Warframe Volt.",
+      "name": "Volt: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Volt 的標準外觀配置。",
+      "name": "Volt 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับ Volt Warframe",
+      "name": "สกิน Volt",
+      "code": "th"
+    },
+    {
+      "description": "Volt Warframe için standart skin.",
+      "name": "Volt Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для ворфрейма Вольта.",
+      "name": "Стандартний вигляд",
+      "code": "uk"
+    }
+  ]
+}

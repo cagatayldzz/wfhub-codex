@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-helmet-9274c11988.png",
+  "name": "Banshee Helmet",
+  "description": "The standard issue helmet for the Banshee Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Banshee Warframe.",
+      "name": "Banshee-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Banshee.",
+      "name": "Casque Banshee",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Banshee.",
+      "name": "Elmo Banshee",
+      "code": "it"
+    },
+    {
+      "description": "밴쉬 워프레임을 위한 기본 헬멧입니다.",
+      "name": "밴쉬 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Banshee.",
+      "name": "Casco de Banshee",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 标准头盔。",
+      "name": "Banshee 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Банши.",
+      "name": "Шлем Банши",
+      "code": "ru"
+    },
+    {
+      "description": "Bansheeの標準型ヘルメット。",
+      "name": "Banshee ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Banshee.",
+      "name": "Banshee: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão do Warframe Banshee.",
+      "name": "Banshee: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Banshee 標準頭盔。",
+      "name": "Banshee 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Banshee Warframe",
+      "name": "หมวกเหล็ก Banshee",
+      "code": "th"
+    },
+    {
+      "description": "Banshee Warframe için standart miğfer.",
+      "name": "Banshee Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Банші.",
+      "name": "Шолом Банші",
+      "code": "uk"
+    }
+  ]
+}

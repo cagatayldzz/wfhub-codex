@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Choir/Choir",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-d88fcb42ca.png",
+  "name": "Jade",
+  "description": "Become enraptured by the song of devastation. Through her, the Jade Light can be a force of destruction or a source of support.",
+  "armor": 135,
+  "aura": "aura",
+  "languages": [
+    {
+      "description": "Lasse dich vom Lied der Verwüstung verzaubern. Durch sie kann das Jade-Licht eine Macht der Zerstörung oder eine Quelle der Unterstützung sein.",
+      "name": "Jade",
+      "code": "de"
+    },
+    {
+      "description": "Laissez-vous captiver par le chant de la dévastation. À travers elle, la Lumière de Jade peut être une puissance de destruction ou une source de soutien.",
+      "name": "Jade",
+      "code": "fr"
+    },
+    {
+      "description": "Lasciati affascinare dal canto della devastazione. Tramite Jade, la Luce di Jade può essere una forza di distruzione o una fonte di sostegno.",
+      "name": "Jade",
+      "code": "it"
+    },
+    {
+      "description": "파괴의 노래에 도취되어 보세요. 그녀를 통해, 옥색의 빛은 파괴의 힘이 될 수도, 지원의 원천이 될 수도 있습니다.",
+      "name": "제이드",
+      "code": "ko"
+    },
+    {
+      "description": "Déjate cautivar por el canto de la devastación. A través de ella, la Luz de Jade puede ser una fuerza de destrucción o una fuente de apoyo.",
+      "name": "Jade",
+      "code": "es"
+    },
+    {
+      "description": "沉醉于毁灭之歌。通过她，翠玉之光可以成为毁灭之力，也可以成为支持之源。",
+      "name": "Jade",
+      "code": "zh"
+    },
+    {
+      "description": "Восхищайтесь песней опустошения. Нефритовый свет может стать силой разрушения или источником поддержки.",
+      "name": "Джейд",
+      "code": "ru"
+    },
+    {
+      "description": "破壊を奏でる合唱の虜となれ。彼女が発する翡翠の光は、敵にとって破滅であり、仲間には温かい支援となるだろう。",
+      "name": "Jade",
+      "code": "ja"
+    },
+    {
+      "description": "Zachwyć się pieśnią zniszczenia. Dzięki niej Jadeitowe Światło może stać się siłą destrukcji lub źródłem wsparcia.",
+      "name": "Jade",
+      "code": "pl"
+    },
+    {
+      "description": "Encante-se com a canção da devastação. Através dela, a Luz da Jade pode ser tanto uma força de destruição quanto de apoio.",
+      "name": "Jade",
+      "code": "pt"
+    },
+    {
+      "description": "陶醉於毀滅之歌。透過 Jade，翠玉之光既可毀滅也可輔助。",
+      "name": "Jade",
+      "code": "tc"
+    },
+    {
+      "description": "กลายเป็นผู้หลงใหลในบทเพลงแห่งความหายนะ แสงของ Jade สามารถเป็นได้ทั้งพลังทำลายล้างและแหล่งให้การสนับสนุน",
+      "name": "Jade",
+      "code": "th"
+    },
+    {
+      "description": "Yıkımın şarkısıyla mest ol. Yeşim Işığı onun aracılığıyla bir yıkım gücü ya da bir destek kaynağı olabilir.",
+      "name": "Jade",
+      "code": "tr"
+    },
+    {
+      "description": "Просякніть піснею руйнування. Крізь неї протікає нефритове світло, що може стати як джерелом руйнування, так і джерелом підтримки.",
+      "name": "Джейд",
+      "code": "uk"
+    }
+  ]
+}

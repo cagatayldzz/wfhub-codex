@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateMediumDEmpty",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-gas-cylinder-storage-(empty)-f62fa63763.png",
+  "name": "Zariman Gas Cylinder Storage (Empty)",
+  "description": "An empty specialty container for gas cylinders.",
+  "languages": [
+    {
+      "description": "Ein leerer Spezialbehälter für Gasflaschen.",
+      "name": "Zariman Lager für Gasflaschen (leer)",
+      "code": "de"
+    },
+    {
+      "description": "Un conteneur vide, prévu pour les bouteilles de gaz.",
+      "name": "Zariman: Stockage de bouteilles de gaz (vide)",
+      "code": "fr"
+    },
+    {
+      "description": "Un contenitore speciale per le bombole di gas vuoto.",
+      "name": "Deposito Bombole di Gas Zariman (Vuoto)",
+      "code": "it"
+    },
+    {
+      "description": "비어있는 가스 원통 용기용 특수 보관틀입니다.",
+      "name": "자리만 가스 원통 용기 (빈)",
+      "code": "ko"
+    },
+    {
+      "description": "Un contenedor especial vacío para cilindros de gas.",
+      "name": "Cilindro de gas Zariman (vacío)",
+      "code": "es"
+    },
+    {
+      "description": "一个空的用于放置气瓶的特殊容器。",
+      "name": "扎里曼气瓶储存箱（空）",
+      "code": "zh"
+    },
+    {
+      "description": "Пустой специальный контейнер для газовых баллонов.",
+      "name": "Зариман: Ящик для газовых баллонов (пустой)",
+      "code": "ru"
+    },
+    {
+      "description": "空のガスシリンダー専用の特殊コンテナ。",
+      "name": "Zariman ガスシリンダーストレージ（空）",
+      "code": "ja"
+    },
+    {
+      "description": "Opróżniony pojemnik służący przechowywaniu butli z gazem.",
+      "name": "Zariman: Przechowalnia butli z gazem (pusta)",
+      "code": "pl"
+    },
+    {
+      "description": "Um depósito especial e vazio para cilindros de gás.",
+      "name": "Depósito de Cilindros de Gás da Zariman (Vazio)",
+      "code": "pt"
+    },
+    {
+      "description": "空的特製氣瓶存放容器。",
+      "name": "扎日曼氣瓶存放箱（空）",
+      "code": "tc"
+    },
+    {
+      "description": "ภาชนะพิเศษเปล่าสำหรับเก็บถังแก๊ส",
+      "name": "Zariman: ที่เก็บถังแก๊ส (ว่าง)",
+      "code": "th"
+    },
+    {
+      "description": "Gaz tüpleri için boş özel bir konteyner.",
+      "name": "Zariman Gaz Tüpü Deposu (Boş)",
+      "code": "tr"
+    },
+    {
+      "description": "Порожній особливий контейнер для газових балонів.",
+      "name": "Ящик для газових балонів із «Заримена» (порожній)",
+      "code": "uk"
+    }
+  ]
+}

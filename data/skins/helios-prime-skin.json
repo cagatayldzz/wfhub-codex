@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/Defaults/DefaultHeliosPrimeSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helios-prime-skin-f516eebedb.png",
+  "name": "Helios Prime Skin",
+  "description": "The standard issue skin for the Helios Prime Sentinel.",
+  "languages": [
+    {
+      "description": "Der Standardskin für den Helios Prime Wächter.",
+      "name": "Helios Prime Skin",
+      "code": "de"
+    },
+    {
+      "description": "L'Aspect standard pour la Sentinelle Helios Prime.",
+      "name": "Aspect Helios Prime",
+      "code": "fr"
+    },
+    {
+      "description": "La skin standard per la Sentinella Helios Prime.",
+      "name": "Skin Helios Prime",
+      "code": "it"
+    },
+    {
+      "description": "헬리오스 프라임 센티넬을 위한 기본 스킨입니다.",
+      "name": "헬리오스 프라임 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "El diseño estándar para el centinela Helios Prime.",
+      "name": "Diseño de Helios Prime",
+      "code": "es"
+    },
+    {
+      "description": "赫利俄斯 Prime 的标准外观配置。",
+      "name": "赫利俄斯 Prime 外观",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный скин для стража «Гелиос Прайм».",
+      "name": "Скин Гелиоса Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Helios Primeの標準型スキン。",
+      "name": "Helios Prime スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowa skórka dla Strażnika Helios Prime.",
+      "name": "Helios Prime: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "A Skin padrão para a Sentinela Helios Prime.",
+      "name": "Helios Prime: Skin Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "赫利俄斯 Prime 守護的標準外觀配置。",
+      "name": "赫利俄斯 Prime 外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินมาตรฐานสำหรับเซนติเนล Helios Prime",
+      "name": "สกิน Helios Prime",
+      "code": "th"
+    },
+    {
+      "description": "Helios Prime Sentinel'i için standart skin.",
+      "name": "Helios Prime Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний вигляд для вартового Геліоса-прайм.",
+      "name": "Праймовий вигляд",
+      "code": "uk"
+    }
+  ]
+}

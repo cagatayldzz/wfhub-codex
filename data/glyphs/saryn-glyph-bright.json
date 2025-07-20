@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-glyph---bright-d766983f29.png",
+  "name": "Saryn Glyph - Bright",
+  "description": "A glyph depicting Saryn on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Saryn vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Saryn (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Saryn sur un fond lumineux.",
+      "name": "Glyphe Saryn - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Saryn su uno sfondo chiaro.",
+      "name": "Glifo Saryn - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 새린을 묘사한 글리프입니다.",
+      "name": "새린 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Saryn sobre un fondo brillante.",
+      "name": "Glifo de Saryn - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Saryn 在明亮背景下的浮印。",
+      "name": "Saryn 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Сарины на светлом фоне.",
+      "name": "Глиф: Сарина — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Saryn のグリフ。",
+      "name": "Saryn グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Saryn na jasnym tle.",
+      "name": "Glif Saryn — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Saryn em um fundo claro.",
+      "name": "Glifo: Saryn (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Saryn 在明亮背景下的浮印。",
+      "name": "Saryn 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Saryn บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Saryn - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Saryn açık fonlu glif.",
+      "name": "Saryn Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зарини на світлому тлі.",
+      "name": "Яскравий гліф «Зарина»",
+      "code": "uk"
+    }
+  ]
+}

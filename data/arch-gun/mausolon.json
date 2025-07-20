@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mausolon-483fb60c57.png",
+  "name": "Mausolon",
+  "description": "An ancient weapon designed by the Entrati for use by their Necramechs. Primary fire siphons life essence from the target to fuel a devastating secondary fire. Punishing automatic primary fire and a secondary mode that charges up to unleash a destructive beam of energy with a large explosion at point of impact.",
+  "languages": [
+    {
+      "description": "Eine uralte Waffe, die von den Entrati entworfen wurde und für ihre Necramechs verwendet wird. Das Primärfeuer entzieht ihrem Ziel die Lebensessenz, um das verheerende Sekundärfeuer mit Energie zu versorgen. Nutzt strafendes auto. Primärfeuer und Sekundärfeuer, das zu einem zerstörenden Strahl auflädt und am Ort des Aufpralls eine große Explosion freisetzt.",
+      "name": "Mausolon",
+      "code": "de"
+    },
+    {
+      "description": "Une arme ancienne conçue par les Entrati pour être utilisée par leurs Necramechs. Le tir principal draine l'essence vitale de la cible pour alimenter un tir secondaire dévastateur. Comprend un tir principal auto sans pitié et un mode secondaire qui se charge pour libérer un faisceau d'énergie destructeur avec une grande explosion au point d'impact.",
+      "name": "Mausolon",
+      "code": "fr"
+    },
+    {
+      "description": "Un'arma antica progettata dagli Entrati per essere utilizzata dai loro Necramech. Il fuoco primario sottrae l'essenza vitale dal bersaglio per alimentare un devastante fuoco secondario. Presenta uno spietato fuoco primario automatico e un fuoco secondario a carica che scatena un raggio di energia distruttiva con una grande esplosione nel punto di impatto.",
+      "name": "Mausolon",
+      "code": "it"
+    },
+    {
+      "description": "엔트라티가 자신들의 네크라메크에 사용하기 위해 설계한 고대 병기로, 기본 발사는 목표로부터 생명의 정수를 빨아들여 파괴적인 보조 발사의 연료로 사용합니다. 살인적인 자동 방식의 기본 발사에 더해 보조 발사는 충전 후 착탄 지점에 큰 폭발을 일으키는 파괴적인 빔을 발사합니다.",
+      "name": "머솔론",
+      "code": "ko"
+    },
+    {
+      "description": "Un arma antigua diseñada por los Entrati para uso de sus Necramech. El disparo primario desvía la esencia vital del objetivo para alimentar un fuego alternativo devastador. Con un disparo primario automático devastador y un modo alternativo que se carga para desatar un haz de energía destructivo con una gran explosión en el punto de impacto.",
+      "name": "Mausolon",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MAUSOLON）英择谛为其殁世机甲所设计的古老武器。主要射击可从目标身上吸取生命精华，以助燃次要射击带来的毁灭性攻击。拥有惩戒性的全自动主要射击。次要模式可在充能后释放一道破坏性能量束，并在作用点造成大范围爆炸。",
+      "name": "惩戒者",
+      "code": "zh"
+    },
+    {
+      "description": "Древнее оружие для Некрамехов, разработанное Энтрати. Основной режим огня высасывает жизненную энергию противника, накапливая заряд для разрушительного вторичного огня. Карающий автоматический первичный режим огня и вторичный режим, который заряжается для выпуска опустошительного луча энергии с массивным взрывом в точке попадания.",
+      "name": "Мосолон",
+      "code": "ru"
+    },
+    {
+      "description": "エントラティがネクロメカ用に設計した古の武器。プライマリ射撃は、標的から生命を吸い上げ、破壊的なセカンダリファイアを充填する。痛めつけるようなプライマリ射撃と、破壊エネルギーのビームを解き放ち、着弾点に爆発を引き起こすセカンダリ射撃を持つ。",
+      "name": "Mausolon",
+      "code": "ja"
+    },
+    {
+      "description": "Starożytna broń zaprojektowana przez Entrati do użytku przez ich Nekramechy. Ogień główny wysysa esencję życiową z celu, aby zasilić niszczycielski ogień alternatywny. Automatyczny ogień podstawowy, który karze przeciwników i tryb alternatywny, który ładuje się, aby uwolnić niszczycielski promień energii z dużą eksplozją w miejscu uderzenia.",
+      "name": "Mausolon",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma ancestral, criada pelos Entrati, concebida para o uso em Necramechs. O seu Fogo Primário drena a energia vital do alvo para, assim, alimentar o seu devastador Fogo Alternativo. O Fogo Primário e o Fogo Alternativo liberam um feixe de energia destrutivo, o que desencadeia uma explosão no ponto de impacto.",
+      "name": "Mausolon",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MAUSOLON）由源拓氏所設計給亡骸機甲使用的古老兵器。主要射擊可以從目標身上抽取生命精華，以填充具壓倒性破壞力的次要射擊。沉重的自動主要射擊以及次要模式蓄力釋放一道毀滅性的能量束，在撞擊點造成巨大的爆炸。",
+      "name": "造陵者",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธโบราณที่ออกแบบโดย Entrati เพื่อให้ Necramech ได้ใช้งาน มีโหมดยิงหลักที่จะดูดเอาพลังชีวิตจากเป้าหมายไปเป็นเชื้อเพลิงที่มีอำนาจทำลายล้างให้กับโหมดยิงสำรอง โหมดยิงหลักเป็นการยิงแบบอัตโนมัติ ส่วนโหมดสำรองเมื่อชาร์จพลังเต็มที่แล้วจะปล่อยลำแสงทำลายล้างออกมาทำให้เกิดการระเบิดครั้งใหญ่ที่จุดกระทบ",
+      "name": "Mausolon",
+      "code": "th"
+    },
+    {
+      "description": "Entrati tarafından, Necramech'lerinin kullanımı için tasarlanmış antik bir silah. Birincil atış modu, hedefinden yaşam enerjisi çekip, yıkıcı ikincil saldırısını şarj eder. Acı çektirten otomatik birincil saldırı ve, şarj olup, temas noktasında devasa bir patlama ile infilak eden ikincil atış modu bulundurur.",
+      "name": "Mausolon",
+      "code": "tr"
+    },
+    {
+      "description": "Прадавня важка гвинтівка, розроблена Ентраті для їхніх некрамехів. Основний автоматичний режим стрільби витягує есенцію життя з цілі, щоб зарядити нищівну альтернативну атаку, який випускає руйнівний енергетичний промінь із величезною вибуховою силою.",
+      "name": "Мавзолон",
+      "code": "uk"
+    }
+  ]
+}

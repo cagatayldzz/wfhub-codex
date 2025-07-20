@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureClassRoomDeskA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-desk-ac44debf5c.png",
+  "name": "Zariman Desk",
+  "description": "A desk.",
+  "languages": [
+    {
+      "description": "Ein Schreibtisch.",
+      "name": "Zariman Schreibtisch",
+      "code": "de"
+    },
+    {
+      "description": "Un bureau.",
+      "name": "Zariman: Bureau",
+      "code": "fr"
+    },
+    {
+      "description": "Una scrivania.",
+      "name": "Scrivania Zariman",
+      "code": "it"
+    },
+    {
+      "description": "책상입니다.",
+      "name": "자리만 책상",
+      "code": "ko"
+    },
+    {
+      "description": "Un escritorio.",
+      "name": "Escritorio Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一张书桌。",
+      "name": "扎里曼书桌",
+      "code": "zh"
+    },
+    {
+      "description": "Рабочий стол.",
+      "name": "Стол Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "机。",
+      "name": "Zariman デスク",
+      "code": "ja"
+    },
+    {
+      "description": "Biurko.",
+      "name": "Zariman: Biurko",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mesa de escritório.",
+      "name": "Mesa de Escritório da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "書桌。",
+      "name": "扎日曼書桌",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะเรียน",
+      "name": "Zariman: โต๊ะเรียน",
+      "code": "th"
+    },
+    {
+      "description": "Bir masa.",
+      "name": "Zariman Masası",
+      "code": "tr"
+    },
+    {
+      "description": "Парта.",
+      "name": "Парта із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

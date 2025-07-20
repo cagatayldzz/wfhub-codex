@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Choir/ChoirHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-helmet-d9b95ede2c.png",
+  "name": "Jade Helmet",
+  "description": "The standard issue helmet for the Jade Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Jade Warframe.",
+      "name": "Jade-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Jade.",
+      "name": "Casque Jade",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Jade.",
+      "name": "Elmo Jade",
+      "code": "it"
+    },
+    {
+      "description": "제이드 워프레임을 위한 기본 헬멧입니다.",
+      "name": "제이드 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Jade.",
+      "name": "Casco de Jade",
+      "code": "es"
+    },
+    {
+      "description": "Jade 的标准头盔。",
+      "name": "Jade 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Джейд.",
+      "name": "Шлем Джейд",
+      "code": "ru"
+    },
+    {
+      "description": "Jadeの標準型ヘルメット。",
+      "name": "Jade ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Jade.",
+      "name": "Jade: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão do Warframe Jade.",
+      "name": "Jade: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Jade 的標準頭盔。",
+      "name": "Jade 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Jade Warframe",
+      "name": "หมวกเหล็ก Jade",
+      "code": "th"
+    },
+    {
+      "description": "Jade Warframe için standart miğfer.",
+      "name": "Jade Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Джейд.",
+      "name": "Шолом Джейд",
+      "code": "uk"
+    }
+  ]
+}

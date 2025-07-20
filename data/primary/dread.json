@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Bows/StalkerBow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dread-ce937b379d.png",
+  "name": "Dread",
+  "description": "Dread is the calling card of The Stalker. It fires arrows that can decapitate.",
+  "languages": [
+    {
+      "description": "Dread ist die Visitenkarte des Stalkers. Der Bogen verschießt Pfeile, die sogar Köpfe abtrennen können.",
+      "name": "Dread",
+      "code": "de"
+    },
+    {
+      "description": "Le Dread est la marque de fabrique du Stalker. Il tire des flèches pouvant décapiter.",
+      "name": "Dread",
+      "code": "fr"
+    },
+    {
+      "description": "Il Dread è l'asso nella manica dello Stalker. Scocca delle frecce in grado di decapitare.",
+      "name": "Dread",
+      "code": "it"
+    },
+    {
+      "description": "목을 벨 수 있는 화살을 발사하는 드레드는 스토커의 상징과도 같은 무기입니다.",
+      "name": "드레드",
+      "code": "ko"
+    },
+    {
+      "description": "Dread es la carta de bienvenida de Stalker. Dispara flechas que pueden decapitar.",
+      "name": "Dread",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DREAD）恐惧是追猎者的标志性武器，其射出的箭矢足以取人首级。",
+      "name": "恐惧",
+      "code": "zh"
+    },
+    {
+      "description": "Страх - визитная карточка Сталкера. Использует стрелы, способные отсекать конечности.",
+      "name": "Страх",
+      "code": "ru"
+    },
+    {
+      "description": "STALKERの切り札である弓矢。敵を切り裂く強力な矢を射出する。",
+      "name": "Dread",
+      "code": "ja"
+    },
+    {
+      "description": "Dread jest wizytówką Stalkera. Strzela strzałami zdolnymi do dekapitacji celu.",
+      "name": "Strach",
+      "code": "pl"
+    },
+    {
+      "description": "O Arco Pavor é o cartão de visita do Stalker. Atira flechas que podem decapitar.",
+      "name": "Pavor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DREAD）恐懼是 Stalker 的招牌武器，其射出的箭矢足以取人首級。",
+      "name": "恐懼",
+      "code": "tc"
+    },
+    {
+      "description": "Dread เป็นเหมือนนามบัตรของ Stalker มันยิงธนูที่สามารถตัดหัวได้",
+      "name": "Dread",
+      "code": "th"
+    },
+    {
+      "description": "Dread, Stalker'ın kartvizitidir. Kafayı gövdeden ayırabilecek güçte oklar atar.",
+      "name": "Dread",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний лук Сталкера. Його стріли здатні знести голову.",
+      "name": "Жах",
+      "code": "uk"
+    }
+  ]
+}

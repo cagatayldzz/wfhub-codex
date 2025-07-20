@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxStadiumEquipmentCaseE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/musical-equipment-case-(small,-square)-61ba954d2c.png",
+  "name": "Musical Equipment Case (Small, Square)",
+  "description": "A small musical equipment case perfect for storing instruments and gear.",
+  "languages": [
+    {
+      "description": "Ein kleiner Behälter für Musikinstrumente, ideal um Instrumente und Ausrüstung zu verstauen.",
+      "name": "Behälter für Instrumente (klein, eckig)",
+      "code": "de"
+    },
+    {
+      "description": "Une caisse pour équipements de musique de petite taille, parfaite pour ranger des instruments et du matériel.",
+      "name": "Caisse pour équipement musical (Petite, carrée)",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola custodia per strumenti musicali, perfetta per riporre strumenti e attrezzi.",
+      "name": "Custodia per Attrezzatura Musicale (Piccola, Quadrata)",
+      "code": "it"
+    },
+    {
+      "description": "악기와 장비를 보관하는 데 완벽한 소형 크기의 악기 보관함입니다.",
+      "name": "음악 장비 케이스 (소형, 정사각형)",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño estuche para equipo musical, perfecto para guardar instrumentos y equipamientos.",
+      "name": "Estuche para equipo musical (pequeño, cuadrado)",
+      "code": "es"
+    },
+    {
+      "description": "小型尺寸的音乐设备箱非常适合存放乐器和设备。",
+      "name": "音乐设备箱（小，方）",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшой кейс для музыкального оборудования, идеально подходящий для хранения инструментов и оборудования.",
+      "name": "Футляр для музыкального оборудования (маленький, квадратный)",
+      "code": "ru"
+    },
+    {
+      "description": "楽器やサウンドギアを収納するための小型サイズのケース。",
+      "name": "楽器ケース（小、正方形）",
+      "code": "ja"
+    },
+    {
+      "description": "Mały futerał na sprzęt muzyczny, idealny do przechowywania instrumentów i sprzętu.",
+      "name": "Futerał na sprzęt muzyczny (mały, kwadratowy)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mala de equipamento musical de tamanho pequeno, perfeita para armazenar instrumentos e equipamentos.",
+      "name": "Mala de Equipamento Musical (Pequena - Quadrada)",
+      "code": "pt"
+    },
+    {
+      "description": "小型尺寸音樂設備箱非常適合存放音樂器材和設備。",
+      "name": "方形音樂設備箱（小型）",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องใส่อุปกรณ์ดนตรีขนาดเล็กที่เหมาะสำหรับเก็บเครื่องดนตรีและอุปกรณ์ต่าง ๆ",
+      "name": "กล่องใส่เครื่องดนตรี (เล็ก, สี่เหลี่ยม)",
+      "code": "th"
+    },
+    {
+      "description": "Enstrümanlarını ve ekipmanlarını saklamak için mükemmel, küçük ölçülerde bir müzik ekipmanı çantası.",
+      "name": "Müzik Ekipmanı Kutusu (Küçük, Kare)",
+      "code": "tr"
+    },
+    {
+      "description": "Кейс невеликого розміру чудово підходить для зберігання інструментів і спорядження.",
+      "name": "Кейс для музичного обладнання (невеликий, квадратний)",
+      "code": "uk"
+    }
+  ]
+}

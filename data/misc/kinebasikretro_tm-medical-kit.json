@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinebasikretro_tm-medical-kit-11c3aad2f7.png",
+  "name": "Kinebasik<Retro_tm> Medical Kit",
+  "description": "For all your KineBasik<RETRO_TM> emergency medical needs!",
+  "languages": [
+    {
+      "description": "Für alle deine KineBasik<RETRO_TM>-Bedürfnisse für medizinische Notfälle!",
+      "name": "KineBasik<RETRO_TM>: Erste-Hilfe-Set",
+      "code": "de"
+    },
+    {
+      "description": "Pour tous vos besoins KineBasik<RETRO_TM> lors d'urgences médicales!",
+      "name": "Kit médical KineBasik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Per tutte le tue esigenze mediche, da KineBasik<RETRO_TM>!",
+      "name": "Kit Medico KineBasik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네베이직<RETRO_TM> 구급함으로 필요한 모든 것을 챙기세요!",
+      "name": "키네베이직<RETRO_TM> 구급함",
+      "code": "ko"
+    },
+    {
+      "description": "¡Para todas tus necesidades médicas de emergencia de KineBasik<RETRO_TM>!",
+      "name": "Kit médico KineBasik<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "满足你的所有即时用<RETRO_TM>急救的需求！",
+      "name": "即时用<RETRO_TM>医疗包",
+      "code": "zh"
+    },
+    {
+      "description": "Для всех ваших экстренных медицинских нужд с «КинеБэйсик»<RETRO_TM>!",
+      "name": "Медицинский набор «КинеБэйсик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "緊急時はキネベーシック<RETRO_TM> にオマカセ！",
+      "name": "キネベーシック<RETRO_TM> 医療キット",
+      "code": "ja"
+    },
+    {
+      "description": "Apteczka KineBasik<RETRO_TM> do nagłych wypadków medycznych!",
+      "name": "KineBasik<RETRO_TM> Apteczka",
+      "code": "pl"
+    },
+    {
+      "description": "Para todas as suas necessidades medicinais da KineBasik<RETRO_TM>!",
+      "name": "Kit Médico KineBasik<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "滿足你一切開需<RETRO_TM>急救需求！",
+      "name": "開需<RETRO_TM>醫療箱",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดปฐมพยาบาล KineBasik<RETRO_TM> ที่มีเครื่องมือปฐมพยาบาลที่ต้องใช้เมื่อเกิดเหตุฉุกเฉิน",
+      "name": "ชุดปฐมพยาบาล KineBasik<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Tüm KineBasik<RETRO_TM> acil tıbbi ihtiyaçlarınız için!",
+      "name": "KineBasik<RETRO_TM> Tıbbi Kit",
+      "code": "tr"
+    },
+    {
+      "description": "Для будь-яких ваших терміновоневідкланих медичних потреб!",
+      "name": "Аптечка «Кінебейзік»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

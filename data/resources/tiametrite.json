@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tiametrite-140cb98234.png",
+  "name": "Tiametrite",
+  "description": "Infested neurotransmitters condensed under pressure.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions, Sagiant Entrati Caskets, and Bonus Vaults in Isolation Vault Bounties.",
+  "languages": [
+    {
+      "description": "Befallener Neurotransmitter, kondensiert unter Druck.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen, Sagiant Entrati Urnen und Bonus-Gewölben in Isolationsgewölbe-Aufträgen.",
+      "name": "Tiametrit",
+      "code": "de"
+    },
+    {
+      "description": "Neurotransmetteurs Infestés condensés sous pression.\n\nLieu: Puy de Cambion (Deimos), via le minage de Lésions bleues, les Coffrets Entrati Sagiant et les coffres bonus des Mises à Prix des Salles d'Isolement.",
+      "name": "Tiametrite",
+      "code": "fr"
+    },
+    {
+      "description": "Neurotrasmettitori Infested condensati sotto pressione.\n\nPosizione: Lesioni Minerarie Blu, Bare Sagiant Entrati e Vault Bonus nelle Taglie Vault d'Isolamento nel Cambion Drift (Deimos).",
+      "name": "Tiametrite",
+      "code": "it"
+    },
+    {
+      "description": "압력으로 응축된 인페스티드의 신경 전달 물질입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 채광 병변, 새지언트 엔트라티 관 및 격리 금고 의뢰 내 보너스 금고에서 찾을 수 있습니다.",
+      "name": "티아메트라이트",
+      "code": "ko"
+    },
+    {
+      "description": "Neurotransmisores infestados condensados bajo presión.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules, en los féretros Entrati Sagiant y en las bóvedas extras en los contratos de las bóvedas de aislamiento.",
+      "name": "Tiametrita",
+      "code": "es"
+    },
+    {
+      "description": "感染神经递质在压力下凝结而成。 \n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕、智者英择谛罐、隔离库赏金任务中的额外隔离库",
+      "name": "提亚美凝石",
+      "code": "zh"
+    },
+    {
+      "description": "Заражённые нейротрансмиттеры, сжатые под давлением.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе, шкатулки Энтрати «Сагиант» и бонусные хранилища в заказах Изолированного Хранилища.",
+      "name": "Тиаметрит",
+      "code": "ru"
+    },
+    {
+      "description": "感染した神経伝達物質が高圧化で濃縮されたもの。\n\n場所：カンビオン荒地（ダイモス）の青い鉱脈、サージャント エントラティキャスケット、隔離庫依頼のボーナス隔離庫。",
+      "name": "チアメトライト",
+      "code": "ja"
+    },
+    {
+      "description": "Neuroprzekaźniki Plagi skondensowane pod ciśnieniem.\n\nPołożenie: Niebieskie owrzodzenia, Szkatuły Sagiant Entrati i ukryte pomieszczenia Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie.",
+      "name": "Tiametryt",
+      "code": "pl"
+    },
+    {
+      "description": "Neurotransmissores infestados, condensados sob pressão.\n\nLocalização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+      "name": "Tiametrita",
+      "code": "pt"
+    },
+    {
+      "description": "在高壓下凝結的神經傳遞物。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶、探源源拓氏匣子以及隔離庫賞金任務中的額外寶庫。",
+      "name": "天磨石",
+      "code": "tc"
+    },
+    {
+      "description": "สารสื่อประสาทติดเชื้อที่จับตัวรวมกันภายใต้แรงดัน\n\nแหล่งที่พบ: พบได้จากสายแร่ที่เป็นรอยสีน้ำเงิน หีบบรรจุ Sagiant Entrati และโบนัสที่ได้จากภารกิจห้องนิรภัยแยกกักตัวในแคมบิออนดริฟต์ (ดาวเดมอส)",
+      "name": "ไทอาเมไทรต์",
+      "code": "th"
+    },
+    {
+      "description": "Basınç altında yoğunlaşmış Infested nörotransmitörler.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarında, Sagiant Entrati Tabutu, ve İzolasyon Kasası Bounty Görevlerindeki Bonus Kasalarından elde edilebilir.",
+      "name": "Tiametrite",
+      "code": "tr"
+    },
+    {
+      "description": "Заражені нейропередавачі, спресовані тиском.\n\nМожна здобути з синіх лезій, саджайнстських скриньок Ентраті та в додаткових камерах під час виконання контрактів «Камери ізоляції» у Кембіонській течії (Деймос).",
+      "name": "Тіаметрит",
+      "code": "uk"
+    }
+  ]
+}

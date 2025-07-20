@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidrig-capsule.png",
+  "name": "Voidrig Capsule",
+  "description": "Capsule component for the Voidrig Necramech.",
+  "languages": [
+    {
+      "description": "Hülsen-Komponente für den Voidrig Necramech.",
+      "name": "Voidrig: Hülse",
+      "code": "de"
+    },
+    {
+      "description": "Le composant Capsule du Necramech Voidrig.",
+      "name": "Voidrig - Capsule",
+      "code": "fr"
+    },
+    {
+      "description": "Il componente Capsula per il Necramech Voidrig.",
+      "name": "Voidrig - Capsula",
+      "code": "it"
+    },
+    {
+      "description": "보이드리그 네크라메크의 캡슐 부품입니다.",
+      "name": "보이드리그 캡슐",
+      "code": "ko"
+    },
+    {
+      "description": "Componente de la cápsula del Necramech Voidrig.",
+      "name": "Cápsula de Voidrig",
+      "code": "es"
+    },
+    {
+      "description": "虚空锐将殁世机甲的机舱组件。",
+      "name": "虚空锐将 机舱",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент некрамеха «Войдриг» — капсула.",
+      "name": "Войдриг: Капсула",
+      "code": "ru"
+    },
+    {
+      "description": "Voidrigネクロメカ用のカプセルパーツ。",
+      "name": "Voidrig カプセル",
+      "code": "ja"
+    },
+    {
+      "description": "Komponent kapsuły Nekramecha Voidrig.",
+      "name": "Voidrig: Kapsuła",
+      "code": "pl"
+    },
+    {
+      "description": "Cápsula componente do Necramech Voidrig.",
+      "name": "Voidrig: Cápsula",
+      "code": "pt"
+    },
+    {
+      "description": "虛空魂亡骸機甲的機艙部件。",
+      "name": "虛空魂 機艙",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบแคปซูลสำหรับ Voidrig Necramech",
+      "name": "Voidrig: แคปซูล",
+      "code": "th"
+    },
+    {
+      "description": "Voidrig Necramech için Kapsül bileşeni.",
+      "name": "Voidrig Kapsülü",
+      "code": "tr"
+    },
+    {
+      "description": "Деталі капсули для некрамеха «Бур Порожнечі».",
+      "name": "«Бур Порожнечі»: капсула",
+      "code": "uk"
+    }
+  ]
+}

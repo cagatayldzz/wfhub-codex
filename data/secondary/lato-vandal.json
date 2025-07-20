@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lato-vandal-7dcc9dde42.png",
+  "name": "Lato Vandal",
+  "description": "A special version of the standard Lato pistol with a slower Fire Rate but offering higher Accuracy and Damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips.",
+  "languages": [
+    {
+      "description": "Eine spezielle Version der Lato-Pistole mit erhöhter Präzision und Schaden auf Kosten der Feuerrate. Die Lato Vandal wurde von den Tenno mit blau-grün metallischem Anstrich und einem Lotusblütenmuster am Griff versehen.",
+      "name": "Lato Vandal",
+      "code": "de"
+    },
+    {
+      "description": "Une version spéciale du Pistolet Lato standard disposant d'une cadence de tir plus faible, mais offrant une précision et des Dégâts plus élevés. Le Lato Vandal a été personnalisé par les Tennos avec une finition métal bleu-vert et la marque du Lotus sur la crosse.",
+      "name": "Lato Vandal",
+      "code": "fr"
+    },
+    {
+      "description": "Una versione speciale della pistola Lato con Cadenza di Tiro ridotta ma dotata di Danno e Precisione maggiore. La Lato Vandal è stata personalizzata dai Tenno con una finitura metallica blu-verde e il simbolo di Lotus sull'impugnatura.",
+      "name": "Lato Vandal",
+      "code": "it"
+    },
+    {
+      "description": "기존의 라토보다 특별하게 제작된 라토 반달은 더 낮은 연사력을 지닌 대신 더 높은 정확도와 피해 수치를 지니고 있습니다. 이 권총은 텐노들의 주문제작에 따라 청록색 금속재질로 마감처리한 뒤 , 손잡이에 로터스의 문양을 새겨넣었습니다.",
+      "name": "라토 반달",
+      "code": "ko"
+    },
+    {
+      "description": "Una versión especial de la pistola Lato estándar, con una cadencia de fuego menor pero mayor precisión y daño. La Lato Vándalo ha sido personalizada por los tenno con un acabado metálico verdiazul y con la insignia de Lotus en la empuñadura.",
+      "name": "Lato Vándalo",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LATO VANDAL）拉托的特别版，射速略低但伤害和精准度更高。拉托·破坏者被 Tenno 定制成蓝绿色金属光泽，并在握把上绘制了 Lotus 纹样。",
+      "name": "拉托·破坏者",
+      "code": "zh"
+    },
+    {
+      "description": "Специальная версия стандартного пистолета Лато с уменьшенной скорострельностью, но повышенной точностью и убойной силой. Лато Вандал украшен сине-зелёной отделкой и символом Лотос на рукояти.",
+      "name": "Лато Вандал",
+      "code": "ru"
+    },
+    {
+      "description": "LATOのカスタムモデル。通常モデルより発射速度は劣るが、より高精度・高火力になるよう調整された。LATO VANDALはテンノによりエメラルド色に塗装され、グリップ部にLotusの刻印が施されている。",
+      "name": "Lato Vandal",
+      "code": "ja"
+    },
+    {
+      "description": "Specjalna wersja standardowego pistoletu Lato z obniżoną szybkostrzelnością, ale podniesioną celnością i wyższymi obrażeniami. Lato Vandal został spersonalizowany przez Tenno przez pokrycie go błękitno-zieloną oksydą i umieszczenie znaku Lotus na okładzinach.",
+      "name": "Lato Vandal",
+      "code": "pl"
+    },
+    {
+      "description": "Uma versão especial da pistola Lato, apresentando um aumento na Cadência de Tiro, Precisão e Dano. A Lato Vandalizada foi customizada pelos Tennos e apresenta uma finalização metálica, em tons azuis e verdes, além da marca da Lótus estampada em sua empunhadura.",
+      "name": "Lato Vandalizada",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LATO VANDAL）新手手槍拉托的特別版，射速略低但傷害和精準度更高。拉托 破壞者被 Tenno 訂製成藍綠色外觀，並在握把上繪製了 Lotus 紋樣。",
+      "name": "拉托 破壞者",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพก Lato รุ่นพิเศษที่มีอัตราการยิงที่ช้ากว่า แต่ให้ค่าความแม่นยำและความเสียหายที่สูงกว่า Lato Vandal ได้รับการปรับแต่งโดย Tenno ประกอบด้วยโลหะสีน้ำเงินอมเขียวเคลือบเงา และประทับตรา Lotus ไว้ที่ด้ามจับ",
+      "name": "Lato Vandal",
+      "code": "th"
+    },
+    {
+      "description": "Daha yavaş atış hızı ama daha yüksek isabet ve hasar değeri ile standart Lato tabancalarının özel bir versiyonu. Lato Vandal mavi-yeşil metalik son ve kabzasındaki Lotus damgası ile Tenno tarafından özelleştirilmiştir.",
+      "name": "Lato Vandal",
+      "code": "tr"
+    },
+    {
+      "description": "Особлива модифікація звичайного пістолета «Лато». Має повільнішу швидкострільність, але збільшену шкоду й влучність. Пофарбована в синьо-зелений і прикрашена знаком Лотос на ложі.",
+      "name": "Лато-вандал",
+      "code": "uk"
+    }
+  ]
+}

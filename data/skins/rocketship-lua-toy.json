@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rocketship-lua-toy-94ea77df19.png",
+  "name": "Rocketship Lua Toy",
+  "description": "Commemorate the Lua landings with this fun, robust rocketship. Batteries not included.",
+  "languages": [
+    {
+      "description": "Gedenke der Lua-Landungen mit diesem lustigen, robusten Raketenschiff. Batterien sind nicht enthalten.",
+      "name": "Spielzeug: Lua Raketenschiff",
+      "code": "de"
+    },
+    {
+      "description": "Commémorez les missions sur Lua avec cette fusée amusante et robuste. Piles non incluses.",
+      "name": "Jouet Fusée Lua",
+      "code": "fr"
+    },
+    {
+      "description": "Commemora gli atterraggi su Lua con questo razzo divertente e robusto. Batterie non incluse.",
+      "name": "Giocattolo Razzo Lua",
+      "code": "it"
+    },
+    {
+      "description": "이 유쾌하고 튼튼한 로켓쉽으로 루아 착륙을 기념해 보세요. 배터리는 포함되어 있지 않습니다.",
+      "name": "로켓쉽 루아 장난감",
+      "code": "ko"
+    },
+    {
+      "description": "Conmemora los aterrizajes en Lua con este divertido y resistente cohete. Pilas no incluidas.",
+      "name": "Juguete de Cohete Lua",
+      "code": "es"
+    },
+    {
+      "description": "用这艘有趣、坚固的火箭来纪念月球登陆。不含电池。",
+      "name": "火箭飞船月球玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Отпразднуйте посадки на Луа с этой прочной и забавной ракетой. Батарейки в комплекте не идут.",
+      "name": "Игрушка: Ракета Луа",
+      "code": "ru"
+    },
+    {
+      "description": "この楽しくて頑丈なロケット船でルア着陸を記念しよう。電池は別売り。",
+      "name": "ロケットシップ ルア・トイ",
+      "code": "ja"
+    },
+    {
+      "description": "Upamiętnij lądowanie na Lua tą zabawną, wytrzymałą rakietą. Baterie nie są dołączone.",
+      "name": "Zabawka: Rakieta Lua",
+      "code": "pl"
+    },
+    {
+      "description": "Celebre os pousos lunares com este foguete divertido e robusto. Pilhas não inclusas.",
+      "name": "Foguete Lunar de Brinquedo",
+      "code": "pt"
+    },
+    {
+      "description": "透過這艘有趣且堅固的星艦來紀念登陸月球。不含電池。",
+      "name": "月球星舟玩具",
+      "code": "tc"
+    },
+    {
+      "description": "ร่วมรำลึกถึงการลงจอดที่ดาวลูอาด้วยยานอวกาศที่แข็งแกร่งลำนี้ ไม่รวมแบตเตอรี่",
+      "name": "ของเล่น Rocketship Lua",
+      "code": "th"
+    },
+    {
+      "description": "Bu eğlenceli, sağlam roket gemisiyle Lua inişlerini anın. Piller dahil değildir.",
+      "name": "Roket Gemisi Lua Oyuncak",
+      "code": "tr"
+    },
+    {
+      "description": "Ушануйте пам’ять про висаджування на Луа з цим цікавим міцним зорельотом. Батарейки до комплекту не входять.",
+      "name": "Іграшка «Зореліт із Луа»",
+      "code": "uk"
+    }
+  ]
+}

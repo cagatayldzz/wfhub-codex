@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWraithBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth-glyph---bright-8decec2760.png",
+  "name": "Sevagoth Glyph - Bright",
+  "description": "A glyph depicting Sevagoth on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Sevagoth vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Sevagoth (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un glyphe représentant Sevagoth sur un fond lumineux.",
+      "name": "Glyphe Sevagoth - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Sevagoth su uno sfondo chiaro.",
+      "name": "Glifo Sevagoth - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 세바고스를 묘사한 글리프입니다.",
+      "name": "세바고스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Sevagoth sobre un fondo brillante.",
+      "name": "Glifo de Sevagoth - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth 在明亮背景下的浮印。",
+      "name": "Sevagoth 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Севагота на светлом фоне.",
+      "name": "Глиф: Севагот - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたSevagothのグリフ。",
+      "name": "Sevagoth グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Sevagoth na jasnym tle.",
+      "name": "Glif Sevagoth — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Sevagoth em um fundo claro.",
+      "name": "Glifo: Sevagoth (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Sevagoth 在明亮背景下的浮印。",
+      "name": "Sevagoth 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Sevagoth บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Sevagoth - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Sevagoth'u parlak bir fonda temsil eden bir glif.",
+      "name": "Sevagoth Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Севаґота на світлому тлі.",
+      "name": "Яскравий гліф «Севаґот»",
+      "code": "uk"
+    }
+  ]
+}

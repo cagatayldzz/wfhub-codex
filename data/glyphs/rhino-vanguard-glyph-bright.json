@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRhinoVanguardBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-vanguard-glyph---bright-454c29e23b.png",
+  "name": "Rhino Vanguard Glyph - Bright",
+  "description": "A glyph depicting Rhino Vanguard on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Rhino Vanguard vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Rhino Vanguard (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Rhino Vanguard sur un fond lumineux.",
+      "name": "Glyphe Rhino Vanguard - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Vanguard Rhino su uno sfondo chiaro.",
+      "name": "Glifo Rhino Vanguard - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 뱅가드 라이노를 묘사한 글리프입니다.",
+      "name": "라이노 뱅가드 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Vanguard Rhino sobre un fondo brillante.",
+      "name": "Glifo de Rhino Vanguard - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Rhino 先锋在明亮背景下的浮印。",
+      "name": "Rhino 先锋浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Рино «Авангард» на светлом фоне.",
+      "name": "Глиф: Рино «Авангард» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Vanguard Rhino のグリフ。",
+      "name": "Rhino Vanguard グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Rhino Vanguard na jasnym tle.",
+      "name": "Glif Rhino Vanguard — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Rhino Vanguard em um fundo claro.",
+      "name": "Glifo: Rhino Vanguard (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Rhino 先鋒在明亮背景下的浮印。",
+      "name": "Rhino 先鋒浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Rhino Vanguard บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Rhino Vanguard - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Rhino Vanguard açık fonlu glif.",
+      "name": "Rhino Vanguard Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Райно в шоломі «Авангард» на світлому тлі.",
+      "name": "Яскравий гліф «Райно „Авангард“»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/SemiAutoRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/latron-19592d27da.png",
+  "name": "Latron",
+  "description": "The Latron is a highly efficient rifle that performs well at medium and at long range, its accuracy making it a deadly weapon in the hands of skilled marksmen.",
+  "languages": [
+    {
+      "description": "Seine hohe Zielgenauigkeit macht das Latron in den Händen fähiger Schützen zu einer tödlichen Waffe über mittlere und große Entfernungen.",
+      "name": "Latron",
+      "code": "de"
+    },
+    {
+      "description": "Le Latron est un Fusil très performant à longue et moyenne portée. Sa précision en fait une arme mortelle dans les mains d'un tireur habile.",
+      "name": "Latron",
+      "code": "fr"
+    },
+    {
+      "description": "Il Latron è un fucile molto efficace sia a media che lunga distanza, la sua precisione lo rende un'arma letale nelle mani di un tiratore capace.",
+      "name": "Latron",
+      "code": "it"
+    },
+    {
+      "description": "래트론은 중거리에서 매우 효율적인 소총으로, 이 총이 숙련된 사수의 손에 쥐어진다면 뛰어난 정확도를 바탕으로 한 무시무시한 무기로 변모할 것입니다.",
+      "name": "래트론",
+      "code": "ko"
+    },
+    {
+      "description": "El Latron es un rifle altamente eficiente a media y larga distancia. Su precisión resulta mortal en manos de tiradores experimentados.",
+      "name": "Latron",
+      "code": "es"
+    },
+    {
+      "description": "（英文：LATRON）拉特昂是一支半自动步枪。其高性能和高准确性令它在一名能精准射击的人手中时可以变得十分致命。",
+      "name": "拉特昂",
+      "code": "zh"
+    },
+    {
+      "description": "Латрон - очень эффективная на средней и дальней дистанциях винтовка, точность которой делает из нее смертоносное оружие в руках опытного стрелка.",
+      "name": "Латрон",
+      "code": "ru"
+    },
+    {
+      "description": "消費弾効率の高い、中・遠距離用バトルライフル。照準を正確に合わせられる射手が用いると非常に強力な兵器となる。",
+      "name": "Latron",
+      "code": "ja"
+    },
+    {
+      "description": "Latron jest karabinem samopowtarzalnym, skutecznym na średni i daleki dystans. Zabójcza broń w rękach celnego strzelca.",
+      "name": "Latron",
+      "code": "pl"
+    },
+    {
+      "description": "A Latron é um rifle muito eficiente que tem uma boa performance à média e longa alcance, sua precisão faz com que seja mortal nas mãos de bons atiradores.",
+      "name": "Latron",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：LATRON）拉特昂是一支半自動步槍。其高性能和高準確性令它在一名能精準射擊的人手中時可以變得十分致命。",
+      "name": "拉特昂",
+      "code": "tc"
+    },
+    {
+      "description": "Latron เป็นปืนไรเฟิลที่มีประสิทธิภาพสูง ยิงได้ดีในระยะกลางและระยะไกล หากอาวุธชิ้นนี้อยู่ในมือของนักแม่นปืนที่มีฝีมือ ก็จะกลายเป็นอาวุธร้ายแรงที่มีความแม่นยำสูง",
+      "name": "Latron",
+      "code": "th"
+    },
+    {
+      "description": "Latron, orta ve uzun mesafelerde çok iyi iş gören çok etkili bir tüfektir. Yetenekli nişancıların elinde öldürücü bir silahtır.",
+      "name": "Latron",
+      "code": "tr"
+    },
+    {
+      "description": "Високоефективна гвинтівка. Використовується для бою на середній і дальній відстанях. Висока влучність робить її смертельною зброєю в руках досвідченого стрільця.",
+      "name": "Пагуба",
+      "code": "uk"
+    }
+  ]
+}

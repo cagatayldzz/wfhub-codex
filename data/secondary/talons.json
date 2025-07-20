@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/talons-25982555f3.png",
+  "name": "Talons",
+  "description": "The claws of these tactical bombs dig into the target and detonate on command.",
+  "languages": [
+    {
+      "description": "Die Klauen dieser taktischen Bomben graben sich in das Ziel und explodieren auf Befehl.",
+      "name": "Talons",
+      "code": "de"
+    },
+    {
+      "description": "Les griffes de ces bombes tactiques creusent dans la cible et explosent sur commande.",
+      "name": "Talons",
+      "code": "fr"
+    },
+    {
+      "description": "Gli artigli di queste bombe tattiche scavano dentro il bersaglio ed esplodono a comando.",
+      "name": "Talons",
+      "code": "it"
+    },
+    {
+      "description": "전술용 폭탄을 장착한 이 발톱들은 목표물의 몸에 파고들어가 작동 명령에 따라 폭발합니다.",
+      "name": "탈론즈",
+      "code": "ko"
+    },
+    {
+      "description": "Las garras de estas bombas tácticas excavan huecos en su objetivo y se detonan al recibir la orden.",
+      "name": "Talons",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TALONS）附带的尖锐勾爪能将战术炸弹掘入目标体内并遥控引爆。",
+      "name": "鹰爪",
+      "code": "zh"
+    },
+    {
+      "description": "Когти этих тактических бомб вгрызаются в цель и детонируют по команде.",
+      "name": "Талоны",
+      "code": "ru"
+    },
+    {
+      "description": "この戦術用爆弾のかぎ爪はターゲットの肉片に食い込み、指示と共に炸裂する。",
+      "name": "Talons",
+      "code": "ja"
+    },
+    {
+      "description": "Te wyposażone w pazury taktyczne bomby, wbijają się w cel i wybuchają na komendę.",
+      "name": "Talons",
+      "code": "pl"
+    },
+    {
+      "description": "As garras destas bombas táticas se encravam no alvo e detonam via comando.",
+      "name": "Talons",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TALONS）附帶的尖銳鈎爪能將戰術炸彈掘入目標體内並遙控引爆。",
+      "name": "鷹爪",
+      "code": "tc"
+    },
+    {
+      "description": "กรงเล็บของระเบิดยุทธวิธีจะเจาะเข้าไปในตัวเป้าหมายและระเบิดตามคำสั่ง",
+      "name": "Talons",
+      "code": "th"
+    },
+    {
+      "description": "Bu taktiksel bombaların pençeleri düşmanın içine girer ve uzaktan patlatılabilir.",
+      "name": "Talons",
+      "code": "tr"
+    },
+    {
+      "description": "Кидальна тактична вибухівка, кігті якої впиваються в жертву. Підривається за командою.",
+      "name": "Кігті",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyInaros",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-floof-a15db1d10a.png",
+  "name": "Inaros Floof",
+  "description": "Mighty Inaros, the Pharaoh of Floofs, can endure any amount of affection.",
+  "languages": [
+    {
+      "description": "Der mächtige Inaros, der Pharao der Floofs, kann unendliche Zuneigung ertragen.",
+      "name": "Floof: Inaros",
+      "code": "de"
+    },
+    {
+      "description": "Le puissant Inaros, pharaon des Peluches, peut supporter n'importe quelle quantité d'affection.",
+      "name": "Peluche Inaros",
+      "code": "fr"
+    },
+    {
+      "description": "Il potente Inaros, il Faraone dei Floof, può resistere a qualsiasi quantità di affetto.",
+      "name": "Floof Inaros",
+      "code": "it"
+    },
+    {
+      "description": "플루프계의 파라오, 이나로스는 아무리 많은 애정이라도 기꺼이 받아들일 준비가 되어 있습니다.",
+      "name": "이나로스 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "El poderoso Inaros, faraón de los Floofs, puede soportar cualquier cantidad de afecto.",
+      "name": "Floof de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "伟大法老 Inaros 的玩偶，可以接受任何程度的爱。",
+      "name": "Inaros 玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Могущественный Инарос, Фараон Пушистиков, может выдержать любое количество ласки.",
+      "name": "Пушистик: Инарос",
+      "code": "ru"
+    },
+    {
+      "description": "強大なるInaros、ぬいぐるみを統べる王、全ての民の愛を受け入れる。",
+      "name": "Inarosのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Potężny Inaros, Pan Pluszaków, potrafi znieść każdą dawkę czułości.",
+      "name": "Pluszak Inarosa",
+      "code": "pl"
+    },
+    {
+      "description": "O poderoso Inaros, o Faraó dos Floofs, consegue lidar com qualquer quantidade de afeição.",
+      "name": "Floof: Inaros",
+      "code": "pt"
+    },
+    {
+      "description": "玩偶之法老，強大的 Inaros，能承受任何程度的喜愛。",
+      "name": "Inaros 玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "Inaros ผู้ทรงพลัง ตุ๊กตาฟาโรห์ที่สามารถทนต่อความรักมากมายที่มอบให้",
+      "name": "ตุ๊กตา Inaros",
+      "code": "th"
+    },
+    {
+      "description": "Peluşların Firavunu olan Kudretli Inaros, her türlü sevgiye dayanabilir.",
+      "name": "Inaros Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Могутній Інар, Повелитель Плюшів, може витримати будь-яку кількість виявлення радощів.",
+      "name": "Плюш «Інар»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/Kuva/KuvaTricksterEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-trickster-ephemera-587fea1eba.png",
+  "name": "Vengeful Trickster Ephemera",
+  "description": "The energy of the trickster Warframes is embodied in this colorful ephemera, seized from a converted or vanquished Kuva Lich.",
+  "languages": [
+    {
+      "description": "Die Energie dieses Ephemeras verkörpert einen gaunerischen Warframe. Von einem konvertierten oder vernichteten Kuva Lich erhalten.",
+      "name": "Ephemera: Rächende Gaunerei",
+      "code": "de"
+    },
+    {
+      "description": "L'énergie des Warframes farceuses est incarnée dans cet Ephemera tout en couleurs, récupéré d'une Liche Kuva vaincue ou convertie.",
+      "name": "Ephemera Tromperie Vengeresse",
+      "code": "fr"
+    },
+    {
+      "description": "L'energia del Warframe imbroglione è incarnata in questa colorata ephemera, estratta da un Kuva Lich convertito o sconfitto.",
+      "name": "Ephemera Vengeful Trickster",
+      "code": "it"
+    },
+    {
+      "description": "전향 또는 격파한 쿠바 리치에게서 빼앗은, 책략가 워프레임의 에너지를 구현하는 화려한 이페메라입니다.",
+      "name": "벤지풀 트릭스터 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "La energía de los warframes tramposos está manifestada en este colorido efímero, adquirido de un Lich de Kuva convertido o derrotado.",
+      "name": "Efímero Tramposo vengativo",
+      "code": "es"
+    },
+    {
+      "description": "战甲骗术的能量包含在这个多彩的幻纹里，从一个感化或消灭的赤毒玄骸那里得到。",
+      "name": "复仇骗术幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Энергия трикстер варфреймов воплощена в эту красочную эфемеру, захваченную у обращенного или уничтоженного Лича Кувы.",
+      "name": "Эфемера: Трикстер мщения",
+      "code": "ru"
+    },
+    {
+      "description": "転向または抹殺したクバ・リッチから手に入れた、トリックスターのエネルギーを具現化した色鮮やかなエフェメラ。",
+      "name": "Vengeful Trickster エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Energia oszukańczych Warframe'ów jest zawarta w tej kolorowej Efemerze skonfiskowanej nawróconemu lub pokonanemu Liczowi Kuvy.",
+      "name": "Efemera Mściwego Oszusta",
+      "code": "pl"
+    },
+    {
+      "description": "A energia dos Warframes ardilosos incorporada nesta Efêmera colorida, obtida de um Lich de Kuva convertido ou derrotado.",
+      "name": "Efêmera: Vingança Ardilosa",
+      "code": "pt"
+    },
+    {
+      "description": "惡作劇 Warframe 的能量蘊涵在這個從已皈依或被擊殺的赤毒巫妖身上虜獲得來的色彩斑斕幻紋裏。",
+      "name": "復仇惡作劇幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "พลังงานของ Warframe จอมเจ้าเล่ห์แฝงอยู่ในอิเฟมเมอราที่มีสีสันชิ้นนี้ ซึ่งยึดเอามาจาก Kuva Lich ที่เปลี่ยนมาเป็นพวกหรือโดนปราบแล้ว",
+      "name": "อิเฟมเมอรา Vengeful Trickster",
+      "code": "th"
+    },
+    {
+      "description": "Hileci Warframe'lerin enerjisi, dönüştürülen veya yenilgiye uğrayan bir Kuva Lich tarafından şekillendirilen bu renkli ephemerada yer alıyor.",
+      "name": "Vengeful Trickster Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Барвиста ефемера, що уособлює енергію хитрих ворфреймів, вилучена в оберненого чи переможеного кувового ліча.",
+      "name": "Ефемера «Мстивий хитрун»",
+      "code": "uk"
+    }
+  ]
+}

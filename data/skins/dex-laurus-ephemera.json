@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/DexEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dex-laurus-ephemera-ec1288c00b.png",
+  "name": "Dex Laurus Ephemera",
+  "description": "Commemorate 12 cycles since the Tenno first awoke with this graceful ephemera.",
+  "languages": [
+    {
+      "description": "Gedenkt der Tenno, die vor 12 Zyklen erwacht sind, mit diesem eleganten Ephemera.",
+      "name": "Ephemera: Dex Laurus",
+      "code": "de"
+    },
+    {
+      "description": "Commémorez les 12 cycles depuis le réveil du premier Tenno avec cet Ephemera gracieux.",
+      "name": "Ephemera Dex Laurus",
+      "code": "fr"
+    },
+    {
+      "description": "Commemora il 12esimo ciclo dal primo risveglio dei Tenno con questa graziosa Ephemera.",
+      "name": "Ephemera Dex Laurus",
+      "code": "it"
+    },
+    {
+      "description": "이 우아한 이페메라로 텐노가 처음으로 깨어난 뒤 맞는 12번째의 주기를 기념하세요.",
+      "name": "덱스 라우루스 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Conmemora los 12 ciclos transcurridos desde que los tenno despertaron por primera vez con este elegante efímero.",
+      "name": "Efímero Dex Laurus",
+      "code": "es"
+    },
+    {
+      "description": "通过这款优雅的幻纹纪念 Tenno 首次苏醒以来的 12 个周期。",
+      "name": "Dex 月桂幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Почтите 12 циклов с момента первого пробуждения Тэнно с этой изящной эфемерой.",
+      "name": "Эфемера: Декс Лаурус",
+      "code": "ru"
+    },
+    {
+      "description": "このエレガントなエフェメラでテンノの目覚めの12年を祝おう。",
+      "name": "Dex Laurus エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Upamiętnij 12 cykli od pierwszego przebudzenia Tenno tą elegancką Efemerą.",
+      "name": "Efemera Laurus Dex",
+      "code": "pl"
+    },
+    {
+      "description": "Celebre os 12 ciclos desde o despertar do Tenno, com esta graciosa Efêmera.",
+      "name": "Efêmera: Laurus Dex",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個幻紋以紀念 Tenno 首次甦醒歷經 12 次循環。",
+      "name": "Dex 月桂幻紋",
+      "code": "tc"
+    },
+    {
+      "description": "อิเฟมเมอราที่สวยงามชิ้นนี้เป็นของที่ระลึกฉลองครบรอบ 12 ปีนับตั้งแต่ Tenno ได้ตื่นขึ้นมา",
+      "name": "อิเฟมเมอรา Dex Laurus",
+      "code": "th"
+    },
+    {
+      "description": "Tenno'nun ilk uyanışından bu yana geçen 12 döngüyü bu zarif ephemera ile an.",
+      "name": "Dex Laurus Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Ця витончена ефемера відзначає 12 циклів з моменту пробудження тенно.",
+      "name": "Ефемера «Лаур-декс»",
+      "code": "uk"
+    }
+  ]
+}

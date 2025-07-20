@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxNightStandA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/night-stand-0deef9bfd5.png",
+  "name": "Night Stand",
+  "description": "A wooden night stand.",
+  "languages": [
+    {
+      "description": "Ein Nachttisch aus Holz.",
+      "name": "Nachttisch",
+      "code": "de"
+    },
+    {
+      "description": "Une table de nuit en bois.",
+      "name": "Table de nuit",
+      "code": "fr"
+    },
+    {
+      "description": "Un comodino in legno.",
+      "name": "Comodino",
+      "code": "it"
+    },
+    {
+      "description": "목제로 된 침실용 스탠드입니다.",
+      "name": "침실용 스탠드",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesita de noche de madera.",
+      "name": "Mesita de noche",
+      "code": "es"
+    },
+    {
+      "description": "木制床头柜。",
+      "name": "床头柜",
+      "code": "zh"
+    },
+    {
+      "description": "Деревянный ночной столик.",
+      "name": "Ночной столик",
+      "code": "ru"
+    },
+    {
+      "description": "木製のナイトスタンド。",
+      "name": "ナイトスタンド",
+      "code": "ja"
+    },
+    {
+      "description": "Drewniany stolik nocny.",
+      "name": "Stolik nocny",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mesa de cabeceira de madeira.",
+      "name": "Mesa de Cabeceira",
+      "code": "pt"
+    },
+    {
+      "description": "木製床頭櫃。",
+      "name": "床頭櫃",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะข้างเตียงไม้",
+      "name": "โต๊ะข้างเตียง",
+      "code": "th"
+    },
+    {
+      "description": "Ahşap bir komodin.",
+      "name": "Komodin",
+      "code": "tr"
+    },
+    {
+      "description": "Дерев’яна тумбочка.",
+      "name": "Тумба",
+      "code": "uk"
+    }
+  ]
+}

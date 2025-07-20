@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/WikiaBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tenno-chronicler-emblem-570e83a191.png",
+  "name": "Tenno Chronicler Emblem",
+  "description": "A special emblem worn only by a select few Tenno.",
+  "languages": [
+    {
+      "description": "Ein spezielles Abzeichen, getragen nur von einigen wenigen, ausgewählten Tenno.",
+      "name": "Emblem: Tenno Chronist",
+      "code": "de"
+    },
+    {
+      "description": "Un badge spécial porté uniquement par quelques Tennos sélectionnés.",
+      "name": "Badge de Chroniqueur Tenno",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema speciale conferito solo ad alcuni Tenno.",
+      "name": "Emblema Tenno Chronicler",
+      "code": "it"
+    },
+    {
+      "description": "선택받은 소수의 텐노 요원만이 받는 특별한 엠블럼입니다.",
+      "name": "텐노 크로니클러 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema especial usada solamente por unos pocos elegidos tenno.",
+      "name": "Emblema Cronista Tenno",
+      "code": "es"
+    },
+    {
+      "description": "仅有几位特定的 Tenno 能戴上这特殊的徽章。",
+      "name": "Tenno 编年史学家徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Специальный знак, обозначающий оперативников Тэнно.",
+      "name": "Значок: Тэнно-летописец",
+      "code": "ru"
+    },
+    {
+      "description": "選ばれし数名のテンノのみが着用できる特別なエンブレム。",
+      "name": "テンノ クロニクラー エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Specjalny emblemat noszony przez kilku wybranych Tenno.",
+      "name": "Emblemat Kronikarza Tenno",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema especial usado apenas por poucos Tennos escolhidos.",
+      "name": "Emblema: Tenno Chronicler",
+      "code": "pt"
+    },
+    {
+      "description": "僅有幾位特定的 Tenno 能戴上這特殊的徽章。",
+      "name": "Tenno 史學家徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มี Tenno เพียงไม่กี่คนเท่านั้นที่มีสิทธิ์ได้สวมตราสัญลักษณ์พิเศษชิ้นนี้",
+      "name": "ตราสัญลักษณ์: Tenno Chronicler",
+      "code": "th"
+    },
+    {
+      "description": "Sadece seçilmiş bir kaç Tenno tarafından giyilebilen özel bir rozet.",
+      "name": "Tenno Chronicler Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Особлива відзнака, яку носять лише обрані тенно.",
+      "name": "Відзнака «Тенно-літописець»",
+      "code": "uk"
+    }
+  ]
+}

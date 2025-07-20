@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Syndicate/CSGunneryEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cephalon-suda-gunnery-emote-b40a741aa5.png",
+  "name": "Cephalon Suda Gunnery Emote",
+  "description": "Target incoming fighters with this crew-inspired emote.",
+  "languages": [
+    {
+      "description": "Ziele mit diesem von der Crew inspirierten Emote auf ankommende Jäger.",
+      "name": "Emote: Cephalon Suda Kampfmanöver",
+      "code": "de"
+    },
+    {
+      "description": "Ciblez les ennemis en vue avec ce Geste inspiré de votre équipage.",
+      "name": "Geste d'Engagement - Céphalon Suda",
+      "code": "fr"
+    },
+    {
+      "description": "Prendi di mira i caccia in arrivo con questa emote ispirata all'equipaggio.",
+      "name": "Emote Armamento Cephalon Suda",
+      "code": "it"
+    },
+    {
+      "description": "승무원에게서 영감을 받은 이 감정 표현으로 다가오는 전투기들을 노려보세요.",
+      "name": "세팔론 수다 포술 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Con este gesto inspirado en los tripulantes tendrás a los cazas en la mira.",
+      "name": "Gesto de Artillería de Céfalon Suda",
+      "code": "es"
+    },
+    {
+      "description": "通过这款受舰员启发的表情动作来瞄准来袭的战斗机。",
+      "name": "中枢苏达枪炮表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Цельтесь в приближающиеся истребители с помощью этого жеста, вдохновлённого командой.",
+      "name": "Жест: Цефалон Суда - Артиллерия",
+      "code": "ru"
+    },
+    {
+      "description": "クルーをモチーフにしたエモートで戦闘機を撃退しよう。",
+      "name": "セファロン・スーダ銃砲エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Namierz zbliżające się myśliwce dzięki temu inspirowanemu załogą gestowi.",
+      "name": "Gest Strzelca Cefalon Sudy",
+      "code": "pl"
+    },
+    {
+      "description": "Os caças já estão na mira com este emote inspirado em seus membros da tripulação.",
+      "name": "Emote: Artilharia da Cephalon Suda",
+      "code": "pt"
+    },
+    {
+      "description": "透過這款以船員作靈感的表情動作來瞄準來襲的戰鬥機。",
+      "name": "中樞蘇達重砲表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "เล็งเป้าไปยังเครื่องบินรบที่เข้ามาด้วยอิโมตนี้ที่ได้รับแรงบันดาลใจจากลูกเรือ",
+      "name": "อิโมต Cephalon Suda Gunnery",
+      "code": "th"
+    },
+    {
+      "description": "Mürettebattan ilham alan bu hareketle yaklaşan avcı gemilerini indirmeye hazırlan.",
+      "name": "Cephalon Suda Topçu Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Поцілюйте у винищувачів жестом, на створення якого надихнув екіпаж.",
+      "name": "Гарматник цефалонки Суди",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-war-within-e0af2c92d6.png",
+  "name": "The War Within",
+  "description": "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir.",
+  "languages": [
+    {
+      "description": "Eine Störung in der somatischen Verbindung hat die Lotus dazu veranlasst, erneut Agenten zum Tenno Reservoir zu schicken.",
+      "name": "Der Innere Krieg",
+      "code": "de"
+    },
+    {
+      "description": "Une perturbation du Lien Somatique pousse le Lotus à renvoyer des agents au Réservoir Tenno.",
+      "name": "La Guerre Intérieure",
+      "code": "fr"
+    },
+    {
+      "description": "Un disturbo nel Collegamento Somatico induce Lotus ad inviare nuovamente agenti operativi nel Reservoir Tenno.",
+      "name": "La Guerra Interna",
+      "code": "it"
+    },
+    {
+      "description": "소매틱 링크의 방해를 조사하기 위해 로터스는 텐노의 요람으로 요원을 보내기로 하였습니다.",
+      "name": "내면의 전쟁",
+      "code": "ko"
+    },
+    {
+      "description": "Una perturbación en el enlace somático insta a Lotus a enviar operativos de vuelta al embalse de los tenno.",
+      "name": "La Guerra Interna",
+      "code": "es"
+    },
+    {
+      "description": "活体连接的干扰迫使 Lotus 派遣特工回到 Tenno 储梦池。",
+      "name": "内战",
+      "code": "zh"
+    },
+    {
+      "description": "Помехи в Соматической Связи вынуждают Лотос снова выслать оперативников к Резервуару Тэнно.",
+      "name": "Война внутри",
+      "code": "ru"
+    },
+    {
+      "description": "ソマティックリンクのノイズを探知し、Lotusはオペレーターをリザーバへと再度向かわせる。",
+      "name": "内なる紛争",
+      "code": "ja"
+    },
+    {
+      "description": "Zakłócenie w Połączeniu Somatycznym zmusiło Lotus, aby ponownie wysłać agentów do Rezerwuaru Tenno.",
+      "name": "Wewnętrzna Wojna",
+      "code": "pl"
+    },
+    {
+      "description": "Uma interferência na Conexão Somática impede a Lótus de enviar agentes de volta para o Reservatório Tenno.",
+      "name": "A Guerra Interior",
+      "code": "pt"
+    },
+    {
+      "description": "活體連接的干擾迫使 Lotus 派遣特工回到 Tenno 儲夢池。",
+      "name": "內戰",
+      "code": "tc"
+    },
+    {
+      "description": "ความวุ่นวายในโซมาติกลิงก์ทำให้ Lotus ส่งผู้ปฏิบัติการกลับไปยังอ่างเก็บน้ำ Tenno",
+      "name": "สงครามภายใน",
+      "code": "th"
+    },
+    {
+      "description": "Somatik Link'teki kargaşa Lotusu operatörlerini Tenno Haznelerine geri göndermeye zorluyor.",
+      "name": "The War Within",
+      "code": "tr"
+    },
+    {
+      "description": "Завади в соматичному зв’язку змушують Лотос відправити оперативників до резервуара тенно.",
+      "name": "Внутрішній конфлікт",
+      "code": "uk"
+    }
+  ]
+}

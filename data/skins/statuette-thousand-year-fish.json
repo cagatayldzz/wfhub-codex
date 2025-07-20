@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropOstStoneFish",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/statuette---thousand-year-fish--0bd64fe4e0.png",
+  "name": "Statuette - Thousand-Year Fish ",
+  "description": "A glass carving depicting the colossal Thousand-Year Fish of Ostron legend.",
+  "languages": [
+    {
+      "description": "Ein Glasrelief, das die Legende des kolossalen tausendjährigen Fisches von Ostron darstellt.",
+      "name": "Statuette: Tausendjähriger Fisch",
+      "code": "de"
+    },
+    {
+      "description": "Une sculpture de verre représentant le colossal Poisson Millénaire de la légende Ostron.",
+      "name": "Statuette - Poisson Millénaire",
+      "code": "fr"
+    },
+    {
+      "description": "Una scultura in vetro raffigurante la colossale leggenda del Pesce dei Mille Anni di Ostron.",
+      "name": "Statuetta - Pesce Millenario ",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 전설에 등장하는 거대한 천년어를 묘사한 유리 조각상입니다.",
+      "name": "조각상 - 천년어 ",
+      "code": "ko"
+    },
+    {
+      "description": "Un tallado en vidrio representando al colosal pez milenario de la leyenda ostronita.",
+      "name": "Estatuilla - Pez Milenario ",
+      "code": "es"
+    },
+    {
+      "description": "一个描绘着 Ostron 传奇的巨大千年灵鱼的玻璃雕刻。",
+      "name": "千年灵鱼小雕像 ",
+      "code": "zh"
+    },
+    {
+      "description": "Стеклянное изделие, созданное по образу колоссальной Тысячелетней Рыбы из Остронских легенд.",
+      "name": "Статуэтка: Тысячелетняя рыба ",
+      "code": "ru"
+    },
+    {
+      "description": "オストロンの伝説の巨大な千年魚を描くように彫られたガラス。",
+      "name": "千年魚の小像",
+      "code": "ja"
+    },
+    {
+      "description": "Rzeźbione szkło przedstawiające olbrzymią tysiącletnią rybę z legendy Ostronów.",
+      "name": "Statuetka — Tysiącletnia Ryba",
+      "code": "pl"
+    },
+    {
+      "description": "Uma escultura de vidro retratando o colossal Peixe Milenar da lenda de Ostron.",
+      "name": "Estatueta do Peixe Milenar ",
+      "code": "pt"
+    },
+    {
+      "description": "一個描繪 Ostron 傳奇的巨大千年靈魚的玻璃雕刻。",
+      "name": "千年靈魚小雕像",
+      "code": "tc"
+    },
+    {
+      "description": "งานแกะสลักแก้วที่ทำให้ระลึกถึงปลาพันปีขนาดมหึมาในตำนานของ Ostron",
+      "name": "รูปปั้นเล็ก - ปลาพันปี ",
+      "code": "th"
+    },
+    {
+      "description": "Ostron efsanesinin muazzam Bin-Yıllık balıklarını tasvir eden bir cam oyma.",
+      "name": "Heykelcik - Bin Yıllık Balık ",
+      "code": "tr"
+    },
+    {
+      "description": "Скляна скульптура, що втілює остронську легенду про тисячолітню рибу.",
+      "name": "Статуетка «Тисячолітня риба»",
+      "code": "uk"
+    }
+  ]
+}

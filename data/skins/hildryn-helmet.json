@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/IronFrameHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hildryn-helmet-a989e68762.png",
+  "name": "Hildryn Helmet",
+  "description": "The standard issue helmet for the Hildryn Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm des Hildryn Warframe.",
+      "name": "Hildryn-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Hildryn.",
+      "name": "Casque Hildryn",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo standard per il Warframe Hildryn.",
+      "name": "Elmo Hildryn",
+      "code": "it"
+    },
+    {
+      "description": "힐드린 워프레임을 위한 기본 헬멧입니다.",
+      "name": "힐드린 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Hildryn",
+      "name": "Casco de Hildryn",
+      "code": "es"
+    },
+    {
+      "description": "Hildryn 的标准头盔。",
+      "name": "Hildryn 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Хильдрин.",
+      "name": "Шлем Хильдрин",
+      "code": "ru"
+    },
+    {
+      "description": "Hildrynの標準型ヘルメット。",
+      "name": "Hildryn ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Hildryn.",
+      "name": "Hildryn: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O Capacete padrão para o Warframe Hildryn.",
+      "name": "Hildryn: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Hildryn 的標準頭盔。",
+      "name": "Hildryn 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Hildryn Warframe",
+      "name": "หมวกเหล็ก Hildryn",
+      "code": "th"
+    },
+    {
+      "description": "Hildryn'in standart miğferi.",
+      "name": "Hildryn Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Гільдрини.",
+      "name": "Шолом Гільдрини",
+      "code": "uk"
+    }
+  ]
+}

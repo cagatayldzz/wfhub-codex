@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnAlchemistSyandana",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitam-syandana-bfb97b4c17.png",
+  "name": "Vitam Syandana",
+  "description": "Lavos' signature Syandana has been engineered for life in the lab and the battlefield.",
+  "languages": [
+    {
+      "description": "Lavos bevorzugtes Syandana, das für ein Leben im Labor und auf dem Schlachtfeld entwickelt wurde.",
+      "name": "Vitam Syandana",
+      "code": "de"
+    },
+    {
+      "description": "La Syandana emblématique de Lavos a été conçue à la fois pour la vie de laboratoire et pour le champ de bataille.",
+      "name": "Syandana Vitam",
+      "code": "fr"
+    },
+    {
+      "description": "La Syandana simbolo di Lavos è stata progettata per la vita in laboratorio e sul campo di battaglia.",
+      "name": "Syandana Vitam",
+      "code": "it"
+    },
+    {
+      "description": "라보스의 대표 샨다나는 연구소에서의 활동과 전장에서의 활동, 양 쪽을 위해 설계되었습니다.",
+      "name": "비탐 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La syandana distintiva de Lavos ha sido diseñada para la vida en el laboratorio y en el campo de batalla.",
+      "name": "Syandana Vitam",
+      "code": "es"
+    },
+    {
+      "description": "Lavos 的标志性披饰经过精心设计，适用于实验室和战场的日常使用。",
+      "name": "命脉披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Особая сандана Лавоса, сконструированная для лаборатории и поля боя.",
+      "name": "Сандана: Витам",
+      "code": "ru"
+    },
+    {
+      "description": "Lavosを象徴するシャンダナは実験室や実戦の場で使うために設計された。",
+      "name": "Vitam シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna Syandana Lavosa została zaprojektowana do rutyny laboratorium lub na pole bitwy.",
+      "name": "Syandana Vitam",
+      "code": "pl"
+    },
+    {
+      "description": "A Syandana tradicional do Lavos, desenvolvida para o dia a dia em laboratórios e campos de batalha.",
+      "name": "Syandana: Vitam",
+      "code": "pt"
+    },
+    {
+      "description": "Lavos 的標誌性披飾是專門為了實驗室及戰場中的生活而精心設計。",
+      "name": "維生披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่เป็นซิกเนเจอร์ของ Lavos นี้ได้รับการออกแบบมาเพื่อใช้ชีวิตในห้องทดลองและสนามรบ",
+      "name": "ไซอันดานา Vitam",
+      "code": "th"
+    },
+    {
+      "description": "Lavos'a ait bu özel Syandana, laboratuvar içerisindeki yaşam ve dövüş meydanları için tasarlandı.",
+      "name": "Vitam Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна сяндана Лавоса, розроблена для носіння в лабораторії та на полі бою.",
+      "name": "Сяндана «Вітам»",
+      "code": "uk"
+    }
+  ]
+}

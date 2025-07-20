@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVaubanDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-citadel-glyph-7e1a8da0b5.png",
+  "name": "Vauban Citadel Glyph",
+  "description": "A glyph depicting Vauban Citadel.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Vauban Citadel darstellt.",
+      "name": "Glyphe: Vauban Citadel",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Vauban Citadel.",
+      "name": "Glyphe Vauban Citadel",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Vauban Citadel.",
+      "name": "Glifo Vauban Citadel",
+      "code": "it"
+    },
+    {
+      "description": "바우반 시타델 스킨을 묘사한 글리프입니다.",
+      "name": "바우반 시타델 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo representativo de Vauban Ciudadela.",
+      "name": "Glifo de Vauban Ciudadela",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Vauban 城塞外观的浮印。",
+      "name": "Vauban 城塞浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вобана «Цитадель».",
+      "name": "Глиф: Вобан Цитадель",
+      "code": "ru"
+    },
+    {
+      "description": "Vauban Citadelを表したグリフ。",
+      "name": "Vauban Citadel グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Vaubana Citadel.",
+      "name": "Glif Vauban Citadel",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando o Vauban Citadel.",
+      "name": "Glifo: Vauban Citadel",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Vauban 城塞的浮印。",
+      "name": "Vauban 城塞浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Vauban Citadel",
+      "name": "ภาพสัญลักษณ์ Vauban Citadel",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Citadel'i temsil eden bir glif.",
+      "name": "Vauban Citadel Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вобана зі спорядженим виглядом «Цитадель».",
+      "name": "Гліф «Вобан „Цитадель“»",
+      "code": "uk"
+    }
+  ]
+}

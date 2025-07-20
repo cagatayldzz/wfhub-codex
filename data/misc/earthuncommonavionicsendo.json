@@ -1,0 +1,64 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/EarthUncommonAvionicsEndo",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/earthuncommonavionicsendo-bdcba74838.png",
+  "name": "Earthuncommonavionicsendo",
+  "description": "Consumed to upgrade the Railjack Grid and Avionics.",
+  "languages": [
+    {
+      "description": "Verbraucht, um das Railjack Schema und die Avionik zu verbessern.",
+      "code": "de"
+    },
+    {
+      "description": "Consommé pour améliorer la Matrice et les Avioniques du Railjack.",
+      "code": "fr"
+    },
+    {
+      "description": "Consumato per potenziare la Griglia e l'Avionica del Railjack.",
+      "code": "it"
+    },
+    {
+      "description": "레일잭의 그리드 및 에이비오닉 업그레이드에 사용됩니다.",
+      "code": "ko"
+    },
+    {
+      "description": "Consumido para mejorar la red del Railjack y las aviónicas.",
+      "code": "es"
+    },
+    {
+      "description": "用来升级航道星舰区格和航电设备",
+      "code": "zh"
+    },
+    {
+      "description": "Расходуется для улучшения локусов Рэйлджека и Авионики.",
+      "code": "ru"
+    },
+    {
+      "description": "レールジャックのグリッドとアビオニックをアップグレードするための消費アイテム。",
+      "code": "ja"
+    },
+    {
+      "description": "Używane do ulepszania Slotów i Awionik Railjacka.",
+      "code": "pl"
+    },
+    {
+      "description": "Consumido para aprimorar a Matriz da Railjack e seus Aviônicos.",
+      "code": "pt"
+    },
+    {
+      "description": "用於升級銳捷號穹格與航宇電設。",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เพื่ออัปเกรดกริดและเอวิโอนิกส์ของ Railjack ",
+      "code": "th"
+    },
+    {
+      "description": "Railjack Grid ve Aviyonikleri geliştirmek için kullanılır.",
+      "code": "tr"
+    },
+    {
+      "description": "Використовується для поліпшення плекса рейкоджека й авіоніки.",
+      "code": "uk"
+    }
+  ]
+}

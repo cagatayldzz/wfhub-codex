@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/VoidPlumeBOrnament",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-vane-ornament-380fb882c1.png",
+  "name": "Voidplume Vane Ornament",
+  "description": "A Void Angel feather, kept as a memento, or perhaps a trophy.",
+  "languages": [
+    {
+      "description": "Eine Void-Engel-Feder, die als Andenken oder vielleicht als Trophäe aufbewahrt wird.",
+      "name": "Ornament: Void-Schirmfeder",
+      "code": "de"
+    },
+    {
+      "description": "Une plume d'Ange du Néant, conservée comme souvenir, ou peut-être comme trophée.",
+      "name": "Plume du Néant - Décoration Vexille",
+      "code": "fr"
+    },
+    {
+      "description": "Una piuma di Angelo del Void, conservata come ricordo, o forse come trofeo.",
+      "name": "Ornamento Voidplume - Vessillo",
+      "code": "it"
+    },
+    {
+      "description": "기념품이나 트로피로 보관할 수 있는 보이드 천사의 깃털입니다.",
+      "name": "보이드 깃털 - 털깃 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una pluma de un Ángel del Vacío, guardada como recuerdo o tal vez como trofeo.",
+      "name": "Ornamento de Barba de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "一根虚空天使羽毛，作为一种纪念品，或者是一件战利品。",
+      "name": "虚空翼翎饰物",
+      "code": "zh"
+    },
+    {
+      "description": "Перо Ангела Бездны, хранимое на память или, возможно, в качестве трофея.",
+      "name": "Орнамент: Перо Бездны - Флюгер",
+      "code": "ru"
+    },
+    {
+      "description": "Void天使の羽を形見、あるいは戦利品として残したもの。",
+      "name": "ヴォイドプルーム ベーン オーナメント",
+      "code": "ja"
+    },
+    {
+      "description": "Pióro Anioła Pustki, zachowane jako pamiątka, czy też trofeum.",
+      "name": "Ozdoba Pióro Pustki: Chorągiewka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pena de um Anjo do Void, guardada como uma lembrança ou, talvez, como um troféu.",
+      "name": "Ornamento de Palheta de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "一根虛空天使羽毛，作為一種紀念品，又或是一件戰利品。",
+      "name": "虛空片羽飾品",
+      "code": "tc"
+    },
+    {
+      "description": "ขนนกเทวทูตแห่งวอยด์ เก็บไว้เป็นที่ระลึก หรืออาจเก็บไว้เป็นถ้วยรางวัล",
+      "name": "ของประดับ Voidplume: ขนนก",
+      "code": "th"
+    },
+    {
+      "description": "Hatıra olarak ya da belki de bir kupa olarak saklanmış bir Void Meleği Tüyü.",
+      "name": "Void Tüyü Kanatçığı Aksesuarı",
+      "code": "tr"
+    },
+    {
+      "description": "Пір’їни янгола Порожнечі, збережені як згадка, чи то пак, трофей.",
+      "name": "Оздоблення: стяг із пер Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

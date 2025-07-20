@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/PoseSets/ArchwingUnarmedPoseSet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/archwing-reaction-pose-set-2bc6cb95a4.png",
+  "name": "Archwing Reaction Pose Set",
+  "description": "A collection of poses for Tenno with Archwing.",
+  "languages": [
+    {
+      "description": "Eine Kollektion an Posen für Tenno mit Archwing.",
+      "name": "Posenset: Archwing Reaktion",
+      "code": "de"
+    },
+    {
+      "description": "Une collection de poses avec des Tennos en Archwing.",
+      "name": "Ensemble de Poses Réactions Archwing",
+      "code": "fr"
+    },
+    {
+      "description": "Una collezione di pose per i Tenno con Archwing.",
+      "name": "Set Pose - Reazione con Archwing",
+      "code": "it"
+    },
+    {
+      "description": "아크윙을 장착한 텐노의 포즈를 모아둔 컬렉션입니다.",
+      "name": "아크윙 리액션 포즈 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Una colección de poses para los tenno con Archwing.",
+      "name": "Conjunto de poses de reacción Archwing",
+      "code": "es"
+    },
+    {
+      "description": "一组装备了曲翼的 Tenno 的动作。",
+      "name": "曲翼反应动作组合",
+      "code": "zh"
+    },
+    {
+      "description": "Набор поз для Тэнно с арчвингом.",
+      "name": "Набор поз: Арчвинг - Реакция",
+      "code": "ru"
+    },
+    {
+      "description": "様々なアークウイングポーズが含まれるセット。",
+      "name": "アークウイングリアクションポーズセット",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw póz Archwinga dla Tenno.",
+      "name": "Zestaw Póz Reakcji Archwinga",
+      "code": "pl"
+    },
+    {
+      "description": "Uma coleção de poses para o Tenno com Archwing.",
+      "name": "Conjunto de Poses: Reações com Archwing",
+      "code": "pt"
+    },
+    {
+      "description": "Tenno 裝備 Archwing 的一系列站姿。",
+      "name": "Archwing 反應姿勢組",
+      "code": "tc"
+    },
+    {
+      "description": "รวมท่าทางต่าง ๆ ของ Tenno ที่ติด Archwing",
+      "name": "เซตท่าโต้ตอบ: Archwing",
+      "code": "th"
+    },
+    {
+      "description": "Tenno için Archwing ile bir silah pozu koleksiyonu.",
+      "name": "Archwing Tepki Poz Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір поз для тенно з арквінґом.",
+      "name": "Набір поз для арквінґа з різними реакціями",
+      "code": "uk"
+    }
+  ]
+}

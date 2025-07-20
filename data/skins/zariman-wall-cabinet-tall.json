@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureWallLockerTallB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-wall-cabinet-(tall)-17d9d2390a.png",
+  "name": "Zariman Wall Cabinet (Tall)",
+  "description": "A tall wall mounted cabinet.",
+  "languages": [
+    {
+      "description": "Ein hoher Wandschrank.",
+      "name": "Zariman Wandschrank (hoch)",
+      "code": "de"
+    },
+    {
+      "description": "Une haute armoire murale.",
+      "name": "Zariman: Armoire murale (haute)",
+      "code": "fr"
+    },
+    {
+      "description": "Un pensile alto.",
+      "name": "Pensile Zariman (Alto)",
+      "code": "it"
+    },
+    {
+      "description": "벽면에 고정된 높은 보관장입니다.",
+      "name": "자리만 벽 보관장 (높은)",
+      "code": "ko"
+    },
+    {
+      "description": "Un gabinete grande montado en la pared.",
+      "name": "Gabinete de pared Zariman (grande)",
+      "code": "es"
+    },
+    {
+      "description": "一个高的壁挂式储藏柜。",
+      "name": "扎里曼壁挂式储藏柜（高）",
+      "code": "zh"
+    },
+    {
+      "description": "Высокий навесной шкаф.",
+      "name": "Зариман: Навесной шкаф (высокий)",
+      "code": "ru"
+    },
+    {
+      "description": "壁に取り付けられた高いキャビネット。",
+      "name": "Zariman 壁キャビネット（高）",
+      "code": "ja"
+    },
+    {
+      "description": "Szafka naścienna.",
+      "name": "Zariman: Szafka naścienna (wysoka)",
+      "code": "pl"
+    },
+    {
+      "description": "Um gabinete alto montado na parede.",
+      "name": "Gabinete de Parede da Zariman (Alto)",
+      "code": "pt"
+    },
+    {
+      "description": "高型壁掛櫃。",
+      "name": "高型扎日曼壁掛式貯藏櫃",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ติดผนังทรงสูง",
+      "name": "Zariman: ตู้ติดผนัง (สูง)",
+      "code": "th"
+    },
+    {
+      "description": "Duvara monte uzun çekmeceli bir dolap.",
+      "name": "Zariman Çekmeceli Duvar Dolabı (Uzun)",
+      "code": "tr"
+    },
+    {
+      "description": "Висока навісна шафа.",
+      "name": "Настінна шафа із «Заримена» (висока)",
+      "code": "uk"
+    }
+  ]
+}

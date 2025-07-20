@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphThree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sentinel-spooks-glyph-3870688272.png",
+  "name": "Sentinel Spooks Glyph",
+  "description": "A haunting Glyph for your profile.",
+  "languages": [
+    {
+      "description": "Eine gespenstische Glyphe für dein Profil.",
+      "name": "Glyphe: Wächter-Spuk",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe envoûtant pour votre profil.",
+      "name": "Glyphe de Sentinelle effrayante",
+      "code": "fr"
+    },
+    {
+      "description": "Un Glifo inquietante per il tuo profilo.",
+      "name": "Glifo Sentinella Spettro",
+      "code": "it"
+    },
+    {
+      "description": "프로필을 위한 으스스한 글리프입니다.",
+      "name": "겁주는 센티넬 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo espeluznante para tu perfil.",
+      "name": "Glifo de Centinela fantasmal",
+      "code": "es"
+    },
+    {
+      "description": "你个人档案中令人惶恐不安的浮印。",
+      "name": "鬼影守护浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Захватывающий глиф для вашего профиля.",
+      "name": "Глиф: Страж-призрак",
+      "code": "ru"
+    },
+    {
+      "description": "プロフィール用の不気味なグリフ。",
+      "name": "センチネル・スプーク グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Przerażający Glif dla Twojego profilu.",
+      "name": "Glif Strasznego Strażnika",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo assustador para o seu perfil.",
+      "name": "Glifo: Sentinela Fantasma",
+      "code": "pt"
+    },
+    {
+      "description": "一個令人不寒而慄的浮印，可用於你的個人檔案。",
+      "name": "幽靈守護浮印",
+      "code": "tc"
+    },
+    {
+      "description": "เพิ่มภาพสัญลักษณ์สุดหลอนให้กับโพรไฟล์ของคุณ",
+      "name": "ภาพสัญลักษณ์ Sentinel Spooks",
+      "code": "th"
+    },
+    {
+      "description": "Profilin için ürkütücü bir Glif.",
+      "name": "Sentinel Hayalet Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Моторошний гліф для вашого профілю.",
+      "name": "Гліф «Лячний вартовий»",
+      "code": "uk"
+    }
+  ]
+}

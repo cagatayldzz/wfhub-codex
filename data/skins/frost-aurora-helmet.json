@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltStatless",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-aurora-helmet-aa1b685d46.png",
+  "name": "Frost Aurora Helmet",
+  "description": "Aurora Helmet for the Frost Warframe.",
+  "languages": [
+    {
+      "description": "Aurora Helm für den Frost Warframe.",
+      "name": "Frost-Helm: Aurora",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque Aurora pour la Warframe Frost.",
+      "name": "Casque Frost Aurora",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo Aurora per il Warframe Frost.",
+      "name": "Elmo Frost Aurora",
+      "code": "it"
+    },
+    {
+      "description": "프로스트 워프레임의 오로라 헬멧입니다.",
+      "name": "프로스트 오로라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco Aurora para el warframe Frost.",
+      "name": "Casco Aurora de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 战甲的极光头盔",
+      "name": "Frost 极光头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем «Аврора» для Фроста.",
+      "name": "Шлем Фроста: Аврора",
+      "code": "ru"
+    },
+    {
+      "description": "FrostのAuroraヘルメット。",
+      "name": "Frost Aurora ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm Aurora dla Warframe'a Frost.",
+      "name": "Frost: Hełm Aurora",
+      "code": "pl"
+    },
+    {
+      "description": "Capacete Aurora para o Warframe Frost.",
+      "name": "Frost: Capacete Aurora",
+      "code": "pt"
+    },
+    {
+      "description": "Frost 戰甲的極光頭盔。",
+      "name": "Frost 極光頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็ก Aurora สำหรับ Frost Warframe",
+      "name": "หมวกเหล็ก Frost Aurora",
+      "code": "th"
+    },
+    {
+      "description": "Frost Warframe'i için Aurora Miğfer",
+      "name": "Frost Aurora Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом «Аврора» для ворфрейма Фроста.",
+      "name": "Шолом «Аврора» для Фроста",
+      "code": "uk"
+    }
+  ]
+}

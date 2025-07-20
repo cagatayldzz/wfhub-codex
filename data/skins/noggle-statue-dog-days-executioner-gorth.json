@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/WFTankBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---dog-days-executioner-gorth-63d446e906.png",
+  "name": "Noggle Statue - Dog Days Executioner Gorth",
+  "description": "A small wobbly statue of an Executioner from Tactical Alert: Dog Days.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von einem Henker der Taktischen Alarmierung: Hitzefrei.",
+      "name": "Noggle-Statue: Hitzefrei Henker Gorth",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Bourreau de l'Alerte Tactique: Bataille d'Eau.",
+      "name": "Statuette Noggle - Bourreau Gorth Bataille d'Eau",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Executioner dell'Allerta Tattica: Dog Days.",
+      "name": "Statuetta Noggle - Executioner Gorth Dog Days",
+      "code": "it"
+    },
+    {
+      "description": "택티컬 얼럿: 도그 데이즈의 처형인을 본딴 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 도그 데이즈 처형인 고스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de un verdugo de la alerta táctica: Canícula.",
+      "name": "Estatua Tambaleante - Verdugo Gorth de Canícula",
+      "code": "es"
+    },
+    {
+      "description": "一小座来自战术警报：三伏天中的行刑者摇头娃娃。",
+      "name": "三伏天行刑者高斯摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Фигурка Гринир, участвовавшего в тактической тревоге «Знойные Дни».",
+      "name": "Фигурка: Палач Знойных Дней Горт",
+      "code": "ru"
+    },
+    {
+      "description": "ハンターアラート「ドッグ・デイズ」に登場する死刑執行人のボブルヘッド。",
+      "name": "ドッグ・デイズ 執行人 Gorth ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Egzekutora z Alarmu Taktycznego: Kanikuła.",
+      "name": "Figurka Noggle — Egzekutor Gorth Kanikuły",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Executor do Alerta Tático dos Dias de Cão.",
+      "name": "Estatueta: Executor Gorth (Dias de Cão)",
+      "code": "pt"
+    },
+    {
+      "description": "一小座來自《戰術警報：三伏天》的行刑者的搖頭娃娃。",
+      "name": "三伏天行刑者 Gorth 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกแทนตัวผู้สำเร็จโทษจากภารกิจแจ้งเตือนทางยุทธวิธี: Dog Days",
+      "name": "รูปปั้น Noggle - Dog Days: ผู้สำเร็จโทษ Gorth",
+      "code": "th"
+    },
+    {
+      "description": "Dog Days Taktiksel Alert Cellatı küçük oynar figür.",
+      "name": "Noggle Heykeli - Dog Days Cellat Gorth",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ката-учасника тактичного виклику «Спекотні дні».",
+      "name": "Ноґл «Спекотні дні: кат Ґорт»",
+      "code": "uk"
+    }
+  ]
+}

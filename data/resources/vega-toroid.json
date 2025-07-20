@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vega-toroid-31d48d6576.png",
+  "name": "Vega Toroid",
+  "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
+  "languages": [
+    {
+      "description": "Ein Gerät von unbestimmter Funktion und Herkunft. Wird von den Vox Solaris und den Quill geschätzt.\n\nErhalte Vega-Toroide von Gegnern im Weltraumhafen im Orbis-Tal und von Milben-Arachnoiden. Sie können auch als Beute in den Höhlen des Orbis-Tals (Venus) gefunden werden.",
+      "name": "Vega-Toroid",
+      "code": "de"
+    },
+    {
+      "description": "Un appareil dont la fonction et l'origine sont indéterminées. Décerné par Vox Solaris et les Plumes. \n\nGagnez des Tores Vegas via les ennemis situés dans le Port Spatial de la Vallée Orbis et les Raknoïdes Mites. Ils peuvent également être trouvés dans les grottes situées autour de la Vallée Orbis (Vénus).",
+      "name": "Tore Vega",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo con funzione e origine indeterminate. Apprezzato da Vox Solaris e Quill.\n\nPuoi guadagnare Toroidi Vega dai nemici situati nello Spazioporto su Orb Vallis e dai Mite Raknoid. Possono anche essere trovati come risorsa da raccogliere nelle grotte situate su Orb Vallis (Venere).",
+      "name": "Toroide Vega",
+      "code": "it"
+    },
+    {
+      "description": "복스 솔라리스 및 퀼들이 선망하는 기능 및 기원이 불분명한 장치입니다. \n\n베가 토로이드는 오브 협곡의 우주 공항에 위치한 적들 및 마이트 라크노이드들로부터 획득할 수 있습니다. 금성의 오브 협곡 내 여러 동굴에서 습득 아이템으로도 획득할 수 있습니다.",
+      "name": "베가 토로이드",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo de función y origen indeterminado. Valorado por Vox Solaris y los Raquis.\n\nGana toroides Vega de enemigos ubicados en el puerto espacial en los Valles del Orbe y de raknoides Enanos. También se pueden encontrar en cuevas ubicadas alrededor de los Valles del Orbe (Venus).",
+      "name": "Toroide Vega",
+      "code": "es"
+    },
+    {
+      "description": "一种功能和来源未定的装置。受到索拉里斯之声和夜羽的高度珍视。\n\n从奥布山谷航天站内的敌人那里和微螨蛛形机那里获取维加环型装置。也可以在金星奥布山谷周围的洞穴中找到。",
+      "name": "维加环型装置",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство неустановленного происхождения и назначения. Ценится Гласом Солярис и перьями.\n\nСобирайте Тороиды Вега, убивая врагов, находящихся в Космопорте в Долине Сфер и Клещей Ракноидов. Их также можно найти в пещерах, расположенных в Долине Сфер (Венера).",
+      "name": "Тороид: Вега",
+      "code": "ru"
+    },
+    {
+      "description": "機能と起源が不明な装置。Vox Solarisとクイル達に珍重されている。\n\nベガ トロイドはオーブ峡谷（金星）で入手可能で、オーブ峡谷のスペースポートの敵とマイト ラクノイドがドロップし、また峡谷内の洞窟からドロップアイテムとして手に入る。",
+      "name": "ベガ トロイド",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie o nieokreślonej funkcji i pochodzeniu. Cenione przez Vox Solaris i Quillów.\n\nToroidy Vega mogą zostać zdobyte z przeciwników w Porcie Kosmicznym w Orb Vallis i Raknoidów Mite oraz zostać znalezione w jaskiniach w Orb Vallis na Wenus.",
+      "name": "Toroid Vega",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo de origem e funções indeterminadas. Valorizado pelo Vox Solaris e pelos Plumas.\n\nObtenha Toróides Vega junto a qualquer inimigo localizado no Porto Espacial do Vallis das Orbes, e junto às Raknóides Acarina. Também podem ser encontradas como itens coletáveis nas cavernas espalhadas pelo Vallis das Orbes, em Vênus.",
+      "name": "Toróide Vega",
+      "code": "pt"
+    },
+    {
+      "description": "一種功能及起源未知的裝置。索拉里斯之聲以及夜羽對其極度重視。\n\n維加環型裝置可從位於奧布山谷「太空站」的敵人，以及微蟎蛛形機上獲得。也可以在金星的奧布山谷周遭的洞穴中以拾取物的形式找到。",
+      "name": "維加環型裝置",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ที่ไม่ทราบฟังก์ชันและที่มา เป็นของรางวัลจาก Vox Solaris และ Quills\n\nรับเวกาโทรอยด์ได้จากศัตรูที่อยู่ที่ Spaceport ในออร์บวัลลิสและจาก Mite Raknoid นอกจากนี้ยังเก็บไอเทมนี้ได้ตามถ้ำที่อยู่รอบ ๆ ออร์บวัลลิส (ดาวศุกร์)",
+      "name": "เวกาโทรอยด์",
+      "code": "th"
+    },
+    {
+      "description": "İşlevi ve kaynağı belirlenemeyen bir cihaz. Vox Solaris ve Quills tarafından ödüllendirilmiştir.\n\nOrb Vallis'te yer alan Uzay Üssü ve Mite Raknoid'lerde bulunan düşmanlardan Vega Toroid elde et. Orb Vallis (Venüs) çevresindeki mağaralarda da bulunabilirler.",
+      "name": "Vega Toroid",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій невизначеного призначення й походження. Цінується Гласом солярійців і Писарями.\n\nТороїди «Веґа» можуть випасти з ракноїдів-кліщів або ж із ворогів у космодоку Долини Куль (Венера), а також у тамтешніх печерах.",
+      "name": "Тороїд «Вега»",
+      "code": "uk"
+    }
+  ]
+}

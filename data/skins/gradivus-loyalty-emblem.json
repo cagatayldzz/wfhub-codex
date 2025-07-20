@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventGrineerBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gradivus-loyalty-emblem-9fd87081ba.png",
+  "name": "Gradivus: Loyalty Emblem",
+  "description": "An insignia marking Tenno who aligned with the Grineer during the Gradivus Dilemma.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen für jene Tenno, die sich während des Gradivus-Dilemmas mit den Grineer verbündet haben.",
+      "name": "Emblem: Gradivus - Loyalität",
+      "code": "de"
+    },
+    {
+      "description": "Un badge honorifique récompensant les Tennos ayant participé avec les Grineers au Dilemme Gradivus.",
+      "name": "Gradivus: Badge de Loyauté",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma per i Tenno schierati con i Grineer durante il Gradivus Dilemma.",
+      "name": "Gradivus: Emblema Lealtà",
+      "code": "it"
+    },
+    {
+      "description": "더 그라디부스 딜레마 캠페인중 그리니어를 지원한 텐노에게 주어지는 메달입니다.",
+      "name": "그라디부스: 로열티 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia para los tenno que se aliaron con los grineer durante el Dilema de Gradivus.",
+      "name": "Gradivus: Emblema de Lealtad",
+      "code": "es"
+    },
+    {
+      "description": "该徽章代表 Tenno 与 Grineer 在荧惑困境中一同作战。",
+      "name": "荧惑：忠诚徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак, обозначающий Тэнно, принявших сторону Гринир в Дилемме Градивуса.",
+      "name": "Значок: Дилемма Градивуса - Верность",
+      "code": "ru"
+    },
+    {
+      "description": "グラディウスの窮地にてグリニアに協力したテンノに贈られる勲章。",
+      "name": "グラディウスの窮地：忠誠のエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia odznaczające Tenno, którzy sprzymierzyli się z Grineer w czasie Dylematu Gradivus.",
+      "name": "Gradivus: Emblemat Lojalności",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia marcando os Tennos que se aliaram aos Grineers durante o Dilema de Gradivus.",
+      "name": "Emblema: Lealdade de Gradivus",
+      "code": "pt"
+    },
+    {
+      "description": "該徽章代表 Tenno 與 Grineer 在熒惑困境中一同作戰。",
+      "name": "熒惑：忠誠徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตราที่เป็นเครื่องหมายว่า Tenno อยู่ข้างเดียวกับ Grineer ในอีเวนต์ Gradivus Dilemma",
+      "name": "Gradivus: ตราสัญลักษณ์แห่งความภักดี",
+      "code": "th"
+    },
+    {
+      "description": "Gradivus İkilemi sırasında Tenno'nun Grineer'lara yardım ettiğini gösteren işaret.",
+      "name": "Gradivus: Sadakat Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Цією відзнакою нагороджуються тенно, які обрали сторону ґрінерів в операції «Дилема Ґрадіва».",
+      "name": "Відзнака «Ґрадів: вірність»",
+      "code": "uk"
+    }
+  ]
+}

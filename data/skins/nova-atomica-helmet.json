@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/NovaDeluxeIIHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-atomica-helmet-0161cc5d10.png",
+  "name": "Nova Atomica Helmet",
+  "description": "Nova Atomica's signature helmet.",
+  "languages": [
+    {
+      "description": "Nova Atomicas bevorzugter Helm.",
+      "name": "Nova-Helm: Atomica",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Nova Atomica.",
+      "name": "Casque Nova Atomica",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Nova Atomica.",
+      "name": "Elmo Nova Atomica",
+      "code": "it"
+    },
+    {
+      "description": "노바 아토미카의 대표 헬멧입니다.",
+      "name": "노바 아토미카 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Nova Atómica.",
+      "name": "Casco Atómica de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 原子姬的标志性头盔。",
+      "name": "Nova 原子姬头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Новы «Атомика».",
+      "name": "Шлем Новы: Атомика",
+      "code": "ru"
+    },
+    {
+      "description": "Nova Atomicaのメインヘルメット。",
+      "name": "Nova Atomica ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Novy Atomica.",
+      "name": "Nova: Hełm Atomica",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Nova Atomica.",
+      "name": "Nova: Capacete Atomica",
+      "code": "pt"
+    },
+    {
+      "description": "Nova 原子的標誌性頭盔。",
+      "name": "Nova 原子頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Nova Atomica",
+      "name": "หมวกเหล็ก Nova Atomica",
+      "code": "th"
+    },
+    {
+      "description": "Nova Atomica'ya özel miğfer.",
+      "name": "Nova Atomica Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Атоміка» для Нови.",
+      "name": "Шолом «Атоміка» для Нови",
+      "code": "uk"
+    }
+  ]
+}

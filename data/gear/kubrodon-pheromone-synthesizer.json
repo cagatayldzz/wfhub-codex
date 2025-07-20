@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/LegendaryKubrowRarityBoost",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kubrodon-pheromone-synthesizer-621fc07c34.png",
+  "name": "Kubrodon Pheromone Synthesizer",
+  "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Kubrodon.",
+  "languages": [
+    {
+      "description": "Einsetzen kurz bevor ein Echo-Köder benutzt wird, um die Chance zu erhöhen, eine seltenere Kubrow-Unterart anzulocken.",
+      "name": "Pheromon Synthesizer: Kubrodon",
+      "code": "de"
+    },
+    {
+      "description": "À déployer juste avant d'utiliser l'Écho-Leurre afin d'augmenter les chances d'attirer une sous-espèce de Kubrodons plus rares.",
+      "name": "Synthétiseur de Phéromone Kubrodon",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega prima di usare il richiamo per avere la possibilità di attrarre rare sottospeci di Kubrodonti.",
+      "name": "Sintetizzatore Feromone Kubrodonte",
+      "code": "it"
+    },
+    {
+      "description": "에코-루어 사용 직전에 배치하여 더욱 희귀한 쿠브로돈의 아종을 유인할 수 있는 확률을 증가시키세요.",
+      "name": "쿠브로돈 페로몬 합성기",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega justo antes de usar el eco-señuelo para aumentar la probabilidad de atraer a una subespecie rara de kubrodon.",
+      "name": "Sintetizador de feromonas de Kubrodon",
+      "code": "es"
+    },
+    {
+      "description": "在使用回声诱饵前部署可以提升吸引一种库狛顿稀有亚种的几率。",
+      "name": "库狛顿费洛蒙合成器",
+      "code": "zh"
+    },
+    {
+      "description": "Примените перед использованием эхо-манка, чтобы увеличить вероятность привлечения более редкого подвида Кубродона.",
+      "name": "Синтезатор Феромонов Кубродона",
+      "code": "ru"
+    },
+    {
+      "description": "ECHOルアーを使用する直前に起動して、より希少なクブロドンを引き寄せる確率を上げよう。",
+      "name": "クブロドン フェロモン シンセサイザー",
+      "code": "ja"
+    },
+    {
+      "description": "Skorzystaj z tego zaraz przed użyciem echo-wabika, aby zwiększyć szansę na zwabienie rzadszego okazu Kubrodrona.",
+      "name": "Syntezator Feromonów Kubrodona",
+      "code": "pl"
+    },
+    {
+      "description": "Utilize este item antes de utilizar a Ecoisca para aumentar a chance de atrair subespécies mais raras de Kubrodons.",
+      "name": "Sintetizador de Feromônio de Kubrodon",
+      "code": "pt"
+    },
+    {
+      "description": "在使用迴聲誘餌前部署可以提升吸引一種庫狛頓稀有亞種的機率。",
+      "name": "庫狛頓費洛蒙合成器",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้ก่อนที่จะใช้เครื่องเลียนแบบเสียง เพื่อเพิ่มโอกาสในการดึงดูดสายพันธุ์ย่อยที่หายากของ Kubrodon",
+      "name": "ตัวสังเคราะห์ฟีโรโมน Kubrodon",
+      "code": "th"
+    },
+    {
+      "description": "Eko-Çağırıcı kullanmadan önce yerleştirerek Kubrodon'un en nadir türlerinin dikkatini çekme şansını artır.",
+      "name": "Kubrodon Feromon Sentezleyici",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте перед увімкненням еховабика, щоб із більшою ймовірністю приманити рідкісний різновид кубродонів.",
+      "name": "Відтворювач феромону кубродона",
+      "code": "uk"
+    }
+  ]
+}

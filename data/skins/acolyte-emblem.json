@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ProjectSinisterBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/acolyte-emblem-1dc09db44b.png",
+  "name": "Acolyte Emblem",
+  "description": "An insignia dropped by an Acolyte of the Stalker.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, fallengelassen von einem Akolythen des Stalkers.",
+      "name": "Emblem: Akolyth",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne laissé par l'un des Acolytes du Stalker.",
+      "name": "Badge Acolyte",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma fatto cadere da un Accolite dello Stalker.",
+      "name": "Emblema Accolite",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트에게서 떨어진 증표입니다.",
+      "name": "어콜라이트 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia soltada por un acólito de Stalker.",
+      "name": "Emblema del Acólito",
+      "code": "es"
+    },
+    {
+      "description": "一名追猎者的追随者所掉落的徽章。",
+      "name": "追随者徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Эмблема, упавшая от послушника Сталкера.",
+      "name": "Значок: Послушник",
+      "code": "ru"
+    },
+    {
+      "description": "Stalker の従者がドロップしたエンブレム。",
+      "name": "アコライトエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Odznaka Akolity Stalkera.",
+      "name": "Emblemat Akolity",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia obtida de um Acólito do Stalker.",
+      "name": "Emblema: Acólito",
+      "code": "pt"
+    },
+    {
+      "description": "一名 Stalker 的追隨者所掉落的徽章。",
+      "name": "追隨者徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตราที่ผู้ช่วยเหลือของ Stalker ดรอปทิ้งเอาไว้",
+      "name": "ตราสัญลักษณ์: Acolyte",
+      "code": "th"
+    },
+    {
+      "description": "Stalker'ın Acolyte'lerinden düşen bir işaret",
+      "name": "Acolyte Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Випущена прибічниками Сталкера відзнака.",
+      "name": "Відзнака «Прибічники Сталкера»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Brawler/AtlasDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-karst-helmet-e3a01e2909.png",
+  "name": "Atlas Karst Helmet",
+  "description": "Atlas Karst's signature helmet.",
+  "languages": [
+    {
+      "description": "Atlas Karsts bevorzugter Helm.",
+      "name": "Atlas-Helm: Karst",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique d'Atlas Karst.",
+      "name": "Casque Atlas Karst",
+      "code": "fr"
+    },
+    {
+      "description": "L'elmo distintivo di Atlas Karst.",
+      "name": "Elmo Atlas Karst",
+      "code": "it"
+    },
+    {
+      "description": "아틀라스 카르스트의 대표 헬멧입니다.",
+      "name": "아틀라스 카르스트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Atlas Karst.",
+      "name": "Casco Karst de Atlas",
+      "code": "es"
+    },
+    {
+      "description": "Atlas 岩溶的标志性头盔。",
+      "name": "Atlas 岩溶头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Атласа «Карст».",
+      "name": "Шлем Атласа: Карст",
+      "code": "ru"
+    },
+    {
+      "description": "Atlas Karstを象徴するヘルメット。",
+      "name": "Atlas Karst ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczny hełm Atlas Karst.",
+      "name": "Atlas: Hełm Karst",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Atlas Karst.",
+      "name": "Atlas: Capacete Karst",
+      "code": "pt"
+    },
+    {
+      "description": "Atlas 岩溶的標誌性頭盔。",
+      "name": "Atlas 岩溶頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Atlas Karst",
+      "name": "หมวกเหล็ก Atlas Karst",
+      "code": "th"
+    },
+    {
+      "description": "Atlas Karst'ın özel miğferi.",
+      "name": "Atlas Karst Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Карст» для Атласа.",
+      "name": "Шолом «Карст» для Атласа",
+      "code": "uk"
+    }
+  ]
+}

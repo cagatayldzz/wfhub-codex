@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/AnimationSets/AdultOperatorAgileAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/drifter-agile-animation-set-bf6643b3cc.png",
+  "name": "Drifter Agile Animation Set",
+  "description": "The Agile Animation Set for Drifter.",
+  "languages": [
+    {
+      "description": "Das agile Animationsset für den Drifter.",
+      "name": "Drifter-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "L'Animation Agile du Voyageur.",
+      "name": "Animation Voyageur Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Agile per Drifter.",
+      "name": "Set Animazione Agile Drifter",
+      "code": "it"
+    },
+    {
+      "description": "드리프터의 민첩한 동작을 담은 애니메이션 세트입니다.",
+      "name": "드리프터 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones ágiles para el Viajero.",
+      "name": "Conjunto de animaciones ágiles del Viajero",
+      "code": "es"
+    },
+    {
+      "description": "漂泊者的迅捷站姿。",
+      "name": "漂泊者迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Проворный набор анимаций для Скитальца.",
+      "name": "Набор анимаций Скитальца: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "漂流者用のアジャイルモーションセット。",
+      "name": "漂流者アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw zwinnych animacji dla Włóczęgi.",
+      "name": "Animacje Włóczęgi: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Animações ágeis para o Peregrino.",
+      "name": "Animações: Peregrino (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "漂泊者的迅捷站姿。",
+      "name": "漂泊者迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชันที่มีการเคลื่อนไหวอย่างคล่องแคล่วสำหรับดริฟเตอร์",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของดริฟเตอร์",
+      "code": "th"
+    },
+    {
+      "description": "Gezgin için Agile Animasyon Seti.",
+      "name": "Gezgin Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір жвавої анімації для мандрівника.",
+      "name": "Мандрівник: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

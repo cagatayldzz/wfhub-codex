@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrawlerBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-glyph---bright-3412491d7c.png",
+  "name": "Atlas Glyph - Bright",
+  "description": "A glyph depicting Atlas on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Atlas vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Atlas (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Atlas sur un fond lumineux.",
+      "name": "Glyphe Atlas - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Atlas su uno sfondo chiaro",
+      "name": "Glifo Atlas - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 아틀라스를 묘사한 글리프입니다.",
+      "name": "아틀라스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Atlas sobre un fondo brillante.",
+      "name": "Glifo de Atlas - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Atlas 在明亮背景下的浮印。",
+      "name": "Atlas 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Атласа на светлом фоне.",
+      "name": "Глиф: Атлас — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたAtlas のグリフ。",
+      "name": "Atlas グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Atlas na jasnym tle.",
+      "name": "Glif Atlas — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Atlas em um fundo claro.",
+      "name": "Glifo: Atlas (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Atlas 在明亮背景下的浮印。",
+      "name": "Atlas 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Atlas บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Atlas - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Atlas açık fonlu glif.",
+      "name": "Atlas Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Атласа на світлому тлі.",
+      "name": "Яскравий гліф «Атлас»",
+      "code": "uk"
+    }
+  ]
+}

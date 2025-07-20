@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nistlepod-d533e543eb.png",
+  "name": "Nistlepod",
+  "description": "Used by the Nistlebrush to trap and kill prey.\n\nLocation: Plains of Eidolon on Earth",
+  "languages": [
+    {
+      "description": "Vom Nistlebusch dazu genutzt, Beute zu fangen und zu töten.\n\nQuelle: Ebenen von Eidolon auf der Erde",
+      "name": "Nistlekapsel",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé par le buisson de chardon pour piéger et tuer ses proies.\n\nLieu: Plaines d'Eidolon, sur Terre",
+      "name": "Tégument de Chardon",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzati dai Nistlebrush per intrappolare ed uccidere le prede.\n\nPosizione: Piane di Eidolon (Terra)",
+      "name": "Nistlepod",
+      "code": "it"
+    },
+    {
+      "description": "니스틀브러쉬가 먹잇감을 함정에 빠뜨려 죽이는 데 사용합니다.\n\n획득 가능 장소: 지구 내 아이돌론의 평원",
+      "name": "니스틀팟",
+      "code": "ko"
+    },
+    {
+      "description": "Usado por el matojo nistle para atrapar y matar presas.\n\nUbicación: Llanuras de Eidolon en la Tierra",
+      "name": "Vaina de Nistle",
+      "code": "es"
+    },
+    {
+      "description": "尼蒐丛用它来困住并杀死猎物。\n\n获取地点：夜灵平野（地球）",
+      "name": "尼蒐荚",
+      "code": "zh"
+    },
+    {
+      "description": "Используется Нистлбрашем для поимки и убийства жертв.\n\nМеста нахождения: Равнины Эйдолона (Земля)",
+      "name": "Нистлпод",
+      "code": "ru"
+    },
+    {
+      "description": "ニスルブラシが獲物を捕らえて殺すために使われている。\n\n場所：エイドロンの草原（地球）",
+      "name": "ニスルポッド",
+      "code": "ja"
+    },
+    {
+      "description": "Wykorzystywane przez Cierniokrzew do chwytania i zabijania ofiar.\n\nPołożenie: Równiny Eidolon, Ziemia",
+      "name": "Cierniostrąk",
+      "code": "pl"
+    },
+    {
+      "description": "Usado pelo Nistlebrush para capturar e matar presas.\n\nLocalização: Planícies de Eidolon, na Terra.",
+      "name": "Nistlepod",
+      "code": "pt"
+    },
+    {
+      "description": "尼搜叢以此困住並殺死獵物。\n\n地點：夜靈平野（地球）",
+      "name": "尼搜莢",
+      "code": "tc"
+    },
+    {
+      "description": "Nistlebrush ใช้เพื่อดักจับและฆ่าเหยื่อ\n\nแหล่งที่พบ: ที่ราบ Eidolon บนโลก",
+      "name": "นิสเซิลพอด",
+      "code": "th"
+    },
+    {
+      "description": "Avını yakalayıp öldürmesi için Nistlebrush tarafından kullanılan kapan.\n\nKonum: Eidolon Ovaları, Dünya",
+      "name": "Nistlepod",
+      "code": "tr"
+    },
+    {
+      "description": "Кущ ністл використовує ці стебла, щоби вбивати своїх жертв.\n\nМожна здобути на Рівнинах Ейдолонів (Земля).",
+      "name": "Шип ністл",
+      "code": "uk"
+    }
+  ]
+}

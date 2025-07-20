@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/ClemTennobaumDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dashing-through-the-vallis-display-59c1cf9b20.png",
+  "name": "Dashing Through The Vallis Display",
+  "description": "A festive display of Clem and Popcorn. Art created by Ritens.",
+  "languages": [
+    {
+      "description": "Eine festliche Darstellung von Clem und Popcorn. Kunstwerk geschaffen von Ritens.",
+      "name": "Display: Mit dem Schlitten durchs Orbis-Tal",
+      "code": "de"
+    },
+    {
+      "description": "Une affiche festive de Clem et Popcorn créée par Ritens.",
+      "name": "Vive le vent Grineer",
+      "code": "fr"
+    },
+    {
+      "description": "Un display festivo di Clem e Popcorn. Arte creata da Ritens.",
+      "name": "Display - Scatto Attraverso Vallis",
+      "code": "it"
+    },
+    {
+      "description": "클렘과 팝콘이 그려진 축제 분위기 디스플레이입니다. Ritens의 작품입니다.",
+      "name": "협곡 사이의 쾌속질주 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Una exhibición festiva de Clem y Popcorn. Arte creado por Ritens.",
+      "name": "Exhibidor de Travesía por los Valles",
+      "code": "es"
+    },
+    {
+      "description": "Clem 和小米花的节庆展示图。由 Ritens 创作的艺术作品。",
+      "name": "「冲越山谷」展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Праздничный дисплей Клема и Попкорна. Автор: Ritens.",
+      "name": "Дисплей «Мчась через долину»",
+      "code": "ru"
+    },
+    {
+      "description": "ClemとPopcornの祝祭用ディスプレイ。作画：Ritens",
+      "name": "「Dashing Through the Vallis」ディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Świąteczny Wyświetlacz Clema i Popcorna. Sztuka stworzona przez Ritensa.",
+      "name": "Wyświetlacz: Pędząc przez Vallis",
+      "code": "pl"
+    },
+    {
+      "description": "Um exibidor festivo do Clem e da Pipoca, desenvolvido por Ritens.",
+      "name": "Exibidor de Travessia pelo Vallis",
+      "code": "pt"
+    },
+    {
+      "description": "Clem 和 Popcorn 的節慶展示圖。藝術由 Ritens 創作。",
+      "name": "衝過山谷展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพฉลองเทศกาลของ Clem และ Popcorn ศิลปะที่สร้างสรรค์โดย Ritens",
+      "name": "ภาพดิสเพลย์ - Dashing Through the Vallis",
+      "code": "th"
+    },
+    {
+      "description": "Clem ve Popcorn'un festival sergisi. Ritens tarafından dizayn edilmiş bir eser.",
+      "name": "Vallis'teki Gezi Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Святковий дисплей із зображенням Клема з Попкорном, створений Ritens.",
+      "name": "Дисплей «Прориваючись Долиною»",
+      "code": "uk"
+    }
+  ]
+}

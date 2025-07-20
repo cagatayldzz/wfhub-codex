@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-prime-glyph---bright-e6f1c665f5.png",
+  "name": "Gara Prime Glyph - Bright",
+  "description": "A glyph depicting Gara Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Gara Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Gara Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Gara Prime sur un fond lumineux.",
+      "name": "Glyphe Gara Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Gara Prime su uno sfondo chiaro.",
+      "name": "Glifo Gara Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 가라 프라임을 묘사한 글리프입니다.",
+      "name": "가라 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Gara Prime sobre un fondo brillante.",
+      "name": "Glifo de Gara Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Gara Prime 在明亮背景下的浮印。",
+      "name": "Gara Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гары Прайм на светлом фоне.",
+      "name": "Глиф: Гара Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたGara Prime のグリフ。",
+      "name": "Gara Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Gara Prime na jasnym tle.",
+      "name": "Glif Gara Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Gara Prime em um fundo claro.",
+      "name": "Glifo: Gara Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Gara Prime 在明亮背景下的浮印。",
+      "name": "Gara Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Gara Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Gara Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Gara Prime'ı tasvir eden açık fonlu bir glif.",
+      "name": "Gara Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ґари-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Ґара-прайм»",
+      "code": "uk"
+    }
+  ]
+}

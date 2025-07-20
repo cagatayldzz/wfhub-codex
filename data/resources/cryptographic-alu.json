@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cryptographic-alu-b3e2e232ba.png",
+  "name": "Cryptographic Alu",
+  "description": "Excess circuitry disposed of during the Razorback manufacturing process, these components only appear in the vicinity of high level outer-orbit Corpus facilities after a Razorback Armada has been launched.\n\nLocation: Corpus Archwing units on Jupiter and Neptune when a Razorback Armada is active",
+  "languages": [
+    {
+      "description": "Überschüssige Schaltkreise, die während des Razorback Herstellungsprozesses entsorgt werden. Diese Komponenten tauchen nur in der Umgebung von hochrangigen, außerorbitalen Corpus Einrichtungen auf, nachdem eine Razorback Armada gestartet wurde.\n \nQuelle: Diese Ressource kann von Corpus Archwing Einheiten auf Jupiter und Neptun hinterlassen werden, wenn die Razorback Armada aktiv ist.",
+      "name": "Kryptographisches Alu",
+      "code": "de"
+    },
+    {
+      "description": "Circuit en excès jeté lors du processus de manufacture du Razorback, ces composants n'apparaissent qu'à proximité d'installations Corpus extra-orbitales de haut niveau après qu'une Armada Razorback a été lancée.\n\nLieu: Unités Archwings Corpus sur Jupiter et Neptune quand une Armada Razorback est active",
+      "name": "Ual Cryptographique",
+      "code": "fr"
+    },
+    {
+      "description": "Circuiti in eccesso rimossi durante il processo di produzione del Razorback, questi componenti possono essere trovati solo nei pressi di stabilimenti Corpus di alto livello fuori orbita, dopo che un'Armata Razorback è stata lanciata.\n\nPosizione: Unità Archwing Corpus su Giove e Nettuno quando un'Armata Razorback è attiva",
+      "name": "Alu Crittografica",
+      "code": "it"
+    },
+    {
+      "description": "레이저백의 제작 과정에서 과잉생산된 잉여 회로로, 이 부품들은 외궤도의 고위 코퍼스 시설에서 레이저백 함대가 출발한 뒤 인근에서만 발견됩니다. \n\n획득 가능 장소: 레이저백 함대가 활성화된 상태에서 목성과 해왕성의 코퍼스 아크윙 유닛들로부터 드롭",
+      "name": "크립토그래픽 Alu",
+      "code": "ko"
+    },
+    {
+      "description": "Exceso de circuitería desechada durante el proceso de manufacturación de un Razorback, componentes que sólo aparecen cerca de las instalaciones corpus de alto nivel fuera de órbita después del lanzamiento de una Armada Razorback.\n\nUbicación: Unidades archwing corpus en Júpiter y Neptuno cuando una Armada Razorback está activa",
+      "name": "Alu Criptográfica",
+      "code": "es"
+    },
+    {
+      "description": "制造利刃豺狼过程中的多余回路。在利刃豺狼舰队上阵后，这些组件只会出现在高等的 Corpus 外环设施之中。\n\n获取地点：利刃豺狼舰队活动期间木星和海王星上的 Corpus 曲翼单位",
+      "name": "暗号算术逻辑单元",
+      "code": "zh"
+    },
+    {
+      "description": "Излишки схем, выступающие побочным продуктом, получаемым при производстве Секачей; эти компоненты могут быть найдены только в пределах находящихся на внешних орбитах высокоуровневых заводов Корпуса после запуска Армады Секачей.\n\nМестонахождение: бойцы арчвинга Корпуса на Юпитере и Нептуне, когда активна Армада Секачей.",
+      "name": "Криптографическое Алу",
+      "code": "ru"
+    },
+    {
+      "description": "Razorbackの製造時の副産物である余剰電子回路。これらの素材はRazorbackが製作される高レベルのコーパス惑星の大気圏のみで入手可能。\n\n場所：Razorback Armadaイベント中の木星か海王星のコーパスアークウイングミッション",
+      "name": "暗号記号： Alu",
+      "code": "ja"
+    },
+    {
+      "description": "Nadmierna ilość podzespołów odrzuconych podczas procesu tworzenia Razorbacka, te komponenty pojawiają się tylko w pobliżu wysoko zaawansowanych, znajdujących się na zewnętrznej orbicie fabryk Corpusu po wyruszeniu Armady Razorback.\n\nPołożenie: Może wypaść z wrogich jenostek na misjach Archwing przeciwko Corpus na Jowiszu i Neptunie, gdy jest aktywna Armada Razorback",
+      "name": "Kryptograficzne ALU",
+      "code": "pl"
+    },
+    {
+      "description": "Circuitos excessivos descartados durante o processo de fabricação do Razorback. Estes componentes só aparecerão nas redondezas de instalações orbitais Corpus, e apenas após o lançamento da Armada Razorback.\n\nLocalização: inimigos Corpus de Archwing, em Júpiter e Netuno, mas apenas quando a Armada Razorback estiver ativa.",
+      "name": "Ula Criptográfica",
+      "code": "pt"
+    },
+    {
+      "description": "製造利刃豺狼過程中的多餘回路。在利刃豺狼艦隊上陣後，這些元件只會出現在高等的 Corpus 外環設施之中。\n\n地點：利刃豺狼艦隊活躍時，木星及海王星上的 Corpus Archwing 單位。",
+      "name": "暗號算術邏輯單元",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นวงจรส่วนเกินที่ทิ้งไปในระหว่างกระบวนการผลิต Razorback ซึ่งจะเจอส่วนประกอบเหล่านี้ได้เฉพาะในบริเวณใกล้ ๆ โรงงาน Corpus ที่วงโคจรรอบนอกระดับสูงหลังจากที่มีการปล่อย Razorback Armada แล้วเท่านั้น\n\nแหล่งที่พบ: หน่วย Corpus Archwing บนดาวพฤหัสบดีและดาวเนปจูน เมื่อ Razorback Armada ทำงาน",
+      "name": "คริปโตกราฟิก Alu",
+      "code": "th"
+    },
+    {
+      "description": "Razorback üretim aşamasındaki üretim fazlası olan bu parçalar Razorback Armada piyasaya sürüldüğünden beri sadece yüksek seviyelerdeki Corpus tesislerinde görülüyor.\n\nKonum: Razorback Armada aktifken Jüpiter ve Neptün'deki Corpus Archwing birimleri",
+      "name": "Cryptographic Alu",
+      "code": "tr"
+    },
+    {
+      "description": "Під час виробництва ікланів зайві мікросхеми утилізуються. \n\nМожна здобути з представників Корпусу на завданнях для арквінґа на Юпітері та Нептуні після запуску армади ікланів.",
+      "name": "Криптографічний АЛП",
+      "code": "uk"
+    }
+  ]
+}

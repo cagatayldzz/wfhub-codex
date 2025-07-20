@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stinger-ee12cc66f0.png",
+  "name": "Stinger",
+  "description": "Standard issue weapon for Djinn Sentinel. Fires <DT_POISON_COLOR>Toxin projectiles that embed into enemies and continuously deal damage for 3 seconds.",
+  "languages": [
+    {
+      "description": "Standardwaffe für den Djinn Wächter. Feuert <DT_POISON_COLOR>Gift-Projektile, die sich in Feinde einbetten und 3 s lang Schaden verursachen.",
+      "name": "Stinger",
+      "code": "de"
+    },
+    {
+      "description": "Arme standard pour la Sentinelle Djinn. Tire des projectiles chargés de <DT_POISON_COLOR>Poison qui pénètrent les ennemis et infligent des Dégâts continus pendant 3s.",
+      "name": "Stinger",
+      "code": "fr"
+    },
+    {
+      "description": "Arma d'ordinanza per la Sentinella Djinn. Spara proiettili <DT_POISON_COLOR>Tossici che si conficcano nei nemici e infliggono danni continui per 3 secondi.",
+      "name": "Stinger",
+      "code": "it"
+    },
+    {
+      "description": "진 센티넬의 기본 무기입니다. 적에게 박혀 3초 동안 지속적인 <DT_POISON_COLOR>독성 피해를 입히는 투사체를 발사합니다.",
+      "name": "스팅어",
+      "code": "ko"
+    },
+    {
+      "description": "Arma estándar del centinela Djinn. Dispara <DT_POISON_COLOR>proyectiles de toxina que se incrustan en los enemigos y causan daño de forma continua durante 3 segundos.",
+      "name": "Aguijón",
+      "code": "es"
+    },
+    {
+      "description": "（英文：STINGER）引灵守护的标准武器。发射 <DT_POISON_COLOR>毒素投射物，嵌入敌人体内并持续造成伤害，持续 3 秒。",
+      "name": "毒刺",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартное оружие для стража Джинн. Выстреливает снарядами с <DT_POISON_COLOR>токсином, которые вонзаются во врагов и наносят непрерывный урон в течение 3 секунд.",
+      "name": "Жало",
+      "code": "ru"
+    },
+    {
+      "description": "Djinnセンチネルの標準装備武器。 <DT_POISON_COLOR> 毒素弾を射出し、撃ち込んだ敵に3秒間継続的にダメージを与える。",
+      "name": "Stinger",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe uzbrojenie Strażnika Djinn. Używa <DT_POISON_COLOR>Toksycznych pocisków, które wbijają się we wrogów i zadają im obrażenia przez 3 sekundy.",
+      "name": "Stinger",
+      "code": "pl"
+    },
+    {
+      "description": "A arma padrão da Sentinela Djinn. Disparará projéteis de Dano <DT_POISON_COLOR>Tóxico, que se agarrarão nos inimigos e causarão dano continuamente por 3s.",
+      "name": "Stinger",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：STINGER）引靈守護的標準武器，開火射出<DT_POISON_COLOR>毒素投射物，嵌入敵人體內並持續造成傷害，持續 3 秒。",
+      "name": "毒刺",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมาตรฐานสำหรับเซนติเนล Djinn ซึ่งจะยิงกระสุน <DT_POISON_COLOR>พิษที่จะฝังเข้าไปในตัวศัตรูและสร้างความเสียหายอย่างต่อเนื่องเป็นเวลา 3 วินาที",
+      "name": "Stinger",
+      "code": "th"
+    },
+    {
+      "description": "Djinn Sentineli için varsayılan silah. Düşmanlara yerleşen ve 3 saniye boyunca sürekli hasar veren <DT_POISON_COLOR>Toksin mermileri atar.",
+      "name": "Stinger",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартна зброя вартового Джина. Стріляє <DT_POISON_COLOR>токсичними дротиками, які впиваються у ворогів і продовжують завдавати шкоди впродовж 3 секунд.",
+      "name": "Жало",
+      "code": "uk"
+    }
+  ]
+}

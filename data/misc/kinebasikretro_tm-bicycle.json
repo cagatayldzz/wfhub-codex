@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinebasikretro_tm-bicycle-9336433612.png",
+  "name": "Kinebasik<Retro_tm> Bicycle",
+  "description": "For all your KineBasik<RETRO_TM> bicycling needs!",
+  "languages": [
+    {
+      "description": "Für alle deine KineBasik<RETRO_TM>-Fahrradbedürfnisse!",
+      "name": "KineBasik<RETRO_TM>: Fahrrad",
+      "code": "de"
+    },
+    {
+      "description": "Pour tous vos besoins KineBasik<RETRO_TM>!",
+      "name": "Vélo KineBasik<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Per tutte le tue esigenze ciclistiche, da KineBasik<RETRO_TM>!",
+      "name": "Bicicletta KineBasik<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네베이직<RETRO_TM> 자전거로 필요한 모든 것을 챙기세요!",
+      "name": "키네베이직<RETRO_TM> 자전거",
+      "code": "ko"
+    },
+    {
+      "description": "¡Para todas tus necesidades de ciclismo KineBasik<RETRO_TM> !",
+      "name": "Bicicleta KineBasik<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "满足你的所有即时用<RETRO_TM>自行车的需求！",
+      "name": "即时用<RETRO_TM>自行车",
+      "code": "zh"
+    },
+    {
+      "description": "Для всех ваших велопотребностей с «КинеБэйсик»<RETRO_TM>!",
+      "name": "Велосипед «КинеБэйсик»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネベーシック<RETRO_TM> な乗り心地を提供！",
+      "name": "キネベーシック<RETRO_TM> 自転車",
+      "code": "ja"
+    },
+    {
+      "description": "Wszystko, czego potrzebujesz do swojego roweru KineBasik<RETRO_TM>!",
+      "name": "KineBasik<RETRO_TM>: Rower",
+      "code": "pl"
+    },
+    {
+      "description": "Para todas as suas necessidades de ciclismo da KineBasik<RETRO_TM>!",
+      "name": "Bicicleta KineBasik<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "滿足你一切開需<RETRO_TM>腳踏車需求！",
+      "name": "開需<RETRO_TM>腳踏車",
+      "code": "tc"
+    },
+    {
+      "description": "จักรยาน KineBasik<RETRO_TM> ที่ช่วยให้คุณปั่นจักรยานได้ตามต้องการ",
+      "name": "จักรยาน KineBasik<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Tüm KineBasik<RETRO_TM> bisiklet ihtiyaçlarınız için!",
+      "name": "KineBasik<RETRO_TM> Bisiklet",
+      "code": "tr"
+    },
+    {
+      "description": "Для будь-яких ваших велосипедних потреб!",
+      "name": "Ровер «Кінебейзік»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

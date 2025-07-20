@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akbronco-2345401e0c.png",
+  "name": "Akbronco",
+  "description": "A Bronco equipped in each hand.",
+  "languages": [
+    {
+      "description": "Eine Bronco in jeder Hand.",
+      "name": "Akbronco",
+      "code": "de"
+    },
+    {
+      "description": "Un Bronco équipé dans chaque main.",
+      "name": "Akbronco",
+      "code": "fr"
+    },
+    {
+      "description": "Una Bronco in ciascuna mano.",
+      "name": "Akbronco",
+      "code": "it"
+    },
+    {
+      "description": "양손에 들 수 있는 한 쌍의 브롱코입니다.",
+      "name": "아크브롱코",
+      "code": "ko"
+    },
+    {
+      "description": "Una Bronco equipada en cada mano.",
+      "name": "Akbronco",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKBRONCO）双手各持一把野马。",
+      "name": "野马双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Бронко в каждой руке.",
+      "name": "Акбронко",
+      "code": "ru"
+    },
+    {
+      "description": "「BRONCO」ピストルを両手に装備する。二倍の装弾数と連射力を誇るが、その分リロード時間と銃の精度が低下する。",
+      "name": "Akbronco",
+      "code": "ja"
+    },
+    {
+      "description": "Pistolety Bronco w każdej ręce.",
+      "name": "Akbronco",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Bronco equipada em cada mão.",
+      "name": "Akbronco",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AKBRONCO）雙手各持一把野馬。",
+      "name": "野馬雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "Bronco ที่ถือเอาไว้ในมือแต่ละข้าง",
+      "name": "Akbronco",
+      "code": "th"
+    },
+    {
+      "description": "Her iki elde bir Bronco.",
+      "name": "Akbronco",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія пістолетів-гармат «Бронко».",
+      "name": "Акбронко",
+      "code": "uk"
+    }
+  ]
+}

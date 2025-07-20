@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbOneMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sinking-talon-b57fa64ca7.jpg",
+  "name": "Sinking Talon",
+  "description": "Strong, focused attacks with multi-hit spins.",
+  "languages": [
+    {
+      "description": [
+        "Starke, fokussierte Angriffe mit Multi-Treffer-Drehungen."
+      ],
+      "name": "Sinkende Klaue",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Puissantes attaques concentrées avec des rotations multi-coups."
+      ],
+      "name": "Serres Acérées",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Attacchi potenti e mirati con colpi multipli rotanti."
+      ],
+      "name": "Sinking Talon",
+      "code": "it"
+    },
+    {
+      "description": [
+        "여러번의 회전으로 강하고 집중된 공격을 가하는 공격입니다."
+      ],
+      "name": "싱킹 탈론",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Ataques fuertes y concentrados con múltiples impactos giratorios."
+      ],
+      "name": "Garra penetrante",
+      "code": "es"
+    },
+    {
+      "description": [
+        "强劲，多段命中的旋转集中攻击。"
+      ],
+      "name": "沉没之爪",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Сильные, сконцентрированные атаки с широкими взмахами."
+      ],
+      "name": "Впивающийся коготь",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "高威力の集中攻撃と多段ヒットの回転斬り"
+      ],
+      "name": "Sinking Talon",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Szybkie, skupione ataki z obrotami zadającymi wiele trafień."
+      ],
+      "name": "Zatapiający Szpon",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ataques fortes e precisos com vários ataques giratórios."
+      ],
+      "name": "Sinking Talon",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "強勁，多段命中的旋轉集中攻擊。"
+      ],
+      "name": "沉沒之爪",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เน้นโจมตีที่ทรงพลังด้วยการหมุนโจมตีหลายครั้ง"
+      ],
+      "name": "Sinking Talon",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Çoklu hasar veren dönüşlerle, güçlü ve etkili saldırılar"
+      ],
+      "name": "Sinking Talon",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Сильні спрямовані атаки із широкими обертами."
+      ],
+      "name": "Занурювальний кіготь",
+      "code": "uk"
+    }
+  ]
+}

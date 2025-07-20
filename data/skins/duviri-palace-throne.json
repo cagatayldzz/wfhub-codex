@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/DominitiusThraxThrone",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-palace-throne-bd11ae1ca8.png",
+  "name": "Duviri Palace Throne",
+  "description": "A throne inspired by descriptions of the king's palace in Tales of Duviri.",
+  "languages": [
+    {
+      "description": "Ein Thron, inspiriert von den Beschreibungen des Königspalastes in den 'Geschichten aus Duviri'.",
+      "name": "Palast Thron",
+      "code": "de"
+    },
+    {
+      "description": "Un trône inspiré par les descriptions du Palais Royal tel que décrit dans les Contes de Duviri.",
+      "name": "Trône Royal",
+      "code": "fr"
+    },
+    {
+      "description": "Un trono ispirato alle descrizioni del palazzo del re in Leggende di Duviri.",
+      "name": "Palazzo Duviri - Trono",
+      "code": "it"
+    },
+    {
+      "description": "두비리 이야기 동화책에서 묘사된 궁전을 모티브로 한 왕좌입니다.",
+      "name": "두비리 궁전 왕좌",
+      "code": "ko"
+    },
+    {
+      "description": "Un trono inspirado en las descripciones del palacio del rey en los 'Cuentos de Duviri'.",
+      "name": "Trono del palacio de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "一个王座，灵感来自《双衍王境故事集》中对王宫的描述。",
+      "name": "双衍王宫王座",
+      "code": "zh"
+    },
+    {
+      "description": "Трон, вдохновлённый описаниями королевского дворца в «Сказках о Дувири».",
+      "name": "Дувири: Дворцовый трон",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリの伝説で登場する、王宮の玉座。",
+      "name": "デュヴィリ宮殿玉座",
+      "code": "ja"
+    },
+    {
+      "description": "Tron inspirowany opisami pałacu króla w Opowieściach z Duviri.",
+      "name": "Duviri: Tron pałacowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um trono inspirado nas descrições do Palácio do Rei nos Contos de Duviri.",
+      "name": "Trono do Palácio de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "一個寶座，靈感來自《渡域故事集》中描寫的皇宮。",
+      "name": "渡域皇宮寶座",
+      "code": "tc"
+    },
+    {
+      "description": "พระที่นั่งที่ได้รับแรงบันดาลใจจากการพรรณนาเกี่ยวกับพระราชวังของราชาในนิทานของ Duviri",
+      "name": "Duviri: พระที่นั่งในพระราชวัง",
+      "code": "th"
+    },
+    {
+      "description": "Duviri Masalları'nda anlatılan kralın sarayından ilham alan bir taht.",
+      "name": "Duviri Saray Tahtı",
+      "code": "tr"
+    },
+    {
+      "description": "Трон, як в описах королівського палацу в «Дувірських казках».",
+      "name": "Дувірський палацовий трон",
+      "code": "uk"
+    }
+  ]
+}

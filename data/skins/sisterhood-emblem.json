@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusLichBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sisterhood-emblem-7620c769e3.png",
+  "name": "Sisterhood Emblem",
+  "description": "An Emblem to honor the Sisters of Parvos.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das die Schwestern von Parvos ehrt.",
+      "name": "Emblem: Schwesternschaft",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge pour honorer les Sœurs de Parvos.",
+      "name": "Badge de la Sororité",
+      "code": "fr"
+    },
+    {
+      "description": "Un Emblema per onorare le Sorelle di Parvos.",
+      "name": "Emblema Sorellanza",
+      "code": "it"
+    },
+    {
+      "description": "파보스의 자매들을 기리기 위한 엠블럼입니다.",
+      "name": "시스터후드 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema para honrar a las Hermanas de Parvos.",
+      "name": "Emblema de la Hermandad",
+      "code": "es"
+    },
+    {
+      "description": "一枚纪念帕尔沃斯的姐妹们的徽章。",
+      "name": "姐妹团徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок в честь сестер Парвоса.",
+      "name": "Значок: Сестричество",
+      "code": "ru"
+    },
+    {
+      "description": "Parvosシスターたちを称えるエンブレム。",
+      "name": "Sisterhood エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat honorujący Siostry Parvosa.",
+      "name": "Emblemat: Siostrzeństwo",
+      "code": "pl"
+    },
+    {
+      "description": "Um Emblema em homenagem às Irmãs de Parvos.",
+      "name": "Emblema: Irmandade",
+      "code": "pt"
+    },
+    {
+      "description": "一枚榮耀 Parvos 的姊妹的徽章。",
+      "name": "姊妹團徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์เพื่อเป็นเกียรติแก่เหล่าน้องสาวของ Parvos",
+      "name": "ตราสัญลักษณ์: Sisterhood",
+      "code": "th"
+    },
+    {
+      "description": "Parvos'un Kız Kardeşlerini onurlandıran bir Amblem.",
+      "name": "Kız Kardeşlik Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Емблема на знак пошани Сестрам Парва.",
+      "name": "Відзнака «Сестринство»",
+      "code": "uk"
+    }
+  ]
+}

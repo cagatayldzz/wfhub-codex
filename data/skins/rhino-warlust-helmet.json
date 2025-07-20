@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Rhino/SWWarlustHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rhino-warlust-helmet-70d2015546.png",
+  "name": "Rhino Warlust Helmet",
+  "description": "A helmet for the Rhino Warframe, designed by Stenchfury.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Rhino Warframe, entworfen von Stenchfury.",
+      "name": "Rhino-Helm: Warlust",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Rhino, conçu par Stenchfury.",
+      "name": "Casque Rhino Warlust",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Rhino, ideato da Stenchfury.",
+      "name": "Elmo Rhino Warlust",
+      "code": "it"
+    },
+    {
+      "description": "Stenchfury에 의해 디자인된 라이노 워프레임을 위한 헬멧입니다.",
+      "name": "라이노 워러스트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Rhino, diseñado por Stenchfury.",
+      "name": "Casco Warlust de Rhino",
+      "code": "es"
+    },
+    {
+      "description": "Rhino 战甲的头盔，由 Stenchfury 设计。",
+      "name": "Rhino 海象头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Рино, созданный Stenchfury.",
+      "name": "Шлем Рино: Жажда Боя",
+      "code": "ru"
+    },
+    {
+      "description": "Rhino用のヘルメット。製作者：Stenchfury。",
+      "name": "Rhino Warlust ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Rhino, zaprojektowany przez Stenchfury.",
+      "name": "Rhino: Hełm Warlust",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Rhino, desenvolvido por Stenchfury.",
+      "name": "Rhino: Capacete Warlust",
+      "code": "pt"
+    },
+    {
+      "description": "Rhino Warframe 的頭盔，由 Stenchfury 設計。",
+      "name": "Rhino 海象頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Rhino Warframe ออกแบบโดย Stenchfury",
+      "name": "หมวกเหล็ก Rhino Warlust",
+      "code": "th"
+    },
+    {
+      "description": "Rhino Warframe'i için Stenchfury tarafından dizayn edilen bir miğfer.",
+      "name": "Rhino Warlust Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Райно, створений Stenchfury.",
+      "name": "Шолом «Жага бою» для Райно",
+      "code": "uk"
+    }
+  ]
+}

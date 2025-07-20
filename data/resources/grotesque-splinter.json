@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventOctopedeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grotesque-splinter-56cbe01749.png",
+  "name": "Grotesque Splinter",
+  "description": "A foreboding fragment of the vast Indifference.\n\nLocation: Effervo (Deimos) during Operation Gargoyle's Cry",
+  "languages": [
+    {
+      "description": "Ein unheilvolles Fragment der gewaltigen Gleichgültigkeit.\n\nQuelle: Effervo (Deimos) während der Operation: Schrei des Gargoyles",
+      "name": "Grotesker Splitter",
+      "code": "de"
+    },
+    {
+      "description": "Un fragment inquiétant de la vaste Indifférence.\n\nLieu: Effervo (Deimos) pendant l'Opération: Cri de la Gargouille",
+      "name": "Éclat Grotesque",
+      "code": "fr"
+    },
+    {
+      "description": "Una scheggia inquietante della vasta Indifferenza.\n\nPosizione: Effervo (Deimos) durante l'Operazione Gargoyle's Cry",
+      "name": "Scheggia Grottesca",
+      "code": "it"
+    },
+    {
+      "description": "방대한 무심에게서 나온 불길한 예감의 조각입니다.\n\n획득 가능 장소: 작전명 가고일의 외침 기간 동안 Effervo (데이모스)",
+      "name": "괴기의 파편",
+      "code": "ko"
+    },
+    {
+      "description": "Un fragmento premonitorio de la vasta Indiferencia.\n\nUbicación: Effervo (Deimos) durante la Operación Grito de Gárgola",
+      "name": "Astilla grotesca",
+      "code": "es"
+    },
+    {
+      "description": "巨大虚空无情之物的不祥碎片。\n\n地点：《合成兽像的悲鸣》行动期间的恶涌（火卫二）",
+      "name": "怪异碎片",
+      "code": "zh"
+    },
+    {
+      "description": "Зловещий фрагмент великого Безразличия.\n\nМестонахождение: Effervo (Деймос) во время операции «Плач горгульи».",
+      "name": "Гротескный осколок",
+      "code": "ru"
+    },
+    {
+      "description": "果てしない無関心の不気味な裂片。\n\n場所：Effervo（ダイモス）（ガーゴイルの叫び作戦イベント限定）",
+      "name": "異様な裂片",
+      "code": "ja"
+    },
+    {
+      "description": "Złowieszczy fragment nieskończonej Obojętności.\n\nLokacja: Effervo (Deimos) podczas Operacji: Krzyk Gargulca",
+      "name": "Groteskowy Odłamek",
+      "code": "pl"
+    },
+    {
+      "description": "Um fragmento grotesco da vasta Indiferença.\n\nLocalização: Effervo (Deimos) durante a Operação Clamor da Gárgula",
+      "name": "Farpa Disforme",
+      "code": "pt"
+    },
+    {
+      "description": "浩瀚漠然的惡兆碎片。\n\n地點：《嵌合長嘯》行動期間於誒沸禍（火衛二）",
+      "name": "怪刺",
+      "code": "tc"
+    },
+    {
+      "description": "ชิ้นส่วนที่เป็นลางร้ายของความเฉยเมยขนาดยักษ์\n\nแหล่งที่พบ: Effervo (เดมอส) ระหว่างทำภารกิจปฏิบัติการ Gargoyle's Cry",
+      "name": "เศษเสี้ยนวิปลาส",
+      "code": "th"
+    },
+    {
+      "description": "Büyük Kayıtsızlığın habercisi olan bir parça.\n\nYer: Gargoyle'un Feryadı Operasyonu sırasında Effervo (Deimos)",
+      "name": "Grotesk Parça",
+      "code": "tr"
+    },
+    {
+      "description": "Лиховісний шматок безмежної Байдужості.\n\nМожна здобути в Ефферво на Деймосі під час операції «Плач ґарґуйля».",
+      "name": "Гротескний уламок",
+      "code": "uk"
+    }
+  ]
+}

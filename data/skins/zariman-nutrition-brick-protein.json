@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenFoodRationA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-nutrition-brick-(protein)-c21ce66d71.png",
+  "name": "Zariman Nutrition Brick (Protein)",
+  "description": "A brick of nutritious protein. ",
+  "languages": [
+    {
+      "description": "Ein Riegel aus nahrhaftem Protein. ",
+      "name": "Zariman Nährstoffriegel (Protein)",
+      "code": "de"
+    },
+    {
+      "description": "Une brique de protéines nutritives. ",
+      "name": "Zariman: Brique nutritionnelle (protéines)",
+      "code": "fr"
+    },
+    {
+      "description": "Una mattonella nutrizionale di proteine. ",
+      "name": "Mattonella Nutrizionale Zariman (Proteine)",
+      "code": "it"
+    },
+    {
+      "description": "영양가 있는 단백질 바입니다. ",
+      "name": "자리만 영양 큐브 (단백질)",
+      "code": "ko"
+    },
+    {
+      "description": "Una barra de proteína nutritiva. ",
+      "name": "Bloque nutricional Zariman (proteína)",
+      "code": "es"
+    },
+    {
+      "description": "一个营养丰富的蛋白质块。 ",
+      "name": "扎里曼营养块（蛋白质）",
+      "code": "zh"
+    },
+    {
+      "description": "Блок с высоким содержанием питательного белка. ",
+      "name": "Зариман: Питательный батончик (протеин)",
+      "code": "ru"
+    },
+    {
+      "description": "栄養価の高いプロテインの塊。",
+      "name": "Zariman 栄養ブロック（プロテイン）",
+      "code": "ja"
+    },
+    {
+      "description": "Blok pełnowartościowego białka. ",
+      "name": "Zariman: Baton odżywczy (białko)",
+      "code": "pl"
+    },
+    {
+      "description": "Um bloco nutritivo de proteína. ",
+      "name": "Bloco Nutricional da Zariman (Proteína)",
+      "code": "pt"
+    },
+    {
+      "description": "一磚營養蛋白質。",
+      "name": "扎日曼營養磚（蛋白質）",
+      "code": "tc"
+    },
+    {
+      "description": "แท่งโปรตีนที่อุดมด้วยสารอาหาร ",
+      "name": "Zariman: นิวทริชันบริก (โปรตีน)",
+      "code": "th"
+    },
+    {
+      "description": "Bir kalıp besleyici protein. ",
+      "name": "Zariman Besin Kalıbı (Protein)",
+      "code": "tr"
+    },
+    {
+      "description": "Харчовий батончик із поживними білками.",
+      "name": "Харчовий батончик (білковий)",
+      "code": "uk"
+    }
+  ]
+}

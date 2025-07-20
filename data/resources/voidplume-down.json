@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagCommon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-down-4d8441d961.png",
+  "name": "Voidplume Down",
+  "description": "Barbed and half-real, shed by a Void Angel.\n\nLocation: Zariman",
+  "languages": [
+    {
+      "description": "Stachelig und halb echt, von einem Void-Engel abgeworfen.\n\nQuelle: Zariman",
+      "name": "Void-Feder: Daune",
+      "code": "de"
+    },
+    {
+      "description": "Pointu et à moitié réel, perdu par un Ange du Néant.\n\nLieu: Zariman",
+      "name": "Plume du Néant - Duvet",
+      "code": "fr"
+    },
+    {
+      "description": "Affilata e mezza reale, persa da un Angelo del Void.\n\nPosizione: Zariman",
+      "name": "Voidplume - Timoniera",
+      "code": "it"
+    },
+    {
+      "description": "보이드 천사에게서 떨어져 나온, 미늘로 덮인 모양새로 현실에 반쯤 걸쳐진 깃털입니다.\n\n획득 가능 장소: 자리만",
+      "name": "보이드 깃털 - 솜깃",
+      "code": "ko"
+    },
+    {
+      "description": "Afiladas y medio reales, soltadas por un Ángel del Vacío.\n\nUbicación: Zariman",
+      "name": "Cálamo de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "带刺且半真实，从一位虚空天使脱落。\n\n获取地点：扎里曼号",
+      "name": "虚空绒翎",
+      "code": "zh"
+    },
+    {
+      "description": "Колючий и полуэфемерный, сброшенный ангелом Бездны.\n\nМестонахождение: «Зариман»",
+      "name": "Перо Бездны: Пух",
+      "code": "ru"
+    },
+    {
+      "description": "Voidの天使から抜け落ちた刺々しく半実体のもの。\n\n場所：Zariman",
+      "name": "ヴォイドプルーム ダウン",
+      "code": "ja"
+    },
+    {
+      "description": "Kolczaste i na wpół prawdziwe, upuszczone przez Anioła Pustki.\n\nPołożenie: Zariman",
+      "name": "Pióro Pustki: Puch",
+      "code": "pl"
+    },
+    {
+      "description": "Farpado e coexistente entre realidades, deixado por um Anjo do Void.\n\nLocalização: Zariman",
+      "name": "Penacho de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "帶小鉤且半真實，由虛空天使脫落。\n\n地點：扎日曼號",
+      "name": "虛空絨羽",
+      "code": "tc"
+    },
+    {
+      "description": "มีหนามแหลมคมและกึ่งจริง หลุดมาจากเทวทูตแห่งวอยด์\n\nแหล่งที่พบ: Zariman",
+      "name": "Voidplume Down",
+      "code": "th"
+    },
+    {
+      "description": "Bir Void Meleği tarafından kaybedilen dikenli ve yarı gerçek.\n\nKonum: Zariman",
+      "name": "Void Tüyü Perçemi",
+      "code": "tr"
+    },
+    {
+      "description": "Шипасте й напівсправжнє, скинуте янголом Порожнечі.\n\nМожна знайти на «Заримені».",
+      "name": "Підпір’я пера Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

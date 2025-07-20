@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Melee/DualIchorIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-ichor-incarnon-genesis-88ae97cf2c.png",
+  "name": "Dual Ichor Incarnon Genesis",
+  "description": "Awaken this weapon's ability to create a <DT_POISON_COLOR>Toxin Damage field after a kill in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form nach einem Kill ein Feld mit <DT_POISON_COLOR>Giftschaden zu erzeugen.",
+      "name": "Incarnon-Genesis: Dual-Ichor",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à créer un champ infligeant des Dégâts de <DT_POISON_COLOR>Poison après une élimination sous Forme Incarnon.",
+      "name": "Doubles Ichors Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di creare un campo di Danno <DT_POISON_COLOR>Tossina dopo un'uccisione nella Forma Incarnon.",
+      "name": "Dual Ichor Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 처치 시 <DT_POISON_COLOR>독성 피해 범위를 생성하는 능력이 추가됩니다.",
+      "name": "듀얼 이코르 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para crear un campo de daño de <DT_POISON_COLOR>toxina después de una eliminación en su forma Incarnon.",
+      "name": "Ichor Dobles Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有击杀产生 <DT_POISON_COLOR>毒素伤害力场的能力。",
+      "name": "恶脓双斧灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия создавать поле <DT_POISON_COLOR>токсического урона после убийства в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Парные Ихоры",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォーム中はキル時に<DT_POISON_COLOR>毒ダメージフィールドを展開する。",
+      "name": "Dual Ichor インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która po zabiciu tworzy obszary zadające <DT_POISON_COLOR> Obr. Toksyczne.",
+      "name": "Geneza Inkarnon: Ichor Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de criar um campo de Dano <DT_POISON_COLOR>Tóxico após uma eliminação com o Aspecto Encarnado.",
+      "name": "Encarnação Gênese das Ichors Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下擊殺敵人後創造<DT_POISON_COLOR>毒素傷害區域。",
+      "name": "惡膿雙斧應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่หลังจากฆ่าศัตรูเมื่ออยู่ในรูป Incarnon Form แล้วจะทำให้พื้นที่เกิดรอยความเสียหาย <DT_POISON_COLOR>พิษ",
+      "name": "Dual Ichor Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde her bir düşman öldürüldüğü zaman <DT_POISON_COLOR>Toksin Hasarı veren bir bulut oluşturma özelliğini uyandır.",
+      "name": "Dual Ichor Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, щоби створювати поле <DT_POISON_COLOR>токсичної шкоди після вбивства ворога.",
+      "name": "Інкарнонський генезис: Парні Іхори",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnSharbola/GrnSharbolaWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/slaytra-10d5c4cc28.png",
+  "name": "Slaytra",
+  "description": "The Slaytra is a powerful reiteration of the traditional Grineer Machete that doubles the duration of <DT_SLASH_COLOR>Slash Status Effects.",
+  "languages": [
+    {
+      "description": "Die Slaytra ist eine Neuerfindung der traditionellen Grineer Machete, die die Dauer von <DT_SLASH_COLOR>Schnitt-Statuseffekten verdoppelt.",
+      "name": "Slaytra",
+      "code": "de"
+    },
+    {
+      "description": "Le Slaytra est une réitération puissante de la Machette Grineer traditionnelle qui double la durée des Effets de Statut <DT_SLASH_COLOR>Tranchants.",
+      "name": "Slaytra",
+      "code": "fr"
+    },
+    {
+      "description": "Lo Slaytra è una potente reiterazione del tradizionale Machete Grineer che raddoppia la durata dell'Effetto <DT_SLASH_COLOR>Taglio.",
+      "name": "Slaytra",
+      "code": "it"
+    },
+    {
+      "description": "슬레이트라는 전통적인 그리니어 마체테를 강력하게 재탄생시킨 무기로, <DT_SLASH_COLOR>베기 상태 이상의 지속 시간을 두 배로 적용시킵니다.",
+      "name": "슬레이트라",
+      "code": "ko"
+    },
+    {
+      "description": "El Slaytra es una poderosa reinvención del tradicional Machete grineer que duplica la duración del efecto de estado <DT_SLASH_COLOR>cortante.",
+      "name": "Slaytra",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SLAYTRA）屠煞是对传统 Grineer 砍刀的强大重现，它可以使 <DT_SLASH_COLOR>切割伤害的出血持续时间加倍。",
+      "name": "屠煞",
+      "code": "zh"
+    },
+    {
+      "description": "Слайтра — это мощное повторение традиционного мачете Гринир, но с удвоенной продолжительностью кровотечения от <DT_SLASH_COLOR>разрезающего урона.",
+      "name": "Слайтра",
+      "code": "ru"
+    },
+    {
+      "description": "Slaytraは従来のグリニア製マチェットを改良させ出来た武器であり、<DT_SLASH_COLOR>切断状態異常時間が倍になる。",
+      "name": "Slaytra",
+      "code": "ja"
+    },
+    {
+      "description": "Slaytra jest potężnym następcą tradycyjnej Maczety Grineer, która podwaja Efekt Statusu <DT_SLASH_COLOR> Obr. Tnących.",
+      "name": "Slaytra",
+      "code": "pl"
+    },
+    {
+      "description": "A Slaytra é uma poderosa reinvenção da Machete Grineer tradicional, mas que oferece o dobro de duração do Efeito de Status <DT_SLASH_COLOR>Cortante.",
+      "name": "Slaytra",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SLAYTRA）慘殺是傳統 Grineer 馬謝特的強大重現， <DT_SLASH_COLOR>切割觸發狀態效果的持續時間加倍。",
+      "name": "慘殺",
+      "code": "tc"
+    },
+    {
+      "description": "Slaytra เป็นอาวุธที่ตอกย้ำให้เห็นถึงพลังมีดแมเชเทของ Grineer แบบดั้งเดิมที่จะขยายระยะเวลาเอฟเฟกต์สถานะ <DT_SLASH_COLOR>เฉือนฟันเป็นสองเท่า",
+      "name": "Slaytra",
+      "code": "th"
+    },
+    {
+      "description": "Slaytra, <DT_SLASH_COLOR>Kesme Statü Etkileri süresini iki katına çıkaran geleneksel Grineer Palasının yenilenmiş güçlü bir türüdür.",
+      "name": "Slaytra",
+      "code": "tr"
+    },
+    {
+      "description": "Потужне відтворення традиційного ґрінерського мачете, що має подвоєну тривалість дії <DT_SLASH_COLOR>різального ефекту стану.",
+      "name": "Слейтра",
+      "code": "uk"
+    }
+  ]
+}

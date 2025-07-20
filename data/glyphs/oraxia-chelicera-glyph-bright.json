@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-chelicera-glyph---bright-7c50417002.png",
+  "name": "Oraxia Chelicera Glyph - Bright",
+  "description": "A glyph depicting Oraxia Chelicera on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Oraxia Chelicera vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Oraxia Chelicera (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Oraxia Chelicera sur fond lumineux.",
+      "name": "Glyphe Oraxia Chelicera - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Oraxia Chelicera su uno sfondo chiaro.",
+      "name": "Glifo Oraxia Chelicera - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 오락시아 첼리세라를 묘사한 글리프입니다.",
+      "name": "오락시아 첼리세라 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Oraxia Chelicera sobre un fondo brillante.",
+      "name": "Glifo de Oraxia Chelicera - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Oraxia 螯肢在明亮背景下的浮印。",
+      "name": "Oraxia 螯肢浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ораксии Хелицера на светлом фоне.",
+      "name": "Глиф: Ораксия Хелицера - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたOraxia Cheliceraのグリフ。",
+      "name": "Oraxia Chelicera グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Oraxia Chelicera na jasnym tle.",
+      "name": "Glif Oraxia Chelicera — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Oraxia Chelicera em um fundo claro.",
+      "name": "Glifo: Oraxia Chelicera (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Oraxia 顱螯在明亮背景下的浮印。",
+      "name": "Oraxia 顱螯浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia Chelicera บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Oraxia Chelicera - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Oraxia Chelicera açık fonlu glif.",
+      "name": "Oraxia Chelicera Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ораксії в шоломі «Хеліцера» на світлому тлі.",
+      "name": "Яскравий гліф «Ораксія Хеліцера»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/KuvaTonkor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-tonkor-9ae9d48224.png",
+  "name": "Kuva Tonkor",
+  "description": "This Lich-variant grenade launcher hurls mayhem and destruction with an increased Reload Speed.",
+  "languages": [
+    {
+      "description": "Diese Lich-Variante des Granatwerfers verschießt Chaos und Zerstörung mit erhöhter Nachladegeschwindigkeit.",
+      "name": "Kuva Tonkor",
+      "code": "de"
+    },
+    {
+      "description": "Cette variante Liche du lance-grenades sème la destruction et le carnage grâce à une meilleure Vitesse de Rechargement.",
+      "name": "Tonkor Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Questa variante Lich del lanciagranate crea caos e distruzione grazie a una Velocità di Ricarica aumentata.",
+      "name": "Kuva Tonkor",
+      "code": "it"
+    },
+    {
+      "description": "이 증가된 장전 속도를 가진 개량형 리치 유탄 발사기와 함께 혼란과 파괴를 퍼부으세요.",
+      "name": "쿠바 톤코어",
+      "code": "ko"
+    },
+    {
+      "description": "Esta variante Lich del lanzagranadas expulsa caos y destrucción desde un cargador aumentado.",
+      "name": "Tonkor Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA TONKOR）这种榴弹发射器玄骸变体拥有更快的装填速度，可以对敌人猛烈射出暴乱与破坏。",
+      "name": "赤毒·征服榴炮",
+      "code": "zh"
+    },
+    {
+      "description": "Эта версия гранатомета Лича обрушивает хаос и разрушение благодаря увеличенной скорости перезарядки.",
+      "name": "Тонкор Кува",
+      "code": "ru"
+    },
+    {
+      "description": "リロード速度が増加したこのリッチ専用グレネードランチャーは騒乱と破壊を引き起こす。",
+      "name": "Kuva Tonkor",
+      "code": "ja"
+    },
+    {
+      "description": "Ta wyrzutnia granatów w wariancie Licza rzuca chaos i zniszczenie ze zwiększoną Prędkością Przeładowania.",
+      "name": "Tonkor Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Este lança-granadas Lich dispara destruição e caos através de sua Velocidade de Recarga elevada.",
+      "name": "Tonkor Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA TONKOR）這把巫妖變體的榴彈發射器有著更快的重新裝填速度，可對敵人製造更甚的混亂和破壞力。",
+      "name": "赤毒 征服榴炮",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องยิงลูกระเบิดของ Lich ที่ดัดแปลงแล้วรุ่นนี้จะสร้างความโกลาหลและทำลายล้างศัตรู สามารถรีโหลดกระสุนได้เร็วขึ้น",
+      "name": "Kuva Tonkor",
+      "code": "th"
+    },
+    {
+      "description": "Bu Lich-varyantlı bomba atar, arttırılmış Doldurma Hızı ile kargaşa ve yıkım saçıyor.",
+      "name": "Kuva Tonkor",
+      "code": "tr"
+    },
+    {
+      "description": "Кувова модифікація гранатомета, що швидше перезаряджається. Іще смертельніша, іще дієвіша.",
+      "name": "Тонкор-кува",
+      "code": "uk"
+    }
+  ]
+}

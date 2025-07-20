@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plastids-dabf813edd.png",
+  "name": "Plastids",
+  "description": "A disgusting nanite-infested tissue mass.\n\nLocation: Phobos, Saturn, Uranus, Pluto, and Eris",
+  "languages": [
+    {
+      "description": "Eine ekelhafte, von Naniten befallene Gewebemasse.\n\nQuelle: Phobos, Saturn, Uranus, Pluto und Eris.",
+      "name": "Plastide",
+      "code": "de"
+    },
+    {
+      "description": "Un amas de chair dégoûtant et infesté de nanites.\n\nLieu: Phobos, Saturne, Uranus, Pluton et Éris",
+      "name": "Plastides",
+      "code": "fr"
+    },
+    {
+      "description": "Una massa disgustosa di tessuto infestato da nanite.\n\nPosizione: Phobos, Saturno, Urano, Plutone e Eris",
+      "name": "Plastidi",
+      "code": "it"
+    },
+    {
+      "description": "역겨운 감염된 조직 덩어리가 포함된 나노 기기입니다.\n\n획득 가능 장소: 포보스, 토성, 천왕성, 명왕성 및 에리스",
+      "name": "플라스티드",
+      "code": "ko"
+    },
+    {
+      "description": "Una repugnante masa de tejido de nanites infestado.\n\nUbicación: Fobos, Saturno, Urano, Plutón y Eris",
+      "name": "Plástidos",
+      "code": "es"
+    },
+    {
+      "description": "布满纳米机器人的恶心组织肿块。\n\n获取地点：火卫一，土星，天王星，冥王星和阋神星",
+      "name": "生物质",
+      "code": "zh"
+    },
+    {
+      "description": "Отвратительные, заражённые нанитами ткани.\n\nМестонахождение: Фобос, Сатурн, Уран, Плутон, Эрида",
+      "name": "Пластиды",
+      "code": "ru"
+    },
+    {
+      "description": "ナノレベルで感染した組織の不気味な塊。\n\n場所：フォボス、土星、天王星、冥王星、エリス。",
+      "name": "プラスチド",
+      "code": "ja"
+    },
+    {
+      "description": "Obrzydliwe tkanki Plagi wypełnione nanitami.\n\nPołożenie: Fobos, Saturn, Uran, Pluton i Eris",
+      "name": "Plastydy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma massa repugnante de tecido composto de nano-infestação.\n\nLocalização: Fobos, Saturno, Urano, Plutão e Eris.",
+      "name": "Plastídeos",
+      "code": "pt"
+    },
+    {
+      "description": "佈滿奈米機器人的噁心組織腫塊。\n\n地點：火衛一、土星、天王星、冥王星和鬩神星",
+      "name": "生物質",
+      "code": "tc"
+    },
+    {
+      "description": "มวลเนื้อเยื่อที่ติดเชื้อของนาไนต์ที่น่าขยะแขยง\n\nแหล่งที่พบ: ดาวโฟบอส ดาวเสาร์ ดาวยูเรนัส ดาวพลูโต และดาวอีรีส",
+      "name": "พลาสทิดส์",
+      "code": "th"
+    },
+    {
+      "description": "Nanit-infested ile kaplanmış iğrenç bir kütle.\n\nKonum: Phobos, Satürn, Uranüs, Plüton ve Eris",
+      "name": "Plastid",
+      "code": "tr"
+    },
+    {
+      "description": "Огидна, заражена нанітами біологічна тканина.\n\nМожна здобути на Фобосі, Сатурні, Урані, Плутоні та Ериді.",
+      "name": "Пластиди",
+      "code": "uk"
+    }
+  ]
+}

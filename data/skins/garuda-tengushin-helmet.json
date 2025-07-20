@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-tengushin-helmet-b8797b4cc6.png",
+  "name": "Garuda Tengushin Helmet",
+  "description": "A helmet for the Garuda Warframe, designed by Lubox.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Garuda Warframe, erstellt von Lubox.",
+      "name": "Garuda-Helm: Tengushin",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Garuda, conçu par Lubox.",
+      "name": "Casque Garuda Tengushin",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Garuda, ideato da Lubox.",
+      "name": "Elmo Garuda Tengushin",
+      "code": "it"
+    },
+    {
+      "description": "Lubox에 의해 디자인된 가루다 워프레임을 위한 헬멧입니다.",
+      "name": "가루다 텐구신 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Garuda, creado por Lubox.",
+      "name": "Casco Tengushin de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "Garuda 战甲的头盔，由 Lubox 设计。",
+      "name": "Garuda 天狗神头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Гаруда, созданный Lubox.",
+      "name": "Шлем Гаруды: Тэнгушин",
+      "code": "ru"
+    },
+    {
+      "description": "Garuda用のヘルメット。製作者：Lubox。",
+      "name": "Garuda Tengushin ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Garuda, zaprojektowany przez Lubox.",
+      "name": "Garuda: Hełm Tengushin",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Garuda, desenvolvido por Lubox.",
+      "name": "Garuda: Capacete Tengushin",
+      "code": "pt"
+    },
+    {
+      "description": "Garuda Warframe 的頭盔，由 Lubox 所設計。",
+      "name": "Garuda 天狗神頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Garuda Warframe ออกแบบโดย Lubox",
+      "name": "หมวกเหล็ก Garuda Tengushin",
+      "code": "th"
+    },
+    {
+      "description": "Lubox tarafından tasarlanmış bir Garuda Warframe miğferi.",
+      "name": "Garuda Tengushin Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ґаруди, створений Lubox.",
+      "name": "Шолом «Тенґушін» для Ґаруди",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tellurium-9236306b55.png",
+  "name": "Tellurium",
+  "description": "This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.\n\nLocation: Archwing Missions on Uranus",
+  "languages": [
+    {
+      "description": "Dieses seltene Metall ist im Ursprungssystem fremd und kann nur auf Asteroiden gefunden werden, die die lange Reise von anderen Sternen hinter sich haben.\n\nQuelle: Archwing-Missionen auf Uranus.",
+      "name": "Tellurium",
+      "code": "de"
+    },
+    {
+      "description": "Ce métal rare est étranger au Système Origine et ne peut être trouvé que dans des astéroïdes ayant fait un long voyage depuis d'autres étoiles.\n\nLieu: Missions Archwing sur Uranus",
+      "name": "Tellure",
+      "code": "fr"
+    },
+    {
+      "description": "Questo raro metallo è estraneo al Sistema Origin e può essere trovato solamente negli asteroidi che hanno compiuto il lungo viaggio da altre stelle.\n\nPosizione: Missioni Archwing, Railjack e Sottomarine su Urano",
+      "name": "Tellurio",
+      "code": "it"
+    },
+    {
+      "description": "이 희귀한 금속은 근원계에서는 찾아볼 수 없는 물질로, 오직 다른 항성계로부터 머나먼 길을 거쳐 온 소행성체에서만 발견됩니다.\n\n획득 가능 장소: 천왕성의 아크윙 미션",
+      "name": "텔루륨",
+      "code": "ko"
+    },
+    {
+      "description": "Este raro metal es ajeno al Sistema Origen y solamente puede encontrarse en asteroides que hayan realizado un largo viaje desde otras estrellas.\n\nUbicación: Misiones de Archwing en Urano",
+      "name": "Telurio",
+      "code": "es"
+    },
+    {
+      "description": "这种罕见的金属来自始源星系之外，只能从来自其他恒星的小行星上获得。\n\n获取地点：天王星上的曲翼任务",
+      "name": "碲",
+      "code": "zh"
+    },
+    {
+      "description": "Этот редкий металл чужд Изначальной системе и может быть найден только на астероидах, прилетевших с других звёзд.\n\nМестонахождение: миссии арчвинга на Уране.",
+      "name": "Теллуриум",
+      "code": "ru"
+    },
+    {
+      "description": "このレアメタルは Origin太陽系のものとは性質が異なり、他の星系から長時間かけて飛来した小惑星からはがれて落ちたものと思われる。\n\n場所：天王星のアークウイングミッション。",
+      "name": "テルル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten rzadki metal pochodzi spoza Systemu Origin i występuje tylko w asteroidach, które przybyły z odległych gwiazd.\n\nPołożenie: Misje Archwing na Uranie",
+      "name": "Tellur",
+      "code": "pl"
+    },
+    {
+      "description": "Este metal raro não pertence ao Sistema de Origem, mas pode ser encontrado em asteroides que fizeram sua longa jornada por outras estrelas.\n\nLocalização: Missões da Archwing, em Urano.",
+      "name": "Telúrio",
+      "code": "pt"
+    },
+    {
+      "description": "這種罕見的金屬來自始源星系之外，只能從來自其他恆星的小行星上獲得。\n\n地點：天王星上的 Archwing 任務",
+      "name": "碲",
+      "code": "tc"
+    },
+    {
+      "description": "โลหะที่หายากชิ้นนี้เป็นสิ่งแปลกปลอมในระบบออริจินและสามารถพบได้เฉพาะในดาวเคราะห์ที่อยู่ห่างจากดาวดวงอื่นเท่านั้น\n\nแหล่งที่พบ: ภารกิจ Archwing บนดาวยูเรนัส",
+      "name": "เทลลูเรียม",
+      "code": "th"
+    },
+    {
+      "description": "Bu nadir metal Origin sistemine özeldir ve sadece yıldızlar arası uzun seyahatler yapmış asteroidlerde bulunur.\n\nKonum: Uranüs'deki Archwing Görevleri",
+      "name": "Tellurium",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісний метал, чужорідний для Материнської системи. Його можна знайти на астероїдах, що подолали чималий шлях від інших зірок.\n\nМожна здобути на завданнях з арквінґом на Урані.",
+      "name": "Телурій",
+      "code": "uk"
+    }
+  ]
+}

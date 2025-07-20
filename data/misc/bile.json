@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/InfestedFoundry/HelminthBile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bile-f8bf1b6b2c.png",
+  "name": "Bile",
+  "description": "Helminth is able to digest all manner of miscellaneous substances, but generates a large surplus of bile in order to do so. Fortunately, this bile can be repurposed.",
+  "languages": [
+    {
+      "description": "Helminth ist in der Lage, die unterschiedlichsten Substanzen zu verdauen, erzeugt dabei aber einen großen Überschuss an Galle. Glücklicherweise kann diese Galle wiederverwendet werden.",
+      "name": "Galle",
+      "code": "de"
+    },
+    {
+      "description": "Le Helminth est capable de digérer toutes sortes de substances, mais il génère un important surplus de bile pour y parvenir. Heureusement, cette bile peut être réutilisée.",
+      "name": "Bile",
+      "code": "fr"
+    },
+    {
+      "description": "L'Helminth è in grado di digerire qualsiasi sostanza, ma per farlo genera un'eccedenza di bile. Fortunatamente, questa bile può essere riutilizzata.",
+      "name": "Bile",
+      "code": "it"
+    },
+    {
+      "description": "헬민스는 모든 종류의 잡다한 물질을 소화할 수 있지만, 그렇게 하기 위해 과도한 양의 담즙을 생성합니다. 다행히도 이 담즙은 다른 용도에 쓰일 수 있습니다.",
+      "name": "담즙",
+      "code": "ko"
+    },
+    {
+      "description": "El Helminto es capaz de digerir todo tipo de sustancias, pero genera un gran excedente de bilis para hacerlo. Afortunadamente, esa bilis se puede reutilizar.",
+      "name": "Bilis",
+      "code": "es"
+    },
+    {
+      "description": "Helminth 可以消化各种杂物，但会因此而产生过量的消化液。幸运的是，这些消化液可以再次被利用。",
+      "name": "胆液块",
+      "code": "zh"
+    },
+    {
+      "description": "Гельминт может переваривать всевозможные субстанции, но для этого ему приходится вырабатывать значительный избыток желчи. К счастью, эту желчь можно использовать и для других целей.",
+      "name": "Желчь",
+      "code": "ru"
+    },
+    {
+      "description": "Helminthはあらゆる種類の雑多な物質を消化するための胆汁を大量に生成する。運良く、この胆汁は他の用途にも使うことができる。",
+      "name": "胆汁",
+      "code": "ja"
+    },
+    {
+      "description": "Helminth jest w stanie strawić różnorodne substancje, ale wytwarza przy tym dużą ilość żółci. Na szczęście tę żółć można wykorzystać.",
+      "name": "Żółć",
+      "code": "pl"
+    },
+    {
+      "description": "O Helminte é capaz de digerir praticamente todos os tipos de substâncias existentes, porém acaba gerando uma grande quantia de bile no processo. Felizmente, esta bile pode ser reaproveitada.",
+      "name": "Bile",
+      "code": "pt"
+    },
+    {
+      "description": "Helminth 能消化各式各樣的雜物，但會因此產生大量過剩的膽汁。不過幸運的是，這些膽汁具有重新利用的價值。",
+      "name": "膽汁液",
+      "code": "tc"
+    },
+    {
+      "description": "Helminth สามารถย่อยสารเบ็ดเตล็ดได้ทุกชนิด แต่จะผลิตน้ำดีส่วนเกินจำนวนมาก โชคดีที่น้ำดีนี้สามารถถูกนำกลับมาใช้ใหม่ได้",
+      "name": "น้ำดี",
+      "code": "th"
+    },
+    {
+      "description": "Helmint her türlü muhtelif maddeyi sindirebilir, ancak bunu yapmak için büyük miktarda safra üretmesi gerekir. Neyse ki bu safra başka amaçlarda kullanılabilir.",
+      "name": "Safra",
+      "code": "tr"
+    },
+    {
+      "description": "Гельмінт здатний перетравлювати різноманітні матеріали, виділяючи велику кількість жовчі. На щастя, її можна використати для інших цілей.",
+      "name": "Жовч",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlEyepatchA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aegrae-eye-guard-b956c784bf.png",
+  "name": "Aegrae Eye-Guard",
+  "description": "Even one-eyed warriors will see clearly when they look through the lens of fortitude.",
+  "languages": [
+    {
+      "description": "Selbst einäugige Krieger werden klar sehen, wenn sie durch die Linse der Standhaftigkeit blicken.",
+      "name": "Augenschutz: Aegrae",
+      "code": "de"
+    },
+    {
+      "description": "Même les guerriers borgnes verront clairement quand ils regarderont à travers la lentille du courage.",
+      "name": "Protège-Œil Aegrae",
+      "code": "fr"
+    },
+    {
+      "description": "Anche i guerrieri con un occhio solo vedranno chiaramente attraverso la lente del coraggio.",
+      "name": "Occhiali di Sicurezza Aegrae",
+      "code": "it"
+    },
+    {
+      "description": "외눈의 전사들일지라도 이 불굴의 렌즈를 통해 들여다본다면 맑은 시야를 가질 수 있습니다.",
+      "name": "아이그라이 아이-가드",
+      "code": "ko"
+    },
+    {
+      "description": "Hasta un guerrero tuerto verá claramente cuando mire a través de la lente de la fortaleza.",
+      "name": "Protector ocular Aegrae",
+      "code": "es"
+    },
+    {
+      "description": "即使是独眼战士，透过坚毅的镜片也能看得一清二楚。",
+      "name": "三巫护眼",
+      "code": "zh"
+    },
+    {
+      "description": "Даже одноглазые воины видят ясно, если взор этот сквозь призму силы духа.",
+      "name": "Защита для глаз: Агрэ",
+      "code": "ru"
+    },
+    {
+      "description": "不屈の精神のレンズを通せば、隻眼の戦士でもはっきりと見える。",
+      "name": "Aegrae アイガード ",
+      "code": "ja"
+    },
+    {
+      "description": "Nawet jednoocy wojownicy ujrzą wyraźny obraz, gdy spojrzą przez pryzmat hartu ducha.",
+      "name": "Osłona-Oka Aegrae",
+      "code": "pl"
+    },
+    {
+      "description": "Até mesmo os guerreiros com apenas um olho verão claramente ao olhar através das lentes da coragem.",
+      "name": "Protetor Ocular: Aegrae",
+      "code": "pt"
+    },
+    {
+      "description": "即便是獨眼戰士，透過堅毅的鏡片他們也可以看得一清二楚。",
+      "name": "艾雷護眼",
+      "code": "tc"
+    },
+    {
+      "description": "แม้แต่นักรบตาเดียวก็ยังมองเห็นได้อย่างชัดเจนเมื่อมองผ่านเลนส์แห่งความทรหด",
+      "name": "แผ่นป้องกันตา Aegrae",
+      "code": "th"
+    },
+    {
+      "description": "Tek gözlü savaşçılar bile metanetin merceğinden baktıklarında net bir şekilde göreceklerdir.",
+      "name": "Aegrae Göz Koruması",
+      "code": "tr"
+    },
+    {
+      "description": "Навіть одноокі воїни чітко бачать крізь лінзу стійкості.",
+      "name": "Захист ока «Еґре»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTrinityMeridianBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trinity-meridian-glyph---bright-462c4082c4.png",
+  "name": "Trinity Meridian Glyph - Bright",
+  "description": "A glyph depicting Trinity Meridian on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Trinity Meridian vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Trinity Meridian (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Trinity Meridian sur un fond lumineux.",
+      "name": "Glyphe Trinity Meridian - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Meridian Trinity su uno sfondo chiaro.",
+      "name": "Glifo Trinity Meridian - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 메리디안 트리니티를 묘사한 글리프입니다.",
+      "name": "트리니티 메리디안 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Meridian Trinity sobre un fondo brillante.",
+      "name": "Glifo de Trinity Meridian - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Trinity 经络在明亮背景下的浮印。",
+      "name": "Trinity 经络浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Тринити «Меридиан» на светлом фоне.",
+      "name": "Глиф: Тринити «Меридиан» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Meridian Trinity のグリフ。",
+      "name": "Trinity Meridian グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Trinity Meridian na jasnym tle.",
+      "name": "Glif Trinity Meridian — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Trinity Meridian em um fundo claro.",
+      "name": "Glifo: Trinity Meridian (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Trinity 經絡在明亮背景下的浮印。",
+      "name": "Trinity 經絡浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Trinity Meridian บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Trinity Meridian - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Trinity Meridian açık fonlu glif.",
+      "name": "Trinity Meridian Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Трініті в шоломі «Меридіан» на світлому тлі.",
+      "name": "Яскравий гліф «Трініті „Меридіан“»",
+      "code": "uk"
+    }
+  ]
+}

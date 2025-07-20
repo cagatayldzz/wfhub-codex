@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/copernics-13309f4ee6.png",
+  "name": "Copernics",
+  "description": "A cell of encapsulated Void energy.\n\nLocation: Lua",
+  "languages": [
+    {
+      "description": "Eine Zelle eingekapselter Void-Energie.\n\nQuelle: Lua",
+      "name": "Copernics",
+      "code": "de"
+    },
+    {
+      "description": "Une cellule d'énergie du Néant encapsulée.\n\nLieu: Lua",
+      "name": "Copernics",
+      "code": "fr"
+    },
+    {
+      "description": "Una capsula contenente energia del Void.\n\nPosizione: Luna",
+      "name": "Copernics",
+      "code": "it"
+    },
+    {
+      "description": "보이드 에너지를 캡슐화한 전지입니다.\n\n획득 가능 장소: 루아",
+      "name": "코페르닉",
+      "code": "ko"
+    },
+    {
+      "description": "Una célula de energía del Vacío encapsulada.\n\nUbicación: Lua",
+      "name": "Copérnicos",
+      "code": "es"
+    },
+    {
+      "description": "一个封装着虚空能量的单元。\n\n获取地点：月球",
+      "name": "哥白尼能量单元",
+      "code": "zh"
+    },
+    {
+      "description": "Ячейка, содержащая энергию Бездны.\n\nРасположение: Луа",
+      "name": "Коперники",
+      "code": "ru"
+    },
+    {
+      "description": "Voidエネルギーを包み込んだセル。\n\n場所：ルア",
+      "name": "コペルニクス",
+      "code": "ja"
+    },
+    {
+      "description": "Ogniwo skupionej energii Pustki.\n\nPołożenie: Lua",
+      "name": "Koperniki",
+      "code": "pl"
+    },
+    {
+      "description": "Uma célula com energia do Void encapsulada.\n\nLocalização: Lua",
+      "name": "Copérnicos",
+      "code": "pt"
+    },
+    {
+      "description": "一粒封裝著虛空能量的元粒。\n\n地點：月球",
+      "name": "哥白尼融合電池",
+      "code": "tc"
+    },
+    {
+      "description": "เซลล์ของพลังงานวอยด์ที่ถูกห่อหุ้มไว้\n\nแหล่งที่พบ: ดาวลูอา",
+      "name": "โคเปอร์นิกส์",
+      "code": "th"
+    },
+    {
+      "description": "Kapsüllü Void Enerjisi içeren bir hücre.\n\nLokasyon: Lua",
+      "name": "Copernics",
+      "code": "tr"
+    },
+    {
+      "description": "Акумулятор енергії Порожнечі.\n\nМожна здобути на Луа.",
+      "name": "Коперники",
+      "code": "uk"
+    }
+  ]
+}

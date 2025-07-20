@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageOraxiaBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-glyph---bright-158315d570.png",
+  "name": "Oraxia Glyph - Bright",
+  "description": "A glyph depicting Oraxia on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Oraxia vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Oraxia (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Oraxia sur fond lumineux.",
+      "name": "Glyphe Oraxia - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Oraxia su uno sfondo chiaro.",
+      "name": "Glifo Oraxia - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 오락시아를 묘사한 글리프입니다.",
+      "name": "오락시아 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Oraxia sobre un fondo brillante.",
+      "name": "Glifo de Oraxia - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Oraxia 在明亮背景下的浮印。",
+      "name": "Oraxia 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ораксии на светлом фоне.",
+      "name": "Глиф: Ораксия - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたOraxiaのグリフ。",
+      "name": "Oraxia グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Oraxia na jasnym tle.",
+      "name": "Glif Oraxia — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Oraxia em um fundo claro.",
+      "name": "Glifo: Oraxia (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Oraxia 在明亮背景下的浮印。",
+      "name": "Oraxia 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Oraxia บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Oraxia - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Oraxia açık fonlu glif.",
+      "name": "Oraxia Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ораксії на світлому тлі.",
+      "name": "Яскравий гліф «Ораксія»",
+      "code": "uk"
+    }
+  ]
+}

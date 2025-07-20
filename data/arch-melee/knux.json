@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/knux-939cea4c86.png",
+  "name": "Knux",
+  "description": "Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.",
+  "languages": [
+    {
+      "description": "Galliumlegierten Kampfhandschuhe für den Archwing-Nahkampf. Entworfen von dem berüchtigten Tyl Regor.",
+      "name": "<ARCHWING> Knux",
+      "code": "de"
+    },
+    {
+      "description": "Des gantelets en alliage de Gallium pour le combat en mêlée avec votre Archwing. Conçu par le renommé Tyl Regor.",
+      "name": "<ARCHWING> Knux",
+      "code": "fr"
+    },
+    {
+      "description": "Guanti Titanio-Gallium per combattimento Archwing a distanza ravvicinata. Progettati dal famigerato Tyl Regor.",
+      "name": "<ARCHWING> Knux",
+      "code": "it"
+    },
+    {
+      "description": "아크윙 근접전 시 사용되는 갈륨과 얼로이제 건틀렛으로, 그 유명한 틸 레거에 의해 설계된 무기입니다.",
+      "name": "<ARCHWING> 넉스",
+      "code": "ko"
+    },
+    {
+      "description": "Guantes de aleación de Galio para combates de corto alcance en archwing. Diseñado por el infame Tyl Regor.",
+      "name": "<ARCHWING> Knux",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KNUX）为曲翼近距离作战所制的镓合金动力拳套。由恶名昭彰的泰尔·雷工设计。",
+      "name": "<ARCHWING> 克纳克斯",
+      "code": "zh"
+    },
+    {
+      "description": "Рукавицы, сделанные из галлиевого сплава для ближнего боя арчвинга. Разработаны бесславным Тилом Регором.",
+      "name": "<ARCHWING> Накс",
+      "code": "ru"
+    },
+    {
+      "description": "アークウイング近接戦闘用のガリウム合金製ガントレット。悪名高いTyl Regor によって設計された。",
+      "name": "<ARCHWING> Knux",
+      "code": "ja"
+    },
+    {
+      "description": "Zmiażdż swoich wrogów Archwing'owymi Rękawicami bojowymi Knux, zaprojektowanymi przez haniebnego Tyl Regor'a.",
+      "name": "<ARCHWING> Knux",
+      "code": "pl"
+    },
+    {
+      "description": "Manoplas feitas em Gálio e Liga Metálica para combate em curta distância com Archwing. Projetada para o infame Tyl Regor.",
+      "name": "<ARCHWING> Knux",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KNUX）為 Archwing 近距離作戰所制的鎵合金動力拳套。由惡名昭彰的 Tyl Regor 設計。",
+      "name": "<ARCHWING> 克納克斯",
+      "code": "tc"
+    },
+    {
+      "description": "ถุงมือโลหะผสมแกลเลียมสำหรับการต่อสู้ Archwing ในระยะใกล้ ออกแบบโดย Tyl Regor ที่มีชื่ออื้อฉาว",
+      "name": "<ARCHWING> Knux",
+      "code": "th"
+    },
+    {
+      "description": "Tyl Regor.tarafından dizayn edilmiş bu Galyum alaşımlı bu eldivenler yakın mesafeli Archwing dövüşleri için idealdir.",
+      "name": "<ARCHWING> Knux",
+      "code": "tr"
+    },
+    {
+      "description": "Бойові рукавиці арквінґа з галієвого сплаву. Створені горезвісним Тило Реґором.",
+      "name": "<ARCHWING> Накс",
+      "code": "uk"
+    }
+  ]
+}

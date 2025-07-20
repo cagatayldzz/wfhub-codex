@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAMediumItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/eye-eye-19b0c4f50b.png",
+  "name": "Eye-Eye",
+  "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
+  "languages": [
+    {
+      "description": "Eine Überwachungsdrohne, die alle Aktivitäten, die das Wasser stören, beobachtet. Es kann in Teichen, die auf der Venus verteilt sind, gefunden werden.",
+      "name": "Aug-Aug",
+      "code": "de"
+    },
+    {
+      "description": "Un drone de surveillance qui supervise toute activité qui perturbe les eaux. Il peut être trouvé dans les étangs de Vénus.",
+      "name": "Eye-Eye",
+      "code": "fr"
+    },
+    {
+      "description": "Un drone di sorveglianza che monitora qualsiasi attività che disturba le acque. Lo si può trovare negli stagni di Venere.",
+      "name": "Eye-Eye",
+      "code": "it"
+    },
+    {
+      "description": "물을 어지럽히는 활동을 관찰하는 감시용 드론입니다. 금성의 연못에서 발견됩니다.",
+      "name": "아이-아이",
+      "code": "ko"
+    },
+    {
+      "description": "Un dron de vigilancia que monitoriza cualquier actividad que altera las aguas. Puede encontrarse en estanques alrededor de Venus.",
+      "name": "Ojo-ojo",
+      "code": "es"
+    },
+    {
+      "description": "一种侦查无人机，监视着水体中的任何扰动。可以在金星的池塘中找到。",
+      "name": "目—目",
+      "code": "zh"
+    },
+    {
+      "description": "Дрон-наблюдатель, докладывающий о любой необычной активности в водах. Можно найти в прудах Венеры.",
+      "name": "Глаз-глаз",
+      "code": "ru"
+    },
+    {
+      "description": "水をかき乱すようなアクティビティをモニターする監視ドローン。金星の池で見つかる。",
+      "name": "アイアイ",
+      "code": "ja"
+    },
+    {
+      "description": "Dron nadzorczy, który monitoruje wszelkie działania, które powodują zmącenie wód. Można go znaleźć w stawach wokół Wenus.",
+      "name": "Okularnik",
+      "code": "pl"
+    },
+    {
+      "description": "Um drone de vigilância que monitora as atividades que perturbam o meio marinho. Pode ser encontrado nas lagoas de Vênus.",
+      "name": "Eye-Eye",
+      "code": "pt"
+    },
+    {
+      "description": "一種偵查無人機，監視著水體中的任何擾動。可以在金星的池塘中找到。",
+      "name": "眼—眼",
+      "code": "tc"
+    },
+    {
+      "description": "โดรนสอดส่องดูแลกิจกรรมใดก็ตามที่รบกวนผืนน้ำ พบได้ในหนองน้ำบริเวณดาวศุกร์",
+      "name": "Eye-Eye",
+      "code": "th"
+    },
+    {
+      "description": "Suları bozan her çeşit aktiviteyi izleyen gözlem dronu. Bunlar Venüs'teki göletlerde bulunabilir.",
+      "name": "Eye-Eye",
+      "code": "tr"
+    },
+    {
+      "description": "Дрон спостереження за будь-якою діяльністю, що втручається в акваторію. Трапляється в ставках на Венері.",
+      "name": "Спостережник",
+      "code": "uk"
+    }
+  ]
+}

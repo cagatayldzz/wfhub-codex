@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Runner/SWGaussNitrolystHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gauss-nitrolyst-helmet-e551b31de9.png",
+  "name": "Gauss Nitrolyst Helmet",
+  "description": "A helmet for the Gauss Warframe, designed by Goosmo.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Helm für den Gauss Warframe, entworfen von Goosmo.",
+      "name": "Gauss-Helm: Nitrolyst",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Gauss, conçu par Goosmo.",
+      "name": "Casque Gauss Nitrolyst",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Gauss, ideato da Goosmo.",
+      "name": "Elmo Gauss Nitrolyst",
+      "code": "it"
+    },
+    {
+      "description": "Goosmo에 의해 디자인된 가우스 워프레임을 위한 헬멧입니다.",
+      "name": "가우스 나이트롤리스트 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Gauss, diseñado por Goosmo.",
+      "name": "Casco Nitrolyst de Gauss",
+      "code": "es"
+    },
+    {
+      "description": "Gauss 战甲的头盔，由 Goosmo 设计。",
+      "name": "Gauss 急速使头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Гаусс, созданный Goosmo.",
+      "name": "Шлем Гаусса: Нитролист",
+      "code": "ru"
+    },
+    {
+      "description": "Gauss用のヘルメット。製作者：Goosmo。",
+      "name": "Gauss Nitrolyst ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Gauss, zaprojektowany przez Goosmo.",
+      "name": "Gauss: Hełm Nitrolyst",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Gauss, desenvolvido por Goosmo.",
+      "name": "Gauss: Capacete Nitrolyst",
+      "code": "pt"
+    },
+    {
+      "description": "Gauss Warframe 的頭盔，由 Goosmo 設計。",
+      "name": "Gauss 飆疾使頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Gauss Warframe ออกแบบโดย Goosmo",
+      "name": "หมวกเหล็ก Gauss Nitrolyst",
+      "code": "th"
+    },
+    {
+      "description": "Goosmo tarafından dizayn edilen Gauss Warframe miğferi.",
+      "name": "Gauss Nitrolyst Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ґаусса, створений Goosmo.",
+      "name": "Шолом «Нітролист» для Ґаусса",
+      "code": "uk"
+    }
+  ]
+}

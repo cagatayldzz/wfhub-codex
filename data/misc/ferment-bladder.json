@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ferment-bladder-254a2b6986.png",
+  "name": "Ferment Bladder",
+  "description": "Many Deimos fish secrete reagents in a pouchlike organ, creating volatile gases that enable limited periods of levitation. \n\nSource: Cut from the following Cambion Drift fish via Daughter in the Necralisk (Deimos):\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+  "languages": [
+    {
+      "description": "Viele Fische auf Deimos scheiden Reagenzien in ein beutelartiges Organ aus, das flüchtige Gase erzeugt und kurze Schwebe-Phasen ermöglicht. \n\nQuelle: Tochter im Necralisk (Deimos) kann es aus den folgenden Fischen der Cambion-Drift entfernen:\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "Gärblase",
+      "code": "de"
+    },
+    {
+      "description": "De nombreux poissons de Deimos sécrètent des réactifs dans un organe en forme de poche, créant des gaz volatils qui permettent des périodes limitées de lévitation. \n\nSource: récupéré des poissons suivants du Puy de Cambion via la Fille dans le Necralisk (Deimos):\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "Vessie de Fermentation",
+      "code": "fr"
+    },
+    {
+      "description": "Molti pesci su Deimos secernono reagenti in un organo a forma di sacca, creando gas volatili che consentono periodi limitati di levitazione. \n\nFonte: Ottenibili dai seguenti pesci nel Cambion Drift tramite Figlia nel Necralisk (Deimos):\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "Vescica di Fermentazione",
+      "code": "it"
+    },
+    {
+      "description": "데이모스의 물고기들 중 다수는 주머니와 같은 장기 안에서 시약과 같은 물질을 분비해, 제한된 시간 동안 공중 부양을 가능하게 해주는 휘발성 가스를 생성해냅니다. \n\n획득 가능 장소: 네크랄리스크 (데이모스) 의 딸을 통해 다음과 같은 캠비온 퇴적지의 물고기를 해체하여 획득할 수있습니다:\n오스티미르\n아쿠아펄모\n비트리오스피나\n크립토석터스\n바르비스테오\n키마에로스\n암니오피지\n글러티녹스",
+      "name": "발효낭",
+      "code": "ko"
+    },
+    {
+      "description": "Muchos peces en Deimos secretan reactivos en un órgano parecido a una bolsa, creando gases volátiles que permiten períodos limitados de levitación. \n\nFuente: Extraído de los siguientes peces de Deriva Cambion con Hija en el Necralisk (Deimos):\nOstimir\nAcuapulmo\nVitreospina\nCriptosucto\nBarbisteo\nQuimaeros\nAmniofisi\nGlutinox",
+      "name": "Vejiga de fermento",
+      "code": "es"
+    },
+    {
+      "description": "许多火卫二的鱼类会在类似囊状的器官中分泌液体来产生挥发性气体，从而实现短暂的悬浮。\n\n来源：通过在殁世幽都（火卫二）的“女儿”处分解以下魔胎之境的鱼类获得：\n奥斯蒂剑鱼\n水肺\n璃化脊鳎\n墓沼隐龙\n倒刺蒂鳌\n高额异鳍\n针刺长鳄\n狍鸮胶蛳",
+      "name": "发酵鱼鳔",
+      "code": "zh"
+    },
+    {
+      "description": "Многие рыбы Деймоса выделяют реагенты в мешковидном органе, создавая летучие газы, которые позволяют на короткое время парить в воздухе.\n\nМестонахождение: Добывается при разделке следующих рыб Камбионского Дрейфа у Дочери в Некралиске (Деймос): \nОстимир\nАквапульма\nВитреоспин\nКриптозакт\nБарбистео\nКимэрос\nАмниофиз\nГлютинокс​",
+      "name": "Ферментный Пузырь",
+      "code": "ru"
+    },
+    {
+      "description": "ダイモスに棲む魚の多くは袋状の器官で反応体を分泌し、その結果発生するガスにより、限られた時間空中に浮遊することができる。\n\n場所：ネクロリスク（ダイモス）のDaughterで以下のカンビオン荒地の魚を捌くことで入手可能：\nオスティマイア\nアクアプルモ\nビトレオスピーナ\nクリプトスクトゥス\nバービステオ\nキマエロス\nアムニオフィジ\nグラティノクス",
+      "name": "発酵膀胱",
+      "code": "ja"
+    },
+    {
+      "description": "Wiele ryb na Deimos wydziela odczynniki w woreczkopodobnych organach, wytwarzając lotne gazy, pozwalające na chwilowe okresy lewitacji.\n\nŹródło: Uzyskane przez filetowanie następujących ryb z Dryfu Kambionu u Córki w Nekralisku (Deimos):\nOstimir\nAkwenpulmo\nWitreospin\nKryptossawek\nBarbisteo\nKimeros\nAmniofiz\nGlutinoks",
+      "name": "Fermentowany Pęcherz",
+      "code": "pl"
+    },
+    {
+      "description": "Muitos peixes de Deimos expelem reagentes em um órgão similar a uma bolsa, criando gases voláteis que concedem levitação temporária.\n\nLocalização: obtido através do corte dos seguintes peixes da Deriva de Cambion com a Filha no Necralisk, em Deimos:\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "Bexiga Fermentada",
+      "code": "pt"
+    },
+    {
+      "description": "許多棲息在火衛二的魚類會透過一種囊狀器官分泌反應物進而製造揮發性氣體，使牠們能夠短暫懸浮在空中。\n\n來源：透過亡骸殿（火衛二）的女兒從以下魔裔禁地魚類所切下：\n奧鯷鰵\n液肺魩\n琉璃鯻\n清道鯰\n巴魮魠\n奇美鮥\n氨膜鯉\n古鰧魶",
+      "name": "酵素囊袋",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาในดาวเดมอสหลายชนิดจะหลั่งสารเคมีในอวัยวะที่มีลักษณะคล้ายถุง ทำให้เกิดแก๊สระเหยที่ทำให้ลอยตัวได้ในระยะเวลาจำกัด \n\nแหล่งที่พบ: ได้มาจากการแล่ปลาที่อยู่ในแคมบิออนดริฟต์ต่อไปนี้ผ่าน Daughter ในเนคราลิสก์ (เดมอส):\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "กระเพาะปัสสาวะหมัก",
+      "code": "th"
+    },
+    {
+      "description": "Birçok Deimos balığı, kese benzeri bir organda reaktifler salgılayarak, sınırlı sürelerde havada kalmayı sağlayan uçucu gazlar oluşturur. \n\nKaynak: Necralisk'te (Deimos) bulunan Kız Evlat aracılığıyla aşağıdaki Cambion Drift balıklarından kesilerek çıkarılabilir:\nOstimyr\nAquapulmo\nVitreospina\nCryptosuctus\nBarbisteo\nKymaeros\nAmniophysi\nGlutinox",
+      "name": "Ferment Mesanesi",
+      "code": "tr"
+    },
+    {
+      "description": "Багато деймоських риб виділяють реагенти в мішкоподібному органі, створюючи леткі гази, які дозволяють деякий час левітувати.\n\nМожна отримати від Доньки в Некраліску (Деймос) із таких риб Кембіонської течії:\n— остиміра;\n— аквапульми;\n— вітреоспіни;\n— криптозукта;\n— барбісти;\n— кимера;\n— амніопсії;\n— ґлютінокса.",
+      "name": "Ферментний міхур",
+      "code": "uk"
+    }
+  ]
+}

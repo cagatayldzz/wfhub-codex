@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedRareA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flagellocanth-trophy-d4bf6ecf44.png",
+  "name": "Flagellocanth Trophy",
+  "description": "A trophy of a prized catch.",
+  "languages": [
+    {
+      "description": "Die Trophäe eines geschätzten Fanges.",
+      "name": "TROPHÄE: FLAGELLOCANTH",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée d'une prise précieuse.",
+      "name": "TROPHÉE FLAGELLOCANTHE",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo di una preziosa pesca.",
+      "name": "TROFEO FLAGELLOCANTH",
+      "code": "it"
+    },
+    {
+      "description": "포획 보상 트로피",
+      "name": "플래젤로캔스 트로피",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de una preciada presa.",
+      "name": "TROFEO DE FLAGELOCANTO",
+      "code": "es"
+    },
+    {
+      "description": "一尾珍贵捕获的奖杯。",
+      "name": "须腔棘鱼奖杯",
+      "code": "zh"
+    },
+    {
+      "description": "Трофей из улова.",
+      "name": "ТРОФЕЙ: ФЛАГЕЛЛОКАНТ",
+      "code": "ru"
+    },
+    {
+      "description": "釣果を誇らしく飾ろう。",
+      "name": "フラジェロカンス トロフィー",
+      "code": "ja"
+    },
+    {
+      "description": "Trofeum upamiętniające znaczącą zdobycz.",
+      "name": "TROFEUM FLAGELOKANT",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu de uma pesca formidável.",
+      "name": "TROFÉU: FLAGELLOCANTH",
+      "code": "pt"
+    },
+    {
+      "description": "一個珍惜捕獲的標本。",
+      "name": "鞭棘鱇標本",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลของรางวัลล้ำค่าที่จับมาได้",
+      "name": "ถ้วยรางวัล: FLAGELLOCANTH",
+      "code": "th"
+    },
+    {
+      "description": "Büyük bir avın hatırası.",
+      "name": "FLAGELLOCANTH SERGİSİ",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть усім свій цінний вилов.",
+      "name": "ТРОФЕЙ: ФЛАҐЕЛЛОКАНТ",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagCoilBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-coil-glyph---bright-2033be0b2a.png",
+  "name": "Mag Coil Glyph - Bright",
+  "description": "A glyph depicting Mag Coil on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Mag Coil vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Mag Coil (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Mag Coil sur un fond lumineux.",
+      "name": "Glyphe Mag Coil - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Coil Mag su uno sfondo chiaro.",
+      "name": "Glifo Mag Coil - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 코일 매그를 묘사한 글리프입니다.",
+      "name": "매그 코일 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Coil Mag sobre un fondo brillante.",
+      "name": "Glifo de Mag Coil - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Mag 线圈在明亮背景下的浮印。",
+      "name": "Mag 线圈浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Мэг «Спираль» на светлом фоне.",
+      "name": "Глиф: Мэг «Спираль» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Coil Mag のグリフ。",
+      "name": "Mag Coil グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Mag 'Coil' na jasnym tle.",
+      "name": "Glif Mag Coil — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Mag Coil em um fundo claro.",
+      "name": "Glifo: Mag Coil (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Mag 線圈在明亮背景下的浮印。",
+      "name": "Mag 線圈浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Mag Coil บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Mag Coil - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Mag Coil açık fonlu glif.",
+      "name": "Mag Coil Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Меґ у шоломі «Котушка» на світлому тлі.",
+      "name": "Яскравий гліф «Меґ „Котушка“»",
+      "code": "uk"
+    }
+  ]
+}

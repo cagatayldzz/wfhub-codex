@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/LongKatanaUpperBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/two-handed-nikana-standard-holster-1934550528.png",
+  "name": "Two-Handed Nikana Standard Holster",
+  "description": "Standard holster for Two-Handed Nikanas.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Zweihand-Nikanas.",
+      "name": "Zweihand Nikana-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Nikanas à deux mains.",
+      "name": "Port de Nikana à deux mains",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per le Nikana a Due Mani.",
+      "name": "Rinfodero Nikana a Due Mani Standard",
+      "code": "it"
+    },
+    {
+      "description": "양손 니카나 계열 무기를 위한 기본 수납 방식입니다.",
+      "name": "양손 니카나 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para Nikanas de dos manos.",
+      "name": "Enfundado estándar de Nikana de dos manos",
+      "code": "es"
+    },
+    {
+      "description": "给双手侍刃所使用的标准收纳姿态。",
+      "name": "双手侍刃标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Двуручных Никан.",
+      "name": "Стандартный Крепеж Двуручных Никан",
+      "code": "ru"
+    },
+    {
+      "description": "両手刀系武器の通常ホルスター。",
+      "name": "両手刀専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla dwuręcznych Nikan.",
+      "name": "Nikana Dwuręczna Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para Nikanas de Duas Mãos.",
+      "name": "Nikana de Duas Mãos: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "雙手侍刃武器所使用的標準收納姿態。",
+      "name": "雙手侍刃標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับดาบนิคานะแบบสองมือ",
+      "name": "ซองดาบนิคานะแบบสองมือมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Çift-elli Nikana için standart kılıf.",
+      "name": "Çift-Elli Nikana Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення дворучних нікан, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

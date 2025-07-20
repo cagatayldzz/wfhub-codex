@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/void-traces-9a7f26f348.png",
+  "name": "Void Traces",
+  "description": "A substance used to increase the power within Relics.\n\nLocation: Void Fissure Missions",
+  "languages": [
+    {
+      "description": "Eine Substanz, die dazu genutzt wird, die Macht eines Relikts zu erhöhen.\n\nQuelle: Void-Riss-Missionen.",
+      "name": "Void-Spuren",
+      "code": "de"
+    },
+    {
+      "description": "Une substance utilisée pour accroître le pouvoir des Reliques.\n\nLieu: Fissures du Néant",
+      "name": "Vestiges du Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Una sostanza utilizzata per aumentare il potere delle Reliquie.\n\nPosizione: Ottenibile nelle missioni Frattura Void.",
+      "name": "Tracce Void",
+      "code": "it"
+    },
+    {
+      "description": "성유물의 힘을 끌어내기 위해 사용되는 물질입니다.\n\n획득 가능 장소: 보이드 균열 미션",
+      "name": "보이드 잔영물",
+      "code": "ko"
+    },
+    {
+      "description": "Una sustancia usada para aumentar el poder interno de las reliquias.\n\nUbicación: Misiones de Fisuras del Vacío",
+      "name": "Vestigios del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "一种用来增加遗物内在能力的物质。\n\n获取地点：虚空裂缝任务",
+      "name": "虚空光体",
+      "code": "zh"
+    },
+    {
+      "description": "Субстанция, используемая для увеличения внутренней мощи Реликвий.\n\nМестонахождение: Миссии Разрыва Бездны",
+      "name": "Отголоски Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "レリックの秘めた力を引き出すアイテム。\n\n場所：Void 亀裂ミッション。",
+      "name": "Voidトレース",
+      "code": "ja"
+    },
+    {
+      "description": "Substancja wykorzystywana do rafinowania Reliktów Pustki.\n\nPołożenie: Misje Szczelin Pustki",
+      "name": "Łzy Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "Uma substância utilizada para aumentar o poder das Relíquias.\n\nLocalização: Missões de Fendas do Void.",
+      "name": "Traços do Void",
+      "code": "pt"
+    },
+    {
+      "description": "一種用來增加遺物內在能力的物質。\n\n地點：虛空裂縫任務",
+      "name": "虛空光體",
+      "code": "tc"
+    },
+    {
+      "description": "สารที่ใช้เพิ่มพลังภายในเรลิก\n\nแหล่งที่พบ: ภารกิจรอยแยกของวอยด์",
+      "name": "ร่อยรอยของวอยด์",
+      "code": "th"
+    },
+    {
+      "description": "Reliklerdeki gücü artırmak için kullanılan madde.\n\nKonum: Void Çatlağı Görevleri",
+      "name": "Void Trace",
+      "code": "tr"
+    },
+    {
+      "description": "Речовина, необхідна для підсилення прихованої енергії в реліквіях.\n\nМожна знайти на завданнях із проривів Порожнечі.",
+      "name": "Відлуння",
+      "code": "uk"
+    }
+  ]
+}

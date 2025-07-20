@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSandmanDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-glyph---dark-a0b03ec6d4.png",
+  "name": "Inaros Glyph - Dark",
+  "description": "A glyph depicting Inaros on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Inaros vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Inaros (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Inaros sur un fond sombre.",
+      "name": "Glyphe Inaros - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Anubis Inaros su uno sfondo scuro.",
+      "name": "Glifo Inaros - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 이나로스를 묘사한 글리프입니다.",
+      "name": "이나로스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Inaros sobre un fondo oscuro.",
+      "name": "Glifo de Inaros - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 在黑暗背景下的浮印。",
+      "name": "Inaros 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Инароса на тёмном фоне.",
+      "name": "Глиф: «Инарос» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Inaros グリフ。",
+      "name": "Inaros グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Inaros na ciemnym tle.",
+      "name": "Glif Inaros — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Inaros em um fundo escuro.",
+      "name": "Glifo: Inaros (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Inaros 在黑暗背景下的浮印。",
+      "name": "Inaros 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Inaros บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Inaros - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Inaros koyu fonlu glif.",
+      "name": "Inaros Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Інара на темному тлі.",
+      "name": "Темний гліф «Інар»",
+      "code": "uk"
+    }
+  ]
+}

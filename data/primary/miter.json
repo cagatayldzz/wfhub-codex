@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/miter-0e90938cdd.png",
+  "name": "Miter",
+  "description": "The Miter launches high velocity saw blades, tearing apart anyone unfortunate enough to be in their path.",
+  "languages": [
+    {
+      "description": "Der Miter verschießt Hochgeschwindigkeits-Sägeblätter, die jeden zerreißen, der unglücklich genug ist, ihnen im Weg zu stehen.",
+      "name": "Miter",
+      "code": "de"
+    },
+    {
+      "description": "Le Miter propulse des lames de scie à grande vitesse, déchirant n'importe qui d'assez malheureux pour s'être retrouvé sur leur chemin.",
+      "name": "Miter",
+      "code": "fr"
+    },
+    {
+      "description": "Il Miter lancia lame a disco ad alta velocità, in grado di fare a pezzi chiunque sia così sfortunato da trovarsi sulla loro traiettoria.",
+      "name": "Miter",
+      "code": "it"
+    },
+    {
+      "description": "마이터는 탄도상에 있는 불운한 친구들을 반쪽 내기에 딱 좋은 고속 톱날을 발사합니다.",
+      "name": "마이터",
+      "code": "ko"
+    },
+    {
+      "description": "El Miter lanza hojas de sierra a gran velocidad, cortando a cualquiera que se ponga en su camino.",
+      "name": "Miter",
+      "code": "es"
+    },
+    {
+      "description": "（英文：MITER）米特尔发射高速锯片，撕裂任何不幸在其路径上的人。",
+      "name": "米特尔",
+      "code": "zh"
+    },
+    {
+      "description": "Митра выстреливает циркулярные лезвия с огромной скоростью, разрезая на части всех, кто окажется на их пути.",
+      "name": "Митра",
+      "code": "ru"
+    },
+    {
+      "description": "高速回転する鋸刃を射出する特殊兵器。射線上のすべてを八つ裂きにする。",
+      "name": "Miter",
+      "code": "ja"
+    },
+    {
+      "description": "Miter używa jako pocisków pił tarczowych rozpędzonych do dużych prędkości. Rozprują one każdego, kto wejdzie w pole rażenia.",
+      "name": "Miter",
+      "code": "pl"
+    },
+    {
+      "description": "A Miter lança lâminas de alta velocidade, rasgando qualquer um sem sorte de estar em seu caminho.",
+      "name": "Miter",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：MITER）米特爾發射高速鋸片，撕裂任何不幸站在其路徑上的人。",
+      "name": "米特爾",
+      "code": "tc"
+    },
+    {
+      "description": "Miter จะยิงใบเลื่อยความเร็วสูงออกไป ฉีกกระชากผู้โชคร้ายคนใดก็ตามที่ขวางทาง",
+      "name": "Miter",
+      "code": "th"
+    },
+    {
+      "description": "Miter yüksek hızlı testere bıçakları fırlatarak yoluna çıkan herkesi ikiye ayırır.",
+      "name": "Miter",
+      "code": "tr"
+    },
+    {
+      "description": "Гвинтівка-лезостріл. Швидкісні леза шматують будь-кого на своєму шляху.",
+      "name": "Зріз",
+      "code": "uk"
+    }
+  ]
+}

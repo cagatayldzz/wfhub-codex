@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/BaroKubrowBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pack-leader-emblem-a394837253.png",
+  "name": "Pack Leader Emblem",
+  "description": "An emblem representing your Kubrow allegiance.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das deine Kubrow-Zugehörigkeit zeigt.",
+      "name": "Emblem: Rudelführer",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge représentant la loyauté de votre Kubrow.",
+      "name": "Badge de Chef de Meute",
+      "code": "fr"
+    },
+    {
+      "description": "Un'emblema che rappresenta la fedeltà del tuo Kubrow.",
+      "name": "Emblema Capobranco",
+      "code": "it"
+    },
+    {
+      "description": "쿠브로를 사랑하는 여러분의 변함없는 마음을 보여주는 엠블럼입니다.",
+      "name": "팩 리더 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema que representa tu alianza con los kubrow.",
+      "name": "Emblema Líder de la Manada",
+      "code": "es"
+    },
+    {
+      "description": "一枚象征着你的库狛忠诚的徽章。",
+      "name": "领袖徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, символизирующий преданность вашего кубрау.",
+      "name": "Значок: Вожак стаи",
+      "code": "ru"
+    },
+    {
+      "description": "あなたのクブロウの忠誠を示すエンブレム。",
+      "name": "Pack Leader エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat reprezentujący Twoje przywiązanie do Kubrowów.",
+      "name": "Emblemat: Przywódca Stada",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema representando sua fidelidade aos Kubrows.",
+      "name": "Emblema: Pack Leader",
+      "code": "pt"
+    },
+    {
+      "description": "一枚象徵著你的庫狛忠誠的徽章。",
+      "name": "領袖徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่แสดงถึงความจงรักภักดีของ Kubrow",
+      "name": "ตราสัญลักษณ์: Pack Leader",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow bağlılığını temsil eden bir rozet.",
+      "name": "Pack Leader Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Знак вашої любові до куброу.",
+      "name": "Відзнака «Ватажок зграї»",
+      "code": "uk"
+    }
+  ]
+}

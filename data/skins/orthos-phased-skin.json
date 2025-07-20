@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Events/BlackoutOrthos",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orthos-phased-skin-165f8642b3.png",
+  "name": "Orthos Phased Skin",
+  "description": "The Void's corrupting energy has scarred this Orthos, leaving it permanently out of phase with conventional space.",
+  "languages": [
+    {
+      "description": "Die korrumpierende Energie des Void hat diese Orthos entstellt und sie dauerhaft aus der Phase des konventionellen Raumes verschoben.",
+      "name": "Orthos-Skin: Phasen",
+      "code": "de"
+    },
+    {
+      "description": "L'Énergie corruptrice du Néant a imprégné cet Orthos, le laissant de manière permanente hors-phase avec l'espace conventionnel.",
+      "name": "Aspect Orthos Déphasé",
+      "code": "fr"
+    },
+    {
+      "description": "L'energia corrotta del Void ha deturpato questa Orthos, lasciandola permanentemente fuori di fase con lo spazio convenzionale.",
+      "name": "Skin Orthos Phased",
+      "code": "it"
+    },
+    {
+      "description": "보이드의 타락한 에너지가 이 무기에 흔적을 남겼고, 통상 공간으로 탈출한 뒤에도 그 흔적은 여전히 남아있습니다.",
+      "name": "페이즈드 오르도스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "La energía corrosiva del vacío ha dejado una cicatriz en esta Orthos, dejándola alterada permanentemente dentro del espacio convencional.",
+      "name": "Diseño Fásico de Orthos",
+      "code": "es"
+    },
+    {
+      "description": "虚空的堕落能量让这把欧特鲁斯伤痕累累，使它拥有完全迥异的外观。",
+      "name": "相位外观 欧特鲁斯",
+      "code": "zh"
+    },
+    {
+      "description": "Искажающая энергия Бездны оставила свой отпечаток на этом оружии, навсегда оставив его частично не в фазе с обычным пространством.",
+      "name": "Скин Ортоса: Фазовый",
+      "code": "ru"
+    },
+    {
+      "description": "Voidの有害なエネルギーによって変化したOrthosであり、永久的に異世界と融合した存在となっている。",
+      "name": "Orthos Phased スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skażona energia Pustki przekształciła materię Orthos'a, zostawiając go w ciągłej przekształcającej się fazie, niezgodnej z prawami konwencjonalnej fizyki.",
+      "name": "Orthos: Skórka Defazowany",
+      "code": "pl"
+    },
+    {
+      "description": "A Energia corruptiva do Void marcou esta Orthos, que ficará em eterna desarmonia com o espaço convencional.",
+      "name": "Orthos: Skin Phased",
+      "code": "pt"
+    },
+    {
+      "description": "虛空的墮落能量讓這把歐特魯斯傷痕累累，使它擁有完全迥異的外觀。",
+      "name": "歐特魯斯 相位外觀",
+      "code": "tc"
+    },
+    {
+      "description": "พลังงานที่เสียหายของวอยด์ได้ทิ้งร่องรอยไว้บน Orthos นี้ ทิ้งให้เห็นถึงร่องรอยของห้วงอวกาศตามแบบดั้งเดิมเอาไว้อย่างถาวร",
+      "name": "สกิน Orthos Phased",
+      "code": "th"
+    },
+    {
+      "description": "Void'in kötü enerjisi bu Orthos üzerinde derin yaralar bırakmış.",
+      "name": "Orthos Phased Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Викривлена енергія Порожнечі вразила глефу «Ортос» й залишила її назавжди поза фазою сталого простору.",
+      "name": "Вигляд «Фаза» для Ортоса",
+      "code": "uk"
+    }
+  ]
+}

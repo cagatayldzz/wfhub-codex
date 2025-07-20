@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/HolidayGrineerBootItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stocking-00d5be1791.png",
+  "name": "Stocking",
+  "description": "You're catching a lot of these. Are you stocking up?",
+  "languages": [
+    {
+      "description": "Du fängst eine Menge von denen. Deckst du dich ein?",
+      "name": "STRUMPF",
+      "code": "de"
+    },
+    {
+      "description": "Vous en attrapez beaucoup. Vous le remplissez bien ?",
+      "name": "BAS",
+      "code": "fr"
+    },
+    {
+      "description": "Ne stai pescando tanti. Stai facendo scorta?",
+      "name": "CALZA",
+      "code": "it"
+    },
+    {
+      "description": "스타킹 참 많이도 건지신다. 스타의 킹이라도 되시게요?",
+      "name": "스타킹",
+      "code": "ko"
+    },
+    {
+      "description": "Estás atrapando muchos de estos. ¿Acaso quieres llenar un almacén?",
+      "name": "CALCETÍN",
+      "code": "es"
+    },
+    {
+      "description": "你捕获了很多这玩意。你是在囤货吗？",
+      "name": "长袜",
+      "code": "zh"
+    },
+    {
+      "description": "Вы поймали таких уже много. Готовитесь к Рождеству?",
+      "name": "РОЖДЕСТВЕНСКИЙ ЧУЛОК",
+      "code": "ru"
+    },
+    {
+      "description": "大漁ですね。ストックは溜まりましたか？",
+      "name": "ストッキング",
+      "code": "ja"
+    },
+    {
+      "description": "Łowisz ich całkiem sporo, szykujesz się na coś?",
+      "name": "SKARPETA",
+      "code": "pl"
+    },
+    {
+      "description": "Você está pescando muitas dessas. Está fazendo uma meia reserva?",
+      "name": "MEIA RESERVA",
+      "code": "pt"
+    },
+    {
+      "description": "你釣了很多這種玩意兒。難道你是在囤貨嗎？",
+      "name": "長筒襪",
+      "code": "tc"
+    },
+    {
+      "description": "ท่านจับพวกนี้มามากมาย ท่านกำลังตุนของอยู่เหรอ?",
+      "name": "ถุงน่อง",
+      "code": "th"
+    },
+    {
+      "description": "Bunlardan çok buluyorsun. Yoksa stok mu yapıyorsun?",
+      "name": "ÇORAP",
+      "code": "tr"
+    },
+    {
+      "description": "У вас їх таких уже багато є. Збираєте наряд?",
+      "name": "РІЗДВЯНА ПАНЧОХА",
+      "code": "uk"
+    }
+  ]
+}

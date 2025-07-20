@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Glass/Glass",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-b2089c43f8.png",
+  "name": "Gara",
+  "description": "Enemies are made fragile by Gara’s deadly touch. Gara’s vitric abilities provide her and her allies with survivability and deal high damage. Shatter the foe.",
+  "armor": 160,
+  "aura": "vazarin",
+  "languages": [
+    {
+      "description": "Garas tödliche Berührung lässt Feinde zerbrechlich werden. Garas Glasfähigkeiten bieten Überlebensfähigkeit und hohen Schaden. Zerschmettere den Feind.",
+      "name": "Gara",
+      "code": "de"
+    },
+    {
+      "description": "Les ennemis sont fragilisés par le toucher mortel de Gara. Les Pouvoirs vitriques de Gara lui offrent, à elle et à ses alliés, une capacité de survie et infligent des Dégâts importants. Brisez l'ennemi.",
+      "name": "Gara",
+      "code": "fr"
+    },
+    {
+      "description": "I nemici sono resi fragili dal tocco mortale di Gara. Le sue abilità vitriche forniscono sia a lei che ai suoi alleati capacità di sopravvivenza e di infliggere danni elevati. Frantuma il nemico.",
+      "name": "Gara",
+      "code": "it"
+    },
+    {
+      "description": "가라의 치명적인 손길을 거친 적들은 유리처럼 연약해집니다. 유리를 기반으로 하는 가라의 어빌리티는 높은 피해를 가하는 동시에 그녀와 동료들에게 생존성을 보장해 줍니다. 적을 산산이 조각내 보세요.",
+      "name": "가라",
+      "code": "ko"
+    },
+    {
+      "description": "Los enemigos se vuelven frágiles por el toque mortal de Gara. Las habilidades vítricas de Gara les brindan a ella y a sus aliados capacidad de supervivencia e infligen mucho daño. Quiebra al enemigo.",
+      "name": "Gara",
+      "code": "es"
+    },
+    {
+      "description": "Gara 以致命之触让敌人变成易碎之物。Gara 的玻璃技能为她和她的友军提供了生存能力，同时能造成高伤害。粉碎敌人。",
+      "name": "Gara",
+      "code": "zh"
+    },
+    {
+      "description": "Смертельное прикосновение Гары делает врагов хрупкими. Мастерское владение стеклом обеспечивают Гаре и её союзникам выживаемость и наносят большой урон. Разнесите врага вдребезги.",
+      "name": "Гара",
+      "code": "ru"
+    },
+    {
+      "description": "Garaに触れられたものは脆くなる。Garaのガラスを操る力は自身と味方の生存力を増加し、大きなダメージを与え敵は粉々に砕ける。",
+      "name": "Gara",
+      "code": "ja"
+    },
+    {
+      "description": "Wrogowie stają się podatni na działanie śmiertelnego dotyku Gary. Witalne zdolności Gary zapewniają jej i jej sojusznikom przetrwanie i zadają duże obrażenia. Zniszcz wroga.",
+      "name": "Gara",
+      "code": "pl"
+    },
+    {
+      "description": "Os inimigos são fragilizados pelo toque letal da Gara. As habilidades vítricas de Gara fornecem a ela e a seus aliados alta capacidade de sobrevivência e causam alto dano. Estilhace os inimigos.",
+      "name": "Gara",
+      "code": "pt"
+    },
+    {
+      "description": "Gara 的致命觸及讓敵人不堪一擊。Gara 的玻璃系技能提供她和友方生存能力並造成高傷害。粉碎敵人。",
+      "name": "Gara",
+      "code": "tc"
+    },
+    {
+      "description": "เพียงศัตรูโดนสัมผัสมรณะของ Gara ก็เปราะบางจนแตกหักได้ง่าย ๆ ความสามารถด้านการใช้แก้วของ Gara ทำให้ทั้งตัวเองและพันธมิตรเอาตัวรอดได้ดีและสร้างความเสียหายได้สูง ทำลายศัตรูให้แตกออกเป็นเสี่ยง ๆ",
+      "name": "Gara",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlar, Gara'nın ölümcül dokunuşuyla kırılganlaşır. Gara'nın cam yetenekleri, kendisine ve müttefiklerine hayatta kalma ve yüksek hasar verme imkanı sağlar. Düşmanını tuzla buz eder.",
+      "name": "Gara",
+      "code": "tr"
+    },
+    {
+      "description": "Скляна воїтелька. Смертельний дотик Ґари робить ворогів крихкими. Скляні здібності забезпечують виживання їй та союзникам, а також завдають великої шкоди. Розбийте ворогів на друзки.",
+      "name": "Ґара",
+      "code": "uk"
+    }
+  ]
+}

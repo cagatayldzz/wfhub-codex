@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cortege-barrel.png",
+  "name": "Cortege Barrel",
+  "description": "A Necramech weapon-crafting component.",
+  "languages": [
+    {
+      "description": "Eine Komponente für die Herstellung von Necramech-Waffen.",
+      "name": "Cortege: Lauf",
+      "code": "de"
+    },
+    {
+      "description": "Un composant d'arme pour Necramech.",
+      "name": "Cortège - Canon",
+      "code": "fr"
+    },
+    {
+      "description": "Un componente Necramech per la costruzione di un'arma.",
+      "name": "Cortege - Canna",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크 무기 제작 부품입니다.",
+      "name": "코르테지 배럴",
+      "code": "ko"
+    },
+    {
+      "description": "Un componente de fabricación de arma de Necramech.",
+      "name": "Cañón de Cortege",
+      "code": "es"
+    },
+    {
+      "description": "一个殁世机甲武器的制作部件。",
+      "name": "送葬者 枪管",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент оружия Некрамеха.",
+      "name": "Кортеж: Ствол",
+      "code": "ru"
+    },
+    {
+      "description": "ネクロメカの武器作成用の部品。",
+      "name": "Cortege バレル",
+      "code": "ja"
+    },
+    {
+      "description": "Element tworzący broń Nekramecha.",
+      "name": "Cortege: Lufa",
+      "code": "pl"
+    },
+    {
+      "description": "Um componente de fabricação de Armas do Necramech.",
+      "name": "Cortege: Cano",
+      "code": "pt"
+    },
+    {
+      "description": "製作亡骸機甲武器的部件。",
+      "name": "頌葬者 槍管",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบในการสร้างอาวุธ Necramech",
+      "name": "Cortege: ลำกล้องปืน",
+      "code": "th"
+    },
+    {
+      "description": "Bir Necramech silah-üretim bileşeni.",
+      "name": "Cortege Namlu",
+      "code": "tr"
+    },
+    {
+      "description": "Складник зброї некрамеха.",
+      "name": "Кортеж: ствол",
+      "code": "uk"
+    }
+  ]
+}

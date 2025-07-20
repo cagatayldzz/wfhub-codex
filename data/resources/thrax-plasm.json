@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thrax-plasm-acf664e015.png",
+  "name": "Thrax Plasm",
+  "description": "Found in the remnants of Thrax Void manifestations, this plasm has several surprisingly practical applications.\n\nLocation: Zariman",
+  "languages": [
+    {
+      "description": "In den Überresten von Thrax-Void-Manifestationen vorzufinden, hat dieses Plasma mehrere erstaunlich praktische Anwendungen.\n\nQuelle: Zariman",
+      "name": "Thrax-Plasma",
+      "code": "de"
+    },
+    {
+      "description": "Trouvé dans les vestiges des manifestations Thrax du Néant, ce plasma a plusieurs applications étonnamment pratiques.\n\nLieu: Zariman",
+      "name": "Plasma Thrax",
+      "code": "fr"
+    },
+    {
+      "description": "Trovato tra i resti delle manifestazioni Thrax Void, questo plasma ha diversi sorprendentemente pratici utilizzi.\n\nPosizione: Zariman",
+      "name": "Plasma Thrax",
+      "code": "it"
+    },
+    {
+      "description": "트락스 보이드 발현체들의 잔해에서 발견되는 이 플라즘에는 몇 가지 놀라울 정도로 실용적인 용도가 있습니다.\n\n획득 가능 장소: 자리만",
+      "name": "트락스 플라즘",
+      "code": "ko"
+    },
+    {
+      "description": "Encontrado en los restos de las manifestaciones del Vacío Thrax, este plasma tiene varias aplicaciones sorprendentemente prácticas.\n\nUbicación: Zariman",
+      "name": "Plasma Thrax",
+      "code": "es"
+    },
+    {
+      "description": "在凶魂虚空显化者的遗骸中找到，这种浆质有一些令人惊讶的实际效用。\n\n获取地点：扎里曼号",
+      "name": "凶魂浆质",
+      "code": "zh"
+    },
+    {
+      "description": "Плазма, найденная в остатках траксовых порождений Бездны, имеет несколько удивительных вариантов использования.\n\nМестонахождение: «Зариман»",
+      "name": "Траксовая плазма",
+      "code": "ru"
+    },
+    {
+      "description": "Voidによって具現化されたスラックスの残骸から見つかる、多用に活用できるプラズマ素材。\n\n場所：Zariman",
+      "name": "スラックス プラズム",
+      "code": "ja"
+    },
+    {
+      "description": "Ta plazma, znajdowana w pozostałościach manifestacji Pustki Thraxa, ma kilka zaskakująco praktycznych zastosowań.\n\nPołożenie: Zariman",
+      "name": "Plazma Thrax",
+      "code": "pl"
+    },
+    {
+      "description": "Encontrado nos resquícios das aparições Thrax do Void, este plasma tem diversas aplicações surpreendentemente práticas.\n\nLocalização: Zariman",
+      "name": "Plasma Thrax",
+      "code": "pt"
+    },
+    {
+      "description": "在戰雄顯化者的遺骸中找到，這種漿質有幾個令人驚訝的實際應用。\n\n地點：扎日曼號",
+      "name": "戰雄漿質",
+      "code": "tc"
+    },
+    {
+      "description": "พบในซากที่เหลือจากร่าง Thrax ที่เกิดจากวอยด์ พลาสซึมนี้นำไปใช้ประโยชน์จริงได้หลายอย่างจนน่าประหลาดใจ\n\nแหล่งที่พบ: Zariman",
+      "name": "แทรกซ์พลาสซึม",
+      "code": "th"
+    },
+    {
+      "description": "Thrax Void oluşumlarının kalıntılarında bulunan bu plazmanın şaşırtıcı sayıda kullanım alanı vardır.\n\nKonum: Zariman",
+      "name": "Thrax Plazması",
+      "code": "tr"
+    },
+    {
+      "description": "Плазма, знайдена в рештках траксових породжень Порожнечі, має декілька дивовижних варіантів використання.\n\nМожна знайти на «Заримені».",
+      "name": "Траксова плазма",
+      "code": "uk"
+    }
+  ]
+}

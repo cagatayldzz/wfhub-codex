@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropShawzinDuviriErsatz",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lonesome-shawzin-a03185227b.png",
+  "name": "Lonesome Shawzin",
+  "description": "A creative soul rings out with each strum of the Lonesome Shawzin.",
+  "languages": [
+    {
+      "description": "Mit jeder gespielten Saite der einsamen Shawzin, erklingt eine kreative Seele.",
+      "name": "Shawzin: Einsamkeit",
+      "code": "de"
+    },
+    {
+      "description": "Une âme créative résonne à chaque note du Shawzin Solitaire.",
+      "name": "Shawzin Solitaire",
+      "code": "fr"
+    },
+    {
+      "description": "Un'anima creativa risuona ad ogni strimpellata dello Shawzin Lonesome.",
+      "name": "Shawzin Lonesome",
+      "code": "it"
+    },
+    {
+      "description": "론섬 샤진의 현을 튕길 때마다 창의적인 영혼의 소리가 울려 퍼집니다.",
+      "name": "론섬 샤진",
+      "code": "ko"
+    },
+    {
+      "description": "Un alma creativa resuena en cada nota del Shawzin Solitario.",
+      "name": "Shawzin Solitario",
+      "code": "es"
+    },
+    {
+      "description": "孤寂三线琴的每一次弹奏都会响起一个创造性的灵魂。",
+      "name": "孤寂三线琴",
+      "code": "zh"
+    },
+    {
+      "description": "Творческая душа звучит с каждым бренчанием этого шазина.",
+      "name": "Шазин: Отшельник",
+      "code": "ru"
+    },
+    {
+      "description": "孤独の中で生まれる音色は魂にまで響く。",
+      "name": "孤独のShawzin",
+      "code": "ja"
+    },
+    {
+      "description": "W każdym uderzeniu Shawzin Samotnika unosi się kreatywna dusza.",
+      "name": "Shawzin Samotnika",
+      "code": "pl"
+    },
+    {
+      "description": "Uma alma criativa ressoa em cada nota do Shawzin do Solitário.",
+      "name": "Shawzin do Solitário",
+      "code": "pt"
+    },
+    {
+      "description": "孤寂三線琴的每一下彈奏都會響起一個富有創造力的靈魂。",
+      "name": "孤寂三線琴",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อดีด Lonesome Shawzin ในแต่ละครั้งก็จะได้เสียงจิตวิญญาณแห่งการสร้างสรรค์ดังออกมา",
+      "name": "Lonesome Shawzin",
+      "code": "th"
+    },
+    {
+      "description": "Yalnız Shawzin'in her tıngırtısında yaratıcı bir ruh çınlıyor.",
+      "name": "Yalnız Shawzin",
+      "code": "tr"
+    },
+    {
+      "description": "Творчі душі резонують з кожним звуком шодзіна «Самітник».",
+      "name": "Шодзін «Самітник»",
+      "code": "uk"
+    }
+  ]
+}

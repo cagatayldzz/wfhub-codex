@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageFrostAuroraDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-aurora-glyph---dark-7931ecf6d2.png",
+  "name": "Frost Aurora Glyph - Dark",
+  "description": "A glyph depicting Frost Aurora on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Frost Aurora vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Frost Aurora (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Frost Aurora sur un fond sombre.",
+      "name": "Glyphe Frost Aurora - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Aurora Frost su uno sfondo scuro.",
+      "name": "Glifo Frost Aurora - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 오로라 프로스트를 묘사한 글리프입니다.",
+      "name": "프로스트 오로라 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Aurora Frost sobre un fondo oscuro.",
+      "name": "Glifo de Frost Aurora - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Frost 极光在黑暗背景下的浮印。",
+      "name": "Frost 极光浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Фроста «Аврора» на тёмном фоне.",
+      "name": "Глиф: Фрост «Аврора» — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたAurora Frost のグリフ。",
+      "name": "Frost Aurora グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Frost Aurora na ciemnym tle.",
+      "name": "Glif Frost Aurora — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Frost Aurora em um fundo escuro.",
+      "name": "Glifo: Frost Aurora (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Frost 極光在黑暗背景下的浮印。",
+      "name": "Frost 極光浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Frost Aurora บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Frost Aurora - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Frost Aurora koyu fonlu glif.",
+      "name": "Frost Aurora Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Фроста в шоломі «Аврора» на темному тлі.",
+      "name": "Темний гліф «Фрост „Аврора“»",
+      "code": "uk"
+    }
+  ]
+}

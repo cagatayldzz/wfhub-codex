@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/TnArmorCurve/TnArmorCurveC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidina-chest-plate-60865ccce3.png",
+  "name": "Nidina Chest Plate",
+  "description": "Broad swooping curves are the essence of the Nidina armor set.",
+  "languages": [
+    {
+      "description": "Breite Kehrkurven sind die Essenz des Rüstung-Paket: Nidina.",
+      "name": "Brustplatte: Nidina",
+      "code": "de"
+    },
+    {
+      "description": "De larges courbes descendantes constituent l'essence même de l'Armure Nidina.",
+      "name": "Plastron Nidina",
+      "code": "fr"
+    },
+    {
+      "description": "Le ampie e repentine curve sono l'essenza del set Armatura Nidina.",
+      "name": "Pettorina Nidina",
+      "code": "it"
+    },
+    {
+      "description": "이 넓게 빠진 곡선이야말로 니디나 아머 세트의 특징입니다.",
+      "name": "니디나 체스트 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Anchas curvas que descienden es la esencia del conjunto de armadura Nidina.",
+      "name": "Peto de placas Nidina",
+      "code": "es"
+    },
+    {
+      "description": "宽阔的曲线是尼迪纳护甲套装的精髓。",
+      "name": "尼迪纳胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Широкие нисходящие изгибы являются отличительной чертой брони Нидина.",
+      "name": "Нагрудник: Нидина",
+      "code": "ru"
+    },
+    {
+      "description": "幅の広いキュッとしたカーブ具合がNidinaアーマーセットの要だ。",
+      "name": "Nidina チェストプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Szerokie i zamaszyste krzywe są esencją projektu pancerza Nidina.",
+      "name": "Napierśnik: Nidina",
+      "code": "pl"
+    },
+    {
+      "description": "Curvas amplas são a essência do conjunto de Armadura Nidina.",
+      "name": "Peitoral: Nidina",
+      "code": "pt"
+    },
+    {
+      "description": "寬闊的曲線是尼迪納護甲套裝的精髓。",
+      "name": "尼迪納胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนโค้งเว้ากว้างเป็นหัวใจสำคัญของชุดเกราะ Nidina",
+      "name": "เพลตหน้าอก Nidina",
+      "code": "th"
+    },
+    {
+      "description": "Geniş, baskın kıvrımlar Nidina zırh setinin özünü oluşturur.",
+      "name": "Nidina Göğüs Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Комплект обладунків, оздоблених дугоподібними смугами.",
+      "name": "Нагрудник «Нідіна»",
+      "code": "uk"
+    }
+  ]
+}

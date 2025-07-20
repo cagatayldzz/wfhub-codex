@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowBirdLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sawgaw-echo-lure-6985ef801d.png",
+  "name": "Sawgaw Echo-Lure",
+  "description": "Entice and attract nearby Sawgaw with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Ködere nahe Sawgaws und locke sie mit lebensechten Tierrufen an.",
+      "name": "Echo-Köder: Sawgaw",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Sawgaws se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "Écho-Leurre Sawgaw",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Sawgaw vicini con dei richiami simili ai suoi.",
+      "name": "Richiamo Sawgaw",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 소우고우를 꾀어 유인합니다.",
+      "name": "소우고우 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a sawgaw cercanos con llamados de animales similares a los naturales.",
+      "name": "Eco-señuelo para Sawgaw",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的梭歌。",
+      "name": "梭歌回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Пилопастей поблизости, издавая идентичные настоящим животные зовы.",
+      "name": "Эхо-Манок Для Пилопасти",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのソーゴーを誘導する。",
+      "name": "ソーゴー Echo ルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliską Rozpłatnicę, imitując odgłosy zwierząt.",
+      "name": "Echo-Wabik Rozpłatnicy",
+      "code": "pl"
+    },
+    {
+      "description": "Chame a atenção e atraia Sawgaws próximos utilizando sons semelhantes aos dos animais.",
+      "name": "Ecoisca de Sawgaw",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的梭歌。",
+      "name": "梭歌迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูด Sawgaw ที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง Sawgaw",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Sawgawları gerçeğine çok benzeyen hayvan sesleriyle yanına çek.",
+      "name": "Sawgaw Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює совґовів поблизу реалістичною імітацією їхнього поклику.",
+      "name": "Еховабик на совґова",
+      "code": "uk"
+    }
+  ]
+}

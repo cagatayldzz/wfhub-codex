@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ivara-helmet-9d8efca10d.png",
+  "name": "Ivara Helmet",
+  "description": "The standard issue helmet for the Ivara Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Ivara Warframe.",
+      "name": "Ivara-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Ivara.",
+      "name": "Casque Ivara",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Ivara.",
+      "name": "Elmo Ivara",
+      "code": "it"
+    },
+    {
+      "description": "이바라 워프레임을 위한 기본 헬멧입니다.",
+      "name": "이바라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Ivara.",
+      "name": "Casco de Ivara",
+      "code": "es"
+    },
+    {
+      "description": "Ivara 的标准头盔。",
+      "name": "Ivara 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем Ивары.",
+      "name": "Шлем Ивары",
+      "code": "ru"
+    },
+    {
+      "description": "Ivara の標準型ヘルメット",
+      "name": "Ivara ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Podstawowy hełm dla Warframe Ivara.",
+      "name": "Ivara: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Ivara.",
+      "name": "Ivara: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Ivara 的標準頭盔",
+      "name": "Ivara 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Ivara Warframe",
+      "name": "หมวกเหล็ก Ivara",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Warframe için standart miğfer.",
+      "name": "Ivara Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Івари.",
+      "name": "Шолом Івари",
+      "code": "uk"
+    }
+  ]
+}

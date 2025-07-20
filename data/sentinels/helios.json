@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helios-8cacabc9a2.png",
+  "name": "Helios",
+  "description": "With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the versatile Helios Sentinel acts as both a lethal guardian and an automatic codex scanner. Scans require an equipped Codex Scanner and an available charge.",
+  "armor": 80,
+  "languages": [
+    {
+      "description": "Mit 'Aufspürer' als einzigartiger Verhaltensregel und 'Dekonstruktor' als Waffe, stellt der vielseitige Helios Wächter, sowohl einen tödlichen Beschützer, als auch einen automatischen Codex-Scanner dar. Ausgerüsteter Codex-Scanner und verfügbare Scans werden benötigt.",
+      "name": "Helios",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Inspecteur' comme Précepte spécifique et 'Déconstructeur' en tant qu'arme, la Sentinelle polyvalente Helios agit à la fois comme un gardien meurtrier et comme un scanneur automatique pour le Codex. Les scans requièrent des Scanneurs du Codex équipés et disponibles dans la Spirale de Matériel.",
+      "name": "Helios",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Investigator' come suo Precetto unico, e 'Deconstructor' come sua arma, la versatile Sentinella Helios funge sia da letale guardiano che da Codex Scanner automatico. Le scannerizzazioni richiedono il Codex Scanner equipaggiato e delle cariche disponibili.",
+      "name": "Helios",
+      "code": "it"
+    },
+    {
+      "description": "'인베스티게이터'를 기본 프리셉트로 탑재한 헬리오스는 강력한 보호자 및 자동 정보 스캐너로써의 역할을 동시에 수행하는 다재다능한 센티넬로, 주무기로 디컨스트럭터를 장비하고 있습니다. 충분한 양의 코덱스 스캐너를 장비하고 있어야만 스캔이 가능합니다.",
+      "name": "헬리오스",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Investigador' como su único precepto y 'Desarmador' como arma, el versátil centinela Helios actúa como un guardián letal y como un escáner automático del códice. Los escaneos requieren un escáner del códice equipado y una carga disponible.",
+      "name": "Helios",
+      "code": "es"
+    },
+    {
+      "description": "赫利俄斯拥有独特的「侦查」指令并以「分离」作为武器，这位多功能的守护既是致命的守护者，又是资料库的自动扫描器。扫描功能须在身上携带扫描器，且扫描器有可使用的扫描次数才能触发。",
+      "name": "赫利俄斯",
+      "code": "zh"
+    },
+    {
+      "description": "C заповедью «Исследователь» и снаряжённым в качестве оружия «Деконструктором», универсальный страж Гелиос становится как смертоносным охранником, так и автоматическим сканером для Кодекса. Сканирование требует экипированного достаточным количеством зарядов сканера Кодекса.",
+      "name": "Гелиос",
+      "code": "ru"
+    },
+    {
+      "description": "「Investigator」という独自のプリセプトと「Deconstructor」という独自の兵器を持つ多目的センチネルHeliosは見敵必殺の守護者であり、さらには自動コーデックススキャナーとしても機能する。スキャンを行うにはコーデックススキャナーの装備とチャージが必要。",
+      "name": "Helios",
+      "code": "ja"
+    },
+    {
+      "description": "Z unikatową Instrukcją 'Śledczy' i bronią 'Dekonstruktor', wielozadaniowy Strażnik Helios jest jednocześnie zabójczym obrońcą, jak i automatycznym skanerem kodeksu. Skany wymagają posiadania w ekwipunku odpowiedniej ilości Skanerów Kodeksu.",
+      "name": "Helios",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Investigator' como seu preceito exclusivo e a 'Desconstrutora' como sua arma, a versátil sentinela Helios é uma guardiã letal que faz análises automáticas para o Codex. Análises necessitam de um Escâner do Codex equipado e cargas disponíveis.",
+      "name": "Helios",
+      "code": "pt"
+    },
+    {
+      "description": "赫利俄斯擁有獨特的「偵查」指令並以「分離」作為武器，這位多功能的守護既是致命的守護者，又是資料庫的自動掃描器。掃描功能須在身上裝備掃瞄器，且掃瞄器有可使用的掃描次數才能觸發。",
+      "name": "赫利俄斯",
+      "code": "tc"
+    },
+    {
+      "description": "Helios เป็นเซนติเนลอเนกประสงค์ที่ทำหน้าที่เป็นทั้งผู้คุ้มกันตัวฉกาจและเครื่องสแกนโคเด็กซ์อัตโนมัติ โดยมี 'Investigator' เป็นคำสั่งเฉพาะ และมี 'Deconstructor' เป็นอาวุธ ในการสแกนต้องมีการติดตั้งเครื่องสแกนโคเด็กซ์และมีการชาร์จที่พร้อมใช้งาน",
+      "name": "Helios",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergesi 'Investigator' ve ana silahı 'Deconstructor' olan çok yönlü Helios Sentineli hem ölüm saçan bir gardiyan, hem de otomatik Kodeks tarayıcısı olarak işlev görebilir. Tarama yapmak için Kodeks Tarayıcısının kuşanılmış olması ve yeterli miktarda olması gereklidir.",
+      "name": "Helios",
+      "code": "tr"
+    },
+    {
+      "description": "Грізний вартовий, озброєний Розбирачем. Стандартна настанова «Дослідник» автоматизує створення дописів у збірнику знань. Для зчитування Геліос використовує споряджений зчитувач збірника знань і його доступні заряди.",
+      "name": "Геліос",
+      "code": "uk"
+    }
+  ]
+}

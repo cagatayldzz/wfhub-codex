@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageVaubanPrimeDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-prime-glyph---dark-ce53f640bd.png",
+  "name": "Vauban Prime Glyph - Dark",
+  "description": "A glyph depicting Vauban Prime on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Vauban Prime vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Vauban Prime (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Vauban Prime sur un fond sombre.",
+      "name": "Glyphe Vauban Prime - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Vauban Prime su uno sfondo scuro.",
+      "name": "Glifo Vauban Prime - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 바우반 프라임을 묘사한 글리프입니다.",
+      "name": "바우반 프라임 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Vauban Prime sobre un fondo oscuro.",
+      "name": "Glifo de Vauban Prime - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Vauban Prime 在黑暗背景下的浮印。",
+      "name": "Vauban Prime 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вобана Прайм на тёмном фоне.",
+      "name": "Глиф: Вобан Прайм - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Vauban Prime のグリフ。",
+      "name": "Vauban Prime グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Vauban Prime na ciemnym tle.",
+      "name": "Glif Vauban Prime — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Vauban Prime em um fundo escuro.",
+      "name": "Glifo: Vauban Prime (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Vauban Prime 在黑暗背景下的浮印。",
+      "name": "Vauban Prime 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Vauban Prime บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Vauban Prime - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Prime koyu fonlu glif.",
+      "name": "Vauban Prime Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вобана-прайм на темному тлі.",
+      "name": "Темний гліф «Вобан-прайм»",
+      "code": "uk"
+    }
+  ]
+}

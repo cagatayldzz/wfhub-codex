@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/standard-livery-990bf01726.png",
+  "name": "Standard Livery",
+  "description": "The factory created livery of the Atomicycle.",
+  "languages": [
+    {
+      "description": "Die werkseitig erstellte Lackierung des Atomkrads.",
+      "name": "Lackierung: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le modèle d'usine de l'Atomicycle.",
+      "name": "Modèle Standard",
+      "code": "fr"
+    },
+    {
+      "description": "La fabbrica ha creato questa livrea per Atomicycle.",
+      "name": "Livrea Standard",
+      "code": "it"
+    },
+    {
+      "description": "아토미사이클 출고 시 기본으로 적용되는 표준 도장입니다.",
+      "name": "표준 도장",
+      "code": "ko"
+    },
+    {
+      "description": "La librea de fábrica de la Atomicycle.",
+      "name": "Librea Estándar",
+      "code": "es"
+    },
+    {
+      "description": "原子摩托车的出厂外观涂装。",
+      "name": "标准",
+      "code": "zh"
+    },
+    {
+      "description": "Заводская ливрея атомицикла.",
+      "name": "Ливрея: Стандартная",
+      "code": "ru"
+    },
+    {
+      "description": "アトミサイクルの製造時の塗装。",
+      "name": "Standard リバリー",
+      "code": "ja"
+    },
+    {
+      "description": "Fabryczne malowanie Atomicykla.",
+      "name": "Malowanie: Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "A pintura de fábrica da Atomimoto.",
+      "name": "Pintura: Padrão de Fábrica",
+      "code": "pt"
+    },
+    {
+      "description": "原拓密重機的原廠塗裝。",
+      "name": "標準",
+      "code": "tc"
+    },
+    {
+      "description": "ลายรถ Atomicycle ที่ออกแบบตามมาตฐานโรงงาน",
+      "name": "ลายมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Atomisikletin fabrika tarafından oluşturulan tasarımı.",
+      "name": "Standart Kaplama",
+      "code": "tr"
+    },
+    {
+      "description": "Заводський каркас атомоцикла.",
+      "name": "Типовий каркас",
+      "code": "uk"
+    }
+  ]
+}

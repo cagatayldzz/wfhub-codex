@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/Duviri2ndRelease/DUVxIntPropTableA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-repast-table-aeaced4baf.png",
+  "name": "Duviri Repast Table",
+  "description": "A sturdy table on which to enjoy the nutritious dole of simple grains which Thrax’s generosity has blessed you with.",
+  "languages": [
+    {
+      "description": "Ein stabiler Tisch, an dem man eine nahrhafte Mahlzeit aus einfachem Getreide verzehren kann, dank der Großzügigkeit von Thrax.",
+      "name": "Duviri-Esstisch",
+      "code": "de"
+    },
+    {
+      "description": "Une table solide sur laquelle profiter de produits simples et nutritifs fournis grâce à la générosité de Thrax.",
+      "name": "Table de repas de Duviri",
+      "code": "fr"
+    },
+    {
+      "description": "Un tavolo robusto sul quale consumare i cereali semplici e nutritivi con cui ti ha benedetto la generosità di Thrax.",
+      "name": "Tavolo - Duviri",
+      "code": "it"
+    },
+    {
+      "description": "너그러운 트락스께서 은혜로이 베푸신, 간단하지만 영양가가 풍부한 곡물 배당품을 즐길 수 있는 튼튼한 테이블입니다.",
+      "name": "두비리 식사용 테이블",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesa resistente para disfrutar de la dotación de cereales simples y nutritivos con los que la generosidad de Thrax te ha bendecido.",
+      "name": "Mesa de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "一张坚固的桌子，在上面你可以享受由士魂大帝慷慨赐予的营养丰富的简单谷物。",
+      "name": "双衍王境餐桌",
+      "code": "zh"
+    },
+    {
+      "description": "Прочный стол, на котором можно насладиться питательной порцией простой каши, которой вас наградил щедрый Тракс.",
+      "name": "Дувири: Трапезный стол",
+      "code": "ru"
+    },
+    {
+      "description": "Dominus Thraxの寛大さによって与えられた、素朴な穀物を食するのに適した頑丈なテーブル。",
+      "name": "デュヴィリ 食卓",
+      "code": "ja"
+    },
+    {
+      "description": "Solidny stół, przy którym rozsmakować można się w pożywnej porcji prostych ziaren, zawdzięczanych hojności samego Króla Thraxa.",
+      "name": "Duviri: Stół",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mesa robusta para desfrutar dos grãos simples e nutritivos fornecidos graças à generosidade do Thrax.",
+      "name": "Mesa de jantar de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "一張堅固的桌子，讓你可在上面享受 Thrax 慷慨賜予你營養豐富的簡單穀物。",
+      "name": "渡域餐桌",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะที่มีความทนทานที่ให้คุณสามารถเพลิดเพลินไปกับธัญพืชง่าย ๆ แต่มีคุณค่าทางโภชนาการซึ่งได้มาจากความเอื้ออาทรของ Thrax",
+      "name": "โต๊ะอาหาร Duviri",
+      "code": "th"
+    },
+    {
+      "description": "Thrax'ın cömertliğinin sana bahşettiği besleyici basit tahılların tadını çıkarabileceğin sağlam bir masa.",
+      "name": "Duviri Yemek Masası",
+      "code": "tr"
+    },
+    {
+      "description": "Міцний стіл, за яким можна насолоджуватися поживною кашею з простих зерен, якими нагородив вас щедрий Тракс.",
+      "name": "Дувірський обідній стіл",
+      "code": "uk"
+    }
+  ]
+}

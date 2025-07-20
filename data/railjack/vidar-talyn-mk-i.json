@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/Laser/GatlingLaser/VidarGatlingLaserTierA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/talyn.png",
+  "name": "Vidar Talyn Mk I",
+  "description": "Rapid-fire laser cannon: burns targets with instantaneous beams. Fire rate builds with continuous use.",
+  "languages": [
+    {
+      "description": "Schnellfeuer-Laserkanone: Trifft Gegner mit sofortigen Strahlen. Die Feuerrate steigt bei kontinuierlicher Nutzung.",
+      "name": "Vidar Talyn MK I",
+      "code": "de"
+    },
+    {
+      "description": "Canon laser à tir rapide: brûle les cibles avec des rayons instantanés. La cadence de tir augmente avec une utilisation continue.",
+      "name": "Talyn Vidar MK I",
+      "code": "fr"
+    },
+    {
+      "description": "Cannone Laser a Fuoco Rapido: brucia i bersagli con raggi istantanei. La cadenza di tiro aumenta con l'utilizzo continuo.",
+      "name": "Talyn Vidar MK I",
+      "code": "it"
+    },
+    {
+      "description": "속사형 레이저 캐논: 즉발되는 빔으로 목표를 불태웁니다. 지속적인 사용 시 연사력이 증가합니다.",
+      "name": "비다르 탈린 MK I",
+      "code": "ko"
+    },
+    {
+      "description": "Cañón láser de disparo rápido: quema a los objetivos con sus rayos instantáneos. La cadencia de fuego aumenta con el uso continuo.",
+      "name": "Talyn Vidar MK I",
+      "code": "es"
+    },
+    {
+      "description": "速射激光炮台：用瞬时光束使目标燃烧。持续使用该武器会提高射速。",
+      "name": "Vidar 锐透穿甲炮 MK I",
+      "code": "zh"
+    },
+    {
+      "description": "Скорострельная лазерная пушка: прожигает цели импульсными лучами. Скорострельность возрастает при непрерывном использовании.",
+      "name": "Талын: Вайдер MK I",
+      "code": "ru"
+    },
+    {
+      "description": "高連射型レーザーキャノン。ターゲットをビームで瞬時に燃やす。発射速度は連続使用で上昇する。",
+      "name": "ビダール・タリン MK I",
+      "code": "ja"
+    },
+    {
+      "description": "Szybkostrzelne działo laserowe: podpala cele swoimi promieniami. Szybkość ognia rośnie wraz z czasem ostrzału.",
+      "name": "Talyn: Vidar MK I",
+      "code": "pl"
+    },
+    {
+      "description": "Canhão a laser de disparo rápido: queima os alvos com feixes instantâneos. A cadência de tiro aumenta com disparos contínuos.",
+      "name": "Talyn: Vidar (MK I)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TALYN）速射雷射砲透過瞬間光束燃燒目標。射速經由持續使用而增加。",
+      "name": "維達泰淩機砲 MK I",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่เลเซอร์ยิงอย่างรวดเร็ว: เผาไหม้เป้าหมายด้วยลำแสงทันที อัตราการยิงสร้างขึ้นพร้อมใช้งานอย่างต่อเนื่อง",
+      "name": "Vidar Talyn MK I",
+      "code": "th"
+    },
+    {
+      "description": "Hızlı ateş eden lazer topu: Hedefleri anlık ışınlarla yakar. Sürekli kullanımda atış hızı artar.",
+      "name": "Vidar Talyn MK I",
+      "code": "tr"
+    },
+    {
+      "description": "Швидкострільна лазерна гармата: пропікає цілі короткими променями. Швидкість пострілів зростає під час безперервного ведення вогню.",
+      "name": "Талинь «Відар» MK I",
+      "code": "uk"
+    }
+  ]
+}

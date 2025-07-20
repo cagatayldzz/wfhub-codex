@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soma-prime-16e75e3a35.png",
+  "name": "Soma Prime",
+  "description": "Known for taking down whole squads with its single massive magazine, few weapons were as feared as the Prime Soma.",
+  "languages": [
+    {
+      "description": "Bekannt dafür, komplette Gruppen mit einem einzigen, gewaltigen Magazin auszulöschen, werden nur wenige Waffen so gefürchtet wie das Soma Prime.",
+      "name": "Soma Prime",
+      "code": "de"
+    },
+    {
+      "description": "Connu pour sa capacité à descendre des escouades entières grâce à son gigantesque chargeur, peu d'armes sont aussi redoutées que le Soma Prime.",
+      "name": "Soma Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Poche armi erano temute come il Soma Prime, famoso per la sua capacità di abbattere intere squadre con un singolo caricatore.",
+      "name": "Soma Prime",
+      "code": "it"
+    },
+    {
+      "description": "단 하나만으로도 분대 전체를 쓸어버리는 거대한 탄창으로 악명높은 소마 프라임의 위명에 비견할 만한 무기는 그리 많지 않습니다.",
+      "name": "소마 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Conocida por abatir escuadrones enteros con un solo cargador, pocas armas son tan temidas como la Soma Prime.",
+      "name": "Soma Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SOMA PRIME）以威猛的火力成功掠倒整支队伍而闻名，仅有少数武器能像月神 Prime 一样令人闻之丧胆。",
+      "name": "月神 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Известная своей способностью уложить целые отряды благодаря своему гигантскому магазину, немногие виды оружия так же устрашающи, как Сома Прайм.",
+      "name": "Сома Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Soma Primeより凶悪な武器はないであろう。マガジン1つで分隊を一掃すると言われている。",
+      "name": "Soma Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Znana z kładzenia pokotem całych oddziałów nieprzyjaciela jednym magazynkiem. Niewiele broni budzi taką grozę jak Soma Prime.",
+      "name": "Soma Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Conhecida por eliminar esquadrões inteiros com um único carregador, poucas armas foram tão temidas quanto a Soma Prime.",
+      "name": "Soma Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SOMA PRIME）以威猛的火力成功掠倒整支隊伍而聞名，僅有少數武器能像月神 Prime 一樣令人聞之喪膽。",
+      "name": "月神 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "Soma Prime ขึ้นชื่อในการล้างบางศัตรูทั้งทีมด้วยแม็กกาซีนขนาดใหญ่เพียงอันเดียว ซึ่งมีอาวุธเพียงไม่กี่ชิ้นเท่านั้นที่มีความน่ากลัวพอ ๆ กับอาวุธกระบอกนี้",
+      "name": "Soma Prime",
+      "code": "th"
+    },
+    {
+      "description": "Tek ama devasa şarjörü ile tüm bir düşman birliğini yere serdiği bilinir, sadece çok az sayıda silah Prime Soma kadar korkutucudur.",
+      "name": "Soma Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Моторошна праймова версія гвинтівки, здатна з одним великим магазином знищувати повні загони ворогів.",
+      "name": "Сома-прайм",
+      "code": "uk"
+    }
+  ]
+}

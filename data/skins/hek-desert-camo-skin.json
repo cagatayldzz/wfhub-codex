@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Camo/DesertHekSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hek-desert-camo-skin-09bd9d42e6.png",
+  "name": "Hek Desert-Camo Skin",
+  "description": "Desert camouflage skin for the Hek.",
+  "languages": [
+    {
+      "description": "Wüsten-Tarnanstrich für die Hek. ",
+      "name": "Hek-Skin: Wüstentarnung",
+      "code": "de"
+    },
+    {
+      "description": "Aspect Camouflage Désert pour le Hek.",
+      "name": "Aspect Hek Camouflage Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Skin Desert-Camo per l'Hek.",
+      "name": "Skin Hek Desert-Camo",
+      "code": "it"
+    },
+    {
+      "description": "헥을 위한 사막용 위장 스킨입니다.",
+      "name": "헥 데저트-카모 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Diseño de camuflaje desértico para la Hek.",
+      "name": "Diseño Camuflaje Desértico de Hek",
+      "code": "es"
+    },
+    {
+      "description": "海克使用的沙漠伪装外观。",
+      "name": "海克沙漠迷彩外观",
+      "code": "zh"
+    },
+    {
+      "description": "Пустынный камуфляж для Хека.",
+      "name": "Скин Хека: Пустынный Камуфляж",
+      "code": "ru"
+    },
+    {
+      "description": "Hek用の砂漠風迷彩スキン。",
+      "name": "Hek Desert-Camo スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka pustynnego kamuflażu stworzona dla Heka",
+      "name": "Hek: Skórka Kamuflaż Pustynny",
+      "code": "pl"
+    },
+    {
+      "description": "Skin de camuflagem do deserto para a Hek.",
+      "name": "Hek: Skin Camuflagem Desértica",
+      "code": "pt"
+    },
+    {
+      "description": "海克使用的沙漠偽裝外觀。",
+      "name": "海克 沙漠迷彩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินลายพรางทะเลทรายสำหรับ Hek",
+      "name": "สกิน Hek Desert-Camo",
+      "code": "th"
+    },
+    {
+      "description": "Hek için çöl kamuflaj skin.",
+      "name": "Hek Çöl-Kamuflaj Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Пустельно-тактичний вигляд для рушниці «Гек».",
+      "name": "Вигляд «Пустельний камуфляж» для Гека",
+      "code": "uk"
+    }
+  ]
+}

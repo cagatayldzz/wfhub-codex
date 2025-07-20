@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nyx-glyph---bright-26b91dc7c9.png",
+  "name": "Nyx Glyph - Bright",
+  "description": "A glyph depicting Nyx on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nyx vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nyx (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nyx sur un fond lumineux.",
+      "name": "Glyphe Nyx - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nyx su uno sfondo chiaro.",
+      "name": "Glifo Nyx - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 닉스를 묘사한 글리프입니다.",
+      "name": "닉스 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nyx sobre un fondo brillante.",
+      "name": "Glifo de Nyx - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nyx 在明亮背景下的浮印。",
+      "name": "Nyx 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Никс на светлом фоне.",
+      "name": "Глиф: Никс — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Nyx のグリフ。",
+      "name": "Nyx グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Nyx na jasnym tle.",
+      "name": "Glif Nyx — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Nyx em um fundo claro.",
+      "name": "Glifo: Nyx (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nyx 在明亮背景下的浮印。",
+      "name": "Nyx 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nyx บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nyx - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nyx açık fonlu glif.",
+      "name": "Nyx Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нікс на світлому тлі.",
+      "name": "Яскравий гліф «Нікс»",
+      "code": "uk"
+    }
+  ]
+}

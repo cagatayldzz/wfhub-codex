@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/EggHatcher",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/incubator-power-core-c7f9a99082.png",
+  "name": "Incubator Power Core",
+  "description": "This device facilitates the growth of a Kubrow or Kavat clone, from birth to adolescence.",
+  "languages": [
+    {
+      "description": "Dieses Gerät ermöglicht die Aufzucht eines Kubrow- oder Kavat-Klons, von der Geburt bis zur Welpenzeit.",
+      "name": "Inkubator-Energiekern",
+      "code": "de"
+    },
+    {
+      "description": "Cet appareil est nécessaire à la croissance d'un clone de Kubrow ou de Kavat, de sa naissance jusqu'à l'adolescence.",
+      "name": "Cœur de Puissance d'Incubateur",
+      "code": "fr"
+    },
+    {
+      "description": "Questo dispositivo facilita la crescita di un clone di Kubrow o Kavat, dalla nascita fino alla maturazione.",
+      "name": "Cella d'Energia Incubatrice",
+      "code": "it"
+    },
+    {
+      "description": "이 장치는 쿠브로 또는 카밧의 복제를 출생 직후부터 새끼 시기까지 성장하도록 돕습니다.",
+      "name": "인큐베이터 파워 코어",
+      "code": "ko"
+    },
+    {
+      "description": "Este dispositivo facilita el crecimiento de un clon de kubrow o kavat, desde que nace hasta su adolescencia.",
+      "name": "Núcleo de energía de la incubadora",
+      "code": "es"
+    },
+    {
+      "description": "这个装置能让库狛克隆体或库娃克隆体从出生成长至幼年时期。",
+      "name": "孵化器能量核心",
+      "code": "zh"
+    },
+    {
+      "description": "Это устройство помогает вырастить клон кубрау или кавата от рождения и до юного возраста.",
+      "name": "Энергоядро инкубатора",
+      "code": "ru"
+    },
+    {
+      "description": "この装置はクブロウ、キャバットのクローンが生まれてから子犬、子猫までの成長を促進する。",
+      "name": "孵化器パワーコア",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie zapewniające rozwój klonowi Kubrowa lub Kavata od urodzenia do wieku dojrzewania.",
+      "name": "Rdzeń Mocy Inkubatora",
+      "code": "pl"
+    },
+    {
+      "description": "Este dispositivo facilita o crescimento de um clone de Kubrow ou Kavat, desde o nascimento até a adolescência.",
+      "name": "Núcleo de Energia da Incubadora",
+      "code": "pt"
+    },
+    {
+      "description": "這個裝置可促進庫狛或庫娃複製體從出生到青春期的成長。",
+      "name": "孵化器能量核心",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์นี้ช่วยในการเจริญเติบโตของโคลน Kubrow หรือ Kavat ตั้งแต่แรกเกิดจนถึงช่วงวัยรุ่น",
+      "name": "แกนพลังงานเครื่องฟักไข่",
+      "code": "th"
+    },
+    {
+      "description": "Bu cihaz Kubrow veya Kavat klonlarının doğumdan ergen hale gelene kadar ki büyüme sürecini hızlandırır.",
+      "name": "Kuluçkalayıcı Güç Çekirdeği",
+      "code": "tr"
+    },
+    {
+      "description": "Цей пристрій сприяє вирощенню клона куброу або кавата від моменту народження до юного віку.",
+      "name": "Ядро реактора інкубатора",
+      "code": "uk"
+    }
+  ]
+}

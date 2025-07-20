@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/Kata2Emote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aquarid-narta-26b6bead4d.png",
+  "name": "Aquarid Narta",
+  "description": "A Tenno display of power and technique, followed up with a short bow.",
+  "languages": [
+    {
+      "description": "Eine Vorführung der Fähigkeiten und Techniken der Tenno, gefolgt von einer kurzen Verbeugung.",
+      "name": "Narta: Aquarid",
+      "code": "de"
+    },
+    {
+      "description": "Une démonstration de force et d'adresse Tenno, terminée par un bref salut.",
+      "name": "Narta Aquaride",
+      "code": "fr"
+    },
+    {
+      "description": "Una dimostrazione di potere e tecnica, seguita da un inchino breve.",
+      "name": "Aquarid Narta",
+      "code": "it"
+    },
+    {
+      "description": "힘과 테크닉을 보이는 텐노식 동작으로 짧은 인사가 덧붙여집니다.",
+      "name": "아콰리드 나르타",
+      "code": "ko"
+    },
+    {
+      "description": "Una exhibición de poder y técnica tenno, seguida de una breve reverencia.",
+      "name": "Narta Acuárida",
+      "code": "es"
+    },
+    {
+      "description": "一种 Tenno 展现力量与技术的演示，会以一个鞠躬作为收尾。",
+      "name": "水瓶座武式",
+      "code": "zh"
+    },
+    {
+      "description": "Демонстрация силы и техники Тэнно, начинаемая с короткого поклона.",
+      "name": "Нарта: Акварид",
+      "code": "ru"
+    },
+    {
+      "description": "テンノは学んだ力と技を披露して、お辞儀をする。",
+      "name": "アクアリッド・アクション",
+      "code": "ja"
+    },
+    {
+      "description": "Pokaz mocy i techniki Tenno, zakończone płytkim ukłonem.",
+      "name": "Narta Aquarid",
+      "code": "pl"
+    },
+    {
+      "description": "Uma exibição Tenno de poder e técnica, seguida de uma saudação curta",
+      "name": "Narta Aquática",
+      "code": "pt"
+    },
+    {
+      "description": "一種 Tenno 展現力量與技術的演示，會以一個鞠躬作為收尾。",
+      "name": "水瓶座武式",
+      "code": "tc"
+    },
+    {
+      "description": "การแสดงพลังและเทคนิคของ Tenno ตามด้วยการโค้งคำนับเล็กน้อย",
+      "name": "Aquarid Narta",
+      "code": "th"
+    },
+    {
+      "description": "Tenno güç ve tekniğinin bir göstergesi.",
+      "name": "Aquarid Narta",
+      "code": "tr"
+    },
+    {
+      "description": "Тенно показує свою силу й техніку і завершує легким уклоном.",
+      "name": "Нарта: Тиха вода",
+      "code": "uk"
+    }
+  ]
+}

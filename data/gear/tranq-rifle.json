@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/TranqRifleGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tranq-rifle-e6ee74829c.png",
+  "name": "Tranq Rifle",
+  "description": "Tranquilizes animals for the purpose of safe relocation.",
+  "languages": [
+    {
+      "description": "Betäubt Tiere, um sie sicher umsiedeln zu können.",
+      "name": "Narkosegewehr",
+      "code": "de"
+    },
+    {
+      "description": "Tranquillise les animaux dans le but de les déplacer dans un endroit sûr.",
+      "name": "Fusil-Tranq",
+      "code": "fr"
+    },
+    {
+      "description": "Tranquillizza gli animali per trasferirli in modo sicuro.",
+      "name": "Fucile Tranq",
+      "code": "it"
+    },
+    {
+      "description": "안전한 수송을 위해 동물들을 진정시킵니다.",
+      "name": "마취 소총",
+      "code": "ko"
+    },
+    {
+      "description": "Tranquiliza animales para propósitos de reubicación segura.",
+      "name": "Rifle tranquilizador",
+      "code": "es"
+    },
+    {
+      "description": "以安全重新安置为目的镇静动物。",
+      "name": "麻醉步枪",
+      "code": "zh"
+    },
+    {
+      "description": "Обездвиживает животных с целью их дальнейшего безопасного перемещения.",
+      "name": "Транквилизаторная Винтовка",
+      "code": "ru"
+    },
+    {
+      "description": "安全な移動のために動物を鎮静化させる。",
+      "name": "麻酔銃",
+      "code": "ja"
+    },
+    {
+      "description": "Wystrzeliwuje środek uspokajający pozwalający na bezpieczne przetransportowanie zwierzyny.",
+      "name": "Karabin Usypiający",
+      "code": "pl"
+    },
+    {
+      "description": "Tranquiliza um animal para que ele possa ser transportado em segurança.",
+      "name": "Rifle Tranquilizante",
+      "code": "pt"
+    },
+    {
+      "description": "以安全重新安置為目的鎮靜動物。",
+      "name": "麻醉步槍",
+      "code": "tc"
+    },
+    {
+      "description": "ทำให้สัตว์สงบลงเพื่อจุดประสงค์ในการย้ายถิ่นฐานอย่างปลอดภัย",
+      "name": "ปืนยิงยาสลบ",
+      "code": "th"
+    },
+    {
+      "description": "Güvenli bir aktarma sağlayabilmek için hayvanları yatıştırıcı.",
+      "name": "Yatıştırıcı Tüfek",
+      "code": "tr"
+    },
+    {
+      "description": "Заспокоює тварин, щоби безпечно перевозити їх.",
+      "name": "Гамівна гвинтівка",
+      "code": "uk"
+    }
+  ]
+}

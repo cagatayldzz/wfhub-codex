@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/WolfRageEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wolf-howl-f5b09e7c31.png",
+  "name": "Wolf Howl",
+  "description": "Summon the pack.",
+  "languages": [
+    {
+      "description": "Rufe das Rudel herbei.",
+      "name": "Wolfsgeheul",
+      "code": "de"
+    },
+    {
+      "description": "Appelez la meute.",
+      "name": "Hurlement du Loup",
+      "code": "fr"
+    },
+    {
+      "description": "Riunisci il branco.",
+      "name": "Ululato Wolf",
+      "code": "it"
+    },
+    {
+      "description": "무리를 소환하세요.",
+      "name": "늑대 울음",
+      "code": "ko"
+    },
+    {
+      "description": "Invoca a la manada.",
+      "name": "El Aullido del Lobo",
+      "code": "es"
+    },
+    {
+      "description": "召唤狼群。",
+      "name": "狼嚎",
+      "code": "zh"
+    },
+    {
+      "description": "Созывайте стаю. ",
+      "name": "Волчий вой",
+      "code": "ru"
+    },
+    {
+      "description": "群れの招集。",
+      "name": "ウルフ・ハウル",
+      "code": "ja"
+    },
+    {
+      "description": "Przyzwij watahę.",
+      "name": "Wilcze Wycie",
+      "code": "pl"
+    },
+    {
+      "description": "Invoque a alcateia.",
+      "name": "Uivo do Lobo",
+      "code": "pt"
+    },
+    {
+      "description": "召喚狼群。",
+      "name": "狼嚎",
+      "code": "tc"
+    },
+    {
+      "description": "เรียกฝูงออกมา",
+      "name": "หมาป่าเห่าหอน",
+      "code": "th"
+    },
+    {
+      "description": "Sürüyü çağır.",
+      "name": "Kurt Uluması",
+      "code": "tr"
+    },
+    {
+      "description": "Саме так прикликають зграю.",
+      "name": "Вовче виття",
+      "code": "uk"
+    }
+  ]
+}

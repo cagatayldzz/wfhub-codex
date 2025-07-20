@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemCetusWispTwitch",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prominence-wisp-totem-ad95ee8e7e.png",
+  "name": "Prominence Wisp Totem",
+  "description": "Pay homage to the mysterious forces of the Plains of Eidolon with this Ostron crafted kinetic totem.",
+  "languages": [
+    {
+      "description": "Ehre die geheimnisvollen Kräften der Ebenen von Eidolon mit diesem Ostron-gefertigten, kinetischen Totem.",
+      "name": "Totem: Prominenzhauch",
+      "code": "de"
+    },
+    {
+      "description": "Rendez hommage aux forces mystérieuses des Plaines d'Eidolon avec ce Totem kinétique fabriqué par les Ostrons.",
+      "name": "Totem Feu Follet Prominence",
+      "code": "fr"
+    },
+    {
+      "description": "Rendi omaggio alle misteriose forze delle Piane di Eidolon con questo totem cinetico di Ostron.",
+      "name": "Totem Prominence Wisp",
+      "code": "it"
+    },
+    {
+      "description": "오스트론제의 이 움직이는 토템으로 아이돌론 평원의 기이한 무리에 경의를 표하세요.",
+      "name": "프로미넌스 위습 토템",
+      "code": "ko"
+    },
+    {
+      "description": "Homenajea a las misteriosas fuerzas de las Llanuras de Eidolon con este tótem cinético ostronita.",
+      "name": "Tótem espiritual prominente",
+      "code": "es"
+    },
+    {
+      "description": "用这幅 Ostron 制造的动态图腾来向夜灵平野的神秘势力致敬。",
+      "name": "名望幽魂图腾",
+      "code": "zh"
+    },
+    {
+      "description": "Выразите почтение таинственным силам Равнин Эйдолона с этим остронским кинетическим тотемом.",
+      "name": "Тотем Огонька: Известность",
+      "code": "ru"
+    },
+    {
+      "description": "このオストロンの民が造り上げたトーテムから溢れるエイドロンの草原の神秘の力に敬意を表そう。",
+      "name": "Prominence Wisp トーテム",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj hołd tajemniczym siłom równiny Eidolon z tym spreparowanym przez Ostrona Totemem Kinetycznym.",
+      "name": "Totem Ognika Prominence",
+      "code": "pl"
+    },
+    {
+      "description": "Homenageie as forças misteriosas das Planícies de Eidolon com este totem cinético construído em Ostron.",
+      "name": "Totem do Espírito Proeminente",
+      "code": "pt"
+    },
+    {
+      "description": "用這座 Ostron 製造的動態圖騰來向夜靈平野的神秘力量致敬。",
+      "name": "名望幽魂圖騰",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความเคารพต่อกองกำลังลึกลับในที่ราบ Eidolon ด้วยโทเทมจลนศาสตร์ที่ Ostron เป็นผู้สร้างขึ้น",
+      "name": "โทเทม: Prominence Wisp",
+      "code": "th"
+    },
+    {
+      "description": "Bu Ostron üretimi kinetik totem ile Eidolon Ovaları'nın gizemli güçlerine saygınızı gösterin.",
+      "name": "Prominence Wisp Totemi",
+      "code": "tr"
+    },
+    {
+      "description": "Цей остронський кінетичний тотем вшановує загадкову силу, що населяє Рівнини Ейдолонів.",
+      "name": "Тотем «Видатний вогник»",
+      "code": "uk"
+    }
+  ]
+}

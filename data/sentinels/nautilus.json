@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/EmpyreanSentinelPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nautilus-b1bfae3524.png",
+  "name": "Nautilus",
+  "description": "With 'Auto Omni' and 'Cordon' as default Precepts, this Sentinel is the ideal companion for long voyages aboard a Railjack.",
+  "armor": 80,
+  "languages": [
+    {
+      "description": "Mit 'Auto-Omni' und 'Schwarmmagnet' als Standard-Verhaltensregel, ist dieser Wächter als Helfer für lange Reisen an Bord eines Railjacks gedacht.",
+      "name": "Nautilus",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Auto Omni' et 'Cordon' comme Préceptes par défaut, cette Sentinelle est le compagnon idéal pour les longs voyages à bord d'un Railjack.",
+      "name": "Nautilus",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Auto Omni' e 'Cordon' come Precetti predefiniti, questa Sentinella è la compagna ideale per i lunghi viaggi a bordo di un Railjack.",
+      "name": "Nautilus",
+      "code": "it"
+    },
+    {
+      "description": "'오토 옴니' 및 '코르돈'을 기본 프리셉트로 탑재한 이 센티넬은 레일잭에 승선하여 긴 항해를 할 때 이상적인 동반자가 되어 줍니다.",
+      "name": "노틸러스",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Omni automática' y 'Acordonar' como preceptos determinados, este centinela es el compañero ideal para los largos viajes a bordo del Railjack.",
+      "name": "Nautilus",
+      "code": "es"
+    },
+    {
+      "description": "以「万用自修」和「防线封锁」为默认指令，这件守护是搭乘航道星舰远航的理想同伴。",
+      "name": "鹦鹉螺",
+      "code": "zh"
+    },
+    {
+      "description": "Обладая по умолчанию заповедями «Авто Омни» и «Кордон», этот страж — идеальный компаньон для длительных путешествий на борту Рэйлджека.",
+      "name": "Наутилус",
+      "code": "ru"
+    },
+    {
+      "description": "「Auto Omni」と「Cordon」を初期プリセプトとして搭載しており、このセンチネルはレールジャックミッションで最適のパートナーとなる。",
+      "name": "Nautilus",
+      "code": "ja"
+    },
+    {
+      "description": "Z instrukcjami 'Automatyczne Omni' i 'Kordon', ten Strażnik jest idealnym towarzyszem podczas długich podróży na pokładzie Railjacka.",
+      "name": "Nautilus",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Auto Omni' e 'Cordon' como preceitos padrões, esta Sentinela é a companheira ideal para longas viagens a bordo de uma Railjack.",
+      "name": "Nautilus",
+      "code": "pt"
+    },
+    {
+      "description": "以「奧寧自修」和「隔斷」作為預設指令，這個守護是銳捷號航行遠途時的理想同伴。",
+      "name": "鸚鵡螺",
+      "code": "tc"
+    },
+    {
+      "description": "เซนติเนลประเภทนี้มี 'Auto Omni' และ 'Cordon' เป็นกฎคำสั่งเริ่มต้น จึงเป็นคู่หูที่เหมาะสำหรับการเดินทางไกลบน Railjack ",
+      "name": "Nautilus",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergeleri 'Auto Omni' ve 'Cordon' ile beraber kullanıldığında bu Sentinel Railjack ile yapılan uzun yolculuklar için ideal bir yoldaş olur.",
+      "name": "Nautilus",
+      "code": "tr"
+    },
+    {
+      "description": "Незамінний вартовий-помічник у тривалих подорожах на рейкоджеку. Має стандартні настанови «Автоматичний мультиінструмент» і «Кордон».",
+      "name": "Наутилус",
+      "code": "uk"
+    }
+  ]
+}

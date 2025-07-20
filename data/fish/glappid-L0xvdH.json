@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glappid-dd785240b0.png",
+  "name": "Glappid",
+  "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
+  "languages": [
+    {
+      "description": "Der Glappid ist ein Plünderer, der sich von den Überresten toter Fische ernährt. Er bildet eine Symbiose mit dem Seram Käfer, der jegliche Gifte, die von dem Glappid verzehrt werden, entzieht und isst.",
+      "name": "Glappid",
+      "code": "de"
+    },
+    {
+      "description": "Le Glappide est un charognard qui festoie sur les restes de poissons morts. Il a formé un lien symbiotique avec le scarabée Seram qui extrait et se nourrit des toxines ingérées par le Glappide.",
+      "name": "Glappide",
+      "code": "fr"
+    },
+    {
+      "description": "Il Glappid è un necrofago che banchetta sui resti dei pesci morti. Ha formato un legame simbiotico con il Seram Beetle, che estrae le tossine ingerite dal Glappid e le utilizza come nutrimento.",
+      "name": "Glappid",
+      "code": "it"
+    },
+    {
+      "description": "글랍피드는 죽은 생선의 잔해물을 먹어치우는 청소부로, 글랍피드가 섭취한 잔해물에서 독성을 추출해 먹이로 삼는 세람 딱정벌레와는 공생관계를 형성하고 있습니다.",
+      "name": "글랍피드",
+      "code": "ko"
+    },
+    {
+      "description": "El glappid es un carroñero que se hace un festín de los restos de peces muertos. Ha formado un vínculo simbiótico con el escarabajo seram que extrae y se alimenta de cualquier toxina ingerida por el glappid.",
+      "name": "Glappid",
+      "code": "es"
+    },
+    {
+      "description": "盖拉佩德是一种以死鱼残骸为生的食腐动物。它与瑟拉姆甲虫形成了一种共生关系，甲虫将盖拉佩德摄入的毒素析出并以之为食。",
+      "name": "盖拉佩德",
+      "code": "zh"
+    },
+    {
+      "description": "Глаппида - падальщик, питающийся останками рыб. Она сформировала симбиотическую связь с Серамским Жуком, который выводит из неё трупные яды и питается ими.",
+      "name": "Глаппида",
+      "code": "ru"
+    },
+    {
+      "description": "魚の残骸を捕食する珍魚。セラムビートルはグラピッドが持つ毒素を採取し共生している。",
+      "name": "グラピッド",
+      "code": "ja"
+    },
+    {
+      "description": "Glappid jest padlinożercą, który biesiaduje na resztkach zdechłych ryb. Żyje w symbiozie z Żukiem Seram, który wyciąga i żywi się toksynami spożywanymi przez Glappidy.",
+      "name": "Glappid",
+      "code": "pl"
+    },
+    {
+      "description": "O Glappid é um necrófago que se alimenta de restos de peixes mortos. Formou uma ligação simbiótica com o Besouro Seram, que extrai e se alimenta de quaisquer toxinas ingeridas pelo Glappid.",
+      "name": "Glappid",
+      "code": "pt"
+    },
+    {
+      "description": "蓋拉佩德是一種以死魚殘骸為生的食腐動物。它與瑟拉姆甲蟲形成了一種共生關係，甲蟲將蓋拉佩德攝入的毒素析出並以之為食。",
+      "name": "蓋拉佩德",
+      "code": "tc"
+    },
+    {
+      "description": "Glappid เป็นสัตว์กินของเน่าที่กินซากปลาที่ตายแล้ว มันได้สร้างพันธะทางชีวภาพกับด้วง Seram ซึ่งจะสกัดและกินสารพิษใดก็ตามที่ Glappid กินเข้าไป",
+      "name": "Glappid",
+      "code": "th"
+    },
+    {
+      "description": "Glappid ölü balıkların kalanlarından beslenen bir artıkçıdır. Seram böceğiyle ortak bir yaşam sağlamıştır. Böcek balığın sindirdiği toksinleri balıktan çıkararak besinini üretir.",
+      "name": "Glappid",
+      "code": "tr"
+    },
+    {
+      "description": "Стервоїд, що живиться залишками мертвих риб. Створив симбіотичний зв’язок із серамським жуком, який харчується будь-якими токсинами, що потрапляють в організм жукача.",
+      "name": "Жукач",
+      "code": "uk"
+    }
+  ]
+}

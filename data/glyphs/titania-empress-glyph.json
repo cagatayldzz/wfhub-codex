@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageTitaniaDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/titania-empress-glyph-c4a3337f6a.png",
+  "name": "Titania Empress Glyph",
+  "description": "A glyph depicting Titania Empress.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Titania Empress darstellt.",
+      "name": "Glyphe: Titania Empress",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Titania Empress.",
+      "name": "Glyphe Titania Empress",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Titania Empress.",
+      "name": "Glifo Titania Empress",
+      "code": "it"
+    },
+    {
+      "description": "티타니아 엠프레스를 묘사한 글리프입니다.",
+      "name": "티타니아 엠프레스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Titania Emperatriz.",
+      "name": "Glifo de Titania Emperatriz",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Titania 女皇外观的浮印。",
+      "name": "Titania 女皇浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Титании «Императрица».",
+      "name": "Глиф: Титания Императрица",
+      "code": "ru"
+    },
+    {
+      "description": "Titania Empressが描かれたグリフ。",
+      "name": "Titania Empress グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Titanię Empress.",
+      "name": "Glif Titania Empress",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando a Titania Empress.",
+      "name": "Glifo: Titania Empress",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Titania 皇后的浮印。",
+      "name": "Titania 皇后浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Titania Empress",
+      "name": "ภาพสัญลักษณ์ Titania Empress",
+      "code": "th"
+    },
+    {
+      "description": "Titania Empress'i tasvir eden bir glif.",
+      "name": "Titania Empress Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Титанії зі спорядженим виглядом «Імператриця».",
+      "name": "Гліф «Титанія „Імператриця“»",
+      "code": "uk"
+    }
+  ]
+}

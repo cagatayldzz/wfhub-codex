@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Staff/TnRibbonStaffSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lemnas-staff-skin-f9a67fb325.png",
+  "name": "Lemnas Staff Skin",
+  "description": "An elegant staff of ancient Tenno design, the Lemnas dangles with a ribbon that distracts as you attack.",
+  "languages": [
+    {
+      "description": "Der elegante Stab Lemnas, im uralten Design der Tenno, ist mit einem Band geschmückt, das Gegner ablenkt, wenn du angreifst.",
+      "name": "Stabwaffen-Skin: Lemnas",
+      "code": "de"
+    },
+    {
+      "description": "Bâton élégant de conception Tenno ancienne, le Lemnas est orné d'un ruban qui distrait les ennemis lorsque vous attaquez.",
+      "name": "Aspect de Bâton Lemnas",
+      "code": "fr"
+    },
+    {
+      "description": "Un'elegante staffa Tenno dal design antico, la Lemnas è adornata con un nastro che distrae i nemici mentre attacchi.",
+      "name": "Skin Staffe Lemnas",
+      "code": "it"
+    },
+    {
+      "description": "고대 텐노 디자인의 우아한 모양새를 가진 스태프인 렘나스는 공격할 때마다 적의 주의를 분산시키는 리본이 매달려 있습니다.",
+      "name": "렘나스 스태프 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Con un diseño inspirado en los tenno de la antigüedad, del elegante bastón Lemnas pende un listón que distrae al atacar.",
+      "name": "Diseño Lemnas de Bastón",
+      "code": "es"
+    },
+    {
+      "description": "一款由远古 Tenno 设计的优雅长棍，浮萍上挂着一条丝带，可以在你攻击时分散对手的注意力。",
+      "name": "浮萍长棍外观",
+      "code": "zh"
+    },
+    {
+      "description": "Элегантный посох древнего дизайна Тэнно, Лемнас украшен лентой, которая отвлекает врагов, когда вы атакуете.",
+      "name": "Скин Посоха: Лемнас",
+      "code": "ru"
+    },
+    {
+      "description": "Lemnasは古代テンノのデザインが起源とされるこのエレガントなスタッフであり、敵を困惑させるリボンがある。",
+      "name": "Lemnas スタッフ スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Elegancki kostur o starożytnym projekcie Tenno, Lemnas rozprasza uwagę przeciwnika, dyndającą wstążką podczas ataku.",
+      "name": "Kostur: Skórka Lemnas",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma do tipo bastão, muito elegante e elaborada com o design ancestral Tenno. A Lemnas é adornada com uma fita que distrai os inimigos durante o seu ataque.",
+      "name": "Bastões: Skin Lemnas",
+      "code": "pt"
+    },
+    {
+      "description": "這是一款遠古 Tenno 所設計的優雅長棍，浮萍外觀上掛著一條絲帶，進攻時會令敵人感到目眩神迷。",
+      "name": "長棍 浮萍外觀",
+      "code": "tc"
+    },
+    {
+      "description": "Lemnas ห้อยด้วยริบบิ้นที่ทำให้เขวเมื่อคุณโจมตีเป็นกระบองที่สง่างามจากการออกแบบของ Tenno โบราณ",
+      "name": "สกินกระบอง Lemnas",
+      "code": "th"
+    },
+    {
+      "description": "Antik Tenno tasarımına sahip zarif bir asa olan Lemnas, siz saldırdıkça bir kurdele ile sallanarak dikkat dağıtır.",
+      "name": "Lemnas Asa Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Створений прадавніми майстрами тенно витончений посох зі стрічкою, яка не дає ворогам зосередитися на захисті від ваших нищівних ударів.",
+      "name": "Вигляд «Лемнас» для посоха",
+      "code": "uk"
+    }
+  ]
+}

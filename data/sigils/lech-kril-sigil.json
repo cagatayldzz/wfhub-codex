@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLechKril",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lech-kril-sigil-87f8829a09.png",
+  "name": "Lech Kril Sigil",
+  "description": "A sigil depicting Lieutenant Lech Kril.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Lech Kril darstellt.",
+      "name": "Siegel: Lech Kril",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Lieutenant Lech Kril.",
+      "name": "Sceau de Lech Kril",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra il Tenente Lech Kril.",
+      "name": "Sigillo Lech Kril",
+      "code": "it"
+    },
+    {
+      "description": "렉 크릴이 묘사된 시질입니다.",
+      "name": "렉 크릴 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando al Teniente Lech Kril.",
+      "name": "Sello de Lech Kril",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着 Lech Kril 中尉的纹章",
+      "name": "Lech Kril 纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением лейтенанта Лех Крила.",
+      "name": "Сигил: Лех Крил",
+      "code": "ru"
+    },
+    {
+      "description": "Lieutenant Lech Krilを描いたシジル。",
+      "name": "Lech Kril シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Porucznika Lech Krila.",
+      "name": "Znak Lecha Krila",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando Tenente Lech Kril.",
+      "name": "Brasão: Lech Kril",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Lech Kril 中尉的紋章。",
+      "name": "Lech Kril 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Lieutenant Lech Kril",
+      "name": "เครื่องหมาย: Lech Kril",
+      "code": "th"
+    },
+    {
+      "description": "Lech Kril'i temsil eden bir mühür",
+      "name": "Lech Kril Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням лейтенанта Лека Кріла.",
+      "name": "Сиґіл «Лек Кріл»",
+      "code": "uk"
+    }
+  ]
+}

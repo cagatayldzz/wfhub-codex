@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AcolyteAreaCasterBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---misery-59dc54965f.png",
+  "name": "Noggle Statue - Misery",
+  "description": "A small wobbly statue of Stalker's Acolyte, Misery.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur vom Akolythen des Stalkers, Elend.",
+      "name": "Noggle-Statue: Elend",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Misère, un des disciples du Stalker.",
+      "name": "Statuette Noggle - Misère",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del discepolo dello Stalker, Misery, con la testa tremolante.",
+      "name": "Statuetta Noggle - Misery",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트, 미저리의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 미저리",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de uno de los discípulos de Stalker, Miseria.",
+      "name": "Estatua Tambaleante - Miseria",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者追随者苦难摇头娃娃",
+      "name": "苦难摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка последователя Сталкера, Страдания.",
+      "name": "Фигурка: Страдание",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの従者のボブルヘッド人形、Misery。",
+      "name": "Misery ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka akolity Stalkera: Udręka.",
+      "name": "Figurka Noggle — Udręka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um discípulo do Stalker, Miséria.",
+      "name": "Estatueta: Miséria",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的追隨者－苦難的搖頭娃娃。",
+      "name": "苦難搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของผู้ช่วยเหลือ Stalker - Misery",
+      "name": "รูปปั้น Noggle - Misery",
+      "code": "th"
+    },
+    {
+      "description": "Stalker Acolyte, Misery küçük oynar figür.",
+      "name": "Noggle Heykeli - Misery",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка прибічника Сталкера на ім’я Страждання.",
+      "name": "Ноґл «Страждання»",
+      "code": "uk"
+    }
+  ]
+}

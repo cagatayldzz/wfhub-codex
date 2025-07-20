@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corvas-13db9b551f.png",
+  "name": "Corvas",
+  "description": "When fully charged, this flak cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.",
+  "languages": [
+    {
+      "description": "Wenn voll geladen, gibt diese Flak-Kanone einen zerstörerischen Schuss ab. Perfekt, um sich schnell bewegende Ziele abzufangen.",
+      "name": "Corvas",
+      "code": "de"
+    },
+    {
+      "description": "Lorsqu'il est complètement chargé, ce Canon antiaérien envoie un tir dévastateur. Parfait pour la destruction d'intercepteurs rapides.",
+      "name": "Corvas",
+      "code": "fr"
+    },
+    {
+      "description": "Una volta caricato al massimo, questo cannone antiaereo libera un colpo dalla potenza devastante. Ottimo per eliminare incrociatori ad alta velocità.",
+      "name": "Corvas",
+      "code": "it"
+    },
+    {
+      "description": "이 대공포는 완전 충전될 경우 매우 강력한 한 방을 발사하며, 고속으로 움직이는 요격기를 상대하는 데에 안성맞춤입니다.",
+      "name": "코르바스",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando está totalmente cargado, este cañón antiaéreo desata un disparo devastador. Es perfecto para derribar interceptores veloces.",
+      "name": "Corvas",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CORVAS）充能完毕后，这台高射加农炮能击发出毁灭性的炮击。完美地击落快速移动的拦截机。",
+      "name": "黑鸦",
+      "code": "zh"
+    },
+    {
+      "description": "Полностью заряженная, эта осколочная пушка наносит огромный урон. Идеально подходит для уничтожения быстродвижущихся перехватчиков.",
+      "name": "Корвас",
+      "code": "ru"
+    },
+    {
+      "description": "最大チャージで発射すると凄まじい弾幕を張って、高速で襲いかかる敵機を撃ち落すに最適のフラックキャノン。",
+      "name": "Corvas",
+      "code": "ja"
+    },
+    {
+      "description": "Gdy naładowane w pełni, to działo odłamkowe wyrzuca z siebie zabójczy ładunek. Idealne do niszczenia szybkich jednostek przechwytujących.",
+      "name": "Corvas",
+      "code": "pl"
+    },
+    {
+      "description": "Quando totalmente carregado, este canhão antiaéreo dispara um tiro devastador, perfeito para derrubar interceptadores velozes.",
+      "name": "Corvas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CORVAS）充能完畢後，這台高射加農炮能擊發出毀滅性的炮擊。完美地擊落快速移動的攔截機。",
+      "name": "黑鴉",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อชาร์จอย่างเต็มที่แล้ว ปืนใหญ่นี้จะยิงกระสุนทำลายล้าง เหมาะอย่างยิ่งสำหรับการกำจัดเครื่องบินสกัดกั้นที่เคลื่อนที่เร็ว",
+      "name": "Corvas",
+      "code": "th"
+    },
+    {
+      "description": "Tam olarak şarj edildiğinde bu uçaksavar güçlü atışlar yapabilir. Hızlı hareket eden düşmanları yok etmek için birebir.",
+      "name": "Corvas",
+      "code": "tr"
+    },
+    {
+      "description": "Ця протиповітряна гармата здатна завдати невиправної шкоди за повного зарядження. Ідеально підходить для збиття надрухливих перехоплювачів.",
+      "name": "Корвас",
+      "code": "uk"
+    }
+  ]
+}

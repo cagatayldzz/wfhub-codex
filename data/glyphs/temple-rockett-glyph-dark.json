@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleAltDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-rockett-glyph---dark-86c3bd1b25.png",
+  "name": "Temple Rockett Glyph - Dark",
+  "description": "A glyph depicting Temple Rockett on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Temple Rockett vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Temple Rockett (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Temple Rockett sur un fond sombre.",
+      "name": "Glyphe Temple Rockett - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Temple Rockett su uno sfondo scuro.",
+      "name": "Glifo Temple Rockett - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 템플 로켓을 묘사한 글리프입니다.",
+      "name": "템플 로켓 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Temple Rockett sobre un fondo oscuro.",
+      "name": "Glifo de Temple Rockett - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Temple 火箭在黑暗背景下的浮印。",
+      "name": "Temple 火箭浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Темпл Рокер на тёмном фоне.",
+      "name": "Глиф: Темпл Рокер — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたTemple Rockettのグリフ。",
+      "name": "Temple Rockett グリフ （暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Temple Rockett na ciemnym tle.",
+      "name": "Glif Temple Rockett — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Temple Rockett em um fundo escuro.",
+      "name": "Glifo: Temple Rockett (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Temple 搖滾在黑暗背景下的浮印。",
+      "name": "Temple 搖滾浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple Rockett บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Temple Rockett - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Temple Rockett koyu fonlu glif.",
+      "name": "Temple Rockett Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Храма «Роккер» на темному тлі.",
+      "name": "Темний гліф «Храм „Роккер”»",
+      "code": "uk"
+    }
+  ]
+}

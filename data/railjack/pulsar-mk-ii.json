@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/CrewShip/Laser/PulseLaser/PulseLaserTierB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pulsar.png",
+  "name": "Pulsar Mk Ii",
+  "description": "Electron pulse cannon: deadly accurate electrical pulses fry ships and occupants alike. Can wreak havoc on flight control systems.",
+  "languages": [
+    {
+      "description": "Elektron-Pulskanone: tödliche, präzise elektronische Pulse rösten Schiffe und Besatzung gleicher Maßen. Kann massiven Schaden an den Flugkontrollsystemen verursachen.",
+      "name": "Pulsar MK II",
+      "code": "de"
+    },
+    {
+      "description": "Canon à Électrons: des impulsions électriques d'une précision mortelle font frire les vaisseaux et leurs occupants. Peut faire des ravages sur les systèmes de commande de vol.",
+      "name": "Pulsar MK II",
+      "code": "fr"
+    },
+    {
+      "description": "Cannone Electron pulse: degli impulsi elettrici mortalmente precisi friggono le navi e gli occupanti. Può provocare danni ai sistemi di controllo del volo.",
+      "name": "Pulsar MK II",
+      "code": "it"
+    },
+    {
+      "description": "전자 펄스 캐논: 치명적일 정도로 정확한 전기 펄스가 함선과 탑승자를 통째로 구워버립니다. 비행 제어 시스템에 피해를 줄 수 있습니다.",
+      "name": "펄사 MK II",
+      "code": "ko"
+    },
+    {
+      "description": "Cañón de pulso de electrones: pulsos eléctricos letalmente precisos que fríen tanto a las naves como a sus ocupantes. Puede causar estragos en los sistemas de control de vuelo.",
+      "name": "Pulsar MK II",
+      "code": "es"
+    },
+    {
+      "description": "电子脉冲炮：致命的高精度电子脉冲灼烧战舰和其舰员。可以对飞行控制系统造成严重破坏",
+      "name": "脉冲星 MK II",
+      "code": "zh"
+    },
+    {
+      "description": "Электронно-импульсная пушка: смертельно точные электрические импульсы жарят как корабли, так и пассажиров. Может также нанести ущерб системам управления полетом.",
+      "name": "Пульсар MK II",
+      "code": "ru"
+    },
+    {
+      "description": "電子パルス砲：　高い精度の電磁パルスで敵船体と船内を丸焼きにする。飛行制御システムへ大きな損害を与える。",
+      "name": "パルサー MK II",
+      "code": "ja"
+    },
+    {
+      "description": "Impulsowe działo elektronowe: śmiertelnie precyzyjne impulsy smażą zarówno statki, jak i ich pasażerów. Niezwykle niebezpieczne dla systemów kontroli lotu.",
+      "name": "Pulsar: MK II",
+      "code": "pl"
+    },
+    {
+      "description": "Canhão de pulsos de elétrons: pulsos elétricos extremamente mortais com a capacidade de devastar sistemas de voo e torrificar naves e seus ocupantes.",
+      "name": "Pulsar (MK II)",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PULSAR）電子脈衝砲使用致命且準確的電子脈衝來燒毀船艦及船員。其可以大肆破壞飛航控制系統。",
+      "name": "脈衝星 MK II",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนใหญ่อิเลกตรอนพัลส์: พัลส์ไฟฟ้าที่แม่นยำถึงตาย ทอดเกรียมยานและผู้โดยสาร สามารถสร้างความเสียหายให้กับระบบควบคุมการบิน",
+      "name": "Pulsar MK II",
+      "code": "th"
+    },
+    {
+      "description": "Elektron dalga topu: ölümcül ve isabetli elektrik dalgaları gemileri ve içerisindekileri kül eder. Uçuş sistemlerinde kaos yaratır.",
+      "name": "Pulsar MK II",
+      "code": "tr"
+    },
+    {
+      "description": "Електрична пульсівна гармата: смертельно точні електричні імпульси підсмажують зорельоти та їхні екіпажі. Може завдавати шкоди системам керування польотом.",
+      "name": "Пульсар МК II",
+      "code": "uk"
+    }
+  ]
+}

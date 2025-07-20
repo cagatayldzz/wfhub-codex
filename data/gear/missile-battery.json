@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetLaserTurret",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/missile-battery-b9b7cb0c73.png",
+  "name": "Missile Battery",
+  "description": "Launches homing missiles",
+  "languages": [
+    {
+      "description": "Feuert zielsuchende Raketen",
+      "name": "Raketenbatterie",
+      "code": "de"
+    },
+    {
+      "description": "Lance des missiles à tête chercheuse",
+      "name": "Batterie de Missiles",
+      "code": "fr"
+    },
+    {
+      "description": "Lancia missili a ricerca",
+      "name": "Batteria Missilistica",
+      "code": "it"
+    },
+    {
+      "description": "유도 미사일을 발사",
+      "name": "미사일 포대",
+      "code": "ko"
+    },
+    {
+      "description": "Lanza misiles guiados",
+      "name": "Batería de Misiles",
+      "code": "es"
+    },
+    {
+      "description": "发射追踪导弹",
+      "name": "导弹炮台",
+      "code": "zh"
+    },
+    {
+      "description": "Выпускает самонаводящиеся ракеты",
+      "name": "Ракетная Батарея",
+      "code": "ru"
+    },
+    {
+      "description": "ホーミングミサイルを発射する。",
+      "name": "ミサイルバッテリー",
+      "code": "ja"
+    },
+    {
+      "description": "Strzela pociskami naprowadzającymi",
+      "name": "Rakietownia",
+      "code": "pl"
+    },
+    {
+      "description": "Dispara mísseis teleguiados",
+      "name": "Bateria de Mísseis",
+      "code": "pt"
+    },
+    {
+      "description": "發射追蹤導彈",
+      "name": "飛彈砲台",
+      "code": "tc"
+    },
+    {
+      "description": "ปล่อยขีปนาวุธนำวิถี",
+      "name": "กองปืนขีปนาวุธ",
+      "code": "th"
+    },
+    {
+      "description": "Güdümlü füzeler fırlatır",
+      "name": "Füze Bataryası",
+      "code": "tr"
+    },
+    {
+      "description": "Запускає самонавідні ракети.",
+      "name": "Ракетна батарея",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hot-&-fresh-sigil-4715ddde46.png",
+  "name": "Hot & Fresh Sigil",
+  "description": "A sigil representing prestige gained with The Hex.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei den Hex repräsentiert.",
+      "name": "Siegel: Heiß & Frisch",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec l'Hexagone.",
+      "name": "Sceau Tout Chaud, Tout Frais",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con l'Hex.",
+      "name": "Sigillo Appena Uscita dal Forno",
+      "code": "it"
+    },
+    {
+      "description": "헥스로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "갓 구워 따끈따끈 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Hex.",
+      "name": "Sello Recién salida del horno",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了六人组的威望。",
+      "name": "新鲜出炉纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение, достигнутое в синдикате Гекса.",
+      "name": "Сигил: Горячий и свежий",
+      "code": "ru"
+    },
+    {
+      "description": "ヘックスから得た声望を表すシジル。",
+      "name": "アツアツ シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Hex.",
+      "name": "Znak Prosto z pieca",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com o Hexa.",
+      "name": "Brasão: Direto do Forno",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了六煞幫的威望。",
+      "name": "新鮮出爐紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Hex",
+      "name": "เครื่องหมาย: อบใหม่ ๆ ร้อน ๆ",
+      "code": "th"
+    },
+    {
+      "description": "Hex'de kazanılan prestiji sembolize eden bir mühür.",
+      "name": "Sıcak ve Taze Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в синдикаті «Прокльон».",
+      "name": "Сиґіл «Свіжоспечене»",
+      "code": "uk"
+    }
+  ]
+}

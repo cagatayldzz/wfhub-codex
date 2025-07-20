@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ClemBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---clem-2ef9c9f224.png",
+  "name": "Noggle Statue - Clem",
+  "description": "A small wobbly statue of Clem.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Clem.",
+      "name": "Noggle-Statue: Clem",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Clem.",
+      "name": "Statuette Noggle - Clem",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Clem con la testa tremolante.",
+      "name": "Statuetta Noggle - Clem",
+      "code": "it"
+    },
+    {
+      "description": "클렘의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 클렘",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Clem.",
+      "name": "Estatua Tambaleante - Clem",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Clem 摇头娃娃。",
+      "name": "Clem 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Клема.",
+      "name": "Фигурка: Клем",
+      "code": "ru"
+    },
+    {
+      "description": "Clemのボブルヘッド人形。",
+      "name": "Clem ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Clema.",
+      "name": "Figurka Noggle — Clem",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Clem.",
+      "name": "Estatueta: Clem",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Clem 的搖頭娃娃。",
+      "name": "Clem 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Clem ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Clem",
+      "code": "th"
+    },
+    {
+      "description": "Clem küçük oynar figür.",
+      "name": "Noggle Heykeli - Clem",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Клема.",
+      "name": "Ноґл «Клем»",
+      "code": "uk"
+    }
+  ]
+}

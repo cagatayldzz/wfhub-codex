@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyMarsBronze",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path---mars-337d1f3aaf.png",
+  "name": "The Steel Path - Mars",
+  "description": "A signifier of walking The Steel Path on Mars",
+  "languages": [
+    {
+      "description": "Ein Symbol, dass du den Stählernen Pfad auf dem Mars beschritten hast",
+      "name": "Der Stählerne Pfad: Mars",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole pour avoir parcouru La Route de l'Acier sur Mars",
+      "name": "La Route de l'Acier - Mars",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo del tuo passaggio attraverso Il Percorso d'Acciaio su Marte",
+      "name": "Il Percorso d'Acciaio - Marte",
+      "code": "it"
+    },
+    {
+      "description": "화성에서 강철의 길을 걸은 이들의 증표입니다.",
+      "name": "강철의 길 - 화성",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo por haber recorrido El Camino de Acero en Marte",
+      "name": "El Camino de Acero - Marte",
+      "code": "es"
+    },
+    {
+      "description": "踏上了火星钢铁之路的象征。",
+      "name": "钢铁之路 — 火星",
+      "code": "zh"
+    },
+    {
+      "description": "Символ прохождения Стального Пути на Марсе",
+      "name": "Стальной Путь: Марс",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：火星」を歩んだ証",
+      "name": "鋼の道のり：火星",
+      "code": "ja"
+    },
+    {
+      "description": "Element oznaczający kroczenie Ścieżką Stali na Marsie",
+      "name": "Ścieżka Stali — Mars",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da conclusão do Percurso de Aço em Marte",
+      "name": "O Percurso de Aço - Marte",
+      "code": "pt"
+    },
+    {
+      "description": "長征火星上鋼韌之道的象徵物",
+      "name": "鋼韌之道－火星",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ที่บ่งบอกถึงการเดินทางบนเส้นทางเหล็กกล้าบนดาวอังคาร",
+      "name": "เส้นทางเหล็กกล้า - ดาวอังคาร",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path'i Mars'ta tamamlayanlar için bir simge",
+      "name": "Steel Path - Mars",
+      "code": "tr"
+    },
+    {
+      "description": "Трофей за подолання «Шляху сталі» на Марсі.",
+      "name": "Шлях сталі: Марс",
+      "code": "uk"
+    }
+  ]
+}

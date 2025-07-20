@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneThreeYearSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/seal-of-honoring-iii-d35b23e364.png",
+  "name": "Seal Of Honoring Iii",
+  "description": "Commemorates the Tenno who have honored the Lotus for three cycles.",
+  "languages": [
+    {
+      "description": "Zu Gedenken der Tenno, die der Lotus für drei Zyklen ihre Ehre erwiesen haben.",
+      "name": "Siegel der Anerkennung III",
+      "code": "de"
+    },
+    {
+      "description": "Commémore les Tennos qui ont honoré le Lotus pendant trois cycles.",
+      "name": "Sceau de Reconnaissance III",
+      "code": "fr"
+    },
+    {
+      "description": "Commemora i Tenno che hanno reso onore a Lotus per tre cicli.",
+      "name": "Sigillo d'Onore III",
+      "code": "it"
+    },
+    {
+      "description": "세 번의 주기동안 로터스를 명예롭게 했던 텐노에게 수여되는 기념품입니다.",
+      "name": "씰 오브 아너링 III",
+      "code": "ko"
+    },
+    {
+      "description": "Conmemora a los tenno que han honrado a Lotus por tres ciclos.",
+      "name": "Sello de Distinción III",
+      "code": "es"
+    },
+    {
+      "description": "纪念那些在三年里为 Lotus 带来荣誉的 Tenno 。",
+      "name": "荣誉之勋 III",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия для Тэнно, которые восславляют Лотос на протяжении трех циклов.",
+      "name": "Печать Почтения III",
+      "code": "ru"
+    },
+    {
+      "description": "3年間Lotusを敬うテンノを祝して。",
+      "name": "名誉のしるし III",
+      "code": "ja"
+    },
+    {
+      "description": "Upamiętnia Tenno, którzy czcili Lotus od trzech cykli.",
+      "name": "Oznaka Dedykacji III",
+      "code": "pl"
+    },
+    {
+      "description": "Celebra os Tennos que honraram a Lótus por três ciclos.",
+      "name": "Brasão: Selo de Respeito III",
+      "code": "pt"
+    },
+    {
+      "description": "紀念那些在三年裡為 Lotus 帶來榮譽的 Tenno 。",
+      "name": "榮譽之勳 III",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นอนุสรณ์แก่ Tenno ผู้นำเกียรติมาสู่ Lotus มาเป็นเวลาครบสามรอบแล้ว",
+      "name": "ตราแห่งเกียรติยศ III",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'u üç dönümdür onurlandıran Tenno'ları hatırlatır.",
+      "name": "Onur Mührü III",
+      "code": "tr"
+    },
+    {
+      "description": "Присвячується пам’яті тих тенно, що шанували Лотос упродовж трьох циклів.",
+      "name": "Печатка пошани III",
+      "code": "uk"
+    }
+  ]
+}

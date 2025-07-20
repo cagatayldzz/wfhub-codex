@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMirageHarlequinBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-harlequin-glyph---bright-d7536bd455.png",
+  "name": "Mirage Harlequin Glyph - Bright",
+  "description": "A glyph depicting Mirage Harlequin on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Mirage Harlequin vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Mirage Harlequin (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Mirage Harlequin sur un fond lumineux.",
+      "name": "Glyphe Mirage Harlequin - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Mirage Harlequin su uno sfondo chiaro.",
+      "name": "Glifo Mirage Harlequin - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 할리퀸 미라지를 묘사한 글리프입니다.",
+      "name": "미라지 할리퀸 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Mirage Harlequin sobre un fondo brillante.",
+      "name": "Glifo de Mirage Harlequin - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Mirage 丑角在明亮背景下的浮印。",
+      "name": "Mirage 丑角浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Мираж «Арлекин» на светлом фоне.",
+      "name": "Глиф: Мираж Арлекин - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたMirage Harlequinのグリフ。",
+      "name": "Mirage Harlequin グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Mirage Harlequin na jasnym tle.",
+      "name": "Glif Mirage Harlequin — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Mirage Harlequin em um fundo claro.",
+      "name": "Glifo: Mirage Harlequin (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Mirage 丑角在明亮背景下的浮印。",
+      "name": "Mirage 丑角浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Mirage Harlequin บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Mirage Harlequin - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Mirage Harlequin açık fonlu glif.",
+      "name": "Mirage Harlequin Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Міраж у шоломі «Арлекін» на світлому тлі.",
+      "name": "Яскравий гліф «Міраж „Арлекін“»",
+      "code": "uk"
+    }
+  ]
+}

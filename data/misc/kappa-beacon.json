@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kappa-beacon-f228c5cb4c.png",
+  "name": "Kappa Beacon",
+  "description": "Locator beacon broadcasting on the kappa frequency",
+  "languages": [
+    {
+      "description": "Ein Signalfeuer, das auf der Kappa-Frequenz sendet",
+      "name": "Kappa-Signalfeuer",
+      "code": "de"
+    },
+    {
+      "description": "Balise de localisation émettant sur la fréquence Kappa",
+      "name": "Balise Kappa",
+      "code": "fr"
+    },
+    {
+      "description": "Localizzatore che trasmette sulla frequenza Kappa",
+      "name": "Localizzatore Kappa",
+      "code": "it"
+    },
+    {
+      "description": "카파 주파수를 보내고 있는 위치 신호기 입니다",
+      "name": "카파 비컨",
+      "code": "ko"
+    },
+    {
+      "description": "Baliza de localización emitiendo en frecuencia kappa",
+      "name": "Baliza Kappa",
+      "code": "es"
+    },
+    {
+      "description": "持续发送出 Kappa 频率的信标定位装置",
+      "name": "Kappa 信标",
+      "code": "zh"
+    },
+    {
+      "description": "Маяк, транслирующий на частоте каппа",
+      "name": "Маяк Каппа",
+      "code": "ru"
+    },
+    {
+      "description": "周波数カッパで発信するロケータービーコン",
+      "name": "カッパビーコン",
+      "code": "ja"
+    },
+    {
+      "description": "Radiolokalizator nadający na częstotliwości Kappa",
+      "name": "Radiolokalizator Kappa",
+      "code": "pl"
+    },
+    {
+      "description": "Transceptor Localizador Delta transmitindo na frequência Kappa",
+      "name": "Transmissor Kappa",
+      "code": "pt"
+    },
+    {
+      "description": "持續發送出 Kappa 頻率的信標定位裝置",
+      "name": "Kappa 信標",
+      "code": "tc"
+    },
+    {
+      "description": "สัญญาณระบุตำแหน่งที่ส่งสัญญาณด้วยคลื่นความถี่แคปปา",
+      "name": "บีคอนแคปปา",
+      "code": "th"
+    },
+    {
+      "description": "Konum belirleyici kappa freakansından yayın yapıyor",
+      "name": "Kappa İşareti",
+      "code": "tr"
+    },
+    {
+      "description": "Радіомаяк, що транслює на частоті Каппа.",
+      "name": "Радіомаяк «Каппа»",
+      "code": "uk"
+    }
+  ]
+}

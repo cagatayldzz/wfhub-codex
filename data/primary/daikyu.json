@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/daikyu-7d251e8941.png",
+  "name": "Daikyu",
+  "description": "Daikyu takes great strength to draw back, but provides added power and range to every shot.",
+  "languages": [
+    {
+      "description": "Der Daikyu benötigt eine hohe Zugkraft, ermöglicht jedoch kraftvollere Schüsse mit höherer Reichweite.",
+      "name": "Daikyu",
+      "code": "de"
+    },
+    {
+      "description": "Le Daikyu requiert beaucoup de force pour le bander, mais chaque flèche tirée voit sa puissance et sa portée améliorées.",
+      "name": "Daikyu",
+      "code": "fr"
+    },
+    {
+      "description": "Il Daikyu richiede molta forza per essere caricato, ma fornisce potenza e distanza aggiuntiva ad ogni colpo.",
+      "name": "Daikyu",
+      "code": "it"
+    },
+    {
+      "description": "다이큐의 활시위를 당기기 위해선 강한 완력이 필요하지만 그만큼 더 강한 위력과 사거리를 제공합니다.",
+      "name": "다이큐",
+      "code": "ko"
+    },
+    {
+      "description": "El arco Daikyu requiere mucha fuerza para tensar, pero ofrece más poder y distancia a cada disparo.",
+      "name": "Daikyu",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DAIKYU）大久和弓需要相当程度的施力才能开弓，但每次射击同时也提供了更强的威力与更远的射程。",
+      "name": "大久和弓",
+      "code": "zh"
+    },
+    {
+      "description": "Дайкю требует силы для натягивания тетивы, но взамен предоставляет повышенную мощь и дальность каждого выстрела.",
+      "name": "Дайкю",
+      "code": "ru"
+    },
+    {
+      "description": "DAIKYUという弓を引くには大きな筋力を要するが、それ故に放たれる矢の威力は高く、射程距離が長い。",
+      "name": "Daikyu",
+      "code": "ja"
+    },
+    {
+      "description": "Daikyu wymaga wielkiej siły do naciągnięcia cięciwy, ale zapewnia dodatkową moc i zasięg przy każdym wystrzale.",
+      "name": "Daikyu",
+      "code": "pl"
+    },
+    {
+      "description": "A Daikyu exige grande força de recuo, mas adiciona força e Alcance a todos os disparos.",
+      "name": "Daikyu",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DAIKYU）大久和弓需要相當程度的施力才能開弓，但每次射擊同時也提供了更強的威力與更遠的射程。",
+      "name": "大久和弓",
+      "code": "tc"
+    },
+    {
+      "description": "Daikyu เป็นคันธนูที่ต้องใช้แรงมหาศาลในการดึงกลับ แต่ทุกครั้งที่ยิงออกไปจะเพิ่มพลังและระยะที่ไกลขึ้น",
+      "name": "Daikyu",
+      "code": "th"
+    },
+    {
+      "description": "Daikyu'yu gerebilmek için büyük güç gereklidir, ancak bu özelliği, ona fazladan menzil ve güç kazandırır.",
+      "name": "Daikyu",
+      "code": "tr"
+    },
+    {
+      "description": "Лук, на натягування тятиви якого потрібні неабиякі сили. Але це забезпечує додаткову потіжність і дальність пострілу.",
+      "name": "Дайк’ю",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Pirate/PirateAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-triton-helmet-4d49cecc45.png",
+  "name": "Hydroid Triton Helmet",
+  "description": "An alternative helmet for the Hydroid Warframe.",
+  "languages": [
+    {
+      "description": "Ein alternativer Helm für den Hydroid Warframe.",
+      "name": "Hydroid-Helm: Triton",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif pour la Warframe Hydroid.",
+      "name": "Casque Hydroid Triton",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Hydroid dallo stile unico.",
+      "name": "Elmo Hydroid Triton",
+      "code": "it"
+    },
+    {
+      "description": "하이드로이드 워프레임의 대체 헬멧입니다.",
+      "name": "하이드로이드 트리톤 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Hydroid.",
+      "name": "Casco Triton de Hydroid",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid 的独特样式替换头盔。",
+      "name": "Hydroid 海之信使头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем для Гидроида.",
+      "name": "Шлем Гидроида: Тритон",
+      "code": "ru"
+    },
+    {
+      "description": "Hydroid用ヘルメット",
+      "name": "Hydroid Triton ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Alternatywny hełm dla Warframe'a Hydroid.",
+      "name": "Hydroid: Hełm Triton",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo para o Warframe Hydroid.",
+      "name": "Hydroid: Capacete Triton",
+      "code": "pt"
+    },
+    {
+      "description": "Hydroid 的獨特樣式替換用頭盔。",
+      "name": "Hydroid 海之信使頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองสำหรับ Hydroid Warframe",
+      "name": "หมวกเหล็ก Hydroid Triton",
+      "code": "th"
+    },
+    {
+      "description": "Hydroid Warframe'i için alternatif bir miğfer",
+      "name": "Triton Hydroid Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом для ворфрейма Гідроїда.",
+      "name": "Шолом «Тритон» для Гідроїда",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/thaumic-distillate-67fd1aac54.png",
+  "name": "Thaumic Distillate",
+  "description": "Thaumica reduced to its most durable, workable elements.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Thaumica reduziert auf seine haltbarsten, praktikabelsten Elemente.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Thaumisches Destillat",
+      "code": "de"
+    },
+    {
+      "description": "Thaumica réduit à ses éléments les plus durables et les plus exploitables.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Distillat Thaumique",
+      "code": "fr"
+    },
+    {
+      "description": "Thaumica ridotta ai suoi elementi più durevoli e lavorabili.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Thaumic Distillata",
+      "code": "it"
+    },
+    {
+      "description": "가장 튼튼하고 쓸만한 요소만 남겨 압축시킨 타우미카입니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "타우믹 디스틸레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Thaumica reducida a sus elementos más duraderos y viables.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Taumica Destilada",
+      "code": "es"
+    },
+    {
+      "description": "还原成最耐用、最易加工的元素形态的萨莫感染石。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "精粹萨莫石",
+      "code": "zh"
+    },
+    {
+      "description": "Самые ценные и активные вещества, извлечённые из Таумика. \n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Дистиллят таумика",
+      "code": "ru"
+    },
+    {
+      "description": "タウミカの、最も頑丈で有用な要素を抽出したもの。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "蒸留タウミカ",
+      "code": "ja"
+    },
+    {
+      "description": "Taumika zredukowana do swoich najtrwalszych, nadających się do obróbki elementów.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Destylat Taumiczny",
+      "code": "pl"
+    },
+    {
+      "description": "Táumica refinada aos seus elementos mais viáveis e duráveis.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Destilado Táumico",
+      "code": "pt"
+    },
+    {
+      "description": "奇魔礦分解為其最耐用且最具有活用性的元素。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "精萃奇魔礦",
+      "code": "tc"
+    },
+    {
+      "description": "เทาไมกาที่กลั่นจนกลายเป็นธาตุที่ใช้งานได้และมีความทนทานที่สุด\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "สารสกัดเทามิก",
+      "code": "th"
+    },
+    {
+      "description": "Thaumica en dirençli, kullanılabilir elementlerine indirgenmiştir.\n\nKalıbı Deimos'ta yer alan Necralisk'teki Otak'tan satın alınabilir.",
+      "name": "Thaumic Distillate",
+      "code": "tr"
+    },
+    {
+      "description": "Тавміка, очищена до найміцніших і найкорисніших часточок.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
+      "name": "Очищена тавміка",
+      "code": "uk"
+    }
+  ]
+}

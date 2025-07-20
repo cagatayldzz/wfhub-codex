@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/NarmerEyeGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/narmer-eye-glyph-776b12f2bb.png",
+  "name": "Narmer Eye Glyph",
+  "description": "Embrace authority with this symbol of Ballas' twisted Narmer plan.",
+  "languages": [
+    {
+      "description": "Heißt Autorität willkommen, mit diesem Symbol von Ballas verdrehtem Narmer Plan.",
+      "name": "Glyphe: Narmer Auge",
+      "code": "de"
+    },
+    {
+      "description": "Acceptez l'autorité avec ce symbole de Narmer, le plan retors de Ballas.",
+      "name": "Glyphe Œil de Narmer",
+      "code": "fr"
+    },
+    {
+      "description": "Accetta l'autorità con questo simbolo del contorto piano Narmer di Ballas.",
+      "name": "Glifo Narmer Eye",
+      "code": "it"
+    },
+    {
+      "description": "발라스의 뒤틀린 나르메르 계획을 상징하는 이 표식으로 그 권위를 받아들이세요.",
+      "name": "나르메르의 눈 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Acepta la autoridad con este símbolo de Narmer, el retorcido plan de Ballas.",
+      "name": "Glifo del ojo de Narmer",
+      "code": "es"
+    },
+    {
+      "description": "通过这个 Ballas 扭曲的合一众计划象征来拥抱权威。",
+      "name": "合一众之眼浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Обретите власть с этим символом извращенного Балласом плана Нармера.",
+      "name": "Глиф: Око Нармера",
+      "code": "ru"
+    },
+    {
+      "description": "Ballasのナルメル計画の権威を見せつけよう。",
+      "name": "ナルメル・アイ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zaakceptuj władzę wraz z tym symbolem pokręconego planu Narmer Ballasa.",
+      "name": "Glif Oka Narmer",
+      "code": "pl"
+    },
+    {
+      "description": "Abrace o autoritarismo com este símbolo de Narmer, o plano distorcido de Ballas.",
+      "name": "Glifo: Olho de Narmer",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個 Ballas 扭曲的那爾邁計劃的象徵來投奔權勢。",
+      "name": "那爾邁神視浮印",
+      "code": "tc"
+    },
+    {
+      "description": "โอบรับอำนาจไว้ด้วยสัญลักษณ์แผนการ Narmer ที่บิดเบี้ยวนี้ของ Ballas",
+      "name": "ภาพสัญลักษณ์ Narmer Eye",
+      "code": "th"
+    },
+    {
+      "description": "Ballas'ın çılgın Narmer planını bu sembolü takarak otoritesini kabul et.",
+      "name": "Narmer Gözü Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Прийміть повноваження з цим символом спотвореного Балласом плану Нармера.",
+      "name": "Гліф «Око Нармера»",
+      "code": "uk"
+    }
+  ]
+}

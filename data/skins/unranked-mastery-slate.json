@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank00Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/unranked-mastery-slate-4f08cf359e.png",
+  "name": "Unranked Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 0 - Unranked.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 0 - Ohne Rang zu ehren.",
+      "name": "Meisterschaft-Insignie: Ohne Rang",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 0 - Non classé.",
+      "name": "Ardoise de Maîtrise - Non Classée",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il Grado 0.",
+      "name": "Targa Maestria - Grado 0",
+      "code": "it"
+    },
+    {
+      "description": "랭크 0 - 랭크 없음에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "랭크 없음 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango 0 - Sin rango.",
+      "name": "Placa de Maestría Sin Rango",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 0－无等级所打造的物品。",
+      "name": "无等级精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 0 - без ранга.",
+      "name": "Сланец Мастерства: Без Ранга",
+      "code": "ru"
+    },
+    {
+      "description": "「マスタリーランク0」へ到達したテンノの成果を示す表彰楯。",
+      "name": "マスタリー 表彰楯（ランクなし）",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 0 - Rangi Zero.",
+      "name": "Tablica Mistrzostwa Ranga Zero",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 0 - Sem Classificação.",
+      "name": "Ardósia de Maestria: Sem Classificação",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 0－無等級的成就。",
+      "name": "無等級精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 0 - ไม่มีอันดับ",
+      "name": "กระดานชนวนความเชี่ยวชาญ: ไม่มีอันดับ",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 0 - Seviyesiz başarı göstergesini simgelemek için oluşturulmuştur.",
+      "name": "Seviyesiz Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 0-го рівня майстерності — «Без рівня».",
+      "name": "Табличка «Без рівня»",
+      "code": "uk"
+    }
+  ]
+}

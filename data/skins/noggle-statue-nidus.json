@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NidusBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---nidus-a0d0d53255.png",
+  "name": "Noggle Statue - Nidus",
+  "description": "A small wobbly statue of Nidus.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Nidus.",
+      "name": "Noggle-Statue: Nidus",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Nidus.",
+      "name": "Statuette Noggle - Nidus",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Nidus con la testa tremolante.",
+      "name": "Statuetta Noggle - Nidus",
+      "code": "it"
+    },
+    {
+      "description": "나이더스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 나이더스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Nidus.",
+      "name": "Estatua Tambaleante - Nidus",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Nidus 摇头娃娃。",
+      "name": "Nidus 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Нидуса.",
+      "name": "Фигурка: Нидус",
+      "code": "ru"
+    },
+    {
+      "description": "Nidusのボブルヘッド人形。",
+      "name": "Nidus ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Nidusa.",
+      "name": "Figurka Noggle — Nidus",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Nidus.",
+      "name": "Estatueta: Nidus",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Nidus 的搖頭娃娃",
+      "name": "Nidus 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Nidus ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Nidus",
+      "code": "th"
+    },
+    {
+      "description": "Nidus küçük oynar figür.",
+      "name": "Noggle Heykeli - Nidus",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Нідуса.",
+      "name": "Ноґл «Нідус»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackLotusSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kumuda-sigil-99708a93e3.png",
+  "name": "Kumuda Sigil",
+  "description": "Pay respect to The Lotus with this elegant sigil.",
+  "languages": [
+    {
+      "description": "Zolle Lotus Respekt mit diesem eleganten Siegel.",
+      "name": "Siegel: Kumuda",
+      "code": "de"
+    },
+    {
+      "description": "Rendez hommage au Lotus avec ce Sceau élégant.",
+      "name": "Sceau Kumuda",
+      "code": "fr"
+    },
+    {
+      "description": "Porta rispetto a Lotus con questo elegante sigillo.",
+      "name": "Sigillo Kumuda",
+      "code": "it"
+    },
+    {
+      "description": "이 우아한 시질로 로터스에게 경의를 표해 보세요",
+      "name": "쿠무다 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Rinde tributo a Lotus con este elegante sello.",
+      "name": "Sello Kumuda",
+      "code": "es"
+    },
+    {
+      "description": "用这枚优雅的纹章表示你对 Lotus 的敬意。",
+      "name": "库姆达纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Чтите Лотос при помощи этого элегантного сигила.",
+      "name": "Сигил: Кумуда",
+      "code": "ru"
+    },
+    {
+      "description": "この瀟洒なシジルでLotusに敬意を払おう。",
+      "name": "Kumuda シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj szacunek Lotus nosząc ten elegancki znak.",
+      "name": "Znak Kumuda",
+      "code": "pl"
+    },
+    {
+      "description": "Preste homenagem à Lótus com este brasão elegante.",
+      "name": "Brasão: Kumuda",
+      "code": "pt"
+    },
+    {
+      "description": "用這枚優雅的紋章表示你對 Lotus 的敬意。",
+      "name": "庫姆達紋章",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความเคารพต่อ Lotus ด้วยเครื่องหมายอันสง่างามนี้",
+      "name": "เครื่องหมาย: Kumuda",
+      "code": "th"
+    },
+    {
+      "description": "Bu zarif mühür ile Lotus'a duyduğun saygıyı göster.",
+      "name": "Kumuda Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Покажіть свою відданість Лотос із цим витонченим сиґілом.",
+      "name": "Сиґіл «Кумуда»",
+      "code": "uk"
+    }
+  ]
+}

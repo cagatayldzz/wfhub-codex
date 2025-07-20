@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coiling-viper-886cbb8d6b.jpg",
+  "name": "Coiling Viper",
+  "description": "Powerful arcing strikes with energetic flips.",
+  "languages": [
+    {
+      "description": [
+        "Kraftvolle, geschwungene Schläge mit geladenen Aufschlägen."
+      ],
+      "name": "Windende Viper",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Puissantes frappes en arc avec des rotations énergétiques."
+      ],
+      "name": "Étreinte de la Vipère",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Potenti colpi arcuati con rotazioni energetiche."
+      ],
+      "name": "Coiling Viper",
+      "code": "it"
+    },
+    {
+      "description": [
+        "힘찬 뒤집기와 아치형으로 휘어지는 강력한 공격을 가하는 연속기입니다."
+      ],
+      "name": "코일링 바이퍼",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Poderosos ataques en arco con lanzamientos vigorosos."
+      ],
+      "name": "Víbora enroscada",
+      "code": "es"
+    },
+    {
+      "description": [
+        "带着强力翻转的弧状攻击。"
+      ],
+      "name": "毒蛇螺旋",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Мощные атаки взмахами с энергетическими подкатами."
+      ],
+      "name": "Вьющаяся змея",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "強力な円弧形攻撃と激しい連打。"
+      ],
+      "name": "Coiling Viper",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Potężne ataki po łuku z energicznymi przewrotami."
+      ],
+      "name": "Wijąca Się Żmija",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Golpes curvados poderosos com viradas energéticas."
+      ],
+      "name": "Coiling Viper",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "帶著強力翻轉的弧狀攻擊。"
+      ],
+      "name": "毒蛇螺旋",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "โจมตีในแนวโค้งอย่างทรงพลังและมีแรงฟาดที่รุนแรง"
+      ],
+      "name": "Coiling Viper",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Estetik taklalar ile güçlü saldırılar"
+      ],
+      "name": "Coiling Viper",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Потужні дугоподібні удари із зарядженими хлистами."
+      ],
+      "name": "Звивиста гадюка",
+      "code": "uk"
+    }
+  ]
+}

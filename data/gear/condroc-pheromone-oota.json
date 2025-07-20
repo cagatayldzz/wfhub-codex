@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/CondrocRarityBoost",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/condroc-pheromone-oota-eb9dd8c007.png",
+  "name": "Condroc Pheromone Oota",
+  "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Condroc.",
+  "languages": [
+    {
+      "description": "Einsetzen kurz bevor ein Echo-Köder benutzt wird, um die Chance zu erhöhen, eine seltenere Condroc-Unterart anzulocken.",
+      "name": "Pheromon Oota: Condroc",
+      "code": "de"
+    },
+    {
+      "description": "À déployer juste avant d'utiliser l'Écho-Leurre afin d'augmenter les chances d'attirer une sous-espèce de Condrocs plus rares.",
+      "name": "Oota de Phéromone Condroc",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega prima di usare il richiamo per avere maggiori possibilità di attrarre rare sottospeci di Condroc.",
+      "name": "Feromone Oota Condroc",
+      "code": "it"
+    },
+    {
+      "description": "에코-루어 사용 직전에 배치하여 더욱 희귀한 콘드록의 아종을 유인할 수 있는 확률을 증가시키세요.",
+      "name": "콘드록 페로몬 우타",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega justo antes de usar el eco-señuelo para aumentar la probabilidad de atraer a una subespecie rara de condroc.",
+      "name": "Feromona Oota de Condroc",
+      "code": "es"
+    },
+    {
+      "description": "在使用回声诱饵前部署可以提升吸引一种秃鹰稀有亚种的几率。",
+      "name": "秃鹰费洛蒙合成器",
+      "code": "zh"
+    },
+    {
+      "description": "Примените перед использованием эхо-манка, чтобы увеличить вероятность привлечения более редкого подвида Кондрока.",
+      "name": "Ута с феромонами кондрока",
+      "code": "ru"
+    },
+    {
+      "description": "ECHOルアーを使用する直前に起動して、より希少なコンドロクを引き寄せる確率を上げよう。",
+      "name": "コンドロク フェロモン シンセサイザー",
+      "code": "ja"
+    },
+    {
+      "description": "Skorzystaj z tego zaraz przed użyciem echo-wabika, aby zwiększyć szansę na zwabienie rzadszego okazu Kondroka.",
+      "name": "Oota Feromonów Kondroka",
+      "code": "pl"
+    },
+    {
+      "description": "Utilize este item antes de utilizar a Ecoisca para aumentar a chance de atrair subespécies mais raras de Condroc.",
+      "name": "Oota de Feromônio de Condroc",
+      "code": "pt"
+    },
+    {
+      "description": "在使用回聲誘餌前部署可以提升吸引一種禿鷹稀有亞種的機率。",
+      "name": "禿鷹費洛蒙合成器",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้ก่อนที่จะใช้เครื่องเลียนแบบเสียง เพื่อเพิ่มโอกาสในการดึงดูดสายพันธุ์ย่อยที่หายากของ Condroc",
+      "name": "ฟีโรโมน Oota ของ Condroc",
+      "code": "th"
+    },
+    {
+      "description": "Condroc'un nadir türlerini kendinize çekme şansını artırmak için eko-çağrıcıyı kullanmadan önce yerleştir.",
+      "name": "Condroc Feromon Salgılayıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте перед увімкненням еховабика, щоб із більшою ймовірністю приманити рідкісний різновид кондроків.",
+      "name": "Ута з феромоном кондрока",
+      "code": "uk"
+    }
+  ]
+}

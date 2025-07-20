@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GreatSwordUpperBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/greatsword-standard-holster-3aad26bc22.png",
+  "name": "Greatsword Standard Holster",
+  "description": "Standard holster for Greatswords.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Zweihänder.",
+      "name": "Zweihänder-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Épées à deux mains.",
+      "name": "Port d'Épée à deux mains standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per le Spade a Due Mani.",
+      "name": "Rinfodero Spade a Due Mani Standard",
+      "code": "it"
+    },
+    {
+      "description": "중도검 계열 무기의 기본 수납 방식입니다.",
+      "name": "중도검 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para espadas grandes.",
+      "name": "Enfundado estándar de espadas grandes",
+      "code": "es"
+    },
+    {
+      "description": "巨剑所使用的标准收纳姿态。",
+      "name": "巨剑标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Двуручных Мечей.",
+      "name": "Стандартный Крепеж Тяжелого Клинка",
+      "code": "ru"
+    },
+    {
+      "description": "グレートソード系武器の通常ホルスター",
+      "name": "グレートソード専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Wielkich Mieczy.",
+      "name": "Wielki Miecz Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para espadas grandes.",
+      "name": "Espadas Grandes: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "巨劍武器所使用的標準收納姿態。",
+      "name": "巨劍標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับดาบใหญ่",
+      "name": "ซองดาบใหญ่มาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Şanlıkılıç için standart kılıf",
+      "name": "Şanlıkılıç Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення дворучних мечів, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

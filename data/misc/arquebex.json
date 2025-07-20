@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/ExaltedArtilleryWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arquebex-51a3dfc905.png",
+  "name": "Arquebex",
+  "description": "The pinnacle of Entrati weapons design: dual energy mortars that fire with such devastating power that the Necramech must first be locked into a braced, stationary turret mode.",
+  "languages": [
+    {
+      "description": "Der Höhepunkt des Entrati Waffendesigns: Duale-Energie-Mörser, die mit solch verheerender Kraft feuern, dass der Necramech zuerst in einen stationären Geschützmodus verankert werden muss.",
+      "name": "Arquebex",
+      "code": "de"
+    },
+    {
+      "description": "Le summum de la conception d'arme Entrati: des mortiers à double énergie qui tirent avec une puissance si dévastatrice que le Necramech doit d'abord être verrouillé en mode tourelle stationnaire.",
+      "name": "Arquebex",
+      "code": "fr"
+    },
+    {
+      "description": "L'apice del design delle armi Entrati: mortai a doppia energia che sparano con una potenza così devastante che il Necramech deve prima bloccarsi in modalità torretta fissa rinforzata.",
+      "name": "Arquebex",
+      "code": "it"
+    },
+    {
+      "description": "엔트라티 가의 무기 설계가 이뤄낸 정점으로, 이 양 측의 에너지 박격포가 쏘아보내는 위력은 너무도 강력하여 쏘기 전에 네크라메크를 그 자리에 매인 채 움직이지 않는 터렛 모드로 단단히 고정시켜야 합니다.",
+      "name": "알퀘벡스",
+      "code": "ko"
+    },
+    {
+      "description": "El pináculo del diseño de armas Entrati: morteros de energía dual que disparan con un poder tan devastador que el Necramech debe primero bloquearse en modo de torreta estacionaria reforzada.",
+      "name": "Arquebex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ARQUEBEX）英择谛武器设计的巅峰之作：双能追击炮的毁灭威力之大，使得殁世机甲必须将自身锁定在稳定的炮塔模式下来使用该武器。",
+      "name": "钩铳",
+      "code": "zh"
+    },
+    {
+      "description": "Вершина мастерства дизайна оружия Энтрати. Двойные энергетические мортиры невероятной разрушительной мощности, для использования которых некромеху следует закрепиться в режиме неподвижной турели.",
+      "name": "Аркебекс",
+      "code": "ru"
+    },
+    {
+      "description": "エントラティデザインの最高傑作であるこの兵器は、その強力さ故にタレットモードでの固定が必要となり、そこから臼砲を撃ち出す。",
+      "name": "Arquebex",
+      "code": "ja"
+    },
+    {
+      "description": "Szczytowy projekt broni Entrati: podwójne moździerze energetyczne, które strzelają z tak niszczycielską mocą, że Nekramech musi najpierw zostać osadzony we wzmocnionej, stacjonarnej wieży.",
+      "name": "Arquebex",
+      "code": "pl"
+    },
+    {
+      "description": "O auge do desenvolvimento bélico Entrati: morteiros duplos de energia que, para conter seu poder devastador ao serem disparados, o Necramech deve estar travado em um modo estacionário.",
+      "name": "Arquebex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ARQUEBEX）源拓氏武器設計的巔峰之作：雙能迫擊砲可釋放出毀滅級的火力，使得亡骸機甲必須先將自身鎖定成靜止且穩固的砲塔模式。",
+      "name": "鉤爪火銃",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธ Entrati ที่ถือเป็นสุดยอดการออกแบบ เป็นปืนครกพลังงานคู่ที่มีพลังทำลายล้างสูงมากเสียจนต้องล็อก Necramech ให้อยู่ในโหมดป้อมปืนนิ่งประจำที่ก่อนที่จะทำการยิง",
+      "name": "Arquebex",
+      "code": "th"
+    },
+    {
+      "description": "Entrati silah tasarımlarının doruk noktası: yıkıcı bir güçle ateşlenen çift namlulu enerji havan toplarını kullanabilmesi için Necramech'in kilitlenip atışa hazır pozisyona geçmesi gerekir.",
+      "name": "Arquebex",
+      "code": "tr"
+    },
+    {
+      "description": "Кульмінація дизайну ентратійської зброї. Подвійні енергетичні мортири неймовірної руйнівної потужності, для використання яких некрамеху потрібно закріпитися в режимі нерухомої турелі.",
+      "name": "Аркебекс",
+      "code": "uk"
+    }
+  ]
+}

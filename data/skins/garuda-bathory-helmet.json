@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaAltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/garuda-bathory-helmet-ef35865f98.png",
+  "name": "Garuda Bathory Helmet",
+  "description": "What was once myth is now real, hand outstretched to claim that which runs within you. An alternate helmet for Garuda.",
+  "languages": [
+    {
+      "description": "Was einst nur ein Mythos war, ist jetzt wahr geworden. Greife nach dem, was in deinem Innersten steckt. Ein alternativer Helm für Garuda.",
+      "name": "Garuda-Helm: Bathory",
+      "code": "de"
+    },
+    {
+      "description": "Ce qui était autrefois un mythe est maintenant réalité, une main tendue vers vous pour réclamer ce qui coule dans vos veines. Un Casque alternatif pour Garuda.",
+      "name": "Casque Garuda Bathory",
+      "code": "fr"
+    },
+    {
+      "description": "Quello che una volta era un mito è ora reale e tende la mano per reclamare ciò che scorre dentro di te. Un elmo alternativo per Garuda.",
+      "name": "Elmo Garuda Bathory",
+      "code": "it"
+    },
+    {
+      "description": "한 때 전설이었던 것이, 당신 안에서 끓는 것을 가져가기 위해 이제 현실이 됐습니다. 가루다를 위한 대체 헬멧입니다.",
+      "name": "가루다 바토리 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Lo que una vez fue mito ahora es realidad, estrecha tu mano para reclamar lo que corre dentro de ti. Un casco alternativo para Garuda.",
+      "name": "Casco Bathory de Garuda",
+      "code": "es"
+    },
+    {
+      "description": "昔日的传说已成为现实，敞开双手接受真实的自己吧。Garuda 的替换头盔。",
+      "name": "Garuda 巴托里头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Что когда-то было мифом, теперь - реальность. Протянула свою руку забрать то, что течет по твоим венам. Альтернативный шлем для варфрейма Гаруда.",
+      "name": "Шлем Гаруды: Батори",
+      "code": "ru"
+    },
+    {
+      "description": "かつて神話だったものが現実となり、いたずらに逃げ回る者へと魔の手を伸ばす。Garuda専用の別ヘルメット。",
+      "name": "Garuda Bathory ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Co niegdyś było mitem, stało się prawdziwe. Wyciągnij rękę, by sięgnąć to, co głęboko w Tobie. Alternatywny hełm dla Garudy.",
+      "name": "Garuda: Hełm Bathory",
+      "code": "pl"
+    },
+    {
+      "description": "O que antes era um mito, agora é realidade. Estenda sua mão para reivindicar aquilo que rege dentro de você. Um capacete alternativo para Garuda.",
+      "name": "Garuda: Capacete Bathory",
+      "code": "pt"
+    },
+    {
+      "description": "昔日的傳說已成為現實，敞開雙手接受真實的自己吧。Garuda 的替換頭盔。",
+      "name": "Garuda 巴托里頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "สิ่งที่ครั้งหนึ่งเคยเป็นตำนานตอนนี้กลายเป็นความจริงแล้ว ยื่นมือออกไปคว้าสิ่งที่ไหลเวียนอยู่ในตัวคุณ หมวกเหล็กสำรองสำหรับ Garuda",
+      "name": "หมวกเหล็ก Garuda Bathory",
+      "code": "th"
+    },
+    {
+      "description": "Bir zamanlar efsane olan şey şimdi gerçek, bir el senin içinde dolaşan bir sıvıyı almak için uzandı. Garuda için alternatif bir miğfer.",
+      "name": "Garuda Bathory Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Те, що колись вважалося міфом, стало реальністю. І тепер хоче заволодіти тим, що тече всередині вас. Альтернативний шолом для ворфрейма Ґаруди.",
+      "name": "Шолом «Баторі» для Ґаруди",
+      "code": "uk"
+    }
+  ]
+}

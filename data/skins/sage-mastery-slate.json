@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank25Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sage-mastery-slate-d6a4b72f67.png",
+  "name": "Sage Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 25 - Sage.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 25 - Weiser zu ehren.",
+      "name": "Meisterschaft-Insignie: Weiser",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 25 - Sage.",
+      "name": "Ardoise de Maîtrise - Sage",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 25 - Saggio.",
+      "name": "Targa Maestria - Saggio",
+      "code": "it"
+    },
+    {
+      "description": "랭크 25 - 세이지에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "세이지 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango 25 - Sabio.",
+      "name": "Placa de Maestría de Sabio",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 25－圣者所打造的物品。",
+      "name": "圣者精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 25 - Мудрец.",
+      "name": "Сланец Мастерства: Мудрец",
+      "code": "ru"
+    },
+    {
+      "description": "セージ「マスタリーランク25」へ到達したテンノの成果を示す表彰楯。",
+      "name": "セージ マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 25 - Mędrzec.",
+      "name": "Tablica Mistrzostwa Mędrzec",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 25 - Sábio.",
+      "name": "Ardósia de Maestria: Sábio",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 25－聖者的成就。",
+      "name": "聖者精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 25 - ปราชญ์",
+      "name": "กระดานชนวนความเชี่ยวชาญ: ปราชญ์",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 25 - Sage seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Sage Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 25-го рівня майстерності — «Мудрець».",
+      "name": "Табличка «Мудрець»",
+      "code": "uk"
+    }
+  ]
+}

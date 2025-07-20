@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedHeavyGunnerBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corrupted-heavy-gunner-specter-c9e3ff83da.png",
+  "name": "Corrupted Heavy Gunner Specter",
+  "description": "Deploys a CORRUPTED HEAVY GUNNER unit to fight for you.",
+  "languages": [
+    {
+      "description": "Setzt eine KORRUMPIERTER KANONIER-Einheit ein, die für dich kämpft.",
+      "name": "Korrumpiertes Kanonier-Phantom",
+      "code": "de"
+    },
+    {
+      "description": "Déploie une ARTILLEUSE LOURDE CORROMPUE pour combattre avec vous.",
+      "name": "Spectre d'Artilleuse Lourde Corrompue",
+      "code": "fr"
+    },
+    {
+      "description": "Ti permette di dispiegare un CORRUPTED HEAVY GUNNER che combatte al tuo fianco.",
+      "name": "Spettro Corrupted Heavy Gunner",
+      "code": "it"
+    },
+    {
+      "description": "당신을 위해 싸워줄 커럽티드 헤비 거너를 배치합니다.",
+      "name": "커럽티드 헤비 거너 스펙터",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega una unidad de ARTILLERO PESADO CORRUPTO para que luche por ti.",
+      "name": "Espectro de Artillero Pesado Corrupto",
+      "code": "es"
+    },
+    {
+      "description": "部署一名堕落重型机枪手单位为你战斗。",
+      "name": "堕落重型机枪手魅影",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт Порабощённого Пулеметчика, который сражается на Вашей стороне.",
+      "name": "Спектр: Порабощённый пулемётчик",
+      "code": "ru"
+    },
+    {
+      "description": "コラプト ヘビーガンナー を味方として出撃させる。",
+      "name": "コラプト ヘビーガンナー スペクター",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy SKAŻONĄ CIĘŻKOZBROJNĄ jednostkę, która walczy po Twojej stronie.",
+      "name": "Widmo Skażonej Ciężkozbrojnej",
+      "code": "pl"
+    },
+    {
+      "description": "Posiciona uma unidade da FUZILEIRA PESADA CORROMPIDA para lutar por você.",
+      "name": "Espectro da Fuzileira Pesada Corrompida",
+      "code": "pt"
+    },
+    {
+      "description": "部署一名墮落重型機槍兵單位為你戰鬥。",
+      "name": "墮落重型機槍兵魅影",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้หน่วย CORRUPTED HEAVY GUNNER เพื่อช่วยคุณสู้",
+      "name": "สเปกเตอร์ Corrupted Heavy Gunner",
+      "code": "th"
+    },
+    {
+      "description": "Sizin yerinize savaşması için CORRUPTED HEAVY GUNNER oluşturur.",
+      "name": "Corrupted Heavy Gunner Specter",
+      "code": "tr"
+    },
+    {
+      "description": "Розміщує на полі бою уярмлену кулеметницю, яка допомагатиме вам.",
+      "name": "Тінь уярмленої кулеметниці",
+      "code": "uk"
+    }
+  ]
+}

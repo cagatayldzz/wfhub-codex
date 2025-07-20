@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/HeavyWeaponCatalyst",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gravimag-2da32fa516.png",
+  "name": "Gravimag",
+  "description": "Allows archwing guns to be deployed in terrestrial zones. Install this device on archwing guns to compensate for atmospheric and gravitational forces not experienced in space.\nNOTE: Deployment requires gear obtained from the Profit-Taker mission in Fortuna.",
+  "languages": [
+    {
+      "description": "Ermöglicht den Einsatz von Arch-Gewehren in terrestrischen Zonen. Installiert dieses Gerät auf Arch-Gewehren, um die atmosphärischen und gravitativen Kräfte zu kompensieren, die es im Weltraum nicht gibt.\nHINWEIS: Der Einsatz erfordert Ausrüstung, die von der Profiteintreiber-Mission in Fortuna erhalten werden kann.",
+      "name": "Gravimag",
+      "code": "de"
+    },
+    {
+      "description": "Permet de déployer les armes Archwings de type Fusil dans les zones terrestres. Installez cet appareil sur les armes Archwings pour compenser les forces gravitationnelles et atmosphériques n'étant pas présentes dans l'espace.\nNOTE: Le déploiement requiert de l'équipement trouvé lors de la mission concernant le Preneur de Profit, dans Fortuna.",
+      "name": "Gravimag",
+      "code": "fr"
+    },
+    {
+      "description": "Permette il dispiegamento degli armamenti Archwing nelle zone terrestri. Installa questo dispositivo sulle armi Archwing per compensare le pressioni atmosferiche e forze gravitazionali non presenti nello spazio.\nNOTA: Il dispiegamento richiede la dotazione ottenuta dalla missione Profit Taker su Fortuna.",
+      "name": "Gravimag",
+      "code": "it"
+    },
+    {
+      "description": "아크윙 전용 총기를 육상 지역에서 사용할 수 있도록 합니다. 이 장치를 아크윙 총기에 설치해 우주에서 적용되지 않던 대기 및 중력 문제를 보완하세요.\n참고: 아크윙 총기를 배치하기 위해서는 포르투나의 프로핏 테이커 미션에서 얻을 수 있는 배치 장치가 필요합니다.",
+      "name": "그래비매그",
+      "code": "ko"
+    },
+    {
+      "description": "Permite el despliegue de armas archwing en zonas terrestres. Instala este dispositivo en armas archwing para compensar las fuerzas gravitacionales y atmosféricas no experimentadas en el espacio.\nNOTA: El despliegue requiere equipo obtenido de la misión de la Robaganancias en Fortuna.",
+      "name": "Gravimag",
+      "code": "es"
+    },
+    {
+      "description": "允许曲翼枪械在陆地区域使用。陆地环境中存在着太空环境所没有的大气压力与重力，在曲翼枪械上安装这个装置就能抵消上述差异所带来的绝大部分影响。\n注意：在部署时需要用到福尔图娜的利润收割者任务中取得的道具。",
+      "name": "重力磁抵器",
+      "code": "zh"
+    },
+    {
+      "description": "Позволяет оружию арчвинга быть развёрнутым в земных условиях. Установите это устройство на вооружение арчвинга, чтобы компенсировать атмосферные и гравитационные силы, отсутствующие в космосе.\nПРИМЕЧАНИЕ: Для использования оружия арчвинга с Гравимагом требуется снаряжение, получаемое в миссиях со Сферами Извлечения Прибыли в Фортуне.",
+      "name": "Гравимаг",
+      "code": "ru"
+    },
+    {
+      "description": "アークウイングガンを地上で展開できるようにする。この装置をアークウイングガンにインストールすると宇宙とは違う大気圏内・重量下の条件に適応できるようになる。\n注意： 配備にはフォーチュナーのプロフィット・テイカーミッションで取得できるギアが必要。",
+      "name": "グラビマグ",
+      "code": "ja"
+    },
+    {
+      "description": "Pozwala na używanie broni archwingowych w strefach lądowych. Zainstaluj to urządzenie na broni archwingowej, aby zrekompensować siły atmosferyczne i grawitacyjne, których nie doświadcza się w kosmosie.\nUWAGA: Wyrzutnia wymaga sprzętu uzyskanego z misji Zyskobiorczyni w Fortunie.",
+      "name": "Gravimag",
+      "code": "pl"
+    },
+    {
+      "description": "Permite que Armas de Archwing possam ser invocadas em zonas terrestres. Instale este dispositivo em Armas de Archwing para compensar as forças atmosféricas e gravitacionais ausentes no espaço.\nATENÇÃO: É necessário obter o equipamento apropriado na missão da Beneficiária, em Fortuna.",
+      "name": "Gravimag",
+      "code": "pt"
+    },
+    {
+      "description": "在 Archwing 槍械上安裝這個裝置可以抵銷 Archwing 槍械在宇宙間未曾承受過的大氣壓力與重力，使 Archwing 槍械可以在陸地區域使用。\n注意：此配置器必須從福爾圖娜的利潤收割者相關任務中取得。",
+      "name": "重力磁抵器",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยให้สามารถวางปืน Archwing ได้ในพื้นที่ภาคพื้นดิน ติดตั้งอุปกรณ์นี้บนปืน Archwing เพื่อทำให้เกิดความสมดุลกันระหว่างชั้นบรรยากาศกับแรงโน้มถ่วงที่ไม่เคยพบในอวกาศ\nหมายเหตุ: การปรับใช้งานจำเป็นต้องใช้อุปกรณ์ที่ได้รับจากภารกิจ Profit-Taker ในฟอร์ทูนา",
+      "name": "Gravimag",
+      "code": "th"
+    },
+    {
+      "description": "Archwing silahlarını gezegensel bölgelerde kullanılabilir hale getirir. Yerçekimi ve atmosferden kaynaklı engelleri aşmak için bu cihazı kullanın.\nNOT: Archwing silahlarını takabilmek için Fortuna'daki Profit Taker görevindeki techizat ödülünü kullanmalısınız.",
+      "name": "Gravimag",
+      "code": "tr"
+    },
+    {
+      "description": "Дозволяє використовувати зброю арквінґа на мандрівних завданнях. Встановлення на арк-гармату дозволяє компенсувати атмосферні та гравітаційні навантаження, які не властиві космосу.\nПРИМІТКА: необхідне спорядження для розгортання можна здобути на завданнях Привласнювачки на Фортуні.",
+      "name": "Ґравімаґ",
+      "code": "uk"
+    }
+  ]
+}

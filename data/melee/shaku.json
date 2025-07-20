@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Nunchaku/TnoNunchaku/TnoNunchaku",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shaku-dda85463f5.png",
+  "name": "Shaku",
+  "description": "With these blazing fast nunchaku, the enemy will never know what hit them.",
+  "languages": [
+    {
+      "description": "Mit diesem blitzschnellen Nunchaku wird dein Gegner nicht wissen, was ihn getroffen hat.",
+      "name": "Shaku",
+      "code": "de"
+    },
+    {
+      "description": "Avec ces nunchakus à la vitesse fulgurante, les ennemis ne sauront jamais ce qui les a frappés.",
+      "name": "Shaku",
+      "code": "fr"
+    },
+    {
+      "description": "Con questi nunchaku ultraveloci, i tuoi nemici non ti vedranno mai arrivare.",
+      "name": "Shaku",
+      "code": "it"
+    },
+    {
+      "description": "이 쌍절곤으로 공격받은 적은 너무나 빠른 속도로 인해 무엇으로 공격을 받는지도 알아채지 못할 것입니다.",
+      "name": "샤쿠",
+      "code": "ko"
+    },
+    {
+      "description": "Con estos rápidos nunchakus, el enemigo nunca sabrá qué le golpeó.",
+      "name": "Shaku",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SHAKU）这副双节棍挥动速度极快，敌人永远不会知道是被什么武器给击中。",
+      "name": "双节尺棍",
+      "code": "zh"
+    },
+    {
+      "description": "Молниеносные нунчаки, которые не дадут врагу времени понять, что их ударило.",
+      "name": "Шаку",
+      "code": "ru"
+    },
+    {
+      "description": "このヌンチャクの凄まじい速さの前では、敵は何に攻撃されているかさえも知ることはない。",
+      "name": "Shaku",
+      "code": "ja"
+    },
+    {
+      "description": "Niezwykle zwinne nunchaku niesie wrogom niespodziewaną śmierć.",
+      "name": "Shaku",
+      "code": "pl"
+    },
+    {
+      "description": "Com esse nunchaku super-rápido, o inimigo jamais saberá o que o atingiu.",
+      "name": "Shaku",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SHAKU）這副雙節棍揮動速度極快，敵人永遠不會知道是被什麼武器給擊中。",
+      "name": "雙節尺棍",
+      "code": "tc"
+    },
+    {
+      "description": "ด้วยกระบองสองท่อนที่รวดเร็วนี้ ศัตรูจะไม่มีทางรู้ว่าอะไรโจมตีพวกมัน",
+      "name": "Shaku",
+      "code": "th"
+    },
+    {
+      "description": "Bu hızlı mançıkalarla düşmanlar kendilerine neyin vurduğunu öğrenemeden ölecek.",
+      "name": "Shaku",
+      "code": "tr"
+    },
+    {
+      "description": "Блискавичні нунчаки, що не дадуть ворогу отямитися й зрозуміти, що ж це їх ударило.",
+      "name": "Шаку",
+      "code": "uk"
+    }
+  ]
+}

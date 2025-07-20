@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/TeamHealTotem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/squad-health-restore-(small)-988e717658.png",
+  "name": "Squad Health Restore (Small)",
+  "description": "Restores Health to all squad members. Pulses 30 Health every 7.5s for 30s.",
+  "languages": [
+    {
+      "description": "Stellt Gesundheit für alle Teammitglieder wieder her. Pulsiert 30 Gesundheit jede 7.5s für 30s.",
+      "name": "Team Gesundheitsnachschub (Klein)",
+      "code": "de"
+    },
+    {
+      "description": "Restaure la Santé de tous les membres d'escouade. Impulsions de 30 points de Santé toutes les 7,5s pendant 30s.",
+      "name": "Kit d'Escouade - Santé (Petit)",
+      "code": "fr"
+    },
+    {
+      "description": "Fornisce Salute a tutta la squadra. 30 Salute ad impulso ogni 7.5s per 30s.",
+      "name": "Ricarica Salute di Squadra (Piccola)",
+      "code": "it"
+    },
+    {
+      "description": "모든 분대원들의 체력을 회복시킵니다. 30초 동안 매 7.5초마다 30의 체력을 회복시키는 파동을 내보냅니다.",
+      "name": "분대용 체력 회복 키트 (소형)",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura salud a todo el escuadrón. Salud/Pulso: 30 de salud cada 7.5s por 30s.",
+      "name": "Restaurador de salud de escuadrón (pequeño)",
+      "code": "es"
+    },
+    {
+      "description": "恢复全团队的生命。每次脉冲恢复 30 点生命。脉冲间隔 7.5 秒，共计 30 秒。",
+      "name": "团队生命补给（小型）",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает здоровье всем в отряде. Восполняет 30 ед. здоровья каждые 7,5 с в течение 30 с.",
+      "name": "Восст. здоровья отряда (малый)",
+      "code": "ru"
+    },
+    {
+      "description": "分隊のヘルスを回復する。30秒の間7.5秒ごとに出るパルスごとに30ヘルス補充される。",
+      "name": "チームヘルスリストア（小）",
+      "code": "ja"
+    },
+    {
+      "description": "Odnawia Życie całemu zespołowi. Odnawia 35 Życia co 7.5s przez 30s.",
+      "name": "Odnowa Życia Zespołu (mała)",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura Vida para todos os membros do esquadrão. Pulsa 30 de Vida a cada 7.5s durante 30s.",
+      "name": "Gerador de Vida - Esquadrão (Pequeno)",
+      "code": "pt"
+    },
+    {
+      "description": "恢復全團隊的生命值。每次脈衝恢復 30 點生命。脈衝間隔 7.5 秒，共計 30 秒。",
+      "name": "團隊生命補給（小型）",
+      "code": "tc"
+    },
+    {
+      "description": "ฟื้นฟูพลังชีวิตให้กับสมาชิกในทีมทุกคน ซึ่งจะกระตุ้นให้สร้างพลังชีวิต 30 หน่วยทุก ๆ 7.5 วินาที เป็นเวลา 30 วินาที",
+      "name": "ฟื้นฟูพลังชีวิตให้ทีม (เล็ก)",
+      "code": "th"
+    },
+    {
+      "description": "Tüm takım üyelerinin Sağlığını yeniler. 30 saniye boyunca her 7.5 saniyede 30 Sağlık verir.",
+      "name": "Takım Sağlık Yenileme (Küçük)",
+      "code": "tr"
+    },
+    {
+      "description": "Кожні 7,5 с відновлює всім учасникам загону 30 здоров’я впродовж 30 с.",
+      "name": "Відновник здоров’я загону (малий)",
+      "code": "uk"
+    }
+  ]
+}

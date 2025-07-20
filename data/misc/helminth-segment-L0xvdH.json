@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/InfestedFoundryItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helminth-segment-555be52c60.png",
+  "name": "Helminth Segment",
+  "description": "Empower the Helminth in your Orbiter and unlock the transfer of new abilities to your Warframes.",
+  "languages": [
+    {
+      "description": "Stärke Helminth im Orbiter und schalte die Übertragung von neuen Fähigkeiten auf deine Warframes frei.",
+      "name": "HELMINTH-SEGMENT",
+      "code": "de"
+    },
+    {
+      "description": "Installez un Helminth dans votre Orbiteur et débloquez le transfert de nouveaux Pouvoirs vers vos Warframes.",
+      "name": "SEGMENT HELMINTH",
+      "code": "fr"
+    },
+    {
+      "description": "Potenzia l'Helminth nel tuo Orbiter e sblocca il trasferimento di nuove abilità ai tuoi Warframe.",
+      "name": "SEGMENTO HELMINTH",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내의 헬민스를 성장시켜 워프레임에 새로운 어빌리티를 전이시킬 수 있는 기능을 해금하세요.",
+      "name": "헬민스 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Fortalece al Helminto en tu orbitador y desbloquea la transferencia de nuevas habilidades a tus warframes.",
+      "name": "SEGMENTO DE HELMINTO",
+      "code": "es"
+    },
+    {
+      "description": "在轨道飞行器强化 Helminth，并解锁将新技能转移到战甲上的功能。",
+      "name": "HELMINTH 模块",
+      "code": "zh"
+    },
+    {
+      "description": "Делайте вашего Гельминта в Орбитере сильнее и разблокируйте способность прививать новые способности вашим варфреймам.",
+      "name": "СЕГМЕНТ ГЕЛЬМИНТА",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のHelminthを成長させ、WARFRAMEアビリティの授与を解除します。",
+      "name": "HELMINTHモジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Ulepsz Helmintha w swoim Orbiterze i odblokuj transfer umiejętności między Warframe'ami.",
+      "name": "WARSZTAT HELMINTHA",
+      "code": "pl"
+    },
+    {
+      "description": "Fortaleça o Helminte em sua Orbital e desbloqueie a transferência de novas habilidades para os seus Warframes.",
+      "name": "SEGMENTO DO HELMINTE",
+      "code": "pt"
+    },
+    {
+      "description": "在你的軌道飛行器中強化 Helminth 來解鎖並轉移新技能到你的 Warframe。",
+      "name": "HELMINTH 模組",
+      "code": "tc"
+    },
+    {
+      "description": "เพิ่มพลัง Helminth ในออร์บิเตอร์ของคุณและปลดล็อกการถ่ายโอนความสามารถใหม่ไปยัง Warframe ของคุณ",
+      "name": "เซกเมนต์ของ HELMINTH",
+      "code": "th"
+    },
+    {
+      "description": "Orbiterinizde Helmint'i güçlendirin ve Warframe'lerinize yeni yetenekler aktarma kilidini açın.",
+      "name": "HELMINTH SEGMENTİ",
+      "code": "tr"
+    },
+    {
+      "description": "Посилює гельмінта на вашому орбітрі й розблоковує можливість переносити здібності між ворфреймами.",
+      "name": "МОДУЛЬ ГЕЛЬМІНТА",
+      "code": "uk"
+    }
+  ]
+}

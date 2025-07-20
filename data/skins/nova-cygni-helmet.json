@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/SWRThreeCygniHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-cygni-helmet-03e9994bcc.png",
+  "name": "Nova Cygni Helmet",
+  "description": "A helmet for the Nova Warframe, designed by Arsenal.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Nova Warframe, entworfen von Arsenal.",
+      "name": "Nova-Helm: Cygni",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Nova, conçu par Arsenal.",
+      "name": "Casque Nova Cygni",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Nova, ideato da Arsenal.",
+      "name": "Elmo Nova Cygni",
+      "code": "it"
+    },
+    {
+      "description": "Arsenal에 의해 디자인된 노바 워프레임을 위한 헬멧입니다.",
+      "name": "노바 시그나이 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Nova, diseñado por Arsenal.",
+      "name": "Casco Cygni de Nova",
+      "code": "es"
+    },
+    {
+      "description": "Nova 战甲的头盔，由 Arsenal 设计。",
+      "name": "Nova 天鹅座头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Новы, созданный Arsenal.",
+      "name": "Шлем Новы: Лебедь",
+      "code": "ru"
+    },
+    {
+      "description": "Nova用のヘルメット。製作者：Arsenal。",
+      "name": "Nova Cygni ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Nova zaprojektowany przez Arsemal.",
+      "name": "Nova: Hełm Cygni",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Nova, desenvolvido por Arsenal.",
+      "name": "Nova: Capacete Cygni",
+      "code": "pt"
+    },
+    {
+      "description": "Nova Warframe 的頭盔，由 Arsenal 所設計。",
+      "name": "Nova 天鵝座頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Nova Warframe ออกแบบโดย Arsenal",
+      "name": "หมวกเหล็ก Nova Cygni",
+      "code": "th"
+    },
+    {
+      "description": "Arsenal tarafından oluşturulan Nova Warframe miğferi.",
+      "name": "Nova Cygni Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Нови, створений Arsenal.",
+      "name": "Шолом «Сузір’я Лебедя» для Нови",
+      "code": "uk"
+    }
+  ]
+}

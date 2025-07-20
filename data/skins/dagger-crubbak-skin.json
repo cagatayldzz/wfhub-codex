@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Dagger/SWCrubbakDaggerSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagger-crubbak-skin-7de6e896e1.png",
+  "name": "Dagger Crubbak Skin",
+  "description": "A unique dagger skin, designed by Lubox and Scharkie.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Dolch-Skin, entworfen von Lubox und Scharkie.",
+      "name": "Dolch-Skin: Crubbak",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect unique pour Dague, conçu par Lubox et Scharkie.",
+      "name": "Aspect de Dague Crubbak",
+      "code": "fr"
+    },
+    {
+      "description": "Una skin unica per pugnali, ideata da Lubox e Scharkie.",
+      "name": "Skin Pugnale Crubbak",
+      "code": "it"
+    },
+    {
+      "description": "Lubox와 Scharkie에 의해 디자인된 독특한 대거 스킨입니다.",
+      "name": "크러백 대거 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño único de daga, diseñado por Lubox y Scharkie.",
+      "name": "Diseño Crubbak de Daga",
+      "code": "es"
+    },
+    {
+      "description": "独特的匕首外观，由 Lubox 和 Scharkie 设计。",
+      "name": "匕首库巴可外观",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальный скин для кинжала, созданный Lubox and Scharkie.",
+      "name": "Скин кинжала: Круббак",
+      "code": "ru"
+    },
+    {
+      "description": "ダガー 用のスキン。製作者： Lubox and Scharkie。",
+      "name": "Crubbak ダガー スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowa skórka sztyletu, zaprojektowana przez Lubox i Scharkie.",
+      "name": "Sztylet: Skórka Crubbak",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin exclusiva para Adagas, desenvolvida por Lubox e Scharkie.",
+      "name": "Adaga: Skin Crubbak",
+      "code": "pt"
+    },
+    {
+      "description": "一個獨特的匕首外觀，由 Lubox 和 Scharkie 設計。",
+      "name": "匕首 庫巴可外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินกริชที่ไม่เหมือนใคร ออกแบบโดย Lubox และ Scharkie",
+      "name": "สกินกริช Crubbak",
+      "code": "th"
+    },
+    {
+      "description": "Lubox ve Scharkie tarafından dizayn edilen özel bir dagger skin",
+      "name": "Dagger Crubbak Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний вигляд для кинджала, створений Lubox та Scharkie.",
+      "name": "Вигляд «Краббек» для кинджала",
+      "code": "uk"
+    }
+  ]
+}

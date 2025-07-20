@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarCastingSpeedMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/natural-talent-8bc142c2a7.jpg",
+  "name": "Natural Talent",
+  "description": "Improves Casting Speed on Warframe abilities if applicable.",
+  "languages": [
+    {
+      "description": [
+        "Erhöht Aktivierungsgeschwindigkeit von Fähigkeiten, wenn verfügbar."
+      ],
+      "name": "Naturtalent",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Améliore la Vitesse de Lancement des Pouvoirs de la Warframe uniquement dans les cas possibles."
+      ],
+      "name": "Talent Naturel",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Aumenta la velocità di utilizzo delle abilità dei Warframe se applicabile."
+      ],
+      "name": "Natural Talent",
+      "code": "it"
+    },
+    {
+      "description": [
+        "시전 속도 향상이 가능한 워프레임 어빌리티의 시전 속도를 향상시킵니다."
+      ],
+      "name": "내츄럴 탈런트",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Mejora si es posible la velocidad de lanzamiento de las habilidades de un warframe."
+      ],
+      "name": "Talento natural",
+      "code": "es"
+    },
+    {
+      "description": [
+        "加快战甲的技能施放动作。"
+      ],
+      "name": "天赋",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Увеличивает скорость применения способностей варфреймов, если это возможно."
+      ],
+      "name": "Врожденный талант",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "アビリティの発動間隔を短縮する。"
+      ],
+      "name": "Natural Talent",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Zwiększa prędkość używania mocy, jeśli jest to możliwe."
+      ],
+      "name": "Wrodzony Talent",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Melhorará a Velocidade de Conjuração de Habilidades do Warframe, se aplicável."
+      ],
+      "name": "Natural Talent",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "加快 Warframe 的技能施放動作。"
+      ],
+      "name": "天賦",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "ปรับปรุงความเร็วในการร่ายความสามารถของ Warframe หากนำไปใช้ได้"
+      ],
+      "name": "Natural Talent",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Uygulanabileceği durumlarda Warframe yeteneklerinin kullanılma hızını arttırır"
+      ],
+      "name": "Natural Talent",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "За можливості пришвидшує застосування здібностей ворфрейма."
+      ],
+      "name": "Вроджений талант",
+      "code": "uk"
+    }
+  ]
+}

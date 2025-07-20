@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-prime-theme-fdbd0773a4.png",
+  "name": "Wisp Prime Theme",
+  "description": "Wisp Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Wisp Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Wisp Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique de Wisp Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Wisp Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Wisp Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Wisp Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 위습 프라임의 대표 테마곡입니다.",
+      "name": "위습 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Wisp Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Wisp Prime",
+      "code": "es"
+    },
+    {
+      "description": "Wisp Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Wisp Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Висп Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Висп Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるWisp Primeのテーマ曲。",
+      "name": "Wisp Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Wisp Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Wisp Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional da Wisp Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Wisp Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Wisp Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Wisp Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Wisp Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Wisp Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Wisp Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Вісп-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Вісп-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageKoumeiBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koumei-glyph---bright-d8256374fc.png",
+  "name": "Koumei Glyph - Bright",
+  "description": "A glyph depicting Koumei on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Koumei vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Koumei (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Koumei sur un fond lumineux.",
+      "name": "Glyphe Koumei - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Koumei su uno sfondo chiaro.",
+      "name": "Glifo Koumei - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 코우메이를 묘사한 글리프입니다.",
+      "name": "코우메이 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Koumei sobre un fondo brillante.",
+      "name": "Glifo de Koumei - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Koumei 在明亮背景下的浮印。",
+      "name": "Koumei 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Комеи на светлом фоне.",
+      "name": "Глиф: Комея - Светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたKoumeiのグリフ。",
+      "name": "Koumei グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Koumei na jasnym tle.",
+      "name": "Glif Koumei — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Koumei em um fundo claro.",
+      "name": "Glifo: Koumei (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Koumei 在明亮背景下的浮印。",
+      "name": "Koumei 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Koumei บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Koumei - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Koumei açık fonlu glif.",
+      "name": "Koumei Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Кумей на світлому тлі.",
+      "name": "Яскравий гліф «Кумей»",
+      "code": "uk"
+    }
+  ]
+}

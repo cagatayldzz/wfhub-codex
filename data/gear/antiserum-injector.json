@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedSyringe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/antiserum-injector-03ac73f434.png",
+  "name": "Antiserum Injector",
+  "description": "Injects antiserum into Vaporizers or the user to prevent armor degradation.",
+  "languages": [
+    {
+      "description": "Injiziert Antiserum in den Zerstäuber oder den Benutzer und verhindert so Rüstungsdegeneration.",
+      "name": "Antiserum-Injektor",
+      "code": "de"
+    },
+    {
+      "description": "Injecte de l'antisérum dans le Vaporisateur ou l'utilisateur afin de prévenir la dégradation de l'Armure.",
+      "name": "Injecteur d'Antisérum",
+      "code": "fr"
+    },
+    {
+      "description": "Inietta l'antisiero nei Vaporizzatori o nell'utilizzatore per prevenire il deterioramento dell'armatura.",
+      "name": "Iniettore Antisiero",
+      "code": "it"
+    },
+    {
+      "description": "분사기 혹은 사용자에게 면역 혈청을 주입하여 장갑 손상을 막습니다.",
+      "name": "면역 혈청 주입기",
+      "code": "ko"
+    },
+    {
+      "description": "Inyecta antisuero dentro de vaporizadores o al usuario para impedir la degradación de armadura.",
+      "name": "Inyector de Antisuero",
+      "code": "es"
+    },
+    {
+      "description": "将抗血清注入雾化器或是使用者本身，可防止护甲被侵蚀。",
+      "name": "抗血清注射器",
+      "code": "zh"
+    },
+    {
+      "description": "Вводит антисерум в Очистители или в пользователя, предотвращая разрушение брони.",
+      "name": "Инъектор антисерума",
+      "code": "ru"
+    },
+    {
+      "description": "バポライザーに抗体を注入する、もしくはアーマーの分解を予防する。",
+      "name": "抗体注入器",
+      "code": "ja"
+    },
+    {
+      "description": "Wszczepia antyserum w atomizery lub w użytkownika, aby powstrzymać degradację pancerza.",
+      "name": "Iniektor antyserum",
+      "code": "pl"
+    },
+    {
+      "description": "Injeta antissoro em Vaporizadores ou no usuário para evitar a degradação da Armadura.",
+      "name": "Injetor de Antissoro",
+      "code": "pt"
+    },
+    {
+      "description": "將抗血清注入霧化器或是使用者本身，可防止護甲被侵蝕。",
+      "name": "抗血清注射器",
+      "code": "tc"
+    },
+    {
+      "description": "ฉีดแอนติซีรัมเข้าไปในเครื่องพ่นไอระเหยหรือตัวผู้ใช้เองเพื่อป้องกันไม่ให้เกราะเสื่อมสภาพ",
+      "name": "หัวฉีดแอนติซีรัม",
+      "code": "th"
+    },
+    {
+      "description": "Vaporizer'lara veya kullanıcıya anti serum enjekte eder ve zırh ayrıştırmasına karşı korur",
+      "name": "Antiserum Enjektörü",
+      "code": "tr"
+    },
+    {
+      "description": "Упорскує імунну сироватку у випарювачі або у ворфрейм, щоб запобігти руйнуванню обладунку.",
+      "name": "Імунний упорскувач",
+      "code": "uk"
+    }
+  ]
+}

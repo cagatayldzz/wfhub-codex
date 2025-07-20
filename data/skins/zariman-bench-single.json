@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFurnitureBenchASingle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-bench-(single)-c8ff97ba47.png",
+  "name": "Zariman Bench (Single)",
+  "description": "A single bench seat.",
+  "languages": [
+    {
+      "description": "Eine einzelne Sitzbank.",
+      "name": "Zariman Bank (einzeln)",
+      "code": "de"
+    },
+    {
+      "description": "Un banc à une place.",
+      "name": "Zariman: Banc (simple)",
+      "code": "fr"
+    },
+    {
+      "description": "Una seduta individuale.",
+      "name": "Panca Zariman (Singola)",
+      "code": "it"
+    },
+    {
+      "description": "1인용 벤치 좌석입니다.",
+      "name": "자리만 벤치 (1인용)",
+      "code": "ko"
+    },
+    {
+      "description": "Un asiento individual.",
+      "name": "Banca Zariman (individual)",
+      "code": "es"
+    },
+    {
+      "description": "一个单人长椅座位。",
+      "name": "扎里曼长椅（单）",
+      "code": "zh"
+    },
+    {
+      "description": "Одноместное сиденье.",
+      "name": "Скамья Заримана (Одиночная)",
+      "code": "ru"
+    },
+    {
+      "description": "シングルベンチ。",
+      "name": "Zariman ベンチ（シングル）",
+      "code": "ja"
+    },
+    {
+      "description": "Pojedyncze siedzisko ławki.",
+      "name": "Zariman: Ławka (pojedyncza)",
+      "code": "pl"
+    },
+    {
+      "description": "Um banco individual.",
+      "name": "Banco da Zariman (Individual)",
+      "code": "pt"
+    },
+    {
+      "description": "單人長椅座位。",
+      "name": "扎日曼長椅（單）",
+      "code": "tc"
+    },
+    {
+      "description": "ม้านั่งเดี่ยว",
+      "name": "Zariman: ม้านั่ง (เดี่ยว)",
+      "code": "th"
+    },
+    {
+      "description": "Tek kişilik bir bank.",
+      "name": "Zariman Bankı (Tekli)",
+      "code": "tr"
+    },
+    {
+      "description": "Лавка для однієї особи.",
+      "name": "Лавка із «Заримена» (одинарна)",
+      "code": "uk"
+    }
+  ]
+}

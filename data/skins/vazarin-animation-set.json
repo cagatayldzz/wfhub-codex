@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/AnimationSets/VazarinAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vazarin-animation-set-8273d78d10.png",
+  "name": "Vazarin Animation Set",
+  "description": "The Vazarin animation set for your Operator.",
+  "languages": [
+    {
+      "description": "Das Animationsset: Vazarin für deinen Operator.",
+      "name": "Animationsset: Vazarin",
+      "code": "de"
+    },
+    {
+      "description": "Le Pack d'Animations Vazarin pour votre Opérateur.",
+      "name": "Animation Vazarin",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Vazarin per il tuo Operatore.",
+      "name": "Set Animazione Vazarin",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터가 사용할 바자린 애니메이션 세트입니다.",
+      "name": "바자린 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones Vazarin para tu operador.",
+      "name": "Conjunto de animaciones Vazarin",
+      "code": "es"
+    },
+    {
+      "description": "指挥官使用的 Vazarin 站姿动作。",
+      "name": "Vazarin 站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Набор анимаций Вазарин для оператора.",
+      "name": "Набор анимаций: Вазарин",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター用のVazarinモーションセット。",
+      "name": "Vazarin モーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw animacji Vazarin dla Twojego Operatora.",
+      "name": "Zestaw Animacji Vazarin",
+      "code": "pl"
+    },
+    {
+      "description": "Conjunto de animações da Vazarin para o seu Operador.",
+      "name": "Animações: Vazarin",
+      "code": "pt"
+    },
+    {
+      "description": "給指揮官使用的 Vazarin 站姿",
+      "name": "Vazarin 站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชัน Vazarin สำหรับโอเปอเรเตอร์ของคุณ",
+      "name": "เซตแอนิเมชัน Vazarin",
+      "code": "th"
+    },
+    {
+      "description": "Operatörünüz için Vazarin Animasyon Seti.",
+      "name": "Vazarin Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір анімації шляху Вазарін для вашого оператора.",
+      "name": "Набір анімації «Вазарін»",
+      "code": "uk"
+    }
+  ]
+}

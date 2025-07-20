@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/desert-skate-floof-957396e60a.png",
+  "name": "Desert Skate Floof",
+  "description": "Avoid shifting sands with this squishy little fella!",
+  "languages": [
+    {
+      "description": "Weiche gefährlichem Sand aus, mit diesem kleinen, schwammigen Kerl!",
+      "name": "Floof: Wüstenrochen",
+      "code": "de"
+    },
+    {
+      "description": "Évitez les sables mouvants grâce à ce petit gars spongieux!",
+      "name": "Peluche Raie du Désert",
+      "code": "fr"
+    },
+    {
+      "description": "Evita di spostare la sabbia con questo soffice piccolino!",
+      "name": "Floof Desert Skate",
+      "code": "it"
+    },
+    {
+      "description": "이 질척질척한 작은 친구와 함께 흐르는 유사를 피해 보세요!",
+      "name": "데저트 스케이프 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "¡Evita las arenas movedizas con este compañerito apachurrable!",
+      "name": "Floof de Raya del desierto",
+      "code": "es"
+    },
+    {
+      "description": "通过这湿漉漉的小家伙来避免流沙！",
+      "name": "沙漠鳐鱼玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Избегайте зыбучих песков благодаря этому маленькому губчатому парню!",
+      "name": "Пушистик: Пустынный скат",
+      "code": "ru"
+    },
+    {
+      "description": "モフモフのデザートスケートと砂遊び！",
+      "name": "デザートスケートのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Unikaj niepewnego gruntu dzięki temu małemu przytulaskowi!",
+      "name": "Pluszak Pustynnej Płaszczki",
+      "code": "pl"
+    },
+    {
+      "description": "Evite o deslocamento de areias com este pequeno ranzinza!",
+      "name": "Floof: Arraia do Deserto",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個軟綿的小傢伙來避免流沙！",
+      "name": "沙漠鰩魚玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "หลีกเลี่ยงทรายที่ขยับเคลื่อนย้ายไปมากับเจ้าหนูตัวน้อยตัวนี้!",
+      "name": "ตุ๊กตา Desert Skate",
+      "code": "th"
+    },
+    {
+      "description": "Bu küçük yumuşak dostumuzla kumlarda kaymaktan kaçının!",
+      "name": "Desert Skate Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Цей хлопака не дасть рухомим піскам вас засмоктати!",
+      "name": "Плюш «Пустельний скат»",
+      "code": "uk"
+    }
+  ]
+}

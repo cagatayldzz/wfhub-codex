@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMonkeyKingMacakDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-macak-glyph---dark-1cc281ce50.png",
+  "name": "Wukong Macak Glyph - Dark",
+  "description": "A glyph depicting Wukong Macak on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wukong Macak vor einem dunklem Hintergrund darstellt.",
+      "name": "Glyphe: Wukong Macak (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wukong Macak sur un fond sombre.",
+      "name": "Glyphe Wukong Macak - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wukong Macak su uno sfondo scuro.",
+      "name": "Glifo Wukong Macak - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 오공 마칵을 묘사한 글리프입니다.",
+      "name": "오공 마칵 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Wukong Macak sobre un fondo oscuro.",
+      "name": "Glifo de Wukong Macak - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Wukong 猕猴在黑暗背景下的浮印。",
+      "name": "Wukong 猕猴浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вуконга в шлеме «Макак» на темном фоне.",
+      "name": "Глиф: Вуконг Макак - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたWukong Macakのグリフ。",
+      "name": "Wukong Macak グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Wukonga Makak na ciemnym tle.",
+      "name": "Glif Wukong Macak — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Wukong Macak em um fundo escuro.",
+      "name": "Glifo: Wukong Macak (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wukong 獼猴在黑暗背景下的浮印。",
+      "name": "Wukong 獼猴浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Wukong Macak บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Wukong Macak - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Wukong Macak koyu fonlu glif.",
+      "name": "Wukong Macak Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вукона в шоломі «Макак» на темному тлі.",
+      "name": "Темний гліф «Вукон „Макак“»",
+      "code": "uk"
+    }
+  ]
+}

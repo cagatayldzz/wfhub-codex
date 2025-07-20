@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestAbilityToShieldsAuraMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/brief-respite-4ad9b976b4.jpg",
+  "name": "Brief Respite",
+  "description": "On Ability Cast:",
+  "languages": [
+    {
+      "description": [
+        "Beim Wirken von Fähigkeiten"
+      ],
+      "name": "Kurze Ruhe",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Sur utilisation de Pouvoir:"
+      ],
+      "name": "Court Répit",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "All'attivazione di un'Abilità:"
+      ],
+      "name": "Brief Respite",
+      "code": "it"
+    },
+    {
+      "description": [
+        "어빌리티 시전 시:"
+      ],
+      "name": "브리프 리스파이트",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Al lanzar una habilidad:"
+      ],
+      "name": "Breve respiro",
+      "code": "es"
+    },
+    {
+      "description": [
+        "施放技能后："
+      ],
+      "name": "快速休整",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "При активации способности:"
+      ],
+      "name": "Краткая Отсрочка",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "アビリティ発動時："
+      ],
+      "name": "Brief Respite",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Przy Użyciu Umiejętności:"
+      ],
+      "name": "Krótkie Wytchnienie",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ao Conjurar Habilidade:"
+      ],
+      "name": "Brief Respite",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "施放技能後："
+      ],
+      "name": "快速休整",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อร่ายพลังความสามารถ:"
+      ],
+      "name": "Brief Respite",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Yetenek Kullanımında:"
+      ],
+      "name": "Brief Respite",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "У разі застосування здібності:"
+      ],
+      "name": "Коротка зупинка",
+      "code": "uk"
+    }
+  ]
+}

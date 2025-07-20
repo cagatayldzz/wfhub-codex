@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksCrate",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grand-finale-7e65f0f60c.png",
+  "name": "Grand Finale",
+  "description": "Want a more spectacular fireworks display to show your patriotism? Celebrate in style with this single use consumable item.",
+  "languages": [
+    {
+      "description": "Willst du ein größeres Feuerwerk, um deinen Patriotismus zu zeigen? Zelebriere auf großem Fuße mit dieser Einzelladung.",
+      "name": "Grosses Finale",
+      "code": "de"
+    },
+    {
+      "description": "Vous voulez des feux d'artifice encore plus spectaculaires pour montrer votre patriotisme? Célébrez avec style grâce à ce matériel consommable à utilisation unique.",
+      "name": "Grand Final",
+      "code": "fr"
+    },
+    {
+      "description": "Vuoi un fuoco d'artificio più spettacolare per mostrare il tuo patriottismo? Festeggia con stile con questo oggetto monouso.",
+      "name": "Gran Finale",
+      "code": "it"
+    },
+    {
+      "description": "당신의 애국심을 보여줄 화려한 폭죽을 원하나요? 이 소모성 아이템을 사용해서 더욱 화려하게 기념해보세요.",
+      "name": "그랜드 피날레",
+      "code": "ko"
+    },
+    {
+      "description": "¿Quieres unos fuegos artificiales más espectaculares aún para demostrar tu patriotismo? Celébralo con estilo con este objeto consumible de un solo uso.",
+      "name": "Gran final",
+      "code": "es"
+    },
+    {
+      "description": "想要以更壮观的烟火表演来展现你的爱国精神吗？以这个仅限一次使用的道具来庆祝吧。",
+      "name": "压轴好戏",
+      "code": "zh"
+    },
+    {
+      "description": "Хотите более впечатляющий фейерверк дабы показать свой патриотизм? Празднуйте стильно с этим одноразовым предметом.",
+      "name": "Грандиозный финал",
+      "code": "ru"
+    },
+    {
+      "description": "あなたの気持ちを表すため、もっと壮大に！華やかに！ 1回使用の消耗品です。",
+      "name": "グランド・フィナーレ",
+      "code": "ja"
+    },
+    {
+      "description": "Czy chciałbyś mieć możliwość stworzenia bardziej spektakularnego pokazu fajerwerków, by pokazać swój patriotyzm? Świętuj w wielkim stylu, korzystając z tego jednorazowego przedmiotu.",
+      "name": "Wielki Finał",
+      "code": "pl"
+    },
+    {
+      "description": "Quer uma exibição de fogos de artifícios mais espetacular para mostrar seu patriotismo? Comemore com estilo com este item consumível de uso único",
+      "name": "Grande Final",
+      "code": "pt"
+    },
+    {
+      "description": "想要以更壯觀的煙火表演來展現你的愛國精神嗎? 以這個僅限一次使用的道具來慶祝吧。",
+      "name": "壓軸好戲",
+      "code": "tc"
+    },
+    {
+      "description": "อยากจะจัดการแสดงดอกไม้ไฟที่น่าตื่นตาตื่นใจเพื่อแสดงความรักชาติหรือไม่? ไอเทมที่ใช้ครั้งเดียวชิ้นนี้จะช่วยให้คุณเฉลิมฉลองอย่างมีสไตล์",
+      "name": "Grand Finale",
+      "code": "th"
+    },
+    {
+      "description": "Vatanseverliğinizi göstermek için daha gösterişli havai fişek gösterileri mi istiyorsunuz? Kutlama için bu tek kullanımlık olanları kullanın.",
+      "name": "Muhteşem Final",
+      "code": "tr"
+    },
+    {
+      "description": "Прагнете проявити патріотизм грандіозним феєрверком? Цей витратник допоможе відсвяткувати зі смаком.",
+      "name": "Грандіозне завершення",
+      "code": "uk"
+    }
+  ]
+}

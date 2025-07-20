@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetAirSupport",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/air-support-charges-5da379be80.png",
+  "name": "Air Support Charges",
+  "description": "Charges consumed by Landing Craft Air Support.",
+  "languages": [
+    {
+      "description": "Von der Luftdeckung deines Landungsschiffes verbrauchte Ladungen.",
+      "name": "Luftdeckung-Ladungen",
+      "code": "de"
+    },
+    {
+      "description": "Charges consommées par le Soutien Aérien du Vaisseau de Débarquement.",
+      "name": "Charges de Soutien Aérien",
+      "code": "fr"
+    },
+    {
+      "description": "Cariche consumate dal Supporto Aereo della Navicella da Sbarco.",
+      "name": "Cariche Supporto Aereo",
+      "code": "it"
+    },
+    {
+      "description": "착륙정의 공중 지원을 받을 때 소모되는 장치입니다.",
+      "name": "공중 지원 통신 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Cargas consumidas por el apoyo aéreo de la nave de desembarco.",
+      "name": "Cargas de Apoyo aéreo",
+      "code": "es"
+    },
+    {
+      "description": "登陆艇空中支援会消耗呼叫器。",
+      "name": "空中支援呼叫器",
+      "code": "zh"
+    },
+    {
+      "description": "Заряды, используемые при запросе поддержки с воздуха от десантного корабля.",
+      "name": "Заряды воздушной поддержки",
+      "code": "ru"
+    },
+    {
+      "description": "ランディングクラフトにエアリアルサポートを要請する。",
+      "name": "エアリアルサポートチャージ",
+      "code": "ja"
+    },
+    {
+      "description": "Ładunki zużywane przez wsparcie powietrzne ze statku desantowego.",
+      "name": "Ładunki Wsparcia Powietrznego",
+      "code": "pl"
+    },
+    {
+      "description": "Cargas consumidas pelo Apoio Aéreo da Nave de Pouso.",
+      "name": "Cargas de Apoio Aéreo",
+      "code": "pt"
+    },
+    {
+      "description": "使用空中支援時會消耗使用次數。",
+      "name": "空中支援呼叫器",
+      "code": "tc"
+    },
+    {
+      "description": "การสนับสนุนทางอากาศของยานลงจอดจะใช้ตัวชาร์จนี้",
+      "name": "ตัวชาร์จสนับสนุนทางอากาศ",
+      "code": "th"
+    },
+    {
+      "description": "Çıkarma Gemisi Hava Desteği tarafından kullanılan Şarjlar.",
+      "name": "Hava Desteği Şarjları",
+      "code": "tr"
+    },
+    {
+      "description": "Заряди, які використовує десантне судно для застосування підтримки з повітря.",
+      "name": "Заряди підтримки з повітря",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-heat-swords-0e3c95de91.png",
+  "name": "Dual Heat Swords",
+  "description": "With a Heat Sword in each hand, enemies reach their fiery demise twice as fast. Can connect with multiple targets at once.",
+  "languages": [
+    {
+      "description": "Mit einem Hitzeschwert in jeder Hand schneidet man durch Gegnermassen wie ein heißes Messer durch Butter. Kann mehrere Ziele auf einmal treffen.",
+      "name": "Dual-Hitzeschwerter",
+      "code": "de"
+    },
+    {
+      "description": "Avec une Épée de Chaleur dans chaque main, les ennemis connaissent une fin deux fois plus rapide. Peuvent toucher plusieurs cibles à la fois.",
+      "name": "Doubles Épées de Chaleur",
+      "code": "fr"
+    },
+    {
+      "description": "Con una Heat Sword in ciascuna mano, i nemici incontrano la loro fine incandescente al doppio della velocità. Possono colpire più obiettivi alla volta.",
+      "name": "Dual Heat Swords",
+      "code": "it"
+    },
+    {
+      "description": "각 손마다 장착하는 두 자루의 히트 소드로, 적들에게 불타는 죽음을 2배는 더 빨리 도달하도록 만들어 줍니다. 동시에 여러 명의 적을 벨 수 있습니다.",
+      "name": "듀얼 히트 소드",
+      "code": "ko"
+    },
+    {
+      "description": "Con una Espada de calor en cada mano, los enemigos alcanzan su llameante muerte el doble de rápido. Pueden golpear a múltiples objetivos a la vez.",
+      "name": "Espadas de calor dobles",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL HEAT SWORDS）每只手紧握一把烈焰之剑，双倍加强敌人在炽热中消亡的速度。能同时攻击多个目标。",
+      "name": "烈焰双剑",
+      "code": "zh"
+    },
+    {
+      "description": "Парные Пылающие Мечи в два раза быстрее сеют огненную погибель среди ваших врагов. Могут поражать несколько целей одним ударом.",
+      "name": "Парные Пылающие мечи",
+      "code": "ru"
+    },
+    {
+      "description": "両手で振るえるよう調整された一対のHEAT SWORD。複数の敵を同時に焼き斬ることができる。",
+      "name": "Dual Heat Swords",
+      "code": "ja"
+    },
+    {
+      "description": "Z Mieczem Żaru w obydwu rękach płomienna zagłada spotka Twoich wrogów dwa razy szybciej. Razi kilku wrogów naraz.",
+      "name": "Miecz Żaru Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Com uma Espada Ígnea em cada mão, os inimigos alcançarão seu fim duas vezes mais rápido.",
+      "name": "Espadas Ígneas Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL HEAT SWORDS）雙手各持一把烈焰之劍，雙倍加強敵人在熾熱中消亡的速度。能同時攻擊多個目標。",
+      "name": "烈焰雙劍",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบ Heat Sword ที่ถืออยู่ในมือแต่จะข้าง จะส่งผลให้ศัตรูตายเร็วขึ้นเป็นสองเท่า สามารถจัดการเป้าหมายได้ทีละหลายคนพร้อมกัน",
+      "name": "Dual Heat Swords",
+      "code": "th"
+    },
+    {
+      "description": "Her iki elde Heat Sword ile, düşmanlar 2 kat hızlı ölürler. Birden çok hedefe aynı anda saldırabilir.",
+      "name": "Dual Heat Swords",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія вогнемеча. Удвічі швидше наближають кончину ваших ворогів. Здатні вражати кілька цілей одночасно.",
+      "name": "Парні вогнемечі",
+      "code": "uk"
+    }
+  ]
+}

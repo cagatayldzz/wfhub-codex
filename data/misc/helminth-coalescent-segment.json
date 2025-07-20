@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/InfestedFoundryArchonShardUpgradeFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helminth-coalescent-segment-ffb11e68a5.png",
+  "name": "Helminth Coalescent Segment",
+  "description": "Allows the Helminth to fuse Archon Shards into more powerful variants through Coalescent Fusion and Ascent Fusion.",
+  "languages": [
+    {
+      "description": "Ermöglicht Helminth, Archon Scherben durch Koaleszenz-Fusion und Aufstiegs-Fusion zu stärkeren Varianten zu verschmelzen.",
+      "name": "HELMINTH-SEGMENT: KOALESZENZ",
+      "code": "de"
+    },
+    {
+      "description": "Permet au Helminth de fusionner les Fragments d'Archonte en variantes plus puissantes via les Fusions Coalescente et d'Ascension.",
+      "name": "SEGMENT COALESCENT DU HELMINTH",
+      "code": "fr"
+    },
+    {
+      "description": "Consente all'Helminth di fondere i Frammenti Archon in varianti più potenti tramite la Fusione Coalescente e la Fusione d'Ascensione.",
+      "name": "SEGMENTO HELMINTH: COALESCENZA",
+      "code": "it"
+    },
+    {
+      "description": "헬민스가 융합 합성 혹은 향상 합성을 통해 집정관 샤드를 더 강력한 아종으로 융합할 수 있게 만들어 줍니다.",
+      "name": "헬민스 융합 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Permite que el Helminto fusione fragmentos de Arconte en variantes más poderosas a través de la fusión coalescente y la fusión ascendente.",
+      "name": "SEGMENTO COALESCENTE DE HELMINTO",
+      "code": "es"
+    },
+    {
+      "description": "通过联结融合和升华融合，可让 Helminth 融合执刑官源力石来获得更强大的源力石变体。",
+      "name": "HELMINTH 联结模块",
+      "code": "zh"
+    },
+    {
+      "description": "Позволяет Гельминту объединять осколки архонта в более мощные варианты с помощью коалесцентного и восходящего слияний.",
+      "name": "СЕГМЕНТ ГЕЛЬМИНТА: КОАЛЕСЦЕНЦИЯ",
+      "code": "ru"
+    },
+    {
+      "description": "Helminthがアルコンの欠片をコアレセント・フュージョンとアセント・フュージョンにより強力な欠片を生み出せるようになる。",
+      "name": "HELMINTHコアレセントモジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Pozwala Helminthowi na łączenie Okruchów Archona w potężniejsze warianty poprzez Transmutację i Fuzję.",
+      "name": "SEGMENT TRANSMUTACJI HELMINTH",
+      "code": "pl"
+    },
+    {
+      "description": "Permitirá que o Helminte realize a fusão de Fragmentos de Arcontes em versões mais poderosas por meio da Fusão Coalescente e da Fusão Ascensível.",
+      "name": "SEGMENTO COALESCENTE DO HELMINTE",
+      "code": "pt"
+    },
+    {
+      "description": "允許 Helminth 透過聚結融合以及躍昇融合，將執政官靈石變為更強大的靈石變體。",
+      "name": "HELMINTH 聚結模組",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยให้ Helminth สามารถหลอมรวมเศษ Archon ให้กลายไปเป็นเศษชิ้นส่วนที่ทรงพลังยิ่งขึ้นผ่านการหลอมแบบโคอาเลสเซนต์ฟิวชันและแบบแอสเซนต์ฟิวชัน",
+      "name": "เซกเมนต์โคอาเลสเซนต์ของ HELMINTH",
+      "code": "th"
+    },
+    {
+      "description": "Helminth'in, Bütünleştirici Füzyon ve Yükseliş Füzyonu aracılığıyla Archon Parçalarını daha güçlü türlere dönüştürmesini sağlar.",
+      "name": "HELMINTH BİRLEŞTİRİCİ SEGMENTİ",
+      "code": "tr"
+    },
+    {
+      "description": "Дозволяє гельмінту зливати архонтові уламки в потужніші варіанти за допомогою коалесцентного та висхідного злиття.",
+      "name": "КОАЛЕСЦЕНТНИЙ МОДУЛЬ ГЕЛЬМІНТА",
+      "code": "uk"
+    }
+  ]
+}

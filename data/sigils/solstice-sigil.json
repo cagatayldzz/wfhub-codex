@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Winter2016Sigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/solstice-sigil-26cf37b23f.png",
+  "name": "Solstice Sigil",
+  "description": "A festive sigil.",
+  "languages": [
+    {
+      "description": "Ein festliches Siegel.",
+      "name": "Siegel: Solstice",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau festif.",
+      "name": "Sceau Solstice",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo festivo.",
+      "name": "Sigillo Solstice",
+      "code": "it"
+    },
+    {
+      "description": "축제용 시질입니다.",
+      "name": "솔스티스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello festivo.",
+      "name": "Sello del Solsticio",
+      "code": "es"
+    },
+    {
+      "description": "节日用纹章。",
+      "name": "冬至纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Праздничный сигил.",
+      "name": "Сигил: Солнцестояние",
+      "code": "ru"
+    },
+    {
+      "description": "祝祭シジル。",
+      "name": "祝祭用 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Świąteczny znak.",
+      "name": "Znak Solstice",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema festivo.",
+      "name": "Brasão: Solstício",
+      "code": "pt"
+    },
+    {
+      "description": "節日用紋章。",
+      "name": "冬至紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายตามเทศกาล",
+      "name": "เครื่องหมาย: Solstice",
+      "code": "th"
+    },
+    {
+      "description": "Festival mührü",
+      "name": "Solstice Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Святковий сиґіл.",
+      "name": "Сиґіл «Сонцестояння»",
+      "code": "uk"
+    }
+  ]
+}

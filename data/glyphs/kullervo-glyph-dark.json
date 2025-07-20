@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImagePaxDuviricusDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kullervo-glyph---dark-1a2ac5a626.png",
+  "name": "Kullervo Glyph - Dark",
+  "description": "A glyph depicting Kullervo on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Kullervo vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Kullervo (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Kullervo sur un fond sombre.",
+      "name": "Glyphe Kullervo - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Kullervo su uno sfondo scuro.",
+      "name": "Glifo Kullervo - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 쿨레르보를 묘사한 글리프입니다.",
+      "name": "쿨레르보 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Kullervo sobre un fondo oscuro.",
+      "name": "Glifo de Kullervo - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Kullervo 在黑暗背景下的浮印。",
+      "name": "Kullervo 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глифа с изображением Куллерво на тёмном фоне.",
+      "name": "Глиф: Куллерво — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたKullervoのグリフ。",
+      "name": "Kullervo グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Kullervo na ciemnym tle.",
+      "name": "Glif Kullervo — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Kullervo em um fundo escuro.",
+      "name": "Glifo: Kullervo (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Kullervo 在黑暗背景下的浮印。",
+      "name": "Kullervo 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Kullervo บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Kullervo - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Kullervo koyu fonlu glif.",
+      "name": "Kullervo Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Куллерво на темному тлі.",
+      "name": "Темний гліф «Куллерво»",
+      "code": "uk"
+    }
+  ]
+}

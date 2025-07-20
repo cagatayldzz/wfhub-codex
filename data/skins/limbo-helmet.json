@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Magician/MagicianHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-helmet-0e084c0e8a.png",
+  "name": "Limbo Helmet",
+  "description": "The standard issue helmet for the Limbo Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Limbo Warframe.",
+      "name": "Limbo-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Limbo.",
+      "name": "Casque Limbo",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Limbo.",
+      "name": "Elmo Limbo",
+      "code": "it"
+    },
+    {
+      "description": "림보 워프레임을 위한 기본 헬멧입니다.",
+      "name": "림보 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Limbo.",
+      "name": "Casco de Limbo",
+      "code": "es"
+    },
+    {
+      "description": "Limbo 的标准头盔。",
+      "name": "Limbo 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Лимбо.",
+      "name": "Шлем Лимбо",
+      "code": "ru"
+    },
+    {
+      "description": "Limboの標準型ヘルメット。",
+      "name": "Limbo ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Limbo.",
+      "name": "Limbo: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Limbo.",
+      "name": "Limbo: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Limbo 標準頭盔",
+      "name": "Limbo 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Limbo Warframe",
+      "name": "หมวกเหล็ก Limbo",
+      "code": "th"
+    },
+    {
+      "description": "Limbo Warframe için standart miğfer.",
+      "name": "Limbo Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Лімбо.",
+      "name": "Шолом Лімбо",
+      "code": "uk"
+    }
+  ]
+}

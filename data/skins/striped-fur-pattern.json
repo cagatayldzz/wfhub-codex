@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/striped-fur-pattern-f467e1d39a.png",
+  "name": "Striped Fur Pattern",
+  "description": "A striped fur pattern for your Kubrow.",
+  "languages": [
+    {
+      "description": "Ein gestreiftes Fellmuster für deinen Kubrow.",
+      "name": "Fellmuster: Gestreift",
+      "code": "de"
+    },
+    {
+      "description": "Un motif de pelage rayé pour votre Kubrow.",
+      "name": "Motif de Pelage Rayé",
+      "code": "fr"
+    },
+    {
+      "description": "Un pattern con pelo a strisce per il tuo Kubrow.",
+      "name": "Pattern Pelo a Strisce",
+      "code": "it"
+    },
+    {
+      "description": "당신의 쿠브로를 위한 줄무늬 털 패턴입니다.",
+      "name": "스트라이프 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Un patrón de pelaje a rayas para tu kubrow.",
+      "name": "Patrón de pelaje a Rayas",
+      "code": "es"
+    },
+    {
+      "description": "库狛的条纹毛皮花纹。",
+      "name": "条纹毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Полосатый шаблон для меха вашего кубрау.",
+      "name": "Шаблон меха кубрау: Полосатый",
+      "code": "ru"
+    },
+    {
+      "description": "縞模様のような毛色",
+      "name": "Striped ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Pasiasty wzór futra dla Twojego Kubrowa.",
+      "name": "Wzór Futra: Pasiasty",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pelagem listrada para o seu Kubrow.",
+      "name": "Pelagem de Kubrow: Listrada",
+      "code": "pt"
+    },
+    {
+      "description": "庫狛的條紋毛皮花紋。",
+      "name": "條紋毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ลายขนที่เป็นลายทางสำหรับ Kubrow ของคุณ",
+      "name": "ลายขน Striped",
+      "code": "th"
+    },
+    {
+      "description": "Kubrow'unuz için çizgili kürk deseni.",
+      "name": "Çizgili Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Смугастий вигляд хутра для вашого куброу.",
+      "name": "Вигляд хутра «Смугастий»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyPhobosBronze",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path---phobos-06c5b4bc97.png",
+  "name": "The Steel Path - Phobos",
+  "description": "A signifier of walking The Steel Path on Phobos",
+  "languages": [
+    {
+      "description": "Ein Symbol, dass du den Stählernen Pfad auf Phobos beschritten hast",
+      "name": "Der Stählerne Pfad: Phobos",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole pour avoir parcouru La Route de l'Acier sur Phobos",
+      "name": "La Route de l'Acier - Phobos",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo del tuo passaggio attraverso Il Percorso d'Acciaio su Phobos",
+      "name": "Il Percorso d'Acciaio - Phobos",
+      "code": "it"
+    },
+    {
+      "description": "포보스에서 강철의 길을 걸은 이들의 증표입니다.",
+      "name": "강철의 길 - 포보스",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo por haber recorrido El Camino de Acero en Fobos",
+      "name": "El Camino de Acero - Fobos",
+      "code": "es"
+    },
+    {
+      "description": "踏上了火卫一钢铁之路的象征。",
+      "name": "钢铁之路 — 火卫一",
+      "code": "zh"
+    },
+    {
+      "description": "Символ прохождения Стального Пути на Фобосе",
+      "name": "Стальной Путь: Фобос",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：フォボス」を歩んだ証",
+      "name": "鋼の道のり：フォボス",
+      "code": "ja"
+    },
+    {
+      "description": "Element oznaczający kroczenie Ścieżką Stali na Fobos",
+      "name": "Ścieżka Stali — Fobos",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da conclusão do Percurso de Aço em Fobos",
+      "name": "O Percurso de Aço - Fobos",
+      "code": "pt"
+    },
+    {
+      "description": "長征火衛上鋼韌之道的象徵物",
+      "name": "鋼韌之道－火衛一",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ที่บ่งบอกถึงการเดินทางบนเส้นทางเหล็กกล้าบนดาวโฟบอส",
+      "name": "เส้นทางเหล็กกล้า - ดาวโฟบอส",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path'i Phobos'ta tamamlayanlar için bir simge",
+      "name": "Steel Path - Phobos",
+      "code": "tr"
+    },
+    {
+      "description": "Трофей за подолання «Шляху сталі» на Фобосі.",
+      "name": "Шлях сталі: Фобос",
+      "code": "uk"
+    }
+  ]
+}

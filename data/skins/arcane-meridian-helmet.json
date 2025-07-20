@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-meridian-helmet-9510702d49.png",
+  "name": "Arcane Meridian Helmet",
+  "description": "This helmet is worn by Trinity, and adds Shield Capacity, with a reduction to Ability Efficiency.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Trinity getragen und verstärkt die Schildkapazität, während Fähigkeitseffizienz reduziert wird.",
+      "name": "Arkaner Meridian Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Trinity et ajoute de la Capacité de Bouclier, avec une diminution au niveau de l'Efficacité de Pouvoir.",
+      "name": "Casque Meridian Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Trinity, aggiunge gli Scudi, ma riduce l'Efficienza Abilità.",
+      "name": "Elmo Arcane Meridian",
+      "code": "it"
+    },
+    {
+      "description": "트리니티 전용의 헬멧으로, 어빌리티 효율을 감소시키고 최대 실드량을 증가시킵니다.",
+      "name": "아케인 메리디안 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Trinity, añade capacidad de escudos pero reduce la eficiencia de habilidad.",
+      "name": "Casco Meridian Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Trinity 佩戴，它能提升护盾容量，但会降低技能效率。",
+      "name": "经络 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Тринити. Он повышает мощность щитов, но снижает эффективность способности.",
+      "name": "Мистический шлем: Меридиан",
+      "code": "ru"
+    },
+    {
+      "description": "Trinity用ヘルメット。シールド容量を上昇させるが、アビリティ効率が減少する。",
+      "name": "Arcane Meridian ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Trinity, zwiększa Tarcze, zmniejsza Wydajność Umiejętności.",
+      "name": "Trinity: Hełm Arkanum Meridian",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete usado por Trinity adiciona capacidade aos Escudos, mas reduz Eficiência da Habilidade.",
+      "name": "Trinity: Capacete Meridian (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔由 Trinity 配戴，它能提升護盾容量，但會降低技能效率。",
+      "name": "經絡秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Trinity สวมหมวกใบนี้จะช่วยเพิ่มความจุให้กับโล่ แต่จะลดประสิทธิภาพในการใช้พลังลง",
+      "name": "หมวกเหล็ก Arcane Meridian",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Trinity tarafından giyilir ve Kalkan Kapasitesi ekler, bunun yanında Yetenek Verimliliğini azaltır.",
+      "name": "Arcane Meridian Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує щити Трініті, але зменшує ощадливість її здібностей.",
+      "name": "Містичний шолом «Меридіан»",
+      "code": "uk"
+    }
+  ]
+}

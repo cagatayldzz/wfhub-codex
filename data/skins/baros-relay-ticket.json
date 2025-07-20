@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Events/TennoConRelay2022EarlyAccess",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/baro's-relay-ticket-0fb621e2db.png",
+  "name": "Baro's Relay Ticket",
+  "description": "You'll get access to Baro's entire inventory during his TennoCon 2022 Relay:\nJuly 16, 2022 at 11 a.m. ET to July 23, 2022 at 11 a.m. ET.",
+  "languages": [
+    {
+      "description": "Du erhältst während der TennoCon 2022 Zugang zu Baros gesamtem Inventar: Baros Relais ist vom 16. Juli 2022 um 17:00 Uhr (MEZ) bis zum 23. Juli 2022 um 17:00 Uhr (MEZ) geöffnet.",
+      "name": "Baros Relais-Ticket",
+      "code": "de"
+    },
+    {
+      "description": "Vous aurez accès à l'intégralité de l'inventaire de Baro dans son Relais TennoCon 2022\ndu 16 juillet 2022 à 11h HE au 23 juillet 2022 à 11h HE.",
+      "name": "Ticket du Relais de Baro",
+      "code": "fr"
+    },
+    {
+      "description": "Avrai accesso all'intero inventario di Baro nella sua Stazione TennoCon 2022: \nDal 16 Luglio 2022 alle 11:00 ET al 23 Luglio 2022 alle 11:00 ET.",
+      "name": "Biglietto Stazione di Baro",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2022 릴레이 기간 동안 바로의 전체 상품을 구매하실 수 있습니다:\n한국 시각 2022년 7월 17일 오전 12시부터 2022년 7월 24일 오전 12시까지.",
+      "name": "바로의 릴레이 티켓",
+      "code": "ko"
+    },
+    {
+      "description": "Tendrás acceso a todo el inventario de Baro en su Repetidor de TennoCon 2022:\ndel 16 de julio de 2022 a las 11 a. m. ET al 23 de julio de 2022 a las 11 a. m. ET.",
+      "name": "Boleto del Repetidor de Baro",
+      "code": "es"
+    },
+    {
+      "description": "你将可以在 TennoCon 2022 期间的中继站查看 Baro 的全部库存：从美东夏令时间 2022 年 7 月 16 日上午 11 点至 2022 年 7 月 23 日上午 11 点。",
+      "name": "Baro 的中继站门票",
+      "code": "zh"
+    },
+    {
+      "description": "Вы получите доступ ко всему инвентарю Баро в его Реле в рамках «TennoCon 2022»: с 16 июля 2022 года, 11:00 до 23 июля 2022 года, 11:00 по восточному времени.",
+      "name": "Пропуск в реле с Баро",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2022期間中Baroの全商品を購入できるリレーへアクセスできます：\n日本時間の2022年7月17日午前0時から7月24日午前0時まで。",
+      "name": "Baroのリレーチケット",
+      "code": "ja"
+    },
+    {
+      "description": "Dostęp do pełnego asortymentu Baro na jego specjalnym Przekaźniku TennoCon 2022:\nOtwarty od godziny 17:00, 16. lipca, 2022 roku do 23. lipca, 2022 roku, do godziny 17:00 czasu polskiego.",
+      "name": "Wstęp do Przekaźnika Baro",
+      "code": "pl"
+    },
+    {
+      "description": "Você terá acesso a todo o inventário do Baro durante o Relay da TennoCon 2022:\nA partir do dia 16 de julho de 2022, às 12:00h (BRT), até o dia 23 de julho de 2022, às 12:00h (BRT).",
+      "name": "Ingresso para o Relay do Baro",
+      "code": "pt"
+    },
+    {
+      "description": "你將可於 Baro 的 TennoCon 2022 中繼站期間瀏覽 Baro 的整個庫存： 於美東夏令時間 7 月 16 日上午 11 時開放至至 7 月 23 日上午 11 時。",
+      "name": "Baro 的中繼站門票",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถเข้าถึงไอเทมทั้งหมดในคลังของ Baro ได้ในช่วงที่มีรีเลย์ TennoCon 2022:\nตั้งแต่วันที่ 16 กรกฎาคม 2022 เวลา 11.00 น. ตามเวลา ET ถึง 23 กรกฎาคม 2022 เวลา 11.00 น ตามเวลา ET",
+      "name": "ตั๋วเข้ารีเลย์ของ Baro",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2022 Relay ile Baro'nun tüm envanterine erişebileceksin:\n16 Temmuz 2022 TRS 18:00'den 23 Temmuz 2022 TRS 18:00'e kadar.",
+      "name": "Baro'nun Relay Bileti",
+      "code": "tr"
+    },
+    {
+      "description": "На реле «Теннокон 2022» ви отримаєте доступ до всіх товарів Баро:\nЗ 19:00 16 липня 2022 року по 19:00 23 липня 2022 року за київським часом.",
+      "name": "Квиток до реле Баро",
+      "code": "uk"
+    }
+  ]
+}

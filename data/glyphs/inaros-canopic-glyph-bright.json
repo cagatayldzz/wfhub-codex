@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSandmanCanopicBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-canopic-glyph---bright-0e85ff82ef.png",
+  "name": "Inaros Canopic Glyph - Bright",
+  "description": "A glyph depicting Inaros Canopic on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Inaros Canopic vor einem hellem Hintergrund darstellt.",
+      "name": "Glyphe: Inaros Canopic (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Inaros Canopic sur un fond lumineux.",
+      "name": "Glyphe Inaros Canopic - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Inaros Canopic su uno sfondo chiaro.",
+      "name": "Glifo Inaros Canopic - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 이나로스 캐노픽을 묘사한 글리프입니다.",
+      "name": "이나로스 캐노픽 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Inaros Canopic sobre un fondo brillante.",
+      "name": "Glifo de Inaros Canopic - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 卡诺匹斯在明亮背景下的浮印。",
+      "name": "Inaros 卡诺匹斯浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Инароса в шлеме «Канопик» на светлом фоне.",
+      "name": "Глиф: Инарос Канопик - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたInaros Canopicのグリフ。",
+      "name": "Inaros Canopic グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Inarosa Canopic na jasnym tle.",
+      "name": "Glif Inaros Canopic — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Inaros Canopic em um fundo claro.",
+      "name": "Glifo: Inaros Canopic (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Inaros 卡諾匹斯在明亮背景下的浮印。",
+      "name": "Inaros 卡諾匹斯浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Inaros Canopic บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Inaros Canopic - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Inaros Canopic açık fonlu glif.",
+      "name": "Inaros Canopic Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Інара в шоломі «Канопік» на світлому тлі.",
+      "name": "Яскравий гліф «Інар „Канопік“»",
+      "code": "uk"
+    }
+  ]
+}

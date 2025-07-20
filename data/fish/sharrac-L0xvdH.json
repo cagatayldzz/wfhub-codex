@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sharrac-fec7e2a609.png",
+  "name": "Sharrac",
+  "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+  "languages": [
+    {
+      "description": "Auch wenn er selten die tiefsten Wasser der Ebenen verlässt, so ist der Sharrac ein furchteinflößender Jäger, der sich unachtsame Ostron, die alleine schwimmen, zum Opfer macht.",
+      "name": "Sharrac",
+      "code": "de"
+    },
+    {
+      "description": "S'aventurant rarement hors des eaux profondes des Plaines, le Sharrac est un redoutable prédateur qui prend pour proie les nageurs Ostrons imprudents.",
+      "name": "Sharrac",
+      "code": "fr"
+    },
+    {
+      "description": "Anche se è raro che si avventuri dalle acque più profonde delle piane, lo Sharrac è un predatore temibile che prenderà di mira gli incauti Ostron che nuotano da soli.",
+      "name": "Sharrac",
+      "code": "it"
+    },
+    {
+      "description": "평원의 깊은 물 속에 숨어 살며 자주 바깥으로 나오지는 않지만, 샤라크는 경계심 없이 홀로 수영을 하고 있는 오스트론 인들조차 잡아먹곤 하는 무시무시한 포식자입니다.",
+      "name": "샤라크",
+      "code": "ko"
+    },
+    {
+      "description": "Raramente aventurándose desde las aguas más profundas de las llanuras, el sharrac es un temible predador que cazará ostronitas desprevenidos nadando solitarios.",
+      "name": "Sharrac",
+      "code": "es"
+    },
+    {
+      "description": "尽管很少从深水中冒险游出，鲨客是可怕的捕食者，会捕食单独游泳的粗心 Ostron 人。",
+      "name": "鲨客",
+      "code": "zh"
+    },
+    {
+      "description": "И хотя Шаррака редко покидает самые глубины вод равнин, она является грозным хищником, который будет охотиться на невнимательных Остронцев, рискнувших поплавать в одиночестве.",
+      "name": "Шаррака",
+      "code": "ru"
+    },
+    {
+      "description": "普段は草原の深い湖などで生息しているが、用心していないオストロン民をも捕食する肉食魚。",
+      "name": "シャラック",
+      "code": "ja"
+    },
+    {
+      "description": "Rzadko się zdarza, aby Szarak wypływał z najgłębszych wód Równin. Ta straszliwa ryba jest drapieżnikiem, jej zwierzyną bywają nieostrożni, pływający samotnie Ostroni.",
+      "name": "Szarrak",
+      "code": "pl"
+    },
+    {
+      "description": "Embora raramente se arrisque fora das águas mais profundas das planícies, o Sharrac é um predador temeroso que ataca Ostrons desavisados nadando sozinhos.",
+      "name": "Sharrac",
+      "code": "pt"
+    },
+    {
+      "description": "儘管很少從深水中冒險遊出，鯊客是可怕的捕食者，會捕食單獨游泳的粗心 Ostron 人。",
+      "name": "鯊客",
+      "code": "tc"
+    },
+    {
+      "description": "แม้ว่าจะไม่ค่อยได้ออกผจญภัยจากน่านน้ำที่ลึกที่สุดของที่ราบ แต่ Sharrac ก็เป็นนักล่าที่น่ากลัวที่จะล่าเหยื่อชาว Ostron ที่ว่ายน้ำเพียงลำพังโดยไม่ระวังตัว",
+      "name": "Sharrac",
+      "code": "th"
+    },
+    {
+      "description": "Nadirende olsa ovaların en derin sularında dolaşan Sharrac'lar, yalnız başına suda yüzen Ostron'ları avlayan korkutucu bir avcıdır.",
+      "name": "Sharrac",
+      "code": "tr"
+    },
+    {
+      "description": "Вважається страшним хижаком, рідко наближається до поверхні з глибин. Полює на необачних остронців, які плавають поодинці.",
+      "name": "Шаррак",
+      "code": "uk"
+    }
+  ]
+}

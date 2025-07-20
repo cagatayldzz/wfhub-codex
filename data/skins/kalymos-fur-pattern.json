@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/EntratiCatbrowPattern",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kalymos-fur-pattern-d68dbf8d99.png",
+  "name": "Kalymos Fur Pattern",
+  "description": "Give your Kavat the look of Albrecht Entrati’s loyal companion, Kalymos.",
+  "languages": [
+    {
+      "description": "Verleihe deiner Kavat das Aussehen von Albrecht Entratis treuem Begleiter, Kalymos.",
+      "name": "Fellmuster: Kalymos",
+      "code": "de"
+    },
+    {
+      "description": "Donnez à votre Kavat le look du fidèle compagnon d'Albrecht Entrati, Kalymos.",
+      "name": "Motif de Pelage Kalymos",
+      "code": "fr"
+    },
+    {
+      "description": "Dai al tuo Kavat l'aspetto del fedele compagno di Albrecht Entrati, Kalymos.",
+      "name": "Pattern Pelo Kalymos",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 카밧에게 알브레히트 엔트라티의 충성스런 동반자, 칼리모스의 외형을 입혀 보세요.",
+      "name": "칼리모스 털 패턴",
+      "code": "ko"
+    },
+    {
+      "description": "Dale a tu kavat la apariencia del fiel compañero de Albrecht Entrati, Kalymos.",
+      "name": "Patrón de pelaje Kalymos",
+      "code": "es"
+    },
+    {
+      "description": "让你的库娃看起来像卡利莫斯，它是阿尔布雷希特·英择谛忠实的同伴。",
+      "name": "卡利莫斯毛皮花纹",
+      "code": "zh"
+    },
+    {
+      "description": "Придайте своему кавату вид Калимос, верного спутника Альбрехта Энтрати.",
+      "name": "Шаблон меха кавата: Калимос",
+      "code": "ru"
+    },
+    {
+      "description": "あなたのキャバットをAlbrecht Entratiの忠実なるコンパニオンKalymosに見立てよう。",
+      "name": "Kalymos ファーパターン",
+      "code": "ja"
+    },
+    {
+      "description": "Nadaj swojemu Kavatowi wygląd lojalnej towarzyszki Albrechta Entratiego, Kalimosy.",
+      "name": "Wzór Futra: Kalimosa",
+      "code": "pl"
+    },
+    {
+      "description": "Dê ao seu Kavat a aparência do fiel companheiro de Albrecht Entrati, Kalymos.",
+      "name": "Pelagem de Kavat: Kalymos",
+      "code": "pt"
+    },
+    {
+      "description": "讓你的庫娃看起來像阿爾布雷希特．源拓氏的忠實搭檔，卡利莫斯。",
+      "name": "卡利莫斯毛皮花紋",
+      "code": "tc"
+    },
+    {
+      "description": "ตกแต่ง Kavat ให้มีรูปลักษณ์เหมือน Kalymos สัตว์คู่หูที่ภักดีของ Albrecht Entrati",
+      "name": "ลายขน Kalymos",
+      "code": "th"
+    },
+    {
+      "description": "Kavat'ına Albrecht Entrati'nin sadık yoldaşı Kalymos'un görünümünü ver.",
+      "name": "Kalymos Kürk Deseni",
+      "code": "tr"
+    },
+    {
+      "description": "Надайте своєму кавату зовнішність Калимос — відданої супутниці Альбрехта Ентраті.",
+      "name": "Вигляд хутра «Калимос»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/abyss-of-dagath-login-music-864f6a51fc.png",
+  "name": "Abyss Of Dagath Login Music",
+  "description": "The Abyss of Dagath login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Abyss of Dagath, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Abyss of Dagath",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical des Abysses de Dagath à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique des Abysses de Dagath",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Abisso di Dagath da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Abisso di Dagath",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 다가스의 나락 로그인 음원입니다.",
+      "name": "다가스의 나락 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Música de inicio de sesión del Abismo de Dagath para disfrutar desde el Somacordio en tu orbitador.",
+      "name": "Música de inicio de sesión de Abismo de Dagath",
+      "code": "es"
+    },
+    {
+      "description": "《Dagath 之深渊》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《Dagath 之深渊》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Наслаждайтесь музыкой из «Бездны Дагаc» с Сомакордом в вашем Орбитере.",
+      "name": "Музыка входа: Бездна Дагас",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるDagathの深淵のログインミュージック。",
+      "name": "Dagathの深淵 ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Otchłań Dagath, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Muzyka logowania: Otchłań Dagath",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'Abismo da Dagath' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Abismo da Dagath",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞 Dagath 的深淵的登入畫面背景音樂。",
+      "name": "Dagath 的深淵登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน Abyss of Dagath ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Abyss of Dagath Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Abyss of Dagath giriş müziğinin keyfini çıkar.",
+      "name": "Abyss of Dagath Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Безодня Даґат» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Безодня Даґат»",
+      "code": "uk"
+    }
+  ]
+}

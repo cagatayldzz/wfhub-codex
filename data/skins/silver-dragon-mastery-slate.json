@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank23Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/silver-dragon-mastery-slate-2be9ea6043.png",
+  "name": "Silver Dragon Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 23 - Silver Dragon.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 23 - Silberner Drache zu ehren.",
+      "name": "Meisterschaft-Insignie: Silberner Drache",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 23 - Dragon d'Argent.",
+      "name": "Ardoise de Maîtrise - Dragon d'Argent",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 23 - Drago D'Argento.",
+      "name": "Targa Maestria - Drago d'Argento",
+      "code": "it"
+    },
+    {
+      "description": "랭크 23 - 실버 드래곤에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "실버 드래곤 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Golpeado para reconocer su logro al alcanzar el rango de 23 - Dragón Plateado.",
+      "name": "Placa de Maestría de Dragón Plateado",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 23－白银天龙所打造的物品。",
+      "name": "白银天龙精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 23 - Серебряный Дракон.",
+      "name": "Сланец Мастерства: Серебряный Дракон",
+      "code": "ru"
+    },
+    {
+      "description": "シルバー・ドラゴンランク「マスタリーランク23」へ到達したテンノの成果を示す表彰楯。",
+      "name": "シルバー・ドラゴン マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 23 - Srebrny Smok.",
+      "name": "Tablica Mistrzostwa Srebrny Smok",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 23 - Dragão Prateado.",
+      "name": "Ardósia de Maestria: Dragão Prateado",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 23－白銀天龍的成就。",
+      "name": "白銀天龍精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 23 - มังกรสีเงิน",
+      "name": "กระดานชนวนความเชี่ยวชาญ: มังกรสีเงิน",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 23 - Silver Dragon seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Silver Dragon Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 23-го рівня майстерності — «Срібний дракон».",
+      "name": "Табличка «Срібний дракон»",
+      "code": "uk"
+    }
+  ]
+}

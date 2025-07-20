@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/OctaviaPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia-prime-theme-17ad889f15.png",
+  "name": "Octavia Prime Theme",
+  "description": "Octavia Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Octavia Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Octavia Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique d'Octavia Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Octavia Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Octavia Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Octavia Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 옥타비아 프라임의 대표 테마곡입니다.",
+      "name": "옥타비아 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Octavia Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Octavia Prime",
+      "code": "es"
+    },
+    {
+      "description": "Octavia Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Octavia Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Октавии Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Октавия Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるOctavia Primeのテーマ曲。",
+      "name": "Octavia Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Octavii Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Octavia Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional da Octavia Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Octavia Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Octavia Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Octavia Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Octavia Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Octavia Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Octavia Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Octavia Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Октавії-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Октавії-прайм",
+      "code": "uk"
+    }
+  ]
+}

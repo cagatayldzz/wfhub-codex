@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberDeluxeIIFlamethrowerSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flamethrower-plazm-skin-308a61907c.png",
+  "name": "Flamethrower Plazm Skin",
+  "description": "A flamethrower skin that's twice as hot as the carnage it contains.",
+  "languages": [
+    {
+      "description": "Ein Flammenwerfer-Skin der doppelt so heiß ist, wie das Chaos, das er anrichtet.",
+      "name": "Flammenwerfer-Skin: Plazm",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect de Lance-Flammes deux fois plus chaud que le carnage qu'il répand.",
+      "name": "Aspect de Lance-Flammes Plazm",
+      "code": "fr"
+    },
+    {
+      "description": "Una skin per lanciafiamme che è due volte più incandescente della carneficina che provoca.",
+      "name": "Skin Lanciafiamme Plazm",
+      "code": "it"
+    },
+    {
+      "description": "내재된 학살보다 두 배의 열기를 지닌 화염방사기 스킨입니다.",
+      "name": "플라즘 화염방사기 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño de lanzallamas que es dos veces más caliente que la masacre que provoca.",
+      "name": "Diseño Plazm de lanzallamas",
+      "code": "es"
+    },
+    {
+      "description": "一件能发射其内在杀戮双倍热量的火焰喷射器外观。",
+      "name": "火焰喷射器炎浆外观",
+      "code": "zh"
+    },
+    {
+      "description": "Скин для огнемёта, который в два раза горячее самого огня.",
+      "name": "Cкин Огнемета: Плазма",
+      "code": "ru"
+    },
+    {
+      "description": "見た目も威力もアツい火炎放射器用のスキン。",
+      "name": "Plazm 火炎放射器スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka miotacza ognia, która jest gorętsza niż żar, którym pluje.",
+      "name": "Miotacz Ognia: Skórka Plazm",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin para lança-chamas que é duas vezes mais abrasadora do que a destruição provocada.",
+      "name": "Lança-Chamas: Skin Plazm",
+      "code": "pt"
+    },
+    {
+      "description": "火熱程度是其屠殺程度兩倍的火焰噴射器外觀。",
+      "name": "火焰噴射器 熔漿外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินของอาวุธพ่นไฟที่ร้อนเป็นสองเท่าของการสังหารหมู่ที่มีอยู่",
+      "name": "สกินอาวุธพ่นไฟ Plazm",
+      "code": "th"
+    },
+    {
+      "description": "İçerdiği katliamdan iki kat daha sıcak bir alev makinesi skini.",
+      "name": "Alev Makinesi Plazm Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд для вогнемета, удвічі гарячіший за пекучу руйнацію в його нутрощах.",
+      "name": "Вигляд «Плазма» для вогнемета",
+      "code": "uk"
+    }
+  ]
+}

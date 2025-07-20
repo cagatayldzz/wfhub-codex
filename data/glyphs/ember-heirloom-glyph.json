@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/HeirloomEmberGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ember-heirloom-glyph-42d07734cf.png",
+  "name": "Ember Heirloom Glyph",
+  "description": "A glyph that celebrates Ember's legacy.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Embers Vermächtnis feiert.",
+      "name": "Glyphe: Ember Heirloom",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe qui célèbre l'héritage d'Ember.",
+      "name": "Glyphe Ember Héritage",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che celebra l'eredità di Ember.",
+      "name": "Glifo Ember Heirloom",
+      "code": "it"
+    },
+    {
+      "description": "엠버의 유산을 기념하는 글리프입니다.",
+      "name": "엠버 에어룸 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que celebra el legado de Ember.",
+      "name": "Glifo de Ember Legado",
+      "code": "es"
+    },
+    {
+      "description": "庆祝 Ember 的传承的浮印。",
+      "name": "Ember 传家宝浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф, прославляющий наследие Эмбер.",
+      "name": "Глиф Эмбер: Наследие",
+      "code": "ru"
+    },
+    {
+      "description": "Emberの武勇伝を称えるグリフ。",
+      "name": "Ember Heirloom グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif upamiętniający dziedzictwo Ember.",
+      "name": "Glif: Pamiątkowa Ember",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo que celebra o legado da Ember.",
+      "name": "Glifo: Legado da Ember",
+      "code": "pt"
+    },
+    {
+      "description": "慶祝 Ember 的傳承的浮印。",
+      "name": "Ember 祖傳浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ฉลองตำนานที่สืบสานต่อของ Ember",
+      "name": "ภาพสัญลักษณ์ Ember Heirloom",
+      "code": "th"
+    },
+    {
+      "description": "Ember'in mirasını kutlayan bir glif.",
+      "name": "Ember Heirloom Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф для вшанування спадщини Ембер.",
+      "name": "Гліф «Ембер „Спадок”»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mytocardia-spore-a69a9e3d86.png",
+  "name": "Mytocardia Spore",
+  "description": "A fungal body prized for its varied uses.\n\nLocation: Orb Vallis on Venus",
+  "languages": [
+    {
+      "description": "Ein Pilzgewächs, welches für seine Vielseitigkeit geschätzt wird.\n\nQuelle: Aus dem Orbis-Tal auf der Venus.",
+      "name": "Mytocardia-Sporen",
+      "code": "de"
+    },
+    {
+      "description": "Un corps fongique prisé pour ses utilisations variées.\n\nLieu: Vallée Orbis, sur Vénus",
+      "name": "Spore Mytocardia",
+      "code": "fr"
+    },
+    {
+      "description": "Un corpo fungino apprezzato per i suoi vari usi.\n\nPosizione: Orb Vallis (Venere)",
+      "name": "Spora Mytocardia",
+      "code": "it"
+    },
+    {
+      "description": "다양한 용도로 인해 가치가 있는 균사체입니다.\n\n획득 가능 장소: 금성의 오브 협곡",
+      "name": "미토카디아 스포어",
+      "code": "ko"
+    },
+    {
+      "description": "Un cuerpo fúngico apreciado por sus varios usos.\n\nUbicación: Valles del Orbe en Venus",
+      "name": "Espora de Mitocardio",
+      "code": "es"
+    },
+    {
+      "description": "一种真菌体，因其用途广泛而备受推崇。\n\n获取地点：奥布山谷（金星）",
+      "name": "心肌菌孢子",
+      "code": "zh"
+    },
+    {
+      "description": "Грибовидное тело славится множеством различных применений.\n\nМестонахождение: Долина Сфер (Венера)",
+      "name": "Спора митокардии",
+      "code": "ru"
+    },
+    {
+      "description": "有益な使い道が色々ある真菌類。\n\n場所：オーブ峡谷（金星）",
+      "name": "マイトコンドリア スポア",
+      "code": "ja"
+    },
+    {
+      "description": "Grzybnia ceniona za różnorodne zastosowania.\n\nPołożenie: Orb Vallis na Wenus",
+      "name": "Grzyb Mytocardia",
+      "code": "pl"
+    },
+    {
+      "description": "Um ser fúngico valorizado por suas diversas utilidades.\n\nLocalização: Vallis das Orbes, em Vênus.",
+      "name": "Esporo de Mitocárdia",
+      "code": "pt"
+    },
+    {
+      "description": "一種真菌體，因為其多種用途而被珍視。\n\n地點：奧布山谷（金星）",
+      "name": "心肌菌孢子",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบที่สำคัญของเห็ดราที่นำไปใช้ประโยชน์ได้อย่างหลากหลาย\n\nแหล่งที่พบ: ออร์บวัลลิส บนดาวศุกร์",
+      "name": "สปอร์ไมโทคาร์เดีย",
+      "code": "th"
+    },
+    {
+      "description": "Birçok kullanım alanı olan mantar kütlesi.\n\nKonum: Orb Vallis, Venüs",
+      "name": "Mytocardia Sporu",
+      "code": "tr"
+    },
+    {
+      "description": "Грибкове утворення, відоме своїм широким застосуванням.\n\nМожна здобути в Долині Куль (Венера).",
+      "name": "Спора мітокардії",
+      "code": "uk"
+    }
+  ]
+}

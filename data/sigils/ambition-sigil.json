@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveI",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ambition-sigil-3e1a90dd19.png",
+  "name": "Ambition Sigil",
+  "description": "A sigil representing prestige gained with the Conclave.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige beim Conclave zeigt.",
+      "name": "Siegel: Ehrgeiz",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant le prestige obtenu avec le Conclave.",
+      "name": "Sceau de l'Ambition",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con il Conclave.",
+      "name": "Sigillo Ambition",
+      "code": "it"
+    },
+    {
+      "description": "콘클레이브에서 얻은 칭호를 대변하는 시질입니다.",
+      "name": "앰비션 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con el Cónclave.",
+      "name": "Sello de la Ambición",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了武形秘仪的威望。",
+      "name": "雄心纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю в Конклаве.",
+      "name": "Сигил: Стремлениe",
+      "code": "ru"
+    },
+    {
+      "description": "コンクレーブから得た声望を表すシジル。",
+      "name": "Ambition シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty w Konklawe.",
+      "name": "Znak Ambicji",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com o Conclave.",
+      "name": "Brasão: Ambição",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了武形秘儀的威望。",
+      "name": "雄心紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจากคอนเคลฟ",
+      "name": "เครื่องหมาย: Ambition",
+      "code": "th"
+    },
+    {
+      "description": "Kendisini taşıyan kişiye Conclave’lerde saygınlık kazandırır.",
+      "name": "Ambition Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в Конклаві.",
+      "name": "Сиґіл «Прагнення»",
+      "code": "uk"
+    }
+  ]
+}

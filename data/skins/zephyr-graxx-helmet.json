@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/SWZephyrGraxxHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-graxx-helmet-345be80860.png",
+  "name": "Zephyr Graxx Helmet",
+  "description": "A helmet for the Zephyr Warframe, designed by Faven.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Zephyr Warframe, entworfen von Faven.",
+      "name": "Zephyr-Helm: Graxx",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Zephyr, conçu par Faven.",
+      "name": "Casque Zephyr Graxx",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Zephyr, ideato da Faven.",
+      "name": "Elmo Zephyr Graxx",
+      "code": "it"
+    },
+    {
+      "description": "Faven에 의해 디자인된 제피르 워프레임을 위한 헬멧입니다.",
+      "name": "제피르 그락스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Zephyr, diseñado por Faven.",
+      "name": "Casco Graxx de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 战甲的头盔，由 Faven 设计。",
+      "name": "Zephyr G之风格头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Зефир, созданный Faven.",
+      "name": "Шелм Зефир: Граксс",
+      "code": "ru"
+    },
+    {
+      "description": "Zephyr 用のヘルメット。製作者：Faven。",
+      "name": "Zephyr Graxx ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowy hełm dla Warframe Zephyr, zaprojektowany przez Faven.",
+      "name": "Zephyr: Hełm Graxx",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Zephyr, desenvolvido por Faven.",
+      "name": "Zephyr: Capacete Graxx",
+      "code": "pt"
+    },
+    {
+      "description": "Zephyr Warframe 的頭盔，由 Faven 設計。",
+      "name": "Zephyr G之風格頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Zephyr Warframe ออกแบบโดย Faven",
+      "name": "หมวกเหล็ก Zephyr Graxx",
+      "code": "th"
+    },
+    {
+      "description": "Faven tarafından dizayn edilen Zephyr Warframe Miğferi",
+      "name": "Zephyr Graxx Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Зефіри, створений Faven.",
+      "name": "Шолом «Ґракс» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

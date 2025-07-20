@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/ClawsHips",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/claws-standard-holster-6ed2636f8c.png",
+  "name": "Claws Standard Holster",
+  "description": "Standard holster for Claws.",
+  "languages": [
+    {
+      "description": "Standard-Holster für Klauenwaffen.",
+      "name": "Klauen-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Griffes.",
+      "name": "Port de Griffes standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per gli Artigli.",
+      "name": "Rinfodero Artigli Standard",
+      "code": "it"
+    },
+    {
+      "description": "클로 계열 무기의 기본 수납 방식입니다.",
+      "name": "클로 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Enfundado estándar para garras.",
+      "name": "Enfundado estándar de garras",
+      "code": "es"
+    },
+    {
+      "description": "给爪类武器所使用的标准收纳姿态。",
+      "name": "爪类标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Когтей.",
+      "name": "Стандартный Крепеж Когтей",
+      "code": "ru"
+    },
+    {
+      "description": "クロウ系武器の通常ホルスター。",
+      "name": "クロウ専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Szponów.",
+      "name": "Pazury Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "O coldre padrão para garras.",
+      "name": "Garras: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "爪類武器所使用的標準收納姿態。",
+      "name": "爪類標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับกรงเล็บ",
+      "name": "ซองกรงเล็บมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Pençeli silahlar için standart kılıf",
+      "name": "Pençe Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення бойових кігтів, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

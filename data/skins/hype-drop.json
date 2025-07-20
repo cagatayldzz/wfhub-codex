@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/DanceDJRomHype",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hype-drop-86e1c77b4d.png",
+  "name": "Hype Drop",
+  "description": "When it’s time to drop the bass all the way to the basement. Earned from a Technocyte Coda.",
+  "languages": [
+    {
+      "description": "Wenn es Zeit ist, den tiefsten Bass zu spielen. Von einem Technocyte Coda erhalten.",
+      "name": "Hype-Drop",
+      "code": "de"
+    },
+    {
+      "description": "Quand il est temps de laisser tomber la basse au sol. Obtenu via un Technocyte Coda.",
+      "name": "Baisse du Hype",
+      "code": "fr"
+    },
+    {
+      "description": "Quando è il momento di far scendere quei bassi fin sotto terra. Ottenuta da un Technocyte Coda.",
+      "name": "Calo di Hype",
+      "code": "it"
+    },
+    {
+      "description": "베이스 음이 지하실을 파고들 정도로 낮게 퍼뜨릴 시간이 되었을 때죠. 테크노사이트 코다로부터 획득할 수 있습니다.",
+      "name": "하이프 드롭",
+      "code": "ko"
+    },
+    {
+      "description": "Cuando llega el momento de dejar caer el bajo hasta el sótano. Obtenido de un Tecnocito Coda.",
+      "name": "Tirar el bajo",
+      "code": "es"
+    },
+    {
+      "description": "是时候将低音一直炸到地底了。从科技细胞终幕者处获得。",
+      "name": "嗨至地心",
+      "code": "zh"
+    },
+    {
+      "description": "Когда пришло время для баса, пробирающего до костей.\n\nМестонахождение: Техноциты Кода",
+      "name": "Ажиотаж",
+      "code": "ru"
+    },
+    {
+      "description": "地球の底までベースドロップ。テクノサイト・コーダから入手。",
+      "name": "ハイプ・ドロップ",
+      "code": "ja"
+    },
+    {
+      "description": "Kiedy czas na bas drop aż do fundamentów. Zdobyty z Cody Technocytu.",
+      "name": "Hype Drop",
+      "code": "pl"
+    },
+    {
+      "description": "Para quando é hora de soltar o batidão. Adquirido de um Tecnócito Coda.",
+      "name": "Ápice da Batida",
+      "code": "pt"
+    },
+    {
+      "description": "當要把低音掉到地底下。\n\n透過技改細胞勾瘩體獲取。",
+      "name": "嗨掉爆",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อถึงเวลาปล่อยเสียงเบสให้ดังไปถึงชั้นใต้ดิน - รับได้จาก Technocyte Coda",
+      "name": "Hype Drop",
+      "code": "th"
+    },
+    {
+      "description": "Basları bodrum katına kadar düşürmenin zamanı geldi. Technocyte Coda'dan kazanılır.",
+      "name": "Heyecanlı Düşüş",
+      "code": "tr"
+    },
+    {
+      "description": "Іноді баси потрібно занизити дуже сильно.\n\nЗдобувається здоланням «Техноцитної Коди».",
+      "name": "Навприсядки",
+      "code": "uk"
+    }
+  ]
+}

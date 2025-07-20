@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tipedo-939711dac4.png",
+  "name": "Tipedo",
+  "description": "With its crescent shaped blades flying in sweeping arcs and striking at tremendous speed, the Tipedo demands focus from those wishing to unlock its true power.",
+  "languages": [
+    {
+      "description": "Mit seinen sichelförmigen Klingen, die in schwungvollen Bögen und mit enormer Geschwindigkeit zuschlagen, verlangt der Tipedo volle Konzentration von denjenigen, die seine wahre Stärke entfesseln wollen.",
+      "name": "Tipedo",
+      "code": "de"
+    },
+    {
+      "description": "Avec ses lames en forme de croissant virevoltant en grands arcs et frappant à une vitesse incroyable, le Tipedo requiert beaucoup de concentration pour déployer son plein potentiel.",
+      "name": "Tipedo",
+      "code": "fr"
+    },
+    {
+      "description": "Con le sue lame a mezzaluna che volano in ampi archi e che colpiscono ad una tremenda velocità, la Tipedo richiede concentrazione da parte di coloro che vogliono liberare il suo vero potere.",
+      "name": "Tipedo",
+      "code": "it"
+    },
+    {
+      "description": "우아한 곡선의 호를 그리며 엄청난 속도로 날아드는 초승달 모양의 날을 가진 티페도는 그 진정한 힘을 이끌어내고자 하는 자에게 집중을 요구합니다.",
+      "name": "티페도",
+      "code": "ko"
+    },
+    {
+      "description": "Con unas hojas con forma de media luna capaces de golpear en arco a una velocidad de vértigo, se requiere concentración para desatar el verdadero poder de esta arma.",
+      "name": "Tipedo",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TIPEDO）带有新月型刀刃的提佩多，能以弧形横扫飞舞并以惊人的高速进行攻击。使用者若想释放提佩多的真正威力，必须高度集中精神。",
+      "name": "提佩多",
+      "code": "zh"
+    },
+    {
+      "description": "Обладая серповидными лезвиями, движущимися по дуге и бьющими цель на высокой скорости, Типедо требует сосредоточенности от того, кто желает раскрыть его истинный потенциал.",
+      "name": "Типедо",
+      "code": "ru"
+    },
+    {
+      "description": "先端の刃を高速で振り回すことで破壊力を増すTipedoは、使い手に高い集中力を求められる。",
+      "name": "Tipedo",
+      "code": "ja"
+    },
+    {
+      "description": "Półksiężycowe ostrza pozwalają na szerokie i zamaszyste uderzenia, które są wykonywane z ogromną prędkością, Tipedo wymaga skupienia od tych, którzy pragną wyzwolić jej prawdziwą moc.",
+      "name": "Tipedo",
+      "code": "pl"
+    },
+    {
+      "description": "Com suas crescentes lâminas afiadas voando em arcos arrebatadores e golpeando a velocidades tremendas, a Tipedo demanda foco daqueles que desejam desbloquear seu verdadeiro poder.",
+      "name": "Tipedo",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TIPEDO）帶有新月型刀刃的提佩多，能以弧形橫掃飛舞並以驚人的高速進行攻擊。使用者若想釋放提佩多的真正威力，必須高度集中精神。",
+      "name": "提佩多",
+      "code": "tc"
+    },
+    {
+      "description": "Tipedo มีใบมีดรูปพระจันทร์เสี้ยวที่ทำให้กวาดอาวุธออกไปเป็นแนวโค้งและมีพลังโจมตีที่รวดเร็วมหาศาล หากตั้งสติให้มั่นก็อาจปลดล็อกพลังที่แท้จริงของอาวุธชิ้นนี้ได้",
+      "name": "Tipedo",
+      "code": "th"
+    },
+    {
+      "description": "Ay şeklinde dövülmüş bıçakları ile hızlı ve geniş çaplı bir temizlik yapmaya hazır olun. Gerçek gücünü ve öfkesini savaş alanına yansıtmak isteyenler için ideal bir silah.",
+      "name": "Tipedo",
+      "code": "tr"
+    },
+    {
+      "description": "Посох із лезами у формі півмісяця, що дугоподібно пронизують повітря та вражають цілі. Ті, хто прагне відкрити істинну силу зброї, повинні мати неабияку цілеспрямованість.",
+      "name": "Тіпедо",
+      "code": "uk"
+    }
+  ]
+}

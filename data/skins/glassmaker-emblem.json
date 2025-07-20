@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/GlassmakerEmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glassmaker-emblem-8a6501116b.png",
+  "name": "Glassmaker Emblem",
+  "description": "An emblem commemorating your grim descent into the madness of the Glassmaker.",
+  "languages": [
+    {
+      "description": "Ein Emblem, das an deinen finsteren Abstieg in den Wahnsinn des Glasmachers erinnert.",
+      "name": "Emblem: Glasmacher",
+      "code": "de"
+    },
+    {
+      "description": "Un Badge commémorant votre sinistre descente dans la folie du Chagall.",
+      "name": "Badge Chagall",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema che commemora la tua cupa discesa nella follia del Vetraio.",
+      "name": "Emblema Glassmaker",
+      "code": "it"
+    },
+    {
+      "description": "글래스메이커의 광기 속으로 걸어 들어가는 당신의 엄숙한 발걸음을 기념하는 엠블럼입니다.",
+      "name": "글래스메이커 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema que conmemora tu sombrío descenso a la locura del Artesano de cristal.",
+      "name": "Emblema del Artesano de Cristal",
+      "code": "es"
+    },
+    {
+      "description": "一枚纪念你冷酷坠入玻璃匠疯狂深渊的徽章。",
+      "name": "玻璃匠徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, напоминающий о вашем погружении в чертоги больного разума Стеклодува.",
+      "name": "Значок: Стеклодув",
+      "code": "ru"
+    },
+    {
+      "description": "グラスメイカーの狂気に身を落とした恐ろしい経験を記念するエンブレム。",
+      "name": "グラスメイカー エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat upamiętniający ponure popadnięcie w szaleństwo Szklarza.",
+      "name": "Emblemat: Szklarz",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema exaltando a sua origem sombria na insanidade do Vidraceiro.",
+      "name": "Emblema: Vidraceiro",
+      "code": "pt"
+    },
+    {
+      "description": "一枚紀念你身陷玻璃工匠的發狂行徑深淵之中的徽章。",
+      "name": "玻璃工匠徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่ระลึกถึงการตกเข้าไปสู่ความบ้าคลั่งของช่างทำแก้วที่น่ากลัว",
+      "name": "ตราสัญลักษณ์: Glassmaker",
+      "code": "th"
+    },
+    {
+      "description": "Acımasız saldırılarınızı Glassmaker'ın çılgınlığına çeviren bir amblem.",
+      "name": "Glassmaker Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про ваше занурення в божевілля Скляра.",
+      "name": "Відзнака «Скляр»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/falcor-c9a665bc11.png",
+  "name": "Falcor",
+  "description": "Carve through enemies with surgical precision using this Corpus-tech glaive.",
+  "languages": [
+    {
+      "description": "Mit dieser Corpus Tech Glaive schlitzt du dir, mit chirurgischer Präzision, einen Weg durch deine Feinde.",
+      "name": "Falcor",
+      "code": "de"
+    },
+    {
+      "description": "Tailladez vos ennemis avec une précision chirurgicale en maniant ce glaive utilisant la technologie Corpus.",
+      "name": "Falcor",
+      "code": "fr"
+    },
+    {
+      "description": "Incidi i nemici con precisione chirurgica usando questo glaive dalla tecnologia Corpus.",
+      "name": "Falcor",
+      "code": "it"
+    },
+    {
+      "description": "이 코퍼스의 기술력을 이용한 글레이브를 쥐고 적의 무리를 외과적 정밀함으로 절개해 나가세요.",
+      "name": "팔코어",
+      "code": "ko"
+    },
+    {
+      "description": "Corta a través de los enemigos con precisión quirúrgica usando esta Glaive de tecnología corpus.",
+      "name": "Falcor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：FALCOR）用这把 Corpus 科技的战刃以手术般的精确性剖开敌人。",
+      "name": "猎鹰轮",
+      "code": "zh"
+    },
+    {
+      "description": "Прорезайте толщи врагов с хирургической точностью этой технологичной Глефой Корпуса.",
+      "name": "Фалкор",
+      "code": "ru"
+    },
+    {
+      "description": "このコーパス技術のブーメランによる手術のような精密さで敵を切り裂け。",
+      "name": "Falcor",
+      "code": "ja"
+    },
+    {
+      "description": "Wyrżnij szeregi wroga z chirurgiczną precyzją wykorzystując tę broń miotaną konstrukcji Corpus.",
+      "name": "Falcor",
+      "code": "pl"
+    },
+    {
+      "description": "Atravesse inimigos com precisão cirúrgica usando essa Glaive de tecnologia Corpus.",
+      "name": "Falcor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：FALCOR）用這把 Corpus 科技的戰刃以手術般的精確性剖開敵人。",
+      "name": "獵鷹輪",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธเกลฟที่ทำจากเทคโนโลยี Corpus ชิ้นนี้สามารถฟันศัตรูราวกับมีดที่ใช้การผ่าตัดได้อย่างแม่นยำ",
+      "name": "Falcor",
+      "code": "th"
+    },
+    {
+      "description": "Bu Corpus-teknoloji tasarımını kullanarak düşmanlarınıza bir cerrahi operasyon yapar gibi yaklaşın.",
+      "name": "Falcor",
+      "code": "tr"
+    },
+    {
+      "description": "Цією глефою Корпусу можна нарізати ворогів на шматки з хірургічною точністю.",
+      "name": "Фалькор",
+      "code": "uk"
+    }
+  ]
+}

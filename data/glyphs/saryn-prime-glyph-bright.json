@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSarynPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-prime-glyph---bright-ef74512204.png",
+  "name": "Saryn Prime Glyph - Bright",
+  "description": "A glyph depicting Saryn Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Saryn Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Saryn Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Saryn Prime sur un fond lumineux.",
+      "name": "Glyphe Saryn Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Saryn Prime su uno sfondo chiaro.",
+      "name": "Glifo Saryn Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 새린 프라임을 묘사한 글리프입니다.",
+      "name": "새린 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Saryn Prime sobre un fondo brillante.",
+      "name": "Glifo de Saryn Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Saryn Prime 在明亮背景下的浮印。",
+      "name": "Saryn Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Сарины Прайм на светлом фоне.",
+      "name": "Глиф: Сарина Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Saryn Prime のグリフ。",
+      "name": "Saryn Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Saryn Prime na jasnym tle.",
+      "name": "Glif Saryn Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Saryn Prime em um fundo claro.",
+      "name": "Glifo: Saryn Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Saryn Prime 在明亮背景下的浮印。",
+      "name": "Saryn Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Saryn Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Saryn Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Saryn Prime açık fonlu glif.",
+      "name": "Saryn Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Зарини-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Зарина-прайм»",
+      "code": "uk"
+    }
+  ]
+}

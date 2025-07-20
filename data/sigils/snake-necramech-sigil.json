@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NecramechSigilSnake",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/snake-necramech-sigil-a5bf199976.png",
+  "name": "Snake Necramech Sigil",
+  "description": "This distinctive serpentine sigil adds venomous menace to any Necramech.",
+  "languages": [
+    {
+      "description": "Dieses charakteristische, schlangenartige Siegel verleiht jedem Necramech giftige Bedrohlichkeit.",
+      "name": "Siegel: Snake Necramech",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau reptilien distinctif ajoute une touche venimeuse à n'importe quel Necramech.",
+      "name": "Sceau Necramech Snake",
+      "code": "fr"
+    },
+    {
+      "description": "Questo particolare sigillo serpentino aggiunge una minaccia velenosa a qualsiasi Necramech.",
+      "name": "Sigillo Necramech Snake",
+      "code": "it"
+    },
+    {
+      "description": "이 독특한 뱀 모양의 시질은 어떤 네크라메크에게라도 독사의 위협적인 느낌을 더해줍니다.",
+      "name": "스네이크 네크라메크 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este distintivo sello serpentino agrega un toque venenoso a cualquier Necramech.",
+      "name": "Sello de Necramech Snake",
+      "code": "es"
+    },
+    {
+      "description": "这款独特的蛇形纹章可为任意殁世机甲增添毒蛇般的威胁。",
+      "name": "锰蛇殁世机甲纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Этот сигил змеи добавляет ядовитый характер любому Некрамеху.",
+      "name": "Сигил: Некрамех Змей",
+      "code": "ru"
+    },
+    {
+      "description": "この独特な蛇のようなシジルはネクロメカに毒々しい威迫を与える。",
+      "name": "スネーク ネクロメカ シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten charakterystyczny znak węża dodaje jadowitej aury każdemu Nekramechowi.",
+      "name": "Znak Nekramecha Snake",
+      "code": "pl"
+    },
+    {
+      "description": "Este brasão distinto, em formato de serpente, é uma adição intimidante e venenosa para qualquer Necramech.",
+      "name": "Brasão: Necramech Snake",
+      "code": "pt"
+    },
+    {
+      "description": "這款特殊的蛇形紋章為任何亡骸機甲增加一種劇毒般的威脅。",
+      "name": "Snake 亡骸機甲紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่คล้ายกับงูเลื้อยไปมาที่ดูโดดเด่นชิ้นนี้จะช่วยให้ Necramech ดูมีพิษภัยอันตรายยิ่งขึ้น",
+      "name": "เครื่องหมาย: Snake Necramech",
+      "code": "th"
+    },
+    {
+      "description": "Bu ayırt edici kıvrımlı mühür, herhangi bir Necramech'e zehirli bir gözdağı verir.",
+      "name": "Snake Necramech Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Виразний звивистий сиґіл, який додасть будь-якому некрамеху вигляд отруйної загрози.",
+      "name": "Сиґіл «Змій» для некрамеха",
+      "code": "uk"
+    }
+  ]
+}

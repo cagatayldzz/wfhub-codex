@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Vignettes/Enemies/CrewmanAFItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corpus-articula-aa7ae29614.png",
+  "name": "Corpus Articula",
+  "description": "A posable, scale model of the Corpus footsoldiers.",
+  "languages": [
+    {
+      "description": "Ein bewegliches, maßstabgetreues Modell eines Corpus Soldaten.",
+      "name": "Articula: Corpus",
+      "code": "de"
+    },
+    {
+      "description": "Un modèle miniature des soldats Corpus pouvant être placé.",
+      "name": "Articula Corpus",
+      "code": "fr"
+    },
+    {
+      "description": "Un modello in scala posizionabile della fanteria Corpus.",
+      "name": "Corpus Articula",
+      "code": "it"
+    },
+    {
+      "description": "포즈를 조정할 수 있는 코퍼스 보병의 실물 비례 모델입니다.",
+      "name": "코퍼스 아티큘라",
+      "code": "ko"
+    },
+    {
+      "description": "Un modelo a escala articulado de soldado de infantería corpus.",
+      "name": "Corpus articulado",
+      "code": "es"
+    },
+    {
+      "description": "一个可活动的 Corpus 船员比例模型。",
+      "name": "Corpus 可动式模型",
+      "code": "zh"
+    },
+    {
+      "description": "Настраиваемая масштабная модель солдат Корпуса.",
+      "name": "Модель Корпуса",
+      "code": "ru"
+    },
+    {
+      "description": "ポーズを付けられるコーパス歩兵のフィギュア！",
+      "name": "コーパス アーティクラ",
+      "code": "ja"
+    },
+    {
+      "description": "Zeskalowana Figurka Piechura Corpus do pozowania.",
+      "name": "Artikula Corpus",
+      "code": "pl"
+    },
+    {
+      "description": "Um modelo de escala dos soldados Corpus.",
+      "name": "Articula: Corpus",
+      "code": "pt"
+    },
+    {
+      "description": "一個等比例縮小可動的 Corpus 船員比例模型。",
+      "name": "Corpus 可動式模型",
+      "code": "tc"
+    },
+    {
+      "description": "หุ่นจำลองของทหารราบ Corpus ที่จัดวางท่าได้",
+      "name": "อาร์ติคูลา Corpus",
+      "code": "th"
+    },
+    {
+      "description": "Poz verebilen, ölçekli bir Corpus piyade modeli.",
+      "name": "Corpus Artikula",
+      "code": "tr"
+    },
+    {
+      "description": "Зменшена копія солдатів Корпусу з можливістю зміни пози.",
+      "name": "Модель Корпусу",
+      "code": "uk"
+    }
+  ]
+}

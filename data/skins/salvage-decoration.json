@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemSalvage",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/salvage-decoration-b0160b6c5c.png",
+  "name": "Salvage Decoration",
+  "description": "A Salvage resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von Bergungsgut.",
+      "name": "Dekoration: Bergungsgut",
+      "code": "de"
+    },
+    {
+      "description": "De la Récupération à placer dans votre Orbiteur.",
+      "name": "Décoration Récupération",
+      "code": "fr"
+    },
+    {
+      "description": "Dei Rottami decorativi da piazzare nell'Orbiter.",
+      "name": "Rottami - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 샐비지 드롭 아이템입니다.",
+      "name": "샐비지 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo de restos para colocar en tu orbitador.",
+      "name": "Decoración de restos",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的回收金属拾取物。",
+      "name": "回收金属装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Вторсырье",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材のサルベージ。",
+      "name": "サルベージの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Złom, który możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Złom",
+      "code": "pl"
+    },
+    {
+      "description": "Um bloco de restos compactados para colocar em sua Orbital.",
+      "name": "Sucata",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的回收金屬拾取物。",
+      "name": "回收金屬裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "เศษโลหะที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: เศษโลหะ",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Değerli Metal bileşeni dekorasyonu.",
+      "name": "Değerli Metal Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цей металевий уламок на палубі орбітра.",
+      "name": "Оздоблення: брухт",
+      "code": "uk"
+    }
+  ]
+}

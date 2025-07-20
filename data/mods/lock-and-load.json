@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lock-and-load-ccf47af43c.jpg",
+  "name": "Lock And Load",
+  "languages": [
+    {
+      "name": "Sichern und Laden",
+      "code": "de"
+    },
+    {
+      "name": "Cran de Sûreté",
+      "code": "fr"
+    },
+    {
+      "name": "Lock and Load",
+      "code": "it"
+    },
+    {
+      "name": "락 앤 로드",
+      "code": "ko"
+    },
+    {
+      "name": "Preparar y recargar",
+      "code": "es"
+    },
+    {
+      "name": "填弹上膛",
+      "code": "zh"
+    },
+    {
+      "name": "Заряжен и Готов",
+      "code": "ru"
+    },
+    {
+      "name": "Lock and Load",
+      "code": "ja"
+    },
+    {
+      "name": "Broń w Gotowości",
+      "code": "pl"
+    },
+    {
+      "name": "Lock and Load",
+      "code": "pt"
+    },
+    {
+      "name": "填彈上膛",
+      "code": "tc"
+    },
+    {
+      "name": "Lock and Load",
+      "code": "th"
+    },
+    {
+      "name": "Lock and Load",
+      "code": "tr"
+    },
+    {
+      "name": "Зброю до бою",
+      "code": "uk"
+    }
+  ]
+}

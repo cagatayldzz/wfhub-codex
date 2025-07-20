@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GunbladeHipsR",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gunblade-right-hip-holster-50b19ba470.png",
+  "name": "Gunblade Right Hip Holster",
+  "description": "Gunblades are holstered at the right hip.",
+  "languages": [
+    {
+      "description": "Gunblades werden an der rechten Hüfte geholstert.",
+      "name": "Gunblade-Holster: Hüfte, Rechts",
+      "code": "de"
+    },
+    {
+      "description": "Les Pistolames sont portés à droite au niveau des hanches.",
+      "name": "Port de Pistolame à la hanche (Droite)",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Gunblade sul fianco destro.",
+      "name": "Rinfodero Gunblade Fianco Destro",
+      "code": "it"
+    },
+    {
+      "description": "건블레이드 계열 무기를 오른쪽 허벅지에 수납하는 수납 방식입니다.",
+      "name": "건블레이드 오른쪽 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Los sables-pistola se enfundarán en la cadera derecha.",
+      "name": "Enfundado de cadera derecha de sable-pistola",
+      "code": "es"
+    },
+    {
+      "description": "将枪刃武器收纳至右腰处。",
+      "name": "枪刃右腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Ганблэйды покоятся на правом бедре.",
+      "name": "Набедренный Крепеж Ганблэйда - Справа",
+      "code": "ru"
+    },
+    {
+      "description": "腰の右側にガンブレードを収納。",
+      "name": "ガンブレードヒップホルスター（右）",
+      "code": "ja"
+    },
+    {
+      "description": "Pistoleto-ostrza mocowane są do prawego biodra.",
+      "name": "Pistoleto-Ostrze Mocowanie Do Prawego Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As Lâmina-Armas são guardadas na cintura direita.",
+      "name": "Lâmina-Armas: Coldre na Cintura (Direita)",
+      "code": "pt"
+    },
+    {
+      "description": "槍刃武器可收納於右腰。",
+      "name": "槍刃右腰收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบปืนที่ใส่ซองตรงสะโพกขวา",
+      "name": "ซองดาบปืนตรงสะโพกขวา",
+      "code": "th"
+    },
+    {
+      "description": "Süngülü Silahlar sağ kalçada taşınır.",
+      "name": "Süngülü Silah Sağ Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Мечестріли кріпляться на правому стегні, коли в руках інша зброя.",
+      "name": "Мечестріл на правому стегні",
+      "code": "uk"
+    }
+  ]
+}

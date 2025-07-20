@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TitaniaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---titania-f8cc47be0a.png",
+  "name": "Noggle Statue - Titania",
+  "description": "A small wobbly statue of Titania.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Titania.",
+      "name": "Noggle-Statue: Titania",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Titania.",
+      "name": "Statuette Noggle - Titania",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Titania con la testa tremolante.",
+      "name": "Statuetta Noggle - Titania",
+      "code": "it"
+    },
+    {
+      "description": "티타니아의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 티타니아",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Titania.",
+      "name": "Estatua Tambaleante - Titania",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Titania 摇头娃娃。",
+      "name": "Titania 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Титании.",
+      "name": "Фигурка: Титания",
+      "code": "ru"
+    },
+    {
+      "description": "Titaniaのボブルヘッド人形。",
+      "name": "Titania ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Titani.",
+      "name": "Figurka Noggle — Titania",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Titania.",
+      "name": "Estatueta: Titania",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Titania 的搖頭娃娃",
+      "name": "Titania 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Titania ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Titania",
+      "code": "th"
+    },
+    {
+      "description": "Titania küçük oynar figür.",
+      "name": "Noggle Heykeli - Titania",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Титанії.",
+      "name": "Ноґл «Титанія»",
+      "code": "uk"
+    }
+  ]
+}

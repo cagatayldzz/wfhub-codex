@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EmberBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---ember-7f1b5372c3.png",
+  "name": "Noggle Statue - Ember",
+  "description": "A small wobbly statue of Ember.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Ember.",
+      "name": "Noggle-Statue: Ember",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Ember.",
+      "name": "Statuette Noggle - Ember",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Ember con la testa tremolante.",
+      "name": "Statuetta Noggle - Ember",
+      "code": "it"
+    },
+    {
+      "description": "엠버의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 엠버",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Ember.",
+      "name": "Estatua Tambaleante - Ember",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Ember 摇头娃娃。",
+      "name": "Ember 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Эмбер.",
+      "name": "Фигурка: Эмбер",
+      "code": "ru"
+    },
+    {
+      "description": "Emberのボブルヘッド人形。",
+      "name": "Ember ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Ember.",
+      "name": "Figurka Noggle — Ember",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Ember.",
+      "name": "Estatueta: Ember",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Ember 的搖頭娃娃。",
+      "name": "Ember 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Ember ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Ember",
+      "code": "th"
+    },
+    {
+      "description": "Ember küçük oynar figür.",
+      "name": "Noggle Heykeli - Ember",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Ембер.",
+      "name": "Ноґл «Ембер»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lynx-sigil-ba0f6122c7.png",
+  "name": "Lynx Sigil",
+  "description": "A sigil depicting the Lynx.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das den Lynx darstellt.",
+      "name": "Siegel: Lynx",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Lynx.",
+      "name": "Sceau du Lynx",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Lynx.",
+      "name": "Sigillo Lynx",
+      "code": "it"
+    },
+    {
+      "description": "링스가 묘사된 시질입니다.",
+      "name": "링스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello representando a Lynx.",
+      "name": "Sello de Lynx",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着山猫的纹章",
+      "name": "山猫纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Рыси.",
+      "name": "Сигил: Рысь",
+      "code": "ru"
+    },
+    {
+      "description": "Lynxを描いたシジル。",
+      "name": "Lynx シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Lynxa.",
+      "name": "Znak Lynxa",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando Lynx.",
+      "name": "Brasão: Lynx",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪山貓的紋章。",
+      "name": "山貓紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Lynx",
+      "name": "เครื่องหมาย: Lynx",
+      "code": "th"
+    },
+    {
+      "description": "Lynx'i temsil eden bir mühür",
+      "name": "Lynx Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Рисі.",
+      "name": "Сиґіл «Рись»",
+      "code": "uk"
+    }
+  ]
+}

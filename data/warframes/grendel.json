@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Devourer/Devourer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/grendel-4d1c382605.png",
+  "name": "Grendel",
+  "description": "Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards him with high survivability. Enemies will be eaten. And regurgitated.",
+  "armor": 370,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Grendel betrachtet jedes Schlachtfeld als Buffet. Sein unersättlicher Hunger belohnt ihn mit hoher Überlebensfähigkeit. Feinde werden verspeist. Und hervorgewürgt.",
+      "name": "Grendel",
+      "code": "de"
+    },
+    {
+      "description": "Grendel voit chaque champ de bataille comme un buffet. Son appétit insatiable le récompense avec une grande capacité de survie. Les ennemis seront mangés. Et régurgités.",
+      "name": "Grendel",
+      "code": "fr"
+    },
+    {
+      "description": "Grendel vede ogni campo di battaglia come un buffet. Il suo appetito insaziabile lo ricompensa con un'elevata capacità di sopravvivenza. I nemici saranno mangiati. E rigurgitati.",
+      "name": "Grendel",
+      "code": "it"
+    },
+    {
+      "description": "그 어떤 전장이라도 그렌델의 눈에는 뷔페 만찬상으로 비칩니다. 결코 채울 수 없는 그의 식욕은 높은 생존력이라는 형태의 보상으로 돌아오며, 적을 먹어치우고, 또한 게워낼 수도 있습니다.",
+      "name": "그렌델",
+      "code": "ko"
+    },
+    {
+      "description": "Grendel ve cada campo de batalla como una mezcla heterogénea. Su apetito insaciable lo recompensa con una alta capacidad de supervivencia. Los enemigos serán devorados. Y regurgitados.",
+      "name": "Grendel",
+      "code": "es"
+    },
+    {
+      "description": "Grendel 将每个战场都视为大杂烩。他贪得无厌的胃口使他具有很高的生存能力。敌人会被吃掉，然后被吐出。",
+      "name": "Grendel",
+      "code": "zh"
+    },
+    {
+      "description": "Каждое поле битвы Грендель воспринимает как шведский стол. Его ненасытный аппетит вознаграждает его высокой живучестью. Враги будут просто съедены. И отрыгнуты.",
+      "name": "Грендель",
+      "code": "ru"
+    },
+    {
+      "description": "Grendelにとって戦場はバイキングである。彼の飽くなき食欲は敵を食らい、彼の血肉となり耐久性を上げる。",
+      "name": "Grendel",
+      "code": "ja"
+    },
+    {
+      "description": "Dla Grendela, pole bitwy jest otwartym bufetem. Swoją wysoką wytrzymałość zawdzięcza on swojemu nienasyconemu apetytowi. Wrogowie zostaną pożarci. I zwróceni.",
+      "name": "Grendel",
+      "code": "pl"
+    },
+    {
+      "description": "O Grendel vê cada campo de batalha como um bufê. Seu apetite insaciável o recompensa com grande capacidade de sobrevivência. Os inimigos serão devorados e regurgitados.",
+      "name": "Grendel",
+      "code": "pt"
+    },
+    {
+      "description": "Grendel 將每場戰鬥都視為自助餐。他貪得無厭的胃口使他具有很高的生存能力。敵人會被吃掉。然後被吐掉。",
+      "name": "Grendel",
+      "code": "tc"
+    },
+    {
+      "description": "Grendel มองเห็นสนามรบทุกแห่งหนเป็นเหมือนที่จัดเลี้ยงบุฟเฟ่ต์ ความอยากอาหารที่ไม่รู้จักพอทำให้มีความสามารถในการเอาตัวรอดได้ดี ศัตรูจะถูกกลืนกินเข้าไป แล้วค่อยสำรอกออกมา",
+      "name": "Grendel",
+      "code": "th"
+    },
+    {
+      "description": "Grendel her savaş alanını açık büfe olarak görür. Doyumsuz iştahı, onu büyük bir hayatta kalma yeteneği ile ödüllendirir. Düşmanlarını yer, ve onları kusar.",
+      "name": "Grendel",
+      "code": "tr"
+    },
+    {
+      "description": "Вічний ненажера. Ґрендель дивиться на кожне бойовище як на стіл із закусками. Вічний голод забезпечує його потужною живучістю. Він зжере ворога. А потім відригне.",
+      "name": "Ґрендель",
+      "code": "uk"
+    }
+  ]
+}

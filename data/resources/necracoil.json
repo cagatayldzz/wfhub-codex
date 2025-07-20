@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/necracoil-8a46854da0.png",
+  "name": "Necracoil",
+  "description": "This experimental array transmutes Void energy into high voltages with low currents.\n\nLocation: Albrecht's Laboratories (Deimos)",
+  "languages": [
+    {
+      "description": "Diese experimentelle Anordnung wandelt Void-Energie in hohe Spannungen mit niedrigen Strömen um.\n\nQuelle: Albrechts Labore (Deimos)",
+      "name": "Necraspule",
+      "code": "de"
+    },
+    {
+      "description": "Ce réseau expérimental transmute l'énergie du Néant en hautes tensions avec de faibles courants.\n\nLieu: Laboratoires d'Albrecht (Deimos)",
+      "name": "Nécragénérateur",
+      "code": "fr"
+    },
+    {
+      "description": "Questa matrice sperimentale trasmuta l'energia del Void in alte tensioni con basse correnti.\n\nPosizione: Laboratori di Albrecht (Deimos)",
+      "name": "Necralternatore",
+      "code": "it"
+    },
+    {
+      "description": "이 실험용 배열은 보이드 에너지를 낮은 전류에서 높은 전압으로 변환시킵니다.\n\n획득 가능 장소: 알브레히트의 연구실 (데이모스)",
+      "name": "네크라코일",
+      "code": "ko"
+    },
+    {
+      "description": "Esta matriz experimental transmuta la energía del Vacío en altos voltajes con bajas corrientes.\n\nUbicación: Laboratorios de Albrecht (Deimos)",
+      "name": "Bobina Necra",
+      "code": "es"
+    },
+    {
+      "description": "这个实验阵列将虚空能量转化为带有低电流的高电压。\n\n获取地点：阿尔布雷希特的实验室（火卫二）",
+      "name": "殁世线圈",
+      "code": "zh"
+    },
+    {
+      "description": "Этот экспериментальный комплекс преобразует энергию Бездны в высокое напряжение с малыми токами.\n\nМестонахождение: Лаборатории Альбрехта (Деймос).",
+      "name": "Катушка Нетры",
+      "code": "ru"
+    },
+    {
+      "description": "この実験的アレイはVoidエネルギーを低電流で高電圧へ変換させる。\n\n場所：Albrechtの研究所（ダイモス）",
+      "name": "ネクロコイル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten eksperymentalny układ przekształca energię Pustki w wysokie napięcia o niskim natężeniu.\n\nPołożenie: Laboratoria Albrechta (Deimos)",
+      "name": "Nekrazwój",
+      "code": "pl"
+    },
+    {
+      "description": "Esta matriz experimental transmuta a energia do Void em altas-tensões com baixas correntes.\n\nLocalização: Laboratórios do Albrecht (Deimos)",
+      "name": "Bobinecra",
+      "code": "pt"
+    },
+    {
+      "description": "這個實驗性的陣列可以將虛空能量轉換成低電流的高電壓。\n\n地點：阿爾布雷希特的實驗室（火衛二）",
+      "name": "亡骸線圈",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ทดลองชุดนี้จะแปลงพลังงานวอยด์ให้เป็นไฟฟ้าแรงสูงที่มีกระแสไฟฟ้าต่ำ\n\nแหล่งที่พบ: ห้องทดลองของ Albrecht (เดมอส)",
+      "name": "เนคราคอยล์",
+      "code": "th"
+    },
+    {
+      "description": "Bu deneysel dizilim, Void enerjisini düşük akımlı yüksek voltajlara dönüştürür.\n\nKonum: Albrecht'in Laboratuvarları (Deimos)",
+      "name": "Necracoil",
+      "code": "tr"
+    },
+    {
+      "description": "Ця експериментальна матриця перетворює енергію Порожнечі у високу напругу з низьким струмом.\n\nМожна здобути в лабораторіях Альбрехта на Деймосі.",
+      "name": "Некракотушка",
+      "code": "uk"
+    }
+  ]
+}

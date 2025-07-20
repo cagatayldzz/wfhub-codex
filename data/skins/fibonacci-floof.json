@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/FishPlush",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fibonacci-floof-13118234b3.png",
+  "name": "Fibonacci Floof",
+  "description": "'Biped, you clearly crave the companionship of your intellectual superior. How laudable.' - Fibonacci",
+  "languages": [
+    {
+      "description": "'Zweibeiner, du sehnst dich sichtlich nach der Kameradschaft intellektueller Überlegenheit. Wie lobenswert.' - Fibonacci",
+      "name": "Floof: Fibonacci",
+      "code": "de"
+    },
+    {
+      "description": "'Bipède, vous avez clairement besoin de la compagnie de votre supérieur intellectuel. Comme c'est louable.' - Fibonacci",
+      "name": "Peluche Fibonacci",
+      "code": "fr"
+    },
+    {
+      "description": "'Bipede, desideri chiaramente la compagnia di coloro che sono intellettualmente superiori a te. Lodevole.' - Fibonacci",
+      "name": "Floof Fibonacci",
+      "code": "it"
+    },
+    {
+      "description": "'두발 동물아, 아무리 봐도 넌 지적으로 우월한 존재와의 교류를 갈망하는 것 같구나. 가상한 노릇이야.' - 피보나치",
+      "name": "피보나치 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "'Bípedo, claramente anhelas la compañía de tu superior intelectual. Qué loable'. - Fibonacci",
+      "name": "Floof de Fibonacci",
+      "code": "es"
+    },
+    {
+      "description": "“两脚兽，你显然渴望与智力高于你的人为伴。多么值得称赞啊。”——斐波那契",
+      "name": "斐波那契玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "«Двуногие, вы явно желаете общества кого-то с высшим интеллектом. Весьма похвально.», — Фибоначчи.",
+      "name": "Пушистик: Фибоначчи",
+      "code": "ru"
+    },
+    {
+      "description": "「二足歩行、そこまでして知的上司であるオレの同伴を願うか。滑稽だな。」~Fibonacci",
+      "name": "Fibonacciのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "'Dwunogi, wyraźnie pragniesz towarzystwa swojego intelektualnego przełożonego. To godne pochwały.' - Fibonacci",
+      "name": "Pluszak Fibonacci",
+      "code": "pl"
+    },
+    {
+      "description": "Fibonacci: 'Bípede, você claramente anseia pela companhia daqueles intelectualmente superiores a você. Louvável'.",
+      "name": "Floof: Fibonacci",
+      "code": "pt"
+    },
+    {
+      "description": "「雙足生物，很顯然你渴望與你的上知上級作伴。多麼值得讚賞。」──Loid",
+      "name": "費波那契玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "“สัตว์สองเท้าอย่างเจ้าปรารถนามิตรภาพจากผู้มีปัญญาที่เหนือกว่า ช่างน่าชื่นชมจริง ๆ” - Fibonacci",
+      "name": "ตุ๊กตา Fibonacci",
+      "code": "th"
+    },
+    {
+      "description": "'İki Ayaklı, belli ki entelektüel olarak senden üstün olanların arkadaşlığını arzuluyorsun. Ne kadar da övgüye değer.' - Fibonacci",
+      "name": "Fibonacci Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "«Двоногі, ви явно бажаєте товариства когось із вищим інтелектом. Схвалюю», — Фібоначчі.",
+      "name": "Плюш «Фібоначчі»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/GaussGonnaGetchaEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/redliner-emote-60217efa5e.png",
+  "name": "Redliner Emote",
+  "description": "Taunt your enemies.",
+  "languages": [
+    {
+      "description": "Verspotte deine Feinde.",
+      "name": "Emote: Redliner",
+      "code": "de"
+    },
+    {
+      "description": "Provoquez vos ennemis.",
+      "name": "Geste Hors-Limites",
+      "code": "fr"
+    },
+    {
+      "description": "Provoca i tuoi nemici.",
+      "name": "Emote Redline",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 적을 도발해 보세요.",
+      "name": "레드라이너 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Búrlate de tus enemigos.",
+      "name": "Gesto de Acelerador máximo",
+      "code": "es"
+    },
+    {
+      "description": "嘲讽你的敌人。",
+      "name": "赤限表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Насмехайтесь над своими врагами.",
+      "name": "Жест: Красная черта",
+      "code": "ru"
+    },
+    {
+      "description": "敵を挑発しよう。",
+      "name": "レッドライナー エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Prowokuj swoich wrogów.",
+      "name": "Gest Wysokich Obrotów",
+      "code": "pl"
+    },
+    {
+      "description": "Provoque seus inimigos.",
+      "name": "Emote Velocidade Máxima",
+      "code": "pt"
+    },
+    {
+      "description": "嘲諷你的敵人",
+      "name": "赤限表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "ยั่วโมโหศัตรูของคุณ",
+      "name": "อิโมต Redliner",
+      "code": "th"
+    },
+    {
+      "description": "Düşmanlarınla alay et.",
+      "name": "Redliner Gövde Hareketleri",
+      "code": "tr"
+    },
+    {
+      "description": "Дражніть своїх ворогів.",
+      "name": "Спробуй дожени",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerTMobileItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/matisse-be766d8b50.png",
+  "name": "Matisse",
+  "description": "Unlocks a collection of colors, found in a datamass with alongside a mysterious code: 255-0-255",
+  "languages": [
+    {
+      "description": "Schaltet eine Sammlung von Farben frei, die sich in einem Datenspeicher zusammen mit einem mysteriösen Code (255-0-255) befinden",
+      "name": "Matisse",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille une collection de couleurs trouvées dans des datamass aux côtés d'un code mystérieux: 255-0-255",
+      "name": "Matisse",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori, trovata in un datamass assieme a un codice misterioso: 255-0-255",
+      "name": "Matisse",
+      "code": "it"
+    },
+    {
+      "description": "신비한 코드 '255-0-255'와 함께 데이터매스 내부에서 발견되는 색상들을 잠금 해제합니다.",
+      "name": "마티스",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores, encontrada junto a un paquete de datos con un código misterioso: 255-0-255",
+      "name": "Matisse",
+      "code": "es"
+    },
+    {
+      "description": "解锁一组颜色包，来自于一份带有神秘代码 255-0-255 的数据块。",
+      "name": "马蒂斯",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует подборку цветов, которые были найдены в пакете данных, вместе с загадочным кодом 255-0-255",
+      "name": "Матисс",
+      "code": "ru"
+    },
+    {
+      "description": "データマスに含まれた、不思議なコード「255-0-255」が記録されているカラーパレット",
+      "name": "Matisse",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje kolekcję kolorów znalezionych na nośniku danych wraz z tajemniczym kodem: 255-0-255",
+      "name": "Matisse",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia uma coleção de cores, encontrada em um pacote de dados com um código misterioso: 255-0-255",
+      "name": "Matisse",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖一組顏色包，於一份數據塊中發現了一組神秘代碼：255-0-255",
+      "name": "馬諦斯",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีที่พบในฐานข้อมูลพร้อมด้วยรหัสลึกลับ: 255-0-255",
+      "name": "Matisse",
+      "code": "th"
+    },
+    {
+      "description": "255-0-255 şeklindeki gizemli bir kodun yanı sıra veri bankasında bulunan bir renk koleksiyonunun kilidini açar.",
+      "name": "Matisse",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, знайдена на носії даних разом із загадковим кодом: 255-0-255.",
+      "name": "Матиз",
+      "code": "uk"
+    }
+  ]
+}

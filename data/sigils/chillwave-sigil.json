@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDays2023BSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chillwave-sigil-e8a9214d27.png",
+  "name": "Chillwave Sigil",
+  "description": "Beat the heat with this unique Sigil.",
+  "languages": [
+    {
+      "description": "Vertreibt die Hitze mit diesem einzigartigen Siegel.",
+      "name": "Siegel: Chillwave",
+      "code": "de"
+    },
+    {
+      "description": "Combattez la chaleur avec ce Sceau unique.",
+      "name": "Sceau de Vague Fraîche",
+      "code": "fr"
+    },
+    {
+      "description": "Combatti il caldo con questo Sigillo unico.",
+      "name": "Sigillo Chillwave",
+      "code": "it"
+    },
+    {
+      "description": "이 특별한 시질과 함께 뜨거운 여름을 시원하게 나 봅시다.",
+      "name": "칠웨이브 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Supera el calor con este sello único.",
+      "name": "Sello de Onda fría",
+      "code": "es"
+    },
+    {
+      "description": "通过这独特纹章来抵抗炎炎高温。",
+      "name": "寒流纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Справьтесь с жарой с этим уникальным Сигилом.",
+      "name": "Сигил: Освежающий",
+      "code": "ru"
+    },
+    {
+      "description": "このユニークなシジルで暑さを克服しよう。",
+      "name": "Chillwave シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Pokonaj upały nosząc ten unikatowy Znak.",
+      "name": "Znak Orzeźwienia",
+      "code": "pl"
+    },
+    {
+      "description": "Vença o calor com este Brasão único.",
+      "name": "Brasão: Onda Refrescante",
+      "code": "pt"
+    },
+    {
+      "description": "透過這獨特紋章來來抵抗炎炎高溫。",
+      "name": "沁涼紋章",
+      "code": "tc"
+    },
+    {
+      "description": "ดับร้อนด้วยเครื่องหมายที่ไม่ซ้ำแบบใครนี้",
+      "name": "เครื่องหมาย: Chillwave",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşsiz Mühürle ısıyı bertaraf edin.",
+      "name": "Soğuk Dalga Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний сиґіл для тих, хто зміг пережити спеку.",
+      "name": "Сиґіл «На хвилі»",
+      "code": "uk"
+    }
+  ]
+}

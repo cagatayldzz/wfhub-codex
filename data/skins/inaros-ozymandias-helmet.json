@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWOzymandiasHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/inaros-ozymandias-helmet-a773e16061.png",
+  "name": "Inaros Ozymandias Helmet",
+  "description": "A helmet for the Inaros Warframe, designed by matzan481.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Inaros Warframe, entworfen von matzan481.",
+      "name": "Inaros-Helm: Ozymandias",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Inaros, conçu par matzan481.",
+      "name": "Casque Inaros Ozymandias",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Inaros, ideato da matzan481.",
+      "name": "Elmo Inaros Ozymandias",
+      "code": "it"
+    },
+    {
+      "description": "Matzan481에 의해 디자인된 이나로스 워프레임을 위한 헬멧입니다.",
+      "name": "이나로스 오지만디아스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Inaros, diseñado por matzan481.",
+      "name": "Casco Ozymandias de Inaros",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 战甲的头盔，由 matzan481 设计。",
+      "name": "Inaros 法老王头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Инарос, созданный matzan481.",
+      "name": "Шлем Инароса: Озимандиас",
+      "code": "ru"
+    },
+    {
+      "description": "Inaros用のヘルメット。製作者：matzan481。",
+      "name": "Inaros Ozymandias ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Inaros, zaprojektowany przez matzan481.",
+      "name": "Inaros: Hełm Ozymandias",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Inaros, desenvolvido por matzan481.",
+      "name": "Inaros: Capacete Ozymandias",
+      "code": "pt"
+    },
+    {
+      "description": "Inaros Warframe 的頭盔，由 matzan481 所設計。",
+      "name": "Inaros 奧西曼德斯頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Inaros Warframe ออกแบบโดย matzan481",
+      "name": "หมวกเหล็ก Inaros Ozymandias",
+      "code": "th"
+    },
+    {
+      "description": "matzan481 tarafından Inaros Warframe'i için dizayn edilmiş özel bir miğfer.",
+      "name": "Inaros Ozymandias Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Інара, створений matzan481.",
+      "name": "Шолом «Озимандія» для Інара",
+      "code": "uk"
+    }
+  ]
+}

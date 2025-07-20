@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TrachonsRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trachons-be11f80c78.png",
+  "name": "Trachons",
+  "description": "An organ found on Infested Ships believed to facilitate communication within the Infested Hivemind.",
+  "languages": [
+    {
+      "description": "Ein Organ, welches auf Befallenen Schiffen gefunden wird, man glaubt, es dient zur Kommunikation innerhalb einer Befallenen Hive-Intelligenz.",
+      "name": "Trachons",
+      "code": "de"
+    },
+    {
+      "description": "Un organe trouvé sur des vaisseaux infestés supposé faciliter la communication au sein de la Méta-Conscience infestée.",
+      "name": "Trachons",
+      "code": "fr"
+    },
+    {
+      "description": "Un organo trovato su Navi Infested che si ritiene faciliti la comunicazione all'interno della coscienza collettiva Infested.",
+      "name": "Trachons",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 함선에서 발견되며, 인페스티드 하이브마인드 내에서의 의사소통을 성립시킬 수 있다고 믿어지는 기관입니다.",
+      "name": "트라콘",
+      "code": "ko"
+    },
+    {
+      "description": "Un órgano encontrado en las naves infestadas que facilita la comunicación dentro de la mente colmena infestada.",
+      "name": "Trachons",
+      "code": "es"
+    },
+    {
+      "description": "一种在感染者飞船上发现的器官，被认为能促进感染者蜂巢群体思维的交流。",
+      "name": "感应喉管",
+      "code": "zh"
+    },
+    {
+      "description": "Орган, который можно найти на Кораблях заражённых и который, как считается, облегчает связь с коллективным разумом Заражённых.",
+      "name": "Трахеоны",
+      "code": "ru"
+    },
+    {
+      "description": "感染した艦船で見つかった器官は、感染体の集合意識内で意思疎通を促進するとみられている。",
+      "name": "トラコン",
+      "code": "ja"
+    },
+    {
+      "description": "Organ znaleziony na Statku Plagi, uważa się że ułatwia on komunikację Mózgowi Roju Plagi.",
+      "name": "Trachony",
+      "code": "pl"
+    },
+    {
+      "description": "Um órgão encontrado em Naves Infestadas, possivelmente usado para facilitar a comunicação com a Consciência Coletiva Infestada.",
+      "name": "Trachons",
+      "code": "pt"
+    },
+    {
+      "description": "在 Infested 船隻上出現的器官，被認為可以促進 Infested 蜂巢思維內的通訊。",
+      "name": "蜂巢思維",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นอวัยวะที่พบในยานที่ติดเชื้อ เชื่อกันว่าเป็นตัวช่วยให้การสื่อสารภายในรังที่ติดเชื้อสะดวกมากขึ้น",
+      "name": "ทราชอน",
+      "code": "th"
+    },
+    {
+      "description": "Infested Gemilerinde bulunan ve Infestedların birbirleri ile iletişim kurmak için kullandıkları düşünülen bir organ.",
+      "name": "Trachon",
+      "code": "tr"
+    },
+    {
+      "description": "Орган, який можна знайти на заражених зорельотах. Уважається, що забезпечує зв’язок із розплідником зараження.",
+      "name": "Трешони",
+      "code": "uk"
+    }
+  ]
+}

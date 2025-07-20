@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/1999FixedStickersPack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/owned-peely-pak-29fd49fdd2.png",
+  "name": "Owned Peely Pak",
+  "description": "Owned Peely Pak",
+  "languages": [
+    {
+      "description": "Peely-Päckchen im Besitz",
+      "name": "Peely-Päckchen im Besitz",
+      "code": "de"
+    },
+    {
+      "description": "Pack d'Autocollants possédé",
+      "name": "Pack d'Autocollants possédé",
+      "code": "fr"
+    },
+    {
+      "description": "Pacchetti di Adesivi Posseduti",
+      "name": "Pacchetti di Adesivi Posseduti",
+      "code": "it"
+    },
+    {
+      "description": "보유한 필리 팩",
+      "name": "보유한 필리 팩",
+      "code": "ko"
+    },
+    {
+      "description": "Pega Pak obtenido",
+      "name": "Pega Pak obtenido",
+      "code": "es"
+    },
+    {
+      "description": "已拥有的易撕贴纸包",
+      "name": "已拥有的易撕贴纸包",
+      "code": "zh"
+    },
+    {
+      "description": "Наборы Пили в наличии",
+      "name": "Наборы Пили в наличии",
+      "code": "ru"
+    },
+    {
+      "description": "所有しているピーリーパック",
+      "name": "所有しているピーリーパック",
+      "code": "ja"
+    },
+    {
+      "description": "Posiadane Paki Peely",
+      "name": "Posiadane Paki Peely",
+      "code": "pl"
+    },
+    {
+      "description": "Pacote de Figurinhas Adquirido",
+      "name": "Pacote de Figurinhas Adquirido",
+      "code": "pt"
+    },
+    {
+      "description": "已擁有變力包",
+      "name": "已擁有變力包",
+      "code": "tc"
+    },
+    {
+      "description": "มีแพ็ก Peely แล้ว",
+      "name": "มีแพ็ก Peely แล้ว",
+      "code": "th"
+    },
+    {
+      "description": "Sahip Olunan Çıkartma Paketi",
+      "name": "Sahip Olunan Çıkartma Paketi",
+      "code": "tr"
+    },
+    {
+      "description": "Пачки липучок у вашій власності.",
+      "name": "Наявні пачки липучок",
+      "code": "uk"
+    }
+  ]
+}

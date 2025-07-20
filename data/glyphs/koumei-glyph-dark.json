@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageKoumeiDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/koumei-glyph---dark-ccd51a171f.png",
+  "name": "Koumei Glyph - Dark",
+  "description": "A glyph depicting Koumei on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Koumei vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Koumei (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Koumei sur un fond sombre.",
+      "name": "Glyphe Koumei - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Koumei su uno sfondo scuro.",
+      "name": "Glifo Koumei - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 코우메이를 묘사한 글리프입니다.",
+      "name": "코우메이 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Koumei sobre un fondo oscuro.",
+      "name": "Glifo de Koumei - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Koumei 在黑暗背景下的浮印。",
+      "name": "Koumei 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Комеи на тёмном фоне.",
+      "name": "Глиф: Комея - Тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたKoumeiのグリフ。",
+      "name": "Koumei グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Koumei na ciemnym tle.",
+      "name": "Glif Koumei — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Koumei em um fundo escuro.",
+      "name": "Glifo: Koumei (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Koumei 在黑暗背景下的浮印。",
+      "name": "Koumei 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Koumei บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Koumei - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Koumei koyu fonlu glif.",
+      "name": "Koumei Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Кумей на темному тлі.",
+      "name": "Темний гліф «Кумей»",
+      "code": "uk"
+    }
+  ]
+}

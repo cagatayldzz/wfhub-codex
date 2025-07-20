@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventMorghaSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/morgha-supulchrax-skin-5e002093f7.png",
+  "name": "Morgha Supulchrax Skin",
+  "description": "Bring a touch of the Necralisk to this Archwing weapon.",
+  "languages": [
+    {
+      "description": "Verpass diesem Arch-Gewehr eine Spur Necralisk.",
+      "name": "Morgha-Skin: Supulchrax",
+      "code": "de"
+    },
+    {
+      "description": "Apportez une touche de Necralisk à cette arme pour Archwing.",
+      "name": "Aspect Morgha Supulchrax",
+      "code": "fr"
+    },
+    {
+      "description": "Dai un tocco di Necralisk a quest'arma Archwing.",
+      "name": "Skin Morgha Supulchrax",
+      "code": "it"
+    },
+    {
+      "description": "이 아크윙 무기에 네크랄리스크의 느낌을 더해보세요.",
+      "name": "모르가 서퓰크락스 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Dale un toque del Necralisk a esta arma de archwing.",
+      "name": "Diseño Supulchrax de Morgha",
+      "code": "es"
+    },
+    {
+      "description": "为这件曲翼武器带来一丝殁世幽都的气息。",
+      "name": "置灵者 阴暗外观",
+      "code": "zh"
+    },
+    {
+      "description": "Придайте этому оружию Арчвинга оттенок Некралиска.",
+      "name": "Скин Морги: Супулькракс",
+      "code": "ru"
+    },
+    {
+      "description": "アークウイング武器にネクロリスク風のデザインを加えよう。",
+      "name": "Morgha Supulchrax スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Wnieś odrobinę Nekralisku do tej broni Archwing.",
+      "name": "Morgha: Skórka Supulchrax",
+      "code": "pl"
+    },
+    {
+      "description": "Dê um toque do Necralisk a esta Arch-Arma.",
+      "name": "Morgha: Skin Supulchrax",
+      "code": "pt"
+    },
+    {
+      "description": "為這把 Archwing 武器帶來一絲亡骸機甲的風格。",
+      "name": "葬棺者 喪葬外觀",
+      "code": "tc"
+    },
+    {
+      "description": "เพิ่มสัมผัสของเนคราลิสก์ให้กับอาวุธ Archwing นี้",
+      "name": "สกิน Morgha Supulchrax",
+      "code": "th"
+    },
+    {
+      "description": "Bu Archwing silahına bir Necralisk dokunuşu kat.",
+      "name": "Morgha Supulchrax Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд для зброї арквінґа, на створення якого навіяв Некраліск.",
+      "name": "Вигляд «Супулькракс» для Морґи",
+      "code": "uk"
+    }
+  ]
+}

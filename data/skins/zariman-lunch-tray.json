@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpFoodTrayA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-lunch-tray-cf33c423f8.png",
+  "name": "Zariman Lunch Tray",
+  "description": "A tray used for serving food.",
+  "languages": [
+    {
+      "description": "Ein Tablett zum Servieren von Speisen.",
+      "name": "Zariman Essenstablett",
+      "code": "de"
+    },
+    {
+      "description": "Plateau utilisé pour servir les aliments.",
+      "name": "Zariman: Plateau de repas",
+      "code": "fr"
+    },
+    {
+      "description": "Un vassoio utilizzato per servire il cibo.",
+      "name": "Vassoio per Pranzo Zariman",
+      "code": "it"
+    },
+    {
+      "description": "음식을 내놓는 데 사용되는 식판입니다.",
+      "name": "자리만 점심 식판",
+      "code": "ko"
+    },
+    {
+      "description": "Una bandeja usada para servir comida.",
+      "name": "Bandeja de almuerzo Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个用于端食物的托盘。",
+      "name": "扎里曼午餐托盘",
+      "code": "zh"
+    },
+    {
+      "description": "Поднос, используемый для подачи еды.",
+      "name": "Зариман: Поднос для еды",
+      "code": "ru"
+    },
+    {
+      "description": "食べ物を出すために使用されるトレイ。",
+      "name": "Zariman ランチトレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Tacka służąca do serwowania potraw.",
+      "name": "Zariman: Tacka",
+      "code": "pl"
+    },
+    {
+      "description": "Bandeja usada para servir refeições.",
+      "name": "Bandeja de Refeições da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "用來端食物的托盤。",
+      "name": "扎日曼午餐托盤",
+      "code": "tc"
+    },
+    {
+      "description": "ถาดที่ใช้สำหรับเสิร์ฟอาหาร",
+      "name": "Zariman: ถาดอาหารกลางวัน",
+      "code": "th"
+    },
+    {
+      "description": "Yemekleri servis etmek için kullanılan bir tepsi.",
+      "name": "Zariman YemekTepsisi",
+      "code": "tr"
+    },
+    {
+      "description": "Таця для подачі їжі.",
+      "name": "Ланчбокс із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

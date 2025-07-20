@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---mirage-5c8e1ce07a.png",
+  "name": "Noggle Statue - Mirage",
+  "description": "A small wobbly statue of Mirage.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Mirage.",
+      "name": "Noggle-Statue: Mirage",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Mirage.",
+      "name": "Statuette Noggle - Mirage",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Mirage con la testa tremolante.",
+      "name": "Statuetta Noggle - Mirage",
+      "code": "it"
+    },
+    {
+      "description": "미라지의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 미라지",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Mirage.",
+      "name": "Estatua Tambaleante - Mirage",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Mirage 摇头娃娃。",
+      "name": "Mirage 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Мираж.",
+      "name": "Фигурка: Мираж",
+      "code": "ru"
+    },
+    {
+      "description": "Mirageのボブルヘッド人形。",
+      "name": "Mirage ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Mirage.",
+      "name": "Figurka Noggle — Mirage",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Mirage.",
+      "name": "Estatueta: Mirage",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Mirage 的搖頭娃娃。",
+      "name": "Mirage 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Mirage ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Mirage",
+      "code": "th"
+    },
+    {
+      "description": "Mirage küçük oynar figür.",
+      "name": "Noggle Heykeli - Mirage",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Міраж.",
+      "name": "Ноґл «Міраж»",
+      "code": "uk"
+    }
+  ]
+}

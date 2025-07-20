@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/IvaraObsidianBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---ivara-obsidian-e0e69f879d.png",
+  "name": "Noggle Statue - Ivara Obsidian",
+  "description": "A small wobbly statue of Ivara Obsidian.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Ivara Obsidian.",
+      "name": "Noggle-Statue: Ivara Obsidian",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Ivara Obsidienne.",
+      "name": "Statuette Noggle - Ivara Obsidienne",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Ivara Obsidian con la testa tremolante.",
+      "name": "Statuetta Noggle - Ivara Obsidian",
+      "code": "it"
+    },
+    {
+      "description": "이바라 옵시디언의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 이바라 옵시디언",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de Ivara de Obsidiana.",
+      "name": "Estatua Tambaleante - Ivara de Obsidiana",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Ivara 黑曜石摇头娃娃。",
+      "name": "Ivara 黑曜石摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая обсидиановая фигурка Ивары.",
+      "name": "Фигурка: Ивара Обсидиан",
+      "code": "ru"
+    },
+    {
+      "description": "Ivara Obsidianのボブルヘッド人形。",
+      "name": "Ivara Obsidian ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Obsydianowej Ivary.",
+      "name": "Figurka Noggle — Ivara Obsydianowa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Ivara de Obsidiana.",
+      "name": "Estatueta: Ivara de Obsidiana",
+      "code": "pt"
+    },
+    {
+      "description": "一小座黑曜石 Ivara 的搖頭娃娃。",
+      "name": "Ivara 黑曜石搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Ivara Obsidian ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Ivara Obsidian",
+      "code": "th"
+    },
+    {
+      "description": "Ivara Obsidian için küçük oynar figür.",
+      "name": "Noggle Heykeli - Ivara Obsidian",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка обсидіанової Івари.",
+      "name": "Ноґл «Обсидіанова Івара»",
+      "code": "uk"
+    }
+  ]
+}

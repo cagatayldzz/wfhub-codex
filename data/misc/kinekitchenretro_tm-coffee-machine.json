@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinekitchenretro_tm-coffee-machine-f8ad507369.png",
+  "name": "Kinekitchen<Retro_tm> Coffee Machine",
+  "description": "The KineKitchen<RETRO_TM> line of coffee makers has the new, patent pending 'sneak a cup' feature that allows you to fill your cup while the machine is brewing!",
+  "languages": [
+    {
+      "description": "Die KineKitchen<RETRO_TM>-Kaffeemaschinenreihe verfügt über die neue, zum Patent angemeldete 'Sneak a Cup'-Funktion, mit der du deine Tasse füllen kannst, während die Maschine brüht!",
+      "name": "KineKitchen<RETRO_TM>: Kaffeemaschine",
+      "code": "de"
+    },
+    {
+      "description": "La gamme de cafetières KineKitchen<RETRO_TM> est dotée de la nouvelle fonction 'sneak a cup', en instance de brevet, qui vous permet de remplir votre tasse pendant que la machine prépare son café!",
+      "name": "Machine à café KineKitchen<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "La linea di caffettiere KineKitchen<RETRO_TM> è dotata della nuova funzione in attesa di brevetto 'sneak a cup', che consente di riempire la tazza mentre la macchina è in funzione!",
+      "name": "Caffettiera KineKitchen<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "키네키친<RETRO_TM> 커피 메이커 라인에는 기계에서 커피를 내리는 동안에도 컵에 물을 채울 수 있는, 특허 출원 중인 새로운 '스닉 컵' 기능이 탑재되어 있습니다!",
+      "name": "키네키친<RETRO_TM> 커피 머신",
+      "code": "ko"
+    },
+    {
+      "description": "La línea de cafeteras KineKitchen<RETRO_TM> tiene la nueva función 'una tacita rápida' (pendiente de patente) que te permite llenar tu taza mientras la máquina está preparando el café.",
+      "name": "Cafetera KineKitchen<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "即时烹<RETRO_TM>系列咖啡机具有正在申请专利的全新 “偷喝一杯”功能，可让你在咖啡机冲泡咖啡的同时为杯子注满咖啡干上一杯！",
+      "name": "即时烹<RETRO_TM>咖啡机",
+      "code": "zh"
+    },
+    {
+      "description": "Линейка кофемашин «КинеКитчен»<RETRO_TM> оснащена новой запатентованной функцией «налей чашку», которая позволяет наполнить чашку, пока машина ещё варит кофе!",
+      "name": "Кофемашина «КинеКитчен»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "キネキッチン<RETRO_TM> 製のコーヒーメーカーに搭載された「そっとコップ」（特許出願中）機能でブリュー中にコップにコーヒーが注がれます。",
+      "name": "キネキッチン<RETRO_TM> コーヒーマシン",
+      "code": "ja"
+    },
+    {
+      "description": "Linia ekspresów do kawy KineKitchen<RETRO_TM> posiada nową, zgłoszoną do opatentowania funkcję 'sneak a cup', która umożliwia napełnianie filiżanki podczas parzenia kawy!",
+      "name": "KineKitchen<RETRO_TM>: Ekspres do kawy",
+      "code": "pl"
+    },
+    {
+      "description": "A linha de Cafeteiras KineKitchen<RETRO_TM> tem o novo recurso de 'chorinho', que permite que você encha seu como enquanto a máquina prepara o café!",
+      "name": "Cafeteira KineKitchen<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "開廚<RETRO_TM>系列咖啡沖泡機擁有最新專利未決的「偷來一杯」功能，讓你在機器沖泡的同時先裝一杯止癮！",
+      "name": "開廚<RETRO_TM>咖啡機",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องชงกาแฟ KineKitchen<RETRO_TM> มาพร้อมกับฟีเจอร์ 'แอบจิบกาแฟ' ที่เพิ่งได้รับการจดสิทธิบัตร ซึ่งช่วยให้คุณเติมกาแฟใส่แก้วได้ขณะที่เครื่องกำลังชงกาแฟอยู่",
+      "name": "เครื่องชงกาแฟ KineKitchen<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "KineKitchen<RETRO_TM> serisi kahve makineleri, kahvenin yapıldığı sırada kahvenizi almanıza olanak veren ve patent bekleyen yeni 'gizli kahve doldurma' özelliğine sahip!",
+      "name": "KineKitchen<RETRO_TM> Kahve Makinesi",
+      "code": "tr"
+    },
+    {
+      "description": "Нова лінійка кавомашин від «Кінекухня»<RETRO_TM> має новітню запатентовану можливість «викрадання чашки», яка дозволяє наповнити свою тару під час приготування напою!",
+      "name": "Кавомашина «Кінекухня»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

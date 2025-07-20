@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wolf-salute-9bfd400f1f.png",
+  "name": "Wolf Salute",
+  "description": "By this greeting, one packmate shall know another.",
+  "languages": [
+    {
+      "description": "Mit diesem Gruß erkennt ein Rudelmitglied das andere.",
+      "name": "Wolfsgruss",
+      "code": "de"
+    },
+    {
+      "description": "Avec ce geste, les membres de la meute se reconnaîtront.",
+      "name": "Salut du Loup",
+      "code": "fr"
+    },
+    {
+      "description": "Con questo saluto, i compagni di branco si riconosceranno.",
+      "name": "Saluto Wolf",
+      "code": "it"
+    },
+    {
+      "description": "무리는 이 인사로 서로를 알 수 있습니다.",
+      "name": "울프 경례",
+      "code": "ko"
+    },
+    {
+      "description": "Con este saludo, se reconoce a otro miembro del grupo.",
+      "name": "Saludo del Lobo",
+      "code": "es"
+    },
+    {
+      "description": "以这个致敬，族群成员就认得彼此了。",
+      "name": "狼式敬礼",
+      "code": "zh"
+    },
+    {
+      "description": "С этим приветствием один из стаи легко узнает другого.",
+      "name": "Волчье приветствие",
+      "code": "ru"
+    },
+    {
+      "description": "この挨拶で群れの仲間はお互いを知り合える。",
+      "name": "ウルフ・サルート",
+      "code": "ja"
+    },
+    {
+      "description": "Poprzez to powitanie, członkowie watahy mogą się łatwo rozpoznać.",
+      "name": "Wilcze Pozdrowienie",
+      "code": "pl"
+    },
+    {
+      "description": "Com esta saudação, um colega de cela conhecerá o outro.",
+      "name": "Saudação do Lobo",
+      "code": "pt"
+    },
+    {
+      "description": "以這個致敬，群員就認得彼此了。",
+      "name": "狼式敬禮",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงการทักทายนี้ แล้วเพื่อนร่วมทีมก็จะรู้จักอีกคนหนึ่ง",
+      "name": "ทักทายแบบหมาป่า",
+      "code": "th"
+    },
+    {
+      "description": "Sürüdekiler bu selamlaşma ile birbirini ayırt eder.",
+      "name": "Kurt Selamı",
+      "code": "tr"
+    },
+    {
+      "description": "Члени зграї вітають одне одного.",
+      "name": "Вовче вітання",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/JavisExperimentsPosterD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/javi-genome-scrawling-6be19563cf.png",
+  "name": "Javi Genome Scrawling",
+  "description": "Become a student of Javi. This genome scrawling is based on Drusus Leverian's records of Lavos.",
+  "languages": [
+    {
+      "description": "Werde ein Javi-Schüler. Dieses Erbgut-Gekritzel basiert auf den Aufzeichnungen von Drusus Leverian über Lavos.",
+      "name": "Javis Erbgut-Gekritzel",
+      "code": "de"
+    },
+    {
+      "description": "Devenez un disciple de Javi. Ce Griffonnage Génome est basé sur les archives de Drusus Leverian concernant Lavos.",
+      "name": "Griffonnage Génome de Javi",
+      "code": "fr"
+    },
+    {
+      "description": "Diventa uno studente di Javi. Questo scarabocchio sul genoma si basa sui registri di Drusus Leverian riguardanti Lavos.",
+      "name": "Scarabocchio Javi - Genoma",
+      "code": "it"
+    },
+    {
+      "description": "이 낙서로 야비의 학생이 되어보세요. 게놈에 관한 이 낙서는 드루수스 레베리안의 라보스에 대한 기록을 기반으로 재현되었습니다.",
+      "name": "야비의 게놈 낙서",
+      "code": "ko"
+    },
+    {
+      "description": "Conviértete en alumno de Javi. Este garabato de genoma se basa en los registros de Lavos de Drusus Leverian.",
+      "name": "Garabato de genoma de Javi",
+      "code": "es"
+    },
+    {
+      "description": "成为哈维的学生。这张基因组涂鸦源于德枢·莱弗对 Lavos 的记录。",
+      "name": "哈维基因组涂鸦",
+      "code": "zh"
+    },
+    {
+      "description": "Станьте учеником Джави. Эта схема генома основана на записях Драсуса Левериана о Лавосе.",
+      "name": "Мазня: Геном Джави",
+      "code": "ru"
+    },
+    {
+      "description": "Javiの伝道者になろう。「遺伝」をテーマにした殴り書きはDrusus Leverianが語るLavosの伝説をモチーフにしています。",
+      "name": "Javiの殴り書き「遺伝」",
+      "code": "ja"
+    },
+    {
+      "description": "Zostań uczniem Javiego. Te bazgroły genotypu są oparte na zapisach Drususa Leveriana na temat Lavosa.",
+      "name": "Bazgroły Javiego: Genom",
+      "code": "pl"
+    },
+    {
+      "description": "Torne-se um aluno de Javi. Estes rabiscos de genoma são baseados nos registros de Lavos de Drusus Leverian.",
+      "name": "Rabiscos do Genoma de Javi",
+      "code": "pt"
+    },
+    {
+      "description": "成為 Javi 的學生。這個基因組塗鴉是根據 Drusus Leverian 對 Lavos 的紀錄。",
+      "name": "Javi 的塗鴉（基因組）",
+      "code": "tc"
+    },
+    {
+      "description": "ผันตัวมาเป็นนักเรียนของ Javi โดยศึกษาภาพที่วาดเขียนเกี่ยวกับข้อมูลทางพันธุกรรมตามอ้างอิงจากบันทึกของ Drusus Leverian ที่เล่าเกี่ยวกับ Lavos",
+      "name": "ภาพเขียนของ Javi (จีโนม)",
+      "code": "th"
+    },
+    {
+      "description": "Javi'nin öğrencisi ol. Bu genom karalaması Drusus Leverian'ın Lavos kayıtlarına dayanmaktadır.",
+      "name": "Javi Genom Karalaması",
+      "code": "tr"
+    },
+    {
+      "description": "Станьте учнем Яві. Цей розпис натхненний записами Друза Леверія про Лавоса.",
+      "name": "Розпис «Геном Яві»",
+      "code": "uk"
+    }
+  ]
+}

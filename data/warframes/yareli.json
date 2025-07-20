@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Yareli/Yareli",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-3b577c5064.png",
+  "name": "Yareli",
+  "description": "The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.",
+  "armor": 105,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Die Wellenreiterin kann eine Flut der Zerstörung auf dem Schlachtfeld freisetzen. Yarelis Wasserangriffe verursachen hohen Schaden. Hohe Brandung. Tote Feinde.",
+      "name": "Yareli",
+      "code": "de"
+    },
+    {
+      "description": "La waverider peut déclencher un déluge de destruction sur le champ de bataille. Les attaques aquatiques de Yareli infligent des Dégâts importants. Surfez et décimez.",
+      "name": "Yareli",
+      "code": "fr"
+    },
+    {
+      "description": "La waverider può scatenare un'ondata di distruzione sul campo di battaglia. Gli attacchi acquatici di Yareli infliggono danni elevati. Surfa sull'onda della distruzione.",
+      "name": "Yareli",
+      "code": "it"
+    },
+    {
+      "description": "이 파도의 기수는 전장에 파괴의 홍수를 터뜨릴 수 있습니다. 물을 기반으로 한 야렐리의 공격은 높은 피해를 가합니다. 서핑이 준비되면, 적들은 가라앉아야지요.",
+      "name": "야렐리",
+      "code": "ko"
+    },
+    {
+      "description": "La surfista puede desatar un torrente de destrucción en el campo de batalla. Los ataques acuáticos de Yareli infligen mucho daño. Ella surfea. El enemigo cae.",
+      "name": "Yareli",
+      "code": "es"
+    },
+    {
+      "description": "驭浪者可以在战场上释放出毁灭的洪流。Yareli 的水系攻击可对敌人造成高额伤害。驭浪而上，敌军溺亡。",
+      "name": "Yareli",
+      "code": "zh"
+    },
+    {
+      "description": "Укротительница волн Ярели может вызвать потоп и уничтожить всё на поле боя. Водные атаки наносят большой урон. Верхом на волне топите врагов.",
+      "name": "Ярели",
+      "code": "ru"
+    },
+    {
+      "description": "ウェーブライダーはその波で戦場に破壊をもたらす。Yareliの水属性の攻撃は彼女に命を与え、敵を溺死させる。",
+      "name": "Yareli",
+      "code": "ja"
+    },
+    {
+      "description": "Surferka może rozpętać powódź zniszczenia na polu bitwy. Wodne ataki Yareli zadają wysokie obrażenia. Surfujemy. Wykończ wrogów.",
+      "name": "Yareli",
+      "code": "pl"
+    },
+    {
+      "description": "A surfista pode desencadear uma inundação de destruição no campo de batalha. Os ataques aquáticos da Yareli causam alto dano. Surfe e afogue os inimigos.",
+      "name": "Yareli",
+      "code": "pt"
+    },
+    {
+      "description": "乘浪者在戰場上釋放毀滅的洪流。 Yareli 的水系攻擊造成高傷害。浪起敵亡。",
+      "name": "Yareli",
+      "code": "tc"
+    },
+    {
+      "description": "นักโต้คลื่นเวฟไรเดอร์สามารถปล่อยภัยพิบัติทางน้ำเข้าทำลายล้างสนามรบ การโจมตีด้วยน้ำของ Yareli สร้างความเสียหายได้สูง ไต่คลื่นยักษ์ ซัดศัตรูให้ร่วงลง",
+      "name": "Yareli",
+      "code": "th"
+    },
+    {
+      "description": "Dalgaların sörfçüsü, savaş alanında bir yıkım dalgası yaratabilir. Yareli'nin su saldırıları yüksek hasar verir. Sörf yaparak düşmanların icabına bakmanın vakti geldi.",
+      "name": "Yareli",
+      "code": "tr"
+    },
+    {
+      "description": "Підкорювачка хвиль. Ярелі може викликати потоп і знищити все на бойовищі. Водяні атаки завдають великої шкоди. Верхи на хвилях топіть ворогів.",
+      "name": "Ярелі",
+      "code": "uk"
+    }
+  ]
+}

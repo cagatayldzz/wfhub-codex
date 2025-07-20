@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/axidrol-alloy-1c1aae73ee.png",
+  "name": "Axidrol Alloy",
+  "description": "A compound formed from Axidite.\n\nBlueprint sold by Smokefinger in Fortuna on Venus.",
+  "languages": [
+    {
+      "description": "Eine aus Axidite gebildete Verbindung.\n\nQuelle: Blaupause erhältlich von Smokefinger in Fortuna auf der Venus.",
+      "name": "Axidrol-Legierung",
+      "code": "de"
+    },
+    {
+      "description": "Un composé formé à partir d'Axidite.\n\nSchéma vendu par Smokefinger à Fortuna, sur Vénus.",
+      "name": "Alliage d'Axidrol",
+      "code": "fr"
+    },
+    {
+      "description": "Un composto formato da Axidite.\n\nLo schema è acquistabile da Smokefinger su Fortuna (Venere).",
+      "name": "Lega di Axidrol",
+      "code": "it"
+    },
+    {
+      "description": "액시다이트로 형성된 혼합물입니다.\n\n금성의 포르투나에 있는 스모크핑거에게서 설계도를 구매할 수 있습니다.",
+      "name": "액시드롤 얼로이",
+      "code": "ko"
+    },
+    {
+      "description": "Un compuesto formado a partir de axidita.\n\nEl plano lo vende Smokefinger en Fortuna en Venus.",
+      "name": "Aleación de Axidrol",
+      "code": "es"
+    },
+    {
+      "description": "由酸化矿物形成的一种混合物。\n\n金星上福尔图娜的 Smokefinger 出售的蓝图。",
+      "name": "酸化合金",
+      "code": "zh"
+    },
+    {
+      "description": "Сплав, полученный из аксидита.\n\nЧертёж можно купить у Смоукфингера в Фортуне на Венере.",
+      "name": "Аксидроловые сплавы",
+      "code": "ru"
+    },
+    {
+      "description": "アクシダイトから作られた化合物。\n\n設計図の入手場所：フォーチュナー（金星）のSmokefinger。",
+      "name": "アクシダイト鋼",
+      "code": "ja"
+    },
+    {
+      "description": "Związek utworzony z Axidrytu.\n\nSchemat jest dostępny u Smokefingera w Fortunie na Wenus.",
+      "name": "Stop Axidrol",
+      "code": "pl"
+    },
+    {
+      "description": "Um composto formado a partir de Axidite.\n\nSeu diagrama pode ser obtido junto ao Smokefinger, em Fortuna, em Vênus.",
+      "name": "Liga Axidítica",
+      "code": "pt"
+    },
+    {
+      "description": "由酸化礦物形成的一種混合物。\n\n來源：藍圖由福爾圖娜（金星）上的 Smokefinger 販售。",
+      "name": "酸化合金",
+      "code": "tc"
+    },
+    {
+      "description": "สารประกอบที่เกิดจากแอกซิไดต์\n\nซื้อพิมพ์เขียวได้ที่ Smokefinger ในฟอร์ทูนา บนดาวศุกร์",
+      "name": "โลหะผสมแอกซิดรอล",
+      "code": "th"
+    },
+    {
+      "description": "Axidite'ten oluşan bir bileşik.\n\nKalıbı Venüs'te yer alan Fortuna'daki Smokefinger'dan satın alınabilir.",
+      "name": "Axidrol Alaşımı",
+      "code": "tr"
+    },
+    {
+      "description": "Міцний сплав з аксидиту й домішок.\n\nКресленик можна придбати в Пальцедима у Фортуні (Венера).",
+      "name": "Аксидрольний сплав",
+      "code": "uk"
+    }
+  ]
+}

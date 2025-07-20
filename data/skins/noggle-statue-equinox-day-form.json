@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EquinoxDayBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---equinox-day-form-b530b97c60.png",
+  "name": "Noggle Statue - Equinox Day-Form",
+  "description": "A small wobbly statue of Equinox.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Equinox.",
+      "name": "Noggle-Statue: Equinox Tagform",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Equinox.",
+      "name": "Statuette Noggle - Equinox Diurne",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola statuetta di Equinox con la testa tremolante.",
+      "name": "Statuetta Noggle - Equinox Forma Diurna",
+      "code": "it"
+    },
+    {
+      "description": "이쿼녹스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 이쿼녹스 낮 형태",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de Equinox.",
+      "name": "Estatua Tambaleante - Forma Diurna de Equinox",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Equinox 摇头娃娃。",
+      "name": "Equinox 白昼形态摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Эквинокс.",
+      "name": "Фигурка: Эквинокс (дневная форма)",
+      "code": "ru"
+    },
+    {
+      "description": "Equinoxのボブルヘッド人形。",
+      "name": "Equinox 陽形態 ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Equinox.",
+      "name": "Figurka Noggle — Equinox Aspekt Dnia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Equinox.",
+      "name": "Estatueta: Equinox (Forma Diurna)",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Equinox 的搖頭娃娃。",
+      "name": "Equinox 白晝形態搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Equinox ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Equinox ในร่างกลางวัน",
+      "code": "th"
+    },
+    {
+      "description": "Equinox küçük oynar figür.",
+      "name": "Noggle Heykeli - Equinox Gündüz Formu",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Еквінокс.",
+      "name": "Ноґл «Денна форма Еквінокс»",
+      "code": "uk"
+    }
+  ]
+}

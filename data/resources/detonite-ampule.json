@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/detonite-ampule-515ea9ee87.png",
+  "name": "Detonite Ampule",
+  "description": "Researching the Detonite traces within could advance our weapon technology.\n\nLocation: Venus, Earth, Lua, Ceres, Saturn, Sedna, and the Kuva Fortress",
+  "languages": [
+    {
+      "description": "Die Erforschung der enthaltenen Detonitspuren könnte unsere Waffentechnologie voranbringen.\n\nFundorte: Venus, Erde, Lua, Ceres, Saturn, Sedna und die Kuva Festung.",
+      "name": "Detonit-Ampulle",
+      "code": "de"
+    },
+    {
+      "description": "Étudier les traces de Détonite contenues à l'intérieur pourrait faire avancer notre technologie d'armement.\n\nLieux: Vénus, Terre, Lua, Cérès, Saturne, Sedna et la Forteresse Kuva.",
+      "name": "Ampoule de Détonite",
+      "code": "fr"
+    },
+    {
+      "description": "Ricercando le tracce di detonite al suo interno, potremmo far progredire la nostra tecnologia bellica.\n\nPosizione: Venere, Terra, Luna, Cerere, Saturno, Sedna e Fortezza Kuva.",
+      "name": "Ampolla di Detonite",
+      "code": "it"
+    },
+    {
+      "description": "이곳에 포함된 소량의 데토나이트를 연구하면 우리의 무기기술의 진보에 기여할 수 있을 것입니다.\n\n획득 가능 장소: 금성, 지구, 루아, 세레스, 토성, 세드나 및 쿠바 요새.",
+      "name": "데토나이트 앰플",
+      "code": "ko"
+    },
+    {
+      "description": "Investigar los rastros de detonite en el interior podría avanzar nuestra tecnología de armas.\n\nUbicaciones: Venus, Tierra, Lua, Ceres, Saturno, Sedna, y la Fortaleza de Kuva.",
+      "name": "Ampolla de Detonite",
+      "code": "es"
+    },
+    {
+      "description": "对爆燃安瓿内的残留物进行研究，可推动我们的武器技术。\n\n获取地点：金星，地球，月球，谷神星，土星，赛德娜和赤毒要塞。",
+      "name": "爆燃安瓿",
+      "code": "zh"
+    },
+    {
+      "description": "Исследование остаточных следов Детонита внутри ампулы может продвинуть вперед наши оружейные технологии.\n\nМеста нахождения: Венера, Земля, Луа, Церера, Сатурн, Седна, Крепость Кувы.",
+      "name": "Ампула Детонита",
+      "code": "ru"
+    },
+    {
+      "description": "残留したデトナイトを解析し、兵器技術を研究するために使われるサンプル。\n\n場所：金星、地球、ルア、ケレス、土星、セドナ、クバ要塞。",
+      "name": "デトナイト アンプル",
+      "code": "ja"
+    },
+    {
+      "description": "Badania substancji zawierającej śladowe ilości Detonitu pomogą udoskonalić naszą technologię zbrojeniową.\n\nPołożenie: Wenus, Ziemia, Lua, Ceres, Saturn, Sedna i Forteca Kuva.",
+      "name": "Ampułka Detonitu",
+      "code": "pl"
+    },
+    {
+      "description": "Pesquisar os traços de Detonite profundamente pode avançar nossa tecnologia bélica.\n\nLocalizações: Vênus, Terra, Lua, Ceres, Saturno, Sedna e na Fortaleza Kuva.",
+      "name": "Ampola de Detonite",
+      "code": "pt"
+    },
+    {
+      "description": "對爆燃安瓿內的殘留物進行研究，可推動我們的武器技術。\n\n地點：金星、地球、月球、穀神星、土星、賽德娜和赤毒要塞。",
+      "name": "爆燃安瓿",
+      "code": "tc"
+    },
+    {
+      "description": "การศึกษาร่องรอยที่อยู่ภายในเดโทไนต์อาจช่วยพัฒนาเทคโนโลยีด้านอาวุธของเราได้\n\nแหล่งที่พบ: ดาวศุกร์ โลก ดาวลูอา ดาวซีรีส ดาวเสาร์ ดาวเซดนา และป้อมปราการคูวา",
+      "name": "หลอดเดโทไนต์",
+      "code": "th"
+    },
+    {
+      "description": "Patlayıcı izleri üzerine araştırmalar silah teknolojimizi geliştirebilir.\n\nKonumlar: Venüs, Dünya, Lua, Ceres, Satürn, Sedna ve Kuva Kalesi.",
+      "name": "Patlayıcı Ampul",
+      "code": "tr"
+    },
+    {
+      "description": "Ампула, що містить частки детоніту. Можна використати для поліпшення технології озброєння.\n\nМожна здобути на Венері, Землі, Луа, Церері, Сатурні, Седні чи в Кувовій фортеці.",
+      "name": "Детонітова ампула",
+      "code": "uk"
+    }
+  ]
+}

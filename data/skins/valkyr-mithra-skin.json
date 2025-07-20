@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/SWMithraValkyrSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-mithra-skin-a3d27c709c.png",
+  "name": "Valkyr Mithra Skin",
+  "description": "A unique skin for the Valkyr Warframe, designed by lukinu_u.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Skin für den Valkyr Warframe, entworfen von lukinu_u.",
+      "name": "Valkyr-Skin: Mithra",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect unique pour la Warframe Valkyr, conçu par lukinu_u.",
+      "name": "Aspect Valkyr Mithra",
+      "code": "fr"
+    },
+    {
+      "description": "Una skin unica per il Warframe Valkyr, ideata da lukinu_u.",
+      "name": "Skin Valkyr Mithra",
+      "code": "it"
+    },
+    {
+      "description": "lukinu_u에 의해 디자인된 발키르 워프레임을 위한 독특한 스킨입니다.",
+      "name": "발키르 미트라 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño único para el warframe Valkyr, diseñado por lukinu_u.",
+      "name": "Diseño Mithra de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 战甲的独特外观，由 lukinu_u 设计。",
+      "name": "Valkyr 密特拉外观",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальный скин для варфрейма Валькирия, созданный lukinu_u.",
+      "name": "Скин Валькирии: Митра",
+      "code": "ru"
+    },
+    {
+      "description": "Valkyr専用スキン。lukinu_u作。",
+      "name": "Valkyr Mithra スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowa skórka dla Warframe Valkyr, zaprojektowana przez lukinu_u.",
+      "name": "Valkyr: Skórka Mithra",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin exclusiva para o Warframe Valkyr, desenvolvida por lukinu_u.",
+      "name": "Valkyr: Skin Mithra",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr Warframe 的獨特外觀，由 lukinu_u 設計。",
+      "name": "Valkyr 密特拉外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินสำหรับ Valkyr Warframe ที่ไม่เหมือนใคร ออกแบบโดย lukinu_u",
+      "name": "สกิน Valkyr Mithra",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr Warframe'i için lukinu_u tarafından tasarlanmış özel bir skin.",
+      "name": "Valkyr Mithra Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний вигляд для ворфрейма Валькірії, створений lukinu_u.",
+      "name": "Вигляд «Мітра» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

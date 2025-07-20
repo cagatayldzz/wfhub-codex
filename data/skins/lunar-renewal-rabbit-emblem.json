@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/CNY2023EmblemItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lunar-renewal-rabbit-emblem-0094cf19be.png",
+  "name": "Lunar Renewal Rabbit Emblem",
+  "description": "Celebrate Lunar Renewal with the kind heart of the gentle rabbit.",
+  "languages": [
+    {
+      "description": "Feiert die Monderneuerung mit dem gütigen Herzen des sanften Hasen.",
+      "name": "Emblem: Neues Mondjahr des Hasen",
+      "code": "de"
+    },
+    {
+      "description": "Célébrez le Renouveau Lunaire avec le bon cœur du gentil lapin.",
+      "name": "Badge du Lapin du Renouveau Lunaire",
+      "code": "fr"
+    },
+    {
+      "description": "Festeggia il Rinnovo Lunare con il cuore gentile del dolce coniglio.",
+      "name": "Emblema Coniglio Rinnovo Lunare",
+      "code": "it"
+    },
+    {
+      "description": "순한 토끼의 착한 마음으로 음력 설을 기념해 보세요.",
+      "name": "루나 리뉴얼 래빗 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Celebra la renovación lunar con el buen corazón del tierno conejo.",
+      "name": "Emblema de Conejo de Renovación Lunar",
+      "code": "es"
+    },
+    {
+      "description": "怀揣兔兔的温良之心庆祝农历新年。",
+      "name": "兔迎新春徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Отпразднуйте Лунное обновление с добрым сердцем нежного кролика.",
+      "name": "Значок: Обновление луны - кролик",
+      "code": "ru"
+    },
+    {
+      "description": "心優しい兎でルナーリニューアルを祝おう。",
+      "name": "ルナーリニューアル「卯」エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Świętujcie Rok Księżycowy z dobrym sercem łagodnego królika.",
+      "name": "Emblemat: Księżycowy Rok Królika",
+      "code": "pl"
+    },
+    {
+      "description": "Celebre a Renovação Lunar com o coração amável do coelho benevolente.",
+      "name": "Emblema: Coelho da Renovação Lunar",
+      "code": "pt"
+    },
+    {
+      "description": "懷著溫和兔子的善心來慶祝農曆新年。",
+      "name": "新春煥發兔年徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เฉลิมฉลองวันตรุษจีนด้วยกระต่ายใจดีที่แสนอ่อนโยน",
+      "name": "ตราสัญลักษณ์: วันตรุษจีนปีเถาะ",
+      "code": "th"
+    },
+    {
+      "description": "Yeni Ay Yılı'nı tatlı tavşanın şefkatli kalbiyle kutla.",
+      "name": "Yeni Ay Yılı Tavşan Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Святкуйте Місячний Новий рік із добрим серцем і ніжністю кролика.",
+      "name": "Відзнака «Місячний Новий рік кроля»",
+      "code": "uk"
+    }
+  ]
+}

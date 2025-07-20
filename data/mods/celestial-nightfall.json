@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPGlaiveStanceOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/celestial-nightfall-255ae7f59f.jpg",
+  "name": "Celestial Nightfall",
+  "description": "Fighting form devised for Conclave.",
+  "languages": [
+    {
+      "description": [
+        "Gefechtsform, entwickelt für die Conclave."
+      ],
+      "name": "Himmlische Dämmerung",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Forme de combat réservée au Conclave."
+      ],
+      "name": "Crépuscule Céleste",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Stile di combattimento ideato per il Conclave."
+      ],
+      "name": "Celestial Nightfall",
+      "code": "it"
+    },
+    {
+      "description": [
+        "콘클레이브를 위해 창안된 전투 자세입니다."
+      ],
+      "name": "셀레스티얼 나이트폴",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Una forma de pelea creada para el Cónclave."
+      ],
+      "name": "Anochecer celestial",
+      "code": "es"
+    },
+    {
+      "description": [
+        "为武形秘仪设计的战斗形式。"
+      ],
+      "name": "天界黄昏",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Форма боя, созданная для конклава."
+      ],
+      "name": "Небесные сумерки",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンクレーブでの戦闘に特化された流儀。"
+      ],
+      "name": "Celestial Nightfall",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Styl walki stworzony na potrzeby Konklawe."
+      ],
+      "name": "Niebiański Zmrok",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Forma de combate elaborada para o Conclave."
+      ],
+      "name": "Celestial Nightfall",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "為武形秘儀設計的戰鬥形式。"
+      ],
+      "name": "天界黃昏",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "รูปแบบการต่อสู้ที่คิดค้นขึ้นสำหรับคอนเคลฟ"
+      ],
+      "name": "Celestial Nightfall",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Conclave için planlanmış savaşma formu"
+      ],
+      "name": "Celestial Nightfall",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Техніка бою, розроблена для Конклаву."
+      ],
+      "name": "Небесне надвечір’я",
+      "code": "uk"
+    }
+  ]
+}

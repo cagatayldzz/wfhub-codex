@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Monster",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/infested-sun-glyph-77c21e3e9f.png",
+  "name": "Infested Sun Glyph",
+  "description": "Locked in constant battle, this Infested beast dominates the skies of Deimos during the day.",
+  "languages": [
+    {
+      "description": "In ständigem Kampf gefangen, herrscht diese Befallene Bestie am Tag über die Himmel von Deimos.",
+      "name": "Glyphe: Befallene Sonne",
+      "code": "de"
+    },
+    {
+      "description": "Toujours prête au combat, cette bête Infestée règne dans les cieux de Deimos durant le jour.",
+      "name": "Glyphe Soleil Infesté",
+      "code": "fr"
+    },
+    {
+      "description": "Bloccato in una costante battaglia, questa bestia Infested domina i cieli di Deimos durante il giorno.",
+      "name": "Glifo Sole Infested",
+      "code": "it"
+    },
+    {
+      "description": "끊임없는 전투의 순간에 갇혀 있는 이 감염된 짐승은 낮 동안 데이모스의 하늘을 지배합니다.",
+      "name": "인페스티드 선 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Atrapado en una batalla constante, esta bestia infestada domina los cielos de Deimos durante el día.",
+      "name": "Glifo de Sol infestado",
+      "code": "es"
+    },
+    {
+      "description": "被困在了无休止的战斗中，这头怪兽白日里盘踞在火卫二的天空中。",
+      "name": "Infested 炽阳浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Постоянно сражаясь, этот зверь заражённых доминирует в небе Деймоса в течение дня.",
+      "name": "Глиф: Заражённое Солнце",
+      "code": "ru"
+    },
+    {
+      "description": "常に戦いを繰り広げているこの感染体の獣は日中のダイモスの空を支配している。",
+      "name": "Infested Sun グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Zniewolona w ciągłej walce, ta bestia Plagi panuje nad niebem Deimos w ciągu dnia.",
+      "name": "Glif Słońca Plagi",
+      "code": "pl"
+    },
+    {
+      "description": "Preso em uma constante batalha, esta besta Infestada domina os céus de Deimos durante o dia.",
+      "name": "Glifo: Sol Infestado",
+      "code": "pt"
+    },
+    {
+      "description": "困於久戰之中，這隻 Infested 野獸在白天時宰制著火衛二的天空。",
+      "name": "Infested 烈日浮印",
+      "code": "tc"
+    },
+    {
+      "description": "สัตว์ร้ายติดเชื้อที่ต้องต่อสู้อยู่ตลอดเวลา ซึ่งจะครอบครองท้องฟ้าของเดมอสในช่วงกลางวัน",
+      "name": "ภาพสัญลักษณ์ Infested Sun",
+      "code": "th"
+    },
+    {
+      "description": "Daimi bir savaşın içindeki bu Infested canavar gün boyu Deimos'un semalarına hakim olur.",
+      "name": "Infested Sun Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Приречена на довічну боротьбу потвора, що панує на небі Деймоса вдень.",
+      "name": "Гліф «Сонце зараження»",
+      "code": "uk"
+    }
+  ]
+}

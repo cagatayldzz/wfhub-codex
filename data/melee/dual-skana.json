@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-skana-b1cf4bf47b.png",
+  "name": "Dual Skana",
+  "description": "A shorter Skana in each hand. Can hit multiple targets.",
+  "languages": [
+    {
+      "description": "Ein kürzeres Skana in jeder Hand. Kann mehrere Ziele auf einmal treffen.",
+      "name": "Dual-Skana",
+      "code": "de"
+    },
+    {
+      "description": "Un Skana plus court dans chaque main. Peuvent toucher plusieurs cibles à la fois.",
+      "name": "Doubles Skanas",
+      "code": "fr"
+    },
+    {
+      "description": "Una Skana più corta per ogni mano. Possono colpire più obiettivi.",
+      "name": "Dual Skana",
+      "code": "it"
+    },
+    {
+      "description": "각 손마다 장착하는 2자루의 짧은 스카나로, 동시에 여러 명의 적을 벨 수 있습니다.",
+      "name": "듀얼 스카나",
+      "code": "ko"
+    },
+    {
+      "description": "Una Skana más corta en cada mano. Pueden golpear a múltiples objetivos.",
+      "name": "Skanas dobles",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DUAL SKANA）每只手拿一把较短的空刃。能同时攻击多个目标。",
+      "name": "空刃双刀",
+      "code": "zh"
+    },
+    {
+      "description": "Укороченная скана в каждой руке. Оружие может поражать несколько врагов за один удар.",
+      "name": "Парная скана",
+      "code": "ru"
+    },
+    {
+      "description": "両手で振るえるよう調整された一対のSKANA。複数の敵を同時に攻撃することができる。",
+      "name": "Dual Skana",
+      "code": "ja"
+    },
+    {
+      "description": "Krótsza Skana w każdej ręce. Razi kilku wrogów naraz.",
+      "name": "Skana Podwójna",
+      "code": "pl"
+    },
+    {
+      "description": "Skanas pouco mais curtas em cada mão. Pode atingir vários alvos simultaneamente.",
+      "name": "Skanas Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DUAL SKANA）雙手各持一把較短的空刃。能同時攻擊多個目標。",
+      "name": "空刃雙刀",
+      "code": "tc"
+    },
+    {
+      "description": "Skana ที่สั้นกว่าในแต่ละมือ สามารถโจมตีได้หลายเป้าหมาย",
+      "name": "Dual Skana",
+      "code": "th"
+    },
+    {
+      "description": "İki elde de bir Skana olur. Birden çok hedefi vurabilir.",
+      "name": "Dual Skana",
+      "code": "tr"
+    },
+    {
+      "description": "Парна укорочена модифікація меча «Скана». Здатна влучати в кількох ворогів одночасно.",
+      "name": "Парні Скани",
+      "code": "uk"
+    }
+  ]
+}

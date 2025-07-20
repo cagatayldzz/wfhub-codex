@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2020SimarisDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/display---tennotrivia-2020-4cbaa1a83c.png",
+  "name": "Display - Tennotrivia 2020",
+  "description": "Awarded to those who participated in TennoTrivia at TennoCon 2020.",
+  "languages": [
+    {
+      "description": "Verliehen an diejenigen, die auf der TennoCon 2020 an TennoTrivia teilnahmen.",
+      "name": "Display: Tennotrivia 2020",
+      "code": "de"
+    },
+    {
+      "description": "Décerné à ceux qui ont participé au TennoTrivia de la TennoCon 2020.",
+      "name": "Affiche - Tennotrivia 2020",
+      "code": "fr"
+    },
+    {
+      "description": "Assegnato a coloro che hanno partecipato al TennoTrivia durante il TennoCon 2020.",
+      "name": "Display - Tennotrivia 2020",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2020 행사에서 텐노트리비아에 참가한 이들에게 주어집니다.",
+      "name": "디스플레이 - 텐노트리비아 2020",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado a aquellos que participaron en la TennoTrivia de TennoCon 2020.",
+      "name": "Mostrador - Tennotrivia 2020",
+      "code": "es"
+    },
+    {
+      "description": "给予那些参与了 TennoCon2020 中 TennoTrivia 活动的玩家们。",
+      "name": "展示图－Tennotrivia 2020",
+      "code": "zh"
+    },
+    {
+      "description": "Награда для тех, кто участвовал в ТэнноВикторине на TennoCon 2020.",
+      "name": "Дисплей: Тэнновикторина - 2020",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2020の「TennoTrivia」に参加すると贈与される景品。",
+      "name": "ディスプレイ - Tennotrivia 2020",
+      "code": "ja"
+    },
+    {
+      "description": "Podarunek dla tych, którzy wzięli udział w TennoTrivia podczas TennoCon 2020.",
+      "name": "Wyświetlacz: Tennotrivia 2020",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido àqueles que participaram do TennoTrivia na TennoCon 2020.",
+      "name": "Exibidor da TennoTrivia 2020",
+      "code": "pt"
+    },
+    {
+      "description": "授予一同參與歡慶 TennoCon 2020 慶典中 Tenno 機智問答活動的玩家們。",
+      "name": "展示圖－TennoCon 2020 機智問答活動",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่เข้าร่วม TennoTrivia ในงาน TennoCon 2020",
+      "name": "ภาพดิสเพลย์ - Tennotrivia 2020",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2020'deki TennoTrivia etkinliğine katılan herkese armağan edilmiştir.",
+      "name": "Sergi - Tennotrivia 2020",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто брав активну участь у Тенноквікторині під час Теннокону 2020 року.",
+      "name": "Дисплей «Тенновікторина 2020»",
+      "code": "uk"
+    }
+  ]
+}

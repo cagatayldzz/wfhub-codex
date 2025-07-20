@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/UmbraArmour/UmbraLArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/umbra-leg-armor-52f3cc0d1a.png",
+  "name": "Umbra Leg Armor",
+  "description": "The signature armor of Excalibur Umbra.",
+  "languages": [
+    {
+      "description": "Die unverkennbare Rüstung von Excalibur Umbra.",
+      "name": "Beinplatten: Umbra",
+      "code": "de"
+    },
+    {
+      "description": "L'armure emblématique d'Excalibur Umbra",
+      "name": "Genouillères Umbra",
+      "code": "fr"
+    },
+    {
+      "description": "L'armatura distintiva di Excalibur Umbra.",
+      "name": "Gambali Umbra",
+      "code": "it"
+    },
+    {
+      "description": "엑스칼리버 움브라의 대표 아머입니다.",
+      "name": "움브라 레그 아머",
+      "code": "ko"
+    },
+    {
+      "description": "La armadura tradicional de Excalibur Umbra.",
+      "name": "Armadura de piernas Umbra",
+      "code": "es"
+    },
+    {
+      "description": "Excalibur Umbra 的标志性护甲",
+      "name": "Umbra 腿甲",
+      "code": "zh"
+    },
+    {
+      "description": "Именная броня Экскалибура Умбра.",
+      "name": "Наголенники: Умбра",
+      "code": "ru"
+    },
+    {
+      "description": "Excalibur Umbraを象徴するアーマー。",
+      "name": "Umbra レッグアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna zbroja Excalibura Umbra.",
+      "name": "Nagolenniki: Umbra",
+      "code": "pl"
+    },
+    {
+      "description": "A Armadura tradicional do Excalibur Umbra.",
+      "name": "Pernas: Armadura Umbra",
+      "code": "pt"
+    },
+    {
+      "description": "Excalibur Umbra 的標誌性護甲",
+      "name": "Umbra 腿甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเกราะอันเป็นเอกลักษณ์ของ Excalibur Umbra",
+      "name": "เกราะขา Umbra",
+      "code": "th"
+    },
+    {
+      "description": "Excalibur Umbra'ya ait özel bir zırh.",
+      "name": "Umbra Bacak Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний обладунок Екскалібура Умбри.",
+      "name": "Наголінник «Умбра»",
+      "code": "uk"
+    }
+  ]
+}

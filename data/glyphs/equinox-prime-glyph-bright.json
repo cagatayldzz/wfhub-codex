@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEquinoxPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/equinox-prime-glyph---bright-77a4c6d861.png",
+  "name": "Equinox Prime Glyph - Bright",
+  "description": "A glyph depicting Equinox Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Equinox Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Equinox Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Equinox Prime sur un fond lumineux.",
+      "name": "Glyphe Equinox Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Equinox Prime su uno sfondo chiaro.",
+      "name": "Glifo Equinox Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 이쿼녹스 프라임을 묘사한 글리프입니다.",
+      "name": "이쿼녹스 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Equinox Prime sobre un fondo brillante.",
+      "name": "Glifo de Equinox Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Equinox Prime 在明亮背景下的浮印。",
+      "name": "Equinox Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Эквинокс Прайм на светлом фоне.",
+      "name": "Глиф: Эквинокс Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたEquinox Primeのグリフ。",
+      "name": "Equinox Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Equinox Prime na jasnym tle.",
+      "name": "Glif Equinox Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando a Equinox Prime em um fundo claro.",
+      "name": "Glifo: Equinox Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Equinox Prime 在明亮背景下的浮印。",
+      "name": "Equinox Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Equinox Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Equinox Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Equinox Prime açık fonlu glif.",
+      "name": "Equinox Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Еквінокс-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Еквінокс-прайм»",
+      "code": "uk"
+    }
+  ]
+}

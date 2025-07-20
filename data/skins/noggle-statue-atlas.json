@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AtlasBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---atlas-8c479dff3c.png",
+  "name": "Noggle Statue - Atlas",
+  "description": "A small wobbly statue of Atlas.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Atlas.",
+      "name": "Noggle-Statue: Atlas",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'Atlas.",
+      "name": "Statuette Noggle - Atlas",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Atlas con la testa tremolante.",
+      "name": "Statuetta Noggle - Atlas",
+      "code": "it"
+    },
+    {
+      "description": "아틀라스의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 아틀라스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Atlas.",
+      "name": "Estatua Tambaleante - Atlas",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Atlas 摇头娃娃。",
+      "name": "Atlas 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Атласа.",
+      "name": "Фигурка: Атлас",
+      "code": "ru"
+    },
+    {
+      "description": "Atlasのボブルヘッド人形。",
+      "name": "Atlas ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Atlasa.",
+      "name": "Figurka Noggle — Atlas",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Atlas.",
+      "name": "Estatueta: Atlas",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Atlas 的搖頭娃娃。",
+      "name": "Atlas 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Atlas ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Atlas",
+      "code": "th"
+    },
+    {
+      "description": "Atlas küçük oynar figür.",
+      "name": "Noggle Heykeli - Atlas",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Атласа.",
+      "name": "Ноґл «Атлас»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/SwordHipsR",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sword-right-hip-holster-94ab0fb95d.png",
+  "name": "Sword Right Hip Holster",
+  "description": "Swords are holstered at the right hip.",
+  "languages": [
+    {
+      "description": "Schwerter werden an der rechten Hüfte geholstert.",
+      "name": "Schwert-Holster: Hüfte, Rechts",
+      "code": "de"
+    },
+    {
+      "description": "Les Épées sont portées sur la hanche droite.",
+      "name": "Port d'Épée à la hanche (Droite)",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Spade sul fianco destro.",
+      "name": "Rinfodero Spada Fianco Destro",
+      "code": "it"
+    },
+    {
+      "description": "도검 계열 무기를 오른쪽 허벅지에 수납하는 수납 방식입니다.",
+      "name": "도검 오른쪽 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las espadas se enfundarán en la cadera derecha.",
+      "name": "Enfundado de cadera derecha de espadas",
+      "code": "es"
+    },
+    {
+      "description": "将直剑收纳在右腰侧。",
+      "name": "直剑右腰收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Клинки покоятся на правом бедре.",
+      "name": "Набедренный Крепеж Клинков - Справа",
+      "code": "ru"
+    },
+    {
+      "description": "腰の右側にソード系武器を収納。",
+      "name": "ソード専用ヒップホルスター（右）",
+      "code": "ja"
+    },
+    {
+      "description": "Miecze mocowane są do prawego biodra.",
+      "name": "Miecz Mocowanie Do Prawego Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As espadas são guardadas na cintura direita.",
+      "name": "Espadas: Coldre na Cintura (Direita)",
+      "code": "pt"
+    },
+    {
+      "description": "長劍武器可收納於右腰。",
+      "name": "長劍右腰收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบที่ใส่ซองตรงสะโพกขวา",
+      "name": "ซองดาบตรงสะโพกขวา",
+      "code": "th"
+    },
+    {
+      "description": "Kılıçlar sağ kalça boyunca taşınır",
+      "name": "Kılıç Sağ Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Мечі кріпляться на правому стегні, коли в руках інша зброя.",
+      "name": "Меч на правому стегні",
+      "code": "uk"
+    }
+  ]
+}

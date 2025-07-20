@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/KelaEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rathuum-emblem-b1490d9a9a.png",
+  "name": "Rathuum Emblem",
+  "description": "Awarded to those who stood against Kela De Thaym and her Executioners.",
+  "languages": [
+    {
+      "description": "Vergeben an jene, die sich Kela De Thaym und ihren Henkern widersetzt haben.",
+      "name": "Emblem: Rathuum",
+      "code": "de"
+    },
+    {
+      "description": "Remis à ceux qui se sont dressés contre Kela De Thaym et ses Bourreaux.",
+      "name": "Badge Rathuum",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito a chi resistì contro Kela De Thaym ed i suoi Executioners.",
+      "name": "Emblema Rathuum",
+      "code": "it"
+    },
+    {
+      "description": "켈라 드 싸임과 그녀의 처형인들에 맞서 싸운 자들에게 주어진 보상입니다.",
+      "name": "라툼 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Premiado a aquellos que se pararon en contra de Kela De Thaym y sus verdugos.",
+      "name": "Emblema Rathuum",
+      "code": "es"
+    },
+    {
+      "description": "颁发给挺身对抗 Kela De Thaym 与旗下行刑者之人的奖章。",
+      "name": "死亡角斗场徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Награждаются те, кто выстоял против Келы Де Тэйм и её палачей.",
+      "name": "Значок: Ратуум",
+      "code": "ru"
+    },
+    {
+      "description": "Kela De Thaymと彼女の死刑執行人に立ち向かった者に与えられるエンブレム。",
+      "name": "Rathuum エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznawany tym, którzy przeciwstawili się Keli De Thaym i jej Egzekutorom.",
+      "name": "Emblemat Rathuum",
+      "code": "pl"
+    },
+    {
+      "description": "Premiado àqueles que se ergueram contra Kela De Thaym e seus Executores.",
+      "name": "Emblema: Rathuum",
+      "code": "pt"
+    },
+    {
+      "description": "頒發給挺身對抗 Kela De Thaym 與旗下行刑者之人的獎章。",
+      "name": "Rathuum 徽章",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่ยืนหยัดต่อสู้กับ Kela De Thaym และผู้สำเร็จโทษของนาง",
+      "name": "ตราสัญลักษณ์: Rathuum",
+      "code": "th"
+    },
+    {
+      "description": "Kela De Thaym ve onun Cellatlarına karşı gelenlere ödül olarak verilir.",
+      "name": "Rathuum Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто протистояв Келі де Тейм та її катам.",
+      "name": "Відзнака «Ратум»",
+      "code": "uk"
+    }
+  ]
+}

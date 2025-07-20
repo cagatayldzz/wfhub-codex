@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rathbone-918424e099.png",
+  "name": "Rathbone",
+  "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
+  "languages": [
+    {
+      "description": "Mithilfe der Schubkraft der Archwing Jets vernichtet dieser massive Hammer alles in seinem Weg.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "de"
+    },
+    {
+      "description": "En utilisant les propulseurs de l'Archwing pour la poussée, ce Marteau énorme détruit tout sur son chemin.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "fr"
+    },
+    {
+      "description": "Usando i getti di Archwing per la spinta, questo enorme martello schiaccia qualsiasi cosa sul suo percorso.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "it"
+    },
+    {
+      "description": "이 거대한 해머는 아크윙의 제트를 추진력으로 이용하여 나아가는 앞길에 있는 모든 것을 부수어나갑니다.",
+      "name": "<ARCHWING> 래스본",
+      "code": "ko"
+    },
+    {
+      "description": "Usando la propulsión del archwing para ganar empuje, este enorme martillo aplasta todo a su paso.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RATHBONE）利用了曲翼的喷射推动力，这把巨大的铁锤能击碎其挥舞路径中的任何物体。",
+      "name": "<ARCHWING> 拉斯波恩",
+      "code": "zh"
+    },
+    {
+      "description": "Используя реактивную силу Арчвинга, этот массивный молот разрушает все на своём пути.",
+      "name": "<ARCHWING> Рэтбон",
+      "code": "ru"
+    },
+    {
+      "description": "アークウイングのジェット推進力を利用するこの巨大なハンマーは、待ち受けるものすべてを破壊する。",
+      "name": "<ARCHWING> Rathbone",
+      "code": "ja"
+    },
+    {
+      "description": "Używając dysze Archwingu do dźgnięcia, ten masywny młot miażdży wszystko stojące na jego drodze.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "pl"
+    },
+    {
+      "description": "Usando o impulso dos jatos da Archwing, este martelo massivo esmaga qualquer coisa em seu caminho.",
+      "name": "<ARCHWING> Rathbone",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RATHBONE）利用了 Archwing 的噴射推動力，這把巨大的鐵鎚能擊碎其揮舞路徑中的任何物體。",
+      "name": "<ARCHWING> 拉斯波恩",
+      "code": "tc"
+    },
+    {
+      "description": "ค้อนขนาดใหญ่อันนี้ใช้พลังไอพ่นของ Archwing เป็นแรงขับเคลื่อนที่จะทำลายทุกสิ่งที่ขวางทาง",
+      "name": "<ARCHWING> Rathbone",
+      "code": "th"
+    },
+    {
+      "description": "Archwing’lerinizin jet motorlarını çalıştır, bu büyük çekiç yoluna çıkan her şeyi yok etmeye hazır!",
+      "name": "<ARCHWING> Rathbone",
+      "code": "tr"
+    },
+    {
+      "description": "Цей важкий бойовий молот завдяки реактивній тязі арквінґа здатний розтрощити все на своєму шляху.",
+      "name": "<ARCHWING> Ретбон",
+      "code": "uk"
+    }
+  ]
+}

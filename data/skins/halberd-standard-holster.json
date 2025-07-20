@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/HalberdCrossed",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/halberd-standard-holster-fadd9fc351.png",
+  "name": "Halberd Standard Holster",
+  "description": "Standard holster for Halberds.",
+  "languages": [
+    {
+      "description": "Standard-Holster für HELLEBARDEN.",
+      "name": "Hellebarden-Holster: Standard",
+      "code": "de"
+    },
+    {
+      "description": "Le port standard pour les Hallebardes.",
+      "name": "Port de Hallebarde standard",
+      "code": "fr"
+    },
+    {
+      "description": "Posizione di rinfodero predefinita per Alabarde",
+      "name": "Rinfodero Alabarde Standard",
+      "code": "it"
+    },
+    {
+      "description": "할버드 계열 무기의 기본 수납 방식입니다.",
+      "name": "할버드 기본 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Posición estándar de enfundado para la alabarda",
+      "name": "Enfundado estándar de alabarda",
+      "code": "es"
+    },
+    {
+      "description": "长戟的标准收纳位置",
+      "name": "长戟标准收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный крепеж для Алебард.",
+      "name": "Стандартный Крепеж Алебарды",
+      "code": "ru"
+    },
+    {
+      "description": "ハルバード系武器の通常ホルスター",
+      "name": "ハルバード通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe mocowanie dla Halabardy",
+      "name": "Halabarda Mocowanie Standardowe",
+      "code": "pl"
+    },
+    {
+      "description": "A posição de coldre padrão para Alabardas.",
+      "name": "Alabarda: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "長戟武器所使用的標準收納姿態。",
+      "name": "長戟標準收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ซองมาตรฐานสำหรับง้าว",
+      "name": "ซองง้าวมาตรฐาน",
+      "code": "th"
+    },
+    {
+      "description": "Halberd için standart kılıf pozisyonu",
+      "name": "Baltalı Kargı Standart Kılıf",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний спосіб кріплення алебард, коли в руках інша зброя.",
+      "name": "Стандартне кріплення",
+      "code": "uk"
+    }
+  ]
+}

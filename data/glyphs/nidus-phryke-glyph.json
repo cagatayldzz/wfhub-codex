@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNidusDeluxe",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-phryke-glyph-37c06b66d3.png",
+  "name": "Nidus Phryke Glyph",
+  "description": "A glyph depicting Nidus Phryke.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nidos Phryke darstellt.",
+      "name": "Glyphe: Nidus Phryke",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nidus Phryke.",
+      "name": "Glyphe Nidus Phryke",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nidus Phryke.",
+      "name": "Glifo Nidus Phryke",
+      "code": "it"
+    },
+    {
+      "description": "나이더스 프라이크를 묘사한 글리프입니다.",
+      "name": "나이더스 프라이크 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo representando a Nidus Phryke.",
+      "name": "Glifo de Nidus Phryke",
+      "code": "es"
+    },
+    {
+      "description": "描绘着 Nidus 恐惧神外观的浮印。",
+      "name": "Nidus 恐惧神浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Нидуса «Фрайк».",
+      "name": "Глиф: Нидус Фрайк",
+      "code": "ru"
+    },
+    {
+      "description": "Nidus Phrykeが描かれたグリフ。",
+      "name": "Nidus Phryke グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Nidusa Phyrke.",
+      "name": "Glif Nidus Phyrke",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando o Nidus Phryke.",
+      "name": "Glifo: Nidus Phryke",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nidus 恐懼之神的浮印。",
+      "name": "Nidus 恐懼之神浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nidus Phryke",
+      "name": "ภาพสัญลักษณ์ Nidus Phryke",
+      "code": "th"
+    },
+    {
+      "description": "Nidus Phyrke'ı tasvir eden bir glif.",
+      "name": "Nidus Phryke Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нідуса зі спорядженим виглядом «Фріке».",
+      "name": "Гліф «Нідус „Фріке“»",
+      "code": "uk"
+    }
+  ]
+}

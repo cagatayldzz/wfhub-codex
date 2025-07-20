@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxStatueChildHeroicB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-statue-(lunaro-child)-fa83785019.png",
+  "name": "Zariman Statue (Lunaro Child)",
+  "description": "A golden statue of a child playing the noble game of Lunaro.",
+  "languages": [
+    {
+      "description": "Eine goldene Statue eines Kindes, das das edle Spiel Lunaro spielt.",
+      "name": "Zariman Statue (Lunaro-Kind)",
+      "code": "de"
+    },
+    {
+      "description": "Une statue dorée d'un enfant jouant au noble jeu de Lunaro.",
+      "name": "Zariman: Statue (enfant, Lunaro)",
+      "code": "fr"
+    },
+    {
+      "description": "Una statua d'oro di un bambino che gioca al nobile gioco del Lunaro.",
+      "name": "Statua Zariman (Bambino, Lunaro)",
+      "code": "it"
+    },
+    {
+      "description": "숭고한 경기이자 놀이인 루나로를 즐기는 어린 아이의 황금빛 조각상입니다.",
+      "name": "자리만 스태츄 (루나로 어린이)",
+      "code": "ko"
+    },
+    {
+      "description": "Una estatua dorada de un niño jugando al noble juego de Lunaro.",
+      "name": "Estatua Zariman (niño de Lunaro)",
+      "code": "es"
+    },
+    {
+      "description": "一名儿童正在玩尊贵的月动球游戏的金色雕像。",
+      "name": "扎里曼雕像（月动球儿童）",
+      "code": "zh"
+    },
+    {
+      "description": "Золотая статуя ребенка, играющего в благородную игру Лунаро.",
+      "name": "Зариман: Статуя (ребёнок играет Лунаро)",
+      "code": "ru"
+    },
+    {
+      "description": "高貴な遊戯ルナーロを遊ぶ子を表した黄金の像。",
+      "name": "Zariman 像（ルナーロ、子）",
+      "code": "ja"
+    },
+    {
+      "description": "Złota statua dziecka grającego w szlachetną grę Lunaro.",
+      "name": "Zariman: Posąg (dziecko grające w Lunaro)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estátua dourada de uma criança jogando o nobre jogo Lunaro.",
+      "name": "Estátua da Zariman (Criança Jogando Lunaro)",
+      "code": "pt"
+    },
+    {
+      "description": "一名兒童正在玩尊貴的月動球遊戲的金色雕像。",
+      "name": "扎日曼雕像（月動球兒童）",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นทองคำของเด็กที่เล่นเกมที่มีชื่อเสียงอย่าง Lunaro",
+      "name": "Zariman: รูปปั้น (เด็ก, Lunaro)",
+      "code": "th"
+    },
+    {
+      "description": "Asil Lunaro oyununu oynayan bir çocuğun altından yapılma heykeli.",
+      "name": "Zariman Heykeli (Lunaro Çocuk)",
+      "code": "tr"
+    },
+    {
+      "description": "Золота статуетка дитини, яка грає в шляхетну гру — лунаро.",
+      "name": "Статуетка із «Заримена» (дитя грає в лунаро)",
+      "code": "uk"
+    }
+  ]
+}

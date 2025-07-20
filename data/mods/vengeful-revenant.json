@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StalkerSwordMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vengeful-revenant-829693f080.jpg",
+  "name": "Vengeful Revenant",
+  "description": "Hate... Dread... Despair...",
+  "languages": [
+    {
+      "description": [
+        "Hass... Furcht... Verzweiflung..."
+      ],
+      "name": "Rachsüchtiger Wiedergänger",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Haine... Terreur... Désespoir..."
+      ],
+      "name": "Esprit Vengeur",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Odio... Terrore... Disperazione..."
+      ],
+      "name": "Vengeful Revenant",
+      "code": "it"
+    },
+    {
+      "description": [
+        "증오... 두려움... 절망..."
+      ],
+      "name": "벤지풀 레버넌트",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Odio... pavor... desesperación..."
+      ],
+      "name": "Reminiscencia vengativa",
+      "code": "es"
+    },
+    {
+      "description": [
+        "憎恨……恐惧……绝望……"
+      ],
+      "name": "复仇亡灵",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Ненависть... Страх... Отчаяние..."
+      ],
+      "name": "Мстительный призрак",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "憎しみ... 恐怖... 絶望..."
+      ],
+      "name": "Vengeful Revenant",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Nienawiść... Strach... Rozpacz"
+      ],
+      "name": "Mściwe Widmo",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Ódio… Pavor… Desespero…"
+      ],
+      "name": "Vengeful Revenant",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "憎恨……恐懼……絶望……"
+      ],
+      "name": "復仇亡靈",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เกลียด... หวาดกลัว... สิ้นหวัง..."
+      ],
+      "name": "Vengeful Revenant",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Hate... Dread... Despair..."
+      ],
+      "name": "Vengeful Revenant",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Ненависть… Жах… Розпач…"
+      ],
+      "name": "Мстива мара",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImagePirateKetosDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/hydroid-ketos-glyph---dark-7455b857c6.png",
+  "name": "Hydroid Ketos Glyph - Dark",
+  "description": "A glyph depicting Hydroid Ketos on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Hydroid Ketos vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Hydroid Ketos (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Hydroid Ketos sur un fond sombre.",
+      "name": "Glyphe Hydroid Ketos - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Hydroid Ketos su uno sfondo scuro.",
+      "name": "Glifo Hydroid Ketos - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 케토스 하이드로이드를 묘사한 글리프입니다.",
+      "name": "하이드로이드 케토스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Hydroid Ketos sobre un fondo oscuro.",
+      "name": "Glifo de Hydroid Ketos - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Hydroid 海怪在黑暗背景下的浮印。",
+      "name": "Hydroid 海怪浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Гидроида «Кетос» на тёмном фоне.",
+      "name": "Глиф: Гидроид Кетос - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Hydroid Ketos のグリフ。",
+      "name": "Hydroid Ketos グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Hydroid Ketos na ciemnym tle.",
+      "name": "Glif Hydroid Ketos — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Hydroid Ketos em um fundo escuro.",
+      "name": "Glifo: Hydroid Ketos (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Hydroid 海怪在黑暗背景下的浮印。",
+      "name": "Hydroid 海怪浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Hydroid Ketos บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Hydroid Ketos - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Hydroid Ketos koyu fonlu glif.",
+      "name": "Hydroid Ketos Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Гідроїда в шоломі «Кетос» на темному тлі.",
+      "name": "Темний гліф «Гідроїд „Кетос“»",
+      "code": "uk"
+    }
+  ]
+}

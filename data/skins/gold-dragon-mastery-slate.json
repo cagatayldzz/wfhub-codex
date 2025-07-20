@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank24Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gold-dragon-mastery-slate-1f3495a929.png",
+  "name": "Gold Dragon Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 24 - Gold Dragon.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 24 - Goldener Drache zu ehren.",
+      "name": "Meisterschaft-Insignie: Goldener Drache",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 24 - Dragon d'Or.",
+      "name": "Ardoise de Maîtrise - Dragon d'Or",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 24 - Drago D'Oro.",
+      "name": "Targa Maestria - Drago d'Oro",
+      "code": "it"
+    },
+    {
+      "description": "랭크 24 - 골드 드래곤에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "골드 드래곤 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango de 24 - Dragón Dorado.",
+      "name": "Placa de Maestría de Dragón Dorado",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 24－黄金天龙所打造的物品。",
+      "name": "黄金天龙精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 24 - Золотой Дракон.",
+      "name": "Сланец Мастерства: Золотой Дракон",
+      "code": "ru"
+    },
+    {
+      "description": "ゴールド・ドラゴンランク「マスタリーランク24」へ到達したテンノの成果を示す表彰楯。",
+      "name": "ゴールド・ドラゴン マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 24 - Złoty Smok.",
+      "name": "Tablica Mistrzostwa Złoty Smok",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 24 - Dragão Dourado.",
+      "name": "Ardósia de Maestria: Dragão Dourado",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 24－黃金天龍的成就。",
+      "name": "黃金天龍精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 24 - มังกรสีทอง",
+      "name": "กระดานชนวนความเชี่ยวชาญ: มังกรสีทอง",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 24 - Gold Dragon seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Gold Dragon Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 24-го рівня майстерності — «Золотий дракон».",
+      "name": "Табличка «Золотий дракон»",
+      "code": "uk"
+    }
+  ]
+}

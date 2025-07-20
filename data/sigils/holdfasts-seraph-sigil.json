@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFour",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/holdfasts-seraph-sigil-fd43d8e4a2.png",
+  "name": "Holdfasts Seraph Sigil",
+  "description": "A sigil representing prestige gained with the Holdfasts.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das gesammelte Prestige bei den Standhaften zeigt.",
+      "name": "Siegel: Standhaften Seraph",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant le prestige obtenu avec les Irréductibles.",
+      "name": "Sceau de Séraphin des Irréductibles",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con gli Holdfast.",
+      "name": "Sigillo Serafino Holdfast",
+      "code": "it"
+    },
+    {
+      "description": "사수자들로부터 얻은 칭호를 대변하는 시질입니다.",
+      "name": "사수자들 세라프 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con los Inquebrantables.",
+      "name": "Sello Serafín de los Inquebrantables",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了坚守者的威望。",
+      "name": "坚守者炽天使纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю среди Неукротимых.",
+      "name": "Сигил: Неукротимые - серафим",
+      "code": "ru"
+    },
+    {
+      "description": "ホールドファストから得た声望を表すシジル。",
+      "name": "ホールドファスト天使長 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Zatrzymanych.",
+      "name": "Znak Zatrzymanych: Serafin",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio obtido com os Indomáveis.",
+      "name": "Brasão: Serafim dos Indomáveis",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了堅守者的威望。",
+      "name": "堅守者熾天使紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจากพวก Holdfast",
+      "name": "เครื่องหมาย Holdfast: เซราฟ",
+      "code": "th"
+    },
+    {
+      "description": "Holdfasts prestijini sembolize eden bir mühür.",
+      "name": "Holdfasts Serap Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Цей сиґіл показує ваше положення в «Паланці».",
+      "name": "Сиґіл «Паланка: серафим»",
+      "code": "uk"
+    }
+  ]
+}

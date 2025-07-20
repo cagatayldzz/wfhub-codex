@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagBounty",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voidplume-quill-940b97d70f.png",
+  "name": "Voidplume Quill",
+  "description": "A symbol of genius, fallen from Void Angels long ago.\n\nLocation: Zariman",
+  "languages": [
+    {
+      "description": "Ein Symbol des Genies, das vor langer Zeit von einem Void-Engel verloren wurde.\n\nQuelle: Zariman",
+      "name": "Void-Feder: Schwung",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole de génie, tombé des Anges du Néant il y a longtemps.\n\nLieu: Zariman",
+      "name": "Plume du Néant - Tectrice",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo di genialità, caduto dagli Angeli del Void molto tempo fa.\n\nPosizione: Zariman",
+      "name": "Voidplume - Calamo",
+      "code": "it"
+    },
+    {
+      "description": "오래 전 보이드 천사에게서 떨어져 나온, 특별한 능력의 상징입니다.\n\n획득 가능 장소: 자리만",
+      "name": "보이드 깃털 - 날개깃",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo de sabiduría, que se desprendió de los Ángeles del Vacío hace mucho tiempo.\n\nUbicación: Zariman",
+      "name": "Raquis de Pluma del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "天才的象征，很久以前就从虚空天使身上掉落了。\n\n获取地点：扎里曼号",
+      "name": "虚空刺翎",
+      "code": "zh"
+    },
+    {
+      "description": "Символ гениальности, давным-давно потерянный Ангелом Бездны.\n\nМестонахождение: «Зариман»",
+      "name": "Перо Бездны: Стержень",
+      "code": "ru"
+    },
+    {
+      "description": "はるか昔にVoidの天使により倒れた天才の象徴。\n\n場所：Zariman",
+      "name": "ヴォイドプルーム クイル",
+      "code": "ja"
+    },
+    {
+      "description": "Symbol geniuszu, upuszczony przez Anioła Pustki wieki temu.\n\nPołożenie: Zariman",
+      "name": "Pióro Pustki: Dutka",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo de genialidade, deixado pelos Anjos do Void há muito tempo.\n\nLocalização: Zariman",
+      "name": "Cálamo de Pluma do Void",
+      "code": "pt"
+    },
+    {
+      "description": "天才的象徵，很久以前從虛空天使掉落。\n\n地點：扎日曼號",
+      "name": "虛空翮羽",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ของความเป็นอัจฉริยะที่ร่วงหล่นมาจากเทวทูตแห่งวอยด์เมื่อนานมาแล้ว\n\nแหล่งที่พบ: Zariman",
+      "name": "Voidplume Quill",
+      "code": "th"
+    },
+    {
+      "description": "Uzun zaman önce Void Meleğinden düşmüş bir koruyucu melek sembolü.\n\nKonum: Zariman",
+      "name": "Void Tüyü Oku",
+      "code": "tr"
+    },
+    {
+      "description": "Символ геніальності, що дуже давно загубив янгол Порожнечі.\n\nМожна знайти на «Заримені».",
+      "name": "Стрижень пера Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

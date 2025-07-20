@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/PunctualityEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/too-late-f5d3471444.png",
+  "name": "Too Late",
+  "description": "A time-honored pose.",
+  "languages": [
+    {
+      "description": "Eine altehrwürdige Pose.",
+      "name": "Zu spät",
+      "code": "de"
+    },
+    {
+      "description": "Une pose honorant le passage du temps.",
+      "name": "Trop tard",
+      "code": "fr"
+    },
+    {
+      "description": "Una posa consacrata dal tempo.",
+      "name": "Troppo Tardi",
+      "code": "it"
+    },
+    {
+      "description": "오랜 옛날로부터 내려오는 포즈입니다.",
+      "name": "늦었어",
+      "code": "ko"
+    },
+    {
+      "description": "Una pose consagrada por el tiempo.",
+      "name": "Demasiado tarde",
+      "code": "es"
+    },
+    {
+      "description": "一种传统的动作。",
+      "name": "为时已晚",
+      "code": "zh"
+    },
+    {
+      "description": "Жест, проверенный временем.",
+      "name": "Слишком поздно",
+      "code": "ru"
+    },
+    {
+      "description": "時間は厳密に。",
+      "name": "遅すぎる",
+      "code": "ja"
+    },
+    {
+      "description": "Poza uświęcona tradycją.",
+      "name": "Za późno",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pose consagrada pelo tempo.",
+      "name": "Tarde Demais",
+      "code": "pt"
+    },
+    {
+      "description": "向時代致敬的動作。",
+      "name": "為時已晚",
+      "code": "tc"
+    },
+    {
+      "description": "การเคลื่อนไหวท่าทางตามประเพณีเก่าแก่",
+      "name": "สายเกินไป",
+      "code": "th"
+    },
+    {
+      "description": "Zamanın onurunu taşıyan bir poz.",
+      "name": "Çok Geç",
+      "code": "tr"
+    },
+    {
+      "description": "Поза пошани.",
+      "name": "Запізно",
+      "code": "uk"
+    }
+  ]
+}

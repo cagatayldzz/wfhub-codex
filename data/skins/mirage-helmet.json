@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/HarlequinHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mirage-helmet-7eccdb1eb7.png",
+  "name": "Mirage Helmet",
+  "description": "The standard issue helmet for the Mirage Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Mirage Warframe.",
+      "name": "Mirage-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Mirage.",
+      "name": "Casque Mirage",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Mirage.",
+      "name": "Elmo Mirage",
+      "code": "it"
+    },
+    {
+      "description": "미라지 워프레임을 위한 기본 헬멧입니다.",
+      "name": "미라지 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Mirage.",
+      "name": "Casco de Mirage",
+      "code": "es"
+    },
+    {
+      "description": "MIRAGE 的标准头盔。",
+      "name": "Mirage 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Мираж.",
+      "name": "Шлем Мираж",
+      "code": "ru"
+    },
+    {
+      "description": "Mirageの標準型ヘルメット。",
+      "name": "Mirage ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Mirage.",
+      "name": "Mirage: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Mirage.",
+      "name": "Mirage: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "MIRAGE 標準頭盔。",
+      "name": "Mirage 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Mirage Warframe",
+      "name": "หมวกเหล็ก Mirage",
+      "code": "th"
+    },
+    {
+      "description": "Mirage Warframe için standart miğfer.",
+      "name": "Mirage Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Міраж.",
+      "name": "Шолом Міраж",
+      "code": "uk"
+    }
+  ]
+}

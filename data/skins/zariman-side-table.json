@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxCineCabinTableA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-side-table-a60ac1c3ec.png",
+  "name": "Zariman Side Table",
+  "description": "A small side table.",
+  "languages": [
+    {
+      "description": "Ein kleiner Beistelltisch.",
+      "name": "Zariman Beistelltisch",
+      "code": "de"
+    },
+    {
+      "description": "Une petite table d'appoint.",
+      "name": "Zariman: Table d'appoint",
+      "code": "fr"
+    },
+    {
+      "description": "Un piccolo tavolino.",
+      "name": "Tavolino Zariman",
+      "code": "it"
+    },
+    {
+      "description": "소형 사이드 테이블입니다.",
+      "name": "자리만 사이드 테이블",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesita de centro.",
+      "name": "Mesa de centro Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个小型边桌。",
+      "name": "扎里曼边桌",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшой боковой столик.",
+      "name": "Зариман: Столик",
+      "code": "ru"
+    },
+    {
+      "description": "小さいサイドテーブル。",
+      "name": "Zariman サイドテーブル",
+      "code": "ja"
+    },
+    {
+      "description": "Mały stolik.",
+      "name": "Zariman: Stolik",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pequena mesa de centro.",
+      "name": "Mesa de Centro da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "小型邊桌。",
+      "name": "扎日曼邊桌",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะข้างขนาดเล็ก",
+      "name": "Zariman: โต๊ะข้าง",
+      "code": "th"
+    },
+    {
+      "description": "Küçük bir komidin.",
+      "name": "Zariman Komidini",
+      "code": "tr"
+    },
+    {
+      "description": "Маленький столик.",
+      "name": "Столик із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

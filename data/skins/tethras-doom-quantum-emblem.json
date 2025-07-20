@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/ShipyardsEventQuantumBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tethra's-doom-quantum-emblem-9b8143551d.png",
+  "name": "Tethra's Doom Quantum Emblem",
+  "description": "An insignia awarded to the Tenno who distinguished themselves during Tethra's Doom event.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das Tenno verliehen wurde, die sich während des Events Tethras Schicksal verdient gemacht haben.",
+      "name": "Emblem: Tethras Schicksal Quantum",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné aux Tennos ayant fait leurs preuves lors de l'événement le Châtiment de Tethra.",
+      "name": "Badge Quantum du Châtiment de Tethra",
+      "code": "fr"
+    },
+    {
+      "description": "Una medaglia conferita ai Tenno che si sono distinti nell'ambito dell'evento Tethra's Doom.",
+      "name": "Emblema Tethra's Doom Quantum",
+      "code": "it"
+    },
+    {
+      "description": "테쓰라의 파멸 이벤트에서 뛰어난 활약을 보인 엘리트 텐노에게 주어지는 메달입니다.",
+      "name": "테쓰라의 파멸 퀀텀 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a los tenno que se distinguieron durante el evento de la perdición de Tethra.",
+      "name": "Emblema Cuántico de la Perdición de Tethra",
+      "code": "es"
+    },
+    {
+      "description": "奖励给在泰斯拉末日活动里表现杰出的 Tenno 的徽章",
+      "name": "泰斯拉末日量子徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, которым были награждены Тэнно, проявившие себя во время операции «Кара Тетры».",
+      "name": "Квантовый значок: Кара Тетры",
+      "code": "ru"
+    },
+    {
+      "description": "TETHRAの命運イベントで優秀な成果を残したテンノに贈られる勲章",
+      "name": "Tethraの命運クォンタム エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia nadawane Tenno, którzy dowiedli swej wartości w czasie Operacji 'Zagłada Tethry'",
+      "name": "Emblemat: Quantum Operacji Zagłada Tethry",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos que se destacaram durante o evento Maldição de Tethra.",
+      "name": "Emblema: Maldição de Tethra Quantum",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給在泰斯拉末日活動裡表現傑出的 Tenno 的徽章",
+      "name": "泰斯拉末日量子徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่ Tenno ผู้สร้างชื่อเสียงให้กับตนเองในอีเวนต์ Tethra's Doom",
+      "name": "ตราสัญลักษณ์: Tethra's Doom Quantum",
+      "code": "th"
+    },
+    {
+      "description": "Tethra'nın Sonu etkinliğinde kendilerini kanıtlamış Tenno için bir hatıra sembolü.",
+      "name": "Tethra'nın Sonu Quantum Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються тенно, що проявили себе під час події «Кара Тетри».",
+      "name": "Квантова відзнака «Кара Тетри»",
+      "code": "uk"
+    }
+  ]
+}

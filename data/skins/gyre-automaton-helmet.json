@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Gyre/GyreAltHelmetA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gyre-automaton-helmet-6607330bbc.png",
+  "name": "Gyre Automaton Helmet",
+  "description": "Complete the circuit with this alternative helmet for Gyre.",
+  "languages": [
+    {
+      "description": "Vervollständige die Schaltkreise mit diesem alternativen Helm für Gyre.",
+      "name": "Gyre-Helm: Automaton",
+      "code": "de"
+    },
+    {
+      "description": "Complétez le circuit avec ce Casque alternatif pour Gyre.",
+      "name": "Casque Gyre Automaton",
+      "code": "fr"
+    },
+    {
+      "description": "Completa il circuito con questo elmo alternativo per Gyre.",
+      "name": "Elmo Gyre Automaton",
+      "code": "it"
+    },
+    {
+      "description": "이 자이어의 대체 헬멧으로 회로를 완성하세요.",
+      "name": "자이어 오토마톤 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Completa el circuito con este casco alternativo para Gyre.",
+      "name": "Casco Automaton de Gyre",
+      "code": "es"
+    },
+    {
+      "description": "通过这款 Gyre 的替代头盔来联通电路。",
+      "name": "Gyre 姬械头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Завершите схему с этим альтернативным шлемом Джайры.",
+      "name": "Шлем Джайры «Автоматика»",
+      "code": "ru"
+    },
+    {
+      "description": "このGyreの別ヘルメットで回路を完成させろ。",
+      "name": "Gyre Automaton ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Zamknij obwód wraz z tym alternatywnym hełmem dla Gyre.",
+      "name": "Gyre: Hełm Automaton",
+      "code": "pl"
+    },
+    {
+      "description": "Complete o circuito com este capacete alternativo para a Gyre.",
+      "name": "Gyre: Capacete Automaton",
+      "code": "pt"
+    },
+    {
+      "description": "透過這頂 Gyre 的替換頭盔來完成回路。",
+      "name": "Gyre 自動機頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "ทำให้วงจรสมบูรณ์ด้วยหมวกเหล็กสำรองสำหรับ Gyre ใบนี้",
+      "name": "หมวกเหล็ก Gyre Automaton",
+      "code": "th"
+    },
+    {
+      "description": "Gyre için bu alternatif miğfer ile devreleri tamamlayın.",
+      "name": "Gyre Otomat Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом для Джайри, з яким схема буде довершеною.",
+      "name": "Шолом «Робот» для Джайри",
+      "code": "uk"
+    }
+  ]
+}

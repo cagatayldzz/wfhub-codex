@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/DominusThraxStatueDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/long-live-the-king-092cfb74ab.png",
+  "name": "Long Live The King",
+  "description": "This statue is strangely familiar.",
+  "languages": [
+    {
+      "description": "Diese Statue kommt mir seltsam vertraut vor.",
+      "name": "Lang lebe der König",
+      "code": "de"
+    },
+    {
+      "description": "Cette statue est étrangement familière.",
+      "name": "Longue vie au roi",
+      "code": "fr"
+    },
+    {
+      "description": "Questa statua è stranamente familiare.",
+      "name": "Lunga Vita al Re",
+      "code": "it"
+    },
+    {
+      "description": "이 조각상은 이상하리만큼 친숙합니다.",
+      "name": "국왕 폐하 만만세",
+      "code": "ko"
+    },
+    {
+      "description": "Esta estatua me resulta extrañamente familiar.",
+      "name": "Larga vida al rey",
+      "code": "es"
+    },
+    {
+      "description": "这座雕像出奇地熟悉。",
+      "name": "吾王万岁",
+      "code": "zh"
+    },
+    {
+      "description": "Удивительно, но эта статуэтка кажется очень знакомой.",
+      "name": "Да здравствует король",
+      "code": "ru"
+    },
+    {
+      "description": "この像は妙に見覚えがある。",
+      "name": "王に栄光あれ",
+      "code": "ja"
+    },
+    {
+      "description": "Ten posąg wydaje się znajomy.",
+      "name": "Niech Żyje Król",
+      "code": "pl"
+    },
+    {
+      "description": "Esta estátua é estranhamente familiar.",
+      "name": "Vida Longa ao Rei",
+      "code": "pt"
+    },
+    {
+      "description": "這尊雕像奇妙地眼熟。",
+      "name": "國王萬歲",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นชิ้นนี้ให้ความรู้สึกคุ้นเคยอย่างน่าประหลาด",
+      "name": "ขอราชาทรงพระเจริญ",
+      "code": "th"
+    },
+    {
+      "description": "Bu heykel garip bir şekilde tanıdık geliyor.",
+      "name": "Kralım Sen Çok Yaşa",
+      "code": "tr"
+    },
+    {
+      "description": "Ця статуетка видається на диво знайомою.",
+      "name": "Нехай живе король",
+      "code": "uk"
+    }
+  ]
+}

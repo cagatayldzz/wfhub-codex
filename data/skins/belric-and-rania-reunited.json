@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/CitrineComboCrystalShipDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/belric-and-rania-reunited-e0449f33b1.png",
+  "name": "Belric And Rania Reunited",
+  "description": "A memory of the lovers, Belric and Rania, preserved in crystal.",
+  "languages": [
+    {
+      "description": "Eine Erinnerung an das Liebespaar, Belric und Rania, in Kristall erhalten.",
+      "name": "Belric und Rania wiedervereint",
+      "code": "de"
+    },
+    {
+      "description": "Un souvenir des amoureux, Belric et Rania, conservé dans le cristal.",
+      "name": "Belric et Rania réunis",
+      "code": "fr"
+    },
+    {
+      "description": "Un ricordo degli amanti, Belric e Rania, conservato nel cristallo.",
+      "name": "Belric e Rania Riuniti",
+      "code": "it"
+    },
+    {
+      "description": "결정체 안에 영원히 보존된 두 연인, 벨릭과 라니아의 기억입니다.",
+      "name": "재회한 벨릭과 라니아",
+      "code": "ko"
+    },
+    {
+      "description": "Un recuerdo de los amantes, Belric y Rania, conservado en cristal.",
+      "name": "Belric y Rania reunidos",
+      "code": "es"
+    },
+    {
+      "description": "封存在水晶中的贝里克和拉尼娅，这对恋人的记忆。",
+      "name": "贝里克和拉尼娅团聚",
+      "code": "zh"
+    },
+    {
+      "description": "Память о влюблённых, Белрике и Рании, сохранённая в кристалле.",
+      "name": "Белрик и Рания: Снова вместе",
+      "code": "ru"
+    },
+    {
+      "description": "クリスタルに留められた恋人たち、BelricとRaniaの記憶。",
+      "name": "BelricとRaniaの再会",
+      "code": "ja"
+    },
+    {
+      "description": "Pamięć o kochankach, Belricu i Ranii, zachowana w krysztale.",
+      "name": "Zjednoczeni Belric i Rania",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lembrança dos amantes, Belric e Rania, preservada em cristal.",
+      "name": "Belric e Rania Reunidos",
+      "code": "pt"
+    },
+    {
+      "description": "Belric 和 Rania 這對戀人的回憶在水晶內永留存。",
+      "name": "Belric 和 Rania・緣續",
+      "code": "tc"
+    },
+    {
+      "description": "ความทรงจำของคู่รัก Belric กับ Rania ถูกเก็บรักษาไว้ในคริสตัล",
+      "name": "Belric และ Rania กลับมารวมกันอีกครั้ง",
+      "code": "th"
+    },
+    {
+      "description": "Belric ve Rania, aşık olanların kristalde saklanan bir anısı.",
+      "name": "Belric ve Rania Yeniden Bir Arada",
+      "code": "tr"
+    },
+    {
+      "description": "Спогад про коханців Ренію та Белріка, збережений у кристалі.",
+      "name": "Берлік і Ренія знову разом",
+      "code": "uk"
+    }
+  ]
+}

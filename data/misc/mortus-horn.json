@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mortus-horn-c73d8ed8cc.png",
+  "name": "Mortus Horn",
+  "description": "The horn of the Mortus Lungfish is ground down into a powder and used by the Ostrons in herbal remedies.\n\nSource: Cut from Mortus Lungfish via Fisher Hai-Luk in Cetus (Earth). Catch Mortus Lungfish in Plains of Eidolon ponds at any time of day. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Das Horn des Mortus Lungenfisches wird zu Pulver zermahlen und von den Ostron in Kräuterheilmitteln verwendet.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Mortus Lungenfischen geschnitten. Mortus Lungenfische können zu jeder Tageszeit in den Teichen der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Mortus: Horn",
+      "code": "de"
+    },
+    {
+      "description": "La corne du Dipneuste Mortus est réduite en poudre et utilisée par les Ostrons dans des remèdes à base de plantes.\n\nSource: découpée des Dipneustes Mortus via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Dipneuste Mortus dans les étangs des Plaines d'Eidolon à tout moment de la journée. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Corne de Mortus",
+      "code": "fr"
+    },
+    {
+      "description": "Il corno del Mortus Lungfish viene ridotto in polvere e utilizzato dagli Ostron nei rimedi erboristici.\n\nFonte: Ottenibile dal Mortus Lungfish tramite la Pescivendola Hai-Luk a Cetus (Terra). Cattura un Mortus Lungfish negli stagni delle Piane di Eidolon in qualsiasi momento della giornata. Viene rilasciato anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Corno di Mortus",
+      "code": "it"
+    },
+    {
+      "description": "오스트론에선 몰터스 폐어의 뿔을 갈아만든 가루를 약초 요법에 사용합니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 몰터스 폐어 물고기를 해체하기. 낮 동안 아이돌론의 평원 연못에서 몰터스 폐어를 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "몰터스 뿔",
+      "code": "ko"
+    },
+    {
+      "description": "El cuerno del Dipnoi Mortus se muele hasta convertirlo en polvo y los ostronitas lo usan en remedios a base de hierbas.\n\nFuente: Extraído del Dipnoi Mortus con la Pescadora Hai-Luk en Cetus (Tierra). Captura el Dipnoi Mortus en los estanques de las Llanuras de Eidolon a cualquier hora del día. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Cuerno de Mortus",
+      "code": "es"
+    },
+    {
+      "description": "Ostron 的人们将摩图斯肺鱼的角碾碎成粉末状后用于草药之中。\n\n获取途径：通过希图斯（地球）的渔人海露从摩图斯肺鱼中切割获取。在任何时候的夜灵平野池塘中捕捉摩图斯肺鱼。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "摩图斯角",
+      "code": "zh"
+    },
+    {
+      "description": "Рог мортуса-рогозуба измельчается в порошок и используется остронцами в травяных лекарствах.\n\nМестонахождение: Получается при разделке мортуса-рогозуба у Рыбачки Хай-Лук в Цетусе (Земля). Ловите мортуса-рогозуба в прудах на Равнинах Эйдолона в любое время суток. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Рог Рогозуба",
+      "code": "ru"
+    },
+    {
+      "description": "Ostronの民は薬草治療用にモータス・ラングフィッシュの角を粉にすり潰して使っている。\n\n場所：エイドロンの草原で獲れるモータス・ラングフィッシュから切り取れる（シータスの釣り師Hai-Luk）。モータス・ラングフィッシュは昼夜のエイドロンの草原の池で獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "モータスの角",
+      "code": "ja"
+    },
+    {
+      "description": "Róg z Martusa Dwudysznego jest mielony na proch i używany przez Ostronów jako składnik ich ziołowych leków.\n\nMoże zostać zdobyty przez filetowanie Mortusa Dwudysznego u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Mortus Dwudyszny może zostać złowiona w stawach Równin Eidolon o dowolnej porze dnia. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Mortus: Róg",
+      "code": "pl"
+    },
+    {
+      "description": "O chifre de um Mortung Lungfish é moído em pó e usado pelos Ostrons em ervas medicinais.\n\nLocalização: obtido através do corte do peixe Mortus Lungfish com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Mortus Lungfish pode ser pescado nas lagoas das Planícies de Eidolon a qualquer hora do dia. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Chifre de Mortus",
+      "code": "pt"
+    },
+    {
+      "description": "Ostron 的人們將摩圖斯肺魚的角碾碎成粉末狀後用於草藥之中。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開摩圖斯肺魚取得。\n摩圖斯肺魚可在任何時候於夜靈平野的池塘裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "摩圖斯角",
+      "code": "tc"
+    },
+    {
+      "description": "เขาของ Mortus Lungfish ที่ถูกบดเป็นผง ซึ่งชาว Ostron จะนำไปใช้เป็นยาสมุนไพร\n\nแหล่งที่พบ: ได้จากการแล่ Mortus Lungfish ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) โดยสามารถจับ Mortus Lungfish ในหนองน้ำตามที่ราบ Eidolon ได้ตลอดทั้งวัน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon ด้วย",
+      "name": "เขา Mortus",
+      "code": "th"
+    },
+    {
+      "description": "Mortus Lungfish'in boynuzu toz haline getirilir ve Ostronlar tarafından bitkisel ilaçlarda kullanılır.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Mortus Lungfish'ten kesilir. Mortus Lungfish'i günün herhangi bir saatinde Eidolon Ovalarının göletlerinde yakalayın. Ayrıca Eidolon Ovalarındaki Thumper'lardan düşer.",
+      "name": "Mortus Boynuzu",
+      "code": "tr"
+    },
+    {
+      "description": "Подрібнюється на порошок та використовується остронцями у фітотерапії.\n\nМожна отримати з мортуса рогозуба в рибалки Гай-Люк у Цетусі (Земля). Ловіть мортуса рогозуба у ставках Рівнин Ейдолонів як удень, так і вночі. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Ріг мортуса",
+      "code": "uk"
+    }
+  ]
+}

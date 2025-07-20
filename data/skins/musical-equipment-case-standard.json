@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxStadiumEquipmentCaseA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/musical-equipment-case-(standard)-45495daa3e.png",
+  "name": "Musical Equipment Case (Standard)",
+  "description": "A standard sized musical equipment case perfect for storing instruments and gear.",
+  "languages": [
+    {
+      "description": "Ein Behälter für Musikinstrumente in Standardgröße, ideal um Instrumente und Ausrüstung zu verstauen.",
+      "name": "Behälter für Instrumente (standard)",
+      "code": "de"
+    },
+    {
+      "description": "Une caisse pour équipements de musique de taille standard, parfaite pour ranger des instruments et du matériel.",
+      "name": "Caisse pour équipement musical (Standard)",
+      "code": "fr"
+    },
+    {
+      "description": "Una custodia per attrezzatura musicale di dimensioni standard, perfetta per riporre strumenti e attrezzi.",
+      "name": "Custodia per Attrezzatura Musicale (Standard)",
+      "code": "it"
+    },
+    {
+      "description": "악기와 장비를 보관하는 데 적합한 일반 크기의 악기 보관함입니다.",
+      "name": "음악 장비 케이스 (일반)",
+      "code": "ko"
+    },
+    {
+      "description": "Un estuche para equipos musicales de tamaño estándar, perfecto para guardar instrumentos y equipamientos.",
+      "name": "Estuche para equipo musical (estándar)",
+      "code": "es"
+    },
+    {
+      "description": "标准尺寸的音乐设备箱非常适合存放乐器和设备。",
+      "name": "音乐设备箱（标准）",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный кейс для музыкального оборудования, идеально подходящий для хранения инструментов и оборудования.",
+      "name": "Кейс для музыкального оборудования (стандартный)",
+      "code": "ru"
+    },
+    {
+      "description": "楽器やサウンドギアを収納するための通常サイズのケース。",
+      "name": "楽器ケース（通常）",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowej wielkości futerał na sprzęt muzyczny, idealny do przechowywania instrumentów i sprzętu.",
+      "name": "Futerał na sprzęt muzyczny (standardowy)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mala de equipamento musical de tamanho padrão, perfeita para armazenar instrumentos e equipamentos.",
+      "name": "Mala de Equipamento Musical (Padrão)",
+      "code": "pt"
+    },
+    {
+      "description": "標準尺寸音樂設備箱非常適合存放音樂器材和設備。",
+      "name": "音樂設備箱（標準）",
+      "code": "tc"
+    },
+    {
+      "description": "กล่องใส่อุปกรณ์ดนตรีขนาดมาตรฐานที่เหมาะสำหรับเก็บเครื่องดนตรีและอุปกรณ์ต่าง ๆ",
+      "name": "กล่องใส่เครื่องดนตรี (แบบมาตรฐาน)",
+      "code": "th"
+    },
+    {
+      "description": "Enstrümanlarını ve ekipmanlarını saklamak için mükemmel, standart ölçülerde bir müzik ekipmanı çantası.",
+      "name": "Müzik Ekipmanı Kutusu (Standart)",
+      "code": "tr"
+    },
+    {
+      "description": "Кейс звичайного розміру чудово підходить для зберігання інструментів і спорядження.",
+      "name": "Кейс для музичного обладнання (звичайний)",
+      "code": "uk"
+    }
+  ]
+}

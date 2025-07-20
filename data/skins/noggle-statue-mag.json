@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MagBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---mag-23209278f0.png",
+  "name": "Noggle Statue - Mag",
+  "description": "A small wobbly statue of Mag.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Mag.",
+      "name": "Noggle-Statue: Mag",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Mag.",
+      "name": "Statuette Noggle - Mag",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Mag con la testa tremolante.",
+      "name": "Statuetta Noggle - Mag",
+      "code": "it"
+    },
+    {
+      "description": "매그의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 매그",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Mag.",
+      "name": "Estatua Tambaleante - Mag",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Mag 摇头娃娃。",
+      "name": "Mag 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Мэг.",
+      "name": "Фигурка: Мэг",
+      "code": "ru"
+    },
+    {
+      "description": "Magのボブルヘッド人形。",
+      "name": "Mag ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Mag.",
+      "name": "Figurka Noggle — Mag",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Mag.",
+      "name": "Estatueta: Mag",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Mag 的搖頭娃娃。",
+      "name": "Mag 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Mag ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Mag",
+      "code": "th"
+    },
+    {
+      "description": "Mag küçük oynar figür.",
+      "name": "Noggle Heykeli - Mag",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Меґ.",
+      "name": "Ноґл «Меґ»",
+      "code": "uk"
+    }
+  ]
+}

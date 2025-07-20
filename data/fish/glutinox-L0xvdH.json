@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glutinox-e7a5334fbe.png",
+  "name": "Glutinox",
+  "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
+  "languages": [
+    {
+      "description": "Diese massigen Fische sind Kannibalen. Sie steigen mit Vomes Licht auf und absorbieren seltene Gase. Sobald sich Fass erhebt, kehren sie in ihre Verstecke zurück und fressen kleinere Artgenossen.",
+      "name": "Glutinox",
+      "code": "de"
+    },
+    {
+      "description": "Ces gros poissons sont cannibales. Ils se manifestent à la lumière de Vome pour absorber les gaz rares, et se retirent pour dévorer les plus petits spécimens de leurs nids lorsque Fass se montre.",
+      "name": "Glutinox",
+      "code": "fr"
+    },
+    {
+      "description": "Questi pesci robusti sono cannibali. Si manifestano con la luce del Vome per assorbire rari gas, ritirandosi quando Fass ascende per divorare gli esemplari più piccoli della stessa specie nelle loro tane.",
+      "name": "Glutinox",
+      "code": "it"
+    },
+    {
+      "description": "이 육중한 물고기들은 동족 포식을 일삼습니다. 이들은 봄의 광명이 비칠 때 깨어나 희귀 가스를 흡수하며, 파스가 일어나 이들 둥지의 새끼들을 게걸스럽게 먹어 치우러 올 때쯤 자취를 감춥니다.",
+      "name": "글러티녹스",
+      "code": "ko"
+    },
+    {
+      "description": "Estos enormes peces son caníbales. Se elevan con la luz de Vome para absorber gases raros, y se retiran cuando Fass asciende para devorar a sus congéneres más pequeños en sus madrigueras.",
+      "name": "Glutinox",
+      "code": "es"
+    },
+    {
+      "description": "这些沉重的鱼类有自相残杀的习性。它们在“秩序”的光照下出现，吸收稀有气体，当“混乱”升起时撤回，吞噬它们巢穴中相对幼小的同族。",
+      "name": "狍鸮胶蛳",
+      "code": "zh"
+    },
+    {
+      "description": "Эти массивные рыбы — каннибалы. Они поднимаются со светом Воум, чтобы поглотить инертные газы. Как только появляется Фэз, они возвращаются в свои укрытия и поедают более мелких сородичей.",
+      "name": "Глютинокс",
+      "code": "ru"
+    },
+    {
+      "description": "この屈強な魚は共食いする。Vomeの輝きがある間はレアガスを吸収するため上昇し、Fassの支配下では巣へ戻り同族の子供を捕食する。",
+      "name": "グラティノクス",
+      "code": "ja"
+    },
+    {
+      "description": "Te potężne ryby są kanibalami. Powstają dzięki światłu Vome, aby wchłonąć rzadkie gazy, wycofując się, gdy wznosi się Fass, pożerając swoich mniejszych krewnych w ich legowiskach.",
+      "name": "Glutinoks",
+      "code": "pl"
+    },
+    {
+      "description": "Esses peixes robustos são canibais. Surgem pela luz de Vome para absorver gases raros, recuando quando Fass emerge para devorar os seus parentes menores nos seus covis.",
+      "name": "Glutinox",
+      "code": "pt"
+    },
+    {
+      "description": "這些壯碩的魚是同類相食的魚種。牠們透過 Vome 的光芒浮上水面來吸收稀有氣體。當 Fass 升起時，牠們將退避魚窩來掠食牠們較小隻的同類。",
+      "name": "古鰧魶",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาที่ดูล่ำสันพวกนี้กินเนื้อพวกเดียวกันเอง จะตื่นขึ้นมาจากแสงของ Vome เพื่อดูดซับแก๊สหายาก และถอยร่นกลับไปเมื่อถึงเวลาที่ Fass ขึ้นมาเพื่อกัดกินพวกเดียวกันที่ตัวเล็กกว่าในที่มันหลบซ่อนตัวอยู่",
+      "name": "Glutinox",
+      "code": "th"
+    },
+    {
+      "description": "Bu devasa balıklar yamyamdır. Vome'un ışığı ile yükselirler ve nadir gazları emerler. Fass yükselir yükselmez saklanma yerlerine geri dönerler ve daha küçük balıkları yerler.",
+      "name": "Glutinox",
+      "code": "tr"
+    },
+    {
+      "description": "Велика риба-канібал. З’являється під світлом Вом, щоби поглинути рідкісні гази, й ховається, щоби пожирати своїх менших родичів у лігвах, коли сходить Фасс.",
+      "name": "Ґлютінокс",
+      "code": "uk"
+    }
+  ]
+}

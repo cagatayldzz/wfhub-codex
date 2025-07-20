@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageYareliAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-physalia-glyph---bright-2f505b086e.png",
+  "name": "Yareli Physalia Glyph - Bright",
+  "description": "A glyph depicting Yareli Physalia on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Yareli Physalia vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Yareli Physalia (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Yareli Physalia sur un fond lumineux.",
+      "name": "Glyphe Yareli Physalia - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Yareli Physalia su uno sfondo chiaro.",
+      "name": "Glifo Yareli Physalia - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 야렐리 피살리아를 묘사한 글리프입니다.",
+      "name": "야렐리 피살리아 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Yareli Physalia sobre un fondo brillante.",
+      "name": "Glifo de Yareli Physalia - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Yareli 蜇逸在明亮背景下的浮印。",
+      "name": "Yareli 蜇逸浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ярели «Физалия» на светлом фоне.",
+      "name": "Глиф: Ярели Физалия - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたYareli Physaliaのグリフ。",
+      "name": "Yareli Physalia グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Yareli Physalia na jasnym tle.",
+      "name": "Glif Yareli Physalia — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Yareli Physalia em um fundo claro.",
+      "name": "Glifo: Yareli Physalia (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Yareli 僧䖳在明亮背景下的浮印。",
+      "name": "Yareli 僧䖳浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Yareli Physalia บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Yareli Physalia - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Yareli Physalia açık fonlu glif.",
+      "name": "Yareli Physalia Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ярелі в шоломі «Фізалія» на світлому тлі.",
+      "name": "Яскравий гліф «Ярелі „Фізалія“»",
+      "code": "uk"
+    }
+  ]
+}

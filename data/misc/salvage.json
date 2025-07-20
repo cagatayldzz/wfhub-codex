@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/salvage-b2174bedac.png",
+  "name": "Salvage",
+  "description": "High value metals collected from war salvage.\n\nLocation: Mars, Jupiter, and Sedna",
+  "languages": [
+    {
+      "description": "Hochwertige Metalle, die aus Kriegswracks gewonnen wurden.\n\nQuelle: Mars, Jupiter und Sedna.",
+      "name": "Bergungsgut",
+      "code": "de"
+    },
+    {
+      "description": "Métaux de grande valeur provenant de la récupération de guerre.\n\nLieu: Mars, Jupiter et Sedna",
+      "name": "Récupération",
+      "code": "fr"
+    },
+    {
+      "description": "Metalli preziosi recuperati da scarti ed equipaggiamenti rotti.\n\nPosizione: Marte, Giove e Sedna",
+      "name": "Rottami",
+      "code": "it"
+    },
+    {
+      "description": "전쟁으로 난파된 함선의 인양작업 중에 발견된 고가의 금속입니다.\n\n획득 가능 장소: 화성, 목성 및 세드나",
+      "name": "샐비지",
+      "code": "ko"
+    },
+    {
+      "description": "Metales valiosos recogidos de restos de guerra.\n\nUbicación: Marte, Júpiter y Sedna",
+      "name": "Restos",
+      "code": "es"
+    },
+    {
+      "description": "从战后残骸中回收的高价值金属。\n\n获取地点：火星，木星和赛德娜",
+      "name": "回收金属",
+      "code": "zh"
+    },
+    {
+      "description": "Высоко ценящиеся металлы, собранные в местах военных действий.\n\nМестонахождение: Марс, Юпитер, Седна",
+      "name": "Вторсырьё",
+      "code": "ru"
+    },
+    {
+      "description": "戦利品から回収してきた貴金属。\n\n場所：火星、木星、セドナ。",
+      "name": "サルベージ",
+      "code": "ja"
+    },
+    {
+      "description": "Metale o dużej wartości pozyskane z wojennych odpadków.\n\nPołożenie: Mars, Jowisz i Sedna",
+      "name": "Złom",
+      "code": "pl"
+    },
+    {
+      "description": "Metais de alto valor, coletados das sucatas de guerras.\n\nLocalização: Marte, Júpiter e Sedna.",
+      "name": "Sucata",
+      "code": "pt"
+    },
+    {
+      "description": "從戰後殘骸中回收的高價值金屬。\n\n地點：火星、木星和賽德娜",
+      "name": "回收金屬",
+      "code": "tc"
+    },
+    {
+      "description": "โลหะมูลค่าสูงที่รวบรวมได้มาจากการเก็บกู้ซากสงคราม\n\nแหล่งที่พบ: ดาวอังคาร ดาวพฤหัสบดี และดาวเซดนา",
+      "name": "เศษโลหะ",
+      "code": "th"
+    },
+    {
+      "description": "Savaş hurdalarından toplanan yüksek değerli metaller.\n\nKonum: Mars, Jüpiter ve Sedna",
+      "name": "Değerli Metal",
+      "code": "tr"
+    },
+    {
+      "description": "Високоцінні метали, зібрані із післявоєнних залишків.\n\nМожна здобути на Марсі, Юпітері та Седні.",
+      "name": "Брухт",
+      "code": "uk"
+    }
+  ]
+}

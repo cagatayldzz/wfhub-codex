@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ocucor-92e124c6fb.png",
+  "name": "Ocucor",
+  "description": "A weapon that reaches for its next victim even as it kills. With each takedown, this pistol spawns an energy tendril that reaches for a nearby target.",
+  "languages": [
+    {
+      "description": "Eine Waffe, die bereits nach ihrem nächsten Opfer sucht, noch während sie das erste tötet. Mit jedem Opfer spawnt diese Pistole eine Energieranke, die nach einem Ziel in der Nähe greift.",
+      "name": "Ocucor",
+      "code": "de"
+    },
+    {
+      "description": "Une arme passant déjà à sa prochaine victime alors même qu'elle achève sa cible actuelle. À chaque élimination, ce Pistolet fait apparaître un filament d'énergie à la recherche d'une cible aux alentours.",
+      "name": "Ocucor",
+      "code": "fr"
+    },
+    {
+      "description": "Un'arma che punta alla sua prossima vittima anche mentre sta ancora uccidendo. Con ogni esecuzione, questa pistola genera un filamento di energia che si aggancia ad un obiettivo vicino.",
+      "name": "Ocucor",
+      "code": "it"
+    },
+    {
+      "description": "목표를 사살하는 와중에도 다음 희생자를 찾는 무기입니다. 이 권총은 적을 죽일 때마다 에너지 힘줄을 꽂을 근처의 대상을 찾습니다.",
+      "name": "오큐코어",
+      "code": "ko"
+    },
+    {
+      "description": "Un arma que se desplaza hacia su próxima víctima incluso mientras asesina. Con cada asesinato, esta pistola genera un zarcillo de energía que alcanza a un objetivo cercano.",
+      "name": "Ocucor",
+      "code": "es"
+    },
+    {
+      "description": "（英文：OCUCOR）在击杀同时便已准备好对下一名受害者伸出魔爪的一种武器。每次击杀，这把手枪会生成能量卷须伸向邻近目标。",
+      "name": "视使之触",
+      "code": "zh"
+    },
+    {
+      "description": "Оружие, настигающее следующую жертву даже во время убийства. С каждым поверженным врагом этот пистолет создаёт энергетический всполох, который устремляется к ближайшей цели.",
+      "name": "Окукор",
+      "code": "ru"
+    },
+    {
+      "description": "敵を殺したと同時に次の獲物へ狙いを定める武器。敵を倒すたびに、このピストルから近くの敵を狙ってエネルギーの触手が生えてくる。",
+      "name": "Ocucor",
+      "code": "ja"
+    },
+    {
+      "description": "Hybrydowa broń o niezaspokojonym apetycie. Zabójstwa tworzą dodatkowe wici, które automatycznie namierzają pobliskie cele.",
+      "name": "Ocucor",
+      "code": "pl"
+    },
+    {
+      "description": "Uma arma que avança em sua próxima vítima enquanto mata. Em cada morte, esta pistola gera um fragmento de energia que avança em um alvo próximo.",
+      "name": "Ocucor",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：OCUCOR）在擊殺同時便已準備好對下一名受害者伸出魔爪的一種武器。每次擊殺，這把手槍會生成能量卷鬚伸向鄰近目標。",
+      "name": "視使之觸",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธที่เอื้อมไปหาเหยื่อรายต่อไปแม้ขณะที่มันฆ่าอยู่ ในการโค่นล้มแต่ละครั้ง ปืนพกนี้จะสร้างเอ็นพลังงานที่เอื้อมไปถึงเป้าหมายที่อยู่ใกล้เคียง",
+      "name": "Ocucor",
+      "code": "th"
+    },
+    {
+      "description": "Öldürürken bile sonraki kurbanına uzanan bir silah. Her öldürmede bu silah yeni bir düşmana uzanan bir kol yaratır.",
+      "name": "Ocucor",
+      "code": "tr"
+    },
+    {
+      "description": "Пістолет, здатний застати свою вже наступну жертву ще під час вбивства попередньої. З кожним убитим утворює енергетичну хвилю, яка пускається до найближчої цілі.",
+      "name": "Окукор",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeSaturnEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path-saturn-bccc229128.png",
+  "name": "The Steel Path: Saturn",
+  "description": "Awarded for completing The Steel Path: Saturn.",
+  "languages": [
+    {
+      "description": "Verliehen für das Beenden des Stählernen Pfads auf dem Saturn.",
+      "name": "Der Stählerne Pfad: Saturn",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour avoir terminé la Route de l'Acier: Saturne.",
+      "name": "La Route de l'Acier: Saturne",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per il completamento de Il Percorso d'Acciaio: Saturno.",
+      "name": "Il Percorso d'Acciaio: Saturno",
+      "code": "it"
+    },
+    {
+      "description": "토성에서 강철의 길을 완료할 시 수여되는 보상입니다.",
+      "name": "강철의 길: 토성",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por completar «El Camino de Acero: Saturno».",
+      "name": "El Camino de Acero: Saturno",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些完成「钢铁之路：土星」的玩家。",
+      "name": "钢铁之路：土星",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за прохождение Стального Пути «Сатурн».",
+      "name": "Стальной путь: Сатурн",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：土星」を完了すると授与される。",
+      "name": "鋼の道のり：土星",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za ukończenie Ścieżki Stali: Saturna.",
+      "name": "Ścieżka Stali: Saturn",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido ao concluir o Percurso de Aço: Saturno.",
+      "name": "Percurso de Aço: Saturno",
+      "code": "pt"
+    },
+    {
+      "description": "完成鋼韌之道：土星而頒發的表情動作。",
+      "name": "鋼韌之道：土星",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการจบภารกิจเส้นทางเหล็กกล้า: ดาวเสาร์",
+      "name": "เส้นทางเหล็กกล้า: ดาวเสาร์",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path: Satürn tamamlama ödülü.",
+      "name": "Steel Path: Satürn",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за виконання всіх завдань на Сатурні в режимі «Шлях сталі».",
+      "name": "Шлях сталі: Сатурн",
+      "code": "uk"
+    }
+  ]
+}

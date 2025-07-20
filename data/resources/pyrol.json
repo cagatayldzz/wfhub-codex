@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/pyrol-f3c4584bec.png",
+  "name": "Pyrol",
+  "description": "A tarnished, brittle metal.\n\nLocation: Plains of Eidolon (Earth) from Red Mining Veins and Thumpers",
+  "languages": [
+    {
+      "description": "Ein angelaufenes, sprödes Metall.\n\nQuelle: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
+      "name": "Pyrol",
+      "code": "de"
+    },
+    {
+      "description": "Un métal terne et cassant.\n\nLieu: Plaines d'Eidolon (Terre), via le minage de Veines rouges et sur les Marteleurs",
+      "name": "Pyrol",
+      "code": "fr"
+    },
+    {
+      "description": "Un metallo ossidato e fragile.\n\nPosizione: Venature Minerarie Rosse sulle rocce delle Piane di Eidolon (Terra) e dai Thumper",
+      "name": "Pyrol",
+      "code": "it"
+    },
+    {
+      "description": "부서지기 쉬운, 뿌연 색의 금속입니다.\n\n획득 가능 장소: 아이돌론의 평원 (지구) 내 빨간 광맥 및 썸퍼에게서 찾을 수 있습니다",
+      "name": "파이롤",
+      "code": "ko"
+    },
+    {
+      "description": "Un metal frágil y sin lustrar.\n\nUbicación: Llanuras de Eidolon (Tierra), en las vetas mineras rojas y con los Pistones",
+      "name": "Pirol",
+      "code": "es"
+    },
+    {
+      "description": "一种灰暗、带脆的金属。\n\n获取地点：夜灵平野（地球）上的红色矿脉、重击者",
+      "name": "炎晶",
+      "code": "zh"
+    },
+    {
+      "description": "Тусклый, хрупкий металл.\n\nМестонахождение: Равнины Эйдолона на Земле, в месторождениях красной руды и колотунах",
+      "name": "Пирол",
+      "code": "ru"
+    },
+    {
+      "description": "くすんだ色の脆い金属。\n\n場所：エイドロンの草原（地球）の赤い鉱脈、サンパー",
+      "name": "パイロール",
+      "code": "ja"
+    },
+    {
+      "description": "Kruchy, matowy metal.\n\nPołożenie: Złoża czerwonej rudy i Kolosy w Równinach Eidolon na Ziemi",
+      "name": "Pyrol",
+      "code": "pl"
+    },
+    {
+      "description": "Um metal frágil e quebradiço.\n\nLocalização: em Veias de Mineração Vermelhas ou ao derrotar Pistões, nas Planícies de Eidolon, na Terra.",
+      "name": "Pirol",
+      "code": "pt"
+    },
+    {
+      "description": "一種灰暗、脆性的金屬。\n\n來源：夜靈平野（地球）上的紅色礦脈以及重擊者。",
+      "name": "炎晶",
+      "code": "tc"
+    },
+    {
+      "description": "โลหะที่หมองคล้ำและเปราะบาง\n\nแหล่งที่พบ: พบได้จากสายแร่สีแดงและจาก Thumper ที่อยู่ในที่ราบ Eidolon (โลก)",
+      "name": "ไพโรล",
+      "code": "th"
+    },
+    {
+      "description": "Lekelenmiş hassas bir metal.\n\nKonum: Dünya'da yer alan Eidolon Ovalarındaki Kızıl Maden Damarlarında ve Thumper'larda bulunabilir",
+      "name": "Pyrol",
+      "code": "tr"
+    },
+    {
+      "description": "Тьмяний і крихкий метал.\n\nМожна здобути з червоних жил та землетрусів на Рівнинах Ейдолонів (Земля).",
+      "name": "Пірол",
+      "code": "uk"
+    }
+  ]
+}

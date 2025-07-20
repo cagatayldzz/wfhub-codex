@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atomic-sigil-b1b7f3c39d.png",
+  "name": "Atomic Sigil",
+  "description": "A sigil representing prestige gained with the Cephalon Suda.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige beim Cephalon Suda repräsentiert.",
+      "name": "Siegel: Atomar",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec le Céphalon Suda.",
+      "name": "Sceau Atomique",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Cephalon Suda.",
+      "name": "Sigillo Atomic",
+      "code": "it"
+    },
+    {
+      "description": "세팔론 수다에게서 얻은 칭호를 대변하는 시질입니다.",
+      "name": "아토믹 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con Céfalon Suda.",
+      "name": "Sello Atómico",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了中枢苏达的威望。",
+      "name": "原子纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение к носителю цефалоном Суда.",
+      "name": "Сигил: Атомность",
+      "code": "ru"
+    },
+    {
+      "description": "セファロン・スーダから得た声望を表すシジル。",
+      "name": "Atomic シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty u Cefalon Sudy.",
+      "name": "Znak Atomu",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho com o sindicato Cephalon Suda.",
+      "name": "Brasão: Atômico",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了中樞蘇達的威望。",
+      "name": "原子紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Cephalon Suda",
+      "name": "เครื่องหมาย: Atomic",
+      "code": "th"
+    },
+    {
+      "description": "Cephalon Suda prestijini sembolize eden bir mühür",
+      "name": "Atomic Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Цефалонка Суда».",
+      "name": "Сиґіл «Атомність»",
+      "code": "uk"
+    }
+  ]
+}

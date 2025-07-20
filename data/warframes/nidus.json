@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Infestation/Infestation",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nidus-02067c4ce9.png",
+  "name": "Nidus",
+  "description": "Nidus draws strength from the Infestation. It bolsters him with survivability as he deals high damage and provides crowd control. Plague your enemies.",
+  "armor": 350,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Nidus schöpft Kraft aus dem Befall. Es stärkt seine Überlebensfähigkeit, während er hohen Schaden verursacht und Gruppen kontrolliert. Plage deine Feinde.",
+      "name": "Nidus",
+      "code": "de"
+    },
+    {
+      "description": "Nidus tire sa force de l'Infestation. Cela renforce sa capacité de survie car il inflige des Dégâts importants et il contrôle facilement les foules. Gangrenez vos ennemis.",
+      "name": "Nidus",
+      "code": "fr"
+    },
+    {
+      "description": "Nidus trae forza dall'Infestazione. Lo rafforza con la capacità di sopravvivenza mentre infligge danni elevati e fornisce controllo di massa. Infetta i tuoi nemici.",
+      "name": "Nidus",
+      "code": "it"
+    },
+    {
+      "description": "나이더스는 감염체로부터 자신의 힘을 끌어내며, 감염체는 나이더스가 강한 피해를 가하고 군중 제어 효과를 제공함으로써 생존성을 강화하게 해 줍니다. 역병처럼 적들을 시달리게 해 보세요.",
+      "name": "나이더스",
+      "code": "ko"
+    },
+    {
+      "description": "Nidus saca fuerzas de la Infestación. Lo refuerza con capacidad de supervivencia ya que inflige mucho daño y proporciona control de masas. Contagia a tus enemigos.",
+      "name": "Nidus",
+      "code": "es"
+    },
+    {
+      "description": "Nidus 从感染者中获得力量，以此造成高伤害和提供群体控制，增强了其生存能力。给你的敌人带来瘟疫吧。",
+      "name": "Nidus",
+      "code": "zh"
+    },
+    {
+      "description": "Нидус черпает силы из заражения. Это повышает его живучесть, поскольку он наносит большой урон и обеспечивает контроль над толпой. Заразите ваших врагов.",
+      "name": "Нидус",
+      "code": "ru"
+    },
+    {
+      "description": "Nidusは感染能力を持つ危険体。疫病のように敵を感染させ、弱った敵を制圧し高いダメージを与える。",
+      "name": "Nidus",
+      "code": "ja"
+    },
+    {
+      "description": "Nidus czerpie siłę z Plagi. Zwiększa ona jego przeżywalność, zadając duże obrażenia i zapewniając kontrolę nad tłumem. Zarażaj więc swoich wrogów.",
+      "name": "Nidus",
+      "code": "pl"
+    },
+    {
+      "description": "O Nidus extrai sua força da Infestação. Ela aumenta sua capacidade de sobrevivência, e ele causa alto dano e fornece controle de grupo. Submeta seus inimigos à praga.",
+      "name": "Nidus",
+      "code": "pt"
+    },
+    {
+      "description": "Nidus 透過感染者提取力量。這在他造成高傷害及提供群控的同時為他增強生存能力。讓你的敵人感染瘟疫。",
+      "name": "Nidus",
+      "code": "tc"
+    },
+    {
+      "description": "การติดเชื้อทำให้ Nidus แข็งแกร่งขึ้น เสริมด้านการเอาชีวิตรอดได้ดี ขณะเดียวกันก็สร้างความเสียหายได้สูงและสามารถใช้ CC คอยควบคุมศัตรู มาทำให้ศัตรูติดเชื้อโรคระบาดกันเถอะ",
+      "name": "Nidus",
+      "code": "th"
+    },
+    {
+      "description": "Nidus, Infested'den güç alır. Yüksek hasar ve kitle kontrolü sağladığı için hayatta kalma kabiliyetini artırır. Düşmanlarına veba bulaştırır.",
+      "name": "Nidus",
+      "code": "tr"
+    },
+    {
+      "description": "Володар зараження, що наділяє його силою. Зараження збільшує живучість Нідуса й допомагає завдавати великої шкоди та керувати натовпом. Уразьте ворогів заразою.",
+      "name": "Нідус",
+      "code": "uk"
+    }
+  ]
+}

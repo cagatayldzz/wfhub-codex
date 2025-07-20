@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sweeper-fccd860cbb.png",
+  "name": "Sweeper",
+  "description": "Standard issue weapon for Carrier Sentinel. Fires shotgun rounds.",
+  "languages": [
+    {
+      "description": "Standardwaffe für den Carrier. Feuert Schrotgeschosse.",
+      "name": "Sweeper",
+      "code": "de"
+    },
+    {
+      "description": "Arme standard pour la Sentinelle Carrier. Tire des munitions de Fusil à Pompe",
+      "name": "Sweeper",
+      "code": "fr"
+    },
+    {
+      "description": "L'arma di ordinanza per la sentinella Carrier, spara cartucce per fucile a pompa.",
+      "name": "Sweeper",
+      "code": "it"
+    },
+    {
+      "description": "캐리어 센티넬의 기본 무기 입니다. 산탄총 탄환을 발사합니다.",
+      "name": "스위퍼",
+      "code": "ko"
+    },
+    {
+      "description": "Arma estándar del centinela Carrier. Dispara cartuchos de escopeta.",
+      "name": "Barredora",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SWEEPER）搬运者守护的标准武器，使用霰弹枪子弹。",
+      "name": "扫除者",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартное оружие для стража «Носитель». Стреляет дробью.",
+      "name": "Чистильщик",
+      "code": "ru"
+    },
+    {
+      "description": "CARRIERセンチネルの標準装備。散弾を発射する。",
+      "name": "Sweeper",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe uzbrojenie Strażnika Carrier. Używa amunicji do strzelb.",
+      "name": "Sweeper",
+      "code": "pl"
+    },
+    {
+      "description": "Arma padrão da Sentinela Carrier. Atira munição de Escopeta.",
+      "name": "Varredora",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SWEEPER）搬運者守護的標準武器，使用霰彈槍子彈。",
+      "name": "掃除者",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมาตรฐานสำหรับเซนติเนล Carrier ยิงด้วยกระสุนปืนลูกซอง",
+      "name": "Sweeper",
+      "code": "th"
+    },
+    {
+      "description": "Carrier Sentineli için varsayılan silah. Pompalı tüfek mermisi kullanır.",
+      "name": "Sweeper",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартна зброя вартового Носія. Стріляє набоями рушниці.",
+      "name": "Зачищувач",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaroTwoIcon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/prisma-lotus-glyph-ea1b5ad95a.png",
+  "name": "Prisma Lotus Glyph",
+  "description": "From Baro Ki'Teer comes this stylish reimagining of the Lotus' signature symbol.",
+  "languages": [
+    {
+      "description": "Dieses stilvolle Symbol stammt von Baro Ki'Teer und erfindet die Signatur der Lotus neu.",
+      "name": "Glyphe: Prisma Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Une conception stylée du symbole du Lotus offerte par Baro Ki'Teer.",
+      "name": "Glyphe Lotus Prisma",
+      "code": "fr"
+    },
+    {
+      "description": "Da Baro Ki'Teer arriva una stilosa rivisitazione del simbolo distintivo di Lotus.",
+      "name": "Glifo Prisma Lotus",
+      "code": "it"
+    },
+    {
+      "description": "바로 키'티어의 손으로 새롭게 재해석된 로터스의 특징적인 상징입니다.",
+      "name": "프리즈마 로터스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Baro Ki'Teer trae una recreación estilizada del símbolo distintivo de Lotus.",
+      "name": "Glifo de Lotus Prisma",
+      "code": "es"
+    },
+    {
+      "description": "来自 Baro Ki'Teer 重新构想的这个时尚 Lotus 标志性象征。",
+      "name": "棱晶 Lotus 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Стильное переосмысление символа Лотос от Баро Ки'Тиира.",
+      "name": "Глиф: Лотос Призма",
+      "code": "ru"
+    },
+    {
+      "description": "Baro Ki'TeerによるLotusマークのリメイクデザイン。",
+      "name": "Prisma Lotus グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Baro Ki'Teer dostarcza tę stylową rekreację charakterystycznego dla Lotus symbolu.",
+      "name": "Glif Prisma Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Baro Ki'Teer apresenta esta elegante recriação do símbolo tradicional da Lótus.",
+      "name": "Glifo: Lótus Prisma",
+      "code": "pt"
+    },
+    {
+      "description": "來自 Baro Ki'Teer 重新構想的時尚 Lotus 標誌性象徵。",
+      "name": "棱晶 Lotus 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "การนำสัญลักษณ์ที่เป็นเอกลักษณ์ของ Lotus มาสร้างใหม่อย่างมีสไตล์นี้ได้มาจาก Baro Ki'Teer",
+      "name": "ภาพสัญลักษณ์ Prisma Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'un yeniden dizayn edilen bu özel sembolü Baro Ki'Teer'dan geliyor.",
+      "name": "Prisma Lotus Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Це стильне переосмислення символу Лотос від КіʼТіра.",
+      "name": "Гліф «Призмова Лотос»",
+      "code": "uk"
+    }
+  ]
+}

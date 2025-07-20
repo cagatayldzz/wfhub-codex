@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxCeilingLightA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-flushmount-light-0c5f7ecab5.png",
+  "name": "Zariman Flushmount Light",
+  "description": "A small flush mounted light.",
+  "languages": [
+    {
+      "description": "Eine kleine Einbauleuchte.",
+      "name": "Zariman Einbauleuchte",
+      "code": "de"
+    },
+    {
+      "description": "Une petite lumière encastrée.",
+      "name": "Zariman: Luminaire encastré",
+      "code": "fr"
+    },
+    {
+      "description": "Una piccola lampada ad incasso.",
+      "name": "Lampada ad Incasso Zariman",
+      "code": "it"
+    },
+    {
+      "description": "작은 매입 설치형 조명입니다.",
+      "name": "자리만 매입 설치형 조명",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña luz empotrada.",
+      "name": "Foco empotrable Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一个小号嵌入式安装灯。",
+      "name": "扎里曼嵌入灯",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшие встраиваемый светильник.",
+      "name": "Встраиваемый светильник: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "埋め込み型の小さなライト。",
+      "name": "Zariman フラッシュマウントライト",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, okrągła lampa.",
+      "name": "Zariman: Lampa (okrągła)",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pequena luminária embutida.",
+      "name": "Luminária Embutida da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "小型天花燈。",
+      "name": "扎日曼天花燈",
+      "code": "tc"
+    },
+    {
+      "description": "โคมไฟติดเพดานขนาดเล็ก",
+      "name": "Zariman: โคมไฟฝังติดเพดาน",
+      "code": "th"
+    },
+    {
+      "description": "Küçük bir gömülü ışık.",
+      "name": "Zariman Gömülü Işık",
+      "code": "tr"
+    },
+    {
+      "description": "Маленький врізний світильник.",
+      "name": "Врізний світильник із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

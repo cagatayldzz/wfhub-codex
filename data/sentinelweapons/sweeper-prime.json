@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sweeper-prime-0456686709.png",
+  "name": "Sweeper Prime",
+  "description": "Standard issue weapon for Carrier Prime Sentinel. Fires shotgun rounds.",
+  "languages": [
+    {
+      "description": "Standardwaffe für den Carrier Prime Wächter. Feuert Schrotflintenmunition.",
+      "name": "Sweeper Prime",
+      "code": "de"
+    },
+    {
+      "description": "L'armement standard pour la Sentinelle Carrier Prime. Tire des munitions de Fusil à Pompe.",
+      "name": "Sweeper Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Arma d'ordinanza in dotazione alla sentinella Carrier Prime. Spara proiettili di fucile.",
+      "name": "Sweeper Prime",
+      "code": "it"
+    },
+    {
+      "description": "캐리어 프라임 센티넬의 기본 무기입니다. 산탄총 탄환을 발사합니다.",
+      "name": "스위퍼 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Arma estándar del centinela Carrier Prime. Dispara cartuchos de escopeta.",
+      "name": "Barredora Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SWEEPER PRIME）搬运者 PRIME的标准武器，使用霰弹枪子弹。",
+      "name": "扫除者 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартное оружие для стража «Носитель Прайм». Стреляет дробью.",
+      "name": "Чистильщик Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "CARRIER PRIMEセンチネルの標準装備。散弾を発射する。",
+      "name": "Sweeper Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe uzbrojenie Strażnika Carrier Prime. Używa amunicji do strzelb.",
+      "name": "Sweeper Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Arma padrão para a Sentinela Carrier Prime. Atira Munição de Escopeta.",
+      "name": "Varredora Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SWEEPER PRIME）搬運者 PRIME的標準武器，使用霰彈槍子彈。",
+      "name": "掃除者 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมาตรฐานสำหรับเซนติเนล Carrier Prime ยิงด้วยกระสุนปืนลูกซอง",
+      "name": "Sweeper Prime",
+      "code": "th"
+    },
+    {
+      "description": "Carrier Prime Sentineli için standart silah. Pompalı tüfek mermileri atar.",
+      "name": "Sweeper Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартна зброя охоронця Носія-прайм. Стріляє набоями рушниці.",
+      "name": "Зачищувач-прайм",
+      "code": "uk"
+    }
+  ]
+}

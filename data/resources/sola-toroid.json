@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sola-toroid-54f209afd3.png",
+  "name": "Sola Toroid",
+  "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.\n\nEarn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis (Venus).",
+  "languages": [
+    {
+      "description": "Ein Gerät von unbestimmter Funktion und Herkunft. Wird von den Vox Solaris und den Quill geschätzt.\n\nErhalte Sola-Toroide von Gegnern im Tempel des Profits im Orbis-Tal und von Kyta-Arachnoiden. Sie können auch als Beute in den Höhlen des Orbis-Tals (Venus) gefunden werden.",
+      "name": "Sola-Toroid",
+      "code": "de"
+    },
+    {
+      "description": "Un appareil dont la fonction et l'origine sont indéterminées. Décerné par Vox Solaris et les Plumes. \n\nGagnez des Tores Solas via les ennemis situés dans le Temple du Profit de la Vallée Orbis et les Raknoïdes Kytas. Ils peuvent également être trouvés dans les grottes situées autour de la Vallée Orbis (Vénus).",
+      "name": "Tore Sola",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo con funzione e origine indeterminate. Apprezzato da Vox Solaris e Quill.\n\nPuoi guadagnare Toroidi Sola dai nemici situati al Tempio del Profitto su Orb Vallis e dai Kyta Raknoid. Possono anche essere trovati come risorsa da raccogliere nelle grotte situate su Orb Vallis (Venere).",
+      "name": "Toroide Sola",
+      "code": "it"
+    },
+    {
+      "description": "복스 솔라리스 및 퀼들이 선망하는 기능 및 기원이 불분명한 장치입니다. \n\n솔라 토로이드는 오브 협곡의 수익의 사원에 위치한 적들 및 키타 라크노이드들로부터 획득할 수 있습니다. 금성의 오브 협곡 내 여러 동굴에서 습득 아이템으로도 획득할 수 있습니다.",
+      "name": "솔라 토로이드",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo de función y origen indeterminado. Valorado por Vox Solaris y los Raquis.\n\nGana toroides Sola de enemigos ubicados en el Templo del Beneficio en los Valles del Orbe y de raknoides Kytas. También se pueden encontrar en cuevas ubicadas alrededor de los Valles del Orbe (Venus).",
+      "name": "Toroide Sola",
+      "code": "es"
+    },
+    {
+      "description": "一种功能和来源未定的装置。受到索拉里斯之声和夜羽的高度珍视。\n\n从奥布山谷润盈殿内的敌人那里和凯塔蛛形机那里获取索拉环型装置。也可以在金星奥布山谷周围的洞穴中找到。",
+      "name": "索拉环型装置",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство неустановленного происхождения и назначения. Ценится Гласом Солярис и перьями.\n\nСобирайте Тороиды Сола, убивая врагов, находящихся в Храме Прибыли в Долине Сфер и Кита Ракноидов. Их также можно найти в пещерах, расположенных в Долине Сфер(Венера).",
+      "name": "Тороид: Сола",
+      "code": "ru"
+    },
+    {
+      "description": "機能と起源が不明な装置。Vox Solarisとクイル達に珍重されている。\n\nソラ トロイドはオーブ峡谷（金星）で入手可能で、利益の寺院の敵とカイタ ラクノイドがドロップし、また峡谷内の洞窟からドロップアイテムとして手に入る。",
+      "name": "ソラ トロイド",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie o nieokreślonej funkcji i pochodzeniu. Cenione przez Vox Solaris i Quillów.\n\nToroidy Sola mogą zostać zdobyte z przeciwników w Świątyni Zysku w Orb Vallis i Raknoidów Kyta oraz zostać znalezione w jaskiniach w Orb Vallis na Wenus.",
+      "name": "Toroid Sola",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo de origem e funções indeterminadas. Valorizado pelo Vox Solaris e pelos Plumas.\n\nObtenha Toróides Sola junto a qualquer inimigo localizado no Templo do Lucro do Vallis das Orbes, e junto às Raknóides Kita. Também podem ser encontradas como itens coletáveis nas cavernas espalhadas pelo Vallis das Orbes, em Vênus.",
+      "name": "Toróide Sola",
+      "code": "pt"
+    },
+    {
+      "description": "一種功能及起源未知的裝置。索拉里斯之聲以及夜羽對其極度重視。\n\n索拉環型裝置可從位於奧布山谷「潤盈寺」的敵人，以及凱塔蛛形機上獲得。也可以在金星的奧布山谷周遭的洞穴中以拾取物的形式找到。",
+      "name": "索拉環型裝置",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ที่ไม่ทราบฟังก์ชันและที่มา เป็นของรางวัลจาก Vox Solaris และ Quills\n\nรับโซลาโทรอยด์ได้จากศัตรูที่อยู่ที่ Temple of Profit ในออร์บวัลลิสและจาก Kyta Raknoid นอกจากนี้ยังเก็บไอเทมนี้ได้ตามถ้ำที่อยู่รอบ ๆ ออร์บวัลลิส (ดาวศุกร์)",
+      "name": "โซลาโทรอยด์",
+      "code": "th"
+    },
+    {
+      "description": "İşlevi ve kaynağı belirlenemeyen bir cihaz. Vox Solaris ve Quills tarafından ödüllendirilmiştir.\n\nOrb Vallis'te yer alan Kazanç Tapınağı ve Kyte Raknoid'lerde bulunan düşmanlardan Sola Toroid elde et. Orb Vallis (Venüs) çevresindeki mağaralarda da bulunabilirler.",
+      "name": "Sola Toroid",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій невизначеного призначення й походження. Цінується Гласом солярійців і Писарями.\n\nТороїди «Сола» можуть випасти з ракноїдів-кайта або ж із ворогів у Храмі Прибутку Долини Куль (Венера), а також у тамтешніх печерах.",
+      "name": "Тороїд «Сола»",
+      "code": "uk"
+    }
+  ]
+}

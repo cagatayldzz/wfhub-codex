@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GlaiveUpperBack",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/glaives-upper-back-holster-e3740ae076.png",
+  "name": "Glaives Upper Back Holster",
+  "description": "Glaives are holstered on the upper back.",
+  "languages": [
+    {
+      "description": "Glaives werden am oberen Rücken geholstert.",
+      "name": "Glaives-Holster: Rücken, Oben",
+      "code": "de"
+    },
+    {
+      "description": "Les Glaives sont portés dans le haut du dos.",
+      "name": "Port de Glaive dans le haut du dos",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera i Glaive nella parte alta della schiena.",
+      "name": "Rinfodero Glaive Schiena Alta",
+      "code": "it"
+    },
+    {
+      "description": "글레이브 계열 무기를 등 상부에 수납하는 수납 방식입니다.",
+      "name": "글레이브 등 상부 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las glaives se enfundan en la parte superior de la espalda.",
+      "name": "Funda de glaives de espalda alta",
+      "code": "es"
+    },
+    {
+      "description": "将战刃武器收纳于后背上方。",
+      "name": "战刃上背收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Глефа крепится в верхней части спины.",
+      "name": "Лопаточный Крепеж Глефы",
+      "code": "ru"
+    },
+    {
+      "description": "アッパーバックにブーメランを収納。",
+      "name": "ブーメラン アッパーバックホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Gleive'y są mocowane na plecach.",
+      "name": "Pozycjonowanie Gleive'a Na Plecach",
+      "code": "pl"
+    },
+    {
+      "description": "As Glaives são guardadas na parte superior das costas.",
+      "name": "Glaives: Coldre Nas Costas (Superior)",
+      "code": "pt"
+    },
+    {
+      "description": "戰刃可收納於上背。",
+      "name": "戰刃上背收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธเกลฟที่ใส่ซองด้านหลังส่วนบน",
+      "name": "ซองอาวุธเกลฟด้านหลังส่วนบน",
+      "code": "th"
+    },
+    {
+      "description": "Glaive'ler belin üstünde kılıflıdır.",
+      "name": "Glaive Üst Bel Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Глефи кріпляться на спині, коли в руках інша зброя.",
+      "name": "Глефа на спині",
+      "code": "uk"
+    }
+  ]
+}

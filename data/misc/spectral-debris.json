@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spectral-debris-6bbe37b0f0.png",
+  "name": "Spectral Debris",
+  "description": "Discharged specter particles form an inert dust that can be collected and re-energized for various robotic projects.\n\nLocation: Errant Specters in the Granum Void (Corpus Ship Tileset)",
+  "languages": [
+    {
+      "description": "Entladene spektrale Partikel bilden einen trägen Staub, der gesammelt und neu geladen werden kann, für diverse Robotik-Projekte.\n\nQuelle: Von Verirrten Phantomen aus dem Granum-Void mit dem Levelset: Corpus Schiff erhalten.",
+      "name": "Spektrale Trümmer",
+      "code": "de"
+    },
+    {
+      "description": "Les particules spectrales déchargées forment une poussière inerte qui peut être récupérée et réactivée pour divers projets robotiques.\n\nLieu: Spectres Dévoyés dans le Néant de Granum (Ensemble d'environnements Vaisseau Corpus)",
+      "name": "Débris Spectraux",
+      "code": "fr"
+    },
+    {
+      "description": "Le particelle spettro scariche formano una polvere inerte che può essere raccolta e riattivata per vari progetti robotici.\n\nPosizione: Spettri Errant sul Granum Void (Tileset Nave Corpus)",
+      "name": "Residui Spettrali",
+      "code": "it"
+    },
+    {
+      "description": "방출된 스펙터 입자는 불활성 상태의 먼지를 형성하며, 수집 후 에너지 재충전을 통해 여러 로봇 프로젝트에 쓰일 수 있습니다.\n\n획득 가능 장소: 그라넘 보이드 (코퍼스 함선 타일셋) 의 에런트 스펙터",
+      "name": "스펙트럴 잔해",
+      "code": "ko"
+    },
+    {
+      "description": "Las partículas espectrales descargadas forman un polvo inerte que se puede recolectar y reactivar para usar en varios proyectos robóticos.\n\nUbicación: Espectros errantes en el Vacío Granum (niveles de la nave corpus)",
+      "name": "Escombros Espectrales",
+      "code": "es"
+    },
+    {
+      "description": "释放的魅影粒子形成一种惰性粉尘，可以收集起来为各种机器人项目重新充能。\n\n获取地点：格拉努虚空（Corpus 飞船场景）中的游荡魅影",
+      "name": "魅影残粒",
+      "code": "zh"
+    },
+    {
+      "description": "Высвободившиеся частицы спектра образуют инертную пыль, которую можно собирать и повторно использовать в различных робототехнических проектах.\n\nМестонахождение: Заблудшие спектры в Бездне Грэнума (миссии с кораблями Корпуса)",
+      "name": "Спектральные Осколки",
+      "code": "ru"
+    },
+    {
+      "description": "エネルギーを放出したスペクター粒子は不活性な塵を形成する。これを収集して再活性化すると様々なロボットに使用可能。\n\n場所：Granum Void（コーパスシップタイルセット）のエラントスペクター",
+      "name": "スペクターの残滓",
+      "code": "ja"
+    },
+    {
+      "description": "Obojętny pył powstały z cząstek wyładowanych przez Widmo, może zostać zebrany i użyty w projektach robotyki po ponownym naładowaniu.\n\nPołożenie: Błędne Widma w Pustce Granuma (Pomieszczenia Statku Corpus)",
+      "name": "Szczątki Widma",
+      "code": "pl"
+    },
+    {
+      "description": "Partículas espectrais descarregadas que constituem um resíduo inerte, que pode ser armazenado e energizado para utilização em diversos projetos robóticos.\n\nLocalização: Espectros Errantes no Void de Granum, em Cenários de Naves Corpus.",
+      "name": "Resíduos Espectrais",
+      "code": "pt"
+    },
+    {
+      "description": "釋放的魅影幻粒形成一種鈍塵，可以收集來進行再充能後供給各種機器人計劃使用。\n\n地點：Corpus 船艦地圖的 Granum 虛空任務裡的遊蕩魅影",
+      "name": "魅影殘粒",
+      "code": "tc"
+    },
+    {
+      "description": "อนุภาคของสเปกเตอร์ที่ปล่อยออกมาก่อตัวเป็นฝุ่นเฉื่อยหรือฝุ่นที่ไม่มีพิษ ซึ่งสามารถรวบรวมและเติมพลังงานได้อีกครั้งเพื่อใช้ในโครงการประกอบหุ่นยนต์ต่าง ๆ\n\nแหล่งที่พบ: สเปกเตอร์ Errant ใน Granum Void (ไทล์เซตยาน Corpus)",
+      "name": "เศษสเปกตรัม",
+      "code": "th"
+    },
+    {
+      "description": "Enerjisi boşaltılmış atıl specter partikülleri toplanabilir ve çeşitli robotik projeler için tekrar enerji ile yüklenebilir.\n\nKonum: Granum Void'deki Errant Specter'lar (Corpus Gemisi Haritası)",
+      "name": "Spektral Kalıntı",
+      "code": "tr"
+    },
+    {
+      "description": "Розряджені часточки тіні формують бездіяльний пил, який можна зібрати й зарядити наново для використання в різних роботизованих проєктах.\n\nМожна здобути з тіней стариганя в Порожнечі Ґранума (мапи «Зореліт Корпусу»).",
+      "name": "Примарні уламки",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deth-machine-rifle-2353c453b6.png",
+  "name": "Deth Machine Rifle",
+  "description": "Standard issue weaponry signature to Dethcube.",
+  "languages": [
+    {
+      "description": "Einzigartige Standardwaffe des Dethcube.",
+      "name": "Deth-Maschinengewehr",
+      "code": "de"
+    },
+    {
+      "description": "L'arme de prédilection du Dethcube.",
+      "name": "Fusil Machine de Mort",
+      "code": "fr"
+    },
+    {
+      "description": "Questa mitragliatrice standard è l'armamento distintivo del Dethcube.",
+      "name": "Fucile Automatico Deth",
+      "code": "it"
+    },
+    {
+      "description": "데스큐브의 대표 기본 무기입니다.",
+      "name": "데스 머신 라이플",
+      "code": "ko"
+    },
+    {
+      "description": "Armamento estándar propio de Dethcube.",
+      "name": "Rifle Deth Machine",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DETH MACHINE RIFLE）死亡魔方标准武器",
+      "name": "死亡机枪",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартное вооружение Куба Смерти.",
+      "name": "Пулемёт смерти",
+      "code": "ru"
+    },
+    {
+      "description": "DETHCUBEの代名詞とも言える兵器。",
+      "name": "Deth Machine Rifle",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowe uzbrojenie Dethcube.",
+      "name": "Karabin Maszynowy Deth",
+      "code": "pl"
+    },
+    {
+      "description": "Arma padrão exclusiva do Dethcube.",
+      "name": "Rifle Deth",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DETH MACHINE RIFLE）死亡魔方的標準武器。",
+      "name": "死亡機槍",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมาตรฐานที่เป็นอาวุธประจำตัวของ Dethcube",
+      "name": "Deth Machine Rifle",
+      "code": "th"
+    },
+    {
+      "description": "Dethcube standart silahı.",
+      "name": "Deth Makineli Tüfek",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний кулемет для вартового Смертокуба.",
+      "name": "Смертомет",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aoi-floof-bbd01bf840.png",
+  "name": "Aoi Floof",
+  "description": "This Stuffie Buddy was approved by Aoi personally. Can be hugged without fear of crushing.",
+  "languages": [
+    {
+      "description": "Dieser Kuschelfreund wurde von Aoi persönlich genehmigt. Kann sorglos umarmt werden, und wird dabei nicht zermalmt.",
+      "name": "Floof: Aoi",
+      "code": "de"
+    },
+    {
+      "description": "Cette peluche toute mignonne a été approuvée par Aoi personnellement. On peut la serrer dans ses bras sans craindre de l'écraser.",
+      "name": "Peluche Aoi",
+      "code": "fr"
+    },
+    {
+      "description": "Questo Stuffie Buddy è stato approvato personalmente da Aoi. Può essere abbracciato senza paura di essere schiacciato.",
+      "name": "Floof Aoi",
+      "code": "it"
+    },
+    {
+      "description": "이 푹신푹신한 친구는 아오이가 직접 인정한 친구입니다. 짜부라질 걱정 없이 껴안아도 되죠.",
+      "name": "아오이 플루프",
+      "code": "ko"
+    },
+    {
+      "description": "Este peluche ha sido aprobado personalmente por Aoi. Se puede abrazar sin temor a que se aplaste.",
+      "name": "Floof de Aoi",
+      "code": "es"
+    },
+    {
+      "description": "这款毛绒小伙伴是由碧亲自认证的，可以抱在怀里，不用担心被压坏。",
+      "name": "碧玩偶",
+      "code": "zh"
+    },
+    {
+      "description": "Этого плюшевого друга лично одобрила Аои. Можно обнимать, не боясь помять.",
+      "name": "Пушистик: Аои",
+      "code": "ru"
+    },
+    {
+      "description": "Aoi当人のお墨付きの抱きぐるみ。抱きしめても潰される心配はない。",
+      "name": "Aoiのぬいぐるみ",
+      "code": "ja"
+    },
+    {
+      "description": "Ten pluszak został osobiście zatwierdzony przez Aoi. Można go przytulać bez obawy o zgniecenie.",
+      "name": "Pluszak Aoi",
+      "code": "pl"
+    },
+    {
+      "description": "Esta pelúcia fofinha foi aprovada pessoalmente pela Aoi. Pode ser abraçada sem medo de rasgar.",
+      "name": "Floof: Aoi",
+      "code": "pt"
+    },
+    {
+      "description": "葵本人親自認可的絨毛搭檔。可以用力抱緊，不用擔心壓壞。",
+      "name": "葵玩偶",
+      "code": "tc"
+    },
+    {
+      "description": "ตุ๊กตาเพื่อนยากตัวนี้ได้รับการรับรองจาก Aoi โดยตรง สามารถกอดได้โดยไม่ต้องกลัวว่าจะโดนอัดจนเละ",
+      "name": "ตุ๊กตา Aoi",
+      "code": "th"
+    },
+    {
+      "description": "Bu Peluş Arkadaş bizzat Aoi tarafından onaylanmıştır. Ezilmekten korkmadan ona sarılabilirsin.",
+      "name": "Aoi Peluş",
+      "code": "tr"
+    },
+    {
+      "description": "Цю пухкеньку іграшку Аой схвалила особисто. Її можна обіймати без страху розчавити.",
+      "name": "Плюш «Аой»",
+      "code": "uk"
+    }
+  ]
+}

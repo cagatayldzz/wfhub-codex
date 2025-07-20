@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceJ",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/capital-sigil-c0aaac7f03.png",
+  "name": "Capital Sigil",
+  "description": "A sigil representing prestige gained with the Perrin Sequence.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das gesammeltes Prestige bei der Perrin Sequence repräsentiert.",
+      "name": "Siegel: Kapital",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau qui représente le prestige obtenu avec la Séquence Perrin.",
+      "name": "Sceau de Capital",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che rappresenta la reputazione guadagnata con Perrin Sequence.",
+      "name": "Sigillo Capital",
+      "code": "it"
+    },
+    {
+      "description": "페린 시퀀스와의 협력 관계를 대변하는 시질입니다.",
+      "name": "캐피탈 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el prestigio ganado con la Secuencia Perrin.",
+      "name": "Sello Capital",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章代表着得到了佩兰数列的威望。",
+      "name": "基序纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, подтверждающий уважение носителя среди Последовательности Перрина.",
+      "name": "Сигил: Капитал",
+      "code": "ru"
+    },
+    {
+      "description": "ペリン・シークエンスから得た声望を表すシジル。",
+      "name": "Capital シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak reprezentujący prestiż zdobyty wśród Sekwencji Perrin.",
+      "name": "Znak Kapitału",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão que representa o prestígio ganho junto à Sequência de Perrin.",
+      "name": "Brasão: Capital",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章代表著得到了佩蘭數列的威望。",
+      "name": "基序紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงถึงชื่อเสียงเกียรติภูมิที่ได้รับจาก Perrin Sequence",
+      "name": "เครื่องหมาย: Capital",
+      "code": "th"
+    },
+    {
+      "description": "Perrin Sequence prestijini sembolize eden bir mühür",
+      "name": "Capital Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Споряджений сиґіл показує ваші здобутки в синдикаті «Послідовність Перрена».",
+      "name": "Сиґіл «Капітал»",
+      "code": "uk"
+    }
+  ]
+}

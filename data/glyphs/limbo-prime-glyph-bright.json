@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/limbo-prime-glyph---bright-7a273d7399.png",
+  "name": "Limbo Prime Glyph - Bright",
+  "description": "A glyph depicting Limbo Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Limbo Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Limbo Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Limbo Prime sur un fond lumineux.",
+      "name": "Glyphe Limbo Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Limbo Prime su uno sfondo chiaro.",
+      "name": "Glifo Limbo Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 림보 프라임을 묘사한 글리프입니다.",
+      "name": "림보 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Limbo Prime sobre un fondo brillante.",
+      "name": "Glifo de Limbo Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Limbo Prime 在明亮背景下的浮印。",
+      "name": "Limbo Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Лимбо Прайм на светлом фоне.",
+      "name": "Глиф: Лимбо Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたLimbo Primeのグリフ。",
+      "name": "Limbo Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Limbo Prime na jasnym tle.",
+      "name": "Glif Limbo Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Limbo Prime em um fundo claro.",
+      "name": "Glifo: Limbo Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Limbo Prime 在明亮背景下的浮印。",
+      "name": "Limbo Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Limbo Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Limbo Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Limbo Prime açık fonlu glif.",
+      "name": "Limbo Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Лімбо-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Лімбо-прайм»",
+      "code": "uk"
+    }
+  ]
+}

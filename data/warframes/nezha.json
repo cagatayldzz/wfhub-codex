@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Nezha/Nezha",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nezha-39ab6803c6.png",
+  "name": "Nezha",
+  "description": "The mercurial firemonger protects the innocent. Nezha’s multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.",
+  "armor": 200,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Der launische Feuerläufer beschützt die Unschuldigen. Nezhas facettenreiche Taktiken verleihen ihm eine hohe Überlebensfähigkeit, da er Schaden verursacht und über Gruppenkontrolle verfügt. Sein Feuer ist die Fanfare der Hoffnung.",
+      "name": "Nezha",
+      "code": "de"
+    },
+    {
+      "description": "Ce guerrier polyvalent protège les innocents. Les tactiques à multiples facettes de Nezha lui confèrent une grande capacité de survie car il inflige des Dégâts et permet de contrôler les foules. Son feu est porteur d'espoir.",
+      "name": "Nezha",
+      "code": "fr"
+    },
+    {
+      "description": "Questo versatile guerriero protegge gli innocenti. Le tattiche sfaccettate di Nezha gli danno un'elevata capacità di sopravvivenza mentre infligge danni e controlla la folla. Il suo fuoco è la luce della speranza.",
+      "name": "Nezha",
+      "code": "it"
+    },
+    {
+      "description": "이 변덕스러운 불놀이꾼은 죄 없는 자들을 보호합니다. 나타의 다면적인 전술은 그가 적에게 피해를 입힘으로써 확보할 수 있는 높은 생존성과 군중 제어 능력을 부여합니다. 그의 불꽃은 곧 희망을 알리는 나팔 소리이기도 합니다.",
+      "name": "나타",
+      "code": "ko"
+    },
+    {
+      "description": "El traficante de fuego mercurial protege a los inocentes. Las tácticas multifacéticas de Nezha le dan una gran capacidad de supervivencia, ya que inflige daño y proporciona control de multitudes. Su fuego es el clarín de la esperanza.",
+      "name": "Nezha",
+      "code": "es"
+    },
+    {
+      "description": "机敏善变的驭火行家保护无辜者。 Nezha 多面化的战术使他在伤害和提供群体控制时具有很高的生存能力。他的火焰是希望的号角。",
+      "name": "Nezha",
+      "code": "zh"
+    },
+    {
+      "description": "Меняющийся владыка огня, защищающий невинных. Многослойная тактика Нэчжи обеспечивает высокий уровень выживания, пока он наносит урон и управляет толпой. Его огонь – это также огонёк надежды.",
+      "name": "Нэчжа",
+      "code": "ru"
+    },
+    {
+      "description": "気まぐれの炎は弱きものを守る。Nezhaの希望の炎は仲間の耐久力を上げ制圧戦に向いている。",
+      "name": "Nezha",
+      "code": "ja"
+    },
+    {
+      "description": "Wartki podpalacz chroni niewinnych. Wielopłaszczyznowa taktyka Nezhy zapewnia mu wysoką przeżywalność, ponieważ zadaje obrażenia i zapewnia kontrolę tłumu. Jego ogień jest zwiastunem nadziei.",
+      "name": "Nezha",
+      "code": "pl"
+    },
+    {
+      "description": "O inconstante arauto do fogo protege os inocentes. As táticas multifacetadas do Nezha lhe concedem alta capacidade de sobrevivência ao causar dano e controlar de grupos. Seu fogo é a representação da esperança.",
+      "name": "Nezha",
+      "code": "pt"
+    },
+    {
+      "description": "敏捷的火焰大師保護無辜者。Nezha 的多方位戰術讓他在造成傷害及提供群控的同時具備高生存能力。他的火焰是希望的號角。",
+      "name": "Nezha",
+      "code": "tc"
+    },
+    {
+      "description": "Nezha คือนักสู้ผู้ใช้ไฟที่มีความว่องไวราวกับปรอทคอยปกป้องผู้บริสุทธิ์ อาศัยกลยุทธ์ที่หลากหลาย ทำให้มีความสามารถในการเอาตัวรอดสูง รวมทั้งมีสกิล CC ที่ควบคุมศัตรูและสร้างความเสียหาย อัคนีที่ลุกโชนเป็นเสมือนการประกาศก้องให้เห็นถึงความหวังอย่างชัดเจน",
+      "name": "Nezha",
+      "code": "th"
+    },
+    {
+      "description": "Ateşin hareketli efendisi masumları korur. Nezha'nın çok yönlü taktikleri ile verdiği hasar ve kitle kontrolü ona yüksek hayatta kalma kabiliyeti sağlar. Onun ateşi umudun ışığıdır.",
+      "name": "Nezha",
+      "code": "tr"
+    },
+    {
+      "description": "Мінливий володар вогню, що захищає невинних. Багатошарова тактика Неджи забезпечує високий рівень виживання, допоки він завдає шкоди та керує натовпом. Його вогонь — це також вогник надії.",
+      "name": "Неджа",
+      "code": "uk"
+    }
+  ]
+}

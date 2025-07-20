@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/ZephyrDeluxeBackground",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-harrier-background-ddfb0538f1.png",
+  "name": "Zephyr Harrier Background",
+  "description": "A custom UI background.",
+  "languages": [
+    {
+      "description": "Ein angepasster UI-Hintergrund.",
+      "name": "Hintergrund: Zephyr Harrier",
+      "code": "de"
+    },
+    {
+      "description": "Un fond personnalisé pour l'interface.",
+      "name": "Fond Zephyr Harrier",
+      "code": "fr"
+    },
+    {
+      "description": "Uno sfondo personalizzato per l'interfaccia.",
+      "name": "Sfondo Zephyr Harrier",
+      "code": "it"
+    },
+    {
+      "description": "커스텀 UI 배경화면입니다.",
+      "name": "제피르 해리어 배경",
+      "code": "ko"
+    },
+    {
+      "description": "Personalización de la interfaz",
+      "name": "Fondo de Zephyr Harrier",
+      "code": "es"
+    },
+    {
+      "description": "一个用于自定义界面的背景",
+      "name": "Zephyr 鹞式背景",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный фон интерфейса.",
+      "name": "Фон: Зефир Харриер",
+      "code": "ru"
+    },
+    {
+      "description": "カスタムUIバックグラウンド。",
+      "name": "Zephyr Harrier バックグラウンド",
+      "code": "ja"
+    },
+    {
+      "description": "Personalizowane tło Interfejsu.",
+      "name": "Tło Zephyr Harrier",
+      "code": "pl"
+    },
+    {
+      "description": "Um plano de fundo de interface personalizado.",
+      "name": "Plano de Fundo da Zephyr Harrier",
+      "code": "pt"
+    },
+    {
+      "description": "一個用於自訂介面的背景",
+      "name": "Zephyr 鷂亞背景",
+      "code": "tc"
+    },
+    {
+      "description": "พื้นหลัง UI ที่กำหนดเอง",
+      "name": "พื้นหลัง Zephyr Harrier",
+      "code": "th"
+    },
+    {
+      "description": "Özel bir Kullanıcı Arayüzü arka planı.",
+      "name": "Zephyr Harrier Arka Planı",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторне тло інтерфейсу.",
+      "name": "Тло: Зефіра «Гаррієр»",
+      "code": "uk"
+    }
+  ]
+}

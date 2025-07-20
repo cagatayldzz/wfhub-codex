@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNyxVespaBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nyx-vespa-glyph---bright-49d320a03e.png",
+  "name": "Nyx Vespa Glyph - Bright",
+  "description": "A glyph depicting Nyx Vespa on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nyx Vespa vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nyx Vespa (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nyx Vespa sur un fond lumineux.",
+      "name": "Glyphe Nyx Vespa - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Vespa Nyx su uno sfondo chiaro.",
+      "name": "Glifo Nyx Vespa - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 베스파 닉스를 묘사한 글리프입니다.",
+      "name": "닉스 베스파 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Vespa Nyx sobre un fondo brillante.",
+      "name": "Glifo de Nyx Vespa - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nyx 黄蜂在明亮背景下的浮印。",
+      "name": "Nyx 黄蜂浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Никс «Веспа» на светлом фоне.",
+      "name": "Глиф: Никс «Веспа» — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Vespa Nyx のグリフ。",
+      "name": "Nyx Vespa グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Nyx 'Vespa' na jasnym tle.",
+      "name": "Glif Nyx Vespa — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Nyx Vespa em um fundo claro.",
+      "name": "Glifo: Nyx Vespa (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nyx 黃蜂在明亮背景下的浮印。",
+      "name": "Nyx 黃蜂浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nyx Vespa บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nyx Vespa - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nyx Vespa açık fonlu glif.",
+      "name": "Nyx Vespa Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нікс у шоломі «Оса» на світлому тлі.",
+      "name": "Яскравий гліф «Нікс „Оса“»",
+      "code": "uk"
+    }
+  ]
+}

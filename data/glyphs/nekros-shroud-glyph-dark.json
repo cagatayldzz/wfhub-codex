@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNekrosShroudDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nekros-shroud-glyph---dark-e46fbb551c.png",
+  "name": "Nekros Shroud Glyph - Dark",
+  "description": "A glyph depicting Nekros Shroud on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nekros Shroud vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Nekros Shroud (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nekros Shroud sur un fond sombre.",
+      "name": "Glyphe Nekros Shroud - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nekros Shroud su uno sfondo scuro.",
+      "name": "Glifo Nekros Shroud - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 슈라우드 네크로스를 묘사한 글리프입니다.",
+      "name": "네크로스 슈라우드 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nekros Shroud sobre un fondo oscuro.",
+      "name": "Glifo de Nekros Shroud - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Nekros 裹尸布在黑暗背景下的浮印。",
+      "name": "Nekros 裹尸布浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Некроса «Саван» на тёмном фоне.",
+      "name": "Глиф: Некрос Саван - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれた Nekros Shroud のグリフ。",
+      "name": "Nekros Shroud グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Nekros Raknis na ciemnym tle.",
+      "name": "Glif Nekros Shroud — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Nekros Shroud em um fundo escuro.",
+      "name": "Glifo: Nekros Shroud (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nekros 裹屍布在黑暗背景下的浮印。",
+      "name": "Nekros 裹屍布浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Nekros Shroud บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Nekros Shroud - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Nekros Shroud koyu fonlu glif.",
+      "name": "Nekros Shroud Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Некроса в шоломі «Покров» на темному тлі.",
+      "name": "Темний гліф «Некрос „Покров“»",
+      "code": "uk"
+    }
+  ]
+}

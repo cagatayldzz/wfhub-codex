@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SWSarynNighthunterSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-night-hunter-skin-2c2ea88944.png",
+  "name": "Saryn Night Hunter Skin",
+  "description": "A unique skin for the Saryn Warframe, designed by Mz-3.",
+  "languages": [
+    {
+      "description": "Ein einzigartiger Skin für den Saryn Warframe, entworfen von Mz-3.",
+      "name": "Saryn-Skin: Night Hunter",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect unique pour la Warframe Saryn, conçu par Mz-3.",
+      "name": "Aspect Saryn Night Hunter",
+      "code": "fr"
+    },
+    {
+      "description": "Una skin unica per il Warframe Saryn, ideata da Mz-3.",
+      "name": "Skin Saryn Night Hunter",
+      "code": "it"
+    },
+    {
+      "description": "Mz-3에 의해 디자인된 새린 워프레임을 위한 독특한 스킨입니다.",
+      "name": "새린 나이트 헌터 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño único para el warframe Saryn, creado por Mz-3.",
+      "name": "Diseño Night Hunter de Saryn",
+      "code": "es"
+    },
+    {
+      "description": "Saryn 战甲的独特外观，由 Mz-3 设计。",
+      "name": "Saryn 暗夜猎人外观",
+      "code": "zh"
+    },
+    {
+      "description": "Уникальный скин для варфрейма Сарина, созданный Mz-3.",
+      "name": "Скин Сарины: Ночной Охотник",
+      "code": "ru"
+    },
+    {
+      "description": "Saryn用のスキン。製作者：Mz-3。",
+      "name": "Saryn Night Hunter スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowa skórka dla Warframe Saryn, zaprojektowana przez Mz-3.",
+      "name": "Saryn: Skórka Nocnego Łowcy",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin exclusiva para o Warframe Saryn, desenvolvida por Mz-3.",
+      "name": "Saryn: Skin Caçadora Noturna",
+      "code": "pt"
+    },
+    {
+      "description": "Saryn Warframe 的獨特外觀，由 Mz-3 所設計。",
+      "name": "Saryn 暗夜獵人外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินสำหรับ Saryn Warframe ที่ไม่เหมือนใคร ออกแบบโดย Mz-3",
+      "name": "สกิน Saryn Night Hunter",
+      "code": "th"
+    },
+    {
+      "description": "Mz-3 tarafından tasarlanmış özel bir Saryn Warframe skin.",
+      "name": "Saryn Night Hunter Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Неповторний вигляд для ворфрейма Зарини, створений Mz-3.",
+      "name": "Вигляд «Нічний мисливець» для Зарини",
+      "code": "uk"
+    }
+  ]
+}

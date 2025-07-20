@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Revenant/Revenant",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-c9bd7cfbcc.png",
+  "name": "Revenant",
+  "description": "Macabre spectral power has risen. Infused with the essence of the Eidolon, Revenant has strong survivability and deals high damage. Enemies become his thralls.",
+  "armor": 135,
+  "aura": "naramon",
+  "languages": [
+    {
+      "description": "Eine makabre spektrale Kraft hat sich erhoben. Mit der Essenz der Eidolon erfüllt, hat Revenant eine starke Überlebensfähigkeit und verursacht hohen Schaden. Gegner werden zu seinen Lakaien.",
+      "name": "Revenant",
+      "code": "de"
+    },
+    {
+      "description": "La puissance spectrale macabre a augmenté. Imprégné de l'essence des Eidolons, Revenant a une forte capacité de survie et inflige des Dégâts importants. Les ennemis deviennent ses esclaves.",
+      "name": "Revenant",
+      "code": "fr"
+    },
+    {
+      "description": "È sorto un potere spettrale e macabro. Infuso con l'essenza dell'Eidolon, Revenant ha un'elevata capacità di sopravvivenza e infligge ingenti danni. I nemici diventeranno i suoi schiavi.",
+      "name": "Revenant",
+      "code": "it"
+    },
+    {
+      "description": "유령과도 같은 죽음의 힘이 등장했습니다. 아이돌론의 정수가 깃든 레버넌트는 강한 생존력을 보유하며, 높은 피해를 가합니다. 또한 적들은 그에게 사로잡힌 노예가 됩니다.",
+      "name": "레버넌트",
+      "code": "ko"
+    },
+    {
+      "description": "El macabro poder espectral se ha levantado. Infundido con la esencia de eidolon, Revenant tiene una gran capacidad de supervivencia y causa un gran daño. Los enemigos se convierten en sus esclavos.",
+      "name": "Revenant",
+      "code": "es"
+    },
+    {
+      "description": "恐怖的恶灵之力已经涌现。融合了夜灵本质的 Revenant，拥有强大的生存能力和高额伤害。敌人皆成为他的奴仆。",
+      "name": "Revenant",
+      "code": "zh"
+    },
+    {
+      "description": "Жуткая воскресшая призрачная сущность. Ревенант, насыщенный силой Эйдолонов, обладает высокой живучестью и наносит большой вред. Враги становятся его рабами.",
+      "name": "Ревенант",
+      "code": "ru"
+    },
+    {
+      "description": "身の毛のよだつ亡霊の力が立ち上る。エイドロンの精髄が注入されたRevenantは、強い生存力を持ち大ダメージを与える。敵は彼に従うか、散るかの二択である。",
+      "name": "Revenant",
+      "code": "ja"
+    },
+    {
+      "description": "Makabryczna upiorna potęga wzrosła. Przesiąknięty esencją Eidolon, Revenant ma silne zdolności przetrwania i zadaje duże obrażenia. Wrogowie stają się jego niewolnikami.",
+      "name": "Revenant",
+      "code": "pl"
+    },
+    {
+      "description": "O macabro poder espectral despertou. Infundido com a essência de Eidolon, o Revenant tem grande capacidade de sobrevivência e causa alto dano. Os inimigos se tornam seus escravos.",
+      "name": "Revenant",
+      "code": "pt"
+    },
+    {
+      "description": "死亡的幽靈之力已崛起。Revenant 充滿著夜靈的本質，他有強大的生存能力並造成高傷害。敵人成為他的奴僕。",
+      "name": "Revenant",
+      "code": "tc"
+    },
+    {
+      "description": "Revenant ปลุกพลังจากวิญญาณของอสูรร้ายให้ตื่นขึ้นมา เมื่อผสมผสานกับแก่นแท้ที่ได้จาก Eidolon แล้วทำให้ Revenant มีความสามารถในการเอาตัวรอดได้ดีและสร้างความเสียหายได้สูง เปลี่ยนศัตรูให้กลายเป็นทาส Thrall ไว้คอยรับใช้",
+      "name": "Revenant",
+      "code": "th"
+    },
+    {
+      "description": "Ürkütücü spektral güç. Eidolon'un özüyle aşılanan Revenant, güçlü bir dayanıklılık kabiliyetine sahiptir ve yüksek oranda hasar verir. Düşmanlar onun kölesi olur.",
+      "name": "Revenant",
+      "code": "tr"
+    },
+    {
+      "description": "Моторошна воскресла примарна сутність. Ревенант, насичений силою ейдолонів, має високу живучість та завдає великої шкоди. Вороги стають його рабами.",
+      "name": "Ревенант",
+      "code": "uk"
+    }
+  ]
+}

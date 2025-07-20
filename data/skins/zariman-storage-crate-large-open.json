@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpCrateLargeAOpen",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-storage-crate-(large,-open)-293831a922.png",
+  "name": "Zariman Storage Crate (Large, Open)",
+  "description": "A large open storage crate.",
+  "languages": [
+    {
+      "description": "Eine große, offene Lagerkiste.",
+      "name": "Zariman Lagerkiste (groß, offen)",
+      "code": "de"
+    },
+    {
+      "description": "Une grande caisse de rangement ouverte.",
+      "name": "Zariman: Caisse de rangement (grande, ouverte)",
+      "code": "fr"
+    },
+    {
+      "description": "Un grande contenitore aperto.",
+      "name": "Contenitore Zariman (Grande, Aperto)",
+      "code": "it"
+    },
+    {
+      "description": "개방된 대형 보관 상자입니다.",
+      "name": "자리만 보관 상자 (대형, 개방)",
+      "code": "ko"
+    },
+    {
+      "description": "Una caja de almacenamiento grande y abierta.",
+      "name": "Caja de almacenamiento Zariman (grande, abierta)",
+      "code": "es"
+    },
+    {
+      "description": "一个大型的敞口储存箱。",
+      "name": "扎里曼敞口储存箱（大）",
+      "code": "zh"
+    },
+    {
+      "description": "Большой открытый ящик для хранения.",
+      "name": "Зариман: Ящик для хранения (большой, открытый)",
+      "code": "ru"
+    },
+    {
+      "description": "開かれた大きな収納箱。",
+      "name": "Zariman 保管クレート（大、開）",
+      "code": "ja"
+    },
+    {
+      "description": "Duża, otwarta skrzynia służąca magazynowaniu.",
+      "name": "Zariman: Skrzynka magazynowa (duża, otwarta)",
+      "code": "pl"
+    },
+    {
+      "description": "Um compartimento de armazenamento grande e aberto.",
+      "name": "Compartimento de Armazenamento da Zariman (Grande - Aberto)",
+      "code": "pt"
+    },
+    {
+      "description": "大型開啟的儲存箱。",
+      "name": "開啟的扎日曼儲存箱（大）",
+      "code": "tc"
+    },
+    {
+      "description": "ลังเก็บของเปิดโล่งขนาดใหญ่",
+      "name": "Zariman: ลังเก็บของ (ใหญ่, เปิด)",
+      "code": "th"
+    },
+    {
+      "description": "Büyük ve açık bir depolama sandığı.",
+      "name": "Zariman Depolama Sandığı (Büyük, Açık)",
+      "code": "tr"
+    },
+    {
+      "description": "Великий відчинений ящик для зберігання.",
+      "name": "Ящик із «Заримена» (великий, відчинений)",
+      "code": "uk"
+    }
+  ]
+}

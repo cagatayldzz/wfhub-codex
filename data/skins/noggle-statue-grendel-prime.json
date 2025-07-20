@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GrendelPrimeBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---grendel-prime-38b7f6ab9e.png",
+  "name": "Noggle Statue - Grendel Prime",
+  "description": "A small wobbly statue of Grendel Prime.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Grendel Prime.",
+      "name": "Noggle-Statue: Grendel Prime",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Grendel Prime.",
+      "name": "Statuette Noggle - Grendel Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Grendel Prime con la testa tremolante.",
+      "name": "Statuetta Noggle - Grendel Prime",
+      "code": "it"
+    },
+    {
+      "description": "그렌델 프라임의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 그렌델 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña estatua tambaleante de Grendel Prime.",
+      "name": "Estatua Tambaleante - Grendel Prime",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Grendel Prime 摇头娃娃。",
+      "name": "Grendel Prime 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Гренделя Прайм.",
+      "name": "Фигурка: Грендель Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "Grendel Primeのボブルヘッド人形。",
+      "name": "Grendel Prime ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Grendela Prime.",
+      "name": "Figurka Noggle — Grendel Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Grendel Prime.",
+      "name": "Estatueta: Grendel Prime",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Grendel Prime 的搖頭娃娃。",
+      "name": "Grendel Prime 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Grendel Prime ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Grendel Prime",
+      "code": "th"
+    },
+    {
+      "description": "Grendel Prime küçük oynar figür.",
+      "name": "Noggle Heykeli - Grendel Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Ґренделя-прайм.",
+      "name": "Ноґл «Ґрендель-прайм»",
+      "code": "uk"
+    }
+  ]
+}

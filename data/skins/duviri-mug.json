@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Duviri/DUVxContainerC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/duviri-mug-f84566736b.png",
+  "name": "Duviri Mug",
+  "description": "Sip from this mug as you assess what the morning sky has in store.",
+  "languages": [
+    {
+      "description": "Trink einen Schluck aus dieser Tasse, während du beurteilst, was der Morgenhimmel bereithält.",
+      "name": "Tasse",
+      "code": "de"
+    },
+    {
+      "description": "Sirotez une bonne tasse pendant que vous évaluez ce que le ciel du matin vous réserve.",
+      "name": "Tasse Duviri",
+      "code": "fr"
+    },
+    {
+      "description": "Sorseggia da questa tazza mentre valuti cosa ha in serbo il cielo mattutino.",
+      "name": "Tazza - Duviri",
+      "code": "it"
+    },
+    {
+      "description": "이 머그잔의 음료를 홀짝이며 아침 하늘이 가져다줄 그 무언가를 가늠해 보세요.",
+      "name": "두비리 머그잔",
+      "code": "ko"
+    },
+    {
+      "description": "Bebe de esta taza mientras evalúas lo que el cielo de la mañana te tiene reservado.",
+      "name": "Taza de Duviri",
+      "code": "es"
+    },
+    {
+      "description": "一个杯子，灵感来自《双衍王境故事集》中描述的市民生活。",
+      "name": "双衍王境饮水杯",
+      "code": "zh"
+    },
+    {
+      "description": "Потягивайте из этой кружки, оценивая, что готовит утреннее небо.",
+      "name": "Дувири: Кружка",
+      "code": "ru"
+    },
+    {
+      "description": "朝の空模様を眺めながら、このマグに口を付けよう。",
+      "name": "デュヴィリ・マグ",
+      "code": "ja"
+    },
+    {
+      "description": "Popijaj z tego kubka, obserwując poranne niebo.",
+      "name": "Duviri: Kubek",
+      "code": "pl"
+    },
+    {
+      "description": "Beba nesta caneca enquanto avalia o que o céu da manhã reserva para você.",
+      "name": "Caneca de Duviri",
+      "code": "pt"
+    },
+    {
+      "description": "在你望著清晨的天空，評估著接下來會發生什麼變化的時候，便會拿起這個馬克杯啜飲一口。",
+      "name": "渡域馬克杯",
+      "code": "tc"
+    },
+    {
+      "description": "จิบเครื่องดื่มจากเหยือกใบนี้พร้อมกับทายว่าท้องฟ้ายามเช้าของวันนี้มีอะไรรออยู่",
+      "name": "Duviri: เหยือกน้ำ",
+      "code": "th"
+    },
+    {
+      "description": "Sabah gökyüzünün neler getireceğini değerlendirirken bu kupadan bir yudum al.",
+      "name": "Duviri Kupası",
+      "code": "tr"
+    },
+    {
+      "description": "Пийте з цього кухля й розмірковуйте над тим, що приготувало вам ранкове небо.",
+      "name": "Дувірський кухоль",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cyte-09-glyph---dark-ccd471879c.png",
+  "name": "Cyte-09 Glyph - Dark",
+  "description": "A glyph depicting Cyte-09 on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Cyte-09 vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Cyte-09 (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Cyte-09 sur un fond sombre.",
+      "name": "Glyphe Cyte-09 - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Cyte-09 su uno sfondo scuro.",
+      "name": "Glifo Cyte-09 - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 Cyte-09을 묘사한 글리프입니다.",
+      "name": "Cyte-09 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Cyte-09 sobre un fondo oscuro.",
+      "name": "Glifo de Cyte-09 - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Cyte-09 在黑暗背景下的浮印。",
+      "name": "Cyte-09 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Цита-09 на тёмном фоне.",
+      "name": "Глиф: Цит-09 — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたCyte-09のグリフ。",
+      "name": "Cyte-09 グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Cyte-09 na ciemnym tle.",
+      "name": "Glif Cyte-09 — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Cyte-09 em um fundo escuro.",
+      "name": "Glifo: Cyte-09 (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Cyte-09 在黑暗背景下的浮印。",
+      "name": "Cyte-09 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Cyte-09 บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Cyte-09 - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Cyte-09 koyu fonlu glif.",
+      "name": "Cyte-09 Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Клітини-09 на темному тлі.",
+      "name": "Темний гліф «Клітина-09»",
+      "code": "uk"
+    }
+  ]
+}

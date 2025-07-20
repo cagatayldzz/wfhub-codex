@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PriestScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nave-syandana-507908a819.png",
+  "name": "Nave Syandana",
+  "description": "Harrow’s signature syandana.",
+  "languages": [
+    {
+      "description": "Harrows unverkennbares Syandana.",
+      "name": "Nave Syandana",
+      "code": "de"
+    },
+    {
+      "description": "La Syandana favorite de Harrow.",
+      "name": "Syandana Nave",
+      "code": "fr"
+    },
+    {
+      "description": "La syandana distintiva di Harrow.",
+      "name": "Syandana Nave",
+      "code": "it"
+    },
+    {
+      "description": "해로우의 대표 샨다나입니다.",
+      "name": "네이브 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La syandana tradicional de Harrow.",
+      "name": "Syandana Nave",
+      "code": "es"
+    },
+    {
+      "description": "Harrow 的标志性披饰。",
+      "name": "中殿披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Особая сандана Харроу.",
+      "name": "Сандана: Неф",
+      "code": "ru"
+    },
+    {
+      "description": "Harrow特有のシャンダナ。",
+      "name": "Nave シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna syandana Harrowa.",
+      "name": "Syandana Nave",
+      "code": "pl"
+    },
+    {
+      "description": "Syandana tradicional do Harrow.",
+      "name": "Syandana: Nave",
+      "code": "pt"
+    },
+    {
+      "description": "Harrow 的標誌性披飾。",
+      "name": "中殿披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่เป็นซิกเนเจอร์ของ Harrow",
+      "name": "ไซอันดานา Nave",
+      "code": "th"
+    },
+    {
+      "description": "Harrow'un özel syandanası.",
+      "name": "Nave Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна сяндана ворфрейма Гарроу.",
+      "name": "Сяндана «Нейв»",
+      "code": "uk"
+    }
+  ]
+}

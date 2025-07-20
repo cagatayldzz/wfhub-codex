@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/XBoxSugatra2MeleeDangle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/jade-follox-sugatra-41311f2d7b.png",
+  "name": "Jade Follox Sugatra",
+  "description": "This exclusive sugatra is crisscrossed with an inlay of glowing jade.",
+  "languages": [
+    {
+      "description": "Dieses exklusive Sugatra ist von glühender Jade durchzogen.",
+      "name": "Jade Follox Sugatra",
+      "code": "de"
+    },
+    {
+      "description": "Cette Sugatra exclusive est finement incrustée de jade brillant.",
+      "name": "Sugatra Jade Follox",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esclusiva sugatra è attraversata da un intarsio di giada luminosa.",
+      "name": "Sugatra Follox Jade",
+      "code": "it"
+    },
+    {
+      "description": "이 한정판 수가트라에는 빛나는 옥빛 무늬가 십자 모양으로 얽혀 있습니다.",
+      "name": "제이드 폴록스 수가트라",
+      "code": "ko"
+    },
+    {
+      "description": "Esta exclusiva sugatra tiene incrustaciones entrecruzadas de jade brillante.",
+      "name": "Sugatra Follox de Jade",
+      "code": "es"
+    },
+    {
+      "description": "这件专属的坠饰上交错镶嵌着发光的翡翠。",
+      "name": "翡翠福洛克斯坠饰",
+      "code": "zh"
+    },
+    {
+      "description": "Эта эксклюзивная сугатра покрыта инкрустацией из сияющего нефрита.",
+      "name": "Сугатра: Фоллокс Нефрит",
+      "code": "ru"
+    },
+    {
+      "description": "この限定スガトラはジェードのクロス模様で輝いています。",
+      "name": "Jade Follox スガトラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta ekskluzywna sugatra jest ozdobiona inkrustacją ze świecącego jadeitu.",
+      "name": "Sugatra Follox Jadeitowa",
+      "code": "pl"
+    },
+    {
+      "description": "Esta sugatra foi adornada com um revestimento de Jade brilhante.",
+      "name": "Sugatra Jade Follox",
+      "code": "pt"
+    },
+    {
+      "description": "這款專屬墜飾佈滿一層鑲嵌的發光翡翠。",
+      "name": "翡翠佛洛斯墜飾",
+      "code": "tc"
+    },
+    {
+      "description": "สุกัตราพิเศษนี้เจียระไนด้วยหยกเรืองแสง",
+      "name": "สุกัตรา Jade Follox",
+      "code": "th"
+    },
+    {
+      "description": "Bu özel sugatra, parlayan yeşim taşı ile çapraz hatlar üzerine işlenmiştir.",
+      "name": "Jade Follox Sugatra",
+      "code": "tr"
+    },
+    {
+      "description": "Виняткова суґатра, в якій перехрещуються сяйнисті нефритові жилки.",
+      "name": "Суґатра «Нефритовий Фолокс»",
+      "code": "uk"
+    }
+  ]
+}

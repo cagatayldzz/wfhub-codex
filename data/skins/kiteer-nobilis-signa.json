@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Crowns/KiTeerSignaCrown",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ki'teer-nobilis-signa-82185c821a.png",
+  "name": "Ki'Teer Nobilis Signa",
+  "description": "This signa is a Ki'Teer original, the crowning glory of any collection.",
+  "languages": [
+    {
+      "description": "Dieses Signa ist ein Ki'Teer-Original und die Krönung jeder Sammlung.",
+      "name": "Signa: Ki'Teer Nobilis",
+      "code": "de"
+    },
+    {
+      "description": "Cette Signa est un article Ki'Teer original, la pièce maîtresse de toute collection.",
+      "name": "Signa Ki'Teer Nobilis",
+      "code": "fr"
+    },
+    {
+      "description": "Questa signa è originale Ki'Teer, il fiore all'occhiello di qualsiasi collezione.",
+      "name": "Signa Ki'Teer Nobilis",
+      "code": "it"
+    },
+    {
+      "description": "이 시그나는 키'티어의 오리지널 상품으로, 그 어떤 컬렉션에나 왕관과도 같은 더없는 영광을 더해 줄 겁니다.",
+      "name": "키'티어 노빌리스 시그나",
+      "code": "ko"
+    },
+    {
+      "description": "Esta signa es un Ki'Teer original, la joya de la corona de cualquier colección.",
+      "name": "Signa Ki'Teer Nobilis",
+      "code": "es"
+    },
+    {
+      "description": "这款 Ki'Teer 原创的头环，是他最耀眼的藏品。",
+      "name": "Ki'Teer 尊荣头环",
+      "code": "zh"
+    },
+    {
+      "description": "Это сигна от самого Ки'Тиира, величественный венец любой коллекции.",
+      "name": "Сигна: Благородный Ки'Тиир",
+      "code": "ru"
+    },
+    {
+      "description": "Ki'Teerオリジナルのシグナ、いかなるコレクションにも最高の栄誉をもたらす。",
+      "name": "Ki'Teer Nobilis シグナ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta Signa jest oryginalnym dziełem Baro Ki'Teera i stanowi klejnot koronny każdej kolekcji.",
+      "name": "Signa Nobilis Ki'Teer",
+      "code": "pl"
+    },
+    {
+      "description": "Esta Signa é um item Ki'Teer autêntico, o ápice de qualquer coleção.",
+      "name": "Signa: Ki'Teer Nobilis",
+      "code": "pt"
+    },
+    {
+      "description": "這個頭冕是 Ki'Teer 的原創品，任何收藏的至高榮耀。",
+      "name": "Ki'Teer 尊儀頭冕",
+      "code": "tc"
+    },
+    {
+      "description": "ซิกนานี้เป็นไอเทมดั้งเดิมของ Ki'Teer ซึ่งเป็นยอดมงกุฎที่ทรงเกียรติของคอลเลกชัน",
+      "name": "ซิกนา Ki'Teer Nobilis",
+      "code": "th"
+    },
+    {
+      "description": "Bu sigma, bir Ki'Teer orijinalidir, her koleksiyonun taçlandıran ihtişamıdır.",
+      "name": "Ki'Teer Nobilis Signa",
+      "code": "tr"
+    },
+    {
+      "description": "Це виріб від самого Кі’Тіра, вінець будь-якої колекції.",
+      "name": "Сіґна « Кі’Тір „Нобіліс”»",
+      "code": "uk"
+    }
+  ]
+}

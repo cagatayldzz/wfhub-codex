@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/guandao-5afe05707e.png",
+  "name": "Guandao",
+  "description": "Harvest the enemy with this towering polearm.",
+  "languages": [
+    {
+      "description": "Mähe deine Feinde nieder, mit dieser turmhohen Stangenwaffe.",
+      "name": "Guandao",
+      "code": "de"
+    },
+    {
+      "description": "Fauchez vos ennemis avec cette Arme d'Hast imposante.",
+      "name": "Guandao",
+      "code": "fr"
+    },
+    {
+      "description": "Mieti i nemici con questa imponente asta.",
+      "name": "Guandao",
+      "code": "it"
+    },
+    {
+      "description": "우뚝 치솟은 이 폴암으로 적장의 목을 베어 보세요.",
+      "name": "관도",
+      "code": "ko"
+    },
+    {
+      "description": "Siega al enemigo con esta imponente arma de asta.",
+      "name": "Guandao",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GUANDAO）用这把如塔般耸立的长柄武器收割敌人。",
+      "name": "关刀",
+      "code": "zh"
+    },
+    {
+      "description": "Выкашивайте вражеские ряды с помощью этого неистового копья.",
+      "name": "Гуаньдао",
+      "code": "ru"
+    },
+    {
+      "description": "このそびえ立つポールアームで敵を刈り取ろう。",
+      "name": "Guandao",
+      "code": "ja"
+    },
+    {
+      "description": "Skoś swoich wrogów przy pomocy tej potężnej Broni drzewcowej.",
+      "name": "Guandao",
+      "code": "pl"
+    },
+    {
+      "description": "Colha o inimigo com esta arma de haste altaneira.",
+      "name": "Guan Dao",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GUANDAO）用這把傑出的長柄武器來收割敵人。",
+      "name": "關刀",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้หอกที่มีรูปทรงสูงตระหง่านเล่มนี้เก็บเกี่ยวชีวิตของศัตรู",
+      "name": "Guandao",
+      "code": "th"
+    },
+    {
+      "description": "Bu kargı ile düşmanlarınızı dilimlerine ayırın.",
+      "name": "Guandao",
+      "code": "tr"
+    },
+    {
+      "description": "Височенна держакова зброя, що косить ворогів, наче траву.",
+      "name": "Ґуаньдао",
+      "code": "uk"
+    }
+  ]
+}

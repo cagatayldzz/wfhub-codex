@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ContainerDecoItemPlastidCarapace",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plastid-carapace-decoration-dd2f3312aa.png",
+  "name": "Plastid Carapace Decoration",
+  "description": "A Plastid Carapace resource node to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form eines Plastiden-Panzers.",
+      "name": "Dekoration: Plastiden-Panzer",
+      "code": "de"
+    },
+    {
+      "description": "Une Carapace de Plastides à placer dans votre Orbiteur.",
+      "name": "Décoration Carapace de Plastides",
+      "code": "fr"
+    },
+    {
+      "description": "Un Carapace di Plastidi decorativo da piazzare nel tuo Orbiter.",
+      "name": "Carapace di Plastidi - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 플라스티드 카라페이스 자원 덩어리입니다.",
+      "name": "플라스티드 카라페이스 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un nodo de recursos de caparazón de plástido para colocar en tu orbitador.",
+      "name": "Decoración de caparazón de plástidos",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的生物甲壳。",
+      "name": "生物甲壳装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Пластидный Панцирь",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材ノードのプラスチド甲殻。",
+      "name": "プラスチド甲殻の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Plastydowy Karapaks, który możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Plastydowy Karapaks",
+      "code": "pl"
+    },
+    {
+      "description": "Um nodo de recursos de carapaça de plastídeos para colocar em sua Orbital.",
+      "name": "Carapaça de Plastídeos",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的生物甲殼。",
+      "name": "生物甲殼裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "โหนดของกระดองหุ้มพลาสทิดส์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "การตกแต่ง: กระดองหุ้มพลาสทิดส์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Plastid Kabuğu dekorasyonu.",
+      "name": "Plastid Kabuk Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цей пластидовий панцир на палубі орбітра.",
+      "name": "Оздоблення: мушля пластид",
+      "code": "uk"
+    }
+  ]
+}

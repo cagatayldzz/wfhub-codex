@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/AcolyteControlBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---torment-8c5f0eb4b1.png",
+  "name": "Noggle Statue - Torment",
+  "description": "A small wobbly statue of Stalker's Acolyte, Torment.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur vom Akolythen des Stalkers, Pein.",
+      "name": "Noggle-Statue: Pein",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Tourment, une des disciples du Stalker.",
+      "name": "Statuette Noggle - Tourment",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta del discepolo dello Stalker, Torment, con la testa tremolante.",
+      "name": "Statuetta Noggle - Torment",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 어콜라이트, 토멘트의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 토멘트",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de uno de los discípulos de Stalker, Tormento.",
+      "name": "Estatua Tambaleante - Tormento",
+      "code": "es"
+    },
+    {
+      "description": "一小座追猎者追随者折磨摇头娃娃",
+      "name": "折磨摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка последователя Сталкера, Мучения.",
+      "name": "Фигурка: Мучение",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの従者のボブルヘッド人形、Torment。",
+      "name": "Torment ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Akolity Stalkera: Męka.",
+      "name": "Figurka Noggle — Męka",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um discípulo do Stalker, Suplício.",
+      "name": "Estatueta: Suplício",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Stalker 的追隨者－折磨的搖頭娃娃。",
+      "name": "折磨搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของผู้ช่วยเหลือ Stalker - Torment",
+      "name": "รูปปั้น Noggle - Torment",
+      "code": "th"
+    },
+    {
+      "description": "Stalker Acolyte, Torment küçük oynar figür.",
+      "name": "Noggle Heykeli - Torment",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка прибічника Сталкера на ім’я Мука.",
+      "name": "Ноґл «Мука»",
+      "code": "uk"
+    }
+  ]
+}

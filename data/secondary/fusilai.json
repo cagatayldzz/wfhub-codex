@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/fusilai-83082d8f95.png",
+  "name": "Fusilai",
+  "description": "Silently lacerate enemies with Gara's signature glass throwing knives. Increased Projectile Speed when wielded by Gara.",
+  "languages": [
+    {
+      "description": "Zerfetze Gegner lautlos mit Garas bevorzugten, gläsernen Wurfmessern. Projektilgeschwindigkeit ist erhöht, wenn diese Waffe von Gara geführt wird.",
+      "name": "Fusilai",
+      "code": "de"
+    },
+    {
+      "description": "Lacérez silencieusement les ennemis avec les couteaux de lancer de prédilection de Gara. Dans les mains de Gara elle-même, la Vitesse de Déplacement des Projectiles est augmentée.",
+      "name": "Fusilai",
+      "code": "fr"
+    },
+    {
+      "description": "Lacera silenziosamente i nemici con i coltelli da lancio distintivi di Gara. Quando impugnati da Gara guadagnano Velocità di Volo.",
+      "name": "Fusilai",
+      "code": "it"
+    },
+    {
+      "description": "가라의 대표 유리 투척 단검으로 아무 소리도 없이 적을 찢어버리세요. 가라가 사용할 시 발사체의 속도가 증가합니다.",
+      "name": "푸실라이",
+      "code": "ko"
+    },
+    {
+      "description": "Lacera silenciosamente con los cuchillos arrojadizos distintivos de Gara. Cuando es portada por Gara, adquiere un aumento de velocidad de proyectil.",
+      "name": "Fusilai",
+      "code": "es"
+    },
+    {
+      "description": "（英文：FUSILAI）无声地以 Gara 的标志性玻璃飞刀撕裂敌人。在被 Gara 使用时，该武器的投射物飞行速度会提升。",
+      "name": "齐射玻刃",
+      "code": "zh"
+    },
+    {
+      "description": "Бесшумно пронзайте врагов стеклянными метательными кинжалами. Если используются Гарой - имеют увеличенную скорость полёта.",
+      "name": "Фусилай",
+      "code": "ru"
+    },
+    {
+      "description": "Garaを象徴するガラスのスローイングナイフを使い、敵を静かに引き裂こう。Garaが使用した際には弾速が増加する。",
+      "name": "Fusilai",
+      "code": "ja"
+    },
+    {
+      "description": "Bezgłośnie rozdzieraj przeciwników tymi rzucanymi, szklanymi sztyletami charakterystycznymi dla Gary. Szybkość lotu sztyletów jest większa kiedy są używane przez Garę.",
+      "name": "Fusilai",
+      "code": "pl"
+    },
+    {
+      "description": "Dilacere silenciosamente os inimigos com as facas de arremesso tradicionais de Gara. Quando utilizadas por Gara, a Velocidade do Projétil é aumentada.",
+      "name": "Fusilai",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：FUSILAI）無聲地以 Gara 的招牌玻璃飛刀撕裂敵人。在被 Gara 使用時，該武器的投射物飛行速度會提升。",
+      "name": "齊射玻刃",
+      "code": "tc"
+    },
+    {
+      "description": "ขว้างมีดแก้วประจำตัวของ Gara ทำลายศัตรูอย่างเงียบ ๆ หาก Gara เป็นผู้ใช้อาวุธชิ้นนี้ก็จะยิ่งเพิ่มความเร็วกระสุนขึ้นอีก",
+      "name": "Fusilai",
+      "code": "th"
+    },
+    {
+      "description": "Gara'nın temsili olan bu camdan bıçaklar ile düşmanlarını sessiz bir şekilde yok et. Gara tarafından kullanıldıklarında ek Mermi Hızı kazanırlar.",
+      "name": "Fusilai",
+      "code": "tr"
+    },
+    {
+      "description": "Скляні метальні ножі Ґари. Гострі, мов бритва — справжня безшумна смерть. Коли їх метає Ґара, вони летять іще швидше.",
+      "name": "Фузілаї",
+      "code": "uk"
+    }
+  ]
+}

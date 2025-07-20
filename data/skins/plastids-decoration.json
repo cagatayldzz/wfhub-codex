@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemPlastids",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/plastids-decoration-bcead5d2c0.png",
+  "name": "Plastids Decoration",
+  "description": "A Plastid resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form von einer Plastide.",
+      "name": "Dekoration: Plastide",
+      "code": "de"
+    },
+    {
+      "description": "Un Plastide à placer dans votre Orbiteur.",
+      "name": "Décoration Plastides",
+      "code": "fr"
+    },
+    {
+      "description": "Dei Plastidi decorativi da piazzare nel tuo Orbiter.",
+      "name": "Plastidi - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 플라스티드 드롭 아이템입니다.",
+      "name": "플라스티드 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo del recurso de plástido para colocar en tu orbitador.",
+      "name": "Decoración de plástido",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的生物质拾取物。",
+      "name": "生物质装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Пластиды",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材のプラスチド。",
+      "name": "プラスチドの装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Plastydy, które możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Plastydy",
+      "code": "pl"
+    },
+    {
+      "description": "Um coletável de plastídeos para colocar em sua Orbital.",
+      "name": "Plastídeos",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的生物質拾取物。",
+      "name": "生物質裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "พลาสทิดส์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "การตกแต่ง: พลาสทิดส์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Plastid bileşeni dekorasyonu.",
+      "name": "Plastid Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цю пластиду на палубі орбітра.",
+      "name": "Оздоблення: пластиди",
+      "code": "uk"
+    }
+  ]
+}

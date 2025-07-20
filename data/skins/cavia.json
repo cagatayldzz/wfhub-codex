@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerCavia",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cavia-d974389bef.png",
+  "name": "Cavia",
+  "description": "Unlocks a collection of colors inspired by the Cavia.",
+  "languages": [
+    {
+      "description": "Schaltet eine von den Cavia inspirierte Sammlung von Farben frei.",
+      "name": "Cavia",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille une collection de couleurs inspirées des Cavias.",
+      "name": "Cavia",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori ispirati ai Cavia.",
+      "name": "Cavia",
+      "code": "it"
+    },
+    {
+      "description": "카비아에게서 영감을 받은 색상들을 잠금 해제합니다.",
+      "name": "카비아",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de colores inspirados en los Cavia.",
+      "name": "Cavia",
+      "code": "es"
+    },
+    {
+      "description": "解锁一组灵感源自于科维兽颜料的颜色包。",
+      "name": "科维兽",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает коллекцию цветов, вдохновлённую Кавией.",
+      "name": "Кавия",
+      "code": "ru"
+    },
+    {
+      "description": "カビアの顔料をイメージしたカラーをアンロックする。",
+      "name": "Cavia",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje zestaw kolorów inspirowany Cavią.",
+      "name": "Cavia",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia uma coleção de cores inspiradas na Cavia.",
+      "name": "Cavia",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖一系列靈感源自參研者的色彩。",
+      "name": "參研者",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีที่ได้รับแรงบันดาลใจจาก Cavia",
+      "name": "Cavia",
+      "code": "th"
+    },
+    {
+      "description": "Cavia'dan ilham alan renk koleksiyonunun kilidini açar.",
+      "name": "Cavia",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра кольорів, натхненна кавіями.",
+      "name": "Кавії",
+      "code": "uk"
+    }
+  ]
+}

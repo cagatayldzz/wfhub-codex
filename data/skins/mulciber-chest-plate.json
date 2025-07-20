@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mulciber-chest-plate-9848318b6e.png",
+  "name": "Mulciber Chest Plate",
+  "description": "From the depths of Deimos comes a chest plate hand-forged by the creator of the Necramechs.",
+  "languages": [
+    {
+      "description": "Aus den Tiefen von Deimos, kommt diese von Hand gefertigte Brustplatte von den Schöpfern der Necramechs.",
+      "name": "Brustplatte: Mulciber",
+      "code": "de"
+    },
+    {
+      "description": "Un Plastron forgé dans les profondeurs de Deimos par le créateur des Necramechs lui-même.",
+      "name": "Plastron Mulciber",
+      "code": "fr"
+    },
+    {
+      "description": "Dalle profondità di Deimos arriva una pettorina forgiata a mano dal creatore dei Necramech.",
+      "name": "Pettorina Mulciber",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크의 창조자가 그 손으로 직접 제작한 체스트 플레이트로, 데이모스의 깊숙한 곳으로부터 나타났습니다.",
+      "name": "물키베르 체스트 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Desde las profundidades de Deimos llega un peto de placas forjado a mano por el creador de los Necramechs.",
+      "name": "Peto de placas Mulciber",
+      "code": "es"
+    },
+    {
+      "description": "来自火卫二的深处的胸甲，由殁世机甲的创造者手工锻造而成。",
+      "name": "熔铸胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Нагрудник, пришедший в этот мир из глубин Деймоса, выкованный вручную создателем Некрамехов.",
+      "name": "Нагрудник: Мульцибер",
+      "code": "ru"
+    },
+    {
+      "description": "ダイモスの奥底に潜むネクロメカの製造者によって作られたチェストプレート。",
+      "name": "Mulciber チェストプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Pochodzący z głębi Deimosa napierśnik, wykuty przez samego twórcę Nekramechów.",
+      "name": "Napierśnik: Mulciber",
+      "code": "pl"
+    },
+    {
+      "description": "Das profundezas de Deimos surge um peitoral forjado à mão pelo próprio criador dos Necramechs.",
+      "name": "Peitoral: Mulciber",
+      "code": "pt"
+    },
+    {
+      "description": "這個胸甲來自火衛二的深淵，由亡骸機甲的創造者手工鍛造。",
+      "name": "穆爾塞伯胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "จากส่วนลึกของเดมอส มาพร้อมกับแผ่นรองหน้าอกที่สร้างขึ้นด้วยมือจากผู้สร้าง Necramech",
+      "name": "เพลตหน้าอก Mulciber",
+      "code": "th"
+    },
+    {
+      "description": "Deimos'un derinliklerinden Necramech'lerin yaratıcısı tarafından elle dövülmüş bir göğüs plakası.",
+      "name": "Mulciber Göğüs Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Нагрудник із глибин Деймоса, викуваний вручну творцем некрамехів.",
+      "name": "Нагрудник «Мальсібер»",
+      "code": "uk"
+    }
+  ]
+}

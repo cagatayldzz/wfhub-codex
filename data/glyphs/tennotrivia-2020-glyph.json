@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2020SimarisGlyph",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennotrivia-2020-glyph-08f4cf8574.png",
+  "name": "Tennotrivia 2020 Glyph",
+  "description": "Given to those attending TennoTrivia at TennoCon 2020.",
+  "languages": [
+    {
+      "description": "Verliehen an diejenigen, die auf der TennoCon 2020 an TennoTrivia teilgenommen haben.",
+      "name": "Glyphe: TennoTrivia 2020",
+      "code": "de"
+    },
+    {
+      "description": "Remis à ceux qui ont participé au TennoTrivia de la TennoCon 2020.",
+      "name": "Glyphe TennoTrivia 2020",
+      "code": "fr"
+    },
+    {
+      "description": "Dato a coloro che hanno assistito al TennoTrivia durante il TennoCon 2020.",
+      "name": "Glifo TennoTrivia 2020",
+      "code": "it"
+    },
+    {
+      "description": "텐노콘 2020 행사에서 텐노트리비아에 참가한 이들에게 주어집니다.",
+      "name": "TennoTrivia 2020 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgada a quienes participaron en la TennoTrivia de TennoCon 2020.",
+      "name": "Glifo TennoTrivia 2020",
+      "code": "es"
+    },
+    {
+      "description": "给予那些参与了 TennoCon2020 中 TennoTrivia 活动的玩家们。",
+      "name": "TennoTrivia 2020 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Выдается тем, кто присоединился к ТэнноВикторине на TennoCon 2020.",
+      "name": "Глиф: ТэнноВикторина 2020",
+      "code": "ru"
+    },
+    {
+      "description": "TennoCon 2020の「TennoTrivia」に参加した者に与えられる。",
+      "name": "TennoTrivia 2020 グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Podarunek dla tych, którzy wzięli udział w TennoTrivia podczas TennoCon 2020.",
+      "name": "Glif TennoTrivia 2020",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido àqueles que participaram do TennoTrivia na TennoCon 2020.",
+      "name": "Glifo: TennoTrivia 2020",
+      "code": "pt"
+    },
+    {
+      "description": "給予那些參與了 TennoCon 2020 慶典中 Tenno 機智問答活動的玩家們。",
+      "name": "TennoCon 2020 機智問答活動浮印",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับผู้ที่เข้าร่วม TennoTrivia ในงาน TennoCon 2020",
+      "name": "ภาพสัญลักษณ์ TennoTrivia 2020",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2020'deki TennoTrivia etkinliğine katılanlara verilmiştir.",
+      "name": "TennoTrivia 2020 Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Видається тим, хто відвідав Тенновікторину під час Теннокону 2020 року.",
+      "name": "Гліф «Тенновікторина 2020»",
+      "code": "uk"
+    }
+  ]
+}

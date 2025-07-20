@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/KuvaLichSetC/KuvaLichArmourCChest",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-tireg-chest-plate-f2d5e60e37.png",
+  "name": "Kuva Tireg Chest Plate",
+  "description": "A Grineer chest plate forged for a reborn Kuva Lich.",
+  "languages": [
+    {
+      "description": "Eine Grineer Brustplatte, geschmiedet für einen wiedergeborenen Kuva Lich.",
+      "name": "Brustplatte: Kuva Tireg",
+      "code": "de"
+    },
+    {
+      "description": "Un Plastron Grineer forgé spécifiquement pour une Liche Kuva réanimée.",
+      "name": "Plastron Tireg Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Una pettorina Grineer forgiata per Kuva Lich rinato.",
+      "name": "Pettorina Kuva Tireg",
+      "code": "it"
+    },
+    {
+      "description": "다시 태어난 쿠바 리치를 위해 제작된 그리니어 체스트 플레이트입니다.",
+      "name": "쿠바 티레그 체스트 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Peto de placas grineer forjado para un Lich de Kuva renacido.",
+      "name": "Peto de placas Kuva Tireg",
+      "code": "es"
+    },
+    {
+      "description": "为一个重生的赤毒玄骸打造的 Grineer 胸甲",
+      "name": "赤毒提里格胸甲",
+      "code": "zh"
+    },
+    {
+      "description": "Выкованный нагрудник Гринир для возрожденного Лича Кувы.",
+      "name": "Нагрудник: Кува Тайрег",
+      "code": "ru"
+    },
+    {
+      "description": "転生したクバ・リッチ用に鍛造されたグリニア式チェストプレート。",
+      "name": "Tireg クバ チェストプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Napierśnik Grineer wykuty dla odrodzonego Licza Kuvy.",
+      "name": "Napierśnik: Kuva Tireg",
+      "code": "pl"
+    },
+    {
+      "description": "Peitoral Grineer forjado para um Lich de Kuva renascido.",
+      "name": "Peitoral: Kuva Tireg",
+      "code": "pt"
+    },
+    {
+      "description": "為重生的赤毒巫妖所鍛造的 Grineer 胸甲。",
+      "name": "赤毒提里格胸甲",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นโลหะที่อกของ Grineer ที่หลอมขึ้นเพื่อ Kuva Lich ที่เกิดใหม่",
+      "name": "เพลตหน้าอก Kuva Tireg",
+      "code": "th"
+    },
+    {
+      "description": "Yeniden doğmuş bir Kuva Lich için dövülmüş Grineer göğüs zırhı.",
+      "name": "Kuva Tireg Göğüs Plakası",
+      "code": "tr"
+    },
+    {
+      "description": "Ґрінерський нагрудник, викуваний для відродженого кувового ліча.",
+      "name": "Нагрудник «Кува „Тиреґ“»",
+      "code": "uk"
+    }
+  ]
+}

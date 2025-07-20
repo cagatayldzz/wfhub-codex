@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/FullAutoShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/boar-8c3c569383.png",
+  "name": "Boar",
+  "description": "A shotgun with low accuracy and strong recoil, but able to deliver its payload in full-auto. The Boar is best used at close range.",
+  "languages": [
+    {
+      "description": "Schrotflinte mit geringer Genauigkeit und hohem Rückstoß, die jedoch einen Auto-Feuermodus besitzt. Die Boar sollte auf kurze Entfernung eingesetzt werden.",
+      "name": "Boar",
+      "code": "de"
+    },
+    {
+      "description": "Un Fusil à Pompe peu précis ayant un fort recul, mais capable de vider son chargeur en tir auto. Le Boar est plus efficace à courte portée.",
+      "name": "Boar",
+      "code": "fr"
+    },
+    {
+      "description": "Un fucile a pompa con bassa precisione e forte rinculo, ma in grado di scaricare la sua piena potenza a raffica. Il Boar è più efficace nel combattimento ravvicinato.",
+      "name": "Boar",
+      "code": "it"
+    },
+    {
+      "description": "낮은 정확도에 반동까지 심하지만, 대신 폭발적인 연사 속도로 산탄을 퍼부을 수 있는 자동 산탄총입니다. 특히 보어는 근접전에서 최고 성능을 발휘합니다.",
+      "name": "보어",
+      "code": "ko"
+    },
+    {
+      "description": "Una escopeta con poca precisión y un fuerte retroceso, pero capaz de descargar su carga de manera automática. Se utiliza mejor a corto alcance.",
+      "name": "Boar",
+      "code": "es"
+    },
+    {
+      "description": "（英文：BOAR）野猪有着较低的精度和大后坐力，但可以全自动发射载弹。最适宜近距离使用。",
+      "name": "野猪",
+      "code": "zh"
+    },
+    {
+      "description": "Дробовик с низкой точностью и мощной отдачей, способен опустошить весь боезапас одной длинной очередью. Вепрь лучше всего использовать на ближней дистанции.",
+      "name": "Вепрь",
+      "code": "ru"
+    },
+    {
+      "description": "精度・リコイルを犠牲にして掃討力を増した接敵秒殺のフルオートショットガン。",
+      "name": "Boar",
+      "code": "ja"
+    },
+    {
+      "description": "Automatyczna strzelba o niskiej celności, ale wysokiej szybkostrzelności. Boar najlepiej sprawdza się w bliskim dystansie.",
+      "name": "Boar",
+      "code": "pl"
+    },
+    {
+      "description": "Uma escopeta com precisão baixa e recuo alto, mas que inflige muito dano por ser automática. A Boar é mais eficiente em curto alcance.",
+      "name": "Boar",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：BOAR）野豬有著較低的精度和大後座力，但可以全自動發射載彈。最適宜近距離使用。",
+      "name": "野豬",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนลูกซองที่มีความแม่นยำต่ำและมีแรงถีบกลับสูง แต่สามารถบรรจุกระสุนอัตโนมัติเต็มรูปแบบ Boar เป็นอาวุธที่เหมาะกับการยิงระยะใกล้",
+      "name": "Boar",
+      "code": "th"
+    },
+    {
+      "description": "Düşük isabet oranı ve güçlü geri tepmeye sahiptir. Ancak cephanesini tam otomatik bir şekilde ateşleyebilir. Boar yakın mesafede etkilidir.",
+      "name": "Boar",
+      "code": "tr"
+    },
+    {
+      "description": "Рушниця з низькою влучністю, сильною віддачею та автоматичною стрільбою. Найліпше застосовувати з близької відстані.",
+      "name": "Вепр",
+      "code": "uk"
+    }
+  ]
+}

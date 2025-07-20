@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValkyrPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-prime-glyph---bright-f6fea0c238.png",
+  "name": "Valkyr Prime Glyph - Bright",
+  "description": "A glyph depicting Valkyr Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Valkyr Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Valkyr Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Valkyr Prime sur un fond lumineux.",
+      "name": "Glyphe Valkyr Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Valkyr Prime su uno sfondo chiaro.",
+      "name": "Glifo Valkyr Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 발키르 프라임을 묘사한 글리프입니다.",
+      "name": "발키르 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Valkyr Prime sobre un fondo brillante.",
+      "name": "Glifo de Valkyr Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr Prime 在明亮背景下的浮印。",
+      "name": "Valkyr Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Валькирии Прайм на светлом фоне.",
+      "name": "Глиф: Валькирия Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Valkyr Prime のグリフ。",
+      "name": "Valkyr Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Valkyr Prime na jasnym tle.",
+      "name": "Glif Valkyr Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Valkyr Prime em um fundo claro.",
+      "name": "Glifo: Valkyr Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Valkyr Prime 在明亮背景下的浮印。",
+      "name": "Valkyr Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Valkyr Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Valkyr Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr Prime açık fonlu glif.",
+      "name": "Valkyr Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Валькірії-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Валькірія-прайм»",
+      "code": "uk"
+    }
+  ]
+}

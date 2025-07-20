@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/WraithQuestRewardDeco",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/statuette---sevagoth--929d172b96.png",
+  "name": "Statuette - Sevagoth ",
+  "description": "Pay homage to the helmsman of The Tempestarii with this Orbiter decoration.",
+  "languages": [
+    {
+      "description": "Ehre den Fährmann der Tempestarii mit dieser Orbiter-Dekoration.",
+      "name": "Statuette: Sevagoth",
+      "code": "de"
+    },
+    {
+      "description": "Rendez hommage au timonier du Tempestarii avec cette décoration d'Orbiteur.",
+      "name": "Statuette - Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Rendi omaggio al timoniere della Tempestarii con questa decorazione per il tuo Orbiter.",
+      "name": "Statuetta - Sevagoth ",
+      "code": "it"
+    },
+    {
+      "description": "이 오비터 장식으로 템페스타리의 조타수에게 경의를 표해보세요.",
+      "name": "조각상 - 세바고스 ",
+      "code": "ko"
+    },
+    {
+      "description": "Rinde homenaje al timonel de la Tempestarii con esta decoración para el orbitador.",
+      "name": "Estatuilla - Sevagoth ",
+      "code": "es"
+    },
+    {
+      "description": "用这件轨道飞行器装饰来向「风暴使者号」的舵手致敬。",
+      "name": "Sevagoth 小型雕像 ",
+      "code": "zh"
+    },
+    {
+      "description": "Отдайте дань уважения рулевому Темпестарии этим украшением для Орбитера.",
+      "name": "Статуэтка: Севагот",
+      "code": "ru"
+    },
+    {
+      "description": "テンペスタリ号のキャプテンをオービターに飾ろう。",
+      "name": "Sevagoth 小像",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj hołd sternikowi Tempestarii dzięki tej dekoracji Orbitera.",
+      "name": "Statuetka — Sevagoth",
+      "code": "pl"
+    },
+    {
+      "description": "Preste suas homenagens ao comandante da Tempestarii com esta decoração para sua Orbital.",
+      "name": "Estatueta do Sevagoth ",
+      "code": "pt"
+    },
+    {
+      "description": "用這個軌道飛行器裝飾物來向暴風號的舵手致敬。",
+      "name": "Sevagoth 小雕像",
+      "code": "tc"
+    },
+    {
+      "description": "แสดงความเคารพต่อนายท้ายของ Tempestarii ด้วยของตกแต่งออร์บิเตอร์นี้",
+      "name": "รูปปั้นเล็ก - Sevagoth ",
+      "code": "th"
+    },
+    {
+      "description": "Bu Orbiter dekorasyonu ile Tempestarii'nin dümencisini onore et.",
+      "name": "Heykelcik - Sevagoth ",
+      "code": "tr"
+    },
+    {
+      "description": "Вшануйте стернового «Буревісника» цим оздобленням для орбітра.",
+      "name": "Статуетка «Севаґот»",
+      "code": "uk"
+    }
+  ]
+}

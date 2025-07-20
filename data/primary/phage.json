@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/phage-5cf65499b3.png",
+  "name": "Phage",
+  "description": "Fires seven beams of continuous biochemical energy which depletes the life of any surface they contact.",
+  "languages": [
+    {
+      "description": "Feuert sieben Strahlen konstanter biochemischer Energie, die jeder Oberfläche, mit der sie in Kontakt kommen, das Leben entziehen.",
+      "name": "Phage",
+      "code": "de"
+    },
+    {
+      "description": "Tire sept rayons d'énergie biochimique continue qui anéantissent toute forme de vie des surfaces qu'ils touchent.",
+      "name": "Phage",
+      "code": "fr"
+    },
+    {
+      "description": "Spara sette fasci continui di energia biochimica che consumano la vita qualsiasi superficie colpiscano.",
+      "name": "Phage",
+      "code": "it"
+    },
+    {
+      "description": "접촉할 경우 생명력을 격감시키는 일곱 줄기의 생화학 빔을 발사하는 무기입니다.",
+      "name": "페이지",
+      "code": "ko"
+    },
+    {
+      "description": "Dispara siete continuos rayos de energía bioquímica que agotan la vida de cualquier superficie en contacto.",
+      "name": "Phage",
+      "code": "es"
+    },
+    {
+      "description": "（英文：PHAGE）射出七道持续性的生化能量，侵蚀任何物质的表面，使其寿命枯竭。",
+      "name": "噬菌者",
+      "code": "zh"
+    },
+    {
+      "description": "Испускает семь лучей постоянной биомеханической энергии, сокращающих время существования любой материи, с которой они контактируют.",
+      "name": "Фаг",
+      "code": "ru"
+    },
+    {
+      "description": "表層に接触しただけで相手の生命を奪う7本の生体エネルギービームを照射する。",
+      "name": "Phage",
+      "code": "ja"
+    },
+    {
+      "description": "Wystrzeliwuje siedem ciągłych promieni biochemicznej energii pozbawiającej życia każdej powierzchni, której dotknie.",
+      "name": "Phage",
+      "code": "pl"
+    },
+    {
+      "description": "Emite sete raios de Energia bioquímica contínua que esgota a vida de qualquer superfície que eles tocam.",
+      "name": "Phage",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：PHAGE）射出七道持續性的生化能量，侵蝕任何物質的表面，使其壽命枯竭。",
+      "name": "噬菌者",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงลำแสงพลังงานชีวเคมีต่อเนื่องเจ็ดลำแสงที่จะพรากทุกชีวิตที่อยู่ในบริเวณที่โดนลำแสง",
+      "name": "Phage",
+      "code": "th"
+    },
+    {
+      "description": "Üstüste 7 adet biyokimyasal enerji içeren mermi fırlatır. Bu mermiler dokunduğu her şeyin içindeki hayat ışığını çekip kurutur.",
+      "name": "Phage",
+      "code": "tr"
+    },
+    {
+      "description": "Рушниця, яка стріляє сімома суцільними променями біохімічної енергії, здатними усунути життя з будь-якої поверхні, з якою контактують.",
+      "name": "Фаг",
+      "code": "uk"
+    }
+  ]
+}

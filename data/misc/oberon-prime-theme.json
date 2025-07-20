@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/OberonPrimeSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-prime-theme-209940b950.png",
+  "name": "Oberon Prime Theme",
+  "description": "Oberon Prime's signature theme music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Oberon Primes bevorzugtes Musikthema, das im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Thema: Oberon Prime",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical emblématique d'Oberon Prime à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Thème Oberon Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale distintivo di Oberon Prime da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Tema Oberon Prime",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 오베론 프라임의 대표 테마곡입니다.",
+      "name": "오베론 프라임 테마",
+      "code": "ko"
+    },
+    {
+      "description": "El tema musical distintivo de Oberon Prime para disfrutar desde el Somacordio en tu Orbitador.",
+      "name": "Tema de Oberon Prime",
+      "code": "es"
+    },
+    {
+      "description": "Oberon Prime 的标志性主题音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "Oberon Prime 主题曲",
+      "code": "zh"
+    },
+    {
+      "description": "Особая музыкальная тема Оберона Прайм, которую можно слушать с помощью сомакорда в Орбитере.",
+      "name": "Тема: Оберон Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるOberon Primeのテーマ曲。",
+      "name": "Oberon Prime Theme",
+      "code": "ja"
+    },
+    {
+      "description": "Naciesz swoje uszy charakterystycznym motywem Oberona Prime na Somakordzie w Orbiterze.",
+      "name": "Motyw: Oberon Prime",
+      "code": "pl"
+    },
+    {
+      "description": "O tema musical tradicional do Oberon Prime para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora do Oberon Prime",
+      "code": "pt"
+    },
+    {
+      "description": "Oberon Prime 的標誌性主題音樂，可透過軌道飛行器中的身心和弦琴欣賞。",
+      "name": "Oberon Prime 主題曲",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบของ Oberon Prime ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Oberon Prime Theme",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Oberon Prime'ın özel tema müziğinin keyfini çıkar.",
+      "name": "Oberon Prime Tema Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна мелодія Оберона-прайм для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Тема Оберона-прайм",
+      "code": "uk"
+    }
+  ]
+}

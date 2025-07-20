@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank31Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/legendary-mastery-slate-c94ea9d996.png",
+  "name": "Legendary Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching Rank 1 - Legendary.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 1 - Legende zu ehren.",
+      "name": "Meisterschaft-Insignie: Legende",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 1 - Légendaire.",
+      "name": "Ardoise de Maîtrise - Légendaire",
+      "code": "fr"
+    },
+    {
+      "description": "Coniato per riconoscere il tuo successo nel raggiungere il Grado 1 - Leggendario.",
+      "name": "Targa Maestria - Leggendario",
+      "code": "it"
+    },
+    {
+      "description": "랭크 1 - 레전더리에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "레전더리 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Acuñado para reconocer tu logro al alcanzar el rango 1 de Legendario.",
+      "name": "Placa de Maestría de Legendario",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到传奇段位 - 1 所打造的物品。",
+      "name": "传奇精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 1 - Легендарный.",
+      "name": "Сланец Мастерства: Легендарный",
+      "code": "ru"
+    },
+    {
+      "description": "レジェンダリランク 1へ到達したテンノの成果を示す表彰楯。",
+      "name": "レジェンダリ マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu Rangi 1 - Legendarny.",
+      "name": "Tablica Mistrzostwa Legendarny",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o 1º Nível Lendário.",
+      "name": "Ardósia de Maestria: Lendário",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 1－傳奇的成就。",
+      "name": "傳奇精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 1 - ตำนาน",
+      "name": "กระดานชนวนความเชี่ยวชาญ: ตำนาน",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 1 -  Efsanevi rütbene ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Legendary Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття рівня майстерності «Легендарний 1».",
+      "name": "Табличка «Легендарний»",
+      "code": "uk"
+    }
+  ]
+}

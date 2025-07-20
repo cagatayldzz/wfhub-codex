@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeB",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/commodore-prime-cuirass-(drifter)-508c6ff064.png",
+  "name": "Commodore Prime Cuirass (Drifter)",
+  "description": "Take command with this regal Drifter suit.",
+  "languages": [
+    {
+      "description": "Übernimm die Kontrolle, mit diesem noblen Drifter-Anzug.",
+      "name": "Kürass: Commodore Prime (Drifter)",
+      "code": "de"
+    },
+    {
+      "description": "Prenez les commandes avec cette Armure majestueuse pour votre Voyageur.",
+      "name": "Cuirasse Commodore Prime (Voyageur)",
+      "code": "fr"
+    },
+    {
+      "description": "Prendi il comando con questa regale tuta per il Drifter.",
+      "name": "Corazza Commodore Prime (Drifter)",
+      "code": "it"
+    },
+    {
+      "description": "이 장엄한 드리프터 수트를 입고 전선을 지휘해 보세요.",
+      "name": "코모도어 프라임 퀴라스 (드리프터)",
+      "code": "ko"
+    },
+    {
+      "description": "Toma el mando con este traje real para el Viajero.",
+      "name": "Coraza Commodore Prime (Viajero)",
+      "code": "es"
+    },
+    {
+      "description": "穿上这套庄严的漂泊者服饰来发布号令。",
+      "name": "海军准将 Prime 胸甲（漂泊者）",
+      "code": "zh"
+    },
+    {
+      "description": "Принимайте командование с этим роскошным костюмом для скитальца.",
+      "name": "Кираса: Коммодор Прайм (скиталец)",
+      "code": "ru"
+    },
+    {
+      "description": "この堂々とした漂流者スーツで指揮を執れ。",
+      "name": "Commodore Prime クイラス（漂流者）",
+      "code": "ja"
+    },
+    {
+      "description": "Przejmij dowodzenie przy pomocy tego królewskiego stroju dla Włóczęgi.",
+      "name": "Napierśnik: Commodore Prime (Włóczęga)",
+      "code": "pl"
+    },
+    {
+      "description": "Assuma o comando com este traje majestoso para o Peregrino.",
+      "name": "Couraça Commodore Prime (Peregrino)",
+      "code": "pt"
+    },
+    {
+      "description": "穿上這套莊嚴的漂泊者服飾來發號施令。",
+      "name": "海軍準將 Prime 胸甲（漂泊者）",
+      "code": "tc"
+    },
+    {
+      "description": "สวมชุดดริฟเตอร์ที่งามสง่าเพื่อออกบัญชาการ",
+      "name": "เสื้อเกราะ Commodore Prime (ดริฟเตอร์)",
+      "code": "th"
+    },
+    {
+      "description": "Komutayı bu gösterişli Gezgin kıyafetiyle ele alın.",
+      "name": "Commodore Prime Göğüs Zırhı (Gezgin)",
+      "code": "tr"
+    },
+    {
+      "description": "Цей костюм просто наділяє мандрівника правом командувати.",
+      "name": "Кіраса «Командор-прайм» (мандрівник)",
+      "code": "uk"
+    }
+  ]
+}

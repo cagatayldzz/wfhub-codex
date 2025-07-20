@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerNarmer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/narmer-8ec3deb931.png",
+  "name": "Narmer",
+  "description": "A selection of colors inspired by the Narmer cult.",
+  "languages": [
+    {
+      "description": "Eine vom Narmer Kult inspirierte Farbauswahl.",
+      "name": "Narmer",
+      "code": "de"
+    },
+    {
+      "description": "Une sélection de couleurs inspirées du culte de Narmer.",
+      "name": "Narmer",
+      "code": "fr"
+    },
+    {
+      "description": "Un selezione di colori ispirata al culto Narmer.",
+      "name": "Narmer",
+      "code": "it"
+    },
+    {
+      "description": "나르메르 교단으로부터 영감을 받은 다양한 색상입니다.",
+      "name": "나르메르",
+      "code": "ko"
+    },
+    {
+      "description": "Una selección de colores inspirados en el culto de Narmer.",
+      "name": "Narmer",
+      "code": "es"
+    },
+    {
+      "description": "一系列灵感来自合一众崇拜组织的色彩。",
+      "name": "合一众",
+      "code": "zh"
+    },
+    {
+      "description": "Набор цветов, вдохновлённый культом Нармера.",
+      "name": "Нармер",
+      "code": "ru"
+    },
+    {
+      "description": "ナルメルカルトをモチーフにしたカラーパレット。",
+      "name": "Narmer",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw kolorów inspirowany kultem Narmer.",
+      "name": "Narmer",
+      "code": "pl"
+    },
+    {
+      "description": "Uma seleção de cores inspirada no culto de Narmer.",
+      "name": "Narmer",
+      "code": "pt"
+    },
+    {
+      "description": "一系列靈感源自於那爾邁教派的色彩。",
+      "name": "那爾邁",
+      "code": "tc"
+    },
+    {
+      "description": "การเลือกสรรชุดสีที่ได้รับแรงบันดาลใจจากลัทธิ Narmer",
+      "name": "Narmer",
+      "code": "th"
+    },
+    {
+      "description": "Narmer ekolünden esinlenilmiş bir renk paleti.",
+      "name": "Narmer",
+      "code": "tr"
+    },
+    {
+      "description": "Палітра кольорів, натхненна культом Нармера.",
+      "name": "Нармер",
+      "code": "uk"
+    }
+  ]
+}

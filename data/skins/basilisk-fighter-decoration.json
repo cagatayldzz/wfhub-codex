@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCorpusBasilisk",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/basilisk-fighter-decoration-7065b591c8.png",
+  "name": "Basilisk Fighter Decoration",
+  "description": "A stunningly detailed representation of the signature Corpus fighter craft.",
+  "languages": [
+    {
+      "description": "Eine erstaunlich detaillierte Darstellung des typischen Corpus Jägers.",
+      "name": "Dekoration: Basilisk Jäger",
+      "code": "de"
+    },
+    {
+      "description": "Une représentation incroyablement détaillée du célèbre chasseur Corpus.",
+      "name": "Décoration Chasseur Basilisk",
+      "code": "fr"
+    },
+    {
+      "description": "Una rappresentazione incredibilmente dettagliata del caratteristico caccia Corpus.",
+      "name": "Decorazione - Caccia Basilisk",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스의 특징적인 전투 기체를 놀랍도록 세밀하게 표현한 장식물입니다.",
+      "name": "바실리스크 전투 기체 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una representación increíblemente detallada del caza distintivo corpus.",
+      "name": "Decoración de caza Basilisk",
+      "code": "es"
+    },
+    {
+      "description": "以惊人的细节展示了标志性的 Corpus 战机。",
+      "name": "蛇妖战机装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Потрясающе детализированная модель фирменного истребителя Корпуса.",
+      "name": "Украшение: Истребитель Василиска",
+      "code": "ru"
+    },
+    {
+      "description": "コーパス戦闘機を細かく再表現したモデル。",
+      "name": "バジリスク戦闘機の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Oszałamiająco szczegółowa replika charakterystycznego myśliwca Corpus.",
+      "name": "Ozdoba: Myśliwiec Basilisk",
+      "code": "pl"
+    },
+    {
+      "description": "Uma representação incrivelmente detalhada do caça tradicional dos Corpus.",
+      "name": "Caça Basilisco",
+      "code": "pt"
+    },
+    {
+      "description": "標誌性 Corpus 戰機的驚人細緻呈現。",
+      "name": "蛇蜥號戰機裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "รูปแบบจำลองยานรบที่เป็นซิกเนเจอร์ของ Corpus ที่แสดงรายละเอียดไว้อย่างน่าทึ่ง",
+      "name": "ของตกแต่ง: เครื่องบินรบ Basilisk",
+      "code": "th"
+    },
+    {
+      "description": "Corpus avcı gemisinin şaşırtıcı derecede ayrıntılı bir temsili.",
+      "name": "Basilisk Avcı Gemisi Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Приголомшливо детальна модель бойового судна Корпусу.",
+      "name": "Оздоблення: винищувач «Василіск»",
+      "code": "uk"
+    }
+  ]
+}

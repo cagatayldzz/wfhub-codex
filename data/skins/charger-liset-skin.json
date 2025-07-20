@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Liset/InfChargerLisetSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/charger-liset-skin-16e91e6000.png",
+  "name": "Charger Liset Skin",
+  "description": "Give your Liset the look of an Infested Charger.",
+  "languages": [
+    {
+      "description": "Verleihe deiner Liset das Aussehen eines befallenen Stürmers.",
+      "name": "Liset-Skin: Stürmer",
+      "code": "de"
+    },
+    {
+      "description": "Donnez à votre Liset l’apparence d’un Chargeur Infesté.",
+      "name": "Aspect Liset Chargeur",
+      "code": "fr"
+    },
+    {
+      "description": "Dai alla tua Liset l'aspetto di un Charger Infested.",
+      "name": "Skin Liset Charger",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 리셋에 인페스티드 차저의 모습을 깃들여 보세요.",
+      "name": "차저 리셋 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Dale a tu Liset el aspecto de un Cargador infestado.",
+      "name": "Diseño Cargador de Liset",
+      "code": "es"
+    },
+    {
+      "description": "让你的 Liset 看起来像一只 Infested 疾冲者。",
+      "name": "Liset 疾冲者外观",
+      "code": "zh"
+    },
+    {
+      "description": "Придайте своему Лисету вид заражённого инфестоида",
+      "name": "Скин Лисета: Инфестоид",
+      "code": "ru"
+    },
+    {
+      "description": "ライセットに感染体チャージャーの外観を与えよう。",
+      "name": "ライセット Charger スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Nadaj swojemu Lisetowi wygląd Tarana Plagi.",
+      "name": "Liset: Skórka Taran",
+      "code": "pl"
+    },
+    {
+      "description": "Dê à sua Liset a aparência de um Bandoleiro Infestado.",
+      "name": "Liset: Skin do Bandoleiro",
+      "code": "pt"
+    },
+    {
+      "description": "幫你的 Liset 改造出感染疾衝者的造型。",
+      "name": "Liset 疾衝者外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินที่ทำให้ Liset ของคุณมีรูปลักษณ์เหมือน Infested Charger",
+      "name": "สกิน Charger Liset",
+      "code": "th"
+    },
+    {
+      "description": "Liset'ine Infested Charger görünümünü kazandır.",
+      "name": "Charger Liset Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Надайте своєму десантному судну «Лісет» вигляд зараженого гінчака.",
+      "name": "Вигляд «Гінчак» для Лісета",
+      "code": "uk"
+    }
+  ]
+}

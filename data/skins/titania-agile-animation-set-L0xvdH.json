@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Fairy/UnlockFairyAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/titania-agile-animation-set-97df5f651b.png",
+  "name": "Titania Agile Animation Set",
+  "description": "This item lets you use Titania's agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Titanias agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Titania-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles de Titania avec n'importe quelle autre Warframe.",
+      "name": "Animation Titania Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Titania con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Titania",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 티타니아의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "티타니아 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Titania con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Titania",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Titania 的迅捷站姿。",
+      "name": "Titania 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Титании на любом другом варфрейме.",
+      "name": "Набор анимаций Титании: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Titaniaのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Titania アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Titani w każdym innym Warframe'ie.",
+      "name": "Animacje Titanii: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis da Titania em qualquer Warframe de sua escolha.",
+      "name": "Animações: Titania (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Titania 的迅捷站姿。",
+      "name": "Titania 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Titania ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Titania",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Titania'nın agile animasyon setinin kullanımına izin verir.",
+      "name": "Titanıa Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Титанії до будь-якого ворфрейма.",
+      "name": "Титанія: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

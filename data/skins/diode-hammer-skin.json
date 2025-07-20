@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltDeluxeMaceSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/diode-hammer-skin-5d0c6eb387.png",
+  "name": "Diode Hammer Skin",
+  "description": "Make sparks fly with Volt Proto’s signature hammer skin.",
+  "languages": [
+    {
+      "description": "Lass die Funken fliegen mit dem unverkennbarem Hammer-Skin von Volt Proto.",
+      "name": "Hammer-Skin: Diode",
+      "code": "de"
+    },
+    {
+      "description": "Faites crépiter des étincelles avec l'Aspect de Marteau emblématique de Volt Proto.",
+      "name": "Aspect de Marteau Diode",
+      "code": "fr"
+    },
+    {
+      "description": "Fai scintille con la skin distintiva per martelli di Volt Proto.",
+      "name": "Skin Martelli Diode",
+      "code": "it"
+    },
+    {
+      "description": "볼트 프로토의 대표 해머 스킨과 함께 전기 불꽃을 일으켜보세요.",
+      "name": "다이오드 해머 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Haz que las chispas vuelen con el diseño característico de Volt Proto.",
+      "name": "Diseño Diode de Martillos",
+      "code": "es"
+    },
+    {
+      "description": "运用 Volt 原型的标志性战锤外观使电火花飞溅起来。",
+      "name": "二极管战锤外观",
+      "code": "zh"
+    },
+    {
+      "description": "Искритесь с особым скином для молота Вольта «Прото».",
+      "name": "Скин Молота: Диод",
+      "code": "ru"
+    },
+    {
+      "description": "Volt Protoを象徴するハンマースキンで電流を昂らせろ。",
+      "name": "Diode ハンマー スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Spraw, by leciały iskry z tą charakterystyczną skórką do młotów Volta Proto.",
+      "name": "Młot: Skórka Diode",
+      "code": "pl"
+    },
+    {
+      "description": "Solte faíscas pelo ar com a Skin tradicional do Volt Proto para martelos.",
+      "name": "Martelo: Skin Diode",
+      "code": "pt"
+    },
+    {
+      "description": "運用 Volt 原型標誌性的戰鎚外觀使電火花飛濺起來。",
+      "name": "戰鎚 二極體外觀",
+      "code": "tc"
+    },
+    {
+      "description": "ทำให้ประกายไฟโบยบินได้ด้วยสกินค้อนอันเป็นเอกลักษณ์ของ Volt Proto",
+      "name": "สกินค้อน Diode",
+      "code": "th"
+    },
+    {
+      "description": "Volt Proto'nun temsili çekiciyle kıvılcımları uçurun.",
+      "name": "Diode Çekiç Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Сипте іскри за допомогою цього вигляду до молота з колекції «Прото» для Вольта.",
+      "name": "Вигляд «Діод» для молота",
+      "code": "uk"
+    }
+  ]
+}

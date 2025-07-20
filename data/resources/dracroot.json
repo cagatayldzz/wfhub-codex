@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dracroot-f10a963d7e.png",
+  "name": "Dracroot",
+  "description": "Dracroot is a staple of the Wyrmling’s diet.\n\nLocation: Duviri",
+  "languages": [
+    {
+      "description": "Drac-Wurzel ist ein Hauptbestandteil der Ernährung eines Wyrmlings.\n\nQuelle: Duviri",
+      "name": "Drac-Wurzel",
+      "code": "de"
+    },
+    {
+      "description": "La Dracoracine est un aliment de base du régime alimentaire du Wyrmling.\n\nLieu: Duviri",
+      "name": "Dracoracine",
+      "code": "fr"
+    },
+    {
+      "description": "Il Dracroot è un alimento base della dieta del Wyrmling.\n\nPosizione: Duviri",
+      "name": "Dracroot",
+      "code": "it"
+    },
+    {
+      "description": "드레이크룻은 새끼 용들의 식단에 있어 필수품으로 여겨집니다.\n\n획득 가능 장소: 두비리",
+      "name": "드레이크룻",
+      "code": "ko"
+    },
+    {
+      "description": "La dracroot es un alimento básico de la dieta de los wyrmcitos.\n\nUbicación: Duviri",
+      "name": "Dracroot",
+      "code": "es"
+    },
+    {
+      "description": "龙旋根是魇龙幼体的主食。\n\n获取地点：双衍王境",
+      "name": "龙旋根",
+      "code": "zh"
+    },
+    {
+      "description": "Дракорень является основным продуктом питания вирмлингов.\n\nМестонахождение: Дувири",
+      "name": "Дракорень",
+      "code": "ru"
+    },
+    {
+      "description": "ドラクルートはワームリングの主食である。\n\n場所：デュヴィリ",
+      "name": "ドラクルート",
+      "code": "ja"
+    },
+    {
+      "description": "Korzeń Draka jest podstawą diety Orożmijek.\n\nPołożenie: Duviri",
+      "name": "Korzeń Draka",
+      "code": "pl"
+    },
+    {
+      "description": "Raiz Dracônica é um alimento básico da dieta de filhotes de Wyrm.\n\nLocalização: Duviri",
+      "name": "Raiz Dracônica",
+      "code": "pt"
+    },
+    {
+      "description": "龍參是雛龍的食物中的主食。\n\n地點：渡域",
+      "name": "龍參",
+      "code": "tc"
+    },
+    {
+      "description": "แดร็กรูทเป็นวัตถุดิบในอาหารของ Wyrmling\n\nแหล่งที่พบ: Duviri",
+      "name": "แดร็กรูท",
+      "code": "th"
+    },
+    {
+      "description": "Drac Kökü, Wyrmling'in diyetinin temelidir.\n\nKonum: Duviri",
+      "name": "Drac Kökü",
+      "code": "tr"
+    },
+    {
+      "description": "Дракорінь — основа раціону змієнят.\n\nМожна здобути в Дувірі.",
+      "name": "Дракорінь",
+      "code": "uk"
+    }
+  ]
+}

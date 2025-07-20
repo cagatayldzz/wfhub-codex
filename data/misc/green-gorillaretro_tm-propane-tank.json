@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/green-gorillaretro_tm-propane-tank-ab35650658.png",
+  "name": "Green Gorilla<Retro_tm> Propane Tank",
+  "description": "Green Gorilla<RETRO_TM> Propane is more than just propane. It's propane in a tank. ",
+  "languages": [
+    {
+      "description": "Grüner Gorilla<RETRO_TM>-Propan ist mehr als nur Propan. Es ist Propan in einem Tank. ",
+      "name": "Grüner Gorilla<RETRO_TM>: Propangastank",
+      "code": "de"
+    },
+    {
+      "description": "Le propane Green Gorilla<RETRO_TM> est bien plus que du propane. C'est du propane dans un réservoir. ",
+      "name": "Réservoir de propane Green Gorilla<RETRO_TM>",
+      "code": "fr"
+    },
+    {
+      "description": "Il propano Gorilla Verde<RETRO_TM> è più di semplice propano. È propano in bottiglia. ",
+      "name": "Bombola di Propano Gorilla Verde<RETRO_TM>",
+      "code": "it"
+    },
+    {
+      "description": "그린 고릴라<RETRO_TM> 프로판은 그냥 프로판이 아닙니다. 탱크에 담긴 프로판이지요. ",
+      "name": "그린 고릴라<RETRO_TM> 프로판 탱크",
+      "code": "ko"
+    },
+    {
+      "description": "El propano Gorila Verde<RETRO_TM> es más que solo propano. Es propano en un tanque. ",
+      "name": "Tanque de propano Gorila Verde<RETRO_TM>",
+      "code": "es"
+    },
+    {
+      "description": "绿色大猩猩<RETRO_TM>丙烷罐不仅仅是丙烷。这是装在罐子里的丙烷。 ",
+      "name": "绿色大猩猩<RETRO_TM>丙烷罐",
+      "code": "zh"
+    },
+    {
+      "description": "Пропан «Грин Горилла»<RETRO_TM> — это не просто пропан. Это пропан в баллоне.",
+      "name": "Баллон с пропаном «Грин Горилла»<RETRO_TM>",
+      "code": "ru"
+    },
+    {
+      "description": "グリーン・ゴリラ<RETRO_TM> プロパンタンクはただのプロパンではありません。何とタンクでもあります。",
+      "name": "グリーン・ゴリラ<RETRO_TM> プロパンタンク",
+      "code": "ja"
+    },
+    {
+      "description": "Gaz Green Gorilla<RETRO_TM> to więcej niż tylko gaz. To gaz w zbiorniku. ",
+      "name": "Green Gorilla<RETRO_TM>: Zbiornik z gazem",
+      "code": "pl"
+    },
+    {
+      "description": "O Botijão de Gás Gorila Verde<RETRO_TM> é mais do que apenas propano. É propano em um botijão. ",
+      "name": "Botijão de Gás Gorila Verde<RETRO_TM>",
+      "code": "pt"
+    },
+    {
+      "description": "綠色大猩猩<RETRO_TM>丙烷罐不只是丙烷。它是罐中的丙烷。",
+      "name": "綠色大猩猩<RETRO_TM>丙烷罐",
+      "code": "tc"
+    },
+    {
+      "description": "ถังโพรเพน Green Gorilla<RETRO_TM> ไม่ใช่แค่แก๊สโพรเพนเท่านั้น แต่มันคือโพรเพนในถัง ",
+      "name": "ถังโพรเพน Green Gorilla<RETRO_TM>",
+      "code": "th"
+    },
+    {
+      "description": "Green Gorilla<RETRO_TM> Propan, sadece propandan ibaret değildir. Tüpteki bir propandır. ",
+      "name": "Green Gorilla<RETRO_TM> Propan Tüpü",
+      "code": "tr"
+    },
+    {
+      "description": "Пропан від «Зелена горила»<RETRO_TM> більше аніж просто пропан. Це пропан у балоні.",
+      "name": "Балон із пропаном «Зелена горила»<RETRO_TM>",
+      "code": "uk"
+    }
+  ]
+}

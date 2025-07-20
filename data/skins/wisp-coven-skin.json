@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wisp/SWCovenWispSkin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wisp-coven-skin-9a62718741.png",
+  "name": "Wisp Coven Skin",
+  "description": "A skin for the Wisp Warframe, designed by malaya and blazingcobalt.",
+  "languages": [
+    {
+      "description": "Ein Skin für den Wisp Warframe, entworfen von malaya und blazingcobalt.",
+      "name": "Wisp-Skin: Coven",
+      "code": "de"
+    },
+    {
+      "description": "Un Aspect pour la Warframe Wisp, conçu par malaya et blazingcobalt.",
+      "name": "Aspect Wisp Coven",
+      "code": "fr"
+    },
+    {
+      "description": "Una Skin per il Warframe Wisp, ideata da malaya e blazingcobalt.",
+      "name": "Skin Wisp Coven",
+      "code": "it"
+    },
+    {
+      "description": "malaya와 blazingcobalt에 의해 디자인된 위습 워프레임을 위한 스킨입니다.",
+      "name": "위습 코븐 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Un diseño para el warframe Wisp, diseñado por malaya y blazingcobalt.",
+      "name": "Diseño Coven de Wisp",
+      "code": "es"
+    },
+    {
+      "description": "Wisp 战甲的外观，由 malaya 和 blazingcobalt 设计。",
+      "name": "Wisp 女巫外观",
+      "code": "zh"
+    },
+    {
+      "description": "Скин для варфрейма Висп, созданный malaya and blazingcobalt.",
+      "name": "Скин Висп: Ковен",
+      "code": "ru"
+    },
+    {
+      "description": "Wisp用のスキン。製作者： malaya、blazingcobalt。",
+      "name": "Wisp Coven スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Skórka dla Warframe Wisp, zaprojektowana przez malaya i blazingcobalt.",
+      "name": "Wisp: Skórka Coven",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Skin para o Warframe Wisp, desenvolvida por malaya e blazingcobalt.",
+      "name": "Wisp: Skin Coven",
+      "code": "pt"
+    },
+    {
+      "description": "Wisp Warframe 的外觀，由 malaya 和 blazingcobalt 設計。",
+      "name": "Wisp 邪巫外觀",
+      "code": "tc"
+    },
+    {
+      "description": "สกินสำหรับ Wisp Warframe ออกแบบโดย malaya และ blazingcobalt",
+      "name": "สกิน Wisp Coven",
+      "code": "th"
+    },
+    {
+      "description": "Malaya ve blazingcobalt tarafından Wisp Warframe için dizayn edilmiş bir skin.",
+      "name": "Wisp Coven Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Вигляд для ворфрейма Вісп, створений malaya та blazingcobalt.",
+      "name": "Вигляд «Завіт» для Вісп",
+      "code": "uk"
+    }
+  ]
+}

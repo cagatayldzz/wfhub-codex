@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Saryn/SarynLunarNewYearHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/saryn-yuheng-helmet-20d0092b7a.png",
+  "name": "Saryn Yuheng Helmet",
+  "description": "Saryn Yuheng's signature helmet.",
+  "languages": [
+    {
+      "description": "Saryn Yuhengs bevorzugter Helm.",
+      "name": "Saryn-Helm: Yuheng",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Saryn Yuheng.",
+      "name": "Casque Saryn Yuheng",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo distintivo di Saryn Yuheng.",
+      "name": "Elmo Saryn Yuheng",
+      "code": "it"
+    },
+    {
+      "description": "새린 옥형의 대표 헬멧입니다.",
+      "name": "새린 옥형 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Saryn Yuheng.",
+      "name": "Casco Yuheng de Saryn",
+      "code": "es"
+    },
+    {
+      "description": "Saryn 玉恒的标志性头盔。",
+      "name": "Saryn 玉恒头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Сарины «Юхэн».",
+      "name": "Шлем Сарины: Юхэн",
+      "code": "ru"
+    },
+    {
+      "description": "Saryn Yuhengのメインヘルメット。",
+      "name": "Saryn Yuheng ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Saryn Yuheng.",
+      "name": "Saryn: Hełm Yuheng",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Saryn Yuheng.",
+      "name": "Saryn: Capacete Yuheng",
+      "code": "pt"
+    },
+    {
+      "description": "Saryn 玉衡的標誌性頭盔。",
+      "name": "Saryn 玉衡頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Saryn Yuheng",
+      "name": "หมวกเหล็ก Saryn Yuheng",
+      "code": "th"
+    },
+    {
+      "description": "Saryn Yuheng'in özel miğferi.",
+      "name": "Saryn Yuheng Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Юйхен» для Зарини.",
+      "name": "Шолом «Юйхен» для Зарини",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-harrier-helmet-8eb0b0f1b3.png",
+  "name": "Zephyr Harrier Helmet",
+  "description": "Zephyr Harrier's signature helmet.",
+  "languages": [
+    {
+      "description": "Zephyr Harriers bevorzugter Helm.",
+      "name": "Zephyr-Helm: Harrier",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique de Zephyr Harrier.",
+      "name": "Casque Zephyr Harrier",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo distintivo di Zephyr Harrier.",
+      "name": "Elmo Zephyr Harrier",
+      "code": "it"
+    },
+    {
+      "description": "제피르 해리어의 대표 헬멧입니다.",
+      "name": "제피르 해리어 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Zephyr Harrier.",
+      "name": "Casco Harrier de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 鹞式的标志性头盔",
+      "name": "Zephyr 鹞式头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Зефир «Харриер».",
+      "name": "Шлем Зефир: Харриер",
+      "code": "ru"
+    },
+    {
+      "description": "Zephyr Harrierのメインヘルメット。",
+      "name": "Zephyr Harrier ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Zephyr Harrier.",
+      "name": "Zephyr: Hełm Harrier",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional da Zephyr Harrier.",
+      "name": "Zephyr: Capacete Harrier",
+      "code": "pt"
+    },
+    {
+      "description": "Zephyr 鷂亞的標誌性頭盔。",
+      "name": "Zephyr 鷂亞頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Zephyr Harrier",
+      "name": "หมวกเหล็ก Zephyr Harrier",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr Harrier'ın özel miğferi.",
+      "name": "Zephyr Harrier Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Гаррієр» для ворфрейма Зефіри.",
+      "name": "Шолом «Гаррієр» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

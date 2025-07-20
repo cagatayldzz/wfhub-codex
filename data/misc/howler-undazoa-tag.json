@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedZongroRare",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/howler-undazoa-tag-3f9ab53363.png",
+  "name": "Howler Undazoa Tag",
+  "description": "For saving a specimen of this species.",
+  "languages": [
+    {
+      "description": "Exemplar dieser Art gerettet.",
+      "name": "MARKE: HEULER-UNDAZOA",
+      "code": "de"
+    },
+    {
+      "description": "Pour avoir sauvé un spécimen de cette sous-espèce.",
+      "name": "JETON UNDAZOA HURLEUR",
+      "code": "fr"
+    },
+    {
+      "description": "Per aver salvato un esemplare di questa specie.",
+      "name": "ETICHETTA HOWLER UNDAZOA",
+      "code": "it"
+    },
+    {
+      "description": "이 아종의 표본을 보존했다는 증표입니다.",
+      "name": "하울러 운다조아 태그",
+      "code": "ko"
+    },
+    {
+      "description": "Para salvar especímenes de esta especie.",
+      "name": "MARCADOR DE UNDAZOA AULLADOR",
+      "code": "es"
+    },
+    {
+      "description": "该标签代表你保存了这个物种的一个样本。",
+      "name": "尖啸水螅履虫标签",
+      "code": "zh"
+    },
+    {
+      "description": "За спасение образца этого вида.",
+      "name": "ЖЕТОН: РЕВУЩАЯ УНДАЗОА",
+      "code": "ru"
+    },
+    {
+      "description": "この品種を保護すると入手できるタグ。",
+      "name": "ハウラーアンダゾア タグ",
+      "code": "ja"
+    },
+    {
+      "description": "Za uratowanie okazu tego podgatunku.",
+      "name": "PLAKIETKA UNDAZŁO WYJEC",
+      "code": "pl"
+    },
+    {
+      "description": "Obtido por salvar um espécime dessa subespécie.",
+      "name": "MARCADOR: UNDAZOA UIVADOR",
+      "code": "pt"
+    },
+    {
+      "description": "為了保存此物種的樣本。",
+      "name": "尖吼覓液蟲標籤",
+      "code": "tc"
+    },
+    {
+      "description": "ไว้สำหรับเก็บตัวอย่างของสายพันธุ์นี้",
+      "name": "แท็ก HOWLER UNDAZOA",
+      "code": "th"
+    },
+    {
+      "description": "Bu türün örneğini saklamak için.",
+      "name": "HOWLER UNDAZOA ETİKETİ",
+      "code": "tr"
+    },
+    {
+      "description": "За порятунок істоти цього виду.",
+      "name": "ЖЕТОН ВЕРЕСКЛИВОЇ УНДАЗОИ",
+      "code": "uk"
+    }
+  ]
+}

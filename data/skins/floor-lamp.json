@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxFloorLampA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/floor-lamp-5f41e8f747.png",
+  "name": "Floor Lamp",
+  "description": "A metal floor lamp with a lampshade.",
+  "languages": [
+    {
+      "description": "Eine Stehlampe aus Metall mit Lampenschirm.",
+      "name": "Stehlampe",
+      "code": "de"
+    },
+    {
+      "description": "Un lampadaire en métal avec un abat-jour.",
+      "name": "Lampadaire",
+      "code": "fr"
+    },
+    {
+      "description": "Lampada da terra in metallo con paralume.",
+      "name": "Lampada da terra",
+      "code": "it"
+    },
+    {
+      "description": "갓이 달린 금속 플로어 램프입니다.",
+      "name": "플로어 램프",
+      "code": "ko"
+    },
+    {
+      "description": "Lámpara de pie de metal con pantalla.",
+      "name": "Lámpara de pie",
+      "code": "es"
+    },
+    {
+      "description": "带灯罩的金属落地灯。",
+      "name": "落地灯",
+      "code": "zh"
+    },
+    {
+      "description": "Металлический торшер с абажуром.",
+      "name": "Торшер",
+      "code": "ru"
+    },
+    {
+      "description": "ランプシェード付きの金属製フロアランプ。",
+      "name": "フロアランプ",
+      "code": "ja"
+    },
+    {
+      "description": "Metalowa lampa z kloszem.",
+      "name": "Lampa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma luminária de chão de metal com cúpula.",
+      "name": "Luminária de Chão",
+      "code": "pt"
+    },
+    {
+      "description": "帶有燈罩的金屬落地燈。",
+      "name": "落地燈",
+      "code": "tc"
+    },
+    {
+      "description": "โคมไฟตั้งพื้นทำจากโลหะพร้อมโคมไฟ",
+      "name": "โคมไฟตั้งพื้น",
+      "code": "th"
+    },
+    {
+      "description": "Abajurlu metal ayaklı lamba.",
+      "name": "Zemin Lambası",
+      "code": "tr"
+    },
+    {
+      "description": "Металева напільна висока лампа з абажуром.",
+      "name": "Торшер",
+      "code": "uk"
+    }
+  ]
+}

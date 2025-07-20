@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxTrophyC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-trophy-(lunaro-ball)-365f45de06.png",
+  "name": "Zariman Trophy (Lunaro Ball)",
+  "description": "A gold trophy with a Lunaro ball.",
+  "languages": [
+    {
+      "description": "Eine goldene Trophäe eines Lunaro-Balls.",
+      "name": "Zariman Trophäe (Lunaro-Ball)",
+      "code": "de"
+    },
+    {
+      "description": "Un trophée doré avec une balle de Lunaro.",
+      "name": "Zariman: Trophée (Lunaro, balle)",
+      "code": "fr"
+    },
+    {
+      "description": "Un trofeo d'oro con una palla da Lunaro.",
+      "name": "Trofeo Zariman (Palla Lunaro)",
+      "code": "it"
+    },
+    {
+      "description": "루나로 공을 묘사한 황금빛 트로피입니다.",
+      "name": "자리만 트로피 (루나로 공)",
+      "code": "ko"
+    },
+    {
+      "description": "Un trofeo de oro de un balón de Lunaro.",
+      "name": "Trofeo Zariman (balón de Lunaro)",
+      "code": "es"
+    },
+    {
+      "description": "一个带有月动球的黄金奖杯。",
+      "name": "扎里曼奖杯（月动球）",
+      "code": "zh"
+    },
+    {
+      "description": "Золотой мяч Лунаро.",
+      "name": "Зариман: Трофей (Мяч Лунаро)",
+      "code": "ru"
+    },
+    {
+      "description": "ルナーロで使用されるボールの黄金トロフィー。",
+      "name": "Zariman トロフィー（ルナーロボール）",
+      "code": "ja"
+    },
+    {
+      "description": "Złote trofeum kuli Lunaro.",
+      "name": "Zariman: Trofeum (Kula Lunaro)",
+      "code": "pl"
+    },
+    {
+      "description": "Um troféu dourado de uma bola de Lunaro.",
+      "name": "Troféu da Zariman (Bola de Lunaro)",
+      "code": "pt"
+    },
+    {
+      "description": "帶有月動球的黃金奬盃。",
+      "name": "扎日曼奬盃（月動球）",
+      "code": "tc"
+    },
+    {
+      "description": "ถ้วยรางวัลสีทองกับลูกบอล Lunaro",
+      "name": "Zariman: ถ้วยรางวัล (Lunaro Ball)",
+      "code": "th"
+    },
+    {
+      "description": "Lunaro topu olan bir altın kupa.",
+      "name": "Zariman Kupası (Lunaro Topu)",
+      "code": "tr"
+    },
+    {
+      "description": "Золотий трофей — м’яч лунаро.",
+      "name": "Трофей із «Заримена» (м’яч лунаро)",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/InfestedMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mandible-sentinel-mask-e2d5ead64b.png",
+  "name": "Mandible Sentinel Mask",
+  "description": "A mask attachment for your sentinel pet.",
+  "languages": [
+    {
+      "description": "Eine Maske für deinen Wächter.",
+      "name": "Wächtermaske: Mandible",
+      "code": "de"
+    },
+    {
+      "description": "Un Masque pour votre Sentinelle.",
+      "name": "Masque Mandibules",
+      "code": "fr"
+    },
+    {
+      "description": "Una maschera per la tua sentinella.",
+      "name": "Maschera Sentinella Mandible",
+      "code": "it"
+    },
+    {
+      "description": "센티넬 펫에 장착시킬 수 있는 가면입니다.",
+      "name": "맨디블 센티넬 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Una máscara para tu mascota centinela.",
+      "name": "Máscara Mandíbula",
+      "code": "es"
+    },
+    {
+      "description": "守护宠物的面具配件。",
+      "name": "下颚骨守护面具",
+      "code": "zh"
+    },
+    {
+      "description": "Маска для вашего стража.",
+      "name": "Маска стража: Жвалы",
+      "code": "ru"
+    },
+    {
+      "description": "センチネル用のマスク。",
+      "name": "Mandible マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Maska dla Strażnika.",
+      "name": "Maska Strażnika: Mandible",
+      "code": "pl"
+    },
+    {
+      "description": "Uma máscara como acessório para seu sentinela.",
+      "name": "Máscara de Sentinela: Mandible",
+      "code": "pt"
+    },
+    {
+      "description": "守護寵物的面具配件。",
+      "name": "下顎骨守護面具",
+      "code": "tc"
+    },
+    {
+      "description": "หน้ากากที่ยึดติดกับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "หน้ากากเซนติเนล Mandible",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için maske.",
+      "name": "Mandible Sentinel Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Маска для вашого вартового улюбленця.",
+      "name": "Маска «Жувальця» для вартового",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Research/DataMassPlus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/corpus-datamass-14229a9089.png",
+  "name": "Corpus Datamass",
+  "description": "A Corpus datamass containing encrypted intel. Crafting component required to create a CORPUS VOID KEY",
+  "languages": [
+    {
+      "description": "Ein Corpus Datenträger, der verschlüsselte Aufklärungsdaten enthält. Eine Herstellungskomponente, die benötigt wird, um einen CORPUS VOID-SCHLÜSSEL zu bauen.",
+      "name": "Corpus Datenträger",
+      "code": "de"
+    },
+    {
+      "description": "Un Datamass Corpus contenant des renseignements cryptés. Composant nécessaire pour créer une CLÉ DU NÉANT CORPUS",
+      "name": "Datamass Corpus",
+      "code": "fr"
+    },
+    {
+      "description": "Un datamass Corpus contenente informazioni criptate. Componente richiesto per creare una VOID KEY CORPUS.",
+      "name": "Datamass Corpus",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스 보이드 키를 만들기 위해서 필요한 재료입니다. 암호화 되어 있는 코퍼스의 정보를 담고 있습니다.",
+      "name": "코퍼스 데이터매스",
+      "code": "ko"
+    },
+    {
+      "description": "Un paquete de datos corpus que contiene información encriptada. Componente requerido para construir una LLAVE DEL VACÍO CORPUS",
+      "name": "Paquete de datos corpus",
+      "code": "es"
+    },
+    {
+      "description": "一个内含加密情报的 Corpus 数据块。制造CORPUS 虚空钥匙组件所必要的组件。",
+      "name": "Corpus 数据块",
+      "code": "zh"
+    },
+    {
+      "description": "Узел данных Корпуса, содержащий зашифрованную информацию. Один из компонентов, необходимых для создания ключа бездны Корпуса.",
+      "name": "Узел данных Корпуса",
+      "code": "ru"
+    },
+    {
+      "description": "暗号化された情報を含むコーパスのデータマス。 コーパス製 VOID キーの製作に必要。",
+      "name": "コーパス データマス",
+      "code": "ja"
+    },
+    {
+      "description": "Nośnik danych Corpus zawierająca zaszyfrowane informacje. Element składowy wymagany do stworzenia Klucza Pustki Corpus",
+      "name": "Nośnik danych Corpus",
+      "code": "pl"
+    },
+    {
+      "description": "Um Pacote de Dados Corpus contendo inteligência encriptada. Criando componente necessário para construir uma CHAVE DO VOID: CORPUS.",
+      "name": "Pacote de Dados Corpus",
+      "code": "pt"
+    },
+    {
+      "description": "一個內含加密情報的 Corpus 數據塊。製造 CORPUS 虛空鑰匙組件所必要的組件。",
+      "name": "Corpus 數據塊",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นฐานข้อมูลของ Corpus มีข้อมูลภายในที่มีการเข้ารหัสเอาไว้ เป็นส่วนประกอบในการสร้างที่จำเป็นเพื่อใช้สร้างกุญแจวอยด์ CORPUS",
+      "name": "มวลข้อมูลของ Corpus",
+      "code": "th"
+    },
+    {
+      "description": "Bir Corpus veri bankası bünyesinde şifreli bilgi barındırmaktadır. CORPUS VOID ANAHTARI oluşturmak için gerekli bir bileşendir",
+      "name": "Corpus Veri Bankası",
+      "code": "tr"
+    },
+    {
+      "description": "Носій даних, на якому містяться зашифровані розвіддані. Є необхідним складником для створення КЛЮЧА ПОРОЖНЕЧІ КОРПУСУ.",
+      "name": "Носій даних Корпусу",
+      "code": "uk"
+    }
+  ]
+}

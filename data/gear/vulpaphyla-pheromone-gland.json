@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterRarityBoost",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vulpaphyla-pheromone-gland-7b572e3534.png",
+  "name": "Vulpaphyla Pheromone Gland",
+  "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Vulpaphyla.",
+  "languages": [
+    {
+      "description": "Einsetzen kurz bevor ein Echo-Köder benutzt wird, um die Chance zu erhöhen, eine seltenere Vulpaphyla-Unterart anzulocken.",
+      "name": "PHEROMONDRÜSE: VULPAPHYLA",
+      "code": "de"
+    },
+    {
+      "description": "À déployer juste avant d'utiliser l'Écho-Leurre afin d'augmenter les chances d'attirer une sous-espèce de Vulpaphyla plus rare.",
+      "name": "GLANDE DE PHÉROMONE DE VULPAPHYLA",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega prima di utilizzare il richiamo per avere maggiori possibilità di attrarre rare sottospeci di Vulpaphyla.",
+      "name": "GHIANDOLA DI FEROMONI VULPAPHYLA",
+      "code": "it"
+    },
+    {
+      "description": "에코-루어 사용 직전에 배치하여 더욱 희귀한 불파파일라의 아종을 유인할 수 있는 확률을 증가시키세요.",
+      "name": "불파파일라 페로몬 분비선",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega justo antes de usar el eco-señuelo para aumentar la probabilidad de atraer a una subespecie rara de vulpaphyla.",
+      "name": "GLÁNDULA DE FEROMONA DE VULPAFILA",
+      "code": "es"
+    },
+    {
+      "description": "在使用回声诱饵前部署可以提升吸引一种狐帕菲拉稀有亚种的几率。",
+      "name": "狐帕菲拉费洛蒙腺体",
+      "code": "zh"
+    },
+    {
+      "description": "Примените перед использованием эхо-манка, чтобы увеличить вероятность привлечения более редкого подвида Вульпафилы.",
+      "name": "ФЕРОМОННАЯ ЖЕЛЕЗА ВУЛЬПАФИЛЫ",
+      "code": "ru"
+    },
+    {
+      "description": "ECHOルアーを使用する直前に起動して、より希少なバルパファイラを引き寄せる確率を上げよう。",
+      "name": "バルパファイラ フェロモン腺",
+      "code": "ja"
+    },
+    {
+      "description": "Skorzystaj z tego zaraz przed użyciem echo-wabika, aby zwiększyć szansę na zwabienie bardziej rzadkiego okazu Lisafili.",
+      "name": "GRUCZOŁ FEROMONÓW LISAFILI",
+      "code": "pl"
+    },
+    {
+      "description": "Empregue este item, antes de utilizar a Ecoisca, para aumentar a chance de atrair subespécies mais raras de Vulpaphyla.",
+      "name": "GLÂNDULA DE FEROMÔNIO DE VULPAPHYLA",
+      "code": "pt"
+    },
+    {
+      "description": "在使用迴聲誘餌前部署可以提升吸引一種擬狐獸稀有亞種的機率。",
+      "name": "擬狐獸費洛蒙腺體",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้ก่อนที่จะใช้เครื่องเลียนแบบเสียง เพื่อเพิ่มโอกาสในการดึงดูดสายพันธุ์ย่อยที่หายากของ Vulpaphyla",
+      "name": "VULPAPHYLA PHEROMONE GLAND",
+      "code": "th"
+    },
+    {
+      "description": "Eko-Çağırıcı kullanmadan önce yerleştirerek Vulpaphyla'nın en nadir türlerinin dikkatini çekme şansını artır.",
+      "name": "VULPAPHYLA PHEROMONE GLAND",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте перед увімкненням еховабика, щоб із більшою ймовірністю приманити рідкісний різновид вульпафил.",
+      "name": "ФЕРОМОННА ЗАЛОЗА ВУЛЬПАФИЛИ",
+      "code": "uk"
+    }
+  ]
+}

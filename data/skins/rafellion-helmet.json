@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Kahl/KahlHelmetPith",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rafellion-helmet-b668c8cd33.png",
+  "name": "Rafellion Helmet",
+  "description": "Harsh environments have roughened this helmet’s surface.",
+  "languages": [
+    {
+      "description": "Unverzeihliches Klima hat die Oberfläche dieses Helms aufgeraut.",
+      "name": "Rafellion-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Les environnements difficiles ont rendu la surface de ce Casque rugueuse.",
+      "name": "Casque Rafellion",
+      "code": "fr"
+    },
+    {
+      "description": "Gli ambienti estremi hanno irruvidito la superficie di questo elmo.",
+      "name": "Elmo Rafellion",
+      "code": "it"
+    },
+    {
+      "description": "가혹한 환경이 이 헬멧의 표면을 거칠게 마모시켰습니다.",
+      "name": "라펠리온 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Los entornos hostiles han dañado la superficie de este casco.",
+      "name": "Casco Rafellion",
+      "code": "es"
+    },
+    {
+      "description": "恶劣的环境使这顶头盔的表面变得粗糙。",
+      "name": "末路恶徒头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Суровые условия сделали поверхность этого шлема шероховатой.",
+      "name": "Шлем: Рафеллион",
+      "code": "ru"
+    },
+    {
+      "description": "過酷な環境によって鍛えられたヘルメット。",
+      "name": "Rafellion ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Trudne środowisko odbiło się na tym hełmie.",
+      "name": "Hełm: Rafellion",
+      "code": "pl"
+    },
+    {
+      "description": "Condições severas deixaram a superfície deste capacete áspera.",
+      "name": "Capacete: Rafellion",
+      "code": "pt"
+    },
+    {
+      "description": "惡劣的環境使這頂頭盔的表面變粗糙了。",
+      "name": "歷練頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "สภาพแวดล้อมที่รุนแรงทำให้พื้นผิวของหมวกใบนี้หยาบกระด้าง",
+      "name": "หมวกเหล็ก Rafellion",
+      "code": "th"
+    },
+    {
+      "description": "Sert hava koşulları bu miğferin yüzeyini pürüzlendirdi.",
+      "name": "Rafellion Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Суворі навколишні умови обробили поверхню цього шолома.",
+      "name": "Шолом «Рафеліон»",
+      "code": "uk"
+    }
+  ]
+}

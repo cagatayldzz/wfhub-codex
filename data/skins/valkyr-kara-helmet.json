@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Berserker/ValkyrAltBHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/valkyr-kara-helmet-9693d8eb25.png",
+  "name": "Valkyr Kara Helmet",
+  "description": "A uniquely-styled alternate helmet for Valkyr.",
+  "languages": [
+    {
+      "description": "Ein einzigartig gestalteter, alternativer Helm für Valkyr.",
+      "name": "Valkyr-Helm: Kara",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif dans un style unique pour Valkyr.",
+      "name": "Casque Valkyr Kara",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Valkyr dallo stile unico.",
+      "name": "Elmo Valkyr Kara",
+      "code": "it"
+    },
+    {
+      "description": "발키르 워프레임을 위한 독특한 스타일의 대체 헬멧입니다.",
+      "name": "발키르 카라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Valkyr.",
+      "name": "Casco Kara de Valkyr",
+      "code": "es"
+    },
+    {
+      "description": "Valkyr 的独特样式替换头盔。",
+      "name": "Valkyr 狂者头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Валькирии уникального стиля исполнения.",
+      "name": "Шлем Валькирии: Кара",
+      "code": "ru"
+    },
+    {
+      "description": "ユニークな形をしたValkyr用ヘルメット。",
+      "name": "Valkyr Kara ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowo stylizowany hełm dla Warframe Valkyr.",
+      "name": "Valkyr: Hełm Kara",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo estilizado unicamente para Valkyr.",
+      "name": "Valkyr: Capacete Kara",
+      "code": "pt"
+    },
+    {
+      "description": "Valkyr 的獨特樣式替換頭盔。",
+      "name": "Valkyr 狂者頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองที่มีสไตล์เฉพาะตัวสำหรับ Valkyr",
+      "name": "หมวกเหล็ก Valkyr Kara",
+      "code": "th"
+    },
+    {
+      "description": "Valkyr için dizayn edilmiş eşsiz bir alternatif miğfer",
+      "name": "Kara Valkyr Helmet",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом виняткового виконання для ворфрейма Валькірії.",
+      "name": "Шолом «Кара» для Валькірії",
+      "code": "uk"
+    }
+  ]
+}

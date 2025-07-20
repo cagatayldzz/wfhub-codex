@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CorpusLichSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sisterhood-sigil-328659247b.png",
+  "name": "Sisterhood Sigil",
+  "description": "A mark of respect for the Sisters of Parvos.",
+  "languages": [
+    {
+      "description": "Ein Marke, das die Schwestern von Parvos ehrt.",
+      "name": "Siegel: Schwesternschaft",
+      "code": "de"
+    },
+    {
+      "description": "Une marque de respect pour les Sœurs de Parvos.",
+      "name": "Sceau de la Sororité",
+      "code": "fr"
+    },
+    {
+      "description": "Un segno di rispetto per le Sorelle di Parvos.",
+      "name": "Sigillo Sorellanza",
+      "code": "it"
+    },
+    {
+      "description": "파보스의 자매들에게 경의를 표하는 표식입니다.",
+      "name": "시스터후드 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Una marca de respeto por las Hermanas de Parvos.",
+      "name": "Sello de la Hermandad",
+      "code": "es"
+    },
+    {
+      "description": "一枚致敬帕尔沃斯的姐妹们之印记。",
+      "name": "姐妹团纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак уважения в честь Сестер Парвоса.",
+      "name": "Сигил: Сестричество",
+      "code": "ru"
+    },
+    {
+      "description": "Parvosシスターたちへ敬意を示すシジル。",
+      "name": "Sisterhood シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak szacunku dla Sióstr Parvosa.",
+      "name": "Znak Siostrzeństwa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma marca de respeito pelas Irmãs de Parvos.",
+      "name": "Brasão: Irmandade",
+      "code": "pt"
+    },
+    {
+      "description": "一枚向 Parvos 的姊妹致敬的標記。",
+      "name": "姊妹團紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายแสดงความเคารพต่อเหล่าน้องสาวของ Parvos",
+      "name": "เครื่องหมาย: Sisterhood",
+      "code": "th"
+    },
+    {
+      "description": "Parvos'un Kız Kardeş'leri için bir saygı işareti.",
+      "name": "Kız Kardeşlik Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Прояв поваги Сестрам Парва.",
+      "name": "Сиґіл «Сестринство»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageChromaDracBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/chroma-drac-glyph---bright-43b82693be.png",
+  "name": "Chroma Drac Glyph - Bright",
+  "description": "A glyph depicting Chroma Drac on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Chroma Drac vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Chroma Drac (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Chroma Drac sur un fond lumineux.",
+      "name": "Glyphe Chroma Drac - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Chroma Drac su uno sfondo chiaro.",
+      "name": "Glifo Chroma Drac - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 드라크 크로마를 묘사한 글리프입니다.",
+      "name": "크로마 드라크 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Chroma Drac sobre un fondo brillante.",
+      "name": "Glifo de Chroma Drac - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Chroma 龙蛇在明亮背景下的浮印。",
+      "name": "Chroma 龙蛇浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Хромы «Драк» на светлом фоне.",
+      "name": "Глиф: Хрома Драк - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Chroma Drac のグリフ。",
+      "name": "Chroma Drac グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Chroma Drac na jasnym tle.",
+      "name": "Glif Chroma Drac — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Chroma Drac em um fundo claro.",
+      "name": "Glifo: Chroma Drac (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Chroma 龍蛇在明亮背景下的浮印。",
+      "name": "Chroma 龍蛇浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Chroma Drac บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Chroma Drac - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Chroma Drac açık fonlu glif.",
+      "name": "Chroma Drac Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Хроми в шоломі «Дракон» на світлому тлі.",
+      "name": "Яскравий гліф «Хрома „Дракон“»",
+      "code": "uk"
+    }
+  ]
+}

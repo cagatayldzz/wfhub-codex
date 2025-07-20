@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRevenantAltHelmBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-vania-glyph---bright-7681898a36.png",
+  "name": "Revenant Vania Glyph - Bright",
+  "description": "A glyph depicting Revenant Vania on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Revenant Vania vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Revenant Vania (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Revenant Vania sur un fond lumineux.",
+      "name": "Glyphe Revenant Vania - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Revenant Vania su uno sfondo chiaro.",
+      "name": "Glifo Revenant Vania - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 레버넌트 바니아를 묘사한 글리프입니다.",
+      "name": "레버넌트 바니아 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Revenant Vania sobre un fondo brillante.",
+      "name": "Glifo de Revenant Vania - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Revenant 瓦尼亚在明亮背景下的浮印。",
+      "name": "Revenant 瓦尼亚浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Ревенанта в шлеме «Ваниа» на светлом фоне.",
+      "name": "Глиф: Ревенант Ваниа - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたRevenant Vaniaのグリフ。",
+      "name": "Revenant Vania グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Revenanta Vania na jasnym tle.",
+      "name": "Glif Revenant Vania — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Revenant Vania em um fundo claro.",
+      "name": "Glifo: Revenant Vania (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Revenant 瓦尼亞在明亮背景下的浮印。",
+      "name": "Revenant 瓦尼亞浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Revenant Vania บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Revenant Vania - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Revenant Vania açık fonlu glif.",
+      "name": "Revenant Vania Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Ревенанта в шоломі «Ванія» на світлому тлі.",
+      "name": "Яскравий гліф «Ревенант „Ванія“»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWAhrimanHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/revenant-ahriman-helmet-ae9ba97ad9.png",
+  "name": "Revenant Ahriman Helmet",
+  "description": "A helmet for the Revenant Warframe, designed by Vulbjorn.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Revenant Warframe, entworfen von Vulbjorn.",
+      "name": "Revenant-Helm: Ahriman",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Revenant, conçu par Vulbjorn.",
+      "name": "Casque Revenant Ahriman",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Revenant, ideato da Vulbjorn.",
+      "name": "Elmo Revenant Ahriman",
+      "code": "it"
+    },
+    {
+      "description": "Vulbjorn에 의해 디자인된 레버넌트 워프레임을 위한 헬멧입니다.",
+      "name": "레버넌트 아리만 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Revenant, diseñado por Vulbjorn.",
+      "name": "Casco Ahriman de Revenant",
+      "code": "es"
+    },
+    {
+      "description": "Revenant 战甲的头盔，由 Vulbjorn 设计。",
+      "name": "Revenant 阿里曼头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Ревенанта, созданный Vulbjorn.",
+      "name": "Шлем Ревенанта: Ариман",
+      "code": "ru"
+    },
+    {
+      "description": "Revenant用のヘルメット。製作者：Vulbjorn。",
+      "name": "Revenant Ahriman ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Revenant, zaprojektowany przez Vulbjorn.",
+      "name": "Revenant: Hełm Ahriman",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Revenant, desenvolvido por Vulbjorn.",
+      "name": "Revenant: Capacete Ahriman",
+      "code": "pt"
+    },
+    {
+      "description": "Revenant Warframe 的頭盔，由 Vulbjorn 設計。",
+      "name": "Revenant 阿里曼頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Revenant Warframe ออกแบบโดย Vulbjorn",
+      "name": "หมวกเหล็ก Revenant Ahriman",
+      "code": "th"
+    },
+    {
+      "description": "Vulbjorn tarafından dizayn edilen Revenant miğferi.",
+      "name": "Revenant Ahriman Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Ревенанта, створений Vulbjorn.",
+      "name": "Шолом «Ахриман» для Ревенанта",
+      "code": "uk"
+    }
+  ]
+}

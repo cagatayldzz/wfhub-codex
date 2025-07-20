@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Banshee/Banshee",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/banshee-f3216d3957.png",
+  "name": "Banshee",
+  "description": "Banshee’s call heralds death. She maintains crowd control and identifies enemy weak points with sonic attacks. Few can hold their position when struck by her force.",
+  "armor": 105,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Banshees Ruf kündigt den Tod an. Sie beherrscht Gruppenkontrolle und findet feindliche Schwachstellen mit Schallangriffen. Nur wenige können ihre Position halten, wenn sie von ihrer Macht getroffen werden.",
+      "name": "Banshee",
+      "code": "de"
+    },
+    {
+      "description": "L'appel de Banshee annonce la mort. Elle maintient le contrôle des foules et identifie les points faibles de l'ennemi avec des attaques sonores. Peu d'adversaires peuvent tenir leur position lorsqu'ils sont frappés par sa force.",
+      "name": "Banshee",
+      "code": "fr"
+    },
+    {
+      "description": "Il richiamo di Banshee annuncia la morte. Mantiene il controllo della folla e identifica i punti deboli del nemico con attacchi sonori. Pochi riescono a mantenere la loro posizione quando vengono colpiti dalla sua forza.",
+      "name": "Banshee",
+      "code": "it"
+    },
+    {
+      "description": "밴쉬의 외침은 죽음을 알리는 전조입니다. 밴쉬는 음파 공격으로 군중 제어 효과를 유지하며, 적의 약점을 식별해내기도 합니다. 그녀의 힘에 부딪히고도 제 자리에 온전히 서 있을 수 있는 자는 얼마 되지 않습니다.",
+      "name": "밴쉬",
+      "code": "ko"
+    },
+    {
+      "description": "La llamada de Banshee anuncia la muerte. Mantiene el control de multitudes e identifica los puntos débiles del enemigo con ataques sónicos. Pocos pueden mantener su posición cuando son golpeados por su fuerza.",
+      "name": "Banshee",
+      "code": "es"
+    },
+    {
+      "description": "Banshee 的尖叫预示着死亡。她能够用声波攻击来维持群体控制和识别敌人的弱点。当她的力量袭来，几乎没有人能够站稳脚跟。",
+      "name": "Banshee",
+      "code": "zh"
+    },
+    {
+      "description": "Зов Банши предвещает смерть. Она поддерживает контроль над толпой и определяет слабые места врага с помощью звуковых атак. Немногие могут удержать свои позиции под ударом её силы.",
+      "name": "Банши",
+      "code": "ru"
+    },
+    {
+      "description": "Bansheeの叫びは死の呼びかけ。Bansheeはクラウドコントロールに長けており爆音で敵の急所を狙う。彼女の叫びに怯まずに対抗できる者はあまりいない。",
+      "name": "Banshee",
+      "code": "ja"
+    },
+    {
+      "description": "Krzyk Banshee zwiastuje śmierć. Wykorzystuje kontrolę tłumu i identyfikuje słabe punkty wrogów za pomocą ataków dźwiękowych. Niewielu może utrzymać swoją pozycję, gdy zostaną uderzeni jej siłą.",
+      "name": "Banshee",
+      "code": "pl"
+    },
+    {
+      "description": "O grito da Banshee é um prenúncio da morte. Utilizando ataques sônicos, ela fornece controle de grupo e identifica as vulnerabilidades dos inimigos. Ao serem atingidos pelo seu poder, poucos são páreos para ela.",
+      "name": "Banshee",
+      "code": "pt"
+    },
+    {
+      "description": "Banshee 的尖叫預告著死亡。她可以透過音波的攻擊來維持群控和辨認敵人的弱點。被她的威力擊中時，幾乎沒幾個人能站穩腳步。",
+      "name": "Banshee",
+      "code": "tc"
+    },
+    {
+      "description": "เสียงของ Banshee คือเป็นการประกาศสาส์นแห่งความตาย ความสามารถในการใช้คราวด์คอนโทรลและระบุจุดอ่อนของศัตรูโดยการโจมตีด้วยเสียงนั้น ทำให้มีศัตรูเพียงไม่กี่คนเท่านั้นที่จะสามารถยืนหยัดอยู่ได้เมื่อถูกโจมตี",
+      "name": "Banshee",
+      "code": "th"
+    },
+    {
+      "description": "Banshee'nin çağrısı ölümün habercisidir. Kitle kontrolünü sağlar ve sonik saldırılarla düşmanın zayıf noktalarını tespit eder. Onun gücüyle vurulduğunda çok azı pozisyonunu koruyabilir.",
+      "name": "Banshee",
+      "code": "tr"
+    },
+    {
+      "description": "Провісниця смерті. Банші керує натовпом і визначає слабкі місця ворогів завдяки звуковим атакам. Мало хто встоїть на місці під впливом її голосу.",
+      "name": "Банші",
+      "code": "uk"
+    }
+  ]
+}

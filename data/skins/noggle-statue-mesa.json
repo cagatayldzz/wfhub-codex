@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MesaBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---mesa-0ba894fd0d.png",
+  "name": "Noggle Statue - Mesa",
+  "description": "A small wobbly statue of Mesa.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Mesa.",
+      "name": "Noggle-Statue: Mesa",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Mesa.",
+      "name": "Statuette Noggle - Mesa",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Mesa con la testa tremolante.",
+      "name": "Statuetta Noggle - Mesa",
+      "code": "it"
+    },
+    {
+      "description": "메사의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 메사",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Mesa.",
+      "name": "Estatua Tambaleante - Mesa",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Mesa 摇头娃娃。",
+      "name": "Mesa 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Мисы.",
+      "name": "Фигурка: Миса",
+      "code": "ru"
+    },
+    {
+      "description": "Mesaのボブルヘッド人形。",
+      "name": "Mesa ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Mesy.",
+      "name": "Figurka Noggle — Mesa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Mesa.",
+      "name": "Estatueta: Mesa",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Mesa 的搖頭娃娃",
+      "name": "Mesa 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Mesa ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Mesa",
+      "code": "th"
+    },
+    {
+      "description": "Mesa küçük oynar figür.",
+      "name": "Noggle Heykeli - Mesa",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Меси.",
+      "name": "Ноґл «Меса»",
+      "code": "uk"
+    }
+  ]
+}

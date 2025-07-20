@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank22Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dragon-mastery-slate-461d4ffed6.png",
+  "name": "Dragon Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 22 - Dragon.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 22 - Drache zu ehren.",
+      "name": "Meisterschaft-Insignie: Drache",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 22 - Dragon.",
+      "name": "Ardoise de Maîtrise - Dragon",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 22 - Drago.",
+      "name": "Targa Maestria - Drago",
+      "code": "it"
+    },
+    {
+      "description": "랭크 22 - 드래곤에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "드래곤 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango 22 - Dragón.",
+      "name": "Placa de Maestría de Dragón",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 22－天龙所打造的物品。",
+      "name": "天龙精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 22 - Дракон.",
+      "name": "Сланец Мастерства: Дракон",
+      "code": "ru"
+    },
+    {
+      "description": "ドラゴン「マスタリーランク22」へ到達したテンノの成果を示す表彰楯。",
+      "name": "ドラゴン マスタリー 表彰楯",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 22 - Smok.",
+      "name": "Tablica Mistrzostwa Smok",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 22 - Dragão.",
+      "name": "Ardósia de Maestria: Dragão",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 22－天龍的成就。",
+      "name": "天龍精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 22 - มังกร",
+      "name": "กระดานชนวนความเชี่ยวชาญ: มังกร",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 22 - Dragon seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "Dragon Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 22-го рівня майстерності — «Дракон».",
+      "name": "Табличка «Дракон»",
+      "code": "uk"
+    }
+  ]
+}

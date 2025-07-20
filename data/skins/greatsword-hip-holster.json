@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GreatSwordHips",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/greatsword-hip-holster-dc904151f5.png",
+  "name": "Greatsword Hip Holster",
+  "description": "Greatswords are holstered at the hips.",
+  "languages": [
+    {
+      "description": "Zweihänder werden an der Hüfte geholstert.",
+      "name": "Zweihänder-Holster: Hüfte",
+      "code": "de"
+    },
+    {
+      "description": "Les Épées à deux mains sont portées au niveau des hanches.",
+      "name": "Port d'Épée à deux mains standard",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Spade a Due Mani sui fianchi.",
+      "name": "Rinfodero Spade a Due Mani Fianco",
+      "code": "it"
+    },
+    {
+      "description": "중도검 계열 무기를 허벅지에 수납하는 수납 방식입니다.",
+      "name": "중도검 허벅지 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las espadas grandes se enfundarán en las caderas.",
+      "name": "Enfundado estándar de espadas grandes",
+      "code": "es"
+    },
+    {
+      "description": "将巨剑武器背在腰际之处。",
+      "name": "巨剑腰部收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Тяжелые клинки покоятся на бедрах.",
+      "name": "Стандартный Крепеж Тяжелого Клинка",
+      "code": "ru"
+    },
+    {
+      "description": "グレートソードを腰付近に収納。",
+      "name": "グレートソード専用通常ホルスター",
+      "code": "ja"
+    },
+    {
+      "description": "Wielkie Miecze mocowane są do biodra.",
+      "name": "Wielki Miecz Mocowanie Do Biodra",
+      "code": "pl"
+    },
+    {
+      "description": "As espadas grandes são guardadas na cintura.",
+      "name": "Espadas Grandes: Coldre Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "巨劍武器可收納於腰部。",
+      "name": "巨劍腰部收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบใหญ่ที่ใส่ซองตรงสะโพก",
+      "name": "ซองดาบใหญ่ตรงสะโพก",
+      "code": "th"
+    },
+    {
+      "description": "Şanlıkılıç'lar kalçada taşınır.",
+      "name": "Şanlıkılıç Kalça Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Дворучні мечі кріпляться на стегнах, коли в руках інша зброя.",
+      "name": "Дворучний меч на стегні",
+      "code": "uk"
+    }
+  ]
+}

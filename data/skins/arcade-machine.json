@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxArcadeMachineD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcade-machine-c5f183a69b.png",
+  "name": "Arcade Machine",
+  "description": "An arcade machine with a two player sci-fi game.",
+  "languages": [
+    {
+      "description": "Ein Arkade-Automat mit einem Science-Fiction-Spiel für zwei Spieler.",
+      "name": "Arkade-Automat",
+      "code": "de"
+    },
+    {
+      "description": "Une borne d'arcade avec un jeu de science-fiction à deux joueurs.",
+      "name": "Borne d'arcade",
+      "code": "fr"
+    },
+    {
+      "description": "Un cabinatocon un gioco di fantascienza per due giocatori.",
+      "name": "Cabinato",
+      "code": "it"
+    },
+    {
+      "description": "2인용 SF 게임을 즐길 수 있는 오락실 기계입니다.",
+      "name": "오락실 기계",
+      "code": "ko"
+    },
+    {
+      "description": "Una máquina arcade con un juego de ciencia ficción para dos jugadores.",
+      "name": "Máquina arcade",
+      "code": "es"
+    },
+    {
+      "description": "双人科幻游戏的街机。",
+      "name": "街机",
+      "code": "zh"
+    },
+    {
+      "description": "Игровой автомат с научно-фантастической игрой для двух игроков.",
+      "name": "Игровой автомат",
+      "code": "ru"
+    },
+    {
+      "description": "2プレイヤーSFゲームを備えたアーケードマシン。",
+      "name": "アーケード マシン",
+      "code": "ja"
+    },
+    {
+      "description": "Automat zręcznościowej gry sci-fi dla dwóch graczy.",
+      "name": "Automat do gry",
+      "code": "pl"
+    },
+    {
+      "description": "Uma máquina de fliperama com um jogo de ficção científica para dois jogadores.",
+      "name": "Máquina de Fliperama",
+      "code": "pt"
+    },
+    {
+      "description": "雙人科幻遊戲的街機。",
+      "name": "街機科幻遊戲",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเล่นเกมอาร์เคดที่มีเกมแนว Sci-fi สำหรับผู้เล่นสองคน",
+      "name": "ตู้เกมอาร์เคด",
+      "code": "th"
+    },
+    {
+      "description": "İki kişilik bilimkurgu oyununa sahip bir oyun makinesi.",
+      "name": "Oyun Makinesi",
+      "code": "tr"
+    },
+    {
+      "description": "Автомат з науково-фантастичною грою для двох гравців.",
+      "name": "Ігровий автомат",
+      "code": "uk"
+    }
+  ]
+}

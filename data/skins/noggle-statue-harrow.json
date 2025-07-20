@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/HarrowBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---harrow-b846db6b82.png",
+  "name": "Noggle Statue - Harrow",
+  "description": "A small wobbly statue of Harrow.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Harrow.",
+      "name": "Noggle-Statue: Harrow",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Harrow.",
+      "name": "Statuette Noggle - Harrow",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Harrow con la testa tremolante.",
+      "name": "Statuetta Noggle - Harrow",
+      "code": "it"
+    },
+    {
+      "description": "해로우의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 해로우",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Harrow.",
+      "name": "Estatua Tambaleante - Harrow",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Harrow 摇头娃娃。",
+      "name": "Harrow 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Харроу.",
+      "name": "Фигурка: Харроу",
+      "code": "ru"
+    },
+    {
+      "description": "Harrowのボブルヘッド人形。",
+      "name": "Harrowボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Harrowa.",
+      "name": "Figurka Noggle — Harrow",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada do Harrow.",
+      "name": "Estatueta: Harrow",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Harrow 的搖頭娃娃。",
+      "name": "Harrow 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Harrow ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Harrow",
+      "code": "th"
+    },
+    {
+      "description": "Harrow küçük oynar figür.",
+      "name": "Noggle Heykeli - Harrow",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Гарроу.",
+      "name": "Ноґл «Гарроу»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileGasCityAssassinate",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gas-city-alad's-laboratory-scene-af7654266b.png",
+  "name": "Gas City Alad's Laboratory Scene",
+  "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+  "languages": [
+    {
+      "description": "Schaltet diese Szene zur Nutzung im Photora-Modus frei. Dieser kann über den Aussehen-Reiter eures Warframes im Arsenal betreten werden.",
+      "name": "Photora-Szene: Gas City Alads Labor",
+      "code": "de"
+    },
+    {
+      "description": "Déverrouille cette scène afin de l'utiliser dans le Mode Captura, auquel vous pouvez accéder par le biais de l'onglet Warframe Apparence dans votre Arsenal.",
+      "name": "Scène du Laboratoire d'Alad V dans la Cité Gazière",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca questo scenario da usare in Modalità Captura, accessibile dalla finestra Personalizza di un Warframe nell'Arsenale.",
+      "name": "Scenario Laboratorio di Alad Città di Gas",
+      "code": "it"
+    },
+    {
+      "description": "무기고의 워프레임 외형 메뉴를 통해 들어갈 수 있는 캡처라 모드에서 사용할 수 있는 배경을 해금합니다.",
+      "name": "가스 도시 알라드 연구실 배경",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a través de la pestaña de apariencia de warframe en el arsenal.",
+      "name": "Escena del Laboratorio de Alad V de la Ciudad Gaseosa",
+      "code": "es"
+    },
+    {
+      "description": "解锁这个场景以便在 Captura 模式使用，可以从军械库的外观标签进入。",
+      "name": "集气城市 Alad 的实验室场景",
+      "code": "zh"
+    },
+    {
+      "description": "Открывает эту сцену в Каптуре, в которую можно попасть из вкладки 'Внешний Вид' Арсенала.",
+      "name": "Сцена: Газовый город - Лаборатория Алада",
+      "code": "ru"
+    },
+    {
+      "description": "このシーンをアンロックするとCapturaモードで使用できる。CapturaモードにはアーセナルのWarframeの外装タブからアクセスできる。",
+      "name": "ガス・シティ Aladの研究所シーン",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokuj tę scenę do użycia w trybie Fotobudki, dostępnej z zakładki Wygląd z poziomu Arsenału Warframe.",
+      "name": "Scena: Laboratorium Alada w Gazozo",
+      "code": "pl"
+    },
+    {
+      "description": "Desbloqueia esta cena para ser utilizada no Modo Captura, acessado através da aba de Aparência do Warframe, no Arsenal.",
+      "name": "Cena: Laboratório do Alad na Cidade de Gás",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖此場景以便在 Captura 模式使用，可以從軍械庫的外觀標籤進入。",
+      "name": "集氣城 Alad 的實驗室場景",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกฉากนี้เพื่อใช้ในโหมด Captura ซึ่งเข้าถึงได้ผ่านแท็บรูปลักษณ์ของ Warframe ในคลังอาวุธ",
+      "name": "ฉากห้องทดลองในแก๊สซิตี้ของ Alad",
+      "code": "th"
+    },
+    {
+      "description": "Captura Modunda kullanmak için bu sahneyi açar, Arsenaldeki Warframe Görünüm sekmesinden erişilebilir.",
+      "name": "Gaz Şehri Alad Laboratuvar Sahnesi",
+      "code": "tr"
+    },
+    {
+      "description": "Розблоковує цю панораму для використання у світлописці (клацніть «Змінити вигляд» у зброярні).",
+      "name": "Панорама: Газове місто — аладова лабораторія",
+      "code": "uk"
+    }
+  ]
+}

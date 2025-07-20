@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/OrokinSensorItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-monitor-6a582ca280.png",
+  "name": "Orokin Monitor",
+  "description": "These Orokin devices emerge when the floating glaciers impact on the surface of Venus. Their purpose is unknown.",
+  "languages": [
+    {
+      "description": "Diese Orokin Geräte tauchen auf, wenn die schwebenden Gletscher auf die Oberfläche der Venus treffen. Ihr Zweck ist unbekannt.",
+      "name": "Orokin Aufseher",
+      "code": "de"
+    },
+    {
+      "description": "Ces appareils Orokins dont on ignore la fonction exacte apparaissent sur Vénus. Ils seraient liés à la dérive des glaciers.",
+      "name": "Capteur Orokin",
+      "code": "fr"
+    },
+    {
+      "description": "Questi dispositivi Orokin emergono quando i ghiacciai galleggianti colpiscono la superficie di Venere. Il loro scopo è sconosciuto.",
+      "name": "Orokin Monitor",
+      "code": "it"
+    },
+    {
+      "description": "이 오로킨 장치는 떠다니는 빙하가 금성의 표면에 충돌할 때 드러나며, 용도는 알려지지 않았습니다.",
+      "name": "오로킨 모니터",
+      "code": "ko"
+    },
+    {
+      "description": "Estos dispositivos orokin emergieron cuando los glaciares flotantes impactaron en la superficie de Venus. su propósito es desconocido.",
+      "name": "Monitor orokin",
+      "code": "es"
+    },
+    {
+      "description": "这些 Orokin 设备会在漂浮的冰川撞击地面时出现。它们的目的未知。",
+      "name": "Orokin 监视机",
+      "code": "zh"
+    },
+    {
+      "description": "Эти устройства Орокин появляются тогда, когда плавучие ледники обрушиваются на поверхность Венеры. Их предназначение неизвестно.",
+      "name": "Наблюдатель Орокин",
+      "code": "ru"
+    },
+    {
+      "description": "このオロキンデバイスは浮遊氷河が金星地表に衝突したとき出てくる。目的は不明。",
+      "name": "オロキンモニター",
+      "code": "ja"
+    },
+    {
+      "description": "Te urządzenia Orokin pojawiają się, kiedy lewitujące kry zderzają się z powierzchnią Wenus. Ich działalność jest nieznana.",
+      "name": "Monitor Orokin",
+      "code": "pl"
+    },
+    {
+      "description": "Estes dispositivos Orokin surgem quando as geleiras flutuantes impactam na superfície de Vênus. Seu propósito é desconhecido.",
+      "name": "Monitor Orokin",
+      "code": "pt"
+    },
+    {
+      "description": "這些 Orokin 設備會在漂浮的冰川撞擊地面時出現。它們的目的未知。",
+      "name": "Orokin 監視機",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์ Orokin เหล่านี้จะปรากฏตัวขึ้นเมื่อธารน้ำแข็งลอยกระทบพื้นผิวดาวศุกร์ ไม่ทราบจุดประสงค์ของพวกมัน",
+      "name": "มอนิเตอร์ Orokin",
+      "code": "th"
+    },
+    {
+      "description": "Bu Orokin cihazları, Venüs'teki buz kütleleri yüzeye çarptığında ortaya çıkar. Amaçları bilinmiyor.",
+      "name": "Orokin Monitör",
+      "code": "tr"
+    },
+    {
+      "description": "Подібні пристрої з’являються лише під час падінь летючих крижаних брил на поверхню Венери. Їхнє призначення невідоме.",
+      "name": "Орокінський спостерігач",
+      "code": "uk"
+    }
+  ]
+}

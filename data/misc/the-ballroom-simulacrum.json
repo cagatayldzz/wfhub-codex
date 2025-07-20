@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileArena",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-ballroom-simulacrum-fe761a95ee.png",
+  "name": "The Ballroom Simulacrum",
+  "description": "A new arena for the Simulacrum. Who will you invite to dance?",
+  "languages": [
+    {
+      "description": "Eine neue Arena für das Simulacrum. Wen wirst du zum Tanz bitten?",
+      "name": "Simulacrum: Der Ballsaal",
+      "code": "de"
+    },
+    {
+      "description": "Une nouvelle arène pour le Simulacre. Qui inviterez-vous à danser?",
+      "name": "La salle de bal du Simulacre",
+      "code": "fr"
+    },
+    {
+      "description": "Una nuova arena per il Simulacrum. Chi inviterai a ballare?",
+      "name": "Simulacrum: Sala Da Ballo",
+      "code": "it"
+    },
+    {
+      "description": "새로운 시뮬라크럼 아레나입니다. 누굴 초대해 춤 추실 건가요?",
+      "name": "연회장 시뮬라크럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una nueva arena para el Simulacro. ¿A quién invitarás a bailar?",
+      "name": "El Simulacro de Salón de baile",
+      "code": "es"
+    },
+    {
+      "description": "一个全新的幻影装置场地。你会邀请谁共舞？",
+      "name": "舞厅幻影装置",
+      "code": "zh"
+    },
+    {
+      "description": "В Симулякруме новая арена. Кого вы пригласите на танец?",
+      "name": "Симулякрум: Бальный Зал",
+      "code": "ru"
+    },
+    {
+      "description": "シミュラクラムの新アリーナ。ダンスの相手は誰？",
+      "name": "ボールルーム・シミュラクラム",
+      "code": "ja"
+    },
+    {
+      "description": "Nowa strefa dla Symulakra. Kogo zaprosisz do tańca?",
+      "name": "Sala Balowa Symulakra",
+      "code": "pl"
+    },
+    {
+      "description": "Uma nova arena para o Simulacro. Quem você irá tirar para dançar?",
+      "name": "Simulacro de Combate",
+      "code": "pt"
+    },
+    {
+      "description": "一個全新的幻影裝置場所。你會邀請誰一起跳舞呢？",
+      "name": "舞廳幻影裝置",
+      "code": "tc"
+    },
+    {
+      "description": "สนามประลองที่จำลองการต่อสู้แห่งใหม่ ใครกันที่คุณอยากจะเชิญมาเป็นคู่เต้น?",
+      "name": "ห้องซิมูลาครัม: บอลรูม",
+      "code": "th"
+    },
+    {
+      "description": "Simulacrum için yeni bir arena. Dans etmeye kimi davet edeceksin?",
+      "name": "Balo Salonu Simulacrum",
+      "code": "tr"
+    },
+    {
+      "description": "Нова арена для симулякра. Запросите когось на танок?",
+      "name": "Симулякр «Бальна зала»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipChristmasifier",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/festive-interior-decorations-e296e280cd.png",
+  "name": "Festive Interior Decorations",
+  "description": "For a limited time, adds festive decorations to your Orbiter!",
+  "languages": [
+    {
+      "description": "Für begrenzte Zeit, fügt festliche Dekoration zu deinem Orbiter hinzu! ",
+      "name": "Innendekoration: Festlich",
+      "code": "de"
+    },
+    {
+      "description": "Pour un temps limité, ajoute des décorations festives à votre Orbiteur!",
+      "name": "Décorations d'Intérieur Festives",
+      "code": "fr"
+    },
+    {
+      "description": "Per un periodo limitato aggiunge decorazioni festive al tuo Orbiter!",
+      "name": "Decorazioni Festive da Interni",
+      "code": "it"
+    },
+    {
+      "description": "오직 한정된 기간동안, 기념일용 장식물들로 당신의 리셋을 꾸며보세요!",
+      "name": "축제용 내부 장식",
+      "code": "ko"
+    },
+    {
+      "description": "Por tiempo limitado, ¡añade decoraciones festivas a tu orbitador!",
+      "name": "Decoraciones internas festivas",
+      "code": "es"
+    },
+    {
+      "description": "在限定时间内，为你的轨道飞行器添加各种节庆装饰吧！",
+      "name": "内部节庆装饰",
+      "code": "zh"
+    },
+    {
+      "description": "В течение ограниченного времени, добавьте праздничные украшения в ваш корабль!",
+      "name": "Украшения интерьера: Новый год",
+      "code": "ru"
+    },
+    {
+      "description": "期間限定で、あなたのライセットにお祝いの飾りを追加します！",
+      "name": "祝祭の室内装飾",
+      "code": "ja"
+    },
+    {
+      "description": "Przez ograniczony czas, dodaje, świąteczne dekoracje do Twojego Orbitera!",
+      "name": "Świąteczne Dekoracje Wnętrza",
+      "code": "pl"
+    },
+    {
+      "description": "Por um tempo limitado, adicione decorações comemorativas à sua Orbital!",
+      "name": "Decorações Interiores Festivas",
+      "code": "pt"
+    },
+    {
+      "description": "在冬幕節期限內，在你的軌道飛行器上添加各種冬幕裝飾吧！",
+      "name": "節慶內部裝飾",
+      "code": "tc"
+    },
+    {
+      "description": "เพิ่มของตกแต่งตามเทศกาลให้กับยานออร์บิเตอร์ของคุณ ภายในระยะเวลาจำกัด!",
+      "name": "ของตกแต่งภายในตามเทศกาล",
+      "code": "th"
+    },
+    {
+      "description": "Kısa bir süre için Orbiter'ınıza festival temalı dekorlar ekler!",
+      "name": "Festival İç Dizayn Dekorasyonları",
+      "code": "tr"
+    },
+    {
+      "description": "Оздобте орбітр святковими прикрасами! Тривалість обмежена.",
+      "name": "Оздоблення: святкові прикраси",
+      "code": "uk"
+    }
+  ]
+}

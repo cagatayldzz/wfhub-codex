@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishBItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/xiran-9bc02a1b53.png",
+  "name": "Xiran",
+  "description": "The Golden Maw finds Xirans exceptionally delicious.",
+  "languages": [
+    {
+      "description": "Der Goldschlund findet Xirane äußerst lecker.",
+      "name": "Xiran",
+      "code": "de"
+    },
+    {
+      "description": "La Gueule d'Or trouve les Xirans exceptionnellement délicieux.",
+      "name": "Xiran",
+      "code": "fr"
+    },
+    {
+      "description": "Il Golden Maw trova gli Xiran eccezionalmente deliziosi.",
+      "name": "Xiran",
+      "code": "it"
+    },
+    {
+      "description": "황금의 아귀는 시란의 맛을 유난히 선호합니다.",
+      "name": "시란",
+      "code": "ko"
+    },
+    {
+      "description": "Las Fauces Doradas encuentran los xirans excepcionalmente deliciosos.",
+      "name": "Xiran",
+      "code": "es"
+    },
+    {
+      "description": "黄金喉兽发现息壤鲳特别美味。",
+      "name": "息壤鲳",
+      "code": "zh"
+    },
+    {
+      "description": "Золотая пасть находит ксиранов исключительно вкусными.",
+      "name": "Ксиран",
+      "code": "ru"
+    },
+    {
+      "description": "サイランはゴールデンマウの好物である。",
+      "name": "サイラン",
+      "code": "ja"
+    },
+    {
+      "description": "Xirany to jedne z ulubionych dań Złotego Czerwia.",
+      "name": "Xiran",
+      "code": "pl"
+    },
+    {
+      "description": "A Mandíbula Dourada acha os Xirans excepcionalmente deliciosos.",
+      "name": "Xiran",
+      "code": "pt"
+    },
+    {
+      "description": "黃金喉獸發現熙然非常美味。",
+      "name": "熙然",
+      "code": "tc"
+    },
+    {
+      "description": "Xiran คืออาหารอันโอชะของ Golden Maw",
+      "name": "Xiran",
+      "code": "th"
+    },
+    {
+      "description": "Altın Ağız, Xiran'ları son derece lezzetli bulur.",
+      "name": "Xiran",
+      "code": "tr"
+    },
+    {
+      "description": "Злотопащі вважають сіжанів надзвичайно смачнючими.",
+      "name": "Сіжань",
+      "code": "uk"
+    }
+  ]
+}

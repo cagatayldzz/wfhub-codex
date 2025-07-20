@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank10Trophy",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/seeker-mastery-slate-d962310a22.png",
+  "name": "Seeker Mastery Slate",
+  "description": "Struck to recognize your achievement in reaching the rank of 10 - Seeker.",
+  "languages": [
+    {
+      "description": "Geschaffen, um dein Erreichen von Rang 10 - Suchender zu ehren.",
+      "name": "Meisterschaft-Insignie: Suchender",
+      "code": "de"
+    },
+    {
+      "description": "Gravée pour commémorer votre réussite en atteignant le Palier 10 - Chercheur.",
+      "name": "Ardoise de Maîtrise - Chercheur",
+      "code": "fr"
+    },
+    {
+      "description": "Coniata per riconoscere il tuo successo nel raggiungere il grado 10 - Cercatore.",
+      "name": "Targa Maestria - Cercatore",
+      "code": "it"
+    },
+    {
+      "description": "랭크 10 - 시커에 도달한 업적을 기리기 위한 표창패입니다.",
+      "name": "시커 마스터리 슬레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Impresionado por reconocer tu logro al alcanzar el rango de 10 - Buscador.",
+      "name": "Placa de Maestría de Buscador",
+      "code": "es"
+    },
+    {
+      "description": "为表彰你成功达到段位 10－探求者所打造的物品。",
+      "name": "探求者精通石板",
+      "code": "zh"
+    },
+    {
+      "description": "В ознаменование достижения ранга 10 - Искатель.",
+      "name": "Сланец Мастерства: Искатель",
+      "code": "ru"
+    },
+    {
+      "description": "シーカー「マスタリーランク10」へ到達したテンノの成果を示す表彰楯。",
+      "name": "シーカー マスタリー 表彰盾",
+      "code": "ja"
+    },
+    {
+      "description": "Stworzona, by upamiętnić Twój wyczyn w osiągnięciu rangi 10 - Poszukiwacz.",
+      "name": "Tablica Mistrzostwa Poszukiwacz",
+      "code": "pl"
+    },
+    {
+      "description": "Concedida em reconhecimento à sua conquista por alcançar o nível 10 - Predador.",
+      "name": "Ardósia de Maestria: Predador",
+      "code": "pt"
+    },
+    {
+      "description": "篆刻來認可你達成精通段位 10－探求者的成就。",
+      "name": "探求者精段匾",
+      "code": "tc"
+    },
+    {
+      "description": "ประทับตรารับรู้ถึงความสำเร็จของคุณในการไปถึงอันดับ 10 - นักแสวงหา",
+      "name": "กระดานชนวนความเชี่ยวชาญ: นักแสวงหา",
+      "code": "th"
+    },
+    {
+      "description": "Seviye 10 - İzci seviyesine ulaşma başarını anmak için oluşturulmuştur.",
+      "name": "İzci Ustalık Plaketi",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за здобуття 10-го рівня майстерності — «Шукач».",
+      "name": "Табличка «Шукач»",
+      "code": "uk"
+    }
+  ]
+}

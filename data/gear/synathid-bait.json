@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/synathid-bait-5ee5e369f7.png",
+  "name": "Synathid Bait",
+  "description": "This bait is synthesized from specialized A-disulphex-A compounds that are known to attract Synathid, a legendarily rare Servofish found only in Orb Vallis cave hotspots.\n\nObtained from The Business in Fortuna (Venus).",
+  "languages": [
+    {
+      "description": "Dieser Köder wird aus speziellen A-Disulphex-A-Verbindungen synthetisiert, die dafür bekannt sind, Synathide anzulocken, sagenumwobene Servofische, die nur in den Höhlen des Orbis-Tals vorkommen.\n\nZu erhalten von The Business in Fortuna (Venus).",
+      "name": "Köder: Synathid",
+      "code": "de"
+    },
+    {
+      "description": "Cet appât est synthétisé à partir d'un mélange d'A-disulphex-A connu pour attirer les Synathides. Ces Servopoissons d'une rareté légendaire peuvent être trouvés à des points d'affluence dans les grottes de la Vallée Orbis.\n\nObtenu via Le Bizness à Fortuna (Vénus).",
+      "name": "Appât Synathide",
+      "code": "fr"
+    },
+    {
+      "description": "Questa esca è sintetizzata da un componente A-disulphex-A specializzato che attrae Synathid, un leggendario e raro Servofish che può essere trovato solo nei punti caldi delle caverne su Orb Vallis.\n\nAcquistabile da The Business su Fortuna (Venere).",
+      "name": "Esca Synathid",
+      "code": "it"
+    },
+    {
+      "description": "이 미끼는 오브 협곡 동굴의 핫스팟에서 발견되는 레전더리 희귀 서보피쉬인 시네티드를 유인하는 것으로 알려진 특화된 A-다이설펙스-A로 합성되었습니다.\n\n포르투나 (금성) 의 비즈니스로부터 획득할 수 있습니다.",
+      "name": "시네티드 미끼",
+      "code": "ko"
+    },
+    {
+      "description": "Esta carnada es sintetizada de componentes especializados de Aa-disulfex que es conocida por atraer al Synathid, un servopez legendariamente raro encontrado solo en zonas activas en las cavernas de los Valles del Orbe.\n\nObtenido coin The Business en Fortuna (Venus).",
+      "name": "Carnada para Synathid",
+      "code": "es"
+    },
+    {
+      "description": "这种鱼饵由特制的A－二硫科斯－A化合物合成，能够吸引海龙，一种可于山洞鱼点中找到的传奇稀有伺服鱼。\n\n从福尔图娜（金星）的 The Business 处获得。",
+      "name": "海龙鱼饵",
+      "code": "zh"
+    },
+    {
+      "description": "Эта наживка синтезирована из специальных соединений А-дисульфекса-А, известных тем, что они привлекают синафиду — легендарную редкую серворыбу, обитающую только в горячих точках пещер.\n\nМестонахождение: у Бизнеса в Фортуне (Венера)​",
+      "name": "Наживка на синафиду",
+      "code": "ru"
+    },
+    {
+      "description": "このベイトは洞窟のホットスポットでのみ見つかる非常に珍しいサーボ魚のシナシッドを引き寄せる事で知られる特殊なA-ジサルフェックス-A化合物から合成されている。\n\nフォーチュナー (金星) のThe Businessから入手可能。",
+      "name": "シナシッド・ベイト",
+      "code": "ja"
+    },
+    {
+      "description": "Ta przynęta jest syntetyzowana ze specjalistycznych związków A-disulfeks-A, które są znane z przyciągania Synathid, legendarnie rzadkich Serworyb, występujących w jaskiniach Orb Vallis.\n\nMoże zostać zakupiona od Biznesa w Fortunie (Wenus).",
+      "name": "Przynęta Synathid",
+      "code": "pl"
+    },
+    {
+      "description": "Esta isca é sintetizada a partir de compostos especializados A-disulphex-A, conhecidos por atrair o Synathid, um Peixe-Servo lendário encontrado em locais de pesca nas cavernas do Vallis das Orbes.\n\nLocalização: obtido com o Business em Fortuna, em Vênus.",
+      "name": "Isca de Synathid",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚餌由特製的A－二硫科斯－A 化合物合成，能夠吸引海龍，一種可於奧布山谷的洞穴魚點裡找到的傳奇稀有伺服魚。\n\n可以從福爾圖娜（金星）的 Business 取得。",
+      "name": "海龍魚餌",
+      "code": "tc"
+    },
+    {
+      "description": "เหยื่อล่อชิ้นนี้สังเคราะห์จากสารประกอบ A-disulphex-A เฉพาะที่จะดึงดูด Synathid ซึ่งเป็นเซอร์โวฟิชที่หายากในตำนาน ซึ่งพบได้เฉพาะในจุดฮอตสปอตที่มีปลาชุกชุมในถ้ำออร์บวัลลิสเท่านั้น\n\nรับได้จาก The Business ในฟอร์ทูนา (ดาวศุกร์)",
+      "name": "เหยื่อล่อ Synathid",
+      "code": "th"
+    },
+    {
+      "description": "Bu yem, mağaralardaki sıcak noktalarında bulunan ve ender bir Servobalık olan Synathid'i çekmek için özel A-disulphex-A bileşenlerinden sentezlenmiştir.\n\nKaynak: Fortuna'da (Venüs) bulunan Business'ten temin edilebilir.",
+      "name": "Synathid Yemi",
+      "code": "tr"
+    },
+    {
+      "description": "Приманка синтезована з особливих А-дизулфексних сполук, що приманюють еколярію — надзвичайно рідкісну серворибу, яка трапляється в Долині Куль лише в певних ділянках печер.\n\nМожна придбати в Бізнеса у Фортуні (Венера).",
+      "name": "Приманка на еколярію",
+      "code": "uk"
+    }
+  ]
+}

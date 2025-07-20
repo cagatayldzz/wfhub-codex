@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageOctaviaDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/octavia-glyph---dark-f2f62e7af4.png",
+  "name": "Octavia Glyph - Dark",
+  "description": "A glyph depicting Octavia on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Octavia vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Octavia (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Octavia sur fond sombre.",
+      "name": "Glyphe Octavia - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Octavia su uno sfondo scuro.",
+      "name": "Glifo Octavia - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 옥타비아를 묘사한 글리프입니다.",
+      "name": "옥타비아 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Octavia sobre un fondo oscuro.",
+      "name": "Glifo de Octavia - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Octavia 在黑暗背景下的浮印。",
+      "name": "Octavia 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Октавии на тёмном фоне.",
+      "name": "Глиф: Октавия - тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたOctaviaのグリフ。",
+      "name": "Octavia グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Octavia na ciemnym tle.",
+      "name": "Glif Octavia — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Octavia em um fundo escuro.",
+      "name": "Glifo: Octavia (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Octavia 在黑暗背景下的浮印。",
+      "name": "Octavia 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Octavia บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Octavia - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Octavia koyu fonlu glif.",
+      "name": "Octavia Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Октавії на темному тлі.",
+      "name": "Темний гліф «Октавія»",
+      "code": "uk"
+    }
+  ]
+}

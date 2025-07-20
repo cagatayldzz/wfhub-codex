@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneYareli",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/merulina-domestik-drone-ff32f93556.png",
+  "name": "Merulina Domestik Drone",
+  "description": "Mop up the Orbiter with this Domestik Drone inspired by Yareli's living board, Merulina.",
+  "languages": [
+    {
+      "description": "Wisch den Orbiter mit dieser Haushalts-Drohne, die von Merulina, Yarelis lebendem Drive inspiriert ist.",
+      "name": "Haushalt-Drohne: Merulina",
+      "code": "de"
+    },
+    {
+      "description": "Mettez ce drone domestique inspiré de la planche vivante de Yareli au travail.",
+      "name": "Drone Domestique Méruline",
+      "code": "fr"
+    },
+    {
+      "description": "Ripulisci l'Orbiter con questo Drone Domestico ispirato alla tavola vivente di Yareli, Merulina.",
+      "name": "Drone Domestico Merulina",
+      "code": "it"
+    },
+    {
+      "description": "야렐리의 살아있는 보드인 메룰리나에게서 영감을 받은 이 도메스틱 드론으로 오비터를 싹싹 닦아보세요.",
+      "name": "메룰리나 도메스틱 드론",
+      "code": "ko"
+    },
+    {
+      "description": "Limpia el orbitador con este dron Domestik inspirado  en Merulina, la tabla viviente de Yareli.",
+      "name": "Dron Domestik Merulina",
+      "code": "es"
+    },
+    {
+      "description": "用这款受 Yareli 浪漪珊瑚启发的内务无人机清扫轨道飞行器。",
+      "name": "浪漪珊瑚内务无人机",
+      "code": "zh"
+    },
+    {
+      "description": "Займитесь чисткой Орбитера с этим Дроном-уборщиком, вдохновлённым доской Ярели, Мерулиной.",
+      "name": "Дрон-Уборщик Мерулина",
+      "code": "ru"
+    },
+    {
+      "description": "Yareli自慢のボードMerulinaをモチーフにしたこのドメスティクドローンでオービターをピカピカにしよう。",
+      "name": "Merulina ドメスティクドローン",
+      "code": "ja"
+    },
+    {
+      "description": "Inspirowany żywą deską Yareli, Meruliną, Dron Doomestos wysprząta Orbiter.",
+      "name": "Robot Doomestos: Merulina",
+      "code": "pl"
+    },
+    {
+      "description": "Faça uma faxina em sua Orbital com este Drone Domestik inspirado na prancha viva da Yareli, Merulina.",
+      "name": "Drone Domestik Merulina",
+      "code": "pt"
+    },
+    {
+      "description": "透過這個靈感來自 Yareli 的生動浮板──Merulina 而設計的內務無人機來清掃軌道飛行器。",
+      "name": "美浪珊板內務無人機",
+      "code": "tc"
+    },
+    {
+      "description": "ดูดซับยานออร์บิเตอร์ด้วยโดรน Domestik ที่ได้รับแรงบันดาลใจจาก Merulina กระดานที่มีชีวิตของ Yareli",
+      "name": "โดรน Merulina Domestik",
+      "code": "th"
+    },
+    {
+      "description": "Yareli'nin canlı sörf tahtası Merulina'dan ilham alan bu Domestik drone ile Orbiter'ini temizle.",
+      "name": "Merulina Domestik Drone",
+      "code": "tr"
+    },
+    {
+      "description": "Дрон-прибиральник для вашого орбітра, на створення якого надихнула Меруліна — жива дошка Ярелі.",
+      "name": "Дрон-прибиральник «Меруліна»",
+      "code": "uk"
+    }
+  ]
+}

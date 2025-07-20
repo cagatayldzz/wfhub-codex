@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/ArchonShardEphemera",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/shard-hex-ephemera-ab911ab464.png",
+  "name": "Shard Hex Ephemera",
+  "description": "Expose the power that courses through you. This Ephemera dynamically updates with your Warframe’s installed Archon Shards.",
+  "languages": [
+    {
+      "description": "Entblößt die Macht, die durch dich fließt. Dieses Ephemera ändert sich auf dynamische Weise, abhängig von den installierten Archon Scherben auf deinem Warframe.",
+      "name": "Ephemera: Scherbenzauber",
+      "code": "de"
+    },
+    {
+      "description": "Exposez la puissance qui vous anime. Cet Ephemera se met à jour dynamiquement avec les Fragments d'Archonte installés sur votre Warframe.",
+      "name": "Ephemera Fragment Malédiction",
+      "code": "fr"
+    },
+    {
+      "description": "Esponi il potere che ti attraversa. Questa Ephemera si aggiorna dinamicamente con i Frammenti Archon installati nel tuo Warframe.",
+      "name": "Ephemera Shard Hex",
+      "code": "it"
+    },
+    {
+      "description": "여러분의 온 몸을 타고 흐르는 힘을 드러내 보세요. 이 이페메라는 해당 워프레임에 설치된 집정관 샤드를 실시간으로 반영합니다.",
+      "name": "샤드 헥스 이페메라",
+      "code": "ko"
+    },
+    {
+      "description": "Muestra el poder que fluye a través de ti. Este efímero se actualiza dinámicamente con los Fragmentos de Arconte instalados en tu warframe.",
+      "name": "Efímero Fragmento Maleficio",
+      "code": "es"
+    },
+    {
+      "description": "展现流淌全身的力量。这个幻纹会随着你战甲上安装的执刑官源力石进行动态更新。",
+      "name": "源力石诅咒幻纹",
+      "code": "zh"
+    },
+    {
+      "description": "Проявите силу, которая движет вами. Эта эфемера динамически обновляется с помощью установленных в вашем варфрейме Осколков Архонта.",
+      "name": "Эфемера «Шестигранный осколок»",
+      "code": "ru"
+    },
+    {
+      "description": "あなたを通して流れる力が溢れ出す。このエフェメラは、WARFRAMEにインストールされているアルコンの欠片で動的に更新される。",
+      "name": "Shard Hex エフェメラ",
+      "code": "ja"
+    },
+    {
+      "description": "Ujawnij moc, która płynie w Twoich żyłach. Ta Efemera przedstawia Okruchy Archona zainstalowane w Twoim Warframe'ie.",
+      "name": "Efemera Okruchu Hex",
+      "code": "pl"
+    },
+    {
+      "description": "Exponha o poder que flui através de você. Esta Efêmera é atualizada dinamicamente com os Fragmentos de Arconte instalados no seu Warframe.",
+      "name": "Efêmera: Fragmento Enfeitiçado",
+      "code": "pt"
+    },
+    {
+      "description": "展露貫穿你全身的力量。這個幻紋隨著你的 Warframe 上安裝的執政官靈石而動態更新。",
+      "name": "靈石厄咒紋幻",
+      "code": "tc"
+    },
+    {
+      "description": "เผยให้เห็นถึงพลังที่ไหลผ่านตัวคุณ อิเฟมเมอราชุดนี้จะอัปเดตแบบไดนามิกตามเศษ Archon ที่ติดตั้งอยู่ในตัว Warframe",
+      "name": "อิเฟมเมอรา Shard Hex",
+      "code": "th"
+    },
+    {
+      "description": "İçinden geçen gücü açığa çıkart. Bu Ephemera, Warframe'inde kurulu Archon Parçaları ile dinamik olarak güncellenir.",
+      "name": "Shard Hex Ephemera",
+      "code": "tr"
+    },
+    {
+      "description": "Проявіть силу, що вирує у вас. Ефемера змінюється під впливом встановлених у ворфрейм архонтових уламків.",
+      "name": "Ефемера «Уламкові чари»",
+      "code": "uk"
+    }
+  ]
+}

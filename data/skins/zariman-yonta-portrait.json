@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPortraitFrameFemale",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-yonta-portrait-54558930d0.png",
+  "name": "Zariman Yonta Portrait",
+  "description": "A painted portrait of Archimedean Yonta.",
+  "languages": [
+    {
+      "description": "Ein gemaltes Porträt von Archimeden Yonta.",
+      "name": "Zariman Porträt (Yonta)",
+      "code": "de"
+    },
+    {
+      "description": "Un portrait de l'Archimédienne Yonta.",
+      "name": "Zariman: Portrait (Yonta)",
+      "code": "fr"
+    },
+    {
+      "description": "Un ritratto dipinto dell'Archimedea Yonta.",
+      "name": "Ritratto Zariman - Yonta",
+      "code": "it"
+    },
+    {
+      "description": "아르키메디안 욘타의 초상화가 그려져 있습니다.",
+      "name": "자리만 욘타 초상화",
+      "code": "ko"
+    },
+    {
+      "description": "Un retrato pintado de la arquimediana Yonta.",
+      "name": "Retrato Zariman (Yonta)",
+      "code": "es"
+    },
+    {
+      "description": "一幅哲士扬塔的彩绘肖像。",
+      "name": "扎里曼扬塔肖像",
+      "code": "zh"
+    },
+    {
+      "description": "Портрет архимедиан Йонты.",
+      "name": "Зариман: Портрет - Йонта",
+      "code": "ru"
+    },
+    {
+      "description": "アルキメデスYontaが描かれた肖像画。",
+      "name": "Zariman Yonta ポートレート",
+      "code": "ja"
+    },
+    {
+      "description": "Malowany portret przedstawiający Archimediankę Yontę.",
+      "name": "Zariman: Portret Yonty",
+      "code": "pl"
+    },
+    {
+      "description": "Uma pintura retratando a Arquimediana Yonta.",
+      "name": "Retrato da Yonta da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "哲士 Yonta 的彩繪肖像。",
+      "name": "扎日曼肖像（Yonta）",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพวาดของอาร์คิมีดีน Yonta",
+      "name": "Zariman: ภาพเหมือน Yonta",
+      "code": "th"
+    },
+    {
+      "description": "Arşimet Yonta'nın bir yağlı boya portresi.",
+      "name": "Zariman Yonta Portresi",
+      "code": "tr"
+    },
+    {
+      "description": "Портрет архімедівки Йонти.",
+      "name": "Портрет Йонти із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

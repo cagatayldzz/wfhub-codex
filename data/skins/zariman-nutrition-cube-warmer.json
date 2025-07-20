@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ZarimanApartment/ZARxPrpKitchenMiscApplianceA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-nutrition-cube-warmer-67aec403be.png",
+  "name": "Zariman Nutrition Cube Warmer",
+  "description": "A device for preparing a variety of nutrition cube dishes.",
+  "languages": [
+    {
+      "description": "Ein Gerät zum Zubereiten verschiedener Nährwürfelgerichte.",
+      "name": "Zariman Nährstoffwürfel-Aufwärmer",
+      "code": "de"
+    },
+    {
+      "description": "Un dispositif pour réchauffer une variété de cubes nutritionnels.",
+      "name": "Zariman: Cube nutritionnel (réchauffeur)",
+      "code": "fr"
+    },
+    {
+      "description": "Un dispositivo per preparare una varietà di cubi nutrizionali.",
+      "name": "Riscaldatore per Cubi Nutrizionali Zariman",
+      "code": "it"
+    },
+    {
+      "description": "다양한 영양 큐브 요리를 준비하는 장치입니다.",
+      "name": "자리만 영양 큐브 가열기",
+      "code": "ko"
+    },
+    {
+      "description": "Un dispositivo para calentar una variedad de cubos nutricionales.",
+      "name": "Calentador de cubos nutricionales Zariman",
+      "code": "es"
+    },
+    {
+      "description": "一种用于烹饪各种营养块美味的设备。",
+      "name": "扎里曼营养块加热器",
+      "code": "zh"
+    },
+    {
+      "description": "Устройство для приготовления различных блюд из пищевых батончиков.",
+      "name": "Зариман: нагреватель питательных батончиков",
+      "code": "ru"
+    },
+    {
+      "description": "栄養キューブを調理する装置。",
+      "name": "Zariman 栄養キューブ加熱装置",
+      "code": "ja"
+    },
+    {
+      "description": "Urządzenie służące do przygotowania wielu różnych dań z użyciem batonów.",
+      "name": "Zariman: Ogrzewarka batonów",
+      "code": "pl"
+    },
+    {
+      "description": "Um dispositivo para preparar uma variedade de pratos de cubos nutricionais.",
+      "name": "Aquecedor de Cubos Nutricionais da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "用來準備各種營養塊佳餚的廚具。",
+      "name": "扎日曼營養塊加熱器",
+      "code": "tc"
+    },
+    {
+      "description": "อุปกรณ์สำหรับเตรียมทำอาหารจากก้อนอาหารแบบต่าง ๆ",
+      "name": "Zariman: เครื่องอุ่นนิวทริชันคิวบ์",
+      "code": "th"
+    },
+    {
+      "description": "Çeşitli besin küpü yemeklerini hazırlamak için bir alet.",
+      "name": "Zariman Besin Küpü Isıtıcısı",
+      "code": "tr"
+    },
+    {
+      "description": "Пристрій для приготування різноманітних страв із харчових кубів.",
+      "name": "Нагрівач харчових кубів із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

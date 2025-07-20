@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/Railjack/DamagedRailjackTailFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tail-section-repairs-2cb478e63b.png",
+  "name": "Tail Section Repairs",
+  "description": "",
+  "languages": [
+    {
+      "description": "",
+      "name": "HECK-SEGMENT REPARATUR",
+      "code": "de"
+    },
+    {
+      "description": "",
+      "name": "RÉPARATIONS DE L'EMPENNAGE",
+      "code": "fr"
+    },
+    {
+      "description": "",
+      "name": "RIPARAZIONI DELLA SEZIONE DI CODA",
+      "code": "it"
+    },
+    {
+      "description": "",
+      "name": "선미부 수리",
+      "code": "ko"
+    },
+    {
+      "description": "",
+      "name": "REPARACIONES DEL SEGMENTO DE COLA",
+      "code": "es"
+    },
+    {
+      "description": "",
+      "name": "机尾维修",
+      "code": "zh"
+    },
+    {
+      "description": "",
+      "name": "РЕМОНТ ХВОСТОВОЙ ЧАСТИ",
+      "code": "ru"
+    },
+    {
+      "description": "",
+      "name": "テール部分の修理",
+      "code": "ja"
+    },
+    {
+      "description": "",
+      "name": "NAPRAWY SEKCJI RUFOWEJ",
+      "code": "pl"
+    },
+    {
+      "description": "",
+      "name": "REPAROS NA EMPENAGEM",
+      "code": "pt"
+    },
+    {
+      "description": "",
+      "name": "船尾部維修",
+      "code": "tc"
+    },
+    {
+      "description": "",
+      "name": "ซ่อมส่วนหาง",
+      "code": "th"
+    },
+    {
+      "description": "",
+      "name": "KUYRUK BÖLÜMÜ ONARIMI",
+      "code": "tr"
+    },
+    {
+      "description": "",
+      "name": "ЛАГОДЖЕННЯ ХВОСТОВОЇ ЧАСТИНИ",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxArcadeAirHockeyA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/air-hockey-table-bc93ac14e0.png",
+  "name": "Air Hockey Table",
+  "description": "An air hockey table typically found in arcades.",
+  "languages": [
+    {
+      "description": "Ein Airhockey-Tisch, wie man ihn normalerweise in Spielhallen findet.",
+      "name": "Airhockey-Tisch",
+      "code": "de"
+    },
+    {
+      "description": "Une table de air hockey que l'on trouve généralement dans les salles d'arcade.",
+      "name": "Table de Air Hockey",
+      "code": "fr"
+    },
+    {
+      "description": "Un tavolo da air hockey tipico delle sale giochi.",
+      "name": "Tavolo da Air Hockey",
+      "code": "it"
+    },
+    {
+      "description": "오락실에서 주로 볼 수 있는 에어 하키 테이블입니다.",
+      "name": "에어 하키 테이블",
+      "code": "ko"
+    },
+    {
+      "description": "Una mesa de air hockey que normalmente se encuentra en las salas de juegos.",
+      "name": "Mesa de air hockey",
+      "code": "es"
+    },
+    {
+      "description": "一种常见于游戏厅的空气曲棍球台。",
+      "name": "空气曲棍球台",
+      "code": "zh"
+    },
+    {
+      "description": "Стол для аэрохоккея, обычно встречающийся в игровых залах.",
+      "name": "Стол для аэрохоккея",
+      "code": "ru"
+    },
+    {
+      "description": "アーケードなどでよく見かけるエアホッケーテーブル。",
+      "name": "エアホッケー テーブル",
+      "code": "ja"
+    },
+    {
+      "description": "Stół do cymbergaja, często znajdowany w salonach gier.",
+      "name": "Stół do cymbergaja",
+      "code": "pl"
+    },
+    {
+      "description": "Uma mesa de hóquei de ar, normalmente encontrada em fliperamas.",
+      "name": "Mesa de Hóquei de Ar",
+      "code": "pt"
+    },
+    {
+      "description": "通常可以在電子遊樂場中找到的氣墊球桌。",
+      "name": "氣墊球桌",
+      "code": "tc"
+    },
+    {
+      "description": "โต๊ะแอร์ฮ็อกกี้ที่มักพบในร้านเกมอาร์เคด",
+      "name": "โต๊ะแอร์ฮ็อกกี้",
+      "code": "th"
+    },
+    {
+      "description": "Genellikle oyun salonlarında bulunan bir hava hokeyi masası.",
+      "name": "Hava Hokeyi Masası",
+      "code": "tr"
+    },
+    {
+      "description": "Типовий стіл для гри в повітряний хокей, часто трапляється в ігрових залах.",
+      "name": "Стіл для повітряного хокею",
+      "code": "uk"
+    }
+  ]
+}

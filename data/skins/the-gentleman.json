@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-gentleman-c795172fd0.png",
+  "name": "The Gentleman",
+  "description": "A stylish moustache for your Warframe.",
+  "languages": [
+    {
+      "description": "Ein stylischer Schnurrbart für deinen Warframe.",
+      "name": "Der Gentleman",
+      "code": "de"
+    },
+    {
+      "description": "Une moustache élégante pour votre Warframe.",
+      "name": "Le Gentleman",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stile di baffi per il tuo Warframe.",
+      "name": "Il Signore",
+      "code": "it"
+    },
+    {
+      "description": "당신의 워프레임을 위한 멋진 콧수염입니다.",
+      "name": "젠틀맨",
+      "code": "ko"
+    },
+    {
+      "description": "Un elegante bigote para tu warframe.",
+      "name": "El caballero",
+      "code": "es"
+    },
+    {
+      "description": "战甲的时尚胡子。",
+      "name": "英式绅士胡",
+      "code": "zh"
+    },
+    {
+      "description": "Стильные усы для вашего варфрейма.",
+      "name": "Джентльмен",
+      "code": "ru"
+    },
+    {
+      "description": "WARFRAME用のスタイリッシュな口ひげ。",
+      "name": "紳士型",
+      "code": "ja"
+    },
+    {
+      "description": "Stylowe wąsy dla Twojego Warframe'a.",
+      "name": "Dżentelmen",
+      "code": "pl"
+    },
+    {
+      "description": "Um bigode cheio de estilo para seu Warframe.",
+      "name": "O Cavalheiro",
+      "code": "pt"
+    },
+    {
+      "description": "Warframe 的時尚鬍子。",
+      "name": "英式紳士鬍",
+      "code": "tc"
+    },
+    {
+      "description": "หนวดสุดเท่สำหรับ Warframe ของคุณ",
+      "name": "Gentleman",
+      "code": "th"
+    },
+    {
+      "description": "Warframe’iniz için gösterişli bir bıyık",
+      "name": "Gentleman",
+      "code": "tr"
+    },
+    {
+      "description": "Стильні вуса для вашого ворфрейма.",
+      "name": "Джентльмен",
+      "code": "uk"
+    }
+  ]
+}

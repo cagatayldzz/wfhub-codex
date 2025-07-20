@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/embolos-5120cbfcb1.png",
+  "name": "Embolos",
+  "description": "This rare gem forms in a clotted mass within the Infestation.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.",
+  "languages": [
+    {
+      "description": "Dieser seltene Edelstein bildet sich in einer geronnenen Masse innerhalb des Befalls.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+      "name": "Embolos",
+      "code": "de"
+    },
+    {
+      "description": "Cette gemme rare se forme dans des caillots se trouvant dans l'Infestation.\n\nLieu: Puy de Cambion (Deimos) via le minage de Lésions bleues. Cette Gemme rare ne peut être extraite qu'avec le Tailleur Nosam Avancé ou la Perceuse à Plasma Sunpoint.",
+      "name": "Embolos",
+      "code": "fr"
+    },
+    {
+      "description": "Questa gemma rara si forma in una massa addensata nelle profondità dell'Infestazione.\n\nPosizione: Lesioni Minerarie Blu sul Cambion Drift (Deimos). Questa Gemma Rara può essere estratta solamente con il Taglio Nosam Avanzato o il Trapano Sunpoint Plasma.",
+      "name": "Embolos",
+      "code": "it"
+    },
+    {
+      "description": "이 희귀한 보석은 감염체 내부 깊숙히 응고된 덩어리 속에서 형성됩니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 병변에서 찾을 수 있습니다. 이 희귀한 보석은 어드밴스드 노잠 커터 혹은 썬포인트 플라즈마 드릴로만 채굴할 수 있습니다.",
+      "name": "엠볼로스",
+      "code": "ko"
+    },
+    {
+      "description": "Esta rara gema se forma de una masa coagulada dentro de la infestación.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules. Esta gema rara sólo se puede extraer con el cortador Nosam avanzado o el taladro de plasma solar.",
+      "name": "Embolos",
+      "code": "es"
+    },
+    {
+      "description": "这种罕见的宝石是在感染者内部形成的凝块。 \n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕。这种稀有宝石只能通过高级诺萨姆切割器或阳点等离子钻头开采。",
+      "name": "栓子凝石",
+      "code": "zh"
+    },
+    {
+      "description": "Этот редкий драгоценный камень образуется в виде свернувшейся массы внутри Заражения.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе. Этот редкий драгоценный камень можно добыть только с помощью усовершенствованного Нозамового резака или Сол-точечного плазменного бура.",
+      "name": "Эмболос",
+      "code": "ru"
+    },
+    {
+      "description": "感染体の集合塊内で形成される貴重な宝石。\n\n場所：カンビオン荒地（ダイモス）の青い鉱脈。この希少な宝石はアドバンスノサム カッターかサンポイント プラズマドリルでのみ採掘できる。",
+      "name": "エンボロス",
+      "code": "ja"
+    },
+    {
+      "description": "Ten rzadki klejnot formuje się jako skrzep głęboko wewnątrz Plagi.\n\nPołożenie: Niebieskie owrzodzenia w Dryfie Kambionu na Deimosie. Ten rzadki Klejnot może zostać wydobyty wyłącznie z użyciem Zaawansowanego Wiertła Nosam lub Wiertła Plazmowego Sunpoint.",
+      "name": "Embolos",
+      "code": "pl"
+    },
+    {
+      "description": "Uma joia rara, formada a partir de uma massa infestada coagulada.\n\nLocalização: em Lesões de Mineração Azuis na Deriva de Cambion, em Deimos. Pode ser extraída somente com o Minerador Nosam Avançado ou com a Broca de Plasma Solar.",
+      "name": "Embolos",
+      "code": "pt"
+    },
+    {
+      "description": "這種稀有的寶石在感染物內透過一種凝結塊形成。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶。這個稀有的寶石只能透過高級諾薩姆切割器或者索拉里斯採礦雷射來採掘。",
+      "name": "凝晶石",
+      "code": "tc"
+    },
+    {
+      "description": "อัญมณีหายากประเภทนี้ก่อตัวอยู่ในก้อนที่ติดเชื้อ\n\nแหล่งที่พบ: สายแร่สีน้ำเงินแคมบิออนดริฟต์ (ดาวเดมอส) อัญมณีหายากประเภทนี้สามารถขุดได้ด้วยเครื่องตัด Nosam ขั้นสูงหรือเครื่องเจาะ Sunpoint Plasma เท่านั้น",
+      "name": "เอมโบลอส",
+      "code": "th"
+    },
+    {
+      "description": "Bu nadir mücevher, Infested dokusu içinde pıhtılaşmış bir kütle halinde oluşur.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarından bulunabilir. Bu Nadir Mücevher yalnızca Gelişmiş Nosam Kesici veya Sunpoint Plazma Kazıcısı ile çıkarılabilir.",
+      "name": "Embolos",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісний самоцвіт, сформований у згущеній зараженій масі.\n\nМожна здобути з синіх лезій у Кембіонській течії (Деймос). Видобуток можливий лише за наявності поліпшеного різака «Нозам» або плазмового бура «Промінь».",
+      "name": "Емболос",
+      "code": "uk"
+    }
+  ]
+}

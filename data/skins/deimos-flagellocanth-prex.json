@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardTennoConD",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/deimos-flagellocanth-prex-1f644e8515.png",
+  "name": "Deimos Flagellocanth Prex",
+  "description": "A whippy spined Fish of Deimos. Prex designed and illustrated by Shadrad!",
+  "languages": [
+    {
+      "description": "Ein elastischer Wirbel-Fisch von Deimos. Als Prex designt und illustriert von Shadrad!",
+      "name": "Deimos Flagellocanth Prex",
+      "code": "de"
+    },
+    {
+      "description": "Un poisson épineux agile de Deimos. Prex conçu et illustré par Shadrad!",
+      "name": "Prex Flagellocanthe Deimos",
+      "code": "fr"
+    },
+    {
+      "description": "Un Pesce di Deimos spinoso e scattante. Carta Prex ideata e illustrata da Shadrad!",
+      "name": "Prex: Deimos Flagellocanth",
+      "code": "it"
+    },
+    {
+      "description": "탄력 있는 척추를 가진 데이모스의 물고기입니다. 프렉스의 디자인 및 삽화는 Shadrad님이 담당했습니다!",
+      "name": "데이모스 플래젤로캔스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Una pez con látigo espinoso de Deimos. ¡Prex diseñada e ilustrada por Shadrad!",
+      "name": "Prex de Flagelocanto Deimos",
+      "code": "es"
+    },
+    {
+      "description": "一种生活在火卫二的鞭鱼。该 Prex 卡牌的构思和插图由 Shadrad 创作！",
+      "name": "火卫二须腔棘鱼 Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Гибкая как прут рыба Деймоса. Прек разработан и проиллюстрирован Shadrad!",
+      "name": "Прекс: Флагеллокант Деймоса",
+      "code": "ru"
+    },
+    {
+      "description": "弾性のあるトゲを備えたダイモスの魚。プレックスは「Shadrad」氏によるデザインおよびイラストレーション。",
+      "name": "ダイモス フラジェロカンス プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Ryba giętko-kolczasta zamieszkująca Deimos. Prex zaprojektowany i zilustrowany przez Shadrad!",
+      "name": "Prex: Flagellocanth Deimos",
+      "code": "pl"
+    },
+    {
+      "description": "Um peixe espinhoso de Deimos. Prex desenvolvida e ilustrada por Shadrad!",
+      "name": "Prex: Flagellocanth de Deimos",
+      "code": "pt"
+    },
+    {
+      "description": "火衛二帶有鞭刺的魚類。卡牌由 Shadrad 設計及繪製！",
+      "name": "卡牌 — 火衛二鞭棘鱇",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาที่มีกระดูกสันหลังที่ยืดหยุ่นของเดมอส ไพ่เพร็กซ์ที่ออกแบบและวาดภาพประกอบโดย Shadrad!",
+      "name": "ไพ่เพร็กซ์ Deimos Flagellocanth",
+      "code": "th"
+    },
+    {
+      "description": "Esnek omurgalı bir Deimos Balığı. Prex, Shadrad tarafından tasarlandı ve resmedildi!",
+      "name": "Deimos Flagellocanth Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Гнучка, мов тріска, риба Деймоса. Автор прекса: Shadrad!",
+      "name": "Прекс деймоського флаґеллоканта",
+      "code": "uk"
+    }
+  ]
+}

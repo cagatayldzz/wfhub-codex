@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/KuvaLichSetA/KuvaLichArmourALegs",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-stragh-leg-plates-c448eca71b.png",
+  "name": "Kuva Stragh Leg Plates",
+  "description": "Grineer leg plates forged for a reborn Kuva Lich.",
+  "languages": [
+    {
+      "description": "Grineer Beinplatten, geschmiedet für einen wiedergeborenen Kuva Lich.",
+      "name": "Beinplatten: Kuva Stragh",
+      "code": "de"
+    },
+    {
+      "description": "Des Jambières Grineers forgées spécifiquement pour une Liche Kuva réanimée.",
+      "name": "Jambières Stragh Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Gambali Grineer forgiati per un Kuva Lich rinato.",
+      "name": "Gambali Kuva Stragh",
+      "code": "it"
+    },
+    {
+      "description": "다시 태어난 쿠바 리치를 위해 제작된 그리니어 레그 플레이트입니다.",
+      "name": "쿠바 스트라그 레그 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Espinilleras de placas grineer forjadas para un Lich de Kuva renacido.",
+      "name": "Espinilleras de placas Kuva Stragh",
+      "code": "es"
+    },
+    {
+      "description": "为一个重生的赤毒玄骸打造的 Grineer 腿甲",
+      "name": "赤毒斯特拉格腿甲",
+      "code": "zh"
+    },
+    {
+      "description": "Выкованные наголенники Гринир для возрожденного Лича Кувы.",
+      "name": "Наголенники: Кува Страг",
+      "code": "ru"
+    },
+    {
+      "description": "転生したクバ・リッチ用に鍛造されたグリニア式レッグプレート。",
+      "name": "Stragh クバ レッグプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Nagolenniki Grineer wykute dla odrodzonego Licza Kuvy.",
+      "name": "Nagolenniki: Kuva Stragh",
+      "code": "pl"
+    },
+    {
+      "description": "Pernas Grineer forjadas para um Lich de Kuva renascido.",
+      "name": "Pernas: Kuva Stragh",
+      "code": "pt"
+    },
+    {
+      "description": "為重生的赤毒巫妖所鍛造的 Grineer 腿甲。",
+      "name": "赤毒斯特拉格腿甲",
+      "code": "tc"
+    },
+    {
+      "description": "แผ่นโลหะรองขาของ Grineer ที่หลอมขึ้นเพื่อ Kuva Lich ที่เกิดใหม่",
+      "name": "เพลตขา Kuva Stragh",
+      "code": "th"
+    },
+    {
+      "description": "Yeniden doğmuş bir Kuva Lich için dövülmüş Grineer bacak plakaları.",
+      "name": "Kuva Stragh Bacak Plakaları",
+      "code": "tr"
+    },
+    {
+      "description": "Ґрінерський наголінник, викуваний для відродженого кувового ліча.",
+      "name": "Наголінник «Кува „Страґг“»",
+      "code": "uk"
+    }
+  ]
+}

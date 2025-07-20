@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/LisetTurret",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sentry-gun-664eed7933.png",
+  "name": "Sentry Gun",
+  "description": "Ordis delivers an automatic turret that will fire upon nearby visible enemies.",
+  "languages": [
+    {
+      "description": "Ordis liefert ein Abwehrgeschütz, das auf sichtbare Ziele in der Nähe feuert.",
+      "name": "Abwehrgeschütz",
+      "code": "de"
+    },
+    {
+      "description": "Ordis largue une tourelle automatique qui tire sur les ennemis visibles à proximité.",
+      "name": "Mitrailleuse",
+      "code": "fr"
+    },
+    {
+      "description": "Ordis schiera una torretta automatica che aprirà il fuoco contro i nemici visibili nelle vicinanze.",
+      "name": "Torretta Automatica",
+      "code": "it"
+    },
+    {
+      "description": "오디스가 시야에 들어온 적에게 자동으로 공격을 퍼붓는 공격용 포탑을 배치합니다.",
+      "name": "센트리 건",
+      "code": "ko"
+    },
+    {
+      "description": "Ordis deja caer una torreta automática que disparará a los enemigos cercanos visibles.",
+      "name": "Arma guardiana",
+      "code": "es"
+    },
+    {
+      "description": "Ordis 会投放一门全自动炮台来打击附近视野内的敌人。",
+      "name": "自动炮台",
+      "code": "zh"
+    },
+    {
+      "description": "Ордис сбрасывает автоматическую турель, которая будет атаковать ближайших видимых противников.",
+      "name": "Автоматическая турель",
+      "code": "ru"
+    },
+    {
+      "description": "視界にいる付近の敵に射撃を行う自動タレットをOrdisが配置する。",
+      "name": "セントリーガン",
+      "code": "ja"
+    },
+    {
+      "description": "Ordis przysyła automatyczne działko, które będzie atakowało wszystkich przeciwników w polu widzenia.",
+      "name": "Działko Wartownicze",
+      "code": "pl"
+    },
+    {
+      "description": "Ordis mobiliza uma torre automática, que dispara nos inimigos visíveis em sua proximidade.",
+      "name": "Vigília Bélica",
+      "code": "pt"
+    },
+    {
+      "description": "Ordis 會投放一門全自動炮臺來打擊附近視野內的敵人。",
+      "name": "自動炮臺",
+      "code": "tc"
+    },
+    {
+      "description": "Ordis นำส่งป้อมปืนอัตโนมัติที่จะยิงใส่ศัตรูที่มองเห็นในบริเวณใกล้เคียง",
+      "name": "Sentry Gun",
+      "code": "th"
+    },
+    {
+      "description": "Ordis yakındaki görünür düşmanlara ateş açan bir taret gönderir.",
+      "name": "Sentry Gun",
+      "code": "tr"
+    },
+    {
+      "description": "Ордіс скидає автоматичну турель, що атакуватиме видимих ворогів неподалеку.",
+      "name": "Автоматична турель",
+      "code": "uk"
+    }
+  ]
+}

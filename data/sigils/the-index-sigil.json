@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilIndex",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-index-sigil-3dbae5469e.png",
+  "name": "The Index Sigil",
+  "description": "A memento of The Index.",
+  "languages": [
+    {
+      "description": "Ein Andenken an den Index.",
+      "name": "Siegel: Der Index",
+      "code": "de"
+    },
+    {
+      "description": "Un souvenir de l'Index",
+      "name": "Sceau de l'Index",
+      "code": "fr"
+    },
+    {
+      "description": "Un memento dell'Index.",
+      "name": "Sigillo The Index",
+      "code": "it"
+    },
+    {
+      "description": "인덱스의 기념품입니다.",
+      "name": "인덱스 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un recuerdo del Índice.",
+      "name": "Sello del Índice",
+      "code": "es"
+    },
+    {
+      "description": "《指数之场》的纪念",
+      "name": "指数之场纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сувенир Индекса.",
+      "name": "Сигил: Индекс",
+      "code": "ru"
+    },
+    {
+      "description": "インデックスの記念の品物。",
+      "name": "インデックス シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Pamiątka Indeksu.",
+      "name": "Znak Indeksu",
+      "code": "pl"
+    },
+    {
+      "description": "Uma lembrança do Index",
+      "name": "Brasão: O Index",
+      "code": "pt"
+    },
+    {
+      "description": "《指數之場》的紀念",
+      "name": "指數之場紋章",
+      "code": "tc"
+    },
+    {
+      "description": "ของที่ระลึกถึงอินเด็กซ์",
+      "name": "เครื่องหมาย: The Index",
+      "code": "th"
+    },
+    {
+      "description": "Bir Indeks hatırası",
+      "name": "Indeks Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Нагадування про «Індекс».",
+      "name": "Сиґіл «Індекс»",
+      "code": "uk"
+    }
+  ]
+}

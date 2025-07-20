@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TrinityBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---trinity-8e40247792.png",
+  "name": "Noggle Statue - Trinity",
+  "description": "A small wobbly statue of Trinity.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur von Trinity.",
+      "name": "Noggle-Statue: Trinity",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante de Trinity.",
+      "name": "Statuette Noggle - Trinity",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di Trinity con la testa tremolante.",
+      "name": "Statuetta Noggle - Trinity",
+      "code": "it"
+    },
+    {
+      "description": "트리니티의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 트리니티",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de Trinity.",
+      "name": "Estatua Tambaleante - Trinity",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Trinity 摇头娃娃。",
+      "name": "Trinity 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая фигурка Тринити.",
+      "name": "Фигурка: Тринити",
+      "code": "ru"
+    },
+    {
+      "description": "Trinityのボブルヘッド人形。",
+      "name": "Trinity ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Trinity.",
+      "name": "Figurka Noggle — Trinity",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada da Trinity.",
+      "name": "Estatueta: Trinity",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Trinity 的搖頭娃娃。",
+      "name": "Trinity 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยก Trinity ขนาดเล็ก",
+      "name": "รูปปั้น Noggle - Trinity",
+      "code": "th"
+    },
+    {
+      "description": "Trinity küçük oynar figür.",
+      "name": "Noggle Heykeli - Trinity",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка Трініті.",
+      "name": "Ноґл «Трініті»",
+      "code": "uk"
+    }
+  ]
+}

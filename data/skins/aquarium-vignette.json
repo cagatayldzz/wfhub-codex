@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/OceanADiorama",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aquarium-vignette-678ae9f2e6.png",
+  "name": "Aquarium Vignette",
+  "description": "Additional fish tank for your personal quarters.\n\nIncludes a starter pack of fish.",
+  "languages": [
+    {
+      "description": "Ein zusätzliches Aquarium für deinen Wohnbereich. \n\nBeinhaltet ein Startpaket mit Fischen.",
+      "name": "Vignette: Aquarium",
+      "code": "de"
+    },
+    {
+      "description": "Un aquarium supplémentaire pour vos Quartiers Personnels.\n\nInclut un Pack de démarrage de poissons.",
+      "name": "Vignette d'Aquarium",
+      "code": "fr"
+    },
+    {
+      "description": "Un ulteriore acquario per il tuo alloggio personale.\n\nInclude un pacchetto iniziale di pesci.",
+      "name": "Vignetta Acquario",
+      "code": "it"
+    },
+    {
+      "description": "개인실에 배치될 추가적인 수조입니다.\n\n기본적인 물고기 컬렉션이 포함되어있습니다.",
+      "name": "수조 소품",
+      "code": "ko"
+    },
+    {
+      "description": "Una pecera adicional para tu cuarto personal.\n\nIncluye un paquete de iniciación de peces.",
+      "name": "Maqueta de Acuario",
+      "code": "es"
+    },
+    {
+      "description": "为你的私人房间准备地额外鱼缸。\n\n同时包括了一组新手鱼类。",
+      "name": "水族箱装饰景观",
+      "code": "zh"
+    },
+    {
+      "description": "Дополнительный аквариум для вашей личной комнаты.\n\nВключает стартовый набор рыбы.",
+      "name": "Виньетка: Аквариум",
+      "code": "ru"
+    },
+    {
+      "description": "個人部屋用の追加の魚のタンク。\n\n魚のスターターパック付き。",
+      "name": "アクアリウム ビネット",
+      "code": "ja"
+    },
+    {
+      "description": "Dodatkowy zbiornik do pomieszczeń mieszkalnych.\n\nZawiera zestaw startowy ryb.",
+      "name": "Diorama Akwarium",
+      "code": "pl"
+    },
+    {
+      "description": "Aquário adicional para seus aposentos pessoais.\n\nInclui um pacote inicial de peixes.",
+      "name": "Paisagem: Aquário",
+      "code": "pt"
+    },
+    {
+      "description": "為你的個人房間準備地額外魚缸。\n\n內附一組入門魚類。",
+      "name": "水族箱裝飾景觀",
+      "code": "tc"
+    },
+    {
+      "description": "ตู้ปลาเพิ่มเติมเพื่อใช้ตกแต่งที่พักส่วนตัวของคุณ\n\nมาพร้อมกับฝูงปลาเริ่มต้น",
+      "name": "วิกเน็ตต์: อควาเรียม",
+      "code": "th"
+    },
+    {
+      "description": "Kişisel karargahınız için ek bir balık tankı.\n\nBalık başlangıç paketinide içerir.",
+      "name": "Akvaryum Teması",
+      "code": "tr"
+    },
+    {
+      "description": "Додатковий акваріум для вашої каюти.\n\nМістить початковий набір рибок.",
+      "name": "Віньєтка «Акваріум»",
+      "code": "uk"
+    }
+  ]
+}

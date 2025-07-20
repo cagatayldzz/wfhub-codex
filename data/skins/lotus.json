@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerLotus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lotus-46b6a14138.png",
+  "name": "Lotus",
+  "description": "A set of colors inspired by the Lotus.\n\nUnlocks additional color options for Warframe customization.",
+  "languages": [
+    {
+      "description": "Eine Zusammenstellung von Farben, inspiriert von der Lotus. \n\nSchaltet zusätzliche Farben für die Anpassung deiner Ausrüstung frei.",
+      "name": "Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Une palette de couleurs inspirées du Lotus.\n\nDéverrouille de nouvelles couleurs pour personnaliser l’apparence des Warframes.",
+      "name": "Lotus",
+      "code": "fr"
+    },
+    {
+      "description": "Una combinazione di colori ideata da Lotus.\n\nSblocca ulteriori opzioni colore per la personalizzazione dell'armatura.",
+      "name": "Lotus",
+      "code": "it"
+    },
+    {
+      "description": "로터스에게서 영감을 받은 색들입니다.\n\n워프레임을 꾸밀 때 사용하는 추가적인 색상들을 잠금 해제합니다.",
+      "name": "로터스",
+      "code": "ko"
+    },
+    {
+      "description": "Un conjunto de colores inspirados en Lotus.\n\nDesbloquea opciones de color adicionales para la personalización del warframe.",
+      "name": "Lotus",
+      "code": "es"
+    },
+    {
+      "description": "一组色彩灵感来自于莲花。\n\n解锁更多用于战甲的自定义色彩。",
+      "name": "Lotus",
+      "code": "zh"
+    },
+    {
+      "description": "Набор цветов, вдохновлённый Лотос.\n\nОткрывает дополнительные опции для цветовой настройки варфреймов.",
+      "name": "Лотос",
+      "code": "ru"
+    },
+    {
+      "description": "Lotusをモチーフにしたカラーパレットです。\n\nカスタマイズ用追加カラーをアンロックする。",
+      "name": "Lotus",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw kolorów zainspirowanych Lotus.\n\nOdblokowuje dodatkowe opcje personalizacji Warframe'a.",
+      "name": "Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Uma gama de cores inspirado na Lótus.\n\nDesbloqueia opções de cores adicionais para a personalização de Warframes.",
+      "name": "Lótus",
+      "code": "pt"
+    },
+    {
+      "description": "一組靈感來自於 Lotus 的色彩包。\n\n解鎖額外的裝備自訂色彩。",
+      "name": "Lotus",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดสีที่ได้รับแรงบันดาลใจจาก Lotus\n\nปลดล็อกตัวเลือกสีเพิ่มเติมเพื่อใช้ปรับแต่ง Warframe",
+      "name": "Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Lotus'dan esinlenilmiş bir renk paleti\n\nWarframe özelleştirmeleri için ekstra renk seçeneklerini aktive eder",
+      "name": "Lotus",
+      "code": "tr"
+    },
+    {
+      "description": "Набір кольорів, на який надихнула Лотос.\n\nДодаткова палітра кольорів задля урізнобарвлення гри.",
+      "name": "Лотос",
+      "code": "uk"
+    }
+  ]
+}

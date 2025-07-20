@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/excalibur-helmet-289a53bd06.png",
+  "name": "Excalibur Helmet",
+  "description": "The standard issue helmet for the Excalibur Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Excalibur Warframe.",
+      "name": "Excalibur-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Excalibur.",
+      "name": "Casque Excalibur",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Excalibur.",
+      "name": "Elmo Excalibur",
+      "code": "it"
+    },
+    {
+      "description": "엑스칼리버 워프레임을 위한 기본 헬멧입니다.",
+      "name": "엑스칼리버 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Excalibur.",
+      "name": "Casco de Excalibur",
+      "code": "es"
+    },
+    {
+      "description": "Excalibur 的标准头盔。",
+      "name": "Excalibur 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Экскалибура.",
+      "name": "Шлем Экскалибура",
+      "code": "ru"
+    },
+    {
+      "description": "Excaliburの標準型ヘルメット。",
+      "name": "Excalibur ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Excalibur.",
+      "name": "Excalibur: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Excalibur.",
+      "name": "Excalibur: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Excalibur 標準頭盔。",
+      "name": "Excalibur 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Excalibur Warframe",
+      "name": "หมวกเหล็ก Excalibur",
+      "code": "th"
+    },
+    {
+      "description": "Excalibur Warframe için standart miğfer.",
+      "name": "Excalibur Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для ворфрейма Екскалібура.",
+      "name": "Шолом Екскалібура",
+      "code": "uk"
+    }
+  ]
+}

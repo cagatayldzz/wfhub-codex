@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/asterite-6b8bfeacce.png",
+  "name": "Asterite",
+  "description": "Formed over billions of years, these crystals are most often found embedded in space rock.\n\nLocation: Railjack Missions",
+  "languages": [
+    {
+      "description": "Über Milliarden von Jahren hat sich dieser Kristall gebildet und kann am häufigsten in Weltraumgestein eingebettet gefunden werden.\n\nQuelle: Railjack Missionen",
+      "name": "Asterit",
+      "code": "de"
+    },
+    {
+      "description": "Formés il y a des milliards d'années de cela, ces cristaux sont souvent trouvés incrustés dans les rochers flottant dans l'espace.\n\nLieu: Missions Railjack",
+      "name": "Astérite",
+      "code": "fr"
+    },
+    {
+      "description": "Formatisi nel corso di miliardi di anni, questi cristalli si trovano più spesso incastonati nella roccia spaziale.\n\nPosizione: Missioni Railjack",
+      "name": "Asterite",
+      "code": "it"
+    },
+    {
+      "description": "수십억 년에 걸쳐 형성된 이 결정은 우주 암석에 가장 많이 함유되어 있습니다.\n\n획득 가능 장소: 레일잭 미션",
+      "name": "아스테라이트",
+      "code": "ko"
+    },
+    {
+      "description": "Formados durante miles de millones de años, estos cristales se encuentran con mayor frecuencia incrustados en roca espacial.\n\nUbicación: Misiones de Railjack",
+      "name": "Asterita",
+      "code": "es"
+    },
+    {
+      "description": "这些晶体形成了数十亿年，最常被发现嵌入太空岩石中。\n\n获取地点：航道星舰任务",
+      "name": "晶状彗星碎片",
+      "code": "zh"
+    },
+    {
+      "description": "Образовавшиеся более миллиардов лет, эти кристаллы чаще всего встречаются в космических глыбах.\n\nМестонахождение: Миссии Рэйлджека",
+      "name": "Астерит",
+      "code": "ru"
+    },
+    {
+      "description": "何10億年に渡って生成され、このクリスタルは宇宙にある岩に埋め込まれている事が多い。\n\n場所：レールジャックミッション",
+      "name": "アステライト",
+      "code": "ja"
+    },
+    {
+      "description": "Formowane przez biliony lat kryształy najczęściej można znaleźć w kosmicznych skałach.\n\nPołożenie: Misje Railjacka",
+      "name": "Asteryt",
+      "code": "pl"
+    },
+    {
+      "description": "Formados ao longo de bilhões de anos, esses cristais costumam ser encontrados embutidos em rochas espaciais.\n\nLocalização: Missões da Railjack",
+      "name": "Asterite",
+      "code": "pt"
+    },
+    {
+      "description": "經歷數十億年而形成，這些水晶通常鑲嵌在太空石之中。\n\n地點：銳捷號任務",
+      "name": "星彩藍寶石",
+      "code": "tc"
+    },
+    {
+      "description": "ผลึกที่ก่อตัวขึ้นเป็นเวลาหลายพันล้านปีแล้ว ส่วนใหญ่มักฝังอยู่ในหินอวกาศ\n\nแหล่งที่พบ: ภารกิจ Railjack ",
+      "name": "แอสเทอไรต์",
+      "code": "th"
+    },
+    {
+      "description": "Oluşumunu milyarlarca yılda tamamlamış olan bu kristaller genelde uzay taşlarına gömülü bir şekilde bulunurlar.\n\nKonum: Railjack Görevleri",
+      "name": "Asterite",
+      "code": "tr"
+    },
+    {
+      "description": "Кристали, сформовані мільярди роки тому. Найчастіше можна знайти вкрапленими в космічних брилах.\n\nМожна знайти на завданнях для рейкоджека.",
+      "name": "Астерит",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mountain's-edge-fe9025222e.jpg",
+  "name": "Mountain's Edge",
+  "description": "Sharp movements with wide reach.",
+  "languages": [
+    {
+      "description": [
+        "Scharfe Bewegungen mit großer Reichweite."
+      ],
+      "name": "Berggrat",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Des mouvements nets avec une grande portée."
+      ],
+      "name": "Falaise rocheuse",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Movimenti bruschi con un'ampia portata."
+      ],
+      "name": "Mountain's Edge",
+      "code": "it"
+    },
+    {
+      "description": [
+        "넓은 범위에 이르는 날카로운 동작들입니다."
+      ],
+      "name": "마운틴즈 엣지",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Movimientos precisos con amplio alcance."
+      ],
+      "name": "Borde de la montaña",
+      "code": "es"
+    },
+    {
+      "description": [
+        "动作迅猛、打击面广。"
+      ],
+      "name": "山之锋芒",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Резкие движения с широким размахом."
+      ],
+      "name": "Край горы",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "範囲広く鋭い動きを可能にする。"
+      ],
+      "name": "Mountain's Edge",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Ostre ruchy o szerokim zasięgu."
+      ],
+      "name": "Krawędź Góry",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Movimentos precisos com amplo alcance."
+      ],
+      "name": "Mountain's Edge",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "急劇的動作搭配寬廣的可及範圍。"
+      ],
+      "name": "大山之鋒",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เคลื่อนไหวอย่างคมกริบพร้อมกวาดดาบเป็นวงกว้าง"
+      ],
+      "name": "Mountain's Edge",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Geniş aralıklı keskin hareketler."
+      ],
+      "name": "Mountain's Edge",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Різкі рухи з широким розмахом."
+      ],
+      "name": "Вістря гори",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserC",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/advanced-nosam-cutter-e654a1fc03.png",
+  "name": "Advanced Nosam Cutter",
+  "description": "Enhanced with cybernetics, this tool is able to locate nearby gems and ore veins and has chance to retrieve Rare Gems on any Landscape.\n\nTravel far from Hub settlements for the best chance of mining rare minerals.",
+  "languages": [
+    {
+      "description": "Durch kybernetische Verbesserungen ist dieses Werkzeug in der Lage, nahe Juwelen und Erzadern zu finden, mit der Chance darauf, seltene Edelsteine in jeder Landschaft zu bergen.\n\nWenn du dich weit genug von einem bewohnten Hub entfernst, hast du die beste Chance, seltene Mineralien zu finden.",
+      "name": "Effizienterer Nosam-Schneider",
+      "code": "de"
+    },
+    {
+      "description": "Amélioré avec la cybernétique, cet outil est capable de localiser les gemmes et veines de minerais proches et a une chance de récupérer des Gemmes rares dans tous les paysages.\n\nÉloignez-vous des villes pour augmenter vos chances d'extraire des minerais rares.",
+      "name": "Tailleur Nosam Avancé",
+      "code": "fr"
+    },
+    {
+      "description": "Potenziato con la cibernetica, questo strumento è in grado di localizzare gemme e vene minerarie vicine e ha la possibilità di recuperare gemme rare in qualsiasi paesaggio.\n\nPosizionati lontano dagli Hub per avere maggiori probabilità di estrarre minerali rari.",
+      "name": "Taglio Nosam Avanzato",
+      "code": "it"
+    },
+    {
+      "description": "인공두뇌 기술로 개량된 이 도구는 근처의 보석 및 광맥을 찾아낼 수 있으며, 모든 지형에서 확률적으로 희귀 보석을 획득할 수 있습니다.\n\n희귀한 광물을 채굴할 수 있는 좋은 기회를 얻으려면 마을 허브 정착지로부터 멀리 떨어져야 합니다.",
+      "name": "어드밴스드 노잠 커터",
+      "code": "ko"
+    },
+    {
+      "description": "Mejorada con componentes cibernéticos, esta herramienta es capaz de detectar gemas cercanas y vetas de minerales y tiene la posibilidad de extraer gemas raras en cualquier paisaje.\n\nViaja lejos de los asentamientos centrales para aumentar las posibilidades de extraer minerales raros.",
+      "name": "Cortador Nosam avanzado",
+      "code": "es"
+    },
+    {
+      "description": "经过控制理论的升级，这把工具能够定位附近的宝石和矿脉，并有几率在任何地形中获取稀有宝石。\n\n远离城镇中心，将有更高几率开采出稀有矿物。",
+      "name": "高级诺萨姆切割器",
+      "code": "zh"
+    },
+    {
+      "description": "Усовершенствованный с помощью кибернетики, этот инструмент способен находить близлежащие драгоценные камни и рудные жилы, а также имеет шанс извлечь редкие драгоценные камни на любом ландшафте.\n\nОтходите подальше от поселений-хабов, чтобы увеличить шансы на добычу редких минералов.",
+      "name": "Продвинутый нозамовый резак",
+      "code": "ru"
+    },
+    {
+      "description": "サイバネティクスで強化されたこの道具なら付近の宝石と鉱石の鉱脈を特定し、どの地形からでもレア宝石を掘り出す確率を高めてくれる。\n\nレア鉱石はハブエリアから遠いほど見つかりやすい。",
+      "name": "アドバンスノサム カッター",
+      "code": "ja"
+    },
+    {
+      "description": "Narzędzie ulepszone cybernetyką, które może zlokalizować pobliskie kryształy i żyły rud, oraz ma szansę wydobycia Rzadkich Klejnotów w dowolnej lokacji.\n\nSzansa napotkania rzadkich surowców jest największa daleko od Centrów.",
+      "name": "Zaawansowane Wiertło Nosam",
+      "code": "pl"
+    },
+    {
+      "description": "Aprimorada com tecnologia cibernética, esta ferramenta consegue localizar joias e minérios ao redor, e tem chance de minerar joias raras.\n\nViaje para longe dos assentamentos centrais para ter mais chances de encontrar minerais raros.",
+      "name": "Minerador Nosam (Avançado)",
+      "code": "pt"
+    },
+    {
+      "description": "經過控制理論的升級，這把工具能夠定位附近的寶石和礦脈並有機率在任何開放景觀裡獲取稀有寶石。\n\n遠離城鎮中心有更高機率開採稀有礦物。",
+      "name": "高級諾薩姆切割器",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องมือชิ้นนี้ได้รับการปรับปรุงประสิทธิภาพด้วยไซเบอร์เนติกส์ สามารถใช้ค้นหาอัญมณีและสายแร่ที่อยู่ใกล้ ๆ และมีโอกาสขุดอัญมณีหายากได้จากทั่วทุกภูมิประเทศ\n\nหากเดินทางออกไปไกลจากฐานที่ตั้งของศูนย์กลางจะทำให้มีโอกาสที่ดีที่สุดในการขุดแร่หายาก",
+      "name": "เครื่องตัด Nosam (ขั้นสูง)",
+      "code": "th"
+    },
+    {
+      "description": "İleri teknolojiyle geliştirilmiş bu alet yakındaki değerli taş ve maden damarlarının yerlerini belirleyebilir ve herhangi bir açık alanda değerli taş tespit etme şansı vardır.\n\nNadir mineralleri bulma şansını artırmak için Merkezi yerleşim yerlerinden uzaklaş.",
+      "name": "Gelişmiş Nosam Kesicisi",
+      "code": "tr"
+    },
+    {
+      "description": "Знаряддя, вдосконалене кібернетичними елементами, здатне виявляти самоцвіти й рудні жили неподалік, а також має можливість видобути рідкісні самоцвіти на будь-яких відкритих місцевостях.\n\nДля ліпшої імовірності видобутку рідкісніших мінералів рушайте якнайдалі від міст та поселень.",
+      "name": "Поліпшений різак «Нозам»",
+      "code": "uk"
+    }
+  ]
+}

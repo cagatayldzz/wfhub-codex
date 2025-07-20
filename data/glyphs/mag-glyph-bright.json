@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageMagBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-glyph---bright-d2d0d8a458.png",
+  "name": "Mag Glyph - Bright",
+  "description": "A glyph depicting Mag on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Mag vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Mag (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Mag sur un fond lumineux.",
+      "name": "Glyphe Mag - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Mag su uno sfondo chiaro.",
+      "name": "Glifo Mag - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 매그를 묘사한 글리프입니다.",
+      "name": "매그 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Mag sobre un fondo brillante.",
+      "name": "Glifo de Mag - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Mag 在明亮背景下的浮印。",
+      "name": "Mag 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Мэг на светлом фоне.",
+      "name": "Глиф: Мэг — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Mag のグリフ。",
+      "name": "Mag グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Mag na jasnym tle.",
+      "name": "Glif Mag — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Mag em um fundo claro.",
+      "name": "Glifo: Mag (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Mag 在明亮背景下的浮印。",
+      "name": "Mag 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Mag บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Mag - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Mag açık fonlu glif.",
+      "name": "Mag Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Меґ на світлому тлі.",
+      "name": "Яскравий гліф «Меґ»",
+      "code": "uk"
+    }
+  ]
+}

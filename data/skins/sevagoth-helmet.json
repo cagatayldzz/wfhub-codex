@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Wraith/WraithHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth-helmet-3de4de7a8d.png",
+  "name": "Sevagoth Helmet",
+  "description": "The standard issue helmet for the Sevagoth Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Sevagoth Warframe.",
+      "name": "Sevagoth-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Sevagoth.",
+      "name": "Casque Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Sevagoth.",
+      "name": "Elmo Sevagoth",
+      "code": "it"
+    },
+    {
+      "description": "세바고스 워프레임을 위한 기본 헬멧입니다.",
+      "name": "세바고스 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Sevagoth.",
+      "name": "Casco de Sevagoth",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth 的标准头盔。",
+      "name": "Sevagoth 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Севагота.",
+      "name": "Шлем Севагота",
+      "code": "ru"
+    },
+    {
+      "description": "Sevagothの標準型ヘルメット。",
+      "name": "Sevagoth ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe'a Sevagoth.",
+      "name": "Sevagoth: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Sevagoth.",
+      "name": "Sevagoth: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Sevagoth 標準頭盔。",
+      "name": "Sevagoth 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Sevagoth Warframe",
+      "name": "หมวกเหล็ก Sevagoth",
+      "code": "th"
+    },
+    {
+      "description": "Sevagoth Warframe için standart miğfer.",
+      "name": "Sevagoth Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Севаґота.",
+      "name": "Шолом Севаґота",
+      "code": "uk"
+    }
+  ]
+}

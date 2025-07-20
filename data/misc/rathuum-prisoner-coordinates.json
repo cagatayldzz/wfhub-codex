@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/KelaEventDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rathuum-prisoner-coordinates-3c5bc59c84.png",
+  "name": "Rathuum Prisoner Coordinates",
+  "description": "To be delivered to Steel Meridian or chosen Syndicate in the relay.",
+  "languages": [
+    {
+      "description": "Zur Übergabe an Steel Meridian oder das gewählte Syndikat im Relais.",
+      "name": "Rathuum Gefangenenkoordinaten",
+      "code": "de"
+    },
+    {
+      "description": "Pour être livré au Méridien d'Acier ou au Syndicat choisi dans le relais.",
+      "name": "Coordonnées de Prisonnier du Rathuum",
+      "code": "fr"
+    },
+    {
+      "description": "Da essere consegnato agli Steel Meridian o dall'Associazione scelta nella Stazione.",
+      "name": "Coordinate Prigioniero del Rathuum",
+      "code": "it"
+    },
+    {
+      "description": "스틸 메리디안 혹은 선택한 릴레이에 전달되어야 하는 좌표입니다.",
+      "name": "라툼 수감자 좌표",
+      "code": "ko"
+    },
+    {
+      "description": "Para ser entregado al Meridiano de Acero o al sindicato escogido en el Repetidor.",
+      "name": "Coordenadas de los Prisioneros de Rathuum",
+      "code": "es"
+    },
+    {
+      "description": "请至中继站钢铁防线或所选集团处领取。",
+      "name": "死亡角斗场囚犯坐标",
+      "code": "zh"
+    },
+    {
+      "description": "Будет доставлена в «Стальной меридиан» или выбранный синдикат в реле.",
+      "name": "Координаты пленника Ратуума",
+      "code": "ru"
+    },
+    {
+      "description": "スティール･メリディアンかリレーで選択した他のシンジケートへ引き渡すべき品。",
+      "name": "Rathuum プリズナーコーディネート",
+      "code": "ja"
+    },
+    {
+      "description": "Dostarczone Stalowemu Meridianowi lub wybranemu Syndykatowi na przekaźniku.",
+      "name": "Koordynaty Więźnia Rathuum",
+      "code": "pl"
+    },
+    {
+      "description": "A ser entregue ao Meridiano de Aço ou outro sindicato escolhido no Relay.",
+      "name": "Coordenadas do Prisioneiro do Rathuum",
+      "code": "pt"
+    },
+    {
+      "description": "請至中繼站鋼鐵防線或所選集團處領取。",
+      "name": "Rathuum 囚犯坐標",
+      "code": "tc"
+    },
+    {
+      "description": "เพื่อส่งมอบให้กับ Steel Meridian หรือซินดิเคตที่ได้เลือกไว้ในรีเลย์",
+      "name": "พิกัดของนักโทษ Rathuum",
+      "code": "th"
+    },
+    {
+      "description": "Relay'de Steel Meridian veya seçilen diğer sendikalara ulaştırılacak bilgi.",
+      "name": "Rathuum Mahkum Koordinatları",
+      "code": "tr"
+    },
+    {
+      "description": "Віддайте «Сталевому Меридіану» або обраному синдикату на реле.",
+      "name": "Навкоординати в’язнів Ратуму",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishCPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yogwun-stomach-127c32fa9d.png",
+  "name": "Yogwun Stomach",
+  "description": "Once cleaned and tanned this organ can be turned into a durable leather.\n\nSource: Cut from Yogwun fish via Fisher Hai-Luk in Cetus (Earth). Catch Yogwun in Plains of Eidolon ponds during the Day. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Nach dem Reinigen und Gerben kann dieses Organ in haltbares Leder verwandelt werden.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Yogwuns geschnitten. Yogwuns können tagsüber in den Teichen der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Yogwun: Magen",
+      "code": "de"
+    },
+    {
+      "description": "Une fois nettoyé et tanné, cet organe peut être transformé en cuir durable.\n\nSource: découpé des Yogwuns via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Yogwun dans les étangs des Plaines d'Eidolon pendant la journée. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Estomac de Yogwun",
+      "code": "fr"
+    },
+    {
+      "description": "Una volta pulito e conciato, questo organo può essere trasformato in una pelle resistente.\n\nFonte: Ottenibile dal pesce Yogwun dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura un Yogwun negli stagni delle Piane di Eidolon durante il giorno. Viene rilasciato anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Stomaco di Yogwun",
+      "code": "it"
+    },
+    {
+      "description": "이 장기를 한 번 씻어낸 후에 햇볕에 말리면 내구성이 좋은 가죽이 됩니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 요그운 물고기를 해체하기. 낮 동안 아이돌론의 평원 연못에서 요그운을 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "요그운 위",
+      "code": "ko"
+    },
+    {
+      "description": "Una vez limpiado y curtido este órgano puede ser convertido en un durable cuero.\n\nFuente: Obtenido del pez Yogwun con la Pescadora Hai-Luk en Cetus (Tierra). Captura al Yogwun en los estanques de las Llanuras de Eidolon durante el día. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Estómago de Yogwun",
+      "code": "es"
+    },
+    {
+      "description": "一旦经过清洗和鞣制后，这种器官可以变成耐用的皮革。\n\n获取途径：通过希图斯（地球）的渔人海露从约格温鱼中切割获取。在白天的夜灵平野池塘中捕捉约格温。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "约格温鱼胃",
+      "code": "zh"
+    },
+    {
+      "description": "После очистки и дубления этот орган может быть превращён в прочную кожу.\n\nМестонахождение: Получается при разделке йогвуна у рыбачки Хай-Лук в Цетусе (Земля). Ловите йогвуна в прудах на Равнинах Эйдолона днём. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Желудок Йогвуна",
+      "code": "ru"
+    },
+    {
+      "description": "よく洗い精製する事で革製品を製作できる。\n\n場所：エイドロンの草原で獲れるヨグウンから切り取れる（シータスの釣り師Hai-Luk）。ヨグウンは昼のエイドロンの草原の池で獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "ヨグウンの胃袋",
+      "code": "ja"
+    },
+    {
+      "description": "Oczyszczony i wygarbowany organ może posłużyć jako wytrzymała skóra. \n\nMoże zostać zdobyty przez filetowanie Yogwuna u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Yogwun może zostać złowiona w stawach Równin Eidolon w ciągu dnia. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Yogwun: Żołądek",
+      "code": "pl"
+    },
+    {
+      "description": "Uma vez limpo e tratado, este órgão pode ser transformado em couro durável.\n\nLocalização: obtido através do corte do peixe Yogwun com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Yogwun pode ser pescado nas lagoas das Planícies de Eidolon durante o dia. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Estômago de Yogwun",
+      "code": "pt"
+    },
+    {
+      "description": "經過清洗和鞣制後，這種器官可以變成耐用的皮革。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開約格溫取得。\n約格溫可在白天於夜靈平野的海洋裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "約格溫魚胃",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อทำความสะอาดและฟอกอวัยวะส่วนนี้แล้วจะกลายเป็นหนังที่ทนทาน\n\nแหล่งที่พบ: ได้จากการแล่ปลา Yogwun ผ่านชาวประมง Hai-Luk ที่ซีตัส (โลก) ซึ่งสามารถจับปลา Yogwun ในหนองน้ำตามที่ราบ Eidolon ได้ในตอนกลางวัน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "ท้อง Yogwun",
+      "code": "th"
+    },
+    {
+      "description": "Bu organ temizlendikten ve tabaklandıktan sonra dayanıklı bir deriye dönüştürülebilir.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Yogwun balığından kesilmiştir. Eidolon Ovalarındaki Yogwun balığı gün boyunca göletlerde yakalanabilir. Ayrıca Eidolon Ovaları'ndaki Thumper'lardan da düşer.",
+      "name": "Yogwun Midesi",
+      "code": "tr"
+    },
+    {
+      "description": "Після очищення та вичинки з цього органа виходить міцна шкіра.\n\nМожна отримати з йоґвуна в рибалки Гай-Люк у Цетусі (Земля). Ловіть йоґвуна в ставку Рівнин Ейдолонів удень. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Шлунок йоґвуна",
+      "code": "uk"
+    }
+  ]
+}

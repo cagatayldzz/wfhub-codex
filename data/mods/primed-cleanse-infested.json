@@ -1,0 +1,63 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageInfestedExpert",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/primed-cleanse-infested-c9cc1b228e.jpg",
+  "name": "Primed Cleanse Infested",
+  "languages": [
+    {
+      "name": "Primed Befallene Läutern",
+      "code": "de"
+    },
+    {
+      "name": "Purifie-Infestés Accru",
+      "code": "fr"
+    },
+    {
+      "name": "Primed Cleanse Infested",
+      "code": "it"
+    },
+    {
+      "name": "프라임드 클렌즈 인페스티드",
+      "code": "ko"
+    },
+    {
+      "name": "Limpieza de infestados Prime",
+      "code": "es"
+    },
+    {
+      "name": "净化 Infested Prime",
+      "code": "zh"
+    },
+    {
+      "name": "Зачистка Прайм: Заражённые",
+      "code": "ru"
+    },
+    {
+      "name": "Primed Cleanse Infested",
+      "code": "ja"
+    },
+    {
+      "name": "Czystka Plagi Prime",
+      "code": "pl"
+    },
+    {
+      "name": "Primed Cleanse Infested",
+      "code": "pt"
+    },
+    {
+      "name": "淨化 Infested Prime",
+      "code": "tc"
+    },
+    {
+      "name": "Primed Cleanse Infested",
+      "code": "th"
+    },
+    {
+      "name": "Primed Cleanse Infested",
+      "code": "tr"
+    },
+    {
+      "name": "Праймована зачистка заражених",
+      "code": "uk"
+    }
+  ]
+}

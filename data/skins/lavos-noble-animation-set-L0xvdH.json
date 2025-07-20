@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/UnlockAlchemistNoble",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/lavos-noble-animation-set-9c1046f8b9.png",
+  "name": "Lavos Noble Animation Set",
+  "description": "This item lets you use Lavos' noble animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Lavos' nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Lavos-Animationsset: Nobel",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Nobles de Lavos avec n'importe quelle autre Warframe.",
+      "name": "Animation Lavos Noble",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni nobili di Lavos con qualsiasi Warframe.",
+      "name": "Set Animazione Nobile Lavos",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템은 라보스의 노블 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "라보스 노블 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones nobles de Lavos con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones nobles de Lavos",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Lavos 的尊贵站姿。",
+      "name": "Lavos 尊贵站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор статных анимаций Лавоса на любом другом варфрейме.",
+      "name": "Набор анимаций лавоса: Статный",
+      "code": "ru"
+    },
+    {
+      "description": "Lavosのノーブルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Lavos ノーブルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu dumnych animacji Lavosa w każdym innym Warframe'ie.",
+      "name": "Animacje Lavos: Dumne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações nobres do Lavos em qualquer Warframe de sua escolha.",
+      "name": "Animações: Lavos (Nobre)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Lavos 的尊貴站姿。",
+      "name": "Lavos 尊貴站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูสง่างามของ Lavos ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่สง่างามของ Lavos",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Lavos'un noble animasyon setinin kullanımına izin verir.",
+      "name": "Lavos Noble Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір шляхетної анімації Лавоса до будь-якого ворфрейма.",
+      "name": "Лавос: набір шляхетної анімації",
+      "code": "uk"
+    }
+  ]
+}

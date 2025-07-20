@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusGuideSigil",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/guide-of-the-lotus-823882268e.png",
+  "name": "Guide Of The Lotus",
+  "description": "Awarded to Tenno who assist the Lotus by helping other Tenno.",
+  "languages": [
+    {
+      "description": "Verliehen an Tenno, die Lotus unterstützen, indem sie anderen Tenno helfen.",
+      "name": "Guide of the  Lotus",
+      "code": "de"
+    },
+    {
+      "description": "Décerné aux Tennos qui ont assisté le Lotus en aidant d'autres Tennos.",
+      "name": "Guide du Lotus",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito a coloro che aiutano Lotus assistendo altri Tenno.",
+      "name": "Guida di Lotus",
+      "code": "it"
+    },
+    {
+      "description": "다른 텐노를 도와 로터스를 보조해준 텐노에게 주어진 시질입니다.",
+      "name": "가이드 오브 로터스",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgada a los tenno que ayudan a Lotus a ayudar a otros tenno.",
+      "name": "Guía de Lotus",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些通过帮助其他 Tenno 来协助 Lotus 的 Tenno 。",
+      "name": "Lotus 的向导员",
+      "code": "zh"
+    },
+    {
+      "description": "Выдана Тэнно, способствующих Лотос в помощи другим Тэнно.",
+      "name": "Наставник Лотос",
+      "code": "ru"
+    },
+    {
+      "description": "Lotusに協力して、ほかのテンノを手助けする者に与えられる栄誉のシジル。",
+      "name": "Lotusの導き シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznana Tenno, którzy wspomogli Lotus w pomaganiu innych Tenno.",
+      "name": "Przewodnik Lotus",
+      "code": "pl"
+    },
+    {
+      "description": "Premiados aos Tennos que deram assistência a Lótus ao ajudar outros Tennos.",
+      "name": "Brasão: Guia da Lótus",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給那些通過幫助其他 Tenno 來協助 Lotus 的 Tenno 。",
+      "name": "Lotus 的指導員",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้กับ Tenno ที่ช่วย Lotus ในการช่วยเหลือ Tenno คนอื่น",
+      "name": "Guide of the Lotus",
+      "code": "th"
+    },
+    {
+      "description": "Lotusa diğer Tenno'ları kurtarmasında yardımcı olan Tenno'lara verildi.",
+      "name": "Guide of the Lotus",
+      "code": "tr"
+    },
+    {
+      "description": "Нагорода тенно, які разом із Лотос допомагають іншим побратимам.",
+      "name": "Наставники Лотос",
+      "code": "uk"
+    }
+  ]
+}

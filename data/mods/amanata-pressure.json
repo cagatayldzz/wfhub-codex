@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/Naginata/ShrineMaidenNaginataAugment",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/amanata-pressure-f8258e262e.jpg",
+  "name": "Amanata Pressure",
+  "description": "When Combo Multiplier reaches 8x, Heavy attacks apply a random Status Effect to enemies hit.",
+  "languages": [
+    {
+      "description": [
+        "Wenn der Kombo-Multiplikator 8x erreicht, fügen schwere Angriffe getroffenen Feinden einen Statuseffekt zu."
+      ],
+      "name": "Amanata-Druck",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Lorsque le Multiplicateur de Combo atteint 8, les Attaques Lourdes appliquent un Effet de Statut aléatoire aux ennemis touchés."
+      ],
+      "name": "Pression Amanata",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Quando il Moltiplicatore Combo raggiunge 8x, gli Attacchi Pesanti applicano un Effetto casuale ai nemici colpiti."
+      ],
+      "name": "Amanata Pressure",
+      "code": "it"
+    },
+    {
+      "description": [
+        "연속기 배수가 8x에 도달할 시 강 공격이 적에게 무작위로 상태 이상 효과를 부여합니다."
+      ],
+      "name": "아마나타 프레셔",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Cuando el multiplicador de combo llega a 8, los ataques pesados aplican un efecto de estado aleatorio a los enemigos golpeados."
+      ],
+      "name": "Presión Amanata",
+      "code": "es"
+    },
+    {
+      "description": [
+        "当连击倍率达到 8 倍时，重击会对被击中的敌人造成随机异常状态。"
+      ],
+      "name": "天薙刀 压迫点",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Когда множитель комбо достигает 8x, тяжёлые атаки накладывают на поражённых врагов случайный статусный эффект."
+      ],
+      "name": "Болевая точка Аманаты",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンボ倍率が8倍になると、ヘビー攻撃は敵にランダムで状態異常を付与する。"
+      ],
+      "name": "Amanata Pressure",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Gdy Mnożnik Kombo osiągnie wartość 8x, Ciężkie Ataki nałożą losowy Efekt Statusu na trafionych wrogów."
+      ],
+      "name": "Nacisk Amanaty",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Quando o Multiplicador de Combo atingir 8x, os Ataques Pesados aplicarão um Efeito de Status aleatório aos inimigos atingidos."
+      ],
+      "name": "Amanata Pressure",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "連擊倍率達到 8 倍時，重擊對擊中的敵人造成一種隨機的觸發狀態效果。"
+      ],
+      "name": "天薙刀壓迫點",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "เมื่อตัวคูณคอมโบถึง 8x การโจมตีหนักจะใช้เอฟเฟกต์สถานะแบบสุ่มกับศัตรูที่โดนโจมตี"
+      ],
+      "name": "Amanata Pressure",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Kombo Çarpanı 8x'e ulaştığında, Ağır saldırılar isabet alan düşmanlara rastgele bir Statü Etkisi uygular."
+      ],
+      "name": "Amanata Pressure",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Коли множник серії досягає 8, то потужні удари накладають випадкові ефекти стану ворогам, що зазнали шкоди."
+      ],
+      "name": "Тиск Аманати",
+      "code": "uk"
+    }
+  ]
+}

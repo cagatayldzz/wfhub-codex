@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dagonic-9fee7a87e3.png",
+  "name": "Dagonic",
+  "description": "Rivulets of Exocrine fluid, hardened over passing centuries.\n\nLocation: Cambion Drift (Deimos) from Blue Mining Lesions, Sagiant Entrati Casket, and Bonus Vaults in Isolation Vault Bounties.",
+  "languages": [
+    {
+      "description": "Rinnsale von Excorine-Flüssigkeit, die im Laufe der Jahrhunderte gehärtet wurden.\n\nQuelle: Cambion-Drift auf Deimos, aus blauen Läsionen, Sagiant Entrati Urnen und Bonus-Gewölben in Isolationsgewölbe-Aufträgen.",
+      "name": "Dagonik",
+      "code": "de"
+    },
+    {
+      "description": "Ruisseaux de fluide d'Exocrine, durcis au fil des siècles.\n\nLieu: Puy de Cambion (Deimos), via le minage de Lésions bleues, les Coffrets Entrati Sagiant et les coffres bonus des Mises à Prix des Salles d'Isolement.",
+      "name": "Dagonique",
+      "code": "fr"
+    },
+    {
+      "description": "Rivoli di fluido Exocrine, induriti nel corso dei secoli.\n\nPosizione: Lesioni Minerarie Blu, Bara Sagiant Entrati e Vault Bonus nelle Taglie Vault d'Isolamento nel Cambion Drift (Deimos).",
+      "name": "Dagonic",
+      "code": "it"
+    },
+    {
+      "description": "흐르던 외분비액이 수 세기에 걸쳐 응고된 모습입니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 내 파란색 채광 병변, 새지언트 엔트라티 관 및 격리 금고 의뢰 내 보너스 금고에서 찾을 수 있습니다.",
+      "name": "다고닉",
+      "code": "ko"
+    },
+    {
+      "description": "Riachuelos de fluido de exocrino, endurecidos con el paso de los siglos.\n\nUbicación: Deriva Cambion (Deimos), en las lesiones mineras azules, en los féretros Entrati Sagiant y en las bóvedas extras en los contratos de las bóvedas de aislamiento.",
+      "name": "Dagónica",
+      "code": "es"
+    },
+    {
+      "description": "固化了几个世纪的外分泌液。\n\n获取地点：魔胎之境（火卫二）上的蓝色矿痕。智者英择谛罐、隔离库赏金任务中的额外隔离库",
+      "name": "达戈琥珀",
+      "code": "zh"
+    },
+    {
+      "description": "Струйка экзокрин-жидкости, окаменевшая за прошедшие века.\n\nМестонахождение: голубые эрозии Камбионского Дрейфа на Деймосе, шкатулки Энтрати «Сагиант» и бонусные хранилища в заказах Изолированного Хранилища.",
+      "name": "Дагоник",
+      "code": "ru"
+    },
+    {
+      "description": "感染した神経伝達物質が高圧化で濃縮されたもの。\n\n場所：カンビオン荒地（ダイモス）の青い採掘鉱脈、サージャント エントラティキャスケット、隔離庫依頼のボーナス隔離庫。",
+      "name": "ダゴニック",
+      "code": "ja"
+    },
+    {
+      "description": "Strumyczki Egzokryny utwardzonej przez mijające wieki.\n\nPołożenie: Niebieskie owrzodzenia, Szkatuły Sagiant Entrati i ukryte pomieszczenia Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie.",
+      "name": "Dagonik",
+      "code": "pl"
+    },
+    {
+      "description": "Arroios de fluido exócrino, endurecidos ao longo de séculos.\n\nLocalização: em Lesões de Mineração Azuis, em Caixões Entrati Sagiantes e em Câmaras Extras dos Contratos das Câmaras de Isolamento da Deriva de Cambion, em Deimos.",
+      "name": "Dagônica",
+      "code": "pt"
+    },
+    {
+      "description": "外分泌液形成的小溪，經過數個世紀硬化而成。\n\n來源：魔裔禁地（火衛二）上的藍色礦脈病灶、探源源拓氏匣子以及隔離庫賞金任務中的額外寶庫。",
+      "name": "大滾石",
+      "code": "tc"
+    },
+    {
+      "description": "เป็นของเหลวจากต่อมมีท่อที่ไหลออกมา และจะแข็งตัวเมื่อผ่านไปแล้วหลายศตวรรษ\n\nแหล่งที่พบ: พบได้จากสายแร่ที่เป็นรอยสีน้ำเงิน หีบบรรจุ Sagiant Entrati และโบนัสที่ได้จากภารกิจห้องนิรภัยแยกกักตัวในแคมบิออนดริฟต์ (ดาวเดมอส)",
+      "name": "ดาโกนิก",
+      "code": "th"
+    },
+    {
+      "description": "Geçen yüzyıllar boyunca sertleşmiş Ekzokrin sıvısının kalıntıları.\n\nKonum: Deimos'ta yer alan Cambion Drift'teki Mavi Maden Lezyonlarında, Sagiant Entrati Tabutu, ve İzolasyon Kasası Bounty Görevlerindeki Bonus Kasalarından elde edilebilir.",
+      "name": "Dagonic",
+      "code": "tr"
+    },
+    {
+      "description": "Затверділі за багато століть потічки екзокрину.\n\nМожна здобути з синіх лезій, саджайнстських скриньок Ентраті та в додаткових камерах під час виконання контрактів «Камери ізоляції» у Кембіонській течії (Деймос).",
+      "name": "Даґонік",
+      "code": "uk"
+    }
+  ]
+}

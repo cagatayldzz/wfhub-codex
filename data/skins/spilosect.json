@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/LisetPropInfestedPlantA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spilosect-de6ee1bbc7.png",
+  "name": "Spilosect",
+  "description": "This insectoid plant’s hardy disposition makes it a great, low-maintenance addition to any space.",
+  "languages": [
+    {
+      "description": "Diese insektenartige Pflanze ist aufgrund ihrer Widerstandsfähigkeit eine großartige, pflegeleichte Ergänzung für jeden Raum.",
+      "name": "Spilosect",
+      "code": "de"
+    },
+    {
+      "description": "La disposition robuste de cette plante insectoïde en fait un excellent ajout à n'importe quel endroit sans toutefois nécessiter beaucoup d'entretien.",
+      "name": "Spilosect",
+      "code": "fr"
+    },
+    {
+      "description": "La robustezza di questa pianta insettoide la rende un ottimo complemento d'arredo a bassa manutenzione per qualsiasi interno.",
+      "name": "Spilosect",
+      "code": "it"
+    },
+    {
+      "description": "이 곤충류 식물은 그 강인한 성질 덕에 어떠한 공간에서나 적은 손질만으로도 훌륭한 장식물이 되어줍니다.",
+      "name": "스필로섹트",
+      "code": "ko"
+    },
+    {
+      "description": "La disposición resistente de esta planta insectoide la convierte en una excelente adición de bajo mantenimiento a cualquier espacio.",
+      "name": "Spilosect",
+      "code": "es"
+    },
+    {
+      "description": "这种类昆虫植物的顽强性格，使其对任意空间来说都是一种绝佳的易养护的装饰品。",
+      "name": "荧虫装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это насекомоподобное растение - отличное дополнение, не требующее ухода в любом помещении.",
+      "name": "Спилосект",
+      "code": "ru"
+    },
+    {
+      "description": "この昆虫型植物は丈夫な性質を備えているので手間がかからず、どんな場所にもぴったり。",
+      "name": "スピロセクト",
+      "code": "ja"
+    },
+    {
+      "description": "Odporne usposobienie owadoidalnej rośliny czyni ją wspaniałym, prostym w utrzymaniu dodatkiem do każdej przestrzeni.",
+      "name": "Spylosekt",
+      "code": "pl"
+    },
+    {
+      "description": "A resistência desta planta-inseto faz dela uma ótima adição de baixa manutenção em qualquer ambiente.",
+      "name": "Spilosect",
+      "code": "pt"
+    },
+    {
+      "description": "這種類昆蟲植物耐寒的先天性，讓它在任何空間中成為絕佳，且不需太多照顧的裝飾品。",
+      "name": "斑崇卉",
+      "code": "tc"
+    },
+    {
+      "description": "พืชคล้ายแมลงชนิดนี้มีความทนทานสูง จึงเหมาะที่จะวางตรงไหนก็ได้โดยไม่ต้องบำรุงรักษามากนัก",
+      "name": "สไปโลเซกต์",
+      "code": "th"
+    },
+    {
+      "description": "Bu insektoid bitkinin dayanıklı yapısı, onu her yere harika, az bakım gerektiren bir katkı haline getirir.",
+      "name": "Spilosect",
+      "code": "tr"
+    },
+    {
+      "description": "Комахоподібна рослина не потребує особливого догляду й стане хорошим доповненням для будь-якого приміщення.",
+      "name": "Спилосект",
+      "code": "uk"
+    }
+  ]
+}

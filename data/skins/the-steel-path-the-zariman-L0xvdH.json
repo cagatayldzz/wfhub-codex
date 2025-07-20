@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeZarimanEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path-the-zariman-03c5ed3138.png",
+  "name": "The Steel Path: The Zariman",
+  "description": "Awarded for completing The Steel Path: The Zariman",
+  "languages": [
+    {
+      "description": "Verliehen für das Beenden des Stählernen Pfads auf der Zariman.",
+      "name": "Der Stählerne Pfad: Die Zariman",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour avoir terminé la Route de l'Acier: Le Zariman",
+      "name": "La Route de l'Acier: Le Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per il completamento de Il Percorso d'Acciaio: La Zariman",
+      "name": "Il Percorso d'Acciaio: La Zariman",
+      "code": "it"
+    },
+    {
+      "description": "자리만에서 강철의 길을 완료할 시 수여되는 보상입니다",
+      "name": "강철의 길: 자리만",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por completar «El Camino de Acero: Zariman»",
+      "name": "El Camino de Acero: Zariman",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些完成「钢铁之路：扎里曼号」的玩家。",
+      "name": "钢铁之路：「扎里曼号」",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за прохождение Стального Пути «Зариман»",
+      "name": "Стальной путь: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：Zariman」を完了すると授与される。",
+      "name": "鋼の道のり：Zariman",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za ukończenie Ścieżki Stali: Zariman",
+      "name": "Ścieżka Stali: Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido ao concluir o Percurso de Aço: A Zariman",
+      "name": "Percurso de Aço: A Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "完成鋼韌之道：扎日曼號而頒發的表情動作。",
+      "name": "鋼韌之道：扎日曼號",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการจบภารกิจเส้นทางเหล็กกล้า: Zariman",
+      "name": "เส้นทางเหล็กกล้า: Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path: Zariman tamamlama ödülü",
+      "name": "Steel Path: Zariman",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за виконання всіх завдань на «Заримені» в режимі «Шлях сталі».",
+      "name": "Шлях сталі: «Заримен»",
+      "code": "uk"
+    }
+  ]
+}

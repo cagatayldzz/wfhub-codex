@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/KatanaCrossedR",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nikana-right-shoulder-holster-9aec339e2e.png",
+  "name": "Nikana Right Shoulder Holster",
+  "description": "Nikanas are holstered across the right shoulder.",
+  "languages": [
+    {
+      "description": "Nikanas werden an der rechten Schulter geholstert.",
+      "name": "Nikana-Holster: Schulter, Rechts",
+      "code": "de"
+    },
+    {
+      "description": "Les Nikanas sont portés sur l'épaule droite.",
+      "name": "Port de Nikana à l'épaule (Droite)",
+      "code": "fr"
+    },
+    {
+      "description": "Rinfodera le Nikana sulla spalla destra.",
+      "name": "Rinfodero Nikana Spalla Destra",
+      "code": "it"
+    },
+    {
+      "description": "니카나 계열 무기의 오른쪽 어깨에 수납하는 수납 방식입니다.",
+      "name": "니카나 오른쪽 어깨 홀스터",
+      "code": "ko"
+    },
+    {
+      "description": "Las nikanas se enfundarán a través del hombro derecho.",
+      "name": "Enfundado de hombro derecho de Nikana",
+      "code": "es"
+    },
+    {
+      "description": "将侍刃跨右肩背在身上。",
+      "name": "侍刃右肩收纳姿态",
+      "code": "zh"
+    },
+    {
+      "description": "Никаны крепятся к правому плечу.",
+      "name": "Плечевой Крепеж Никаны - Справа",
+      "code": "ru"
+    },
+    {
+      "description": "右肩にかけて刀を収納。",
+      "name": "刀専用ショルダー ホルスター（右）",
+      "code": "ja"
+    },
+    {
+      "description": "Nikany są mocowane na wskroś i do prawego ramienia.",
+      "name": "Nikana Mocowanie Do Prawego Ramienia",
+      "code": "pl"
+    },
+    {
+      "description": "As Nikanas são guardadas no ombro direito.",
+      "name": "Nikanas: Coldre no Ombro (Direito)",
+      "code": "pt"
+    },
+    {
+      "description": "侍刃武器可跨過右肩收納。",
+      "name": "侍刃右肩收納姿態",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบนิคานะที่ใส่ซองพาดไหล่ขวา",
+      "name": "ซองดาบนิคานะที่ไหล่ขวา",
+      "code": "th"
+    },
+    {
+      "description": "Nikana'lar sağ omuz boyunca taşınır",
+      "name": "Nikana Sağ Omuz Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Нікани кріпляться на правому плечі, коли в руках інша зброя.",
+      "name": "Нікана на правому плечі",
+      "code": "uk"
+    }
+  ]
+}

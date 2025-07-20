@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/JungleEventBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cicero-crisis-emblem-2487aa00df.png",
+  "name": "Cicero Crisis Emblem",
+  "description": "An emblem awarded to all those who helped destroy the Grineer toxin during the Cicero Crisis.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, das jenen verliehen wird, die bei der Zerstörung des Grineer Toxins in der Cicero-Krise geholfen haben.",
+      "name": "Emblem: Cicero-Krise",
+      "code": "de"
+    },
+    {
+      "description": "Un badge honorifique décerné à tous ceux qui ont aidé à la destruction de la toxine Grineer durant la Crise Cicéron.",
+      "name": "Badge de la Crise Cicéron",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema conferito a tutti quelli che hanno aiutato a distruggere la tossina Grineer durante Cicero Crisis.",
+      "name": "Emblema Cicero Crisis",
+      "code": "it"
+    },
+    {
+      "description": "이 엠블럼은 시세로 크라이시스 기간 동안 그리니어의 독소를 중화하는데 도움을 준 상징입니다.",
+      "name": "시세로 크라이시스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema otorgado a todos aquellos que ayudaron en la destrucción de la toxina grineer durante la crisis Cicero.",
+      "name": "Emblema de la Crisis Cicero",
+      "code": "es"
+    },
+    {
+      "description": "一枚徽章，颁发给所有在西塞罗危机中帮助消灭 Grineer 毒素的勇士。",
+      "name": "西塞罗危机徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Значок, дарованный всем, кто помог уничтожить токсин Гринир во время «Кризиса Цицерона».",
+      "name": "Значок: Кризис Цицерона",
+      "code": "ru"
+    },
+    {
+      "description": "シセロの危機にてグリニアの毒素破壊に手助けした者に与えられるエンブレム。",
+      "name": "シセロの危機 エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat przyznawany tym, którzy pomogli zniszczyć toksynę Grineer podczas Kryzysu Cicero.",
+      "name": "Emblemat: Kryzys Cicero",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema premiado para todos aqueles que ajudaram a destruir a intoxicação Grineer durante a Crisis de Cicero.",
+      "name": "Emblema: Crise Cicero",
+      "code": "pt"
+    },
+    {
+      "description": "一枚徽章，頒發給所有在西塞羅危機中幫助消滅 Grineer 毒素的勇士。",
+      "name": "西塞羅危機徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์ที่มอบให้กับทุกคนที่ช่วยทำลายสารพิษของ Grineer ในช่วง Cicero Crisis",
+      "name": "ตราสัญลักษณ์: Cicero Crisis",
+      "code": "th"
+    },
+    {
+      "description": "Cicero Krizinde, Grineer toksinlerini yok etmek için katkıda bulunanlar özel bir hatıra rozeti ile ödüllendirilmiştir.",
+      "name": "Cicero Crisis Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака за допомогу в знищенні ґрінерського токсину під час події «Криза Цицерона».",
+      "name": "Відзнака «Криза Цицерона»",
+      "code": "uk"
+    }
+  ]
+}

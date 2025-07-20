@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/PS5OkinaBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/okina-emblem-98e77d283f.png",
+  "name": "Okina Emblem",
+  "description": "An emblem honoring the deadly Tenno Okina weapon.",
+  "languages": [
+    {
+      "description": "Ein Emblem zu Ehren der tödlichen Waffe der Tenno, Okina.",
+      "name": "Emblem: Okina",
+      "code": "de"
+    },
+    {
+      "description": "Un badge honorant les armes mortelles Tennos Okinas.",
+      "name": "Badge Okinas",
+      "code": "fr"
+    },
+    {
+      "description": "Un emblema che onora la micidiale arma Tenno, Okina.",
+      "name": "Emblema Okina",
+      "code": "it"
+    },
+    {
+      "description": "치명적인 텐노 오키나 무기를 기리기 위한 엠블럼입니다.",
+      "name": "오키나 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un emblema en honor al arma mortal Okina de los tenno.",
+      "name": "Emblema Okina",
+      "code": "es"
+    },
+    {
+      "description": "一枚纪念致命的 Tenno 武器翁的徽章。",
+      "name": "翁徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Эмблема в честь смертоносного оружия Тэнно - Окины.",
+      "name": "Значок: Окина",
+      "code": "ru"
+    },
+    {
+      "description": "テンノ伝統のOkinaを称えるエンブレム。",
+      "name": "Okina エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Emblemat honorujący Okina, śmiertelną broń Tenno.",
+      "name": "Emblemat: Okina",
+      "code": "pl"
+    },
+    {
+      "description": "Um emblema em homenagem a uma arma Tenno letal, a Okina.",
+      "name": "Emblema: Okina",
+      "code": "pt"
+    },
+    {
+      "description": "一枚紀念致命的 Tenno 武器翁的徽章。",
+      "name": "翁徽章",
+      "code": "tc"
+    },
+    {
+      "description": "ตราสัญลักษณ์เพื่อเป็นเกียรติแก่ Okina อาวุธที่ร้ายแรงของ Tenno",
+      "name": "ตราสัญลักษณ์: Okina",
+      "code": "th"
+    },
+    {
+      "description": "Ölümcül Tenno Okina silahını onurlandıran bir amblem.",
+      "name": "Okina Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака вшанування смертоносної зброї тенно — саїв «Окіни».",
+      "name": "Відзнака «Окіни»",
+      "code": "uk"
+    }
+  ]
+}

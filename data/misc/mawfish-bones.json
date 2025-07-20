@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishAPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mawfish-bones-e741ae01a1.png",
+  "name": "Mawfish Bones",
+  "description": "The bones of the Mawfish are carved by the Ostron to produce ornaments and tools.\n\nSource: Cut from Mawfish via Fisher Hai-Luk in Cetus (Earth). Catch Mawfish in the Plains of Eidolon lake during the Day. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Die Knochen des Maulfisches werden von den Ostron geschnitzt, um daraus Schmuck und Werkzeuge herzustellen.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Maulfischen geschnitten. Maulfische können tagsüber in den Seen der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Maulfisch: Knochen",
+      "code": "de"
+    },
+    {
+      "description": "Les os du Mawfish sont sculptés par les Ostrons pour produire des ornements et des outils.\n\nSource: découpés des Mawfishs via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Mawfish dans le lac des Plaines d'Eidolon pendant la journée. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Arêtes de Mawfish",
+      "code": "fr"
+    },
+    {
+      "description": "Le ossa del Mawfish vengono intagliate dagli Ostron per produrre ornamenti e utensili.\n\nFonte: Ottenibili dai Mawfish dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura un Mawfish nel lago delle Piane di Eidolon durante il giorno. Vengono rilasciate anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Ossa di Mawfish",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 인들은 머우피쉬의 뼈를 깎아 장식 및 도구를 생산합니다.\n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 머우피쉬를 해체하기. 낮 동안 아이돌론의 평원 호수에서 머우피쉬를 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "머우피쉬 뼈",
+      "code": "ko"
+    },
+    {
+      "description": "Los huesos del pez bocón son tallados por los ostronitas para producir adornos y herramientas.\n\nFuente: Extraído del pez bocón con la Pescadora Hai-Luk en Cetus (Tierra). Captura peces bocones en el lago de las Llanuras de Eidolon durante el día. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Huesos de Pez Bocón",
+      "code": "es"
+    },
+    {
+      "description": "喉鱼的骨骼被 Ostron 人用来制作吊饰和工具。\n\n获取途径：通过希图斯（地球）的渔人海露从喉鱼中切割获取。在白天的夜灵平野湖泊中捕捉喉鱼。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "喉鱼骨骼",
+      "code": "zh"
+    },
+    {
+      "description": "Кости рыбы-пасти вырезаются остронцами для создания украшений и инструментов.\n\nМестонахождение: Получается при разделке рыбы-пасти у рыбачки Хай-Лук в Цетусе (Земля). Ловите рыбу-пасть в озёрах на Равнинах Эйдолона днём. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Кости Рыбы-пасти",
+      "code": "ru"
+    },
+    {
+      "description": "骨を彫るで装飾品や道具を製作できる。\n\n場所：エイドロンの草原で獲れるマーフィッシュから切り取れる（シータスの釣り師Hai-Luk）。マーフィッシュは昼のエイドロンの草原の湖で獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "マーフィッシュの骨",
+      "code": "ja"
+    },
+    {
+      "description": "Ości z Rybokopa są rzeźbione przez Ostronów i służą do produkcji ozdób i narzędzi.\n\nMoże zostać zdobyty przez filetowanie Rybokopa u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Rybokop może zostać złowiona w jeziorach Równin Eidolon w ciągu dnia. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Rybokop: Ości",
+      "code": "pl"
+    },
+    {
+      "description": "Os ossos do Mawfish são esculpidos pelos Ostrons para produzir instrumentos e ferramentas.\n\nLocalização: obtido através do corte do peixe Mawfish com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Mawfish pode ser pescado no lago das Planícies de Eidolon durante o dia. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Ossos de Mawfish",
+      "code": "pt"
+    },
+    {
+      "description": "喉魚的骨骼被 Ostron 人用來雕刻裝飾和工具。 \n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開喉魚取得。\n喉魚可在白天於夜靈平野的海洋裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "喉魚骨骼",
+      "code": "tc"
+    },
+    {
+      "description": "ชาว Ostron ใช้กระดูกของ Mawfish นำมาแกะสลักทำเป็นเครื่องประดับและเครื่องมือต่าง ๆ \n\nแหล่งที่พบ: ได้จากการแล่ปลา Mawfish ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งสามารถจับปลา Mawfish ในทะเลสาบตามที่ราบ Eidolon ได้ในตอนกลางวัน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "กระดูก Mawfish",
+      "code": "th"
+    },
+    {
+      "description": "Mawfish'in kemikleri Ostron tarafından süs eşyaları ve aletler üretmek için oyulmuştur.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Mawfish'ten kesilmiştir. Eidolon Ovalarındaki Mawfish gün boyunca göllerde yakalanabilir. Ayrıca Eidolon Ovalarındaki Thumper'lardan da düşer.",
+      "name": "Mawfish Kemikleri",
+      "code": "tr"
+    },
+    {
+      "description": "Використовуються остронцями для виготовлення прикрас та інструментів.\n\nМожна отримати з пащерника в рибалки Гай-Люк у Цетусі (Земля). Ловіть пащерника в озері Рівнин Ейдолонів удень. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Кістки пащерника",
+      "code": "uk"
+    }
+  ]
+}

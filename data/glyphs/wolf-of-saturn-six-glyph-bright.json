@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWolfBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wolf-of-saturn-six-glyph---bright-1d9c584b90.png",
+  "name": "Wolf Of Saturn Six Glyph - Bright",
+  "description": "A glyph depicting the Wolf of Saturn Six on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die den Wolf von Saturn Six vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Wolf von Saturn Six (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant le Loup de Saturne Six sur un fond lumineux.",
+      "name": "Glyphe Loup de Saturne Six - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wolf di Saturn Six su uno sfondo chiaro.",
+      "name": "Glifo Wolf di Saturn Six - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 울프 오브 새턴 식스를 묘사한 글리프입니다.",
+      "name": "울프 오브 새턴 식스 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa al Lobo de Saturno Seis sobre un fondo brillante.",
+      "name": "Glifo del Lobo de Saturno Seis - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "土星六号之狼在明亮背景下的浮印。",
+      "name": "土星六号之狼浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Волка Сатурна 6 на светлом фоне.",
+      "name": "Набор Глифов: Волк Сатурна 6 - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたサターン・シックスの狼のグリフ。",
+      "name": "サターン・シックスの狼 グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Wilka z Saturna Sześć na jasnym tle.",
+      "name": "Glif Wilka z Saturna Sześć — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um Glifo retratando o Lobo do Hexágono de Saturno em um fundo claro.",
+      "name": "Glifo: Lobo do Hexágono de Saturno (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪土星六號之狼在明亮背景下的浮印。",
+      "name": "土星六號之狼浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์แสดงถึง Wolf แห่ง Saturn Six บนพื้นหลังที่สว่าง",
+      "name": "ภาพสัญลักษณ์ Wolf of Saturn Six - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Wolf of Saturn Six açık fonlu glif.",
+      "name": "Wolf of Saturn Six Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вовка із «Сатурна-6» на світлому тлі.",
+      "name": "Яскравий гліф «Вовк із „Сатурна-6“»",
+      "code": "uk"
+    }
+  ]
+}

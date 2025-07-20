@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNovaQuantumBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nova-quantum-glyph---bright-99524ee9ca.png",
+  "name": "Nova Quantum Glyph - Bright",
+  "description": "A glyph depicting Nova Quantum on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Nova Quantum vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Nova Quantum (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Nova Quantum sur un fond lumineux.",
+      "name": "Glyphe Nova Quantum - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Nova Quantum su uno sfondo chiaro.",
+      "name": "Glifo Nova Quantum - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 퀀텀 노바를 묘사한 글리프입니다.",
+      "name": "노바 퀀텀 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Nova Quantum sobre un fondo brillante.",
+      "name": "Glifo de Nova Quantum - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Nova 量子在明亮背景下的浮印。",
+      "name": "Nova 量子浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Новы «Квантум» на светлом фоне.",
+      "name": "Глиф: Нова Квантум - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれた Nova Quantum のグリフ。",
+      "name": "Nova Quantum グリフ（明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe Nova 'Quantum' na jasnym tle.",
+      "name": "Glif Nova Quantum — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando a Nova Quantum em um fundo claro.",
+      "name": "Glifo: Nova Quantum (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Nova 量子在明亮背景下的浮印。",
+      "name": "Nova 量子浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Nova Quantum บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Nova Quantum - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Nova Quantum açık fonlu glif.",
+      "name": "Nova Quantum Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Нови в шоломі «Квантум» на світлому тлі.",
+      "name": "Яскравий гліф «Нова „Квантум“»",
+      "code": "uk"
+    }
+  ]
+}

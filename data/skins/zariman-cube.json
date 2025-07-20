@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropZarCube",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-cube-3507a02a92.png",
+  "name": "Zariman Cube",
+  "description": "'It is a great block... and we can change the frame.'",
+  "languages": [
+    {
+      "description": "'Ein großer Block ... und wir können den Rahmen ändern.'",
+      "name": "Zariman: Würfel",
+      "code": "de"
+    },
+    {
+      "description": "'Il est super... Et nous pouvons en changer le cadre.'",
+      "name": "Cube Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "'Un grande blocco... e possiamo cambiare il punto di referenza.'",
+      "name": "Cubo Zariman",
+      "code": "it"
+    },
+    {
+      "description": "'그것은 하나의 거대한 블록이며... 우리의 손으로 그 틀을 바꿀 수 있다.'",
+      "name": "자리만 큐브",
+      "code": "ko"
+    },
+    {
+      "description": "'Es un gran bloque... y siempre podemos cambiar el marco de referencia'.",
+      "name": "Cubo Zariman",
+      "code": "es"
+    },
+    {
+      "description": "“那是个巨大的时间块……而我们可以改变参照系。”",
+      "name": "扎里曼时间块",
+      "code": "zh"
+    },
+    {
+      "description": "'Это большой блок... и мы можем изменить систему отсчета.'",
+      "name": "Куб: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "「それは相対的であり…　フレームさえ変えられます。」",
+      "name": "Zariman キューブ",
+      "code": "ja"
+    },
+    {
+      "description": "'Jest to wielki sześcian... a my możemy zmienić punkt odniesienia.'",
+      "name": "Sześcian Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "'É um grande bloco… e podemos mudar a moldura.'",
+      "name": "Cubo da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "「它是巨大的區塊……而且我們是可以改變其框架的。」",
+      "name": "扎日曼魔方",
+      "code": "tc"
+    },
+    {
+      "description": "'มันเป็นบล็อกที่ยอดเยี่ยม... และเราสามารถเปลี่ยนเฟรมได้'",
+      "name": "คิวบ์ Zariman",
+      "code": "th"
+    },
+    {
+      "description": "'Bu harika bir küp... ve biz bakış açısını değiştirebiliriz.'",
+      "name": "Zariman Küpü",
+      "code": "tr"
+    },
+    {
+      "description": "«Великий моноліт… та ми можемо змінити точку відліку».",
+      "name": "Куб із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

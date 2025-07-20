@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/akmagnus-98e45bbf74.png",
+  "name": "Akmagnus",
+  "description": "Twice the ammo and twice the stopping power of a single Magnus.",
+  "languages": [
+    {
+      "description": "Doppelte Munition und doppelte Gewalt einer einzelnen Magnus.",
+      "name": "Akmagnus",
+      "code": "de"
+    },
+    {
+      "description": "Le double des munitions et de la puissance d'arrêt d'un Magnus seul.",
+      "name": "Akmagnus",
+      "code": "fr"
+    },
+    {
+      "description": "Doppie le munizioni e doppio il potere di potenza di una singola Magnus.",
+      "name": "Akmagnus",
+      "code": "it"
+    },
+    {
+      "description": "한 정의 매그너스보다 두 배의 탄창과 두 배의 저지력을 가지고 있습니다.",
+      "name": "아크매그너스",
+      "code": "ko"
+    },
+    {
+      "description": "El doble de munición y de potencia que una sola Magnus.",
+      "name": "Akmagnus",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKMAGNUS）和一把麦格努斯相比有双倍弹药和双倍后坐力。",
+      "name": "麦格努斯双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Вдвое больше патронов и убойной силы по сравнению с одним Магнусом.",
+      "name": "Акмагнус",
+      "code": "ru"
+    },
+    {
+      "description": "Magnus単体に比べて2倍のマガジンと2倍の殺傷力を誇るリボルバー。",
+      "name": "Akmagnus",
+      "code": "ja"
+    },
+    {
+      "description": "Podwójny zapas amunicji i podwójna moc obalająca pojedynczego pistoletu Magnus.",
+      "name": "Akmagnus",
+      "code": "pl"
+    },
+    {
+      "description": "O dobro da munição e o dobro da potência de uma Magnus.",
+      "name": "Akmagnus",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AKMAGNUS）和一把麥格努斯相比有雙倍彈藥和雙倍後座力。",
+      "name": "麥格努斯雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "มีกระสุนเป็นสองเท่าและพลังในการยับยั้งเป็นสองเท่าเมื่อเทียบกับ Magnus หนึ่งกระบอก",
+      "name": "Akmagnus",
+      "code": "th"
+    },
+    {
+      "description": "Tekli Magnus'un iki katı mermi ve iki katı öldürme gücünü barındırır.",
+      "name": "Akmagnus",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія пістолетів «Магнус». Має подвоєний магазин і вбивчу силу свого звичайного варіанта.",
+      "name": "Акмагнус",
+      "code": "uk"
+    }
+  ]
+}

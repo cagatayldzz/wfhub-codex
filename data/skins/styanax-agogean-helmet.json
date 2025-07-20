@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Hoplite/HopliteAltCHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/styanax-agogean-helmet-54bc21a366.png",
+  "name": "Styanax Agogean Helmet",
+  "description": "Love the light of dawn even as you know the shadow of death. A distinguished helmet for Styanax.",
+  "languages": [
+    {
+      "description": "Liebe das Licht der Morgensonne, obwohl du den Schatten des Todes kennst. Ein herausragender Helm für Styanax.",
+      "name": "Styanax-Helm: Agogean",
+      "code": "de"
+    },
+    {
+      "description": "Appréciez la lumière de l'aube alors même que vous faites face à l'ombre de la mort. Un Casque distingué pour Styanax.",
+      "name": "Casque Styanax Agogean",
+      "code": "fr"
+    },
+    {
+      "description": "Ama la luce dell'alba anche se conosci l'ombra della morte. Un distinto elmo per Styanax.",
+      "name": "Elmo Styanax Agogean",
+      "code": "it"
+    },
+    {
+      "description": "다가오는 죽음의 그림자를 느낀다 하더라도, 밝아오는 새벽의 빛을 소중히 사랑하세요. 스티아낙스를 위한 고귀한 헬멧입니다.",
+      "name": "스티아낙스 아고게안 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Ama la luz del amanecer aunque estés bajo la sombra de la muerte. Un distinguido casco para Styanax.",
+      "name": "Casco Agogean de Styanax",
+      "code": "es"
+    },
+    {
+      "description": "即使你知道死亡的阴影，也要爱上黎明的光芒。 Styanax 的杰出头盔。",
+      "name": "Styanax 极训头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Любите свет зари, как познали тень смерти. Великий шлем Стинакса.",
+      "name": "Шлем Стинакса: Агоген",
+      "code": "ru"
+    },
+    {
+      "description": "死の影を知るように、夜明けの光を愛でる眼差し。Styanaxの別ヘルメット。",
+      "name": "Styanax Agogean ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Kochaj blask świtu, mimo że znasz cień śmierci. Wyróżniający hełm dla Warframe'a Styanax.",
+      "name": "Styanax: Hełm Agogean",
+      "code": "pl"
+    },
+    {
+      "description": "Aprecie a luz do amanhecer mesmo quando você enfrenta a sombra da morte. Um capacete distinto para o Styanax.",
+      "name": "Styanax: Capacete Agogean",
+      "code": "pt"
+    },
+    {
+      "description": "熱愛黎明的光芒即使你知道死亡的黑暗。Styanax 的傑出頭盔。",
+      "name": "Styanax 益進頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "แม้เงาแห่งความตายเข้าย่างกลาย ยังมิวายหลงใหลในแสงอรุณ หมวกเหล็กที่โดดเด่นแสนสะดุดตาสำหรับ Styanax",
+      "name": "หมวกเหล็ก Styanax Agogean",
+      "code": "th"
+    },
+    {
+      "description": "Ölümün gölgesini tanısan dahi şafağın ışığını sev. Styanax için saygın bir miğfer.",
+      "name": "Styanax Agogean Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом Стейнекса. Любіть світло світанку, навіть якщо ви пізнали тінь смерті.",
+      "name": "Шолом «Аґоджин» для Стейнекса",
+      "code": "uk"
+    }
+  ]
+}

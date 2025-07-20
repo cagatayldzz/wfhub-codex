@@ -1,0 +1,106 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPSwordShieldStanceOne",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/last-herald-5fb9174bb4.jpg",
+  "name": "Last Herald",
+  "description": "Fighting form devised for Conclave.",
+  "languages": [
+    {
+      "description": [
+        "Gefechtsform, entwickelt für die Conclave."
+      ],
+      "name": "Letzter Verkünder",
+      "code": "de"
+    },
+    {
+      "description": [
+        "Forme de combat réservée au Conclave."
+      ],
+      "name": "Dernier Héraut",
+      "code": "fr"
+    },
+    {
+      "description": [
+        "Stile di combattimento ideato per il Conclave."
+      ],
+      "name": "Last Herald",
+      "code": "it"
+    },
+    {
+      "description": [
+        "콘클레이브를 위해 창안된 전투 자세입니다."
+      ],
+      "name": "라스트 해럴드",
+      "code": "ko"
+    },
+    {
+      "description": [
+        "Una forma de pelea creada para el Cónclave."
+      ],
+      "name": "Último heraldo",
+      "code": "es"
+    },
+    {
+      "description": [
+        "为武形秘仪设计的战斗形式。"
+      ],
+      "name": "终末使者",
+      "code": "zh"
+    },
+    {
+      "description": [
+        "Форма боя, созданная для конклава."
+      ],
+      "name": "Последний Герольд",
+      "code": "ru"
+    },
+    {
+      "description": [
+        "コンクレーブでの戦闘に特化された流儀。"
+      ],
+      "name": "Last Herald",
+      "code": "ja"
+    },
+    {
+      "description": [
+        "Styl walki stworzony na potrzeby Konklawe."
+      ],
+      "name": "Ostatni Herold",
+      "code": "pl"
+    },
+    {
+      "description": [
+        "Forma de combate elaborada para o Conclave."
+      ],
+      "name": "Last Herald",
+      "code": "pt"
+    },
+    {
+      "description": [
+        "為武形秘儀設計的戰鬥形式。"
+      ],
+      "name": "終末使者",
+      "code": "tc"
+    },
+    {
+      "description": [
+        "รูปแบบการต่อสู้ที่คิดค้นขึ้นสำหรับคอนเคลฟ"
+      ],
+      "name": "Last Herald",
+      "code": "th"
+    },
+    {
+      "description": [
+        "Conclave için planlanmış savaşma formu"
+      ],
+      "name": "Last Herald",
+      "code": "tr"
+    },
+    {
+      "description": [
+        "Техніка бою, розроблена для Конклаву."
+      ],
+      "name": "Останній вісник",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Rifle/TennoAR",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/soma-71f2434a0a.png",
+  "name": "Soma",
+  "description": "Accuracy coupled with a massive magazine makes the Soma assault rifle a formidable weapon.",
+  "languages": [
+    {
+      "description": "Eine hohe Genauigkeit und ein gewaltiges Magazin machen das Soma Sturmgewehr zu einer eindrucksvollen Waffe.",
+      "name": "Soma",
+      "code": "de"
+    },
+    {
+      "description": "Une bonne précision et un grand chargeur font du fusil d'assaut Soma une arme formidable.",
+      "name": "Soma",
+      "code": "fr"
+    },
+    {
+      "description": "La precisione del Soma e il suo grande caricatore rendono questo fucile d'assalto un'arma formidabile.",
+      "name": "Soma",
+      "code": "it"
+    },
+    {
+      "description": "정확도와 커다란 탄창은 소마 돌격 소총을 믿을 수 있는 무기로 만들었습니다.",
+      "name": "소마",
+      "code": "ko"
+    },
+    {
+      "description": "La precisión junto con un cargador grande hacen del rifle de asalto Soma un arma formidable.",
+      "name": "Soma",
+      "code": "es"
+    },
+    {
+      "description": "（英文：SOMA）高准度与高容量弹匣的结合，使月神突击步枪成为强大的武器。",
+      "name": "月神",
+      "code": "zh"
+    },
+    {
+      "description": "Точность в сочетании с ёмким магазином делает штурмовую винтовку «Сома» серьезным оружием.",
+      "name": "Сома",
+      "code": "ru"
+    },
+    {
+      "description": "Somaは高い精度と装弾数を誇るアサルトライフルであり、非常に優れた戦闘能力を持つ。",
+      "name": "Soma",
+      "code": "ja"
+    },
+    {
+      "description": "Celność połączona z pojemnym magazynkiem sprawia, że karabin szturmowy Soma jest niebezpieczną bronią.",
+      "name": "Soma",
+      "code": "pl"
+    },
+    {
+      "description": "Precisão combinada com um carregador massivo fazem com que o rifle de assalto Soma seja uma arma formidável.",
+      "name": "Soma",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：SOMA）月神步槍憑藉著精準度與高容量彈匣成為了強大的武器。",
+      "name": "月神",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อรวมความแม่นยำกับแม็กกาซีนขนาดใหญ่เข้าด้วยกันแล้ว ทำให้ปืนไรเฟิลจู่โจม Soma กระบอกนี้กลายเป็นอาวุธที่ยากจะเอาชนะได้",
+      "name": "Soma",
+      "code": "th"
+    },
+    {
+      "description": "Devasa büyüklükteki bir şarjörün yüksek isabet oranı ile birleşmesi Soma saldırı tüfeğini korkunç bir silah yapar.",
+      "name": "Soma",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматична гвинтівка. Поєднання влучності з величезним магазином робить її грізною зброєю.",
+      "name": "Сома",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Loki/NintendoLokitHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loki-opal-helmet-5ce6acbfd6.png",
+  "name": "Loki Opal Helmet",
+  "description": "A next-generation helmet for the Loki Warframe.",
+  "languages": [
+    {
+      "description": "Ein Helm der nächsten Generation für den Loki Warframe.",
+      "name": "Loki-Helm: Opal",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque de nouvelle génération pour la Warframe Loki.",
+      "name": "Casque Loki Opale",
+      "code": "fr"
+    },
+    {
+      "description": "Un Elmo di nuova generazione per il Warframe Loki.",
+      "name": "Elmo Loki Opal",
+      "code": "it"
+    },
+    {
+      "description": "로키 워프레임을 위한 차세대 헬멧입니다.",
+      "name": "로키 오팔 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco de última generación para el warframe Loki.",
+      "name": "Casco Ópalo de Loki",
+      "code": "es"
+    },
+    {
+      "description": "Loki 战甲的次世代头盔。",
+      "name": "Loki 蛋白石头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем нового поколения для Локи.",
+      "name": "Шлем Локи: Опал",
+      "code": "ru"
+    },
+    {
+      "description": "Loki用次世代ヘルメット。",
+      "name": "Loki Opal ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm następnej generacji dla Warframe'a Loki.",
+      "name": "Loki: Hełm Opalowy",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete de última geração para o Warframe Loki.",
+      "name": "Loki: Capacete Opal",
+      "code": "pt"
+    },
+    {
+      "description": "Loki Warframe 的次世代頭盔。",
+      "name": "Loki 蛋白石頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กรุ่นใหม่สำหรับ Loki Warframe",
+      "name": "หมวกเหล็ก Loki Opal",
+      "code": "th"
+    },
+    {
+      "description": "Loki Warframe'i için yeni nesil bir miğfer.",
+      "name": "Loki Opal Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом наступного покоління для ворфрейма Локі.",
+      "name": "Шолом «Опал» для Локі",
+      "code": "uk"
+    }
+  ]
+}

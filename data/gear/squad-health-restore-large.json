@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamHealTotem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/squad-health-restore-(large)-6daf564f89.png",
+  "name": "Squad Health Restore (Large)",
+  "description": "Restores Health to all squad members. Pulses 300 Health every 7.5s for 30s.",
+  "languages": [
+    {
+      "description": "Stellt Gesundheit für alle Teammitgleider wieder her. Pulsiert 300 Gesundheit jede 7.5s für 30s.",
+      "name": "Team Gesundheitsnachschub (Groß)",
+      "code": "de"
+    },
+    {
+      "description": "Restaure la Santé de tous les membres d'escouade. Impulsions de 300 points de Santé toutes les 7,5s pendant 30s.",
+      "name": "Kit d'Escouade - Santé (Grand)",
+      "code": "fr"
+    },
+    {
+      "description": "Fornisce Salute a tutta la squadra. 300 Salute ad impulso ogni 7.5s per 30s.",
+      "name": "Ricarica Salute di Squadra (Grande)",
+      "code": "it"
+    },
+    {
+      "description": "모든 분대원들의 체력을 회복시킵니다. 30초 동안 매 7.5초마다 300의 체력을 회복시키는 파동을 내보냅니다.",
+      "name": "분대용 체력 회복 키트 (대형)",
+      "code": "ko"
+    },
+    {
+      "description": "Restaura salud a todo el escuadrón. Salud/Pulso: 300 de salud cada 7.5s por 30s.",
+      "name": "Restaurador de salud de escuadrón (grande)",
+      "code": "es"
+    },
+    {
+      "description": "恢复全团队的生命值。每次脉冲恢复 300 点生命。脉冲间隔 7.5 秒，共计 30 秒。",
+      "name": "团队生命补给（大型）",
+      "code": "zh"
+    },
+    {
+      "description": "Восстанавливает здоровье всем в отряде. Восполняет 300 ед. здоровья каждые 7,5 с в течение 30 с.",
+      "name": "Восст. здоровья отряда (большой)",
+      "code": "ru"
+    },
+    {
+      "description": "分隊のヘルスを回復する。30秒の間7.5秒ごとに出るパルスごとに300ヘルス補充される。",
+      "name": "チームヘルスリストア（大）",
+      "code": "ja"
+    },
+    {
+      "description": "Odnawia Życie całemu zespołowi. Odnawia 300 Życia co 7.5s przez 30s.",
+      "name": "Odnowa Życia Zespołu (duża)",
+      "code": "pl"
+    },
+    {
+      "description": "Restaura Vida para todos os membros do esquadrão. Pulsa 300 de Vida a cada 7.5s durante 30s.",
+      "name": "Gerador de Vida - Esquadrão (Grande)",
+      "code": "pt"
+    },
+    {
+      "description": "恢復全團隊的生命值。每次脈衝恢復 300 點生命。脈衝間隔 7.5 秒，共計 30 秒。",
+      "name": "團隊生命補給（大型）",
+      "code": "tc"
+    },
+    {
+      "description": "ฟื้นฟูพลังชีวิตให้กับสมาชิกในทีมทุกคน ซึ่งจะกระตุ้นให้สร้างพลังชีวิต 300 หน่วยทุก ๆ 7.5 วินาที เป็นเวลา 30 วินาที",
+      "name": "ฟื้นฟูพลังชีวิตให้ทีม (ใหญ่)",
+      "code": "th"
+    },
+    {
+      "description": "Tüm takım üyelerinin Sağlığını yeniler. 30 saniye boyunca her 7.5 saniyede 300 Sağlık verir.",
+      "name": "Takım Sağlık Yenileme (Büyük)",
+      "code": "tr"
+    },
+    {
+      "description": "Кожні 7,5 с відновлює всім учасникам загону 300 здоров’я впродовж 30 с.",
+      "name": "Відновник здоров’я загону (великий)",
+      "code": "uk"
+    }
+  ]
+}

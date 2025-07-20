@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/YareliCommunityDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/yareli-community-display-b71632ccd8.png",
+  "name": "Yareli Community Display",
+  "description": "A designer Display of Yareli. Art created by TrashFrame.",
+  "languages": [
+    {
+      "description": "Eine Designer-Darstellung von Yareli. Erstellt von TrashFrame.",
+      "name": "Display: Yareli (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Une représentation artistique de Yareli, créée par TrashFrame.",
+      "name": "Affiche communautaire Yareli",
+      "code": "fr"
+    },
+    {
+      "description": "Un Display di design di Yareli. Arte creata da TrashFrame.",
+      "name": "Display Comunità - Yareli",
+      "code": "it"
+    },
+    {
+      "description": "야렐리의 디자이너 디스플레이입니다. TrashFrame에 의해 디자인되었습니다.",
+      "name": "야렐리 커뮤니티 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Una exposición artística de Yareli. Arte creado por TrashFrame.",
+      "name": "Exposición de Yareli, creado por la comunidad.",
+      "code": "es"
+    },
+    {
+      "description": "Yareli 的设计师展示图。由 TrashFrame 创作的艺术作品。",
+      "name": "Yareli 社区展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Дизайнерский дисплей Ярели от TrashFrame.",
+      "name": "Дисплей сообщества «Ярели»",
+      "code": "ru"
+    },
+    {
+      "description": "Yareliのデザイナーディスプレイ。作画：TrashFrame",
+      "name": "Yareli コミュニティディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Designerski Wyświetlacz Yareli. Zaprojektowany przez TrashFrame.",
+      "name": "Wyświetlacz Społeczności Yareli",
+      "code": "pl"
+    },
+    {
+      "description": "Um exibidor artístico retratando a Yareli, desenvolvido por TrashFrame.",
+      "name": "Exibidor da Arte da Yareli (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "Yareli 的設計師展示圖。此作品由 TrashFrame 所創作。",
+      "name": "Yareli 社群展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพดิสเพลย์ของ Yareli ซึ่งเป็นผลงานศิลปะที่ออกแบบโดย TrashFrame",
+      "name": "ภาพดิสเพลย์ชุมชน Yareli",
+      "code": "th"
+    },
+    {
+      "description": "Bi tasarımcı tarafından Yareli Sergisi. TrashFrame tarafından hazırlanan bir sanat.",
+      "name": "Yareli Topluluk Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Дизайнерський дисплей із зображенням Ярелі, створений TrashFrame.",
+      "name": "Дисплей спільноти «Ярелі»",
+      "code": "uk"
+    }
+  ]
+}

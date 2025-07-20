@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/azurite-fc95549be2.png",
+  "name": "Azurite",
+  "description": "A blue gem layered with impurities.\n\nLocation: Plains of Eidolon (Earth) from Blue Mining Veins and Thumpers",
+  "languages": [
+    {
+      "description": "Ein blauer Edelstein, der mit Verunreinigungen überzogen ist.\n\nQuelle: Durch das Abbauen von blauen Erzadern und von Klopfern in den Ebenen von Eidolon auf der Erde.",
+      "name": "Azurit",
+      "code": "de"
+    },
+    {
+      "description": "Une gemme bleue parcourue d'impuretés.\n\nLieu: Plaines d'Eidolon (Terre), via le minage de Veines bleues et sur les Marteleurs",
+      "name": "Azurite",
+      "code": "fr"
+    },
+    {
+      "description": "Una gemma blu stratificata con impurità.\n\nPosizione: Venature Minerarie Blu sulle rocce delle Piane di Eidolon (Terra) e dai Thumper",
+      "name": "Azzurrite",
+      "code": "it"
+    },
+    {
+      "description": "불순물이 층을 이룬 푸른 보석입니다.\n\n획득 가능 장소: 아이돌론의 평원 (지구) 내 파란 광맥 및 썸퍼에게서 찾을 수 있습니다",
+      "name": "아주라이트",
+      "code": "ko"
+    },
+    {
+      "description": "Una gema azul con capas de impureza.\n\nUbicación: Llanuras de Eidolon (Tierra), en las vetas mineras azules y con los Pistones",
+      "name": "Azurita",
+      "code": "es"
+    },
+    {
+      "description": "一颗夹杂层状杂质的蓝色宝石。 \n\n获取地点：夜灵平野（地球）上的蓝色矿脉、重击者",
+      "name": "石青",
+      "code": "zh"
+    },
+    {
+      "description": "Синий драгоценный камень с различными вкраплениями.\n\nМестонахождение: Равнины Эйдолона на Земле, в месторождениях голубой руды и колотунах",
+      "name": "Азурит",
+      "code": "ru"
+    },
+    {
+      "description": "不純物がこびりついている青い宝石。\n\n場所：エイドロンの草原（地球）の青い鉱脈、サンパー",
+      "name": "アズライト",
+      "code": "ja"
+    },
+    {
+      "description": "Niebieski kryształ ze skazami.\n\nPołożenie: Złoża niebieskiej rudy i Kolosy w Równinach Eidolon na Ziemi",
+      "name": "Azuryt",
+      "code": "pl"
+    },
+    {
+      "description": "Uma joia azul sobreposta por impurezas.\n\nLocalização: em Veias de Mineração Azuis ou ao derrotar Pistões, nas Planícies de Eidolon, na Terra.",
+      "name": "Azurite",
+      "code": "pt"
+    },
+    {
+      "description": "一顆夾雜層狀雜質的藍色寶石。\n\n來源：夜靈平野（地球）上的藍色礦脈以及重擊者。",
+      "name": "藍銅礦石",
+      "code": "tc"
+    },
+    {
+      "description": "อัญมณีสีน้ำเงินที่ปกคลุมไปด้วยสิ่งเจือปน\n\nแหล่งที่พบ: สายแร่สีน้ำเงินและ Thumper ที่อยู่ในที่ราบ Eidolon (โลก)",
+      "name": "อะซูไรต์",
+      "code": "th"
+    },
+    {
+      "description": "Bazı lekelere sahip mavi değerli bir taş.\n\nKonum: Dünya'da yer alan Eidolon Ovalarındaki Mavi Maden Damarlarında ve Thumper'lardan elde edilebilir",
+      "name": "Azurit",
+      "code": "tr"
+    },
+    {
+      "description": "Синій самоцвіт із видимими домішками.\n\nМожна здобути з синіх жил та землетрусів на Рівнинах Ейдолонів (Земля).",
+      "name": "Азурит",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/ZylokIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zylok-incarnon-genesis-8a778d911c.png",
+  "name": "Zylok Incarnon Genesis",
+  "description": "Awaken this weapon's ability to charge a large single shot that deals Radial <DT_FIRE_COLOR>Heat Damage in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form einen starken Einzelschuss aufzuladen, der Radialen <DT_FIRE_COLOR>Hitzeschaden verursacht.",
+      "name": "Incarnon-Genesis: Zylok",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à charger un puissant coup unique qui inflige des Dégâts de <DT_FIRE_COLOR>Feu Radiaux sous Forme Incarnon.",
+      "name": "Zylok Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di caricare un grosso colpo singolo che infligge Danno <DT_FIRE_COLOR>Fuoco Radiale nella Forma Incarnon.",
+      "name": "Zylok Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 범위형 <DT_FIRE_COLOR>화염 피해를 입히는 하나의 큰 충전형 단일 탄환을 발사할 수 있습니다.",
+      "name": "자일락 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para cargar un único gran disparo que cause daño radial de <DT_FIRE_COLOR>calor en su forma Incarnon.",
+      "name": "Zylok Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有蓄力进行一次造成范围 <DT_FIRE_COLOR>火焰伤害的大型单发射击的能力。",
+      "name": "席尔火枪灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия выпускать большой одиночный выстрел, наносящий радиальный урон <DT_FIRE_COLOR>огнём в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Зайлок",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは範囲<DT_FIRE_COLOR>火炎ダメージを与える巨大ショットをチャージする。",
+      "name": "Zylok インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wymaga naładowania wystrzału i zadaje <DT_FIRE_COLOR> Obr. od Ognia w obszarze.",
+      "name": "Geneza Inkarnon: Zylok",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de carregar um poderoso disparo único que produz Dano Radial <DT_FIRE_COLOR>Ígneo no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Zylok",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下充能一發大型的單發射擊並造成範圍<DT_FIRE_COLOR>火焰傷害。",
+      "name": "賽爾火槍應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะชาร์จกระสุนนัดเดียวที่ทรงพลังทำให้เกิดความเสียหาย <DT_FIRE_COLOR>ไฟที่แผ่รัศมีออกไป",
+      "name": "Zylok Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde atışlarını büyük bir mühimmat olacak şekilde şarj ederek Radyal <DT_FIRE_COLOR>Ateş Hasarı vurma özelliğini uyandır.",
+      "name": "Zylok Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє заряджати великий постріл, який завдає колової <DT_FIRE_COLOR>термічної шкоди.",
+      "name": "Інкарнонський генезис: Зайлок",
+      "code": "uk"
+    }
+  ]
+}

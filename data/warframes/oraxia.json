@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Oraxia/Oraxia",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oraxia-8a9e4aab09.png",
+  "name": "Oraxia",
+  "description": "Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.",
+  "armor": 125,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Finstere Anmut gepaart mit tödlicher Vielseitigkeit; die Evolution eines perfekten Raubtiers. Der Name der Angst ist Oraxia.",
+      "name": "Oraxia",
+      "code": "de"
+    },
+    {
+      "description": "Une grâce sinistre mêlée à une polyvalence mortelle; l'évolution d'un prédateur parfait. Le nom de la peur est Oraxia.",
+      "name": "Oraxia",
+      "code": "fr"
+    },
+    {
+      "description": "Grazia sinistra intrecciata a versatilità letale: l'evoluzione del predatore perfetto. Il nome della paura è Oraxia.",
+      "name": "Oraxia",
+      "code": "it"
+    },
+    {
+      "description": "사악한 우아함이 다재다능한 치명성과 한 길 베처럼 엮여든 모습. 완벽한 포식자의 진화. 그 공포의 이름은, 오락시아.",
+      "name": "오락시아",
+      "code": "ko"
+    },
+    {
+      "description": "Gracia siniestra entrelazada con versatilidad letal, la evolución del depredador perfecto. El miedo tiene nombre: Oraxia.",
+      "name": "Oraxia",
+      "code": "es"
+    },
+    {
+      "description": "阴险优雅与致命多面性交织，进化为完美掠食者。恐惧之名，Oraxia。",
+      "name": "Oraxia",
+      "code": "zh"
+    },
+    {
+      "description": "Зловещая грация, смешанная со смертоносной универсальностью; эволюция идеального хищника. Имя страха — Ораксия.",
+      "name": "Ораксия",
+      "code": "ru"
+    },
+    {
+      "description": "恐るべき優美さと殺戮のための汎用性が織りなす。完璧な捕食者の進化形。恐怖の体現「Oraxia」。",
+      "name": "Oraxia",
+      "code": "ja"
+    },
+    {
+      "description": "Złowroga łaska przeplata się ze wszechstronną zabójczością; ewolucja idealnego drapieżnika. Imię strachu to Oraxia.",
+      "name": "Oraxia",
+      "code": "pl"
+    },
+    {
+      "description": "Graça cruel entrelaçada com versatilidade letal, a evolução da predadora perfeita. O nome da monstruosidade é Oraxia.",
+      "name": "Oraxia",
+      "code": "pt"
+    },
+    {
+      "description": "掠奪者之完美進化：優雅與靈活交織，陰險而致命。恐懼的代名詞──Oraxia。",
+      "name": "Oraxia",
+      "code": "tc"
+    },
+    {
+      "description": "ความงดงามที่แสนชั่วร้ายผสานกับความสามารถที่อันตรายถึงตาย นี่คือวิวัฒนาการของนักล่าที่สมบูรณ์แบบ เป็นความน่ากลัวที่มีชื่อว่า Oraxia",
+      "name": "Oraxia",
+      "code": "th"
+    },
+    {
+      "description": "Uğursuz zarafet. Sonsuz ölümün vücut bulmuş hali; mükemmel bir avcının evrimi. Oraxia, korkunun adıdır.",
+      "name": "Oraxia",
+      "code": "tr"
+    },
+    {
+      "description": "Мила зловісність переплітається зі смертоносною універсальністю — еволюція ідеальної хижачки. Страх має своє ім’я — Ораксія.",
+      "name": "Ораксія",
+      "code": "uk"
+    }
+  ]
+}

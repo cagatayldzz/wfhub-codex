@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardVoruna",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/voruna-prex-23bed32fae.png",
+  "name": "Voruna Prex",
+  "description": "The Heart of the Pack",
+  "languages": [
+    {
+      "description": "Das Herz des Rudels",
+      "name": "Voruna Prex",
+      "code": "de"
+    },
+    {
+      "description": "Le Cœur de la Meute",
+      "name": "Prex Voruna",
+      "code": "fr"
+    },
+    {
+      "description": "Il Cuore del Branco",
+      "name": "Prex: Voruna",
+      "code": "it"
+    },
+    {
+      "description": "무리의 심장",
+      "name": "보루나 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "El Corazón de la Manada",
+      "name": "Prex de Voruna",
+      "code": "es"
+    },
+    {
+      "description": "狼群之心",
+      "name": "Voruna Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Сердце стаи",
+      "name": "Прекс: Воруна",
+      "code": "ru"
+    },
+    {
+      "description": "群れの心パック",
+      "name": "Voruna プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Serce Watahy",
+      "name": "Prex: Voruna",
+      "code": "pl"
+    },
+    {
+      "description": "O Coração da Alcateia",
+      "name": "Prex: Voruna",
+      "code": "pt"
+    },
+    {
+      "description": "狼群之心",
+      "name": "卡牌 — Voruna",
+      "code": "tc"
+    },
+    {
+      "description": "หัวใจสำคัญของฝูงหมาป่า",
+      "name": "ไพ่เพร็กซ์ Voruna",
+      "code": "th"
+    },
+    {
+      "description": "Sürünün Kalbi",
+      "name": "Voruna Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Серце зграї",
+      "name": "Прекс Воруни",
+      "code": "uk"
+    }
+  ]
+}

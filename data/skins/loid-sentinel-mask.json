@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/ThanoTechMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/loid-sentinel-mask-9da88737a3.png",
+  "name": "Loid Sentinel Mask",
+  "description": "Necraloids insist upon using archaic but reliable Entrati technology, in preference to anything more modern.",
+  "languages": [
+    {
+      "description": "Necraloids bestehen darauf, archaische, aber verlässliche Entrati-Technologie zu benutzen, anstatt modernerer Äquivalenten.",
+      "name": "Wächtermaske: Loid",
+      "code": "de"
+    },
+    {
+      "description": "Les Nécraloïdes privilégient la technologie Entrati, archaïque mais fiable, plutôt que quelque chose de plus moderne.",
+      "name": "Masque de Sentinelle Loid",
+      "code": "fr"
+    },
+    {
+      "description": "I Necraloid insistono nell'usare la tecnologia Entrati arcaica ma affidabile, preferendola a qualsiasi cosa di più moderno.",
+      "name": "Maschera Sentinella Loid",
+      "code": "it"
+    },
+    {
+      "description": "네크랄로이드들은 구식이지만 견실한 엔트라티 기술의 사용을 고집하며, 그 어떠한 현대적 기술보다도 더욱 선호합니다.",
+      "name": "로이드 센티넬 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Los necraloids insisten en usar tecnología Entrati arcaica pero confiable, en lugar de algo más moderno.",
+      "name": "Máscara Loid de centinela",
+      "code": "es"
+    },
+    {
+      "description": "殁世械灵坚持采用古老且可靠的英择谛技术，而不是任何更先进的技术。",
+      "name": "洛德守护面具",
+      "code": "zh"
+    },
+    {
+      "description": "Некралоид традиционно предпочитает использовать устаревшую, но надежную технологию Энтрати вместо чего-то более современного.",
+      "name": "Маска Стража: Лойд",
+      "code": "ru"
+    },
+    {
+      "description": "ネクロロイドには、只の現代技術より古くとも堅実なエントラティ技術が求められる。",
+      "name": "Loid センチネル マスク",
+      "code": "ja"
+    },
+    {
+      "description": "Nekraloidy upierają się przy używaniu przestarzałej, ale niezawodnej technologii Entrati, zamiast czegokolwiek bardziej zaawansowanego.",
+      "name": "Maska Strażnika: Loid",
+      "code": "pl"
+    },
+    {
+      "description": "Os Necraloids insistem em fazer uso da ancestral, porém confiável, tecnologia Entrati, em vez de equipamentos mais modernos.",
+      "name": "Máscara de Sentinela: Loid",
+      "code": "pt"
+    },
+    {
+      "description": "亡骸精靈堅持使用古老但扎實的源拓氏科技，而非屬意任何更為摩登的技術。",
+      "name": "Loid 守護面具",
+      "code": "tc"
+    },
+    {
+      "description": "ฝ่าย Necraloid ยืนกรานที่จะใช้เทคโนโลยี Entrati ที่เก่าแก่แต่เชื่อถือได้ มากกว่าจะเอนเอียงไปทางอะไรก็ตามที่ดูทันสมัยกว่า",
+      "name": "หน้ากากเซนติเนล Loid",
+      "code": "th"
+    },
+    {
+      "description": "Necraloid'ler daha modern eşdeğerleri yerine arkaik, ama güvenilir Entrati teknolojisini kullanmakta ısrar ediyor.",
+      "name": "Loid Sentinel Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Некралойди надають перевагу застарілій, але надійній технології Ентраті над чимось сучаснішим.",
+      "name": "Маска «Лойд» для вартового",
+      "code": "uk"
+    }
+  ]
+}

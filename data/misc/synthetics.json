@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/InfestedFoundry/HelminthSynthetics",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/synthetics-5259425dca.png",
+  "name": "Synthetics",
+  "description": "Helminth eagerly consumes artificial materials and exudes these rope-like strands of filament as a useful byproduct.",
+  "languages": [
+    {
+      "description": "Helminth konsumiert eifrig künstliche Materialien und scheidet strickartige Filamentstreifen als nützliches Nebenprodukt aus.",
+      "name": "Synthetisches",
+      "code": "de"
+    },
+    {
+      "description": "Le Helminth consomme avidement des matériaux artificiels et dégage ces brins de filament en forme de corde comme sous-produit utile.",
+      "name": "Synthétiques",
+      "code": "fr"
+    },
+    {
+      "description": "L'Helminth consuma con entusiasmo materiali artificiali e sprigiona questi filamenti come utili sottoprodotti.",
+      "name": "Sintetici",
+      "code": "it"
+    },
+    {
+      "description": "헬민스는 인공 물질을 열심히 섭취해 유용하게 쓰일 수 있는 끈 모양의 섬유 가닥들을 부산물로 내뿜습니다.",
+      "name": "합성 물질",
+      "code": "ko"
+    },
+    {
+      "description": "El Helminto consume con avidez los materiales artificiales y exuda estos filamentos en forma de cuerda como un subproducto útil.",
+      "name": "Sintéticos",
+      "code": "es"
+    },
+    {
+      "description": "Helminth 热衷于享用人造材料，并会分泌出这些绳状的细丝，可被作为一种有用的副产品。",
+      "name": "合成霉",
+      "code": "zh"
+    },
+    {
+      "description": "Гельминт охотно потребляет искусственные материалы и выделяет эти нити в качестве полезного побочного продукта.",
+      "name": "Синтетики",
+      "code": "ru"
+    },
+    {
+      "description": "Helminthは活発に人工物を消化し、このロープのような繊維状のより糸を有用な副産物として抽出する。",
+      "name": "合成物",
+      "code": "ja"
+    },
+    {
+      "description": "Helminth z wielkim zapałem konsumuje sztuczne materiały i wydziela podobne do lin włókna jako pożyteczny produkt uboczny.",
+      "name": "Syntetyki",
+      "code": "pl"
+    },
+    {
+      "description": "O Helminte consome materiais artificiais de forma voraz, exalando filamentos (parecidos com corda) como subproduto.",
+      "name": "Sintéticos",
+      "code": "pt"
+    },
+    {
+      "description": "Helminth 飢腸轆轆地消化人造材料，並且分泌出能實用、宛如繩索般成捆絲線的副產物。",
+      "name": "合成物",
+      "code": "tc"
+    },
+    {
+      "description": "Helminth กินวัสดุเทียมอย่างกระหาย และปล่อยเส้นใยที่มีลักษณะคล้ายเชือกเหล่านี้ออกมา ซึ่งเป็นผลพลอยได้ที่มีประโยชน์",
+      "name": "สารสังเคราะห์",
+      "code": "th"
+    },
+    {
+      "description": "Helminth, yapay malzemeleri büyük bir iştahla tüketir ve bu ip benzeri filament tellerini yararlı bir yan ürün olarak dışarı atar.",
+      "name": "Sentetik",
+      "code": "tr"
+    },
+    {
+      "description": "Гельмінт охоче споживає штучні матеріали. Побічним продуктом є корисні ниткоподібні волокнисті утворення.",
+      "name": "Синтетики",
+      "code": "uk"
+    }
+  ]
+}

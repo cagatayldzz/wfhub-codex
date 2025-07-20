@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasic",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/clan-sigil-b17cd6bed0.png",
+  "name": "Clan Sigil",
+  "description": "This sigil is worn by the members united within a Clan.",
+  "languages": [
+    {
+      "description": "Dieses Siegel wird von Mitgliedern eines Clans getragen.",
+      "name": "Siegel: Clan",
+      "code": "de"
+    },
+    {
+      "description": "Ce Sceau est porté par les membres unis au sein d'un Clan.",
+      "name": "Sceau de Clan",
+      "code": "fr"
+    },
+    {
+      "description": "Questo sigillo è indossato dai membri uniti in un Clan.",
+      "name": "Sigillo Clan",
+      "code": "it"
+    },
+    {
+      "description": "클랜에 소속된 멤버가 사용하는 시질입니다.",
+      "name": "클랜 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Este sello es usado por los miembros unidos de un clan.",
+      "name": "Sello de clan",
+      "code": "es"
+    },
+    {
+      "description": "这枚纹章是由氏族内团结一致的成员所配戴。",
+      "name": "氏族纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Это сигил, который носят члены одного клана.",
+      "name": "Сигил: Клан",
+      "code": "ru"
+    },
+    {
+      "description": "このシジルはクランに加入したメンバーが着用している。",
+      "name": "クランシジル",
+      "code": "ja"
+    },
+    {
+      "description": "Ten Znak noszony jest przez członków zrzeszonych w Klanie.",
+      "name": "Znak Klanu",
+      "code": "pl"
+    },
+    {
+      "description": "Este Brasão é usado pelos membros unidos dentro de um Clã.",
+      "name": "Brasão: Clã",
+      "code": "pt"
+    },
+    {
+      "description": "這枚紋章是由氏族內團結一致的成員所配戴。",
+      "name": "氏族紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายนี้สวมใส่โดยสมาชิกที่รวมกลุ่มกันภายในแคลน",
+      "name": "เครื่องหมาย: Clan",
+      "code": "th"
+    },
+    {
+      "description": "Bu mühür Klan üyelerinin toplantılarında giyilir.",
+      "name": "Klan Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл, що відзначає членів одного клану.",
+      "name": "Сиґіл клану",
+      "code": "uk"
+    }
+  ]
+}

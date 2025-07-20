@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Hollvania/LASxMetalFoldingChairA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/folding-chair-8c4abe9c96.png",
+  "name": "Folding Chair",
+  "description": "A metal folding chair.",
+  "languages": [
+    {
+      "description": "Ein Klappstuhl aus Metall.",
+      "name": "Klappstuhl",
+      "code": "de"
+    },
+    {
+      "description": "Une chaise pliante en métal.",
+      "name": "Chaise pliante",
+      "code": "fr"
+    },
+    {
+      "description": "Una sedia pieghevole in metallo.",
+      "name": "Sedia Pieghevole",
+      "code": "it"
+    },
+    {
+      "description": "금속으로 된 접이식 의자입니다.",
+      "name": "접이식 의자",
+      "code": "ko"
+    },
+    {
+      "description": "Una silla plegable de metal.",
+      "name": "Silla plegable",
+      "code": "es"
+    },
+    {
+      "description": "一把金属折叠椅。",
+      "name": "折叠椅",
+      "code": "zh"
+    },
+    {
+      "description": "Металлический складной стул.",
+      "name": "Складной стул",
+      "code": "ru"
+    },
+    {
+      "description": "金属製の折りたたみ椅子。",
+      "name": "折りたたみ椅子",
+      "code": "ja"
+    },
+    {
+      "description": "Metalowe krzesło składane.",
+      "name": "Krzesło składane",
+      "code": "pl"
+    },
+    {
+      "description": "Uma cadeira dobrável de metal.",
+      "name": "Cadeira Dobrável",
+      "code": "pt"
+    },
+    {
+      "description": "金屬摺疊椅。",
+      "name": "摺疊椅",
+      "code": "tc"
+    },
+    {
+      "description": "เก้าอี้พับเหล็ก",
+      "name": "เก้าอี้พับ",
+      "code": "th"
+    },
+    {
+      "description": "Metal katlanır sandalye.",
+      "name": "Katlanır Sandalye",
+      "code": "tr"
+    },
+    {
+      "description": "Металевий розкладний стілець.",
+      "name": "Розкладний стілець",
+      "code": "uk"
+    }
+  ]
+}

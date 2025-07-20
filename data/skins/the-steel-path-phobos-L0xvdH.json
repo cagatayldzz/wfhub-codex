@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/HardmodePhobosEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path-phobos-2db110e5c9.png",
+  "name": "The Steel Path: Phobos",
+  "description": "Awarded for completing The Steel Path: Phobos.",
+  "languages": [
+    {
+      "description": "Verliehen für das Beenden des Stählernen Pfads auf Phobos.",
+      "name": "Der Stählerne Pfad: Phobos",
+      "code": "de"
+    },
+    {
+      "description": "Décerné pour avoir terminé la Route de l'Acier: Phobos.",
+      "name": "La Route de l'Acier: Phobos",
+      "code": "fr"
+    },
+    {
+      "description": "Conferito per il completamento de Il Percorso d'Acciaio: Phobos.",
+      "name": "Il Percorso d'Acciaio: Phobos",
+      "code": "it"
+    },
+    {
+      "description": "포보스에서 강철의 길을 완료할 시 수여되는 보상입니다.",
+      "name": "강철의 길: 포보스",
+      "code": "ko"
+    },
+    {
+      "description": "Otorgado por completar «El Camino de Acero: Fobos».",
+      "name": "El Camino de Acero: Fobos",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些完成「钢铁之路：火卫一」的玩家。",
+      "name": "钢铁之路：火卫一",
+      "code": "zh"
+    },
+    {
+      "description": "Присуждается за прохождение Стального Пути «Фобос».",
+      "name": "Стальной путь: Фобос",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：フォボス」を完了すると授与される。",
+      "name": "鋼の道のり：フォボス",
+      "code": "ja"
+    },
+    {
+      "description": "Przyznawany za ukończenie Ścieżki Stali: Fobosa.",
+      "name": "Ścieżka Stali: Fobos",
+      "code": "pl"
+    },
+    {
+      "description": "Concedido ao concluir o Percurso de Aço: Fobos.",
+      "name": "Percurso de Aço: Fobos",
+      "code": "pt"
+    },
+    {
+      "description": "完成鋼韌之道：火衛一而頒發的表情動作。",
+      "name": "鋼韌之道：火衛一",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลจากการจบภารกิจเส้นทางเหล็กกล้า: ดาวโฟบอส",
+      "name": "เส้นทางเหล็กกล้า: ดาวโฟบอส",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path: Phobos tamamlama ödülü.",
+      "name": "Steel Path: Phobos",
+      "code": "tr"
+    },
+    {
+      "description": "Видають за виконання всіх завдань на Фобосі в режимі «Шлях сталі».",
+      "name": "Шлях сталі: Фобос",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSporothrix",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/coda-sporothrix-b0976a87f9.png",
+  "name": "Coda Sporothrix",
+  "description": "Delivers a virus-laden barb to its victim that continues to damage it before exploding. With increased Damage, Reload Speed, Magazine Size, Status Chance, and explosion radius.",
+  "languages": [
+    {
+      "description": "Verpasst dem Opfer einen virusverseuchten Stachel, der weiterhin Schaden verursacht, bevor er explodiert. Hat erhöhten Schaden, Nachladegeschwindigkeit, Magazingröße, Statuschance und Explosionsradius.",
+      "name": "Coda Sporothrix",
+      "code": "de"
+    },
+    {
+      "description": "Envoie à sa victime une pointe imprégnée de virus qui continue de lui infliger des Dégâts avant d'exploser. Avec des statistiques de Dégâts, de Vitesse de Rechargement, de Taille de Chargeur et Explosives augmentées.",
+      "name": "Sporothrix Coda",
+      "code": "fr"
+    },
+    {
+      "description": "Scocca una freccia carica di virus che continua a danneggiare la sua vittima prima di esplodere. Presenta un maggiore Danno, Velocità di Ricarica, Capienza Caricatore, Probabilità Effetto e portata dell'esplosione.",
+      "name": "Coda Sporothrix",
+      "code": "it"
+    },
+    {
+      "description": "희생자에게 바이러스가 가득한 가시를 날려 계속 피해를 입힌 뒤 폭발시킵니다. 일반형에 비해 피해, 재장전 속도, 탄창 용량, 상태 이상 확률 및 폭발 범위가 증가합니다.",
+      "name": "코다 스포로트릭스",
+      "code": "ko"
+    },
+    {
+      "description": "Lanza una púa cargada de virus a su víctima, que continúa dañándola antes de explotar. Con mayor daño, velocidad de recarga, tamaño del cargador, probabilidad de estado y radio de explosión.",
+      "name": "Sporothrix Coda",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CODA SPOROTHRIX）向受害者投掷一个携带病毒的倒钩，持续造成伤害直至爆炸。具有更高的伤害、装填速度、弹匣容量、触发几率和爆炸半径。",
+      "name": "终幕·孢丝感染枪",
+      "code": "zh"
+    },
+    {
+      "description": "Доставляет к жертвам заражённые вирусами шипы, которые наносят урон и взрываются. Оружие имеет улучшенные показатели урона, время перезарядки, вместимость магазина, шанс статуса и радиус взрыва.",
+      "name": "Споротрикс Кода",
+      "code": "ru"
+    },
+    {
+      "description": "ウイルスを含んだ棘を標的に発射し、爆発する前にダメージを与え続ける。通常版に比べ高めのダメージ、リロード速度、マガジン容量、状態異常率、爆破範囲を誇る。",
+      "name": "Coda Sporothrix",
+      "code": "ja"
+    },
+    {
+      "description": "Wystrzeliwuje żądła, które ranią wrogów po trafieniu i wybuchają po krótkim czasie. Zyskuje poprawione statystyki Obrażeń, Prędkości Przeładowania, Pojemności Magazynka, Szansy Statusu i zasięgu eksplozji.",
+      "name": "Sporothrix Cody",
+      "code": "pl"
+    },
+    {
+      "description": "Lançará uma farpa carregada de vírus em sua vítima, que continuará a causar dano antes de explodir. Apresenta um aumento de Dano, Velocidade de Recarga, Tamanho do Carregador, Chance de Status e Raio de Explosão.",
+      "name": "Sporothrix Coda",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CODA SPOROTHRIX）對受害者發射帶有病毒的倒刺，持續造成傷害直到爆炸。具有更高的傷害、裝填速度、彈匣容量、狀態觸發機率，及爆炸範圍。",
+      "name": "勾瘩 毒孢步槍",
+      "code": "tc"
+    },
+    {
+      "description": "ยิงหนามที่เต็มไปด้วยไวรัสไปที่เหยื่อซึ่งจะโจมตีอย่างต่อเนื่องก่อนจะระเบิด พร้อมความเสียหาย ความเร็วในการรีโหลด ขนาดของแม็กกาซีน โอกาสสถานะ และรัศมีการระเบิดที่เพิ่มขึ้น",
+      "name": "Coda Sporothrix",
+      "code": "th"
+    },
+    {
+      "description": "Kurbanına, patlamadan önce ona zarar vermeye devam eden virüs yüklü bir diken gönderir. Artırılmış Hasar, Yeniden Yükleme Hızı, Şarjör Kapasitesi, Statü Şansı ve patlama çapı sunar.",
+      "name": "Coda Sporothrix",
+      "code": "tr"
+    },
+    {
+      "description": "Доправляє до жертв заражені шипи, які завдають шкоди й вибухають. Зброя має поліпшені показники шкоди, імовірності накладання ефекту стану, швидкості перезаряджання, місткості магазину та досяжності вибухів.",
+      "name": "Споротрикс-кода",
+      "code": "uk"
+    }
+  ]
+}

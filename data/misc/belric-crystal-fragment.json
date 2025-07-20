@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/LastWishItems/BlueCrystal",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/belric-crystal-fragment-c4a7e593af.png",
+  "name": "Belric Crystal Fragment",
+  "description": "A small fragment of Belric's Crystal from Tyana Pass on Mars.",
+  "languages": [
+    {
+      "description": "Ein kleines Fragment von Belrics Kristall vom Tyana Pass auf dem Mars.",
+      "name": "Belric Kristallfragment",
+      "code": "de"
+    },
+    {
+      "description": "Un petit fragment du Cristal de Belric provenant du Col de Tyane, sur Mars.",
+      "name": "Fragment de Cristal de Belric",
+      "code": "fr"
+    },
+    {
+      "description": "Un piccolo frammento del Cristallo di Belric proveniente da Tyana Pass su Marte.",
+      "name": "Frammento Cristallo di Belric",
+      "code": "it"
+    },
+    {
+      "description": "화성의 Tyana Pass에서 얻은 벨릭 결정체의 작은 조각입니다.",
+      "name": "벨릭 결정체 조각",
+      "code": "ko"
+    },
+    {
+      "description": "Un pequeño fragmento del Cristal de Belric del Paso de Tyana en Marte.",
+      "name": "Fragmento de Cristal de Belric",
+      "code": "es"
+    },
+    {
+      "description": "来自火星 Tyana Pass 的一小块贝里克的水晶碎片。",
+      "name": "贝里克水晶碎片",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшой фрагмент кристалла Белрика с перевала Тианы на Марсе.",
+      "name": "Фрагмент кристалла Белрика",
+      "code": "ru"
+    },
+    {
+      "description": "火星のTyana PassにあるBelricのクリスタルからの小さな欠片。",
+      "name": "Belricのクリスタルフラグメント",
+      "code": "ja"
+    },
+    {
+      "description": "Mały fragment Kryształu Belrica z Przełęczy Tyana na Marsie.",
+      "name": "Fragment Kryształu Belrica",
+      "code": "pl"
+    },
+    {
+      "description": "Um pequeno fragmento do Cristal do Belric, proveniente da Passagem de Tyana, em Marte.",
+      "name": "Fragmento do Cristal do Belric",
+      "code": "pt"
+    },
+    {
+      "description": "Belric 的水晶的小碎片，來自火星上的 Tyana Pass。",
+      "name": "Belric 水晶碎片",
+      "code": "tc"
+    },
+    {
+      "description": "เศษคริสตัลชิ้นเล็ก ๆ ของ Belric ที่ได้มาจาก Tyana Pass บนดาวอังคาร",
+      "name": "เศษคริสตัลของ Belric",
+      "code": "th"
+    },
+    {
+      "description": "Mars'taki Tyana Geçişinde yer alan Belric'in Kristalinden küçük bir parça.",
+      "name": "Belric Kristal Parçası",
+      "code": "tr"
+    },
+    {
+      "description": "Маленька частинка кристала Белріка із завдання «Прохід Тіани» на Марсі.",
+      "name": "Уламок кристала Белріка",
+      "code": "uk"
+    }
+  ]
+}

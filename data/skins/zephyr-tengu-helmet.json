@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguAltBHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zephyr-tengu-helmet-85461229eb.png",
+  "name": "Zephyr Tengu Helmet",
+  "description": "A uniquely-styled alternate helmet for Zephyr.",
+  "languages": [
+    {
+      "description": "Ein individuell gestalteter, alternativer Helm für Zephyr.",
+      "name": "Zephyr-Helm: Tengu",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque alternatif dans un style unique pour Zephyr.",
+      "name": "Casque Zephyr Tengu",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo alternativo per Zephyr dallo stile unico.",
+      "name": "Elmo Zephyr Tengu",
+      "code": "it"
+    },
+    {
+      "description": "제피르 워프레임을 위한 독특한 스타일의 대체 헬멧입니다.",
+      "name": "제피르 텐구 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco alternativo de estilo único para Zephyr.",
+      "name": "Casco Tengu de Zephyr",
+      "code": "es"
+    },
+    {
+      "description": "Zephyr 的独特样式替换头盔。",
+      "name": "Zephyr 天狗头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Альтернативный шлем Зефир уникального стиля исполнения.",
+      "name": "Шлем Зефир: Тэнгу",
+      "code": "ru"
+    },
+    {
+      "description": "ユニークな形をしたZephyr用ヘルメット。",
+      "name": "Zephyr Tengu ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Unikatowo stylizowany hełm dla Warframe Zephyr.",
+      "name": "Zephyr: Hełm Tengu",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete alternativo estilizado unicamente para Zephyr.",
+      "name": "Zephyr: Capacete Tengu",
+      "code": "pt"
+    },
+    {
+      "description": "Zephyr 的獨特樣式替換頭盔。",
+      "name": "Zephyr 天狗頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำรองที่มีสไตล์เฉพาะตัวสำหรับ Zephyr",
+      "name": "หมวกเหล็ก Zephyr Tengu",
+      "code": "th"
+    },
+    {
+      "description": "Zephyr'e özel eşsiz bir alternatif miğfer",
+      "name": "Zephyr Tengu Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Альтернативний шолом виняткового виконання для ворфрейма Зефіри.",
+      "name": "Шолом «Тенґу» для Зефіри",
+      "code": "uk"
+    }
+  ]
+}

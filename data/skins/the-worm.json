@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Venus/TNWGlintTeshinDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-worm-5b39ed6374.png",
+  "name": "The Worm",
+  "description": "This poster is a tribute to The War Within. Art created by Kevin Glint.",
+  "languages": [
+    {
+      "description": "Dieses Poster ist ein Tribut an: Der Innere Krieg. Dieses Werk wurde geschaffen von Kevin Glint.",
+      "name": "Der Wurm",
+      "code": "de"
+    },
+    {
+      "description": "Cette affiche est un hommage à 'La Guerre Intérieure'. Une création de Kevin Glint.",
+      "name": "Le Ver",
+      "code": "fr"
+    },
+    {
+      "description": "Questo poster è un tributo a La Guerra Interna. Arte creata da Kevin Glint.",
+      "name": "The Worm",
+      "code": "it"
+    },
+    {
+      "description": "이 포스터는 내면의 전쟁 퀘스트에 대한 헌사입니다. Kevin Glint에 의해 만들어진 작품입니다.",
+      "name": "The Worm",
+      "code": "ko"
+    },
+    {
+      "description": "Este póster es un tributo a «La Guerra Interna». Arte creado por Kevin Glint.",
+      "name": "El gusano",
+      "code": "es"
+    },
+    {
+      "description": "这张海报是对《内战》的致敬。由 Kevin Glint 完成艺术创作。",
+      "name": "蠕虫",
+      "code": "zh"
+    },
+    {
+      "description": "Этот постер — дань уважения квесту «Война внутри». Автор: Kevin Glint.",
+      "name": "Червь",
+      "code": "ru"
+    },
+    {
+      "description": "「内なる紛争」を称えたポスター。Kevin Glint作。",
+      "name": "「The Worm」",
+      "code": "ja"
+    },
+    {
+      "description": "Ten plakat jest hołdem dla Wewnętrznej Wojny. Grafika stworzona przez Kevina Glinta.",
+      "name": "Robal",
+      "code": "pl"
+    },
+    {
+      "description": "Este pôster é uma homenagem à jornada 'A Guerra Interior'. Arte criada por Kevin Glint.",
+      "name": "O Verme",
+      "code": "pt"
+    },
+    {
+      "description": "這張海報是向《內戰》的致敬。藝術由 Kevin Glint 創作。",
+      "name": "蠕蟲",
+      "code": "tc"
+    },
+    {
+      "description": "โปสเตอร์นี้เป็นบรรณาการแด่สงครามภายใน งานศิลปะที่ออกแบบโดย Kevin Glint",
+      "name": "The Worm",
+      "code": "th"
+    },
+    {
+      "description": "The War Within hatıralarını barındıran bir poster. Kevin Glint tarafından hazırlanmış bir eser.",
+      "name": "Solucan",
+      "code": "tr"
+    },
+    {
+      "description": "Плакат, присвячений пригоді «Внутрішній конфлікт». Створений Kevin Glint.",
+      "name": "«Хробак»",
+      "code": "uk"
+    }
+  ]
+}

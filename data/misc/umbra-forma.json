@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/FormaUmbra",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/umbra-forma-1b1719c64c.png",
+  "name": "Umbra Forma",
+  "description": "Forma that can apply the UMBRA polarity.\n\nThis shape-altering component is fundamental to Orokin construction. Allows you to change the polarity of a mod slot on a Warframe or Melee Weapon to UMBRA polarity and then resets their affinity to Unranked. This can only be used on max Rank Warframes and Melee Weapons.",
+  "languages": [
+    {
+      "description": "Ein Forma, das die UMBRA-Polarität hinzufügen kann.\n\nDiese Form-verändernde Komponente ist wesentlich für Orokin Konstruktionen. Es erlaubt, die Polarität auf einem Mod-Slot eines Warframes, eines Begleiters oder einer Waffe zu einer UMBRA-Polarität zu ändern und sie auf 'Ohne Rang' zurückzusetzen. Es kann nur von Warframes, Begleitern und Waffen auf max. Rang verwendet werden.",
+      "name": "Umbra Forma",
+      "code": "de"
+    },
+    {
+      "description": "Un Forma appliquant la polarité UMBRA.\n\nCet élément d'altération de forme est fondamental pour la construction Orokin. Il vous permet de changer la polarité d'un emplacement de Mod sur une Warframe ou une Arme de Mêlée pour une polarité UMBRA, puis réinitialise son affinité au rang non classé. Cet objet ne peut être utilisé que sur les Warframes et Armes de Mêlée au Rang max.",
+      "name": "Forma Umbra",
+      "code": "fr"
+    },
+    {
+      "description": "Forma che può applicare la polarità UMBRA.\n\nQuesto materiale ha proprietà di alterazione della materia ed è fondamentale nella costruzione di oggetti Orokin. Ti permette di aggiungere o cambiare la polarità in UMBRA di uno slot mod su Warframe o Armi Corpo a Corpo riportandoli però al Grado zero. Può essere usato solo su Warframe ed Armi Corpo a Corpo al Grado Massimo.",
+      "name": "Forma Umbra",
+      "code": "it"
+    },
+    {
+      "description": "움브라 극성을 적용할 수 있는 포르마입니다.\n\n오로킨 건설에서 필수적으로 쓰이는 형상변화 합금입니다. 사용 시 워프레임, 동반자 및 무기의 모드 슬롯 극성을 움브라 극성으로 변경시킬 수 있으며 숙련도가 0으로 돌아갑니다. 이 포르마는 최대 랭크인 워프레임 및 근접 무기에만 사용할 수 있습니다.",
+      "name": "움브라 포르마",
+      "code": "ko"
+    },
+    {
+      "description": "Forma que puede aplicar la polaridad UMBRA.\n\nEste componente alteraformas es fundamental para la construcción orokin. Te permite cambiar la polaridad de una ranura de mod en un warframe o arma cuerpo a cuerpo a polaridad UMBRA y después restablece su afinidad a estado sin rango. Solamente se puede utilizar en warframes y armas de nivel máximo.",
+      "name": "Forma Umbra",
+      "code": "es"
+    },
+    {
+      "description": "可以设置 UMBRA 极性的 Forma。\n\n这个非固定形态的零件是 Orokin 时代建筑中不可或缺的基础构件。它可以改变战甲或武器的极性槽至 UMBRA 极性，并将其等级重置为无等级。这项物品只能用于满级的战甲及近战武器。",
+      "name": "Umbra Forma",
+      "code": "zh"
+    },
+    {
+      "description": "Форма, которая может изменять полярность слота модов на Умбра.\n\nЭтот изменяющий форму компонент является фундаментальным для технологий Орокин. Позволяет сменить полярность слота модов на варфрейме или оружии ближнего боя на полярность УМБРА, после чего обнуляет их синтез. Можно использовать только на достигших максимального уровня варфреймах и оружии ближнего боя.",
+      "name": "Форма: Умбра",
+      "code": "ru"
+    },
+    {
+      "description": "UMBRA極性を付与できるフォーマ。\n\nこの形状置換素材はオロキン構造物にとって重要であり、使用することによりWARFRAME、近接武器へUMBRA極性を付与できる。付与後、経験値はランクなしにリセットされる。最大ランクのWARFRAME、近接武器にのみ使用可能である。",
+      "name": "Umbra フォーマ",
+      "code": "ja"
+    },
+    {
+      "description": "Forma zmieniająca polaryzację na UMBRA.\n\nTen zmiennokształtny element jest podstawą konstrukcji Orokin. Pozwala on na zmianę polaryzacji gniazda na mod Warframe'a, Broni lub Towarzysza, jednocześnie resetując rangę do zerowego poziomu. Ten zabieg może być przeprowadzony tylko dla Warframe'a, Broni lub Towarzysza, który osiągnął maksymalną Rangę.",
+      "name": "Forma Umbra",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Forma que pode inserir a polaridade UMBRA.\n\nEste componente metamórfico é fundamental para a construção Orokin. Permite que mude a polaridade de um espaço de Mod em um Warframe, companheiro ou arma, e reinicia a Afinidade do item para 'Sem Classificação'. Este componente somente pode ser usado em Warframes e Armas de Corpo a Corpo de 'Nível Máximo'.",
+      "name": "Forma Umbra",
+      "code": "pt"
+    },
+    {
+      "description": "可以設置 UMBRA 極性的 Forma。\n\n這個非固定型態的零件是 Orokin 時代建築中不可或缺的。可以改變 Warframe 或近戰武器的極性槽至 UMBRA 極性，並將等級重置為無等級。只能使用於滿級的 Warframe 及近戰武器。",
+      "name": "Umbra Forma",
+      "code": "tc"
+    },
+    {
+      "description": "Forma ที่สามารถใช้ได้กับขั้ว UMBRA\n\nส่วนประกอบที่ปรับเปลี่ยนรูปร่างนี้เป็นพื้นฐานของโครงสร้าง Orokin ที่ช่วยให้คุณสามารถเปลี่ยนขั้วของช่อง Mod บน Warframe หรืออาวุธระยะประชิดให้เป็นขั้ว UMBRA ได้ จากนั้นก็จะรีเซ็ตอันดับให้กลับไปเป็นไม่มีอันดับ สามารถใช้ได้กับ Warframe และอาวุธระยะประชิดที่มีอันดับสูงสุดเท่านั้น",
+      "name": "Umbra Forma",
+      "code": "th"
+    },
+    {
+      "description": "UMBRA kutbu uygulayabilen Forma.\n\nBu kutup değiştirici bileşen, Orokin teknolojisine özgü bir üründür. Warframe ve Yakın Dövüş Silahlarındaki mod yuvalarının kutup tiplerini, Umbra kutbu ile değiştirmenizi sağlar ve değişim sonrasında ekipmanların seviyelerini sıfırlayarak tekrardan seviyesiz hale getirir. Sadece son Seviye'ye gelen Warframe ve Yakın Dövüş Silahlarında kullanılabilir.",
+      "name": "Umbra Forma",
+      "code": "tr"
+    },
+    {
+      "description": "Складники, здатні змінювати полярність спорядження, стали основною орокінської інженерії. Ця форма дає змогу додати полярність «Умбра» до комірки модифікаторів у ворфреймі чи холодній зброї максимального рівня. Ця дія скине їхній рівень до початкового.",
+      "name": "Форма-умбра",
+      "code": "uk"
+    }
+  ]
+}

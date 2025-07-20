@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnKuvaLichRifle/GrnKuvaLichRifleWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kuva-chakkhurr-b047965182.png",
+  "name": "Kuva Chakkhurr",
+  "description": "Detonate heads with this slow-firing rifle that rewards precision.",
+  "languages": [
+    {
+      "description": "Bringe mit diesem langsamen Gewehr, das Präzision belohnt, Köpfe zum Explodieren.",
+      "name": "Kuva Chakkhurr",
+      "code": "de"
+    },
+    {
+      "description": "Faites sauter les têtes avec ce Fusil à tir lent qui récompense la précision.",
+      "name": "Chakkhurr Kuva",
+      "code": "fr"
+    },
+    {
+      "description": "Fai esplodere teste con questo fucile a fuoco lento che premia la precisione.",
+      "name": "Kuva Chakkhurr",
+      "code": "it"
+    },
+    {
+      "description": "연사력이 느린 단점을 정확도로 보상하는 이 소총으로 적의 머리를 날려버리세요.",
+      "name": "쿠바 차쿠르",
+      "code": "ko"
+    },
+    {
+      "description": "Detona cabezas con este rifle de tiro lento que premia la precisión.",
+      "name": "Chakkhurr Kuva",
+      "code": "es"
+    },
+    {
+      "description": "（英文：KUVA CHAKKHURR）用这款需要精确瞄准的低射速步枪来打爆敌人的头颅。",
+      "name": "赤毒·邪眼",
+      "code": "zh"
+    },
+    {
+      "description": "Взрывайте головы с этой медленно стреляющей винтовкой, которая поощряет точность.",
+      "name": "Чаккхарр Кува",
+      "code": "ru"
+    },
+    {
+      "description": "この正確な狙いに応える緩射ライフルで敵の頭を吹き飛ばそう。",
+      "name": "Kuva Chakkhurr",
+      "code": "ja"
+    },
+    {
+      "description": "Wysadzaj głowy tym strzelającym powolnie karabinem, który nagradza precyzję.",
+      "name": "Chakkhurr Kuvy",
+      "code": "pl"
+    },
+    {
+      "description": "Exploda os crânios dos inimigos com este rifle lento que recompensa a precisão ao seu usuário.",
+      "name": "Chakkhurr Kuva",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：KUVA CHAKKHURR）使用這把高精準度的慢射速步槍引爆頭部。",
+      "name": "赤毒 查庫爾",
+      "code": "tc"
+    },
+    {
+      "description": "ระเบิดหัวให้กระจุยด้วยปืนไรเฟิลกระบอกนี้ที่แม้จะยิงได้ช้าแต่ก็ยิงได้อย่างแม่นยำ",
+      "name": "Kuva Chakkhurr",
+      "code": "th"
+    },
+    {
+      "description": "Hassasiyeti ödüllendiren bu yavaş-ateşlemeye sahip tüfekle kafaları patlat.",
+      "name": "Kuva Chakkhurr",
+      "code": "tr"
+    },
+    {
+      "description": "Стріляє повільно, але кожне влучання в голову гарантовано зриває її з плечей.",
+      "name": "Чакхур-кува",
+      "code": "uk"
+    }
+  ]
+}

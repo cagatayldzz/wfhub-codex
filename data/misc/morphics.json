@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/morphics-657362f875.png",
+  "name": "Morphics",
+  "description": "An amorphous solid. Possibly Orokin technology.\n\nLocation: Mercury, Mars, Phobos, Europa, and Pluto",
+  "languages": [
+    {
+      "description": "Ein amorpher Feststoff. Möglicherweise Orokin Technologie.\n\nQuelle: Merkur, Mars, Phobos, Europa und Pluto.",
+      "name": "Morphide",
+      "code": "de"
+    },
+    {
+      "description": "Un solide amorphe. Peut-être issu d'une technologie Orokin.\n\nLieu: Mercure, Mars, Phobos, Europe et Pluton",
+      "name": "Morphics",
+      "code": "fr"
+    },
+    {
+      "description": "Un solido amorfo. Forse tecnologia Orokin.\n\nPosizione: Mercurio, Marte, Phobos, Europa e Plutone",
+      "name": "Morfidi",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 기술로 만들어진 것으로 추정되는 무정형의 물체입니다.\n\n획득 가능 장소: 수성, 화성, 포보스, 유로파 및 명왕성",
+      "name": "모르픽스",
+      "code": "ko"
+    },
+    {
+      "description": "Un sólido amorfo. Posiblemente de tecnología orokin.\n\nUbicación: Mercurio, Marte, Fobos, Europa y Plutón",
+      "name": "Mórficos",
+      "code": "es"
+    },
+    {
+      "description": "非晶态的固体。可能是 Orokin 技术。\n\n获取地点：水星，火星，火卫一，欧罗巴和冥王星",
+      "name": "非晶态合金",
+      "code": "zh"
+    },
+    {
+      "description": "Аморфное твёрдое тело, созданное по технологиям Орокин.\n\nМестонахождение: Меркурий, Марс, Фобос, Европа, Плутон",
+      "name": "Морфиды",
+      "code": "ru"
+    },
+    {
+      "description": "非結晶固体の物質。オロキンテクノロジーの一種と見られている。\n\n場所：水星、火星、フォボス、エウロパ、冥王星。",
+      "name": "モーフィクス",
+      "code": "ja"
+    },
+    {
+      "description": "Bezkształtna bryła. Prawdopodobnie technologia Orokin.\n\nPołożenie: Merkury, Mars, Fobos, Europa i Pluton",
+      "name": "Morfyt",
+      "code": "pl"
+    },
+    {
+      "description": "Um sólido amorfo, possivelmente de tecnologia Orokin.\n\nLocalização: Mercúrio, Marte, Fobos, Europa e Plutão.",
+      "name": "Mórficos",
+      "code": "pt"
+    },
+    {
+      "description": "非晶態的固體。可能是 Orokin 技術。\n\n地點：水星、火星、火衛一、歐羅巴和冥王星",
+      "name": "非晶態合金",
+      "code": "tc"
+    },
+    {
+      "description": "ของแข็งไม่มีรูปร่าง อาจเป็นเทคโนโลยีของ Orokin\n\nแหล่งที่พบ: ดาวพุธ ดาวอังคาร ดาวโฟบอส ดาวยูโรปา และดาวพลูโต",
+      "name": "มอร์ฟิกส์",
+      "code": "th"
+    },
+    {
+      "description": "Amorph katmanı, büyük olasılıkla Orokin teknolojisi.\n\nKonum: Merkür, Mars, Phobos, Europa ve Plüton",
+      "name": "Morphics",
+      "code": "tr"
+    },
+    {
+      "description": "Аморфна тверда речовина, імовірно створена з допомогою орокінських технологій.\n\nМожна здобути на Меркурії, Марсі, Фобосі, Європі та Плутоні.",
+      "name": "Морфіди",
+      "code": "uk"
+    }
+  ]
+}

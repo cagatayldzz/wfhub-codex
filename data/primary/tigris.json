@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tigris-1f7521bba5.png",
+  "name": "Tigris",
+  "description": "The double-barreled Tigris shotgun fires two bursts in rapid succession, easily taking down the toughest prey.",
+  "languages": [
+    {
+      "description": "Die doppelläufige Tigris Schrotflinte feuert zwei Ladungen in rascher Folge ab und bringt so selbst die zähste Beute zu Fall.",
+      "name": "Tigris",
+      "code": "de"
+    },
+    {
+      "description": "Le Fusil à Pompe à double canon Tigris tire deux rafales en succession rapide. Capable de mettre à terre la proie la plus coriace.",
+      "name": "Tigris",
+      "code": "fr"
+    },
+    {
+      "description": "Il fucile a pompa a due canne Tigris spara due colpi in rapida successione, abbattendo facilmente anche la più dura delle prede.",
+      "name": "Tigris",
+      "code": "it"
+    },
+    {
+      "description": "티그리스 더블 배럴 산탄총은 두 개의 총열을 이용한 빠른 연사로 강적을 일거에 쓰러뜨릴 수 있습니다.",
+      "name": "티그리스",
+      "code": "ko"
+    },
+    {
+      "description": "La escopeta de doble cañón Tigris dispara dos ráfagas en una sucesión rápida, derribando con facilidad a la presa más dura.",
+      "name": "Tigris",
+      "code": "es"
+    },
+    {
+      "description": "（英文：TIGRIS）猛虎双管霰弹枪能快速连续的双弹齐发，轻松地拿下棘手的猎物。",
+      "name": "猛虎",
+      "code": "zh"
+    },
+    {
+      "description": "Двуствольный дробовик Тигрис стреляет дуплетом, легко уничтожая даже самую крепкую цель.",
+      "name": "Тигрис",
+      "code": "ru"
+    },
+    {
+      "description": "テンノ製の二連装ショットガン。2つのバレルから散弾を連続して発射し、手強い敵も一瞬で仕留めることができる。",
+      "name": "Tigris",
+      "code": "ja"
+    },
+    {
+      "description": "Dwulufowa strzelba Tigris strzela dwoma następującymi po sobie salwami, które z łatwością położą nawet największą ofiarę.",
+      "name": "Tigris",
+      "code": "pl"
+    },
+    {
+      "description": "A escopeta Tigris de cano duplo dispara dois tiros em rápida sucessão, facilmente derrubando as presas mais difíceis.",
+      "name": "Tigris",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：TIGRIS）猛虎雙管霰彈槍能快速連續的雙彈齊發，輕鬆地拿下棘手的獵物。",
+      "name": "猛虎",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนลูกซอง Tigris ที่มีสองลำกล้อง ยิงสองนัดติดต่อกันได้อย่างรวดเร็ว สามารถกำจัดเหยื่อที่แข็งแรงที่สุดได้อย่างง่ายดาย",
+      "name": "Tigris",
+      "code": "th"
+    },
+    {
+      "description": "Çift namlulu Tigris pompalı tüfeğinin seri bir şekilde iki adet mermi fırlatarak en zor düşmanı bile beklediğinizden daha hızlı indirmenizi sağlar.",
+      "name": "Tigris",
+      "code": "tr"
+    },
+    {
+      "description": "Двоствольна рушниця, що легко вкладе найзатятішого ворога. Швидко стріляє чергою з двох пострілів.",
+      "name": "Тигріс",
+      "code": "uk"
+    }
+  ]
+}

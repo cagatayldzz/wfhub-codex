@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/InfestedFoundryArchonShardFeatureItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/helminth-archon-shard-segment-f7abd51562.png",
+  "name": "Helminth Archon Shard Segment",
+  "description": "Allows the Helminth to socket Archon Shards in the current Warframe. Archon Shards permanently enhance various stats.",
+  "languages": [
+    {
+      "description": "Erlaubt es Helminth eine Archon Scherbe in den Warframe einzufügen. Archon Scherben verbessern verschiedene Werte dauerhaft.",
+      "name": "Helminth-Segment: Archon Scherbe",
+      "code": "de"
+    },
+    {
+      "description": "Permet au Helminth d'incruster des Fragments d'Archonte dans la Warframe actuelle. Ces Fragments améliorent de manière permanente diverses statistiques.",
+      "name": "SEGMENT HELMINTH DE FRAGMENTS",
+      "code": "fr"
+    },
+    {
+      "description": "Consente all'Helminth di incastrare i Frammenti Archon nel Warframe equipaggiato. Questi Frammenti migliorano permanentemente varie statistiche.",
+      "name": "SEGMENTO HELMINTH: FRAMMENTI ARCHON",
+      "code": "it"
+    },
+    {
+      "description": "헬민스가 현재 장비한 워프레임에 집정관 샤드를 장착시킬 수 있도록 합니다. 집정관 샤드는 다양한 스탯을 영구적으로 강화시켜 줍니다.",
+      "name": "헬민스 집정관 샤드 장치",
+      "code": "ko"
+    },
+    {
+      "description": "Permite al Helminto incrustar Fragmentos de Arconte en el warframe actual. Los Fragmentos de Arconte mejoran permanentemente varias estadísticas.",
+      "name": "SEGMENTO DE FRAGMENTOS DE ARCONTE DEL HELMINTO",
+      "code": "es"
+    },
+    {
+      "description": "该模块允许 Helminth 将执刑官源力石嵌入当前战甲。执刑官源力石可以永久增强多种属性。",
+      "name": "HELMINTH 执刑官源力石模块",
+      "code": "zh"
+    },
+    {
+      "description": "Позволяет Гельминту вставлять осколки архонта в текущий варфрейм. Осколки архонта навсегда улучшают различные характеристики.",
+      "name": "АРХОНТОВЫЙ СЕГМЕНТ ГЕЛЬМИНТА",
+      "code": "ru"
+    },
+    {
+      "description": "WARFRAMEにアルコンの欠片を組み込めるようになります。アルコンの欠片はWARFRAMEのステータスを永続的に上昇させます。",
+      "name": "HELMINTH アルコンの欠片モジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Pozwala Helminthowi na umieszczenie Okruchów Archona w aktualnym Warframe'ie. Okruchy Archona trwale zwiększają różne statystyki.",
+      "name": "SEGMENT OKRUCHÓW ARCHONA HELMINTHA",
+      "code": "pl"
+    },
+    {
+      "description": "Permite que o Helminte instale Fragmentos de Arcontes em seu Warframe equipado. Os Fragmentos de Arcontes aprimoram permanentemente diversos atributos de um Warframe.",
+      "name": "SEGMENTO DO HELMINTE DE FRAGMENTOS DE ARCONTES",
+      "code": "pt"
+    },
+    {
+      "description": "允許 Helminth 將執政官靈石鑲嵌到當前的 Warframe 。執政官靈石可以永久增強各種統計數值。",
+      "name": "HELMINTH 執政官靈石模組",
+      "code": "tc"
+    },
+    {
+      "description": "ช่วยให้ Helminth สามารถใส่เศษ Archon เข้าไปใน Warframe ตัวปัจจุบันได้ เศษ Archon จะช่วยเพิ่มค่าสถานะต่าง ๆ อย่างถาวร",
+      "name": "เซกเมนต์เศษ ARCHON ของ HELMINTH",
+      "code": "th"
+    },
+    {
+      "description": "Helminth'in mevcut Warframe'e Archon Parçaları yerleştirmesine izin verir. Archon Parçaları, çeşitli istatistikleri kalıcı olarak geliştirir.",
+      "name": "HELMINTH ARCHON PARÇASI SEGMENTİ",
+      "code": "tr"
+    },
+    {
+      "description": "Дозволяє гельмінту вставляти архонтові уламки в поточного ворфрейма. Архонтові уламки поліпшують певні показники.",
+      "name": "МОДУЛЬ АРХОНТОВИХ УЛАМКІВ",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorDuviri",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gabrai-kavat-armor-518f2d51db.png",
+  "name": "Gabrai Kavat Armor",
+  "description": "Sleek armor inspired by the storybook, Tales of Duviri.",
+  "languages": [
+    {
+      "description": "Eine elegante Rüstung, inspiriert vom Märchenbuch 'Geschichten aus Duviri'.",
+      "name": "Kavat-Rüstung: Gabrai",
+      "code": "de"
+    },
+    {
+      "description": "Une armure élégante inspirée des Contes de Duviri.",
+      "name": "Armure de Kavat Gabrai",
+      "code": "fr"
+    },
+    {
+      "description": "Elegante armatura ispirata al libro Leggende di Duviri.",
+      "name": "Armatura Kavat Gabrai",
+      "code": "it"
+    },
+    {
+      "description": "두비리 이야기 동화책에서 모티브를 따 온, 매끄러운 아머입니다.",
+      "name": "가브라이 카밧 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Una elegante armadura inspirada en el libro de los 'Cuentos de Duviri'.",
+      "name": "Armadura Gabrai de kavat",
+      "code": "es"
+    },
+    {
+      "description": "这款时髦护甲的灵感来自于《双衍王境故事集》。",
+      "name": "伽勃利库娃护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Гладкая броня, вдохновлённая «Сказками о Дувири».",
+      "name": "Броня кавата: Габраи",
+      "code": "ru"
+    },
+    {
+      "description": "童話「デュヴィリの伝説」をモチーフにしたツヤのあるアーマー。",
+      "name": "Gabrai キャバットアーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Elegancki pancerz inspirowany baśniami z Opowieści Duviri.",
+      "name": "Kavat: Zbroja Gabrai",
+      "code": "pl"
+    },
+    {
+      "description": "Uma Armadura elegante, inspirada no livro de histórias 'Contos de Duviri'.",
+      "name": "Armadura de Kavat: Gabrai",
+      "code": "pt"
+    },
+    {
+      "description": "靈感來自《渡域故事集》的時髦護甲。",
+      "name": "加布雷庫娃護甲",
+      "code": "tc"
+    },
+    {
+      "description": "เกราะโฉบเฉี่ยวเพรียวบางที่ได้รับแรงบันดาลใจมาจากหนังสือนิทานของ Duviri",
+      "name": "เกราะ Gabrai Kavat",
+      "code": "th"
+    },
+    {
+      "description": "Duviri Masalları'nda anlatılan hikayelerden ilham alan şık bir zırh.",
+      "name": "Gabrai Kavat Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Гладкі обладунки з «Дувірських казок».",
+      "name": "Обладунки «Ґабрай» для кавата",
+      "code": "uk"
+    }
+  ]
+}

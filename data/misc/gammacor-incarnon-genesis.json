@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/GammacorIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gammacor-incarnon-genesis-d780652d4e.png",
+  "name": "Gammacor Incarnon Genesis",
+  "description": "Awaken this weapon's ability to fire projectiles that pull enemies into a <DT_FREEZE_COLOR>Cold Damage explosion in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe, in Incarnon-Form Projektile abzufeuern, die Feinde in eine <DT_FREEZE_COLOR>Kältschaden-Explosion ziehen.",
+      "name": "Incarnon-Genesis: Gammacor",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à tirer des projectiles qui entraînent les ennemis dans une explosion de Dégâts de <DT_FREEZE_COLOR>Glace sous Forme Incarnon.",
+      "name": "Gammacor Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di sparare proiettili che trascinano i nemici in un'esplosione di Danno <DT_FREEZE_COLOR>Ghiaccio nella Forma Incarnon.",
+      "name": "Gammacor Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 <DT_FREEZE_COLOR>냉기 피해 폭발로 적들을 끌어당기는 발사체를 발사할 수 있습니다.",
+      "name": "감마코어 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para disparar proyectiles que atraen a los enemigos hacia una explosión de daño de <DT_FREEZE_COLOR>frío en su forma Incarnon.",
+      "name": "Gammacor Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下发射投射物将敌人拉入 <DT_FREEZE_COLOR>冰冻伤害爆炸中的能力。",
+      "name": "咖玛腕甲枪灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия стрелять снарядами, которые притягивают врагов и вызывают взрыв с <DT_FREEZE_COLOR>холодовым уроном в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Гаммакор",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームは敵を<DT_FREEZE_COLOR>冷気ダメージの爆発に引き込む射出物を撃つ。",
+      "name": "Gammacor インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która wystrzeliwuje pociski, przyciągające wrogów i zadające <DT_FREEZE_COLOR> Obr. od Zimna po wybuchu.",
+      "name": "Geneza Inkarnon: Gammacor",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de disparar projéteis que puxarão os inimigos para uma explosão de Dano <DT_FREEZE_COLOR>Glacial no Aspecto Encarnado.",
+      "name": "Encarnação Gênese da Gammacor",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下發射的投射物將敵人拉入<DT_FREEZE_COLOR>冰凍傷害的爆炸之中。",
+      "name": "咖瑪腕甲槍應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะยิงกระสุนที่จะดึงศัตรูเข้ามาในบริเวณที่เกิดระเบิดธาตุ <DT_FREEZE_COLOR>น้ำแข็ง",
+      "name": "Gammacor Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilindeki atışlarıyla düşmanları <DT_FREEZE_COLOR>Buz Hasarı veren patlamaların içine çeken özelliğini uyandır.",
+      "name": "Gammacor Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє стріляти снарядами, що затягують ворогів у вибух <DT_FREEZE_COLOR>крижаної шкоди.",
+      "name": "Інкарнонський генезис: Гаммакор",
+      "code": "uk"
+    }
+  ]
+}

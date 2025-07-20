@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/Secondary/DualToxocystIncarnonUnlocker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dual-toxocyst-incarnon-genesis-232806645f.png",
+  "name": "Dual Toxocyst Incarnon Genesis",
+  "description": "Awaken this weapon's ability to gain an Auto Fire mode and Ricochet in Incarnon Form.",
+  "languages": [
+    {
+      "description": "Erwecke die Fähigkeit dieser Waffe in Incarnon-Form einen automatischen Feuermodus und Abpraller zu erhalten.",
+      "name": "Incarnon-Genesis: Dual-Toxocyst",
+      "code": "de"
+    },
+    {
+      "description": "Éveillez la capacité de cette arme à obtenir un mode de tir automatique et Ricochet sous Forme Incarnon.",
+      "name": "Doubles Toxocystes Genesis Incarnon",
+      "code": "fr"
+    },
+    {
+      "description": "Risveglia l'abilità di quest'arma di ottenere una modalità Fuoco Automatico e Rimbalzo nella Forma Incarnon.",
+      "name": "Dual Toxocyst Incarnon Genesis",
+      "code": "it"
+    },
+    {
+      "description": "이 무기의 능력을 각성시키면 인카논 형태에서 자동 발사 모드 및 탄 반사율이 추가됩니다.",
+      "name": "듀얼 톡소시스트 인카논 제네시스",
+      "code": "ko"
+    },
+    {
+      "description": "Despierta la capacidad de esta arma para obtener el modo de autodisparo y rebote en su forma Incarnon.",
+      "name": "Toxocysts Dobles Génesis Incarnon",
+      "code": "es"
+    },
+    {
+      "description": "唤醒这个武器在灵化形态下具有自动射击模式和跳弹的能力。",
+      "name": "毒囊双枪灵化之源",
+      "code": "zh"
+    },
+    {
+      "description": "Пробудите способность этого оружия получить режим автоматического огня и рикошет в инкарнонской форме.",
+      "name": "Генезис Инкарнона: Парные Токсоцисты",
+      "code": "ru"
+    },
+    {
+      "description": "この武器のアビリティを解放することで、インカーノン・フォームはオート射撃と跳弾を得る。",
+      "name": "Dual Toxocyst インカーノン・ジェネシス",
+      "code": "ja"
+    },
+    {
+      "description": "Rozbudź formę Inkarnon tej broni, która strzela ogniem automatycznym, a jej pociski Rykoszetują między wrogami.",
+      "name": "Geneza Inkarnon: Toxocyst Podwójny",
+      "code": "pl"
+    },
+    {
+      "description": "Desperte a capacidade desta arma de receber um modo de Disparo Automático e Ricochete no Aspecto Encarnado.",
+      "name": "Encarnação Gênese das Toxocistas Duplas",
+      "code": "pt"
+    },
+    {
+      "description": "喚醒這把武器的能力，在應感形態下獲得自動開火模式及彈跳。",
+      "name": "毒囊雙槍應感創件",
+      "code": "tc"
+    },
+    {
+      "description": "ปลุกความสามารถของอาวุธชิ้นนี้ที่เมื่ออยู่ในรูป Incarnon Form แล้วจะสามารถยิงในโหมดยิงอัตโนมัติและทำให้กระสุนกระดอนออกไป",
+      "name": "Dual Toxocyst Incarnon Genesis",
+      "code": "th"
+    },
+    {
+      "description": "Bu silahın Incarnon Formu dahilinde Tam Otomatik atış ve atışların sekmesini özelliğini uyandır.",
+      "name": "Dual Toxocyst Incarnon Genesis",
+      "code": "tr"
+    },
+    {
+      "description": "Пробудіть інкарнонську форму, яка дозволяє надати пострілам автоматичний режим та рикошет.",
+      "name": "Інкарнонський генезис: Парні Токсоцисти",
+      "code": "uk"
+    }
+  ]
+}

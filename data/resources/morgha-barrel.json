@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/morgha-barrel.png",
+  "name": "Morgha Barrel",
+  "description": "A Necramech weapon-crafting component.",
+  "languages": [
+    {
+      "description": "Eine Komponente für die Herstellung von Necramech-Waffen.",
+      "name": "Morgha: Lauf",
+      "code": "de"
+    },
+    {
+      "description": "Un composant d'arme pour Necramech.",
+      "name": "Morgha - Canon",
+      "code": "fr"
+    },
+    {
+      "description": "Un componente Necramech per la costruzione di un'arma.",
+      "name": "Morgha - Canna",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크 무기 제작 부품입니다.",
+      "name": "모르가 배럴",
+      "code": "ko"
+    },
+    {
+      "description": "Un componente de fabricación de arma de Necramech.",
+      "name": "Cañón de Morgha",
+      "code": "es"
+    },
+    {
+      "description": "一个殁世机甲武器的制作部件。",
+      "name": "置灵者 枪管",
+      "code": "zh"
+    },
+    {
+      "description": "Компонент оружия Некрамеха.",
+      "name": "Морга: Ствол",
+      "code": "ru"
+    },
+    {
+      "description": "ネクロメカの武器作成用の部品。",
+      "name": "Morgha バレル",
+      "code": "ja"
+    },
+    {
+      "description": "Element tworzący broń Nekramecha.",
+      "name": "Morgha: Lufa",
+      "code": "pl"
+    },
+    {
+      "description": "Um componente de fabricação de Armas do Necramech.",
+      "name": "Morgha: Cano",
+      "code": "pt"
+    },
+    {
+      "description": "製作亡骸機甲武器的部件。",
+      "name": "葬棺者 槍管",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบในการสร้างอาวุธ Necramech",
+      "name": "Morgha: ลำกล้องปืน",
+      "code": "th"
+    },
+    {
+      "description": "Bir Necramech silah-üretim bileşeni.",
+      "name": "Morgha Namlu",
+      "code": "tr"
+    },
+    {
+      "description": "Складник зброї некрамеха.",
+      "name": "Морґа: ствол",
+      "code": "uk"
+    }
+  ]
+}

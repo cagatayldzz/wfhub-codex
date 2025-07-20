@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaDeluxeHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ash-koga-helmet-6322da33ed.png",
+  "name": "Ash Koga Helmet",
+  "description": "Ash Koga's signature helmet.",
+  "languages": [
+    {
+      "description": "Ash Kogas bevorzugter Helm.",
+      "name": "Ash-Helm: Koga",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque emblématique d'Ash Koga.",
+      "name": "Casque Ash Koga",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo distintivo di Ash Koga.",
+      "name": "Elmo Ash Koga",
+      "code": "it"
+    },
+    {
+      "description": "애쉬 코가의 대표 헬멧입니다.",
+      "name": "애쉬 코가 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Casco distintivo de Ash Koga.",
+      "name": "Casco Koga de Ash",
+      "code": "es"
+    },
+    {
+      "description": "Ash 甲贺的标志性头盔",
+      "name": "Ash 甲贺头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Особый шлем Эша «Кога».",
+      "name": "Шлем Эша: Кога",
+      "code": "ru"
+    },
+    {
+      "description": "Ash Kogaのメインヘルメット。",
+      "name": "Ash Koga ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm charakterystyczny dla Asha Koga.",
+      "name": "Ash: Hełm Koga",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete tradicional do Ash Koga.",
+      "name": "Ash: Capacete Koga",
+      "code": "pt"
+    },
+    {
+      "description": "Ash 甲賀的標誌性頭盔。",
+      "name": "Ash 甲賀頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กที่เป็นซิกเนเจอร์ของ Ash Koga",
+      "name": "หมวกเหล็ก Ash Koga",
+      "code": "th"
+    },
+    {
+      "description": "Ash Koga'nın özel miğferi.",
+      "name": "Ash Koga Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Визначний шолом «Коґа» для ворфрейма Еша.",
+      "name": "Шолом «Коґа» для Еша",
+      "code": "uk"
+    }
+  ]
+}

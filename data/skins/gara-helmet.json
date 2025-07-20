@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Glass/GlassHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gara-helmet-ffaf6096d8.png",
+  "name": "Gara Helmet",
+  "description": "The standard issue helmet for the Gara Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Gara Warframe.",
+      "name": "Gara-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Gara.",
+      "name": "Casque Gara",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Gara.",
+      "name": "Elmo Gara",
+      "code": "it"
+    },
+    {
+      "description": "가라 워프레임을 위한 기본 헬멧입니다.",
+      "name": "가라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Gara.",
+      "name": "Casco de Gara",
+      "code": "es"
+    },
+    {
+      "description": "Gara 的标准头盔。",
+      "name": "Gara 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Гары.",
+      "name": "Шлем Гары",
+      "code": "ru"
+    },
+    {
+      "description": "Garaの標準型ヘルメット。",
+      "name": "Gara ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Gara.",
+      "name": "Gara: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Gara.",
+      "name": "Gara: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Gara 的標準頭盔。",
+      "name": "Gara 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Gara Warframe",
+      "name": "หมวกเหล็ก Gara",
+      "code": "th"
+    },
+    {
+      "description": "Gara Warframe için standart miğfer.",
+      "name": "Gara Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Ґари.",
+      "name": "Шолом Ґари",
+      "code": "uk"
+    }
+  ]
+}

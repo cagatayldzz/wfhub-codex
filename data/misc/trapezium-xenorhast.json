@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trapezium-xenorhast-a14b3b3c56.png",
+  "name": "Trapezium Xenorhast",
+  "description": "Facets gleam with the un-light of the Void.\n\nBlueprint sold by Otak in the Necralisk on Deimos.",
+  "languages": [
+    {
+      "description": "Facetten schimmern im Unlicht des Voids.\n\nQuelle: Blaupause erhältlich von Otak im Necralisk auf Deimos.",
+      "name": "Trapezoid Xenorhast",
+      "code": "de"
+    },
+    {
+      "description": "Les facettes brillent de la non-lumière du Néant.\n\nSchéma vendu par Otak dans le Necralisk, sur Deimos.",
+      "name": "Xénorhast Trapèze",
+      "code": "fr"
+    },
+    {
+      "description": "Le sfaccettature brillano con la luce oscura del Void.\n\nLo schema è acquistabile da Otak su Necralisk (Deimos).",
+      "name": "Xenorhast Trapezoide",
+      "code": "it"
+    },
+    {
+      "description": "단면이 보이드와도 같은 암흑색으로 빛납니다.\n\n데이모스의 네크랄리스크에 있는 오탁에게서 설계도를 구매할 수 있습니다.",
+      "name": "트라페지움 제노라스트",
+      "code": "ko"
+    },
+    {
+      "description": "Sus facetas brillan con la oscuridad del Vacío.\n\nEl plano lo vende Otak en el Necralisk en Deimos.",
+      "name": "Xenorhast Trapezoidal",
+      "code": "es"
+    },
+    {
+      "description": "表面闪烁着虚空的微光。\n\n火卫二上殁世幽都的奥塔出售的蓝图。",
+      "name": "梯型异源石",
+      "code": "zh"
+    },
+    {
+      "description": "Грани сияют, отражая блики Бездны.\n\nЧертёж можно купить у Отака в Некралиске на Деймосе.",
+      "name": "Трапециевидный ксенохраст",
+      "code": "ru"
+    },
+    {
+      "description": "表面がVoidの光なき輝きできらめく。\n\n設計図の入手場所：ネクロリスク（ダイモス）のOtak。",
+      "name": "トラペジウム・ゼノラスト",
+      "code": "ja"
+    },
+    {
+      "description": "Ścianki jaśnieją nie-światłem Pustki.\n\nSchemat jest dostępny u Otaka w Nekralisku na Deimosie.",
+      "name": "Trapezowy Ksenorast",
+      "code": "pl"
+    },
+    {
+      "description": "Superfície que reluz com a luz inversa do Void.\n\nSeu diagrama pode ser obtido junto ao Otak, no Necralisk, em Deimos.",
+      "name": "Xenorrasta Trapezial",
+      "code": "pt"
+    },
+    {
+      "description": "寶石的琢面發出微微的虛空反光。\n\n來源：藍圖由亡骸殿（火衛二）上的 Otak 販售。",
+      "name": "梯狀異骸石",
+      "code": "tc"
+    },
+    {
+      "description": "เหลี่ยมของพลอยที่ส่องประกายวอยด์ที่ไร้แสง\n\nซื้อพิมพ์เขียวได้ที่ Otak ในเนคราลิสก์ บนดาวเดมอส",
+      "name": "สี่เหลี่ยมคางหมูซีนอราสต์",
+      "code": "th"
+    },
+    {
+      "description": "Her açısında Void'in ışıksız parıltısını taşıyor.\n\nKalıbı Deimos'ta yer alan Necralisk'teki Otak'tan satın alınabilir.",
+      "name": "Trapezium Xenorhast",
+      "code": "tr"
+    },
+    {
+      "description": "Грані цього самоцвіту світяться темрявою Порожнечі.\n\nКресленик можна придбати в Отака в Некраліску (Деймос).",
+      "name": "Трапецієподібний ксенораст",
+      "code": "uk"
+    }
+  ]
+}

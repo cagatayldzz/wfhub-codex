@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilCaviaTagfer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tagfer-sigil-9c8cdf9379.png",
+  "name": "Tagfer Sigil",
+  "description": "A sigil depicting Tagfer.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das Tagfer darstellt.",
+      "name": "Siegel: Tagfer",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau représentant Tagfer.",
+      "name": "Sceau Tagfer",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra Tagfer.",
+      "name": "Sigillo Tagfer",
+      "code": "it"
+    },
+    {
+      "description": "태그퍼가 묘사된 시질입니다.",
+      "name": "태그퍼 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa a Tagfer.",
+      "name": "Sello de Tagfer",
+      "code": "es"
+    },
+    {
+      "description": "一枚描绘着标弃的纹章。",
+      "name": "标弃纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил с изображением Тагфера.",
+      "name": "Сигил: Тагфер",
+      "code": "ru"
+    },
+    {
+      "description": "Tagferを描いたシジル。",
+      "name": "Tagfer シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający Tagfera.",
+      "name": "Znak Tagfera",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o Tagfer.",
+      "name": "Brasão: Tagfer",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪汰廢的紋章。",
+      "name": "汰廢紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึง Tagfer",
+      "name": "เครื่องหมาย: Tagfer",
+      "code": "th"
+    },
+    {
+      "description": "Tagfer'i temsil eden bir mühür.",
+      "name": "Tagfer Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням Таґфера.",
+      "name": "Сиґіл «Таґфер»",
+      "code": "uk"
+    }
+  ]
+}

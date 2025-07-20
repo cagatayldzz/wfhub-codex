@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/AnimationSets/UnairuAnims",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/unairu-animation-set-fab9470cc1.png",
+  "name": "Unairu Animation Set",
+  "description": "The Unairu animation set for your Operator.",
+  "languages": [
+    {
+      "description": "Das Animationsset: Unairu für deinen Operator.",
+      "name": "Animationsset: Unairu",
+      "code": "de"
+    },
+    {
+      "description": "Le Pack d'Animations Unairu pour votre Opérateur.",
+      "name": "Animation Unairu",
+      "code": "fr"
+    },
+    {
+      "description": "Il Set Animazione Unairu per il tuo Operatore.",
+      "name": "Set Animazione Unairu",
+      "code": "it"
+    },
+    {
+      "description": "오퍼레이터가 사용할 유나이루 애니메이션 세트입니다.",
+      "name": "유나이루 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "El conjunto de animaciones Unairu para tu operador.",
+      "name": "Conjunto de animaciones Unairu",
+      "code": "es"
+    },
+    {
+      "description": "指挥官使用的 Unairu 站姿动作。",
+      "name": "Unairu 站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Набор анимаций Унайру для оператора.",
+      "name": "Набор анимаций: Унайру",
+      "code": "ru"
+    },
+    {
+      "description": "オペレーター用のUnairuモーションセット。",
+      "name": "Unairu モーション",
+      "code": "ja"
+    },
+    {
+      "description": "Zestaw animacji Unairu dla Twojego Operatora.",
+      "name": "Zestaw Animacji Unairu",
+      "code": "pl"
+    },
+    {
+      "description": "Conjunto de animações da Unairu para o seu Operador.",
+      "name": "Animações: Unairu",
+      "code": "pt"
+    },
+    {
+      "description": "給指揮官使用的 Unairu 站姿",
+      "name": "Unairu 站姿",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดแอนิเมชัน Unairu สำหรับโอเปอเรเตอร์ของคุณ",
+      "name": "เซตแอนิเมชัน Unairu",
+      "code": "th"
+    },
+    {
+      "description": "Operatörünüz için Unairu Animasyon Seti.",
+      "name": "Unairu Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Набір анімації шляху Унайру для вашого оператора.",
+      "name": "Набір анімації «Унайру»",
+      "code": "uk"
+    }
+  ]
+}

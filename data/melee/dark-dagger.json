@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDagger",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dark-dagger-34cfc06ddf.png",
+  "name": "Dark Dagger",
+  "description": "This short blade weapon forged using dark metals has limited range but comes out fast.",
+  "languages": [
+    {
+      "description": "Diese kurze aus dunklen Metallen geschmiedete Klinge hat zwar nur eine geringe Reichweite, ist jedoch umso schneller.",
+      "name": "Dunkeldolch",
+      "code": "de"
+    },
+    {
+      "description": "Cette petite lame forgée dans des métaux des ténèbres a une Portée limitée, mais se dégaine rapidement.",
+      "name": "Dague Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Quest'arma a lama corta forgiata con metalli scuri ha una portata limitata, ma può essere estratta rapidamente.",
+      "name": "Dark Dagger",
+      "code": "it"
+    },
+    {
+      "description": "어두운 금속으로 만들어진 이 단검은 제한적인 사거리를 지녔지만 재빠르게 휘두를 수 있습니다.",
+      "name": "다크 대거",
+      "code": "ko"
+    },
+    {
+      "description": "Esta hoja corta forjada usando metales oscuros tiene un alcance limitado pero permite ataques veloces.",
+      "name": "Daga Oscura",
+      "code": "es"
+    },
+    {
+      "description": "（英文：DARK DAGGER）这把用黑暗金属锻造的短刃武器，在有限的范围内可以快速出招。",
+      "name": "暗黑匕首",
+      "code": "zh"
+    },
+    {
+      "description": "Этот кинжал с коротким лезвием выкован из темных металлов. Он обладает небольшой дальностью, но зато имеет высокую скорость атаки.",
+      "name": "Тёмный кинжал",
+      "code": "ru"
+    },
+    {
+      "description": "ダークメタルで作られた短剣。攻撃は範囲が狭いが、素早い攻撃を得意とする。",
+      "name": "Dark Dagger",
+      "code": "ja"
+    },
+    {
+      "description": "Ta Broń biała krótka została wykonana z ciemnych metali. Ma ograniczony zasięg, ale błyskawicznie się ją dobywa.",
+      "name": "Mroczny Sztylet",
+      "code": "pl"
+    },
+    {
+      "description": "Essa pequena lâmina foi forjada com metais negros, possui um alcance pequeno porém um ataque rápido.",
+      "name": "Adaga Soturna",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：DARK DAGGER）這把用黑暗物質鍛造的短刃武器，在有限的範圍內可以快速出招。",
+      "name": "暗黑匕首",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธมีดสั้นเล่มนี้หลอมขึ้นมาจากโลหะสีเข้ม มีระยะการโจมตีที่จำกัดแต่ดึงออกมาใช้ได้เร็วมาก",
+      "name": "Dark Dagger",
+      "code": "th"
+    },
+    {
+      "description": "Ağır metaller kullanılarak dövme usulü yapılan bu bıçağın menzili kısıtlıdır ancak hızla kendisini gösterir",
+      "name": "Dark Dagger",
+      "code": "tr"
+    },
+    {
+      "description": "Кинджал із коротким клинком, викуваним із темних металів. Невелика дальність атаки компенсується швидкістю використання.",
+      "name": "Темний кинджал",
+      "code": "uk"
+    }
+  ]
+}

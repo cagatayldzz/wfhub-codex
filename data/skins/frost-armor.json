@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/FrostArmArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/frost-armor-4a5a0218e3.png",
+  "name": "Frost Armor",
+  "description": "Default armor set for the Frost Warframe.",
+  "languages": [
+    {
+      "description": "Standardrüstung für den Frost Warframe.",
+      "name": "Frost-Rüstung",
+      "code": "de"
+    },
+    {
+      "description": "L'Armure par défaut de la Warframe Frost.",
+      "name": "Armure Frost",
+      "code": "fr"
+    },
+    {
+      "description": "Armatura standard per il Warframe Frost.",
+      "name": "Armatura Frost",
+      "code": "it"
+    },
+    {
+      "description": "프로스트를 위한 기본 아머 세트입니다.",
+      "name": "프로스트 아머",
+      "code": "ko"
+    },
+    {
+      "description": "Armadura predeterminada para el warframe Frost.",
+      "name": "Armadura de Frost",
+      "code": "es"
+    },
+    {
+      "description": "Frost 的基础护甲。",
+      "name": "Frost 护甲",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный набор брони для Фроста.",
+      "name": "Броня Фроста",
+      "code": "ru"
+    },
+    {
+      "description": "Frost 用初期設定アーマーセット。",
+      "name": "Frost アーマー",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy zestaw pancerza dla Warframe'a Frost.",
+      "name": "Pancerz Frost",
+      "code": "pl"
+    },
+    {
+      "description": "Conjunto da Armadura padrão para o Warframe Frost.",
+      "name": "Ombros: Armadura Frost",
+      "code": "pt"
+    },
+    {
+      "description": "Frost 基礎裝甲",
+      "name": "Frost 裝甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดเกราะเริ่มต้นสำหรับ Frost Warframe",
+      "name": "เกราะ Frost",
+      "code": "th"
+    },
+    {
+      "description": "Frost Warframe için varsayılan zırh seti.",
+      "name": "Frost Zırhı",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний обладунок для ворфрейма Фроста.",
+      "name": "Стандартний обладунок",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusVoidBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arid-fear-emblem-c01bdcf4d8.png",
+  "name": "Arid Fear Emblem",
+  "description": "An insignia awarded to the Tenno who proved themselves during Arid Fear event.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen, verliehen an Tenno, die sich während des Nackte-Angst-Events bewiesen haben.",
+      "name": "Emblem: Nackte Angst",
+      "code": "de"
+    },
+    {
+      "description": "Un insigne décerné aux Tennos qui ont fait leurs preuves durant l'événement Menace Aride.",
+      "name": "Badge Menace Aride",
+      "code": "fr"
+    },
+    {
+      "description": "Una medaglia data come ricompensa ai Tenno che si sono fatti valere durante l'evento Arid Fear.",
+      "name": "Emblema Arid Fear",
+      "code": "it"
+    },
+    {
+      "description": "애리드 피어 이벤트에서 자신을 증명한 텐노에게 수여하는 배지입니다.",
+      "name": "애리드 피어 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia otorgada a los tenno que probaron su valía durante el evento Miedo árido.",
+      "name": "Emblema Miedo Árido",
+      "code": "es"
+    },
+    {
+      "description": "颁发给在沙漠恐惧事件中证明自己的 Tenno。",
+      "name": "沙漠恐惧徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак отличия, которым были награждены Тэнно, проявившие себя во время операции «Пустынный Страх»",
+      "name": "Значок: Пустынный страх",
+      "code": "ru"
+    },
+    {
+      "description": "ARID-FEAR作戦にて己の力を証明したテンノに授与された記章。",
+      "name": "アリッド・フィアー エンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia nadawane Tenno, którzy dowiedli swej wartości w czasie Operacji: Naga Zgroza.",
+      "name": "Emblemat: Naga Zgroza",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia premiada aos Tennos que provaram a si próprios durante o evento Medo Árido.",
+      "name": "Emblema: Medo Árido",
+      "code": "pt"
+    },
+    {
+      "description": "頒發給在沙漠恐懼事件中證明自己的 Tenno。",
+      "name": "沙漠恐懼徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตรานี้เป็นรางวัลที่มอบให้แก่ Tenno ผู้พิสูจน์ตนเองในอีเวนต์ Arid Fear",
+      "name": "ตราสัญลักษณ์: Arid Fear",
+      "code": "th"
+    },
+    {
+      "description": "Arid Fear etkinliğinde kendilerini kanıtlamış Tenno'lar için ödül olarak verilen semboller",
+      "name": "Arid Fear Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака, якою нагороджуються тенно, що проявили себе під час події «Пустельний страх».",
+      "name": "Відзнака «Пустельний страх»",
+      "code": "uk"
+    }
+  ]
+}

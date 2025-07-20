@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerGammaItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gamma-c802f741ed.png",
+  "name": "Gamma",
+  "description": "A desaturated variation of the Classic color set.",
+  "languages": [
+    {
+      "description": "Eine entsättigte Variation der Classic Farbpalette.",
+      "name": "Gamma",
+      "code": "de"
+    },
+    {
+      "description": "Une variation désaturée de la Palette de couleurs Classique.",
+      "name": "Gamma",
+      "code": "fr"
+    },
+    {
+      "description": "Una variazione desaturata del classico set di colori.",
+      "name": "Gamma",
+      "code": "it"
+    },
+    {
+      "description": "채도가 낮게 조정된 클래식 팔레트입니다.",
+      "name": "감마",
+      "code": "ko"
+    },
+    {
+      "description": "Una variación desaturada del conjunto clásico de colores.",
+      "name": "Gamma",
+      "code": "es"
+    },
+    {
+      "description": "经典颜色组合的褪色版本。",
+      "name": "Gamma",
+      "code": "zh"
+    },
+    {
+      "description": "Ненасыщенная версия классического набора цветов.",
+      "name": "Гамма",
+      "code": "ru"
+    },
+    {
+      "description": "クラシックカラーの彩度を減じたカラーパレット",
+      "name": "Gamma",
+      "code": "ja"
+    },
+    {
+      "description": "Nasycona odmiana Klasycznej palety kolorów.",
+      "name": "Gamma",
+      "code": "pl"
+    },
+    {
+      "description": "Uma variação desaturada do conjunto de cores Clássicas.",
+      "name": "Gamma",
+      "code": "pt"
+    },
+    {
+      "description": "經典顏色組合的褪色版本。",
+      "name": "伽瑪",
+      "code": "tc"
+    },
+    {
+      "description": "รูปแบบของชุดสีคลาสสิกที่ไม่อิ่มตัว",
+      "name": "Gamma",
+      "code": "th"
+    },
+    {
+      "description": "Klasik renk paletinin dolgun renklerle oluşturulmuş seti",
+      "name": "Gamma",
+      "code": "tr"
+    },
+    {
+      "description": "Ненасичені кольори «класичної» палітри.",
+      "name": "Гамма",
+      "code": "uk"
+    }
+  ]
+}

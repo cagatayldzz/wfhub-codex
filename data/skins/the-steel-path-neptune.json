@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyNeptuneBronze",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-steel-path---neptune-1d5519df5b.png",
+  "name": "The Steel Path - Neptune",
+  "description": "A signifier of walking The Steel Path on Neptune",
+  "languages": [
+    {
+      "description": "Ein Symbol, dass du den Stählernen Pfad auf Neptun beschritten hast",
+      "name": "Der Stählerne Pfad: Neptun",
+      "code": "de"
+    },
+    {
+      "description": "Un symbole pour avoir parcouru La Route de l'Acier sur Neptune",
+      "name": "La Route de l'Acier - Neptune",
+      "code": "fr"
+    },
+    {
+      "description": "Un simbolo del tuo passaggio attraverso Il Percorso d'Acciaio su Nettuno",
+      "name": "Il Percorso d'Acciaio - Nettuno",
+      "code": "it"
+    },
+    {
+      "description": "해왕성에서 강철의 길을 걸은 이들의 증표입니다.",
+      "name": "강철의 길 - 해왕성",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo por haber recorrido El Camino de Acero en Neptuno",
+      "name": "El Camino de Acero - Neptuno",
+      "code": "es"
+    },
+    {
+      "description": "踏上了海王星钢铁之路的象征。",
+      "name": "钢铁之路 — 海王星",
+      "code": "zh"
+    },
+    {
+      "description": "Символ прохождения Стального Пути на Нептуне",
+      "name": "Стальной Путь: Нептун",
+      "code": "ru"
+    },
+    {
+      "description": "「鋼の道のり：海王星」を歩んだ証",
+      "name": "鋼の道のり：海王星",
+      "code": "ja"
+    },
+    {
+      "description": "Element oznaczający kroczenie Ścieżką Stali na Neptunie",
+      "name": "Ścieżka Stali — Neptun",
+      "code": "pl"
+    },
+    {
+      "description": "Um símbolo da conclusão do Percurso de Aço em Netuno",
+      "name": "O Percurso de Aço - Netuno",
+      "code": "pt"
+    },
+    {
+      "description": "長征海王星上鋼韌之道的象徵物",
+      "name": "鋼韌之道－海王星",
+      "code": "tc"
+    },
+    {
+      "description": "สัญลักษณ์ที่บ่งบอกถึงการเดินทางบนเส้นทางเหล็กกล้าบนดาวเนปจูน",
+      "name": "เส้นทางเหล็กกล้า - ดาวเนปจูน",
+      "code": "th"
+    },
+    {
+      "description": "Steel Path'i Neptün'de tamamlayanlar için bir simge",
+      "name": "Steel Path - Neptün",
+      "code": "tr"
+    },
+    {
+      "description": "Трофей за подолання «Шляху сталі» на Нептуні.",
+      "name": "Шлях сталі: Нептун",
+      "code": "uk"
+    }
+  ]
+}

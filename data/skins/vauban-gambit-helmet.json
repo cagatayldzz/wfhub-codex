@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltBStatless",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vauban-gambit-helmet-10b1c7740b.png",
+  "name": "Vauban Gambit Helmet",
+  "description": "Gambit Helmet for the Vauban Warframe.",
+  "languages": [
+    {
+      "description": "Gambit Helm für den Vauban Warframe.",
+      "name": "Vauban-Helm: Gambit",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque Gambit pour la Warframe Vauban.",
+      "name": "Casque Vauban Gambit",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo Gambit per il Warframe Vauban.",
+      "name": "Elmo Vauban Gambit",
+      "code": "it"
+    },
+    {
+      "description": "바우반 워프레임의 갬빗 헬멧입니다.",
+      "name": "바우반 갬빗 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco Gambit para el warframe Vauban.",
+      "name": "Casco Gambit de Vauban",
+      "code": "es"
+    },
+    {
+      "description": "Vauban 战甲的策略头盔。",
+      "name": "Vauban 策略头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем «Гамбит» для Вобана.",
+      "name": "Шлем Вобана: Гамбит",
+      "code": "ru"
+    },
+    {
+      "description": "VaubanのGambitヘルメット。",
+      "name": "Vauban Gambit ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm Gambit dla Warframe'a Vauban.",
+      "name": "Vauban: Hełm Gambit",
+      "code": "pl"
+    },
+    {
+      "description": "Capacete Gambit para o Warframe Vauban.",
+      "name": "Vauban: Capacete Gambit",
+      "code": "pt"
+    },
+    {
+      "description": "Vauban 戰甲的策略頭盔。",
+      "name": "Vauban 策略頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็ก Gambit สำหรับ Vauban Warframe",
+      "name": "หมวกเหล็ก Vauban Gambit",
+      "code": "th"
+    },
+    {
+      "description": "Vauban Warframe'i için Gambit miğferi",
+      "name": "Vauban Gambit Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом «Гамбіт» для ворфрейма Вобана.",
+      "name": "Шолом «Гамбіт» для Вобана",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/gradivus-sacrifice-emblem-350ab9c53a.png",
+  "name": "Gradivus: Sacrifice Emblem",
+  "description": "An insignia marking Tenno who aligned with the Corpus during the Gradivus Dilemma.",
+  "languages": [
+    {
+      "description": "Ein Abzeichen für jene Tenno, die sich während des Gradivus-Dilemmas mit den Corpus verbündet haben.",
+      "name": "Emblem: Gradivus - Opfer",
+      "code": "de"
+    },
+    {
+      "description": "Un badge honorifique indiquant les Tennos ayant participé avec les Corpus au Dilemme Gradivus.",
+      "name": "Gradivus: Badge de Sacrifice",
+      "code": "fr"
+    },
+    {
+      "description": "Uno stemma per i Tenno schierati con i Corpus durante il Gradivus Dilemma.",
+      "name": "Gradivus: Emblema Sacrificio",
+      "code": "it"
+    },
+    {
+      "description": "더 그라디부스 딜레마 캠페인중 코퍼스를 지원한 텐노에게 주어지는 메달입니다.",
+      "name": "그라디부스: 새크리파이스 엠블럼",
+      "code": "ko"
+    },
+    {
+      "description": "Una insignia para los tenno que se aliaron con el Corpus durante el Dilema de Gradivus.",
+      "name": "Gradivus: Emblema de Sacrificio",
+      "code": "es"
+    },
+    {
+      "description": "该徽章代表 Tenno 与 Corpus 在荧惑困境中一同作战。",
+      "name": "荧惑：牺牲徽章",
+      "code": "zh"
+    },
+    {
+      "description": "Знак, обозначающий Тэнно, принявших сторону Корпуса в Дилемме Градивуса.",
+      "name": "Значок: Дилемма Градивуса - Жертва",
+      "code": "ru"
+    },
+    {
+      "description": "グラディウスの窮地にてコーパスに協力したテンノに贈られる勲章。",
+      "name": "グラディウスの窮地：犠牲のエンブレム",
+      "code": "ja"
+    },
+    {
+      "description": "Insygnia odznaczające Tenno, którzy sprzymierzyli się z Corpus w czasie Dylematu Gradivus.",
+      "name": "Gradivus: Emblemat Poświęcenia",
+      "code": "pl"
+    },
+    {
+      "description": "Uma insígnia marcando os Tennos que se aliaram aos Corpus durante o Dilema de Gradivus.",
+      "name": "Emblema: Sacrifício de Gradivus",
+      "code": "pt"
+    },
+    {
+      "description": "該徽章代表 Tenno 與 Corpus 在熒惑困境中一同作戰。",
+      "name": "熒惑：犧牲徽章",
+      "code": "tc"
+    },
+    {
+      "description": "เหรียญตราที่แสดงถึง Tenno ที่อยู่ข้างเดียวกับ Corpus ในช่วงภาวะยุ่งยากใจใน Gradivus",
+      "name": "Gradivus: ตราสัญลักษณ์แห่งการเสียสละ",
+      "code": "th"
+    },
+    {
+      "description": "Gradivus İkilemi sırasında Tenno'nun Corpus'lara yardım ettiğini gösteren işaret.",
+      "name": "Gradivus: Fedakarlık Amblemi",
+      "code": "tr"
+    },
+    {
+      "description": "Цією відзнакою нагороджуються тенно, які обрали сторону Корпусу в операції «Дилема Ґрадіва».",
+      "name": "Відзнака «Ґрадів: жертовність»",
+      "code": "uk"
+    }
+  ]
+}

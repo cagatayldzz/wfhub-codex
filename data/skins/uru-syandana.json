@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/RazorScarf",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/uru-syandana-999320a9bf.png",
+  "name": "Uru Syandana",
+  "description": "The Syandana is a traditional Tenno garment. This variation was often worn during the Tenno Absolution Ceremony.",
+  "languages": [
+    {
+      "description": "Das Syandana ist ein traditionelles Gewand der Tenno. Diese Variation wurde oft während Tenno Zeremonien getragen.",
+      "name": "Uru Syandana",
+      "code": "de"
+    },
+    {
+      "description": "La Syandana est un vêtement Tenno traditionnel. Cette variation a souvent été portée lors des cérémonies Tennos.",
+      "name": "Syandana Uru",
+      "code": "fr"
+    },
+    {
+      "description": "La Syandana è un tradizionale indumento Tenno. Questa variazione è stata spesso indossato durante le cerimonie Tenno.",
+      "name": "Syandana Uru",
+      "code": "it"
+    },
+    {
+      "description": "샨다나는 텐노의 전통 의복으로, 그 중 이 종류의 샨다나는 텐노들의 사면 의식에서 주로 착용되었습니다.",
+      "name": "우루 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La syandana es una prenda tradicional de los tenno. Esta variación se usaba a menudo en las ceremonias tenno.",
+      "name": "Syandana Uru",
+      "code": "es"
+    },
+    {
+      "description": "这件披饰是一种传统的 Tenno 服装，通常只有在 Tenno 的仪式上才会穿戴。",
+      "name": "乌鲁披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Эта сандана - традиционное украшение Тэнно. Этот вариант обычно носили во время церемоний.",
+      "name": "Сандана: Уру",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの伝統的な衣装。テンノが式典に出席する際にまとっていた。",
+      "name": "Uru シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Syandana to tradycyjny strój Tenno. Ten wariant był często noszony w czasie Ceremonii Rozgrzeszenia Tenno.",
+      "name": "Syandana Uru",
+      "code": "pl"
+    },
+    {
+      "description": "A Syandana é um traje Tenno tradicional. Esta variação costumava ser usada na Cerimônia de Absolvição dos Tennos.",
+      "name": "Syandana: Uru",
+      "code": "pt"
+    },
+    {
+      "description": "這件披飾是一種傳統的 Tenno 服裝，通常只有在 Tenno 的儀式上才會穿戴。",
+      "name": "烏魯披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่เป็นเครื่องแต่งกายของ Tenno ตามประเพณี ซึ่ง Tenno มักสวมใส่ในระหว่างพิธีอภัยโทษ",
+      "name": "ไซอันดานา Uru",
+      "code": "th"
+    },
+    {
+      "description": "Syandana, Tenno seremonilerinde giyilen geleneksel bir kıyafettir.",
+      "name": "Uru Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Традиційний елемент убрання тенно. Цей різновид сяндани досить часто можна було побачити під час церемонії тенно під назвою «Прощення».",
+      "name": "Сяндана «Уру»",
+      "code": "uk"
+    }
+  ]
+}

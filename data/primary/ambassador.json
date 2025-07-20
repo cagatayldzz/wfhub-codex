@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ambassador-0ff82bef8f.png",
+  "name": "Ambassador",
+  "description": "Bring negotiations to an instant conclusion with this Corpus assault rifle. Switch effortlessly between charged explosive shots and rapid-fire electrical assault mode.",
+  "languages": [
+    {
+      "description": "Bringe Verhandlungen mit diesem Corpus Sturmgewehr zu einem sofortigen Abschluss. Wechsel mühelos zwischen aufgeladenen, explosiven Schüssen und elektrischem Schnellfeuer-Sturmangriffsmodus.",
+      "name": "Ambassador",
+      "code": "de"
+    },
+    {
+      "description": "Les réceptions de l'Ambassadeur sont toujours un succès grâce à ce fusil d'assaut Corpus. Passez sans efforts de tirs chargés explosifs à un mode d'assaut électrique à cadence rapide.",
+      "name": "Ambassadeur",
+      "code": "fr"
+    },
+    {
+      "description": "Porta le trattative ad una conclusione immediata con questo fucile d'assalto Corpus. Intercambia tra colpi esplosivi caricati e la modalità d'assalto elettrica a fuoco rapido.",
+      "name": "Ambassador",
+      "code": "it"
+    },
+    {
+      "description": "이 코퍼스 돌격 소총으로 눈 깜짝할 새에 협상을 마무리 지어 보세요. 폭발하는 충전형 폭발 발사 모드와 빠른 속도로 연사하는 전기탄 돌격 모드 사이를 손쉽게 전환할 수 있습니다.",
+      "name": "앰배서더",
+      "code": "ko"
+    },
+    {
+      "description": "Concluye las negociaciones al instante con este rifle de asalto corpus. Cambia fácilmente entre disparos cargados explosivos y el modo de asalto eléctrico de disparo rápido.",
+      "name": "Ambassador",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AMBASSADOR）使用这支 Corpus 突击步枪让谈判立即结束。可以在充能爆炸狙击和速射电子突击模式之间自由切换。",
+      "name": "使节",
+      "code": "zh"
+    },
+    {
+      "description": "Эффективно завершайте переговоры с врагами с помощью этой штурмовой винтовки Корпуса. Легко переключайтесь между взрывным режимом и скорострельным электрическим штурмовым режимом.",
+      "name": "Амбассадор",
+      "code": "ru"
+    },
+    {
+      "description": "どんな交渉でもこのコーパス製アサルトライフルで決着をつけよう。高速連射モードからチャージモードに難なく切り替えられる。",
+      "name": "Ambassador",
+      "code": "ja"
+    },
+    {
+      "description": "Natychmiast doprowadź negocjacje do końca dzięki temu karabinowi szturmowemu Corpus. Dowolnie przełączaj się między wybuchowymi strzałami a szybkostrzelnym, elektrycznym trybem szturmowym.",
+      "name": "Ambassador",
+      "code": "pl"
+    },
+    {
+      "description": "Faça as ações despencarem com este rifle de assalto Corpus. Alterne livremente entre disparos carregados explosivos ou disparos elétricos de alta cadência de tiro.",
+      "name": "Ambassador",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AMBASSADOR）透過這個 Corpus 突擊步槍來讓談判立即終結。可以在充能爆炸及速射帶電突擊模式之間輕鬆切換。",
+      "name": "大使",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนไรเฟิลจู่โจมของ Corpus กระบอกนี้จะทำให้การเจรจาได้ข้อสรุปในทันที คุณสามารถสลับโหมดยิงได้ง่าย ๆ ระหว่างการยิงกระสุนระเบิดแบบชาร์จกับโหมดยิงจู่โจมด้วยไฟฟ้าอย่างรวดเร็ว",
+      "name": "Ambassador",
+      "code": "th"
+    },
+    {
+      "description": "Bu Corpus saldırı tüfeğiyle müzakereleri anında sonuca bağla. Patlayıcı yüklü atışları ve elektrikli seri-ateş saldırı modu arasında rahatça geçiş yap.",
+      "name": "Ambassador",
+      "code": "tr"
+    },
+    {
+      "description": "Автоматична гвинтівка Корпусу, з якою будь-які перемовини завершуються дуже швидко. Має два режими атаки: вибухові постріли й швидкострільні електричні черги.",
+      "name": "Посол",
+      "code": "uk"
+    }
+  ]
+}

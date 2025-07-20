@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nav-coordinate-f5c8684cfb.png",
+  "name": "Nav Coordinate",
+  "description": "Coordinate used to locate lost ships.\n\nLocation: Dropped from Storage Containers",
+  "languages": [
+    {
+      "description": "Koordinaten, die zum Lokalisieren verlorener Schiffe genutzt werden.\n\nQuelle: Kann von Lagercontainern erlangt werden.",
+      "name": "Nav-Koordinaten",
+      "code": "de"
+    },
+    {
+      "description": "Coordonnées utilisées pour localiser les vaisseaux abandonnés.\n\nLieu: Dans les conteneurs de stockage",
+      "name": "Coord. Nav",
+      "code": "fr"
+    },
+    {
+      "description": "Coordinate utilizzate per individuare navi perdute.\n\nPuò essere acquisito dai Contenitori",
+      "name": "Coordinate Nav",
+      "code": "it"
+    },
+    {
+      "description": "잃어버린 함선을 찾기 위해 사용되었던 좌표입니다.\n\n획득 가능 장소: 저장고에서 획득할 수 있습니다",
+      "name": "내비 코디네이트",
+      "code": "ko"
+    },
+    {
+      "description": "Coordenadas utilizadas para localizar naves perdidas.\n\nUbicación: Se encuentran en contenedores de almacenamiento",
+      "name": "Coordenadas de navegación",
+      "code": "es"
+    },
+    {
+      "description": "用来找到失踪飞船的坐标。\n\n获取地点：可在储存容器中获得",
+      "name": "导航坐标",
+      "code": "zh"
+    },
+    {
+      "description": "Координата используется для обнаружения потерянных кораблей.\n\nМестонахождение: контейнеры и ящики.",
+      "name": "Навигационная координата",
+      "code": "ru"
+    },
+    {
+      "description": "失われた古代船を見つけるための座標データ。\n\n場所：保管コンテナ。",
+      "name": "ナビ座標",
+      "code": "ja"
+    },
+    {
+      "description": "Współrzędne używane do odnajdywania zaginionych statków.\n\nPołożenie: Można je znaleźć w pojemnikach",
+      "name": "Współrzędne nawigacyjne",
+      "code": "pl"
+    },
+    {
+      "description": "Coordenadas utilizadas para localizar naves perdidas.\n\nLocalização: em Contêineres de Recursos.",
+      "name": "Coordenadas de Navegação",
+      "code": "pt"
+    },
+    {
+      "description": "用來定位失落船艦的座標。\n\n地點：可於儲藏箱中尋獲",
+      "name": "導航座標",
+      "code": "tc"
+    },
+    {
+      "description": "พิกัดที่ใช้ในการหาตำแหน่งยานที่สูญหาย\n\nแหล่งที่พบ: กล่องเก็บของ",
+      "name": "พิกัดการนำทาง",
+      "code": "th"
+    },
+    {
+      "description": "Kayıp gemileri bulmak için kullanılan Koordinatlar.\n\nKonum: Dolaplardan ve Konteynırlardan bulunabilir",
+      "name": "Nav Koordinatı",
+      "code": "tr"
+    },
+    {
+      "description": "Координати, необхідні для виявлення розташування загублених зорельотів.\n\nМожна знайти в контейнерах.",
+      "name": "Навкоордината",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Priest/UnlockPriestAgile",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/harrow-agile-animation-set-cc6d86223d.png",
+  "name": "Harrow Agile Animation Set",
+  "description": "This item lets you use Harrow's agile animation set with any Warframe of your choosing.",
+  "languages": [
+    {
+      "description": "Dieser Gegenstand erlaubt es dir, Harrows agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+      "name": "Harrow-Animationsset: Agil",
+      "code": "de"
+    },
+    {
+      "description": "Cet article vous laisse utiliser les Animations Agiles de Harrow avec n'importe quelle autre Warframe.",
+      "name": "Animation Harrow Agile",
+      "code": "fr"
+    },
+    {
+      "description": "Questo oggetto ti permette di utilizzare le animazioni agili di Harrow con qualsiasi Warframe.",
+      "name": "Set Animazione Agile Harrow",
+      "code": "it"
+    },
+    {
+      "description": "이 아이템 해로우의 애자일 애니메이션을 모든 워프레임에게 사용할 수 있도록 만듭니다.",
+      "name": "해로우 애자일 애니메이션 세트",
+      "code": "ko"
+    },
+    {
+      "description": "Este artículo te permite usar el conjunto de animaciones ágiles de Harrow con cualquier warframe de tu elección.",
+      "name": "Conjunto de animaciones ágiles de Harrow",
+      "code": "es"
+    },
+    {
+      "description": "能让任意战甲使用 Harrow 的迅捷站姿。",
+      "name": "Harrow 迅捷站姿",
+      "code": "zh"
+    },
+    {
+      "description": "Этот предмет позволит вам использовать набор проворных анимаций Харроу на любом другом варфрейме.",
+      "name": "Набор анимаций Харроу: Проворный",
+      "code": "ru"
+    },
+    {
+      "description": "Harrowのアジャイルモーションを選択中のWARFRAMEにセットすることができます。",
+      "name": "Harrow アジャイルモーション",
+      "code": "ja"
+    },
+    {
+      "description": "Ten przedmiot pozwala Ci używać zestawu zwinnych animacji Harrowa w każdym innym Warframe'ie.",
+      "name": "Animacje Harrowa: Zwinne",
+      "code": "pl"
+    },
+    {
+      "description": "Este item permite usar as animações ágeis do Harrow em qualquer Warframe de sua escolha.",
+      "name": "Animações: Harrow (Ágil)",
+      "code": "pt"
+    },
+    {
+      "description": "這個物品能讓你選用的任何 Warframe 使用 Harrow 的迅捷站姿。",
+      "name": "Harrow 迅捷站姿",
+      "code": "tc"
+    },
+    {
+      "description": "คุณสามารถใช้ไอเทมในชุดแอนิเมชันที่ดูคล่องแคล่วของ Harrow ชุดนี้กับ Warframe ตัวใดก็ได้",
+      "name": "ชุดแอนิเมชันที่คล่องแคล่วของ Harrow",
+      "code": "th"
+    },
+    {
+      "description": "Bu eşya, seçilen herhangi bir Warframe'de, Harrow'un agile animasyon setinin kullanımına izin verir.",
+      "name": "Harrow Agile Animasyon Seti",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте набір жвавої анімації Гарроу до будь-якого ворфрейма.",
+      "name": "Гарроу: набір жвавої анімації",
+      "code": "uk"
+    }
+  ]
+}

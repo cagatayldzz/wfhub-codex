@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/damaged-necramech-pod.png",
+  "name": "Damaged Necramech Pod",
+  "description": "A modular component for a Necramech. It’s damaged and in need of repair.\n\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+  "languages": [
+    {
+      "description": "Eine modulare Komponente für einen Necramech. Beschädigt und bedarf einer Reparatur.\n\nQuelle: Von feindlichen Necramechs in Isolationsgewölben, von Aufträgen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+      "name": "Necramech: Beschädigte Hülse",
+      "code": "de"
+    },
+    {
+      "description": "Un composant modulaire pour Necramech. Il est endommagé et il a besoin de réparation.\n\nLieu: Necramechs ennemis trouvés dans les Mises à Prix des Salles d'Isolement du Puy de Cambion (Deimos) et achat auprès de Loid dans le Necralisk (Deimos) après avoir terminé la Quête La Guerre Intérieure",
+      "name": "Nacelle de Necramech Endommagée",
+      "code": "fr"
+    },
+    {
+      "description": "Un componente modulare per un Necramech. È danneggiato e necessita di riparazioni.\n\nPosizione: Necramech Nemici trovati nelle Taglie Vault d'Isolamento sul Cambion Drift (Deimos), e acquistati da Loid nel Necralisk (Deimos) dopo aver completato la quest La Guerra Interna",
+      "name": "Capsula Necramech Danneggiata",
+      "code": "it"
+    },
+    {
+      "description": "네크라메크의 모듈형 부품입니다. 손상되어 수리가 필요합니다.\n\n획득 가능 장소: 캠비온 퇴적지 (데이모스) 의 격리 금고 의뢰에서 발견되는 적 네크라메크에게서 드롭되거나, 혹은 내면의 전쟁 퀘스트를 완료한 후 네크랄리스크 (데이모스) 에 있는 로이드에게서 구매할 수 있습니다.",
+      "name": "손상된 네크라메크 포드",
+      "code": "ko"
+    },
+    {
+      "description": "Un componente modular para un Necramech. Está dañado y necesita reparación.\n\nUbicación: Necramechs enemigos encontrados en los contratos de la bóveda de aislamiento de Deriva Cambion (Deimos) y a la venta con Loid en el Necralisk (Deimos) después de completar la aventura de «La Guerra Interna»",
+      "name": "Cápsula de Necramech dañada",
+      "code": "es"
+    },
+    {
+      "description": "殁世机甲的模块组件。它处于损坏状态，需要修复。\n\n获取地点：魔胎之境（火卫二）隔离库赏金中的殁世机甲敌人、完成《内战》系列任务后从殁世幽都（火卫二）洛德处购得",
+      "name": "损坏的殁世机甲 机舱",
+      "code": "zh"
+    },
+    {
+      "description": "Модульный компонент некрамеха. Он повреждён и требует ремонта.\n\nМестонахождение: Вражеские некрамехи, найденные в изолированном хранилище на Камбионском дрейфе и купленные у Лойда в Некралиске (Деймос) после завершения квеста «Война внутри».",
+      "name": "Повреждённая капсула Некрамеха",
+      "code": "ru"
+    },
+    {
+      "description": "ネクロメカのモジュラーパーツ。損傷しており修理が必要。\n\n場所：カンビオン荒地（ダイモス）の隔離保管庫依頼ミッションの敵のネクロメカ、『内なる紛争』クエスト完了後はネクロリスク（ダイモス）のLoidからも購入可",
+      "name": "損傷したネクロメカポッド",
+      "code": "ja"
+    },
+    {
+      "description": "Wymagający naprawy moduł Nekramecha.\n\nPołożenie: Wrogie Nekramechy podczas Zleceń Skarbców Izolacyjnych w Dryfie Kambionu na Deimosie i sklep Loida w Nekralisku po ukończeniu zadania Wewnętrzna Wojna",
+      "name": "Uszkodzona Kapsuła Nekramecha",
+      "code": "pl"
+    },
+    {
+      "description": "Um componente modular de um Necramech. Está danificado, precisa de reparos.\n\nLocalização: ao derrotar Necramechs nas Câmaras de Isolamento, na Deriva de Cambion, ou junto ao Loid, no Necralisk, em Deimos, após a conclusão da Jornada 'A Guerra Interior'.",
+      "name": "Necramech: Cápsula Danificada",
+      "code": "pt"
+    },
+    {
+      "description": "亡骸機甲的模組部件。已損毀並須要維修。\n\n地點：魔裔禁地（火衛二）上的隔離庫賞金任務中的敵方亡骸機甲或是完成《內戰》系列任務後在亡骸殿（火衛二）的 Loid 購得。",
+      "name": "損毀的亡骸機甲機艙",
+      "code": "tc"
+    },
+    {
+      "description": "ส่วนประกอบแบบโมดูลาร์สำหรับ Necramech แต่เป็นชิ้นส่วนที่เสียหายและต้องได้รับการซ่อมแซม\n\nแหล่งที่พบ: ศัตรู Necramech ที่พบในภารกิจล่ารางวัลในห้องนิรภัยแยกกักตัวที่แคมบิออนดริฟต์ และซื้อได้จาก Loid ในเนคราลิสก์ (เดมอส) หลังจากทำเควสต์ 'สงครามภายใน' สำเร็จแล้ว",
+      "name": "พอดของ Necramech ที่เสียหาย",
+      "code": "th"
+    },
+    {
+      "description": "Necramech için modüler bir bileşen. Hasar görmüş ve onarılması gerekiyor.\n\nKonum: Cambion Drift'teki (Deimos) İzolasyon Kasası Görevlerinde bulunan Düşman Necramech'ler ve War Within görevini tamamladıktan sonra Necralisk'teki (Deimos) Loid'den satın alınabilir",
+      "name": "Hasarlı Necramech Kapsülü",
+      "code": "tr"
+    },
+    {
+      "description": "Модуль некрамеха. Пошкоджений, але потребує лагодження.\n\nМожна здобути з ворожих некрамехів під час виконання контрактів «Камера ізоляції» в Кембіонській течії (Деймос) та придбати у Лойда в Некраліску (Деймос) по завершенню пригоди «Нова війна».",
+      "name": "Пошкоджена капсула некрамеха",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilVideoContest",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/trailer-entrant-sigil-c81bd94026.png",
+  "name": "Trailer Entrant Sigil",
+  "description": "Participatory prize for the Tenno's Greatest Trailer contest.",
+  "languages": [
+    {
+      "description": "Ein Preis für jene, die an dem 'Tenno's Greatest Trailer' Wettbewerb teilgenommen haben.",
+      "name": "Siegel: Trailer Teilnehmer",
+      "code": "de"
+    },
+    {
+      "description": "Prix de participation pour le concours 'Tenno's Greatest Trailer'.",
+      "name": "Sceau de Participant au Trailer",
+      "code": "fr"
+    },
+    {
+      "description": "Premio di partecipazione al contest Tenno's Greatest Trailer.",
+      "name": "Sigillo Trailer Entrant",
+      "code": "it"
+    },
+    {
+      "description": "Tenno's Greatest Trailer 공모전에 입상한 텐노를 위한 참가상입니다.",
+      "name": "트레일러 엔트런트 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Premio de participación en el concurso Tenno's Greatest Trailer.",
+      "name": "Sello Participante de tráiler",
+      "code": "es"
+    },
+    {
+      "description": "奖励给那些参与了最佳宣传片比赛的 Tenno。",
+      "name": "宣传片参赛者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Приз за участие в конкурсе 'Tenno's Greatest Trailer'.",
+      "name": "Сигил: Участник Конкурса Трейлеров",
+      "code": "ru"
+    },
+    {
+      "description": "Tenno's Greatest Trailerコンテストの参加賞。",
+      "name": "トレーラー参加 シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przyznawany uczestnikom konkursu na zwiastun Warframe.",
+      "name": "Znak Uczestnika Zwiastuna",
+      "code": "pl"
+    },
+    {
+      "description": "Prêmio de participação no concurso do Melhor Trailer dos Tennos.",
+      "name": "Brasão: Trailer Entrant",
+      "code": "pt"
+    },
+    {
+      "description": "獎勵給那些參與了最佳宣傳片比賽的 Tenno。",
+      "name": "宣傳片參賽者紋章",
+      "code": "tc"
+    },
+    {
+      "description": "รางวัลที่เข้าร่วมสำหรับการประกวด 'Tenno's Greatest Trailer'",
+      "name": "เครื่องหมาย: Trailer Entrant",
+      "code": "th"
+    },
+    {
+      "description": "Tenno's Greatest Trailer yarışması için katılım ödülü.",
+      "name": "Trailer Entrant Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Видається за участь у конкурсі Tenno’s Greatest Trailer.",
+      "name": "Сиґіл «Учасник конкурсу трейлерів»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/the-glast-gambit-24c121ac20.png",
+  "name": "The Glast Gambit",
+  "description": "Nef Anyo has stolen the children of the Mycona Colony and it is up to you to get them back. You must challenge Nef on The Index and beat him at his own game. But Tenno, beware, not all is as it seems.",
+  "languages": [
+    {
+      "description": "Nef Anyo hat die Kinder einer Myconier-Kolonie gestohlen und es liegt an dir, sie zurückzuholen. Du musst Nef auf dem Index herausfordern und ihn in seinem eigenen Spiel schlagen. Aber Tenno, hüte dich, nicht alles ist, wie es scheint.",
+      "name": "Das Glast-Gambit",
+      "code": "de"
+    },
+    {
+      "description": "Nef Anyo a enlevé les enfants de la Colonie de Mycona et c'est à vous de les récupérer. Vous devez lancer un défi à Nef dans l'Index et le vaincre à son propre jeu. Mais prenez garde, Tenno, tout n'est pas ce qui semble être.",
+      "name": "Le Stratagème de Glast",
+      "code": "fr"
+    },
+    {
+      "description": "Nef Anyo ha rapito i bambini delle Colonia Mycona ed è compito tuo recuperarli. Devi affrontare Nef nell'Index e sconfiggerlo al suo stesso gioco. Ma Tenno, attento, non tutto è come sembra.",
+      "name": "Lo Stratagemma di Glast",
+      "code": "it"
+    },
+    {
+      "description": "네프 엔요가 마이코나 콜로니에 살던 아이들을 납치했으며, 그들의 구출은 오직 당신의 손에 달려 있습니다. 이들을 돌려받기 위해서는 인덱스에서 네프에게 도전해 그 자신이 고안한 게임을 이겨내야만 합니다. 하지만 텐노, 조심하세요. 눈에 보이는 것은 전부가 아닙니다.",
+      "name": "글래스트의 한 수",
+      "code": "ko"
+    },
+    {
+      "description": "Nef Anyo ha raptado a los niños de la colonia Micona y depende de ti el recuperarlos. Debes desafiar a Nef en el Índice y derrotarlo en su propio juego. Pero ten cuidado tenno, no todo es lo que parece.",
+      "name": "El Gambito de Glast",
+      "code": "es"
+    },
+    {
+      "description": "奈富·安尤偷走了 Mycona 殖民地的孩子们，全靠你去解救他们了。你需要在指数之场中挑战 奈富，在他自己的游戏中击败他。但是注意了，Tenno，并不是一切都如看起来那么单纯。",
+      "name": "Glast 的千钧一策",
+      "code": "zh"
+    },
+    {
+      "description": "Неф Эньо выкрал дитя из колонии Микон, и твоя задача вернуть его. Ты должен бросить вызов Нефу на Индексе и победить его в собственной игре. Но помни, Тэнно, не всё так, как оно видится.",
+      "name": "Гамбит Гласта",
+      "code": "ru"
+    },
+    {
+      "description": "Nef Anyoがマイコーナコロニーの子供たちを攫いました。取り戻すにはあなたの力が必要です。Nefを彼自身のグラウンドであるインデックスで打ち負かさねばなりません。しかしテンノ、気を付けて。見た目通りには行かない物もあるのです。",
+      "name": "グラスト・ギャンビット",
+      "code": "ja"
+    },
+    {
+      "description": "Nef Anyo porwał dzieci Kolonii Myconów. Teraz na Twoich barkach spoczywa ciężar ich uratowania. Musisz rzucić wyzwanie Nefowi podczas Indeksu i pokonać go w jego własnej grze. Lecz strzeż się Tenno, nie wszystko jest takie, jak się wydaje.",
+      "name": "Gambit Glasta",
+      "code": "pl"
+    },
+    {
+      "description": "Nef Anyo roubou as crianças da colônia de Mycona e cabe a você trazê-las de volta. Você deve desafiar Nef no Index e vencê-lo em em seu próprio jogo. Mas tenha cuidado, Tenno, pois nem tudo é o que parece.",
+      "name": "A Jogada de Glast",
+      "code": "pt"
+    },
+    {
+      "description": "Nef Anyo 偷走了 Mycona 殖民地的孩子們，全靠你去解救他們了。你需要在指數之場中挑戰 Nef，在他自己的遊戲中擊敗他。但是注意了，Tenno，並不是一切都如看起來那麼單純。",
+      "name": "Glast 的千鈞一策",
+      "code": "tc"
+    },
+    {
+      "description": "Nef Anyo ขโมยเด็ก ๆ ในอาณานิคม Mycona ไป ขึ้นอยู่กับเจ้าแล้วที่จะนำพวกเด็ก ๆ กลับคืนมา เจ้าต้องท้าทาย Nef ในอินเด็กซ์และเอาชนะเขาในเกมของเขาเองให้ได้ แต่ Tenno จงระวังตัวให้ดี เพราะไม่ใช่ทุกสิ่งจะเป็นอย่างที่ตาเห็น",
+      "name": "สุดยอดกลยุทธ์ของ Glast",
+      "code": "th"
+    },
+    {
+      "description": "Nef Anyo Mycona Kolonisi'nin evlatlarını kaçırdı ve onları geri getirme görevi sana düştü. İndeks'de Nef'e kafa tutarak onu kendi oyununda yenmelisin. Fakat Tenno, dikkatli ol, hiçbir şey göründüğü gibi değildir.",
+      "name": "The Glast Gambit",
+      "code": "tr"
+    },
+    {
+      "description": "Неф Аньйо викрав дітей із колонії міконців. Лише ви в змозі повернути їх. Вам потрібно змагатися з Нефом в Індексі та перемогти його на його ж полі. Однак, тенно, зауважте, що не все є таким, як здається.",
+      "name": "Гамбіт Ґласта",
+      "code": "uk"
+    }
+  ]
+}

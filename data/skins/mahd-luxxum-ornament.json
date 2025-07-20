@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/BaroKiTeerDecorationA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mahd-luxxum-ornament-d00dc4c232.png",
+  "name": "Mahd Luxxum Ornament",
+  "description": "From Baro Ki'Teer: an exquisite ornament of unknown provenance to enhance your Orbiter.",
+  "languages": [
+    {
+      "description": "Von Baro Ki'Teer: ein exquisites Ornament mit unbekanntem Ursprung, um deinen Orbiter zu verbessern.",
+      "name": "Ornament: Mahd Luxxum",
+      "code": "de"
+    },
+    {
+      "description": "De Baro Ki'Teer: une sculpture sublime d'origine inconnue afin d'embellir votre Orbiteur.",
+      "name": "Ornement Mahd Luxxum",
+      "code": "fr"
+    },
+    {
+      "description": "Da Baro Ki'Teer: un prezioso ornamento dalla provenienza sconosciuta per migliorare il tuo Orbiter.",
+      "name": "Ornamento Mahd Luxxum",
+      "code": "it"
+    },
+    {
+      "description": "바로 키'티어가 선사합니다: 여러분의 오비터를 한껏 고급스럽게 꾸며줄 불확실한 기원의 정교한 장식물.",
+      "name": "마드 럭섬 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "De Baro Ki'Teer: un exquisito ornamento de procedencia desconocida para hacer destacar tu orbitador.",
+      "name": "Ornamento Mahd Luxxum",
+      "code": "es"
+    },
+    {
+      "description": "来自 Baro Ki'Teer：一件来源不明的精致饰物，来提升你的轨道飞行器格调。",
+      "name": "摇篮 乐升饰物",
+      "code": "zh"
+    },
+    {
+      "description": "От Баро Ки'Тиир: изысканный орнамент неизвестного происхождения для улучшения вашего Орбитера.",
+      "name": "Орнамент: Махд Люксум",
+      "code": "ru"
+    },
+    {
+      "description": "Baro Ki'Teerより：これらの起源不明で奇妙な装飾品を使用してオービターをデコレートしよう。",
+      "name": "Mahd Luxxum オーナメント",
+      "code": "ja"
+    },
+    {
+      "description": "Od Baro Ki'Teera: wykwintny ornament o nieznanej proweniencji, który uświetni Twój Orbiter.",
+      "name": "Ornament Mahd Luxxum",
+      "code": "pl"
+    },
+    {
+      "description": "Do Baro Ki'Teer: um requintado ornamento, de proveniência duvidosa, pronto para realçar a sua Orbital.",
+      "name": "Ornamento: Luxxum Mahd",
+      "code": "pt"
+    },
+    {
+      "description": "一件來自 Baro Ki'Teer 但起源未明的精緻擺飾，可提升你軌道飛行器的風格。",
+      "name": "搖籃樂昇裝飾品",
+      "code": "tc"
+    },
+    {
+      "description": "จาก Baro Ki'Teer: ของประดับอันวิจิตรที่ไม่ทราบที่มา เพื่อยกระดับออร์บิเตอร์ของคุณ",
+      "name": "ของประดับ: Mahd Luxxum",
+      "code": "th"
+    },
+    {
+      "description": "Baro Ki'Teer'dan: Orbiter'ınızı güzelleştirmek için kaynağı bilinmeyen seçkin bir dekorasyon.",
+      "name": "Mahd Luxxum Süsü",
+      "code": "tr"
+    },
+    {
+      "description": "Вишуканий орнамент невідомого походження для вашого орбітра від Баро Кі’Тіра.",
+      "name": "Орнамент: махд люксум",
+      "code": "uk"
+    }
+  ]
+}

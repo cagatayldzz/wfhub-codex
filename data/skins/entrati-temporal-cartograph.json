@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/EntratiLabs/ORKxLabMachineJ",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/entrati-temporal-cartograph-0fc6c7b302.png",
+  "name": "Entrati Temporal Cartograph",
+  "description": "Used by Albrecht Entrati to chart a temporal path to eras unknown.",
+  "languages": [
+    {
+      "description": "Von Albrecht Entrati verwendet, um einen zeitlichen Weg in unbekannte Epochen zu zeichnen.",
+      "name": "Entrati Zeit-Kartograph",
+      "code": "de"
+    },
+    {
+      "description": "Utilisée par Albrecht Entrati pour tracer un chemin temporel vers des époques inconnues.",
+      "name": "Cartographie temporelle Entrati",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzato da Albrecht Entrati per tracciare un percorso temporale verso epoche sconosciute.",
+      "name": "Cartografo Temporale Entrati",
+      "code": "it"
+    },
+    {
+      "description": "알브레히트 엔트라티가 미지의 시대로 가는 시간상의 경로를 도표화하기 위해 사용했던 지도입니다.",
+      "name": "엔트라티 시간 지도",
+      "code": "ko"
+    },
+    {
+      "description": "Usada por Albrecht Entrati para trazar un camino temporal hacia eras desconocidas.",
+      "name": "Cartografía temporal Entrati",
+      "code": "es"
+    },
+    {
+      "description": "阿尔布雷希特·英择谛用此绘制通向未知时代的时间路径。",
+      "name": "英择谛时间制图仪",
+      "code": "zh"
+    },
+    {
+      "description": "Использовалась Альбрехтом Энтрати, чтобы проложить временной путь к неизвестным эпохам.",
+      "name": "Временная картография Энтрати",
+      "code": "ru"
+    },
+    {
+      "description": "Albrecht Entratiが未知の時間へ至る時間的経路を描くのに用いた。",
+      "name": "エントラティ テンポーラルカルトグラフ",
+      "code": "ja"
+    },
+    {
+      "description": "Używany przez Albrechta Entratiego do wyznaczania ścieżki czasowej do nieznanych epok.",
+      "name": "Entrati: Kartograf czasu",
+      "code": "pl"
+    },
+    {
+      "description": "Usado por Albrecht Entrati para traçar um caminho temporal para eras desconhecidas.",
+      "name": "Cartógrafo Temporal Entrati",
+      "code": "pt"
+    },
+    {
+      "description": "阿爾布雷希特．源拓氏使用這台儀器來標繪通往未知時代的時空路徑。",
+      "name": "源拓氏繪時儀",
+      "code": "tc"
+    },
+    {
+      "description": "Albrecht Entrati ใช้เครื่องนี้สร้างแผนที่ชั่วคราวขึ้นมาเพื่อเป็นเส้นทางไปสู่ยุคลึกลับ",
+      "name": "Entrati Temporal Cartograph",
+      "code": "th"
+    },
+    {
+      "description": "Albrecht Entrati tarafından bilinmeyen çağlara giden zamansal bir yol çizmek için kullanıldı.",
+      "name": "Entrati Zamansal Haritacı",
+      "code": "tr"
+    },
+    {
+      "description": "Використовувався Альбрехтом Ентраті для мапування часових проходів до невідомих епох.",
+      "name": "Часовий мапороб Ентраті",
+      "code": "uk"
+    }
+  ]
+}

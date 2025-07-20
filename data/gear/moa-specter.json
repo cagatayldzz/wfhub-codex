@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/MoaBall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/moa-specter-910cf97d04.png",
+  "name": "Moa Specter",
+  "description": "Deploys a MOA EXIMUS unit to fight for you.",
+  "languages": [
+    {
+      "description": "Setzt einen EXIMUS-MOA ein, der für dich kämpft.",
+      "name": "MOA-Phantom",
+      "code": "de"
+    },
+    {
+      "description": "Déploie un EXIMUS MOA qui se bat pour vous.",
+      "name": "Spectre de Moa",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega un MOA EXIMUS che combatte al tuo fianco.",
+      "name": "Spettro Moa",
+      "code": "it"
+    },
+    {
+      "description": "당신을 위해 싸워줄 MOA 엑시무스를 배치합니다.",
+      "name": "MOA 스펙터",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega una unidad de MOA EXIMUS para que luche por ti.",
+      "name": "Espectro de Moa",
+      "code": "es"
+    },
+    {
+      "description": "设置一个为你战斗的恐鸟卓越者魅影。",
+      "name": "恐鸟魅影",
+      "code": "zh"
+    },
+    {
+      "description": "Создаёт эксимуса-МОА, который сражается на вашей стороне.",
+      "name": "Спектр: МОА",
+      "code": "ru"
+    },
+    {
+      "description": "モア エクシマスを味方として出撃させる。",
+      "name": "モア スペクター",
+      "code": "ja"
+    },
+    {
+      "description": "Tworzy Moa Eximusa, który walczy po Twojej stronie.",
+      "name": "Widmo Moa",
+      "code": "pl"
+    },
+    {
+      "description": "Posiciona uma unidade da MOA para lutar por você.",
+      "name": "Espectro Moa",
+      "code": "pt"
+    },
+    {
+      "description": "設置一個為你戰鬥的恐鳥卓越者魅影。",
+      "name": "恐鳥魅影",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้หน่วย MOA EXIMUS เพื่อต่อสู้ให้กับคุณ",
+      "name": "สเปกเตอร์ Moa",
+      "code": "th"
+    },
+    {
+      "description": "Sizin adınıza savaşması için MOA EXIMUS yaratır",
+      "name": "Moa Specter",
+      "code": "tr"
+    },
+    {
+      "description": "Розміщує на полі бою ексімового МОА, який допомагатиме вам.",
+      "name": "Тінь МОА",
+      "code": "uk"
+    }
+  ]
+}

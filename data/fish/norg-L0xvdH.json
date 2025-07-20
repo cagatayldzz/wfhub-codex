@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemMedium",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/norg-8f4a227307.png",
+  "name": "Norg",
+  "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+  "languages": [
+    {
+      "description": "Dieser Fisch bewohnt seichtes Wasser und ernährt sich von Krabben sowie anderen, kleinen Krustentieren. Wenn er bedroht wird, drückt er Luft in seinen Kopf, um wesentlich größer zu wirken, als er eigentlich ist.",
+      "name": "Norg",
+      "code": "de"
+    },
+    {
+      "description": "Ce poisson habite les bas-fonds où il peut se nourrir de crabes et de petits crustacés. Quand il se sent menacé, il insuffle de l'air dans son cerveau afin d'apparaître plus gros qu'il ne l'est vraiment.",
+      "name": "Norg",
+      "code": "fr"
+    },
+    {
+      "description": "Questo pesce abita le acque poco profonde e si nutre di granchi e altri piccoli crostacei. Quando minacciato trattiene l'aria nel cervello per dare l'impressione di essere molto più grande di quanto normalmente sia.",
+      "name": "Norg",
+      "code": "it"
+    },
+    {
+      "description": "이 물고기의 서식지는 얕은 곳이며 게나 다른 작은 갑각류에게 먹이를 공급합니다. 이 물고기를 위협하면 평소보다 더 큰 존재로 인상을 주기 위해서 뇌 쪽에 공기를 밀어넣습니다.",
+      "name": "노그",
+      "code": "ko"
+    },
+    {
+      "description": "Este pez habita los bajíos y se alimenta de cangrejos y otros pequeños crustáceos. Al verse amenazado fuerza aire a su cerebro para dar la impresión de ser mucho más grande de lo que realmente es.",
+      "name": "Norg",
+      "code": "es"
+    },
+    {
+      "description": "这种鱼栖息在浅水，以螃蟹及其他小型甲壳类为食。当受到威胁时，它会将空气挤入脑部，令其看起来比正常要大得多。",
+      "name": "诺格",
+      "code": "zh"
+    },
+    {
+      "description": "Эта рыба обитает на побережьях и питается крабами и мелкими ракообразными. При угрозе своей жизни она нагнетает в мозг воздух, из-за чего кажется куда крупнее обычного.",
+      "name": "Норга",
+      "code": "ru"
+    },
+    {
+      "description": "蟹などの甲殻類を食べるため浅瀬に生息しており、危機を感じると頭部に空気を送り自身を大きくする。",
+      "name": "ノルグ",
+      "code": "ja"
+    },
+    {
+      "description": "Ta ryba zamieszkuje płytkie powierzchnie i żywi się krabami i innymi skorupiakami. Kiedy jest zagrożona wpuszcza powietrze do swojego mózgu, aby sprawić wrażenie znacznie większej niż jest normalnie.",
+      "name": "Norg",
+      "code": "pl"
+    },
+    {
+      "description": "Este peixe habita as partes rasas de lagos e se alimenta de caranguejos e outros crustáceos menores. Ao sentir-se ameaçado, o Norg infla o seu cérebro para aumentar o seu tamanho, passando a impressão de que ele é maior do que parece.",
+      "name": "Norg",
+      "code": "pt"
+    },
+    {
+      "description": "這種魚棲息在淺水，以螃蟹及其他小型甲殼類為食。當受到威脅時，它會將空氣擠入腦部，令其看起來比正常要大得多。",
+      "name": "諾格",
+      "code": "tc"
+    },
+    {
+      "description": "ปลาชนิดนี้อาศัยอยู่ในน้ำตื้นและกินปูและสัตว์จำพวกกุ้งขนาดเล็กอื่น ๆ เมื่อถูกคุกคาม มันจะบังคับให้อากาศเข้าไปในสมองเพื่อให้รู้สึกว่าตัวใหญ่กว่าปกติมาก",
+      "name": "Norg",
+      "code": "th"
+    },
+    {
+      "description": "Bu balık sığ sularda yaşar ve yengeç gibi küçük deniz kabuklularıyla beslenir. Tehdit edildiğinde beynine hava pompalayıp daha büyük görünmeye çalışır.",
+      "name": "Norg",
+      "code": "tr"
+    },
+    {
+      "description": "Мешкає на мілководді, харчується крабами й іншими дрібними ракоподібними. У загрозливі моменти наганяє повітря в мозок, щоб здаватися значно більшим, ніж є зазвичай.",
+      "name": "Норґ",
+      "code": "uk"
+    }
+  ]
+}

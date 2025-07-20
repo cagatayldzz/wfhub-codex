@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orokin-cell-0d237af036.png",
+  "name": "Orokin Cell",
+  "description": "Ancient energy cell from the Orokin era.\n\nLocation: Ceres, Saturn, and Deimos",
+  "languages": [
+    {
+      "description": "Uralte Energiezelle aus der Orokin Ära.\n\nQuelle: Ceres, Saturn und Deimos.",
+      "name": "Orokin Zelle",
+      "code": "de"
+    },
+    {
+      "description": "Cellule d'énergie antique de l'ère Orokin.\n\nLieu: Cérès, Saturne et Deimos",
+      "name": "Cellule Orokin",
+      "code": "fr"
+    },
+    {
+      "description": "Antica cella di energia dell'era Orokin.\n\nPosizione: Cerere, Saturno e Deimos",
+      "name": "Cella Orokin",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 시대로부터 유래된 고대의 에너지 셀입니다.\n\n획득 가능 장소: 세레스, 토성 및 데이모스",
+      "name": "오로킨 셀",
+      "code": "ko"
+    },
+    {
+      "description": "Antigua célula de energía de la era orokin.\n\nUbicación: Ceres, Saturno y Deimos",
+      "name": "Célula orokin",
+      "code": "es"
+    },
+    {
+      "description": "Orokin 时代流传下来的的远古能量电池。\n\n获取地点：谷神星，土星和火卫二",
+      "name": "Orokin 电池",
+      "code": "zh"
+    },
+    {
+      "description": "Древний энергетический элемент эпохи Орокин.\n\nМестонахождение: Церера, Сатурн и Деймос",
+      "name": "Элемент питания Орокин",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン紀から存在する太古のエネルギーセル。\n\n場所：ケレス、土星、ダイモス。",
+      "name": "オロキン セル",
+      "code": "ja"
+    },
+    {
+      "description": "Starożytne ogniwa energetyczne z epoki Orokin.\n\nPołożenie: Ceres, Saturn i Deimos",
+      "name": "Ogniwo Orokin",
+      "code": "pl"
+    },
+    {
+      "description": "Célula de Energia ancestral da era Orokin.\n\nLocalização: Ceres, Saturno e Deimos.",
+      "name": "Célula Orokin",
+      "code": "pt"
+    },
+    {
+      "description": "Orokin 時代流傳下來的遠古能量電池。\n\n地點：穀神星、土星和火衛二",
+      "name": "Orokin 電池",
+      "code": "tc"
+    },
+    {
+      "description": "เซลล์พลังงานโบราณจากยุค Orokin\n\nแหล่งที่พบ: ดาวซีรีส ดาวเสาร์ และดาวเดมอส",
+      "name": "เซลล์ Orokin",
+      "code": "th"
+    },
+    {
+      "description": "Orokin çağından kalma antik enerji hücresi.\n\nKonum: Ceres, Satürn ve Deimos",
+      "name": "Orokin Hücresi",
+      "code": "tr"
+    },
+    {
+      "description": "Прадавній енергетичний акумулятор орокінської ери.\n\nМожна здобути на Церері, Сатурні та Деймосі.",
+      "name": "Орокінський акумулятор",
+      "code": "uk"
+    }
+  ]
+}

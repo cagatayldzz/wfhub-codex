@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khora-helmet-19105d8078.png",
+  "name": "Khora Helmet",
+  "description": "The standard issue helmet for the Khora Warframe.",
+  "languages": [
+    {
+      "description": "Der Standardhelm für den Khora Warframe.",
+      "name": "Khora-Helm",
+      "code": "de"
+    },
+    {
+      "description": "Le Casque standard pour la Warframe Khora.",
+      "name": "Casque Khora",
+      "code": "fr"
+    },
+    {
+      "description": "Elmo standard per il Warframe Khora.",
+      "name": "Elmo Khora",
+      "code": "it"
+    },
+    {
+      "description": "코라 워프레임을 위한 기본 헬멧입니다.",
+      "name": "코라 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "El casco estándar para el warframe Khora.",
+      "name": "Casco de Khora",
+      "code": "es"
+    },
+    {
+      "description": "Khora 的标准头盔。",
+      "name": "Khora 头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Стандартный шлем для Коры.",
+      "name": "Шлем Коры",
+      "code": "ru"
+    },
+    {
+      "description": "Khoraの標準型ヘルメット。",
+      "name": "Khora ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Standardowy hełm dla Warframe Khora.",
+      "name": "Khora: Hełm",
+      "code": "pl"
+    },
+    {
+      "description": "O capacete padrão para o Warframe Khora.",
+      "name": "Khora: Capacete Padrão",
+      "code": "pt"
+    },
+    {
+      "description": "Khora 的標準頭盔。",
+      "name": "Khora 頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กมาตรฐานสำหรับ Khora Warframe",
+      "name": "หมวกเหล็ก Khora",
+      "code": "th"
+    },
+    {
+      "description": "Khora Warframe için standart miğfer.",
+      "name": "Khora Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Стандартний шолом для Хори.",
+      "name": "Шолом Хори",
+      "code": "uk"
+    }
+  ]
+}

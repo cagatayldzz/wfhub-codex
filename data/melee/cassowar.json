@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/TnHalberdPolearm/TnHalberdPolearmWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cassowar-ff3272dbfb.png",
+  "name": "Cassowar",
+  "description": "Light and nimble, the twin blades of this polearm will swoop and slice through throngs of hardened foes.",
+  "languages": [
+    {
+      "description": "Leicht und geschickt, die Zwillingsklingen dieser Stangenwaffe fegen und schneiden durch Massen der widerstandsfähigsten Feinde.",
+      "name": "Cassowar",
+      "code": "de"
+    },
+    {
+      "description": "Légères et lestes, les lames jumelles de cette Arme d'Hast balaieront et trancheront au travers des masses d'ennemis endurcis.",
+      "name": "Cassowar",
+      "code": "fr"
+    },
+    {
+      "description": "Leggere e maneggevoli, le lame gemelle di quest'asta piomberanno su folle di nemici, facendo a pezzi anche i più esperti.",
+      "name": "Cassowar",
+      "code": "it"
+    },
+    {
+      "description": "이 폴암이 갖춘 가볍고 날렵한 한 쌍의 칼날은 구름처럼 모인 단단한 적들도 단번에 손쉽게 썰고 지나갑니다.",
+      "name": "카소워",
+      "code": "ko"
+    },
+    {
+      "description": "Ligera y ágil, las hojas gemelas de esta arma de asta arremeterán y rebanarán multitudes de enemigos fuertes.",
+      "name": "Cassowar",
+      "code": "es"
+    },
+    {
+      "description": "（英文：CASSOWAR）轻盈且灵巧。即使是防护严密的成群敌人，也会被这件长柄武器上的双刃所肢解。",
+      "name": "鹤鸵长戟",
+      "code": "zh"
+    },
+    {
+      "description": "Легкая и гибкая алебарда, чьи парные лезвия режут толпы мощных противников на куски.",
+      "name": "Казуар",
+      "code": "ru"
+    },
+    {
+      "description": "軽く敏捷なこのハルバードの2つの刃は、硬い敵の群れも鮮やかに切り落とす。",
+      "name": "Cassowar",
+      "code": "ja"
+    },
+    {
+      "description": "Lekkie i zwinne, bliźniacze ostrza tej Broni drzewcowej przemkną przez tłumy zaprawionych w boju wrogów.",
+      "name": "Cassowar",
+      "code": "pl"
+    },
+    {
+      "description": "Leves e ágeis, as lâminas gêmeas desta alabarda irão arrebatar e cortar entre multidões de inimigos.",
+      "name": "Cassowar",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：CASSOWAR）輕盈且靈巧，即使是防護嚴密的成群敵人，也會被這件長柄武器上雙刃所肢解。",
+      "name": "鶴鴕",
+      "code": "tc"
+    },
+    {
+      "description": "หอกเล่มนี้เบาและว่องไว มีใบมีดแฝดที่จะจู่โจมและฟันศัตรูตัวฉกาจได้อย่างรวดเร็ว",
+      "name": "Cassowar",
+      "code": "th"
+    },
+    {
+      "description": "Hafif ve atik, bu kargı silahının ikili bıçakları en güçlü düşmanları bile dize getirecek.",
+      "name": "Cassowar",
+      "code": "tr"
+    },
+    {
+      "description": "Легка й маневрова держакова зброя із сокирами на обох кінцях. Легко шаткує навіть загартованих боями ворогів.",
+      "name": "Казуар",
+      "code": "uk"
+    }
+  ]
+}

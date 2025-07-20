@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2025DigitalItemDisplay",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/tennocon-2025-pin-display-8d27ab98a1.png",
+  "name": "Tennocon 2025 Pin Display",
+  "description": "Use this display to mark the arrival of TennoCon 2025.",
+  "languages": [
+    {
+      "description": "Verwende dieses Display, um die Ankunft der TennoCon 2025 zu markieren.",
+      "name": "Display: TennoCon 2025 Pin",
+      "code": "de"
+    },
+    {
+      "description": "Utilisez cette Affiche pour marquer l'arrivée de la TennoCon 2025.",
+      "name": "Affiche Pin's TennoCon 2025",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizza questo display per celebrare l'arrivo del TennoCon 2025.",
+      "name": "Display Spilla TennoCon 2025",
+      "code": "it"
+    },
+    {
+      "description": "이 디스플레이를 통해 텐노콘 2025의 도래를 기념하세요.",
+      "name": "텐노콘 2025 핀 디스플레이",
+      "code": "ko"
+    },
+    {
+      "description": "Utiliza este mostrador para marcar la llegada de la TennoCon 2025.",
+      "name": "Mostrador de pin de TennoCon 2025",
+      "code": "es"
+    },
+    {
+      "description": "用这张展示图来标记 TennoCon 2025 的到来。",
+      "name": "TennoCon 2025 别针展示图",
+      "code": "zh"
+    },
+    {
+      "description": "Используйте этот значок, чтобы отметить прибытие TennoCon 2025.",
+      "name": "Значок «TennoCon 2025»",
+      "code": "ru"
+    },
+    {
+      "description": "このディスプレイでTennoCon 2025開催を祝おう。",
+      "name": "TennoCon 2025 ピンディスプレイ",
+      "code": "ja"
+    },
+    {
+      "description": "Użyj tego wyświetlacza, aby uczcić nadejście TennoCon 2025.",
+      "name": "Wyświetlacz Przypinki TennoCon 2025",
+      "code": "pl"
+    },
+    {
+      "description": "Use este Exibidor para marcar a chegada da TennoCon 2025.",
+      "name": "Exibidor do Broche da TennoCon 2025",
+      "code": "pt"
+    },
+    {
+      "description": "用這張展示圖來標記 TennoCon 2025 的到來。",
+      "name": "TennoCon 2025 圖釘展示圖",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้ภาพดิสเพลย์นี้เพื่อเฉลิมฉลองการมาถึงของ TennoCon 2025",
+      "name": "ภาพดิสเพลย์ TennoCon 2025 Pin",
+      "code": "th"
+    },
+    {
+      "description": "TennoCon 2025'in gelişini kutlamak için bu sergiyi kullan.",
+      "name": "TennoCon 2025 Rozet Sergisi",
+      "code": "tr"
+    },
+    {
+      "description": "Використовуйте дисплей, щоби позначити святкування Теннокону 2025.",
+      "name": "Дисплей «Значок „Теннокон 2025“»",
+      "code": "uk"
+    }
+  ]
+}

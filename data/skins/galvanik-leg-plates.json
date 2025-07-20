@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrnAmphisArmor/GrnAmphisLArmor",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/galvanik-leg-plates-f80afbfd2e.png",
+  "name": "Galvanik Leg Plates",
+  "description": "Repurposed paramilitary dress, for a fast response to any situation.",
+  "languages": [
+    {
+      "description": "Umfunktionierte paramilitärische Kleidung, für eine schnelle Reaktion für jede Situation.",
+      "name": "Beinplatten: Galvanik",
+      "code": "de"
+    },
+    {
+      "description": "Une tenue militaire réhabilitée pour pouvoir réagir rapidement à n'importe quelle situation.",
+      "name": "Jambières Galvanik",
+      "code": "fr"
+    },
+    {
+      "description": "Abito paramilitare riadattato per una reazione veloce a qualsiasi situazione.",
+      "name": "Gambali Galvanik",
+      "code": "it"
+    },
+    {
+      "description": "용도가 변경된 준 군사용 의복으로써, 어느 상황에나 즉각 대처가 가능합니다.",
+      "name": "갈바닉 레그 플레이트",
+      "code": "ko"
+    },
+    {
+      "description": "Ropa paramilitar reutilizada, para responder rápidamente a cualquier situación.",
+      "name": "Perneras de placas Galvanik",
+      "code": "es"
+    },
+    {
+      "description": "重新设计的准军事服装，以快速应对任何情况。",
+      "name": "电激腿甲",
+      "code": "zh"
+    },
+    {
+      "description": "Перепрофилированная военизированная одежда, для быстрого реагирования на любую ситуацию.",
+      "name": "Наголенники: Гальваник",
+      "code": "ru"
+    },
+    {
+      "description": "いかなる状況にも素早く対応するため、準軍事的な装備として作り替えられたもの。",
+      "name": "Galvanik レッグプレート",
+      "code": "ja"
+    },
+    {
+      "description": "Odmieniony strój paramilitarny, gotowy do każdej akcji.",
+      "name": "Nagolenniki: Galvanik",
+      "code": "pl"
+    },
+    {
+      "description": "Traje paramilitar reaproveitado para uma resposta rápida a qualquer situação.",
+      "name": "Pernas: Galvanik",
+      "code": "pt"
+    },
+    {
+      "description": "重新設計的準軍事服裝，以快速應對任何狀況。",
+      "name": "電激腿甲",
+      "code": "tc"
+    },
+    {
+      "description": "ชุดของหน่วยเสริมการทหารที่นำกลับมาใช้ใหม่ เพื่อการตอบสนองที่รวดเร็วในทุกสถานการณ์",
+      "name": "เพลตขา Galvanik",
+      "code": "th"
+    },
+    {
+      "description": "Yarı askeri kıyafet, herhangi bir durumda hızlı sonuç almak için yeniden tasarlandı.",
+      "name": "Galvanik Bacak Plakaları",
+      "code": "tr"
+    },
+    {
+      "description": "Напіввоєнне оснащення, адаптоване для ситуацій, що вимагають швидкого реагування.",
+      "name": "Наголінник «Гальванік»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/i-wanna-be-your-g.o.b.-e5b3da1bb9.png",
+  "name": "I Wanna Be Your G.O.B.",
+  "description": "Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Der originale Soundtrack von Caliber Chicks 2, verfügbar um ihn im Orbiter mit dem Somachord abzuspielen.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "de"
+    },
+    {
+      "description": "Bande originale de Caliber Chicks 2 à écouter depuis le Somaccord dans votre Orbiteur.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "fr"
+    },
+    {
+      "description": "Ascolta la colonna sonora originale di Caliber Chicks 2 dal Somachord nel tuo Orbiter.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 칼리버 칙스 2 오리지널 사운드트랙입니다.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "ko"
+    },
+    {
+      "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "es"
+    },
+    {
+      "description": "《火力女兵 2》原声带，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "我想成为你的混沌起源",
+      "code": "zh"
+    },
+    {
+      "description": "Оригинальный саундтрек Caliber Chicks 2 для прослушивания на Сомакорде в вашем Орбитере.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞けるCaliber Chicks 2のオリジナルサウンドトラック。",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "ja"
+    },
+    {
+      "description": "Oryginalna ścieżka dźwiękowa Caliber Chicks 2 do słuchania na Somakordzie w Orbiterze.",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora original de 'Caliber Chicks 2' para ouvir no Somacorde em sua Orbital.",
+      "name": "I Wanna Be Your G.O.B. (Quero ser seu G.O.B.)",
+      "code": "pt"
+    },
+    {
+      "description": "《英豪戰姬 2》原聲音樂，可於軌道飛行器裡的身心和弦琴上播放欣賞。",
+      "name": "我想成為你的貝蘭起源",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงประกอบเกม Caliber Chicks 2 ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "I Wanna Be Your G.O.B.",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun Müziğinin keyfini çıkar.",
+      "name": "Senin G.O.B.'un Olmak İstiyorum",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з «Caliber Chicks 2» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Хочу бути твоїм РОТом",
+      "code": "uk"
+    }
+  ]
+}

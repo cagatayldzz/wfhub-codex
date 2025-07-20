@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPuzzleItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/enigma-gyrum-868dc87606.png",
+  "name": "Enigma Gyrum",
+  "description": "A token celebrating the successful solution of a Duviri Enigma.\n\nLocation: Earned by completing Enigmas in The Duviri Experience",
+  "languages": [
+    {
+      "description": "Ein Zeichen, das die erfolgreiche Lösung eines Duviri-Rätsels feiert.\n\nQuelle: Wird durch das Lösen von Rätseln im 'Duviri-Erlebnis' verdient.",
+      "name": "Enigma Gyrum",
+      "code": "de"
+    },
+    {
+      "description": "Un jeton célébrant la résolution d'une Énigme de Duviri.\n\nLieu: Obtenu en complétant les énigmes de l'Expérience Duviri",
+      "name": "Énigme Gyrum",
+      "code": "fr"
+    },
+    {
+      "description": "Un token per celebrare la risoluzione di un Enigma a Duviri.\n\nPosizione: Ottenuto completando Enigmi nell'Esperienza Duviri",
+      "name": "Enigma Gyrum",
+      "code": "it"
+    },
+    {
+      "description": "두비리의 수수께끼를 성공적으로 풀어낸 것을 축하하는 증표입니다.\n\n획득 가능 장소: 두비리 내에서 수수께끼 완료 시 획득",
+      "name": "에니그마 자이럼",
+      "code": "ko"
+    },
+    {
+      "description": "Un símbolo que celebra la solución exitosa de un enigma de Duviri.\n\nUbicación: Se obtiene al completar enigmas en La experiencia Duviri",
+      "name": "Enigma Gyrum",
+      "code": "es"
+    },
+    {
+      "description": "庆祝成功破解双衍王境奥理的纪念物。\n\n获取地点：在双衍历程中完成奥理",
+      "name": "奥理刻珠",
+      "code": "zh"
+    },
+    {
+      "description": "Знак, отмечающий успешное решение головоломки Дувири.\n\nМестонахождение: награда за выполнение загадок на Дувирийском пути.",
+      "name": "Энигма Гирум",
+      "code": "ru"
+    },
+    {
+      "description": "デュヴィリ・エニグマを見事解決した証。\n\n場所：デュヴィリ・エクスペリエンスでエニグマをクリアする。",
+      "name": "エニグマ・ジャイラム",
+      "code": "ja"
+    },
+    {
+      "description": "Żeton upamiętniający pomyślne rozwiązanie Łamigłówki Duviri.\n\nPołożenie: Zdobywane za ukończenie Łamigłówek w Doświadczeniu Duviri",
+      "name": "Gyrum Łamigłówki",
+      "code": "pl"
+    },
+    {
+      "description": "Um token que celebra a solução bem-sucedida de um Enigma de Duviri.\n\nLocalização: obtido ao completar Enigmas, na Experiência de Duviri.",
+      "name": "Enigma do Giro",
+      "code": "pt"
+    },
+    {
+      "description": "慶祝解開渡域奇謎的代幣。\n\n地點：透過解開渡域體驗裡奇謎取得",
+      "name": "奇謎環",
+      "code": "tc"
+    },
+    {
+      "description": "โทเค็นที่ได้มาจากการไขปริศนาใน Duviri ได้เป็นผลสำเร็จ\n\nแหล่งที่พบ: เป็นรางวัลที่ได้จากการไขปริศนาในประสบการณ์ Duviri สำเร็จ",
+      "name": "อีนิกมา ไจรัม",
+      "code": "th"
+    },
+    {
+      "description": "Duviri Enigmasının başarılı çözümünü kutlayan bir simge.\n\nKonum: Duviri Deneyimindeki Enigmaların tamamlanmasıyla kazanılır",
+      "name": "Enigma Gyrum",
+      "code": "tr"
+    },
+    {
+      "description": "Відзнака за успішне вирішення загадок Дувірі.\n\nМожна здобути, вирішуючи загадки в режимі «Самітна подорож» у Дувірі.",
+      "name": "Ґірум енігми",
+      "code": "uk"
+    }
+  ]
+}

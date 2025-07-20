@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/arcane-coil-helmet-7342495593.png",
+  "name": "Arcane Coil Helmet",
+  "description": "This helmet is worn by Mag, gives increased Ability Range with a drain on Shields.",
+  "languages": [
+    {
+      "description": "Dieser Helm wird von Mag getragen und erhöht die Fähigkeitsreichweite, während Schilde reduziert werden.",
+      "name": "Arkaner Coil Helm",
+      "code": "de"
+    },
+    {
+      "description": "Ce Casque est porté par Mag, et octroie une Portée de Pouvoir augmentée avec un drain de Boucliers.",
+      "name": "Casque Coil Arcane",
+      "code": "fr"
+    },
+    {
+      "description": "Questo elmo è indossato da Mag, aggiunge Portata Abilità, ma riduce gli Scudi.",
+      "name": "Elmo Arcane Coil",
+      "code": "it"
+    },
+    {
+      "description": "매그 전용 헬멧으로, 실드를 소비하여 어빌리티 거리를 증가시킵니다.",
+      "name": "아케인 코일 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Este casco es usado por Mag, otorga rango de habilidad pero con un drenaje de los escudos.",
+      "name": "Casco Coil Arcano",
+      "code": "es"
+    },
+    {
+      "description": "这顶头盔由 Mag 佩戴，它能提升技能范围，但会降低护盾值。",
+      "name": "线圈 秘奥头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Этот шлем предназначен для Мэг. Он увеличивает зону поражения, но ослабляет щиты.",
+      "name": "Мистический шлем: Спираль",
+      "code": "ru"
+    },
+    {
+      "description": "Mag用ヘルメット。アビリティ効果範囲を上昇させるが、シールドが減少する。",
+      "name": "Arcane Coil ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm noszony przez Mag, zwiększa Zasięg Umiejętności, ale zmniejsza Tarcze.",
+      "name": "Mag: Hełm Arkanum Coil",
+      "code": "pl"
+    },
+    {
+      "description": "Este capacete usado por Mag adiciona Alcance da Habilidade, mas drena Escudos.",
+      "name": "Mag: Capacete Coil (Arcano)",
+      "code": "pt"
+    },
+    {
+      "description": "這頂頭盔由 Mag 配戴，可提升技能範圍，但會減少護盾最大值。",
+      "name": "線圈秘奧頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "เมื่อ Mag สวมหมวกใบนี้จะช่วยขยายขอบเขตในการใช้พลัง แต่จะถ่ายเทโล่ออกไป",
+      "name": "หมวกเหล็ก Arcane Coil",
+      "code": "th"
+    },
+    {
+      "description": "Bu miğfer Mag tarafından giyilir, Artırılmış Yetenek Menzili ile Kalkanlarda azalma verir.",
+      "name": "Arcane Coil Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Цей шолом збільшує дальність дії здібностей Меґ, але зменшує її щити.",
+      "name": "Містичний шолом «Котушка»",
+      "code": "uk"
+    }
+  ]
+}

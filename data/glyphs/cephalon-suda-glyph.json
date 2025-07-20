@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageSyndicateCS",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cephalon-suda-glyph-a70473e800.png",
+  "name": "Cephalon Suda Glyph",
+  "description": "A glyph of the Cephalon Suda",
+  "languages": [
+    {
+      "description": "Eine Glyphe der Cephalon Suda",
+      "name": "Glyphe: Cephalon Suda",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe du Céphalon Suda",
+      "name": "Glyphe du Céphalon Suda",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo di Cephalon Suda",
+      "name": "Glifo Cephalon Suda",
+      "code": "it"
+    },
+    {
+      "description": "세팔론 수다를 묘사한 글리프입니다.",
+      "name": "세팔론 수다 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Céfalon Suda",
+      "name": "Glifo de Céfalon Suda",
+      "code": "es"
+    },
+    {
+      "description": "中枢苏达的浮印",
+      "name": "中枢苏达浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением цефалона Суда",
+      "name": "Глиф: Цефалон Суда",
+      "code": "ru"
+    },
+    {
+      "description": "セファロン・スーダのグリフ",
+      "name": "セファロン・スーダ グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Cefalona Sudę",
+      "name": "Glif Cefalon Sudy",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da Cephalon Suda",
+      "name": "Glifo: Cephalon Suda",
+      "code": "pt"
+    },
+    {
+      "description": "中樞蘇達的浮印",
+      "name": "中樞蘇達浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ของ Cephalon Suda",
+      "name": "ภาพสัญลักษณ์ Cephalon Suda",
+      "code": "th"
+    },
+    {
+      "description": "Cephalon Suda'yı tasvir eden bir glif",
+      "name": "Cephalon Suda Glif",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням цефалонки Суди.",
+      "name": "Гліф «Цефалонка Суда»",
+      "code": "uk"
+    }
+  ]
+}

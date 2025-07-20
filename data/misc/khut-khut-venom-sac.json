@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayCommonFishBPartItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/khut-khut-venom-sac-9eecf6fc03.png",
+  "name": "Khut-Khut Venom Sac",
+  "description": "The poison is used to cure leather and as a reagent to produce an embalming fluid.\n\nSource: Cut from Khut-Khut fish via Fisher Hai-Luk in Cetus (Earth). Catch Khut-Khut in Plains of Eidolon ponds during the Day. Also drops from Thumpers in the Plains of Eidolon.",
+  "languages": [
+    {
+      "description": "Das Gift wird zum Trocknen von Leder und als Reagenz zur Herstellung einer Einbalsamierungsflüssigkeit verwendet.\n\nQuelle: Von Fischer Hai-Luk in Cetus (Erde) aus Khut-Khuts geschnitten. Khut-Khuts können tagsüber in den Teichen der Ebenen von Eidolon gefangen werden. Kann auch von Klopfern in den Ebenen von Eidolon fallen gelassen werden.",
+      "name": "Khut-Khut: Giftbeutel",
+      "code": "de"
+    },
+    {
+      "description": "Le poison est utilisé pour travailler le cuir et comme réactif pour produire un liquide d'embaumement.\n\nSource: découpé des Khut-Khuts via la Pêcheuse Hai-Luk à Cetus (Terre). Attrapez le Khut-Khut dans les étangs des Plaines d'Eidolon pendant la journée. Tombe également des Cogneurs dans les Plaines d'Eidolon.",
+      "name": "Poche à Venin de Khut-Khut",
+      "code": "fr"
+    },
+    {
+      "description": "Il veleno è utilizzato per curare la pelle e come reagente per produrre un fluido per l'imbalsamazione.\n\nFonte: Ottenibile dal pesce Khut-Khut dalla Pescivendola Hai-Luk a Cetus (Terra). Cattura il Khut-Khut negli stagni delle Piane di Eidolon durante il giorno. Viene rilasciato anche dai Thumper nelle Piane di Eidolon.",
+      "name": "Sacca Velenifera di Khut-Khut",
+      "code": "it"
+    },
+    {
+      "description": "오스트론 인들은 가죽을 소독하거나 독한 술을 담그는 재료로 이 독을 사용합니다. \n\n획득 가능 장소: 시터스 (지구) 의 어부 하일루크를 통해 쿳-쿳 물고기를 해체하기. 낮 동안 아이돌론의 평원 연못에서 쿳-쿳을 잡을 수 있습니다. 또한 아이돌론의 평원 내 스폰되는 썸퍼에게서도 드롭됩니다.",
+      "name": "쿳-쿳 독 주머니",
+      "code": "ko"
+    },
+    {
+      "description": "El veneno es usado por los ostronitas para curar el cuero y como un reactivo para crear un fluido embalsamante.\n\nFuente: Obtenido del pez Khut-Khut con la Pescadora Hai-Luk en Cetus (Tierra). Captura el Khut-Khut en los estanques de las Llanuras de Eidolon durante el día. También se obtiene de los pistones en las Llanuras de Eidolon.",
+      "name": "Saco de veneno de Khut-khut",
+      "code": "es"
+    },
+    {
+      "description": "毒素被 Ostron 人用来加工皮革，以及作为制造一种防腐液的反应剂。\n\n获取途径：通过希图斯（地球）的渔人海露从库特-库特鱼中切割获取。在白天的夜灵平野池塘中捕捉库特-库特。此外它还会从夜灵平野重击者身上掉落。",
+      "name": "库特-库特毒囊",
+      "code": "zh"
+    },
+    {
+      "description": "Этот яд используется для дубления кожи и как реагент для производства бальзамирующей жидкости.\n\nМестонахождение: Получается при разделке кхут-кхута у рыбачки Хай-Лук в Цетусе (Земля). Ловите кхут-кхута в прудах на Равнинах Эйдолона днём. Также выпадает из Сотрясателей на Равнинах Эйдолона.",
+      "name": "Слезная вена Кхут-Кхута",
+      "code": "ru"
+    },
+    {
+      "description": "この毒液は皮のなめし液や、防腐剤を作る際の試薬として使われる。\n\n場所：エイドロンの草原で獲れるクット・クットから切り取れる（シータスの釣り師Hai-Luk）。クット・クットは昼のエイドロンの草原の湖で獲れる。エイドロンの草原のサンパーからもドロップ可能。",
+      "name": "クット・クットの毒嚢",
+      "code": "ja"
+    },
+    {
+      "description": "Ta trucizna jest używana przez Ostronów do garbowania skór i jako odczynnik do produkcji balsamów.\n\nMoże zostać zdobyty przez filetowanie Khut-khut u Rybaczki Hai-Luk w Cetus (Ziemia). Ryba Khut-khut może zostać złowiona w stawach Równin Eidolon w ciągu dnia. Wypada także z Kolosów w Równinach Eidolon.",
+      "name": "Khut-Khut: Woreczek Jadowy",
+      "code": "pl"
+    },
+    {
+      "description": "O veneno é usado pelos Ostrons para trabalhar o couro, e também como um reagente para produzir um fluido de embalsamamento.\n\nLocalização: obtido através do corte do peixe Khut-Khut com a Pescadora Hai-Luk em Cetus, na Terra. O peixe Khut-Khut pode ser pescado em lagoas das Planícies de Eidolon durante o dia. Este item também pode ser obtido de Pistões nas Planícies de Eidolon.",
+      "name": "Saco de Veneno de Khut-Khut",
+      "code": "pt"
+    },
+    {
+      "description": "毒素被 Ostron 人用來加工皮革，或者作為製造一種防腐液的反應劑。\n\n來源：透過希圖斯（地球）的漁夫 Hai-Luk 切開庫特-庫特取得。\n庫特-庫特可在白天於夜靈平野的池塘裡捕獲。\n夜靈平野的巨牙重擊者也會掉落這個物品。",
+      "name": "庫特-庫特毒囊",
+      "code": "tc"
+    },
+    {
+      "description": "พิษนี้ใช้ฟอกหนังและเป็นสารตั้งต้นในการทำน้ำยาดอง\n\nแหล่งที่มา: ได้มาจากการแล่ปลา Khut-Khut ผ่านชาวประมง Hai-Luk ในซีตัส (โลก) ซึ่งสามารถจับปลา Khut-Khut ในหนองน้ำตามที่ราบ Eidolon ได้ในเวลากลางวัน นอกจากนี้ยังดรอปจาก Thumper ในที่ราบ Eidolon อีกด้วย",
+      "name": "ถุงพิษ Khut-Khut",
+      "code": "th"
+    },
+    {
+      "description": "Zehir, deriyi iyileştirmek ve mumyalama sıvısı üretmek için bir reaktif olarak kullanılır.\n\nKaynak: Cetus'taki (Dünya) Balıkçı Hai-Luk aracılığıyla Khut-Khut balığından kesilmiştir. Eidolon Ovalarındaki Khut-Khut balıkları gün boyunca göletlerden yakalanabilir. Ayrıca Eidolon Ovalarındaki Thumper'lardan da düşer.",
+      "name": "Khut-Khut Zehir Kesesi",
+      "code": "tr"
+    },
+    {
+      "description": "Отрута використовується для вичинки шкіри та як реагент у створенні рідини для бальзамування.\n\nМожна отримати з кхут-кхута в рибалки Гай-Люк у Цетусі (Земля). Ловіть кхут-кхута в ставках Рівнин Ейдолонів удень. Також можна отримати з землетрусів на Рівнинах Ейдолонів.",
+      "name": "Мішечок отрути кхут-кхута",
+      "code": "uk"
+    }
+  ]
+}

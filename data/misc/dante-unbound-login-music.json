@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/dante-unbound-login-music-f836137c3a.png",
+  "name": "Dante Unbound Login Music",
+  "description": "The Dante Unbound login music to enjoy from the Somachord in your Orbiter.",
+  "languages": [
+    {
+      "description": "Die Anmeldemusik: Dante entfesselt, die im Orbiter mit Somachord abgespielt werden kann.",
+      "name": "Anmeldemusik: Dante entfesselt",
+      "code": "de"
+    },
+    {
+      "description": "Le thème musical de Dante Libéré à écouter avec le Somaccord dans votre Orbiteur.",
+      "name": "Musique Dante Libéré",
+      "code": "fr"
+    },
+    {
+      "description": "Il tema musicale dell'aggiornamento Dante Liberato da ascoltare dal Somachord nel tuo Orbiter.",
+      "name": "Musica Dante Liberato",
+      "code": "it"
+    },
+    {
+      "description": "오비터 내 소마코드에서 감상할 수 있는 해방된 단테 로그인 음원입니다.",
+      "name": "해방된 단테 로그인 음원",
+      "code": "ko"
+    },
+    {
+      "description": "Tema musical de Dante Liberado para disfrutar en el somacordio de tu orbitador.",
+      "name": "Música de Dante Liberado",
+      "code": "es"
+    },
+    {
+      "description": "《Dante 无枷》的登录音乐，可通过轨道飞行器中的身心和弦琴欣赏。",
+      "name": "《Dante 无枷》登录音乐",
+      "code": "zh"
+    },
+    {
+      "description": "Мелодия с экрана обновления «Данте на свободе» для прослушивания с помощью сомакорда в Орбитере.",
+      "name": "Мелодия: Данте на свободе",
+      "code": "ru"
+    },
+    {
+      "description": "オービター内のSomachordから聞ける解き放たれしDanteのログインミュージック。",
+      "name": "解き放たれしDante ログインミュージック",
+      "code": "ja"
+    },
+    {
+      "description": "Muzyka logowania z motywem aktualizacji Wyzwolenie Dantego, którą można się cieszyć w swoim Orbiterze dzięki Somakordowi.",
+      "name": "Motyw: Wyzwolenie Dantego",
+      "code": "pl"
+    },
+    {
+      "description": "A trilha sonora da atualização 'Libertação de Dante' para ouvir no Somacorde em sua Orbital.",
+      "name": "Trilha Sonora da Libertação de Dante",
+      "code": "pt"
+    },
+    {
+      "description": "透過軌道飛行器的身心和弦琴來欣賞 Dante・解放的登入畫面背景音樂。",
+      "name": "Dante・解放登入畫面背景音樂",
+      "code": "tc"
+    },
+    {
+      "description": "เพลิดเพลินไปกับการฟังเพลงล็อกอิน Dante Unbound ได้จาก Somachord ที่อยู่ในยานออร์บิเตอร์ของคุณ",
+      "name": "Dante Unbound Login Music",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'ında yer alan Somachord'da Dante Unbound giriş müziğinin keyfini çıkar.",
+      "name": "Dante Unbound Giriş Müziği",
+      "code": "tr"
+    },
+    {
+      "description": "Мелодія з екрана входу оновлення «Данте вільний» для прослуховування за допомогою сомакорда на орбітрі.",
+      "name": "Мелодія «Данте вільний»",
+      "code": "uk"
+    }
+  ]
+}

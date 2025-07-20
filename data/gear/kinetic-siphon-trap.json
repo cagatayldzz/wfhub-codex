@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/HunterTool",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kinetic-siphon-trap-bc31be8126.png",
+  "name": "Kinetic Siphon Trap",
+  "description": "Specialized trap for attracting and slowing the movement of synthesis targets.",
+  "languages": [
+    {
+      "description": "Spezielle Fallen, um Synthese-Ziele anzulocken und in ihren Bewegungen zu verlangsamen.",
+      "name": "Kinetische Siphon-Falle",
+      "code": "de"
+    },
+    {
+      "description": "Un piège spécialement conçu pour attirer et ralentir les cibles de synthèse.",
+      "name": "Siphon Cinétique",
+      "code": "fr"
+    },
+    {
+      "description": "Trappola specializzata nell'attrarre e rallentare il movimento dei bersagli della sintesi.",
+      "name": "Trappola Sifone Cinetico",
+      "code": "it"
+    },
+    {
+      "description": "신디시스 대상을 끌어당겨 이동 속도를 감속시키는 함정입니다.",
+      "name": "키네틱 사이펀 트랩",
+      "code": "ko"
+    },
+    {
+      "description": "Trampa especializada para atrapar y enlentecer los movimientos de objetivos de síntesis.",
+      "name": "Trampa de Sifón Cinético",
+      "code": "es"
+    },
+    {
+      "description": "用以吸引或减缓结合目标移动速度的特制陷阱。",
+      "name": "动能吸收陷阱",
+      "code": "zh"
+    },
+    {
+      "description": "Специальная ловушка для привлечения и замедления цели синтеза.",
+      "name": "Кинетико-сифонная ловушка",
+      "code": "ru"
+    },
+    {
+      "description": "シンセシスターゲットを誘い込んで、その動きを遅くするの特殊なトラップ。",
+      "name": "キネティックサイフォントラップ",
+      "code": "ja"
+    },
+    {
+      "description": "Wyspecjalizowana pułapka służąca do zwabiania i spowalniania ruchów celu Syntezy.",
+      "name": "Pułapka Syfonu Kinetycznego",
+      "code": "pl"
+    },
+    {
+      "description": "Armadilha especializada para atrair e retardar o movimento de alvos para síntese.",
+      "name": "Armadilha de Sifão Cinético",
+      "code": "pt"
+    },
+    {
+      "description": "用以吸引或減緩結合目標移動速度的特製陷阱。",
+      "name": "動能吸收陷阱",
+      "code": "tc"
+    },
+    {
+      "description": "กับดักพิเศษเพื่อใช้ดึงดูดและทำให้เป้าหมายสังเคราะห์เคลื่อนที่ช้าลง",
+      "name": "กับดักคิเนติกไซฟอน",
+      "code": "th"
+    },
+    {
+      "description": "Sentez hedeflerini yavaşlatmak veya dikkatlerini çekmek için kullanılır",
+      "name": "Kinetic Siphon Tuzağı",
+      "code": "tr"
+    },
+    {
+      "description": "Особлива пастка, що може знерухомлювати цілі синтезу.",
+      "name": "Кінетична сифонна пастка",
+      "code": "uk"
+    }
+  ]
+}

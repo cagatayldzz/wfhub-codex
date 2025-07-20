@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/GubberPowerSuit",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/djinn-95bb8b0ef8.png",
+  "name": "Djinn",
+  "description": "With 'Thumper' and 'Fatal Attraction' as default Precepts, Djinn is a combat Sentinel. Djinn also comes with a poison dart weapon.",
+  "armor": 80,
+  "languages": [
+    {
+      "description": "Mit 'Schläger' und 'Fatale Anziehung' als Standard-Verhaltensregel, ist Djinn ein Kampf-Wächter. Djinn verfügt außerdem über eine Giftpfeil-Waffe.",
+      "name": "Djinn",
+      "code": "de"
+    },
+    {
+      "description": "Avec 'Cogneur' et 'Attraction Fatale' comme Préceptes de base, Djinn est une Sentinelle de combat. Djinn est également livré avec une arme envoyant des fléchettes empoisonnées.",
+      "name": "Djinn",
+      "code": "fr"
+    },
+    {
+      "description": "Con 'Thumper' e 'Fatal Attraction' come Precetti base, Djinn è una Sentinella da combattimento. Djinn è anche dotata di un'arma che spara dardi avvelenati.",
+      "name": "Djinn",
+      "code": "it"
+    },
+    {
+      "description": "'썸퍼' 및 '페이탈 어트랙션'을 기본 프리셉트로 탑재한 진은 전투용 센티넬로, 주무기로 독성의 다트를 발사하는 무기를 장비하고 있습니다.",
+      "name": "진",
+      "code": "ko"
+    },
+    {
+      "description": "Con 'Golpeador' y 'Atracción fatal' como preceptos predeterminados, Djinn es un centinela de combate. Djinn también viene con un arma de dardos envenenados.",
+      "name": "Djinn",
+      "code": "es"
+    },
+    {
+      "description": "以「重击者」和「致命诱惑」为预设指令，引灵是一个战斗守护，还配备了毒镖武器。",
+      "name": "引灵",
+      "code": "zh"
+    },
+    {
+      "description": "Джинн — боевой Страж, с заповедями «Колотун» и «Смертельное Влечение». Снаряжён стреляющим отравленными дротиками Жалом.",
+      "name": "Джинн",
+      "code": "ru"
+    },
+    {
+      "description": "「Thumper」と「Fatal Attraction」を標準搭載したDJINNは、攻撃に特化したセンチネルである。猛毒のダーツを用いて攻撃する。",
+      "name": "Djinn",
+      "code": "ja"
+    },
+    {
+      "description": "Z instrukcjami 'Dudnik' i 'Zabójcza Przynęta', Djinn jest Strażnikiem bojowym. Standardowo uzbrojony jest w broń na zatrute strzałki.",
+      "name": "Djinn",
+      "code": "pl"
+    },
+    {
+      "description": "Com 'Thumper' e 'Fatal Attraction' como preceitos padrões, a Djinn é uma sentinela de combate. Ela vem equipada com uma arma que dispara dardos venenosos.",
+      "name": "Djinn",
+      "code": "pt"
+    },
+    {
+      "description": "以「重擊者」和「致命誘惑」為預設指令，引靈是一個戰鬥守護，還配備了毒鏢武器。",
+      "name": "引靈",
+      "code": "tc"
+    },
+    {
+      "description": "Djinn เป็นเซนติเนลสำหรับการต่อสู้ โดยมี 'Thumper' และ 'Fatal Attraction' เป็นคำสั่งเริ่มต้น ซึ่ง Djinn ยังมาพร้อมกับอาวุธลูกดอกอาบยาพิษอีกด้วย",
+      "name": "Djinn",
+      "code": "th"
+    },
+    {
+      "description": "Varsayılan yönergeleri 'Thumper' ve 'Fatal Attraction' ile beraber kullanıldığında Djinn bir savaş Sentineli haline bürünür. Zehirli dart silahıyla beraber gelir.",
+      "name": "Djinn",
+      "code": "tr"
+    },
+    {
+      "description": "Бойовий вартовий, має стандартні настанови «Тупотун» і «Фатальний потяг». Споряджений зброєю, що стріляє отруйними дротиками.",
+      "name": "Джин",
+      "code": "uk"
+    }
+  ]
+}

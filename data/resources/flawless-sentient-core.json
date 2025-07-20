@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsRareDogTag",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flawless-sentient-core-cab0da8c92.png",
+  "name": "Flawless Sentient Core",
+  "description": "A Sentient Core of this quality and condition has rarely been found. Truly a special specimen.\n\nLocation: Earned by capturing Eidolons found roaming the Plains of Eidolon on Earth at night",
+  "languages": [
+    {
+      "description": "Ein Sentient Kern dieser Qualität und in diesem Zustand wurden nur selten gefunden. Wahrlich ein seltenes Exemplar.\n\nQuelle: Kann verdient werden, indem man Eidolons fängt, welche die Ebenen von Eidolon (Erde) nachts durchstreifen.",
+      "name": "Makelloser Sentient Kern",
+      "code": "de"
+    },
+    {
+      "description": "Un Cœur de Sentient de cette qualité et dans cet état a rarement été trouvé. Vraiment un spécimen spécial.\n\nLieu: Peut être obtenu en capturant des Eidolons errant pendant la nuit dans les Plaines d'Eidolon sur Terre.",
+      "name": "Cœur de Sentient Parfait",
+      "code": "fr"
+    },
+    {
+      "description": "Un Nucleo Sentient di questa qualità e condizione viene trovato raramente. Davvero un esemplare speciale.\n\nPosizione: Ottenuto catturando gli Eidolon che vagano di notte per le Piane di Eidolon sulla Terra",
+      "name": "Nucleo Sentient Impeccabile",
+      "code": "it"
+    },
+    {
+      "description": "이 정도 품질과 상태의 센티언트 코어는 거의 발견되지 않습니다. 그야말로 특별한 표본입니다.\n\n획득 장소: 밤 시간 동안 지구 아이돌론의 평원을 배회하는 아이돌론을 포획 시 획득할 수 있습니다.",
+      "name": "완벽한 센티언트 코어",
+      "code": "ko"
+    },
+    {
+      "description": "Rara vez se ha encontrado un núcleo de consciente de esta calidad y condición, es verdaderamente un espécimen especial.\n\nUbicación: se obtiene capturando a los eidolones que deambulan por las Llanuras de Eidolon en la Tierra durante la noche.",
+      "name": "Núcleo perfecto de consciente",
+      "code": "es"
+    },
+    {
+      "description": "这种品质和状态的 Sentient 核心极为罕见。真正的特殊样本。\n\n获取地点：通过捕获在地球夜间的夜灵平野漫游的夜灵获得",
+      "name": "无瑕的 Sentient 核心",
+      "code": "zh"
+    },
+    {
+      "description": "Ядро Владеющих Разумом такого качества и в хорошем состоянии встречается редко. Действительно особенный экземпляр.\n\nМестонахождение: можно получить за поимку эйдолонов, которые бродят по равнинам Эйдолона на Земле ночью.",
+      "name": "Чистейшее Ядро Владеющих Разумом",
+      "code": "ru"
+    },
+    {
+      "description": "この品質と状態のセンティエントコアはめったに見つからないことで有名である。実に特別な標本である。\n\n場所：夜のエイドロンの草原（地球）に出現するエイドロンからドロップ",
+      "name": "完璧なセンティエントのコア",
+      "code": "ja"
+    },
+    {
+      "description": "Rdzeń Świadomego tej jakości i w takim stanie jest rzadko spotykany. Naprawdę wyjątkowy okaz.\n\nLokalizacja: Zdobywa się go za schwytanie Eidolonów wędrujących nocą po Równinach Eidolon na Ziemi",
+      "name": "Rdzeń Świadomego: Doskonały",
+      "code": "pl"
+    },
+    {
+      "description": "Um Núcleo de Sentient desta qualidade e condição é raro de ser encontrado. É, verdadeiramente, um espécime especial.\n\nLocalização: concedido por Eidolons encontrados vagando à noite nas Planícies de Eidolon, na Terra.",
+      "name": "Núcleo de Sentient (Impecável)",
+      "code": "pt"
+    },
+    {
+      "description": "這種等級和品質的 Sentient 核心非常罕見。是一顆真正特別的樣本。\n\n地點：捕獲夜間行走於地球上的夜靈平野的夜靈來獲取",
+      "name": "無暇的 Sentient 核心",
+      "code": "tc"
+    },
+    {
+      "description": "แกน Sentient ที่มีคุณภาพและสภาพที่ดีแบบนี้หาได้ยากมาก ถือเป็นไอเทมที่พิเศษมากจริง ๆ\n\nแหล่งที่พบ: รับไอเทมนี้ได้จากการจับ Eidolon ที่พบระหว่างสัญจรไปมาตามที่ราบ Eidolon บนโลกในเวลากลางคืน",
+      "name": "แกน Sentient ไร้ที่ติ",
+      "code": "th"
+    },
+    {
+      "description": "Bu kalite ve durumdaki bir Sentient Çekirdeği nadiren bulunur. Gerçekten özel bir örnek.\n\nKonum: Geceleri Dünya'daki Eidolon Ovalarında dolaşan Eidolonları yakalayarak kazanılır",
+      "name": "Kusursuz Sentient Çekirdeği",
+      "code": "tr"
+    },
+    {
+      "description": "Ядро свідомого такої якості та стану — дуже рідкісна знахідка. Надособливий зразок.\n\nМожна здобути захопленням ейдолонів уночі на Рівнинах Ейдолонів (Земля).",
+      "name": "Бездоганне ядро свідомого",
+      "code": "uk"
+    }
+  ]
+}

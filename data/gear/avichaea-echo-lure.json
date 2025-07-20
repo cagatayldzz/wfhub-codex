@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/avichaea-echo-lure-cfba141dcc.png",
+  "name": "Avichaea Echo-Lure",
+  "description": "Entice and attract nearby Avichaea with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Locke Avichaea in der Nähe mit lebensechten Lockrufen an.",
+      "name": "ECHO-KÖDER: AVICHAEA",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire les Avichaeas se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "ÉCHO-LEURRE AVICHAEA",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae i Avichaea vicini con dei richiami simili ai suoi.",
+      "name": "RICHIAMO AVICHAEA",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근의 아비케아를 꾀어 유인합니다.",
+      "name": "아비케아 에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae a aviqueas cercanas con llamados realistas del animal.",
+      "name": "ECO-SEÑUELO PARA AVIQUEA",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的古羽鸟。",
+      "name": "古羽鸟回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Манит и влечет Авичеев поблизости, издавая идентичные настоящим животные зовы.",
+      "name": "ЭХО-МАНОК ДЛЯ АВИЧЕЯ",
+      "code": "ru"
+    },
+    {
+      "description": "本物の動物とそっくりな鳴き声で近くのアビカイアを誘導する。",
+      "name": "アビカイア ECHOルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliską Awikeę, imitując odgłosy zwierząt.",
+      "name": "ECHO-WABIK AWIKEI",
+      "code": "pl"
+    },
+    {
+      "description": "Seduza e atraia Avichaea próximas, ao utilizá-la, com sons semelhantes aos dos animais.",
+      "name": "ECOISCA DE AVICHAEA",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的太古鳥。",
+      "name": "太古鳥回聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูด Avichaea ที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง AVICHAEA",
+      "code": "th"
+    },
+    {
+      "description": "Yakındaki Avichaea'ları gerçeğine çok benzeyen hayvan sesleriyle yanına çek.",
+      "name": "AVICHAEA EKO-ÇAĞIRICI",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює авікей поблизу реалістичною імітацією їхнього поклику.",
+      "name": "ЕХОВАБИК НА АВІКЕЮ",
+      "code": "uk"
+    }
+  ]
+}

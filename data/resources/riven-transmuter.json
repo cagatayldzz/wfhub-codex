@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientSecretItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/riven-transmuter-21254e850f.png",
+  "name": "Riven Transmuter",
+  "description": "Combine multiple Rivens to create a new, different Riven.",
+  "languages": [
+    {
+      "description": "Kombiniere mehrere Riven-Mods, um eine neue, andere Riven-Mod zu erhalten.",
+      "name": "Riven-Umwandler",
+      "code": "de"
+    },
+    {
+      "description": "Combine plusieurs Rivens pour en créer un nouveau, différent.",
+      "name": "Transmuteur de Riven",
+      "code": "fr"
+    },
+    {
+      "description": "Combina più Riven per crearne uno nuovo.",
+      "name": "Trasmutatore Riven",
+      "code": "it"
+    },
+    {
+      "description": "다수의 리벤을 합쳐서 하나의 새로운 다른 리벤을 생성합니다.",
+      "name": "리벤 변환기",
+      "code": "ko"
+    },
+    {
+      "description": "Combina varios Agrietados para crear uno nuevo y diferente.",
+      "name": "Transmutador de Agrietados",
+      "code": "es"
+    },
+    {
+      "description": "将多个裂罅 MOD 组合起来创造出一个新的不同的裂罅 MOD。",
+      "name": "裂罅转换器",
+      "code": "zh"
+    },
+    {
+      "description": "Совместите несколько модов разлома для создания нового, иного мода разлома.",
+      "name": "Трансмутатор Разлома",
+      "code": "ru"
+    },
+    {
+      "description": "複数のRivenを組み合わせて1つの新しい異なったRivenにする。",
+      "name": "Rivenトランスミューター",
+      "code": "ja"
+    },
+    {
+      "description": "Połącz kilka Rivenów, by stworzyć jeden zupełnie inny.",
+      "name": "Transmutator Riven",
+      "code": "pl"
+    },
+    {
+      "description": "Combine múltiplos Rivens em um novo.",
+      "name": "Transmutador de Riven",
+      "code": "pt"
+    },
+    {
+      "description": "將多個裂罅 MOD 組合起來創造出一個新的不同的裂罅 MOD。",
+      "name": "裂罅轉換器",
+      "code": "tc"
+    },
+    {
+      "description": "รวม Riven Mod หลายใบเพื่อสร้าง Riven Mod ใบใหม่ที่ต่างกัน",
+      "name": "ตัวแปลงสภาพ Riven",
+      "code": "th"
+    },
+    {
+      "description": "Bir kaç riveni birleştirip yeni ve farklı bir riven oluşturun.",
+      "name": "Riven Dönüştürücü",
+      "code": "tr"
+    },
+    {
+      "description": "Поєднайте кілька модифікаторів розколу, щоби створити новий, відмінний.",
+      "name": "Перетворювач розколу",
+      "code": "uk"
+    }
+  ]
+}

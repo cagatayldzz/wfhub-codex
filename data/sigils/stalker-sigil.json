@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilStalker",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/stalker-sigil-9411636fca.png",
+  "name": "Stalker Sigil",
+  "description": "A sigil depicting the emblem of the Stalker.",
+  "languages": [
+    {
+      "description": "Ein Siegel, das das Emblem des Stalkers trägt.",
+      "name": "Siegel: Stalker",
+      "code": "de"
+    },
+    {
+      "description": "Un Sceau illustrant l'emblème du Stalker.",
+      "name": "Sceau du Stalker",
+      "code": "fr"
+    },
+    {
+      "description": "Un sigillo che mostra l'emblema dello Stalker.",
+      "name": "Sigillo Stalker",
+      "code": "it"
+    },
+    {
+      "description": "스토커의 엠블럼이 그려진 시질입니다.",
+      "name": "스토커 시질",
+      "code": "ko"
+    },
+    {
+      "description": "Un sello que representa el emblema de Stalker.",
+      "name": "Sello de Stalker",
+      "code": "es"
+    },
+    {
+      "description": "一枚绘制了追猎者标志的纹章。",
+      "name": "追猎者纹章",
+      "code": "zh"
+    },
+    {
+      "description": "Сигил, изображающий Сталкера.",
+      "name": "Сигил: Сталкер",
+      "code": "ru"
+    },
+    {
+      "description": "Stalkerの紋様を写したシジル。",
+      "name": "Stalker シジル",
+      "code": "ja"
+    },
+    {
+      "description": "Znak przedstawiający emblemat Stalkera.",
+      "name": "Znak Stalkera",
+      "code": "pl"
+    },
+    {
+      "description": "Um brasão retratando o emblema do Stalker.",
+      "name": "Brasão: Stalker",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Stalker 徽章的紋章。",
+      "name": "Stalker 紋章",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องหมายที่แสดงถึงตราสัญลักษณ์ของ Stalker",
+      "name": "เครื่องหมาย: Stalker",
+      "code": "th"
+    },
+    {
+      "description": "Stalker temalı bir mühür",
+      "name": "Stalker Mührü",
+      "code": "tr"
+    },
+    {
+      "description": "Сиґіл із зображенням емблеми Сталкера.",
+      "name": "Сиґіл «Сталкер»",
+      "code": "uk"
+    }
+  ]
+}

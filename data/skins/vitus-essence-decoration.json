@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemVitusEssence",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitus-essence-decoration-020f1d3c1e.png",
+  "name": "Vitus Essence Decoration",
+  "description": "A Vitus Essence resource pickup to place in your Orbiter.",
+  "languages": [
+    {
+      "description": "Eine zu platzierende Dekoration für deinen Orbiter in Form einer Vitus-Essenz.",
+      "name": "Dekoration: Vitus-Essenz",
+      "code": "de"
+    },
+    {
+      "description": "Une Essence Vitus à placer dans votre Orbiteur.",
+      "name": "Décoration Essence Vitus",
+      "code": "fr"
+    },
+    {
+      "description": "Un'Essenza Vitus decorativa da piazzare nell'Orbiter.",
+      "name": "Essenza Vitus - Decorazione",
+      "code": "it"
+    },
+    {
+      "description": "오비터에 장식할 수 있는 바이터스 에센스 드롭 아이템입니다.",
+      "name": "바이터스 에센스 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Un hallazgo del recurso de esencia Vitus para colocar en tu orbitador.",
+      "name": "Decoración de Esencia Vitus",
+      "code": "es"
+    },
+    {
+      "description": "一个可以放置于轨道飞行器上的生息精华拾取物。",
+      "name": "生息精华装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Это украшение можно разместить в Орбитере.",
+      "name": "Украшение: Эссенция Витус",
+      "code": "ru"
+    },
+    {
+      "description": "船内に設置可能な素材のビタス・エッセンス。",
+      "name": "ビタス・エッセンス装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Esencja Vitus, którą możesz umieścić na swoim Orbiterze.",
+      "name": "Ozdoba: Esencja Vitus",
+      "code": "pl"
+    },
+    {
+      "description": "Um coletável de Essência Vitus para colocar em sua Orbital.",
+      "name": "Essência Vitus",
+      "code": "pt"
+    },
+    {
+      "description": "一個可以放置於軌道飛行器上的生息精華拾取物。",
+      "name": "生息精華裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "ไวทัสเอสเซนซ์ที่เอาไว้ตกแต่งจัดวางในออร์บิเตอร์ของคุณ",
+      "name": "ของตกแต่ง: ไวทัสเอสเซนซ์",
+      "code": "th"
+    },
+    {
+      "description": "Orbiter'a yerleştirilebilen Vitüs Özü dekorasyonu.",
+      "name": "Vitus Özü Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Ви можете розмістити цю есенцію життя на палубі орбітра.",
+      "name": "Оздоблення: есенція життя",
+      "code": "uk"
+    }
+  ]
+}

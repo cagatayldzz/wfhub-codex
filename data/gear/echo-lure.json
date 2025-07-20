@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/UpgradedAnimalLureGearItem",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/echo-lure-7774387e3d.png",
+  "name": "Echo-Lure",
+  "description": "Entice and attract nearby wildlife with life-like animal calls.",
+  "languages": [
+    {
+      "description": "Locke Tiere in der Nähe mit lebensechten Lockrufen an.",
+      "name": "Echo-Köder",
+      "code": "de"
+    },
+    {
+      "description": "Charme et attire la vie sauvage se trouvant à proximité à l'aide d'imitations de cris d'animaux réalistes.",
+      "name": "Écho-Leurre",
+      "code": "fr"
+    },
+    {
+      "description": "Circuisce e attrae la fauna vicina con dei richiami simili a quegli animali.",
+      "name": "Richiamo",
+      "code": "it"
+    },
+    {
+      "description": "살아있는 듯한 동물의 울음소리로 인근 야생동물을 꾀어 유인합니다.",
+      "name": "에코-루어",
+      "code": "ko"
+    },
+    {
+      "description": "Tienta y atrae vida silvestre cercana con llamados de animales vívidas.",
+      "name": "Eco-señuelo",
+      "code": "es"
+    },
+    {
+      "description": "以拟真的动物叫声来诱惑、吸引附近的野生动物。",
+      "name": "回声诱饵",
+      "code": "zh"
+    },
+    {
+      "description": "Влеките и маните животных поблизости с помощью животноподобных сигналов.",
+      "name": "Эхо-Манок",
+      "code": "ru"
+    },
+    {
+      "description": "生きているような動物の鳴き声で野生生物を誘って引き寄せる。",
+      "name": "Echoルアー",
+      "code": "ja"
+    },
+    {
+      "description": "Wabi i przyciąga pobliską dziką zwierzynę, imitując odgłosy zwierząt.",
+      "name": "Echo-Wabik",
+      "code": "pl"
+    },
+    {
+      "description": "Atraia formas de vida selvagem nas proximidades com chamados similares ao dos animais.",
+      "name": "Ecoisca",
+      "code": "pt"
+    },
+    {
+      "description": "以擬真的動物叫聲來誘惑、吸引附近的野生動物。",
+      "name": "迴聲誘餌",
+      "code": "tc"
+    },
+    {
+      "description": "เครื่องเลียนเสียงสัตว์ที่ฟังดูสมจริงเพื่อหลอกล่อและดึงดูดสัตว์ป่าที่อยู่ใกล้",
+      "name": "เครื่องเลียนแบบเสียง",
+      "code": "th"
+    },
+    {
+      "description": "Gerçeğe benzer hayvan sesleriyle doğadaki vahşi hayvanları yanına çek.",
+      "name": "Eko-Çağırıcı",
+      "code": "tr"
+    },
+    {
+      "description": "Приманює відповідних представників фауни реалістичною імітацією їхнього поклику.",
+      "name": "Еховабик",
+      "code": "uk"
+    }
+  ]
+}

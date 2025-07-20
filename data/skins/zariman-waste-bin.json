@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropCabinGarbageBin",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/zariman-waste-bin-248ab39aad.png",
+  "name": "Zariman Waste Bin",
+  "description": "Garbage has to go somewhere.",
+  "languages": [
+    {
+      "description": "Müll muss irgendwo hin.",
+      "name": "Zariman: Mülleimer",
+      "code": "de"
+    },
+    {
+      "description": "Les ordures doivent bien aller quelque part.",
+      "name": "Poubelle Zariman",
+      "code": "fr"
+    },
+    {
+      "description": "La spazzatura deve pur andare da qualche parte.",
+      "name": "Cestino Zariman",
+      "code": "it"
+    },
+    {
+      "description": "쓰레기도 각자 갈 곳이 있는 법입니다.",
+      "name": "자리만 쓰레기통",
+      "code": "ko"
+    },
+    {
+      "description": "La basura se debe tirar en algún lugar.",
+      "name": "Papelera Zariman",
+      "code": "es"
+    },
+    {
+      "description": "垃圾总得有个去处。",
+      "name": "扎里曼垃圾桶",
+      "code": "zh"
+    },
+    {
+      "description": "Мусор должен куда-то деваться.",
+      "name": "Мусорный Бак: Зариман",
+      "code": "ru"
+    },
+    {
+      "description": "ゴミはゴミ箱へ。",
+      "name": "Zariman ゴミ箱",
+      "code": "ja"
+    },
+    {
+      "description": "Śmieci muszą gdzieś trafić.",
+      "name": "Śmietnik Zariman",
+      "code": "pl"
+    },
+    {
+      "description": "O lixo tem que ir para algum lugar.",
+      "name": "Lixeira da Zariman",
+      "code": "pt"
+    },
+    {
+      "description": "垃圾不落地。",
+      "name": "扎日曼垃圾桶",
+      "code": "tc"
+    },
+    {
+      "description": "ขยะก็ต้องทิ้งลงไปที่ไหนสักแห่ง",
+      "name": "ถังขยะ Zariman",
+      "code": "th"
+    },
+    {
+      "description": "Çöplerin bir yere gitmesi gerekir.",
+      "name": "Zariman Çöp Kutusu",
+      "code": "tr"
+    },
+    {
+      "description": "Сміття потрібно кудись викидати.",
+      "name": "Смітник із «Заримена»",
+      "code": "uk"
+    }
+  ]
+}

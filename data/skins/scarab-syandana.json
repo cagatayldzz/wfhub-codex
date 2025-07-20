@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Scarves/InarosDlxCape",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/scarab-syandana-dfdc81c008.png",
+  "name": "Scarab Syandana",
+  "description": "The signature syandana of Inaros Ramses.",
+  "languages": [
+    {
+      "description": "Inaros Ramses unverkennbares Syandana.",
+      "name": "Skarabäus Syandana",
+      "code": "de"
+    },
+    {
+      "description": "La Syandana favorite d'Inaros Ramses.",
+      "name": "Syandana Scarab",
+      "code": "fr"
+    },
+    {
+      "description": "La syandana distintiva di Inaros Ramses.",
+      "name": "Syandana Scarab",
+      "code": "it"
+    },
+    {
+      "description": "이나로스 람세스의 대표 샨다나입니다.",
+      "name": "스카라브 샨다나",
+      "code": "ko"
+    },
+    {
+      "description": "La syandana tradicional de Inaros Ramsés.",
+      "name": "Syandana Scarab",
+      "code": "es"
+    },
+    {
+      "description": "Inaros 拉美西斯的标志性披饰。",
+      "name": "圣甲虫披饰",
+      "code": "zh"
+    },
+    {
+      "description": "Особая сандана Инароса «Рамсес».",
+      "name": "Сандана: Скарабей",
+      "code": "ru"
+    },
+    {
+      "description": "Inaros Ramsesを象徴するシャンダナ。",
+      "name": "Scarab シャンダナ",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczna Syandana Inarosa Ramses.",
+      "name": "Syandana Scarab",
+      "code": "pl"
+    },
+    {
+      "description": "A Syandana tradicional do Inaros Ramses.",
+      "name": "Syandana: Scarab",
+      "code": "pt"
+    },
+    {
+      "description": "Inaros 標誌性的拉美西斯披飾。",
+      "name": "聖甲蟲披飾",
+      "code": "tc"
+    },
+    {
+      "description": "ไซอันดานาที่เป็นซิกเนเจอร์ของ Inaros Ramses",
+      "name": "ไซอันดานา Scarab",
+      "code": "th"
+    },
+    {
+      "description": "Inaros Ramses'e ait özel bir syandana.",
+      "name": "Scarab Syandana",
+      "code": "tr"
+    },
+    {
+      "description": "Визначна сяндана ворфрейма Інара зі спорядженим виглядом «Рамзес».",
+      "name": "Сяндана «Скарабей»",
+      "code": "uk"
+    }
+  ]
+}

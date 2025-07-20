@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/quincy-gemini-emote-8d17648f73.png",
+  "name": "Quincy Gemini Emote",
+  "description": "Switch between Cyte-09 and Quincy's Gemini Skin with the Quincy Gemini Emote, even during missions.",
+  "languages": [
+    {
+      "description": "Wechsle mit dem Emote: Quincy Gemini zwischen Cyte-09 und Quincys Gemini-Skin, auch während Missionen.",
+      "name": "Emote: Quincy Gemini",
+      "code": "de"
+    },
+    {
+      "description": "Basculez entre Cyte-09 et l'Aspect Quincy de la Série Gémeaux avec le Geste Quincy Gémeaux, même pendant les missions.",
+      "name": "Geste Quincy Gémeaux",
+      "code": "fr"
+    },
+    {
+      "description": "Passa dalla Skin di Cyte-09 a quella Gemini di Quincy con l'Emote Quincy Gemini, anche durante le missioni.",
+      "name": "Emote Quincy Gemini",
+      "code": "it"
+    },
+    {
+      "description": "미션 도중 퀸시 제미니 감정 표현을 사용해 퀸시의 제미니 스킨과 Cyte-09 사이를 자유로이 전환할 수 있습니다.",
+      "name": "퀸시 제미니 감정 표현",
+      "code": "ko"
+    },
+    {
+      "description": "Cambia entre Cyte-09 y el diseño Géminis de Quincy con el gesto Géminis de Quincy, incluso durante las misiones.",
+      "name": "Gesto de Quincy Géminis",
+      "code": "es"
+    },
+    {
+      "description": "使用昆西双子表情动作，在 Cyte-09 和昆西的双子外观之间切换，即使是在任务期间。",
+      "name": "昆西双子表情动作",
+      "code": "zh"
+    },
+    {
+      "description": "Переключайтесь между Цитом-09 и скином Куинси «Близнецы» с помощью жеста «Близнецы» Куинси, даже во время миссий.",
+      "name": "Жест Куинси: Близнецы",
+      "code": "ru"
+    },
+    {
+      "description": "Quincy Geminiエモートでミッション中Cyte-09とQuincyを自由に切り替える。",
+      "name": "Quincy Gemini エモート",
+      "code": "ja"
+    },
+    {
+      "description": "Przełączaj się między Skórką Cyte-09 i Skórką Gemini Quincy'ego za pomocą Gestu Gemini Quincy'ego, nawet w trakcie misji.",
+      "name": "Gest Gemini Quincy'ego",
+      "code": "pl"
+    },
+    {
+      "description": "Alterne entre o Cyte-09 e a Skin Gemini do Quincy com o Emote Gemini do Quincy, até mesmo durante suas missões.",
+      "name": "Emote Gemini do Quincy",
+      "code": "pt"
+    },
+    {
+      "description": "使用崑西雙子表情動作來在 Cyte-09 和崑西的雙子外觀之間切換，即使在任務期間。",
+      "name": "崑西雙子表情動作",
+      "code": "tc"
+    },
+    {
+      "description": "สลับไปมาระหว่าง Cyte-09 กับสกิน Gemini ของ Quincy ด้วยอิโมต Quincy Gemini ซึ่งเปลี่ยนได้แม้จะอยู่ในระหว่างการทำภารกิจ",
+      "name": "อิโมต Quincy Gemini",
+      "code": "th"
+    },
+    {
+      "description": "Görevler sırasında, Quincy Gemini Gövde Hareketi ile Cyte-09 ve Quincy'nin Gemini Skin'i arasında geçiş yapabilirsin.",
+      "name": "Quincy Gemini Gövde Hareketi",
+      "code": "tr"
+    },
+    {
+      "description": "Перемикайтеся між виглядами Клітини-09 та Квінсі за допомогою жесту «Квінсі „Двійнята”» навіть під час завдання.",
+      "name": "Жест «Квінсі „Двійнята”»",
+      "code": "uk"
+    }
+  ]
+}

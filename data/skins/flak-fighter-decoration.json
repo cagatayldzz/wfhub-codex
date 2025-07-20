@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropGrineerFlak",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/flak-fighter-decoration-0765845ed0.png",
+  "name": "Flak Fighter Decoration",
+  "description": "A stunningly detailed representation of the signature Grineer fighter craft.",
+  "languages": [
+    {
+      "description": "Eine erstaunlich detaillierte Darstellung des typischen Grineer Jägers.",
+      "name": "Dekoration: Flak Jäger",
+      "code": "de"
+    },
+    {
+      "description": "Une représentation incroyablement détaillée du célèbre chasseur Grineer.",
+      "name": "Décoration Chasseur Flak",
+      "code": "fr"
+    },
+    {
+      "description": "Una rappresentazione incredibilmente dettagliata del caratteristico caccia Grineer.",
+      "name": "Decorazione Caccia Flak",
+      "code": "it"
+    },
+    {
+      "description": "그리니어의 특징적인 전투 기체를 놀랍도록 세밀하게 표현한 장식물입니다.",
+      "name": "플랙 전투 기체 장식물",
+      "code": "ko"
+    },
+    {
+      "description": "Una representación increíblemente detallada del caza distintivo grineer.",
+      "name": "Decoración de caza Flak",
+      "code": "es"
+    },
+    {
+      "description": "以惊人的细节展示了标志性的 Grineer 战机。",
+      "name": "高炮战机装饰",
+      "code": "zh"
+    },
+    {
+      "description": "Потрясающе детализированная модель фирменного истребителя Гринир.",
+      "name": "Украшение: Истребитель Флэк",
+      "code": "ru"
+    },
+    {
+      "description": "グリニア戦闘機を細かく再表現したモデル。",
+      "name": "フラック戦闘機の装飾品",
+      "code": "ja"
+    },
+    {
+      "description": "Oszałamiająco szczegółowa replika charakterystycznego myśliwca Grineer.",
+      "name": "Ozdoba: Myśliwiec Flak",
+      "code": "pl"
+    },
+    {
+      "description": "Uma representação incrivelmente detalhada do caça tradicional dos Grineers.",
+      "name": "Caça de Unidade Anti-Aérea",
+      "code": "pt"
+    },
+    {
+      "description": "標誌性 Grineer 戰機的驚人細緻呈現。",
+      "name": "轟擊號戰機裝飾物",
+      "code": "tc"
+    },
+    {
+      "description": "รูปแบบจำลองยานรบที่เป็นซิกเนเจอร์ของ Grineer ที่แสดงรายละเอียดไว้อย่างน่าทึ่ง",
+      "name": "ของตกแต่ง: เครื่องบินรบ Flak",
+      "code": "th"
+    },
+    {
+      "description": "Grineer avcı gemisinin şaşırtıcı derecede ayrıntılı bir temsili.",
+      "name": "Flak Avcı Gemisi Dekorasyonu",
+      "code": "tr"
+    },
+    {
+      "description": "Приголомшливе деталізоване відтворення ґрінерського бойового судна.",
+      "name": "Оздоблення: зенітний винищувач",
+      "code": "uk"
+    }
+  ]
+}

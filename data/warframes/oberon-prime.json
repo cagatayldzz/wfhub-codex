@@ -1,0 +1,80 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Paladin/PaladinPrime",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/oberon-prime-71fc40c9ca.png",
+  "name": "Oberon Prime",
+  "description": "Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization.",
+  "armor": 240,
+  "aura": "madurai",
+  "languages": [
+    {
+      "description": "Schützt die Balance mit dem majestätischen Hüter des Waldes. Bietet alternative Mod-Polaritäten für erhöhte Anpassbarkeit.",
+      "name": "Oberon Prime",
+      "code": "de"
+    },
+    {
+      "description": "Protégez l'équilibre avec ce majestueux gardien de la forêt. Il possède des polarités de mods altérées pour une meilleure personnalisation.",
+      "name": "Oberon Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Proteggi l'equilibrio con questo regale guardiano della foresta. Presenta polarità alterate per una maggiore personalizzazione.",
+      "name": "Oberon Prime",
+      "code": "it"
+    },
+    {
+      "description": "이 정당한 숲의 보호자와 함께 균형을 수호하세요. 더욱 다채로운 특성화를 위한 추가 모드 극성이 포함되어 있습니다.",
+      "name": "오베론 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Protege el balance con este guardián regio del bosque. Cuenta con polaridades de mod alteradas para una mayor personalización.",
+      "name": "Oberon Prime",
+      "code": "es"
+    },
+    {
+      "description": "以这帝王般庄严的森林庇护者维系平衡。拥有改造过的 Mod 极性槽，可提供更优秀的自定义空间。",
+      "name": "Oberon Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Поддерживайте порядок с этим королевским стражем леса. Обладает дополнительными полярностями слотов для более тонкой настройки.",
+      "name": "Оберон Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "この壮麗たる森の守護者でバランスを保て。極性が変更されているため、カスタマイズの幅が広がっている。",
+      "name": "Oberon Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Broń równowagi z tym monarszym strażnikiem lasu. Zawiera zmienione polaryzacje, dla większych możliwości personalizacji.",
+      "name": "Oberon Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Proteja o equilíbrio com este guardião florestal majestoso. Inclusas polaridades alteradas de mods para uma maior personalização.",
+      "name": "Oberon Prime",
+      "code": "pt"
+    },
+    {
+      "description": "以這帝王般莊嚴的森林庇護者維繫平衡。擁有改造過的 MOD 極性槽，可提供更優秀的自訂性能。",
+      "name": "Oberon Prime",
+      "code": "tc"
+    },
+    {
+      "description": "ปกป้องความสมดุลไปกับราชาผู้พิทักษ์ผืนป่า มีการปรับเปลี่ยนขั้ว Mod เพื่อช่วยให้การปรับแต่งดียิ่งขึ้น",
+      "name": "Oberon Prime",
+      "code": "th"
+    },
+    {
+      "description": "Bu muhteşem orman gardiyanı ile dengeyi sağlayın. Daha iyi özelleştirme için gelişmiş mod kutuplarına sahiptir.",
+      "name": "Oberon Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Лісовий захисник, що оберігає рівновагу природи. Має змінені полярності комірок модифікаторів задля гнучкості удосконалення.",
+      "name": "Оберон-прайм",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Mag/SWFerroHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/mag-ferro-helmet-457359ba6b.png",
+  "name": "Mag Ferro Helmet",
+  "description": "A helmet for the Mag Warframe, designed by Master Noob.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Mag Warframe, entworfen von Master Noob.",
+      "name": "Mag-Helm: Ferro",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Mag, conçu par Master Noob.",
+      "name": "Casque Mag Ferro",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Mag, ideato da Master Noob.",
+      "name": "Elmo Mag Ferro",
+      "code": "it"
+    },
+    {
+      "description": "Master Noob에 의해 디자인된 매그 워프레임을 위한 헬멧입니다.",
+      "name": "매그 페로 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Mag, diseñado por Master Noob.",
+      "name": "Casco Ferro de Mag",
+      "code": "es"
+    },
+    {
+      "description": "Mag 战甲的头盔，由 Master Noob 设计。",
+      "name": "Mag 铁磁头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для варфрейма Мэг, созданный Master Noob.",
+      "name": "Шлем Мэг: Ферро",
+      "code": "ru"
+    },
+    {
+      "description": "Mag用のヘルメット。製作者：Master Noob。",
+      "name": "Mag Ferro ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe Mag, zaprojektowany przez Master Noob.",
+      "name": "Mag: Hełm Ferro",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Mag, desenvolvido por Master Noob.",
+      "name": "Mag: Capacete Ferro",
+      "code": "pt"
+    },
+    {
+      "description": "Mag Warframe 的頭盔，由 Master Noob 設計。",
+      "name": "Mag 鐵磁頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Mag Warframe ออกแบบโดย Master Noob",
+      "name": "หมวกเหล็ก Mag Ferro",
+      "code": "th"
+    },
+    {
+      "description": "Master Noob tarafından tasarlanmış bir Mag Warframe miğferi.",
+      "name": "Mag Ferro Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Меґ, створений Master Noob.",
+      "name": "Шолом «Ферро» для Меґ",
+      "code": "uk"
+    }
+  ]
+}

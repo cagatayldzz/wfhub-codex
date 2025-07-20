@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnGhoulSaw/GrnGhoulSawPlayer",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ghoulsaw-62d778b801.png",
+  "name": "Ghoulsaw",
+  "description": "The cruelest of weapons built for the crudest of Grineer soldiers. Rips through metal like flesh, and through flesh like day-old pudding.",
+  "languages": [
+    {
+      "description": "Die grausamste aller Waffen, gebaut für die gröbsten aller Grineer Soldaten. Geht durch Metall wie Fleisch und durch Fleisch wie Butter.",
+      "name": "Ghulsäge",
+      "code": "de"
+    },
+    {
+      "description": "La plus cruelle des armes construites pour les plus grossiers des soldats Grineers. Déchire le métal comme la chair, et la chair comme du pudding.",
+      "name": "Scie de Goule",
+      "code": "fr"
+    },
+    {
+      "description": "La più crudele delle armi costruite per il più rozzo dei soldati Grineer. Lacera il metallo come la carne, e la carne come fosse burro.",
+      "name": "Ghoulsaw",
+      "code": "it"
+    },
+    {
+      "description": "가장 조잡한 그리니어 병사들을 위해 만들어진 가장 잔악한 무기입니다. 금속은 살갗처럼, 그리고 살갗은 하루 지난 푸딩처럼 쉽게 베어 나갑니다.",
+      "name": "구울소우",
+      "code": "ko"
+    },
+    {
+      "description": "La más cruel de las armas, construida para los soldados grineer más rudos. Atraviesa el metal como si fuera carne y a la carne como si fuera pudín.",
+      "name": "Ghoulsaw",
+      "code": "es"
+    },
+    {
+      "description": "（英文：GHOULSAW）为那些最粗鲁的 Grineer 士兵所打造的最残忍的武器。削铁如肉，割肉如泥。",
+      "name": "尸鬼电锯",
+      "code": "zh"
+    },
+    {
+      "description": "Самое жестокое оружие, созданное для самых жестоких солдат Гринир. Разрывает металл, как плоть, а плоть превращает в тухлый пудинг.",
+      "name": "Пила Упыря",
+      "code": "ru"
+    },
+    {
+      "description": "グリニアの中でも特に野蛮な兵士用に造られた残忍極まる武器。鋼を肉のように、肉を一日放置したプリンのように切り裂く。",
+      "name": "Ghoulsaw",
+      "code": "ja"
+    },
+    {
+      "description": "Najokrutniejsza z broni stworzona dla najbardziej prymitywnych żołnierzy Grineer. Przedziera się przez metal jak mięso, a przez mięso jak przez jednodniowy budyń.",
+      "name": "Piła Ghula",
+      "code": "pl"
+    },
+    {
+      "description": "A mais cruel das armas, construída para o mais cruel dos soldados Grineer. Rasga metal como se fosse carne, e carne como se fosse pudim de leite condensado.",
+      "name": "Serra Carniçal",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：GHOULSAW）為最殘暴的 Grineer 士兵而打造的最殘酷的武器。揮斬金屬如血肉之軀，揮斬血肉之軀如放了一天的舊布丁。",
+      "name": "屍鬼輪鋸",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธที่ร้ายแรงที่สุดสร้างขึ้นสำหรับทหาร Grineer ที่โหดเหี้ยมที่สุด ซึ่งจะฉีกทะลุผ่านโลหะเหมือนเศษเนื้อและทะลุผ่านชิ้นเนื้อเหมือนพุดดิ้งค้างคืน",
+      "name": "Ghoulsaw",
+      "code": "th"
+    },
+    {
+      "description": "Zalim Grineer askerleri için yapılmış olan silahların en ilkeli. Metali adeta et gibi, eti ise bayatlamış puding gibi delip geçer.",
+      "name": "Ghoulsaw",
+      "code": "tr"
+    },
+    {
+      "description": "Найжорстокіша зброя для найжорстокіших ґрінерських солдатів. Пилка прорізає метал, як плоть, а плоть — як старе розтале масло.",
+      "name": "Гулепилка",
+      "code": "uk"
+    }
+  ]
+}

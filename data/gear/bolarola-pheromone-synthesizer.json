@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowArmadilloRarityBoost",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bolarola-pheromone-synthesizer-3c3ac6e927.png",
+  "name": "Bolarola Pheromone Synthesizer",
+  "description": "Deploy just before using the echo-lure to increase the chance of attracting a rarer subspecies of Bolarola.",
+  "languages": [
+    {
+      "description": "Einsetzen kurz bevor ein Echo-Köder benutzt wird, um die Chance zu erhöhen, eine seltenere Bolarola-Unterart anzulocken.",
+      "name": "Pheromon Synthesizer: Bolarola",
+      "code": "de"
+    },
+    {
+      "description": "À déployer juste avant d'utiliser l'Écho-Leurre afin d'augmenter les chances d'attirer une sous-espèce de Bolarolas plus rares.",
+      "name": "Synthétiseur de Phéromone Bolarola",
+      "code": "fr"
+    },
+    {
+      "description": "Dispiega prima di usare il richiamo per avere maggiori possibilità di attrarre rare sottospeci di Bolarola.",
+      "name": "Sintetizzatore Feromone Bolarola",
+      "code": "it"
+    },
+    {
+      "description": "에코-루어 사용 직전에 배치하여 더욱 희귀한 볼라롤라의 아종을 유인할 수 있는 확률을 증가시키세요.",
+      "name": "볼라롤라 페로몬 합성기",
+      "code": "ko"
+    },
+    {
+      "description": "Despliega justo antes de usar el eco-señuelo para aumentar la probabilidad de atraer a una subespecie rara de bolarola.",
+      "name": "Sintetizador de feromonas de Bolarola",
+      "code": "es"
+    },
+    {
+      "description": "在使用回声诱饵前部署可以提升吸引一种波雷罗拉稀有亚种的几率。",
+      "name": "波雷罗拉费洛蒙合成器",
+      "code": "zh"
+    },
+    {
+      "description": "Примените перед использованием эхо-манка, чтобы увеличить вероятность привлечения более редкого подвида Боларолы.",
+      "name": "Синтезатор Феромонов Боларолы",
+      "code": "ru"
+    },
+    {
+      "description": "ECHOルアーを使用する直前に起動して、より希少なボラロラを引き寄せる確率を上げよう。",
+      "name": "ボラロラ フェロモン シンセサイザー",
+      "code": "ja"
+    },
+    {
+      "description": "Skorzystaj z tego zaraz przed użyciem echo-wabika, aby zwiększyć szansę na zwabienie rzadszego okazu Stulacza.",
+      "name": "Syntezator Feromonów Stulacza",
+      "code": "pl"
+    },
+    {
+      "description": "Utilize este item antes de utilizar a Ecoisca para aumentar a chance de atrair subespécies mais raras de Bolarolas.",
+      "name": "Sintetizador de Feromônio de Bolarola",
+      "code": "pt"
+    },
+    {
+      "description": "在使用迴聲誘餌前部署可以提升吸引一種波雷羅拉稀有亞種的機率。",
+      "name": "波雷羅拉費洛蒙合成器",
+      "code": "tc"
+    },
+    {
+      "description": "ปรับใช้ก่อนที่จะใช้เครื่องเลียนแบบเสียง เพื่อเพิ่มโอกาสในการดึงดูดสายพันธุ์ย่อยที่หายากของ Bolarola",
+      "name": "ตัวสังเคราะห์ฟีโรโมน Bolarola",
+      "code": "th"
+    },
+    {
+      "description": "Eko-Çağırıcı kullanmadan önce yerleştirerek Bolarola'nın en nadir türlerinin dikkatini çekme şansını artır.",
+      "name": "Bolarola Feromon Sentezleyici",
+      "code": "tr"
+    },
+    {
+      "description": "Застосуйте перед увімкненням еховабика, щоб із більшою ймовірністю приманити рідкісний різновид боларол.",
+      "name": "Відтворювач феромону болароли",
+      "code": "uk"
+    }
+  ]
+}

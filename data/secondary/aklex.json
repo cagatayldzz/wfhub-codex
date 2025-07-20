@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/aklex-20f578f0e2.png",
+  "name": "Aklex",
+  "description": "Dual Lex pistols double the amount of high caliber lead you can throw at the enemy, but accuracy and reload time suffer.",
+  "languages": [
+    {
+      "description": "Zwei Lex-Pistolen verdoppeln die Menge an großkalibrigem Blei, das du auf Feinde abfeuern kannst, büßen jedoch an Genauigkeit und Nachladezeit ein.",
+      "name": "Aklex",
+      "code": "de"
+    },
+    {
+      "description": "Les deux Pistolets Lex doublent la quantité de plomb de haut calibre que vous pouvez tirer sur l'ennemi, mais la précision et le temps de rechargement en souffrent.",
+      "name": "Aklex",
+      "code": "fr"
+    },
+    {
+      "description": "Usando due Lex alla volta potrete infliggere il doppio dei danni, a spese di una ridotta precisione e un tempo di ricarica maggiore.",
+      "name": "Aklex",
+      "code": "it"
+    },
+    {
+      "description": "한 쌍의 렉스 권총은 적에게 날릴 수 있는 높은 구경의 탄 수를 두 배로 늘렸지만, 이로 인해 정확도와 재장전 시간에 손해를 보게 되었습니다.",
+      "name": "아클렉스",
+      "code": "ko"
+    },
+    {
+      "description": "Las pistolas Lex dobles duplican la cantidad de plomo de alto calibre que disparas al enemigo, a costa de una reducción de la precisión y del tiempo de recarga.",
+      "name": "Aklex",
+      "code": "es"
+    },
+    {
+      "description": "（英文：AKLEX）以雷克斯双枪的两只大口径枪管朝敌人开火，但精准度和装填时间会受到负面影响。",
+      "name": "雷克斯双枪",
+      "code": "zh"
+    },
+    {
+      "description": "Парные Лексы удваивают количество высоко-калиберного свинца, которым вы можете поражать врагов, однако страдает точность и увеличивается время перезарядки.",
+      "name": "Аклекс",
+      "code": "ru"
+    },
+    {
+      "description": "「LEX」ヘビーピストルを両手に装備する。二倍の装弾数と連射力を誇るが、その分リロード時間と銃の精度が低下する。",
+      "name": "Aklex",
+      "code": "ja"
+    },
+    {
+      "description": "Podwójne pistolety Lex podwajają ilość wielkokalibrowego ołowiu, który możesz rzucić przeciwko swoim wrogom. Cierpi na tym jednak celność i czas przeładowania.",
+      "name": "Aklex",
+      "code": "pl"
+    },
+    {
+      "description": "As pistolas Aklex dobram a quantidade de munição de alto calibre que você pode atirar no inimigo, mas têm menor precisão e tempo de recarga.",
+      "name": "Aklex",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：AKLEX）以雷克斯雙槍的兩支大口徑槍管朝敵人開火，但精準度和裝填時間會受到負面影響。",
+      "name": "雷克斯雙槍",
+      "code": "tc"
+    },
+    {
+      "description": "ปืนพกคู่ Lex มีขนาดลำกล้องปืนที่สูงขึ้นเป็นสองเท่า ทำให้สามารถสาดกระสุนใส่ศัตรูได้ แต่มีความแม่นยำลดลงและเวลาในการบรรจุกระสุนใหม่ช้าลง",
+      "name": "Aklex",
+      "code": "th"
+    },
+    {
+      "description": "Dual Lex tabancaları düşmana atabileceğin yüksek kalibreli kurşun miktarını iki katına çıkarır, ancak isabet oranı ve yeniden doldurma süresi olumsuz etkilenir.",
+      "name": "Aklex",
+      "code": "tr"
+    },
+    {
+      "description": "Парна версія пістолетів «Лекс». Випускає у ворогів подвоєну кількість великокаліберного свинцю. Має довший час заряджання й меншу влучність.",
+      "name": "Аклекс",
+      "code": "uk"
+    }
+  ]
+}

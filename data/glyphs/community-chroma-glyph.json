@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityChroma",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/community-chroma-glyph-c8a93dcd24.png",
+  "name": "Community Chroma Glyph",
+  "description": "A community glyph depicting Chroma in the style of community artist StudioCyen.",
+  "languages": [
+    {
+      "description": "Eine Community-Glyphe, die Chroma im Stil des Community-Künstlers StudioCyen darstellt.",
+      "name": "Glyphe: Chroma (Community)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe Communautaire représentant Chroma dans le style de l'artiste communautaire StudioCyen.",
+      "name": "Glyphe Communautaire de Chroma",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo raffigurante Chroma nello stile dell'artista della comunità StudioCyen.",
+      "name": "Glifo Chroma Comunità",
+      "code": "it"
+    },
+    {
+      "description": "커뮤니티 아티스트 StudioCyen의 스타일로 크로마를 묘사한 커뮤니티 글리프입니다.",
+      "name": "커뮤니티 크로마 글리프",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo de la comunidad que representa a Chroma, creado al estilo del artista de la comunidad, StudioCyen.",
+      "name": "Glifo de Chroma de la comunidad",
+      "code": "es"
+    },
+    {
+      "description": "由社区艺术家 StudioCyen 创作的 Chroma 社区浮印。",
+      "name": "社区 Chroma 浮印",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф сообщества, изображающий Хрому в стиле художника сообщества StudioCyen.",
+      "name": "Глиф сообщества: Хрома",
+      "code": "ru"
+    },
+    {
+      "description": "Chromaのコミュニティグリフ。StudioCyen作。",
+      "name": "コミュニティ Chroma グリフ",
+      "code": "ja"
+    },
+    {
+      "description": "Glif społecznościowy przedstawiający Chroma w stylu artysty StudioCyen.",
+      "name": "Glif Społeczności: Chroma",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo da comunidade retratando o Chroma, desenvolvido por StudioCyen.",
+      "name": "Glifo: Chroma (Comunidade)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Chroma 的社群浮印，以社群藝術家──StudioCyen 的風格創作。",
+      "name": "社群 Chroma 浮印",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ชุมชนที่แสดงภาพ Chroma ที่ศิลปินชุมชน StudioCyen เป็นผู้ออกแบบ",
+      "name": "ภาพสัญลักษณ์ Community Chroma",
+      "code": "th"
+    },
+    {
+      "description": "StudioCyen tarafından tasarlanan, Chroma tarzında tasvir edilen bir topluluk glifi.",
+      "name": "Topluluk Chroma Glifi",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Хроми, створений StudioCyen.",
+      "name": "Гліф спільноти «Хрома»",
+      "code": "uk"
+    }
+  ]
+}

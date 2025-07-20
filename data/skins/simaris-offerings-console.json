@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropSimarisOfferings",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/simaris-offerings-console-333ba553f1.png",
+  "name": "Simaris Offerings Console",
+  "description": "Hunter, behold the rewards of your work in Synthesis. A Simaris console decoration for your Orbiter.",
+  "languages": [
+    {
+      "description": "Jäger, seht die Belohnungen für eure Arbeit bei der Synthese. Eine dekorative Simaris-Konsole für deinen Orbiter.",
+      "name": "Simaris Angebot-Konsole",
+      "code": "de"
+    },
+    {
+      "description": "Chasseur, admirez la récompense de vos efforts en Synthèse. Une console Simaris de décoration pour votre Orbiteur.",
+      "name": "Console des Offres de Simaris",
+      "code": "fr"
+    },
+    {
+      "description": "Cacciatore, ammira la ricompensa per il tuo lavoro nella Sintesi. Una console Simaris come decorazione per il tuo Orbiter.",
+      "name": "Console Offerte Simaris",
+      "code": "it"
+    },
+    {
+      "description": "헌터여, 신디시스에 바친 당신의 노력에 대한 상을 드립니다. 당신의 착륙정을 위한 시마리스 콘솔 장식물입니다.",
+      "name": "시마리스 제공품 콘솔",
+      "code": "ko"
+    },
+    {
+      "description": "Cazador, contempla las recompensas de tu trabajo en la Síntesis. Una decoración de Simaris para la consola de tu Orbitador.",
+      "name": "Consola de ofrendas de Simaris",
+      "code": "es"
+    },
+    {
+      "description": "猎者，看看你结合仪式的成果吧。一个可以装点你轨道飞行器的 Simaris 控制台装饰。",
+      "name": "Simaris 声望奖励控制台",
+      "code": "zh"
+    },
+    {
+      "description": "Охотник, лицезрей награды за проведённый Синтез. Украшение-терминал Симэриса для Вашего Орбитера.",
+      "name": "Терминал - Предложения Симэриса",
+      "code": "ru"
+    },
+    {
+      "description": "「狩人よ、あなたが行ったシンセシスの報酬を見るがよい」船内に設置できるSimarisのコンソール装飾品。",
+      "name": "Simaris 提供物コンソール",
+      "code": "ja"
+    },
+    {
+      "description": "Łowco, oto Twe nagrody za wykonaną Syntezę. Dekoracja konsoli Simarisa dla Twojego Orbitera.",
+      "name": "Konsola Darów Simarisa",
+      "code": "pl"
+    },
+    {
+      "description": "Caçador, contemple as recompensas de seu trabalho na Síntese. Uma decoração de um painel do Simaris para sua Orbital.",
+      "name": "Painel de Oferendas do Simaris",
+      "code": "pt"
+    },
+    {
+      "description": "獵者，看看你結合儀式的成果吧。一個可以裝點你軌道飛行器的 Simaris 控制台裝飾物。",
+      "name": "Simaris 聲望獎勵控制台",
+      "code": "tc"
+    },
+    {
+      "description": "นักล่า ดูของรางวัลที่ได้มาจากผลงานในการสังเคราะห์สิ คอนโซล Simaris ที่ใช้สำหรับตกแต่งยานออร์บิเตอร์ของคุณ",
+      "name": "คอนโซลที่เสนอรางวัลของ Simaris",
+      "code": "th"
+    },
+    {
+      "description": "Avcı, Synthesis'teki çalışmalarının ödüllerine dikkatli bak. Orbiter'ınız için bir Simaris konsol dekorasyonu.",
+      "name": "Simaris Teklif Konsolu",
+      "code": "tr"
+    },
+    {
+      "description": "Мисливцю, ця декоративна консоль Симаріса — нагорода за ваш внесок у наповнення Заповідника.",
+      "name": "Консоль крамниці Симаріса",
+      "code": "uk"
+    }
+  ]
+}

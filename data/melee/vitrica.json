@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/vitrica-d0a2b456bd.png",
+  "name": "Vitrica",
+  "description": "The sword the fabled Orokin executioner Nihil used to glass the condemned. Swing while Aim Gliding to glass enemies. A Ground Slam will smash nearby glassed foes, while sending forward a narrow shockwave to shatter distant ones. A Heavy Slam sends forth a wider shockwave with greater force.",
+  "languages": [
+    {
+      "description": "Das Schwert des berühmten Orokin Henkers Nihil. Es wurde dazu genutzt, Verurteilte zu verglasen. Schwinge es während des Zielgleitens, um Gegner zu verglasen. Ein Schmetterangriff wird verglaste Gegner in der Nähe zerschmettern, während eine enge Schockwelle gegen entferntere Gegner geschleudert wird. Ein Schwerer Schmetterangriff wird breitere und stärkere Schockwellen hervorbringen.",
+      "name": "Vitrica",
+      "code": "de"
+    },
+    {
+      "description": "L'Épée que le légendaire bourreau Orokin Nihil utilisait pour vitrifier les condamnés. Frappez pendant une Visée Planée pour vitrifier vos ennemis. Une Frappe au Sol écrasera les ennemis vitrifiés à proximité, tout en envoyant une onde de choc qui brisera les ennemis plus éloignés. Une Frappe au Sol Lourde enverra une onde de choc plus large avec une plus grande force.",
+      "name": "Vitrica",
+      "code": "fr"
+    },
+    {
+      "description": "La spada che il leggendario carnefice Orokin, Nihil, utilizzava per vetrificare i condannati. Attacca durante la Planata per tramutare i nemici in vetro. Uno Schianto a Terra frantumerà quelli vicini, mentre si propaga un'onda d'urto che distrugge quelli più distanti. Un Attacco pesante permetterà all'onda di propagarsi maggiormente e con più forza.",
+      "name": "Vitrica",
+      "code": "it"
+    },
+    {
+      "description": "전설의 오로킨 처형인 나힐이 유죄 판결을 받은 자들을 유리결정화 시키는 데 사용한 검입니다. 에임 글라이드 중 검을 휘둘러 적들을 유리결정화 시킬 수 있습니다. 지면 강타 공격으로 유리결정화된 적들을 산산조각 내고, 좁은 범위의 충격파를 발산해 떨어진 거리의 적들 또한 조각낼 수 있습니다. 지면 강타 강 공격 시 더욱 강력한 충격파를 더 넓은 범위로 발산합니다.",
+      "name": "비트리카",
+      "code": "ko"
+    },
+    {
+      "description": "La espada que el legendario verdugo orokin, Nihil, usó para cristalizar al condenado. Ataca mientras planeas para cristalizar a los enemigos. Un ataque contra el suelo romperá a los enemigos cristalizados cercanos, mientras envía una onda de choque estrecha para destruir a los distantes. Un ataque pesado contra el suelo envía una onda de choque más estrecha con mayor fuerza.",
+      "name": "Vitrica",
+      "code": "es"
+    },
+    {
+      "description": "（英文：VITRICA）传说中的 Orokin 行刑者无刹，用这把剑来将犯人玻璃化。在飞身瞄准时挥动攻击可以使敌人玻璃化。震地攻击将击碎附近玻璃化的敌人，同时向前放出一道冲击窄波，来击碎远处的敌人。重型震地攻击则会放出威力更大且更宽的冲击波。",
+      "name": "金璃剑",
+      "code": "zh"
+    },
+    {
+      "description": "Меч, которым легендарный палач Орокин Нихил превращал осужденных в стекло. Нанесите удар на лету, чтобы превратить врагов в стекло. Удар по земле разнесёт в осколки остекленевших врагов поблизости, а выпущенная вперёд ударная волна разобьёт тех, что находятся дальше. Тяжелый удар по земле посылает более широкую ударную волну с большей силой.",
+      "name": "Витрика",
+      "code": "ru"
+    },
+    {
+      "description": "伝説的なオロキンの死刑執行人Nihilが罪ある者をガラス化する際に用いた剣。エイムグライド中に振るうことで敵をガラス化する。グラウンドスラムで付近のガラス化した敵を粉砕し、衝撃波を前方に送り出して離れている敵を粉砕する。ヘビースラムは、より大きな力で広範囲の衝撃波を送り出す。",
+      "name": "Vitrica",
+      "code": "ja"
+    },
+    {
+      "description": "Miecz używany przez legendarnego kata Orokin Nihila do szklenia skazanych. Wykonaj zamach podczas Celowania w Locie, aby zeszklić wrogów. Uderzenie w ziemię rozbije pobliskich zeszklonych przeciwników, jak również wyśle do przodu wąską falę uderzeniową, aby rozbić tych odległych. Ciężkie uderzenie w ziemię wysyła do przodu szerszą falę z większą siłą.",
+      "name": "Vitrica",
+      "code": "pl"
+    },
+    {
+      "description": "A espada com a qual Nihil, o lendário executor Orokin, vitrificou suas vítimas. Golpeie durante o Planar e Mirar para vitrificar seus inimigos. Ao realizar um Ataque ao Solo, não apenas os inimigos vitrificados atingidos serão estilhaçados, como também uma onda de choque será disparada à sua frente, fragmentando alvos distantes durante seu percurso. Um Ataque Pesado ao Solo gerará uma onda de choque maior e mais potente.",
+      "name": "Vitrica",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：VITRICA）傳說中的 Orokin 行刑者──Nihil 用來把罪犯玻璃化的一把劍。飛身瞄準時揮擊它來把敵人玻璃化，施展震地攻擊粉碎附近被玻璃化的敵人，同時擊出一道向前的衝擊波，擊碎遠距離的敵人。震地重擊能以更強的力量擊出更寬的衝擊波。",
+      "name": "碎璃之劍",
+      "code": "tc"
+    },
+    {
+      "description": "ดาบในตำนานที่ Nihil ผู้สำเร็จโทษแห่ง Orokin เคยใช้เพื่อทำให้ผู้ที่ถูกลงโทษกลายเป็นแก้ว หากแกว่งไปมาในขณะที่เล็งขณะร่อนจะทำให้ศัตรูกลายเป็นแก้ว การทุบพื้นจะทุบศัตรูที่กลายเป็นแก้วแล้วที่อยู่ใกล้ ๆ ให้แตกเป็นเสี่ยง ๆ และส่งคลื่นช็อกเวฟที่มีวงแคบไปข้างหน้าเพื่อทำลายศัตรูที่อยู่ไกลออกไป หากทุบพื้นอย่างรุนแรงจะยิ่งทำให้คลื่นช็อกเวฟกว้างขึ้นและมีแรงกระแทกที่มากขึ้นอีก",
+      "name": "Vitrica",
+      "code": "th"
+    },
+    {
+      "description": "Efsanevi Orokin cellatı Nihil'in mahkumları camlaştırmak için kullandığı kılıç. Düşmanlarınızı camlaştırmak için Nişan Alarak Süzülme sırasında saldırın. Bir yere çarpma saldırısı, yakındaki camlaşmış düşmanları parçalarken, daha uzaktaki düşmanlara zarar verecek bir şok dalgası gönderir. Ağır bir yere Çarpma Saldırısı, daha büyük bir kuvvetle daha geniş bir şok dalgası gönderir.",
+      "name": "Vitrica",
+      "code": "tr"
+    },
+    {
+      "description": "Меч Нігіла — легендарного ката орокінів, який перетворює засуджених на скло. Для цього потрібно вдарити ворога під час прицілювання в повітрі. Удар по землі завдасть шкоди скляним ворогам поруч і запустить ударну хвилю, щоб зачепити тих, хто далі. Потужний удар по землі спричинить ширшу й потужнішу ударну хвилю.",
+      "name": "Вітріка",
+      "code": "uk"
+    }
+  ]
+}

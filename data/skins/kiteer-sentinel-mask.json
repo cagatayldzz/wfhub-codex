@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/BaroPetMask",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/ki'teer-sentinel-mask-f1146b51df.png",
+  "name": "Ki'Teer Sentinel Mask",
+  "description": "A mask designed to match the one worn by Baro Ki'Teer, for your Sentinel pet.",
+  "languages": [
+    {
+      "description": "Eine Maske für deinen Wächter, entworfen im Stil von Baro Ki'Teer.",
+      "name": "Wächtermaske: Ki'Teer",
+      "code": "de"
+    },
+    {
+      "description": "Un masque conçu pour ressembler à celui porté par Baro Ki'Teer, mais pour votre Sentinelle!",
+      "name": "Masque de Sentinelle Ki'Teer",
+      "code": "fr"
+    },
+    {
+      "description": "Una maschera per la tua Sentinella progettata per somigliare a quella indossata da Baro Ki'Teer.",
+      "name": "Maschera Sentinella Ki'Teer",
+      "code": "it"
+    },
+    {
+      "description": "바로 키'티어가 쓰고 다니는 마스크와 똑같은 디자인으로 제작된 센티넬용 마스크입니다.",
+      "name": "키'티어 센티넬 마스크",
+      "code": "ko"
+    },
+    {
+      "description": "Una máscara diseñada para coincidir con la máscara que usa Baro Ki'Teer, para tu centinela.",
+      "name": "Máscara Ki'Teer de centinela",
+      "code": "es"
+    },
+    {
+      "description": "一张基于 Baro Ki'teer 穿戴款式所设计的面具，适用于守护。",
+      "name": "Ki'Teer 守护面具",
+      "code": "zh"
+    },
+    {
+      "description": "Маска, созданная быть похожей на аналогичную Баро Ки'Тиира, но для вашего Стража.",
+      "name": "Маска стража: Ки'Тиир",
+      "code": "ru"
+    },
+    {
+      "description": "これでいつでもボクに会えるよ。センチネル用のマスク。",
+      "name": "Ki'Teer センチネルマスク",
+      "code": "ja"
+    },
+    {
+      "description": "Maska dla Twojego Strażnika, w swym wzornictwie nawiązująca do tej, którą nosi Baro Ki'Teer.",
+      "name": "Maska Strażnika: Ki'Teer",
+      "code": "pl"
+    },
+    {
+      "description": "Máscara projetada para a sua Sentinela que combina com a máscara usada por Baro Ki'Teer.",
+      "name": "Máscara de Sentinela: Ki'Teer",
+      "code": "pt"
+    },
+    {
+      "description": "一張基於 Baro Ki'Teer 穿戴款式所設計的面具，適用於守護。",
+      "name": "Ki'Teer 守護面具",
+      "code": "tc"
+    },
+    {
+      "description": "หน้ากากที่ออกแบบมาเพื่อให้เข้ากับหน้ากากที่ Baro Ki'Teer สวมใส่ เหมาะสำหรับสัตว์เลี้ยงเซนติเนลของคุณ",
+      "name": "หน้ากากเซนติเนล Ki'Teer",
+      "code": "th"
+    },
+    {
+      "description": "Sentineliniz için Baro Ki'teer kullandığına benzer bir maske",
+      "name": "Ki'Teer Sentinel Maskesi",
+      "code": "tr"
+    },
+    {
+      "description": "Повна копія маски Баро Кі’Тіра для вашого улюбленого вартового.",
+      "name": "Маска «Кі’Тір» для вартового",
+      "code": "uk"
+    }
+  ]
+}

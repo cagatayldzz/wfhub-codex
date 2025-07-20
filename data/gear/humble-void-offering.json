@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipSmall",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/humble-void-offering-b797a1fd4c.png",
+  "name": "Humble Void Offering",
+  "description": "Give unto The Void 1,000 credits.",
+  "languages": [
+    {
+      "description": "Gebe 1.000 Credits in den Void.",
+      "name": "Bescheidenes Void-Opfer",
+      "code": "de"
+    },
+    {
+      "description": "Accordez au Néant 1 000 Crédits.",
+      "name": "Offrande Modeste au Néant",
+      "code": "fr"
+    },
+    {
+      "description": "Dona al Void 1,000 crediti.",
+      "name": "Offerta Void Umile",
+      "code": "it"
+    },
+    {
+      "description": "보이드에 1,000 크레딧을 헌금합니다.",
+      "name": "험블 보이드 오퍼링",
+      "code": "ko"
+    },
+    {
+      "description": "Entregar al Vacío 1000 créditos.",
+      "name": "Ofrenda Humilde del Vacío",
+      "code": "es"
+    },
+    {
+      "description": "献给虚空的 1,000 元现金。",
+      "name": "谦卑的虚空捐献",
+      "code": "zh"
+    },
+    {
+      "description": "Предложение в 1 000 кредитов из Бездны.",
+      "name": "Скромное предложение из Бездны",
+      "code": "ru"
+    },
+    {
+      "description": "VOIDへ1,000クレジットを献金する。",
+      "name": "Void献上品（謙遜）",
+      "code": "ja"
+    },
+    {
+      "description": "Oddaj Pustce 1000 kredytów.",
+      "name": "Skromna Ofiara Pustki",
+      "code": "pl"
+    },
+    {
+      "description": "Dê ao Void 1.000 créditos.",
+      "name": "Oferenda ao Void Humilde",
+      "code": "pt"
+    },
+    {
+      "description": "獻給虛空的 1,000 元現金。",
+      "name": "謙卑的虛空捐獻",
+      "code": "tc"
+    },
+    {
+      "description": "มอบให้แก่วอยด์ 1,000 เครดิต",
+      "name": "ข้อเสนอวอยด์ที่เรียบง่าย",
+      "code": "th"
+    },
+    {
+      "description": "1,000 kredi içeren kredi çipi",
+      "name": "Mütevazı Void Teklifi",
+      "code": "tr"
+    },
+    {
+      "description": "Віддає в «Порожнечу» 1 000 кредитів.",
+      "name": "Скромна пропозиція Порожнечі",
+      "code": "uk"
+    }
+  ]
+}

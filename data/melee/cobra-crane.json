@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/PacifistShieldAndSword/PacifistShieldSword",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/cobra-&-crane-cf2d6b1c36.png",
+  "name": "Cobra & Crane",
+  "description": "Baruuk's signature weapons: a sword for retribution, a shield for restraint. In Baruuk's hands, and his hands only, Cobra's first strike in a combo renders his foe unconscious.",
+  "languages": [
+    {
+      "description": "Lieblingswaffe von Baruuk: ein Schwert für Vergeltung, ein Schild für Zurückhaltung. In Baruuks Händen, und nur in seinen Händen, schlägt Kobras erster Kombo-Schlag den Feind in Ohnmacht.",
+      "name": "Cobra & Crane",
+      "code": "de"
+    },
+    {
+      "description": "Les armes favorites de Baruuk: une Épée, symbole de châtiment, et un Bouclier, symbole de contrainte. Dans les mains de Baruuk, et de Baruuk uniquement, la première frappe d'un combo avec Cobra rend l'ennemi inconscient.",
+      "name": "Cobra & Crane",
+      "code": "fr"
+    },
+    {
+      "description": "Le Armi distintive di Baruuk: una spada per retribuzione, uno scudo per restrizione. Nelle mani di Baruuk, e soltanto nelle sue mani, il primo attacco di Cobra in una combo rende i suoi avversari privi di sensi.",
+      "name": "Cobra & Crane",
+      "code": "it"
+    },
+    {
+      "description": "응징의 검, 규제의 방패로 이루어진 바루크의 대표 무기들로, 바루크의 손에 들렸을 때, 그리고 오직 그의 손에서만, 코브라의 연속기 첫 타격은 적들을 의식불명으로 만듭니다.",
+      "name": "코브라 & 크레인",
+      "code": "ko"
+    },
+    {
+      "description": "Las armas tradicionales de Baruuk: una espada de retribución, un escudo para contención. En las manos de Baruuk, y solo en sus manos, el primer golpe de un combo deja inconsciente a su enemigo.",
+      "name": "Cobra & Crane",
+      "code": "es"
+    },
+    {
+      "description": "（英文：COBRA & CRANE）Baruuk 的标志性武器：代表报应的剑，以及象征克制的盾。唯有在 Baruuk 的手中，眼镜蛇招式中的第一次打击可使敌人失去意识。",
+      "name": "眼镜蛇 & 鹤",
+      "code": "zh"
+    },
+    {
+      "description": "Особое оружие Баруука: меч для возмездия, щит для сдерживания. В руках Баруука, и только его руках, первый комбо-удар Кобры лишает противника сознания. ",
+      "name": "Кобра И Журавль",
+      "code": "ru"
+    },
+    {
+      "description": "Baruukお気に入りの装備。制裁の剣、抑圧の盾。Baruukが使用した場合のみ、Cobraによる敵への最初のコンボ攻撃は敵を気絶させる。",
+      "name": "Cobra & Crane",
+      "code": "ja"
+    },
+    {
+      "description": "Charakterystyczne Bronie Baruuka: miecz dla odkupienia i tarcza dla powściągnięcia się. W rękach Baruuka i tylko w jego rękach, pierwsze uderzenie Cobry w kombinacji powali wrogów do nieprzytomności.",
+      "name": "Cobra i Crane",
+      "code": "pl"
+    },
+    {
+      "description": "As armas tradicionais de Baruuk: uma espada para retribuição, um escudo para contenção. Nas mãos de Baruuk, e apenas nestas mãos, o primeiro ataque da espada Cobra deixa seu inimigo inconsciente.",
+      "name": "Cobra & Crane",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：COBRA & CRANE）Baruuk 的招牌武器：代表報應的劍，以及象徵克制的盾。唯有在 Baruuk 的手中，眼鏡蛇招式中的第一次打擊可使敵人失去意識。",
+      "name": "眼鏡蛇 & 鶴",
+      "code": "tc"
+    },
+    {
+      "description": "อาวุธประจำตัวของ Baruuk ที่มีดาบคอยตามสนองต่อผลกรรมที่ทำไว้ มีโล่ไว้คอยยับยั้งชั่งใจ หากอาวุธอยู่ในมือของ Baruuk ครั้งแรกที่ Cobra ทำการโจมตีคอมโบจะทำให้ศัตรูสลบไสลไร้สติ",
+      "name": "Cobra & Crane",
+      "code": "th"
+    },
+    {
+      "description": "Baruuk'un sembolik silahları: intikam için bir kılıç, direniş için ise bir kalkan. Baruuk, bu silahı kullanırken Cobra'nın kombo başlangıcındaki ilk vuruşta rakibini bayıltır.",
+      "name": "Cobra & Crane",
+      "code": "tr"
+    },
+    {
+      "description": "Меч карає ворогів, щит стримує їхній натиск. Якщо їх бере до рук Баруук, то перше влучання Коброю під час виконання будь-якої серії ударів відправляє ворога в нокаут.",
+      "name": "Кобра й Журавель",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardAtlas",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-prex-23113fce68.png",
+  "name": "Atlas Prex",
+  "description": "The Stone That Shatters All",
+  "languages": [
+    {
+      "description": "Der Stein, der alles zerschlägt",
+      "name": "Atlas Prex",
+      "code": "de"
+    },
+    {
+      "description": "La Pierre Qui Brise Tout",
+      "name": "Prex Atlas",
+      "code": "fr"
+    },
+    {
+      "description": "La Pietra Che Frantuma Tutto",
+      "name": "Prex: Atlas",
+      "code": "it"
+    },
+    {
+      "description": "모든 것을 산산조각 내는 돌",
+      "name": "아틀라스 프렉스",
+      "code": "ko"
+    },
+    {
+      "description": "La piedra que destroza todo",
+      "name": "Prex de Atlas",
+      "code": "es"
+    },
+    {
+      "description": "粉碎一切的石头",
+      "name": "Atlas Prex 卡牌",
+      "code": "zh"
+    },
+    {
+      "description": "Камень, разрушающий всё",
+      "name": "Прекс: Атлас",
+      "code": "ru"
+    },
+    {
+      "description": "全てを砕く石",
+      "name": "Atlas プレックス",
+      "code": "ja"
+    },
+    {
+      "description": "Kamień, który wszystko rozbija",
+      "name": "Prex: Atlas",
+      "code": "pl"
+    },
+    {
+      "description": "A pedra que destrói tudo",
+      "name": "Prex: Atlas",
+      "code": "pt"
+    },
+    {
+      "description": "粉碎萬物之石",
+      "name": "卡牌 — Atlas",
+      "code": "tc"
+    },
+    {
+      "description": "หินที่ทำลายทุกสิ่ง",
+      "name": "ไพ่เพร็กซ์ Atlas",
+      "code": "th"
+    },
+    {
+      "description": "Her şeyi Parçalayabilen Taş",
+      "name": "Atlas Prex",
+      "code": "tr"
+    },
+    {
+      "description": "Камінь, що руйнує все",
+      "name": "Прекс Атласа",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/halloween-cfd11233fc.png",
+  "name": "Halloween",
+  "description": "Unlocks a collection of Ghastly Greens, Pumpkin Orange and Blood Red colors to customize your Warframe with.",
+  "languages": [
+    {
+      "description": "Schaltet eine Sammlung von gespenstisch-grünen, kürbis-orangen und blutroten Farben frei, mit denen du deinen Warframe individualisieren kannst.",
+      "name": "Halloween",
+      "code": "de"
+    },
+    {
+      "description": "Débloque une collection de couleurs Vert Horrible, Orange Citrouille et Rouge Sang pour personnaliser l’apparence des Warframes.",
+      "name": "Halloween",
+      "code": "fr"
+    },
+    {
+      "description": "Sblocca una collezione di colori Verde Spettrale, Arancione Zucca e Rosso Sangue per personalizzare il tuo Warframe.",
+      "name": "Halloween",
+      "code": "it"
+    },
+    {
+      "description": "워프레임을 꾸밀 수 있는 으스스한 녹색, 호박빛의 주황 그리고 핏빛을 발하는 붉은색 색상들을 잠금 해제합니다.",
+      "name": "할로윈",
+      "code": "ko"
+    },
+    {
+      "description": "Desbloquea una colección de verdes espantosos, naranjas calabaza y rojos sangre para personalizar tu warframe con ellos.",
+      "name": "Halloween",
+      "code": "es"
+    },
+    {
+      "description": "解锁阴森绿，南瓜橙，血腥红的颜色组合，自定你的战甲。",
+      "name": "万圣节",
+      "code": "zh"
+    },
+    {
+      "description": "Разблокирует призрачно-зеленые, тыквенно-оранжевые и кроваво-красные цвета в меню внешнего вида.",
+      "name": "Хэллоуин",
+      "code": "ru"
+    },
+    {
+      "description": "おっかない緑色、カボチャの橙色、血の赤色で彩られたハロウィンカラーをアンロックする。",
+      "name": "Halloween",
+      "code": "ja"
+    },
+    {
+      "description": "Odblokowuje kolekcję Strasznych Zieleni, Dyniowych Pomarańczy i Krwawych Czerwieni, które pozwolą lepiej spersonalizować Twoje Warframe'y.",
+      "name": "Halloween",
+      "code": "pl"
+    },
+    {
+      "description": "Destrava uma coleção de cores Verdes Medonhos, Laranja Abóbora e Vermelho Sangue para personalizar seu Warframe.",
+      "name": "Halloween",
+      "code": "pt"
+    },
+    {
+      "description": "解鎖陰森綠，南瓜橙，血腥紅的顏色組合，自訂你的 WARFRAME。",
+      "name": "萬聖節",
+      "code": "tc"
+    },
+    {
+      "description": "ปลดล็อกคอลเลกชันสีเขียวคล้ายภูต สีส้มฟักทอง และสีแดงเลือดเพื่อเอาไว้ใช้ปรับแต่ง Warframe ของคุณ",
+      "name": "Halloween",
+      "code": "th"
+    },
+    {
+      "description": "Koyu Yeşil, Portakal Turuncusu ve Kan Kırmızısı renklerini Warframe'inde kullanabilmen için açar",
+      "name": "Cadılar Bayramı",
+      "code": "tr"
+    },
+    {
+      "description": "Додаткова палітра моторошно-зелених, гарбузово-помаранчевих та криваво-червоних кольорів задля урізнобарвлення гри.",
+      "name": "Геловін",
+      "code": "uk"
+    }
+  ]
+}

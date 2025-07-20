@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/rubico-prime-1ea479c379.png",
+  "name": "Rubico Prime",
+  "description": "For the hunter, the apex of the sniper's art. For the hunted, a gateway to the next life.",
+  "languages": [
+    {
+      "description": "Für den Jäger, ein Meisterwerk der Scharfschützen-Kunst. Für den Gejagten, ein Tor ins nächste Leben.",
+      "name": "Rubico Prime",
+      "code": "de"
+    },
+    {
+      "description": "Pour les chasseurs, le summum au niveau de l'art des snipers. Pour les proies par contre, il est synonyme de passage vers l'au-delà.",
+      "name": "Rubico Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Per il cacciatore, l'apice dell'arte dei cecchini. Per la preda, l'ingresso per la prossima vita.",
+      "name": "Rubico Prime",
+      "code": "it"
+    },
+    {
+      "description": "사냥꾼에겐 저격술의 정점. 그러나 사냥감에겐 내세로의 관문입니다.",
+      "name": "루비코 프라임",
+      "code": "ko"
+    },
+    {
+      "description": "Para el cazador, el ápex del arte de los francotiradores. Para el cazado, una puerta a la próxima vida.",
+      "name": "Rubico Prime",
+      "code": "es"
+    },
+    {
+      "description": "（英文：RUBICO PRIME）对猎人而言，这是狙击艺术的巅峰。对于猎物而言，这是通向来生的大门。",
+      "name": "绝路 Prime",
+      "code": "zh"
+    },
+    {
+      "description": "Для охотника - шедевр снайперского искусства. Для жертвы - врата в иной мир.",
+      "name": "Рубико Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "狩る者にとってはスナイパーの業の結晶。狩られる者にとっては来世への片道切符。",
+      "name": "Rubico Prime",
+      "code": "ja"
+    },
+    {
+      "description": "Dla myśliwego - szczyt sztuki snajperskiej. Dla zwierzyny - brama do następnego życia.",
+      "name": "Rubico Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Para os caçadores, uma obra-prima entre os atiradores. Para a caça, uma porta de entrada para a próxima vida.",
+      "name": "Rubico Prime",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：RUBICO PRIME）對獵人而言，這是狙擊藝術的巔峰。對於獵物而言，這是通向來生的大門。",
+      "name": "絕路 Prime",
+      "code": "tc"
+    },
+    {
+      "description": "สำหรับนักล่าแล้ว อาวุธชิ้นนี้ถือเป็นปืนสไนเปอร์ระดับยอดงานศิลป์ แต่สำหรับผู้ถูกล่า มันคือประตูไปสู่ภพหน้า",
+      "name": "Rubico Prime",
+      "code": "th"
+    },
+    {
+      "description": "Avcı için, keskin nişancı sanatının vazgeçilmezi. Av için, diğer dünyaya giden bir geçit.",
+      "name": "Rubico Prime",
+      "code": "tr"
+    },
+    {
+      "description": "Для мисливця — шедевр серед снайперських гвинтівок. Для жертви — шлях до іншого світу.",
+      "name": "Рубіко-прайм",
+      "code": "uk"
+    }
+  ]
+}

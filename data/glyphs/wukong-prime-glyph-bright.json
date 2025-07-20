@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWukongPrimeBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/wukong-prime-glyph---bright-26c30b0a78.png",
+  "name": "Wukong Prime Glyph - Bright",
+  "description": "A glyph depicting Wukong Prime on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Wukong Prime vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Wukong Prime (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Wukong Prime sur un fond lumineux.",
+      "name": "Glyphe Wukong Prime - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Wukong Prime su uno sfondo chiaro.",
+      "name": "Glifo Wukong Prime - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 오공 프라임을 묘사한 글리프입니다.",
+      "name": "오공 프라임 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que muestra a Wukong Prime sobre un fondo claro.",
+      "name": "Glifo de Wukong Prime - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Wukong Prime 在明亮背景下的浮印。",
+      "name": "Wukong Prime 浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Вуконга Прайм на светлом фоне.",
+      "name": "Глиф: Вуконг Прайм - светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたWukong Prime のグリフ。",
+      "name": "Wukong Prime グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Wukong Prime na jasnym tle.",
+      "name": "Glif Wukong Prime — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Wukong Prime em um fundo claro.",
+      "name": "Glifo: Wukong Prime (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Wukong Prime 在明亮背景下的浮印。",
+      "name": "Wukong Prime 浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงภาพ Wukong Prime บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Wukong Prime - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Wukong Prime açık fonlu glif.",
+      "name": "Wukong Prime Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Вукона-прайм на світлому тлі.",
+      "name": "Яскравий гліф «Вукон-прайм»",
+      "code": "uk"
+    }
+  ]
+}

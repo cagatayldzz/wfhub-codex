@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropBallasSwordSheath",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/paracesis-sheath-368b3b1696.png",
+  "name": "Paracesis Sheath",
+  "description": "An ornate sheath for the Paracesis.",
+  "languages": [
+    {
+      "description": "Eine verzierte Schwertscheide für das Paracesis.",
+      "name": "Paracesis Schwertschutz",
+      "code": "de"
+    },
+    {
+      "description": "Un fourreau d'apparat pour le Paracesis.",
+      "name": "Fourreau de Paracesis",
+      "code": "fr"
+    },
+    {
+      "description": "Una guaina decorata per la Paracesis.",
+      "name": "Paracesis - Guaina",
+      "code": "it"
+    },
+    {
+      "description": "파라세시스를 위한 화려한 칼집입니다.",
+      "name": "파라세시스 시스",
+      "code": "ko"
+    },
+    {
+      "description": "Una vaina decorativa para la Paracesis.",
+      "name": "Vaina de Paracesis",
+      "code": "es"
+    },
+    {
+      "description": "心智之殁的华丽刀鞘。",
+      "name": "心智之殁 刀鞘",
+      "code": "zh"
+    },
+    {
+      "description": "Изысканные ножны для Парацесиса.",
+      "name": "Ножны: Парацесис",
+      "code": "ru"
+    },
+    {
+      "description": "Paracesis専用の華やかな鞘。",
+      "name": "Paracesis Sheath",
+      "code": "ja"
+    },
+    {
+      "description": "Ozdobna pochwa dla miecza Paracesis.",
+      "name": "Paracesis: Pochwa",
+      "code": "pl"
+    },
+    {
+      "description": "Uma bainha ornamentada para a Paracesis.",
+      "name": "Paracesis: Bainha",
+      "code": "pt"
+    },
+    {
+      "description": "心智之殁的華麗刀鞘。",
+      "name": "心智之歿 刀鞘",
+      "code": "tc"
+    },
+    {
+      "description": "ฝักดาบสุดหรูสำหรับ Paracesis",
+      "name": "ฝักดาบ Paracesis",
+      "code": "th"
+    },
+    {
+      "description": "Paracesis için bezemeli bir kılıf",
+      "name": "Paracesis Kılıfı",
+      "code": "tr"
+    },
+    {
+      "description": "Оздоблені піхви для важкого клинка «Парацес».",
+      "name": "Піхви для Парацеса",
+      "code": "uk"
+    }
+  ]
+}

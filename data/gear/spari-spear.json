@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearA",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/spari-spear-5e91b362b1.png",
+  "name": "Spari Spear",
+  "description": "Plumb the depths with this crafty fishing spear that's barely detectable to Infested and hybrid/Orokin fish. Due to its Infested aspect, it's one of the only known things that can pass through exocrine. \n\nObtained from Daughter in the Necralisk. This spear is most effective on fish found in the Cambion Drift (Deimos).",
+  "languages": [
+    {
+      "description": "Erforsche die Tiefen mit dieser raffinierten Harpune, die von befallenen Fischen und Hybrid-Fischen (Befallene/Orokin) kaum wahrgenommen werden kann. Aufgrund ihrer befallenen Eigenschaften ist sie eines der wenigen bekannten Dinge, die Exocrine durchdringen kann. \n\nZu erhalten von Tochter im Necralisk. Diese Harpune ist am effektivsten bei den Fischen der Cambion-Drift (Deimos).",
+      "name": "Harpune: Spari",
+      "code": "de"
+    },
+    {
+      "description": "Plongez dans les profondeurs avec ce Harpon de pêche astucieux, à peine détectable par les poissons Infestés et hybrides/Orokins. En raison de son aspect Infesté, c'est l'une des seules choses connues qui peuvent passer à travers l'Exocrine. \n\nObtenu auprès de la Fille dans le Necralisk. Ce Harpon est particulièrement efficace contre les poissons du Puy de Cambion (Deimos).",
+      "name": "Harpon Spari",
+      "code": "fr"
+    },
+    {
+      "description": "Esplora le profondità con questa astuta lancia da pesca che è appena percettibile per i pesci Infested e ibridi/Orokin. Grazie al suo aspetto infestato, è una delle poche cose note che può passare attraverso l'exocrine. \n\nAcquistabile da Figlia nel Necralisk. Questa lancia è più efficace sui pesci che si trovano nel Cambion Drift (Deimos).",
+      "name": "Lancia Spari",
+      "code": "it"
+    },
+    {
+      "description": "인페스티드 및 인페스티드/오로킨 혼성체 물고기가 거의 감지해낼 수 없을 정도로 잘 만들어진 이 낚시 작살로 심연을 휘저으세요. 이 작살은 감염체 기질을 가진 덕에 외분비액을 관통할 수 있다고 알려진 몇 안 되는 도구 중 하나입니다.\n\n네크랄리스크의 딸에게서 획득할 수 있습니다. 이 작살은 캠비온 퇴적지 (데이모스) 에서 발견되는 물고기들에게 가장 효과적입니다.",
+      "name": "스파리 스피어",
+      "code": "ko"
+    },
+    {
+      "description": "Explora las profundidades con este ingenioso arpón de pesca que apenas es detectable para los peces infestados y los híbridos/orokin. Por su apariencia infestada, es una de las únicas cosas que se sabe pueden atravesar el exocrino. \n\nSe obtiene con Hija en el Necralisk. Este arpón es más efectivo con los peces que se encuentran en Deriva Cambion (Deimos).",
+      "name": "Arpón Spari",
+      "code": "es"
+    },
+    {
+      "description": "用这把狡黠的鱼叉来探索深渊，感染者和感染者/Orokin 混种鱼类几乎无法察觉它。由于它的感染属性，它是已知的少数几种可以穿过外分泌液的鱼叉。 \n\n从殁世幽都的”女儿“处获得。这根鱼叉对魔胎之境的鱼类最有效。",
+      "name": "弯刃鱼叉",
+      "code": "zh"
+    },
+    {
+      "description": "Погружайтесь в глубины с этим хитроумным рыболовным гарпуном, который едва заметен для заражённых и гибридных/орокинских рыб. Благодаря своему заражённому аспекту, это одно из немногих известных средств, способных проходить через экзокрин.\n\nМожно получить у Дочери в Некралиске. Этот гарпун наиболее эффективен для рыб, встречающихся в Камбионском Дрейфе (Деймос).",
+      "name": "Гарпун: Спари",
+      "code": "ru"
+    },
+    {
+      "description": "感染体とオロキンのハイブリッド魚をこのほとんど気づかれない狡猾なモリで突き刺そう。感染体としての側面を持つため、外分泌液を貫通できると解明されている数少ない道具の一つ。\n\nネクロリスクのDaughterから入手可能。このモリはカンビオン荒地（ダイモス）の魚に対して最も有効的。",
+      "name": "Spari モリ",
+      "code": "ja"
+    },
+    {
+      "description": "Zgłębiaj głębiny, dzierżąc tę zmyślną włócznię rybołówstwa - niemal niezauważalną dla ryb Plagi oraz ryb będących hybrydami Plagi i ryb Orokin. Dzięki skrzyżowaniu z Plagą jest jednym z niewielu znanych narzędzi, które są w stanie przenikać przez egzokrynę.\n\nMoże zostać zdobyta od Córki w Nekralisku (Deimos). Ta włócznia jest najbardziej skuteczna w łowieniu następujących ryb w Dryfie Kambionu.",
+      "name": "Włócznia Spari",
+      "code": "pl"
+    },
+    {
+      "description": "Explore as profundezas com esta lança de pesca habilidosa, que é dificilmente detectada por peixes Infestados e híbridos Infestados/Orokin. Em razão do seu aspecto infestado, é uma das únicas coisas capazes de ultrapassar o Exócrino.\n\nLocalização: obtida com a Filha no Necralisk. Esta lança é mais eficaz nos peixes encontrados na Deriva de Cambion, em Deimos.",
+      "name": "Lança: Spari",
+      "code": "pt"
+    },
+    {
+      "description": "用這支靈巧的魚叉探測深度，難以被 Infested 和 Infested／Orokin 的混種魚所偵測到。由於受感染的性質，這是少數已知能射穿外分泌液的工具之一。\n\n可以從亡骸殿（火衛二）的女兒取得。這個魚叉對魔裔禁地（火衛二）的魚最有效。",
+      "name": "狩獵魚叉",
+      "code": "tc"
+    },
+    {
+      "description": "หอกตกปลาชนิดนี้สามารถดิ่งลงไปในน้ำลึกได้โดยที่ปลา Infested และปลาลูกผสมหรือปลา Orokin แทบจะตรวจจับไม่ได้ เนื่องจากมีลักษณะเฉพาะที่ติดเชื้อจึงทำให้เป็นหนึ่งในไม่กี่อย่างที่สามารถผ่านเข้าไปถึงต่อมมีท่อได้ \n\nรับได้จาก Daughter ในเนคราลิสก์ ซึ่งจะใช้ได้ผลสูงสุดในการตกปลาที่พบในแคมบิออนดริฟต์ (เดมอส)",
+      "name": "หอก Spari",
+      "code": "th"
+    },
+    {
+      "description": "Infested ve melez/Orokin balıkları tarafından zor fark edilen bu kurnaz balıkçı mızrağı ile derinliklere dalın. Infested tarafı nedeniyle, ekzokrin aşılayabilme özelliğine sahip bilinen tek mızraktır. \n\nNecralisk'teki Kız Evlat'tan elde edilir. Bu mızrak en çok Cambion Drift'te (Deimos) bulunan balıklar üzerinde etkilidir.",
+      "name": "Spari Mızrağı",
+      "code": "tr"
+    },
+    {
+      "description": "Хитромудрий дизайн робить цей гарпун ледь помітним для зараженої та гібридної або орокінської риби. Особливе заражене вістря дозволяє пробивати екзокрин.\n\nМожна придбати в Доньки в Некраліску (Деймос). Найефективніше пасуватиме для ловів риби у Кембіонській течії (Деймос).",
+      "name": "Гарпун «Спарі»",
+      "code": "uk"
+    }
+  ]
+}

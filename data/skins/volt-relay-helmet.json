@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/Volt/SWRelayVoltHelmet",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/volt-relay-helmet-dc85dcda81.png",
+  "name": "Volt Relay Helmet",
+  "description": "A helmet for the Volt Warframe, designed by DespicableCheese.",
+  "languages": [
+    {
+      "description": "Ein Helm für den Volt Warframe, entworfen von DespicableCheese.",
+      "name": "Volt-Helm: Relay",
+      "code": "de"
+    },
+    {
+      "description": "Un Casque pour la Warframe Volt, conçu par DespicableCheese.",
+      "name": "Casque Volt Relay",
+      "code": "fr"
+    },
+    {
+      "description": "Un elmo per il Warframe Volt, ideato da DespicableCheese.",
+      "name": "Elmo Volt Relay",
+      "code": "it"
+    },
+    {
+      "description": "DespicableCheese에 의해 디자인된 볼트 워프레임을 위한 헬멧입니다.",
+      "name": "볼트 릴레이 헬멧",
+      "code": "ko"
+    },
+    {
+      "description": "Un casco para el warframe Volt, diseñado por DespicableCheese.",
+      "name": "Casco Relay de Volt",
+      "code": "es"
+    },
+    {
+      "description": "Volt 战甲的头盔，由 DespicableCheese 设计。",
+      "name": "Volt 继电头盔",
+      "code": "zh"
+    },
+    {
+      "description": "Шлем для Вольта, созданный DespicableCheese.",
+      "name": "Шлем Вольта: Передатчик",
+      "code": "ru"
+    },
+    {
+      "description": "Volt用のヘルメット。製作者：DespicableCheese。",
+      "name": "Volt Relay ヘルメット",
+      "code": "ja"
+    },
+    {
+      "description": "Hełm dla Warframe'a Volt, zaprojektowany przez DespicableCheese.",
+      "name": "Volt: Hełm Relay",
+      "code": "pl"
+    },
+    {
+      "description": "Um capacete para o Warframe Volt, desenvolvido por DespicableCheese.",
+      "name": "Volt: Capacete Relay",
+      "code": "pt"
+    },
+    {
+      "description": "Volt Warframe 的頭盔，由 DespicableCheese 所設計。",
+      "name": "Volt 繼電頭盔",
+      "code": "tc"
+    },
+    {
+      "description": "หมวกเหล็กสำหรับ Volt Warframe ออกแบบโดย DespicableCheese",
+      "name": "หมวกเหล็ก Volt Relay",
+      "code": "th"
+    },
+    {
+      "description": "DespicableCheese tarafından dizayn edilmiş Volt Warframe miğferi.",
+      "name": "Volt Relay Miğfer",
+      "code": "tr"
+    },
+    {
+      "description": "Шолом для ворфрейма Вольта, створений DespicableCheese.",
+      "name": "Шолом «Реле» для Вольта",
+      "code": "uk"
+    }
+  ]
+}

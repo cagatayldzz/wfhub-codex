@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Game/CatbrowPet/Patterns/DuviriCatbrowPattern",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/kexat-skin-df137f7aba.png",
+  "name": "Kexat Skin",
+  "description": "Bring ‘The Tales of Duviri’ back to the Origin System with this Kexat skin for your Kavat.",
+  "languages": [
+    {
+      "description": "Bringe die 'Geschichten aus Duviri' zurück ins Ursprungssystem, mit dem Kexat-Skin für deine Kavat.",
+      "name": "Kexat-Skin",
+      "code": "de"
+    },
+    {
+      "description": "Ramenez 'Les Contes de Duviri' dans le Système Origine avec cet Aspect Kexat pour votre Kavat.",
+      "name": "Aspect Kexat",
+      "code": "fr"
+    },
+    {
+      "description": "Riporta 'Leggende di Duviri' nel Sistema Origin con questa Skin Kexat per il tuo Kavat.",
+      "name": "Skin Kexat",
+      "code": "it"
+    },
+    {
+      "description": "이 카밧용 켁삿 스킨을 통해 '두비리 이야기'를 근원계에 다시 선보이세요.",
+      "name": "켁삿 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Trae los 'Cuentos de Duviri' de regreso al Sistema Origen con este diseño Kexat para tu kavat.",
+      "name": "Diseño Kexat",
+      "code": "es"
+    },
+    {
+      "description": "将《双衍王境故事集》中的可娃带回始源星系作为库娃外观。",
+      "name": "可娃外观",
+      "code": "zh"
+    },
+    {
+      "description": "Верните «Сказки о Дувири» в Изначальную систему с этим скином для вашего кавата — «Кексат».",
+      "name": "Скин: Кексат",
+      "code": "ru"
+    },
+    {
+      "description": "このキャバット専用のKexatスキンで「デュヴィリの伝説」の一部をOrigin太陽系に持ち帰ろう。",
+      "name": "Kexat スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Sprowadź 'Opowieści z Duviri' do Systemu Origin dzięki tej skórce Kexata dla Twojego Kavata.",
+      "name": "Kexat: Skórka",
+      "code": "pl"
+    },
+    {
+      "description": "Traga os ''Contos de Duviri'' de volta ao Sistema de Origem com esta Skin Kexat para o seu Kavat.",
+      "name": "Kavat: Skin Kexat",
+      "code": "pt"
+    },
+    {
+      "description": "透過庫娃的這款庫薩外觀來將《渡域故事集》的風貌帶到始源星系。",
+      "name": "庫薩外觀",
+      "code": "tc"
+    },
+    {
+      "description": "นำ 'นิทานของ Duviri' กลับเข้าสู่ระบบออริจินด้วยสกิน Kexat สำหรับ Kavat ของคุณ",
+      "name": "สกิน Kexat",
+      "code": "th"
+    },
+    {
+      "description": "Kavat'ın için bu Kexat skin ile Duviri Masalları'nı Origin Sistemine geri getir.",
+      "name": "Kexat Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Поверніть «Дувірські казки» в Материнську систему з виглядом «Кезат» для каватів.",
+      "name": "Вигляд «Кезат»",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageTempleAltBright",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/temple-rockett-glyph---bright-a2ff35a231.png",
+  "name": "Temple Rockett Glyph - Bright",
+  "description": "A glyph depicting Temple Rockett on a bright background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Temple Rockett vor einem hellen Hintergrund darstellt.",
+      "name": "Glyphe: Temple Rockett (Hell)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Temple Rockett sur un fond lumineux.",
+      "name": "Glyphe Temple Rockett - Lumineux",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Temple Rockett su uno sfondo chiaro.",
+      "name": "Glifo Temple Rockett - Chiaro",
+      "code": "it"
+    },
+    {
+      "description": "밝은 배경을 등지고 있는 템플 로켓을 묘사한 글리프입니다.",
+      "name": "템플 로켓 글리프 - 밝음",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Temple Rockett sobre un fondo brillante.",
+      "name": "Glifo de Temple Rockett - Brillante",
+      "code": "es"
+    },
+    {
+      "description": "Temple 火箭在明亮背景下的浮印。",
+      "name": "Temple 火箭浮印 - 明亮",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Темпл Рокер на светлом фоне.",
+      "name": "Глиф: Темпл Рокер — светлый",
+      "code": "ru"
+    },
+    {
+      "description": "明るい背景に描かれたTemple Rockettのグリフ。",
+      "name": "Temple Rockett グリフ （明）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Temple Rockett na jasnym tle.",
+      "name": "Glif Temple Rockett — Jasny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Temple Rockett em um fundo claro.",
+      "name": "Glifo: Temple Rockett (Claro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Temple 搖滾在明亮背景下的浮印。",
+      "name": "Temple 搖滾浮印 - 明亮",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Temple Rockett บนพื้นหลังที่สว่างสดใส",
+      "name": "ภาพสัญลักษณ์ Temple Rockett - สว่าง",
+      "code": "th"
+    },
+    {
+      "description": "Temple Rockett açık fonlu glif.",
+      "name": "Temple Rockett Glif - Açık",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Храма «Роккер» на світлому тлі.",
+      "name": "Яскравий гліф «Храм „Роккер”»",
+      "code": "uk"
+    }
+  ]
+}

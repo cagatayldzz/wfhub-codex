@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Skins/BrassAndGold/BrassAndGoldBolto",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/bolto-ormolu-skin-9830e4b515.png",
+  "name": "Bolto Ormolu Skin",
+  "description": "Custom edition of the Bolto forged by Tenno artisans.",
+  "languages": [
+    {
+      "description": "Eine maßgefertigte Version der Bolto, hergestellt von Tenno Kunsthandwerkern.",
+      "name": "Bolto-Skin: Ormolu",
+      "code": "de"
+    },
+    {
+      "description": "Une édition personnalisée du Bolto, forgée par des artisans Tennos.",
+      "name": "Aspect Bolto Ormolu",
+      "code": "fr"
+    },
+    {
+      "description": "Edizione personalizzata della Bolto, realizzata da artigiani Tenno.",
+      "name": "Skin Bolto Ormolu",
+      "code": "it"
+    },
+    {
+      "description": "텐노 장인에 의해 제작된 특별한 볼토입니다.",
+      "name": "오르몰루 볼토 스킨",
+      "code": "ko"
+    },
+    {
+      "description": "Edición personalizada de la Bolto forjada por artesanos tenno.",
+      "name": "Diseño de Bolto Ormolu",
+      "code": "es"
+    },
+    {
+      "description": "经由 Tenno 工匠所打造的订制版螺钉手枪。",
+      "name": "螺钉手枪 镀金外观",
+      "code": "zh"
+    },
+    {
+      "description": "Модифицированная версия Болто, созданная ремесленниками Тэнно.",
+      "name": "Скин Болто: Ормолу",
+      "code": "ru"
+    },
+    {
+      "description": "テンノの職人によって鍛え上げられたBoltoのカスタムバージョン。",
+      "name": "Bolto Ormolu スキン",
+      "code": "ja"
+    },
+    {
+      "description": "Specjalna wersja Bolto stworzona przez wyśmienitych rzemieślników Tenno.",
+      "name": "Bolto: Skórka Ormolu",
+      "code": "pl"
+    },
+    {
+      "description": "Edição personalizada da Bolto forjada por artesãos Tenno.",
+      "name": "Bolto: Skin Ormolu",
+      "code": "pt"
+    },
+    {
+      "description": "經由 Tenno 工匠所打造的訂製版螺釘手槍。",
+      "name": "螺釘手槍 鍍金外觀",
+      "code": "tc"
+    },
+    {
+      "description": "Bolto รุ่นที่สั่งทำพิเศษที่หลอมโดยช่างฝีมือ Tenno",
+      "name": "สกิน Bolto Ormolu",
+      "code": "th"
+    },
+    {
+      "description": "Tenno silah ustaları tarafından özel yapılmış Bolto versiyonu",
+      "name": "Bolto Ormolu Skin",
+      "code": "tr"
+    },
+    {
+      "description": "Особливий варіант пістолета «Болто», створений ремісниками тенно.",
+      "name": "Вигляд «Ормолу» для Болто",
+      "code": "uk"
+    }
+  ]
+}

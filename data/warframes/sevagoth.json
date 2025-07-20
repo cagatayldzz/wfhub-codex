@@ -1,0 +1,79 @@
+{
+  "uniqueName": "/Lotus/Powersuits/Wraith/Wraith",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/sevagoth-9264d64897.png",
+  "name": "Sevagoth",
+  "description": "No longer adrift in the Void, Sevagoth has returned. He and his Shadow deal heavy damage and have high survivability. They are sustained by the reaping of wayward souls.",
+  "armor": 160,
+  "languages": [
+    {
+      "description": "Sevagoth treibt nicht länger im Void und ist zurückgekehrt. Er und sein Schatten verursachen hohen Schaden und haben eine hohe Überlebensfähigkeit. Durch das Ernten von entglittenen Seelen nähren sie sich.",
+      "name": "Sevagoth",
+      "code": "de"
+    },
+    {
+      "description": "N'étant plus à la dérive dans le Néant, Sevagoth est de retour. Son Ombre et lui-même infligent de lourds Dégâts et ont une capacité de survie élevée. Ils sont soutenus par la récolte des âmes rétives.",
+      "name": "Sevagoth",
+      "code": "fr"
+    },
+    {
+      "description": "Non più alla deriva nel Void, Sevagoth è tornato. Lui e la sua Ombra infliggono ingenti danni e hanno un'elevata capacità di sopravvivenza. Sono sostenuti dalla mietitura delle anime ribelli.",
+      "name": "Sevagoth",
+      "code": "it"
+    },
+    {
+      "description": "더 이상 보이드를 표류하는 일 없이, 세바고스가 이 세상으로 귀환했습니다. 세바고스와 그의 그림자는 강한 피해를 가하며 높은 생존성을 갖추고 있습니다. 이들은 방황하는 영혼들을 거둠으로써 자신을 유지합니다.",
+      "name": "세바고스",
+      "code": "ko"
+    },
+    {
+      "description": "Ya no está a la deriva en el Vacío, Sevagoth ha regresado. Él y su Sombra infligen mucho daño y tienen una alta capacidad de supervivencia. Se sustentan en la cosecha de las almas rebeldes.",
+      "name": "Sevagoth",
+      "code": "es"
+    },
+    {
+      "description": "Sevagoth 不再漂泊虚空，已经回归。他和他的幽影能够造成巨大的伤害，并具有极强的生存能力。他们通过收割那些迷途的灵魂来维持自身的力量。",
+      "name": "Sevagoth",
+      "code": "zh"
+    },
+    {
+      "description": "Севагот вернулся после длительного дрейфа в Бездне. Он и его Тень наносят большой урон и обладают высокой живучестью. Они поддерживаются жатвой заблудших душ.",
+      "name": "Севагот",
+      "code": "ru"
+    },
+    {
+      "description": "Voidから帰還した船長、Sevagoth。迷える魂と共に彼はVoidから学んだ戦術で高いダメージと耐久性を誇る。",
+      "name": "Sevagoth",
+      "code": "ja"
+    },
+    {
+      "description": "Sevagoth nie dryfuje już w Pustce, powrócił. On i jego Cień zadają duże obrażenia i mają wysoką przeżywalność. Utrzymują się, zbierając zbłąkane dusze.",
+      "name": "Sevagoth",
+      "code": "pl"
+    },
+    {
+      "description": "Sevagoth retornou, após permanecer à deriva no Void. Ele e sua Sombra causam alto dano e apresentam alta capacidade de sobrevivência. Eles se sustentam com a colheira das almas perdidas.",
+      "name": "Sevagoth",
+      "code": "pt"
+    },
+    {
+      "description": "Sevagoth 已回歸，不再漂泊於虛空。他和他的幻影造成重大傷害並且同時具備很高的生存能力。他們透過收割迷失的靈魂來維持力量。",
+      "name": "Sevagoth",
+      "code": "tc"
+    },
+    {
+      "description": "Sevagoth กลับมาจากวอยด์และจะไม่กลับไปล่องลอยอย่างเคว้งคว้างอีกต่อไป มีเงา Shadow เป็นเพื่อนคู่ใจที่สร้างความเสียหายอย่างรุนแรงและสามารถเอาตัวรอดได้ดี การเก็บเกี่ยววิญญาณที่ดื้อดึงช่วยค้ำจุนชีวิตให้อยู่ต่อไป",
+      "name": "Sevagoth",
+      "code": "th"
+    },
+    {
+      "description": "Artık Void'de sürüklenmeyen Sevagoth geri döndü. O ve Gölgesi ağır hasar verir ve yüksek hayatta kalma kabiliyetine sahiptir. Onlar, asi ruhların hasadı ile devamlılığını sürdürür.",
+      "name": "Sevagoth",
+      "code": "tr"
+    },
+    {
+      "description": "Повернений із Порожнечі. Севаґот зі своєю тінню завдають великої шкоди й дуже живучі. Вони підживлюються збиранням заблукалих душ.",
+      "name": "Севаґот",
+      "code": "uk"
+    }
+  ]
+}

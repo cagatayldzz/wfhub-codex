@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/control-module-edf6e412c3.png",
+  "name": "Control Module",
+  "description": "Autonomy processor for Robotics. A Corpus design.\n\nLocation: Europa, Neptune, and the Void",
+  "languages": [
+    {
+      "description": "Autonomie-Prozessor für Robotik. Ein Corpus Produkt.\n\nQuelle: Europa, Neptun und im Void.",
+      "name": "Steuermodul",
+      "code": "de"
+    },
+    {
+      "description": "Processeur d'autonomie pour les robots. De conception Corpus.\n\nLieu: Europe, Neptune et le Néant",
+      "name": "Module de Contrôle",
+      "code": "fr"
+    },
+    {
+      "description": "Processore per l'autonomia dei robot. Un progetto Corpus.\n\nPosizione: Europa, Nettuno e Void",
+      "name": "Modulo Controllo",
+      "code": "it"
+    },
+    {
+      "description": "코퍼스가 설계한 로봇 공학용 자율 프로세서입니다.\n\n획득 가능 장소: 유로파, 해왕성 및 보이드",
+      "name": "컨트롤 모듈",
+      "code": "ko"
+    },
+    {
+      "description": "Procesador de autonomía para robots. Un diseño corpus.\n\nUbicación: Europa, Neptuno y el Vacío",
+      "name": "Módulo de control",
+      "code": "es"
+    },
+    {
+      "description": "机器人的自主处理器。Corpus 设计。\n\n获取地点：欧罗巴，海王星和虚空",
+      "name": "控制模块",
+      "code": "zh"
+    },
+    {
+      "description": "Процессор, отвечающий за автономность робототехники. Создан Корпусом.\n\nМестонахождение: Европа, Нептун, Бездна",
+      "name": "Модуль контроля",
+      "code": "ru"
+    },
+    {
+      "description": "ロボットに搭載する自律型プロセッサー。コーパスによる設計。\n\n場所：エウロパ、海王星、Void。",
+      "name": "コントロールモジュール",
+      "code": "ja"
+    },
+    {
+      "description": "Procesor autonomiczny robotyki. Wytwarzany przez Corpus.\n\nPołożenie: Europa, Neptun i Pustka",
+      "name": "Moduł sterujący",
+      "code": "pl"
+    },
+    {
+      "description": "Processador de autonomia para robóticos, desenvolvido pelos Corpus.\n\nLocalização: Europa, Void e Netuno.",
+      "name": "Módulo de Controle",
+      "code": "pt"
+    },
+    {
+      "description": "機器人的自主處理器。 Corpus 設計。\n\n地點：歐羅巴、海王星和虛空",
+      "name": "控制模塊",
+      "code": "tc"
+    },
+    {
+      "description": "ตัวประมวลผลอิสระสำหรับหุ่นยนต์ ซึ่งเป็นผลงานการออกแบบของ Corpus\n\nแหล่งที่พบ: ดาวยูโรปา ดาวเนปจูน และวอยด์",
+      "name": "โมดูลควบคุม",
+      "code": "th"
+    },
+    {
+      "description": "Robotlar için özerklik işlemcisi. Bir Corpus tasarımı.\n\nKonum: Europa, Neptün ve Void",
+      "name": "Kontrol Modülü",
+      "code": "tr"
+    },
+    {
+      "description": "Автономний процесор для робототехніки, розроблений Корпусом.\n\nМожна здобути на Європі, Нептуні та в Порожнечі.",
+      "name": "Модуль керування",
+      "code": "uk"
+    }
+  ]
+}

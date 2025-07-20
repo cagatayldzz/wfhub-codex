@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBrawlerDark",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/atlas-glyph---dark-6b522b257b.png",
+  "name": "Atlas Glyph - Dark",
+  "description": "A glyph depicting Atlas on a dark background.",
+  "languages": [
+    {
+      "description": "Eine Glyphe, die Atlas vor einem dunklen Hintergrund darstellt.",
+      "name": "Glyphe: Atlas (Dunkel)",
+      "code": "de"
+    },
+    {
+      "description": "Un Glyphe représentant Atlas sur un fond sombre.",
+      "name": "Glyphe Atlas - Sombre",
+      "code": "fr"
+    },
+    {
+      "description": "Un glifo che mostra Atlas su uno sfondo scuro.",
+      "name": "Glifo Atlas - Scuro",
+      "code": "it"
+    },
+    {
+      "description": "어두운 배경을 등지고 있는 아틀라스를 묘사한 글리프입니다.",
+      "name": "아틀라스 글리프 - 어두움",
+      "code": "ko"
+    },
+    {
+      "description": "Un glifo que representa a Atlas sobre un fondo oscuro.",
+      "name": "Glifo de Atlas - Oscuro",
+      "code": "es"
+    },
+    {
+      "description": "Atlas 在黑暗背景下的浮印。",
+      "name": "Atlas 浮印 - 黑暗",
+      "code": "zh"
+    },
+    {
+      "description": "Глиф с изображением Атласа на тёмном фоне.",
+      "name": "Глиф: Атлас — тёмный",
+      "code": "ru"
+    },
+    {
+      "description": "暗い背景に描かれたAtlas のグリフ。",
+      "name": "Atlas グリフ（暗）",
+      "code": "ja"
+    },
+    {
+      "description": "Glif przedstawiający Warframe'a Atlas na ciemnym tle.",
+      "name": "Glif Atlas — Ciemny",
+      "code": "pl"
+    },
+    {
+      "description": "Um glifo retratando o Atlas em um fundo escuro.",
+      "name": "Glifo: Atlas (Escuro)",
+      "code": "pt"
+    },
+    {
+      "description": "一枚描繪 Atlas 在黑暗背景下的浮印。",
+      "name": "Atlas 浮印 - 黑暗",
+      "code": "tc"
+    },
+    {
+      "description": "ภาพสัญลักษณ์ที่แสดงถึง Atlas บนพื้นหลังสีเข้ม",
+      "name": "ภาพสัญลักษณ์ Atlas - มืด",
+      "code": "th"
+    },
+    {
+      "description": "Atlas koyu fonlu glif.",
+      "name": "Atlas Glif - Koyu",
+      "code": "tr"
+    },
+    {
+      "description": "Гліф із зображенням Атласа на темному тлі.",
+      "name": "Темний гліф «Атлас»",
+      "code": "uk"
+    }
+  ]
+}

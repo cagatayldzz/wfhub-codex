@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/orthos-f05ec1cb86.png",
+  "name": "Orthos",
+  "description": "The Tenno forged Orthos is a rare double bladed polearm. Those who take the time to master it speak of its impressive striking distance and ability to hit multiple targets.",
+  "languages": [
+    {
+      "description": "Die von den Tenno geschmiedete Orthos ist eine seltene Stangenwaffe mit zwei Klingen. Jene die sie meistern reden über ihre beeindruckende Reichweite und die Fähigkeit mehrere Ziele gleichzeitig zu treffen.",
+      "name": "Orthos",
+      "code": "de"
+    },
+    {
+      "description": "L'Orthos est une rare Arme d'Hast à deux lames de fabrication Tenno. Ceux qui prennent le temps de la maîtriser parlent de son impressionnante portée et de sa faculté à toucher plusieurs cibles à la fois.",
+      "name": "Orthos",
+      "code": "fr"
+    },
+    {
+      "description": "La Orthos è una rara asta a doppia lama forgiata dai tenno. Coloro che hanno avuto il tempo di padroneggiarla lodano la sua incredibile portata e capacità di colpire bersagli multipli.",
+      "name": "Orthos",
+      "code": "it"
+    },
+    {
+      "description": "텐노의 손으로 주조된 오르도스는 보기 드문 양날 폴암으로, 시간을 들여 이 무기를 수련한 자들은 그 인상적인 사거리와 다수의 목표를 타격할 수 있는 유용성을 증언하곤 합니다.",
+      "name": "오르도스",
+      "code": "ko"
+    },
+    {
+      "description": "El Orthos forjado tenno es una rara arma de asta de doble filo. Aquellos que se toman el tiempo de dominarla hablan de su impresionante distancia de ataque y habilidad de golpear múltiples objetivos.",
+      "name": "Orthos",
+      "code": "es"
+    },
+    {
+      "description": "（英文：ORTHOS）由 Tenno 所铸造的欧特鲁斯是把罕见的双刃长矛。对于投入时间掌握这把武器的人们总会谈起它令人印象深刻的攻击距离与群击能力。",
+      "name": "欧特鲁斯",
+      "code": "zh"
+    },
+    {
+      "description": "Ортос - созданный Тэнно редкий посох с двумя клинками. Те, кто посвятил его освоению достаточно времени, рассказывают о его внушительной дальности удара и способности поражать несколько целей одновременно.",
+      "name": "Ортос",
+      "code": "ru"
+    },
+    {
+      "description": "特異な形状をしたテンノ製のポールアーム武器。複数の敵を相手に取れる汎用性と、その間合いの広さは他に類を見ない。",
+      "name": "Orthos",
+      "code": "ja"
+    },
+    {
+      "description": "Wytwarzany przez Tenno Orthos to rzadka broń o podwójnym ostrzu. Ci, którzy poświęcili czas na opanowanie umiejętności posługiwania się nią, cenią sobie jej imponujący zasięg oraz możliwość ranienia wielu wrogów jednocześnie.",
+      "name": "Orthos",
+      "code": "pl"
+    },
+    {
+      "description": "A Orthos, uma arma forjada pelos Tennos, é uma arma de haste com lâminas em suas extremidades. Aqueles que tomam o tempo para dominá-la falam de seu impressionante Alcance e de sua capacidade de atingir múltiplos alvos.",
+      "name": "Orthos",
+      "code": "pt"
+    },
+    {
+      "description": "（英文：ORTHOS）由 Tenno 所鑄造的歐特魯斯是把罕見的雙刃長矛。對於投入時間掌握這把武器的人們總會談起它令人印象深刻的攻擊距離與群擊能力。",
+      "name": "歐特魯斯",
+      "code": "tc"
+    },
+    {
+      "description": "Tenno หลอมหอก Orthos ที่มีใบมีดคู่ที่หายากขึ้นมา โดยผู้ที่พยายามฝึกฝนอาวุธเล่มนี้จนชำนาญกล่าวกันว่าเป็นอาวุธที่มีระยะการโจมตีที่โดดเด่นและสามารถโจมตีได้ครั้งละหลายเป้าหมาย",
+      "name": "Orthos",
+      "code": "th"
+    },
+    {
+      "description": "Tenno yapımı Orthos nadir bir çift bıçaklı kargıdır.Onda ustalaşanlar onun etkileyici vuruş mesafesi ve aynı anda birçok hedefe vurabilmesinden bahsedip durur.",
+      "name": "Orthos",
+      "code": "tr"
+    },
+    {
+      "description": "Рідкісна двобічна держакова зброя, створена тенно. Хто опанував її, говорить про неймовірну дальність атаки та здатність вражати декілька цілей.",
+      "name": "Ортос",
+      "code": "uk"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionEightCreds",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/nora's-mix-vol.-4-cred-d8dc9c1b3d.png",
+  "name": "Nora's Mix Vol. 4 Cred",
+  "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
+  "languages": [
+    {
+      "description": "Wird benutzt, um Nightwave Angebote zu kaufen. Nightwave Creds vergangener Serien können als Souvenir behalten oder für <CREDITS>Credits verkauft werden.",
+      "name": "Noras Mix - Vol. 4 Cred",
+      "code": "de"
+    },
+    {
+      "description": "Utilisé pour acheter des Offres de la Boutique des Ondes Nocturnes. Les Jetons des Séries précédentes peuvent être conservés en souvenir ou vendus contre des <CREDITS>Crédits.",
+      "name": "Jeton du Mix de Nora Vol. 4",
+      "code": "fr"
+    },
+    {
+      "description": "Utilizzati per acquistare le Offerte Cred di Nightwave. I Cred Nightwave delle Serie precedenti possono essere conservati come souvenir o venduti per <CREDITS>Crediti.",
+      "name": "Cred Mix di Nora Vol. 4",
+      "code": "it"
+    },
+    {
+      "description": "나이트웨이브의 크레드 평판 제공품을 구매하는 데 사용됩니다. 과거 나이트웨이브 시리즈에서 획득한 크레드는 기념으로 간직하거나 <CREDITS>크레딧으로 판매할 수 있습니다.",
+      "name": "노라의 믹스 Vol. 4 크레드",
+      "code": "ko"
+    },
+    {
+      "description": "Usado para comprar ofrendas de Onda Nocturna. El respeto obtenido en las series pasadas de Onda Nocturna se puede conservar como recuerdo o vender por <CREDITS>créditos.",
+      "name": "Respeto de Mix de Nora Vol. 4",
+      "code": "es"
+    },
+    {
+      "description": "用于购买午夜电波的贡品。过往的午夜电波系列兑换币可以留作纪念品或出售换取 <CREDITS> 现金。",
+      "name": "诺拉的混选 Vol. 4 代币",
+      "code": "zh"
+    },
+    {
+      "description": "Используется при покупке предложений Ночной Волны. Доверие Ночной Волны из предыдущих серий можно сохранить на память как сувенир или продать за <CREDITS>кредиты.",
+      "name": "Доверие: Микс Норы — Диск 4",
+      "code": "ru"
+    },
+    {
+      "description": "Nightwaveの提供品を購入するための通貨。前シリーズのNightwaveクレドは戦利品として取っておくのもよし、あるいは売却して<CREDITS>クレジットを得られます。",
+      "name": "Nora's Mix Vol. 4 クレド",
+      "code": "ja"
+    },
+    {
+      "description": "Używane do zakupu Ofert Gwiezdnego Szlaku. Kredyty Gwiezdnego Szlaku z zakończonych serii mogą być zatrzymane na pamiątkę lub sprzedane za <CREDITS>Kredyty.",
+      "name": "Kredyty Składanki Nory cz. 4",
+      "code": "pl"
+    },
+    {
+      "description": "Usados para obter as Oferendas de Créditos da Nightwave, os Créditos dos Capítulos anteriores podem ser mantidos como recordações ou vendidos por <CREDITS>Créditos normais.",
+      "name": "Créditos do Mix da Nora Vol. 4",
+      "code": "pt"
+    },
+    {
+      "description": "用於購買午夜電波貢品。前幾系列的午夜電波幣別可以作為紀念品保存或是將它們出售以換取 <CREDITS> 遊戲現金。",
+      "name": "Nora 合輯幣 IV",
+      "code": "tc"
+    },
+    {
+      "description": "ใช้เพื่อซื้อสิ่งที่เสนอขายแลกกับเครดใน Nightwave เครดของ Nightwave จากซีรีส์ที่ผ่านไปแล้วสามารถเก็บไว้เป็นที่ระลึกหรือขายไปเป็น <CREDITS>เครดิต",
+      "name": "เครด Nora's Mix Vol. 4",
+      "code": "th"
+    },
+    {
+      "description": "Nightwave Kredi Teklifinden yararlanmak için kullanılır. Önceki serilerden gelen Nightwave Kredileri hatıra olarak saklanabilir veya <CREDITS> Kredi karşılığında satılabilir.",
+      "name": "Nora'nın Derlemesi - 4. Seri Kredisi",
+      "code": "tr"
+    },
+    {
+      "description": "Використовується для придбання в крамниці «Нічної хвилі» товарів із попередніх епізодів! Можете зберегти як сувенір або продати за <CREDITS>кредити.",
+      "name": "Валюта «Вибірки Нори 4»",
+      "code": "uk"
+    }
+  ]
+}
