@@ -84,12 +84,9 @@ async function buildCategory(
         }))
       : [];
 
-    let slug = slugify(item.name);
+    const slug = slugify(item.name);
     if (used.has(slug)) {
-      const hash = Buffer.from(item.uniqueName)
-        .toString("base64url")
-        .slice(0, 6);
-      slug = `${slug}-${hash}`;
+      continue;
     }
     used.add(slug);
 
