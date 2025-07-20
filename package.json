@@ -12,10 +12,10 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1270.729"
+    "@wfcd/items": "^1.1270.736"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.18",
+    "@types/bun": "^1.2.19",
     "@typescript-eslint/eslint-plugin": "^8.37.0",
     "@typescript-eslint/parser": "^8.37.0",
     "eslint": "^9.31.0",
@@ -28,5 +28,5 @@
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.37.0"
   },
-  "packageManager": "bun@1.2.18"
+  "packageManager": "bun@1.2.19"
 }
