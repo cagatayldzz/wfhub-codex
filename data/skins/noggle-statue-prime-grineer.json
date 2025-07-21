@@ -1,0 +1,78 @@
+{
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TauGrineerLancerBobbleHead",
+  "imageName": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/noggle-statue---prime-grineer-06ff506d4a.png",
+  "name": "Noggle Statue - Prime Grineer",
+  "description": "A small wobbly statue of an Orokin-era Prime Grineer.",
+  "languages": [
+    {
+      "description": "Eine kleine Wackelfigur eines Prime Grineers aus der Ära der Orokin.",
+      "name": "Noggle-Statue: Prime Grineer",
+      "code": "de"
+    },
+    {
+      "description": "Une petite statue à tête oscillante d'un Grineer Prime de l'ère Orokin.",
+      "name": "Statuette Noggle - Grineer Prime",
+      "code": "fr"
+    },
+    {
+      "description": "Una statuetta di un Grineer Prime dell'era Orokin con la testa tremolante.",
+      "name": "Statuetta Noggle - Grineer Prime",
+      "code": "it"
+    },
+    {
+      "description": "오로킨 시대 프라임 그리니어의 갸웃거리는 작은 인형입니다.",
+      "name": "노글 스태츄 - 프라임 그리니어",
+      "code": "ko"
+    },
+    {
+      "description": "Una pequeña y tambaleante estatua de un grineer Prime de la era orokin.",
+      "name": "Estatua Tambaleante - Grineer Prime",
+      "code": "es"
+    },
+    {
+      "description": "一小座 Orokin 时期 Prime Gineer 摇头娃娃。",
+      "name": "Prime Grineer 摇头娃娃",
+      "code": "zh"
+    },
+    {
+      "description": "Небольшая шаткая статуэтка Прайм Гринира эпохи Орокин.",
+      "name": "Фигурка: Гринир Прайм",
+      "code": "ru"
+    },
+    {
+      "description": "オロキン時代のプライムグリニアのボブルヘッド人形。",
+      "name": "プライムグリニア ボブルヘッド",
+      "code": "ja"
+    },
+    {
+      "description": "Mała, chwiejna figurka Grineer Prime z ery Orokin.",
+      "name": "Figurka Noggle — Grineer Prime",
+      "code": "pl"
+    },
+    {
+      "description": "Uma estatueta articulada de um Grineer Prime da era Orokin.",
+      "name": "Estatueta: Grineer Prime",
+      "code": "pt"
+    },
+    {
+      "description": "一小座 Orokin 時期的 Prime Grineer 搖頭娃娃。",
+      "name": "Prime Grineer 搖頭娃娃",
+      "code": "tc"
+    },
+    {
+      "description": "รูปปั้นตุ๊กตาหัวโยกขนาดเล็กของ Grineer Prime ในยุค Orokin",
+      "name": "รูปปั้น Noggle - Grineer Prime",
+      "code": "th"
+    },
+    {
+      "description": "Orokin döneminden Prime Grineer küçük oynar figür.",
+      "name": "Noggle Heykeli - Prime Grineer",
+      "code": "tr"
+    },
+    {
+      "description": "Статуетка ґрінерського штурмовика серії «Прайм» із часів орокінської ери.",
+      "name": "Ноґл «Ґрінер-прайм»",
+      "code": "uk"
+    }
+  ]
+}
