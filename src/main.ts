@@ -100,14 +100,23 @@ async function buildCategory(
 async function main(): Promise<void> {
   const i18nMap = await loadI18nData(I18N_FILE);
 
+  const fields: (keyof Translatable)[] = [
+    "uniqueName",
+    "imageName",
+    "name",
+    "description",
+    "health",
+    "shield",
+    "power",
+    "armor",
+    "sprintSpeed",
+    "aura",
+    "abilities",
+  ];
+
   await Promise.all(
     CONFIG.map(({ inputFile, outputDir }) =>
-      buildCategory(
-        inputFile,
-        outputDir,
-        ["uniqueName", "imageName", "name", "description", "armor", "aura"],
-        i18nMap
-      )
+      buildCategory(inputFile, outputDir, fields, i18nMap)
     )
   );
 }
