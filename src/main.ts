@@ -46,13 +46,10 @@ async function buildCategory(
   inputFile: string,
   outputDir: string,
   fields: (keyof Translatable)[],
-  i18nMap: Record<
-    string,
-    Record<Locale, { description: string; name: string }>
-  >,
+  i18nMap: Record<string, Record<Locale, { description: string; name: string }>>
 ): Promise<void> {
   const data: Translatable[] = JSON.parse(
-    await fs.promises.readFile(inputFile, "utf-8"),
+    await fs.promises.readFile(inputFile, "utf-8")
   );
   const used = new Set<string>();
 
@@ -95,7 +92,7 @@ async function buildCategory(
     await fs.promises.writeFile(
       path.join(outputDir, `${slug}.json`),
       JSON.stringify(result),
-      "utf-8",
+      "utf-8"
     );
   }
 }
@@ -109,9 +106,9 @@ async function main(): Promise<void> {
         inputFile,
         outputDir,
         ["uniqueName", "imageName", "name", "description", "armor", "aura"],
-        i18nMap,
-      ),
-    ),
+        i18nMap
+      )
+    )
   );
 }
 

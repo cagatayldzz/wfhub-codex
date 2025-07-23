@@ -3,7 +3,7 @@ import * as fs from "fs";
 import { Locale } from "@wfcd/items";
 
 export async function loadI18nData(
-  i18nFile: string,
+  i18nFile: string
 ): Promise<
   Record<string, Record<Locale, { description: string; name: string }>>
 > {
