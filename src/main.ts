@@ -51,7 +51,9 @@ async function buildCategory(
     Record<Locale, { description: string; name: string }>
   >,
 ): Promise<void> {
-  const data: Translatable[] = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
+  const data: Translatable[] = JSON.parse(
+    await fs.promises.readFile(inputFile, "utf-8"),
+  );
   const used = new Set<string>();
 
   await fs.promises.mkdir(outputDir, { recursive: true });
@@ -90,16 +92,16 @@ async function buildCategory(
     }
     used.add(slug);
 
-    fs.writeFileSync(
+    await fs.promises.writeFile(
       path.join(outputDir, `${slug}.json`),
-      JSON.stringify(result, null, 2),
+      JSON.stringify(result),
       "utf-8",
     );
   }
 }
 
 async function main(): Promise<void> {
-  const i18nMap = loadI18nData(I18N_FILE);
+  const i18nMap = await loadI18nData(I18N_FILE);
 
   await Promise.all(
     CONFIG.map(({ inputFile, outputDir }) =>
