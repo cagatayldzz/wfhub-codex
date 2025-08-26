@@ -12,12 +12,12 @@
     "format": "turbo prettier lint"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1270.829"
+    "@wfcd/items": "^1.1270.830"
   },
   "devDependencies": {
     "@types/bun": "^1.2.20",
-    "@typescript-eslint/eslint-plugin": "^8.40.0",
-    "@typescript-eslint/parser": "^8.40.0",
+    "@typescript-eslint/eslint-plugin": "^8.41.0",
+    "@typescript-eslint/parser": "^8.41.0",
     "eslint": "^9.34.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-perfectionist": "^4.15.0",
@@ -27,7 +27,7 @@
     "rimraf": "^6.0.1",
     "turbo": "^2.5.6",
     "typescript": "^5.9.2",
-    "typescript-eslint": "^8.40.0"
+    "typescript-eslint": "^8.41.0"
   },
-  "packageManager": "bun@1.2.20"
+  "packageManager": "bun@1.2.21"
 }
