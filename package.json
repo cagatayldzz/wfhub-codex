@@ -15,7 +15,7 @@
     "@wfcd/items": "^1.1270.854"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.22",
+    "@types/bun": "^1.2.23",
     "@typescript-eslint/eslint-plugin": "^8.44.1",
     "@typescript-eslint/parser": "^8.44.1",
     "eslint": "^9.36.0",
@@ -29,5 +29,5 @@
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.1"
   },
-  "packageManager": "bun@1.2.22"
+  "packageManager": "bun@1.2.23"
 }
