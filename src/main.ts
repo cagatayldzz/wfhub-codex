@@ -1,11 +1,11 @@
-import path from "path";
 import fs from "fs";
+import path from "path";
 
 import type { Locale } from "@wfcd/items";
 
 import { loadI18nData } from "./utils/i18n";
-import { Translatable } from "./utils/type";
 import { slugify } from "./utils/slugify";
+import { Translatable } from "./utils/type";
 
 const I18N_FILE = "./node_modules/@wfcd/items/data/json/i18n.json";
 
@@ -121,4 +121,7 @@ async function main(): Promise<void> {
   );
 }
 
-main();
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});
