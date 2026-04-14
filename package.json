@@ -15,14 +15,14 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1273.17"
+    "@wfcd/items": "^1.1273.19"
   },
   "devDependencies": {
     "@types/bun": "^1.3.12",
     "@types/node": "^25.6.0",
-    "npm-check-updates": "^20.0.1",
-    "oxfmt": "^0.44.0",
-    "oxlint": "^1.59.0",
+    "npm-check-updates": "^20.0.2",
+    "oxfmt": "^0.45.0",
+    "oxlint": "^1.60.0",
     "oxlint-tsgolint": "^0.20.0",
     "rimraf": "^6.1.3",
     "turbo": "^2.9.6",
