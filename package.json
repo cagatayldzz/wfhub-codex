@@ -8,7 +8,7 @@
     "build": "bun run clean && tsc && bun dist/main.js",
     "clean": "rimraf dist data",
     "update": "bun update -i",
-    "commit": "git add -A && git commit --no-verify --message \"chore: update\"",
+    "commit": "git add -A && oco --yes",
     "format": "turbo oxfmt oxlint",
     "oxfmt": "oxfmt --write",
     "oxlint": "oxlint --fix",
