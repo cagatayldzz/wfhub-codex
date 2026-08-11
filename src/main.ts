@@ -39,6 +39,7 @@ const CATEGORIES = [
 const CONFIG = CATEGORIES.map((category) => ({
   inputFile: `./node_modules/@wfcd/items/data/json/${category}.json`,
   outputDir: `./data/${slugify(category)}`,
+  apiOutputDir: `./api/${slugify(category)}`,
   category,
 }));
 
@@ -51,6 +52,7 @@ type ApiItem = {
 async function buildCategory(
   inputFile: string,
   outputDir: string,
+  apiOutputDir: string,
   fields: (keyof Translatable)[],
   i18nMap: Record<string, Record<Locale, { description: string; name: string }>>
 ): Promise<ApiItem[]> {
@@ -61,6 +63,7 @@ async function buildCategory(
   const apiItems: ApiItem[] = [];
 
   await fs.promises.mkdir(outputDir, { recursive: true });
+  await fs.promises.mkdir(apiOutputDir, { recursive: true });
 
   for (const item of data) {
     const result: Record<
@@ -111,6 +114,12 @@ async function buildCategory(
     });
 
     await fs.promises.writeFile(
+      path.join(apiOutputDir, `${slug}.json`),
+      JSON.stringify(apiItems[apiItems.length - 1]),
+      "utf-8"
+    );
+
+    await fs.promises.writeFile(
       path.join(outputDir, `${slug}.json`),
       JSON.stringify(result),
       "utf-8"
@@ -138,22 +147,23 @@ async function main(): Promise<void> {
   ];
 
   const results = await Promise.all(
-    CONFIG.map(async ({ inputFile, outputDir, category }) => ({
+    CONFIG.map(async ({ inputFile, outputDir, apiOutputDir, category }) => ({
       category,
-      items: await buildCategory(inputFile, outputDir, fields, i18nMap),
+      items: await buildCategory(
+        inputFile,
+        outputDir,
+        apiOutputDir,
+        fields,
+        i18nMap
+      ),
     }))
   );
 
   await fs.promises.mkdir("./api", { recursive: true });
 
-  for (const category of ["Arcanes", "Warframes"] as const) {
-    const result = results.find((entry) => entry.category === category);
-    if (!result) {
-      continue;
-    }
-
+  for (const result of results) {
     await fs.promises.writeFile(
-      `./api/${slugify(category)}.json`,
+      `./api/${slugify(result.category)}.json`,
       JSON.stringify(result.items),
       "utf-8"
     );
