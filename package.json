@@ -7,27 +7,25 @@
     "start": "bun dist/main.js",
     "build": "bun run clean && tsc && bun dist/main.js",
     "clean": "rimraf dist data",
-    "update": "bun update -i",
     "commit": "git add -A && oco --yes",
     "format": "turbo oxfmt oxlint",
     "oxfmt": "oxfmt --write",
     "oxlint": "oxlint --fix",
-    "test": "vitest run"
+    "test": "vitest run src/test"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1273.19"
+    "@wfcd/items": "^1.1275.40"
   },
   "devDependencies": {
-    "@types/bun": "^1.3.12",
-    "@types/node": "^25.6.0",
-    "npm-check-updates": "^20.0.2",
+    "@types/bun": "^1.3.14",
+    "@types/node": "^25.9.5",
     "oxfmt": "^0.45.0",
-    "oxlint": "^1.60.0",
+    "oxlint": "^1.78.0",
     "oxlint-tsgolint": "^0.20.0",
     "rimraf": "^6.1.3",
-    "turbo": "^2.9.6",
-    "typescript": "^6.0.2",
-    "vitest": "^4.1.4"
+    "turbo": "^2.10.9",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.10"
   },
   "packageManager": "bun@1.3.12"
 }

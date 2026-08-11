@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { slugify } from "./slugify";
+import { slugify } from "../utils/slugify";
 
 describe("slugify", () => {
   it("normalizes accents, punctuation, and whitespace", () => {

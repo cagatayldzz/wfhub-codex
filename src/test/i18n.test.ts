@@ -4,7 +4,7 @@ import * as path from "path";
 import * as os from "os";
 import { afterAll, describe, expect, it, vi } from "vitest";
 
-import { loadI18nData } from "./i18n";
+import { loadI18nData } from "../utils/i18n";
 
 describe("loadI18nData", () => {
   const spy = vi.spyOn(console, "log").mockImplementation(() => undefined);
