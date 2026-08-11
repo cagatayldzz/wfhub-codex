@@ -1,0 +1,142 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "WFHub API",
+    "description": "Static Warframe data API generated from WFCD items.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://wfhub-api.cagatayldzz.com"
+    }
+  ],
+  "paths": {
+    "/api/{category}.json": {
+      "get": {
+        "summary": "List items in a category",
+        "operationId": "listCategoryItems",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/Category"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Category item list",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ApiItem"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/{category}/{slug}.json": {
+      "get": {
+        "summary": "Get a single item",
+        "operationId": "getCategoryItem",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/Category"
+          },
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "description": "The item's URL slug, for example `akimbo-slip-shot`.",
+            "schema": {
+              "type": "string",
+              "example": "akimbo-slip-shot"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Single category item",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiItem"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Item not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "parameters": {
+      "Category": {
+        "name": "category",
+        "in": "path",
+        "required": true,
+        "description": "One of the generated data categories.",
+        "schema": {
+          "type": "string",
+          "enum": [
+            "arcanes",
+            "arch-gun",
+            "arch-melee",
+            "archwing",
+            "enemy",
+            "fish",
+            "gear",
+            "glyphs",
+            "melee",
+            "misc",
+            "mods",
+            "node",
+            "pets",
+            "primary",
+            "quests",
+            "railjack",
+            "relics",
+            "resources",
+            "secondary",
+            "sentinels",
+            "sentinelweapons",
+            "sigils",
+            "skins",
+            "warframes"
+          ]
+        }
+      }
+    },
+    "schemas": {
+      "ApiItem": {
+        "type": "object",
+        "required": [
+          "name",
+          "imageName",
+          "slug"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "Ash Prime"
+          },
+          "imageName": {
+            "type": "string",
+            "format": "uri",
+            "example": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/AshPrime.png"
+          },
+          "slug": {
+            "type": "string",
+            "example": "ash-prime"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
