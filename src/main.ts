@@ -2,7 +2,6 @@ import fs from "fs";
 import path from "path";
 
 import { slugify } from "./utils/slugify";
-import { Translatable } from "./utils/type";
 
 const REMOTE_IMAGE_BASE_URL =
   "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/";
@@ -48,11 +47,40 @@ type ApiItem = {
   slug: string;
 };
 
+type ApiDetailItem = {
+  uniqueName: string | null;
+  name: string;
+  description: string | null;
+  health: number | null;
+  shield: number | null;
+  armor: number | null;
+  stamina: number | null;
+  power: number | null;
+  masteryReq: number | null;
+  sprintSpeed: number | null;
+  abilities: unknown[];
+  sprint: number | null;
+  wikiaUrl: string | null;
+  releaseDate: string | null;
+  imageName: string;
+  slug: string;
+};
+
+type RawItem = Record<string, unknown> & {
+  name?: unknown;
+  imageName?: unknown;
+};
+
 const imageDownloads = new Map<string, Promise<void>>();
 const missingImages = new Set<string>();
 const generatedApiFiles = new Map<
   string,
-  { item: ApiItem; remoteImageName: string; fileName: string }
+  {
+    item: ApiDetailItem;
+    listItem: ApiItem;
+    remoteImageName: string;
+    fileName: string;
+  }
 >();
 
 function getImageFileName(imageName: string): string {
@@ -104,7 +132,7 @@ async function buildCategory(
   inputFile: string,
   apiOutputDir: string,
 ): Promise<ApiItem[]> {
-  const data: Translatable[] = JSON.parse(
+  const data: RawItem[] = JSON.parse(
     await fs.promises.readFile(inputFile, "utf-8")
   );
   const used = new Set<string>();
@@ -114,12 +142,6 @@ async function buildCategory(
   await fs.promises.mkdir(LOCAL_IMAGE_DIR, { recursive: true });
 
   for (const item of data) {
-    const slug = slugify(item.name);
-    if (used.has(slug)) {
-      continue;
-    }
-    used.add(slug);
-
     if (
       typeof item.name !== "string" ||
       typeof item.imageName !== "string" ||
@@ -128,20 +150,50 @@ async function buildCategory(
       continue;
     }
 
+    const slug = slugify(item.name);
+    if (used.has(slug)) {
+      continue;
+    }
+    used.add(slug);
+
     const remoteImageName = item.imageName.startsWith("http")
       ? item.imageName
       : `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(item.imageName)}`;
-    const apiItem: ApiItem = {
+    const listItem: ApiItem = {
       name: item.name,
       imageName: `${LOCAL_IMAGE_BASE_URL}${getImageFileName(item.imageName)}`,
       slug,
     };
 
-    apiItems.push(apiItem);
+    const detailItem: ApiDetailItem = {
+      uniqueName: typeof item.uniqueName === "string" ? item.uniqueName : null,
+      name: item.name,
+      description:
+        typeof item.description === "string" ? item.description : null,
+      health: typeof item.health === "number" ? item.health : null,
+      shield: typeof item.shield === "number" ? item.shield : null,
+      armor: typeof item.armor === "number" ? item.armor : null,
+      stamina: typeof item.stamina === "number" ? item.stamina : null,
+      power: typeof item.power === "number" ? item.power : null,
+      masteryReq:
+        typeof item.masteryReq === "number" ? item.masteryReq : null,
+      sprintSpeed:
+        typeof item.sprintSpeed === "number" ? item.sprintSpeed : null,
+      abilities: Array.isArray(item.abilities) ? item.abilities : [],
+      sprint: typeof item.sprint === "number" ? item.sprint : null,
+      wikiaUrl: typeof item.wikiaUrl === "string" ? item.wikiaUrl : null,
+      releaseDate:
+        typeof item.releaseDate === "string" ? item.releaseDate : null,
+      imageName: listItem.imageName,
+      slug,
+    };
+
+    apiItems.push(listItem);
     downloadImage(item.imageName);
 
     generatedApiFiles.set(path.join(apiOutputDir, `${slug}.json`), {
-      item: apiItem,
+      item: detailItem,
+      listItem,
       remoteImageName,
       fileName: getImageFileName(item.imageName),
     });
@@ -160,22 +212,23 @@ async function main(): Promise<void> {
 
   await fs.promises.mkdir("./api", { recursive: true });
 
+  await Promise.all(imageDownloads.values());
+
+  for (const [filePath, entry] of generatedApiFiles) {
+    if (missingImages.has(entry.fileName)) {
+      entry.item.imageName = entry.remoteImageName;
+      entry.listItem.imageName = entry.remoteImageName;
+    }
+
+    await fs.promises.writeFile(filePath, JSON.stringify(entry.item), "utf-8");
+  }
+
   for (const result of results) {
     await fs.promises.writeFile(
       `./api/${slugify(result.category)}.json`,
       JSON.stringify(result.items),
       "utf-8"
     );
-  }
-
-  await Promise.all(imageDownloads.values());
-
-  for (const [filePath, entry] of generatedApiFiles) {
-    if (missingImages.has(entry.fileName)) {
-      entry.item.imageName = entry.remoteImageName;
-    }
-
-    await fs.promises.writeFile(filePath, JSON.stringify(entry.item), "utf-8");
   }
 }
 
