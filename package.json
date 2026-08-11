@@ -6,7 +6,7 @@
     "dev": "tsc && bun run start",
     "start": "bun dist/main.js",
     "build": "bun run clean && tsc && bun dist/main.js",
-    "clean": "rimraf dist api",
+    "clean": "rimraf dist api img",
     "commit": "git add -A && oco --yes",
     "format": "turbo oxfmt oxlint",
     "oxfmt": "oxfmt --write",
