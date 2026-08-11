@@ -42,16 +42,23 @@ const CONFIG = CATEGORIES.map((category) => ({
   category,
 }));
 
+type ApiItem = {
+  name: string;
+  imageName: string;
+  slug: string;
+};
+
 async function buildCategory(
   inputFile: string,
   outputDir: string,
   fields: (keyof Translatable)[],
   i18nMap: Record<string, Record<Locale, { description: string; name: string }>>
-): Promise<void> {
+): Promise<ApiItem[]> {
   const data: Translatable[] = JSON.parse(
     await fs.promises.readFile(inputFile, "utf-8")
   );
   const used = new Set<string>();
+  const apiItems: ApiItem[] = [];
 
   await fs.promises.mkdir(outputDir, { recursive: true });
 
@@ -89,12 +96,28 @@ async function buildCategory(
     }
     used.add(slug);
 
+    if (
+      typeof item.name !== "string" ||
+      typeof result.imageName !== "string" ||
+      !result.imageName
+    ) {
+      continue;
+    }
+
+    apiItems.push({
+      name: item.name,
+      imageName: result.imageName,
+      slug,
+    });
+
     await fs.promises.writeFile(
       path.join(outputDir, `${slug}.json`),
       JSON.stringify(result),
       "utf-8"
     );
   }
+
+  return apiItems;
 }
 
 async function main(): Promise<void> {
@@ -114,11 +137,27 @@ async function main(): Promise<void> {
     "abilities",
   ];
 
-  await Promise.all(
-    CONFIG.map(({ inputFile, outputDir }) =>
-      buildCategory(inputFile, outputDir, fields, i18nMap)
-    )
+  const results = await Promise.all(
+    CONFIG.map(async ({ inputFile, outputDir, category }) => ({
+      category,
+      items: await buildCategory(inputFile, outputDir, fields, i18nMap),
+    }))
   );
+
+  await fs.promises.mkdir("./api", { recursive: true });
+
+  for (const category of ["Arcanes", "Warframes"] as const) {
+    const result = results.find((entry) => entry.category === category);
+    if (!result) {
+      continue;
+    }
+
+    await fs.promises.writeFile(
+      `./api/${slugify(category)}.json`,
+      JSON.stringify(result.items),
+      "utf-8"
+    );
+  }
 }
 
 main().catch((error) => {
