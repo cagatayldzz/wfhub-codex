@@ -1,0 +1,39 @@
+name: Create Release
+
+on:
+  workflow_run:
+    workflows:
+      - Update Dependencies and Build
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          version="v$(node -p "require('./package.json').version")"
+
+          if git tag --list "$version" | grep -q .; then
+            echo "Release $version already exists."
+            exit 0
+          fi
+
+          gh release create "$version" \
+            --title "$version" \
+            --generate-notes \
+            --target "$(git rev-parse HEAD)"

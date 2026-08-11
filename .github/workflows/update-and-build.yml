@@ -43,6 +43,16 @@ jobs:
         if: steps.dependency_update.outputs.changed == 'true'
         run: bun run build
 
+      - name: Bump package version
+        if: steps.dependency_update.outputs.changed == 'true'
+        run: |
+          if git diff --quiet; then
+            echo "No build changes found."
+            exit 0
+          fi
+
+          npm version patch --no-git-tag-version --force
+
       - name: Commit and Push Updates
         run: |
           if git diff --quiet; then
