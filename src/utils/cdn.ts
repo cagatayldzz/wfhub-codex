@@ -1,2 +1,1 @@
-export const WFCD_CDN =
-  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/";
+export const WFCD_CDN = "https://cdn.warframestat.us/img/";

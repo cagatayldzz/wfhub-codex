@@ -1,10 +1,10 @@
 import fs from "fs";
 import path from "path";
 
+import { WFCD_CDN } from "./utils/cdn";
 import { slugify } from "./utils/slugify";
 
-const REMOTE_IMAGE_BASE_URL =
-  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/img/";
+const REMOTE_IMAGE_BASE_URL = WFCD_CDN;
 const LOCAL_IMAGE_BASE_URL = "https://wfhub-api.cagatayldzz.com/img/";
 const LOCAL_IMAGE_DIR = "./img";
 

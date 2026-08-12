@@ -27,10 +27,34 @@ describe("loadI18nData", () => {
       },
     };
 
-    await fs.promises.writeFile(file, JSON.stringify(payload), "utf-8");
+    try {
+      await fs.promises.writeFile(file, JSON.stringify(payload), "utf-8");
 
-    await expect(loadI18nData(file)).resolves.toEqual(payload);
-    expect(spy).toHaveBeenCalledWith("Loading i18n data...");
-    expect(spy).toHaveBeenCalledWith("i18n data loaded.");
+      await expect(loadI18nData(file)).resolves.toEqual(payload);
+      expect(spy).toHaveBeenCalledWith("Loading i18n data...");
+      expect(spy).toHaveBeenCalledWith("i18n data loaded.");
+    } finally {
+      await fs.promises.rm(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("rejects when the file does not exist", async () => {
+    await expect(
+      loadI18nData("/tmp/wfhub-missing-i18n.json")
+    ).rejects.toThrow();
+  });
+
+  it("rejects malformed JSON", async () => {
+    const dir = await fs.promises.mkdtemp(
+      path.join(os.tmpdir(), "wfhub-codex-")
+    );
+    const file = path.join(dir, "invalid.json");
+
+    try {
+      await fs.promises.writeFile(file, "{invalid", "utf-8");
+      await expect(loadI18nData(file)).rejects.toThrow(SyntaxError);
+    } finally {
+      await fs.promises.rm(dir, { recursive: true, force: true });
+    }
   });
 });

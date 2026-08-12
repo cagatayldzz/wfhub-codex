@@ -1,9 +1,6 @@
 name: Update, Build, Release and Deploy
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -19,7 +16,6 @@ concurrency:
 
 jobs:
   update:
-    if: ${{ github.event_name != 'push' }}
     runs-on: ubuntu-latest
     outputs:
       items_changed: ${{ steps.dependency_update.outputs.items_changed }}
@@ -111,7 +107,7 @@ jobs:
 
   deploy:
     needs: update
-    if: ${{ always() && (github.event_name == 'push' || needs.update.outputs.items_changed == 'true') }}
+    if: ${{ needs.update.outputs.items_changed == 'true' }}
     runs-on: ubuntu-latest
 
     steps:
