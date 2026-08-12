@@ -130,7 +130,7 @@ function downloadImage(imageName: string): Promise<void> {
 
 async function buildCategory(
   inputFile: string,
-  apiOutputDir: string,
+  apiOutputDir: string
 ): Promise<ApiItem[]> {
   const data: RawItem[] = JSON.parse(
     await fs.promises.readFile(inputFile, "utf-8")
@@ -175,8 +175,7 @@ async function buildCategory(
       armor: typeof item.armor === "number" ? item.armor : null,
       stamina: typeof item.stamina === "number" ? item.stamina : null,
       power: typeof item.power === "number" ? item.power : null,
-      masteryReq:
-        typeof item.masteryReq === "number" ? item.masteryReq : null,
+      masteryReq: typeof item.masteryReq === "number" ? item.masteryReq : null,
       sprintSpeed:
         typeof item.sprintSpeed === "number" ? item.sprintSpeed : null,
       abilities: Array.isArray(item.abilities) ? item.abilities : [],
@@ -189,7 +188,7 @@ async function buildCategory(
     };
 
     apiItems.push(listItem);
-    downloadImage(item.imageName);
+    void downloadImage(item.imageName);
 
     generatedApiFiles.set(path.join(apiOutputDir, `${slug}.json`), {
       item: detailItem,
