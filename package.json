@@ -1,6 +1,6 @@
 {
   "name": "wfhub-codex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/main.js",
   "scripts": {
     "dev": "tsc && bun run start",
@@ -14,7 +14,7 @@
     "test": "vitest run src/test"
   },
   "dependencies": {
-    "@wfcd/items": "^1.1275.44"
+    "@wfcd/items": "^1.1275.46"
   },
   "devDependencies": {
     "@types/bun": "^1.3.14",
