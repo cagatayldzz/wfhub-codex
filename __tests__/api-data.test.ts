@@ -4,9 +4,6 @@ import * as path from "node:path";
 import { describe, expect, it } from "vitest";
 
 const API_ROOT = path.resolve("api");
-const IMAGE_ROOT = path.resolve("img");
-const LOCAL_IMAGE_PREFIX = "https://wfhub-api.cagatayldzz.com/img/";
-
 function jsonFiles(directory: string): string[] {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
     const fullPath = path.join(directory, entry.name);
@@ -16,10 +13,6 @@ function jsonFiles(directory: string): string[] {
         ? [fullPath]
         : [];
   });
-}
-
-function imageFileFromUrl(imageName: string): string {
-  return path.join(IMAGE_ROOT, path.basename(imageName.split("?")[0]));
 }
 
 describe("generated API data", () => {
@@ -35,28 +28,23 @@ describe("generated API data", () => {
     }
   });
 
-  it("uses local CDN URLs for every generated item image", () => {
+  it("uses the WFCD CDN for every generated item image", () => {
     let itemCount = 0;
-    const localImagePaths: string[] = [];
     for (const file of files) {
       const value = JSON.parse(fs.readFileSync(file, "utf8"));
       const records = Array.isArray(value) ? value : [value];
       for (const record of records) {
         if (typeof record?.imageName !== "string") continue;
         itemCount++;
-        expect(record.imageName).toMatch(/^https:\/\//);
-        if (record.imageName.startsWith(LOCAL_IMAGE_PREFIX)) {
-          localImagePaths.push(imageFileFromUrl(record.imageName));
-        }
+        expect(record.imageName).toMatch(
+          /^https:\/\/cdn\.warframestat\.us\/img\/.+\.(png|jpg|jpeg|webp)$/
+        );
       }
-    }
-    for (const imagePath of localImagePaths) {
-      expect(fs.existsSync(imagePath)).toBe(true);
     }
     expect(itemCount).toBeGreaterThan(1000);
   });
 
-  it("uses local CDN URLs and existing files for every ability image", () => {
+  it("uses the WFCD CDN for every ability image", () => {
     let abilityCount = 0;
     for (const file of files) {
       const value = JSON.parse(fs.readFileSync(file, "utf8"));
@@ -65,9 +53,8 @@ describe("generated API data", () => {
         if (typeof ability?.imageName !== "string") continue;
         abilityCount++;
         expect(ability.imageName).toMatch(
-          /^https:\/\/wfhub-api\.cagatayldzz\.com\/img\//
+          /^https:\/\/cdn\.warframestat\.us\/img\/.+\.(png|jpg|jpeg|webp)$/
         );
-        expect(fs.existsSync(imageFileFromUrl(ability.imageName))).toBe(true);
       }
     }
     expect(abilityCount).toBeGreaterThan(100);

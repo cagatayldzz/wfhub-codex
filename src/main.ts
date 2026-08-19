@@ -5,8 +5,6 @@ import { WFCD_CDN } from "./utils/cdn";
 import { slugify } from "./utils/slugify";
 
 const REMOTE_IMAGE_BASE_URL = WFCD_CDN;
-const LOCAL_IMAGE_BASE_URL = "https://wfhub-api.cagatayldzz.com/img/";
-const LOCAL_IMAGE_DIR = "./img";
 
 const CATEGORIES = [
   "Arcanes",
@@ -75,15 +73,10 @@ type RawAbility = Record<string, unknown> & {
   imageName?: unknown;
 };
 
-const imageDownloads = new Map<string, Promise<void>>();
-const missingImages = new Set<string>();
 const generatedApiFiles = new Map<
   string,
   {
     item: ApiDetailItem;
-    listItem: ApiItem;
-    remoteImageName: string;
-    fileName: string;
   }
 >();
 
@@ -91,49 +84,8 @@ export function getImageFileName(imageName: string): string {
   return path.basename(imageName.split("?")[0]);
 }
 
-export function getLocalImageUrl(imageName: string): string {
-  return `${LOCAL_IMAGE_BASE_URL}${getImageFileName(imageName)}`;
-}
-
-function downloadImage(imageName: string): Promise<void> {
-  const fileName = getImageFileName(imageName);
-  const existingDownload = imageDownloads.get(fileName);
-  if (existingDownload) {
-    return existingDownload;
-  }
-
-  const download = (async () => {
-    const outputPath = path.join(LOCAL_IMAGE_DIR, fileName);
-    try {
-      await fs.promises.access(outputPath);
-      return;
-    } catch {
-      // The image is not cached yet.
-    }
-
-    const response = await fetch(
-      `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(fileName)}`
-    );
-    if (!response.ok) {
-      if (response.status === 404) {
-        missingImages.add(fileName);
-        console.warn(`Image not found in WFCD assets: ${fileName}`);
-        return;
-      }
-
-      throw new Error(
-        `Unable to download image ${fileName}: ${response.status} ${response.statusText}`
-      );
-    }
-
-    await fs.promises.writeFile(
-      outputPath,
-      Buffer.from(await response.arrayBuffer())
-    );
-  })();
-
-  imageDownloads.set(fileName, download);
-  return download;
+export function getImageUrl(imageName: string): string {
+  return `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(getImageFileName(imageName))}`;
 }
 
 function prepareAbilities(abilities: unknown[]): unknown[] {
@@ -148,38 +100,12 @@ function prepareAbilities(abilities: unknown[]): unknown[] {
     }
 
     const rawImageName = (ability as RawAbility).imageName as string;
-    const fileName = getImageFileName(rawImageName);
-    void downloadImage(rawImageName);
 
     return {
       ...(ability as RawAbility),
-      imageName: getLocalImageUrl(fileName),
+      imageName: getImageUrl(rawImageName),
     };
   });
-}
-
-function restoreMissingAbilityImages(value: unknown): unknown {
-  if (Array.isArray(value)) {
-    return value.map(restoreMissingAbilityImages);
-  }
-
-  if (typeof value !== "object" || value === null) {
-    return value;
-  }
-
-  const object = value as Record<string, unknown>;
-  if (typeof object.imageName === "string") {
-    const fileName = getImageFileName(object.imageName);
-    if (missingImages.has(fileName)) {
-      object.imageName = `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(fileName)}`;
-    }
-  }
-
-  for (const child of Object.values(object)) {
-    restoreMissingAbilityImages(child);
-  }
-
-  return object;
 }
 
 async function buildCategory(
@@ -193,7 +119,6 @@ async function buildCategory(
   const apiItems: ApiItem[] = [];
 
   await fs.promises.mkdir(apiOutputDir, { recursive: true });
-  await fs.promises.mkdir(LOCAL_IMAGE_DIR, { recursive: true });
 
   for (const item of data) {
     if (
@@ -210,12 +135,9 @@ async function buildCategory(
     }
     used.add(slug);
 
-    const remoteImageName = item.imageName.startsWith("http")
-      ? item.imageName
-      : `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(item.imageName)}`;
     const listItem: ApiItem = {
       name: item.name,
-      imageName: getLocalImageUrl(item.imageName),
+      imageName: getImageUrl(item.imageName),
       slug,
     };
 
@@ -244,13 +166,8 @@ async function buildCategory(
     };
 
     apiItems.push(listItem);
-    void downloadImage(item.imageName);
-
     generatedApiFiles.set(path.join(apiOutputDir, `${slug}.json`), {
       item: detailItem,
-      listItem,
-      remoteImageName,
-      fileName: getImageFileName(item.imageName),
     });
   }
 
@@ -267,18 +184,7 @@ async function main(): Promise<void> {
 
   await fs.promises.mkdir("./api", { recursive: true });
 
-  await Promise.all(imageDownloads.values());
-
   for (const [filePath, entry] of generatedApiFiles) {
-    if (missingImages.has(entry.fileName)) {
-      entry.item.imageName = entry.remoteImageName;
-      entry.listItem.imageName = entry.remoteImageName;
-    }
-
-    entry.item.abilities = restoreMissingAbilityImages(
-      entry.item.abilities
-    ) as unknown[];
-
     await fs.promises.writeFile(filePath, JSON.stringify(entry.item), "utf-8");
   }
 

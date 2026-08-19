@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { getImageFileName, getLocalImageUrl } from "../src/main";
+import { getImageFileName, getImageUrl } from "../src/main";
 
 describe("image URL helpers", () => {
   it.each([
@@ -12,9 +12,9 @@ describe("image URL helpers", () => {
     expect(getImageFileName(input)).toBe(expected);
   });
 
-  it("normalizes both remote URLs and filenames to the project CDN", () => {
-    expect(getLocalImageUrl("https://cdn.example.test/ArchLine.png?v=1")).toBe(
-      "https://wfhub-api.cagatayldzz.com/img/ArchLine.png"
+  it("normalizes both remote URLs and filenames to the WFCD CDN", () => {
+    expect(getImageUrl("https://cdn.example.test/ArchLine.png?v=1")).toBe(
+      "https://cdn.warframestat.us/img/ArchLine.png"
     );
   });
 
@@ -22,8 +22,8 @@ describe("image URL helpers", () => {
     expect(getImageFileName("https://cdn.example.test/icon.webp")).toBe(
       "icon.webp"
     );
-    expect(getLocalImageUrl("icon.jpg")).toMatch(
-      /^https:\/\/wfhub-api\.cagatayldzz\.com\/img\/icon\.jpg$/
+    expect(getImageUrl("icon.jpg")).toMatch(
+      /^https:\/\/cdn\.warframestat\.us\/img\/icon\.jpg$/
     );
   });
 });

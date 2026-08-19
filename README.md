@@ -1,6 +1,13 @@
 # WFHub CDN
 
-WFHub CDN provides a convenient API and image CDN for Warframe item data.
+[![](https://data.jsdelivr.com/v1/package/gh/cagatayldzz/wfhub-codex/badge)](https://www.jsdelivr.com/package/gh/cagatayldzz/wfhub-codex)
+
+WFHub CDN provides a convenient API for Warframe item data. Item and ability
+images are referenced directly from the WFCD image CDN:
+`https://cdn.warframestat.us/img/{filename}`.
+
+The repository does not store or download image files locally. Running the
+build only regenerates the JSON API data from `@wfcd/items`.
 
 ## Third-party services and attribution
 
