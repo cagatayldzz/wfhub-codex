@@ -1,8 +1,8 @@
-import { WFCD_CDN } from "./utils/cdn";
-import { slugify } from "./utils/slugify";
-
 import fs from "node:fs";
 import path from "node:path";
+
+import { WFCD_CDN } from "./utils/cdn";
+import { slugify } from "./utils/slugify";
 
 const REMOTE_IMAGE_BASE_URL = WFCD_CDN;
 const LOCAL_IMAGE_BASE_URL = "https://wfhub-api.cagatayldzz.com/img/";

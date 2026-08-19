@@ -1,5 +1,6 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
+
 import { describe, expect, it } from "vitest";
 
 const API_ROOT = path.resolve("api");
@@ -36,6 +37,7 @@ describe("generated API data", () => {
 
   it("uses local CDN URLs for every generated item image", () => {
     let itemCount = 0;
+    const localImagePaths: string[] = [];
     for (const file of files) {
       const value = JSON.parse(fs.readFileSync(file, "utf8"));
       const records = Array.isArray(value) ? value : [value];
@@ -44,9 +46,12 @@ describe("generated API data", () => {
         itemCount++;
         expect(record.imageName).toMatch(/^https:\/\//);
         if (record.imageName.startsWith(LOCAL_IMAGE_PREFIX)) {
-          expect(fs.existsSync(imageFileFromUrl(record.imageName))).toBe(true);
+          localImagePaths.push(imageFileFromUrl(record.imageName));
         }
       }
+    }
+    for (const imagePath of localImagePaths) {
+      expect(fs.existsSync(imagePath)).toBe(true);
     }
     expect(itemCount).toBeGreaterThan(1000);
   });

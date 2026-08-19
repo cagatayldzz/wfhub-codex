@@ -8,11 +8,11 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
-    "rootDir": "./src",
+    "rootDir": ".",
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
-    "types": ["bun"]
+    "types": ["bun", "node"]
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "__tests__/**/*.ts", "*.config.ts"],
   "exclude": ["node_modules", "dist"]
 }

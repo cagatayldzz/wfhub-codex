@@ -7,12 +7,14 @@ export default defineConfig({
   semi: true,
   singleQuote: false,
   trailingComma: "es5",
+  endOfLine: "lf",
+  insertFinalNewline: true,
   ignorePatterns: ["dist/**", "data/**", "api/**", "swagger/**"],
   sortImports: {
     customGroups: [
       {
         groupName: "node",
-        elementNamePattern: ["fs", "path"],
+        elementNamePattern: ["node:*", "fs", "path"],
       },
       {
         groupName: "wfcd",

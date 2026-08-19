@@ -1,6 +1,7 @@
 import * as fs from "node:fs";
 import * as os from "node:os";
 import * as path from "node:path";
+
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 import { loadI18nData } from "../src/utils/i18n";
@@ -48,12 +49,12 @@ describe("loadI18nData", () => {
   it("rejects missing files", async () => {
     await expect(
       loadI18nData(path.join(os.tmpdir(), "wfhub-no-such-i18n-file.json"))
-    ).rejects.toThrow();
+    ).rejects.toThrow(/ENOENT/);
   });
 
   it("rejects malformed JSON", async () => {
-    await expect(loadI18nData(await createFixture("{invalid"))).rejects.toThrow(
-      SyntaxError
-    );
+    await expect(
+      loadI18nData(await createFixture("{invalid"))
+    ).rejects.toBeInstanceOf(SyntaxError);
   });
 });
