@@ -1,8 +1,8 @@
-import fs from "fs";
-import path from "path";
-
 import { WFCD_CDN } from "./utils/cdn";
 import { slugify } from "./utils/slugify";
+
+import fs from "node:fs";
+import path from "node:path";
 
 const REMOTE_IMAGE_BASE_URL = WFCD_CDN;
 const LOCAL_IMAGE_BASE_URL = "https://wfhub-api.cagatayldzz.com/img/";
@@ -71,6 +71,10 @@ type RawItem = Record<string, unknown> & {
   imageName?: unknown;
 };
 
+type RawAbility = Record<string, unknown> & {
+  imageName?: unknown;
+};
+
 const imageDownloads = new Map<string, Promise<void>>();
 const missingImages = new Set<string>();
 const generatedApiFiles = new Map<
@@ -83,8 +87,12 @@ const generatedApiFiles = new Map<
   }
 >();
 
-function getImageFileName(imageName: string): string {
+export function getImageFileName(imageName: string): string {
   return path.basename(imageName.split("?")[0]);
+}
+
+export function getLocalImageUrl(imageName: string): string {
+  return `${LOCAL_IMAGE_BASE_URL}${getImageFileName(imageName)}`;
 }
 
 function downloadImage(imageName: string): Promise<void> {
@@ -128,6 +136,52 @@ function downloadImage(imageName: string): Promise<void> {
   return download;
 }
 
+function prepareAbilities(abilities: unknown[]): unknown[] {
+  return abilities.map((ability) => {
+    if (
+      typeof ability !== "object" ||
+      ability === null ||
+      typeof (ability as RawAbility).imageName !== "string" ||
+      !(ability as RawAbility).imageName
+    ) {
+      return ability;
+    }
+
+    const rawImageName = (ability as RawAbility).imageName as string;
+    const fileName = getImageFileName(rawImageName);
+    void downloadImage(rawImageName);
+
+    return {
+      ...(ability as RawAbility),
+      imageName: getLocalImageUrl(fileName),
+    };
+  });
+}
+
+function restoreMissingAbilityImages(value: unknown): unknown {
+  if (Array.isArray(value)) {
+    return value.map(restoreMissingAbilityImages);
+  }
+
+  if (typeof value !== "object" || value === null) {
+    return value;
+  }
+
+  const object = value as Record<string, unknown>;
+  if (typeof object.imageName === "string") {
+    const fileName = getImageFileName(object.imageName);
+    if (missingImages.has(fileName)) {
+      object.imageName = `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(fileName)}`;
+    }
+  }
+
+  for (const child of Object.values(object)) {
+    restoreMissingAbilityImages(child);
+  }
+
+  return object;
+}
+
 async function buildCategory(
   inputFile: string,
   apiOutputDir: string
@@ -161,7 +215,7 @@ async function buildCategory(
       : `${REMOTE_IMAGE_BASE_URL}${encodeURIComponent(item.imageName)}`;
     const listItem: ApiItem = {
       name: item.name,
-      imageName: `${LOCAL_IMAGE_BASE_URL}${getImageFileName(item.imageName)}`,
+      imageName: getLocalImageUrl(item.imageName),
       slug,
     };
 
@@ -178,7 +232,9 @@ async function buildCategory(
       masteryReq: typeof item.masteryReq === "number" ? item.masteryReq : null,
       sprintSpeed:
         typeof item.sprintSpeed === "number" ? item.sprintSpeed : null,
-      abilities: Array.isArray(item.abilities) ? item.abilities : [],
+      abilities: Array.isArray(item.abilities)
+        ? prepareAbilities(item.abilities)
+        : [],
       sprint: typeof item.sprint === "number" ? item.sprint : null,
       wikiaUrl: typeof item.wikiaUrl === "string" ? item.wikiaUrl : null,
       releaseDate:
@@ -219,6 +275,10 @@ async function main(): Promise<void> {
       entry.listItem.imageName = entry.remoteImageName;
     }
 
+    entry.item.abilities = restoreMissingAbilityImages(
+      entry.item.abilities
+    ) as unknown[];
+
     await fs.promises.writeFile(filePath, JSON.stringify(entry.item), "utf-8");
   }
 
@@ -231,7 +291,9 @@ async function main(): Promise<void> {
   }
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (import.meta.main) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}

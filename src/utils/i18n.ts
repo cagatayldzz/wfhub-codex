@@ -1,6 +1,6 @@
-import * as fs from "fs";
-
 import { Locale } from "@wfcd/items";
+
+import * as fs from "node:fs";
 
 export async function loadI18nData(
   i18nFile: string

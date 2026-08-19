@@ -1,17 +1,19 @@
 {
   "name": "wfhub-codex",
   "version": "0.0.8",
+  "type": "module",
   "main": "dist/main.js",
   "scripts": {
-    "dev": "tsc && bun run start",
+    "dev": "bun build ./src/main.ts --outdir ./dist --target bun && bun run start",
     "start": "bun dist/main.js",
-    "build": "bun run clean && tsc && bun dist/main.js",
+    "build": "bun run clean && bun build ./src/main.ts --outdir ./dist --target bun && bun dist/main.js",
     "clean": "rimraf dist api img",
     "commit": "git add -A && oco --yes",
     "format": "turbo oxfmt oxlint",
     "oxfmt": "oxfmt --write",
     "oxlint": "oxlint --fix",
-    "test": "vitest run src/test"
+    "test": "vitest run __tests__",
+    "typecheck": "bunx tsc --noEmit"
   },
   "dependencies": {
     "@wfcd/items": "^1.1275.57"

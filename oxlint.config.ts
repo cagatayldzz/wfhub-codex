@@ -1,0 +1,23 @@
+import { defineConfig } from "oxlint";
+
+export default defineConfig({
+  options: {
+    typeAware: true,
+    typeCheck: true,
+  },
+  ignorePatterns: ["dist/**"],
+  plugins: ["typescript"],
+  rules: {
+    "no-empty-function": "error",
+    "no-constant-binary-expression": "error",
+    "no-constant-condition": "error",
+    "no-unused-expressions": "error",
+    "no-duplicate-imports": "error",
+    "no-cond-assign": "error",
+    "no-unreachable": "error",
+    "no-sequences": "error",
+    "typescript/no-explicit-any": "off",
+    "typescript/no-namespace": "off",
+    "typescript/ban-types": "off",
+  },
+});
